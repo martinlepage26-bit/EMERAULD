@@ -2225,6 +2225,16 @@
     "count": 1
   },
   {
+    "source": "Agent Distillation Pipeline",
+    "target": "Host Environment — pharos-corpus-runner-01",
+    "count": 3
+  },
+  {
+    "source": "Agent Distillation Pipeline",
+    "target": "Personal and Projects MOC",
+    "count": 1
+  },
+  {
     "source": "Agent Ecosystem Audit — 2026-04-23",
     "target": "Argus",
     "count": 1
@@ -4013,6 +4023,21 @@
     "source": "CDPDJ Complaint — Lepage v Calian and Novartis",
     "target": "bridges/2025 - AI Fundamentals for Business Professionals Notebook 2",
     "count": 1
+  },
+  {
+    "source": "CLAUDEX — AI Dialogue Archive",
+    "target": "Host Environment — pharos-corpus-runner-01",
+    "count": 2
+  },
+  {
+    "source": "CLAUDEX — AI Dialogue Archive",
+    "target": "PHAROS AI Lineage — Source of Truth",
+    "count": 2
+  },
+  {
+    "source": "CLAUDEX — AI Dialogue Archive",
+    "target": "PHAROS Method — Technical Reference",
+    "count": 2
   },
   {
     "source": "CLI-Anything — Agent Harness for Tool Integration",
@@ -5987,6 +6012,11 @@
   {
     "source": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
     "target": "The Gift — Mauss (Obligation, Reciprocity, Hau)",
+    "count": 1
+  },
+  {
+    "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
+    "target": "CLAUDEX — AI Dialogue Archive",
     "count": 1
   },
   {
@@ -8882,6 +8912,11 @@
   {
     "source": "Fisher King Hub — Project Recovery Map",
     "target": "projects/Echo — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "Fisher King Hub — Project Recovery Map",
+    "target": "projects/GAIA — Fisher King Project State",
     "count": 1
   },
   {
@@ -12906,6 +12941,11 @@
   },
   {
     "source": "Healing the Fisher King Project Note Templates",
+    "target": "projects/GAIA — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "Healing the Fisher King Project Note Templates",
     "target": "projects/Glitching the Sacred — Fisher King Project State",
     "count": 1
   },
@@ -14387,6 +14427,26 @@
   {
     "source": "Home",
     "target": "memory",
+    "count": 1
+  },
+  {
+    "source": "Host Environment — pharos-corpus-runner-01",
+    "target": "CLAUDEX — AI Dialogue Archive",
+    "count": 1
+  },
+  {
+    "source": "Host Environment — pharos-corpus-runner-01",
+    "target": "GAIA — Earth-Calendar App and Evidence-Aware Positioning",
+    "count": 1
+  },
+  {
+    "source": "Host Environment — pharos-corpus-runner-01",
+    "target": "PHAROS AI Lineage — Source of Truth",
+    "count": 2
+  },
+  {
+    "source": "Host Environment — pharos-corpus-runner-01",
+    "target": "VoiceBridge Foundation",
     "count": 1
   },
   {
@@ -18942,6 +19002,11 @@
   {
     "source": "Master Project Tracker — 2026",
     "target": "projects/Echo — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "Master Project Tracker — 2026",
+    "target": "projects/GAIA — Fisher King Project State",
     "count": 1
   },
   {
@@ -25312,6 +25377,11 @@
   {
     "source": "Projects Hub",
     "target": "projects/Echo — Fisher King Project State",
+    "count": 2
+  },
+  {
+    "source": "Projects Hub",
+    "target": "projects/GAIA — Fisher King Project State",
     "count": 2
   },
   {
@@ -37800,6 +37870,16 @@
     "count": 3
   },
   {
+    "source": "VoiceBridge Foundation",
+    "target": "Host Environment — pharos-corpus-runner-01",
+    "count": 2
+  },
+  {
+    "source": "VoiceBridge Foundation",
+    "target": "Personal and Projects MOC",
+    "count": 2
+  },
+  {
     "source": "Voodoo Doll as Archival Problem — Version Genealogy",
     "target": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "count": 1
@@ -39917,6 +39997,26 @@
   {
     "source": "projects/Dr. Sort — Fisher King Project State",
     "target": "LOTUS Premium Spec",
+    "count": 1
+  },
+  {
+    "source": "projects/GAIA — Fisher King Project State",
+    "target": "Breath of the Astral Year — Astrology Monograph",
+    "count": 2
+  },
+  {
+    "source": "projects/GAIA — Fisher King Project State",
+    "target": "GAIA — Earth-Calendar App and Evidence-Aware Positioning",
+    "count": 2
+  },
+  {
+    "source": "projects/GAIA — Fisher King Project State",
+    "target": "Livre des Ombres — Martin's Magical System (1996-2026)",
+    "count": 2
+  },
+  {
+    "source": "projects/GAIA — Fisher King Project State",
+    "target": "Personal and Projects MOC",
     "count": 1
   },
   {

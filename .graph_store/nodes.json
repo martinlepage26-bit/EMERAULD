@@ -477,6 +477,21 @@
     "backlinks": 29
   },
   {
+    "id": "Agent Distillation Pipeline",
+    "title": "Agent Distillation Pipeline",
+    "path": "wiki/Agent Distillation Pipeline.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "agent distillation",
+      "distillation",
+      "student models"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 2,
+    "backlinks": 0
+  },
+  {
     "id": "Agent Ecosystem Audit — 2026-04-23",
     "title": "Agent Ecosystem Audit — 2026-04-23",
     "path": "wiki/Agent Ecosystem Audit — 2026-04-23.md",
@@ -864,7 +879,7 @@
     "aliases": [],
     "outlinks": 29,
     "unique_outlinks": 19,
-    "backlinks": 57
+    "backlinks": 59
   },
   {
     "id": "Breath of the Astral Year — Version Genealogy",
@@ -926,6 +941,21 @@
     "outlinks": 14,
     "unique_outlinks": 11,
     "backlinks": 33
+  },
+  {
+    "id": "CLAUDEX — AI Dialogue Archive",
+    "title": "CLAUDEX — AI Dialogue Archive",
+    "path": "wiki/CLAUDEX — AI Dialogue Archive.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI council archive",
+      "CLAUDEX",
+      "dialogue archive"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 3,
+    "backlinks": 2
   },
   {
     "id": "CLI-Anything — Agent Harness for Tool Integration",
@@ -1474,8 +1504,8 @@
     "type": "wiki",
     "status": "active",
     "aliases": [],
-    "outlinks": 12,
-    "unique_outlinks": 7,
+    "outlinks": 13,
+    "unique_outlinks": 8,
     "backlinks": 6
   },
   {
@@ -2065,8 +2095,8 @@
       "Percephal Map",
       "Project Recovery Map"
     ],
-    "outlinks": 31,
-    "unique_outlinks": 22,
+    "outlinks": 32,
+    "unique_outlinks": 23,
     "backlinks": 6
   },
   {
@@ -2180,7 +2210,7 @@
     ],
     "outlinks": 19,
     "unique_outlinks": 11,
-    "backlinks": 15
+    "backlinks": 18
   },
   {
     "id": "GSD Tier 1 — Core Workflow Skills Hub",
@@ -2768,8 +2798,8 @@
     "type": "unknown",
     "status": "unknown",
     "aliases": [],
-    "outlinks": 16,
-    "unique_outlinks": 14,
+    "outlinks": 17,
+    "unique_outlinks": 15,
     "backlinks": 3
   },
   {
@@ -2862,6 +2892,22 @@
     "outlinks": 255,
     "unique_outlinks": 209,
     "backlinks": 36
+  },
+  {
+    "id": "Host Environment — pharos-corpus-runner-01",
+    "title": "Host Environment — pharos-corpus-runner-01",
+    "path": "wiki/Host Environment — pharos-corpus-runner-01.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "GCE host",
+      "home/martin",
+      "pharos-corpus-runner-01",
+      "server"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 4,
+    "backlinks": 7
   },
   {
     "id": "How French Canadians became White Folks — Scott 2016 (Race in Quebec)",
@@ -3342,7 +3388,7 @@
     ],
     "outlinks": 17,
     "unique_outlinks": 12,
-    "backlinks": 12
+    "backlinks": 14
   },
   {
     "id": "Local Hardware and Discovery Snapshot — Laptop A",
@@ -3727,8 +3773,8 @@
     "type": "unknown",
     "status": "unknown",
     "aliases": [],
-    "outlinks": 65,
-    "unique_outlinks": 51,
+    "outlinks": 66,
+    "unique_outlinks": 52,
     "backlinks": 44
   },
   {
@@ -4190,7 +4236,7 @@
     ],
     "outlinks": 21,
     "unique_outlinks": 11,
-    "backlinks": 41
+    "backlinks": 45
   },
   {
     "id": "PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
@@ -4398,7 +4444,7 @@
     ],
     "outlinks": 31,
     "unique_outlinks": 17,
-    "backlinks": 99
+    "backlinks": 101
   },
   {
     "id": "PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)",
@@ -4777,7 +4823,7 @@
     "aliases": [],
     "outlinks": 160,
     "unique_outlinks": 139,
-    "backlinks": 64
+    "backlinks": 68
   },
   {
     "id": "Phase 1 Governance Formation Sequence",
@@ -4948,8 +4994,8 @@
     "type": "hub",
     "status": "unknown",
     "aliases": [],
-    "outlinks": 32,
-    "unique_outlinks": 18,
+    "outlinks": 34,
+    "unique_outlinks": 19,
     "backlinks": 1
   },
   {
@@ -7084,6 +7130,20 @@
     "backlinks": 13
   },
   {
+    "id": "VoiceBridge Foundation",
+    "title": "VoiceBridge Foundation",
+    "path": "wiki/VoiceBridge Foundation.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AAC bridge fund",
+      "VoiceBridge"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 2,
+    "backlinks": 1
+  },
+  {
     "id": "Voodoo Doll as Archival Problem — Version Genealogy",
     "title": "Voodoo Doll as Archival Problem — Version Genealogy",
     "path": "wiki/Voodoo Doll as Archival Problem — Version Genealogy.md",
@@ -8043,6 +8103,17 @@
     "aliases": [],
     "outlinks": 0,
     "unique_outlinks": 0,
+    "backlinks": 5
+  },
+  {
+    "id": "projects/GAIA — Fisher King Project State",
+    "title": "GAIA — Fisher King Project State",
+    "path": "projects/GAIA — Fisher King Project State.md",
+    "type": "project",
+    "status": "active",
+    "aliases": [],
+    "outlinks": 7,
+    "unique_outlinks": 4,
     "backlinks": 5
   },
   {

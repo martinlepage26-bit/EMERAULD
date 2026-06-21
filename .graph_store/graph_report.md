@@ -1,36 +1,37 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-06-21T08:27:29Z
+Built: 2026-06-21T08:56:06Z
 Corpus: vector_store paths.json wiki entries
 
 ## Summary
 
-- Nodes: 896
-- Directed edges: 8652
-- Link mentions: 15675
-- Unresolved wikilinks: 3300
+- Nodes: 901
+- Directed edges: 8672
+- Link mentions: 15707
+- Unresolved wikilinks: 3299
 - Connected components: 13
-- Largest component: 884
-- Zero-backlink notes: 55
-- One-backlink notes: 104
-- Two-backlink notes: 134
+- Largest component: 889
+- Zero-backlink notes: 56
+- One-backlink notes: 105
+- Two-backlink notes: 135
 
 ## Backlink Histogram
 
-- 0: 55
-- 1: 104
-- 101+: 25
+- 0: 56
+- 1: 105
+- 101+: 26
 - 11-20: 113
-- 2: 134
+- 2: 135
 - 21-50: 105
 - 3-4: 106
-- 5-6: 109
-- 51-100: 31
-- 7-10: 114
+- 5-6: 110
+- 51-100: 30
+- 7-10: 115
 
 ## Low-Backlink Notes
 
-### Zero backlink (55)
+### Zero backlink (56)
+- [[Agent Distillation Pipeline]]
 - [[PHAROS]]
 - [[Second Self System — Identity Kernel and Agent Routing Architecture]]
 - [[Trismégiste]]
@@ -87,7 +88,7 @@ Corpus: vector_store paths.json wiki entries
 - [[genealogy/Martin Voice Spec — Version Genealogy]]
 - [[raw-sources/2026-05-13/Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source Note]]
 
-### One backlink (104)
+### One backlink (105)
 - [[Agent Logs Hub]]
 - [[Daily Dashboard]]
 - [[Knowledge Gaps]]
@@ -95,6 +96,7 @@ Corpus: vector_store paths.json wiki entries
 - [[Projects Hub]]
 - [[Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]
 - [[Queering Neo-Pagan Magic — FINAL FINAL PAPER]]
+- [[VoiceBridge Foundation]]
 - [[Workflows Hub]]
 - [[archive/CO-EQUAL-AUTHORITY-DECISION]]
 - [[archive/Ethical Ground Values]]
@@ -187,13 +189,13 @@ Corpus: vector_store paths.json wiki entries
 - [[skills/gsd-ui-review]]
 - [[skills/gsd-undo]]
 - [[skills/gsd-update]]
-- [[skills/gsd-validate-phase]]
-- ... 4 more
+- ... 5 more
 
-### Two backlink (134)
+### Two backlink (135)
 - [[2026 - Mauss - The Gift]]
 - [[ACTOR Framework — Agent vs Chatbot Decision Tool]]
 - [[App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]
+- [[CLAUDEX — AI Dialogue Archive]]
 - [[Chrome Extension Monetization - Policy and Product Options]]
 - [[Cultural and Lyric Corpus Memo — 2026-05-14]]
 - [[Governance and Platform Signals Memo — 2026-05-14]]
@@ -290,12 +292,11 @@ Corpus: vector_store paths.json wiki entries
 - [[skills/pharos-receipts-brief]]
 - [[skills/pharos-repurposer]]
 - [[skills/pharos-signal-report]]
-- [[skills/playwright]]
-- ... 34 more
+- ... 35 more
 
 ## Components
 
-- Component 1: 884 notes; seed [[2026 - Mauss - The Gift]]
+- Component 1: 889 notes; seed [[2026 - Mauss - The Gift]]
 - Component 2: 1 notes; seed [[Workspace Cleanup Ledger — 2026-05-31]]
 - Component 3: 1 notes; seed [[archive/Orphan Index — Artifacts And Archives — 2026-05-06]]
 - Component 4: 1 notes; seed [[archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]
@@ -315,6 +316,7 @@ Corpus: vector_store paths.json wiki entries
 - `raw/intake-report-20260513.json`: 20
 - `HISTORY`: 14
 - `ecosystem`: 7
+- `EMERAULD — Vault and Knowledge Graph`: 7
 - `memory/clients/Sante-France`: 7
 - `method`: 7
 - `CLAUDE`: 7
@@ -330,11 +332,11 @@ Corpus: vector_store paths.json wiki entries
 - `readme`: 5
 - `memory/clients/ExterminationDG`: 5
 - `EXTERNAL DATA REGISTRY (Phase 1 Build)`: 5
-- `GAIA — Fisher King Project State`: 5
 - `Martin Lepage, PhD — External Review Profile (Offline-Ready)`: 5
 - `Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research`: 5
 - `“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal`: 4
 - `Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members`: 4
+- `GAIA Positioning Statement — Evidence-Aware Version`: 4
 - `The Circle Remains Open Toward a Queer Sociology of the Sacred (2)`: 4
 - `Readme`: 4
 - `Complete Paper List — Martin Lepage`: 4
@@ -344,7 +346,6 @@ Corpus: vector_store paths.json wiki entries
 - `Governance by Denial — Revised Working Draft`: 4
 - `skill`: 4
 - `AI Agent Operations Manager — Credential Path and Portfolio`: 4
-- `EMERAULD — Vault and Knowledge Graph`: 4
 - `argus.agent`: 3
 - `HELIX test Epstein`: 3
 - `HELIX test CC`: 3
