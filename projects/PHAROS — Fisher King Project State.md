@@ -74,5 +74,5 @@ Heal. Collapse the current work into one near-term operational gate: make PHAROS
 - Named contacts for Desjardins/BNC/Beneva still incomplete.
 
 ## Next Synthesis Move
-Run a 60-minute outreach-readiness closure: verify/create Calendly, decide whether EN-only launch is acceptable, name three contacts, and send one Day 0 outreach batch. Defer non-blocking method expansion until after that market contact.
+**Council decision (2026-06-21):** HELIX outreach goes first (single action). PHAROS follows with a 60-minute operator sprint: verify Calendly, set analytics status, decide EN/FR launch, create Stripe links, name 3 contacts, send one outreach batch. Do this within the same week as HELIX outreach.
 

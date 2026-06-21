@@ -69,5 +69,5 @@ Heal. Treat the first sale as protocol + expert judgment + deliverable, not as a
 - Stripe/legal/domain tasks are useful launch gates, but secondary to relationship activation.
 
 ## Next Synthesis Move
-Name one human for the first $5K diagnostic. Use the existing short message from [[HELIX — Value Proposition and Buyer Profile]], send it, and record the outreach result before touching backend architecture.
+**Council decision (2026-06-21):** HELIX is the tighter 24h executable. Name one buyer — Humania or Koios are confirmed in prospect sweeps. Use the existing short message from [[HELIX — Value Proposition and Buyer Profile]], send it today, record result. Do not touch backend until outreach is sent.
 
