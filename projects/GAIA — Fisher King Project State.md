@@ -17,34 +17,41 @@ tags:
 active
 
 ## Core Question
-How do I move GAIA from a well-positioned concept with a strong elemental substrate and evidence-aware editorial voice into an actual product with a build decision, a first user surface, and a release path?
+GAIA is built (v1.6, Expo mobile app, bilingual FR/EN, AI readings via Claude, shareable PNG cards, 39/39 tests passing). The wound is: what is the post-build role? App store submission, soft launch, public release, or hold?
 
 ## Why It Matters Now
-GAIA has a clear product philosophy, a positioning statement, a theoretical framework, and a connection to Martin's lived magical practice. The concept is coherent and differentiated. The wound is the absence of any build commitment: no wireframes, no tech stack decision, no release scope, no timeline.
+The previous project state said "no build started" — that was wrong. GAIA at `~/apps/mobile-apps/GAIAapp/` is at v1.6 with a full feature set: Earth-chart generator, AI deep readings, daily rising × moon × sign weave, shareable cards (data/testimonial/story variants), birth trio diagram. The wound is not build readiness — it is the absence of a launch decision.
 
 ## Current Direction
-Wound. The concept is complete enough to make a build/defer decision. That decision has not been made.
+Wound. Build is done. Launch decision has not been made.
 
 ## Canonical State & Artifact
 - Primary Canonical Artifact: [[GAIA — Earth-Calendar App and Evidence-Aware Positioning]]
+- Build Location: `~/apps/mobile-apps/GAIAapp/` (Expo, React Native, FastAPI backend)
 - Supporting Artifact: [[GAIA Positioning Statement — Evidence-Aware Version]]
 - Theoretical Framework: [[Breath of the Astral Year — Astrology Monograph]]
 - Elemental Substrate: [[Livre des Ombres — Martin's Magical System (1996-2026)]]
-- Artifact Status: concept complete, no build started
-- Supersedes:
-- Superseded by:
-- Confidence: high on concept, none on build
+- Artifact Status: v1.6 built, 39/39 tests passing, not yet submitted to app stores
 - Last reviewed: 2026-06-21
 - Review Owner/Signatory: Martin
 
+## v1.6 Feature Summary
+- Bilingual UI (FR/EN) with live toggle
+- Earth-chart generator (birth date, place, hemisphere, school cutoff)
+- 12 Calendar Signs, 5 Elements, 12 Inward Houses
+- AI deep reading (Claude Sonnet 4.5)
+- Daily rising × moon × sign weave with 6 time-bands and 8 lunar phases
+- Birth trio diagram (Sign × Rising × Moon at birth moment)
+- Shareable PNG cards: data (1080×1350), testimonial (1080×1350), story (1080×1920)
+
 ## Active Tensions
-- GAIA is personal/spiritual but uses the same evidence-aware epistemic discipline as PHAROS — the overlap is a strength but risks diluting both brands.
-- The elemental system is rich enough for a standalone app but also feeds other projects (Magie sanguine, Livre des Ombres).
-- Building now competes directly with PHAROS launch bandwidth.
+- App is built but not launched — every week without a launch decision is opportunity cost.
+- PHAROS launch bandwidth competes for attention, but GAIA is already done.
+- Personal/spiritual project using evidence-aware discipline — positioning is right, distribution strategy is undefined.
 
 ## Contradictions To Preserve
 - GAIA must be evidence-aware without becoming cold — the warmth of the elemental/seasonal system is the product.
-- It is a personal project with commercial potential; treating it purely as either one would break it.
+- It is a personal project with commercial potential; launch strategy must reflect both.
 
 ## Relevant Materials
 - [[GAIA — Earth-Calendar App and Evidence-Aware Positioning]]
@@ -52,23 +59,21 @@ Wound. The concept is complete enough to make a build/defer decision. That decis
 - [[Breath of the Astral Year — Astrology Monograph]]
 - [[Livre des Ombres — Martin's Magical System (1996-2026)]]
 - [[Personal and Projects MOC]]
-- [[Vault Delta Interconnectivity Atlas — 2026-05-06]]
 
 ## Recent Moves
-- Positioning statement written in evidence-aware register (2026-05-04).
-- Wiki note created linking concept to elemental substrate and theoretical framework (2026-05-06).
-- Fisher King project state created (2026-06-21) — previously missing from the recovery framework.
+- v1.6 completed with birth trio, Gaiascope, and daily weave sharing.
+- 39 pytest assertions passing across share card and excerpt tests.
+- Fisher King project state corrected 2026-06-21 (previous state incorrectly said no build existed).
 
 ## Consequence Binding
-- What changes if we execute the next move? -> GAIA moves from concept to committed project with a defined first surface.
-- Real outcome / decision advanced: build/defer decision made explicitly.
-- Review/sign-off needed: Martin decides whether GAIA builds now, after PHAROS launch, or is parked as a post-PHAROS project.
+- What changes if we execute the next move? -> GAIA enters the world. First real users.
+- Real outcome / decision advanced: app store submission or soft launch via TestFlight/direct APK.
+- Review/sign-off needed: Martin decides launch path (App Store / Google Play / soft launch first).
 
 ## Blockers
-- No build/defer decision made.
-- No tech stack or platform chosen.
-- No wireframes or MVP scope defined.
-- PHAROS launch bandwidth competing for attention.
+- No launch decision made (soft launch vs. app store submission).
+- App store developer accounts not confirmed.
+- Backend hosting for production (FastAPI) not confirmed.
 
 ## Next Synthesis Move
-Make the build/defer call explicitly: either commit to a minimal first surface (Earth-calendar reading for one birth date, one season) with a tech stack and a 30-day build window, or formally park GAIA until after PHAROS Day 0 outreach completes.
+Make the launch call: soft launch (TestFlight + direct APK share to 10 people) vs. full app store submission. If soft launch — set a date, pick 10 people, and send within 7 days.
