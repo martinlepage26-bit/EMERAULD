@@ -1,0 +1,11 @@
+filename,revision_status,evidence_status,action,confidence,human_gate_cleared
+ai-anxiety-recursive-governance-ai-society-aligned-2026-03-11.md,active,source_bearing_artifact,MERGE_WITH_RELATED_FILE,high,
+moving_parts.txt,active,source_bearing_artifact,MERGE_WITH_RELATED_FILE,medium,
+redistributed_copy_01.md,redistributed_copy,derivative,MERGE_WITH_RELATED_FILE,low,
+redistributed_copy_02.md,redistributed_copy,derivative,MERGE_WITH_RELATED_FILE,low,
+govern_deterministic_runner_spec.md,active,source_bearing_artifact,KEEP,high,
+compassai_input_module.md,active,source_bearing_artifact,KEEP,high,
+pharos_topology_layer_v3.md,active,source_bearing_artifact,KEEP,high,
+theseus_loop_notes.md,active,synthesis,KEEP,medium,
+archive_master_tracker.md,active,tracker,KEEP,medium,
+pharos_governance_shell_design.md,active,source_bearing_artifact,KEEP,high,

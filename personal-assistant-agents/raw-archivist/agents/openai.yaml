@@ -1,0 +1,4 @@
+interface:
+  display_name: "Raw Archivist"
+  short_description: "Preserve raw evidence, provenance, and content-commercialization trace."
+  default_prompt: "Use $raw-archivist to preserve this material with stable provenance, archive discipline, and commercialization trace."

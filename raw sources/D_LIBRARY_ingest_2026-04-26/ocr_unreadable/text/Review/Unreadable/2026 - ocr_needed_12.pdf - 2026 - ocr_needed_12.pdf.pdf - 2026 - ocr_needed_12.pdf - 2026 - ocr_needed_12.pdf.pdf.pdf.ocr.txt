@@ -1,0 +1,42 @@
+===== IMAGE: /tmp/unreadable_ocr_mflfdfls/p00001.png =====
+
+28/01/2026 17:13 Using pgvector, LLMs and LangChain with Google Cloud databases | Google Cloud Blog
+= Google Cloud Blog
+Databases
+enye
+Building Al-powered apps
+on Google Cloud databases
+.
+using pgvector, LLMs and
+.
+LangChain
+June 26, 2023
+Saket Saurabh X
+Software Engineer
+[in]
+Editor's note, January 6, 2025: AlloyDB now
+supports the ScaNN index in addition to open [4]
+source pgvector, bringing twelve years of Google
+Research to PostgreSQL for improved vector
+search performance and accuracy.
+Cloud SQL for PostgreSQL and
+AlloyDB for PostgreSQL now support the pgvector
+extension, bringing the power of vector search
+operations to PostgreSQL databases. You can
+read the full announcement here.
+In this step-by-step tutorial, we will show you how
+to add generative Al features to your own
+applications with just a few lines of code using
+pgvector, LangChain and LLMs on Google Cloud.
+You can also follow along with our guided tutorial
+video. We'll build a sample Python application that
+https://cloud.google.com/blog/products/databases/using-pgvector-lIms-and-langchain-with-google-cloud-databases?hl=en 1/23
+
+
+===== IMAGE: /tmp/unreadable_ocr_mflfdfls/p00023.png =====
+
+28/01/2026 17:13 Using pgvector, LLMs and LangChain with Google Cloud databases | Google Cloud Blog
+Google Cloud Blog Contact sales Get started for free
+Google Cloud Google Cloud Products Privacy Terms Manage cookies
+@ Help English
+https://cloud.google.com/blog/products/databases/using-pgvector-lIms-and-langchain-with-google-cloud-databases?hl=en 23/23

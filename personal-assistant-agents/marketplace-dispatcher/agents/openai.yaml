@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketplace Dispatcher"
+  short_description: "Dispatch approved offers into marketplace-specific launch packets."
+  default_prompt: "Use $marketplace-dispatcher to adapt this approved offer into marketplace-specific launch packets and dispatch order."

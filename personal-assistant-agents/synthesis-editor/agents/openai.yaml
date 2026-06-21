@@ -1,0 +1,4 @@
+interface:
+  display_name: "Synthesis Editor"
+  short_description: "Turn raw material into durable notes and creator-ready briefs."
+  default_prompt: "Use $synthesis-editor to turn this raw material into a durable note or creator brief with clean source trace."

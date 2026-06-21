@@ -1,0 +1,49 @@
+source,root,path,name,ext,is_dir,size,modified,topic,normalized_stem
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/CODEX,CODEX,,True,0,2026-04-16T01:58:55.859020-04:00,other,codex
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard,Hermes Dashboard,,True,0,2026-04-15T06:27:26.350270-04:00,pharos,hermes dashboard
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant,personal-assistant,,True,0,2026-04-14T14:15:23.779377-04:00,other,personal assistant
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/CV_Martine_Lepage.docx,CV_Martine_Lepage.docx,.docx,False,11049,2026-04-13T12:50:48.632782-04:00,cv_resume,cv martine lepage
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/cv_martine_text.txt,cv_martine_text.txt,.txt,False,3598,2026-04-15T03:15:20.369974-04:00,cv_resume,cv martine text
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/founder_charter.odt,founder_charter.odt,.odt,False,29921,2026-03-09T10:20:16.107113-04:00,other,founder charter
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/FWD_ Complétez avec Docusign _ PHAROS_Invention_Disclosure_v12.pdf,FWD_ Complétez avec Docusign _ PHAROS_Invention_Disclosure_v12.pdf,.pdf,False,609325,2026-04-08T18:23:39.221169-04:00,pharos,fwd completez avec docusign pharos invention disclosure
+local,/mnt/c/Users/softinfo/Desktop,"/mnt/c/Users/softinfo/Desktop/Novartis CDA-Calian- Lepage, M.docx.pdf","Novartis CDA-Calian- Lepage, M.docx.pdf",.pdf,False,201173,2026-04-02T04:44:18.391304-04:00,other,novartis cda calian lepage m docx
+local,/mnt/c/Users/softinfo/Desktop,"/mnt/c/Users/softinfo/Desktop/Novartis External Assignment Data Consent Form - Lepage, M.pdf","Novartis External Assignment Data Consent Form - Lepage, M.pdf",.pdf,False,180456,2026-04-02T04:43:55.017253-04:00,other,novartis external assignment data consent form lepage m
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/PHAROS TVQ-TPS.pdf,PHAROS TVQ-TPS.pdf,.pdf,False,131913,2026-04-08T14:40:18.920062-04:00,pharos,pharos tvq tps
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/REGRISTRAIRE ENTRETORIRSE HELP.pdf,REGRISTRAIRE ENTRETORIRSE HELP.pdf,.pdf,False,135237,2026-04-08T03:02:40.734032-04:00,other,regristraire entretorirse help
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/WAVE1_IMPLEMENTATION_PLAN.md,WAVE1_IMPLEMENTATION_PLAN.md,.md,False,32993,2026-04-17T23:18:44.062533-04:00,other,wave1 implementation plan
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/WHEN THE CAT STOPS THE LAST PASS.md,WHEN THE CAT STOPS THE LAST PASS.md,.md,False,3597,2026-03-29T19:36:54.295178-04:00,other,when the cat stops the last pass
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Windows PowerShell.txt,Windows PowerShell.txt,.txt,False,160387,2026-04-14T10:03:06.935236-04:00,other,windows powershell
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/CODEX/2026 - Martin Lepage - THE WEATHER BENEATH THE WALLS,2026 - Martin Lepage - THE WEATHER BENEATH THE WALLS,,True,0,2026-04-16T01:41:20.090017-04:00,other,2026 martin lepage the weather beneath the walls
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/CODEX/TENTATIVE,TENTATIVE,,True,0,2026-04-16T01:55:58.636309-04:00,other,tentative
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/CODEX/2026 - Martin Lepage - THE WEATHER BENEATH THE WALLS/tmp,tmp,,True,0,2026-04-16T01:41:35.430417-04:00,other,tmp
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/CODEX/2026 - Martin Lepage - THE WEATHER BENEATH THE WALLS/tmp/edge_tts_env,edge_tts_env,,True,0,2026-04-16T01:41:32.477209-04:00,other,edge tts env
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/CODEX/2026 - Martin Lepage - THE WEATHER BENEATH THE WALLS/tmp/edge_tts_env/bin,bin,,True,0,2026-03-12T04:54:02.515902-04:00,other,bin
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/.backup,.backup,,True,0,2026-04-12T00:53:53.459352-04:00,pharos,backup
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/build,build,,True,0,2026-04-11T05:23:53.524259-04:00,pharos,build
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/dist,dist,,True,0,2026-04-11T05:24:18.358296-04:00,pharos,dist
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/dashboard.html,dashboard.html,.html,False,34805,2026-04-08T23:35:38.895173-04:00,pharos,dashboard
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/Manus Project Dashboard.html,Manus Project Dashboard.html,.html,False,56047,2026-04-10T00:43:52.123292-04:00,pharos,manus project dashboard
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/requirements.txt,requirements.txt,.txt,False,32,2026-04-08T07:22:12.495071-04:00,pharos,requirements
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/build/HERMES,HERMES,,True,0,2026-04-11T05:23:22.007887-04:00,pharos,hermes
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/build/HERMES_debug,HERMES_debug,,True,0,2026-04-11T05:24:19.335275-04:00,pharos,hermes debug
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/build/HERMES/localpycs,localpycs,,True,0,2026-04-11T05:23:16.185292-04:00,pharos,localpycs
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/build/HERMES/warn-HERMES.txt,warn-HERMES.txt,.txt,False,16838,2026-04-11T05:23:15.972445-04:00,pharos,warn hermes
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/build/HERMES/xref-HERMES.html,xref-HERMES.html,.html,False,993996,2026-04-11T05:23:16.087377-04:00,pharos,xref hermes
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/build/HERMES_debug/localpycs,localpycs,,True,0,2026-04-11T05:24:14.493656-04:00,pharos,localpycs
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/build/HERMES_debug/warn-HERMES_debug.txt,warn-HERMES_debug.txt,.txt,False,16838,2026-04-11T05:24:14.347008-04:00,pharos,warn hermes debug
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/Hermes Dashboard/build/HERMES_debug/xref-HERMES_debug.html,xref-HERMES_debug.html,.html,False,993996,2026-04-11T05:24:14.455280-04:00,pharos,xref hermes debug
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/scripts,scripts,,True,0,2026-04-14T14:15:23.755730-04:00,other,scripts
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/services,services,,True,0,2026-04-14T14:15:23.761777-04:00,other,services
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/vault,vault,,True,0,2026-04-14T14:15:23.834439-04:00,other,vault
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/{vault,{vault,,True,0,2026-04-14T14:15:23.690257-04:00,other,vault
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/README.md,README.md,.md,False,4273,2026-04-14T14:05:58-04:00,other,readme
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/vault/raw,raw,,True,0,2026-04-14T14:15:23.804007-04:00,other,raw
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/vault/skills,skills,,True,0,2026-04-14T14:15:23.824714-04:00,other,skills
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/vault/wiki,wiki,,True,0,2026-04-14T14:15:23.794715-04:00,other,wiki
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/vault/CLAUDE.md,CLAUDE.md,.md,False,2101,2026-04-14T14:03:55-04:00,other,claude
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/vault/raw/README.md,README.md,.md,False,275,2026-04-14T14:03:59-04:00,other,readme
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/vault/skills/README.md,README.md,.md,False,340,2026-04-14T14:04:07-04:00,other,readme
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/vault/skills/skill-synthesis.md,skill-synthesis.md,.md,False,1056,2026-04-14T14:04:15-04:00,other,skill synthesis
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/vault/wiki/hub-projects.md,hub-projects.md,.md,False,394,2026-04-14T14:05:32-04:00,other,hub projects
+local,/mnt/c/Users/softinfo/Desktop,/mnt/c/Users/softinfo/Desktop/personal-assistant/vault/wiki/README.md,README.md,.md,False,386,2026-04-14T14:04:04-04:00,other,readme
+local,/mnt/c/Users/softinfo/Desktop,"/mnt/c/Users/softinfo/Desktop/personal-assistant/{vault/{raw,wiki,skills,archive},rag,mem,scripts,services}","{raw,wiki,skills,archive},rag,mem,scripts,services}",,True,0,2026-04-14T14:15:23.690257-04:00,other,raw wiki skills archive rag mem scripts services

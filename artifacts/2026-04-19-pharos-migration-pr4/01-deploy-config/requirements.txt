@@ -1,0 +1,38 @@
+# backend/requirements.txt
+# Runtime dependencies for the PHAROS FastAPI backend
+#
+# CRITICAL: dnspython is required for mongodb+srv:// URI resolution.
+# Motor/PyMongo use DNS SRV lookups to connect to MongoDB Atlas.
+# Removing this package causes silent runtime failure on all DB-backed endpoints.
+# Do not remove. Do not move to test-only. It is a production runtime dependency.
+
+# ── Web framework ─────────────────────────────────────────────────────────────
+fastapi==0.110.1
+uvicorn[standard]==0.29.0        # [standard] pulls in watchfiles + websockets for prod
+starlette==0.37.2                # pinned: must match fastapi's declared range
+python-multipart==0.0.9          # required for form/file uploads in FastAPI
+
+# ── Database ──────────────────────────────────────────────────────────────────
+motor==3.3.2                     # async MongoDB driver
+pymongo==4.7.2                   # Motor dependency; also provides ReturnDocument
+dnspython==2.6.1                 # REQUIRED for mongodb+srv:// SRV resolution (Atlas)
+
+# ── Data validation ───────────────────────────────────────────────────────────
+pydantic==2.7.1
+pydantic-settings==2.2.1         # for Settings classes if adopted
+
+# ── Config + env ──────────────────────────────────────────────────────────────
+python-dotenv==1.0.1
+
+# ── Email ─────────────────────────────────────────────────────────────────────
+resend==2.3.0                    # pinned to stable; bump deliberately after testing
+
+# ── Auth (keep if JWT is used; remove if not) ─────────────────────────────────
+# python-jose[cryptography]==3.3.0
+# passlib[bcrypt]==1.7.4
+
+# ── Test dependencies ─────────────────────────────────────────────────────────
+pytest==8.2.2
+pytest-asyncio==0.23.7           # async test support
+httpx==0.27.0                    # async test client for FastAPI (use AsyncClient)
+requests==2.32.3                 # sync HTTP for integration tests

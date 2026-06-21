@@ -1,0 +1,71 @@
+{
+  "generated": "2026-04-14",
+  "mission": "Operate as a dual-purpose personal-assistant ecosystem that both maintains a retrieval-ready vault and commercializes owned content through bounded sub-agents dispatched into marketplaces.",
+  "assumptions": [
+    "The operator owns or controls the content being commercialized.",
+    "Marketplace dispatch means preparing and routing marketplace-specific packets or workers, not making hidden commitments on the operator's behalf.",
+    "Vault maintenance remains a standing responsibility rather than a one-time setup task."
+  ],
+  "agents": [
+    {
+      "slug": "intake-triager",
+      "display_name": "Intake Triager",
+      "summary": "Route mixed requests across vault-maintenance and marketplace lanes."
+    },
+    {
+      "slug": "raw-archivist",
+      "display_name": "Raw Archivist",
+      "summary": "Preserve raw evidence, provenance, and content-commercialization trace."
+    },
+    {
+      "slug": "synthesis-editor",
+      "display_name": "Synthesis Editor",
+      "summary": "Turn raw material into durable notes and creator-ready briefs."
+    },
+    {
+      "slug": "metadata-link-warden",
+      "display_name": "Metadata and Link Warden",
+      "summary": "Keep frontmatter, source flags, product states, and backlinks coherent."
+    },
+    {
+      "slug": "graph-retrieval-cartographer",
+      "display_name": "Graph and Retrieval Cartographer",
+      "summary": "Maintain hubs, maps, and retrieval packets across the vault."
+    },
+    {
+      "slug": "content-inventory-cartographer",
+      "display_name": "Content Inventory Cartographer",
+      "summary": "Map owned content into saleable inventory and product families."
+    },
+    {
+      "slug": "demand-scout",
+      "display_name": "Demand Scout",
+      "summary": "Read demand, competitor patterns, and channel fit for owned content."
+    },
+    {
+      "slug": "rights-policy-warden",
+      "display_name": "Rights and Policy Warden",
+      "summary": "Protect sellability by clearing rights, licensing, and platform-policy fit."
+    },
+    {
+      "slug": "offer-pricing-architect",
+      "display_name": "Offer and Pricing Architect",
+      "summary": "Package safe content into offers, bundles, tiers, and price ladders."
+    },
+    {
+      "slug": "listing-creative-director",
+      "display_name": "Listing Creative Director",
+      "summary": "Create marketplace-facing copy, previews, and merchandising assets."
+    },
+    {
+      "slug": "marketplace-dispatcher",
+      "display_name": "Marketplace Dispatcher",
+      "summary": "Dispatch approved offers into marketplace-specific launch packets."
+    },
+    {
+      "slug": "revenue-support-optimizer",
+      "display_name": "Revenue and Support Optimizer",
+      "summary": "Read sales, support, and conversion signals and feed iteration back upstream."
+    }
+  ]
+}

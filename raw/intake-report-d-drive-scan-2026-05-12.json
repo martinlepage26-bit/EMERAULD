@@ -1,0 +1,708 @@
+{
+  "run_at_utc": "2026-05-13T06:51:10.277084+00:00",
+  "source_label": "d-drive-scan-2026-05-12",
+  "raw_dir": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12",
+  "manifest_path": "/mnt/c/users/softinfo/documents/emerauld/raw/.intake-manifest.jsonl",
+  "dry_run": false,
+  "counts": {
+    "input": 46,
+    "verified": 41,
+    "rejected": 5
+  },
+  "verified": [
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/approved_files.txt",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/dg-migration/approved_files.txt",
+      "file_name": "approved_files.txt",
+      "size_bytes": 2547,
+      "sha256": "d9d8c0cf35743ad398c948803e935b0088ffafcac14af8f4bbc20ad1c7b73610",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:06.118528+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/classification_counts.tsv",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/dg-migration/classification_counts.tsv",
+      "file_name": "classification_counts.tsv",
+      "size_bytes": 156,
+      "sha256": "d2eb7e1416349f430d3447b9bcb04327e3abfa2ccdd9e0db65b3d3d379a7ee1a",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:06.175003+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/MIGRATION_REPORT.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/dg-migration/MIGRATION_REPORT.md",
+      "file_name": "MIGRATION_REPORT.md",
+      "size_bytes": 1563,
+      "sha256": "f1a7f97738b9593e4cd370975081a375e7c3965cdf8f963cacbc9dac3057fc34",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:06.312441+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/summary.json",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/dg-migration/summary.json",
+      "file_name": "summary.json",
+      "size_bytes": 266,
+      "sha256": "17b127abf98399caf3cd39ea9c6a23c2d21696ff00419c2440048053172830e5",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:06.397346+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/summary.txt",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/dg-migration/summary.txt",
+      "file_name": "summary.txt",
+      "size_bytes": 236,
+      "sha256": "99585217b782532980bbf3f74b77ab991dc7c3e5a6b482b9ca21df895c740787",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:06.443560+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/agents/01-prime-coordinator.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/agents/01-prime-coordinator.md",
+      "file_name": "01-prime-coordinator.md",
+      "size_bytes": 1034,
+      "sha256": "5c88b36f8b6a3b7e1d825d649204b13422021160378db0391dc610f7a94de950",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:06.500719+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/agents/02-context-cartographer.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/agents/02-context-cartographer.md",
+      "file_name": "02-context-cartographer.md",
+      "size_bytes": 797,
+      "sha256": "0fd96108c9e870cc8ee5868a2ef5e6f94c9c978393cac97ad655901c1cff8660",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:06.555025+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/agents/03-requirements-architect.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/agents/03-requirements-architect.md",
+      "file_name": "03-requirements-architect.md",
+      "size_bytes": 845,
+      "sha256": "5f69ef1d3f25abffc7b2f5701e215fde380504bf59c98307105e5c9e7c63e82a",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:06.618985+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/agents/04-implementation-engineer.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/agents/04-implementation-engineer.md",
+      "file_name": "04-implementation-engineer.md",
+      "size_bytes": 868,
+      "sha256": "6531cd255ca9f8af4c2fc5255a02e5a0736a55e6910f0ea4a2b5592e3aec4348",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:06.684232+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/agents/05-quality-auditor.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/agents/05-quality-auditor.md",
+      "file_name": "05-quality-auditor.md",
+      "size_bytes": 776,
+      "sha256": "ec1378f1bc3b67bc64e6b4e8423d7423dca65e2c4ec941fea7d7096c64ebd165",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:06.760164+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/agents/06-test-operator.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/agents/06-test-operator.md",
+      "file_name": "06-test-operator.md",
+      "size_bytes": 831,
+      "sha256": "439fc9cc61a3c39a394d7dccaeb07bdb1a0e034bb32bf8648d869969cf5a5074",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:06.865413+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/agents/07-security-guardian.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/agents/07-security-guardian.md",
+      "file_name": "07-security-guardian.md",
+      "size_bytes": 808,
+      "sha256": "4a20d1717229c97ea20332c3fba3f462aeda6303d69efef6e57b67fbd7cc55da",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:07.047264+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/agents/08-observability-sentinel.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/agents/08-observability-sentinel.md",
+      "file_name": "08-observability-sentinel.md",
+      "size_bytes": 759,
+      "sha256": "e0f64b2abdf67eae870e6b22ac6781b074318ffca04eec7a9cb632d543f63d43",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:07.167194+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/agents/09-governance-steward.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/agents/09-governance-steward.md",
+      "file_name": "09-governance-steward.md",
+      "size_bytes": 789,
+      "sha256": "599702836862320267013e536f6668ebf47e9f2330aa314e2fc66a7ab73cf911",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:07.283604+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/agents/10-delivery-operator.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/agents/10-delivery-operator.md",
+      "file_name": "10-delivery-operator.md",
+      "size_bytes": 761,
+      "sha256": "1086214c5f99b73339f13fe39457369ffd02efc2ee1e2a4798d80967af390d7a",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:07.413240+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/combinations/combination-validation.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/combinations/combination-validation.md",
+      "file_name": "combination-validation.md",
+      "size_bytes": 1029,
+      "sha256": "147ce1b8258c3e726f67e2b4955ffc6aeceb1fb3dfff7eb58f869d4b07cd66c4",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:07.488464+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/combinations/dual-combinations.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/combinations/dual-combinations.md",
+      "file_name": "dual-combinations.md",
+      "size_bytes": 36118,
+      "sha256": "77ac69123dbb9543972a952f86a39a657b8447053185dda202b2faec0790eb3f",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:07.562826+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/combinations/manifestation-rules.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/combinations/manifestation-rules.md",
+      "file_name": "manifestation-rules.md",
+      "size_bytes": 1906,
+      "sha256": "8856388e1f0040565129dc3a9754f68ee1d67c2b530638cf615b38ad8b717f55",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:07.660284+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/combinations/README.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/combinations/README.md",
+      "file_name": "README.md",
+      "size_bytes": 611,
+      "sha256": "18bc6ae33bddbc7d2ef5196c762f74511ac694d16e98562418b1740b76f1c373",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:07.730270+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/combinations/triple-combinations.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/combinations/triple-combinations.md",
+      "file_name": "triple-combinations.md",
+      "size_bytes": 111053,
+      "sha256": "6f22c8ca7462c10fb120e541e6c42c213e3a22eae3597f0228e221a70ea061b3",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:07.801984+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/combinations/validate-combinations.sh",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/combinations/validate-combinations.sh",
+      "file_name": "validate-combinations.sh",
+      "size_bytes": 5397,
+      "sha256": "6a4db177bedd7f8f3e182ea98e45355723c7bc2ccaa021514bc782120fa00f76",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:07.897012+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/examples/01-feature-request-implementation.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/examples/01-feature-request-implementation.md",
+      "file_name": "01-feature-request-implementation.md",
+      "size_bytes": 558,
+      "sha256": "8569ce6ad9c7f183a60ae21686f688dd52041a22d9451c428703407e566fa653",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:07.969224+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/examples/02-code-review-workflow.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/examples/02-code-review-workflow.md",
+      "file_name": "02-code-review-workflow.md",
+      "size_bytes": 404,
+      "sha256": "4628f0093fd2c8addad37f4ac43e11e8cdf02d029e1c5162ca2238f53cdb680d",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.038487+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/examples/03-api-design-pass.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/examples/03-api-design-pass.md",
+      "file_name": "03-api-design-pass.md",
+      "size_bytes": 427,
+      "sha256": "1d773df6415bab96da2c55c59c93bcbe2c70abc1e8aedb0620be5fcb96ea92f0",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.106016+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/examples/04-incident-response.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/examples/04-incident-response.md",
+      "file_name": "04-incident-response.md",
+      "size_bytes": 425,
+      "sha256": "d597788f398dd48c05df5ed47c832ce179f755289b61df0bb3691589be336871",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.170559+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/examples/05-documentation-hardening.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/examples/05-documentation-hardening.md",
+      "file_name": "05-documentation-hardening.md",
+      "size_bytes": 433,
+      "sha256": "b908496acdddc79fdd05dde631bbbb0039fbc5d1ec11578eff45aeb0e5c43442",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.225716+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/examples/06-release-readiness.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/examples/06-release-readiness.md",
+      "file_name": "06-release-readiness.md",
+      "size_bytes": 407,
+      "sha256": "785c61c0122b3a89f5a787a408870c0165bb03745c1c9d7849b9720a9d4ab4ef",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.291476+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/install-hooks.sh",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/install-hooks.sh",
+      "file_name": "install-hooks.sh",
+      "size_bytes": 801,
+      "sha256": "e7ac8f8bf72f08b01ad12585080dbb38fffe25a29791ce522139856c08b0320a",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.336265+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/orchestration/01-intake-and-routing.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/01-intake-and-routing.md",
+      "file_name": "01-intake-and-routing.md",
+      "size_bytes": 448,
+      "sha256": "b97ef64b594f191068477e0455cd0958cd80064fb24e78c41d9238f3f5159457",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.390591+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/orchestration/02-context-assembly.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/02-context-assembly.md",
+      "file_name": "02-context-assembly.md",
+      "size_bytes": 422,
+      "sha256": "cc7ee7ee15249ecbe585af3bea1428e99c54bc9edd5b54ac7eb5df4894c489ce",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.473060+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/orchestration/03-planning-to-execution-bridge.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/03-planning-to-execution-bridge.md",
+      "file_name": "03-planning-to-execution-bridge.md",
+      "size_bytes": 400,
+      "sha256": "fc2debaf24311530fc1a5f987ab34a4691531861e4ca1c495a663993dde02db1",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.544666+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/orchestration/04-execution-loop.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/04-execution-loop.md",
+      "file_name": "04-execution-loop.md",
+      "size_bytes": 366,
+      "sha256": "edaa3ca56fe9c3fefe43ead8b54f29ebbde8d1605bf4a0b0630eac8a2bdee87b",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.624446+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/orchestration/05-validation-gates.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/05-validation-gates.md",
+      "file_name": "05-validation-gates.md",
+      "size_bytes": 443,
+      "sha256": "7020d1993abf0df4438cbb4eeccddb7c9573d681ac55d6d8a62e1e6565d779e9",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.701543+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/orchestration/06-recovery-and-escalation.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/06-recovery-and-escalation.md",
+      "file_name": "06-recovery-and-escalation.md",
+      "size_bytes": 542,
+      "sha256": "67df248fd4aa37febe7df829c94efbfbe6235b87c242caba60ba02c908c44142",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.766781+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/README.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/README.md",
+      "file_name": "README.md",
+      "size_bytes": 1242,
+      "sha256": "cd258ce1ff65f495e99fe3066bbaa2d78bc079f81abcff592fcb9e56cf0e071a",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.838137+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/validation/01-structure-check.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/validation/01-structure-check.md",
+      "file_name": "01-structure-check.md",
+      "size_bytes": 630,
+      "sha256": "1db52b2ff646cd431e0c8dbcb87b47382d83ddd76624f7694d4f9fc5d61cc20d",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.926391+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/validation/02-operational-content-check.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/validation/02-operational-content-check.md",
+      "file_name": "02-operational-content-check.md",
+      "size_bytes": 463,
+      "sha256": "fb36b2205b65d5b732e2c8d0febea0b57d1b4b3e219261927e473a4e3b1a646a",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:08.994769+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/elemental-agents/validation/03-triangulated-verification.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/elemental-agents/validation/03-triangulated-verification.md",
+      "file_name": "03-triangulated-verification.md",
+      "size_bytes": 618,
+      "sha256": "07cc5cc06bea6e2794f8e9dcace480e9e20eff098eeea2c3b86b56b069fbca34",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:10.127533+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/MANIFEST.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/MANIFEST.md",
+      "file_name": "MANIFEST.md",
+      "size_bytes": 4649,
+      "sha256": "03c099fe084b4c1f4608cab36f1a000616e02e43833937e7f0e218fe63f6614a",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:10.160508+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/softinfo-manuscript/manuscript-to-review.docx",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/softinfo-manuscript/manuscript-to-review.docx",
+      "file_name": "manuscript-to-review.docx",
+      "size_bytes": 423390,
+      "sha256": "f55d0354874885212af79e37330efbbb4cf4135f7cbc4537993c6d855ecf6f22",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:10.206873+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/softinfo-manuscript/manuscript-to-review.extracted.txt",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/softinfo-manuscript/manuscript-to-review.extracted.txt",
+      "file_name": "manuscript-to-review.extracted.txt",
+      "size_bytes": 48680,
+      "sha256": "73ee1ade7edffeccf9ce107ae2fe34c3982fded6be21589fed86d90656f1c20c",
+      "source_label": "d-drive-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:10.265524+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/conflicts_existing_files.txt",
+      "verified": false,
+      "reason": "empty_file",
+      "size_bytes": 0,
+      "sha256": null
+    },
+    {
+      "path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/copied_files.txt",
+      "verified": false,
+      "reason": "duplicate_hash_in_manifest",
+      "size_bytes": 2547,
+      "sha256": "d9d8c0cf35743ad398c948803e935b0088ffafcac14af8f4bbc20ad1c7b73610",
+      "duplicate_of": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/D-drive-scan-2026-05-12/dg-migration/approved_files.txt"
+    },
+    {
+      "path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/hash_mismatch.txt",
+      "verified": false,
+      "reason": "empty_file",
+      "size_bytes": 0,
+      "sha256": null
+    },
+    {
+      "path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/size_mismatch.txt",
+      "verified": false,
+      "reason": "empty_file",
+      "size_bytes": 0,
+      "sha256": null
+    },
+    {
+      "path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/skipped_files.txt",
+      "verified": false,
+      "reason": "empty_file",
+      "size_bytes": 0,
+      "sha256": null
+    }
+  ]
+}

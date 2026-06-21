@@ -1,0 +1,119 @@
+{
+  "audit_version": 1,
+  "ingested_at": "2026-04-20T20:45:00-04:00",
+  "manifest": "scripts/ingest-manifest-2026-04-20.json",
+  "operator": "Trismégiste (Claude)",
+  "results": {
+    "processed": 6,
+    "created_new_notes": 4,
+    "updated_existing_notes": 2,
+    "raw_frontmatter_updated_to_synthesized": 4,
+    "raw_frontmatter_not_updatable": 2,
+    "moc_updates": 4,
+    "failures": 0
+  },
+  "outputs": [
+    {
+      "id": 1,
+      "source": "Clippings/Complete solutions, not compromises.md",
+      "action": "create-new-wiki-note",
+      "output": "wiki/Skill-Pairing — Five-Case Test Suite.md",
+      "raw_frontmatter_updated": true,
+      "inline_links_count": 7
+    },
+    {
+      "id": 2,
+      "source": "Clippings/Reddit Data API Wiki.md",
+      "action": "create-new-wiki-note",
+      "output": "wiki/Reddit Data API — Access Terms and Rate Limits.md",
+      "raw_frontmatter_updated": true,
+      "inline_links_count": 3
+    },
+    {
+      "id": 3,
+      "source": "raw sources/ENTREPRISE PHAROS.txt",
+      "action": "merge-into-existing",
+      "output": "wiki/PHAROS Company Registration and Security Incidents.md",
+      "raw_frontmatter_updated": false,
+      "reason_not_updated": "plaintext .txt file; authoritative registraire capture kept verbatim; synthesis tracked via wiki note's Sources field",
+      "inline_links_count": 1
+    },
+    {
+      "id": 4,
+      "source": "raw sources/Phenom-Herme-Heuri.pdf",
+      "action": "create-new-wiki-note",
+      "output": "wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique.md",
+      "raw_frontmatter_updated": false,
+      "reason_not_updated": "PDF binary; no editable frontmatter; synthesis tracked via wiki note's Sources field",
+      "inline_links_count": 5
+    },
+    {
+      "id": 5,
+      "source": "raw sources/self-improving-agent-governed-revision-post.md",
+      "action": "create-new-wiki-note",
+      "output": "wiki/Governed Revision Loop — Responsible Self-Improving Agents.md",
+      "raw_frontmatter_updated": true,
+      "inline_links_count": 9
+    },
+    {
+      "id": 6,
+      "source": "raw sources/vault-product-scoping-conversation-2026-04.md",
+      "action": "merge-into-existing",
+      "output": "wiki/Obsidian Agent Vault — Launch Kit.md",
+      "raw_frontmatter_updated": true,
+      "inline_links_count": 2
+    }
+  ],
+  "moc_updates": [
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "section": "Compliance and Ethics",
+      "added": [
+        "Governed Revision Loop — Responsible Self-Improving Agents",
+        "Skill-Pairing — Five-Case Test Suite",
+        "Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique"
+      ]
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "section": "HEPHAISTOS Agent System",
+      "added": ["Codex Skill Corpus Sync — 2026-04-20"]
+    },
+    {
+      "moc": "wiki/Personal and Projects MOC.md",
+      "section": "AI Tooling and Infrastructure",
+      "added": ["Reddit Data API — Access Terms and Rate Limits"]
+    },
+    {
+      "moc": "wiki/Research and Papers MOC.md",
+      "section": "Other Research",
+      "added": ["Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique"]
+    },
+    {
+      "moc": "wiki/Claude Code Skill Corpus.md",
+      "section": "Corpus Events (new)",
+      "added": ["Codex Skill Corpus Sync — 2026-04-20"]
+    }
+  ],
+  "link_integrity": {
+    "orphan_notes": 0,
+    "zero-link_notes": 0,
+    "links-only-in-Related": 0,
+    "comment": "All 4 new notes carry multiple inline [[links]] in Summary, Context, Details, and Insights. Both updated notes received new inline links in-body. Linking rule satisfied."
+  },
+  "scope_findings_retained": [
+    {
+      "severity": "low",
+      "area": "skill-corpus-parity",
+      "finding": "~/.claude/skills/ingest/SKILL.md is missing YAML frontmatter that ~/.codex/skills/ingest/SKILL.md has. Same class as Codex's 20:20 EDT tdd-feature-loop fix. Corpus-wide Claude-side frontmatter audit recommended but not in scope for this ingest.",
+      "status": "carried-forward"
+    },
+    {
+      "severity": "info",
+      "area": "ingest-target-scope",
+      "finding": "User-requested scope 'also ~/.claude/ and ~/.codex/ ingest targets' was a no-op — those directories hold skill definitions, not staging queues. No files to process from that path.",
+      "status": "resolved"
+    }
+  ],
+  "completeness": "complete"
+}

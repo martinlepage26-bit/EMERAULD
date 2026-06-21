@@ -1,0 +1,113 @@
+---
+type: raw
+source_kind: pdf_ocr
+source_path: /mnt/d/LIBRARY/Review/Unreadable/2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf - 2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf.pdf
+source_rel: Review/Unreadable/2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf - 2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf.pdf
+ocr_engine: tesseract.js
+ocr_lang: eng+fra
+pages_total: 18
+pages_ocrd: [1, 18]
+partial: true
+ocr_text: text/Review/Unreadable/2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf - 2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf.pdf.ocr.txt
+pdfinfo:
+  CreationDate: "Wed Aug  2 13:28:11 2017 EDT"
+  Custom Metadata: "no"
+  Encrypted: "no"
+  File size: "12218255 bytes"
+  Form: "none"
+  JavaScript: "no"
+  Metadata Stream: "no"
+  Optimized: "no"
+  PDF version: "1.4"
+  Page rot: "270"
+  Page size: "612 x 936 pts"
+  Pages: "18"
+  Suspects: "no"
+  Tagged: "no"
+  UserProperties: "no"
+dr_sort_original_filename: "2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf - 2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf.pdf.md"
+dr_sort_original_path: "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf - 2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf.pdf.md"
+dr_sort_filename_normalized: "2026-05-06"
+---
+
+# 2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf - 2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf.pdf
+
+## OCR Notes
+
+- This is an OCR extraction pass over `Review/Unreadable/` when `pdftotext` was empty/failed.
+- Page strategy: full OCR for short PDFs; first + last pages for long PDFs.
+
+## Extracted Text
+
+===== IMAGE: /tmp/unreadable_ocr_sve7w4ci/p00001.png =====
+
+Philosophy of Social
+Science
+A Contemporary Introduction
+Mark Risjord
+
+*
+
+ê
+
+ÿ
+
+Li
+
+#
+R fouedge
+
+===== IMAGE: /tmp/unreadable_ocr_sve7w4ci/p00018.png =====
+
+| :
+| 32 Objectivity, Values, and Social Science Objectivity, Values, and Social Science 33
+| Further Rendre de Cong ee Sm en ee
+Tommy Wright was the Chief of the Statistical Rescarch Division of the en (1992), Risjord, “Scientific Change as Pol, Action
+U.S. Bureau of the Census during the late 1990s. His essay “Sampling and = nthropology of Race” (2007), Gouldner, “The Sociolo-
+Census 2000: The Concepts” gives a non-technical articulation and defense | Fra Boss and the Antheopelogy re State” (1968), and Smic, *Wom-
+of the Bureau plan (Wright 1998). See also Wright (1999) for a brief Oe ve as à Radical Critique of Sociology” (1974).
+overview of the history of estimation in the census. Kastenbaum, “Census =
+2000: Where Science and Politics Count Equally” (1998), shows what the
+political landscape looked like at the time. Freedman and Wachter (2007)
+provide an accessible discussion of the methodological complexities.
+| Classic discussions which try to isolate the social sciences from moral or
+political values include Weber, “Objectivity in Social Science and Social
+Policy” (1949 [1904}), and Nagel, “The Value-Oriented Bias of Social Inquiry”
+in The Structure of Science (1961b). While they concern both the social and
+the natural sciences, Hempel, “Valuation and Objectivity in Science’ (1983),
+| Rudner “The Scientist Que Scienist Makes Valu Judgments” (1953), and |
+| Kuhn, “Objectivity, Value Judgment, and Theory Choice” (1977), are impor- |
+| tant essays. Roots Philosophy of Social Science (1993) has a number of argu-
+[| ments against value freedom in the social sciences. More recently, in Js Science |
+| Value Free?, Lacey (1999) has defended value freedom.
+| The concept of objectivity relates questions of value freedom ro questions
+| about the character of scientific theory. Works which link the issues in this |
+chapter with the epistemological questions of Chapters 3 and 4 are Taylor, |
+“Neutrality in Political Science” (1973 [1967]), Harding, “Four Contribu-
+| tions Values Can Make to the Objectivity of Social Science” (1978), and
+most of the essays collected in Feminism and Methodology: Social Science
+Issues (Harding 1987a).
+Critical theory encompasses a broad range of social scientific projects that
+are neither neutral nor impartial. Bohman's entry on critical theory in the
+Stanford Encyclopaedia of Philosophy (2005) is a very clear overview, which
+draws out the social scientific dimensions of critical theory. See also Bohman,
+“Theories, Practices, and Pluralism: A Pragmatic Interpretation of Critical
+Social Science” (1999), and Flyvbjerg, Making Social Science Matter (2001).
+À wide-ranging exploration of recent debates is found in Van Bouveel (ed.),
+The Social Sciences and Democracy (2009). For a good overview of feminist
+contributions to these questions, see Crasnow (2006). Longino' Science as
+Social Knowledge (1990) is a classic, as is Harding's The Science Question in
+Feminism (1986). Sec also Anderson, “Knowledge, Human Interests, and
+Objectivity in Feminist Epistemology” (1995), Wylie, “The Feminist Ques-
+tion in Science: What Does it Mean to ‘Do Social Science as a Feminist?”
+(2006), and Wylie, “Rethinking Objectivity: Nozicks Neglected Third
+Option” (2000). Fricker's concept of “hermeneutic injustice” is an important
+contribution that deserves close attention from students of the social sciences;
+i see her Epistemic Injustice (2007).
+Essays which take derailed looks at specific social scientific research pro-
+grams include Porter, “Speaking Precision to Power” (2006). Wvlie and
+
+## Related
+
+- [[Research and Papers MOC]]
+- [[Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]

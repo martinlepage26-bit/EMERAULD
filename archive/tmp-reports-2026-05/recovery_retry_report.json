@@ -1,0 +1,820 @@
+{
+  "timestamp": "2026-05-14T06:11:58.948178+00:00",
+  "mode": "fresh_retry_current_state",
+  "task1_diagnosis_entries": [
+    {
+      "note": ".trash/2017 - UQA M Universite du Quebec a Montreal Releve de notes.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": ".trash/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - Revenu Quebec - ocr_needed_1.pdf - 2021 - Revenu Quebec - ocr_needed_1.pdf.pdf - 2021 - Revenu Quebec - ocr_neede__d90d559c876d.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": ".trash/2025 - 21025 422 PM Consulter des donnees fiscales - Revenu Quebec.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Revenu Quebec - ocr_needed [2].pdf - 2025 - Revenu Quebec - ocr_needed [2].pdf.pdf - 2025 - Revenu Quebec - ocr_n__c2f25aea08ad.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw/Clippings/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 2.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 3.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 4.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 5.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 6.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/2026 - Memory Context.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/AGENTS.md",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/2026 - Submitted to AI Society Open Forum.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/assets/Paper25_ThePharosFrame_AISociety_2026-04-26.docx",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - Programmes de cycles superieurs UQA M 3.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - Martin Lepage - ocr_needed.pdf - 2016 - Martin Lepage - ocr_needed.pdf.pdf - 2016 - Martin Lepage - ocr_needed.pd__6a845ba68d0d.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - Programmes de cycles superieurs UQA M.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - Martin Lepage - ocr_needed.pdf - 2016 - Martin Lepage - ocr_needed.pdf.pdf - 2016 - Martin Lepage - ocr_needed.pd__6a845ba68d0d.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 3.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 4.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 5.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 6.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 7.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Quebec mea Lettre dadmissibilite a la mesure Subvention salariale 3.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - ilovepdf.com - ocr_needed.pdf - 2018 - ilovepdf.com - ocr_needed.pdf.pdf - 2018 - ilovepdf.com - ocr_needed.pdf -__7bc97ac956ce.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Quebec mea Lettre dadmissibilite a la mesure Subvention salariale.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - ilovepdf.com - ocr_needed.pdf - 2018 - ilovepdf.com - ocr_needed.pdf.pdf - 2018 - ilovepdf.com - ocr_needed.pdf -__7bc97ac956ce.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - Revenu Quebec - ocr_needed_1.pdf - 2021 - Revenu Quebec - ocr_needed_1.pdf.pdf - 2021 - Revenu Quebec - ocr_neede__d90d559c876d.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 3.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 17102025 1325 Courrier - Martin Lepage - Outlook.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Martin Lepage - Outlook - ocr_needed.pdf - 2025 - Martin Lepage - Outlook - ocr_needed.pdf.pdf - 2025 - Martin Le__4be1220e3c65.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 3.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2026 - Submitted to AI Society Open Forum.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/assets/Paper25_ThePharosFrame_AISociety_2026-04-26.docx",
+      "prior_error": ""
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "wiki/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "prior_error": ""
+    },
+    {
+      "note": "wiki/Epistemic AI purple teaming is the adversarial testing and defensive hardening of AI-enabled belief formation.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/Epistemic AI Purple Teaming.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "wiki/Second Self System Identity Kernel and Agent Routing Architecture.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/wiki/Second Self System — Identity Kernel and Agent Routing Architecture.md",
+      "prior_error": ""
+    },
+    {
+      "note": "wiki/bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - Revenu Quebec - ocr_needed_1.pdf - 2021 - Revenu Quebec - ocr_needed_1.pdf.pdf - 2021 - Revenu Quebec - ocr_neede__d90d559c876d.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 3.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "wiki/bridges/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 3.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "wiki/bridges/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 2.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 3.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 5.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "prior_error": ""
+    },
+    {
+      "note": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027.md",
+      "source_file": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "prior_error": ""
+    }
+  ],
+  "task1_failure_summary": {
+    "current_located_total": 42
+  },
+  "task2_tool_status": {
+    "pymupdf": "OK 1.27.1",
+    "pdfplumber": "OK",
+    "python-docx": "OK",
+    "ebooklib": "OK",
+    "bs4": "OK",
+    "pandoc": "NOT AVAILABLE [Errno 2] No such file or directory: 'pandoc'"
+  },
+  "task3_extraction_failures": [
+    {
+      "note": "raw/Clippings/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "status": "ALL_EXTRACTORS_FAILED",
+      "errors": [
+        "pandoc: [Errno 2] No such file or directory: 'pandoc'"
+      ],
+      "empties": []
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 2.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "status": "ALL_EXTRACTORS_FAILED",
+      "errors": [
+        "pandoc: [Errno 2] No such file or directory: 'pandoc'"
+      ],
+      "empties": []
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 3.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "status": "ALL_EXTRACTORS_FAILED",
+      "errors": [
+        "pandoc: [Errno 2] No such file or directory: 'pandoc'"
+      ],
+      "empties": []
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 4.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "status": "ALL_EXTRACTORS_FAILED",
+      "errors": [
+        "pandoc: [Errno 2] No such file or directory: 'pandoc'"
+      ],
+      "empties": []
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 5.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "status": "ALL_EXTRACTORS_FAILED",
+      "errors": [
+        "pandoc: [Errno 2] No such file or directory: 'pandoc'"
+      ],
+      "empties": []
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 6.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "status": "ALL_EXTRACTORS_FAILED",
+      "errors": [
+        "pandoc: [Errno 2] No such file or directory: 'pandoc'"
+      ],
+      "empties": []
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "status": "ALL_EXTRACTORS_FAILED",
+      "errors": [
+        "pandoc: [Errno 2] No such file or directory: 'pandoc'"
+      ],
+      "empties": []
+    },
+    {
+      "note": "wiki/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "status": "ALL_EXTRACTORS_FAILED",
+      "errors": [
+        "pandoc: [Errno 2] No such file or directory: 'pandoc'"
+      ],
+      "empties": []
+    }
+  ],
+  "task4_recovered": [
+    {
+      "note": ".trash/2017 - UQA M Universite du Quebec a Montreal Releve de notes.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "extractor": "direct-read",
+      "title": "UQA M Université du Québec à Montréal Relevé de notes",
+      "renamed_to": ".trash/2017 - UQA M Universite du Quebec a Montreal Releve de notes.md"
+    },
+    {
+      "note": ".trash/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - Revenu Quebec - ocr_needed_1.pdf - 2021 - Revenu Quebec - ocr_needed_1.pdf.pdf - 2021 - Revenu Quebec - ocr_neede__d90d559c876d.ocr.txt",
+      "extractor": "direct-read",
+      "title": "02/11/2021 15:11 Consulter des données fiscales - Revenu Québec",
+      "renamed_to": ".trash/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec.md"
+    },
+    {
+      "note": ".trash/2025 - 21025 422 PM Consulter des donnees fiscales - Revenu Quebec.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Revenu Quebec - ocr_needed [2].pdf - 2025 - Revenu Quebec - ocr_needed [2].pdf.pdf - 2025 - Revenu Quebec - ocr_n__c2f25aea08ad.ocr.txt",
+      "extractor": "direct-read",
+      "title": "2/10/25, 4:22 PM Consulter des données fiscales - Revenu Québec",
+      "renamed_to": ".trash/2025 - 21025 422 PM Consulter des donnees fiscales - Revenu Quebec.md"
+    },
+    {
+      "note": "raw sources/2026 - Memory Context.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/AGENTS.md",
+      "extractor": "direct-read",
+      "title": "Memory Context",
+      "renamed_to": "raw sources/2026 - Memory Context.md"
+    },
+    {
+      "note": "raw sources/2026 - Submitted to AI Society Open Forum.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/Paper25_ThePharosFrame_AISociety_2026-04-26.docx",
+      "extractor": "python-docx",
+      "title": "Submitted to: AI & Society — Open Forum",
+      "renamed_to": "raw sources/2026 - Submitted to AI Society Open Forum.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - Programmes de cycles superieurs UQA M 3.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - Martin Lepage - ocr_needed.pdf - 2016 - Martin Lepage - ocr_needed.pdf.pdf - 2016 - Martin Lepage - ocr_needed.pd__6a845ba68d0d.ocr.txt",
+      "extractor": "direct-read",
+      "title": "Programmes de cycles supérieurs UQA M",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - Programmes de cycles superieurs UQA M 2.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - Programmes de cycles superieurs UQA M.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - Martin Lepage - ocr_needed.pdf - 2016 - Martin Lepage - ocr_needed.pdf.pdf - 2016 - Martin Lepage - ocr_needed.pd__6a845ba68d0d.ocr.txt",
+      "extractor": "direct-read",
+      "title": "Programmes de cycles supérieurs UQA M",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - Programmes de cycles superieurs UQA M.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 3.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "extractor": "direct-read",
+      "title": "UQA M Université du Québec à Montréal Relevé de notes",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 2.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 4.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "extractor": "direct-read",
+      "title": "UQA M Université du Québec à Montréal Relevé de notes",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 3.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 5.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "extractor": "direct-read",
+      "title": "UQA M Université du Québec à Montréal Relevé de notes",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 4.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 6.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "extractor": "direct-read",
+      "title": "UQA M Université du Québec à Montréal Relevé de notes",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 5.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 7.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "extractor": "direct-read",
+      "title": "UQA M Université du Québec à Montréal Relevé de notes",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 6.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "extractor": "direct-read",
+      "title": "UQA M Université du Québec à Montréal Relevé de notes",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Quebec mea Lettre dadmissibilite a la mesure Subvention salariale 3.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - ilovepdf.com - ocr_needed.pdf - 2018 - ilovepdf.com - ocr_needed.pdf.pdf - 2018 - ilovepdf.com - ocr_needed.pdf -__7bc97ac956ce.ocr.txt",
+      "extractor": "direct-read",
+      "title": "Québec mea Lettre d'admissibilité à la mesure Subvention salariale",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Quebec mea Lettre dadmissibilite a la mesure Subvention salariale 2.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Quebec mea Lettre dadmissibilite a la mesure Subvention salariale.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - ilovepdf.com - ocr_needed.pdf - 2018 - ilovepdf.com - ocr_needed.pdf.pdf - 2018 - ilovepdf.com - ocr_needed.pdf -__7bc97ac956ce.ocr.txt",
+      "extractor": "direct-read",
+      "title": "Québec mea Lettre d'admissibilité à la mesure Subvention salariale",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Quebec mea Lettre dadmissibilite a la mesure Subvention salariale.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - Revenu Quebec - ocr_needed_1.pdf - 2021 - Revenu Quebec - ocr_needed_1.pdf.pdf - 2021 - Revenu Quebec - ocr_neede__d90d559c876d.ocr.txt",
+      "extractor": "direct-read",
+      "title": "02/11/2021 15:11 Consulter des données fiscales - Revenu Québec",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 3.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt",
+      "extractor": "direct-read",
+      "title": "AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt",
+      "extractor": "direct-read",
+      "title": "AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 17102025 1325 Courrier - Martin Lepage - Outlook.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Martin Lepage - Outlook - ocr_needed.pdf - 2025 - Martin Lepage - Outlook - ocr_needed.pdf.pdf - 2025 - Martin Le__4be1220e3c65.ocr.txt",
+      "extractor": "direct-read",
+      "title": "17/10/2025 13:25 Courrier - Martin Lepage - Outlook",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 17102025 1325 Courrier - Martin Lepage - Outlook.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 3.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt",
+      "extractor": "direct-read",
+      "title": "2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 2.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt",
+      "extractor": "direct-read",
+      "title": "2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2026 - Submitted to AI Society Open Forum.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/Paper25_ThePharosFrame_AISociety_2026-04-26.docx",
+      "extractor": "python-docx",
+      "title": "Submitted to: AI & Society — Open Forum",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2026 - Submitted to AI Society Open Forum.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "extractor": "direct-read",
+      "title": "vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027",
+      "renamed_to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027.md"
+    },
+    {
+      "note": "wiki/Epistemic AI purple teaming is the adversarial testing and defensive hardening of AI-enabled belief formation.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/Epistemic AI Purple Teaming.txt",
+      "extractor": "direct-read",
+      "title": "**Epistemic AI purple teaming** is the adversarial testing and defensive hardening of AI-enabled belief formation.",
+      "renamed_to": "wiki/Epistemic AI purple teaming is the adversarial testing and defensive hardening of AI-enabled belief formation.md"
+    },
+    {
+      "note": "wiki/Second Self System Identity Kernel and Agent Routing Architecture.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/wiki/Second Self System — Identity Kernel and Agent Routing Architecture.md",
+      "extractor": "direct-read",
+      "title": "Second Self System — Identity Kernel and Agent Routing Architecture",
+      "renamed_to": "wiki/Second Self System Identity Kernel and Agent Routing Architecture.md"
+    },
+    {
+      "note": "wiki/bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - Revenu Quebec - ocr_needed_1.pdf - 2021 - Revenu Quebec - ocr_needed_1.pdf.pdf - 2021 - Revenu Quebec - ocr_neede__d90d559c876d.ocr.txt",
+      "extractor": "direct-read",
+      "title": "02/11/2021 15:11 Consulter des données fiscales - Revenu Québec",
+      "renamed_to": "wiki/bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec.md"
+    },
+    {
+      "note": "wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 3.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt",
+      "extractor": "direct-read",
+      "title": "AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023",
+      "renamed_to": "wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2.md"
+    },
+    {
+      "note": "wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt",
+      "extractor": "direct-read",
+      "title": "AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023",
+      "renamed_to": "wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023.md"
+    },
+    {
+      "note": "wiki/bridges/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 3.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt",
+      "extractor": "direct-read",
+      "title": "2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr",
+      "renamed_to": "wiki/bridges/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 2.md"
+    },
+    {
+      "note": "wiki/bridges/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt",
+      "extractor": "direct-read",
+      "title": "2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr",
+      "renamed_to": "wiki/bridges/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr.md"
+    },
+    {
+      "note": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 2.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "extractor": "direct-read",
+      "title": "vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027",
+      "renamed_to": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 4.md"
+    },
+    {
+      "note": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 3.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "extractor": "direct-read",
+      "title": "vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027",
+      "renamed_to": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 2.md"
+    },
+    {
+      "note": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 5.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "extractor": "direct-read",
+      "title": "vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027",
+      "renamed_to": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 3.md"
+    },
+    {
+      "note": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "extractor": "direct-read",
+      "title": "vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027",
+      "renamed_to": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027.md"
+    },
+    {
+      "note": "raw/Clippings/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "extractor": "direct-read-csv",
+      "title": "Mauss - The Gift",
+      "renamed_to": "raw/Clippings/2026 - Mauss - The Gift.md"
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 2.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "extractor": "direct-read-csv",
+      "title": "Mauss - The Gift",
+      "renamed_to": "raw sources/2026 - Mauss - The Gift.md"
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 3.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "extractor": "direct-read-csv",
+      "title": "Mauss - The Gift",
+      "renamed_to": "raw sources/2026 - Mauss - The Gift 2.md"
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 4.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "extractor": "direct-read-csv",
+      "title": "Mauss - The Gift",
+      "renamed_to": "raw sources/2026 - Mauss - The Gift 3.md"
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 5.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "extractor": "direct-read-csv",
+      "title": "Mauss - The Gift",
+      "renamed_to": "raw sources/2026 - Mauss - The Gift 4.md"
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 6.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "extractor": "direct-read-csv",
+      "title": "Mauss - The Gift",
+      "renamed_to": "raw sources/2026 - Mauss - The Gift 5.md"
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "extractor": "direct-read-csv",
+      "title": "Mauss - The Gift",
+      "renamed_to": "raw sources/2026 - Mauss - The Gift 6.md"
+    },
+    {
+      "note": "wiki/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "extractor": "direct-read-csv",
+      "title": "Mauss - The Gift",
+      "renamed_to": "wiki/2026 - Mauss - The Gift.md"
+    }
+  ],
+  "task5_unrecoverable": [],
+  "renamed": [
+    {
+      "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - Programmes de cycles superieurs UQA M 3.md",
+      "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - Programmes de cycles superieurs UQA M 2.md"
+    },
+    {
+      "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 3.md",
+      "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 2.md"
+    },
+    {
+      "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 4.md",
+      "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 3.md"
+    },
+    {
+      "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 5.md",
+      "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 4.md"
+    },
+    {
+      "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 6.md",
+      "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 5.md"
+    },
+    {
+      "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 7.md",
+      "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 6.md"
+    },
+    {
+      "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Quebec mea Lettre dadmissibilite a la mesure Subvention salariale 3.md",
+      "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Quebec mea Lettre dadmissibilite a la mesure Subvention salariale 2.md"
+    },
+    {
+      "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 3.md",
+      "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2.md"
+    },
+    {
+      "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 3.md",
+      "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 2.md"
+    },
+    {
+      "from": "wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 3.md",
+      "to": "wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2.md"
+    },
+    {
+      "from": "wiki/bridges/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 3.md",
+      "to": "wiki/bridges/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 2.md"
+    },
+    {
+      "from": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 2.md",
+      "to": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 4.md"
+    },
+    {
+      "from": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 3.md",
+      "to": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 2.md"
+    },
+    {
+      "from": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 5.md",
+      "to": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 3.md"
+    },
+    {
+      "from": "raw/Clippings/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "to": "raw/Clippings/2026 - Mauss - The Gift.md"
+    },
+    {
+      "from": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 2.md",
+      "to": "raw sources/2026 - Mauss - The Gift.md"
+    },
+    {
+      "from": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 3.md",
+      "to": "raw sources/2026 - Mauss - The Gift 2.md"
+    },
+    {
+      "from": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 4.md",
+      "to": "raw sources/2026 - Mauss - The Gift 3.md"
+    },
+    {
+      "from": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 5.md",
+      "to": "raw sources/2026 - Mauss - The Gift 4.md"
+    },
+    {
+      "from": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 6.md",
+      "to": "raw sources/2026 - Mauss - The Gift 5.md"
+    },
+    {
+      "from": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "to": "raw sources/2026 - Mauss - The Gift 6.md"
+    },
+    {
+      "from": "wiki/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "to": "wiki/2026 - Mauss - The Gift.md"
+    }
+  ],
+  "wikilink_updates": {
+    "files_updated": 8,
+    "rename_map": {
+      "2016 - Programmes de cycles superieurs UQA M 3": "2016 - Programmes de cycles superieurs UQA M 2",
+      "2017 - UQA M Universite du Quebec a Montreal Releve de notes 3": "2017 - UQA M Universite du Quebec a Montreal Releve de notes 2",
+      "2017 - UQA M Universite du Quebec a Montreal Releve de notes 4": "2017 - UQA M Universite du Quebec a Montreal Releve de notes 3",
+      "2017 - UQA M Universite du Quebec a Montreal Releve de notes 5": "2017 - UQA M Universite du Quebec a Montreal Releve de notes 4",
+      "2017 - UQA M Universite du Quebec a Montreal Releve de notes 6": "2017 - UQA M Universite du Quebec a Montreal Releve de notes 5",
+      "2017 - UQA M Universite du Quebec a Montreal Releve de notes 7": "2017 - UQA M Universite du Quebec a Montreal Releve de notes 6",
+      "2018 - Quebec mea Lettre dadmissibilite a la mesure Subvention salariale 3": "2018 - Quebec mea Lettre dadmissibilite a la mesure Subvention salariale 2",
+      "2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 3": "2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2",
+      "2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 3": "2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 2",
+      "2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 2": "2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 4",
+      "2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 3": "2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 2",
+      "2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 5": "2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 3",
+      "2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141": "2026 - Mauss - The Gift",
+      "2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 2": "2026 - Mauss - The Gift",
+      "2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 3": "2026 - Mauss - The Gift 2",
+      "2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 4": "2026 - Mauss - The Gift 3",
+      "2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 5": "2026 - Mauss - The Gift 4",
+      "2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 6": "2026 - Mauss - The Gift 5",
+      "2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 2": "2025 - ell said NS",
+      "2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr": "2025 - ell said NS 2"
+    }
+  },
+  "dependencies_installed": [],
+  "counts": {
+    "corrupted_identified_now": 119,
+    "located_now": 42,
+    "recovered": 42,
+    "unrecoverable": 0,
+    "renamed": 36
+  },
+  "rename_passes": [
+    {
+      "timestamp": "now",
+      "changed": [
+        {
+          "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 2.md",
+          "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - ell said NS.md",
+          "new_title": "ell said NS"
+        },
+        {
+          "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr.md",
+          "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - ell said NS 2.md",
+          "new_title": "ell said NS"
+        },
+        {
+          "from": "wiki/bridges/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 2.md",
+          "to": "wiki/bridges/2025 - ell said NS.md",
+          "new_title": "ell said NS"
+        },
+        {
+          "from": "wiki/bridges/2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr.md",
+          "to": "wiki/bridges/2025 - ell said NS 2.md",
+          "new_title": "ell said NS"
+        }
+      ],
+      "rename_map": {
+        "2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr 2": "2025 - ell said NS",
+        "2025 - 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf 2025 4f6a b56e 28db843352f7 art 1 31 2.pdf.pdf 2025 4f6a b56e 2 542739c2c8e0.ocr": "2025 - ell said NS 2"
+      },
+      "wikilink_files_updated": 8
+    },
+    {
+      "timestamp": "2026-05-14T13:33:11",
+      "pass": "continue-rename-pass",
+      "changed": [
+        {
+          "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - ell said NS.md",
+          "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - AI Fundamentals for Business Professionals Notebook.md",
+          "new_title": "AI Fundamentals for Business Professionals Notebook"
+        },
+        {
+          "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - ell said NS 2.md",
+          "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - AI Fundamentals for Business Professionals Notebook 2.md",
+          "new_title": "AI Fundamentals for Business Professionals Notebook"
+        },
+        {
+          "from": "wiki/bridges/2025 - ell said NS.md",
+          "to": "wiki/bridges/2025 - AI Fundamentals for Business Professionals Notebook.md",
+          "new_title": "AI Fundamentals for Business Professionals Notebook"
+        },
+        {
+          "from": "wiki/bridges/2025 - ell said NS 2.md",
+          "to": "wiki/bridges/2025 - AI Fundamentals for Business Professionals Notebook 2.md",
+          "new_title": "AI Fundamentals for Business Professionals Notebook"
+        },
+        {
+          "from": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027.md",
+          "to": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - AI 2027 Summary Research.md",
+          "new_title": "AI 2027 Summary Research"
+        },
+        {
+          "from": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027.md",
+          "to": "wiki/bridges/2027 - AI 2027 Summary Research.md",
+          "new_title": "AI 2027 Summary Research"
+        },
+        {
+          "from": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 2.md",
+          "to": "wiki/bridges/2027 - AI 2027 Summary Research 2.md",
+          "new_title": "AI 2027 Summary Research"
+        },
+        {
+          "from": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 3.md",
+          "to": "wiki/bridges/2027 - AI 2027 Summary Research 3.md",
+          "new_title": "AI 2027 Summary Research"
+        },
+        {
+          "from": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 4.md",
+          "to": "wiki/bridges/2027 - AI 2027 Summary Research 4.md",
+          "new_title": "AI 2027 Summary Research"
+        },
+        {
+          "from": "wiki/Epistemic AI purple teaming is the adversarial testing and defensive hardening of AI-enabled belief formation.md",
+          "to": "wiki/Epistemic AI Purple Teaming.md",
+          "new_title": "Epistemic AI Purple Teaming"
+        }
+      ],
+      "rename_map": {
+        "2025 - ell said NS": "2025 - AI Fundamentals for Business Professionals Notebook",
+        "2025 - ell said NS 2": "2025 - AI Fundamentals for Business Professionals Notebook 2",
+        "2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027": "2027 - AI 2027 Summary Research",
+        "2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 2": "2027 - AI 2027 Summary Research 2",
+        "2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 3": "2027 - AI 2027 Summary Research 3",
+        "2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 4": "2027 - AI 2027 Summary Research 4",
+        "Epistemic AI purple teaming is the adversarial testing and defensive hardening of AI-enabled belief formation": "Epistemic AI Purple Teaming"
+      },
+      "frontmatter_or_h1_updates": 10,
+      "wikilink_files_updated": 8
+    }
+  ]
+}

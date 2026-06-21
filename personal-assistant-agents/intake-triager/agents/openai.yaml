@@ -1,0 +1,4 @@
+interface:
+  display_name: "Intake Triager"
+  short_description: "Route mixed requests across vault-maintenance and marketplace lanes."
+  default_prompt: "Use $intake-triager to route this request across the vault-maintenance and marketplace-selling sub-agent stack."

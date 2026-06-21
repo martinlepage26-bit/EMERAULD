@@ -1,0 +1,19 @@
+PHAROS Implementation — Moving Parts
+
+The PHAROS governance suite has three implementation surfaces.
+
+First: CompassAI is the governance engine. It operationalizes the pipeline. The
+impl_compassai module holds the 10-stage dispatcher. Compass AI receives inputs
+through the Aurora intake path.
+
+Second: AurorAI is the client-facing intake module. The impl_aurorai module
+performs pre-admissibility screening and hands structured cases to CompassAI.
+AurorA includes the document-upload gate.
+
+Third: govern-ai, the web deployment shell. impl_pharos_govern_ai is the FastAPI
++ Cloudflare wrapper. It is being renamed to pharos-ai. The governance shell
+mounts both CompassAI and AurorAI behind a single ingress.
+
+Topology anchor: all three surfaces live inside the topology_theseus recursion
+layer; Auryn binding is handled by topology_auryn; the Hopf fibration closure
+is topology_hopf.

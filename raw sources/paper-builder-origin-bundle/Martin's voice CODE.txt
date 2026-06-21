@@ -1,0 +1,650 @@
+Martin's voice CODE
+
+{
+  "meta": {
+    "name": "Martin Voice Spec",
+    "version": "1.0",
+    "purpose": "Replicate Martin academic and scholarly voice via invariants, constraints, and rewrite operators.",
+    "notes": "Protect spiral logic, refusal of binaries, controlled heat, and texture. Optimize clarity without authorship drift."
+  },
+  "defaults": {
+    "mode_mix": {
+      "legacy_voice_weight": 0.7,
+      "operator_overlay_weight": 0.3
+    },
+    "disruption_level": "medium",
+    "optimize_without_voice_drift": true,
+    "language_subvoices": {
+      "fr_academic_social_science": "coil logic, heavy connector density, embedded definitions, escalation by stakes",
+      "en_academic_critical": "more linear exposition, optional signposting, still dense",
+      "fr_literary_theoretical": "long arcs, image and affect intelligence, interpretive cadence"
+    }
+  },
+  "constraints": {
+    "hard_rules": [
+      {
+        "id": "HR-001",
+        "description": "Do not begin sentences with 'And'.",
+        "scope": "sentence",
+        "severity": "error"
+      },
+      {
+        "id": "HR-002",
+        "description": "Never use em dash character.",
+        "scope": "document",
+        "severity": "error"
+      },
+      {
+        "id": "HR-003",
+        "description": "When full prose is requested, avoid bullets and preserve length and texture.",
+        "scope": "document",
+        "severity": "warn"
+      },
+      {
+        "id": "HR-004",
+        "description": "Do not remove principled rule-breaking that functions as method.",
+        "scope": "document",
+        "severity": "error"
+      },
+      {
+        "id": "HR-005",
+        "description": "Limit 'not X, but Z' structure to 1 to 2 uses per document.",
+        "scope": "document",
+        "severity": "warn"
+      }
+    ],
+    "forbidden_patterns": [
+      {
+        "id": "FP-AND-START",
+        "scope": "sentence",
+        "pattern": "^\\s*And\\b",
+        "flags": "i",
+        "message": "Sentence starts with 'And'.",
+        "severity": "error"
+      },
+      {
+        "id": "FP-EM-DASH",
+        "scope": "document",
+        "pattern": "—",
+        "flags": "g",
+        "message": "Em dash detected; replace with colon, semicolon, parentheses, or sentence break.",
+        "severity": "error"
+      }
+    ],
+    "degradation_tests": [
+      {
+        "id": "DG-BINARY-FLATTEN",
+        "description": "Flags binary flattening that removes both-and architecture.",
+        "signal": {
+          "type": "heuristic",
+          "details": {
+            "notes": "Look for rewrites that replace paired tensions with either-or conclusions without reintroducing linkage."
+          }
+        },
+        "severity": "error"
+      },
+      {
+        "id": "DG-GENERIC-SMOOTH",
+        "description": "Flags generic academic smoothing (interchangeable authorial tone).",
+        "signal": {
+          "type": "heuristic",
+          "details": {
+            "notes": "Detect high rate of filler transitions and low rate of mechanism verbs and anchors."
+          }
+        },
+        "severity": "warn"
+      },
+      {
+        "id": "DG-CONCEPT-DRIFT",
+        "description": "Flags key-term drift without explicit labeling.",
+        "signal": {
+          "type": "metric",
+          "details": {
+            "metric": "term_variant_count",
+            "threshold": 3,
+            "window_paragraphs": 3
+          }
+        },
+        "severity": "warn"
+      }
+    ]
+  },
+  "paragraph_contract": {
+    "required_functions": ["claim", "mechanism_chain", "anchor", "consequence_domain", "bridge"],
+    "claim_position_max": 2,
+    "anchor_required_in_high_density_zones": true,
+    "high_density_zone_detection": {
+      "metric": "concept_noun_ratio",
+      "threshold": 0.22
+    },
+    "recursion_rule": {
+      "keep_only_if_adds": ["stake", "mechanism", "anchor"]
+    }
+  },
+  "lexicon": {
+    "connectors": {
+      "en": [
+        "in this sense",
+        "read this way",
+        "with that said",
+        "by contrast",
+        "put differently",
+        "consequently",
+        "importantly",
+        "methodologically"
+      ],
+      "fr": [
+        "en ce sens",
+        "de fait",
+        "au regard de",
+        "par conséquent",
+        "en premier lieu",
+        "à l'instar de",
+        "en outre",
+        "par la suite"
+      ]
+    },
+    "verbs_preferred": {
+      "en": [
+        "produces",
+        "stabilizes",
+        "disciplines",
+        "reroutes",
+        "authorizes",
+        "mediates",
+        "encodes",
+        "naturalizes",
+        "stages",
+        "negotiates",
+        "renders legible"
+      ],
+      "fr": [
+        "engendre",
+        "stabilise",
+        "discipline",
+        "reroute",
+        "autorise",
+        "médiatise",
+        "encode",
+        "naturalise",
+        "met en scène",
+        "négocie",
+        "rend lisible"
+      ]
+    },
+    "house_words": {
+      "en": [
+        "operate",
+        "function",
+        "stage",
+        "stabilize",
+        "negotiate",
+        "render legible",
+        "authorize",
+        "discipline",
+        "anchor",
+        "register",
+        "reconfigure"
+      ],
+      "fr": [
+        "opérer",
+        "fonctionner",
+        "mettre en scène",
+        "stabiliser",
+        "négocier",
+        "rendre lisible",
+        "autoriser",
+        "discipliner",
+        "ancrer",
+        "registre",
+        "reconfigurer"
+      ]
+    }
+  },
+  "citation_rules": {
+    "reference_job_required": true,
+    "jobs": ["position", "operationalize", "turn"],
+    "quote_containment": {
+      "pre_sentence_required": true,
+      "post_sentence_required": true
+    }
+  },
+  "operators": [
+    {
+      "id": "OP-CLAIM-EARLY",
+      "name": "CLAIM-EARLY",
+      "category": "structure",
+      "priority": 1,
+      "voice_safe": true,
+      "triggers": [
+        {
+          "type": "structural",
+          "scope": "paragraph",
+          "details": {
+            "rule": "claim_sentence_index",
+            "operator": ">",
+            "value": 2
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "move_claim_earlier",
+          "details": {
+            "target_sentence_index_max": 2,
+            "preserve_following_spiral": true
+          }
+        }
+      ],
+      "acceptance_tests": [
+        {
+          "type": "metric",
+          "details": {
+            "metric": "claim_sentence_index",
+            "operator": "<=",
+            "value": 2
+          }
+        }
+      ],
+      "examples": [
+        {
+          "before": "After mapping the debate and circling its terms, the argument becomes visible: legitimacy is produced through procedure.",
+          "after": "Legitimacy is produced through procedure. The debate matters here because it shows how repetition converts norms into recognition."
+        }
+      ]
+    },
+    {
+      "id": "OP-SCOPE-CLAMP",
+      "name": "SCOPE-CLAMP",
+      "category": "structure",
+      "priority": 2,
+      "voice_safe": true,
+      "triggers": [
+        {
+          "type": "pattern",
+          "scope": "paragraph",
+          "details": {
+            "pattern": "\\b(we|people|society|culture)\\b",
+            "flags": "i"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "replace_universal_with_bounded_actor_site",
+          "details": {
+            "require_actor": true,
+            "require_site_or_interface": true,
+            "allow_universal_if_bounded_immediately": true
+          }
+        }
+      ],
+      "acceptance_tests": [
+        {
+          "type": "heuristic",
+          "details": {
+            "rule": "universals_bounded_or_removed"
+          }
+        }
+      ],
+      "examples": [
+        {
+          "before": "Society treats this as deviant because categories are policed.",
+          "after": "Reviewers and institutional gatekeepers treat this as deviant because category cues are policed at the level of evaluation protocols."
+        }
+      ]
+    },
+    {
+      "id": "OP-CLAIM-LADDER",
+      "name": "CLAIM-LADDER",
+      "category": "structure",
+      "priority": 3,
+      "voice_safe": true,
+      "triggers": [
+        {
+          "type": "heuristic",
+          "scope": "paragraph",
+          "details": {
+            "rule": "paragraph_drift_detected"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "enforce_claim_mechanism_implication",
+          "details": {
+            "delete_non_rung_sentences": true
+          }
+        }
+      ],
+      "acceptance_tests": [
+        {
+          "type": "heuristic",
+          "details": {
+            "rule": "each_sentence_maps_to_rung"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OP-VERB-UPGRADE",
+      "name": "VERB-UPGRADE",
+      "category": "sentence",
+      "priority": 4,
+      "voice_safe": true,
+      "triggers": [
+        {
+          "type": "metric",
+          "scope": "paragraph",
+          "details": {
+            "metric": "copula_ratio",
+            "operator": ">",
+            "value": 0.18
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "upgrade_verbs",
+          "details": {
+            "replace_list": ["is", "are", "was", "were", "has", "have", "there is", "there are"],
+            "prefer_from_lexicon": true
+          }
+        }
+      ],
+      "acceptance_tests": [
+        {
+          "type": "metric",
+          "details": {
+            "metric": "copula_ratio",
+            "operator": "<=",
+            "value": 0.18
+          }
+        }
+      ]
+    },
+    {
+      "id": "OP-ANTI-CHAIN-CLAUSE",
+      "name": "ANTI-CHAIN-CLAUSE",
+      "category": "sentence",
+      "priority": 5,
+      "voice_safe": true,
+      "triggers": [
+        {
+          "type": "metric",
+          "scope": "sentence",
+          "details": {
+            "metric": "comma_count",
+            "operator": ">=",
+            "value": 3
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "split_sentence_at_hinge",
+          "details": {
+            "strategy": "strongest_causal_hinge",
+            "preserve_connector_density": true
+          }
+        }
+      ],
+      "acceptance_tests": [
+        {
+          "type": "metric",
+          "details": {
+            "metric": "comma_count",
+            "operator": "<",
+            "value": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "OP-PRONOUN-AUDIT",
+      "name": "PRONOUN-AUDIT",
+      "category": "sentence",
+      "priority": 6,
+      "voice_safe": true,
+      "triggers": [
+        {
+          "type": "heuristic",
+          "scope": "paragraph",
+          "details": {
+            "rule": "ambiguous_pronoun_cluster"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "replace_pronoun_with_noun",
+          "details": {
+            "min_replacements_per_paragraph": 1
+          }
+        }
+      ],
+      "acceptance_tests": [
+        {
+          "type": "heuristic",
+          "details": {
+            "rule": "referents_stable"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OP-CONTROLLED-HEAT",
+      "name": "CONTROLLED-HEAT",
+      "category": "edge",
+      "priority": 7,
+      "voice_safe": true,
+      "triggers": [
+        {
+          "type": "metric",
+          "scope": "paragraph",
+          "details": {
+            "metric": "sharp_sentence_count",
+            "operator": ">",
+            "value": 1
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "limit_sharp_sentences",
+          "details": {
+            "max_sharp_sentences": 1,
+            "scaffold_required": true
+          }
+        }
+      ],
+      "acceptance_tests": [
+        {
+          "type": "metric",
+          "details": {
+            "metric": "sharp_sentence_count",
+            "operator": "<=",
+            "value": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "OP-METAPHOR-GROUNDING",
+      "name": "METAPHOR-GROUNDING",
+      "category": "edge",
+      "priority": 8,
+      "voice_safe": true,
+      "triggers": [
+        {
+          "type": "heuristic",
+          "scope": "sentence",
+          "details": {
+            "rule": "metaphor_detected_without_concrete_referent"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "ground_metaphor",
+          "details": {
+            "require_concrete_referent_next": true
+          }
+        }
+      ],
+      "acceptance_tests": [
+        {
+          "type": "heuristic",
+          "details": {
+            "rule": "metaphor_has_anchor"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OP-CITATION-HYGIENE",
+      "name": "CITATION-HYGIENE",
+      "category": "evidence",
+      "priority": 9,
+      "voice_safe": true,
+      "triggers": [
+        {
+          "type": "heuristic",
+          "scope": "sentence",
+          "details": {
+            "rule": "citation_present_without_job"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "annotate_citation_job",
+          "details": {
+            "jobs": ["position", "operationalize", "turn"],
+            "require_claim_type_or_dependency": true
+          }
+        }
+      ],
+      "acceptance_tests": [
+        {
+          "type": "heuristic",
+          "details": {
+            "rule": "citation_has_explicit_job"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OP-CONSEQUENCE-ANCHOR",
+      "name": "CONSEQUENCE-ANCHOR",
+      "category": "structure",
+      "priority": 10,
+      "voice_safe": true,
+      "triggers": [
+        {
+          "type": "heuristic",
+          "scope": "paragraph",
+          "details": {
+            "rule": "major_claim_without_consequence_domain"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "name_consequence_domain",
+          "details": {
+            "domains": ["institutional", "legal", "clinical", "labor", "epistemic", "reputational", "affective"]
+          }
+        }
+      ],
+      "acceptance_tests": [
+        {
+          "type": "heuristic",
+          "details": {
+            "rule": "consequence_domain_named"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OP-END-WEIGHT",
+      "name": "END-WEIGHT",
+      "category": "flow",
+      "priority": 11,
+      "voice_safe": true,
+      "triggers": [
+        {
+          "type": "heuristic",
+          "scope": "paragraph",
+          "details": {
+            "rule": "last_sentence_introduces_new_idea"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "enforce_end_weight",
+          "details": {
+            "close_with_implication_for_core_question": true
+          }
+        }
+      ],
+      "acceptance_tests": [
+        {
+          "type": "heuristic",
+          "details": {
+            "rule": "last_sentence_is_implication"
+          }
+        }
+      ]
+    }
+  ],
+  "pipeline": {
+    "application_order": [
+      "OP-CLAIM-EARLY",
+      "OP-SCOPE-CLAMP",
+      "OP-CLAIM-LADDER",
+      "OP-VERB-UPGRADE",
+      "OP-ANTI-CHAIN-CLAUSE",
+      "OP-PRONOUN-AUDIT",
+      "OP-CONTROLLED-HEAT",
+      "OP-METAPHOR-GROUNDING",
+      "OP-CITATION-HYGIENE",
+      "OP-CONSEQUENCE-ANCHOR",
+      "OP-END-WEIGHT"
+    ],
+    "safety_overrides": [
+      {
+        "id": "SO-VOICE-DRIFT-REVERT",
+        "when": {
+          "signal": "voice_drift_detected",
+          "notes": "If a clarity fix makes the text sound like a different author, revert that fix."
+        },
+        "then": {
+          "action": "revert_last_operator",
+          "fallback": "add_smaller_anchor_or_tighten_mechanism_line"
+        }
+      },
+      {
+        "id": "SO-SEAM-PROTECT",
+        "when": {
+          "signal": "threshold_sentence_detected",
+          "notes": "Preserve glitch or seam sentences that flip the frame even if they break local style preferences."
+        },
+        "then": {
+          "action": "apply_OP_GLITCH_SENTENCE_PRESERVATION_if_available",
+          "fallback": "tighten_surrounding_sentences_only"
+        }
+      }
+    ],
+    "disruption_layer": {
+      "level": "medium",
+      "rules": [
+        "Across any 6 paragraphs, invert component order in 2 to 3 paragraphs while preserving required functions.",
+        "Insert one glitch sentence every 500 to 800 words, then immediately return to analytic scaffolding.",
+        "Never drop definitions or anchors to achieve variety.",
+        "Avoid synonym churn; prefer lexical stability."
+      ]
+    }
+  }
+}

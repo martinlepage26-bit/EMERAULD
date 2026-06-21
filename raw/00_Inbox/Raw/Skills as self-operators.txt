@@ -1,0 +1,200 @@
+Each skill is a self-contained operator that can act end-to-end within its domain while preserving internal discipline.
+
+1) SIGNAL JUDGMENT
+
+Claim This skill detects, judges, and renders reality legible. It does not pass information forward; it resolves it.
+
+Domain External world: regulation, standards, vendors, incidents, discourse, signals.
+
+What it does
+
+Identifies what changed
+Determines what is actually evidenced
+Separates fact, inference, and speculation
+Names consequence domains
+Produces a brief that is already adjudicated
+
+Output form A single brief where every claim is tagged by epistemic status and consequence.
+
+Constraint No unresolved ambiguity is hidden. If evidence is thin, the thinness is explicit.
+
+Failure This skill fails when it reports instead of adjudicates.
+
+2) CONTROL INTERPRETATION
+
+Claim This skill translates reality into obligation. It defines what must move, who owns it, and what counts as proof.
+
+Domain Governance systems: controls, frameworks, responsibilities, assurance.
+
+What it does
+
+Maps events to control domains
+Distinguishes law, standard, and pressure
+Assigns ownership
+Defines evidence requirements
+Sets priority and time horizon
+
+Output form A control position: what changes, where, for whom, and with what burden of proof.
+
+Constraint No mapping without mechanism. No obligation without basis.
+
+Failure This skill fails when it lists frameworks without changing action.
+
+3) STRUCTURED MEMORY
+
+Claim This skill holds the world in memory without flattening it. It preserves relation, trace, and structure.
+
+Domain Knowledge systems: notes, vaults, repositories, evidence stores.
+
+What it does
+
+Stores claims with provenance
+Links concepts, actors, and events
+Preserves trace from source to output
+Marks uncertainty and contradiction
+
+Output form A living graph where every node can be traced and situated.
+
+Constraint Nothing is stored without relation. Nothing is asserted without trace.
+
+Failure This skill fails when memory becomes accumulation instead of structure.
+
+4) PUBLICATION TRANSFORMATION
+
+Claim This skill transforms governed knowledge into public form without losing its structure.
+
+Domain Publication: essays, posts, briefs, interfaces.
+
+What it does
+
+Extracts governing claims
+Compresses without distortion
+Preserves epistemic distinctions
+Adapts tone to audience
+
+Output form A text that remains defensible after compression.
+
+Constraint Style cannot outrun evidence.
+
+Failure This skill fails when performance replaces proof.
+
+5) STRUCTURE AND LINEAGE AUDIT
+
+Claim This skill reveals structure and origin simultaneously. It inspects what is said and how it came to be.
+
+Domain Analysis and audit: texts, systems, workflows, artifacts.
+
+What it does
+
+Extracts governing claims
+Identifies structural breaks and hidden assumptions
+Reconstructs provenance chains
+Distinguishes explicit trace from inferred reconstruction
+
+Output form An audit that shows both argument integrity and lineage strength.
+
+Constraint No smoothing before diagnosis. No claim without examining its chain.
+
+Failure This skill fails when it beautifies instead of exposing.
+
+6) SYSTEM MAPPING
+
+Claim This skill turns sprawl into territory. It defines what exists, where it lives, and how it relates.
+
+Domain Systems and environments: files, repos, folders, infrastructures.
+
+What it does
+
+Maps structures and hierarchies
+Identifies active, duplicate, and orphaned zones
+Recommends placement and cleanup
+Preserves dependencies during change
+
+Output form A map that allows safe action.
+
+Constraint Nothing is deleted before being understood.
+
+Failure This skill fails when it cleans without seeing.
+
+7) DESIGN COHERENCE
+
+Claim This skill enforces coherence across variation. It allows difference only when anchored.
+
+Domain Design systems: websites, interfaces, artifact families.
+
+What it does
+
+Defines invariants
+Assigns form to content
+Maintains system-level coherence
+Allows controlled variation
+
+Output form A system where each part differs but belongs.
+
+Constraint Difference must be justified by function.
+
+Failure This skill fails when either monotony or drift takes over.
+
+8) SKILL GOVERNANCE
+
+Claim This skill maintains the integrity of all other skills. It prevents drift, collapse of evaluation, and silent substitution.
+
+Domain Meta-system: skills, prompts, workflows.
+
+What it does
+
+Defines boundaries and authority
+Separates creation from evaluation
+Anchors revisions to operator intent
+Detects drift across iterations
+
+Output form A stable, inspectable skill that can be trusted over time.
+
+Constraint No system rewrites itself without external check.
+
+Failure This skill fails when fluency is mistaken for improvement.
+
+Structural note
+
+Each skill is sovereign in its domain. They can interact, but none depends on another to complete its function. The system holds because each unit already contains its own discipline: detection, judgment, trace, and consequence are internal, not outsourced.
+
+Authority Resolution Rule
+
+Claim Truth is not established by detection alone or by audit alone. It is established by the point at which a claim can both justify action and survive scrutiny.
+
+Rule
+
+Signal Judgment determines whether a claim is actionable
+Structure and Lineage Audit determines whether that claim is defensible
+
+Resolution condition A claim is treated as authoritative only if:
+
+It meets the action threshold (sufficient evidence to justify movement), and
+Its reasoning and provenance can withstand audit without unresolved breaks
+
+If they disagree
+
+If actionable but not defensible → downgrade: provisional, flagged, or withheld from action depending on consequence
+If defensible but not actionable → retain as structured knowledge, not as a trigger for movement
+
+Consequence
+
+Action requires dual validation: sufficiency (can we act?) and integrity (can we defend it?)
+Memory stores both states, but only dual-valid claims propagate into control decisions and publication without qualification
+
+Failure condition The system fails when either:
+
+Action proceeds without audit integrity, or
+Audit blocks action without naming what would satisfy the threshold
+
+Effect on system This rule anchors final authority over truth. No single skill can declare a claim fully valid on its own. Validity emerges only at the intersection of action and defensibility.
+
+
+Before a claim is judged, the system must state:
+what counts as sufficient evidence
+what counts as audit survival
+Those thresholds become part of the output
+Neither Signal Judgment nor Audit can change them mid-process
+What this does structurally
+
+It removes the last source of silent substitution.

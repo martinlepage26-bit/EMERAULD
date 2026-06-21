@@ -1,0 +1,77 @@
+/* Ethereal Magic Obsidian Graph View — purple / teal */
+body {
+  --graph-text: rgba(238, 230, 255, 0.92);
+
+  --graph-line: rgba(119, 255, 225, 0.22);
+
+  --graph-node: #e9d8ff;
+  --graph-node-unresolved: #ff6ec7;
+  --graph-node-focused: #f8d7ff;
+  --graph-node-tag: #5fffe0;
+  --graph-node-attachment: #9d7cff;
+}
+
+/* Dreamy graph background */
+.workspace-leaf-content[data-type="graph"] .view-content,
+.workspace-leaf-content[data-type="localgraph"] .view-content {
+  background:
+    radial-gradient(circle at 20% 20%, rgba(157, 124, 255, 0.22), transparent 30%),
+    radial-gradient(circle at 80% 70%, rgba(95, 255, 224, 0.18), transparent 35%),
+    radial-gradient(circle at 50% 50%, rgba(255, 110, 199, 0.10), transparent 45%),
+    linear-gradient(135deg, #080614 0%, #11102a 45%, #061c25 100%);
+}
+
+/* Soft magical glow over the graph canvas */
+.graph-view canvas {
+  filter:
+    drop-shadow(0 0 6px rgba(157, 124, 255, 0.45))
+    drop-shadow(0 0 12px rgba(95, 255, 224, 0.28))
+    saturate(1.25)
+    contrast(1.08);
+}
+
+/* Core graph colors */
+.graph-view.color-fill {
+  color: #d8c7ff;
+}
+
+.graph-view.color-line {
+  color: rgba(119, 255, 225, 0.25);
+  opacity: 0.55;
+}
+
+.graph-view.color-text {
+  color: rgba(238, 230, 255, 0.9);
+}
+
+/* Focused note: moonlit lavender */
+.graph-view.color-fill-focused {
+  color: #f8d7ff;
+}
+
+/* Hover / highlighted path: arcane pink-purple */
+.graph-view.color-fill-highlight,
+.graph-view.color-line-highlight {
+  color: #ff6ec7;
+}
+
+/* Tags: glowing teal */
+.graph-view.color-fill-tag {
+  color: #5fffe0;
+}
+
+/* Attachments: violet crystals */
+.graph-view.color-fill-attachment {
+  color: #9d7cff;
+}
+
+/* Unresolved notes: enchanted rose */
+.graph-view.color-fill-unresolved {
+  color: #ff8fd6;
+}
+
+/* Subtle extra polish around graph panes */
+.workspace-leaf-content[data-type="graph"],
+.workspace-leaf-content[data-type="localgraph"] {
+  box-shadow: inset 0 0 60px rgba(157, 124, 255, 0.12);
+}

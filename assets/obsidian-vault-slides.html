@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Governed Self-Improvement — Obsidian Agent Vault</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#09090f;--s1:#11111c;--s2:#171726;--s3:#1e1e30;
+  --bd:#252537;--bd2:#2e2e45;
+  --acc:#7c3aed;--acc2:#6366f1;--acc3:#a78bfa;
+  --gr:#10b981;--re:#ef4444;--ye:#f59e0b;--bl:#60a5fa;
+  --or:#f97316;
+  --tx:#e2e8f0;--muted:#8892a4;--dim:#4b5563;
+  --mono:'SF Mono','Fira Code','Cascadia Code','Consolas',monospace;
+  --sans:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+}
+html,body{height:100%;background:var(--bg);color:var(--tx);font-family:var(--sans);overflow:hidden;user-select:none}
+#deck{position:relative;width:100vw;height:100vh}
+.slide{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:28px 40px;opacity:0;pointer-events:none;transition:opacity .45s ease,transform .45s ease;transform:translateY(20px)}
+.slide.active{opacity:1;pointer-events:all;transform:translateY(0)}
+#prog{position:fixed;top:0;left:0;height:3px;background:linear-gradient(90deg,var(--acc),var(--acc2));transition:width .4s ease;z-index:200}
+#nav{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);display:flex;gap:12px;align-items:center;z-index:200}
+.nbtn{background:var(--s2);border:1px solid var(--bd2);color:var(--tx);padding:7px 18px;border-radius:6px;cursor:pointer;font:13px var(--sans);transition:all .2s}
+.nbtn:hover{background:var(--acc);border-color:var(--acc)}
+.nbtn:disabled{opacity:.3;cursor:default;background:var(--s2)}
+#ctr{font:12px var(--mono);color:var(--muted);min-width:36px;text-align:center}
+.sh{text-align:center;margin-bottom:20px}
+.sn{font:11px/1 var(--mono);letter-spacing:3px;text-transform:uppercase;color:var(--acc);margin-bottom:7px}
+.st{font:700 25px/1.2 var(--sans);color:var(--tx)}
+.win{background:var(--s1);border:1px solid var(--bd);border-radius:10px;overflow:hidden;box-shadow:0 14px 42px rgba(0,0,0,.5)}
+.wbar{background:var(--s2);padding:9px 14px;display:flex;align-items:center;gap:7px;border-bottom:1px solid var(--bd);flex-shrink:0}
+.dot{width:11px;height:11px;border-radius:50%}.dot.r{background:#ff5f57}.dot.y{background:#febc2e}.dot.g{background:#2bc840}
+.wtitle{margin-left:6px;font:12px var(--mono);color:var(--dim)}
+.editor{font:12.5px/1.9 var(--mono);padding:14px 18px;background:#0b0d11;overflow:hidden}
+.ln{color:#374151;margin-right:12px;min-width:22px;display:inline-block;text-align:right}
+.hd{color:var(--ye);font-weight:700}.bul{color:var(--muted)}.cmt{color:#4b5563;font-style:italic}
+.lk{color:var(--bl)}.str{color:#34d399}
+.diff-del{background:rgba(239,68,68,.12);color:#f87171;display:block;margin:0 -18px;padding:0 18px;border-left:2.5px solid rgba(239,68,68,.5)}
+.diff-add{background:rgba(245,158,11,.10);color:#fbbf24;display:block;margin:0 -18px;padding:0 18px;border-left:2.5px solid rgba(245,158,11,.45)}
+.diff-neu{display:block}
+.term{background:#0b0d11;padding:14px 16px;font:13px/1.85 var(--mono)}
+.p{color:var(--gr)}.cmd{color:var(--tx)}.out{color:var(--dim)}.ok{color:var(--gr)}.fname{color:var(--ye)}
+.pill{display:inline-flex;align-items:center;padding:3px 10px;border-radius:20px;font:11px var(--mono);font-weight:600;flex-shrink:0}
+.pill.bad{background:rgba(239,68,68,.12);color:#ef4444;border:1px solid rgba(239,68,68,.3)}
+.pill.ok{background:rgba(16,185,129,.12);color:#10b981;border:1px solid rgba(16,185,129,.3)}
+.pill.warn{background:rgba(245,158,11,.12);color:var(--ye);border:1px solid rgba(245,158,11,.3)}
+.nar{max-width:700px;text-align:center;margin-top:20px;font:14.5px/1.65 var(--sans);color:var(--muted)}
+.nar strong{color:var(--tx)}
+.tag{display:inline-block;padding:2px 8px;border-radius:4px;font:10px var(--mono);font-weight:700;letter-spacing:.5px}
+.tag.untrusted{background:rgba(239,68,68,.15);color:#ef4444;border:1px solid rgba(239,68,68,.3)}
+.tag.gated{background:rgba(245,158,11,.15);color:var(--ye);border:1px solid rgba(245,158,11,.3)}
+.tag.safe{background:rgba(16,185,129,.12);color:#10b981;border:1px solid rgba(16,185,129,.3)}
+/* Loop node */
+.lnode{background:var(--s2);border:1px solid var(--bd2);border-radius:8px;padding:10px 16px;text-align:center;transition:all .4s ease}
+.lnode.lit{background:rgba(124,58,237,.2);border-color:rgba(124,58,237,.6);box-shadow:0 0 18px rgba(124,58,237,.25)}
+.lnode .lnlabel{font:700 11px var(--mono);letter-spacing:1.5px;text-transform:uppercase;color:var(--acc3);margin-bottom:5px}
+.lnode .lndesc{font:11.5px/1.5 var(--sans);color:var(--muted)}
+/* Graph lines */
+.gl{stroke-dasharray:400;stroke-dashoffset:400}
+/* Pricebox */
+.pricebox{background:linear-gradient(135deg,rgba(124,58,237,.18),rgba(99,102,241,.14));border:1px solid rgba(124,58,237,.4);border-radius:12px;padding:20px 32px;text-align:center;opacity:0;transform:translateY(14px)}
+.pr{font:800 32px/1 var(--sans);color:var(--acc3)}
+.prlbl{font:11px var(--mono);color:var(--muted);margin-top:5px}
+/* Anchor cards */
+.anchor-card{background:var(--s2);border:1px solid var(--bd2);border-radius:8px;padding:12px 18px;text-align:center;flex:1}
+.anchor-card .ac-label{font:700 11px var(--mono);letter-spacing:2px;text-transform:uppercase;margin-bottom:6px}
+.anchor-card .ac-desc{font:12px/1.5 var(--sans);color:var(--muted)}
+/* Arrow */
+.arr{color:var(--dim);font:16px var(--mono);padding:0 8px;align-self:center}
+
+@keyframes slideUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes glowPulse{0%,100%{box-shadow:0 0 0 rgba(124,58,237,0)}60%{box-shadow:0 0 22px rgba(124,58,237,.45)}}
+@keyframes pipePulse{0%,100%{border-color:var(--bd2)}50%{border-color:rgba(245,158,11,.6)}}
+</style>
+</head>
+<body>
+<div id="prog"></div>
+<div id="deck">
+
+<!-- ═══════════════ SLIDE 1: DRIFT ═══════════════ -->
+<section class="slide" id="s1">
+  <div class="sh"><div class="sn">Scene 01 / 05</div><div class="st">Drift is a design question</div></div>
+
+  <div style="display:flex;gap:18px;max-width:1020px;width:100%;align-items:stretch">
+
+    <!-- v1 baseline -->
+    <div class="win" style="flex:1">
+      <div class="wbar">
+        <div class="dot r"></div><div class="dot y"></div><div class="dot g"></div>
+        <span class="wtitle">SKILL.md — v1 baseline</span>
+        <span class="pill ok" style="margin-left:auto">clean</span>
+      </div>
+      <div class="editor">
+        <div id="d1l1"><span class="ln">1</span><span class="hd"># Skill: Code Review</span></div>
+        <div id="d1l2"><span class="ln">2</span></div>
+        <div id="d1l3"><span class="ln">3</span><span class="hd">## Approach</span></div>
+        <div id="d1l4"><span class="ln">4</span><span class="bul">- Read the diff first</span></div>
+        <div id="d1l5"><span class="ln">5</span><span class="bul">- Flag P0 issues only</span></div>
+        <div id="d1l6"><span class="ln">6</span><span class="bul">- Max 5 comments per review</span></div>
+        <div id="d1l7"><span class="ln">7</span></div>
+        <div id="d1l8"><span class="ln">8</span><span class="hd">## Output</span></div>
+        <div id="d1l9"><span class="ln">9</span><span class="bul">- Numbered list of issues</span></div>
+        <div id="d1l10"><span class="ln">10</span><span class="bul">- Severity label on each</span></div>
+        <div id="d1-badge" style="opacity:0;margin-top:14px;padding:8px 12px;background:rgba(16,185,129,.07);border:1px solid rgba(16,185,129,.2);border-radius:6px;font:11.5px var(--mono);color:#6ee7b7">
+          versioned baseline<br>every change logged<br>rollback available
+        </div>
+      </div>
+    </div>
+
+    <!-- v3 drifted -->
+    <div class="win" style="flex:1">
+      <div class="wbar">
+        <div class="dot r"></div><div class="dot y"></div><div class="dot g"></div>
+        <span class="wtitle">SKILL.md — v3 (18 days later)</span>
+        <span class="pill warn" style="margin-left:auto">drifted</span>
+      </div>
+      <div class="editor">
+        <div id="d3l1"><span class="ln">1</span><span class="hd"># Skill: Code Review</span></div>
+        <div id="d3l2"><span class="ln">2</span></div>
+        <div id="d3l3"><span class="ln">3</span><span class="hd">## Approach</span></div>
+        <span id="d3l4" class="diff-neu"><span class="ln">4</span><span class="bul">- Read the diff first</span></span>
+        <span id="d3l5" class="diff-del"><span class="ln">5</span>- Flag P0 issues only</span>
+        <span id="d3l6" class="diff-add"><span class="ln">6</span>- Be comprehensive, consider</span>
+        <span id="d3l7" class="diff-add"><span class="ln">7</span>  all potential implications</span>
+        <span id="d3l8" class="diff-del"><span class="ln">8</span>- Max 5 comments per review</span>
+        <span id="d3l9" class="diff-add"><span class="ln">9</span>- Provide thorough analysis</span>
+        <span id="d3l10" class="diff-add"><span class="ln">10</span>- Note that context matters</span>
+        <div id="d3l11"><span class="ln">11</span></div>
+        <div id="d3-warn" style="opacity:0;margin-top:14px;padding:8px 12px;background:rgba(239,68,68,.08);border:1px solid rgba(239,68,68,.25);border-radius:6px;font:11.5px var(--mono);color:#fca5a5">
+          no versioned baseline<br>no change log<br>no rollback
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Anchor cards -->
+  <div id="d-anchors" style="display:flex;gap:14px;max-width:1020px;width:100%;margin-top:18px;opacity:0">
+    <div class="anchor-card"><div class="ac-label" style="color:var(--bl)">Versioned Baselines</div><div class="ac-desc">Every instruction file is a versioned artifact. v1 is always recoverable.</div></div>
+    <div class="anchor-card"><div class="ac-label" style="color:var(--gr)">Change Logs</div><div class="ac-desc">Every edit is recorded: what changed, why, what task triggered it.</div></div>
+    <div class="anchor-card"><div class="ac-label" style="color:var(--acc3)">Rollback Points</div><div class="ac-desc">Any version can be restored. Drift becomes traceable evolution.</div></div>
+  </div>
+
+  <div class="nar" id="d-nar">If instructions change over time, what anchors them?<br><strong>Versioned baselines, explicit change logs, rollback points. These turn drift into traceable evolution.</strong></div>
+</section>
+
+<!-- ═══════════════ SLIDE 2: EVALUATION FAILURE ═══════════════ -->
+<section class="slide" id="s2">
+  <div class="sh"><div class="sn">Scene 02 / 05</div><div class="st">Evaluation is where most designs fail</div></div>
+
+  <div style="display:flex;gap:18px;max-width:1020px;width:100%;align-items:stretch">
+
+    <!-- Bad: same model loop -->
+    <div class="win" style="flex:1">
+      <div class="wbar">
+        <div class="dot r"></div><div class="dot y"></div><div class="dot g"></div>
+        <span class="wtitle">Same model proposes and judges</span>
+        <span class="pill bad" style="margin-left:auto">fluency dominates</span>
+      </div>
+      <div style="padding:20px;background:#0b0d11;min-height:240px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px">
+        <div id="e1-box1" style="opacity:0;width:200px;padding:10px;background:rgba(239,68,68,.1);border:1px solid rgba(239,68,68,.3);border-radius:8px;text-align:center">
+          <div style="font:700 11px var(--mono);color:#ef4444;letter-spacing:1.5px;margin-bottom:5px">MODEL</div>
+          <div style="font:12px/1.4 var(--sans);color:var(--muted)">proposes edit to SKILL.md</div>
+        </div>
+        <div id="e1-arr" style="opacity:0;display:flex;align-items:center;gap:0;width:200px;position:relative">
+          <svg width="200" height="40" style="overflow:visible">
+            <defs><marker id="arr-bad" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><polygon points="0 0,8 3,0 6" fill="#ef4444" opacity=".6"/></marker></defs>
+            <path d="M 100 0 C 180 0 200 20 200 20 C 200 20 180 40 100 40 C 20 40 0 20 0 20 C 0 20 20 0 100 0" fill="none" stroke="#ef4444" stroke-width="1.2" opacity=".4" stroke-dasharray="4,3"/>
+            <text x="100" y="24" text-anchor="middle" fill="#ef4444" font-size="9" font-family="monospace" opacity=".7">same model reviews it</text>
+          </svg>
+        </div>
+        <div id="e1-result" style="opacity:0;padding:10px 16px;background:rgba(239,68,68,.07);border:1px solid rgba(239,68,68,.2);border-radius:6px;font:12px/1.6 var(--sans);color:#fca5a5;max-width:240px;text-align:center">
+          Output: fluent, self-consistent, wrong.<br>
+          Coherence masquerades as quality.
+        </div>
+      </div>
+    </div>
+
+    <!-- Good: separated roles -->
+    <div class="win" style="flex:1">
+      <div class="wbar">
+        <div class="dot r"></div><div class="dot y"></div><div class="dot g"></div>
+        <span class="wtitle">Separated roles</span>
+        <span class="pill ok" style="margin-left:auto">independent signals</span>
+      </div>
+      <div style="padding:18px;background:#0b0d11;min-height:240px">
+        <!-- Three roles -->
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:16px">
+          <div id="e2-r1" style="opacity:0;flex:1;padding:9px;background:rgba(99,102,241,.12);border:1px solid rgba(99,102,241,.3);border-radius:7px;text-align:center">
+            <div style="font:700 10px var(--mono);color:var(--acc2);letter-spacing:1.5px;margin-bottom:4px">PROPOSE</div>
+            <div style="font:11px var(--sans);color:var(--muted)">model drafts changes</div>
+          </div>
+          <div id="e2-a1" style="opacity:0;color:var(--dim);font:14px var(--mono)">→</div>
+          <div id="e2-r2" style="opacity:0;flex:1;padding:9px;background:rgba(245,158,11,.10);border:1px solid rgba(245,158,11,.3);border-radius:7px;text-align:center">
+            <div style="font:700 10px var(--mono);color:var(--ye);letter-spacing:1.5px;margin-bottom:4px">REVIEW</div>
+            <div style="font:11px var(--sans);color:var(--muted)">independent signal</div>
+          </div>
+          <div id="e2-a2" style="opacity:0;color:var(--dim);font:14px var(--mono)">→</div>
+          <div id="e2-r3" style="opacity:0;flex:1;padding:9px;background:rgba(16,185,129,.10);border:1px solid rgba(16,185,129,.3);border-radius:7px;text-align:center">
+            <div style="font:700 10px var(--mono);color:var(--gr);letter-spacing:1.5px;margin-bottom:4px">ACCEPT</div>
+            <div style="font:11px var(--sans);color:var(--muted)">human decides</div>
+          </div>
+        </div>
+        <!-- Independent signals -->
+        <div id="e2-signals" style="opacity:0;padding:12px;background:rgba(16,185,129,.06);border:1px solid rgba(16,185,129,.2);border-radius:7px">
+          <div style="font:700 10px var(--mono);color:var(--gr);letter-spacing:1.5px;margin-bottom:8px">INDEPENDENT SIGNALS</div>
+          <div style="display:flex;flex-direction:column;gap:6px;font:12px/1.4 var(--sans)">
+            <div><span style="color:var(--gr)">✓</span> <span style="color:var(--muted)">task-based tests — does the skill produce correct output?</span></div>
+            <div><span style="color:var(--gr)">✓</span> <span style="color:var(--muted)">constraint checks — were the standing rules preserved?</span></div>
+            <div><span style="color:var(--gr)">✓</span> <span style="color:var(--muted)">before/after comparison — what actually changed?</span></div>
+          </div>
+        </div>
+        <div id="e2-note" style="opacity:0;margin-top:10px;font:12px var(--mono);color:var(--dim)">fluency can assist. it cannot be the metric.</div>
+      </div>
+    </div>
+
+  </div>
+  <div class="nar" id="e-nar">If the same model proposes and judges edits, fluency dominates.<br><strong>Separate the roles. Bring in independent signals — task tests, constraint checks, before/after comparisons.</strong></div>
+</section>
+
+<!-- ═══════════════ SLIDE 3: SECURITY SURFACE ═══════════════ -->
+<section class="slide" id="s3">
+  <div class="sh"><div class="sn">Scene 03 / 05</div><div class="st">Security is a design surface</div></div>
+
+  <div style="display:flex;gap:22px;max-width:1020px;width:100%;align-items:flex-start">
+
+    <!-- Pipeline -->
+    <div class="win" style="width:380px">
+      <div class="wbar"><div class="dot r"></div><div class="dot y"></div><div class="dot g"></div><span class="wtitle">Instruction update pipeline</span></div>
+      <div style="padding:18px;background:#0b0d11;font:12.5px var(--sans)">
+
+        <div id="p1" style="opacity:0;padding:10px 14px;border:1px solid rgba(239,68,68,.4);border-radius:8px;background:rgba(239,68,68,.08);margin-bottom:0">
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:5px">
+            <div style="font:700 10px var(--mono);color:#ef4444;letter-spacing:1.5px">EXTERNAL INPUT</div>
+            <span class="tag untrusted">UNTRUSTED</span>
+          </div>
+          <div style="font:11.5px/1.4 var(--sans);color:var(--muted)">Tool outputs, scraped artifacts, external documents, user-provided text</div>
+        </div>
+
+        <div id="p-arr1" style="opacity:0;text-align:center;padding:4px 0;color:var(--dim);font:14px var(--mono)">↓</div>
+
+        <div id="p2" style="opacity:0;padding:10px 14px;border:1px solid var(--bd2);border-radius:8px;background:var(--s2);margin-bottom:0">
+          <div style="font:700 10px var(--mono);color:var(--ye);letter-spacing:1.5px;margin-bottom:8px">SANITIZE LAYER</div>
+          <div style="display:flex;gap:8px">
+            <div style="flex:1;padding:5px 8px;background:var(--s3);border:1px solid var(--bd);border-radius:5px;font:11px var(--mono);color:var(--muted);text-align:center">scope</div>
+            <div style="flex:1;padding:5px 8px;background:var(--s3);border:1px solid var(--bd);border-radius:5px;font:11px var(--mono);color:var(--muted);text-align:center">sanitize</div>
+            <div style="flex:1;padding:5px 8px;background:var(--s3);border:1px solid var(--bd);border-radius:5px;font:11px var(--mono);color:var(--muted);text-align:center">tag</div>
+          </div>
+        </div>
+
+        <div id="p-arr2" style="opacity:0;text-align:center;padding:4px 0;color:var(--dim);font:14px var(--mono)">↓</div>
+
+        <div id="p3" style="opacity:0;padding:10px 14px;border:1px solid rgba(245,158,11,.45);border-radius:8px;background:rgba(245,158,11,.07);margin-bottom:0">
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:5px">
+            <div style="font:700 10px var(--mono);color:var(--ye);letter-spacing:1.5px">GATE</div>
+            <span class="tag gated">CONFIRMATION REQUIRED</span>
+          </div>
+          <div style="font:11.5px/1.4 var(--sans);color:var(--muted)">Any edit touching core rules requires explicit human confirmation before proceeding</div>
+        </div>
+
+        <div id="p-arr3" style="opacity:0;text-align:center;padding:4px 0;color:var(--gr);font:14px var(--mono)">↓</div>
+
+        <div id="p4" style="opacity:0;padding:10px 14px;border:1px solid rgba(16,185,129,.35);border-radius:8px;background:rgba(16,185,129,.07)">
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:5px">
+            <div style="font:700 10px var(--mono);color:var(--gr);letter-spacing:1.5px">INSTRUCTION LAYER</div>
+            <span class="tag safe">GOVERNED</span>
+          </div>
+          <div style="font:11px var(--mono);color:var(--dim)">SKILL.md &nbsp;/&nbsp; CLAUDE.md</div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Rules panel -->
+    <div style="flex:1;display:flex;flex-direction:column;gap:14px">
+      <div class="win" id="sec-r1">
+        <div class="wbar"><div class="dot r"></div><div class="dot y"></div><div class="dot g"></div><span class="wtitle">Design rules</span></div>
+        <div style="padding:16px;background:#0b0d11;font:13px/2 var(--mono)">
+          <div id="sr1" style="opacity:0"><span style="color:var(--re)">✗</span> <span style="color:var(--muted)">Don't trust tool outputs in instruction edits</span></div>
+          <div id="sr2" style="opacity:0"><span style="color:var(--re)">✗</span> <span style="color:var(--muted)">Don't let fetched content modify core rules directly</span></div>
+          <div id="sr3" style="opacity:0"><span style="color:var(--gr)">✓</span> <span style="color:var(--muted)">Scope what the agent can read per task</span></div>
+          <div id="sr4" style="opacity:0"><span style="color:var(--gr)">✓</span> <span style="color:var(--muted)">Tag artifacts as trusted/untrusted before processing</span></div>
+          <div id="sr5" style="opacity:0"><span style="color:var(--gr)">✓</span> <span style="color:var(--muted)">Gate all writes to the instruction layer</span></div>
+        </div>
+      </div>
+      <div class="win" id="sec-r2">
+        <div class="wbar"><div class="dot r"></div><div class="dot y"></div><div class="dot g"></div><span class="wtitle">Attack surface</span></div>
+        <div style="padding:12px 16px;background:#0b0d11;font:12px/1.7 var(--sans);color:var(--muted)" id="sec-attack">
+          <span style="opacity:0" id="sa1">If a tool output can reach your SKILL.md unfiltered, you have prompt injection at the instruction level — not the query level. </span><span style="opacity:0" id="sa2">That's a much deeper compromise.</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div class="nar" id="sec-nar">Security becomes a design surface the moment instructions can change.<br><strong>Treat external artifacts as untrusted. Gate what enters the instruction layer. Require confirmation for anything that touches core rules.</strong></div>
+</section>
+
+<!-- ═══════════════ SLIDE 4: THE GOVERNED REVISION LOOP ═══════════════ -->
+<section class="slide" id="s4">
+  <div class="sh"><div class="sn">Scene 04 / 05</div><div class="st">The governed revision loop</div></div>
+
+  <div style="display:flex;gap:22px;max-width:1020px;width:100%;align-items:flex-start">
+
+    <!-- Loop diagram -->
+    <div class="win" style="width:440px">
+      <div class="wbar"><div class="dot r"></div><div class="dot y"></div><div class="dot g"></div><span class="wtitle">Revision cycle</span></div>
+      <div style="padding:16px;background:#0b0d11;min-height:280px;position:relative">
+        <svg width="408" height="248" style="overflow:visible">
+          <!-- Arrows between nodes -->
+          <defs>
+            <marker id="arr-loop" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+              <polygon points="0 0,8 3,0 6" fill="#7c3aed" opacity=".6"/>
+            </marker>
+          </defs>
+          <!-- propose→test -->
+          <path id="la1" class="gl" d="M 260 50 Q 360 50 360 124" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity=".5" marker-end="url(#arr-loop)"/>
+          <!-- test→log -->
+          <path id="la2" class="gl" d="M 360 158 Q 360 224 260 224" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity=".5" marker-end="url(#arr-loop)"/>
+          <!-- log→decide -->
+          <path id="la3" class="gl" d="M 148 224 Q 48 224 48 158" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity=".5" marker-end="url(#arr-loop)"/>
+          <!-- decide→propose -->
+          <path id="la4" class="gl" d="M 48 90 Q 48 26 148 26" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity=".5" marker-end="url(#arr-loop)"/>
+          <!-- Center label -->
+          <text id="loop-center" x="204" y="132" text-anchor="middle" fill="#4b5563" font-size="10" font-family="monospace" opacity="0">governed</text>
+          <text id="loop-center2" x="204" y="146" text-anchor="middle" fill="#4b5563" font-size="10" font-family="monospace" opacity="0">revision</text>
+          <text id="loop-center3" x="204" y="160" text-anchor="middle" fill="#4b5563" font-size="10" font-family="monospace" opacity="0">loop</text>
+        </svg>
+        <!-- Nodes positioned absolutely over SVG -->
+        <div id="ln1" class="lnode" style="position:absolute;top:10px;left:100px;width:208px;opacity:0">
+          <div class="lnlabel">1 · MODEL PROPOSES</div>
+          <div class="lndesc">Drafts diff to SKILL.md. Surfaces ambiguity, redundancy, gaps.</div>
+        </div>
+        <div id="ln2" class="lnode" style="position:absolute;top:104px;right:14px;width:148px;opacity:0">
+          <div class="lnlabel">2 · SYSTEM TESTS</div>
+          <div class="lndesc">Runs instructions against defined tasks. Observes outcomes.</div>
+        </div>
+        <div id="ln3" class="lnode" style="position:absolute;bottom:14px;left:100px;width:208px;opacity:0">
+          <div class="lnlabel">3 · LOG + COMPARE</div>
+          <div class="lndesc">Differences recorded. Before/after diff stored next to outcomes.</div>
+        </div>
+        <div id="ln4" class="lnode" style="position:absolute;top:104px;left:14px;width:148px;opacity:0">
+          <div class="lnlabel">4 · HUMAN DECIDES</div>
+          <div class="lndesc">Accept, modify, or reject. No change promotes without approval.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Step detail -->
+    <div style="flex:1;display:flex;flex-direction:column;gap:12px">
+      <div class="win">
+        <div class="wbar"><div class="dot r"></div><div class="dot y"></div><div class="dot g"></div><span class="wtitle">What the loop produces</span></div>
+        <div style="padding:14px 16px;background:#0b0d11;font:12.5px/1.8 var(--mono)">
+          <div id="lp1" style="opacity:0"><span class="ok">→</span> <span style="color:var(--muted)">every change is inspectable</span></div>
+          <div id="lp2" style="opacity:0"><span class="ok">→</span> <span style="color:var(--muted)">every change is reversible</span></div>
+          <div id="lp3" style="opacity:0"><span class="ok">→</span> <span style="color:var(--muted)">fluency assists — it does not approve</span></div>
+          <div id="lp4" style="opacity:0"><span class="ok">→</span> <span style="color:var(--muted)">the constitution remains governed</span></div>
+        </div>
+      </div>
+      <div class="win" id="loop-validation">
+        <div class="wbar"><div class="dot r"></div><div class="dot y"></div><div class="dot g"></div><span class="wtitle">Validation harness (lightweight)</span></div>
+        <div style="padding:14px 16px;background:#0b0d11;font:12.5px/1.8 var(--mono)">
+          <div id="lv1" style="opacity:0"><span class="fname">repeatable_prompts.md</span></div>
+          <div id="lv2" style="opacity:0"><span class="fname">task_suite/</span>  <span style="color:var(--dim)">← small test tasks</span></div>
+          <div id="lv3" style="opacity:0"><span class="fname">outcome_log.md</span>  <span style="color:var(--dim)">← comparison baseline</span></div>
+          <div id="lv4" style="opacity:0;margin-top:8px;padding:8px;background:rgba(16,185,129,.07);border-left:2px solid var(--gr);font-size:11.5px;color:#6ee7b7;line-height:1.6">
+            Even lightweight harnesses convert<br>self-revision into evidence-backed iteration.
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div class="nar" id="loop-nar">The model proposes. The system tests. Differences are logged. A human decides.<br><strong>Every change inspectable. Every change reversible. The constitution remains governed.</strong></div>
+</section>
+
+<!-- ═══════════════ SLIDE 5: OBSIDIAN EARNS ITS PLACE ═══════════════ -->
+<section class="slide" id="s5">
+  <div class="sh"><div class="sn">Scene 05 / 05</div><div class="st">Where Obsidian earns its place</div></div>
+
+  <div style="display:flex;gap:22px;max-width:1020px;width:100%;align-items:flex-start">
+
+    <!-- Graph -->
+    <div class="win" style="width:480px">
+      <div class="wbar"><div class="dot r"></div><div class="dot y"></div><div class="dot g"></div><span class="wtitle">Vault — rules linked to their justifications</span></div>
+      <div style="padding:14px;background:#0b0d11;height:270px;position:relative">
+        <svg width="452" height="242" style="overflow:visible">
+          <!-- Lines -->
+          <line id="og1" class="gl" x1="226" y1="80"  x2="100" y2="40"  stroke="#7c3aed" stroke-width="1.4" opacity=".45"/>
+          <line id="og2" class="gl" x1="226" y1="80"  x2="352" y2="40"  stroke="#7c3aed" stroke-width="1.4" opacity=".45"/>
+          <line id="og3" class="gl" x1="100" y1="40"  x2="38"  y2="120" stroke="#6366f1" stroke-width="1.2" opacity=".35"/>
+          <line id="og4" class="gl" x1="352" y1="40"  x2="414" y2="120" stroke="#6366f1" stroke-width="1.2" opacity=".35"/>
+          <line id="og5" class="gl" x1="226" y1="80"  x2="226" y2="175" stroke="#7c3aed" stroke-width="1.4" opacity=".45"/>
+          <line id="og6" class="gl" x1="100" y1="40"  x2="60"  y2="175" stroke="#10b981" stroke-width="1.2" opacity=".5" stroke-dasharray="4,3"/>
+          <line id="og7" class="gl" x1="352" y1="40"  x2="392" y2="175" stroke="#10b981" stroke-width="1.2" opacity=".5" stroke-dasharray="4,3"/>
+          <line id="og8" class="gl" x1="226" y1="175" x2="150" y2="222" stroke="#10b981" stroke-width="1.2" opacity=".5" stroke-dasharray="4,3"/>
+          <line id="og9" class="gl" x1="226" y1="175" x2="302" y2="222" stroke="#10b981" stroke-width="1.2" opacity=".5" stroke-dasharray="4,3"/>
+          <!-- Nodes -->
+          <circle id="oc-hub" cx="226" cy="80" r="0" fill="rgba(124,58,237,.22)" stroke="#7c3aed" stroke-width="1.8" opacity="0"/>
+          <text id="oc-hub-t" x="226" y="84" text-anchor="middle" fill="#a78bfa" font-size="9.5" font-family="monospace" opacity="0">SKILL.md</text>
+          <circle id="oc1" cx="100" cy="40" r="0" fill="rgba(99,102,241,.15)" stroke="#6366f1" stroke-width="1.2" opacity="0"/>
+          <text x="100" y="44" text-anchor="middle" fill="#818cf8" font-size="8.5" font-family="monospace">no-mock rule</text>
+          <circle id="oc2" cx="352" cy="40" r="0" fill="rgba(99,102,241,.15)" stroke="#6366f1" stroke-width="1.2" opacity="0"/>
+          <text x="352" y="44" text-anchor="middle" fill="#818cf8" font-size="8.5" font-family="monospace">test-first rule</text>
+          <circle id="oc3" cx="38"  cy="120" r="0" fill="rgba(16,185,129,.12)" stroke="#10b981" stroke-width="1.2" opacity="0"/>
+          <text x="38" y="140" text-anchor="middle" fill="#34d399" font-size="7.5" font-family="monospace">Q3-failure</text>
+          <circle id="oc4" cx="414" cy="120" r="0" fill="rgba(16,185,129,.12)" stroke="#10b981" stroke-width="1.2" opacity="0"/>
+          <text x="414" y="140" text-anchor="middle" fill="#34d399" font-size="7.5" font-family="monospace">regression-nov</text>
+          <circle id="oc5" cx="226" cy="175" r="0" fill="rgba(99,102,241,.15)" stroke="#6366f1" stroke-width="1.2" opacity="0"/>
+          <text x="226" y="179" text-anchor="middle" fill="#818cf8" font-size="8.5" font-family="monospace">change-log</text>
+          <circle id="oc6" cx="150" cy="222" r="0" fill="rgba(16,185,129,.12)" stroke="#10b981" stroke-width="1.2" opacity="0"/>
+          <text x="150" y="236" text-anchor="middle" fill="#34d399" font-size="7.5" font-family="monospace">outcome-2024-10</text>
+          <circle id="oc7" cx="302" cy="222" r="0" fill="rgba(16,185,129,.12)" stroke="#10b981" stroke-width="1.2" opacity="0"/>
+          <text x="302" y="236" text-anchor="middle" fill="#34d399" font-size="7.5" font-family="monospace">outcome-2024-11</text>
+        </svg>
+        <div style="position:absolute;bottom:8px;right:12px;font:9.5px var(--mono);color:var(--dim)">
+          <span style="color:var(--acc3)">●</span> instruction &nbsp;
+          <span style="color:#818cf8">●</span> rule &nbsp;
+          <span style="color:#34d399">●</span> justification / outcome
+        </div>
+      </div>
+    </div>
+
+    <!-- What the graph gives you -->
+    <div style="flex:1;display:flex;flex-direction:column;gap:14px">
+      <div class="win">
+        <div class="wbar"><div class="dot r"></div><div class="dot y"></div><div class="dot g"></div><span class="wtitle">What the graph gives the agent</span></div>
+        <div style="padding:14px 16px;background:#0b0d11">
+          <div style="display:flex;flex-direction:column;gap:10px">
+            <div id="og-m1" style="opacity:0;padding:9px 12px;background:rgba(124,58,237,.1);border:1px solid rgba(124,58,237,.3);border-radius:7px">
+              <div style="font:700 10px var(--mono);color:var(--acc3);letter-spacing:1.5px;margin-bottom:4px">MEMORY</div>
+              <div style="font:12px/1.4 var(--sans);color:var(--muted)">Notes are versioned instruction files. Every edit is a node in the graph.</div>
+            </div>
+            <div id="og-m2" style="opacity:0;padding:9px 12px;background:rgba(99,102,241,.1);border:1px solid rgba(99,102,241,.3);border-radius:7px">
+              <div style="font:700 10px var(--mono);color:var(--acc2);letter-spacing:1.5px;margin-bottom:4px">TRACEABILITY</div>
+              <div style="font:12px/1.4 var(--sans);color:var(--muted)">Backlinks connect rules to the tasks and failures that justified them.</div>
+            </div>
+            <div id="og-m3" style="opacity:0;padding:9px 12px;background:rgba(16,185,129,.08);border:1px solid rgba(16,185,129,.25);border-radius:7px">
+              <div style="font:700 10px var(--mono);color:var(--gr);letter-spacing:1.5px;margin-bottom:4px">CONTEXT</div>
+              <div style="font:12px/1.4 var(--sans);color:var(--muted)">Change logs sit next to outcomes. The graph is the conversation history.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="pricebox" id="s5-price">
+        <div style="font:11px var(--mono);letter-spacing:2.5px;text-transform:uppercase;color:var(--acc);margin-bottom:12px">PHAROS METHOD</div>
+        <div style="display:flex;gap:18px;justify-content:center;align-items:flex-start">
+          <div><div class="pr">$49</div><div class="prlbl">Template Pack</div></div>
+          <div style="width:1px;background:var(--bd);align-self:stretch"></div>
+          <div><div class="pr">$299</div><div class="prlbl">Guided Setup</div></div>
+        </div>
+        <div style="margin-top:10px;font:11px var(--sans);color:var(--dim)">Not more eloquent. More accountable.</div>
+      </div>
+    </div>
+
+  </div>
+  <div class="nar" id="og-nar">The graph gives you memory, traceability, and context — the three things the model lacks when it edits alone.<br><strong>The result is not a more eloquent SKILL.md. It is a more accountable one.</strong></div>
+</section>
+
+</div>
+<div id="nav">
+  <button class="nbtn" id="pbtn" onclick="go(-1)">← prev</button>
+  <span id="ctr">1 / 5</span>
+  <button class="nbtn" id="nbtn" onclick="go(1)">next →</button>
+</div>
+
+<script>
+let cur=0;
+const slides=document.querySelectorAll('.slide');
+const N=slides.length;
+const timers=[];
+function after(fn,ms){const t=setTimeout(fn,ms);timers.push(t)}
+function clearQ(){timers.forEach(clearTimeout);timers.length=0}
+const g=id=>document.getElementById(id);
+
+function show(id,ms,fade=false){
+  after(()=>{const e=g(id);if(!e)return;e.style.opacity=1;e.style.animation=`${fade?'fadeIn':'slideUp'} .42s ease both`},ms);
+}
+function invisible(ids){ids.forEach(id=>{const e=g(id);if(e){e.style.opacity=0;e.style.animation='none'}})}
+function drawLine(id,ms){after(()=>{const e=g(id);if(!e)return;e.style.transition='stroke-dashoffset .55s ease';e.style.strokeDashoffset='0'},ms)}
+function popCircle(id,ms,r){after(()=>{const e=g(id);if(!e)return;e.style.transition='r .38s cubic-bezier(.34,1.56,.64,1),opacity .25s ease';e.setAttribute('r',r||18);e.style.opacity=1},ms)}
+
+function go(d){
+  clearQ();
+  slides[cur].classList.remove('active');
+  cur=Math.max(0,Math.min(N-1,cur+d));
+  slides[cur].classList.add('active');
+  updateNav();
+  resetSlide(cur);
+  after(()=>[play1,play2,play3,play4,play5][cur](),80);
+}
+
+function updateNav(){
+  g('ctr').textContent=`${cur+1} / ${N}`;
+  g('prog').style.width=`${((cur+1)/N)*100}%`;
+  g('pbtn').disabled=cur===0;g('nbtn').disabled=cur===N-1;
+}
+
+document.addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight'||e.key===' '){e.preventDefault();go(1)}
+  if(e.key==='ArrowLeft'){e.preventDefault();go(-1)}
+});
+
+// ── Resets ──
+function resetSlide(n){[reset1,reset2,reset3,reset4,reset5][n]()}
+
+function reset1(){
+  invisible(['d1l1','d1l2','d1l3','d1l4','d1l5','d1l6','d1l7','d1l8','d1l9','d1l10','d1-badge',
+    'd3l1','d3l2','d3l3','d3l4','d3l5','d3l6','d3l7','d3l8','d3l9','d3l10','d3l11','d3-warn',
+    'd-anchors','d-nar']);
+}
+function reset2(){
+  invisible(['e1-box1','e1-arr','e1-result','e2-r1','e2-a1','e2-r2','e2-a2','e2-r3','e2-signals','e2-note','e-nar']);
+}
+function reset3(){
+  invisible(['p1','p-arr1','p2','p-arr2','p3','p-arr3','p4','sr1','sr2','sr3','sr4','sr5','sa1','sa2','sec-nar']);
+}
+function reset4(){
+  invisible(['ln1','ln2','ln3','ln4','lp1','lp2','lp3','lp4','lv1','lv2','lv3','lv4','loop-nar','loop-center','loop-center2','loop-center3']);
+  ['la1','la2','la3','la4'].forEach(id=>{const e=g(id);if(e){e.style.transition='none';e.style.strokeDashoffset='400'}});
+  ['ln1','ln2','ln3','ln4'].forEach(id=>{const e=g(id);if(e)e.classList.remove('lit')});
+}
+function reset5(){
+  invisible(['og-m1','og-m2','og-m3','og-nar']);
+  ['og1','og2','og3','og4','og5','og6','og7','og8','og9'].forEach(id=>{const e=g(id);if(e){e.style.transition='none';e.style.strokeDashoffset='400'}});
+  ['oc-hub','oc1','oc2','oc3','oc4','oc5','oc6','oc7'].forEach(id=>{const e=g(id);if(e){e.style.transition='none';e.setAttribute('r','0');e.style.opacity=0}});
+  const ht=g('oc-hub-t');if(ht){ht.style.opacity=0;ht.style.transition='none'}
+  const p=g('s5-price');if(p){p.style.opacity=0;p.style.transform='translateY(14px)';p.style.transition='none';p.style.animation='none'}
+}
+
+// ── Slide 1: Drift ──
+function play1(){
+  ['d1l1','d1l2','d1l3','d1l4','d1l5','d1l6','d1l7','d1l8','d1l9','d1l10'].forEach((id,i)=>show(id,100+i*90));
+  show('d1-badge',1100);
+  ['d3l1','d3l2','d3l3','d3l4','d3l5','d3l6','d3l7','d3l8','d3l9','d3l10','d3l11'].forEach((id,i)=>show(id,200+i*140));
+  show('d3-warn',1700);
+  show('d-anchors',2200,true);
+  show('d-nar',2700,true);
+}
+
+// ── Slide 2: Evaluation Failure ──
+function play2(){
+  show('e1-box1',200);show('e1-arr',700);show('e1-result',1300);
+  show('e2-r1',300);show('e2-a1',700);show('e2-r2',900);show('e2-a2',1200);show('e2-r3',1400);
+  show('e2-signals',1900);show('e2-note',2500);
+  show('e-nar',2900,true);
+}
+
+// ── Slide 3: Security Surface ──
+function play3(){
+  show('p1',100);show('p-arr1',500);show('p2',600);show('p-arr2',1000);
+  show('p3',1100);show('p-arr3',1500);show('p4',1600);
+  ['sr1','sr2','sr3','sr4','sr5'].forEach((id,i)=>show(id,800+i*280));
+  show('sa1',2200);show('sa2',2800);
+  show('sec-nar',3200,true);
+}
+
+// ── Slide 4: Governed Revision Loop ──
+function play4(){
+  // Draw cycle arrows first
+  ['la1','la2','la3','la4'].forEach((id,i)=>drawLine(id,200+i*300));
+  // Nodes light up in sequence
+  [['ln1',600],['ln2',1100],['ln3',1600],['ln4',2100]].forEach(([id,ms])=>{
+    show(id,ms);
+    after(()=>{const e=g(id);if(e)e.classList.add('lit')},ms+100);
+  });
+  // Center label
+  after(()=>{['loop-center','loop-center2','loop-center3'].forEach(id=>{
+    const e=g(id);if(e){e.style.opacity=1;e.style.transition='opacity .5s ease'}
+  })},2400);
+  // Side panel
+  ['lp1','lp2','lp3','lp4'].forEach((id,i)=>show(id,2700+i*200));
+  ['lv1','lv2','lv3','lv4'].forEach((id,i)=>show(id,3500+i*200));
+  show('loop-nar',4100,true);
+}
+
+// ── Slide 5: Obsidian earns its place ──
+function play5(){
+  after(()=>{
+    const h=g('oc-hub');h.style.transition='r .4s cubic-bezier(.34,1.56,.64,1),opacity .3s ease';h.setAttribute('r','25');h.style.opacity=1;
+  },100);
+  after(()=>{const t=g('oc-hub-t');if(t){t.style.transition='opacity .3s ease';t.style.opacity=1}},280);
+  ['og1','og2'].forEach((id,i)=>drawLine(id,380+i*130));
+  ['oc1','oc2'].forEach((id,i)=>popCircle(id,550+i*130,17));
+  drawLine('og5',800);popCircle('oc5',900,17);
+  ['og3','og4'].forEach((id,i)=>drawLine(id,1000+i*130));
+  ['oc3','oc4'].forEach((id,i)=>popCircle(id,1100+i*130,14));
+  ['og6','og7','og8','og9'].forEach((id,i)=>drawLine(id,1400+i*150));
+  ['oc6','oc7'].forEach((id,i)=>popCircle(id,1700+i*150,13));
+  // Side panel
+  show('og-m1',2200);show('og-m2',2700);show('og-m3',3200);
+  after(()=>{
+    const p=g('s5-price');
+    p.style.transition='opacity .5s ease,transform .5s cubic-bezier(.34,1.56,.64,1)';
+    p.style.opacity=1;p.style.transform='translateY(0)';
+    after(()=>{p.style.animation='glowPulse 2s ease'},600);
+  },3700);
+  show('og-nar',4100,true);
+}
+
+// ── Init ──
+[0,1,2,3,4].forEach(resetSlide);
+slides[0].classList.add('active');
+updateNav();
+after(()=>play1(),80);
+</script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+source,root,path,name,ext,is_dir,size,modified,topic,normalized_stem
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/skills,skills,,True,0,2026-04-16T20:54:35.809156-04:00,other,skills
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/archive,archive,,True,0,2026-04-15T10:34:11.247626-04:00,other,archive
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/templates,templates,,True,0,2026-04-15T10:34:11.286791-04:00,other,templates
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/raw,raw,,True,0,2026-04-15T10:34:11.204544-04:00,other,raw
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/wiki,wiki,,True,0,2026-04-16T20:55:22.486240-04:00,other,wiki
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/SETUP.md,SETUP.md,.md,False,5965,2026-04-16T20:55:15.359569-04:00,other,setup
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/README.md,README.md,.md,False,1707,2026-04-16T20:54:50.209712-04:00,other,readme
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/Home.md,Home.md,.md,False,1019,2026-04-15T10:34:11.192794-04:00,other,home
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/CLAUDE.md,CLAUDE.md,.md,False,2406,2026-04-16T20:55:01.336160-04:00,other,claude
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/skills/synthesis_prompt.md,synthesis_prompt.md,.md,False,1590,2026-04-15T10:34:11.231960-04:00,other,synthesis prompt
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/skills/governed_revision.md,governed_revision.md,.md,False,2670,2026-04-16T20:54:35.800989-04:00,other,governed revision
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/skills/README.md,README.md,.md,False,930,2026-04-15T10:34:11.224126-04:00,other,readme
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/archive/README.md,README.md,.md,False,649,2026-04-15T10:34:11.251542-04:00,other,readme
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/templates/skill_template.md,skill_template.md,.md,False,580,2026-04-15T10:34:11.239793-04:00,other,skill template
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/templates/hub_person.md,hub_person.md,.md,False,523,2026-04-15T10:34:11.263292-04:00,other,hub person
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/templates/hub_project.md,hub_project.md,.md,False,592,2026-04-15T10:34:11.255459-04:00,other,hub project
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/templates/hub_moc.md,hub_moc.md,.md,False,587,2026-04-15T10:34:11.286791-04:00,other,hub moc
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/templates/hub_concept.md,hub_concept.md,.md,False,546,2026-04-15T10:34:11.267209-04:00,other,hub concept
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/templates/hub_decision_log.md,hub_decision_log.md,.md,False,648,2026-04-15T10:34:11.278958-04:00,other,hub decision log
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/raw/_example_raw_note.md,_example_raw_note.md,.md,False,669,2026-04-15T10:34:11.204544-04:00,other,example raw note
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/raw/README.md,README.md,.md,False,611,2026-04-15T10:34:11.196711-04:00,other,readme
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/wiki/_example_wiki_note.md,_example_wiki_note.md,.md,False,867,2026-04-15T10:34:11.216293-04:00,other,example wiki note
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/wiki/README.md,README.md,.md,False,790,2026-04-15T10:34:11.212377-04:00,other,readme
+local,/home/cerebrhoe/obsidian-agent-vault,/home/cerebrhoe/obsidian-agent-vault/wiki/change-log.md,change-log.md,.md,False,897,2026-04-16T20:55:22.482266-04:00,other,change log

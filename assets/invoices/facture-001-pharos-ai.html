@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Facture 001 — Pharos-AI</title>
+<style>
+  @page {
+    size: A5;
+    margin: 12mm 14mm;
+  }
+
+  :root {
+    --navy-900: #10162A;
+    --navy-800: #13254C;
+    --navy-700: #20314F;
+    --navy-600: #0F1D37;
+    --gold:     #D8C08A;
+    --gold-soft:#E8D5A8;
+    --cream:    #FBF7EF;
+    --cream-2:  #FFFDF8;
+    --line:     #E8E1CF;
+    --muted:    #6B7280;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #efece4;
+    color: var(--navy-900);
+    font-family: "Manrope", "Inter", "Helvetica Neue", Arial, system-ui, -apple-system, sans-serif;
+    font-size: 10pt;
+    line-height: 1.45;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .sheet {
+    width: 148mm;
+    min-height: 210mm;
+    padding: 12mm 14mm;
+    margin: 12mm auto;
+    background: var(--cream-2);
+    box-shadow: 0 2px 12px rgba(16, 22, 42, 0.08);
+    position: relative;
+  }
+
+  /* Top accent bar */
+  .sheet::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4mm;
+    background: linear-gradient(90deg, var(--navy-900) 0%, var(--navy-800) 70%, var(--gold) 100%);
+  }
+
+  header.brand {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 1px solid var(--line);
+    padding: 4mm 0 8mm 0;
+    margin-bottom: 8mm;
+    margin-top: 4mm;
+  }
+
+  .brand-block {
+    display: flex;
+    align-items: center;
+    gap: 4mm;
+  }
+
+  .logo-mark {
+    width: 14mm;
+    height: 14mm;
+    flex-shrink: 0;
+  }
+
+  .brand-name {
+    font-family: "Sora", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+    font-size: 18pt;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    margin: 0 0 1mm 0;
+    color: var(--navy-900);
+  }
+
+  .brand-name .accent {
+    color: var(--gold);
+  }
+
+  .brand-meta {
+    font-size: 8.5pt;
+    color: var(--navy-700);
+    line-height: 1.55;
+  }
+
+  .invoice-id {
+    text-align: right;
+  }
+
+  .invoice-id .label {
+    font-size: 7.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--gold);
+    margin-bottom: 1mm;
+    font-weight: 600;
+  }
+
+  .invoice-id .number {
+    font-family: "Sora", "Avenir Next", system-ui, sans-serif;
+    font-size: 16pt;
+    font-weight: 600;
+    margin: 0;
+    color: var(--navy-900);
+    letter-spacing: -0.01em;
+  }
+
+  .invoice-id .date {
+    font-size: 8.5pt;
+    color: var(--navy-700);
+    margin-top: 1.5mm;
+  }
+
+  .parties {
+    display: flex;
+    gap: 6mm;
+    margin-bottom: 8mm;
+  }
+
+  .party {
+    flex: 1;
+    border: 1px solid var(--line);
+    border-radius: 3mm;
+    padding: 4mm 5mm;
+    background: var(--cream);
+    position: relative;
+  }
+
+  .party.client {
+    border-left: 2.5px solid var(--gold);
+  }
+
+  .party h2 {
+    font-size: 7.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: var(--navy-700);
+    margin: 0 0 2.5mm 0;
+    font-weight: 600;
+  }
+
+  .party .name {
+    font-family: "Sora", "Avenir Next", system-ui, sans-serif;
+    font-size: 11pt;
+    font-weight: 600;
+    margin-bottom: 2mm;
+    color: var(--navy-900);
+  }
+
+  .party .lines {
+    font-size: 8.5pt;
+    line-height: 1.6;
+    color: var(--navy-700);
+  }
+
+  .party .lines div { margin-bottom: 0.4mm; }
+  .party .muted { color: var(--muted); font-style: italic; }
+
+  table.items {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 6mm;
+  }
+
+  table.items thead th {
+    font-size: 7.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--navy-700);
+    text-align: left;
+    padding: 3mm 2mm;
+    border-bottom: 2px solid var(--navy-900);
+    font-weight: 600;
+  }
+
+  table.items thead th.num { text-align: right; }
+
+  table.items tbody td {
+    font-size: 9.5pt;
+    padding: 4mm 2mm;
+    border-bottom: 1px solid var(--line);
+    vertical-align: top;
+    color: var(--navy-900);
+  }
+
+  table.items tbody td.num {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+
+  table.items tbody td.desc { line-height: 1.45; }
+
+  .totals {
+    margin-left: auto;
+    width: 60%;
+    padding-top: 1mm;
+  }
+
+  .totals .row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 9pt;
+    padding: 1.4mm 0;
+    color: var(--navy-700);
+  }
+
+  .totals .row.grand {
+    font-family: "Sora", "Avenir Next", system-ui, sans-serif;
+    font-size: 11.5pt;
+    font-weight: 700;
+    color: var(--navy-900);
+    border-top: 1.5px solid var(--navy-900);
+    margin-top: 2mm;
+    padding-top: 3mm;
+    letter-spacing: -0.01em;
+  }
+
+  .totals .row.grand .amount {
+    color: var(--navy-900);
+    border-bottom: 2px solid var(--gold);
+    padding-bottom: 0.5mm;
+  }
+
+  footer.note {
+    margin-top: 10mm;
+    padding-top: 4mm;
+    border-top: 1px solid var(--line);
+    font-size: 7.5pt;
+    color: var(--muted);
+    line-height: 1.6;
+    text-align: center;
+  }
+
+  footer.note strong { color: var(--navy-700); font-weight: 600; }
+
+  @media print {
+    html, body { background: #ffffff; }
+    .sheet {
+      margin: 0;
+      box-shadow: none;
+      width: auto;
+      min-height: 0;
+      padding: 0;
+    }
+    .sheet::before {
+      top: 0; left: 0; right: 0;
+    }
+  }
+</style>
+</head>
+<body>
+<main class="sheet" role="document" aria-label="Facture Pharos-AI 001">
+
+  <header class="brand">
+    <div class="brand-block">
+      <svg class="logo-mark" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <defs>
+          <linearGradient id="pharosBeam" x1="32" y1="6" x2="32" y2="42" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#D8C08A"/>
+            <stop offset="1" stop-color="#D8C08A" stop-opacity="0"/>
+          </linearGradient>
+        </defs>
+        <circle cx="32" cy="32" r="30" fill="#10162A"/>
+        <circle cx="32" cy="32" r="30" fill="none" stroke="#D8C08A" stroke-width="0.6" opacity="0.4"/>
+        <g opacity="0.55" stroke="url(#pharosBeam)" stroke-width="1" stroke-linecap="round">
+          <line x1="32" y1="32" x2="32" y2="8"/>
+          <line x1="32" y1="32" x2="20" y2="11" opacity="0.7"/>
+          <line x1="32" y1="32" x2="44" y2="11" opacity="0.7"/>
+          <line x1="32" y1="32" x2="14" y2="18" opacity="0.45"/>
+          <line x1="32" y1="32" x2="50" y2="18" opacity="0.45"/>
+        </g>
+        <circle cx="32" cy="32" r="3.2" fill="#D8C08A"/>
+        <circle cx="32" cy="32" r="6" fill="none" stroke="#D8C08A" stroke-width="0.5" opacity="0.6"/>
+        <path d="M 25 50 L 32 30 L 39 50 Z" fill="#D8C08A" opacity="0.85"/>
+        <rect x="22" y="49" width="20" height="2" fill="#D8C08A"/>
+      </svg>
+      <div>
+        <h1 class="brand-name">Pharos<span class="accent">·</span>AI</h1>
+        <div class="brand-meta">
+          pharos-ai.ca<br>
+          ml@pharos-ai.ca<br>
+          514-889-3098 &nbsp;·&nbsp; Montréal, QC
+        </div>
+      </div>
+    </div>
+    <div class="invoice-id">
+      <div class="label">Facture</div>
+      <p class="number">N<sup>o</sup> 001</p>
+      <div class="date">25 avril 2026</div>
+    </div>
+  </header>
+
+  <section class="parties" aria-label="Parties">
+    <div class="party">
+      <h2>Émetteur</h2>
+      <div class="name">Pharos-AI</div>
+      <div class="lines">
+        <div>pharos-ai.ca</div>
+        <div>ml@pharos-ai.ca</div>
+        <div>514-889-3098</div>
+        <div>Montréal, QC</div>
+        <div class="muted">TPS/TVH : 789977339977RT0001</div>
+      </div>
+    </div>
+    <div class="party client">
+      <h2>Client</h2>
+      <div class="name">Extermination DG</div>
+      <div class="lines">
+        <div>2481, rue Fillion</div>
+        <div>Saguenay (QC) &nbsp;G7S 4S7</div>
+        <div>418-817-0118</div>
+        <div>exterminationdg@outlook.com</div>
+      </div>
+    </div>
+  </section>
+
+  <table class="items" aria-label="Articles facturés">
+    <thead>
+      <tr>
+        <th>Description</th>
+        <th class="num">Qté</th>
+        <th class="num">Prix unitaire</th>
+        <th class="num">Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="desc">Avance pour la création du site web — trousse de démarrage de la première rencontre</td>
+        <td class="num">1</td>
+        <td class="num">500,00 $</td>
+        <td class="num">500,00 $</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <section class="totals" aria-label="Totaux">
+    <div class="row">
+      <span>Sous-total</span>
+      <span>500,00 $</span>
+    </div>
+    <div class="row grand">
+      <span>Total</span>
+      <span class="amount">500,00 $ CAD</span>
+    </div>
+  </section>
+
+  <footer class="note">
+    <strong>Merci de votre confiance.</strong> Paiement payable sur réception.<br>
+    Pour toute question : ml@pharos-ai.ca &nbsp;·&nbsp; pharos-ai.ca
+  </footer>
+
+</main>
+</body>
+</html>

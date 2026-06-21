@@ -1,0 +1,1131 @@
+---
+type: raw
+source_kind: pdf_ocr
+source_path: /mnt/d/LIBRARY/Review/Unreadable/%PDF-1.3.txt
+source_rel: Review/Unreadable/%PDF-1.3.txt
+ocr_engine: tesseract.js
+ocr_lang: eng+fra
+pages_total: 19
+pages_ocrd: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+partial: false
+ocr_text: text/Review/Unreadable/%PDF-1.3.txt.ocr.txt
+pdfinfo:
+  Author: "Alisa"
+  CreationDate: "Fri Jul 14 19:13:31 2006 EDT"
+  Creator: "PScript5.dll Version 5.2"
+  Custom Metadata: "no"
+  Encrypted: "no"
+  File size: "179422 bytes"
+  Form: "none"
+  JavaScript: "no"
+  Metadata Stream: "yes"
+  ModDate: "Fri Jul 14 19:13:31 2006 EDT"
+  Optimized: "yes"
+  PDF version: "1.3"
+  Page rot: "0"
+  Page size: "612 x 792 pts (letter)"
+  Pages: "19"
+  Producer: "Acrobat Distiller 5.0.5 (Windows)"
+  Suspects: "no"
+  Tagged: "no"
+  Title: "Microsoft Word - Mapping the Margins.doc"
+  UserProperties: "no"
+---
+
+# Microsoft Word - Mapping the Margins.doc
+
+## OCR Notes
+
+- This is an OCR extraction pass over `Review/Unreadable/`.
+- Page strategy: full OCR for short PDFs; first + last pages for long PDFs.
+
+## Extracted Text
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00001.png =====
+
+Mapping the Margins:
+Intersectionality, Identity Politics, and Violence Against Women of Color
+Kimberlé Williams Crenshaw
+Introduction
+Over the last two decades, women have organized against the almost routine violence that
+shapes their lives. Drawing from the strength of shared experience, women have recognized that
+the political demands of millions speak more powerfully than the pleas of a few isolated voices.
+This politicization in turn has transformed the way we understand violence against women. For
+example, battering and rape, once seen as private (family matters) and aberrational (errant
+sexual aggression), are now largely recognized as part of a broad-scale system of domination
+that affects women as a class. This process of recognizing as social and systemic what was
+formerly perceived as isolated and individual has also characterized the identity politics of people
+of color and gays and lesbians, among others. For all these groups, identity-based politics has
+been a source of strength, community, and intellectual development.
+The embrace of identity politics, however, has been in tension with dominant conceptions of
+social justice. Race, gender, and other identity categories are most often treated in mainstream
+liberal discourse as vestiges of bias or domination-that is, as intrinsically negative frameworks in
+which social power works to exclude or marginalize those who are different. According to this
+understanding, our liberatory objective should be to empty such categories of any social
+significance. Yet implicit in certain strands of feminist and racial liberation movements, for
+example, is the view that the social power in delineating difference need not be the power of
+domination; it can instead be the source of political empowerment and social reconstruction.
+The problem with identity politics is not that it fails to transcend difference, as some critics charge,
+but rather the opposite- that it frequently conflates or ignores intra group differences. In the
+context of violence against women, this elision of difference is problematic, fundamentally
+because the violence that many women experience is often shaped by other dimensions of their
+identities, such as race and class. Moreover, ignoring differences within groups frequently
+contributes to tension among groups, another problem of identity politics that frustrates efforts to
+politicize violence against women. Feminist efforts to politicize experiences of women and
+antiracist efforts to politicize experiences of people of color’ have frequently proceeded as though
+the issues and experiences they each detail occur on mutually exclusive terrains. Al-though
+racism and sexism readily intersect in the lives of real people, they seldom do in feminist and
+antiracist practices. And so, when the practices expound identity as "woman" or "person of color"
+as an either/or proposition, they relegate the identity of women of color to a location that resists
+telling.
+My objective here is to advance the telling of that location by exploring the race and gender
+dimensions of violence against women of color. Contemporary feminist and antiracist discourses
+have failed to consider the intersections of racism and patriarchy. Focusing on two dimensions of
+male violence against women-battering and rape-I consider how the experiences of women of
+color are frequently the product of intersecting patterns of racism and sexism, and how these
+experiences tend not to be represented within the discourse of either feminism or antiracism.
+Because of their intersectional identity as both women and people of color within discourses that
+are shaped to respond to one or the other, the interests and experiences of women of color are
+frequently marginalized within both.
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00002.png =====
+
+In an earlier article, | used the concept of intersectionality to denote the various ways in which
+race and gender interact to shape the multiple dimensions of Black’ women's employment
+experiences (Crenshaw 1989,p. 139). My objective there was to illustrate that many of the
+experiences Black women face are not subsumed within the traditional boundaries of race or
+gender discrimination as these boundaries are currently understood, and that the intersection of
+racism and sexism factors into Black women's lives in ways that cannot be captured wholly by
+looking at the women race or gender dimensions of those experiences separately. | build on
+those observations here by exploring the various ways in which race and gender intersect in
+shaping structural and political aspects of violence against women of color.”
+
+| should say at the outset that intersectionality is not being offered here as some new, totalizing
+theory of identity. Nor do | mean to suggest that violence against women of color can be
+explained only through the specific frameworks of race and gender considered here. Indeed,
+factors | address only in part or not at all, such as class or sexuality, are often as critical in
+shaping the experiences of women of color. My focus on the intersections of race and gender
+only highlights the need to account for multiple grounds of identity when considering how the
+social world is constructed.
+
+| have divided the issues presented in this chapter into two categories. In the first part, | discuss
+structural intersectionality, the ways in which the location of women of color at the intersection of
+race and gender makes our actual experience of domestic violence, rape, and remedial reform
+qualitatively different from that of white women. | shift the focus in the second part to political
+intersectionality, where | analyze how both feminist and antiracist politics have functioned in
+tandem to marginalize the issue of violence against women of color. Finally, | address the
+implications of the intersectional approach within the broader scope of contemporary identity
+politics.
+
+Structural Intersectionality
+
+Structural Intersectionality and Battering
+
+| observed the dynamics of structural intersectionality during a brief field study of battered
+women's shelters located in minority communities in Los Angeles.“ In most cases, the physical
+assault that leads women to these shelters is merely the most immediate manifestation of the
+subordination they experience. Many ‘women who seek protection are unemployed or
+underemployed, and a good number of them are poor. Shelters serving these women cannot
+afford to address only the violence inflicted by the batterer; they must also confront the other
+multilayered and routinized forms of domination that often converge in these women's lives,
+hindering their ability to create alternatives to the abusive relation-ships that brought them to
+shelters in the first place. Many women of color, for example, are burdened by poverty, child-care
+responsibilities, and the lack of job skills. These burdens, largely the consequence of gender and
+class oppression, are then compounded by the racially discriminatory employment and housing
+practices women of color often face.“ Women of color are burdened as well by the
+disproportionately high unemployment among people of color that make battered women of color
+less able to depend on the support of friends and relatives for temporary shelter.
+
+These observations reveal how intersectionality shapes the experiences of many women of color.
+Economic considerations-access to employment, housing, and wealth-confirm that class
+structures play an important part in defining the experience of women of color vis-à-vis battering.
+But it would be a mistake to conclude from these observations that it is simply the fact of poverty
+that is at issue here. Rather, their experiences reveal how diverse structures intersect, since even
+the class dimension is not independent from race and gender.
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00003.png =====
+
+At the simplest level, race, gender, and class are implicated together because the fact the fact of
+being a woman of color correlates strongly with poverty. Moreover, the disparate access to
+housing and jobs-that is, the phenomenon of discrimination-is reproduced through their race and
+gender identity. Race and gender are two of the primary sites for the particular distribution of
+social resources that ends up with observable class differences. And finally, once in a lower
+economic class, race and gender structures continue to shape the particular ways that women of
+color experience poverty, relative to other groups.
+
+These converging systems structure the experiences of battered women of color in ways that
+require intervention strategies to be responsive to these intersections. Strategies based solely on
+the experiences of women who do not share the same class or race backgrounds will be of
+limited utility for those whose lives are shaped by a different set of obstacles. For example,
+shelter policies are often shaped by an image that locates women's subordination primarily in the
+psychological effects of male domination, and thus overlooks the socioeconomic factors that often
+disempower women of color. Because the disempowerment of many battered women of color is
+arguably less a function of what is in their minds and more a reflection of the obstacles that exist
+in their lives, these interventions are likely to reproduce rather than effectively challenge their
+domination.
+
+While the intersection of race, gender, and class constitute the primary structural elements of the
+experience of many Black and Latina women in battering shelters, it is important to understand
+that there are other sites where structures of power intersect. For immigrant women, for example,
+their status as immigrants can render them vulnerable in ways that are similarly coercive, yet not
+easily reducible to economic class. For example, take the Marriage Fraud Amendments to the
+1986 Immigration Act. Under the marriage fraud provisions of the Act, a person who immigrated
+to the United States to marry a United States citizen or permanent resident had to remain
+"properly" married for two years before applying for permanent resident status,’ at which time
+applications for the immigrant's permanent status were required by both spouses.” Predictably,
+under these circumstances, many immigrant women were reluctant to leave even the most
+abusive of partners for fear of being deported. When faced with the choice between protection
+from their batterers and protection against deportation, many immigrant women chose the latter
+(Walt 1990, p. 8). Reports of the tragic consequences of this double subordination put pressure
+on Congress to include in the Immigration Act of 1990 a Provision amending the marriage fraud
+rules to allow for an explicit waiver for hardship caused by domestic violence ?
+
+Yet many immigrant women, particularly women of color, have remained vulnerable to battering
+because they are unable to meet the conditions established for a waiver. The evidence required
+to support a waiver "can include, but is not limited to, reports and affidavits from police, medical
+personnel, psychologists, school officials, and social service agencies." For many immigrant
+women, limited access to these resources can make it difficult for them to obtain the evidence
+needed for a waiver. Often cultural barriers further discourage immigrant women from reporting or
+escaping battering situations. Tina Shum, a family counselor at a social service agency, points
+out that "[t]his law sounds so easy to apply, but there are cultural complications in the Asian
+community that make even these requirements difficult … just to find the opportunity and courage
+to call us is an accomplishment for many."(Hodgin 1991, p. E1). The typical immigrant spouse,
+she suggests, may live "[i]n an extended family where several generations live together, there
+may be no privacy on the telephone, no opportunity to leave the house and no understanding of
+public phones." As a consequence, many immigrant women may be wholly dependent on their
+husbands as their link to the world outside their homes."
+
+Immigrant women may also be vulnerable to spousal violence because many of them depend on
+their husbands for information regarding their legal status. More than likely, many women who are
+now permanent residents continue to suffer abuse under threats of deportation by their husbands.
+Even if the threats are unfounded, women who have no independent access to information will
+still be intimidated by such threats. And even though the domestic violence waiver focuses on
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00004.png =====
+
+immigrant women whose husbands are United States citizens or permanent residents, there are
+countless women married to undocumented workers(or who are themselves undocumented) who
+suffer in silence for fear that the security of their entire families will be jeopardized should they
+seek help or otherwise call attention to themselves.
+
+Language barriers present another structural problem that often limits opportunities of non-
+English-speaking women to take advantage of existing support services (Banales 1990, p. E5).
+Such barriers not only limit access to information about shelters, but also limit access to the
+security shelters provide. Some shelters turn non-English-speaking women away for lack of
+bilingual personnel and resources.”
+
+These examples illustrate how patterns of subordination intersect in women's experience of
+domestic violence. Intersectional subordination need not be intentionally produced; in fact, it is
+frequently the consequence of the imposition of one burden that interacts with preexisting
+vulnerabilities to create yet another dimension of disempowerment. In the case of the marriage
+fraud provisions of the Immigration and Nationality Act, the imposition of a policy specifically
+designed to burden one class--immigrant spouses seeking permanent Resident status-
+exacerbated the disempowerment of those already subordinated by other structures of
+domination. By failing to take into account the vulnerability of immigrant spouses to domestic
+violence, Congress positioned these women to absorb the simultaneous impact of its anti-
+immigration policy and their spouses’ abuse.
+
+The enactment of the domestic violence waiver of the marriage fraud provisions similarly
+illustrates how modest attempts to respond to certain problems can be ineffective when the
+intersectional location of women of color is not considered in fashioning the remedy. Cultural
+identity and class affect the likelihood that a battered spouse could take advantage of the waiver.
+Although the waiver is formally available to all women, the terms of the waiver make it
+inaccessible to some. Immigrant women who are socially, culturally, or economically privileged
+are more likely to be able to marshall the resources needed to satisfy the waiver requirements.
+Those immigrant women least able to take advantage of the waiver-women who are socially or
+economically the most marginal-are the ones most likely to be women of color.
+
+Structural Intersectionality and Rape
+
+Women of color are differently situated in the economic, social, and political worlds. When reform
+efforts undertaken on behalf of women neglect this fact, women of color are less likely to have
+their needs met than women who are racially privileged. For example, counselors who provide
+rape crisis services to women of color report that a significant proportion of the resources
+allocated to them must be spent handling problems other than rape itself. Meeting these needs
+often places these counselors at odds with their funding agencies, which allocate funds according
+to standards of need that are largely white and middle-class.'? These uniform standards of
+support ignore the fact that different needs often demand different priorities in terms of resource
+allocation, and consequently, these standards hinder the ability of counselors to address the
+needs of nonwhite and poor women.
+
+As noted earlier, counselors in minority communities report spending hours locating resources
+and contacts to meet the housing and other immediate needs of women who have been
+assaulted. Yet this work is only considered "information and referral" by funding agencies and as
+such, is typically under funded, notwithstanding the magnitude of need for these services in
+minority communities (Matthews 1989, pp. 287-88). The problem is compounded by expectations
+that rape crisis centers will use a significant portion of resources allocated to them on counselors
+to accompany victims to court, ‘3 even though there is some evidence to suggest that women of
+color are less likely to have their cases pursued in the criminal justice system (Collins 1990; Field
+& Bienen 1980). The resources expected to be set aside for court services are misdirected in
+these communities.
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00005.png =====
+
+The fact that minority women suffer from the effects of multiple subordination, coupled with-
+institutional expectations based on inappropriate non-intersectional contexts, shapes and
+ultimately limits the opportunities for meaningful intervention on their behalf. Understanding the
+intersectional dynamics of crisis intervention may go far toward explaining the high levels of
+frustration and burnout experienced by counselors who attempt to meet the needs of minority
+women victims.
+
+Political Intersectionality
+
+The concept of political intersectionality highlights the fact that women of color are situated within
+at least two subordinated groups that frequently pursue conflicting political agendas. The need to
+split one's political energies between two sometimes opposing political agendas is a dimension of
+intersectional disempowerment that men of color and white women seldom confront. Indeed, their
+specific raced and gendered experiences, although intersectional, often define as well as confine
+the interests of the entire group. For example, racism as experienced by people of color who are
+of a particular gender--male--tends to deter-mine the parameters of antiracist strategies, just as
+sexism as experienced by women who are of a particular race-white-tends to ground the
+women's movement. The problem is not simply that both discourses fail women of color by not
+acknowledging the "additional" burden of patriarchy or of racism, but that the discourses are often
+inadequate even to the discrete tasks of articulating the full dimensions of racism and sexism.
+Because women of color experience racism in ways not always the same as those experienced
+by men of color, and sexism in ways not always parallel to experiences of white women,
+dominant conceptions of antiracism and feminism are limited, even on their own terms.
+
+Among the most troubling political consequences of the failure of antiracist and feminist
+discourses to address the intersections of racism and patriarchy is the fact that, to the extent they
+forward the interest of people of color and "women," respectively, one analysis often implicitly
+denies the validity of the other. The failure of feminism to interrogate race means that the
+resistance strategies of feminism will often replicate and reinforce the subordination of people of
+color, and the failure of antiracism to interrogate patriarchy means that antiracism will frequently
+reproduce the subordination of women. These mutual elisions present a particularly difficult
+political dilemma for women of color. Adopting either analysis constitutes a denial of a
+fundamental dimension of our subordination and works to precludes the development of a
+political discourse that more fully empowers women of color.
+
+The Politicization of Domestic Violence
+
+That the political interests of women of color are obscured and sometimes jeopardized by political
+strategies that ignore or suppress intersectional issues is illustrated by my experiences in
+gathering information for this essay. | attempted to review Los Angeles Police Department
+statistics reflecting the rate of domestic violence interventions by district, because such statistics
+can provide a rough picture of arrests by racial group, given the degree of racial segregation in
+Los Angeles.""“ The L.A.P.D., however, would not release the information. À representative
+explained that one reason the information was not released was that domestic violence activists,
+both within and outside the department, feared that statistics reflecting the extent of domestic
+violence in minority communities might be selectively interpreted and publicized so as to
+undermine long-term efforts to force the department to address domes-tic violence as a serious
+problem. Apparently activists were worried that the statistics might permit opponents to dismiss
+domestic violence as a minority problem and, therefore, not deserving of aggressive action.
+
+The informant also claimed that representatives from various minority communities opposed the
+release of these statistics. They were concerned, apparently, that the data would unfairly
+represent African-American and Latino communities as unusually violent, potentially reinforcing
+stereotypes that might be used to justify oppressive police tactics and other discriminatory
+practices. These misgivings are based on the familiar and not unfounded premise that certain
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00006.png =====
+
+minorities-particularly Black men-have already been stereotyped as pathologically violent. Some
+worry that attempts to make domestic violence an object of political action may only serve to
+confirm such stereotypes and undermine efforts to combat negative beliefs about the African-
+American community.
+
+Concerns about the misuse of statistics are, of course, well-founded; however, suppressing the
+information appears to be an easy answer to the problem only so long as the interests of women
+of color subject to domestic violence are not directly assessed. The effects of this political gag
+order" are particularly disturbing in light of the feminist imperative to "break the silence," a value
+grounded in the recognition that knowledge about the extent and nature of domestic violence is
+an important precondition to successful efforts to mobilize against it. This suppression is also
+troubling given the improbability that women of color would benefit significantly from the trickle-
+down effects of either the feminist mobilization against domestic violence or the more community-
+based mobilizations against intra-racial crime in general. Thus, the mutual suppression of critical
+information rendered the possibility of a broad mobilization against domestic violence within
+communities of color less likely.
+
+This story, although anecdotal, serves as a useful illustration to frame the more conventional
+ways that women of color have been sometimes erased within the political contestations between
+antiracism and racial hierarchy, and between feminism and patriarchy. As the discussion below
+suggests, these erasures are not always the direct or intended consequences of antiracism or
+feminism, but frequently the product of rhetorical and political strategies that fail to challenge race
+and gender hierarchies simultaneously.
+
+Domestic Violence and Antiracist Politics
+
+Within communities of color, efforts to stem the politicization of domestic violence are often
+grounded in attempts to maintain the integrity of the community. The articulation of this
+perspective takes different forms. Some critics allege that feminism has no place within
+communities of color, that gender issues are internally divisive, and that raising such issues within
+nonwhite communities represents the migration of white women's concerns into a context in
+which they are not only irrelevant but also harmful. At their most extreme, critics who seek to
+defend their communities against this feminist assault deny that gender violence is a problem in
+their community, and characterize any effort to politicize gender subordination as itself a
+community problem. This is the position taken by Shahrazad Ali in her controversial book, The
+Blackman's Guide to Understanding the Black Woman. In this stridently antifeminist tract, anchor
+for Ali draws a positive correlation between domestic violence and the liberation of African-
+Americans. Ali blames the deteriorating conditions within the African-American community on the
+insubordination of Black women and on the failure of Black men to control them (Ali 1989, pp. viii,
+76). Ali goes so far as to advise Black men to physically chastise Black women when they are
+"disrespectful" (p. 169). While she cautions that Black men must use moderation in disciplining
+"their" women, she argues that Black men must sometimes resort to physical force to reestablish
+the authority over Black women that racism has disrupted (pp. 174, 172).
+
+Ali's premise is that patriarchy is beneficial for the African-American community (p. 67), and that it
+must be strengthened through coercive means if necessary." Yet the violence that accompanies
+this will-to-control is devastating, not only for the Black women who are victimized, but also for the
+entire African-American community. The recourse to violence to resolve conflicts establishes a
+dangerous pattern for children raised in such environments, and contributes to other pressing
+problems. For example, it has been estimated that nearly forty percent of A home-less women
+and children have fled violence in their homes, and an estimated sixty-three percent of young
+men between the ages of eleven and twenty who are imprisoned for homicide have killed their
+mothers "batterers (Women and Violence Hearings, 1991, pt 2, p. 142). And yet, while gang
+violence, homicide, and other forms of Black-on-Black crime have increasingly been discussed
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00007.png =====
+
+within African-American politics, patriarchal ideas about gender and power preclude the
+recognition of domes-tic violence as yet another compelling incidence of Black-on-Black crime.
+Efforts such as Ali's to justify violence against women in the name of Black liberation are indeed
+extreme. The more common problem is that the political or cultural interests of the community are
+interpreted in away that precludes full public recognition of the problem of domestic violence.
+While it would be misleading to suggest that white Americans have been any more successful in
+coming to terms with the degree of violence in their own homes, it is nonetheless the case that
+race adds yet another dimension to why the problem of domestic violence is suppressed within
+nonwhite communities. People of color often must weigh their interests in avoiding issues that
+might reinforce distorted public perceptions of their communities against the need to acknowledge
+and address intra-community problems. Yet the cost of suppression is seldom recognized, in part
+because the failure to discuss the issue misshape perceptions of how serious the problem is in
+the first place.
+
+The controversy over Alice Walker's novel, The Color Purple, can be understood as an intra-
+community debate about the political costs of exposing gender violence within the Black
+community. Some critics chastised Walker for portraying Black men as violent brutes (Early 1988,
+p.9; Pinckney 1987, p. 17). Others lambasted Walker for the portrayal of Celie, the emotionally
+and physically abused protagonist who triumphs in the end. Walker, one critic contended, had
+created in Celie a Black woman whom the critic could not imagine existing in any Black
+community she knew or could conceive of (Harris 1984, p. 155).
+
+The claim that Celie was somehow an unauthentic character might be read as a consequence of
+silencing discussion of intra-community violence. Celie may be unlike any Black woman we know
+because the real terror experienced daily by minority women is routinely concealed in a miss-
+guided (though perhaps understandable) attempt to forestall racial stereotyping. Of course, it is
+true that representations of Black violence- whether statistical or fictional-are often written into a
+larger script that consistently portrays the African-American community as pathologically violent.
+The problem, however, is not so much the portrayal of violence itself as it is the absence of other
+narratives and images portraying a fuller range of Black experience. Suppression of some of
+these issues in the name of antiracism imposes real costs. Where information about violence in
+minority communities is not available, domestic violence is unlikely to be addressed as a serious
+issue.
+
+The political imperatives of a narrowly focused antiracist strategy sup-port other practices that
+isolate women of color. For example, activists who have attempted to provide support services to
+Asian- and African-American women occasionally report intense resistance from some of the
+leaders and institutions within those communities.'® At other times, cultural and social factors
+contribute to suppression. Nilda Rimonte, director of Everywoman's Shelter in Los Angeles,
+contends that in the Asian community, saving the honor of the family from shame is a priority
+(Rimonte 1991; Rimonte 1989, p. 327). Unfortunately, this priority tends to be more readily
+interpreted as obliging women not to scream rather than obliging men not to hit.
+
+Race and culture contribute to the suppression of domestic violence in other ways as well.
+Women of color are often reluctant to call the police, a hesitancy likely due to a general
+unwillingness among people of color to subject their private lives to the scrutiny and control of a
+police force that is frequently hostile. There is also a more generalized community ethic against
+public intervention, the product of a desire to create a private world free from the diverse assaults
+on the public lives of racially subordinated people. In this sense the home is not simply a man's
+castle in patriarchal terms, but it is also a safe haven from the indignities of life in a racist society.
+In many cases, the desire to protect the home as a safe haven against assaults outside the home
+may make it more difficult for women of color to seek protection against assaults from within the
+home.
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00008.png =====
+
+There is also a general tendency within antiracist discourse to regard the problem of violence
+against women of color as just another manifestation of racism. In this sense, gender domination
+within the community is reconfigured as a consequence of racial discrimination against men. Of
+course, it is probably true that racism contributes to the cycle of violence, given the stress that
+men of color experience in dominant society. It is therefore more than reasonable to explore the
+links between racism and domestic violence. But the chain of violence is more complex and
+extends beyond this single link. Moreover, arguments that characterize domestic violence in
+communities of color as the acting out of frustrations over denial of male power in other spheres
+tend to be tied to claims that eradicating the power differentials between men of color and white
+men will solve the problem. Yet, as a solution to violence, this approach seems
+counterproductive, first, because men of power and prestige also abuse women, but most
+importantly, because it buys into dominant images of male power that are socially damaging. A
+more productive approach--one more likely to benefit women and children as well as other men--
+is to resist the seductive images of male power that rely on the ultimate threat of violence as a
+legitimate measure of male agency. The legitimacy of such power expectations can be
+challenged by exposing their dysfunctional and debilitating effects on families and communities of
+color. Moreover, while understanding links between racism and domestic violence is an important
+component of any effective intervention strategy, it is also clear that women of color need not
+await the ultimate triumph over racism before they can expect to live violence-free lives.
+
+Race and the Domestic Violence Lobby
+
+Not only do race-based priorities function to obscure the problem of violence suffered by women
+of color; certain rhetorical strategies directed at politicizing violence against women may also
+reproduce the political marginalization of women of color. Strategies for increasing awareness of
+domestic violence tend to begin by citing the commonly shared assumption that battering is a
+problem located in the family of the "other"-namely, poor and/or Minority families. The strategy
+then focuses on demolishing the straw man, stressing that spousal abuse also occurs in white
+elite communities. Some authorities are explicit in renouncing the 11 stereotypical myths about
+battered women" (Women and Violence Hearings, 1991, pt 2, p. 139). A few commentators have
+even transformed the message that battering is not exclusively a problem of the poor or minority
+communities into a claim that it equally affects all races and classes (Borgmann 1990). That
+battering occurs in families of all races and all classes seems to be an ever-present theme of anti-
+abuse campaigns. (Women and Violence Hearings, 1991 pt. 1, p. 101; pt 2,pp. 89, 139). First-
+person anecdotes and studies, for example, consistently assert that battering cuts across racial,
+ethnic, economic, education, and religious lines. (Walker 1989, pp. 10 1-2; Straus, Gelles and
+Steinmetz1980, p. 31; Clark 1987, p. 182 n. 74). Countless first-person stories begin with a
+statement like, "| was not supposed to be a battered wife. The inference, of course, is that there is
+a more likely vision of a battered spouse, one whose race or class background contrasts with the
+identity of the speaker to produce the irony. Playing on the contrast between myths about and
+realities of violence functions effectively to challenge beliefs about the occurrence of domestic
+violence in American society.
+
+Yet this tactic is tricky business, one that may simultaneously reify and erase "othered" women as
+victims of domestic abuse. It is clear, on one hand, that attacking the stereotypes underlying
+dominant conceptions of domestic violence is both a feminist and antiracist strategy. By pointing
+out that violence is a universal problem, elites are deprived of their false security, while non-elite
+families are given reason not to be unduly defensive. Moreover, all battered women may well
+benefit from knowing that they are far from alone. But there is, nonetheless, a thin line between
+debunking the stereotypical beliefs that only poor or minority women are battered, and pushing
+them aside to focus on victims for whom mainstream politicians and media are more likely to
+express concern. While it is unlikely that advocates intend to play into such sensibilities-and it is
+even less clear whether favorable responses reflect these sensibilities-the rhetoric about and
+representations of battered women produced by power elites provide some grounds for concern.
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00009.png =====
+
+An illustration of this troubling possibility is found in the remarks of Senator David Cohen in
+support of the Violence Against Women Act of 1991 ."" Senator Cohen stated:
+
+[Rapes and domestic assaults] are not limited to the streets of our inner cities or to those few
+highly publicized cases that we read about in the newspapers or see on the evening news. . . . It
+is our mothers, wives, daughters, sisters, friends, neighbors, and coworkers who are being
+victimized. "®
+
+Senator Cohen and his colleagues who support the Act no doubt believe that they are directing
+attention and resources to all women victimized by domestic violence. Despite their universalizing
+rhetoric of "all" women ,they were able to empathize with female victims of domestic violence only
+by looking past the plight of "other" women, and by recognizing the familiar faces of their own.
+The strength of the appeal to protect our" mothers, wives, daughters, and sisters must, on some
+level, be its race and class specificity. After all, it has always been someone's mother, wife,
+daughter, or sister who has been abused, even when the victim was imagined to be Black, Latina
+or poor. The point here is not that the Violence Against Women Act is particularistic on its own
+terms, but that, unless the senators and other policymakers consciously examine why violence
+remained insignificant as long as it was understood as a minority problem, it is unlikely that
+women of color will share equally in the distribution of resources and concern. It is even more
+unlikely, however, that those in power will be forced to confront this issue. As long as attempts to
+politicize domestic violence focus on convincing elites that this is not a "minority" problem but
+their problem, any authentic and sensitive attention to the experiences of minority women will
+probably continue to be regarded as jeopardizing the movement.
+
+While Senator Cohen's statement reflects a self-consciously political presentation of domestic
+violence, an episode of the CBS News program 48 Hours'® shows how similar patterns of
+"othering" nonwhite women are also apparent in journalistic accounts of domestic violence. The
+program presented seven women who were victims of abuse. Six were interviewed at some
+length, along with their family members, friends, supporters, and even detractors. The viewer got
+to know something about these women as each was humanized through the telling of their
+stories. Yet the seventh woman, the only nonwhite one, never came into focus. She remained
+literally unrecognizable throughout the segment, first introduced by photographs showing her face
+badly beaten, and later shown with her face electronically altered in the videotape of a hearing at
+which she was forced to testify. Other images associated with this woman included shots of a
+bloodstained room and blood-soaked pillows. Her boyfriend was pictured handcuffed, while the
+camera zoomed in for a close-up of his bloodied sneakers. Of all the presentations in the
+episode, hers was the most graphic and impersonal. The overall point of the segment "featuring"
+this woman was that battering might not escalate into homicide if battered women would only
+cooperate with prosecutors. In focusing on its own agenda and failing to explore why this woman
+did not cooperate with prosecutors, the program diminished this woman, communicating,
+however subtly, that she was responsible for her own victimization.
+
+Unlike the other women, all of whom, again, were white, this Black woman had no name, no
+family, no context. The viewer sees her only as victimized and uncooperative. She cries when
+shown pictures. She pleads not to be forced to view the bloodstained room and her disfigured
+face. The program does not help the viewer to understand her predicament. The possible
+reasons she did not want to testify-fear, love, or possibly both-are never suggested. Most
+unfortunately, she, unlike the other six women, is given no epilogue. While the fates of the other
+women are revealed at the end of the episode, we discover nothing about the Black woman. She,
+like the "others" she represents, is simply left to herself and soon forgotten. This episode presents
+the classic view of the pathological "other": the viewers peer through the dimly lit window into her
+life; they see the violence she experiences, but they cannot and do not understand why she
+stays. Communication-indeed, rationality itself-seems virtually impossible. The life of the "other"
+continues along as a predictably unfathomable script and thus serves as the symbolic backdrop
+against which more accessible and familiar voices speak.
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00010.png =====
+
+| offer this description to suggest that tokenistic, objectifying, voyeuristic inclusion of women of
+color is at least as dis-empowering as complete exclusion. The effort to politicize violence against
+women will do little to address Black and other minority women if their images are retained simply
+to magnify it., problem rather than to humanize their experiences. Similarly, the antiracist agenda
+will not be advanced significantly by forcibly suppressing the reality of battering in minority
+communities. As the 48 Hours episode makes clear, the images and stereotypes we fear are
+readily available and are frequently deployed in ways that do not generate sensitive
+understanding of the nature of domestic violence in minority communities.
+
+Race and Domestic Violence Support Services
+
+Women working in the field of domestic violence have sometimes reproduced the subordination
+and marginalization of women of color by adopting policies, priorities, or strategies of
+empowerment that either elide or wholly disregard the particular intersectional needs of women of
+color. While gender, race, and class intersect to create the particular context in which women of
+color experience violence, certain choices made by "allies" can reproduce intersectional
+subordination within the very resistance strategies designed to respond to the problem.
+Feminists, of course, cannot be held solely responsible for the various ways in which their political
+efforts are received. Usually, much more is demanded of power than is given. Nonetheless there
+are sites in which feminist interventions can be directly criticized as marginalizing women of color.
+This problem is starkly illustrated by the inaccessibility of domestic violence support services to
+many non-English-speaking women. In a letter written to the Deputy Commissioner of the New
+York State Department of Social Services, Diana Campos, Director of Human Services for
+Programas de Ocupaciones y Desarrollo Economico Real, Inc. (PODER), detailed the case of a
+Latina in crisis who was repeatedly denied accommodation at a shelter because she could not
+prove that she was English-proficient. The woman had fled her home with her teenage son,
+believing her husband's threats to kill them both. She called the domestic violence hotline
+administered by PODER, seeking shelter for herself and her son. Because most shelters would
+not accommodate the woman with her son, they were forced to live on the streets for two days.
+The hotline counselor was finally able to find an agency that would take both the mother and the
+son, but when the counselor told the intake coordinator at the shelter that the woman spoke
+limited English, the coordinator told her that they could not take anyone who was not English-
+proficient. When the woman in crisis called back and was told of the shelter's "rule," she replied
+that she could understand English if spoken to her slowly. As Campos explains:
+
+Mildred, the hotline counselor, told Wendy, the intake coordinator, that the woman said that she
+could communicate a little in English. Wendy told Mildred that they could not provide services to
+this woman because they have house rules that the woman must agree to follow. Mildred asked
+her, "What if the woman agrees to follow your rules? Will you still not take her?" Wendy
+responded that all of the women at the shelter are required to attend [a] support group and they
+would not be able to have her in the group if she could not communicate. Mildred mentioned the
+severity of this woman's case. She told Wendy that the woman had been wandering the streets at
+night while her husband is home, and she had been mugged twice. She also reiterated the fact
+that this woman was in danger of being killed by either her husband or a mugger. Mildred
+expressed that the woman's safety was a priority at this point, and that once in a safe place,
+receiving counseling in a support group could be dealt witn.?
+
+The intake coordinator restated the shelter's policy of taking only English-speaking women, and
+stated further that the woman would have to call the shelter herself for screening. If the woman
+could communicate with them in English, she might be accepted. When the woman called the
+PODER- hotline later that day, she was in such a state of fear that the hotline counselor who had
+been working with her had difficulty understanding her in Spanish. Campos directly intervened at
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00011.png =====
+
+this point, calling the executive director of the shelter. A counselor called back from the shelter. -
+As Campos reports,
+
+Marie [the counselor] told me that they did not want to take the woman in the shelter because
+they felt that the woman would feel isolated. | explained that the son agreed to translate for his
+mother during the intake process. Furthermore, that we would assist them in locating a Spanish-
+speaking battered women's advocate to assist in counseling her. Marie stated that utilizing the
+son was not an acceptable means of communication for them, since it further victimized the
+victim. In addition, she stated that they had similar experiences with women who were non-
+English-speaking, and that the women eventually just left because they were not able to
+communicate with anyone. | expressed my extreme concern for her safety and reiterated that we
+would assist them in providing her with the necessary services until we could get her placed
+someplace where they had bilingual staff.
+
+After several more calls, the shelter finally agreed to take the woman. The woman called once
+more during the negotiation; however, after a plan was in place, the woman never called back.
+Said Campos, "After so many calls, we are now left to wonder if she is alive and well, and if she
+will ever have enough faith in our ability to help her to call us again the next time she is in crisis."
+Despite this woman's desperate need, she was unable to receive the protection afforded English-
+speaking women, due to the shelter's rigid commitment to exclusionary policies. Perhaps even
+more troubling than the shelter's lack of bilingual resources was its refusal to allow a friend or
+relative to translate for the woman. This story illustrates the absurdity of a feminist approach that
+would make the ability to attend a support group without a translator a more significant
+consideration in the distribution of resources than the risk of physical harm on the street. The
+point is not that the shelter's image of empowerment is empty, but rather that it was imposed
+without regard to the dis-empowering consequences for women who did not match the kind of
+client the shelter's administrators imagined. And thus they failed to accomplish the basic priority
+of the shelter movement-to get the woman out of danger.
+
+Here the woman in crisis was made to bear the burden of the shelter's refusal to anticipate and
+provide for the needs of non-English-speaking women. Said Campos, "it is unfair to impose more
+stress on victims by placing them in the position of having to demonstrate their proficiency in
+English in order to receive services that are readily available to other battered women." The
+problem is not easily dismissed as one of well-intentioned ignorance. The specific issue of
+monolingualism and the monistic view of women's experience that set the stage for this tragedy
+were not new issues in New York. Indeed, several women of color re-ported that they had
+repeatedly struggled with the New York State Coalition Against Domestic Violence over language
+exclusion and other practices that marginalized the interests of women of color! Yet despite
+repeated lobbying, the coalition did not act to incorporate the specific needs of nonwhite women
+into their central organizing vision.
+
+Some critics have linked the coalition's failure to address these issues to the narrow vision of
+coalition that animated its interaction with women of color in the first place. Efforts to include
+women of color came, it seems, as something of an afterthought. Many were invited to participate
+only after the coalition was awarded a grant by the state to recruit women of color. However, as
+one "recruit" said, "they were not really prepared to deal with us or our issues. They thought that
+they could simply incorporate us into their organization without rethinking any of their beliefs of
+priorities and that we would be happy." Even the most formal gestures of inclusion were not to be
+taken for granted. On one occasion when several women of color attended a meeting to discuss
+a special task force on women of color, the group debated all day over including the issue on the
+agenda.
+
+The relationship between the white women and the women of color on the board was a rocky one
+from beginning to end. Other conflicts developed over differing definitions of feminism. For
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00012.png =====
+
+example, the board decided to hire a Latina staff person to manage outreach programs to the
+Latino community, but the white members of the hiring committee rejected candidates who did
+not have recognized feminist credentials even though they were favored by Latina committee
+members. As Campos pointed out, by measuring Latinas against their own biographies, the white
+members of the board failed to recognize the different circumstances under which feminist
+consciousness develops and manifests itself within minority communities. Many of the women
+who interviewed for the position were established activists and leaders within their own
+community, a fact that suggests that these women were probably familiar with the specific gender
+dynamics in their communities, and were accordingly better qualified to handle outreach than
+other candidates with more conventional feminist credentials.
+
+The coalition ended a few months later when the women of color walked out. Many of these
+women returned to community-based organizations, preferring to struggle over women's issues
+within their communities rather than struggle over race and class issues with white, middle-class
+women. Yet as illustrated by the case of the Latina who could find no shelter, the dominance of a
+particular perspective and set of priorities within the shelter community continues to marginalize
+the needs of women of color.
+
+The struggle over which differences matter and which do not is neither an abstract nor an
+insignificant debate among women. Indeed, these conflicts are about more than difference as
+such; they raise critical issues of power. The problem is not simply that women who dominate the
+anti-violence movement are different from women of color, but that they frequently have power to
+determine, either through material or rhetorical resources, whether the intersectional differences
+of women of color will be incorporated at all into the basic formulation of policy. Thus, the struggle
+over incorporating these differences is not a petty or superficial conflict about who gets to sit at
+the head of the table. In the context of violence) it is sometimes a deadly serious matter of who
+will survive-and who will not.
+
+Conclusion
+
+This article has presented intersectionality as a way of framing the various interactions of race
+and gender in the context of violence against women of color. | have used intersectionality as a
+way to articulate the interaction of racism and patriarchy generally. | have also used
+intersectionality to describe the location of women of color both within overlap-ping systems of
+subordination and at the margins of feminism and anti-racism. The effort to politicize violence
+against women will do little to address the experiences of nonwhite women until the ramifications
+of racial stratification among women are acknowledged. At the same time, the antiracist agenda
+will not be furthered by suppressing the reality of intra-racial violence against women of color. The
+effect of both these marginalizations is that women of color have no ready means to link their
+experiences with those of other women. This sense of isolation compounds efforts to politicize
+gender violence within communities of color, and permits the deadly silence surrounding these
+issues to continue.
+
+| want to suggest that intersectionality offers a way of mediating the tension between assertions
+of multiple identity and the ongoing necessity of group politics. It is helpful in this regard to
+distinguish intersectionality from the closely related perspective of anti-essentialism, from which
+women of color have critically engaged white feminism for the absence of women of color on the
+one hand, and for speaking for women of color on the other. One rendition of this anti-essentialist
+critique-that feminism essentializes the category "woman"--owes a great deal to the
+postmodernist idea that categories we consider natural or merely representational are actually
+socially constructed in a linguistic economy of difference.” While the descriptive project of
+postmodernism of questioning the ways in which meaning is socially constructed is generally
+sound, this critique sometimes misreads the meaning of social construction and distorts its
+political relevance.
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00013.png =====
+
+One version of anti-essentialism, embodying what might be called the vulgarized social
+construction thesis, is that since all categories are socially constructed, there is no such thing as,
+say, "Blacks" or "women," and thus it makes little sense to continue reproducing those categories
+by organizing around them. Even the Supreme Court has gotten into this act. In Metro
+Broadcasting, Inc. v. FCC, (1 10 S. Ct. 2997 (1990)) the Court conservatives, in rhetoric that
+oozes vulgar constructionist smugness, proclaimed that any set-aside designed to increase the
+voices of minorities on the air waves was itself based on a racist assumption that skin color is in
+some way connected it to the likely content of one's broadcast. The Court said:
+
+The FCC's choice to employ a racial criterion embodies the related notions that a particular and
+distinct viewpoint inheres in certain racial groups and that a particular applicant, by virtue of race
+or ethnicity alone, is more valued than other applicants because "likely to provide[that] distinct
+perspective." The policies directly equate race with belief and behavior, for they establish race as
+a necessary and sufficient condition of securing the preference. . .. The policies impermissibly
+value individuals because they presume that persons think in a manner associated with their
+race. (p. 3037, internal citations omitted)
+
+But to say that a category such as race or gender is socially constructed is not to say that that
+category has no significance in our world. On the contrary, a large and continuing project for
+subordinated people-and indeed, one of the projects for which postmodern theories have been
+very helpful-is thinking about the way power has clustered around certain categories and is
+exercised against others. This project attempts to unveil the processes of subordination and the
+various ways those processes are experienced by people who are subordinated and people who
+are privileged. It is, then, a project that presumes that categories have meaning and
+consequences. This project's most pressing problem, in many if not most cases, is not the
+existence of the categories, but rather the particular values attached to them, and the way those
+values foster and create social hierarchies.
+
+This is not to deny that the process of categorization is itself an exercise of power, but the story is
+much more complicated and nuanced than that. First, the process of categorizing--or, in identity
+terms, naming-is not unilateral. Subordinated people can and do participate, sometimes even
+subverting the naming process in empowering ways. One need only think about the historical
+subversion of the category "Black,," or the current transformation of "queer," to understand that
+categorization is not a one-way street. Clearly, there is unequal power, but there is nonetheless
+some degree of agency that people can and do exert in the politics of naming. And it is important
+to note that identity continues to be as site of resistance for members of different subordinated
+groups. We all can recognize the distinction between the claims "lI am Black" and the claim "| am
+a person who happens to be Black." "| am Black" takes the socially imposed identity and
+empowers it as an anchor of subjectivity. "| am Black" becomes not simply a statement of
+resistance, but also a positive discourse of self-identification, intimately linked to. celebratory
+statements like the Black nationalist "Black is beautiful." "| am a person who happens to be
+Black," on the other hand, achieves self-identification by straining for a certain universality (in
+effect, "| am first a person")and for a concomitant dismissal of the imposed category ("Black") as
+contingent, circumstantial, non-determinant. There is truth in both characterizations, of course,
+but they function, quite differently depending on the political context. At this point in history, a
+strong case can be made that the most critical resistance strategy for dis-empowered groups is to
+occupy and defend a politics of social location rather than to vacate and destroy it.
+
+Vulgar constructionism thus distorts the possibilities for meaningful identity politics by conflating
+at least two separate but closely linked manifestations of power. One is the power exercised
+simply through the process of categorization; the other, the power to cause that categorization to
+have social and material consequences. While the former power facilitates the latter, the political
+implications of challenging one over the other matter greatly. We can look at debates over racial
+subordination throughout history and see that, in each instance, there was a possibility of
+challenging either the construction of identity or the system of subordination based on that
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00014.png =====
+
+identity. Consider, for example, the segregation system in Plessy v. Ferguson (163 U.S. 537,
+1896). At issue were multiple dimensions of dominance, including categorization, the sign of race,
+and the subordination of those so labeled. There were at least two targets for Plessy to challenge:
+the construction of identity ("What is a Black?"),and the system of subordination based on that
+identity ("Can Blacks and whites sit together on a train?"). Plessy actually raised both issues,
+challenging both the coherence of race as a category, and challenging the subordination of those
+deemed to be Black. In his attack on the former, Plessy argued that the application of the
+segregation statute to him, given his mixed-race status, was inappropriate. The Court refused to
+see this as an attack on the coherence of the race system, and instead responded by simply
+reproducing the Black/white dichotomy that Plessy was challenging. Because Plessy was not, by
+virtue of his nonwhite ancestry, white, he had suffered no injury by not being treated like a white
+man. As we know, Plessy's challenge to the practice of segregating those who were nonwhite
+was not successful either. In evaluating various resistance strategies today, it may be useful to
+ask which of Plessy's challenges would have been best for him to have won-the challenge
+against the coherence of the racial categorization system, or the challenge to the practice of
+segregation?
+
+The same question can be posed for Brown v. Board of Education (397U.S. 483, 1954)., Which of
+two possible arguments was politically more empowering-that segregation was unconstitutional
+because the racial categorization system oh which it was based was incoherent, or that
+segregation was unconstitutional because it was injurious to children categorized as Black and
+thus oppressive to their communities? While it might strike some as a difficult question, for the
+most part, the dimension of racial domination that has been most vexing to African-Americans
+has not been the racial categorization as such, but the myriad ways in which those of us so
+defined have been systematically subordinated. With particular regard to problems confronting
+women of color, when identity politics fail us, as they frequently do, it is not primarily because
+those politics take as natural certain categories that are socially constructed, but rather because
+the descriptive content of those categories and the narratives on which they are based have
+privileged some experiences and excluded others.
+
+Along these lines, consider the Clarence Thomas/Anita Hill scandal. During the Senate hearings
+for the confirmation of Clarence Thomas to the Supreme Court, Anita Hill, in bringing allegations
+of sexual harassment against Thomas, was rhetorically dis-empowered in part because she fell
+between the dominant interpretations of feminism and anti-racism. Caught between the
+competing narrative tropes of rape (advanced by feminists), on the one hand, and lynching
+(advanced by Thomas and his antiracist supporters), on the other, the raced and gendered
+dimensions of her position could not be told. This dilemma could be described as the
+consequence of anti-racism's essentializing Blackness and feminism's essentializing
+womanhood. But recognizing as much does not take us far enough, for the problem is not simply
+linguistic or philosophical in nature. It is specifically political: the narratives of gender are based
+on the experience of white, middle-class women, and the narratives of race are based on the
+experience of Black men. The solution does not merely entail arguing for the multiplicity of
+identities or challenging essentialism generally. Instead, in Hill's case, for example, it would have
+been necessary to assert those crucial aspects of her location that were erased, even by many of
+her advocates-that is, to state what difference her difference made.
+
+If, as this analysis asserts, history and context determine the utility of identity politics, how, then,
+do we understand identity politics today, especially in light of our recognition of multiple
+dimensions of identity? More specifically, what does it mean to argue that gendered identities
+have been obscured in antiracist discourses, just as race identities have been obscured in
+feminist discourses? Does that mean we cannot talk about identity? Or instead, that any
+discourse about identity has to acknowledge how our identities are constructed through the
+intersection of multiple dimensions? A beginning response to these questions requires that we
+first recognize that the organized identity groups in which we find ourselves are in fact coalitions,
+or at least potential coalitions waiting to be formed.
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00015.png =====
+
+In the context of antiracism, recognizing the ways in which the intersectional experiences of
+women of color are marginalized in prevailing conceptions of identity politics does not require that
+we give up attempts to organize as communities of color. Rather, intersectionality provides a
+basis for re-conceptualizing race as a coalition between men and women
+
+of color. For example, in the area of tape, intersectionality provides away of explaining why
+women of color have to abandon. the general argument that the interests of the community
+require the suppression of any confrontation around intra-racial rape. Intersectionality may
+provide the means for dealing with other marginalizations as well. For example, race can also be
+a coalition of straight and gay people of color, and thus serve as a basis for critique of churches
+and other cultural institutions that reproduce heterosexism.
+
+With identity thus re-conceptualized, it may be easier to understand the need for, and to summon
+the courage to challenge, groups that are after all, in one sense, "home" to us, in the name of the
+parts of us that are not made at home. This takes a great deal of energy, and arouses intense
+anxiety. The most one could expect is that we will dare to speak against internal exclusions and
+marginalizations, that we might call attention to how the identity of "the group" has been centered
+on the intersectional identities of a few. Recognizing that identity politics takes place at the site
+where categories intersect thus seems more fruitful than challenging the possibility of talking
+about categories at all. Through an awareness of intersectionality, we can better acknowledge
+and ground the differences among us and negotiate the means by which these differences will
+find expression in constructing group politics.
+
+Notes
+
+| am indebted to a great many people who have pushed this project along. For their kind
+assistance in facilitating my field research for this article, | wish to thank Maria Blanco, Margaret
+Cambrick, Joan Creer, Estelle Cheung, Nilda Rimonte, and Fred Smith. | benefitted from the
+comments of Taunya Banks, Mark Barenberg, Darcy Calkins, Adrienne Davis, Gina Dent, Brent
+Edwards, Paul Gewirtz, Lani Guinier, Neil Gotanda, Joel Handier, Duncan Kennedy, Henry
+Monaghan, Elizabeth Schneider, and Kendall Thomas. A very special thanks goes to Gary Peller
+and Richard Yarborough. Jayne Lee, Paula Puryear, Yancy Garrido, Eugenia Gifford, and Leti
+Volpp provided valuable research assistance. | gratefully acknowledge the support of the
+Academic Senate of UCLA, Center for Afro-American Studies at UCLA, the Reed Foundation,
+and Columbia Law School. Earlier versions of this article were presented to the Critical Race
+Theory Workshop and the Yale Legal Theory Workshop.
+
+1. luse "Black" and "African-American" interchangeably throughout this article. | capitalize
+"Black" because "Blacks, like Asians, Latinos, and other ‘minorities’, constitute a specific
+cultural group and, as such, require denotation as a proper noun." (Crenshaw, 1988, p.
+1332 n. 2, citing Mackinnon 1982, p. 516). By the same token, | do not capitalize "white",
+which is not a proper noun, since whites do not constitute a specific cultural group. For
+the same reason | do not capitalize "women of color."
+
+2. ltis important to me to name the perspective from which one constructs one's analysis;
+and for me, that is as a Black feminist. Moreover, it is important to acknowledge that the
+materials that | incorporate in my analysis are drawn heavily from research on Black
+women. On the other hand, | see my own work as part of a broader collective effort
+among feminists of every color to expand feminism to include analyses of race and other
+factors such as class, sexual orientation, and age. | have attempted therefore to offer my
+sense of the tentative connections between my analysis of the intersectional experiences
+of Black women and the intersectional experiences of other women of color. | stress that
+this analysis is not intended to include falsely, nor to exclude unnecessarily, other women
+of color.
+
+3. During my research in Los Angeles, California, | visited Jenessee Battered Women's
+Shelter, the only shelter in the western states primarily serving Black women, and
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00016.png =====
+
+Everywoman's Shelter, which primarily serves Asian women. | also visited Estelle
+Cheung at the Asian Pacific Law Foundation, and | spoke with a representative of La
+Casa, a shelter in the predominantly Latino community of East LA
+
+4. Indeed, one shelter provider reported that nearly eighty-five percent of her clients
+returned to the battering relationships, largely because of difficulties in finding
+employment and housing. African-Americans are more segregated than any other racial
+group, and this segregation exists across class lines. Recent studies in Washington,
+D.C., and its suburbs show that sixty-four percent of Blacks trying to rent apartments in
+white neighborhoods encountered discrimination (Thompson, 1991, D1). Had these
+studies factored gender and family status into the equation, the statistics might have
+been worse.
+
+5. Racial differences marked an interesting contrast between Jenessee's policies and those
+of other shelters situated outside the Black community. Unlike some other shelters in Los
+Angeles, Jenessee welcomed the assistance of men. According to the director, the
+shelter's policy was premised on a belief that given African-American's need to maintain
+healthy relations to pursue a common struggle against racism, anti-violence programs
+within the African-American community cannot afford to be antagonistic to men. For a
+discussion of the different needs of Black women who are battered, see Richie 1985,
+p.40.
+
+6. 8 U.S.C. +s 1186a (1988).
+
+7. The Marriage Fraud Amendments provided that, for the conditional resident status to be
+removed, "the alien spouse and the petitioning spouse (if not deceased) jointly must
+submit to the Attorney General ... a petition which requests the removal of such
+conditional basis and which states, under penalty of perjury, the facts and information." 8
+U.S.C. +s 1186a(b)(1)(A). The amendments provided for a waiver, at the attorney
+general's discretion, if the alien spouse was able to demonstrate that deportation would
+result in extreme hardship, or that the qualifying marriage was terminated for good cause.
+(+s 1186a(c)(4)). However, the terms of this hardship waiver have not adequately
+protected battered spouses.
+
+8. Immigration Act of 1990, Pub. L. No. 101-649,104 Stat. 4978. H.R. Rep. No. 723(i), 101st
+Cong., 2d Sess. 78 (1990), reprinted in 1990 U.S.C.C.A.N. 6710, 6758.
+
+9. H.R. Rep. No. 723(l), 101stCong., 2dSess. 79, (1990) reprinted in 1990 U.S.C.C.A.N.
+6710, 6759.
+
+10. One survey conducted of battered women "hypothesized that if a person is a member of
+a discriminated minority group, the fewer the opportunities for socioeconomic status
+above the poverty level and the weaker the English language skills, the greater the
+disadvantage." (Pagelow 1981, p. 96). The seventy Minority women in the study" had a
+double disadvantage in this society that serves to tie them more strongly to their
+spouses."
+
+11. There can be little question that women unable to communicate in English are severely
+handicapped in seeking independence. Some women thus excluded were even further
+disadvantaged because they were not U.S. citizens and some were in this country
+illegally. For a few of these, the only assistance shelter staff could render was to help
+reunite them with their families of origin (Pagelow 1981, pp. 96-97). Non-English-
+speaking women are often excluded even from studies of battered women because of
+their language and other difficulties. A researcher qualified the statistics of one survey by
+pointing out that "an unknown number of minority group women were excluded from this
+survey sample because of language difficulties" (Pagelow 1981,p. 96). To com. it this
+lack of appropriate services for women of color at many shelters, special programs have
+been created specifically for women from particular communities. A few examples of such
+programs include the Victim Intervention Project in East Harlem for Latina women,
+Jenessee Shelter for African-American women in Los Angeles, Apna Gar in Chicago for
+South Asian women, and, for Asian women generally, the Asian Women's Shelter in San
+Francisco, the New York Asian Women's Center, and the Center for the Pacific Asian
+Family in Los Angeles. Programs with hotlines include Sakhi for South Asian Women in
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00017.png =====
+
+New York, and Manavi in Jersey City, also for South Asian women, as well as programs
+for Korean women in Philadelphia and Chicago.
+
+12. For example, the Rosa Parks Shelter and the Compton Rape Crisis Hotline, two shelters
+that serve the African-American community, are in constant conflict with funding sources
+over the ratio of dollars and hours to women served. Interview with Joan Greer, Executive
+Director of Rosa Parks Shelter, in Los Angeles, California (April 1990).
+
+13. Interview with Joan Greer, Executive Director of Rosa Parks Shelter, in Los Angeles,
+California (April 1990).
+
+14. Most crime statistics are classified by sex or race, but none are classified by sex and
+race. Because we know that most rape victims are women, the racial breakdown reveals,
+at best, rape rates for Black women. Yet, even given this head start, rates for other
+nonwhite women are difficult to collect. While there are some statistics for Latinas,
+statistics for Asian and Native American women are virtually nonexistent.
+
+15. In this regard, Ali's arguments bear much in common with those of neo-conservatives
+who attribute many of the social ills plaguing Black America to the breakdown of
+patriarchal family values (see Raspberry 1989, p. C 1 5; Will 1986a, p. A23; Will 1986b,p.
+9). Ali's argument shares remarkable similarities with the controversial "Moynihan Report"
+on the Black family, so called because its principal author was now-Senator Daniel P.
+Moynihan (D-N.Y.). In the infamous chapter entitled "The Tangle of Pathology," Moynihan
+argued that: The Negro community has been forced into a matriarchal structure which,
+be-cause it is so out of line with the rest of American society, seriously retards the
+progress of the group as a whole, and imposes a crushing burden on the Negro male
+and, in consequence, on a great many Negro women as well. (p. 29)
+
+16. The source of the resistance reveals an interesting difference between the Asian-
+American and African-American communities. In the African-American community, the
+resistance is usually grounded in efforts to avoid confirming negative stereotypes of
+African-Americans as violent; the concern of members in some Asian-American
+communities is to avoid tarnishing the model minority myth. Interview with Nilda Rimonte,
+Director of the Everywoman Shelter, in Los Angeles, California (April 19,199 1).17. On
+January 14, 199 1, Senator Joseph Biden (D.-Del.) introduced Senate Bill 15, the
+Violence Against Women Act of 1991, comprehensive legislation addressing violent
+crime confronting women. S. 15, 102d Cong., Ist Sess. (1991). The bill consists of
+several measures designed to create safe streets, safe homes, and safe campuses for
+women. More specifically, Title II! of the bill creates a civil rights remedy for crimes of
+violence motivated by the victim's gender (+52 301). Among the findings supporting the
+bill were "(1) crimes motivated by the victim's gender constitute bias crimes in violation of
+the victim's right to be free from discrimination on the basis of gender" and "(2) current
+law [does not provide a civil rights remedy] for gender crimes committed on the street or
+in the home." S. Rep. No. 197, 102d Cong., Ist Sess. 27(1991).
+
+17. On January 14, 1991, Senator Joseph Biden (D.-Del) introduced Senate Bill 151 the
+Violence Against Women Act of 1991, comprehensive legislation addressing violent
+crime confronting women. S. 15, 102™ Cong., 1% Sess. (1991). The bill consists of
+several measures designed to create safe streets, safe homes, and safe campuses for
+women. More specifically, Title II! of the bill creates a civil rights remedy for crimes of
+violence motivated by the victim's gender (+52 301).Among the findings supporting the
+bill were "(1) crimes motivated by the victim's gender constitute bias crimes in violation of
+the victim's right to be free from discrimination on the basis of gender" and "(2) current
+law [does not provide a civil rights remedy] for gender crimes committed on the street or
+in the home. " S. Rep. No. 197, 102d Cong. , 1% Sess. 27 (1991).
+
+18. 137 Cong. Rec. S61 | (daily ed. Jan 14, 1991), statement of Sen. Cohen.
+
+19. 48 Hours: Till Death Do Us Part (CBS television broadcast, February 6, 1991).
+
+20. Letter of Diana M. Campos, Director of Human Services, PODER, to Joseph Semidei,
+Deputy Commissioner, New York State Department of Social Services, March 26,1992
+(hereinafter PODER Letter).
+
+21. Roundtable Discussion on Racism and the Domestic Violence Movement, April 2,1992
+(transcript on file with the Stanford Law Review) The participants in the discussion-Diana
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00018.png =====
+
+Campos, Director, Bilingual Outreach Project of the New York State Coalition Against
+Domestic Violence; Elsa A. Rios, Project Director, Victim Intervention Project (a
+community-based project in East Harlem, New York, serving battered Council for women;
+and Haydee Rosario, a social worker with the East Harlem Human Services and a Victim
+Intervention Project volunteer-recounted conflicts relating to race and culture during their
+association with the New York State Coalition Against Domestic Violence, a state
+oversight group that distributed resources to battered women's shelters throughout the
+state and generally set policy priorities for the shelters that were part of the coalition.
+
+22. | follow the practice of others in linking anti-essentialism to postmodernism. (See,
+generally, Nicholson, 1990.)
+
+23. | do not mean to imply that all theorists who have made anti-essentialist critiques have
+lapsed into vulgar constructionism. Indeed, anti-essentialists avoid making these
+troubling moves, and would no doubt be receptive to much of the critique set forth herein.
+| use the term vulgar constructionism to distinguish between those anti-essentialist
+critiques that leave room for identity politics and those that do not.
+
+References
+
+Ali, Shahrazad. 1989. The Blackman's Guide to Understanding the Blackwoman. Philadelphia:
+Civilized Publications.
+
+Banales, Jorge. 1990. "Abuse Among Immigrants; As Their Numbers Grow So Does the Need for
+Services." Washington Post. October 16:E5.
+
+Borgmann, Caitlin. 1990. "Battered Women's Substantive Due Process Claims: Can Orders of
+Protection Deflect DeShaney?" N.Y.U. Law Review 65:1280-1323.
+
+Clark, Natalie Loder. 1987. "Crime Begins At Home: Let's Stop Punishing Victims and
+Perpetuating Violence." William & Mary Law Review 28:263.
+
+Collins, Patricia Hill. 1990. Black Feminist Thought: Knowledge, Consciousness and the Politics
+of Empowerment. Boston: Unwin Hyman.
+
+Crenshaw, Kimberle.1988. "Race, Reform and Retrenchment: Transformation and Legitimation in
+Anti Discrimination Law." Harvard Law Review. 101: 1331-1387.
+
+- 1989. "Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of
+Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics." University of Chicago Legal
+Forum 1989:139-167.
+
+Early, Gerald. 1988. "Her Picture in the Papers: Remembering Some Black Women." Antaeus 9
+(Spring).
+
+Feild, Hubert S. and Bienen, Leigh B. 1980. Jurors and Rape: A Study in Psychology and Law.
+Lexington, MA: Lexington Books.
+
+Harris, Trudier. 1984. "On the Color Purple, Stereotypes, and Silence." Black American Literature
+Forum 18:155.Hodgin, Deanna. 1991. "Mail-Order Brides’ Marry Pain to Get Green Cards."
+Washington Times. April 16: El.MacKinnon, Catharine A. 1982. "Feminism, Marxism, Method and
+the State: An Agenda for Theory." Signs 7:515.
+
+===== IMAGE: /tmp/unreadable_ocr_bsocup_m/p00019.png =====
+
+Matthews, Nancy Anne. 1989. "Stopping Rape or Managing its Consequences? State
+Intervention and Feminist Resistance in the Los Angeles Anti-Rape Movement, 1972-1987."
+Ph.D. dissertation, University of California, Los Angeles.
+
+Nicholson, Linda. 1990. Feminism/Postmodernism. New York: Routledge.Pagelow, Mildred
+Daley. 1981. Woman-Battering: Victims and Their Experiences. Beverly Hills: Sage Publications.
+Pinckney, Daryl. 1987. "Black Victims, Black Villains." New York Review of Books. January 29:17.
+Raspberry, William. 1989. "If We Are to Rescue American Families, We Have to Save the Boys."
+Chicago Tribune. July 19:C15.Richie, Beth. 1985. "Battered Black Women: A Challenge for the
+Black Community." The Black Scholar 16:40-44.
+
+Rimonte, Nilda. 1989. "Domestic Violence Against Pacific Asians." In Making Waves: An
+Anthology of Writings By and About Asian American Women ed. Asian Women United of
+California. Boston: Beacon Press. . 1991. "Cultural Sanction of Violence Against Women in
+the Pacific-Asian Community." Stanford Law Review 43, No. 6.
+
+Straus, Murray, Gelles, Richard J., and Steinmetz, Suzanne K. 1980. Behind Closed Doors:
+Violence in the American Family. Garden City NY: Anchor Press.
+
+Thompson, Tracey. 1991. "Study Finds 'Persistent' Racial Bias in Area's Rental Housing."
+Washington Post. January 31:DI.
+
+Walker, Lenore E. 1989. Terrifying Love: Why Battered Women Kill and How Society Responds.
+New York: Harper & Row.
+
+Walt, Vivienne. 1990. "Immigrant Abuse: Nowhere to Hide; Women Fear Deportation, Experts
+Say." Newsday. December 2:8.Will, George F. 1986a. "Voting Rights Won't Fix It." Washington
+Post January 23:A23. . 1986b. "White Racism’ Doesn't Make Blacks Mere Victims of Fate."
+Milwaukee Journal February 21:9.Women and Violence: Hearings Before the Senate Committee
+on the Judiciary on Legislation to Reduce the Growing Problem of Violent Crime Against Women.
+101% Congress, 2d Session, 1991.
+
+Williams, Kimberlé Crenshaw. "Mapping the Margins: Intersectionality, Identity Politics, and
+Violence Against Women of Color". In: Martha Albertson Fineman, Rixanne Mykitiuk, Eds. The
+Public Nature of Private Violence. (New York: Routledge, 1994), p. 93-118.
+
+Copyright © 1994. From The Public Nature of Private Violence edited by Martha Fineman and
+Rixanne Mykitiuk. Reproduced by permission of Taylor & Francis/Routledge, Inc. To learn more
+about this book or to order, visit Routledge on-line
+
+## Related
+
+- [[content]]
+- [[2017 - EDITORIAL INTRODUCTION]]
+- [[2015 - Future Imperfect Science, Technology, and the Imaginations of M - 2015 - Future Imperfect Sci]]
+- [[Research and Papers MOC]]
+- [[Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]

@@ -1,0 +1,256 @@
+Use the prompt-ops-master skill.
+
+Goal:
+Create the correct folder structure and markdown files for an operational elemental multi-agent framework with agents named Water, Air, Wind, Fire, Earth, Wood, Metal, Spirit, Chi, and Akasha.
+
+Work in implementation mode. Inspect the repository first, then create the structure and files. Do not create empty placeholders. Every markdown file must contain useful operational content.
+
+Repository inspection:
+First determine:
+1. Existing conventions for agent specs, prompts, docs, examples, schemas, validation, and tests.
+2. Whether the repo prefers markdown, YAML, JSON, or another format for agent definitions.
+3. The best location for this new multi-agent framework.
+4. Whether any existing files should be extended rather than duplicated.
+
+If repo conventions clearly require a different structure, follow them and document the deviation. Otherwise, create:
+
+elemental-agents/
+├── README.md
+├── agents/
+│   ├── water.md
+│   ├── air.md
+│   ├── wind.md
+│   ├── fire.md
+│   ├── earth.md
+│   ├── wood.md
+│   ├── metal.md
+│   ├── spirit.md
+│   ├── chi.md
+│   └── akasha.md
+├── orchestration/
+│   ├── routing-policy.md
+│   ├── handoff-policy.md
+│   ├── escalation-policy.md
+│   ├── generation-cycle.md
+│   ├── restriction-cycle.md
+│   └── conflict-resolution.md
+├── examples/
+│   ├── single-agent-task.md
+│   ├── multi-agent-workflow.md
+│   ├── spirit-to-chi-escalation.md
+│   ├── chi-to-akasha-escalation.md
+│   ├── generation-cycle-workflow.md
+│   └── restriction-cycle-conflict.md
+└── validation/
+    ├── agent-definition-checklist.md
+    ├── orchestration-checklist.md
+    └── escalation-safeguards.md
+
+Framework model:
+The framework merges Western Alchemy, Chinese Wuxing, and Eastern metaphysics, but it must be operational rather than decorative. Treat the symbolic model as a routing, orchestration, handoff, escalation, validation, and conflict-resolution architecture.
+
+Operational agents:
+Water, Air, Wind, Fire, Earth, Wood, and Metal are primary operational agents.
+
+Escalation agents:
+Spirit, Chi, and Akasha are escalation layers. They are not ordinary peer workers.
+
+Agent definitions:
+
+Water:
+Function: flow, introspection, emotion, wisdom.
+Use for ambiguity, emotional tone, user intent, reflective synthesis, hidden assumptions, and calm judgment.
+
+Air:
+Function: intelligence, communication, mind, creativity.
+Use for concept generation, communication design, writing, prompt shaping, explanation, abstraction, and synthesis.
+
+Wind:
+Function: motion, breath, inspiration, transmission.
+Use for routing, handoffs, message passing, momentum, coordination, and moving work between agents. Keep distinct from Air: Air thinks and communicates; Wind moves and transmits.
+
+Fire:
+Function: transformation, passion, energy, will.
+Use for implementation, refactoring, decisive action, creative force, conflict resolution, and turning plans into action.
+
+Earth:
+Function: stability, grounding, material structure, body.
+Use for reliability, infrastructure, validation, documentation, persistence, operational durability, and grounding assumptions.
+
+Wood:
+Function: growth, expansion, vitality, creativity.
+Use for roadmap design, planning, strategy, branching possibilities, adaptability, generative growth, and long-term development.
+
+Metal:
+Function: structure, discipline, clarity, precision.
+Use for quality control, pruning, governance, standards, critique, decision-making, security, privacy, compliance, and noise reduction.
+
+Spirit:
+Function: awareness, essence, consciousness.
+Use for coherence checks, purpose alignment, identity, principles, ethical awareness, and determining whether the system is acting in accordance with its purpose.
+
+Chi:
+Function: active manifestation of Spirit.
+Use for harmonizing multiple agents, restoring flow, resolving stagnation, coordinating energy across the system, and translating awareness into action. Chi is an escalation layer, not a routine operational agent.
+
+Akasha:
+Function: all-pervading field, ether, quintessence, pure potentiality.
+Use for ultimate synthesis, source-field reasoning, deep memory, ontology, global context reconciliation, source-of-truth resolution, and contradictions across the whole framework. Akasha is the final escalation layer and must not be used for routine tasks.
+
+README.md requirements:
+Include:
+- Framework overview
+- Elemental model summary
+- Agent list
+- Operational agents: Water, Air, Wind, Fire, Earth, Wood, Metal
+- Escalation agents: Spirit, Chi, Akasha
+- Routing overview
+- Handoff overview
+- Escalation overview
+- Generation cycle
+- Restriction cycle
+- Usage examples
+- Safeguards against overusing Chi and Akasha
+
+Each file in agents/ must include:
+- Agent name
+- Primary function
+- Attribute domain
+- Symbolic meaning
+- Operational role
+- Trigger conditions
+- Inputs
+- Outputs
+- Allowed tools or capabilities
+- Constraints
+- Non-goals
+- Handoff rules
+- Escalation rules
+- Validation checks
+- Example task
+- Example output
+
+Orchestration files:
+
+routing-policy.md must define:
+- How to select the initial agent.
+- How to route by task type.
+- How to handle ambiguous tasks.
+- How to route multi-domain tasks.
+- When to involve Wind as coordinator.
+
+handoff-policy.md must define:
+- How agents transfer work.
+- Required handoff metadata.
+- How to preserve context and provenance.
+- How to avoid circular handoffs.
+- How to document agent contributions.
+
+escalation-policy.md must define:
+- When operational agents escalate to Spirit.
+- When Spirit escalates to Chi.
+- When Chi escalates to Akasha.
+- When escalation is prohibited.
+- How to de-escalate back to operational agents.
+
+generation-cycle.md must encode the Wuxing generation cycle as constructive collaboration logic:
+- Wood fuels Fire.
+- Fire creates Earth.
+- Earth produces Metal.
+- Metal collects Water.
+- Water nourishes Wood.
+
+restriction-cycle.md must encode the Wuxing restriction cycle as control and correction logic:
+- Metal cuts Wood.
+- Wood breaks Earth.
+- Earth dams Water.
+- Water extinguishes Fire.
+- Fire melts Metal.
+
+conflict-resolution.md must define:
+- How to resolve agent disagreements.
+- How to use the restriction cycle for critique and constraint.
+- How to use the generation cycle for constructive collaboration.
+- When to escalate unresolved conflicts to Spirit, Chi, or Akasha.
+- How to document final decisions.
+
+Examples:
+
+single-agent-task.md:
+Create one task handled by a single operational agent.
+
+multi-agent-workflow.md:
+Create one task involving at least three agents. Include routing, handoff, output, and validation.
+
+spirit-to-chi-escalation.md:
+Create a case where Spirit detects misalignment or stagnation, then Chi coordinates system-wide correction.
+
+chi-to-akasha-escalation.md:
+Create a case where Chi cannot reconcile contradictions, then Akasha performs final synthesis or source-of-truth resolution.
+
+generation-cycle-workflow.md:
+Create a constructive workflow using Wood, Fire, Earth, Metal, and Water in sequence.
+
+restriction-cycle-conflict.md:
+Create a conflict-resolution workflow using Metal, Wood, Earth, Water, and Fire in the restriction cycle.
+
+Validation files:
+
+agent-definition-checklist.md must include:
+- Required fields for every agent.
+- Completeness checks.
+- Non-overlap checks.
+- Symbolic-to-operational mapping checks.
+
+orchestration-checklist.md must include:
+- Routing checks.
+- Handoff checks.
+- Escalation checks.
+- Conflict-resolution checks.
+- Provenance checks.
+
+escalation-safeguards.md must include:
+- Rules preventing overuse of Spirit, Chi, and Akasha.
+- Required justification for escalation.
+- Criteria for returning to operational agents.
+- Failure modes and mitigations.
+
+Quality requirements:
+- Use prompt-ops-master to structure the output rigorously.
+- Preserve repo conventions.
+- Do not introduce unnecessary dependencies.
+- Do not rewrite unrelated files.
+- Prefer markdown unless repo conventions indicate otherwise.
+- Make every file practical and usable.
+- Clearly separate symbolic meaning from executable or operational behavior.
+- Include enough detail that another agent or developer can use the framework without additional explanation.
+- Avoid empty files, vague placeholders, and purely poetic descriptions.
+- Do not only describe intended files; physically create them in the repository.
+- If any required file cannot be created, explain why and list the missing file explicitly.
+- Run relevant formatting, linting, link checking, markdown validation, or tests if the repo has those commands.
+
+Verification requirements:
+After creating the files, verify the structure exists by running a command equivalent to:
+
+find elemental-agents -type f | sort
+
+Confirm that all required files exist:
+- 10 agent files
+- 6 orchestration files
+- 6 example files
+- 3 validation files
+- README.md
+
+Then inspect at least one file from each folder to confirm it contains operational content and is not an empty placeholder.
+
+If the repo has markdown linting, formatting, link checking, or test commands, run them. If no relevant validation command exists, state that no repo-native validation command was found and provide the manual verification results instead.
+
+Final response:
+After implementation, provide a concise summary listing:
+- Folders created
+- Markdown files created
+- Final file tree with actual paths created
+- Any deviations from the requested structure
+- Validation or tests run
+- Manual verification results
+- Risks and assumptions

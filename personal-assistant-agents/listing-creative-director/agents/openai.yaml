@@ -1,0 +1,4 @@
+interface:
+  display_name: "Listing Creative Director"
+  short_description: "Create marketplace-facing copy, previews, and merchandising assets."
+  default_prompt: "Use $listing-creative-director to turn this approved offer into a marketplace-ready listing packet with copy and preview assets."

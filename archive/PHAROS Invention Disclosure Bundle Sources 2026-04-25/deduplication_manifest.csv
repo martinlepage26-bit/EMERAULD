@@ -1,0 +1,18 @@
+source_filename,detected_title,file_format,probable_duplicate_group,completeness_level,likely_latest_substantive_version,keep_as_source,corresponding_final_output
+00_PHAROS_Invention_Disclosure_v12.docx,PHAROS Invention Disclosure V12,DOCX,Group 1,complete,DOCX (formatted version),yes,REV_PHAROS_Invention_Disclosure_v12.docx
+00_PHAROS_Invention_Disclosure_v12.pdf,PHAROS Invention Disclosure V12,PDF,Group 1,complete,DOCX (PDF is export),yes (for reference),REV_PHAROS_Invention_Disclosure_v12.docx
+01_Recursive_AI_Governance_Very_Long_Narrative.docx,Recursive AI Governance as Executable Method — The Very Long Narrative,DOCX,Group 2,complete,MD (4405 words vs 654 word count),yes,REV_Recursive_AI_Governance_Very_Long_Narrative.docx
+01_Recursive_AI_Governance_Very_Long_Narrative.md,Recursive AI Governance as Executable Method — The Very Long Narrative,MD,Group 2,complete,MD (primary source),yes,REV_Recursive_AI_Governance_Very_Long_Narrative.docx
+02_PHAROS_Master_SOP.md,PHAROS Master Standard Operating Procedure,MD,singleton,complete,MD (only source),yes,REV_PHAROS_Master_SOP.docx
+03_PHAROS_Recursive_Redesign_Passes_1-5_Claude+GPT.txt,PHAROS Recursive Redesign — Execution Output Passes (Claude + GPT),TXT,singleton,complete,TXT (only source),yes,REV_PHAROS_Recursive_Redesign_Passes_1-5_Claude+GPT.docx
+04_PHAROS_Recursive_Redesign_Passes_1-5_Claude.txt,PHAROS Recursive Redesign — Execution Output Passes (Claude only),TXT,singleton,complete,TXT (only source),yes,REV_PHAROS_Recursive_Redesign_Passes_1-5_Claude.docx
+05_From_Recursive_Production_to_Governable_Method.md,From Recursive Production to Governable Method,MD,Group 3,complete,MD (source format),yes,REV_From_Recursive_Production_to_Governable_Method.docx
+05_From_Recursive_Production_to_Governable_Method.pdf,From Recursive Production to Governable Method,PDF,Group 3,complete,MD (PDF is export),yes (for reference),REV_From_Recursive_Production_to_Governable_Method.docx
+06_Codex_Governance_Case_Study_Blind_Leading_Automated.md,Codex Governance Case Study — The Blind Leading the Automated,MD,singleton,complete,MD (only source),yes,REV_Codex_Governance_Case_Study_Blind_Leading_Automated.docx
+07_InfraFabric_Architecture.md,InfraFabric Architecture,MD,Group 4,complete,MD (primary),yes,REV_InfraFabric_Architecture.docx
+07_InfraFabric-reviewer-ready-2026-03-11.zip,InfraFabric Architecture,ZIP,Group 4,complete,MD (supporting materials),yes (extract and reference),REV_InfraFabric_Architecture.docx
+08_Mobius_Protocol_Complete_Operational_Specification.md,The Möbius Protocol,MD,Group 5,complete,MD (complete spec),yes,REV_Mobius_Protocol.docx
+08_Mobius_Protocol_Disguised_Prompt_Sequence.md,The Möbius Protocol,MD,Group 5,partial,MD (operational variant),yes,REV_Mobius_Protocol.docx
+08_Mobius_Protocol_Public_28-step_Description.md,The Möbius Protocol,MD,Group 5,partial,MD (public summary),yes,REV_Mobius_Protocol.docx
+08_Mobius_Protocol_Self_Polygraph_Template.md,The Möbius Protocol,MD,Group 5,partial,MD (wiki template),yes,REV_Mobius_Protocol.docx
+08_Mobius_Protocol_Template.txt,The Möbius Protocol,TXT,Group 5,partial,TXT (template extract),yes,REV_Mobius_Protocol.docx

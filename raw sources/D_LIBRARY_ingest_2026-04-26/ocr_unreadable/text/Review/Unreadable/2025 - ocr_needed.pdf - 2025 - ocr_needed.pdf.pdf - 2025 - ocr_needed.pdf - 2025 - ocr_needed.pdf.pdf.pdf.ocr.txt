@@ -1,0 +1,83 @@
+===== IMAGE: /tmp/unreadable_ocr_jl22dj2t/p00001.png =====
+
+OECD publishing
+ALGORITHMIC MANAGEMENT
+IN THE WORKPLACE
+NEW EVIDENCE FROM AN
+OECD EMPLOYER SURVEY
+OECD ARTIFICIAL
+INTELLIGENCE PAPERS
+February 2025 No. 31
+@) OECD
+
+
+===== IMAGE: /tmp/unreadable_ocr_jl22dj2t/p00073.png =====
+
+72|
+Q25. [M, randomise 1-6]
+In general, when it comes to the use of software in your workplace, which of the following
+measures are implemented, to the best of your knowledge?
+
+1. Impact or risk assessments of the software
+
+2. Regular audits of the software
+
+3. Guidelines for implementing or using the software
+
+4. An ethics officer or ethics board
+
+5. Complaint mechanisms or whistleblower channels in case people have concerns about
+
+the software
+
+6. Consultation of workers or their representatives
+
+7. Other measures to ensure that the software is safe and ethical — Please specify: OE
+
+8. None of the above [SCRIPTER: exclusive]
+
+998. Don't know [Interviewer instruction: Do not read] [SCRIPTER: exclusive]
+Q26. [IS]
+In general, when it comes to the use of software in your workplace, does your workplace provide
+training on how to use software?
+
+1. Yes
+
+2. No
+
+998. Don't know [Interviewer instruction: Do not read]
+Q27. [S]
+To the best of your knowledge, is such training useful or not?
+
+1. Useful
+
+2. Not useful
+
+998. Don't know [Interviewer instruction: Do not read)
+Q28. [M, randomise 1-6]
+Finally, | am going to ask you about the use of software to automate recruitment in your
+workplace. To the best of your knowledge, does your workplace provide software to …
+
+1. Write job descriptions
+
+2. Source candidates
+
+3. Schedule job interviews
+
+4. Screen and shortlist candidates
+
+5. Interview candidates
+
+6. Communication with candidates
+
+7. None of the above [SCRIPTER: exclusive]
+
+998. Don't know [Interviewer instruction: Do not read] [SCRIPTER: exclusive]
+End page
+Thank you very much for your participation.
+‘You can consult, correct, or delete the information you give at any time. At any moment, you can
+stop the processing of your information, have your information transferred to you, and withdraw
+your consent.
+[END OF SURVEY]
+
+ALGORITHMIC MANAGEMENT IN THE WORKPLACE © OECD 2025

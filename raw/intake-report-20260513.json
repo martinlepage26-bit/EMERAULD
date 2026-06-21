@@ -1,0 +1,335 @@
+{
+  "run_at_utc": "2026-05-13T23:11:51.110219+00:00",
+  "source_label": "emerauld-ingest-2026-05-13",
+  "raw_dir": "/mnt/c/users/softinfo/documents/emerauld/raw",
+  "manifest_path": "/mnt/c/users/softinfo/documents/emerauld/raw/.intake-manifest.jsonl",
+  "dry_run": false,
+  "counts": {
+    "input": 20,
+    "verified": 20,
+    "rejected": 0
+  },
+  "verified": [
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/00_Inbox/Raw/2026-04-25 — DG waiting on client picks.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/00_Inbox/Raw/2026-04-25 — DG waiting on client picks.md",
+      "file_name": "2026-04-25 — DG waiting on client picks.md",
+      "size_bytes": 847,
+      "sha256": "42d9ee4ecfeaf57c22f60444a069ebcbcecd560245bb1eea4a90bb3b1d83ec18",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:49.018951+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X.md",
+      "file_name": "2026-04-25 — Reflexive Inhabitation Audit needs a live X.md",
+      "size_bytes": 1188,
+      "sha256": "f46862c058b1f65b73c6809bb34b81c09885fde9bacbec6784a39568a5229d08",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:49.079993+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/00_Inbox/Raw/2026-04-25 — Santé-France Phase 0 — I am the blocker.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/00_Inbox/Raw/2026-04-25 — Santé-France Phase 0 — I am the blocker.md",
+      "file_name": "2026-04-25 — Santé-France Phase 0 — I am the blocker.md",
+      "size_bytes": 909,
+      "sha256": "1de5056428374d450d714764f585b7636a78e61dfda083a0cc63ffc74c4065d8",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:49.159391+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/00_Inbox/Raw/2026-04-25 — Stop coding, clean, package, send.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/00_Inbox/Raw/2026-04-25 — Stop coding, clean, package, send.md",
+      "file_name": "2026-04-25 — Stop coding, clean, package, send.md",
+      "size_bytes": 1004,
+      "sha256": "531e6b6af37681ca34e2ba55f27a7d0e3fd1f76c2ef751d191adbfa8cd5af3e4",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:49.230070+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/00_Inbox/Raw/2026-04-25 — The lost-loop pattern.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/00_Inbox/Raw/2026-04-25 — The lost-loop pattern.md",
+      "file_name": "2026-04-25 — The lost-loop pattern.md",
+      "size_bytes": 1162,
+      "sha256": "57a9e9a27baae0195baf304936e59176f020472e09a87770dc11d5890410a5e9",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:49.322549+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/00_Inbox/Raw/2026-05-06 — Patent agent email — provisional application contract + notes.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/00_Inbox/Raw/2026-05-06 — Patent agent email — provisional application contract + notes.md",
+      "file_name": "2026-05-06 — Patent agent email — provisional application contract + notes.md",
+      "size_bytes": 6213,
+      "sha256": "b6f481c81e8a564f6eb58794bf528a1bbf1c76e69d59bb14ee7f0e46981f2542",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:49.420209+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/00_Inbox/Raw/Email Député Guilbault AE.txt",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/00_Inbox/Raw/Email Député Guilbault AE.txt",
+      "file_name": "Email Député Guilbault AE.txt",
+      "size_bytes": 48164,
+      "sha256": "cb341d4d951559ec7f51c579da46f5956f073c55e9f41ebe1a074f0ec99e4cda",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:49.560094+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/00_Inbox/Raw/Formal-PHAROS-method-formal-structure-invention_disclosure.txt",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/00_Inbox/Raw/Formal-PHAROS-method-formal-structure-invention_disclosure.txt",
+      "file_name": "Formal-PHAROS-method-formal-structure-invention_disclosure.txt",
+      "size_bytes": 32363,
+      "sha256": "e0dce73e6db20cab0a1f8123aa069d4aa8da93c22d1acc19c25d4a3f595f5255",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:49.770628+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/00_Inbox/Raw/REVISIONS - BRAIN PAPER JOURNAL.txt",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/00_Inbox/Raw/REVISIONS - BRAIN PAPER JOURNAL.txt",
+      "file_name": "REVISIONS - BRAIN PAPER JOURNAL.txt",
+      "size_bytes": 8900,
+      "sha256": "adfe99d0a1e1048c343dbd6057dfd1c6f8a4044ca6e2eeb8044e620986a83998",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:49.873661+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/00_Inbox/Raw/Skills as self-operators.txt",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/00_Inbox/Raw/Skills as self-operators.txt",
+      "file_name": "Skills as self-operators.txt",
+      "size_bytes": 6623,
+      "sha256": "553b2dd3b579de3a4580806eaad2911aa04b3af17aa608814fd933f9171803ea",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:50.073612+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/00_Inbox/Raw/WIP recruso paper.txt",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/00_Inbox/Raw/WIP recruso paper.txt",
+      "file_name": "WIP recruso paper.txt",
+      "size_bytes": 49555,
+      "sha256": "554b9f19c2a89e015247aa5bcc6b01686c520b80292314d1c29600eb1c244700",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:50.202254+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/Clippings/24 Profitable Digital Products to Sell in 2026 (Start Selling Today).md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/Clippings/24 Profitable Digital Products to Sell in 2026 (Start Selling Today).md",
+      "file_name": "24 Profitable Digital Products to Sell in 2026 (Start Selling Today).md",
+      "size_bytes": 34625,
+      "sha256": "de03bdc416bbd52ff4195db66962e3c4c9036a4c35f76035743ceb615bedb72b",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:50.281466+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/Clippings/AI is speeding into healthcare. Who should regulate it.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/Clippings/AI is speeding into healthcare. Who should regulate it.md",
+      "file_name": "AI is speeding into healthcare. Who should regulate it.md",
+      "size_bytes": 10299,
+      "sha256": "cc254e319696873c0fc36bbf6086875e885b5a95eeda2eb0e099a174cd334ef7",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:50.403514+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/Clippings/Alchimie et Histoire des Sciences.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/Clippings/Alchimie et Histoire des Sciences.md",
+      "file_name": "Alchimie et Histoire des Sciences.md",
+      "size_bytes": 23715,
+      "sha256": "77013a00129285acb8d1457b8c74313bc86e0722cf1cf0f5461b7fdc5ded55c5",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:50.483378+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/Clippings/Build  Compute  Workers & Pages  Martinlepage26@me.com's Account.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/Clippings/Build  Compute  Workers & Pages  Martinlepage26@me.com's Account.md",
+      "file_name": "Build  Compute  Workers & Pages  Martinlepage26@me.com's Account.md",
+      "size_bytes": 2307,
+      "sha256": "a6dc72e449a6cbecd6f778766132f8a2a2bd1c443bc73d96d2bf64fc6a0586f4",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:50.545473+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/Clippings/Complete solutions, not compromises.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/Clippings/Complete solutions, not compromises.md",
+      "file_name": "Complete solutions, not compromises.md",
+      "size_bytes": 5418,
+      "sha256": "a4bc99eedfe8a07ae07b580987ada86933885995e5e1eb92b4de266e4321bc14",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:50.605778+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/Clippings/MIA PAPERS PLANES lyrics.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/Clippings/MIA PAPERS PLANES lyrics.md",
+      "file_name": "MIA PAPERS PLANES lyrics.md",
+      "size_bytes": 5788,
+      "sha256": "e1a118dd512c099e5dbe56f4d06e597b9f82906884483dde26395ab07176598a",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:50.761899+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/Clippings/Reddit Data API Wiki.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/Clippings/Reddit Data API Wiki.md",
+      "file_name": "Reddit Data API Wiki.md",
+      "size_bytes": 5065,
+      "sha256": "18b2695d56ffeb1537c75f2e4138bf148ba9371af5bbe6ef5f174a6b5437d561",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:50.929033+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/Clippings/The Ballad of the Witches' Road.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/Clippings/The Ballad of the Witches' Road.md",
+      "file_name": "The Ballad of the Witches' Road.md",
+      "size_bytes": 29644,
+      "sha256": "0160e4b70e9d3e2b403049e2ae316812f6e407824e0310f97bc2b1f272ac747d",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:51.000525+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/Clippings/gaga gisease lyrics.md",
+      "raw_path": "/mnt/c/users/softinfo/documents/emerauld/raw/Clippings/gaga gisease lyrics.md",
+      "file_name": "gaga gisease lyrics.md",
+      "size_bytes": 3002,
+      "sha256": "d4c4ccd799fcb991a980646ec17926cdf39f54a29ca6753f691098386a0bcc51",
+      "source_label": "emerauld-ingest-2026-05-13",
+      "verified_at_utc": "2026-05-13T23:11:51.097986+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    }
+  ],
+  "rejected": []
+}

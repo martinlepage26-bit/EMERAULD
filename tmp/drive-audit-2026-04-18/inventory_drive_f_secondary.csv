@@ -1,0 +1,22 @@
+source,root,path,name,ext,is_dir,size,modified,topic,normalized_stem
+drive,F:\Mon disque,F:\Mon disque\AurorA,AurorA,,True,0,2026-04-06T16:38:28.1270000-04:00,other,aurora
+drive,F:\Mon disque,F:\Mon disque\COMPASSai,COMPASSai,,True,0,2026-04-06T16:38:40.8820000-04:00,other,compassai
+drive,F:\Mon disque,F:\Mon disque\PHAROS Method,PHAROS Method,,True,0,2026-04-06T16:38:53.7320000-04:00,pharos,pharos method
+drive,F:\Mon disque,F:\Mon disque\PHAROS-ai.ca,PHAROS-ai.ca,,True,0,2026-04-06T16:40:54.6950000-04:00,pharos,pharos ai
+drive,F:\Mon disque,F:\Mon disque\Research papers,Research papers,,True,0,2026-04-06T16:41:45.2800000-04:00,other,research papers
+drive,F:\Mon disque,F:\Mon disque\desktop.ini,desktop.ini,.ini,False,246,2026-04-18T18:35:46.0117361-04:00,other,desktop
+drive,F:\Mon disque,F:\Mon disque\PHAROS Method\SPEC-1-AI Governance Engine.gdoc,SPEC-1-AI Governance Engine.gdoc,.gdoc,False,222,2026-02-23T01:53:41.9910000-05:00,pharos,spec 1 ai governance engine
+drive,F:\Mon disque,F:\Mon disque\PHAROS Method\SPEC-1-AI Governance Engine (1).pdf,SPEC-1-AI Governance Engine (1).pdf,.pdf,False,235444,2026-02-23T01:55:01.0000000-05:00,pharos,spec 1 ai governance engine 1
+drive,F:\Mon disque,F:\Mon disque\PHAROS Method\THE VIOLET GEM.gdoc,THE VIOLET GEM.gdoc,.gdoc,False,222,2026-02-28T20:30:05.7660000-05:00,pharos,the violet gem
+drive,F:\Mon disque,F:\Mon disque\PHAROS Method\RECURSO-DRAFT1.docx,RECURSO-DRAFT1.docx,.docx,False,18397,2026-03-09T08:46:32.0000000-04:00,pharos,recurso draft1
+drive,F:\Mon disque,F:\Mon disque\PHAROS Method\OPENai PHAROS.gdoc,OPENai PHAROS.gdoc,.gdoc,False,222,2026-03-27T18:55:44.0030000-04:00,pharos,openai pharos
+drive,F:\Mon disque,F:\Mon disque\PHAROS-ai.ca\🔴 Real AI Governance Failures & Incidents (With References).gdoc,🔴 Real AI Governance Failures & Incidents (With References).gdoc,.gdoc,False,222,2026-02-23T01:50:55.0780000-05:00,pharos,real ai governance failures and incidents with references
+drive,F:\Mon disque,"F:\Mon disque\PHAROS-ai.ca\LEGIBLE POWER, LIVABLE FUTURES.gdoc","LEGIBLE POWER, LIVABLE FUTURES.gdoc",.gdoc,False,222,2026-02-23T03:21:48.6850000-05:00,pharos,legible power livable futures
+drive,F:\Mon disque,F:\Mon disque\PHAROS-ai.ca\index (1).html,index (1).html,.html,False,21818,2026-03-22T21:55:45.0000000-04:00,pharos,index 1
+drive,F:\Mon disque,F:\Mon disque\PHAROS-ai.ca\martin_lepage_governance_tree.html,martin_lepage_governance_tree.html,.html,False,12799,2026-03-22T22:14:33.0000000-04:00,pharos,martin lepage governance tree
+drive,F:\Mon disque,F:\Mon disque\PHAROS-ai.ca\MIRO-From AI Anxiety to Recursive Govern.txt,MIRO-From AI Anxiety to Recursive Govern.txt,.txt,False,26891,2026-03-22T23:11:52.0000000-04:00,pharos,miro from ai anxiety to recursive govern
+drive,F:\Mon disque,F:\Mon disque\Research papers\Recurso-paper,Recurso-paper,,True,0,2026-03-09T08:53:09.9650000-04:00,research_paper,recurso paper
+drive,F:\Mon disque,F:\Mon disque\Research papers\RECURSO-DRAFT1 (1).gdoc,RECURSO-DRAFT1 (1).gdoc,.gdoc,False,222,2026-03-09T09:27:08.5980000-04:00,other,recurso draft1 1
+drive,F:\Mon disque,F:\Mon disque\Research papers\Recurso-paper\deep-research-report.md,deep-research-report.md,.md,False,26844,2026-03-09T08:45:58.0000000-04:00,research_paper,deep research report
+drive,F:\Mon disque,F:\Mon disque\Research papers\Recurso-paper\Master Reference List.txt,Master Reference List.txt,.txt,False,65922,2026-03-09T08:48:57.0000000-04:00,research_paper,master reference list
+drive,F:\Mon disque,F:\Mon disque\Research papers\Recurso-paper\RECURSO-DRAFT1.gdoc,RECURSO-DRAFT1.gdoc,.gdoc,False,222,2026-03-09T09:10:16.6900000-04:00,research_paper,recurso draft1

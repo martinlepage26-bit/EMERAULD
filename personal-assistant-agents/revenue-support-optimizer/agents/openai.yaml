@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revenue and Support Optimizer"
+  short_description: "Read sales, support, and conversion signals and feed iteration back upstream."
+  default_prompt: "Use $revenue-support-optimizer to read these sales, review, support, and conversion signals and route the right upstream revisions."

@@ -1,0 +1,150 @@
+The EML function, or "Exp-Minus-Log," is a recently proposed mathematical operator defined as eml(x, y) = exp(x) - ln(y), where exp is the exponential function and ln is the natural logarithm.
+
+Core Idea
+Researchers have shown that, together with the constant 1, repeated applications of EML can generate all standard elementary functions—like addition, multiplication, powers, roots, trigonometric functions (sin, cos), exponentials, logs, and even constants such as e, π, and i—through composition in the complex domain.
+
+Key Applications
+This binary operator simplifies the foundation of real analysis by reducing diverse operations to one primitive, enabling constructions like arithmetic from logarithmic neutralizations (e.g., ln(1) = 0).
+
+Limitations
+While powerful for textbook elementary functions (polynomials, exp, trig), it excludes some advanced algebraic functions like arbitrary polynomial roots, per broader mathematical definitions.
+
+The EML operator generates trigonometric functions like sine through repeated compositions forming deep binary trees of the operation eml(x, y) = exp(x) - ln(y), starting from the constant 1.
+
+Construction Process
+Computations occur in the complex domain, even for real outputs, using the principal branch of the logarithm—e.g., ln(-1) helps derive i and π, which are building blocks for trig identities. The process begins by deriving primitives like exp(x) = eml(x, 1), ln(y) ≈ eml(1, eml(eml(1, y), 1)), and 0 = ln(1), then builds arithmetic (add, multiply) and constants before tackling Euler's formula links for sin/cos.
+
+Sine Specifics
+Sine's expression requires a massive EML tree (too large to print), equivalent to sin(x) = (exp(ix) - exp(-ix))/(2i), where i and π emerge from nested logs/exps on 1. This exhaustive search-derived method proves completeness for elementary functions but prioritizes theoretical universality over practical efficiency.
+
+The EML operator derives cosine (and similarly tangent) through massive nested binary trees of eml(x, y) = exp(x) - ln(y) applied repeatedly to the constant 1 (and input x), but explicit trees are impractically large—e.g., leaf counts exceed 50 for trig functions—and no public sources show the full expression.
+
+Derivation Pathway
+EML first builds basics like exp(x) = eml(x, 1), ln(z) = eml(1, eml(eml(1, z), 1)), 0 = ln(1), and i from ln(-1) in the complex plane using the principal log branch. From there, it constructs arithmetic (+ via logs, × via exps), π (e.g., via arg(ln(-1))), and Euler's formula e^{ix} = cos(x) + i sin(x), yielding cos(x) = Re(e^{ix}) where i and e^{ix} stem from deep EML nests.
+
+Tree Complexity
+For cos(x), the EML tree depth reaches 10+ with hundreds of nodes (Table 4 in arXiv paper notes similar scales for primitives; trigs are deeper), verified by exhaustive numeric/symbolic search but too vast for manual display—software like the EML compiler generates it. Tangent follows as tan(x) = sin(x)/cos(x), compounding their trees.
+
+Practical Access
+Use the author's SymbolicRegression package or EML compiler (GitHub-linked in paper) for exact trees: e.g., Mathematica code VerifyBaseSet[{1}, {}, {EML}] outputs the chain, including cos. This proves completeness but highlights EML's theoretical power over computability.
+
+EML does not directly involve "trig derivative proofs" as a core component; the operator proves generation of trig functions themselves via nested trees, with derivatives handled implicitly through automatic differentiation in its neural discovery process.
+
+Computational Pitfalls
+Common errors arise in EML's symbolic regression training for trig constructions, including range overflow from multiply composed exponentials (e.g., exp(exp(...))) and NaN propagation in complex log branches during deep tree evaluations. These are mitigated by clamping exp arguments and inspecting real/imaginary parts separately, but naive implementations fail numeric verification of cos(x) or sin(x) trees.
+
+Verification Issues
+Early searches discarded false positives where partial trees matched sin/cos approximately but failed exact identity (e.g., via VerifyBaseSet in Mathematica), often due to branch cut mismatches in principal ln(-1) → iπ derivations. Derivative proofs aren't explicitly detailed, but critics note unproven analyticity preservation across infinite nests, risking non-differentiable artifacts.
+
+Overflow in EML exponential compositions arises from deeply nested exp(x) calls during symbolic regression or tree evaluation, as eml(x, y) = exp(x) - ln(y) repeatedly amplifies values beyond floating-point limits (e.g., exp(>709) in double precision).
+
+Stabilization Techniques
+Factor out the maximum exponent using the "sum-of-exponentials trick": for a tree sum like ∑ exp(t_i), compute c = max(t_i), then ∑ exp(t_i - c) * exp(c), where the sum stays bounded [1 < ∞] and exp(c) is handled separately or in log-space. In EML training, clamp exp arguments to [-700, 700] before subtraction, evaluating real/imag parts independently to sidestep NaN from complex ln branches.
+
+EML-Specific Fixes
+The original paper's SymbolicRegression.jl applies range clamping and verifies trees numerically post-search, discarding overflow-prone candidates; for production, use scaled variables (e.g., x/σ) or log-domain equivalents during gradient descent. For inference, compile trees to Horner-like forms minimizing exp depth, or approximate with Taylor series at runtime for shallow nests.
+
+
+EML implementations handle floating-point limits primarily through clamping and separate real/imaginary evaluations during tree computation and training.
+
+Core Strategies
+Clamp exp arguments to safe ranges like [-700, 700] to prevent overflow in double precision, as multiply nested exps quickly exceed IEEE 754 maxima (~1e308). Inspect real and imaginary parts independently post-eml to avoid NaN propagation from complex ln branches, preserving torch autograd compatibility.
+
+Verified Approaches
+The SymbolicRegression.jl package (used in the arXiv paper) discards overflow/NaN trees during search and verifies survivors numerically/symbolically in Mathematica or C's <math.h>. Production uses include Horner-form rewriting to minimize exp depth and log-space accumulation for sums of exps.
+
+EML implementations prevent exponential overflow by clamping input arguments to exp() within safe floating-point bounds, typically [-700, 700] for double precision, before each eml(x, y) = exp(x) - ln(y) evaluation.
+
+Python Example
+Use NumPy for vectorized clamping during recursive tree evaluation:
+
+python
+import numpy as np
+
+def safe_eml(x, y):
+    x_clamp = np.clip(x, -700, 700)  # Prevent exp overflow
+    exp_x = np.exp(x_clamp)
+    ln_y = np.log(np.clip(y, 1e-300, np.inf))  # Avoid ln(0)
+    return exp_x - ln_y
+
+# Example: exp(z) = safe_eml(z, 1)
+def eml_exp(z):
+    return safe_eml(z, 1.0)
+This handles deep nests by clamping at every node.
+
+Julia (SymbolicRegression.jl Style)
+From the paper's training loop, PyTorch/JAX variants clamp gradients too:
+
+julia
+function safe_eml(x, y)
+    clamp(exp(x), -700, 700) - log(max(y, eps(Float64)))
+end
+During symbolic search, discard trees where any intermediate exp(x) > 1e300.
+
+Torch Autograd Compatible
+For ML training (as in paper's discovery):
+
+python
+import torch
+
+def eml(x, y):
+    x = torch.clamp(x, -700, 700)
+    return torch.exp(x) - torch.log(torch.clamp(y, 1e-300, torch.inf))
+Separate real/imag processing avoids complex NaN: real_part = torch.real(eml(cplx_x, cplx_y)).
+
+
+Alternative overflow safeguards in EML beyond clamping focus on reformulating computations to sidestep direct large exponentials while preserving the operator's structure.
+
+Log-Domain Reformulation
+Evaluate eml(x, y) via its log: log(eml(x, y)) = log(exp(x) - ln(y)) ≈ x + log(1 - exp(ln(ln(y)) - x)) when x >> ln(ln(y)), or symmetrically; this keeps all terms bounded by working in log-space and exponentiating only at the end.
+
+Tree Optimization
+Post-discovery, rewrite EML trees into depth-minimal forms using common subexpression elimination (CSE) and Horner schemes—e.g., exp(exp(a) + b) → exp(a) * exp(b + exp(a - log(exp(a)))), reducing peak intermediates.
+
+Compensated Summation
+For aggregated exp terms in deep trees, apply Kahan-like summation or pairwise scaling: factor max exp(m) out of ∑ exp(t_i), compute ∑ exp(t_i - m) accurately (each <1), then multiply back—generalizes to eml subtractions.
+
+eml(x,y)=e
+x
+−ln(y)
+
+The source appears to be Andrzej Odrzywołek’s arXiv paper “All elementary functions from a single binary operator,” submitted March 23, 2026 and revised April 4, 2026. The paper claims that the binary operator
+eml(x,y)=exp(x)−ln(y), together with the constant 1, can generate the “standard repertoire of a scientific calculator,” including arithmetic, exponentials, logarithms, trigonometric functions, radicals, and constants such as e, π, and i.
+
+The neat part is that exp and ln are enough to bootstrap each other and then reconstruct ordinary operations. For example, the paper gives constructions such as:
+
+e
+x
+=eml(x,1)
+
+because ln(1)=0, so eml(x,1)=e
+x
+. It also gives a nested construction for lnx, after which addition, subtraction, multiplication, division, powers, and trig can be built from combinations of these pieces.
+
+The NAND-gate analogy is good as an intuition, but it is not perfect. In Boolean logic, NAND is functionally complete over a very precisely defined finite system. EML is more like a “single primitive basis” for a particular calculator-style language of elementary functions. The arXiv abstract itself frames the result as generating the “standard repertoire of a scientific calculator,” not literally every mathematical operation or every function anyone might care about.
+
+The main caveat: “all elementary functions” is doing a lot of work. A critical response by Robert Smith argues that, under the broader classical mathematical definition of elementary functions, EML terms do not cover everything, especially arbitrary algebraic adjunctions such as generic polynomial root functions. Smith explicitly says the result is “neat and thought-provoking,” but objects to reading it as the continuous-math equivalent of NAND.
+
+Also worth noting: one follow-up arXiv paper proposing hardware-efficient neuro-symbolic networks using EML was later withdrawn due to “a fundamental limitation in EML method,” which is a reminder not to overread the immediate ML/hardware implications.
+
+So the fair summary is:
+
+EML is a clever universal primitive for a scientific-calculator-style basis of elementary functions. It is mathematically interesting and aesthetically very cool. But “the operation that creates all other operations in math” is an overstatement unless you carefully restrict what “operations” and “elementary functions” mean.
+
+Overview
+
+In April 2026, Andrzej Odrzywołek proposed a binary operator eml(x,y) = exp(x) − ln(y) that, together with the constant 1, generates the “standard repertoire of a scientific calculator”. The paper shows that familiar operations—addition, subtraction, multiplication, division, exponentiation, roots and trigonometric functions—as well as constants such as e, π and i can all be built by composing this single operator in the complex plane.
+Examples include exp(x) = eml(x,1) and ln(x) = eml(1, eml(eml(1,x), 1)). Composition yields “EML trees” whose leaves are 1s and whose internal nodes are eml, forming full binary trees representing functions.
+
+Implications and appeal
+
+EML has been likened to the NAND gate in Boolean logic because a single primitive can, in principle, replace many distinct calculator keys. A popular news article explains that setting y=1 gives the exponential, repeated nesting builds logarithms, and deeper nesting yields constants (e.g., e from eml(1,1) and π via complex logarithms). This universality makes EML conceptually attractive for symbolic regression and neural‑network “equation learning”; the paper even shows shallow EML trees recovering closed‑form formulas from data.
+
+Limitations and criticism
+
+The claim that EML generates “all elementary functions” relies on a narrow definition. A mathematician’s critique notes that Odrzywołek’s Table 1 lists 36 specific functions and that, under the broader standard definition of elementary functions (which includes arbitrary polynomial roots), EML terms are insufficient. In particular, topological Galois theory implies that EML terms have solvable monodromy groups, whereas some algebraic functions require unsolvable groups and thus cannot be represented.
+A follow‑on paper proposing hardware‑efficient neuro‑symbolic networks with EML was withdrawn on 21 April 2026; the abstract acknowledges that the EML operator is sufficient to express standard elementary functions, but the authors withdrew the preprint “due to the discovery of a fundamental limitation”. This demonstrates that EML’s practical utility remains uncertain.
+
+Conclusion
+
+The EML operator is a clever and aesthetically pleasing demonstration that exponentials and logarithms can bootstrap each other to build many familiar functions. It provides a uniform grammar for expressing a broad class of operations and has spurred interest in symbolic regression and minimal function bases. However, the operator does not capture the entire classical class of elementary functions, and at least one follow‑up work based on it was withdrawn because of uncovered limitations. Thus, while EML is an intriguing “universal” primitive for scientific‑calculator functions, its scope and practicality should be interpreted with caution.

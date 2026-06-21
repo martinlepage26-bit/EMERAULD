@@ -1,0 +1,15 @@
+{
+  "_comment": "Register this MCP server in Claude Console → Settings → Integrations → MCP servers.",
+  "_vault_id": "vlt_011Ca4JWpYokA1iNPqWWJjrx",
+  "_org_note": "Apply at the organisation level so all workspace members see the server.",
+
+  "mcpServers": {
+    "personal-assistant": {
+      "command": "/mnt/c/Users/softinfo/Documents/EMERAULD/personal-assistant-agents/mcp-server/run.sh",
+      "args": [],
+      "env": {
+        "VAULT_ID": "vlt_011Ca4JWpYokA1iNPqWWJjrx"
+      }
+    }
+  }
+}

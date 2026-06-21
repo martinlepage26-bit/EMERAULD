@@ -1,0 +1,250 @@
+/* Aura Fiberoptic Dark
+   Dark Obsidian theme snippet with soft aura clusters, fiberoptic lines,
+   and strong text legibility.
+*/
+
+/* Core palette */
+.theme-dark {
+  --background-primary: #070913;
+  --background-primary-alt: #0b0f1d;
+  --background-secondary: #0a0d18;
+  --background-secondary-alt: #101528;
+
+  --text-normal: #eef3ff;
+  --text-muted: #aeb8d6;
+  --text-faint: #7782a5;
+  --text-accent: #8fdcff;
+  --text-accent-hover: #b8f1ff;
+
+  --interactive-accent: #7c5cff;
+  --interactive-accent-hover: #9f89ff;
+
+  --background-modifier-border: rgba(160, 190, 255, 0.18);
+  --background-modifier-hover: rgba(140, 180, 255, 0.08);
+  --background-modifier-active-hover: rgba(140, 180, 255, 0.14);
+
+  --code-background: rgba(10, 16, 34, 0.92);
+  --code-normal: #d8e4ff;
+
+  --h1-color: #ffffff;
+  --h2-color: #dce8ff;
+  --h3-color: #c9d8ff;
+  --h4-color: #b6c8ff;
+  --h5-color: #a6bbff;
+  --h6-color: #9db2ff;
+
+  --link-color: #80ddff;
+  --link-color-hover: #b7f2ff;
+
+  --bold-color: #ffffff;
+  --italic-color: #d8e4ff;
+}
+
+/* Base dark field */
+.theme-dark body,
+.theme-dark .app-container,
+.theme-dark .workspace,
+.theme-dark .workspace-split,
+.theme-dark .workspace-leaf,
+.theme-dark .workspace-leaf-content,
+.theme-dark .view-content {
+  background:
+    radial-gradient(circle at 12% 18%, rgba(124, 92, 255, 0.24), transparent 26%),
+    radial-gradient(circle at 86% 12%, rgba(0, 220, 255, 0.18), transparent 24%),
+    radial-gradient(circle at 78% 82%, rgba(255, 83, 190, 0.12), transparent 28%),
+    linear-gradient(135deg, #050711 0%, #0a0d18 46%, #070913 100%) !important;
+}
+
+/* Subtle digital fiberoptic mesh */
+.theme-dark .workspace::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    linear-gradient(115deg, transparent 0 47%, rgba(125, 230, 255, 0.09) 48%, transparent 49% 100%),
+    linear-gradient(68deg, transparent 0 48%, rgba(150, 110, 255, 0.08) 49%, transparent 50% 100%),
+    linear-gradient(160deg, transparent 0 49%, rgba(255, 120, 215, 0.045) 50%, transparent 51% 100%);
+  background-size: 220px 220px, 260px 260px, 340px 340px;
+  opacity: 0.55;
+  mix-blend-mode: screen;
+}
+
+/* Aura cluster glow, deliberately kept low opacity for readability */
+.theme-dark .workspace::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    radial-gradient(circle at 22% 72%, rgba(76, 209, 255, 0.16), transparent 18%),
+    radial-gradient(circle at 42% 34%, rgba(132, 92, 255, 0.14), transparent 20%),
+    radial-gradient(circle at 67% 58%, rgba(255, 88, 196, 0.10), transparent 18%);
+  filter: blur(14px);
+  opacity: 0.8;
+}
+
+/* Keep editor panes above visual effects */
+.theme-dark .workspace-leaf-content,
+.theme-dark .view-content,
+.theme-dark .markdown-reading-view,
+.theme-dark .markdown-source-view {
+  position: relative;
+  z-index: 1;
+}
+
+/* Main note surface: dark glass, high contrast */
+.theme-dark .markdown-reading-view,
+.theme-dark .markdown-source-view,
+.theme-dark .cm-editor {
+  background: rgba(7, 10, 22, 0.82) !important;
+  backdrop-filter: blur(18px);
+}
+
+/* Reading and editing text */
+.theme-dark .markdown-preview-view,
+.theme-dark .markdown-source-view,
+.theme-dark .cm-s-obsidian,
+.theme-dark .cm-editor,
+.theme-dark .cm-line {
+  color: #eef3ff !important;
+  line-height: 1.68;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.55);
+}
+
+/* Limit line width for legibility */
+.theme-dark .markdown-preview-sizer,
+.theme-dark .markdown-source-view .cm-content {
+  max-width: 880px;
+  margin-inline: auto;
+}
+
+/* Headings with restrained aura */
+.theme-dark .markdown-preview-view h1,
+.theme-dark .markdown-preview-view h2,
+.theme-dark .markdown-preview-view h3,
+.theme-dark .cm-header-1,
+.theme-dark .cm-header-2,
+.theme-dark .cm-header-3 {
+  color: #ffffff !important;
+  text-shadow:
+    0 0 12px rgba(128, 221, 255, 0.26),
+    0 0 24px rgba(124, 92, 255, 0.18);
+}
+
+/* Links */
+.theme-dark a,
+.theme-dark .cm-link,
+.theme-dark .cm-url {
+  color: #80ddff !important;
+  text-decoration-color: rgba(128, 221, 255, 0.45);
+  text-underline-offset: 3px;
+}
+
+.theme-dark a:hover,
+.theme-dark .cm-link:hover {
+  color: #c8f6ff !important;
+  text-shadow: 0 0 10px rgba(128, 221, 255, 0.4);
+}
+
+/* Strong readable code blocks */
+.theme-dark pre,
+.theme-dark code,
+.theme-dark .HyperMD-codeblock,
+.theme-dark .cm-inline-code {
+  background: rgba(4, 8, 18, 0.94) !important;
+  color: #dce8ff !important;
+  border: 1px solid rgba(140, 190, 255, 0.18);
+  border-radius: 10px;
+}
+
+/* Blockquotes */
+.theme-dark blockquote {
+  color: #d8e4ff;
+  background: rgba(100, 130, 255, 0.08);
+  border-left: 3px solid #80ddff;
+  border-radius: 8px;
+  padding: 0.6em 1em;
+}
+
+/* Tables */
+.theme-dark table {
+  background: rgba(5, 8, 18, 0.72);
+  border: 1px solid rgba(160, 190, 255, 0.18);
+}
+
+.theme-dark th {
+  color: #ffffff;
+  background: rgba(124, 92, 255, 0.16);
+}
+
+.theme-dark td,
+.theme-dark th {
+  border-color: rgba(160, 190, 255, 0.18);
+}
+
+/* Sidebar, file explorer, tabs */
+.theme-dark .mod-left-split,
+.theme-dark .mod-right-split,
+.theme-dark .workspace-tab-header-container,
+.theme-dark .side-dock-ribbon,
+.theme-dark .titlebar {
+  background: rgba(4, 7, 16, 0.88) !important;
+  backdrop-filter: blur(18px);
+  border-color: rgba(160, 190, 255, 0.14);
+}
+
+/* Active tab */
+.theme-dark .workspace-tab-header.is-active {
+  background: rgba(124, 92, 255, 0.18) !important;
+  box-shadow: inset 0 -2px 0 #80ddff;
+}
+
+/* File explorer readability */
+.theme-dark .nav-file-title,
+.theme-dark .nav-folder-title,
+.theme-dark .workspace-tab-header-inner-title {
+  color: #dce8ff;
+}
+
+.theme-dark .nav-file-title.is-active {
+  color: #ffffff;
+  background: rgba(128, 221, 255, 0.12);
+  border-radius: 8px;
+}
+
+/* Selection and cursor */
+.theme-dark ::selection {
+  background: rgba(128, 221, 255, 0.28);
+}
+
+.theme-dark .cm-cursor {
+  border-left-color: #80ddff !important;
+}
+
+/* Scrollbars */
+.theme-dark ::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+.theme-dark ::-webkit-scrollbar-track {
+  background: rgba(4, 7, 16, 0.5);
+}
+
+.theme-dark ::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #7c5cff, #80ddff);
+  border-radius: 999px;
+  border: 2px solid rgba(4, 7, 16, 0.9);
+}
+
+/* Reduce visual intensity for users who prefer less motion/effects */
+@media (prefers-reduced-motion: reduce) {
+  .theme-dark .workspace::before,
+  .theme-dark .workspace::after {
+    opacity: 0.35;
+    filter: none;
+  }
+}

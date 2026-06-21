@@ -1,0 +1,11 @@
+{
+  "source": "/mnt/c/Users/softinfo/DG",
+  "destination": "/mnt/d/DG",
+  "approved_count": 82,
+  "copied_count": 82,
+  "skipped_existing_count": 0,
+  "precopy_conflict_count": 0,
+  "size_verified_count": 82,
+  "size_mismatch_count": 0,
+  "hash_mismatch_count": 0
+}

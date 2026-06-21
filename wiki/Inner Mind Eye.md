@@ -1,0 +1,29 @@
+---
+type: wiki
+aliases:
+  - Inner Mind Eye
+tags: [ethics, equity, governance, care]
+status: active
+created: 2026-05-06
+updated: 2026-05-06
+---
+
+# Inner Mind Eye
+
+## Summary
+
+Inner Mind Eye is the care-and-equity grounding surface for governance analysis, ensuring that structural work answers to the human and the humane. It operates as the equity-oriented complement to the evidence and clarity gates: technical correctness is necessary but insufficient without attending to who bears the consequences and whether structural work remains answerable to lived experience. Pairs with [[Anti-Charm]] (which enforces evidence discipline) and [[Diamond-Eyes — Aesthetic Refinement Skill]] (which enforces craft precision).
+
+## Context
+
+Applied in governance promotion decisions, operator-state checks, and any analysis where structural framing could eclipse human stakes. The failure mode is elegant governance that excludes the people it governs. Operationalized within the [[Evidence Discipline and Epistemics]] epistemic architecture.
+
+## Related
+
+- [[Evidence Discipline and Epistemics]] — the epistemic architecture that inner-mind-eye anchors to care and equity
+- [[Anti-Charm]] — the evidence-discipline complement; together they form the care-clarity gate
+- [[Diamond-Eyes — Aesthetic Refinement Skill]] — the craft-precision gate; all three form the PHAROS wisdom triad
+- [[Ethical Ground]]
+- [[Consent and Boundary Frameworks]]
+- [[Care, Ethics, and Governance]]
+

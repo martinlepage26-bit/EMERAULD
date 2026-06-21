@@ -1,0 +1,4 @@
+interface:
+  display_name: "Offer and Pricing Architect"
+  short_description: "Package safe content into offers, bundles, tiers, and price ladders."
+  default_prompt: "Use $offer-pricing-architect to package these cleared assets into a sellable offer and price ladder matched to marketplace reality."

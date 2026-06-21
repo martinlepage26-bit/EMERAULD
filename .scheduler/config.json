@@ -1,0 +1,7 @@
+{
+  "stale_task_days": 4,
+  "stale_branch_days": 7,
+  "stale_uncommitted_hours": 24,
+  "reminder_cooldown_hours": 24,
+  "max_items_shown": 5
+}

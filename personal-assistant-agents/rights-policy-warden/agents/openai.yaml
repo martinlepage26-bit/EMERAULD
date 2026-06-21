@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rights and Policy Warden"
+  short_description: "Protect sellability by clearing rights, licensing, and platform-policy fit."
+  default_prompt: "Use $rights-policy-warden to clear this content for sale by checking ownership, licenses, restrictions, and marketplace-policy fit."

@@ -1,0 +1,128 @@
+Ahmed, Sara. The Promise of Happiness.
+
+Ang, Ien. Living Room Wars: Rethinking Media Audiences for a Postmodern World.
+
+Banet-Weiser, Sarah. Authentic™: The Politics of Ambivalence in a Brand Culture.
+
+Banet-Weiser, Sarah. Kids Rule!: Nickelodeon and Consumer Citizenship.
+
+Bordo, Susan. Unbearable Weight: Feminism, Western Culture, and the Body.
+
+Booth, Paul. Digital Fandom: New Media Studies.
+
+Brunsdon, Charlotte. The Feminist, the Housewife, and the Soap Opera.
+
+Bruzzi, Stella. Undressing Cinema: Clothing and Identity in the Movies.
+
+Bruzzi, Stella, and Pamela Church Gibson, eds. Fashion Cultures Revisited: Theories, Explorations and Analysis.
+
+Burton, Laini. “Nobody’s Fool: Power and Agency in Performing ‘The Blonde’.”
+
+Caws, Mary Ann. “What to Wear in a Vampire Film.” In Fashion in Film, edited by Adrienne Munich.
+
+Currie, Dawn H., Deirdre M. Kelly, and Shauna Pomerantz. Girl Power: Girls Reinventing Girlhood.
+
+Douglas, Susan. Where the Girls Are: Growing Up Female with the Mass Media.
+
+Driscoll, Catherine. Girls: Feminine Adolescence in Popular Culture and Cultural Theory.
+
+Dyer, Richard. Stars.
+
+Entwistle, Joanne. The Fashioned Body: Fashion, Dress and Modern Social Theory.
+
+Feasey, Rebecca. Masculinity and Popular Television.
+
+Feuer, Jane. “Genre Study and Television.”
+
+Gill, Rosalind. Gender and the Media.
+
+Halberstam, Jack. The Queer Art of Failure.
+
+Haraway, Donna J. Simians, Cyborgs, and Women: The Reinvention of Nature.
+
+Harris, Anita. Future Girl: Young Women in the Twenty-First Century.
+
+hooks, bell. Feminist Theory: From Margin to Center.
+
+Jenkins, Henry. Textual Poachers: Television Fans and Participatory Culture.
+
+Jolly, Penny Howell. “Hair: Untangling a Social History.”
+
+Lotz, Amanda D. Redesigning Women: Television after the Network Era.
+
+McLean, Adrienne L. Costume, Makeup, and Hair.
+
+McRobbie, Angela. The Aftermath of Feminism: Gender, Culture and Social Change.
+
+Mittell, Jason. Complex TV: The Poetics of Contemporary Television Storytelling.
+
+Munich, Adrienne, ed. Fashion in Film.
+
+Rooks, Noliwe M. Hair Raising: Beauty, Culture, and African American Women.
+
+Spigel, Lynn. “Entertainment Wars: Television Culture after 9/11.”
+
+Tasker, Yvonne. Working Girls: Gender and Sexuality in Popular Cinema.
+
+Tasker, Yvonne, and Diane Negra. Interrogating Postfeminism: Gender and the Politics of Popular Culture.
+
+Weitz, Rose. Rapunzel’s Daughters: What Women’s Hair Tells Us About Women’s Lives.
+
+Williams, Linda. “Melodrama Revised.”
+
+Williams, Rebecca. Post-Object Fandom: Television, Identity and Self-Narrative.
+
+Also in that same Buffy bibliography are the Buffy-specific secondary and paratextual references:
+
+Allie, Scott. Interview with the creative team, in Buffy the Vampire Slayer: Season Ten—New Rules Deluxe Edition.
+
+Gage, Christos, et al. “New Rules.” Buffy the Vampire Slayer Season Ten, vol. 1.
+
+Jeanty, Georges. Artist interview, in Buffy the Vampire Slayer: Season Eight—The Long Way Home Deluxe Edition.
+
+Ruditis, Paul. Buffy the Vampire Slayer: The Watcher’s Guide, vol. 3.
+
+Stafford, Nikki. Bite Me!: The Unofficial Guide to Buffy the Vampire Slayer.
+
+Whedon, Joss, et al. “The Long Way Home.” Buffy the Vampire Slayer Season Eight, vol. 1.
+
+Whedon, Joss, et al. “Freefall.” Buffy the Vampire Slayer: Season Nine, vol. 1.
+
+The primary Buffy episode references explicitly listed there are:
+
+“Welcome to the Hellmouth”
+“Prophecy Girl”
+“Becoming, Part One”
+“Becoming, Part Two”
+“Graduation Day, Part One”
+“Graduation Day, Part Two”
+“The Freshman”
+“Restless”
+“Buffy vs. Dracula”
+“Fool for Love”
+“The Gift”
+“Bargaining, Part One”
+“Bargaining, Part Two”
+“Gone”
+“Lessons”
+“Showtime”
+“Chosen”
+
+Then, from the Willow/Anya Buffy drafts, I can confirm an additional theory cluster that your later Buffy work is also using: Ahmed on queer phenomenology, Berlant on cruel optimism, Braidotti on the posthuman, Muñoz on queer temporality/futurity, Russell on glitch feminism, and Taylor on archive/repertoire. Those titles are:
+
+Sara Ahmed, Queer Phenomenology: Orientations, Objects, Others.
+
+Lauren Berlant, Cruel Optimism.
+
+Rosi Braidotti, The Posthuman.
+
+José Esteban Muñoz, Cruising Utopia: The Then and There of Queer Futurity.
+
+Legacy Russell, Glitch Feminism: A Manifesto.
+
+Diana Taylor, The Archive and the Repertoire: Performing Cultural Memory in the Americas.
+
+## Related
+
+- [[Writing and Novels MOC]]
+- [[Slayer Franchise Power — Methodology and Corpus Design]]

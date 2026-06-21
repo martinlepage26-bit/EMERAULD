@@ -1,0 +1,72 @@
+---
+type: wiki
+aliases: [AurorA, Aurora input module]
+tags: [pharos, product, compassai, client-facing, aurora]
+status: active
+created: 2026-04-18
+updated: 2026-05-07
+---
+
+# AurorA — COMPASSai Input Module
+
+## Summary
+
+AurorA is the client-facing input and evidence-legibility module for [[COMPASSai — Governance Engine]], the PHAROS governance engine. Later operator-state evidence records AurorA as the file-deposit module inside COMPASSai as of 2026-04-18: clients upload files to AurorA, then governed evidence is handed off to COMPASSai. Developed by [[Martin Lepage — Professional Profile|Martin Lepage]] through PHAROS Inc.
+
+## Context
+
+AurorA sits at the intake boundary of the [[PHAROS Method — Technical Reference|PHAROS 10-stage pipeline]]. It is the first gate clients encounter — the interface through which material enters the governance process before reaching [[COMPASSai — Governance Engine]] for deterministic processing.
+
+Because AurorA is client-facing, it must operate bilingually (EN/FR) and meet the admissibility standards defined in the PHAROS runbook (see [[PHAROS Runbook SOP]]). Material accepted by AurorA is governed; material rejected or flagged at intake never reaches the engine.
+
+Access for clients routes conceptually through [[PHAROS-AI Webservice — pharos-ai.ca]] once deployed. Current local-stack evidence still uses older `AurorAI` service naming in runbooks and paths, so public claims should use the canonical product spelling **AurorA** while treating `AurorAI` as legacy implementation/repo spelling until reconciled.
+
+## Details
+
+**Position in the PHAROS product stack:**
+- AurorA: client-facing intake (this note)
+- [[COMPASSai — Governance Engine]]: processing engine
+- [[Hermes Dashboard — Professional Governance Tool]]: operator activity view
+- [[PHAROS-AI Webservice — pharos-ai.ca]]: public deployment surface
+
+**Intake responsibilities:**
+- Structured case submission from client organizations
+- Document and artifact upload for governance evaluation
+- Provenance capture and intake manifest generation
+- Pre-admissibility screening before engine handoff
+
+**Current architecture decision:** AurorA is the file-deposit module inside COMPASSai (decided 2026-04-18; recorded in `raw sources/2026-05-06_trismegiste-operator-state.md`).
+
+**Current implementation evidence:** Local-stack runbook material describes an `AurorAI` backend at `http://127.0.0.1:9206/api/`, Mongo database `aurorai`, bearer-token protection, and a handoff path that posts generated evidence packages to CompassAI `/api/v1/evidence`. The same runbook records accepted current limits: PDF and TXT are supported, DOC/DOCX are not, and heuristic extraction may be used if the LLM path is not configured. This evidence is local-stack evidence, not proof of public production readiness.
+
+**Source-of-truth candidates:** Current evidence points to `/home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite/aurorai` and older/parallel traces at `/home/cerebrhoe/PHAROS-SUITE/repos/AurorAI`, `/home/cerebrhoe/repos/AurorAI`, and the Martin public project page source at `/home/cerebrhoe/martin-lepage-site/src/content/projects/aurorai.md`. These paths require a live repo check before any public capability claim.
+
+## Key Ideas
+- First client touchpoint in the PHAROS governance pipeline
+- Intake gate that shapes what reaches the governance engine
+- Bilingual, client-facing by design
+- Canonical product spelling is AurorA; `AurorAI` remains legacy implementation/repo spelling until fully reconciled
+
+## Open Questions
+- Integration with InfraFabric intake modules?
+- Which current path is authoritative for the active module?
+- What is the exact accepted-input contract beyond PDF/TXT in the current local stack?
+- Which pre-admissibility checks are implemented versus planned?
+
+## Non-Claims
+
+- Do not present AurorA as a mature public upload portal unless live deployment, auth, storage, and handoff have been verified.
+- Do not claim DOC/DOCX support from old aspiration notes; local-stack evidence says PDF/TXT only.
+- Do not erase legacy `AurorAI` traces without mapping them to the current AurorA naming policy.
+
+## Related
+
+- [[COMPASSai — Governance Engine]]
+- [[AurorA — Fisher King Project State]]
+- [[PHAROS Method — Technical Reference]]
+- [[PHAROS Runbook SOP]]
+- [[PHAROS-AI Webservice — pharos-ai.ca]]
+- [[Governance and PHAROS MOC]]
+- [[Free-First Architecture]]
+- [[Govern Suite Cheat Sheet]]
+- [[Govern Suite Operations Runbook]]

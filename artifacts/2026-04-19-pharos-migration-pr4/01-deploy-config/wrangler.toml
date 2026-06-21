@@ -1,0 +1,52 @@
+# wrangler.toml
+# PHAROS Aurora Worker — Cloudflare Worker configuration
+#
+# Rename history:
+#   govern-suite     → pharos-suite   (D1 database — must rename in CF dashboard first)
+#   govern-artifacts → pharos-artifacts (R2 bucket — must recreate or rename in CF dashboard)
+#   govern-evidence  → pharos-evidence  (R2 bucket — must recreate or rename in CF dashboard)
+#
+# WARNING: D1 databases and R2 buckets cannot be renamed in place via wrangler.
+# The binding names (GOVERN_DB etc.) and resource names below must match what exists
+# in your Cloudflare account. Only update these names AFTER you have renamed or
+# migrated the actual CF resources. See docs/migration-govern-to-pharos.md for the
+# step-by-step procedure.
+#
+# Current state: binding names updated to PHAROS_ prefix for code clarity.
+# CF resource names still show their govern-* names until dashboard rename is done.
+# The database_id placeholder must be replaced with the real ID from CF dashboard.
+
+name = "pharos-aurora-worker"
+main = "aurorai/src/index.ts"
+compatibility_date = "2024-01-01"
+
+[env.production]
+name = "pharos-aurora-worker-prod"
+
+# ── D1 database ───────────────────────────────────────────────────────────────
+# Binding name updated: GOVERN_DB → PHAROS_DB
+# CF resource name: still "govern-suite" until renamed in dashboard
+[[d1_databases]]
+binding      = "PHAROS_DB"
+database_name = "govern-suite"       # TODO: rename to "pharos-suite" in CF dashboard
+database_id  = "REPLACE_WITH_ACTUAL_ID"
+
+# ── R2 buckets ────────────────────────────────────────────────────────────────
+# Source files + derived text
+# Binding name updated: GOVERN_ARTIFACTS → PHAROS_ARTIFACTS
+[[r2_buckets]]
+binding     = "PHAROS_ARTIFACTS"
+bucket_name = "govern-artifacts"     # TODO: rename to "pharos-artifacts" in CF dashboard
+
+# Evidence package JSON snapshots
+# Binding name updated: GOVERN_EVIDENCE → PHAROS_EVIDENCE
+[[r2_buckets]]
+binding     = "PHAROS_EVIDENCE"
+bucket_name = "govern-evidence"      # TODO: rename to "pharos-evidence" in CF dashboard
+
+# ── Secrets (set via: wrangler secret put SECRET_NAME) ────────────────────────
+# COMPASS_URL       — URL of the CompassAI worker
+# COMPASS_AUTH_TOKEN — shared secret for worker-to-worker auth
+#
+# [vars]
+# COMPASS_URL = "https://compassai.ACCOUNT.workers.dev"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content Inventory Cartographer"
+  short_description: "Map owned content into saleable inventory and product families."
+  default_prompt: "Use $content-inventory-cartographer to map this owned content into saleable inventory, product families, and bundle candidates."

@@ -1,0 +1,28 @@
+---
+type: skill
+skill_id: "impeccable"
+domain: "Design and UX"
+status: active
+created: 2026-05-06
+codex_path: "/home/cerebrhoe/.codex/skills/impeccable/SKILL.md"
+source_of_truth: /home/cerebrhoe/.codex/skills
+---
+
+# impeccable
+
+Codex skill source: `/home/cerebrhoe/.codex/skills/impeccable/SKILL.md`.
+
+## Description
+
+Use when the user wants to design, redesign, shape, critique, audit, polish, clarify, distill, harden, optimize, adapt, animate, colorize, extract, or otherwise improve a frontend interface. Covers websites, landing pages, dashboards, product UI, app shells, components, forms, settings, onboarding, and empty states. Handles UX review, visual hierarchy, in...
+
+## Routing Status
+
+- Domain: Design and UX
+- Layer: full Codex skill corpus
+- Vault note status: generated bridge note
+
+## Related
+
+- [[Skill Corpus — Complete Live Index (260 Active Skills)]]
+- [[Skill Ecosystem — Professional Capability Registry]]

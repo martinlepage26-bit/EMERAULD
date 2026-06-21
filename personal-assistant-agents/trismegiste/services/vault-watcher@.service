@@ -1,0 +1,18 @@
+[Unit]
+Description=Personal Assistant — Vault Watcher (auto-ingest to LightRAG)
+After=network.target
+
+[Service]
+Type=simple
+User=%i
+WorkingDirectory=/home/%i/personal-assistant
+ExecStart=/home/%i/personal-assistant/.venv/bin/python3 scripts/vault_watcher.py \
+    --vault /home/%i/personal-assistant/vault \
+    --lightrag-url http://localhost:9621
+Restart=on-failure
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target

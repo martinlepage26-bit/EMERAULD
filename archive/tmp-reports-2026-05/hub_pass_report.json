@@ -1,0 +1,2449 @@
+{
+  "timestamp": "2026-05-14T04:00:32.940544+00:00",
+  "scope": "constrained_vault_pass",
+  "hub_remediations": [
+    {
+      "moc": "wiki/Writing and Novels MOC.md",
+      "note": "wiki/Queering Neo-Pagan Magic — 2025 Revised Version.md",
+      "note_insert": "- [[Writing and Novels MOC]]"
+    },
+    {
+      "moc": "wiki/Writing and Novels MOC.md",
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Martin Lepage - Martin Lepages statement of research interests, - 2018 - Martin Lepage - Mart.md",
+      "note_insert": "- [[Writing and Novels MOC]]"
+    },
+    {
+      "moc": "wiki/Writing and Novels MOC.md",
+      "note": "raw sources/Martin Lepage, PhD — External Review Profile (Offline-Ready).md",
+      "note_insert": "- [[Writing and Novels MOC]]"
+    },
+    {
+      "moc": "wiki/Writing and Novels MOC.md",
+      "note": "wiki/Master Bibliography — Références bibliographiques 2025.md",
+      "note_insert": "- [[Writing and Novels MOC]]"
+    },
+    {
+      "moc": "wiki/Writing and Novels MOC.md",
+      "note": "wiki/Qualitative Handbook — Expanded Reference List.md",
+      "note_insert": "- [[Writing and Novels MOC]]"
+    },
+    {
+      "moc": "wiki/Writing and Novels MOC.md",
+      "note": "wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md",
+      "note_insert": "- [[Writing and Novels MOC]]"
+    },
+    {
+      "moc": "wiki/Writing and Novels MOC.md",
+      "note": "wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy.md",
+      "note_insert": "- [[Writing and Novels MOC]]"
+    },
+    {
+      "moc": "wiki/Writing and Novels MOC.md",
+      "note": "wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société).md",
+      "note_insert": "- [[Writing and Novels MOC]]"
+    },
+    {
+      "moc": "wiki/Control Protocols MOC.md",
+      "note": "wiki/Skill Domain — Governance and Method.md",
+      "note_insert": "See also [[Control Protocols MOC]]."
+    },
+    {
+      "moc": "wiki/Control Protocols MOC.md",
+      "note": "maps/PHAROS Method Map.md",
+      "note_insert": "See also [[Control Protocols MOC]]."
+    },
+    {
+      "moc": "wiki/Control Protocols MOC.md",
+      "note": "wiki/Governance Controls — Phase 1 Completion Checklist.md",
+      "note_insert": "- [[Control Protocols MOC]]"
+    },
+    {
+      "moc": "wiki/Control Protocols MOC.md",
+      "note": "memory.md",
+      "note_insert": "- [[Control Protocols MOC]]"
+    },
+    {
+      "moc": "wiki/Control Protocols MOC.md",
+      "note": "wiki/Documents Root Intake — Hermes Action Map 2026-04-28.md",
+      "note_insert": "- [[Control Protocols MOC]]"
+    },
+    {
+      "moc": "wiki/Control Protocols MOC.md",
+      "note": "wiki/L99 PHAROS Migration Artifacts 2026-04-19.md",
+      "note_insert": "- [[Control Protocols MOC]]"
+    },
+    {
+      "moc": "wiki/Control Protocols MOC.md",
+      "note": "wiki/Skill Domain — Agent Architecture.md",
+      "note_insert": "See also [[Control Protocols MOC]]."
+    },
+    {
+      "moc": "wiki/Control Protocols MOC.md",
+      "note": "wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023).md",
+      "note_insert": "- [[Control Protocols MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Buffy Slayer Studies.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/September 2024 Research Retrospective.md",
+      "note_insert": "See also [[Pagan and Queer Ritual Studies MOC]]."
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Academic Paper Pipeline.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Why Be King Im Already a Queen — Book Project.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Novel and Creative Corpus.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Legitimacy Machines — Book Skeleton and Architecture.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Dr. Sort Corpus Map — March 2026.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Master Project Tracker — 2026.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Version Genealogy System.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Glitching the Sacred.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Martin Walks the Witches' Road — Corpus as Charge-Persistence.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Vault Delta Interconnectivity Atlas — 2026-05-06.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal).md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics.md",
+      "note_insert": "See also [[Pagan and Queer Ritual Studies MOC]]."
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Complete Paper List — Martin Lepage Corpus.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Authority, Legitimacy, and Post-Sovereignty.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Martin Lepage Professional Identity.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence).md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Martin Lepage — Skills by Life Domain.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "note": "wiki/Master Reference Bridge Atlas — 2026-05-06.md",
+      "note_insert": "- [[Pagan and Queer Ritual Studies MOC]]"
+    },
+    {
+      "moc": "wiki/Manuscript Pipeline MOC.md",
+      "note": "wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice.md",
+      "note_insert": "- [[Manuscript Pipeline MOC]]"
+    },
+    {
+      "moc": "wiki/Manuscript Pipeline MOC.md",
+      "note": "wiki/Glitching the Sacred.md",
+      "note_insert": "- [[Manuscript Pipeline MOC]]"
+    },
+    {
+      "moc": "wiki/Manuscript Pipeline MOC.md",
+      "note": "wiki/HEXA Press — Publishing and Practice Initiative.md",
+      "note_insert": "- [[Manuscript Pipeline MOC]]"
+    },
+    {
+      "moc": "wiki/Manuscript Pipeline MOC.md",
+      "note": "wiki/Skill Domain — Governance and Method.md",
+      "note_insert": "See also [[Manuscript Pipeline MOC]]."
+    },
+    {
+      "moc": "wiki/Manuscript Pipeline MOC.md",
+      "note": "wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md",
+      "note_insert": "- [[Manuscript Pipeline MOC]]"
+    },
+    {
+      "moc": "wiki/Manuscript Pipeline MOC.md",
+      "note": "wiki/Custom GPT Products — PHAROS AI GPT Roster.md",
+      "note_insert": "- [[Manuscript Pipeline MOC]]"
+    },
+    {
+      "moc": "wiki/Manuscript Pipeline MOC.md",
+      "note": "wiki/Martin Lepage — Authored Skills.md",
+      "note_insert": "See also [[Manuscript Pipeline MOC]]."
+    },
+    {
+      "moc": "wiki/Manuscript Pipeline MOC.md",
+      "note": "wiki/Version Genealogy System.md",
+      "note_insert": "- [[Manuscript Pipeline MOC]]"
+    },
+    {
+      "moc": "wiki/Legitimacy Machines MOC.md",
+      "note": "wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs.md",
+      "note_insert": "See also [[Legitimacy Machines MOC]]."
+    },
+    {
+      "moc": "wiki/Legitimacy Machines MOC.md",
+      "note": "wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01.md",
+      "note_insert": "- [[Legitimacy Machines MOC]]"
+    },
+    {
+      "moc": "wiki/Legitimacy Machines MOC.md",
+      "note": "wiki/EMERAULD.md",
+      "note_insert": "- [[Legitimacy Machines MOC]]"
+    },
+    {
+      "moc": "wiki/Legitimacy Machines MOC.md",
+      "note": "wiki/Vault Linking Session Summary — 2026-05-01.md",
+      "note_insert": "See also [[Legitimacy Machines MOC]]."
+    },
+    {
+      "moc": "wiki/Legitimacy Machines MOC.md",
+      "note": "wiki/PHAROS Method — Core Framework.md",
+      "note_insert": "- [[Legitimacy Machines MOC]]"
+    },
+    {
+      "moc": "wiki/Legitimacy Machines MOC.md",
+      "note": "wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01.md",
+      "note_insert": "See also [[Legitimacy Machines MOC]]."
+    },
+    {
+      "moc": "wiki/Legitimacy Machines MOC.md",
+      "note": "wiki/Vault Topic Coverage Matrix — 2026-05-06.md",
+      "note_insert": "- [[Legitimacy Machines MOC]]"
+    },
+    {
+      "moc": "wiki/Legitimacy Machines MOC.md",
+      "note": "wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica).md",
+      "note_insert": "- [[Legitimacy Machines MOC]]"
+    },
+    {
+      "moc": "wiki/Research and Papers MOC.md",
+      "note": "wiki/PHAROS Commercial Strategy.md",
+      "note_insert": "- [[Research and Papers MOC]]"
+    },
+    {
+      "moc": "wiki/Research and Papers MOC.md",
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2026 - Martin Lepage - audit_or_assessment_1.md",
+      "note_insert": "- [[Research and Papers MOC]]"
+    },
+    {
+      "moc": "wiki/Research and Papers MOC.md",
+      "note": "wiki/Trismégiste — Personal AI Assistant.md",
+      "note_insert": "- [[Research and Papers MOC]]"
+    },
+    {
+      "moc": "wiki/Research and Papers MOC.md",
+      "note": "wiki/OUTLIERS — Five Notes That Break the Architecture.md",
+      "note_insert": "- [[Research and Papers MOC]]"
+    },
+    {
+      "moc": "wiki/Research and Papers MOC.md",
+      "note": "wiki/Vault Linking Session Summary — 2026-05-01.md",
+      "note_insert": "See also [[Research and Papers MOC]]."
+    },
+    {
+      "moc": "wiki/Research and Papers MOC.md",
+      "note": "wiki/InfraFabric Architecture.md",
+      "note_insert": "- [[Research and Papers MOC]]"
+    },
+    {
+      "moc": "wiki/Research and Papers MOC.md",
+      "note": "wiki/AI Infrastructure Stack.md",
+      "note_insert": "- [[Research and Papers MOC]]"
+    },
+    {
+      "moc": "wiki/Research and Papers MOC.md",
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/MARTIN LEPAGE, PHD (3).md",
+      "note_insert": "- [[Research and Papers MOC]]"
+    },
+    {
+      "moc": "wiki/Research and Papers MOC.md",
+      "note": "40_Archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05_From_Recursive_Production_to_Governable_Method.md",
+      "note_insert": "See also [[Research and Papers MOC]]."
+    },
+    {
+      "moc": "wiki/Research and Papers MOC.md",
+      "note": "wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md",
+      "note_insert": "- [[Research and Papers MOC]]"
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "wiki/Neo-Shamanism and Gender — Montreal Pagan Community.md",
+      "note_insert": "- [[Governance and PHAROS MOC]]"
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "wiki/Queering Neo-Pagan Magic — 2006 Paper.md",
+      "note_insert": "- [[Governance and PHAROS MOC]]"
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "wiki/Legitimacy Machines — Book Skeleton and Architecture.md",
+      "note_insert": "- [[Governance and PHAROS MOC]]"
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "wiki/Reboot — Performance, Gender, and Computing of Identity.md",
+      "note_insert": "- [[Governance and PHAROS MOC]]"
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "wiki/September 2024 Research Retrospective.md",
+      "note_insert": "See also [[Governance and PHAROS MOC]]."
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "wiki/Queer Theory Foundations.md",
+      "note_insert": "- [[Governance and PHAROS MOC]]"
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "40_Archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture.md",
+      "note_insert": "See also [[Governance and PHAROS MOC]]."
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "raw sources/Martin Lepage, PhD — External Review Profile (Offline-Ready).md",
+      "note_insert": "- [[Governance and PHAROS MOC]]"
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "VAULT-LINKING-AUDIT-2026-05-01.md",
+      "note_insert": "See also [[Governance and PHAROS MOC]]."
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "wiki/Ritual Machine Lab — Legitimacy Machines Introduction.md",
+      "note_insert": "See also [[Governance and PHAROS MOC]]."
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "wiki/D Library — Review Unreadable Cleanup (2026-05-04).md",
+      "note_insert": "- [[Governance and PHAROS MOC]]"
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01.md",
+      "note_insert": "- [[Governance and PHAROS MOC]]"
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "wiki/Academic Paper Pipeline.md",
+      "note_insert": "- [[Governance and PHAROS MOC]]"
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "wiki/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md",
+      "note_insert": "- [[Governance and PHAROS MOC]]"
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "note": "maps/Queer Media and Ritual Map.md",
+      "note_insert": "See also [[Governance and PHAROS MOC]]."
+    }
+  ],
+  "hub_unplaced": [],
+  "merge_decisions": [
+    {
+      "source": ".trash/2026-05-05_botpress-enterprise.md",
+      "target": "wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": ".trash/Alchimie et Histoire des Sciences.md",
+      "target": "wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "90_Templates/Area Template.md",
+      "target": "wiki/Governess Agatha GPT — ChatGPT Product Specification.md",
+      "previous_status": "KEEP",
+      "decision": "ARCHIVED",
+      "reason": "stub with no developed argument"
+    },
+    {
+      "source": "90_Templates/Project Template.md",
+      "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_project.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "90_Templates/Raw Capture Template.md",
+      "target": "raw sources/2026-05-10 — Springer Nature In Review notification — AI Society manuscript.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "90_Templates/Weekly Review Template.md",
+      "target": ".trash/Weekly Review.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "BOWIE-DUE.md",
+      "target": "governance/hephaistos/BOWIE.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "artifacts/2026-04-19-pharos-migration-pr4/.pytest_cache/README.md",
+      "target": "wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "artifacts/2026-04-19-pharos-migration-pr4/03-pr4-hardening/reference/.pytest_cache/README.md",
+      "target": "wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/ai-anxiety-recursive-governance-ai-society-aligned-2026-03-11.md",
+      "target": "wiki/PHAROS Scholarly Publication Track.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/compassai_input_module.md",
+      "target": "wiki/L99 PHAROS Migration Artifacts 2026-04-19.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/govern_deterministic_runner_spec.md",
+      "target": "wiki/Governance Typology — Recursive AI Governance Taxonomy.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/pharos_governance_shell_design.md",
+      "target": "artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/pharos_topology_layer_v3.md",
+      "target": "wiki/Recursive Governance Theory.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/redistributed_copy_01.md",
+      "target": "artifacts/2026-04-19-pharos-migration-pr4/docs/CSV_DIAGNOSTIC_REPORT.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/redistributed_copy_02.md",
+      "target": "artifacts/2026-04-19-pharos-migration-pr4/docs/CSV_DIAGNOSTIC_REPORT.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/theseus_loop_notes.md",
+      "target": "wiki/Recursive Governance Theory.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/README.md",
+      "target": "30_Resources/Lazy Obsidian Method/Index.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/services/README.md",
+      "target": "SHOW-ME-WHAT-TO-DO.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/skill_template.md",
+      "target": "wiki/Operator-Check Skill — Burnout Cascade Interrupt.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_decision_log.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/README.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/README.md",
+      "target": "wiki/CLI-Anything — Agent Harness for Tool Integration.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@babel/code-frame/README.md",
+      "target": "Quick wins (no data loss).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@babel/generator/README.md",
+      "target": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/Fetch.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@babel/helper-create-class-features-plugin/README.md",
+      "target": "wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@babel/helper-plugin-utils/README.md",
+      "target": "wiki/Obsidian Agent Vault — Setup Guide.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@babel/helper-skip-transparent-expression-wrappers/README.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@babel/parser/README.md",
+      "target": "raw/Clippings/Reddit Data API Wiki.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@babel/plugin-proposal-decorators/README.md",
+      "target": "wiki/Obsidian Agent Vault — Setup Guide.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@babel/template/README.md",
+      "target": "raw/Clippings/Reddit Data API Wiki.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@babel/traverse/README.md",
+      "target": "wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@babel/types/README.md",
+      "target": "raw/Clippings/Reddit Data API Wiki.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@cloudflare/unenv-preset/README.md",
+      "target": "wiki/InfraFabric MCP Stack — Remote Bundles.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@cloudflare/workerd-linux-64/README.md",
+      "target": "wiki/InfraFabric MCP Stack — Remote Bundles.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@esbuild/linux-x64/README.md",
+      "target": "artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@img/colour/README.md",
+      "target": "raw/Clippings/Reddit Data API Wiki.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/@img/sharp-linux-x64/README.md",
+      "target": "PHAROS AI governance service business.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/content-type/HISTORY.md",
+      "target": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/Fetch.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/core-js-pure/actual/README.md",
+      "target": "wiki/Dr. Sort and LOTUS Ownership Decision — March 2026.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/core-js-pure/es/README.md",
+      "target": "wiki/SYSTEM CHECK.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/core-js-pure/full/README.md",
+      "target": "wiki/Dr. Sort and LOTUS Ownership Decision — March 2026.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/core-js-pure/modules/README.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/core-js-pure/stable/README.md",
+      "target": "wiki/Governance Controls Integration Dashboard.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/core-js-pure/stage/README.md",
+      "target": "wiki/SYSTEM CHECK.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/core-js-pure/web/README.md",
+      "target": "wiki/Reddit Data API — Access Terms and Rate Limits.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/esbuild/README.md",
+      "target": "wiki/Reddit Data API — Access Terms and Rate Limits.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/escape-html/Readme.md",
+      "target": "raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/function-bind/.github/SECURITY.md",
+      "target": "artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/get-caller-file/LICENSE.md",
+      "target": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/get-proto/CHANGELOG.md",
+      "target": "SHOW-ME-WHAT-TO-DO.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/is-promise/readme.md",
+      "target": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/Fetch.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/json-schema/README.md",
+      "target": "wiki/Obsidian Agent Vault Launch — Commercial Skill.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/merge-descriptors/readme.md",
+      "target": "wiki/Self-Polygraph Protocol and Suprametacognition.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/picocolors/README.md",
+      "target": "SHOW-ME-WHAT-TO-DO.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/pkce-challenge/README.md",
+      "target": "raw/Clippings/Reddit Data API Wiki.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/qs/.github/SECURITY.md",
+      "target": "artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/range-parser/HISTORY.md",
+      "target": "wiki/PHAROS Workspace Inventory 2026-04-18.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/require-from-string/readme.md",
+      "target": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/Fetch.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/setprototypeof/README.md",
+      "target": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/Fetch.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/shebang-command/readme.md",
+      "target": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/Fetch.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/shebang-regex/readme.md",
+      "target": "SHOW-ME-WHAT-TO-DO.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/ClientStats.md",
+      "target": "wiki/claude-peers-mcp — Claude Peer Network.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/ContentType.md",
+      "target": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/Fetch.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/MockErrors.md",
+      "target": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/Fetch.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/PoolStats.md",
+      "target": "raw/Clippings/Reddit Data API Wiki.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/Util.md",
+      "target": "wiki/Self-Polygraph Protocol and Suprametacognition.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/undici/lib/web/subresource-integrity/Readme.md",
+      "target": "wiki/COMPASSai — Governance Engine.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/undici/types/README.md",
+      "target": "cloudflare/h3rme3-agent/node_modules/undici/docs/docs/api/Fetch.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/vary/HISTORY.md",
+      "target": "wiki/Codex Skill Corpus Sync — 2026-04-20.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/workerd/README.md",
+      "target": "wiki/InfraFabric MCP Stack — Remote Bundles.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/wrappy/README.md",
+      "target": "wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "cloudflare/h3rme3-agent/node_modules/zod-to-json-schema/contributing.md",
+      "target": "wiki/Agent Session Phenomenology.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "governance/decision-index.md",
+      "target": "wiki/COMPASSai — Governance Engine.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "hephaistos/SKILL-MAP.md",
+      "target": "memory/agents/Journal.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_responsible-ai-in-financial-services.md",
+      "target": "governance/hephaistos/HEPHAISTOS.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_alayaflow-alayacare.md",
+      "target": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_client-challenge.md",
+      "target": "memory/daily/2026-05-01.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_our-saas-technology-platform-assent.md",
+      "target": "wiki/Paper Planes — M.I.A. — Lyrics.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_our-story-leadership.md",
+      "target": "wiki/Paper Planes — M.I.A. — Lyrics.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_solace-agent-mesh.md",
+      "target": "wiki/Martin Voice Spec — Version Genealogy.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_supply-chain-management-solutions-for-sustainability-assent-.md",
+      "target": "wiki/Paper Planes — M.I.A. — Lyrics.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "memory/local-session/decision_compass_web_saas.md",
+      "target": "wiki/COMPASSai — Governance Engine.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "memory/local-session/feedback_aurorai_spelling.md",
+      "target": "assets/Very Long Narrative — Peer Review and GPT Rewrite Prompts 2026-04-21.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "memory/local-session/feedback_deploy_cloudflare.md",
+      "target": "wiki/skills/deploy.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "memory/local-session/feedback_deploy_workflow.md",
+      "target": "wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "memory/local-session/project_adversarial_eval_paper.md",
+      "target": "memory/agents/Decisions.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "memory/local-session/project_aurorai_repo_split.md",
+      "target": "wiki/SYSTEM CHECK.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "memory/local-session/reference_trackers.md",
+      "target": "wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "personal-assistant-agents/content-inventory-cartographer/references/evolution.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/content-inventory-cartographer/references/method.md",
+      "target": "governance/hephaistos/BOWIE.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/demand-scout/references/ecosystem.md",
+      "target": "governance/hephaistos/HEPHAISTOS.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "personal-assistant-agents/demand-scout/references/evolution.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/demand-scout/references/method.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/graph-retrieval-cartographer/references/evolution.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/intake-triager/references/evolution.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/intake-triager/references/method.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/listing-creative-director/references/evolution.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/marketplace-dispatcher/references/evolution.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/metadata-link-warden/references/evolution.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/offer-pricing-architect/references/evolution.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/raw-archivist/references/ecosystem.md",
+      "target": "10_Projects/AurorA — Fisher King Project State.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "personal-assistant-agents/raw-archivist/references/evolution.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/raw-archivist/references/method.md",
+      "target": "wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/revenue-support-optimizer/references/evolution.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/rights-policy-warden/references/evolution.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/synthesis-editor/references/evolution.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/synthesis-editor/references/method.md",
+      "target": "raw sources/Second Self System — Identity and Routing Architecture.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "personal-assistant-agents/trismegiste/vault/raw/README.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "personal-assistant-agents/trismegiste/vault/skills/README.md",
+      "target": "wiki/Operator-Check Skill — Burnout Cascade Interrupt.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "personal-assistant-agents/trismegiste/vault/skills/skill-synthesis.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "personal-assistant-agents/trismegiste/vault/wiki/README.md",
+      "target": "wiki/Obsidian Agent Vault Launch — Commercial Skill.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "personal-assistant-agents/trismegiste/vault/wiki/hub-projects.md",
+      "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_project.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/Anyone who thinks objectivity, as humans, is possible, is fooling themselves. An.md",
+      "target": "wiki/PHAROS — Origin and Doctrine.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "raw sources/Bridging Social studies and AI Governance - limits.md",
+      "target": "wiki/PHAROS — Origin and Doctrine.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/00_README.md",
+      "target": ".trash/D Library — LIBRARY Intake Index (2026-04-26).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/henry/DUPLICATE_HINTS.md",
+      "target": "wiki/Complete Paper List — Martin Lepage Corpus.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/henry/README.md",
+      "target": "wiki/Library Master Reference Intake (2026-04-26).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Martin Lepage - Martin Lepages contact information, Department - 2017 - Martin Lepage - Marti.md",
+      "target": "wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Martin Lepage - Martin Lepages professional references.pdf - 20 - 2017 - Martin Lepage - Mart.md",
+      "target": "wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Martin Lepages references, Allan Slaight Chair for the Study of - 2018 - Martin Lepages refer.md",
+      "target": "wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - ocr_needed [2].md",
+      "target": "wiki/D Library — Review Unreadable Cleanup (2026-05-04).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2020 - KENOGAMI.md",
+      "target": "wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - 19.md",
+      "target": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - ocr_needed_6.pdf - 2021 - ocr_needed_6.pdf.pdf - 2021 - ocr_needed_6.pdf - 2021 - ocr_needed_.md",
+      "target": "wiki/D Library — Review Unreadable Cleanup (2026-05-04).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2023 - Hereby Certifies that.md",
+      "target": "wiki/D Library — Review Unreadable Cleanup (2026-05-04).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - review.md",
+      "target": "wiki/D Library — Genealogy Flags and Cleanup Leads (2026-04-26).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].md",
+      "target": ".trash/D Library — LIBRARY Intake Index (2026-04-26).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31.md",
+      "target": ".trash/D Library — LIBRARY Intake Index (2026-04-26).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - Hereby Certifies that.md",
+      "target": "wiki/D Library — Review Unreadable Cleanup (2026-05-04).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - Martin Lepage - Martin Lepage, PhD.md",
+      "target": "wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - RUE DE ROUEN.md",
+      "target": ".trash/D Library — LIBRARY Intake Index (2026-04-26).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - ocr_needed [2].md",
+      "target": ".trash/D Library — LIBRARY Intake Index (2026-04-26).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - statement_or_bill_2.md",
+      "target": "templates/Invoice Template Pharos-AI.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2026 - Martin Lepage, PhD.md",
+      "target": "wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Compute Forecast â•ﬂ AI 2027.md",
+      "target": ".trash/D Library — LIBRARY Intake Index (2026-04-26).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/FICHE SIGNALÉTIQUE (doit accompagner chaque demande).md",
+      "target": "wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/References – SAGE Harvard Style.md",
+      "target": "wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Réviser et signer des documents sur Docusign Docusign.md",
+      "target": "wiki/Agatha Grant Post-Mortem — First Assessment.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Scanned Document (9).md",
+      "target": ".trash/D Library — LIBRARY Intake Index (2026-04-26).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Submission guidelines _ AI & SOCIETY _ Springer Nature Link.md",
+      "target": "wiki/Academic Paper Pipeline.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/téléchargement2.md",
+      "target": ".trash/D Library — LIBRARY Intake Index (2026-04-26).md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/inventory/OCR_SUMMARY.md",
+      "target": "wiki/D Library — Genealogy Flags and Cleanup Leads (2026-04-26).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/DocSort — Python dependencies.md",
+      "target": "wiki/RAG-Anything — Multimodal RAG Framework.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/ai_governance_public_statement.md",
+      "target": "wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "raw sources/Documents_root_loose_intake_2026-04-28/converted/hardware-system-reference/Laptop A.md",
+      "target": "wiki/Local Hardware and Discovery Snapshot — Laptop A.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/Doubt about the Pharos Method.md",
+      "target": "wiki/PHAROS — Origin and Doctrine.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "raw sources/hub-projects.md",
+      "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_project.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/skill-synthesis.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/vault-product-scaffold/archive_README.md",
+      "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/START_HERE.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/vault-product-scaffold/example_raw_note.md",
+      "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/_example_raw_note.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "raw sources/vault-product-scaffold/hub_decision_log.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/vault-product-scaffold/product_Home.md",
+      "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/vault-product-scaffold/product_README.md",
+      "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/vault-product-scaffold/raw_README.md",
+      "target": "30_Resources/Lazy Obsidian Method/Index.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/vault-product-scaffold/skill_template.md",
+      "target": "wiki/Operator-Check Skill — Burnout Cascade Interrupt.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/vault-product-scaffold/skills_README.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw sources/vault-product-scaffold/wiki_README.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/00_Inbox/Raw/2026-04-25 — DG waiting on client picks.md",
+      "target": "wiki/PHAROS Procurement-Unblock Sprint.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/00_Inbox/Raw/2026-04-25 — Santé-France Phase 0 — I am the blocker.md",
+      "target": "memory.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/agents/01-prime-coordinator.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/agents/02-context-cartographer.md",
+      "target": "CLAUDE.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/agents/03-requirements-architect.md",
+      "target": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/agents/04-implementation-engineer.md",
+      "target": "wiki/Governed Revision Loop — Responsible Self-Improving Agents.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/agents/05-quality-auditor.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/agents/06-test-operator.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/agents/07-security-guardian.md",
+      "target": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/agents/08-observability-sentinel.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/agents/09-governance-steward.md",
+      "target": "hephaistos/agents/argus.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/agents/10-delivery-operator.md",
+      "target": "governance/hephaistos/BOWIE.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/combinations/README.md",
+      "target": "wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/combinations/combination-validation.md",
+      "target": "wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/examples/01-feature-request-implementation.md",
+      "target": "wiki/GSD — Get Shit Done Context Engineering System.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/examples/02-code-review-workflow.md",
+      "target": "wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/examples/03-api-design-pass.md",
+      "target": "wiki/The Blind Leading the Automated — AI Governance Failure Case Study.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/examples/04-incident-response.md",
+      "target": "wiki/PROTOCOLS — Debate and Red-Team Runbook.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/examples/05-documentation-hardening.md",
+      "target": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/examples/06-release-readiness.md",
+      "target": "wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01.md",
+      "previous_status": "KEEP",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/01-intake-and-routing.md",
+      "target": "wiki/PROTOCOLS — Debate and Red-Team Runbook.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/02-context-assembly.md",
+      "target": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/03-planning-to-execution-bridge.md",
+      "target": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/04-execution-loop.md",
+      "target": "wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/05-validation-gates.md",
+      "target": "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/06-recovery-and-escalation.md",
+      "target": "wiki/PROTOCOLS — Debate and Red-Team Runbook.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/validation/01-structure-check.md",
+      "target": "wiki/GSD — Get Shit Done Context Engineering System.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/validation/02-operational-content-check.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "raw/D-drive-scan-2026-05-12/elemental-agents/validation/03-triangulated-verification.md",
+      "target": "wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "raw/Desktop-Downloads-scan-2026-05-12/MANIFEST.md",
+      "target": "wiki/Desktop and Downloads Scan — 2026-05-12.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "templates/Admissibility Delta Block.md",
+      "target": "wiki/Governed Revision Loop — Responsible Self-Improving Agents.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "templates/Map Note.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "templates/Note Template.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "substantive independent content"
+    },
+    {
+      "source": "templates/Raw Note.md",
+      "target": "wiki/Skill Domain — Vault and Knowledge.md",
+      "previous_status": "KEEP",
+      "decision": "KEEP",
+      "reason": "source missing or non-markdown"
+    },
+    {
+      "source": "templates/Wiki Note.md",
+      "target": "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md",
+      "previous_status": "LINKED",
+      "decision": "LINKED",
+      "reason": "unique title concept"
+    }
+  ],
+  "orphan_resolutions": [
+    {
+      "note": "BOWIE-DUE.md",
+      "resolution": "MOC_LINK",
+      "target": "wiki/Research and Papers MOC.md"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/téléchargement2.md",
+      "resolution": "MOC_LINK",
+      "target": "wiki/Writing and Novels MOC.md"
+    },
+    {
+      "note": "templates/Wiki Note.md",
+      "resolution": "MOC_LINK",
+      "target": "wiki/Manuscript Pipeline MOC.md"
+    }
+  ],
+  "underlinked_remediation": [
+    {
+      "target": "wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md",
+      "sources_modified": [
+        "CLAUDE.md",
+        "raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/Master Tracker — Snapshot 2026-04-28.md"
+      ],
+      "link_text": [
+        "- [[Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]",
+        "- [[Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]"
+      ]
+    },
+    {
+      "target": "wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md",
+      "sources_modified": [
+        "wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md",
+        "wiki/Obsidian Agent Vault — Launch Kit.md",
+        "wiki/PHAROS Procurement-Unblock Sprint.md"
+      ],
+      "link_text": [
+        "- [[5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]",
+        "- [[5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]",
+        "- [[5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - legal_or_contract [2].md",
+      "BRIDGE": "wiki/bridges/Bridge - 2024 - legalorcontract 2.md"
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/![](dataimagepng;base64...).md",
+      "BRIDGE": "wiki/bridges/Bridge - dataimagepngbase64.md"
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - legal_or_contract [3].md",
+      "BRIDGE": "wiki/bridges/Bridge - 2024 - legalorcontract 3.md"
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/![](dataimagepng;base64...) (2).md",
+      "BRIDGE": "wiki/bridges/Bridge - dataimagepngbase64... 2.md"
+    },
+    {
+      "target": "wiki/Dr. Sort Filename Normalization — 2026-05-06.md",
+      "BRIDGE": "wiki/bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06.md"
+    },
+    {
+      "target": "raw sources/FIRST DRAFT.md",
+      "BRIDGE": "wiki/bridges/Bridge - FIRST DRAFT.md"
+    },
+    {
+      "target": "raw sources/infrafabric-archive/IF.EMOTION Whitepaper (Combined).md",
+      "sources_modified": [
+        "raw sources/This file is not the tool itself. It is a whitepap.md",
+        "raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/The Returning Light — Martin Lepage 2025.md"
+      ],
+      "link_text": [
+        "- [[IF.EMOTION Whitepaper (Combined)]]",
+        "- [[IF.EMOTION Whitepaper (Combined)]]"
+      ]
+    },
+    {
+      "target": "raw sources/REsponsability and Controls.md",
+      "sources_modified": [
+        "raw sources/Welcome to this course on ethical and societal asp.md",
+        "raw sources/Self-driving cars in streets, automated x-ray diag.md",
+        "raw sources/MOd  3- Artificail Consciouness.md"
+      ],
+      "link_text": [
+        "- [[REsponsability and Controls]]",
+        "- [[REsponsability and Controls]]",
+        "- [[REsponsability and Controls]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Unreadable OCR — PDF 1.6.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2013 - statement_or_bill.md",
+        "raw sources/mythe_de_sisyphe.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2020 - RELIGIOLOGIQUES, no 40, printemps automne 2020, 511.pdf - 2020 - 2020 - RELIGIOLOGIQUES, no 4.md"
+      ],
+      "link_text": [
+        "- [[Unreadable OCR — PDF 1.6]]",
+        "- [[Unreadable OCR — PDF 1.6]]",
+        "- [[Unreadable OCR — PDF 1.6]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - audit_or_assessment [2]_1.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - audit_or_assessment [3].md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Abstract (5).md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - audit_or_assessment_2.md"
+      ],
+      "link_text": [
+        "- [[2027 - audit_or_assessment [2]_1]]",
+        "- [[2027 - audit_or_assessment [2]_1]]",
+        "- [[2027 - audit_or_assessment [2]_1]]"
+      ]
+    },
+    {
+      "target": "raw sources/The Rooted Archive - Plant, Spirit, and Knowledge in Nine Chambers (scaffold).md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Stuttering through the Institution On Queer Knowing, Academic Containment, and Refusal.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - Crip Method.md"
+      ],
+      "link_text": [
+        "- [[The Rooted Archive - Plant, Spirit, and Knowledge in Nine Chambers (scaffold)]]",
+        "- [[The Rooted Archive - Plant, Spirit, and Knowledge in Nine Chambers (scaffold)]]"
+      ]
+    },
+    {
+      "target": "raw sources/MOd  3- Artificail Consciouness.md",
+      "sources_modified": [
+        "raw sources/Self-driving cars in streets, automated x-ray diag.md",
+        "raw sources/Welcome to this course on ethical and societal asp.md"
+      ],
+      "link_text": [
+        "- [[MOd  3- Artificail Consciouness]]",
+        "- [[MOd  3- Artificail Consciouness]]"
+      ]
+    },
+    {
+      "target": "raw sources/infrafabric-archive/if-radar_skydrone Full Explainer v1.1 (Data, Mechanics, Freshness, and Boundaries).md",
+      "sources_modified": [
+        "raw sources/infrafabric-archive/if.bus Full Explainer v1.5 (Switchboard-Integrated, Claim-Boundary Strict).md",
+        "raw sources/infrafabric-archive/if.blackboard Full Explainer v1.2 (Four-Audience, Claim-Boundary Strict).md",
+        "raw sources/infrafabric-archive/if.context Full Explainer v1.3 (Consolidated 1000+ Dense Lines).md"
+      ],
+      "link_text": [
+        "- [[if-radar_skydrone Full Explainer v1.1 (Data, Mechanics, Freshness, and Boundaries)]]",
+        "- [[if-radar_skydrone Full Explainer v1.1 (Data, Mechanics, Freshness, and Boundaries)]]",
+        "- [[if-radar_skydrone Full Explainer v1.1 (Data, Mechanics, Freshness, and Boundaries)]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Framing Processes and Social Movements An Overview and Assessment.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Traditions and Trajectories in the Historiography of European Witch Hunting.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Studying complexity in health services research desperately seeking an overdue paradigm shift.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2015 - Volume 16, No. 3, Art. 18.md"
+      ],
+      "link_text": [
+        "- [[Framing Processes and Social Movements An Overview and Assessment]]",
+        "- [[Framing Processes and Social Movements An Overview and Assessment]]",
+        "- [[Framing Processes and Social Movements An Overview and Assessment]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Abstract (5).md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - audit_or_assessment_2.md"
+      ],
+      "link_text": [
+        "- [[Abstract (5)]]"
+      ]
+    },
+    {
+      "target": "raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/Master Tracker — Snapshot 2026-04-28.md",
+      "sources_modified": [
+        "raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).md",
+        "raw sources/2026-05-06_trismegiste-operator-state.md",
+        "wiki/PHAROS AI Ethics Submission — Springer Draft.md"
+      ],
+      "link_text": [
+        "- [[Master Tracker — Snapshot 2026-04-28]]",
+        "- [[Master Tracker — Snapshot 2026-04-28]]",
+        "See also [[Master Tracker — Snapshot 2026-04-28]]."
+      ]
+    },
+    {
+      "target": "40_Archive/session-state/session-state-001.md",
+      "sources_modified": [
+        "raw sources/2026-05-06_trismegiste-operator-state.md",
+        "wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle.md",
+        "wiki/Personal and Projects MOC.md"
+      ],
+      "link_text": [
+        "- [[session-state-001]]",
+        "See also [[session-state-001]].",
+        "- [[session-state-001]]"
+      ]
+    },
+    {
+      "target": "raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).md",
+      "sources_modified": [
+        "raw sources/2026-05-06_trismegiste-operator-state.md",
+        "wiki/PHAROS AI Ethics Submission — Springer Draft.md"
+      ],
+      "link_text": [
+        "- [[MASTER TRACKER (recreated from MASTER PACK 4)]]",
+        "See also [[MASTER TRACKER (recreated from MASTER PACK 4)]]."
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2013 - journal_article_1.pdf - 2013 - journal_article_1.pdf.pdf - 2013 - journal_article_1.pdf - 201.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2006 - The Meanings of Magic.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Fear and Laughing in Sunnydale.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - religions.md"
+      ],
+      "link_text": [
+        "- [[2013 - journal_article_1.pdf - 2013 - journal_article_1.pdf.pdf - 2013 - journal_article_1.pdf - 201]]",
+        "- [[2013 - journal_article_1.pdf - 2013 - journal_article_1.pdf.pdf - 2013 - journal_article_1.pdf - 201]]",
+        "- [[2013 - journal_article_1.pdf - 2013 - journal_article_1.pdf.pdf - 2013 - journal_article_1.pdf - 201]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/type raw.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2006 - The Meanings of Magic.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2019 - Sergei Guriev and Daniel Treisman.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2015 - Future Imperfect Science, Technology, and the Imaginations of M - 2015 - Future Imperfect Sci.md"
+      ],
+      "link_text": [
+        "- [[type raw]]",
+        "- [[type raw]]",
+        "- [[type raw]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/type raw (2).md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Artificial Intelligence Risk Management Framework (AI RMF 1.0).md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Studying complexity in health services research desperately seeking an overdue paradigm shift.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Introduction (2).md"
+      ],
+      "link_text": [
+        "- [[type raw (2)]]",
+        "- [[type raw (2)]]",
+        "- [[type raw (2)]]"
+      ]
+    },
+    {
+      "target": "raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Received1January2025,accepted19January2025,dateofpublication22January2025,dateof.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - journal_article_1.pdf - 2025 - journal_article_1.pdf.pdf - 2025 - journal_article_1.pdf - 202.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - 0463.md",
+        "Building Your First AI Agent with OpenAI.md"
+      ],
+      "link_text": [
+        "- [[Received1January2025,accepted19January2025,dateofpublication22January2025,dateof]]",
+        "- [[Received1January2025,accepted19January2025,dateofpublication22January2025,dateof]]",
+        "- [[Received1January2025,accepted19January2025,dateofpublication22January2025,dateof]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - audit_or_assessment [3].md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Abstract (5).md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - audit_or_assessment_2.md"
+      ],
+      "link_text": [
+        "- [[2027 - audit_or_assessment [3]]]",
+        "- [[2027 - audit_or_assessment [3]]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Microsoft Word - Mapping the Margins.doc.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2015 - Future Imperfect Science, Technology, and the Imaginations of M - 2015 - Future Imperfect Sci.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - EDITORIAL INTRODUCTION.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/content.md"
+      ],
+      "link_text": [
+        "- [[Microsoft Word - Mapping the Margins.doc]]",
+        "- [[Microsoft Word - Mapping the Margins.doc]]",
+        "- [[Microsoft Word - Mapping the Margins.doc]]"
+      ]
+    },
+    {
+      "target": "Grok's work on HELIX.md",
+      "sources_modified": [
+        "wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md",
+        "HELIX test CC.md",
+        "HELIX test Epstein.md"
+      ],
+      "link_text": [
+        "- [[Grok's work on HELIX]]",
+        "- [[Grok's work on HELIX]]",
+        "- [[Grok's work on HELIX]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2006 - book_or_monograph.pdf - 2006 - book_or_monograph.pdf.pdf - 2006 - book_or_monograph.pdf - 200.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/9780199730018.pdf.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Addiction by Design Machine Gambling in Las Vegas.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - report.md"
+      ],
+      "link_text": [
+        "- [[2006 - book_or_monograph.pdf - 2006 - book_or_monograph.pdf.pdf - 2006 - book_or_monograph.pdf - 200]]",
+        "- [[2006 - book_or_monograph.pdf - 2006 - book_or_monograph.pdf.pdf - 2006 - book_or_monograph.pdf - 200]]",
+        "- [[2006 - book_or_monograph.pdf - 2006 - book_or_monograph.pdf.pdf - 2006 - book_or_monograph.pdf - 200]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2011 - report.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Abstract (4).md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/This Paper May Not Exist AI, Authorship, and the Future of Academic Legitimacy.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Stuttering through the Institution On Queer Knowing, Academic Containment, and Refusal.md"
+      ],
+      "link_text": [
+        "- [[2011 - report]]",
+        "- [[2011 - report]]",
+        "- [[2011 - report]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - audit_or_assessment_2.md",
+      "BRIDGE": "wiki/bridges/Bridge - 2027 - auditorassessment2.md"
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/1764 ANT 58.2_10_Lepage .Fr. 264..276.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2014 - Royal. Magie et.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2011 - report.doc.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2002 - Martin Lepage - Microsoft Word-Dokument.doc - 2002 - Martin Lep - 2002 - Martin Lepage - Micr.md"
+      ],
+      "link_text": [
+        "- [[1764 ANT 58.2_10_Lepage .Fr. 264..276]]",
+        "- [[1764 ANT 58.2_10_Lepage .Fr. 264..276]]",
+        "- [[1764 ANT 58.2_10_Lepage .Fr. 264..276]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2000 - 77.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/type raw.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2009 - JourNal of.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - PluralismandRadical - ocr_needed.pdf - 2016 - PluralismandRadical - ocr_needed.pdf.pdf - 2016.md"
+      ],
+      "link_text": [
+        "- [[2000 - 77]]",
+        "- [[2000 - 77]]",
+        "- [[2000 - 77]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2007 - notes_or_journal.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - policy_or_guidance [2]_1.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2007 - journalarticle.docx - 2007 - journalarticle.docx.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 1998 - journalarticle1.docx - 1998 - journalarticle1.do.md"
+      ],
+      "link_text": [
+        "- [[2007 - notes_or_journal]]",
+        "- [[2007 - notes_or_journal]]",
+        "- [[2007 - notes_or_journal]]"
+      ]
+    },
+    {
+      "target": "raw sources/Santé-France — Critical Full Explainer (v2.0, dependency-gated rebuild).md",
+      "sources_modified": [
+        "raw sources/infrafabric-archive/if.switchboard + if.blackboard Unified Full Explainer v1.2 (Evidence-Dense).md",
+        "raw sources/infrafabric-archive/if.bus Full Explainer v1.5 (Switchboard-Integrated, Claim-Boundary Strict).md"
+      ],
+      "link_text": [
+        "- [[Santé-France — Critical Full Explainer (v2.0, dependency-gated rebuild)]]",
+        "- [[Santé-France — Critical Full Explainer (v2.0, dependency-gated rebuild)]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2007 - ARS Final Hedstrom Ylikoski.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2015 - Volume 16, No. 3, Art. 18.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Studying complexity in health services research desperately seeking an overdue paradigm shift.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2013 - journal_article_1.pdf - 2013 - journal_article_1.pdf.pdf - 2013 - journal_article_1.pdf - 201.md"
+      ],
+      "link_text": [
+        "- [[2007 - ARS Final Hedstrom Ylikoski]]",
+        "- [[2007 - ARS Final Hedstrom Ylikoski]]",
+        "- [[2007 - ARS Final Hedstrom Ylikoski]]"
+      ]
+    },
+    {
+      "target": "raw sources/CONSENT.md",
+      "sources_modified": [
+        "raw sources/Self-driving cars in streets, automated x-ray diag.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Traditions and Trajectories in the Historiography of European Witch Hunting.md"
+      ],
+      "link_text": [
+        "- [[CONSENT]]",
+        "- [[CONSENT]]"
+      ]
+    },
+    {
+      "target": ".loki/queue/manual.md",
+      "sources_modified": [
+        "wiki/Obsidian Agent Vault Launch — Commercial Skill.md",
+        ".loki/CONTINUITY.md",
+        "Skill.md"
+      ],
+      "link_text": [
+        "- [[manual]]",
+        "- [[manual]]",
+        "- [[manual]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2004 - TRUE.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2004 - INTRODUCTION.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The Sealed Card Protocol Legitimacy, Pathway Authorization, and the Governance of Mediation Under Ge.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2026 - audit_or_assessment_4.md"
+      ],
+      "link_text": [
+        "- [[2004 - TRUE]]",
+        "- [[2004 - TRUE]]",
+        "- [[2004 - TRUE]]"
+      ]
+    },
+    {
+      "target": "raw sources/The Bond as Condition Coherence, Bifurcation, and.md",
+      "sources_modified": [
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2007 - audit_or_assessment.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2019 - audit_or_assessment.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The Bond as Condition Coherence, Bifurcation, and the Relational Foundations of Intelligence.md"
+      ],
+      "link_text": [
+        "- [[The Bond as Condition Coherence, Bifurcation, and]]",
+        "- [[The Bond as Condition Coherence, Bifurcation, and]]",
+        "- [[The Bond as Condition Coherence, Bifurcation, and]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - audit_or_assessment [2].md",
+      "BRIDGE": "wiki/bridges/Bridge - 2027 - auditorassessment 2.md"
+    }
+  ],
+  "bridges_created": [
+    "wiki/bridges/Bridge - 2024 - legalorcontract 2.md",
+    "wiki/bridges/Bridge - dataimagepngbase64.md",
+    "wiki/bridges/Bridge - 2024 - legalorcontract 3.md",
+    "wiki/bridges/Bridge - dataimagepngbase64... 2.md",
+    "wiki/bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06.md",
+    "wiki/bridges/Bridge - FIRST DRAFT.md",
+    "wiki/bridges/Bridge - 2027 - auditorassessment2.md",
+    "wiki/bridges/Bridge - 2027 - auditorassessment 2.md"
+  ],
+  "files_modified": [
+    ".loki/CONTINUITY.md",
+    ".loki/queue/manual.md",
+    "40_Archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05_From_Recursive_Production_to_Governable_Method.md",
+    "40_Archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture.md",
+    "40_Archive/session-state/session-state-001.md",
+    "90_Templates/Area Template.md",
+    "BOWIE-DUE.md",
+    "Building Your First AI Agent with OpenAI.md",
+    "CLAUDE.md",
+    "Grok's work on HELIX.md",
+    "HELIX test CC.md",
+    "HELIX test Epstein.md",
+    "Skill.md",
+    "VAULT-LINKING-AUDIT-2026-05-01.md",
+    "archive/stubs/Area Template.md",
+    "maps/PHAROS Method Map.md",
+    "maps/Queer Media and Ritual Map.md",
+    "memory.md",
+    "merge-candidates.md",
+    "raw sources/2026-05-06_trismegiste-operator-state.md",
+    "raw sources/CONSENT.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/![](dataimagepng;base64...) (2).md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/![](dataimagepng;base64...).md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/1764 ANT 58.2_10_Lepage .Fr. 264..276.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2000 - 77.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2002 - Martin Lepage - Microsoft Word-Dokument.doc - 2002 - Martin Lep - 2002 - Martin Lepage - Micr.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2004 - INTRODUCTION.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2004 - TRUE.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2006 - The Meanings of Magic.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2006 - book_or_monograph.pdf - 2006 - book_or_monograph.pdf.pdf - 2006 - book_or_monograph.pdf - 200.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2007 - ARS Final Hedstrom Ylikoski.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2007 - audit_or_assessment.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2007 - notes_or_journal.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2009 - JourNal of.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2011 - report.doc.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2011 - report.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2013 - journal_article_1.pdf - 2013 - journal_article_1.pdf.pdf - 2013 - journal_article_1.pdf - 201.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2013 - statement_or_bill.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2014 - Royal. Magie et.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2015 - Future Imperfect Science, Technology, and the Imaginations of M - 2015 - Future Imperfect Sci.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2015 - Volume 16, No. 3, Art. 18.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - PluralismandRadical - ocr_needed.pdf - 2016 - PluralismandRadical - ocr_needed.pdf.pdf - 2016.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - EDITORIAL INTRODUCTION.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Martin Lepage - Martin Lepages statement of research interests, - 2018 - Martin Lepage - Mart.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - religions.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2019 - Sergei Guriev and Daniel Treisman.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2019 - audit_or_assessment.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2020 - RELIGIOLOGIQUES, no 40, printemps automne 2020, 511.pdf - 2020 - 2020 - RELIGIOLOGIQUES, no 4.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - 0463.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - legal_or_contract [2].md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - legal_or_contract [3].md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - report.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - Crip Method.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - journal_article_1.pdf - 2025 - journal_article_1.pdf.pdf - 2025 - journal_article_1.pdf - 202.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - policy_or_guidance [2]_1.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2026 - Martin Lepage - audit_or_assessment_1.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2026 - audit_or_assessment_4.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - audit_or_assessment [2].md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - audit_or_assessment [2]_1.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - audit_or_assessment [3].md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - audit_or_assessment_2.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/9780199730018.pdf.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Abstract (4).md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Abstract (5).md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Addiction by Design Machine Gambling in Las Vegas.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Artificial Intelligence Risk Management Framework (AI RMF 1.0).md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Fear and Laughing in Sunnydale.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Framing Processes and Social Movements An Overview and Assessment.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Introduction (2).md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/MARTIN LEPAGE, PHD (3).md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Microsoft Word - Mapping the Margins.doc.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Studying complexity in health services research desperately seeking an overdue paradigm shift.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Stuttering through the Institution On Queer Knowing, Academic Containment, and Refusal.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The Bond as Condition Coherence, Bifurcation, and the Relational Foundations of Intelligence.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The Sealed Card Protocol Legitimacy, Pathway Authorization, and the Governance of Mediation Under Ge.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/This Paper May Not Exist AI, Authorship, and the Future of Academic Legitimacy.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Traditions and Trajectories in the Historiography of European Witch Hunting.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Unreadable OCR — PDF 1.6.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/content.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 1998 - journalarticle1.docx - 1998 - journalarticle1.do.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2007 - journalarticle.docx - 2007 - journalarticle.docx.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/type raw (2).md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/type raw.md",
+    "raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).md",
+    "raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/Master Tracker — Snapshot 2026-04-28.md",
+    "raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Received1January2025,accepted19January2025,dateofpublication22January2025,dateof.md",
+    "raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/The Returning Light — Martin Lepage 2025.md",
+    "raw sources/FIRST DRAFT.md",
+    "raw sources/MOd  3- Artificail Consciouness.md",
+    "raw sources/Martin Lepage, PhD — External Review Profile (Offline-Ready).md",
+    "raw sources/REsponsability and Controls.md",
+    "raw sources/Santé-France — Critical Full Explainer (v2.0, dependency-gated rebuild).md",
+    "raw sources/Self-driving cars in streets, automated x-ray diag.md",
+    "raw sources/The Bond as Condition Coherence, Bifurcation, and.md",
+    "raw sources/The Rooted Archive - Plant, Spirit, and Knowledge in Nine Chambers (scaffold).md",
+    "raw sources/This file is not the tool itself. It is a whitepap.md",
+    "raw sources/Welcome to this course on ethical and societal asp.md",
+    "raw sources/infrafabric-archive/IF.EMOTION Whitepaper (Combined).md",
+    "raw sources/infrafabric-archive/if-radar_skydrone Full Explainer v1.1 (Data, Mechanics, Freshness, and Boundaries).md",
+    "raw sources/infrafabric-archive/if.blackboard Full Explainer v1.2 (Four-Audience, Claim-Boundary Strict).md",
+    "raw sources/infrafabric-archive/if.bus Full Explainer v1.5 (Switchboard-Integrated, Claim-Boundary Strict).md",
+    "raw sources/infrafabric-archive/if.context Full Explainer v1.3 (Consolidated 1000+ Dense Lines).md",
+    "raw sources/infrafabric-archive/if.switchboard + if.blackboard Unified Full Explainer v1.2 (Evidence-Dense).md",
+    "raw sources/mythe_de_sisyphe.md",
+    "wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md",
+    "wiki/AI Infrastructure Stack.md",
+    "wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md",
+    "wiki/Academic Paper Pipeline.md",
+    "wiki/Authority, Legitimacy, and Post-Sovereignty.md",
+    "wiki/Buffy Slayer Studies.md",
+    "wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle.md",
+    "wiki/Complete Paper List — Martin Lepage Corpus.md",
+    "wiki/Control Protocols MOC.md",
+    "wiki/Custom GPT Products — PHAROS AI GPT Roster.md",
+    "wiki/D Library — Review Unreadable Cleanup (2026-05-04).md",
+    "wiki/Documents Root Intake — Hermes Action Map 2026-04-28.md",
+    "wiki/Dr. Sort Corpus Map — March 2026.md",
+    "wiki/Dr. Sort Filename Normalization — 2026-05-06.md",
+    "wiki/EMERAULD.md",
+    "wiki/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md",
+    "wiki/Glitching the Sacred.md",
+    "wiki/Governance Controls — Phase 1 Completion Checklist.md",
+    "wiki/Governance and PHAROS MOC.md",
+    "wiki/HEXA Press — Publishing and Practice Initiative.md",
+    "wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics.md",
+    "wiki/InfraFabric Architecture.md",
+    "wiki/L99 PHAROS Migration Artifacts 2026-04-19.md",
+    "wiki/Legitimacy Machines MOC.md",
+    "wiki/Legitimacy Machines — Book Skeleton and Architecture.md",
+    "wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica).md",
+    "wiki/Manuscript Pipeline MOC.md",
+    "wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence).md",
+    "wiki/Martin Lepage Professional Identity.md",
+    "wiki/Martin Lepage — Authored Skills.md",
+    "wiki/Martin Lepage — Skills by Life Domain.md",
+    "wiki/Martin Walks the Witches' Road — Corpus as Charge-Persistence.md",
+    "wiki/Master Bibliography — Références bibliographiques 2025.md",
+    "wiki/Master Project Tracker — 2026.md",
+    "wiki/Master Reference Bridge Atlas — 2026-05-06.md",
+    "wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023).md",
+    "wiki/Neo-Shamanism and Gender — Montreal Pagan Community.md",
+    "wiki/Novel and Creative Corpus.md",
+    "wiki/OUTLIERS — Five Notes That Break the Architecture.md",
+    "wiki/Obsidian Agent Vault Launch — Commercial Skill.md",
+    "wiki/Obsidian Agent Vault — Launch Kit.md",
+    "wiki/PHAROS AI Ethics Submission — Springer Draft.md",
+    "wiki/PHAROS Commercial Strategy.md",
+    "wiki/PHAROS Method — Core Framework.md",
+    "wiki/PHAROS Procurement-Unblock Sprint.md",
+    "wiki/Pagan and Queer Ritual Studies MOC.md",
+    "wiki/Personal and Projects MOC.md",
+    "wiki/Qualitative Handbook — Expanded Reference List.md",
+    "wiki/Queer Theory Foundations.md",
+    "wiki/Queering Neo-Pagan Magic — 2006 Paper.md",
+    "wiki/Queering Neo-Pagan Magic — 2025 Revised Version.md",
+    "wiki/Reboot — Performance, Gender, and Computing of Identity.md",
+    "wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md",
+    "wiki/Research and Papers MOC.md",
+    "wiki/Ritual Machine Lab — Legitimacy Machines Introduction.md",
+    "wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy.md",
+    "wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société).md",
+    "wiki/September 2024 Research Retrospective.md",
+    "wiki/Skill Domain — Agent Architecture.md",
+    "wiki/Skill Domain — Governance and Method.md",
+    "wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal).md",
+    "wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs.md",
+    "wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md",
+    "wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md",
+    "wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md",
+    "wiki/Trismégiste — Personal AI Assistant.md",
+    "wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01.md",
+    "wiki/Vault Delta Interconnectivity Atlas — 2026-05-06.md",
+    "wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01.md",
+    "wiki/Vault Linking Session Summary — 2026-05-01.md",
+    "wiki/Vault Topic Coverage Matrix — 2026-05-06.md",
+    "wiki/Version Genealogy System.md",
+    "wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice.md",
+    "wiki/Why Be King Im Already a Queen — Book Project.md",
+    "wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md",
+    "wiki/Writing and Novels MOC.md",
+    "wiki/bridges/Bridge - 2024 - legalorcontract 2.md",
+    "wiki/bridges/Bridge - 2024 - legalorcontract 3.md",
+    "wiki/bridges/Bridge - 2027 - auditorassessment 2.md",
+    "wiki/bridges/Bridge - 2027 - auditorassessment2.md",
+    "wiki/bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06.md",
+    "wiki/bridges/Bridge - FIRST DRAFT.md",
+    "wiki/bridges/Bridge - dataimagepngbase64... 2.md",
+    "wiki/bridges/Bridge - dataimagepngbase64.md"
+  ],
+  "final_metrics": {
+    "orphan_count": 3,
+    "under_linked_count": 597,
+    "hub_coverage": [
+      {
+        "moc": "wiki/Writing and Novels MOC.md",
+        "linked_through": 277,
+        "domain_total": 1654
+      },
+      {
+        "moc": "wiki/Control Protocols MOC.md",
+        "linked_through": 42,
+        "domain_total": 1654
+      },
+      {
+        "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+        "linked_through": 113,
+        "domain_total": 1653
+      },
+      {
+        "moc": "wiki/Manuscript Pipeline MOC.md",
+        "linked_through": 65,
+        "domain_total": 1654
+      },
+      {
+        "moc": "wiki/Legitimacy Machines MOC.md",
+        "linked_through": 45,
+        "domain_total": 1654
+      },
+      {
+        "moc": "wiki/Research and Papers MOC.md",
+        "linked_through": 603,
+        "domain_total": 1654
+      },
+      {
+        "moc": "wiki/Governance and PHAROS MOC.md",
+        "linked_through": 506,
+        "domain_total": 1654
+      }
+    ],
+    "isolated_clusters": [
+      [
+        "30_Resources/Lazy Obsidian Method/Daily ingest job.md",
+        "30_Resources/Lazy Obsidian Method/Index.md",
+        "30_Resources/Lazy Obsidian Method/Lazy Obsidian Method - Implementation Checklist.md",
+        "30_Resources/Lazy Obsidian Method/Nightly review job.md",
+        "30_Resources/Lazy Obsidian Method/Weekly vault review job.md"
+      ]
+    ],
+    "bridges_created_count": 8,
+    "hub_links_added": 77,
+    "merge_executed_count": 0,
+    "merge_linked_count": 36,
+    "merge_archived_count": 1,
+    "merge_keep_count": 156,
+    "underlinked_remediated_count": 40
+  }
+}

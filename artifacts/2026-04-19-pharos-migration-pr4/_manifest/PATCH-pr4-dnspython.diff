@@ -1,0 +1,41 @@
+From: Martin Lepage <ml@pharos-ai.ca>
+Subject: [PATCH] fix(backend): restore dnspython==2.6.1 for mongodb+srv:// Atlas resolution
+
+PR #4 slimmed requirements.txt and removed dnspython. This is a latent P1:
+Motor/PyMongo resolve mongodb+srv://<cluster>.mongodb.net/<db> connection strings
+via DNS SRV lookups, which require the `dnspython` package. Without it, the
+AsyncIOMotorClient call raises ConfigurationError at startup and every DB-backed
+endpoint 500s — silently in dev (where most devs use mongodb://localhost), loudly
+in prod (Atlas is always SRV).
+
+This patch adds dnspython back with a pinned version and a comment explaining
+why it must never be removed again. A regression guard in
+tests/test_backend_hardening.py will fail CI if someone removes it in the future.
+
+Closes: PR #4 P1 Codex-review finding
+---
+ backend/requirements.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/backend/requirements.txt b/backend/requirements.txt
+--- a/backend/requirements.txt
++++ b/backend/requirements.txt
+@@ -1,4 +1,8 @@
+ # backend/requirements.txt
++#
++# CRITICAL: dnspython is required for mongodb+srv:// URI resolution.
++# Removing it causes silent runtime failure on all DB-backed endpoints.
++# Do not remove. Do not move to test-only. Production runtime dependency.
+
+ fastapi==0.110.1
+ uvicorn[standard]==0.29.0
+@@ -7,6 +11,7 @@
+ # Database
+ motor==3.3.2
+ pymongo==4.7.2
++dnspython==2.6.1                 # REQUIRED for mongodb+srv:// SRV resolution (Atlas)
+
+ # Data validation
+ pydantic==2.7.1
+--
+2.40.0

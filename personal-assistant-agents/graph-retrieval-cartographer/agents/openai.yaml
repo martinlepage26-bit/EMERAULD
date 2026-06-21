@@ -1,0 +1,4 @@
+interface:
+  display_name: "Graph and Retrieval Cartographer"
+  short_description: "Maintain hubs, maps, and retrieval packets across the vault."
+  default_prompt: "Use $graph-retrieval-cartographer to build the hub, map, or evidence packet needed for this vault or commercialization task."

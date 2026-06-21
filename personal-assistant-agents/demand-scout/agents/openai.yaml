@@ -1,0 +1,4 @@
+interface:
+  display_name: "Demand Scout"
+  short_description: "Read demand, competitor patterns, and channel fit for owned content."
+  default_prompt: "Use $demand-scout to rank the strongest demand and marketplace-fit opportunities for this owned content inventory."

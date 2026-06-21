@@ -1,0 +1,45 @@
+source,root,path,name,ext,is_dir,size,modified,topic,normalized_stem
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/whos-the-boob-whos-the-trap,whos-the-boob-whos-the-trap,,True,0,2026-03-20T03:45:39.885770-04:00,other,whos the boob whos the trap
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp,the-palace-under-the-root-kdp,,True,0,2026-04-03T21:53:35.330001-04:00,other,the palace under the root kdp
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp,le-palais-sous-les-racines-kdp,,True,0,2026-04-02T06:44:41.214271-04:00,other,le palais sous les racines kdp
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/whos-the-boob-whos-the-trap/introduction-draft.md,introduction-draft.md,.md,False,12945,2026-03-20T00:31:29.957377-04:00,other,introduction
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/whos-the-boob-whos-the-trap/reference-pass.md,reference-pass.md,.md,False,14888,2026-03-20T03:45:39.885770-04:00,other,reference pass
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/whos-the-boob-whos-the-trap/editorial-brief.md,editorial-brief.md,.md,False,8393,2026-03-20T00:31:29.957377-04:00,other,editorial brief
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/output,output,,True,0,2026-04-01T20:05:52.543315-04:00,other,output
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/ebook,ebook,,True,0,2026-04-01T20:15:03.250261-04:00,other,ebook
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/tools,tools,,True,0,2026-04-10T00:56:10.156879-04:00,other,tools
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/print,print,,True,0,2026-04-01T20:12:01.531919-04:00,other,print
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/FUSION_AUDIT.md,FUSION_AUDIT.md,.md,False,112330,2026-04-03T22:10:58.540643-04:00,ai_governance,fusion audit
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/release-checklist.md,release-checklist.md,.md,False,3557,2026-04-01T20:13:16.296903-04:00,other,release checklist
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/README.md,README.md,.md,False,6189,2026-04-01T20:13:16.296903-04:00,other,readme
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/requirements.txt,requirements.txt,.txt,False,56,2026-04-01T20:12:01.491919-04:00,other,requirements
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/output/ebook,ebook,,True,0,2026-04-02T07:39:44.393066-04:00,other,ebook
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/output/print,print,,True,0,2026-04-01T20:15:27.226564-04:00,other,print
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/output/ebook/_epub_build,_epub_build,,True,0,2026-04-02T07:39:44.397066-04:00,other,epub build
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/output/ebook/the-palace-under-the-root.docx,the-palace-under-the-root.docx,.docx,False,102457,2026-04-02T07:39:44.377066-04:00,other,the palace under the root
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/output/ebook/_epub_build/META-INF,META-INF,,True,0,2026-04-02T07:39:44.397066-04:00,other,meta inf
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/output/ebook/_epub_build/OEBPS,OEBPS,,True,0,2026-04-02T07:39:44.421066-04:00,other,oebps
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/output/print/the-palace-under-the-root-interior.pdf,the-palace-under-the-root-interior.pdf,.pdf,False,239377,2026-04-02T07:39:32.889070-04:00,other,the palace under the root interior
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/ebook/manuscript.md,manuscript.md,.md,False,171627,2026-04-02T07:39:44.205066-04:00,research_paper,manuscript
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/print/backmatter,backmatter,,True,0,2026-04-01T20:13:16.292903-04:00,other,backmatter
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/print/frontmatter,frontmatter,,True,0,2026-04-01T20:13:16.284903-04:00,other,frontmatter
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/the-palace-under-the-root-kdp/print/chapters,chapters,,True,0,2026-04-02T07:38:45.921086-04:00,other,chapters
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/output,output,,True,0,2026-04-02T06:44:41.482271-04:00,other,output
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/ebook,ebook,,True,0,2026-04-01T20:15:03.250261-04:00,other,ebook
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/tools,tools,,True,0,2026-04-10T00:56:10.183627-04:00,other,tools
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/print,print,,True,0,2026-04-01T20:12:01.531919-04:00,other,print
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/release-checklist.md,release-checklist.md,.md,False,3557,2026-04-01T20:13:16.296903-04:00,other,release checklist
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/README.md,README.md,.md,False,6189,2026-04-01T20:13:16.296903-04:00,other,readme
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/dossier-editorial-fr.md,dossier-editorial-fr.md,.md,False,2000,2026-04-02T06:44:35.698273-04:00,other,dossier editorial fr
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/requirements.txt,requirements.txt,.txt,False,56,2026-04-01T20:12:01.491919-04:00,other,requirements
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/output/ebook,ebook,,True,0,2026-04-02T07:18:27.245532-04:00,other,ebook
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/output/print,print,,True,0,2026-04-02T06:44:41.634271-04:00,other,print
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/output/ebook/_epub_build,_epub_build,,True,0,2026-04-02T07:18:27.249532-04:00,other,epub build
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/output/ebook/le-palais-sous-les-racines.docx,le-palais-sous-les-racines.docx,.docx,False,108908,2026-04-02T07:18:27.233532-04:00,other,le palais sous les racines
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/output/ebook/_epub_build/META-INF,META-INF,,True,0,2026-04-02T07:18:27.249532-04:00,other,meta inf
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/output/ebook/_epub_build/OEBPS,OEBPS,,True,0,2026-04-02T07:18:27.261532-04:00,other,oebps
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/output/print/le-palais-sous-les-racines-interior.pdf,le-palais-sous-les-racines-interior.pdf,.pdf,False,252261,2026-04-02T07:18:19.229535-04:00,other,le palais sous les racines interior
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/ebook/manuscript.md,manuscript.md,.md,False,196290,2026-04-02T07:18:27.009532-04:00,research_paper,manuscript
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/print/backmatter,backmatter,,True,0,2026-04-01T20:13:16.292903-04:00,other,backmatter
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/print/frontmatter,frontmatter,,True,0,2026-04-01T20:13:16.284903-04:00,other,frontmatter
+local,/home/cerebrhoe/manuscripts,/home/cerebrhoe/manuscripts/le-palais-sous-les-racines-kdp/print/chapters,chapters,,True,0,2026-04-02T07:17:46.681551-04:00,other,chapters

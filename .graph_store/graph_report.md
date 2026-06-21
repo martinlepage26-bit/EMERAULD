@@ -1,0 +1,363 @@
+# EMERAULD Wikilink Graph Report
+
+Built: 2026-06-21T08:27:29Z
+Corpus: vector_store paths.json wiki entries
+
+## Summary
+
+- Nodes: 896
+- Directed edges: 8652
+- Link mentions: 15675
+- Unresolved wikilinks: 3300
+- Connected components: 13
+- Largest component: 884
+- Zero-backlink notes: 55
+- One-backlink notes: 104
+- Two-backlink notes: 134
+
+## Backlink Histogram
+
+- 0: 55
+- 1: 104
+- 101+: 25
+- 11-20: 113
+- 2: 134
+- 21-50: 105
+- 3-4: 106
+- 5-6: 109
+- 51-100: 31
+- 7-10: 114
+
+## Low-Backlink Notes
+
+### Zero backlink (55)
+- [[PHAROS]]
+- [[Second Self System — Identity Kernel and Agent Routing Architecture]]
+- [[Trismégiste]]
+- [[Workspace Cleanup Ledger — 2026-05-31]]
+- [[archive/Governance Stress-Test Protocols Index]]
+- [[archive/Orphan Index — Artifacts And Archives — 2026-05-06]]
+- [[archive/Orphan Index — Operations And Misc — 2026-05-06]]
+- [[archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]
+- [[archive/Orphan Index — Raw Sources — 2026-05-06]]
+- [[archive/Orphan Index — Root Loose Notes — 2026-05-06]]
+- [[archive/Orphan Index — Runtime And Agents — 2026-05-06]]
+- [[archive/agent-evaluation]]
+- [[archive/ai-product]]
+- [[archive/brief-to-tasks]]
+- [[archive/diamond-eyes]]
+- [[archive/doc]]
+- [[archive/first-principles]]
+- [[archive/free-tool-strategy]]
+- [[archive/hermes-dependency-mapper]]
+- [[archive/hermes-escalation-router]]
+- [[archive/inner-mind-eye]]
+- [[archive/ma-degree-guide]]
+- [[archive/red-team]]
+- [[archive/repo-logo-generator]]
+- [[archive/triangulation]]
+- [[archive/ux-researcher-designer]]
+- [[archive/web-scraping]]
+- [[bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec]]
+- [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023]]
+- [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2]]
+- [[bridges/2027 - AI 2027 Summary Research]]
+- [[bridges/2027 - AI 2027 Summary Research 2]]
+- [[bridges/2027 - AI 2027 Summary Research 3]]
+- [[bridges/2027 - AI 2027 Summary Research 4]]
+- [[bridges/Bridge - 2006 - report 2]]
+- [[bridges/Bridge - 2006 - report 3]]
+- [[bridges/Bridge - 2006 - report 4]]
+- [[bridges/Bridge - 2006 - report 5]]
+- [[bridges/Bridge - 2009 - legalorcontract 2]]
+- [[bridges/Bridge - 2013 - 23 ISSN 1528-0268 print]]
+- [[bridges/Bridge - 2013 - auditorassessment 2]]
+- [[bridges/Bridge - 2013 - auditorassessment 3]]
+- [[bridges/Bridge - 2015 - policyorguidance 3]]
+- [[bridges/Bridge - 2015 - policyorguidance 4]]
+- [[bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf - 2020 - Mar - 2020 - Martin Lepage - Simp]]
+- [[bridges/Bridge - CORPUS ou le gnie de linsistance 1]]
+- [[bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06]]
+- [[bridges/Bridge - FIRST DRAFT]]
+- [[bridges/Bridge - Governance by Denial Revised Working Draft]]
+- [[bridges/Bridge - Introduction]]
+- [[bridges/Bridge - dataimagepngbase64]]
+- [[bridges/Bridge - dataimagepngbase64... 2]]
+- [[genealogy/Martin Voice Spec — Stage Map]]
+- [[genealogy/Martin Voice Spec — Version Genealogy]]
+- [[raw-sources/2026-05-13/Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source Note]]
+
+### One backlink (104)
+- [[Agent Logs Hub]]
+- [[Daily Dashboard]]
+- [[Knowledge Gaps]]
+- [[Personal OS]]
+- [[Projects Hub]]
+- [[Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]
+- [[Queering Neo-Pagan Magic — FINAL FINAL PAPER]]
+- [[Workflows Hub]]
+- [[archive/CO-EQUAL-AUTHORITY-DECISION]]
+- [[archive/Ethical Ground Values]]
+- [[bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve]]
+- [[bridges/Bridge — Agents vs. Chatbots Fundamentals]]
+- [[bridges/Bridge — Malformed JSON Prefix]]
+- [[bridges/Bridge — Mandrake]]
+- [[maps/Novel Corpus Map]]
+- [[raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]
+- [[raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note]]
+- [[raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note]]
+- [[raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note]]
+- [[raw-sources/2026-05-13/Complete solutions, not compromises — Source Note]]
+- [[raw-sources/2026-05-13/Email Député Guilbault AE — Source Note]]
+- [[raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note]]
+- [[raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note]]
+- [[raw-sources/2026-05-13/Reddit Data API Wiki — Source Note]]
+- [[raw-sources/2026-05-13/Skills as self-operators — Source Note]]
+- [[raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note]]
+- [[raw-sources/2026-05-13/gaga gisease lyrics — Source Note]]
+- [[skills/ask-vault]]
+- [[skills/gsd-add-backlog]]
+- [[skills/gsd-add-phase]]
+- [[skills/gsd-add-tests]]
+- [[skills/gsd-add-todo]]
+- [[skills/gsd-ai-integration-phase]]
+- [[skills/gsd-analyze-dependencies]]
+- [[skills/gsd-audit-fix]]
+- [[skills/gsd-audit-milestone]]
+- [[skills/gsd-audit-uat]]
+- [[skills/gsd-autonomous]]
+- [[skills/gsd-check-todos]]
+- [[skills/gsd-cleanup]]
+- [[skills/gsd-code-review]]
+- [[skills/gsd-code-review-fix]]
+- [[skills/gsd-complete-milestone]]
+- [[skills/gsd-debug]]
+- [[skills/gsd-discuss-phase]]
+- [[skills/gsd-do]]
+- [[skills/gsd-docs-update]]
+- [[skills/gsd-eval-review]]
+- [[skills/gsd-execute-phase]]
+- [[skills/gsd-explore]]
+- [[skills/gsd-extract_learnings]]
+- [[skills/gsd-fast]]
+- [[skills/gsd-forensics]]
+- [[skills/gsd-from-gsd2]]
+- [[skills/gsd-graphify]]
+- [[skills/gsd-health]]
+- [[skills/gsd-help]]
+- [[skills/gsd-import]]
+- [[skills/gsd-inbox]]
+- [[skills/gsd-insert-phase]]
+- [[skills/gsd-intel]]
+- [[skills/gsd-join-discord]]
+- [[skills/gsd-list-phase-assumptions]]
+- [[skills/gsd-list-workspaces]]
+- [[skills/gsd-manager]]
+- [[skills/gsd-map-codebase]]
+- [[skills/gsd-milestone-summary]]
+- [[skills/gsd-new-milestone]]
+- [[skills/gsd-new-project]]
+- [[skills/gsd-new-workspace]]
+- [[skills/gsd-next]]
+- [[skills/gsd-note]]
+- [[skills/gsd-pause-work]]
+- [[skills/gsd-plan-milestone-gaps]]
+- [[skills/gsd-plan-phase]]
+- [[skills/gsd-plant-seed]]
+- [[skills/gsd-pr-branch]]
+- [[skills/gsd-profile-user]]
+- [[skills/gsd-progress]]
+- [[skills/gsd-quick]]
+- [[skills/gsd-reapply-patches]]
+- [[skills/gsd-remove-phase]]
+- [[skills/gsd-remove-workspace]]
+- [[skills/gsd-research-phase]]
+- [[skills/gsd-resume-work]]
+- [[skills/gsd-review]]
+- [[skills/gsd-review-backlog]]
+- [[skills/gsd-scan]]
+- [[skills/gsd-secure-phase]]
+- [[skills/gsd-session-report]]
+- [[skills/gsd-set-profile]]
+- [[skills/gsd-settings]]
+- [[skills/gsd-ship]]
+- [[skills/gsd-stats]]
+- [[skills/gsd-thread]]
+- [[skills/gsd-ui-phase]]
+- [[skills/gsd-ui-review]]
+- [[skills/gsd-undo]]
+- [[skills/gsd-update]]
+- [[skills/gsd-validate-phase]]
+- ... 4 more
+
+### Two backlink (134)
+- [[2026 - Mauss - The Gift]]
+- [[ACTOR Framework — Agent vs Chatbot Decision Tool]]
+- [[App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]
+- [[Chrome Extension Monetization - Policy and Product Options]]
+- [[Cultural and Lyric Corpus Memo — 2026-05-14]]
+- [[Governance and Platform Signals Memo — 2026-05-14]]
+- [[IP and Manuscript Brief — 2026-05-14]]
+- [[Kickstart App Prompt — Template and Synthesis Framework]]
+- [[Operator Continuity Memo — 2026-05-14]]
+- [[PERPLEXITY-COMPUTER]]
+- [[PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]
+- [[Philosopher]]
+- [[Queering Neo-Pagan Magic — MRW Submission (2026)]]
+- [[Research Hub]]
+- [[WSL and System Storage Recovery — Quick Wins Checklist]]
+- [[bridges/2025 - AI Fundamentals for Business Professionals Notebook]]
+- [[bridges/2025 - AI Fundamentals for Business Professionals Notebook 2]]
+- [[bridges/Bridge — Responses API Fundamentals]]
+- [[genealogy/test]]
+- [[raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note]]
+- [[raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note]]
+- [[raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note]]
+- [[raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note]]
+- [[raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note]]
+- [[raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note]]
+- [[raw-sources/2026-05-13/WIP recruso paper — Source Note]]
+- [[skills/agent-manager-skill]]
+- [[skills/agent-tool-builder]]
+- [[skills/api-documentation-generator]]
+- [[skills/app-builder]]
+- [[skills/aspnet-core]]
+- [[skills/audit]]
+- [[skills/autonomous-agents]]
+- [[skills/autoresearch]]
+- [[skills/backend-dev-guidelines]]
+- [[skills/chatgpt-apps]]
+- [[skills/claude-api]]
+- [[skills/clean-migrate]]
+- [[skills/cli-anything]]
+- [[skills/cli-anything-libreoffice]]
+- [[skills/cli-anything-mermaid]]
+- [[skills/cli-anything-notebooklm]]
+- [[skills/cli-anything-obsidian]]
+- [[skills/cli-anything-ollama]]
+- [[skills/cloudflare-deploy]]
+- [[skills/codex]]
+- [[skills/compose-and-ship]]
+- [[skills/consent-framework]]
+- [[skills/control-point-doctrine]]
+- [[skills/cost-reducer]]
+- [[skills/data-privacy-compliance]]
+- [[skills/database]]
+- [[skills/deploy]]
+- [[skills/design-brief]]
+- [[skills/design-flow]]
+- [[skills/design-review]]
+- [[skills/develop-web-game]]
+- [[skills/emerging-techniques-long-context]]
+- [[skills/emerging-techniques-speculative-decoding]]
+- [[skills/ethical-hacking-methodology]]
+- [[skills/fastapi-endpoint]]
+- [[skills/fastmcp-server]]
+- [[skills/fetch]]
+- [[skills/figma]]
+- [[skills/figma-code-connect-components]]
+- [[skills/figma-create-design-system-rules]]
+- [[skills/figma-create-new-file]]
+- [[skills/figma-generate-design]]
+- [[skills/figma-generate-library]]
+- [[skills/figma-implement-design]]
+- [[skills/figma-use]]
+- [[skills/file-reading]]
+- [[skills/frontend-design]]
+- [[skills/frontend-skill]]
+- [[skills/gh-address-comments]]
+- [[skills/gh-fix-ci]]
+- [[skills/github-actions-creator]]
+- [[skills/github-workflow-automation]]
+- [[skills/helix-operator]]
+- [[skills/information-architecture]]
+- [[skills/jupyter-notebook]]
+- [[skills/linear]]
+- [[skills/literary-references]]
+- [[skills/loki-mode]]
+- [[skills/ma-arts-letters]]
+- [[skills/markitdown]]
+- [[skills/netlify-deploy]]
+- [[skills/notion-knowledge-capture]]
+- [[skills/notion-meeting-intelligence]]
+- [[skills/notion-research-documentation]]
+- [[skills/notion-spec-to-implementation]]
+- [[skills/observability-phoenix]]
+- [[skills/obsidian-rag]]
+- [[skills/openai-account-usage]]
+- [[skills/pdf]]
+- [[skills/pharos-papers-db]]
+- [[skills/pharos-receipts-brief]]
+- [[skills/pharos-repurposer]]
+- [[skills/pharos-signal-report]]
+- [[skills/playwright]]
+- ... 34 more
+
+## Components
+
+- Component 1: 884 notes; seed [[2026 - Mauss - The Gift]]
+- Component 2: 1 notes; seed [[Workspace Cleanup Ledger — 2026-05-31]]
+- Component 3: 1 notes; seed [[archive/Orphan Index — Artifacts And Archives — 2026-05-06]]
+- Component 4: 1 notes; seed [[archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]
+- Component 5: 1 notes; seed [[archive/Orphan Index — Raw Sources — 2026-05-06]]
+- Component 6: 1 notes; seed [[archive/Orphan Index — Runtime And Agents — 2026-05-06]]
+- Component 7: 1 notes; seed [[bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec]]
+- Component 8: 1 notes; seed [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023]]
+- Component 9: 1 notes; seed [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2]]
+- Component 10: 1 notes; seed [[bridges/2027 - AI 2027 Summary Research]]
+- Component 11: 1 notes; seed [[bridges/2027 - AI 2027 Summary Research 2]]
+- Component 12: 1 notes; seed [[bridges/2027 - AI 2027 Summary Research 3]]
+- Component 13: 1 notes; seed [[bridges/2027 - AI 2027 Summary Research 4]]
+
+## Top Unresolved Targets
+
+- `README`: 24
+- `raw/intake-report-20260513.json`: 20
+- `HISTORY`: 14
+- `ecosystem`: 7
+- `memory/clients/Sante-France`: 7
+- `method`: 7
+- `CLAUDE`: 7
+- `PHAROS AI governance service business`: 6
+- `AGENTS`: 6
+- `CHANGELOG`: 6
+- `VAULT-LINKING-AUDIT-2026-05-01`: 6
+- `Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2)`: 5
+- `Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy`: 5
+- `Dr. Sort Filename Normalization — 2026-05-06`: 5
+- `Second Self System — Adversarial Review`: 5
+- `Introduction`: 5
+- `readme`: 5
+- `memory/clients/ExterminationDG`: 5
+- `EXTERNAL DATA REGISTRY (Phase 1 Build)`: 5
+- `GAIA — Fisher King Project State`: 5
+- `Martin Lepage, PhD — External Review Profile (Offline-Ready)`: 5
+- `Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research`: 5
+- `“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal`: 4
+- `Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members`: 4
+- `The Circle Remains Open Toward a Queer Sociology of the Sacred (2)`: 4
+- `Readme`: 4
+- `Complete Paper List — Martin Lepage`: 4
+- `MANIFEST`: 4
+- `Dr_Sort_masterlist_2026-03-08`: 4
+- `Welcome`: 4
+- `Governance by Denial — Revised Working Draft`: 4
+- `skill`: 4
+- `AI Agent Operations Manager — Credential Path and Portfolio`: 4
+- `EMERAULD — Vault and Knowledge Graph`: 4
+- `argus.agent`: 3
+- `HELIX test Epstein`: 3
+- `HELIX test CC`: 3
+- `2015 - policy_or_guidance [3`: 3
+- `2015 - policy_or_guidance [4`: 3
+- `Literature Review From the Politics of Visibility to the Politics of Voice in AI Governance`: 3
+- `FIRST DRAFT`: 3
+- `2026-04-18_anthropic-openclaw-platform-dependence-and-narrative-capture`: 3
+- `Martin Lepage`: 3
+- `SKILL`: 3
+- `﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch`: 3
+- `memory/clients/Lavoie Construct`: 3
+- `memory/clients/Progression`: 3
+- `session-state-001`: 3
+- `CORPUS ou le génie de l’insistance (1)`: 3
+- `AI Agent Operations and Governance Manager`: 3

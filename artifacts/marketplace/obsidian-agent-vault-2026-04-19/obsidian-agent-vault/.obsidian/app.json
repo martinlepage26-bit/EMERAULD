@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "raw",
+  "attachmentFolderPath": "raw",
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true
+}

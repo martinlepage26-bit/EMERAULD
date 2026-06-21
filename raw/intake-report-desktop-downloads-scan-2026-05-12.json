@@ -1,0 +1,367 @@
+{
+  "run_at_utc": "2026-05-13T06:51:20.968061+00:00",
+  "source_label": "desktop-downloads-scan-2026-05-12",
+  "raw_dir": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12",
+  "manifest_path": "/mnt/c/users/softinfo/documents/emerauld/raw/.intake-manifest.jsonl",
+  "dry_run": false,
+  "counts": {
+    "input": 22,
+    "verified": 22,
+    "rejected": 0
+  },
+  "verified": [
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/desktop-helix3/AppShell.tsx",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/AppShell.tsx",
+      "file_name": "AppShell.tsx",
+      "size_bytes": 10133,
+      "sha256": "37ca298c70a1854b829284d254c923385357f042125d58a68e58f94ea614844a",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:18.091871+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/desktop-helix3/Dashboard.tsx",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/Dashboard.tsx",
+      "file_name": "Dashboard.tsx",
+      "size_bytes": 9929,
+      "sha256": "3cf04aa9081fd00f2ef7dbf66d33b846390498e08290be5a34c0c07705d42666",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:18.156575+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/desktop-helix3/Governor.ts",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/Governor.ts",
+      "file_name": "Governor.ts",
+      "size_bytes": 4450,
+      "sha256": "f27acc7d1f40bc1987252a74f0cd653182b18acf198f4d549894531c38274bdb",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:18.229696+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/desktop-helix3/HelixProbe v2.61 — Production Clean.txt",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/HelixProbe v2.61 — Production Clean.txt",
+      "file_name": "HelixProbe v2.61 — Production Clean.txt",
+      "size_bytes": 7384,
+      "sha256": "38835ab82fec39a2dcffdedfc2116d21bd2af9e8846636e047c91570cdbc31a9",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:18.296043+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/desktop-helix3/HelixProbe.tsx",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/HelixProbe.tsx",
+      "file_name": "HelixProbe.tsx",
+      "size_bytes": 41284,
+      "sha256": "37d899038b416d8c93cd4c841e53503553f56c6e1d200e87abf898aa0b5d2221",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:18.377125+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/desktop-helix3/law25.ts",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/law25.ts",
+      "file_name": "law25.ts",
+      "size_bytes": 10947,
+      "sha256": "05932240364405d49d9994976f246bc40b97ece95b6fbb2ee2ae719e0a6fba0d",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:18.449074+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/desktop-helix3/PolicyEngine.tsx",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/PolicyEngine.tsx",
+      "file_name": "PolicyEngine.tsx",
+      "size_bytes": 18957,
+      "sha256": "00baf9e69f95ebe29b114e09f56af7776fe74aea6db864c6014051386d92fd29",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:18.523682+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/desktop-helix3/probe.ts",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/probe.ts",
+      "file_name": "probe.ts",
+      "size_bytes": 19856,
+      "sha256": "1df745ee7128da1e8513af0d6912ea1471c4316a3645df2cd584ce4ff932a333",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:18.648033+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/desktop-helix3/store.ts",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/store.ts",
+      "file_name": "store.ts",
+      "size_bytes": 18535,
+      "sha256": "7b811db582cd053968236cc81d1d5f749640204bd4f3792990cc19f5664bf111",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:18.828524+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/downloads/brutal-isms-grant-with-answers_henry-final-one.docx",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/downloads/brutal-isms-grant-with-answers_henry-final-one.docx",
+      "file_name": "brutal-isms-grant-with-answers_henry-final-one.docx",
+      "size_bytes": 16113,
+      "sha256": "6dd2d75afc6fd703f9f32442a60b32aa472eeab0612a4a11c4df1784e01979ab",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:18.964962+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/downloads/brutal-isms-longform-revised.pdf",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/downloads/brutal-isms-longform-revised.pdf",
+      "file_name": "brutal-isms-longform-revised.pdf",
+      "size_bytes": 13890,
+      "sha256": "adfdfe4ae61e5a2fb9d1f5d8df1800f1d0754a13c9a904062d71a7964ac497b1",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:19.065816+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/downloads/helix_probe_v_2_5_multilingual.jsx",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/downloads/helix_probe_v_2_5_multilingual.jsx",
+      "file_name": "helix_probe_v_2_5_multilingual.jsx",
+      "size_bytes": 39406,
+      "sha256": "0585d7006c0602a0122a57fd33232666f200beeb9a7cdd00fe8c29a20bc8f8a5",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:19.229224+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/downloads/Imeson_TAL_Application.docx",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/downloads/Imeson_TAL_Application.docx",
+      "file_name": "Imeson_TAL_Application.docx",
+      "size_bytes": 23252,
+      "sha256": "b6d5f3a69ca25f2223af946385f32ef530f7f3a615a3f098fdffd666e83de668",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:19.373562+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/downloads/Imeson_TAL_Application_Updated.docx",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/downloads/Imeson_TAL_Application_Updated.docx",
+      "file_name": "Imeson_TAL_Application_Updated.docx",
+      "size_bytes": 23575,
+      "sha256": "84d91f9e42fc58e7ab8c7fad1a0147925a22c3aed050ff169b9c4add7d6fb221",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:19.524228+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/downloads/RAGE-dep-report.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/downloads/RAGE-dep-report.md",
+      "file_name": "RAGE-dep-report.md",
+      "size_bytes": 24862,
+      "sha256": "37a2e6a612f3ee52801194e8882d551412edc21caf5e62a774cd17e2b8d6fd07",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:19.770324+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/downloads/Service Canada me laisse sans assurance-emploi depuis janvier _ je risque maintenant de perdre mon logement.pdf",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/downloads/Service Canada me laisse sans assurance-emploi depuis janvier _ je risque maintenant de perdre mon logement.pdf",
+      "file_name": "Service Canada me laisse sans assurance-emploi depuis janvier _ je risque maintenant de perdre mon logement.pdf",
+      "size_bytes": 80640,
+      "sha256": "6ca55cfdf8e5a16af6a13eec466e4096619885817c5be89afbd8c8eded7c7559",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:19.878542+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/downloads/TAL_001A_E_signed.pdf",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/downloads/TAL_001A_E_signed.pdf",
+      "file_name": "TAL_001A_E_signed.pdf",
+      "size_bytes": 353708,
+      "sha256": "f5548f6492e431be68721e2ffe7940ba492f4d9308b137438ba1813a59a005cd",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:20.035934+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/downloads/TAL_Application_Rendered.docx",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/downloads/TAL_Application_Rendered.docx",
+      "file_name": "TAL_Application_Rendered.docx",
+      "size_bytes": 38215,
+      "sha256": "9fc237ec55af344fa8f726e35c063333017057194878c3dffe037cf240d5808a",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:20.193908+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/downloads/Texte collé (2).txt",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/downloads/Texte collé (2).txt",
+      "file_name": "Texte collé (2).txt",
+      "size_bytes": 5375,
+      "sha256": "e9adb9a51a999398507d9f44bce7533a87a556822fdcf2ad8bf1e30468038ba6",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:20.527968+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/downloads/Texte collé.txt",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/downloads/Texte collé.txt",
+      "file_name": "Texte collé.txt",
+      "size_bytes": 9919,
+      "sha256": "befd4902b614d97c240ed367ce6a5887e1a1355ed54f6ebe2bee13dee17b44e1",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:20.756272+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/downloads/_CV GLAMMY 2026.docx",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/downloads/_CV GLAMMY 2026.docx",
+      "file_name": "_CV GLAMMY 2026.docx",
+      "size_bytes": 432544,
+      "sha256": "333ffd03dab6c2033297e9502296bac65c089f4a30d147f11317e7b1da6657f2",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:20.822284+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    },
+    {
+      "source_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw sources/Desktop-Downloads-scan-2026-05-12/MANIFEST.md",
+      "raw_path": "/mnt/c/Users/softinfo/Documents/EMERAULD/raw/Desktop-Downloads-scan-2026-05-12/MANIFEST.md",
+      "file_name": "MANIFEST.md",
+      "size_bytes": 861,
+      "sha256": "c3fe9b36246f9e2b85bb8e48a31d635c0d077e5c08f343d2f70cfa9a5a8e988b",
+      "source_label": "desktop-downloads-scan-2026-05-12",
+      "verified_at_utc": "2026-05-13T06:51:20.960337+00:00",
+      "verification": {
+        "exists": true,
+        "is_file": true,
+        "readable": true,
+        "non_empty": true,
+        "duplicate": false
+      }
+    }
+  ],
+  "rejected": []
+}

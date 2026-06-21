@@ -1,0 +1,1559 @@
+{
+  "timestamp": "2026-05-14T05:02:41.228426+00:00",
+  "corrupted": [],
+  "no_source": [
+    {
+      "note": "ACTOR Framework Worksheet.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct"
+      ],
+      "content_preview": "Praxis AI - Agent vs. Chatbot Decision Analysis Instructions Use this worksheet to systematically analyze whether your client scenario requires an AI agent or chatbot solution. Complete each section t",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "Untitled Kanban 1.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "numeric_sequences_no_prose",
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "Untitled Kanban.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "numeric_sequences_no_prose",
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "60_Dashboards/Daily Dashboard.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct"
+      ],
+      "content_preview": "# Daily Dashboard ## Today - Date: 2026-04-25 - Focus: - Energy: ## Inbox (triage) - `00_Inbox/Raw/` - `00_Inbox/Web Clips/` - `00_Inbox/Voice Memos/` - `00_Inbox/Unprocessed/` ## Top 3 next actions -",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "90_Templates/Raw Capture Template.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# {{title}} See also [[README]]. ## Raw input {{content}} ## Quick read - Main idea: - Possible use: - Related topics: ## Processing notes - Suggested PARA destination: - Should this become a wiki not",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "Clippings/Railway (one-click).md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "Railway provides a one-click install option for deploying LibreChat, making the process even simpler. Here's how you can do it: ## Steps ### Visit the LibreChat repository Go to the [LibreChat reposit",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw/Clippings/AI is speeding into healthcare. Who should regulate it.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "AI is moving quickly into healthcare, bringing potential benefits but also possible pitfalls such as bias that drives unequal care and burnout of physicians and other healthcare workers. It remains un",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw/Clippings/Build  Compute  Workers & Pages  Martinlepage26@me.com's Account.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "what happens if i turn a page into a worker? Here's what changes when you migrate a Pages project to a Worker: ### What stays the same - Static assets still work — Workers has built-in asset serving v",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw/Clippings/Complete solutions, not compromises.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# 5 test cases covering: correct pairing selection, single-skill deflection, failure case surfacing, handoff fidelity, and over-pairing rejection. # Format: prompt → expected behavior → pass criteria ",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw/Clippings/MIA PAPERS PLANES lyrics.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "Paper Planes Song by M.I.A. Share Share [ ![](https://ssl.gstatic.com/kpui/social/fb_32x32.png) Facebook](#)[ ![](https://ssl.gstatic.com/kpui/social/whatsapp_solid_bg_36x36.png) WhatsApp](#)[ ![](htt",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw/Clippings/Reddit Data API Wiki.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "***Please note**: Some of the information in our legacy API documentation and support resources may be out of date. Always consult our* [*Developer Terms*](https://www.redditinc.com/policies/developer",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/Second Self System — Identity and Routing Architecture.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Second Self System — Identity and Routing Architecture ## Capture Note User source for a governed \"second self\" architecture: not a personality merge, but a system with one identity kernel, many spe",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/Skill Development Workflow — Raw Capture.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Skill Development Workflow — Raw Capture ## Provenance Three skills converge on the same workflow under different names: - **`writing-skills`** (Claude side, `~/.claude/skills/writing-skills/SKILL.m",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/hardware-system-reference/& $envUSERPROFILEDesktopcompact_wsl.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct"
+      ],
+      "content_preview": "& \"$env:USERPROFILE\\Desktop\\compact_wsl.ps1\" Here is the full discovery inventory from the WSL scan. --- Document Discovery — PHAROS / AI / Deterministic Recursion /home/cerebrhoe ┌───────────────────",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/)]}',.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct"
+      ],
+      "content_preview": "# )]}',.txt ## Extracted Text )]}', %PDF-1.5 %���� 1 0 obj <</ColorSpace/DeviceGray/Subtype/Image/Height 22/Filter/FlateDecode/Type/XObject/Width 234/Length 2119/BitsPerComponent 8>>stream x�ݗyT�W\u0016ǿ [",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2007 - Texte_Paille_27,2-final2.doc.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# Microsoft Word - Texte_Paillé_27,2-final2.doc ## Extracted Text La méthodologie de recherche dans un contexte de recherche professionnalisante : douze devis méthodologiques exemplaires Pierre Paillé",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2011 - report.doc.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# 2011 - report.doc - 2011 - report.doc.doc - 2011 - report.doc - 2011 - report.doc.doc.doc ## Extracted Text Les fées dansent autour du Mont-Royal Magie et négociations queer chez les néo-païens de M",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2015 - book_or_monograph_1.pdf - 2015 - book_or_monograph_1.pdf.pdf - 2015 - book_or_monograph_1.pdf.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# 2015 - book_or_monograph_1.pdf - 2015 - book_or_monograph_1.pdf.pdf - 2015 - book_or_monograph_1.pdf - 2015 - book_or_monograph_1.pdf.pdf.pdf ## Extracted Text Dreamscapes of Modernity Dreamscapes o",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/535248.PDF.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# 535248.PDF ## Extracted Text RELEVÉ RL-1 (2012-10) 1 Revenus d'emploi et revenus divers A-Revenus d'emploi B- Cotisation au RRQ 453 29 G-Salaire admissible au RRQ 9 25 I- Salaire admissible au RQAP ",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/9780199730018.pdf.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# 9780199730018.pdf ## Extracted Text The Oxford Handbook of Social Cognition O X F O R D L I B R A RY O F P S Y C H O L O G Y Editor-in- C hief: Peter E. Nathan area editors: Clinical Psychology Davi",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/9780822394358-001.pdf.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# 9780822394358-001.pdf ## OCR Notes - This is an OCR extraction pass over `Review/Unreadable/` when `pdftotext` was empty/failed. - Page strategy: full OCR for short PDFs; first + last pages for long",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/A_Sociology_of_Expectations_Retrospectin.pdf.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# A_Sociology_of_Expectations_Retrospectin.pdf ## OCR Notes - This is an OCR extraction pass over `Review/Unreadable/` when `pdftotext` was empty/failed. - Page strategy: full OCR for short PDFs; firs",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Causal_Mechanisms_in_the_Social_Sciences.pdf.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# Causal_Mechanisms_in_the_Social_Sciences.pdf ## OCR Notes - This is an OCR extraction pass over `Review/Unreadable/` when `pdftotext` was empty/failed. - Page strategy: full OCR for short PDFs; firs",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Christin2020_Article_TheEthnographerAndTheAlgorithm.pdf.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# Christin2020_Article_TheEthnographerAndTheAlgorithm.pdf ## Extracted Text Theory and Society https://doi.org/10.1007/s11186-020-09411-3 The ethnographer and the algorithm: beyond the black box Angèl",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/contributions.pdf.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# contributions.pdf ## OCR Notes - This is an OCR extraction pass over `Review/Unreadable/` when `pdftotext` was empty/failed. - Page strategy: full OCR for short PDFs; first + last pages for long PDF",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 1991 - journalarticle.docx - 1991 - journalarticle.docx.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "﻿The Sealed Card Protocol: Mediated Legitimacy, Charging, and Governance at the Seam Abstract This paper introduces the Sealed Card Protocol, an instrument for making mediated legitimacy observable un",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 1998 - journalarticle.docx - 1998 - journalarticle.docx.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "*Magic After Legitimacy: Witchcraft, Sisterhood, and the Work of Power in* Charmed Abstract (~200–250 words) This article reads *Charmed* (The WB, 1998–2006) as a fantasy about growing up too fast wit",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2007 - journalarticle.docx - 2007 - journalarticle.docx.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "*Magic After Legitimacy: Witchcraft, Sisterhood, and the Work of Power in* Charmed Abstract (~200–250 words) This article reads *Charmed* (The WB, 1998–2006) as a fantasy about growing up too fast wit",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2015 - journalarticle.docx - 2015 - journalarticle.docx.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "Bibliographie Achouche A (2015) *La Sorcière dans les séries télévisées américaines: une figure féminine ambiguë de la postmodernité*. Paris: L’Harmattan. Adler M (1979) *Drawing Down the Moon: Witche",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/lepage_hair.pdf.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# lepage_hair.pdf ## OCR Notes - This is an OCR extraction pass over `Review/Unreadable/` when `pdftotext` was empty/failed. - Page strategy: full OCR for short PDFs; first + last pages for long PDFs.",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Microsoft Word - ANNEXE H – FR - CU 53 avec changement par. 11.docx.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# Microsoft Word - ANNEXE H – FR - CU 53 avec changement par. 11.docx ## Extracted Text ANNEXE H Université Concordia – Formulaire de demande d’enseignement à temps partiel AUCUN AUTRE FORMULAIRE NE P",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Microsoft Word - Croft - Slayage 18.1.docx.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# Microsoft Word - Croft - Slayage 18.1.docx ## Extracted Text Slayage: The Journal of Whedon Studies, 18.1 [51], Winter/Spring 2020 “It’s good to be me”: Buffy’s Resistance to Renaming1 Janet Brennan",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Microsoft Word - Death as a Gift in Whedon and Tolkien August.docx.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# Microsoft Word - Death as a Gift in Whedon and Tolkien August.docx ## Extracted Text DEATH AS A GIFT IN J.R.R TOLKIEN’S WORK AND BUFFY THE VAMPIRE SLAYER “Love will bring you to your gift” is what B",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Microsoft Word - DISSERTATION_DAVIDSEN_POSTDRUKPROEF.docx.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# Microsoft Word - DISSERTATION_DAVIDSEN_POSTDRUKPROEF.docx ## Extracted Text The Spiritual Tolkien Milieu A Study of Fiction‐based Religion Proefschrift ter verkrijging van de graad van Doctor aan de",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Microsoft Word - Liste des comités d'évaluation 2009-2010 _Annexe 1_.doc.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# Microsoft Word - Liste des comités d'évaluation 2009-2010 _Annexe 1_.doc ## Extracted Text Fonds de recherche du Québec - Société et culture Liste des comités 2016-2017 Les domaines de recherche et ",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Microsoft Word - Mapping the Margins.doc.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# Microsoft Word - Mapping the Margins.doc ## OCR Notes - This is an OCR extraction pass over `Review/Unreadable/`. - Page strategy: full OCR for short PDFs; first + last pages for long PDFs. ## Extra",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Microsoft Word - PAPER_The Blending of Bending_20170113.docx.md",
+      "signals": [
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# Microsoft Word - PAPER_The Blending of Bending_20170113.docx ## Extracted Text The Blending of Bending: World-building in Avatar: The Last Airbender and Legend of Korra Thomas Van Hoey \u0018Z2 D04141200",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Modèle Thèse-Mémoire.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct"
+      ],
+      "content_preview": "# Modèle Thèse-Mémoire ## Extracted Text UNIVERSITÉ DU QUÉBEC À MONTRÉAL IMPROVISATION DANSÉE EN COLLECTIF HYBRIDE : LE PARTENARIAT ENTRE HUMAINS ET INTELLIGENCES ARTIFICIELLES EN SCÈNE THÈSE PRÉSENTÉ",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Network_Propaganda_Manipulation_Disinformation_and.pdf.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "filename_contains_source_extension_before_md"
+      ],
+      "content_preview": "# Network_Propaganda_Manipulation_Disinformation_and.pdf ## OCR Notes - This is an OCR extraction pass over `Review/Unreadable/` when `pdftotext` was empty/failed. - Page strategy: full OCR for short ",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The Cultural Politics of Emotion.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct"
+      ],
+      "content_preview": "# The Cultural Politics of Emotion ## OCR Notes - This is an OCR extraction pass over `Review/Unreadable/` when `pdftotext` was empty/failed. - Page strategy: full OCR for short PDFs; first + last pag",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026).md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026) ## Summary A Quebec Superior Court ruling by Justice Martin F. Sheehan reportedly set aside an August 2025 arbitrat",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Consent Frameworks — Historical, Legal, Social, and AI Governance ## Summary Consent is not a single idea but a historical accretion: **the voluntary agreement to engage in an activity**, layered ac",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon ## Summary The universe does not present itself as made of the categories humans first notice. *Force, flower s",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/RIA-CODEX — System Audit Protocol.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# RIA-CODEX — System Audit Protocol ## Summary A Socratic audit protocol for examining the hidden mechanisms within systems. The protocol moves through three languages (operator's own, system's own, o",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/Second Self System — Identity Kernel and Agent Routing Architecture.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Second Self System — Identity Kernel and Agent Routing Architecture > **Substrate connection:** The identity-kernel-with-organs framing is the LOTUS-vs-Sh frame at the agent-system level. Per [[Myth",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/Second Self System — Public Voice Examples.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Second Self System — Public Voice Examples ## Purpose This note records the outward-facing voice the second-self system should preserve when it speaks for Martin: clear, critical, accountable, and s",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2006 - report 2.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[2006 - report [2]]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2006 - report 3.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[2006 - report [3]]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2006 - report 4.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[2006 - report [4]]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2006 - report 5.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[2006 - report [5]]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2009 - legalorcontract 2.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[2009 - legal_or_contract [2]]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2013 - 23 ISSN 1528-0268 print.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[2013 - 23] ISSN 1528-0268 (print)]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2013 - auditorassessment 2.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[2013 - audit_or_assessment [2]]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2013 - auditorassessment 3.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[2013 - audit_or_assessment [3]]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2015 - policyorguidance 3.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[2015 - policy_or_guidance [3]]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2015 - policyorguidance 4.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[2015 - policy_or_guidance [4]]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf - 2020 - Mar - 2020 - Martin Lepage - Simp.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[2020 - Martin Lepage - SimpleTax - tax_or_finance [2].pdf - 2020 - Mar - 2020 - Martin Lepage - Simp]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - CORPUS ou le gnie de linsistance 1.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[CORPUS ou le génie de l’insistance (1)]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - dataimagepngbase64... 2.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[![](dataimagepng;base64...) (2)]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - dataimagepngbase64.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[![](dataimagepng;base64...)]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - FIRST DRAFT.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[FIRST DRAFT]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - Governance by Denial Revised Working Draft.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[Governance by Denial — Revised Working Draft]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - Introduction.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[Introduction]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[Social Compass Paper — Ritual Authority and Régime de Preuve]] [[Governance and PHAROS MOC]] [[Research and Papers MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge — Mandrake.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[Mandrake]] [[Legitimacy Machines MOC]] [[Legitimacy Machines MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/bridges/Bridge — Responses API Fundamentals.md",
+      "signals": [
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "[[Responses API Fundamentals]] [[Legitimacy Machines MOC]]",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/genealogy/Martin Voice Spec — Stage Map.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Martin Voice Spec — Stage Map ## Purpose Compact reuse map for the Martin voice-spec lineage. Use this when Hermes, second-self routing, or a loader needs the voice path in one glance instead of the",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/genealogy/Martin Voice Spec — Version Genealogy.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Martin Voice Spec — Version Genealogy ## Summary Canonical index for the Martin voice-spec corpus found on `D:` and adjacent archive folders. The current official version is the mislabeled `AI Gover",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "wiki/genealogy/test.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "numeric_sequences_no_prose",
+        "body_lt_50_no_title_heading_sentence"
+      ],
+      "content_preview": "",
+      "reason": "NO_SOURCE"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - legal_or_contract_1.pdf - 2025 - legal_or_contract_1.pdf.pdf - 2025 - legal_or_contract_1.pdf.md",
+      "signals": [
+        "extraction_near_empty"
+      ],
+      "content_preview": "===== IMAGE: /tmp/unreadable_ocr_48kbxt16/p00001.png ===== Al Fundamentals for Business Professionals Notebook ===== IMAGE: /tmp/unreadable_ocr_48kbxt16/p00031.png ===== SER N LC) N ell | said NS PUCT",
+      "reason": "EXTRACTION_FAILED",
+      "error": "extraction_near_empty"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - statement_or_bill_1.md",
+      "signals": [
+        "extraction_near_empty"
+      ],
+      "content_preview": "===== IMAGE: /tmp/unreadable_ocr_48kbxt16/p00001.png ===== Al Fundamentals for Business Professionals Notebook ===== IMAGE: /tmp/unreadable_ocr_48kbxt16/p00031.png ===== SER N LC) N ell | said NS PUCT",
+      "reason": "EXTRACTION_FAILED",
+      "error": "extraction_near_empty"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2025 - policyorguidance 21.md",
+      "signals": [
+        "extraction_near_empty"
+      ],
+      "content_preview": "===== IMAGE: /tmp/unreadable_ocr_48kbxt16/p00001.png ===== Al Fundamentals for Business Professionals Notebook ===== IMAGE: /tmp/unreadable_ocr_48kbxt16/p00031.png ===== SER N LC) N ell | said NS PUCT",
+      "reason": "EXTRACTION_FAILED",
+      "error": "extraction_near_empty"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2025 - report 21.md",
+      "signals": [
+        "extraction_near_empty"
+      ],
+      "content_preview": "===== IMAGE: /tmp/unreadable_ocr_48kbxt16/p00001.png ===== Al Fundamentals for Business Professionals Notebook ===== IMAGE: /tmp/unreadable_ocr_48kbxt16/p00031.png ===== SER N LC) N ell | said NS PUCT",
+      "reason": "EXTRACTION_FAILED",
+      "error": "extraction_near_empty"
+    },
+    {
+      "note": ".trash/2017 - UQA M Universite du Quebec a Montreal Releve de notes.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# UQA M Université du Québec à Montréal Relevé de notes ## Extract ===== IMAGE: /tmp/unreadable_ocr_rg7uye08/p00001.png ===== oe = UQA M Université du Québec à Montréal Relevé de notes Registrariat Da",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": ".trash/2021 - Quebec aa Etat de la situation financiere.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Québec aa État de la situation financière ## Extract ===== IMAGE: /tmp/unreadable_ocr_si6461mv/p00001.png ===== Québec aa État de la situation financière 3 2063 (1 de 2) Ce forma ol re empl pari per",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": ".trash/2025 - 21025 422 PM Consulter des donnees fiscales - Revenu Quebec.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# 2/10/25, 4:22 PM Consulter des données fiscales - Revenu Québec ## Extract ===== IMAGE: /tmp/unreadable_ocr_gp6xfanj/p00001.png ===== 2/10/25, 4:22 PM Consulter des données fiscales - Revenu Québec ",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "hephaistos/agents/GADGET Frontier Scout External Integration Agent.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# GADGET: Frontier Scout & External Integration Agent ## Extract # GADGET: Frontier Scout & External Integration Agent **Agent:** Gadget **Type:** Specialist agent for external systems **Position:** I",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "hephaistos/agents/Trismegiste Personal AI Assistant.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Trismégiste — Personal AI Assistant ## Extract --- type: wiki aliases: [Trismégiste, EMERAULD agent, second brain agent, \"EMERAULD Second Brain — Project Context\", \"EMERAULD Persistence Stack\", EMER",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw/Clippings/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# \"16\",\"CANDIDATE-DELETE\",\"HIGH-governance-group\",\"7E6234A87AD89BB8\",\"1234,24\",\"D:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\DeepSeek Stress-test\\Mauss - The Gift.pdf\",\"2026-03-24 11:14:1 ## Extract ﻿\"Grou",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 2.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# \"16\",\"CANDIDATE-DELETE\",\"HIGH-governance-group\",\"7E6234A87AD89BB8\",\"1234,24\",\"D:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\DeepSeek Stress-test\\Mauss - The Gift.pdf\",\"2026-03-24 11:14:1 ## Extract ﻿\"Grou",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 3.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# \"16\",\"CANDIDATE-DELETE\",\"HIGH-governance-group\",\"7E6234A87AD89BB8\",\"1234,24\",\"D:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\DeepSeek Stress-test\\Mauss - The Gift.pdf\",\"2026-03-24 11:14:1 ## Extract ﻿\"Grou",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 4.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# \"16\",\"CANDIDATE-DELETE\",\"HIGH-governance-group\",\"7E6234A87AD89BB8\",\"1234,24\",\"D:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\DeepSeek Stress-test\\Mauss - The Gift.pdf\",\"2026-03-24 11:14:1 ## Extract ﻿\"Grou",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 5.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# \"16\",\"CANDIDATE-DELETE\",\"HIGH-governance-group\",\"7E6234A87AD89BB8\",\"1234,24\",\"D:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\DeepSeek Stress-test\\Mauss - The Gift.pdf\",\"2026-03-24 11:14:1 ## Extract ﻿\"Grou",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141 6.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# \"16\",\"CANDIDATE-DELETE\",\"HIGH-governance-group\",\"7E6234A87AD89BB8\",\"1234,24\",\"D:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\DeepSeek Stress-test\\Mauss - The Gift.pdf\",\"2026-03-24 11:14:1 ## Extract ﻿\"Grou",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# \"16\",\"CANDIDATE-DELETE\",\"HIGH-governance-group\",\"7E6234A87AD89BB8\",\"1234,24\",\"D:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\DeepSeek Stress-test\\Mauss - The Gift.pdf\",\"2026-03-24 11:14:1 ## Extract ﻿\"Grou",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/2026 - Memory Context.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Memory Context ## Extract <!-- Durable Codex/Claude/Perplexity Computer workspace instructions for /mnt/c/Users/softinfo/Documents/EMERAULD. Promoted 2026-05-06; Perplexity seat noted 2026-05-08. --",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/2026 - Submitted to AI Society Open Forum.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Submitted to: AI & Society — Open Forum Author: python-docx ## Extract Submitted to: AI & Society — Open Forum The Pharos Frame: Four Levels Where Ethics Becomes AI Governance Martin Lepage, PhD PHA",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/hardware-system-reference/Intel(R) Core(TM) i3-1005G1 CPU 1.20GHz 2 4.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz 2 4 ## Extract Laptop A CsManufacturer CsModel CsTotalPhysicalMemory -------------- ------- --------------------- LENOVO 81WE 8319787008 Name NumberOfCores ",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/DOCUMENT 02 PHASE 1 SHIP OF THESEUS.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# DOCUMENT 02 — PHASE 1: SHIP OF THESEUS ## Extract ================================================================================ DOCUMENT 02 — PHASE 1: SHIP OF THESEUS Archive File — Response Log ",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/DOCUMENT 05 PHASE 2 AURYN.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# DOCUMENT 05 — PHASE 2: AURYN ## Extract ================================================================================ DOCUMENT 05 — PHASE 2: AURYN Archive File — Response Log & Reinjection Substr",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/DOCUMENT 08 PHASE 3 HOPF.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# DOCUMENT 08 — PHASE 3: HOPF ## Extract ================================================================================ DOCUMENT 08 — PHASE 3: HOPF Archive File — Response Log & Reinjection Substrat",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/1991 - Submitted to AI Society Open Forum.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Submitted to: AI & Society — Open Forum Author: python-docx ## Extract Submitted to: AI & Society — Open Forum The Pharos Frame: Four Levels Where Ethics Becomes AI Governance Martin Lepage, PhD PHA",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2010 - Submitted to AI Society Open Forum.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Submitted to: AI & Society — Open Forum Author: python-docx ## Extract Submitted to: AI & Society — Open Forum The Pharos Frame: Four Levels Where Ethics Becomes AI Governance Martin Lepage, PhD PHA",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - Programmes de cycles superieurs UQA M 2.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Programmes de cycles supérieurs UQA M ## Extract ===== IMAGE: /tmp/unreadable_ocr_xquk5rzh/p00001.png ===== ~ Programmes de cycles supérieurs UQA M en Sciences des religions Montréal le 13 septembre",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - Programmes de cycles superieurs UQA M.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Programmes de cycles supérieurs UQA M ## Extract ===== IMAGE: /tmp/unreadable_ocr_xquk5rzh/p00001.png ===== ~ Programmes de cycles supérieurs UQA M en Sciences des religions Montréal le 13 septembre",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Chaire en gestion de la diversite culturelle et religieuse 2.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Chaire en gestion de la diversité culturelle et religieuse ## Extract ===== IMAGE: /tmp/unreadable_ocr_ijj2vcsc/p00001.png ===== UQAM | Département de sciences des religions FACULTÉ DES SCIENCES HUM",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Chaire en gestion de la diversite culturelle et religieuse 3.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Chaire en gestion de la diversité culturelle et religieuse ## Extract ===== IMAGE: /tmp/unreadable_ocr_ijj2vcsc/p00001.png ===== UQAM | Département de sciences des religions FACULTÉ DES SCIENCES HUM",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Chaire en gestion de la diversite culturelle et religieuse 4.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Chaire en gestion de la diversité culturelle et religieuse ## Extract ===== IMAGE: /tmp/unreadable_ocr_ijj2vcsc/p00001.png ===== UQAM | Département de sciences des religions FACULTÉ DES SCIENCES HUM",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Chaire en gestion de la diversite culturelle et religieuse.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Chaire en gestion de la diversité culturelle et religieuse ## Extract ===== IMAGE: /tmp/unreadable_ocr_ijj2vcsc/p00001.png ===== UQAM | Département de sciences des religions FACULTÉ DES SCIENCES HUM",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 2.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# UQA M Université du Québec à Montréal Relevé de notes ## Extract ===== IMAGE: /tmp/unreadable_ocr_rg7uye08/p00001.png ===== oe = UQA M Université du Québec à Montréal Relevé de notes Registrariat Da",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# UQA M Université du Québec à Montréal Relevé de notes ## Extract ===== IMAGE: /tmp/unreadable_ocr_rg7uye08/p00001.png ===== oe = UQA M Université du Québec à Montréal Relevé de notes Registrariat Da",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Quebec mea Lettre dadmissibilite a la mesure Subvention salariale 2.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Québec mea Lettre d'admissibilité à la mesure Subvention salariale ## Extract ===== IMAGE: /tmp/unreadable_ocr_y1kxt3lv/p00001.png ===== Emploi 5 ce Québec mea Lettre d'admissibilité à la mesure Sub",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Quebec mea Lettre dadmissibilite a la mesure Subvention salariale.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Québec mea Lettre d'admissibilité à la mesure Subvention salariale ## Extract ===== IMAGE: /tmp/unreadable_ocr_y1kxt3lv/p00001.png ===== Emploi 5 ce Québec mea Lettre d'admissibilité à la mesure Sub",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - Quebec aa Etat de la situation financiere.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Québec aa État de la situation financière ## Extract ===== IMAGE: /tmp/unreadable_ocr_si6461mv/p00001.png ===== Québec aa État de la situation financière 3 2063 (1 de 2) Ce forma ol re empl pari per",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023 ## Extract ===== IMAGE: /tmp/unreadable_ocr_it26csyw/p00001.png ===== ADDENDA L AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023 ENTRE: CLINIQUE MÉDICALE L",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023 ## Extract ===== IMAGE: /tmp/unreadable_ocr_it26csyw/p00001.png ===== ADDENDA L AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023 ENTRE: CLINIQUE MÉDICALE L",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - 17102025 1325 Courrier - Martin Lepage - Outlook.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# 17/10/2025 13:25 Courrier - Martin Lepage - Outlook ## Extract ===== IMAGE: /tmp/unreadable_ocr_er99x498/p00001.png ===== 17/10/2025 13:25 Courrier - Martin Lepage - Outlook æ Outlook Re: Départ de ",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2026 - Submitted to AI Society Open Forum.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Submitted to: AI & Society — Open Forum Author: python-docx ## Extract Submitted to: AI & Society — Open Forum The Pharos Frame: Four Levels Where Ethics Becomes AI Governance Martin Lepage, PhD PHA",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 ## Extract ===== IMAGE: /tmp/unreadable_ocr_tu9p5nev/p00001.png ===== AI 2027 Summary Research Romeo Dean | April 2025 Training Runs ro",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "wiki/2026 - 16CANDIDATE-DELETEHIGH-governance-group7E6234A87AD89BB8123424DMASTER PACKPOST-RECURSSTRESS-TESTSDeepSeek Stress-testMauss - The Gift.pdf2026-03-24 11141.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# \"16\",\"CANDIDATE-DELETE\",\"HIGH-governance-group\",\"7E6234A87AD89BB8\",\"1234,24\",\"D:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\DeepSeek Stress-test\\Mauss - The Gift.pdf\",\"2026-03-24 11:14:1 ## Extract ﻿\"Grou",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "wiki/Epistemic AI purple teaming is the adversarial testing and defensive hardening of AI-enabled belief formation.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# **Epistemic AI purple teaming** is the adversarial testing and defensive hardening of AI-enabled belief formation. ## Extract Epistemic AI Purple Teaming **Epistemic AI purple teaming** is the adver",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "wiki/Second Self System Identity Kernel and Agent Routing Architecture.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Second Self System — Identity Kernel and Agent Routing Architecture ## Extract --- type: wiki aliases: [Second Self System, Identity Kernel, Agent Merge Manifest, Martin Executive Proxy] tags: [agen",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "wiki/bridges/2021 - Quebec aa Etat de la situation financiere.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# Québec aa État de la situation financière ## Extract ===== IMAGE: /tmp/unreadable_ocr_si6461mv/p00001.png ===== Québec aa État de la situation financière 3 2063 (1 de 2) Ce forma ol re empl pari per",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023 ## Extract ===== IMAGE: /tmp/unreadable_ocr_it26csyw/p00001.png ===== ADDENDA L AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023 ENTRE: CLINIQUE MÉDICALE L",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023.md",
+      "signals": [
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023 ## Extract ===== IMAGE: /tmp/unreadable_ocr_it26csyw/p00001.png ===== ADDENDA L AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023 ENTRE: CLINIQUE MÉDICALE L",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 2.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 ## Extract ===== IMAGE: /tmp/unreadable_ocr_tu9p5nev/p00001.png ===== AI 2027 Summary Research Romeo Dean | April 2025 Training Runs ro",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 3.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 ## Extract ===== IMAGE: /tmp/unreadable_ocr_tu9p5nev/p00001.png ===== AI 2027 Summary Research Romeo Dean | April 2025 Training Runs ro",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 4.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 ## Extract ===== IMAGE: /tmp/unreadable_ocr_tu9p5nev/p00001.png ===== AI 2027 Summary Research Romeo Dean | April 2025 Training Runs ro",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    },
+    {
+      "note": "wiki/bridges/2027 - vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027.md",
+      "signals": [
+        "non_alpha_ratio_gt_30pct",
+        "frontmatter_source_field_present"
+      ],
+      "content_preview": "# vec 2024 dun 2025 vec 2025 dun 2026 Dec 2026 dun 2027 Dec 2027 ## Extract ===== IMAGE: /tmp/unreadable_ocr_tu9p5nev/p00001.png ===== AI 2027 Summary Research Romeo Dean | April 2025 Training Runs ro",
+      "reason": "NO_SOURCE_OR_UNRECOVERED"
+    }
+  ],
+  "source_located": [
+    {
+      "note": ".trash/2017 - 10522570 NAM LEPM84092617 [3].pdf.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": ".trash/2021 - Martin Lepage [2].pdf.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - Martin Lepage - ocr_needed.pdf - 2021 - Martin Lepage - ocr_needed.pdf.pdf - 2021 - Martin Lepage - ocr_needed.pd__ed56686a392d.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": ".trash/2025 - Revenu Quebec - ocr_needed [3].pdf.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Revenu Quebec - ocr_needed [2].pdf - 2025 - Revenu Quebec - ocr_needed [2].pdf.pdf - 2025 - Revenu Quebec - ocr_n__c2f25aea08ad.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "hephaistos/agents/gadget.md",
+      "source": "/home/cerebrhoe/hephaistos/GADGET.md",
+      "via": "frontmatter:source"
+    },
+    {
+      "note": "hephaistos/agents/trismegiste.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/wiki/Trismégiste — Personal AI Assistant.md",
+      "via": "frontmatter:source"
+    },
+    {
+      "note": "raw/Clippings/24 Profitable Digital Products to Sell in 2026 (Start Selling Today).md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/2026-04-30_codex-work-alignment-infrafabric.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/2026-04-30_helix-shipping-instructions-runbook.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/2026-04-30_inderscience-ijaighr-submission-pipeline.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/2026-04-30_self-polygraph-inderscience-rewrite.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/2026-04-30_smallest-building-block-relation-as-rule.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/2026-05-06_epistemic-ai-purple-teaming-operator-draft.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/2026-05-09_emerauld-agents-perplexity-hermes-instructions.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/AGENTS.md",
+      "via": "frontmatter:source"
+    },
+    {
+      "note": "raw sources/2026-05-10 — Springer Nature In Review notification — AI Society manuscript.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/Paper25_ThePharosFrame_AISociety_2026-04-26.docx",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/hardware-system-reference/Laptop A.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/Documents_root_loose_intake_2026-04-28/hardware-system-reference/Laptop A.txt",
+      "via": "attachment_stem_exact"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/02_THESEUS_ARCHIVE.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/Documents_root_loose_intake_2026-04-28/protocols/02_THESEUS_ARCHIVE.txt",
+      "via": "attachment_stem_exact"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/05_AURYN_ARCHIVE.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/Documents_root_loose_intake_2026-04-28/protocols/05_AURYN_ARCHIVE.txt",
+      "via": "attachment_stem_exact"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/08_HOPF_ARCHIVE.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/Documents_root_loose_intake_2026-04-28/protocols/08_HOPF_ARCHIVE.txt",
+      "via": "attachment_stem_exact"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - book_or_monograph_1.pdf - 2016 - book_or_monograph_1.pdf.pdf - 2016 - book_or_monograph_1.pdf.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - Martin Lepage - ocr_needed.pdf - 2016 - Martin Lepage - ocr_needed.pdf.pdf - 2016 - Martin Lepage - ocr_needed.pd__6a845ba68d0d.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - 10522570 NAM LEPM84092617 [2].md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - 10522570 NAM LEPM84092617.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Ces donnees sont extraites du DOSSIER SANTE QUEBEC (DSQ). Marti - 2017 - Ces donnees sont ext (2).md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - Martin Lepage - 05 25) - ocr_needed.pdf - 2017 - Martin Lepage - 05 25) - ocr_needed.pdf.pdf - 2017 - Martin Lepa__72e8fe2208eb.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Ces donnees sont extraites du DOSSIER SANTE QUEBEC (DSQ). Marti - 2017 - Ces donnees sont ext.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - Martin Lepage - 05 25) - ocr_needed.pdf - 2017 - Martin Lepage - 05 25) - ocr_needed.pdf.pdf - 2017 - Martin Lepa__72e8fe2208eb.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Martin Lepage - 05 25) - ocr_needed.pdf - 2017 - Martin Lepage - 05 25) - ocr_needed.pdf.pdf.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - Martin Lepage - 05 25) - ocr_needed.pdf - 2017 - Martin Lepage - 05 25) - ocr_needed.pdf.pdf - 2017 - Martin Lepa__72e8fe2208eb.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Martin Lepage - 10-19) - ocr_needed.pdf - 2017 - Martin Lepage - 10-19) - ocr_needed.pdf.pdf.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - Martin Lepage - 05 25) - ocr_needed.pdf - 2017 - Martin Lepage - 05 25) - ocr_needed.pdf.pdf - 2017 - Martin Lepa__72e8fe2208eb.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - tax_or_finance.pdf - 2021 - tax_or_finance.pdf.pdf - 2021 - tax_or_finance.pdf - 2021 - tax_o.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - Martin Lepage - ocr_needed.pdf - 2021 - Martin Lepage - ocr_needed.pdf.pdf - 2021 - Martin Lepage - ocr_needed.pd__ed56686a392d.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - ocr_needed.pdf - 2024 - ocr_needed.pdf.pdf - 2024 - ocr_needed.pdf - 2024 - ocr_needed.pdf.pd.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - ocr_needed_1.pdf - 2024 - ocr_needed_1.pdf.pdf - 2024 - ocr_needed_1.pdf - 2024 - ocr_needed_.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - legal_or_contract_1.pdf - 2025 - legal_or_contract_1.pdf.pdf - 2025 - legal_or_contract_1.pdf.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - statement_or_bill_1.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - statement_or_bill.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 1991 - bookchapter.docx - 1991 - bookchapter.docx.docx.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/Paper25_ThePharosFrame_AISociety_2026-04-26.docx",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2010 - bookchapter.docx - 2010 - bookchapter.docx.docx.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/Paper25_ThePharosFrame_AISociety_2026-04-26.docx",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2016 - bookchapter.docx - 2016 - bookchapter.docx.docx.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - Martin Lepage - ocr_needed.pdf - 2016 - Martin Lepage - ocr_needed.pdf.pdf - 2016 - Martin Lepage - ocr_needed.pd__6a845ba68d0d.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2018 - bookchapter.docx - 2018 - bookchapter.docx.docx.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - ilovepdf.com - ocr_needed.pdf - 2018 - ilovepdf.com - ocr_needed.pdf.pdf - 2018 - ilovepdf.com - ocr_needed.pdf -__7bc97ac956ce.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2018 - journalarticle.docx - 2018 - journalarticle.docx.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - ilovepdf.com - ocr_needed.pdf - 2018 - ilovepdf.com - ocr_needed.pdf.pdf - 2018 - ilovepdf.com - ocr_needed.pdf -__7bc97ac956ce.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2026 - bookchapter.docx - 2026 - bookchapter.docx.docx.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/Paper25_ThePharosFrame_AISociety_2026-04-26.docx",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Martin_Lepage_CV_EN2025.docx.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Martin Lepage - Outlook - ocr_needed.pdf - 2025 - Martin Lepage - Outlook - ocr_needed.pdf.pdf - 2025 - Martin Le__4be1220e3c65.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "wiki/Dr. Sort Filename Normalization — 2026-05-06.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/assets/D-drive-dedup-manifest-2026-04-21.csv",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "wiki/Epistemic AI Purple Teaming.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/Epistemic AI Purple Teaming.txt",
+      "via": "attachment_stem_exact"
+    },
+    {
+      "note": "wiki/Second Self System — Adversarial Review.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/wiki/Second Self System — Identity Kernel and Agent Routing Architecture.md",
+      "via": "frontmatter:source"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2021 - report 2.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - Martin Lepage - ocr_needed.pdf - 2021 - Martin Lepage - ocr_needed.pdf.pdf - 2021 - Martin Lepage - ocr_needed.pd__ed56686a392d.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2024 - legalorcontract 2.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2024 - legalorcontract 3.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2025 - policyorguidance 21.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2025 - report 21.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2027 - auditorassessment 2.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2027 - auditorassessment 21.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2027 - auditorassessment 3.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2027 - auditorassessment2.md",
+      "source": "/mnt/c/users/softinfo/documents/emerauld/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt",
+      "via": "attachment_fuzzy_year_title"
+    }
+  ],
+  "recovered": [],
+  "renamed": [],
+  "wikilink_updates": {
+    "files_updated": 0,
+    "rename_map": {}
+  },
+  "errors": [
+    {
+      "note": ".trash/2017 - 10522570 NAM LEPM84092617 [3].pdf.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": ".trash/2021 - Martin Lepage [2].pdf.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": ".trash/2025 - Revenu Quebec - ocr_needed [3].pdf.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "hephaistos/agents/gadget.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "hephaistos/agents/trismegiste.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw/Clippings/24 Profitable Digital Products to Sell in 2026 (Start Selling Today).md",
+      "stage": "extract_or_rewrite",
+      "error": "RuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 370, in <module>\nNameError: name 'read' is not defined\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 373, in <module>\nFileNotFoundError: [Errno 2] No such file or directory: 'pandoc'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 376, in <module>\nRuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'\n"
+    },
+    {
+      "note": "raw sources/2026-04-30_codex-work-alignment-infrafabric.md",
+      "stage": "extract_or_rewrite",
+      "error": "RuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 370, in <module>\nNameError: name 'read' is not defined\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 373, in <module>\nFileNotFoundError: [Errno 2] No such file or directory: 'pandoc'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 376, in <module>\nRuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'\n"
+    },
+    {
+      "note": "raw sources/2026-04-30_helix-shipping-instructions-runbook.md",
+      "stage": "extract_or_rewrite",
+      "error": "RuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 370, in <module>\nNameError: name 'read' is not defined\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 373, in <module>\nFileNotFoundError: [Errno 2] No such file or directory: 'pandoc'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 376, in <module>\nRuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'\n"
+    },
+    {
+      "note": "raw sources/2026-04-30_inderscience-ijaighr-submission-pipeline.md",
+      "stage": "extract_or_rewrite",
+      "error": "RuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 370, in <module>\nNameError: name 'read' is not defined\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 373, in <module>\nFileNotFoundError: [Errno 2] No such file or directory: 'pandoc'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 376, in <module>\nRuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'\n"
+    },
+    {
+      "note": "raw sources/2026-04-30_self-polygraph-inderscience-rewrite.md",
+      "stage": "extract_or_rewrite",
+      "error": "RuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 370, in <module>\nNameError: name 'read' is not defined\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 373, in <module>\nFileNotFoundError: [Errno 2] No such file or directory: 'pandoc'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 376, in <module>\nRuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'\n"
+    },
+    {
+      "note": "raw sources/2026-04-30_smallest-building-block-relation-as-rule.md",
+      "stage": "extract_or_rewrite",
+      "error": "RuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 370, in <module>\nNameError: name 'read' is not defined\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 373, in <module>\nFileNotFoundError: [Errno 2] No such file or directory: 'pandoc'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 376, in <module>\nRuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'\n"
+    },
+    {
+      "note": "raw sources/2026-05-06_epistemic-ai-purple-teaming-operator-draft.md",
+      "stage": "extract_or_rewrite",
+      "error": "RuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 370, in <module>\nNameError: name 'read' is not defined\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 373, in <module>\nFileNotFoundError: [Errno 2] No such file or directory: 'pandoc'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 376, in <module>\nRuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'\n"
+    },
+    {
+      "note": "raw sources/2026-05-09_emerauld-agents-perplexity-hermes-instructions.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/2026-05-10 — Springer Nature In Review notification — AI Society manuscript.md",
+      "stage": "extract_or_rewrite",
+      "error": "TypeError: 'int' object is not callable",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 379, in <module>\nTypeError: 'int' object is not callable\n"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/hardware-system-reference/Laptop A.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/02_THESEUS_ARCHIVE.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/05_AURYN_ARCHIVE.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/08_HOPF_ARCHIVE.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2016 - book_or_monograph_1.pdf - 2016 - book_or_monograph_1.pdf.pdf - 2016 - book_or_monograph_1.pdf.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - 10522570 NAM LEPM84092617 [2].md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - 10522570 NAM LEPM84092617.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Ces donnees sont extraites du DOSSIER SANTE QUEBEC (DSQ). Marti - 2017 - Ces donnees sont ext (2).md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Ces donnees sont extraites du DOSSIER SANTE QUEBEC (DSQ). Marti - 2017 - Ces donnees sont ext.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Martin Lepage - 05 25) - ocr_needed.pdf - 2017 - Martin Lepage - 05 25) - ocr_needed.pdf.pdf.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Martin Lepage - 10-19) - ocr_needed.pdf - 2017 - Martin Lepage - 10-19) - ocr_needed.pdf.pdf.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - tax_or_finance.pdf - 2021 - tax_or_finance.pdf.pdf - 2021 - tax_or_finance.pdf - 2021 - tax_o.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - ocr_needed.pdf - 2024 - ocr_needed.pdf.pdf - 2024 - ocr_needed.pdf - 2024 - ocr_needed.pdf.pd.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2024 - ocr_needed_1.pdf - 2024 - ocr_needed_1.pdf.pdf - 2024 - ocr_needed_1.pdf - 2024 - ocr_needed_.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - legal_or_contract_1.pdf - 2025 - legal_or_contract_1.pdf.pdf - 2025 - legal_or_contract_1.pdf.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - statement_or_bill_1.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2027 - statement_or_bill.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 1991 - bookchapter.docx - 1991 - bookchapter.docx.docx.md",
+      "stage": "extract_or_rewrite",
+      "error": "TypeError: 'int' object is not callable",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 379, in <module>\nTypeError: 'int' object is not callable\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2010 - bookchapter.docx - 2010 - bookchapter.docx.docx.md",
+      "stage": "extract_or_rewrite",
+      "error": "TypeError: 'int' object is not callable",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 379, in <module>\nTypeError: 'int' object is not callable\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2016 - bookchapter.docx - 2016 - bookchapter.docx.docx.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2018 - bookchapter.docx - 2018 - bookchapter.docx.docx.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2018 - journalarticle.docx - 2018 - journalarticle.docx.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/drsortoriginalfilename 2026 - bookchapter.docx - 2026 - bookchapter.docx.docx.md",
+      "stage": "extract_or_rewrite",
+      "error": "TypeError: 'int' object is not callable",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 379, in <module>\nTypeError: 'int' object is not callable\n"
+    },
+    {
+      "note": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Martin_Lepage_CV_EN2025.docx.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "wiki/Dr. Sort Filename Normalization — 2026-05-06.md",
+      "stage": "extract_or_rewrite",
+      "error": "RuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 370, in <module>\nNameError: name 'read' is not defined\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 373, in <module>\nFileNotFoundError: [Errno 2] No such file or directory: 'pandoc'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"<stdin>\", line 376, in <module>\nRuntimeError: unknown_format_no_extractor:[Errno 2] No such file or directory: 'pandoc'\n"
+    },
+    {
+      "note": "wiki/Epistemic AI Purple Teaming.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "wiki/Second Self System — Adversarial Review.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2021 - report 2.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2024 - legalorcontract 2.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2024 - legalorcontract 3.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2025 - policyorguidance 21.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2025 - report 21.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2027 - auditorassessment 2.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2027 - auditorassessment 21.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2027 - auditorassessment 3.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    },
+    {
+      "note": "wiki/bridges/Bridge - 2027 - auditorassessment2.md",
+      "stage": "extract_or_rewrite",
+      "error": "NameError: name 'read' is not defined",
+      "trace": "Traceback (most recent call last):\n  File \"<stdin>\", line 359, in <module>\nNameError: name 'read' is not defined\n"
+    }
+  ],
+  "dependencies_installed": [
+    "beautifulsoup4",
+    "ebooklib",
+    "pdfplumber"
+  ],
+  "corrupted_count": 119,
+  "corrupted_notes_identified": 119,
+  "source_files_located": 50,
+  "notes_successfully_recovered": 0,
+  "notes_flagged_no_source": 119,
+  "files_renamed": 0
+}

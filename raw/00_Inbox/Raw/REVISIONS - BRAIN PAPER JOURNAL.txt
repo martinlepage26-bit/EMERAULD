@@ -1,0 +1,114 @@
+REVISIONS - BRAIN PAPER JOURNAL
+• Workflow Stage
+
+  - Structured peer review
+  - Current artifact: Review Packet
+
+  Findings or Deliverable
+
+  - Overall verdict: Major revisions, bordering on reject
+  - Strongest contribution: The manuscript tackles a timely and clinically meaningful question, and it does include a
+    PRISMA-style flow diagram plus a per-study summary table that make the evidence trail partly visible.
+  - Major concerns: The central claim does not match the included studies, the diagnostic meta-analysis approach is not
+    adequately specified for this kind of evidence, and several figures/references are internally inconsistent.
+  - Minor concerns: The manuscript needs a serious copyedit, clearer reporting of methods and uncertainty, a risk-of-
+    bias table, and better alignment of figure numbering and citation style.
+  - Evidence or citation failures: Several references appear tangential to the topic, and there are clear year
+    mismatches between the tables and bibliography.
+  - Structural failures: No risk-of-bias assessment, no reproducible extraction/analysis detail, no clear distinction
+    between internal CV and external validation, and no convincing evidence that true neuroimaging + eye-tracking fusion
+    studies were actually synthesized.
+  - Revision priority order: 1) realign title/scope to the actual evidence base, 2) redo the diagnostic meta-analysis
+    with appropriate methods and bias assessment, 3) fix references and figure integrity, 4) copyedit for clarity and
+    consistency.
+
+  Review Report
+
+  Summary
+  This is an interesting and potentially useful topic, but the manuscript is not yet methodologically secure enough for
+  publication. The question is important, and the authors have made a genuine attempt to summarize a small literature,
+  but the current version overstates what the included studies actually support and does not meet the reporting standard
+  I would expect for a diagnostic accuracy meta-analysis.
+
+  No inflammatory or libelous material noted.
+
+  Major Comments
+
+  1. The scope of the paper and the evidence base do not match. The title and abstract promise a meta-analysis of
+     multimodal neuroimaging combined with eye-tracking /tmp/manuscript-to-review.md:1, /tmp/manuscript-to-review.md:17,
+     but Table 1 includes neuroimaging-only studies, eye-tracking-only studies, transcriptomics, and MRI+EEG+cognitive
+     studies /tmp/manuscript-to-review.md:103, /tmp/manuscript-to-review.md:108, /tmp/manuscript-to-review.md:111, /tmp/
+     manuscript-to-review.md:114, /tmp/manuscript-to-review.md:115. I do not see a clearly identified study in which
+     neuroimaging and eye-tracking were fused in a single classifier. As written, the pooled “multimodal” conclusion is
+     therefore not directly supported. The manuscript needs either a much narrower framing or a completely re-scoped
+     synthesis.
+  2. The statistical approach is not sufficiently rigorous or reproducible for a diagnostic accuracy review. The methods
+     state that DerSimonian-Laird pooling was used for accuracy, sensitivity, specificity, and AUC /tmp/manuscript-to-
+     review.md:75, but there is no risk-of-bias assessment, no protocol registration, no description of how threshold
+     effects were handled, no explanation of whether multiple models within a study were reduced to one estimate, and no
+     distinction between internal cross-validation and external validation. For diagnostic test accuracy data, a generic
+     random-effects pooling of raw accuracy is usually not enough. At minimum, the paper needs a transparent study-
+     quality assessment and a method that is appropriate for paired sensitivity/specificity data or HSROC-style
+     synthesis.
+  3. The figures and results presentation are internally inconsistent, and some plots look schematic rather than
+     empirically derived. The manuscript captions Figure 3 as the SROC plot /tmp/manuscript-to-review.md:171, /tmp/
+     manuscript-to-review.md:173, but the embedded graphic itself is titled “Figure 4” /tmp/manuscript_images/
+     image3.png. The same off-by-one numbering mismatch continues for the heterogeneity and funnel plots: the manuscript
+     captions at /tmp/manuscript-to-review.md:192 and /tmp/manuscript-to-review.md:204 do not match the titles inside /
+     tmp/manuscript_images/image4.png and /tmp/manuscript_images/image5.png. More importantly, the SROC graphic is
+     labeled “Illustrative,” and the heterogeneity “forest plot” is actually a bar chart of I² values rather than a
+     conventional forest plot. These visuals need to be rebuilt from the actual extracted study data or relabeled
+     honestly as schematic figures.
+  4. The references and citation mapping need a line-by-line audit. Several references appear tangential to the
+     manuscript’s topic, including a health-equity review /tmp/manuscript-to-review.md:275, an ADHD eye-tracking
+     review /tmp/manuscript-to-review.md:297, and a COVID-19 neuroimaging review /tmp/manuscript-to-review.md:299. There
+     are also clear year mismatches between Table 1 and the bibliography: Lei et al. is listed as 2019 in Table 1 /tmp/
+     manuscript-to-review.md:108 but appears as a 2020 paper in ref. 16 /tmp/manuscript-to-review.md:301; Liang et al.
+     is 2018 in Table 1 /tmp/manuscript-to-review.md:109 but 2019 in ref. 17 /tmp/manuscript-to-review.md:303; Ebdrup et
+     al. is 2018 in Table 1 /tmp/manuscript-to-review.md:115 but 2019 in ref. 23 /tmp/manuscript-to-review.md:315. The
+     discussion also contains at least one placeholder-style citation, “(LEG, 2019)” /tmp/manuscript-to-review.md:226.
+     That combination makes the literature base hard to trust.
+
+  Minor Comments
+
+  1. The manuscript needs a full copyedit. Several sections are grammatically rough or semantically hard to follow,
+     including the pooled neuroimaging results paragraph /tmp/manuscript-to-review.md:123 and the conclusion /tmp/
+     manuscript-to-review.md:240. This is not just a style issue; it impairs reproducibility and makes the analysis
+     difficult to audit.
+  2. Please add a formal study-quality / risk-of-bias assessment, ideally QUADAS-2 or an equivalent diagnostic-accuracy
+     tool. At present there is no such table or narrative assessment.
+  3. Please state whether the review protocol was registered, provide the final search date, and include full database-
+     specific search strings in a supplement or appendix. The current search description is too high-level to reproduce.
+  4. Please distinguish internal cross-validation from external validation. Treating them as equivalent will inflate the
+     apparent performance of classifier studies.
+  5. The study with “Not Reported” sample size in Table 1 /tmp/manuscript-to-review.md:110 needs an explicit
+     explanation. If it was included in pooling, how were the missing denominators handled?
+  6. Please indicate whether sex and gender information were extracted and whether any sex-disaggregated analyses were
+     possible. If not, this should be acknowledged as a limitation.
+  7. Define every error bar and interval in the figure legends, and explain exactly how each pooled estimate was
+     calculated from the study-level outputs.
+  8. Standardize terminology and formatting throughout: “eye tracking” versus “eye-tracking,” “multimodal” versus
+     “multi-modal,” and figure numbering versus embedded graphic titles.
+
+  Questions for Authors
+
+  1. Did any included study truly integrate neuroimaging and eye-tracking in a single model? If so, please identify it
+     explicitly and show where that analysis appears in the paper.
+  2. What effect size was actually pooled for the headline results: raw accuracy, sensitivity/specificity, DOR, or AUC?
+     Was inverse-variance weighting used?
+  3. How did you handle studies that reported multiple models or multiple validation schemes?
+  4. Were overlapping cohorts or repeated datasets checked for and excluded?
+  5. Can you provide the extraction sheet and analysis code, or at least a complete table of all inputs used for each
+     pooled estimate?
+
+  Unresolved Risks
+
+  - The submission folder contained only the manuscript DOCX, so I could not audit any supplementary extraction sheet,
+    code, or appendix materials that might change the assessment.
+  - If the authors have separate source files showing a true neuroimaging + eye-tracking fusion subset, that evidence
+    would materially affect the scope critique above.
+
+  Next Hand-off
+
+  - A Revision Packet after the authors either narrow the claim to the studies actually included or rerun the synthesis
+    with a clearly defined combined-modal dataset and a reproducible diagnostic meta-analysis method.

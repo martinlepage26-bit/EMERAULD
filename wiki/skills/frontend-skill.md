@@ -1,0 +1,28 @@
+---
+type: skill
+skill_id: "frontend-skill"
+domain: "Design and UX"
+status: active
+created: 2026-05-06
+codex_path: "/home/cerebrhoe/.codex/skills/frontend-skill/SKILL.md"
+source_of_truth: /home/cerebrhoe/.codex/skills
+---
+
+# frontend-skill
+
+Codex skill source: `/home/cerebrhoe/.codex/skills/frontend-skill/SKILL.md`.
+
+## Description
+
+Use when the task asks for a visually strong landing page, website, app, prototype, demo, or game UI. This skill enforces restrained composition, image-led hierarchy, cohesive content structure, and tasteful motion while avoiding generic cards, weak branding, and UI clutter.
+
+## Routing Status
+
+- Domain: Design and UX
+- Layer: full Codex skill corpus
+- Vault note status: generated bridge note
+
+## Related
+
+- [[Skill Corpus — Complete Live Index (260 Active Skills)]]
+- [[Skill Ecosystem — Professional Capability Registry]]

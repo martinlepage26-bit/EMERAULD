@@ -1,0 +1,102 @@
+{
+  "manifest_version": 1,
+  "created": "2026-04-20T20:30:00-04:00",
+  "operator": "Trismégiste (Claude)",
+  "scan_roots": ["Clippings/", "raw sources/"],
+  "exclusions": ["node_modules", ".git", "venv", "vault-product-scaffold/"],
+  "additional_scope_checked": [
+    {"path": "~/.claude/skills/ingest/", "result": "skill-definition-only-no-staging"},
+    {"path": "~/.codex/skills/ingest/", "result": "skill-definition-only-no-staging"},
+    {"path": "~/.codex/skills/gsd-inbox/", "result": "skill-definition-only-no-staging"}
+  ],
+  "classification_signal": "raw-source frontmatter (status, synthesized_to)",
+  "totals": {
+    "scanned": 14,
+    "already_synthesized_skip": 8,
+    "to_ingest": 6
+  },
+  "skip_already_synthesized": [
+    "raw sources/2026-04-18_ai-ethics-contestable-governance-artifacts-paragraph.md",
+    "raw sources/2026-04-18_ai-self-report-recursion-perturbation-epistemic-status.md",
+    "raw sources/2026-04-18_anthropic-openclaw-platform-dependence-and-narrative-capture.md",
+    "raw sources/2026-04-18_conceptual-vocabulary-praxis-politics-strategy-form-systems.md",
+    "raw sources/2026-04-18_ethics-poetics-praxis-ai-governance-manifesto.md",
+    "raw sources/2026-04-18_martin-lepage-uqam-annotated-bibliography-report.md",
+    "raw sources/2026-04-18_poietics-poiesis-poetics-praxis-distinction.md",
+    "raw sources/2026-04-18_slayer-franchise-power-methodology.md"
+  ],
+  "to_ingest": [
+    {
+      "id": 1,
+      "source": "Clippings/Complete solutions, not compromises.md",
+      "size": 5333,
+      "sha256_12": "5b54b173c27f",
+      "kind": "web-clipping",
+      "status": "unprocessed",
+      "proposed_wiki": null,
+      "notes": "Needs content read before naming."
+    },
+    {
+      "id": 2,
+      "source": "Clippings/Reddit Data API Wiki.md",
+      "size": 4970,
+      "sha256_12": "26a2291acf96",
+      "kind": "web-clipping",
+      "status": "unprocessed",
+      "proposed_wiki": null,
+      "notes": "Reddit API reference clipping."
+    },
+    {
+      "id": 3,
+      "source": "raw sources/ENTREPRISE PHAROS.txt",
+      "size": 714,
+      "sha256_12": "08e3ff23ff23",
+      "kind": "plaintext",
+      "status": "unprocessed",
+      "proposed_wiki": null,
+      "notes": "Small. Likely a short capture — read before deciding on wiki note vs. merge into existing PHAROS note."
+    },
+    {
+      "id": 4,
+      "source": "raw sources/Phenom-Herme-Heuri.pdf",
+      "size": 88663,
+      "sha256_12": "13ebe3711968",
+      "kind": "pdf",
+      "status": "unprocessed",
+      "proposed_wiki": null,
+      "notes": "PDF ingestion requires page read. Topic appears to be phenomenology/hermeneutics/heuristics."
+    },
+    {
+      "id": 5,
+      "source": "raw sources/self-improving-agent-governed-revision-post.md",
+      "size": 3214,
+      "sha256_12": "d42a912ade01",
+      "kind": "markdown",
+      "status": "unsynthesized (frontmatter says so)",
+      "proposed_wiki": null,
+      "notes": "Explicitly flagged unsynthesized by its own frontmatter — priority target."
+    },
+    {
+      "id": 6,
+      "source": "raw sources/vault-product-scoping-conversation-2026-04.md",
+      "size": 2417,
+      "sha256_12": "fc85bd1c7481",
+      "kind": "markdown",
+      "status": "partially-actioned (frontmatter says so)",
+      "proposed_wiki": null,
+      "notes": "May update an existing note rather than create new. Needs content read to decide."
+    }
+  ],
+  "findings": [
+    {
+      "severity": "low",
+      "area": "skill-corpus-parity",
+      "finding": "~/.claude/skills/ingest/SKILL.md is missing YAML frontmatter that ~/.codex/skills/ingest/SKILL.md has. Same class as Codex's 20:20 EDT tdd-feature-loop fix. Worth a corpus-wide Claude-side frontmatter audit."
+    },
+    {
+      "severity": "info",
+      "area": "ingest-target-scope",
+      "finding": "User-requested scope 'also ~/.claude/ and ~/.codex/ ingest targets' is a no-op for vault ingestion — those directories hold skill definitions, not staging queues. No files to process."
+    }
+  ]
+}

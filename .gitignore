@@ -1,0 +1,78 @@
+# LightRAG binary knowledge graph storage — rebuild locally with ingest.py
+.lightrag/
+
+# Obsidian workspace / runtime state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/styles/
+.obsidian/plugins/*/*.js.map
+.obsidian/backlink.json
+.obsidian/page-preview.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/daily-notes.json
+.obsidian/templates.json
+.obsidian/types.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+
+# Sentence-transformers vector store — regenerable via scripts/embed.py
+.vector_store/
+
+# Loki skill runtime
+.loki/
+
+# Obsidian scratch files
+Untitled.*
+Untitled [0-9]*.*
+Untitled Kanban.md
+
+# Smart Connections cache
+.smart-env/
+
+# Progress tracking cache
+.progress/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Source-capture uploads — bulky, regenerable
+files (*).zip
+
+# Binary office docs — prefer .md for vault
+*.docx
+
+# Large binary media — not suitable for git
+*.mp4
+*.mp3
+*.zip
+
+# Pytest cache under bundles
+.pytest_cache/
+pytest-cache-files-*/
+
+# Session-local tool config
+.codex
+.codex/
+.claude/
+.audit
+.audit/
+
+# Loki operator state — contains live credentials in state/keys.json
+.loki/
+
+# Cloudflare agent projects (keep repo clean)
+cloudflare/**/node_modules/
+cloudflare/**/.wrangler/
+cloudflare/**/dist/

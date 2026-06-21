@@ -1,0 +1,28 @@
+---
+type: skill
+skill_id: "pharos-receipts-brief"
+domain: "AI LLM and Tools"
+status: active
+created: 2026-05-06
+codex_path: "/home/cerebrhoe/.codex/skills/pharos-receipts-brief/SKILL.md"
+source_of_truth: /home/cerebrhoe/.codex/skills
+---
+
+# pharos-receipts-brief
+
+Codex skill source: `/home/cerebrhoe/.codex/skills/pharos-receipts-brief/SKILL.md`.
+
+## Description
+
+Build a structured Pharos governance brief that adjudicates a flagged AI governance signal. Separates direct evidence, supported inference, and open speculation; maps affected actors, timeline, and control domain consequences; and produces role-specific action items for board, risk, procurement, internal audit, legal, and operations. Use when a pharos-sig...
+
+## Routing Status
+
+- Domain: AI LLM and Tools
+- Layer: full Codex skill corpus
+- Vault note status: generated bridge note
+
+## Related
+
+- [[Skill Corpus — Complete Live Index (260 Active Skills)]]
+- [[Skill Ecosystem — Professional Capability Registry]]

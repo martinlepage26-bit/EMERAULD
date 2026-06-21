@@ -1,0 +1,101 @@
+---
+type: raw
+source_kind: pdf_ocr
+source_path: /mnt/d/LIBRARY/Review/Unreadable/2003 - ocr_needed.pdf - 2003 - ocr_needed.pdf.pdf - 2003 - ocr_needed.pdf - 2003 - ocr_needed.pdf.pdf.pdf
+source_rel: Review/Unreadable/2003 - ocr_needed.pdf - 2003 - ocr_needed.pdf.pdf - 2003 - ocr_needed.pdf - 2003 - ocr_needed.pdf.pdf.pdf
+ocr_engine: tesseract.js
+ocr_lang: eng+fra
+pages_total: 17
+pages_ocrd: [1, 17]
+partial: true
+ocr_text: text/Review/Unreadable/2003 - ocr_needed.pdf - 2003 - ocr_needed.pdf.pdf - 2003 - ocr_needed.pdf - 2003 - ocr_needed.pdf.pdf.pdf.ocr.txt
+pdfinfo:
+  CreationDate: "Thu Feb 12 13:55:14 2026 EST"
+  Custom Metadata: "no"
+  Encrypted: "no"
+  File size: "3460093 bytes"
+  Form: "none"
+  JavaScript: "no"
+  Metadata Stream: "no"
+  ModDate: "Thu Feb 12 13:55:14 2026 EST"
+  Optimized: "no"
+  PDF version: "1.7"
+  Page rot: "0"
+  Page size: "595.32 x 841.92 pts (A4)"
+  Pages: "17"
+  Producer: "Microsoft: Print To PDF"
+  Suspects: "no"
+  Tagged: "no"
+  Title: "A_Sociology_of_Expectations_Retrospectin.pdf"
+  UserProperties: "no"
+dr_sort_original_filename: "2003 - ocr_needed.pdf - 2003 - ocr_needed.pdf.pdf - 2003 - ocr_needed.pdf - 2003 - ocr_needed.pdf.pdf.pdf.md"
+dr_sort_original_path: "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2003 - ocr_needed.pdf - 2003 - ocr_needed.pdf.pdf - 2003 - ocr_needed.pdf - 2003 - ocr_needed.pdf.pdf.pdf.md"
+dr_sort_filename_normalized: "2026-05-06"
+---
+
+# A_Sociology_of_Expectations_Retrospectin.pdf
+
+## OCR Notes
+
+- This is an OCR extraction pass over `Review/Unreadable/` when `pdftotext` was empty/failed.
+- Page strategy: full OCR for short PDFs; first + last pages for long PDFs.
+
+## Extracted Text
+
+===== IMAGE: /tmp/unreadable_ocr_gvvgbdtb/p00001.png =====
+
+Prepublication Copy of
+Brown, N. and Michael, M. (2003). A Sociology of Expectations: Retrospecting Prospects
+and Prospecting Retrospects. Technology Analysis and Strategic Management, 15(1), 3-18
+A Sociology of Expectations: Retrospecting Prospects and Prospecting
+Retrospects
+Nik Brown
+Science & Technology Studies Unit, University of York, Heslington, York, YO10 5DD.
+Mike Michael
+Dept. of Sociology, Goldsmiths College, University of London.
+Abstract
+Future expectations and promise are crucial to providing the dynamism and momentum upon which so
+many ventures in science and technology depend. This is especially the case for pre-market
+applications where practical utility and value has yet to be demonstrated and where investment must
+sustained. For instance, clinical biotechnology (including a wide range of genetic therapeutic and
+engineering applications) has been at the centre of ferocious debates about whether or not promises
+and expectations will be realised. In some cases, the failure of expectations has severely damaged
+the reputation and credibility of professions, institutions and industry. The need for a better analytical
+understanding of the dynamics of expectations in innovation is both necessary and timely.
+This paper develops the basis for a sociology of expectations, drawing on recent writing within
+Science and Technology Studies (STS) and case studies of biotechnology innovation. In particular,
+we offer a model for understanding how expectations will predictably vary according to some key
+parameters. Such factors include the degree to which technologies and innovation relationships are
+either relatively established or newly emergent. Expectations will also vary according actors relative
+closeness and involvement in knowledge production itself. The paper proceeds by analysing the way
+expectations in clinical biotechnology have changed over time. That is, we compare the way the
+future was once represented with the way it has been represented more recently. The paper
+concludes by offering a means by which it is possible to map or model the situatedness of
+expectations.
+
+1
+
+===== IMAGE: /tmp/unreadable_ocr_gvvgbdtb/p00017.png =====
+
+% H. M. Collins, op. cit., Ref. 19 and H. M. Collins, “Tantalus and the Aliens: Publications, Audiences
+and the Search for Gravitational Waves', Social Studies of Science, 29, 2, 1999, pp.163-197.
+? M. Michael & L. Birke, ‘Animal Experimentation: Enrolling the Core Set’, Social Studies of
+Science, 24,1, 1994, pp. 81-95.
+#7 N. Gilbert and Mulkay, M. Opening Pandora's Box: A sociological analysis of scientist's
+discourse (Cambridge, Cambridge University Press, 1984); see also, H. Rothman, P. Glasner and C
+Adams. Plants, Proteins and Currents: Rediscovering Science in Britain, in Misunderstanding
+Science?: the public reconstruction of science and technology edited by A Irwin and B Wynne,
+Cambridge University Press, 1996 191-212)
+2B. Latour, Science in action: How to follow scientists and engineers through society,
+(Cambridge, MA, Harvard University Press, 1987).
+° J. Law, Organising Modernity, (Oxford, Blackwell Publishers, 1994),
+
+17
+
+## Related
+
+- [[Regulating human control over autonomous systems]]
+- [[content]]
+- [[2003 - Prepublication Copy of]]
+- [[Research and Papers MOC]]
+- [[Loop Papers and Recursive Governance]]

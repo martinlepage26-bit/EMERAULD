@@ -1,0 +1,4 @@
+interface:
+  display_name: "Metadata and Link Warden"
+  short_description: "Keep frontmatter, source flags, product states, and backlinks coherent."
+  default_prompt: "Use $metadata-link-warden to normalize this note's metadata, source flags, product-state markers, and evidence-backed links."

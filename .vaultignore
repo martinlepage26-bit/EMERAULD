@@ -1,0 +1,7 @@
+.git/
+node_modules/
+**/node_modules/
+artifacts/
+governance/
+hephaistos/
+cloudflare/h3rme3-agent/

@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>LLM Session Log — Prompt / Output</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #0e0e10;
+    color: #e6e6e6;
+  }
+  header {
+    padding: 12px 20px;
+    background: #16161a;
+    border-bottom: 1px solid #2a2a30;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  header h1 { font-size: 14px; margin: 0; font-weight: 500; letter-spacing: 0.5px; }
+  header button {
+    background: #2a2a30; color: #e6e6e6; border: none;
+    padding: 6px 12px; border-radius: 4px; cursor: pointer; font-size: 12px;
+  }
+  header button:hover { background: #3a3a42; }
+  .grid-header {
+    display: grid;
+    grid-template-columns: 50px 1fr 1fr;
+    background: #1a1a1f;
+    border-bottom: 1px solid #2a2a30;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #888;
+  }
+  .grid-header div { padding: 10px 14px; border-right: 1px solid #2a2a30; }
+  .grid-header div:last-child { border-right: none; }
+  #log { display: flex; flex-direction: column; }
+  .row {
+    display: grid;
+    grid-template-columns: 50px 1fr 1fr;
+    border-bottom: 1px solid #2a2a30;
+    min-height: 80px;
+  }
+  .row .num {
+    padding: 12px;
+    text-align: center;
+    color: #666;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 13px;
+    border-right: 1px solid #2a2a30;
+    background: #131316;
+  }
+  .row .cell {
+    padding: 0;
+    border-right: 1px solid #2a2a30;
+  }
+  .row .cell:last-child { border-right: none; }
+  .row textarea {
+    width: 100%;
+    height: 100%;
+    min-height: 80px;
+    background: transparent;
+    color: #e6e6e6;
+    border: none;
+    outline: none;
+    resize: vertical;
+    padding: 12px 14px;
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .row textarea.prompt { background: #131316; }
+  .row textarea.output { background: #0e0e10; }
+  .row textarea:focus { background: #1c1c22; }
+  footer {
+    position: sticky;
+    bottom: 0;
+    background: #16161a;
+    border-top: 1px solid #2a2a30;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    color: #888;
+  }
+  footer kbd {
+    background: #2a2a30; padding: 2px 6px; border-radius: 3px;
+    font-family: "JetBrains Mono", monospace; font-size: 11px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>LLM Session Log — Prompt / Output</h1>
+  <div>
+    <button onclick="addRow()">+ Add Row</button>
+    <button onclick="exportLog()">Export</button>
+    <button onclick="clearLog()">Clear</button>
+  </div>
+</header>
+
+<div class="grid-header">
+  <div>#</div>
+  <div>Prompt</div>
+  <div>Output</div>
+</div>
+
+<div id="log"></div>
+
+<footer>
+  <kbd>Tab</kbd> from the last cell auto-adds a new row · Saved locally in your browser
+</footer>
+
+<script>
+  const log = document.getElementById('log');
+  const STORAGE_KEY = 'prompt-output-log';
+
+  function loadLog() {
+    const saved = localStorage.getItem(STORAGE_KEY);
+    if (saved) {
+      try {
+        const data = JSON.parse(saved);
+        data.forEach(entry => addRow(entry.prompt, entry.output));
+      } catch (e) { addRow(); }
+    } else {
+      addRow();
+    }
+  }
+
+  function saveLog() {
+    const rows = document.querySelectorAll('.row');
+    const data = Array.from(rows).map(r => ({
+      prompt: r.querySelector('.prompt').value,
+      output: r.querySelector('.output').value
+    }));
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+  }
+
+  function addRow(prompt = '', output = '') {
+    const num = log.children.length + 1;
+    const row = document.createElement('div');
+    row.className = 'row';
+    row.innerHTML = `
+      <div class="num">${num}</div>
+      <div class="cell"><textarea class="prompt" placeholder="Enter prompt..."></textarea></div>
+      <div class="cell"><textarea class="output" placeholder="Paste output..."></textarea></div>
+    `;
+    log.appendChild(row);
+    const promptEl = row.querySelector('.prompt');
+    const outputEl = row.querySelector('.output');
+    promptEl.value = prompt;
+    outputEl.value = output;
+
+    [promptEl, outputEl].forEach(el => {
+      el.addEventListener('input', saveLog);
+      el.addEventListener('keydown', e => {
+        if (e.key === 'Tab' && !e.shiftKey && el === outputEl) {
+          const isLast = row === log.lastElementChild;
+          if (isLast) {
+            e.preventDefault();
+            addRow();
+            log.lastElementChild.querySelector('.prompt').focus();
+          }
+        }
+      });
+    });
+  }
+
+  function clearLog() {
+    if (confirm('Clear all rows?')) {
+      localStorage.removeItem(STORAGE_KEY);
+      log.innerHTML = '';
+      addRow();
+    }
+  }
+
+  function exportLog() {
+    const rows = document.querySelectorAll('.row');
+    let md = '# LLM Session Log\n\n';
+    rows.forEach((r, i) => {
+      const p = r.querySelector('.prompt').value.trim();
+      const o = r.querySelector('.output').value.trim();
+      if (p || o) {
+        md += `## ${i + 1}\n\n**Prompt:**\n\n${p}\n\n**Output:**\n\n${o}\n\n---\n\n`;
+      }
+    });
+    const blob = new Blob([md], { type: 'text/markdown' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = `llm-session-log-${new Date().toISOString().slice(0,10)}.md`;
+    a.click();
+  }
+
+  loadLog();
+</script>
+
+</body>
+</html>

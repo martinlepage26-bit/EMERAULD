@@ -1,0 +1,529 @@
+{
+  "timestamp": "2026-05-14T03:18:43.198429+00:00",
+  "anomalies_resolved": [
+    "Responses API duplicate bridge normalized",
+    "Malformed bridge filename sanitized",
+    "Duplicate insertion audit corrected 0 files",
+    "System bridge removed: Bridge — README.md",
+    "System bridge removed: Bridge — HISTORY.md"
+  ],
+  "merges_executed": 0,
+  "merges_deferred": 193,
+  "under_linked_remediated_this_pass": 30,
+  "remaining_under_linked": 920,
+  "remaining_orphans": 130,
+  "new_bridge_notes_created": [],
+  "hub_coverage_report": [
+    {
+      "moc": "wiki/Legitimacy Machines MOC.md",
+      "linked_through": 13,
+      "domain_total": 29
+    },
+    {
+      "moc": "wiki/Manuscript Pipeline MOC.md",
+      "linked_through": 9,
+      "domain_total": 23
+    },
+    {
+      "moc": "wiki/Control Protocols MOC.md",
+      "linked_through": 8,
+      "domain_total": 24
+    },
+    {
+      "moc": "wiki/Pagan and Queer Ritual Studies MOC.md",
+      "linked_through": 20,
+      "domain_total": 64
+    },
+    {
+      "moc": "wiki/Research and Papers MOC.md",
+      "linked_through": 17,
+      "domain_total": 38
+    },
+    {
+      "moc": "wiki/Governance and PHAROS MOC.md",
+      "linked_through": 107,
+      "domain_total": 160
+    },
+    {
+      "moc": "wiki/Writing and Novels MOC.md",
+      "linked_through": 5,
+      "domain_total": 18
+    }
+  ],
+  "isolated_clusters": [
+    [
+      "30_Resources/Lazy Obsidian Method/Daily ingest job.md",
+      "30_Resources/Lazy Obsidian Method/Index.md",
+      "30_Resources/Lazy Obsidian Method/Lazy Obsidian Method - Implementation Checklist.md",
+      "30_Resources/Lazy Obsidian Method/Nightly review job.md",
+      "30_Resources/Lazy Obsidian Method/Weekly vault review job.md"
+    ],
+    [
+      "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/_example_raw_note.md",
+      "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/_example_wiki_note.md",
+      "raw sources/vault-product-scaffold/example_wiki_note.md"
+    ]
+  ],
+  "files_modified": [
+    ".github/agents/argus.agent.md",
+    ".github/agents/hephaistos.agent.md",
+    ".github/agents/hermes.agent.md",
+    ".github/agents/queen-keyport.agent.md",
+    ".trash/2021 - Martin Lepage [2].pdf.md",
+    ".trash/2026-05-05_botpress-enterprise.md",
+    "10_Projects/Glitching the Sacred — Fisher King Project State.md",
+    "40_Archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN.md",
+    "50_Hubs/Research Hub.md",
+    "AI Agent Operations and Governance Manager.md",
+    "ARCHITECTURE-STATUS-MARKING-CHECKLIST.md",
+    "Agent Architecture Patterns and Decision Framework.md",
+    "Agents.md",
+    "HELIX test CC.md",
+    "HELIX test Epstein.md",
+    "PERPLEXITY-COMPUTER.md",
+    "PHAROS AI governance service business.md",
+    "PHAROS SURFACE.md",
+    "Responses API Fundamentals____.md",
+    "Responses API Fundamentals_____.md",
+    "VAULT ADDITIONS TRACKER.md",
+    "VAULT-LINKING-AUDIT-2026-05-01.md",
+    "VAULT-PRODUCTION-MANIFEST.md",
+    "Welcome.md",
+    "governance/global/HEPHAISTOS-STATUS.md",
+    "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md",
+    "governance/hephaistos/HEPHAISTOS_OPERATIONS.md",
+    "governance/hephaistos/HERMES_OPERATIONS.md",
+    "governance/hephaistos/L99-DEMOTION-TO-ARGUS.md",
+    "governance/hephaistos/continuous-ethical-monitoring.md",
+    "governance/hephaistos/ethics-escalation-criteria.md",
+    "governance/hephaistos/hephaistos-to-queen-keyport.md",
+    "governance/hephaistos/hephaistos-to-specialist-guideline-pull.md",
+    "governance/hephaistos/hermes-escalation-to-queen-keyport.md",
+    "governance/hephaistos/queen-keyport-to-hermes.md",
+    "hephaistos/agents/argus.md",
+    "hephaistos/agents/hephaistos.md",
+    "maps/PHAROS Method Map.md",
+    "maps/Queer Media and Ritual Map.md",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_how-td-helps-advance-ai-innovation.md",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_lumentai-ai-consulting-autonomous-agents-montreal.md",
+    "memory/local-session/project_hephaistos.md",
+    "memory/local-session/user_ethical_ground.md",
+    "merge-candidates.md",
+    "raw sources/2026-05-09_emerauld-agents-perplexity-hermes-instructions.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/)]}',.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Chapter Title From Fan Activism to Graphic Narrative Culture an - 2018 - Chapter Title From F.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - 19.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - Spiritual Activism in Swit.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Dreamscapes of Modernity Sociotechnical Imaginaries and the Fabrication of Power.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2).md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Power in International Politics.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The Age of Surveillance Capitalism The Fight for a Human Future at the New Frontier of Power.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The Circle Remains Open Toward a Queer Sociology of the Sacred (2).md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal.md",
+    "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch.md",
+    "raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Turing AI Ethics and Governance.md",
+    "raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy.md",
+    "raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/Argus Audit Tracker — Snapshot 2026-04-28.md",
+    "raw sources/Myths have long intertwined with power, serving as narratives that structure soc.md",
+    "raw sources/Welcome to this course on ethical and societal asp.md",
+    "wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md",
+    "wiki/Global Publication Search — PHAROS Method and Variants.md",
+    "wiki/Governance and PHAROS MOC.md",
+    "wiki/Legitimacy Machines MOC.md",
+    "wiki/Pagan and Queer Ritual Studies MOC.md",
+    "wiki/Recursive Governance Memo — EMERAULD Control Packet (2026-05-12).md",
+    "wiki/Research and Papers MOC.md",
+    "wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18).md",
+    "wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md",
+    "wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06).md",
+    "wiki/bridges/Bridge — HISTORY.md"
+  ],
+  "files_modified_count": 74,
+  "task1_duplicate_files_corrected": 0,
+  "under_linked_remediation_log": [
+    {
+      "target": "wiki/Recursive Governance Memo — EMERAULD Control Packet (2026-05-12).md",
+      "sources_modified": [
+        "wiki/Governance and PHAROS MOC.md",
+        "AI Agent Operations and Governance Manager.md"
+      ],
+      "link_text": [
+        "- [[Recursive Governance Memo — EMERAULD Control Packet (2026-05-12)]]",
+        "- [[Recursive Governance Memo — EMERAULD Control Packet (2026-05-12)]]"
+      ]
+    },
+    {
+      "target": "wiki/Global Publication Search — PHAROS Method and Variants.md",
+      "sources_modified": [
+        "wiki/Governance and PHAROS MOC.md",
+        "PHAROS AI governance service business.md",
+        "PHAROS SURFACE.md"
+      ],
+      "link_text": [
+        "- [[Global Publication Search — PHAROS Method and Variants]]",
+        "- [[Global Publication Search — PHAROS Method and Variants]]",
+        "See also [[Global Publication Search — PHAROS Method and Variants]]."
+      ]
+    },
+    {
+      "target": "maps/PHAROS Method Map.md",
+      "sources_modified": [
+        "wiki/Governance and PHAROS MOC.md",
+        "PHAROS AI governance service business.md",
+        "PHAROS SURFACE.md"
+      ],
+      "link_text": [
+        "- [[PHAROS Method Map]]",
+        "- [[PHAROS Method Map]]",
+        "See also [[PHAROS Method Map]]."
+      ]
+    },
+    {
+      "target": "governance/hephaistos/HEPHAISTOS_OPERATIONS.md",
+      "sources_modified": [
+        "AI Agent Operations and Governance Manager.md",
+        ".github/agents/hephaistos.agent.md",
+        "governance/global/HEPHAISTOS-STATUS.md"
+      ],
+      "link_text": [
+        "- [[HEPHAISTOS_OPERATIONS]]",
+        "- [[HEPHAISTOS_OPERATIONS]]",
+        "- [[HEPHAISTOS_OPERATIONS]]"
+      ]
+    },
+    {
+      "target": "governance/hephaistos/L99-DEMOTION-TO-ARGUS.md",
+      "sources_modified": [
+        ".github/agents/argus.agent.md",
+        "hephaistos/agents/argus.md",
+        "raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/Argus Audit Tracker — Snapshot 2026-04-28.md"
+      ],
+      "link_text": [
+        "- [[L99-DEMOTION-TO-ARGUS]]",
+        "- [[L99-DEMOTION-TO-ARGUS]]",
+        "- [[L99-DEMOTION-TO-ARGUS]]"
+      ]
+    },
+    {
+      "target": "governance/hephaistos/HERMES_OPERATIONS.md",
+      "sources_modified": [
+        "AI Agent Operations and Governance Manager.md",
+        ".github/agents/hermes.agent.md",
+        "governance/hephaistos/HEPHAISTOS_OPERATIONS.md"
+      ],
+      "link_text": [
+        "- [[HERMES_OPERATIONS]]",
+        "- [[HERMES_OPERATIONS]]",
+        "- [[HERMES_OPERATIONS]]"
+      ]
+    },
+    {
+      "target": "raw sources/2026-05-09_emerauld-agents-perplexity-hermes-instructions.md",
+      "sources_modified": [
+        "Agents.md",
+        "PERPLEXITY-COMPUTER.md",
+        "VAULT-LINKING-AUDIT-2026-05-01.md"
+      ],
+      "link_text": [
+        "- [[2026-05-09_emerauld-agents-perplexity-hermes-instructions]]",
+        "See also [[2026-05-09_emerauld-agents-perplexity-hermes-instructions]].",
+        "See also [[2026-05-09_emerauld-agents-perplexity-hermes-instructions]]."
+      ]
+    },
+    {
+      "target": "hephaistos/agents/hephaistos.md",
+      "sources_modified": [
+        ".github/agents/hephaistos.agent.md",
+        "governance/global/HEPHAISTOS-STATUS.md",
+        "governance/hephaistos/hephaistos-to-queen-keyport.md"
+      ],
+      "link_text": [
+        "- [[hephaistos]]",
+        "- [[hephaistos]]",
+        "- [[hephaistos]]"
+      ]
+    },
+    {
+      "target": "governance/global/HEPHAISTOS-STATUS.md",
+      "sources_modified": [
+        "ARCHITECTURE-STATUS-MARKING-CHECKLIST.md",
+        ".github/agents/hephaistos.agent.md",
+        "governance/hephaistos/hephaistos-to-queen-keyport.md"
+      ],
+      "link_text": [
+        "See also [[HEPHAISTOS-STATUS]].",
+        "- [[HEPHAISTOS-STATUS]]",
+        "- [[HEPHAISTOS-STATUS]]"
+      ]
+    },
+    {
+      "target": "wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18).md",
+      "sources_modified": [
+        "Agent Architecture Patterns and Decision Framework.md",
+        "VAULT-LINKING-AUDIT-2026-05-01.md",
+        ".github/agents/hephaistos.agent.md"
+      ],
+      "link_text": [
+        "- [[Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]",
+        "See also [[Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]].",
+        "- [[Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]"
+      ]
+    },
+    {
+      "target": "hephaistos/agents/argus.md",
+      "sources_modified": [
+        "raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/Argus Audit Tracker — Snapshot 2026-04-28.md"
+      ],
+      "link_text": [
+        "- [[argus]]"
+      ]
+    },
+    {
+      "target": "governance/hephaistos/hermes-escalation-to-queen-keyport.md",
+      "sources_modified": [
+        ".github/agents/hermes.agent.md",
+        ".github/agents/queen-keyport.agent.md",
+        "governance/hephaistos/ethics-escalation-criteria.md"
+      ],
+      "link_text": [
+        "- [[hermes-escalation-to-queen-keyport]]",
+        "- [[hermes-escalation-to-queen-keyport]]",
+        "- [[hermes-escalation-to-queen-keyport]]"
+      ]
+    },
+    {
+      "target": "governance/hephaistos/hephaistos-to-specialist-guideline-pull.md",
+      "sources_modified": [
+        ".github/agents/hephaistos.agent.md",
+        "governance/global/HEPHAISTOS-STATUS.md",
+        "governance/hephaistos/hephaistos-to-queen-keyport.md"
+      ],
+      "link_text": [
+        "- [[hephaistos-to-specialist-guideline-pull]]",
+        "- [[hephaistos-to-specialist-guideline-pull]]",
+        "- [[hephaistos-to-specialist-guideline-pull]]"
+      ]
+    },
+    {
+      "target": "governance/hephaistos/queen-keyport-to-hermes.md",
+      "sources_modified": [
+        ".github/agents/hermes.agent.md",
+        ".github/agents/queen-keyport.agent.md",
+        "governance/hephaistos/hephaistos-to-queen-keyport.md"
+      ],
+      "link_text": [
+        "- [[queen-keyport-to-hermes]]",
+        "- [[queen-keyport-to-hermes]]",
+        "- [[queen-keyport-to-hermes]]"
+      ]
+    },
+    {
+      "target": "wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06).md",
+      "sources_modified": [
+        "VAULT ADDITIONS TRACKER.md",
+        "VAULT-LINKING-AUDIT-2026-05-01.md",
+        "VAULT-PRODUCTION-MANIFEST.md"
+      ],
+      "link_text": [
+        "See also [[Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]].",
+        "See also [[Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]].",
+        "See also [[Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]."
+      ]
+    },
+    {
+      "target": "governance/hephaistos/hephaistos-to-queen-keyport.md",
+      "sources_modified": [
+        ".github/agents/hephaistos.agent.md",
+        ".github/agents/queen-keyport.agent.md"
+      ],
+      "link_text": [
+        "- [[hephaistos-to-queen-keyport]]",
+        "- [[hephaistos-to-queen-keyport]]"
+      ]
+    },
+    {
+      "target": "wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md",
+      "sources_modified": [
+        "VAULT-LINKING-AUDIT-2026-05-01.md",
+        ".github/agents/argus.agent.md",
+        ".trash/2026-05-05_botpress-enterprise.md"
+      ],
+      "link_text": [
+        "See also [[Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]].",
+        "- [[Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]",
+        "See also [[Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]."
+      ]
+    },
+    {
+      "target": "wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md",
+      "sources_modified": [
+        "HELIX test CC.md",
+        "HELIX test Epstein.md",
+        ".github/agents/argus.agent.md"
+      ],
+      "link_text": [
+        "- [[5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]",
+        "- [[5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]",
+        "- [[5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]"
+      ]
+    },
+    {
+      "target": "memory/local-session/project_hephaistos.md",
+      "sources_modified": [
+        ".github/agents/hephaistos.agent.md",
+        "governance/global/HEPHAISTOS-STATUS.md",
+        "governance/hephaistos/hephaistos-to-queen-keyport.md"
+      ],
+      "link_text": [
+        "- [[project_hephaistos]]",
+        "- [[project_hephaistos]]",
+        "- [[project_hephaistos]]"
+      ]
+    },
+    {
+      "target": "raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Turing AI Ethics and Governance.md",
+      "sources_modified": [
+        "wiki/Governance and PHAROS MOC.md",
+        "AI Agent Operations and Governance Manager.md",
+        "PHAROS AI governance service business.md"
+      ],
+      "link_text": [
+        "- [[Turing AI Ethics and Governance]]",
+        "- [[Turing AI Ethics and Governance]]",
+        "- [[Turing AI Ethics and Governance]]"
+      ]
+    },
+    {
+      "target": "raw sources/Welcome to this course on ethical and societal asp.md",
+      "sources_modified": [
+        "Welcome.md",
+        "governance/hephaistos/continuous-ethical-monitoring.md",
+        "memory/local-session/user_ethical_ground.md"
+      ],
+      "link_text": [
+        "- [[Welcome to this course on ethical and societal asp]]",
+        "- [[Welcome to this course on ethical and societal asp]]",
+        "- [[Welcome to this course on ethical and societal asp]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research.md",
+      "sources_modified": [
+        "wiki/Pagan and Queer Ritual Studies MOC.md",
+        "wiki/Research and Papers MOC.md",
+        "50_Hubs/Research Hub.md"
+      ],
+      "link_text": [
+        "- [[Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research]]",
+        "- [[Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research]]",
+        "See also [[Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research]]."
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - Spiritual Activism in Swit.md",
+      "sources_modified": [
+        ".trash/2021 - Martin Lepage [2].pdf.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - Chapter Title From Fan Activism to Graphic Narrative Culture an - 2018 - Chapter Title From F.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - 19.md"
+      ],
+      "link_text": [
+        "- [[2021 - Spiritual Activism in Swit]]",
+        "- [[2021 - Spiritual Activism in Swit]]",
+        "See also [[2021 - Spiritual Activism in Swit]]."
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The Circle Remains Open Toward a Queer Sociology of the Sacred (2).md",
+      "sources_modified": [
+        "wiki/Pagan and Queer Ritual Studies MOC.md",
+        "10_Projects/Glitching the Sacred — Fisher King Project State.md",
+        "40_Archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN.md"
+      ],
+      "link_text": [
+        "- [[The Circle Remains Open Toward a Queer Sociology of the Sacred (2)]]",
+        "See also [[The Circle Remains Open Toward a Queer Sociology of the Sacred (2)]].",
+        "See also [[The Circle Remains Open Toward a Queer Sociology of the Sacred (2)]]."
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch.md",
+      "sources_modified": [
+        "wiki/Pagan and Queer Ritual Studies MOC.md",
+        "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md",
+        "governance/hephaistos/ethics-escalation-criteria.md"
+      ],
+      "link_text": [
+        "- [[﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch]]",
+        "- [[﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch]]",
+        "- [[﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Dreamscapes of Modernity Sociotechnical Imaginaries and the Fabrication of Power.md",
+      "sources_modified": [
+        "raw sources/Myths have long intertwined with power, serving as narratives that structure soc.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Power in International Politics.md",
+        "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The Age of Surveillance Capitalism The Fight for a Human Future at the New Frontier of Power.md"
+      ],
+      "link_text": [
+        "- [[Dreamscapes of Modernity Sociotechnical Imaginaries and the Fabrication of Power]]",
+        "- [[Dreamscapes of Modernity Sociotechnical Imaginaries and the Fabrication of Power]]",
+        "- [[Dreamscapes of Modernity Sociotechnical Imaginaries and the Fabrication of Power]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members.md",
+      "sources_modified": [
+        "wiki/Pagan and Queer Ritual Studies MOC.md",
+        "maps/Queer Media and Ritual Map.md",
+        "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_how-td-helps-advance-ai-innovation.md"
+      ],
+      "link_text": [
+        "- [[Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members]]",
+        "See also [[Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members]].",
+        "- [[Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members]]"
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal.md",
+      "sources_modified": [
+        "wiki/Pagan and Queer Ritual Studies MOC.md",
+        "maps/Queer Media and Ritual Map.md",
+        "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_lumentai-ai-consulting-autonomous-agents-montreal.md"
+      ],
+      "link_text": [
+        "- [[“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal]]",
+        "See also [[“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal]].",
+        "- [[“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal]]"
+      ]
+    },
+    {
+      "target": "raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy.md",
+      "sources_modified": [
+        "wiki/Legitimacy Machines MOC.md",
+        "wiki/Pagan and Queer Ritual Studies MOC.md",
+        "maps/Queer Media and Ritual Map.md"
+      ],
+      "link_text": [
+        "- [[Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy]]",
+        "- [[Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy]]",
+        "See also [[Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy]]."
+      ]
+    },
+    {
+      "target": "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2).md",
+      "sources_modified": [
+        "wiki/Pagan and Queer Ritual Studies MOC.md",
+        "10_Projects/Glitching the Sacred — Fisher King Project State.md",
+        "maps/Queer Media and Ritual Map.md"
+      ],
+      "link_text": [
+        "- [[Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2)]]",
+        "See also [[Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2)]].",
+        "See also [[Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2)]]."
+      ]
+    }
+  ]
+}
