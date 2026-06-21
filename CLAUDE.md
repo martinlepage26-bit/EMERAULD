@@ -215,6 +215,12 @@ The business-state layer lives in `memory.md`; use it for live work-state, not a
 
 ---
 
+## Repository
+
+https://github.com/martinlepage26-bit/EMERAULD
+
+---
+
 ## Vault Status (2026-06-21)
 
 - **Wiki notes:** 879
