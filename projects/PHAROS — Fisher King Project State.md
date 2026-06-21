@@ -59,6 +59,7 @@ Heal. Collapse the current work into one near-term operational gate: make PHAROS
 ## Recent Moves
 - Six commercial pages deployed and design-polished.
 - Governance audit corrected critical penalty-tier and hreflang issues.
+- 2026-06-17: New gold wordmark and PHAROS AI Governance nav logo deployed to pharos-ai.ca. Frontend rebuilt and redeployed to Cloudflare Pages.
 - Outreach infrastructure exists, but Day 0 is waiting on booking/domain/contact/payment details.
 
 ## Consequence Binding

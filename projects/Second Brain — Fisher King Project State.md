@@ -58,6 +58,7 @@ Heal. Keep EMERAULD active, but force every maintenance pass to name whether it 
 - EMERAULD is documented as the working instance and proof-of-concept for the product.
 - Deep linking and topic-coverage passes strengthened the graph.
 - Sanitized zips and marketplace assets are ready; Gumroad listing and demo video remain open.
+- 2026-06-21: Significant healing pass — numeric taxonomy (00_–90_) retired, flat structure adopted, CLAUDE.md paths corrected for current host, duplicate raw\ sources/ removed, vector store rebuilt (901 notes), graph store rebuilt (901 nodes, 8672 edges), vault committed to GitHub (github.com/martinlepage26-bit/EMERAULD). This is the largest single maintenance pass in vault history.
 
 ## Consequence Binding
 - What changes if we execute the next move? -> The second brain becomes either sharper for daily retrieval or closer to sale, instead of merely larger.
@@ -70,5 +71,5 @@ Heal. Keep EMERAULD active, but force every maintenance pass to name whether it 
 - Maintenance work can sprawl unless tied to a named output.
 
 ## Next Synthesis Move
-Choose one proof action: create the Gumroad listing from the launch kit, or record a short retrieval demo using EMERAULD as the proof object. No broad graph pass until one of those is done.
+The 2026-06-21 healing pass substantially reduced maintenance debt. Next: create the Gumroad listing from the launch kit, or record a short retrieval demo using the newly restructured EMERAULD as proof object. The vault is now clean enough to demo.
 

@@ -17,7 +17,7 @@ tags:
 active
 
 ## Core Question
-How do I preserve LOTUS as the method substrate and agency-scoring instrument without letting it become either an under-documented mystical root or a falsely automatable measurement system?
+LOTUS has a built mobile app (`lotus-mobile`, Expo) implementing all six signal groups and vectors including Sh/shadow. The wound has shifted: how do I reconcile the theoretical substrate (vault, boundary notes) with the implemented mobile surface, and decide whether lotus-mobile is product or proof-of-concept?
 
 ## Why It Matters Now
 LOTUS sits under PHAROS, Dr. Sort, the agent architecture, and the corpus genealogy. The vault already names it as the vectorized model for agency under constraint, with a deep MA-thesis substrate and a Dr. Sort failure lesson. The wound is not absence; it is governance of status: what is theoretical substrate, what is product vision, what is implemented, and what must remain non-automated.
@@ -58,6 +58,7 @@ Heal. Keep LOTUS as substrate and measurement logic, but do not promote it as a 
 - Theoretical genealogy and MA-thesis substrate were linked into the vault.
 - Dr. Sort failure was reframed as governance-method evidence rather than mere engineering defeat.
 - LOTUS remains cited across PHAROS, care, agency, and constraint notes.
+- 2026-06-21: `lotus-mobile` Expo app discovered at `~/apps/mobile-apps/lotus-mobile/`. Implements LOTUS vectors (P, R, A, S, C, Sh) and six signal groups (strategic, governance, operational, agency, creative, meaning) with assessment and storage. LOTUS is partially built as a mobile product — this changes the "under-documented" wound diagnosis.
 
 ## Consequence Binding
 - What changes if we execute the next move? -> LOTUS becomes safer to use in PHAROS claims because its limits are visible.

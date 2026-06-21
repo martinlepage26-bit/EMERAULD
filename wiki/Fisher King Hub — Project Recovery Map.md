@@ -68,9 +68,19 @@ The full Percephal diagnostic template (Core Question, Canonical State, Tensions
 
 **Anti-pattern:** running a broad healing pass before completing one recovery move from Tier 1. The vault's rule: execute one recovery move per major project before expanding the map.
 
-**Recommended first moves (as of 2026-05-07):**
-- [[PHAROS — Fisher King Project State]] → 60-minute outreach-readiness closure
-- [[HELIX — Fisher King Project State]] → named-buyer activation move
+**Recommended first moves (as of 2026-05-07, revised 2026-06-21):**
+- [[HELIX — Fisher King Project State]] → name one buyer (Humania or Koios), send one $5K diagnostic message today
+- [[PHAROS — Fisher King Project State]] → 60-minute operator sprint same week (Calendly, analytics, EN/FR decision, Stripe, 3 named contacts, one outreach batch)
+
+---
+
+## Unregistered Projects — Triage Needed (2026-06-21)
+
+Discovered in `/home/martin` assessment. Not yet assigned a Tier or Percephal state. Each needs a build/defer/park decision before entering the recovery map.
+
+- **VoiceBridge** (`~/VoiceBridge/`) — AAC bridge fund nonprofit. Launch-ready: tools, site, outreach templates, incorporation draft complete. Next move: engage counsel, secure 3 referral partners. Candidate for Tier 2.
+- **Clearday** (`~/apps/mobile-apps/clearday-mobile/`) — Bilingual EN/FR mobile app (health-adjacent). Built with Expo, mirrors a web API. Purpose unclear from surface scan. Needs identity note before triage.
+- **corpus-5point** (`~/apps/web-apps/corpus-5point/`) — Document management web app (JWT auth, source policy ledger, connectors). Phase 1 in progress as of 2026-06-01. Candidate for Tier 2 or 3.
 
 ## Related
 - [[Healing the Fisher King — Percephal Diagnostic Protocol]] — methodology and template
