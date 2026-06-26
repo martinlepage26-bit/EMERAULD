@@ -379,3 +379,6 @@ These TOPIC notes organize the writing corpus and related scholarship by themati
 - [[Vault Topic Coverage Matrix — 2026-05-06]] — Cross-vault topic-family coverage map for creative, ritual, research, governance, and project clusters
 - [[Vault Delta Interconnectivity Atlas — 2026-05-06]] — Cross-register map for how the creative corpus reuses governance, ritual, and archive logics
 - [[Literary References in Common English — Allusion and Idiom Guide]] — categorized reference list of literary allusions, idioms, and pop-culture shorthand in common English use; reference corpus for prose and editorial work
+
+## See also
+- [[Manuscript Pipeline MOC]]

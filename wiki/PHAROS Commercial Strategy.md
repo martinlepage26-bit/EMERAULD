@@ -113,3 +113,6 @@ Operational artifacts from the 2026-05-01 PHAROS AI commercial launch.
 - [[AI Governance Sprint — One-Page Sellable Packet]] — First-entry sellable offer; see [[AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]
 - [[Service Offer Prompts — GPT-Assisted Revenue Design Templates]] — Reusable XML-format GPT prompts for generating offer architecture, 30-day cash plans, and day-rate offers; encodes Martin's positioning constraints and is re-runnable with updated context
 - [[App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]] — Adjacent product ideation (hybrid app monetization structures) for context on freemium + IAP + subscription models beyond the governance consulting track
+
+## See also
+- [[PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]

@@ -32,3 +32,6 @@ The gap between the 2005 MRQ article (4,759 words) and the 2025-2026 revisions r
 
 ## Sources
 2005 - Pagan Magic Identity, Religion, and the Power of Norms.docx; 2005 - Pagan Magic Identity, Religion, and the Power of Norms_1.docx; 2025 - Pagan Magic.docx; 2026 - Pagan Magic Identity, Power, and the Uses of Magic.docx; LEPAGE-MRQ-Queering_NeoPagan_Magic.docx
+
+## See also
+- [[Queering Neo-Pagan Magic — MRW Submission (2026)]]

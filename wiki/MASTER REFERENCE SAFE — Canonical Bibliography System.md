@@ -82,3 +82,6 @@ Raw source candidates from the [[Library Master Reference Intake (2026-04-26)]] 
 - [[D Library — LIBRARY Intake Index (2026-04-26)]]
 - [[Research and Papers MOC]]
 - [[Personal and Projects MOC]]
+
+## See also
+- [[PHAROS Scholarly Publication Track]]

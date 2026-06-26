@@ -86,3 +86,6 @@ The RECURSO connection should be read as method lineage: [[RECURSO — Recursive
 - [[HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]] — Grok collaboration session producing HELIX v2.1→v2.4 React/TSX components; first external agent independently running the protocol live; key moment in the version evolution tracked in this corpus
 - [[HELIX Test Run — Claude Code Agents as Subject (2026)]] — Stress-test applying HELIX to AI agent systems as the accountability subject; extends protocol scope captured in this corpus
 - [[HELIX Test Run — Epstein Files Topic (2026)]] — Stress-test on a highly contested domain; sensitivity and boundary behavior run documented in this corpus
+
+## See also
+- [[EU AI Act and Law 25 — Regulatory Pressure Window]]

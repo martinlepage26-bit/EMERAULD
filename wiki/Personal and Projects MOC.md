@@ -217,3 +217,6 @@ Retrieval systems, memory tools, and agent-facing infrastructure that support th
 ## Related
 
 - [[2026 - Martin Lepage - Feb 4, 2026]]
+
+## See also
+- [[VoiceBridge Foundation]]

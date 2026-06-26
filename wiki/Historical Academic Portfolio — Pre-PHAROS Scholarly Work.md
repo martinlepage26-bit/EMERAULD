@@ -143,3 +143,6 @@ Earlier or duplicate versions already documented in more recent drafts:
 - [[Slayage Number 7 Badman]]
 - [[Slayage PUBLICATION AGREEMENT rev 2022 (1)]]
 - [[Hair]]
+
+## See also
+- [[Manuscript Pipeline MOC]]

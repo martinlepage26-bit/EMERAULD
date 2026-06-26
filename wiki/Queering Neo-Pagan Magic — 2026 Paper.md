@@ -128,3 +128,6 @@ Section 6 (Conclusion) connects nomadic epistemological practice to algorithmic 
 - Related: [[Breath of the Astral Year — Astrology Monograph]]
 - Related: [[Authority Without Ethics — The Love Witch]]
 - Related: [[Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]
+
+## See also
+- [[Queering Neo-Pagan Magic — FINAL FINAL PAPER]]

@@ -373,3 +373,5 @@ nightly pass 2026-06-25 — phases 1-4 complete, 0 reconciled (no wiki notes car
 **Grok zero-orphan pass (2026-06-26):** Standing rule enforced on `wiki/` — previously unlinked notes wired via hub repair sections on GSD Tier 1 hub, Orphan Index, Vault Delta Atlas, and Documents Root Intake; pipe-character source note relinked via alias `[[Cloudflare Workers Build Source Note 2026-05-13]]`.
 
 **Codex zero-orphan verification (2026-06-26):** Alias-aware recursive scan of `/home/martin/EMERAULD/wiki/**/*.md` verified **886 wiki notes, 0 zero-inbound orphans**. Regenerated `.graph_store`: **904 nodes, 8,980 directed edges, 16,082 link mentions, 1 connected component, 0 zero-backlink notes, 3,286 unresolved links**.
+
+**Morning agent (2026-06-26):** Health-check run — stale scan (7 wiki project notes, 8 Fisher King state files unchanged), overdue sweep (2 tasks in External Data Registry, 5th consecutive flag), daily note created at `memory/daily/2026-06-26.md`.

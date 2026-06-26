@@ -136,3 +136,7 @@ This table is a *snapshot* for operational orientation, not a claim that every s
 - [[Obsidian Second Brain Product]] — Vault as the memory/knowledge surface for agents
 - [[Personal and Projects MOC]]
 - [[Governance and PHAROS MOC]]
+
+## See also
+- [[Agent Logs Hub]]
+- [[Workflows Hub]]

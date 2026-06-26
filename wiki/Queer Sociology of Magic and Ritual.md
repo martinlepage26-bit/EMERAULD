@@ -111,3 +111,6 @@ This is the scholarly branch of the ritual/magic subgraph. It sits beside [[Ritu
 - [[Version Genealogy System]] — Queer-pagan paper versioning
 - [[Vault Topic Coverage Matrix — 2026-05-06]] — Cross-vault topic-family coverage map including queer sociology, ritual, and magic clusters
 - [[Vault Delta Interconnectivity Atlas — 2026-05-06]] — Cross-register map for queer ritual genealogy, theme, function, failure, logic, and rhetoric
+
+## See also
+- [[Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]

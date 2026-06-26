@@ -102,3 +102,6 @@ The project moved from a relational AI writing companion into a governed multi-o
 - [[Documents Root Loose Files Intake — 2026-04-28]]
 - [[Local Hardware and Discovery Snapshot — Laptop A]]
 - [[Second Self System — Identity Kernel and Agent Routing Architecture]]
+
+## See also
+- [[CLAUDEX — AI Dialogue Archive]]

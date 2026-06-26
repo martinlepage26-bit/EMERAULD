@@ -60,3 +60,6 @@ Three AI agents run concurrently in tmux sessions:
 - [[GAIA — Earth-Calendar App and Evidence-Aware Positioning]]
 - [[VoiceBridge Foundation]]
 - [[CLAUDEX — AI Dialogue Archive]]
+
+## See also
+- [[Agent Distillation Pipeline]]

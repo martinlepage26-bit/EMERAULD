@@ -120,3 +120,8 @@ Strategy doc: [[Publishing Strategy — Springer Trilogy and Parallel Tracks]] �
 - [[COMPASSai — Governance Engine]]
 - [[AurorA — COMPASSai Input Module]]
 - [[Hermes Dashboard — Professional Governance Tool]]
+
+## See also
+- [[Knowledge Gaps]]
+- [[Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]
+- [[PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]

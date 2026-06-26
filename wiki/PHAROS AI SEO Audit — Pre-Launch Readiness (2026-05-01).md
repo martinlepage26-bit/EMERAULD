@@ -228,3 +228,6 @@ sed -i '/<link rel="alternate" hreflang="fr"/d' /home/cerebrhoe/PHAROS-SUITE/PHA
 - [[Codex Handoff — PHAROS AI Design Review (2026-05-01)]] — Design review in progress
 - [[PHAROS Procurement-Unblock Sprint]] — Outreach execution
 - [[Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]] — 90-day messaging context
+
+## See also
+- [[Personal OS]]
