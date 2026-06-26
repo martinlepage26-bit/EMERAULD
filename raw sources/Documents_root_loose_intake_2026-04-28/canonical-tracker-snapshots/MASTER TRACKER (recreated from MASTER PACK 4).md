@@ -719,6 +719,12 @@
   - Anchor disclosure: PDF only (signed-template canonical version).
   - MANIFEST.docx and COVER_LETTER_FOR_COUNSEL.docx rewritten to reflect cleaned composition; .md sources updated in vault archive then re-rendered.
 
+## 2026-06-25
+
+- Installed four new Codex skills from `/home/martin/.UPLOADS/job-app.zip` into `/home/martin/.codex/skills/`: `deep-dive`, `dream-medicine`, `family-tree`, and `job-app`.
+- Read and validated the bundled skill archives before install; `boil-the-ocean`, `helix-operator`, and `pharos-signal-receipts-engine` were already present locally and were left unchanged after duplicate checks.
+- Session closeout: the live Master tracker path `/mnt/c/Users/softinfo/Documents/MASTER TRACKER (recreated from MASTER PACK 4).md` was not writable from this session (`/mnt/c` permission denied), so this note was recorded in the accessible canonical snapshot under `EMERAULD/raw sources`.
+
 ## Related
 
 - [[PHAROS AI Ethics Submission — Springer Draft]]

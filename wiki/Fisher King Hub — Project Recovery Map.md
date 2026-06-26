@@ -48,7 +48,7 @@ Significant supporting systems with real wounds. Each sustains or enables Tier 1
 - [[Echo — Fisher King Project State]] — Heal by source recovery; reconcile concept profile with implemented Martin-site surface.
 - [[Scripto — Fisher King Project State]] — Heal by lineage reconciliation; clarify Scripto vs Scriptorium vs Dr. Sort/[[HENRY]] boundary.
 - [[COMPASSai — Fisher King Project State]] — Governance engine needs architecture/source-of-truth and capability-claim reconciliation.
-- [[AurorA — Fisher King Project State]] — Intake/evidence layer needs legacy AurorAI vs current AurorA reconciliation.
+- [[AurorA — Fisher King Project State]] — Intake/evidence layer needs legacy AurorA vs current AurorA reconciliation.
 
 ---
 

@@ -1,5 +1,7 @@
 ---
 type: source-note
+aliases:
+  - Cloudflare Workers Build Source Note 2026-05-13
 tags: [raw-source, ingest, provenance, 2026-05-13]
 status: active
 created: 2026-05-13

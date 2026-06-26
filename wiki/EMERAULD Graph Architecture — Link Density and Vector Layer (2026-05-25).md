@@ -7,7 +7,7 @@ aliases:
 tags: [emerauld, graph, retrieval, vectors, lightrag, agent-bus, tooling, architecture]
 status: active
 created: 2026-05-25
-updated: 2026-05-31
+updated: 2026-06-26
 ---
 
 # EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)
@@ -61,17 +61,19 @@ This note is the tooling-side companion to [[EMERAULD Workspace Instructions - P
 
 **Interpretation rule:** backlinks measure *navigability*, not truth. A high-backlink note can still be wrong; a low-backlink note can still be authoritative.
 
-**Current generated snapshot (local scan on 2026-05-31, `.vector_store/paths.json` corpus):**
+**Current generated snapshot (local scan on 2026-06-26, `.vector_store/paths.json` corpus):**
 
-- Nodes: **870**
-- Directed edges: **8,353**
-- Link mentions: **15,295**
-- Connected components: **13**
-- Largest component: **858**
-- Unresolved wikilinks: **3,343** (mostly links to maps, raw files, READMEs, archive indexes, and non-wiki support files)
-- Zero-backlink notes: **54**
-- One-backlink notes: **95**
-- Two-backlink notes: **133**
+- Nodes: **904**
+- Directed edges: **8,980**
+- Link mentions: **16,082**
+- Connected components: **1**
+- Largest component: **904**
+- Unresolved wikilinks: **3,286** (mostly links to maps, raw files, READMEs, archive indexes, and non-wiki support files)
+- Zero-backlink notes: **0**
+- One-backlink notes: **20**
+- Two-backlink notes: **261**
+
+2026-06-26 graph pass: tmux council loop requested Antigravity, Vibe, and Claude to use `/obsidian-second-brain`; the local skill directory was empty, so the pass used generated `.graph_store` artifacts and direct wikilink verification. The main structural repair was reframing PHAROS from a monolithic MOC cluster into an evidence-to-publication bridge: [[HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]], [[COMPASSai — Governance Engine]], [[AurorA — COMPASSai Input Module]], and [[Hermes Dashboard — Professional Governance Tool]] now route into manuscript and audit notes. Bare `[[PHAROS]]` alias resolution was corrected so it points to [[PHAROS]] rather than [[PHAROS Method — Technical Reference]]; method-specific links should use [[PHAROS Method — Technical Reference]] or the `PHAROS Method` alias. Follow-up zero-orphan enforcement cleared every wiki note and collapsed the generated graph into one connected component.
 
 Generated artifacts:
 

@@ -7,6 +7,9 @@ created: 2026-05-06
 updated: 2026-05-06
 ---
 
+> [!warning] Deprecated Desktop Prototype
+> This note documents a historical desktop-based prototype or stress-test. The current, active implementation is the Web/SaaS deployment.
+
 # HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)
 
 ## Summary
@@ -49,6 +52,12 @@ These sources sharpen [[HELIX — Value Proposition and Buyer Profile]]. HELIX i
 
 The Desktop corpus also supports the current offer logic: first sales should sell protocol plus expert interpretation before attempting subscription-grade SaaS. That matches the existing conclusion that the bottleneck is a named first buyer, not backend completeness.
 
+## Evidence-to-Publication Bridge
+
+This cluster is strongest when treated as evidence for the PHAROS publication track, not as a self-contained desktop/prototype archive. HELIX supplies live-run and stress-test material for [[AI Society Manuscript — From AI Anxiety to Recursive Governance]], [[PHAROS AI Ethics Submission — Springer Draft]], and [[Recursive Deterministic AI Governance — Method and Paper]]: continuity pressure, contested public archives, trace export, and audit-after-the-run are all concrete instances of the revisability and governance-control claims.
+
+The RECURSO connection should be read as method lineage: [[RECURSO — Recursive Governance Test Archive]] is the older recursive test bed; HELIX is the productized stress-test surface; [[RECURSO — Final Audit and Ethical Review]] names the ethical failure modes that HELIX runs should expose rather than hide.
+
 ## Open Questions
 
 - Which HELIX code version is canonical after the v2.1 to v2.4 drift in the Desktop captures?
@@ -63,9 +72,17 @@ The Desktop corpus also supports the current offer logic: first sales should sel
 - [[HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]
 - [[Evidence Discipline and Epistemics]]
 - [[Recursive Governance Theory]]
+- [[Recursive Deterministic AI Governance — Method and Paper]]
+- [[AI Society Manuscript — From AI Anxiety to Recursive Governance]]
+- [[PHAROS AI Ethics Submission — Springer Draft]]
+- [[RECURSO — Recursive Governance Test Archive]]
+- [[RECURSO — Final Audit and Ethical Review]]
 - [[AI Governance Failure Cases]]
 - [[AI Identity and Phenomenology]]
 - [[Governance and PHAROS MOC]]
+- [[PHAROS]]
+- [[PHAROS Scholarly Publication Track]]
+- [[Research Hub]]
 - [[HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]] — Grok collaboration session producing HELIX v2.1→v2.4 React/TSX components; first external agent independently running the protocol live; key moment in the version evolution tracked in this corpus
 - [[HELIX Test Run — Claude Code Agents as Subject (2026)]] — Stress-test applying HELIX to AI agent systems as the accountability subject; extends protocol scope captured in this corpus
 - [[HELIX Test Run — Epstein Files Topic (2026)]] — Stress-test on a highly contested domain; sensitivity and boundary behavior run documented in this corpus

@@ -25,7 +25,7 @@ Raw source: `raw sources/PORTFOLIO_REVIEW_MEMO_2026-03-14.md`. Produced 2026-03-
 - **Do not** rename or remove the `govern-ai` repo path, Pages project, worker, preview host, or remote
 - **Do not** treat PHAROS `lotus_dr_sort` residue as safe to delete (see [[Dr. Sort and LOTUS Ownership Decision — March 2026]])
 - **Do not** convert current PHAROS operational ownership into long-term canonical publication/editorial ownership
-- **Do not** present AurorAI or CompassAI frontend trees as runnable standalone apps
+- **Do not** present AurorA or CompassAI frontend trees as runnable standalone apps
 - **Do not** quarantine or archive Governess backend or desktop on absence-of-proof alone
 
 ## Missing Evidence (Unresolved)
@@ -45,7 +45,7 @@ A local stack pass via `/home/cerebrhoe/repo-hosting` confirmed Governess is loc
 - Removed unsupported bibliography-content drift language (compared files matched after CR normalization)
 - Narrowed DB/env wording to avoid conflating code defaults with deployed database identity
 - Distinguished dormant PHAROS publication source residue from default runtime behavior (route-level blocks + backend fail-closed gating)
-- Limited AurorAI/CompassAI overstatement risk to stale summary wording and test artifacts, not current repo READMEs
+- Limited AurorA/CompassAI overstatement risk to stale summary wording and test artifacts, not current repo READMEs
 
 ## Related
 - [[Dr. Sort and LOTUS Ownership Decision — March 2026]] — primary decision record reviewed here

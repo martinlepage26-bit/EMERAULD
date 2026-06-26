@@ -38,7 +38,7 @@ Final full-vault verification after index + alias repair: **0 true Obsidian-visi
 
 Follow-up filename hygiene pass: [[Dr. Sort Filename Normalization — 2026-05-06]] records 524 Markdown notes renamed after the Dr. Sort pass duplicated source titles and extensions in filenames. Each renamed file keeps its original name and path in frontmatter provenance fields, and valid Obsidian wikilinks were updated after the rename.
 
-Because some cleaned filenames still contain graph-hostile characters such as `#` or `]`, the pass also created [[wiki/orphan-index/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06|Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]] and alias-stamped the hostile residuals needed for Obsidian-visible inbound links.
+Because some cleaned filenames still contain graph-hostile characters such as `#` or `]`, the pass also created [[archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]] and alias-stamped the hostile residuals needed for Obsidian-visible inbound links.
 
 The curated `wiki/` concern set was 17 low-inbound notes, all at one or two inbound anchors. These were classified as follows:
 
@@ -52,11 +52,12 @@ The curated `wiki/` concern set was 17 low-inbound notes, all at one or two inbo
 
 ## Full-Vault Orphan Indexes
 
-- [[wiki/orphan-index/Orphan Index — Raw Sources — 2026-05-06|Orphan Index — Raw Sources — 2026-05-06]] — 889 raw/clipping/inbox source notes.
-- [[wiki/orphan-index/Orphan Index — Artifacts And Archives — 2026-05-06|Orphan Index — Artifacts And Archives — 2026-05-06]] — 88 artifact/archive notes.
-- [[wiki/orphan-index/Orphan Index — Runtime And Agents — 2026-05-06|Orphan Index — Runtime And Agents — 2026-05-06]] — 133 runtime, governance, agent, and planning notes.
-- [[wiki/orphan-index/Orphan Index — Operations And Misc — 2026-05-06|Orphan Index — Operations And Misc — 2026-05-06]] — 37 memory, hub, template, and map notes.
-- [[wiki/orphan-index/Orphan Index — Root Loose Notes — 2026-05-06|Orphan Index — Root Loose Notes — 2026-05-06]] — 17 loose root notes.
+- [[archive/Orphan Index — Raw Sources — 2026-05-06]] — 889 raw/clipping/inbox source notes.
+- [[archive/Orphan Index — Artifacts And Archives — 2026-05-06]] — 88 artifact/archive notes.
+- [[archive/Orphan Index — Runtime And Agents — 2026-05-06]] — 133 runtime, governance, agent, and planning notes.
+- [[archive/Orphan Index — Operations And Misc — 2026-05-06]] — 37 memory, hub, template, and map notes.
+- [[archive/Orphan Index — Root Loose Notes — 2026-05-06]] — 17 loose root notes.
+- [[Workspace Cleanup Ledger — 2026-05-31]] — workspace cleanup and entropy-reduction ledger for the 2026-05-31 pass.
 
 ## Root Loose Outlier Follow-Up
 

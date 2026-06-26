@@ -469,6 +469,8 @@ The corpus has two pre-2024 anchors, not one. The 2010 MA thesis at Université 
 ## AI Governance and PHAROS
 
 - [[Governance and PHAROS MOC]]
+- [[PHAROS Scholarly Publication Track]]
+
 The PHAROS research program is Martin Lepage's primary active scholarly project. It develops a deterministic, recursive method for governing AI-assisted workflows and applies it to questions of institutional accountability, evidentiary discipline, and the political conditions that make AI governance necessary.
 
 - [[PHAROS AI Ethics Submission — Springer Draft]] — Near-final Springer *AI & Ethics* submission presenting the full PHAROS architecture, a multi-tier ethical audit, and an unambiguous "Deploy: No. Not yet." recommendation. Contains the sequenced virtue-deontology-consequentialism ethical architecture and the +0.0628 evidence-hardening constant.
@@ -483,6 +485,13 @@ The PHAROS research program is Martin Lepage's primary active scholarly project.
 - [[AI Society Manuscript — From AI Anxiety to Recursive Governance]] — Journal manuscript reframing AI anxiety as a governance response to weakly inspectable authority. Introduces **revisability** — whether a person or institution can reopen a claim before closure hardens into consequence — as the paper's central conceptual contribution. Closely connected to [[Recursive Deterministic AI Governance — Method and Paper]].
 - [[AI Society Manuscript — Springer In Review Notification (2026-05-10)]] — Operational status note capturing the Springer In Review confirmation and Research Square screening path for the AI Society manuscript.
 - [[Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]] — External manuscript draft ingested from D: as a triage-ready research lead; preserves claimed pooled metrics while marking unresolved publication/provenance and editorial-quality uncertainties.
+
+### Evidence-to-Publication Bridge
+
+- [[HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]] — stress-test and transcript-evidence cluster for revisability, continuity pressure, and audit-after-the-run claims in the AI Society / RDAIG manuscript lane.
+- [[COMPASSai — Governance Engine]] — implementation evidence for the PHAROS method only where specific route, gate, and deployment evidence is named.
+- [[AurorA — COMPASSai Input Module]] — intake/admissibility evidence for bounded corpus formation and pre-engine handoff.
+- [[Hermes Dashboard — Professional Governance Tool]] — operator-view evidence for routing, monitoring, and governance-work coordination.
 
 - [[AI-2027 Critique — Relational AI and Vulnerability Monetization]] — Governance-oriented critique of "AI 2027" as a scenario artifact that misallocates attention toward frontier catastrophe while neglecting relational political economy: vulnerability monetization, intimacy extraction, and institutional embedding. Introduces RCS HSOS diagnostic mapped to NIST AI RMF. Target journal: *AI & Society*.
 
@@ -821,6 +830,8 @@ Return to [[Home]].
 
 ## Related
 
+- [[Research Hub]]
+- [[PHAROS Scholarly Publication Track]]
 - [[BOWIE-DUE]]
 - [[The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]
 - [[05_From_Recursive_Production_to_Governable_Method]]

@@ -46,6 +46,7 @@ Structural index for the PHAROS recursive governance cluster — 25+ wiki notes 
 
 ## Company and Commercial
 
+- [[PHAROS]] — Main entity and operations hub
 - [[PHAROS Company Registration and Security Incidents]] — NEQ 2282012550
 - [[Founder Charter — Lepage and Stocker]] — Equity, decision-rights, self-governance claim
 - [[PHAROS Licensing Prospectus]] — $250K–$2M+ enterprise tiers

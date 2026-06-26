@@ -1,6 +1,6 @@
 ---
 type: wiki
-aliases: [RDAIG, Recursive Deterministic AI Governance, Recursive Governance Method, PHAROS pipeline, "PHAROS Method — Recursive Governance", PHAROS, "Recursive Governance Method — Skill Corpus Entry"]
+aliases: [RDAIG, Recursive Deterministic AI Governance, Recursive Governance Method, PHAROS pipeline, PHAROS Method, "PHAROS Method — Recursive Governance", "Recursive Governance Method — Skill Corpus Entry"]
 tags: [pharos, governance, method, reference]
 status: active
 created: 2026-04-16

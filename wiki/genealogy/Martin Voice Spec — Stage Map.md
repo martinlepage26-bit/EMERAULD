@@ -34,3 +34,4 @@ If you need the historical detail, follow [[Martin Voice Spec — Version Geneal
 - [[Second Self System — Identity Kernel and Agent Routing Architecture]]
 - [[PHAROS Final Voice Operator — GPT Creator]]
 - [[AI Personas — Agatha, DOTTIE, and MOBI]]
+- [[genealogy/test]]

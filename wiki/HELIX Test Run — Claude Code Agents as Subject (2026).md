@@ -7,6 +7,9 @@ created: 2026-05-31
 updated: 2026-05-31
 ---
 
+> [!warning] Deprecated Desktop Prototype
+> This note documents a historical desktop-based prototype or stress-test. The current, active implementation is the Web/SaaS deployment.
+
 # HELIX Test Run — Claude Code Agents as Subject (2026)
 
 ## Summary

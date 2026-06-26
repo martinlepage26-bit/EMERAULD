@@ -141,3 +141,6 @@ The paper used AI for structural revision, comparative reframing, adversarial te
 - [[Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]
 - [[MASTERxMASTERxMASTER — Skill Corpus Map]]
 - [[Qualitative Handbook — Expanded Reference List]]
+- [[HELIX — Value Proposition and Buyer Profile]] — productized governance stress-test
+- [[COMPASSai — Governance Engine]] — governance engine implementation
+- [[AurorA — COMPASSai Input Module]] — client-facing intake module

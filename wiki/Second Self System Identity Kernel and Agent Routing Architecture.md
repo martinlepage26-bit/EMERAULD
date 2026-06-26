@@ -1,12 +1,16 @@
 ---
 title: Second Self System — Identity Kernel and Agent Routing Architecture
+aliases:
+  - Second Self System Identity Kernel and Agent Routing Architecture (recovery artifact)
+canonical_note: "[[Second Self System — Identity Kernel and Agent Routing Architecture]]"
 source_file: Second Self System — Identity Kernel and Agent Routing Architecture.md
 format: md
 status: recovered
-tags: [agent-architecture, adversarial-review, argus, governance, second-self]
+duplicate_of: "[[Second Self System — Identity Kernel and Agent Routing Architecture]]"
+tags: [agent-architecture, adversarial-review, argus, governance, second-self, provenance-artifact]
 ---
 
-# Second Self System — Identity Kernel and Agent Routing Architecture
+# Second Self System — Identity Kernel (Recovered Artifact)
 
 > **Note:** This file is a recovered duplicate / provenance artifact. The canonical, actively maintained note is [[Second Self System — Identity Kernel and Agent Routing Architecture]]. Prefer that note for edits and links; keep this file only as an “as recovered” capture.
 

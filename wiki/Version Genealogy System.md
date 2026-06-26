@@ -77,7 +77,10 @@ Genealogies enforce the [[Emotional Alliance vs. Evidentiary Discipline in AI|ev
 
 ## Where Genealogies Live
 
-All genealogy notes are stored in `wiki/genealogy/` and linked from their parent manuscript notes.
+All genealogy notes are stored in `wiki/genealogy/` and linked from their parent manuscript notes. Path-local duplicates preserved for provenance:
+
+- [[genealogy/Martin Voice Spec — Stage Map]]
+- [[genealogy/Martin Voice Spec — Version Genealogy]]
 
 ---
 

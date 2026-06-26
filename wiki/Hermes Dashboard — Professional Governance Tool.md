@@ -79,6 +79,10 @@ Vault mirrors (aligned as needed):
 - Does the dashboard connect to [[InfraFabric Architecture]] blackboard state?
 - Integration with [[ROOK — Session Boundary Model]] session tracking?
 
+## Evidence-to-Publication Bridge
+
+Hermes Dashboard belongs to the operator-routing evidence cluster, not the manuscript-writing cluster. It supports publication claims about inspectable governance work, single-owner control, and routing/monitoring under parallel engagements — useful where [[AI Society Manuscript — From AI Anxiety to Recursive Governance]] or [[PHAROS AI Ethics Submission — Springer Draft]] discuss revisability, accountability chains, or practitioner oversight. Pair with [[COMPASSai — Governance Engine]] and [[AurorA — COMPASSai Input Module]] for client-facing implementation evidence; pair with [[HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]] for adversarial continuity pressure. Index through [[PHAROS Scholarly Publication Track]] and [[Research Hub]]; return to [[PHAROS]] for stack context.
+
 ## Related
 - [[COMPASSai — Governance Engine]]
 - [[AurorA — COMPASSai Input Module]]
@@ -89,3 +93,11 @@ Vault mirrors (aligned as needed):
 - [[memory]]
 - [[Documents Root Intake — Hermes Action Map 2026-04-28]]
 - [[Second Self System — Identity Kernel and Agent Routing Architecture]]
+- [[RECURSO — Final Audit and Ethical Review]]
+- [[PHAROS]]
+- [[PHAROS Scholarly Publication Track]]
+- [[Research Hub]]
+- [[HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]
+- [[Recursive Deterministic AI Governance — Method and Paper]]
+- [[AI Society Manuscript — From AI Anxiety to Recursive Governance]]
+- [[PHAROS AI Ethics Submission — Springer Draft]]

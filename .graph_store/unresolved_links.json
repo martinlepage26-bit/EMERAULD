@@ -145,11 +145,6 @@
     "source_path": "wiki/AI Governance Sprint — One-Page Sellable Packet.md"
   },
   {
-    "source": "AI Governance Sprint — One-Page Sellable Packet",
-    "target": "PHAROS Method",
-    "source_path": "wiki/AI Governance Sprint — One-Page Sellable Packet.md"
-  },
-  {
     "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
     "target": "Automating Inequality — Eubanks",
     "source_path": "wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md"
@@ -495,6 +490,11 @@
     "source_path": "wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle.md"
   },
   {
+    "source": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "target": "tmux AI Council",
+    "source_path": "wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md"
+  },
+  {
     "source": "CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)",
     "target": "2026-05-05_aurascribe-ai-medical-scribe-for-quebec",
     "source_path": "wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding).md"
@@ -827,11 +827,6 @@
   {
     "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
     "target": "DocSort — Dr. Sort Automation Project",
-    "source_path": "wiki/D Library — Review Unreadable Cleanup (2026-05-04).md"
-  },
-  {
-    "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "target": "Dr. Sort Filename Normalization — 2026-05-06",
     "source_path": "wiki/D Library — Review Unreadable Cleanup (2026-05-04).md"
   },
   {
@@ -3170,11 +3165,6 @@
     "source_path": "wiki/Home.md"
   },
   {
-    "source": "Home",
-    "target": "wiki/orphan-index/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
-    "source_path": "wiki/Home.md"
-  },
-  {
     "source": "Host Environment — pharos-corpus-runner-01",
     "target": "EMERAULD — Vault and Knowledge Graph",
     "source_path": "wiki/Host Environment — pharos-corpus-runner-01.md"
@@ -4635,6 +4625,11 @@
     "source_path": "wiki/Obsidian Agent Vault — Launch Kit.md"
   },
   {
+    "source": "Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)",
+    "target": "Claude Code",
+    "source_path": "wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21).md"
+  },
+  {
     "source": "Obsidian Second Brain Product",
     "target": "SANITIZATION-REPORT",
     "source_path": "wiki/Obsidian Second Brain Product.md"
@@ -4683,36 +4678,6 @@
     "source": "Operator-Check Skill — Burnout Cascade Interrupt",
     "target": "drsortoriginalfilename 2026 - thesisordissertation4.txt - 2026 - thesisordisse",
     "source_path": "wiki/Operator-Check Skill — Burnout Cascade Interrupt.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "wiki/orphan-index/Orphan Index — Raw Sources — 2026-05-06",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "wiki/orphan-index/Orphan Index — Artifacts And Archives — 2026-05-06",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "wiki/orphan-index/Orphan Index — Runtime And Agents — 2026-05-06",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "wiki/orphan-index/Orphan Index — Operations And Misc — 2026-05-06",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "wiki/orphan-index/Orphan Index — Root Loose Notes — 2026-05-06",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "wiki/orphan-index/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "PERPLEXITY-COMPUTER",
@@ -8700,11 +8665,6 @@
     "source_path": "wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript.md"
   },
   {
-    "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "raw-sources/2026-05-13/Build",
-    "source_path": "wiki/Source Cluster — 2026-05-13 Governance and Platform Signals.md"
-  },
-  {
     "source": "Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)",
     "target": "2016 - SAGE Reference",
     "source_path": "wiki/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk).md"
@@ -9062,36 +9022,6 @@
   {
     "source": "Vault Deep Linking Pass — 2026-05-06",
     "target": "Dr. Sort Filename Normalization — 2026-05-06",
-    "source_path": "wiki/Vault Deep Linking Pass — 2026-05-06.md"
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "wiki/orphan-index/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
-    "source_path": "wiki/Vault Deep Linking Pass — 2026-05-06.md"
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "wiki/orphan-index/Orphan Index — Raw Sources — 2026-05-06",
-    "source_path": "wiki/Vault Deep Linking Pass — 2026-05-06.md"
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "wiki/orphan-index/Orphan Index — Artifacts And Archives — 2026-05-06",
-    "source_path": "wiki/Vault Deep Linking Pass — 2026-05-06.md"
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "wiki/orphan-index/Orphan Index — Runtime And Agents — 2026-05-06",
-    "source_path": "wiki/Vault Deep Linking Pass — 2026-05-06.md"
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "wiki/orphan-index/Orphan Index — Operations And Misc — 2026-05-06",
-    "source_path": "wiki/Vault Deep Linking Pass — 2026-05-06.md"
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "wiki/orphan-index/Orphan Index — Root Loose Notes — 2026-05-06",
     "source_path": "wiki/Vault Deep Linking Pass — 2026-05-06.md"
   },
   {
@@ -16385,14 +16315,14 @@
     "source_path": "wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note.md"
   },
   {
-    "source": "raw-sources/2026-05-13/Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source Note",
+    "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
     "target": "raw/Clippings/Build  Compute  Workers & Pages  Martinlepage26@me.com's Account",
-    "source_path": "wiki/raw-sources/2026-05-13/Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source Note.md"
+    "source_path": "wiki/raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note.md"
   },
   {
-    "source": "raw-sources/2026-05-13/Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source Note",
+    "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
     "target": "raw/intake-report-20260513.json",
-    "source_path": "wiki/raw-sources/2026-05-13/Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source Note.md"
+    "source_path": "wiki/raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note.md"
   },
   {
     "source": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",

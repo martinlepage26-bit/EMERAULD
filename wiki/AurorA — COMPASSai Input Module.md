@@ -59,10 +59,14 @@ Access for clients routes conceptually through [[PHAROS-AI Webservice — pharos
 - Do not claim DOC/DOCX support from old aspiration notes; local-stack evidence says PDF/TXT only.
 - Do not erase legacy `AurorAI` traces without mapping them to the current AurorA naming policy.
 
+## Evidence-to-Publication Bridge
+
+AurorA supports publication claims about bounded corpus formation, intake admissibility, and evidence legibility at the pre-engine boundary. Use it in the [[PHAROS Scholarly Publication Track]] only where intake manifests, rejection rules, or handoff evidence are named — for example admissibility and provenance language in [[Recursive Deterministic AI Governance — Method and Paper]] or pre-deployment gating in [[PHAROS AI Ethics Submission — Springer Draft]]. Downstream processing evidence lives in [[COMPASSai — Governance Engine]]; adversarial continuity evidence lives in [[HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]. Route through [[PHAROS]] and [[Research Hub]] rather than treating intake as a standalone scholarly node.
+
 ## Related
 
 - [[COMPASSai — Governance Engine]]
-- [[AurorA — Fisher King Project State]]
+- [[RECURSO — Final Audit and Ethical Review]]
 - [[PHAROS Method — Technical Reference]]
 - [[PHAROS Runbook SOP]]
 - [[PHAROS-AI Webservice — pharos-ai.ca]]
@@ -70,3 +74,10 @@ Access for clients routes conceptually through [[PHAROS-AI Webservice — pharos
 - [[Free-First Architecture]]
 - [[Govern Suite Cheat Sheet]]
 - [[Govern Suite Operations Runbook]]
+- [[Recursive Deterministic AI Governance — Method and Paper]]
+- [[AI Society Manuscript — From AI Anxiety to Recursive Governance]]
+- [[PHAROS AI Ethics Submission — Springer Draft]]
+- [[PHAROS]]
+- [[PHAROS Scholarly Publication Track]]
+- [[Research Hub]]
+- [[HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]

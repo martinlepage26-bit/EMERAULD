@@ -77,6 +77,7 @@
     "CLIENT ACCOUNTS",
     "CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
     "CODEX Writing Projects Manifest",
+    "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
     "COMPASSai — Governance Engine",
     "CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
     "CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)",
@@ -301,6 +302,7 @@
     "Obsidian Agent Vault — Asset Canon",
     "Obsidian Agent Vault — Launch Kit",
     "Obsidian Agent Vault — Setup Guide",
+    "Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)",
     "Obsidian Second Brain Product",
     "On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024",
     "OpenAI Governance Framework — Comparison with PHAROS",
@@ -399,6 +401,7 @@
     "RECURSO — Recursive Governance Test Archive",
     "RIA-CODEX — System Audit Protocol",
     "ROOK — Session Boundary Model",
+    "Railway — COMPASSai Production Deployment Platform",
     "Reboot Performance Gender Identity — Version Genealogy",
     "Reboot — Performance, Gender, and Computing of Identity",
     "Recursive AI Governance Very Long Narrative — Version Genealogy",
@@ -547,12 +550,17 @@
     "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "Wicca 2.0 — Version Genealogy",
     "Workflows Hub",
+    "Workspace Cleanup Ledger — 2026-05-31",
     "Writing and Novels MOC",
     "archive/CO-EQUAL-AUTHORITY-DECISION",
     "archive/Ethical Ground Values",
     "archive/Governance Stress-Test Protocols Index",
+    "archive/Orphan Index — Artifacts And Archives — 2026-05-06",
     "archive/Orphan Index — Operations And Misc — 2026-05-06",
+    "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
+    "archive/Orphan Index — Raw Sources — 2026-05-06",
     "archive/Orphan Index — Root Loose Notes — 2026-05-06",
+    "archive/Orphan Index — Runtime And Agents — 2026-05-06",
     "archive/agent-evaluation",
     "archive/ai-product",
     "archive/brief-to-tasks",
@@ -569,8 +577,15 @@
     "archive/triangulation",
     "archive/ux-researcher-designer",
     "archive/web-scraping",
+    "bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec",
+    "bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023",
+    "bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2",
     "bridges/2025 - AI Fundamentals for Business Professionals Notebook",
     "bridges/2025 - AI Fundamentals for Business Professionals Notebook 2",
+    "bridges/2027 - AI 2027 Summary Research",
+    "bridges/2027 - AI 2027 Summary Research 2",
+    "bridges/2027 - AI 2027 Summary Research 3",
+    "bridges/2027 - AI 2027 Summary Research 4",
     "bridges/Bridge - 2006 - report 2",
     "bridges/Bridge - 2006 - report 3",
     "bridges/Bridge - 2006 - report 4",
@@ -627,7 +642,7 @@
     "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
     "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
     "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
-    "raw-sources/2026-05-13/Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source Note",
+    "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
     "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
     "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
     "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
@@ -889,41 +904,5 @@
     "skills/yeet",
     "trismegiste-state",
     "voice11 — ElevenLabs TTS Pipeline"
-  ],
-  [
-    "Workspace Cleanup Ledger — 2026-05-31"
-  ],
-  [
-    "archive/Orphan Index — Artifacts And Archives — 2026-05-06"
-  ],
-  [
-    "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06"
-  ],
-  [
-    "archive/Orphan Index — Raw Sources — 2026-05-06"
-  ],
-  [
-    "archive/Orphan Index — Runtime And Agents — 2026-05-06"
-  ],
-  [
-    "bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec"
-  ],
-  [
-    "bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023"
-  ],
-  [
-    "bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2"
-  ],
-  [
-    "bridges/2027 - AI 2027 Summary Research"
-  ],
-  [
-    "bridges/2027 - AI 2027 Summary Research 2"
-  ],
-  [
-    "bridges/2027 - AI 2027 Summary Research 3"
-  ],
-  [
-    "bridges/2027 - AI 2027 Summary Research 4"
   ]
 ]

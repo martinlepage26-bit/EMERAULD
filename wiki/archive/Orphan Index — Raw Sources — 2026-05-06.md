@@ -1000,3 +1000,7 @@ Total linked notes: **889**.
 - [[raw\ sources/Documents-Downloads-scan-2026-05-06/prompt-log-2026-05-03|prompt-log-2026-05-03.md]]
 - [[raw\ sources/Documents-Downloads-scan-2026-05-06/table|table.csv]]
 - [[raw\ sources/Documents-Downloads-scan-2026-05-06/GROK compare HELIX|GROK compare HELIX.csv]]
+
+### `wiki/raw-sources`
+
+- [[Cloudflare Workers Build Source Note 2026-05-13]]

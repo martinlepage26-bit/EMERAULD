@@ -70,7 +70,7 @@ Notable papers now in `Not_Mine/notes/`: Brown & Michael (2003) "A Sociology of 
 ## Related
 
 - [[Governance and PHAROS MOC]]
-- [[Dr. Sort Filename Normalization — 2026-05-06]]
+- [[Bridge - Dr. Sort Filename Normalization 2026-05-06]]
 - [[Research and Papers MOC]]
 - [[Writing and Novels MOC]]
 - [[D Library — LIBRARY Intake Index (2026-04-26)]] — original ingest session

@@ -209,6 +209,43 @@ For the next 15-minute loop iteration:
 
 ---
 
+## Unlinked Bridge Notes (2026-06-26 repair)
+
+Bridge captures under `wiki/bridges/` that still needed explicit inbound anchors:
+
+- [[bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec]]
+- [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023]]
+- [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2]]
+- [[bridges/2027 - AI 2027 Summary Research]]
+- [[bridges/2027 - AI 2027 Summary Research 2]]
+- [[bridges/2027 - AI 2027 Summary Research 3]]
+- [[bridges/2027 - AI 2027 Summary Research 4]]
+- [[bridges/Bridge - 2006 - report 2]]
+- [[bridges/Bridge - 2006 - report 3]]
+- [[bridges/Bridge - 2006 - report 4]]
+- [[bridges/Bridge - 2006 - report 5]]
+- [[bridges/Bridge - 2009 - legalorcontract 2]]
+- [[bridges/Bridge - 2013 - 23 ISSN 1528-0268 print]]
+- [[bridges/Bridge - 2013 - auditorassessment 2]]
+- [[bridges/Bridge - 2013 - auditorassessment 3]]
+- [[bridges/Bridge - 2015 - policyorguidance 3]]
+- [[bridges/Bridge - 2015 - policyorguidance 4]]
+- [[bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf - 2020 - Mar - 2020 - Martin Lepage - Simp]]
+- [[bridges/Bridge - CORPUS ou le gnie de linsistance 1]]
+- [[bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06]]
+- [[bridges/Bridge - FIRST DRAFT]]
+- [[bridges/Bridge - Governance by Denial Revised Working Draft]]
+- [[bridges/Bridge - Introduction]]
+- [[bridges/Bridge - dataimagepngbase64]]
+- [[bridges/Bridge - dataimagepngbase64... 2]]
+- [[bridges/2025 - AI Fundamentals for Business Professionals Notebook]]
+- [[bridges/2025 - AI Fundamentals for Business Professionals Notebook 2]]
+- [[bridges/Bridge — Agents vs. Chatbots Fundamentals]]
+- [[bridges/Bridge — Malformed JSON Prefix]]
+- [[bridges/Bridge — Mandrake]]
+- [[bridges/Bridge — Responses API Fundamentals]]
+- [[bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve]]
+
 ## Related Documents
 
 - [[Governance and PHAROS MOC]]

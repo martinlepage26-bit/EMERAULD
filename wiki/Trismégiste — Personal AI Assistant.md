@@ -60,6 +60,7 @@ The [[EMERAULD Persistence Stack]] note documents the technical implementation: 
 - [[Martin Lepage — Professional Profile]]
 - [[Agent Session Phenomenology]]
 - [[ROOK — Session Boundary Model]]
+- [[Trismégiste hub]]
 - [[Trismégiste — Operator State]]
 - [[Local Hardware and Discovery Snapshot — Laptop A]]
 - [[Documents Root Loose Files Intake — 2026-04-28]]

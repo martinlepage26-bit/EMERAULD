@@ -1,5 +1,7 @@
 # Governance and PHAROS MOC
 
+Root PHAROS hub: [[PHAROS]].
+
 ## Overview
 - [[summary]]
 - [[Recursive Governance Packet Header]]
@@ -300,7 +302,7 @@
 - [[henry.agent]]
 - [[argus.agent]]
 
-[[PHAROS AI Ethics Submission — Springer Draft|PHAROS]] is [[Martin Lepage — Professional Profile|Martin Lepage]]'s AI governance company and research practice. Its core product is the Recursive Deterministic AI Governance (RDAIG) method: a deterministic, auditable pipeline for governing AI inference outputs through recursive corpus transformation, bounded admissibility rules, and consequence-bound promotion decisions. [[Agent Session Phenomenology|HEPHAISTOS]] is the agent architecture system that embodies and enforces this governance logic at the operational layer. This MOC covers the full governance domain: company operations and IP, the core method and its architecture, the HEPHAISTOS agent system, applied compliance and ethics work, and case studies.
+[[PHAROS]] is [[Martin Lepage — Professional Profile|Martin Lepage]]'s AI governance company and research practice. Its core product is the Recursive Deterministic AI Governance (RDAIG) method: a deterministic, auditable pipeline for governing AI inference outputs through recursive corpus transformation, bounded admissibility rules, and consequence-bound promotion decisions. [[Agent Session Phenomenology|HEPHAISTOS]] is the agent architecture system that embodies and enforces this governance logic at the operational layer. This MOC covers the full governance domain: company operations and IP, the core method and its architecture, the HEPHAISTOS agent system, applied compliance and ethics work, and case studies.
 
 PHAROS branch split: the theoretical branch is [[Recursive Governance Theory]], the epistemic branch is [[Evidence Discipline and Epistemics]], the controls branch is [[Governance Controls and Mechanisms]], the operational/agent branch is [[HEPHAISTOS Agent Architecture]], the infrastructure branch is [[AI Infrastructure Stack]], the commercial branch is [[PHAROS Commercial Strategy]], and the publication branch is [[PHAROS Scholarly Publication Track]]. Return to [[Home]].
 
@@ -373,8 +375,10 @@ Notes covering the software products and deployment surfaces through which the P
 - [[Portfolio Restructuring Review — March 2026]] — Adversarial review of March 2026 portfolio restructuring package; govern-ai rename block still in force, PHAROS lotus_dr_sort not delete-ready, Governess non-quarantine rule active; missing evidence list unresolved.
 - [[Dr. Sort and LOTUS Ownership Decision — March 2026]] — File-level ownership decision for LOTUS and Dr. Sort; canonical owner is `Agency/scriptorium_v3`; PHAROS residue carries unreplicated delta and is quarantined pending adjudication.
 - [[L99 PHAROS Migration Artifacts 2026-04-19]] — Consolidated artifact bundle (2026-04-19) closing the govern-ai → pharos-ai rename, PR #4 backend hardening, the P1 dnspython blocker, the CSV-diagnostic archive pipeline, and the regulatory-corpus gap; drop-in `backend/`, `scripts/`, `docs/` trees; 15/15 PR #4 tests + 21/21 integration tests passing.
-- [[COMPASSai — Governance Engine]] — Governance engine software product that operationalizes the PHAROS pipeline; current recorded architecture decision is Web/SaaS (2026-04-18); receives governed evidence from AurorA.
-- [[AurorA — COMPASSai Input Module]] — Client-facing intake and evidence-legibility module for COMPASSai; current recorded architecture decision is file-deposit module inside COMPASSai (2026-04-18); legacy `AurorAI` implementation traces still require source reconciliation.
+- [[COMPASSai — Governance Engine]] — Governance engine software product that operationalizes the PHAROS pipeline; current recorded architecture decision is Web/SaaS (2026-04-18); receives governed evidence from AurorA; deployed to Railway production 2026-06-22.
+- [[COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]] — Full 9-group EU AI Act Annex III classifier (Art. 6(1) safety-component pathway, GPAI Title VIII detection, Art. 5 expansion), Quebec Construction Regulatory Classifier (12 domains, 10 regulators), and regulatory corpus schema; all deployed to Railway production 2026-06-22.
+- [[Railway — COMPASSai Production Deployment Platform]] — Railway PaaS hosting the COMPASSai backend in production as of 2026-06-22; environment-variable security constraint confirmed; replaces local-stack deployment.
+- [[AurorA — COMPASSai Input Module]] — Client-facing intake and evidence-legibility module for COMPASSai; current recorded architecture decision is file-deposit module inside COMPASSai (2026-04-18); legacy `AurorA` implementation traces still require source reconciliation.
 - [[Hermes Dashboard — Professional Governance Tool]] — Operator-facing activity-lane dashboard for Martin Lepage; coordinates active governance engagements, client cases, research threads, and operational tasks.
 - [[EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]] — Current root workspace instructions made graph-visible: Perplexity Computer temporary seat, Hermes Dashboard design system rules, primary lanes, and agent registry boundaries.
 - [[DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]] — Verification-first migration artifact showing preview/classify discipline, explicit secret/runtime exclusions, and zero conflict/hash/size mismatches across 82 approved DG files.
@@ -588,6 +592,7 @@ Notes covering PHAROS positioning, competitive landscape, revenue model mechanic
 - [[PHAROS AI Lineage — Source of Truth]] — Canonical record of the PHAROS method's intellectual lineage and provenance; distinguishes original contributions from adjacent or competing frameworks.
 - [[PHAROS AI and Ethics Submission — Architecture Paper]] — Architecture-focused companion paper to the Springer submission; covers the structural design claims of PHAROS as a system.
 - [[PHAROS Cross-AI Strategy Matrix]] — Competitive matrix positioning PHAROS against other AI governance frameworks across dimensions of scope, determinism, and institutional applicability.
+- [[Philosopher]]
 - [[PHAROS Final Voice Operator — GPT Creator]] — GPT operator configuration for the PHAROS voice persona; relevant to client-facing deployment and product consistency.
 - [[PHAROS Scholarly Essay — Institutional Deployment Architecture]] — Essay on the institutional conditions required for PHAROS deployment; bridges the method paper and the procurement-unblock offer.
 - [[AI Paper Prompt — PHAROS Recursive Workflow Case Study]] — Prompt engineering document for generating PHAROS-aligned research paper output; workflow case study demonstrating the recursive method applied to academic writing.
@@ -704,3 +709,5 @@ These TOPIC notes are sub-indexes bridging this MOC to individual notes within e
 - [[Personal OS]]
 - [[Responses API Fundamentals___]]
 - [[2026-05-05_wwwtricoreaicom]]
+- [[archive/CO-EQUAL-AUTHORITY-DECISION]]
+- [[archive/Ethical Ground Values]]

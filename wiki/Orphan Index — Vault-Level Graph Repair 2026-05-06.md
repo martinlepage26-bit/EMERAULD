@@ -3,7 +3,7 @@ type: index
 tags: [orphan-index, graph-repair, generated, vault-maintenance]
 status: generated
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-06-26
 ---
 
 # Orphan Index — Vault-Level Graph Repair 2026-05-06
@@ -17,12 +17,12 @@ No files were moved, renamed, deleted, or merged. Links were added from index no
 - Markdown files scanned: **1681**
 - True vault-level orphans before index creation: **1156**
 
-- [[wiki/orphan-index/Orphan Index — Raw Sources — 2026-05-06|Orphan Index — Raw Sources — 2026-05-06]] — 889 notes
-- [[wiki/orphan-index/Orphan Index — Artifacts And Archives — 2026-05-06|Orphan Index — Artifacts And Archives — 2026-05-06]] — 88 notes
-- [[wiki/orphan-index/Orphan Index — Runtime And Agents — 2026-05-06|Orphan Index — Runtime And Agents — 2026-05-06]] — 133 notes
-- [[wiki/orphan-index/Orphan Index — Operations And Misc — 2026-05-06|Orphan Index — Operations And Misc — 2026-05-06]] — 37 notes
-- [[wiki/orphan-index/Orphan Index — Root Loose Notes — 2026-05-06|Orphan Index — Root Loose Notes — 2026-05-06]] — 17 notes
-- [[wiki/orphan-index/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06|Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]] — post-normalization residuals and path repair
+- [[archive/Orphan Index — Raw Sources — 2026-05-06]] — 889 notes
+- [[archive/Orphan Index — Artifacts And Archives — 2026-05-06]] — 88 notes
+- [[archive/Orphan Index — Runtime And Agents — 2026-05-06]] — 133 notes
+- [[archive/Orphan Index — Operations And Misc — 2026-05-06]] — 37 notes
+- [[archive/Orphan Index — Root Loose Notes — 2026-05-06]] — 17 notes
+- [[archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]] — post-normalization residuals and path repair
 
 ## Source Categories
 
@@ -55,3 +55,33 @@ No files were moved, renamed, deleted, or merged. Links were added from index no
 - `maps` — 1
 - `raw\ sources` — 1
 - `skill.md` — 1
+
+## Wiki orphan repair — 2026-06-26 (council zero-orphan pass)
+
+Inbound links added to clear wiki orphans:
+
+- [[CO-EQUAL-AUTHORITY-DECISION]]
+- [[Ethical Ground Values]]
+- [[Governance Stress-Test Protocols Index]]
+- [[Orphan Index — Artifacts And Archives — 2026-05-06]]
+- [[Orphan Index — Operations And Misc — 2026-05-06]]
+- [[Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]
+- [[Orphan Index — Raw Sources — 2026-05-06]]
+- [[Orphan Index — Root Loose Notes — 2026-05-06]]
+- [[Orphan Index — Runtime And Agents — 2026-05-06]]
+- [[agent-evaluation]]
+- [[ai-product]]
+- [[brief-to-tasks]]
+- [[diamond-eyes]]
+- [[doc]]
+- [[first-principles]]
+- [[free-tool-strategy]]
+- [[hermes-dependency-mapper]]
+- [[hermes-escalation-router]]
+- [[inner-mind-eye]]
+- [[ma-degree-guide]]
+- [[red-team]]
+- [[repo-logo-generator]]
+- [[triangulation]]
+- [[ux-researcher-designer]]
+- [[web-scraping]]

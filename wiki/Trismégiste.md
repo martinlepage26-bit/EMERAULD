@@ -1,7 +1,8 @@
 ---
 type: wiki
 aliases:
-  - Trismégiste
+  - Trismégiste hub
+  - Trismégiste operator surface
 tags: [trismegiste, operator, continuity, personal-assistant]
 status: active
 created: 2026-05-06

@@ -23,6 +23,7 @@ These pages bridge distinct domains (theory ↔ narrative, governance ↔ practi
 
 - [[Narrative and Method Integration — Creative Articulations of Governance]] — Connects governance theory to its narrative and allegorical articulations in novels, allegories, and creative work. Explains how abstract concepts (seam, charge, failure harvesting) appear in both theoretical and narrative registers. Start here if you're moving between fiction and governance domains.
 - [[EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]] — Graph-facing bridge for root `AGENTS.md`: current Perplexity Computer coordination, Hermes Dashboard design contract, canonical lanes, and agent registry boundaries.
+- [[Trismégiste hub]] — operator identity surface for continuity, personal assistant work, and cross-session orchestration.
 - [[Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]] — Meaning-first cluster topology pass: what the vault repeatedly returns to, and how Trismégiste (meaning/provenance) and Hermes (routing/monitoring) coordinate without collapsing into one agent.
 - [[Martin Lepage Professional Identity]] — master identity hub above the public/professional, scholarly publication, and creative/compositional Martin surfaces.
 - [[Vault Topic Coverage Matrix — 2026-05-06]] — Exhaustive topic-family map for the vault workstream, including magical system, PHAROS, governance, writing, research, and Documents/Downloads coverage.
@@ -36,7 +37,7 @@ These pages bridge distinct domains (theory ↔ narrative, governance ↔ practi
 - [[Root Loose Notes Cluster Map — 2026-05-06]] — Semantic cluster map for root-level graph outliers: HELIX prototype/transcripts, commercial offer scratchpads, phrase-origin material, infrastructure checklists, RIA provenance, and empty stubs.
 - [[Orphan Index — Vault-Level Graph Repair 2026-05-06]] — Obsidian-visible orphan index for the whole vault, including raw sources, artifacts, runtime/agent files, operations notes, and loose root notes.
 - [[Dr. Sort Filename Normalization — 2026-05-06]] — maintenance log for the duplicate-title filename cleanup after the Dr. Sort pass.
-- [[wiki/orphan-index/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06|Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]] — residual alias/path repair after duplicate-title renames exposed graph-hostile filenames.
+- [[archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]] — residual alias/path repair after duplicate-title renames exposed graph-hostile filenames.
 
 ---
 
@@ -69,6 +70,7 @@ These TOPIC pages aggregate and organize papers and concepts by thematic cluster
 High-priority notes drawn from across the vault. These represent the most active or highest-stakes artifacts.
 
 **Governance and PHAROS**
+- [[PHAROS]] — canonical company and operational entity hub
 - [[PHAROS AI Ethics Submission — Springer Draft]] — the primary PHAROS academic submission
 - [[PHAROS Recalibration — Unified Governance Architecture]] — canonical architecture state
 - [[PHAROS Evidentiary Gap Closure Bundle]] — evidentiary discipline and gap-closing record

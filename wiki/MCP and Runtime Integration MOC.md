@@ -22,6 +22,7 @@ updated: 2026-05-14
 
 ## Connector and Tooling Notes
 
+- [[Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]
 - [[ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]
 - [[Skill Domain — AI and LLM Tools]]
 - [[skills/mcp-builder]]

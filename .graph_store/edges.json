@@ -651,6 +651,11 @@
   },
   {
     "source": "AI Governance Sprint — One-Page Sellable Packet",
+    "target": "PHAROS Method — Technical Reference",
+    "count": 1
+  },
+  {
+    "source": "AI Governance Sprint — One-Page Sellable Packet",
     "target": "Trust Advantage Analysis — Sales and AI Governance",
     "count": 1
   },
@@ -846,7 +851,7 @@
   },
   {
     "source": "AI Identity and Phenomenology",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 2
   },
   {
@@ -882,6 +887,11 @@
   {
     "source": "AI Infrastructure Stack",
     "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "Agent Distillation Pipeline",
     "count": 1
   },
   {
@@ -1191,6 +1201,11 @@
   },
   {
     "source": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "target": "PHAROS",
+    "count": 1
+  },
+  {
+    "source": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
     "target": "PHAROS AI Lineage — Source of Truth",
     "count": 3
   },
@@ -1202,11 +1217,6 @@
   {
     "source": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
     "target": "PHAROS Final Voice Operator — GPT Creator",
-    "count": 1
-  },
-  {
-    "source": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "target": "PHAROS Method — Technical Reference",
     "count": 1
   },
   {
@@ -1266,7 +1276,7 @@
   },
   {
     "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 2
   },
   {
@@ -1366,6 +1376,16 @@
   },
   {
     "source": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "target": "AurorA — COMPASSai Input Module",
+    "count": 1
+  },
+  {
+    "source": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "target": "COMPASSai — Governance Engine",
+    "count": 1
+  },
+  {
+    "source": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
     "target": "Documents Root Loose Files Intake — 2026-04-28",
     "count": 2
   },
@@ -1373,6 +1393,11 @@
     "source": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
     "target": "Fluency, Interruption, and Institutional Accountability",
     "count": 2
+  },
+  {
+    "source": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "target": "HELIX — Value Proposition and Buyer Profile",
+    "count": 1
   },
   {
     "source": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
@@ -1591,8 +1616,13 @@
   },
   {
     "source": "APEX Papers — Research Archive Map",
+    "target": "PHAROS",
+    "count": 2
+  },
+  {
+    "source": "APEX Papers — Research Archive Map",
     "target": "PHAROS Method — Technical Reference",
-    "count": 4
+    "count": 2
   },
   {
     "source": "APEX Papers — Research Archive Map",
@@ -2671,7 +2701,7 @@
   },
   {
     "source": "Architecture Translation Guide — Eight Operators to Three-Agent Stack",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 2
   },
   {
@@ -2816,13 +2846,23 @@
   },
   {
     "source": "AurorA — COMPASSai Input Module",
+    "target": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "count": 1
+  },
+  {
+    "source": "AurorA — COMPASSai Input Module",
     "target": "COMPASSai — Governance Engine",
-    "count": 4
+    "count": 5
   },
   {
     "source": "AurorA — COMPASSai Input Module",
     "target": "Governance and PHAROS MOC",
     "count": 1
+  },
+  {
+    "source": "AurorA — COMPASSai Input Module",
+    "target": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 2
   },
   {
     "source": "AurorA — COMPASSai Input Module",
@@ -2836,6 +2876,16 @@
   },
   {
     "source": "AurorA — COMPASSai Input Module",
+    "target": "PHAROS",
+    "count": 2
+  },
+  {
+    "source": "AurorA — COMPASSai Input Module",
+    "target": "PHAROS AI Ethics Submission — Springer Draft",
+    "count": 2
+  },
+  {
+    "source": "AurorA — COMPASSai Input Module",
     "target": "PHAROS Method — Technical Reference",
     "count": 2
   },
@@ -2846,13 +2896,28 @@
   },
   {
     "source": "AurorA — COMPASSai Input Module",
+    "target": "PHAROS Scholarly Publication Track",
+    "count": 2
+  },
+  {
+    "source": "AurorA — COMPASSai Input Module",
     "target": "PHAROS-AI Webservice — pharos-ai.ca",
     "count": 3
   },
   {
     "source": "AurorA — COMPASSai Input Module",
-    "target": "projects/AurorA — Fisher King Project State",
+    "target": "RECURSO — Final Audit and Ethical Review",
     "count": 1
+  },
+  {
+    "source": "AurorA — COMPASSai Input Module",
+    "target": "Recursive Deterministic AI Governance — Method and Paper",
+    "count": 2
+  },
+  {
+    "source": "AurorA — COMPASSai Input Module",
+    "target": "Research Hub",
+    "count": 2
   },
   {
     "source": "Authority After Legitimacy — Disenchantment and Queer Political Theory",
@@ -4180,14 +4245,69 @@
     "count": 1
   },
   {
+    "source": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "target": "AurorA — COMPASSai Input Module",
+    "count": 2
+  },
+  {
+    "source": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "target": "COMPASSai — Governance Engine",
+    "count": 3
+  },
+  {
+    "source": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "target": "EU AI Act and Law 25 — Regulatory Pressure Window",
+    "count": 1
+  },
+  {
+    "source": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "target": "HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)",
+    "count": 1
+  },
+  {
+    "source": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "target": "Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)",
+    "count": 2
+  },
+  {
+    "source": "COMPASSai — Governance Engine",
+    "target": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "count": 2
+  },
+  {
     "source": "COMPASSai — Governance Engine",
     "target": "AurorA — COMPASSai Input Module",
-    "count": 3
+    "count": 4
+  },
+  {
+    "source": "COMPASSai — Governance Engine",
+    "target": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "count": 2
+  },
+  {
+    "source": "COMPASSai — Governance Engine",
+    "target": "EU AI Act and Law 25 — Regulatory Pressure Window",
+    "count": 1
+  },
+  {
+    "source": "COMPASSai — Governance Engine",
+    "target": "First Method Paper — Recursive AI Governance as Executable Method",
+    "count": 1
   },
   {
     "source": "COMPASSai — Governance Engine",
     "target": "Governance and PHAROS MOC",
     "count": 1
+  },
+  {
+    "source": "COMPASSai — Governance Engine",
+    "target": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 2
   },
   {
     "source": "COMPASSai — Governance Engine",
@@ -4206,8 +4326,13 @@
   },
   {
     "source": "COMPASSai — Governance Engine",
+    "target": "PHAROS",
+    "count": 2
+  },
+  {
+    "source": "COMPASSai — Governance Engine",
     "target": "PHAROS AI Ethics Submission — Springer Draft",
-    "count": 1
+    "count": 3
   },
   {
     "source": "COMPASSai — Governance Engine",
@@ -4226,13 +4351,33 @@
   },
   {
     "source": "COMPASSai — Governance Engine",
+    "target": "PHAROS Scholarly Publication Track",
+    "count": 2
+  },
+  {
+    "source": "COMPASSai — Governance Engine",
     "target": "PHAROS-AI Webservice — pharos-ai.ca",
     "count": 3
   },
   {
     "source": "COMPASSai — Governance Engine",
-    "target": "projects/COMPASSai — Fisher King Project State",
+    "target": "RECURSO — Final Audit and Ethical Review",
     "count": 1
+  },
+  {
+    "source": "COMPASSai — Governance Engine",
+    "target": "Railway — COMPASSai Production Deployment Platform",
+    "count": 1
+  },
+  {
+    "source": "COMPASSai — Governance Engine",
+    "target": "Recursive Deterministic AI Governance — Method and Paper",
+    "count": 2
+  },
+  {
+    "source": "COMPASSai — Governance Engine",
+    "target": "Research Hub",
+    "count": 2
   },
   {
     "source": "CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
@@ -4616,7 +4761,7 @@
   },
   {
     "source": "Care, Ethics, and Governance",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 1
   },
   {
@@ -5726,7 +5871,7 @@
   },
   {
     "source": "Control Protocols MOC",
-    "target": "PHAROS Method — Technical Reference",
+    "target": "PHAROS",
     "count": 1
   },
   {
@@ -6052,6 +6197,11 @@
   {
     "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
     "target": "Writing and Novels MOC",
+    "count": 1
+  },
+  {
+    "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
+    "target": "bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06",
     "count": 1
   },
   {
@@ -6990,6 +7140,106 @@
     "count": 1
   },
   {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
+    "count": 1
+  },
+  {
     "source": "Documents and Downloads Coverage Matrix — 2026-05-06",
     "target": "AI Governance Public Statement and Market Impact Pack",
     "count": 1
@@ -7376,6 +7626,11 @@
   },
   {
     "source": "EMERAULD",
+    "target": "Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD",
     "target": "Obsidian Second Brain Product",
     "count": 1
   },
@@ -7396,6 +7651,16 @@
   },
   {
     "source": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
+    "target": "AurorA — COMPASSai Input Module",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
+    "target": "COMPASSai — Governance Engine",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
     "target": "Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)",
     "count": 1
   },
@@ -7403,6 +7668,26 @@
     "source": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
     "target": "EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard",
     "count": 3
+  },
+  {
+    "source": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
+    "target": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
+    "target": "Hermes Dashboard — Professional Governance Tool",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
+    "target": "PHAROS",
+    "count": 2
+  },
+  {
+    "source": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
+    "target": "PHAROS Method — Technical Reference",
+    "count": 2
   },
   {
     "source": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
@@ -7626,7 +7911,7 @@
   },
   {
     "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 4
   },
   {
@@ -7816,7 +8101,7 @@
   },
   {
     "source": "EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 1
   },
   {
@@ -8661,7 +8946,7 @@
   },
   {
     "source": "Evidence Discipline and Epistemics",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 1
   },
   {
@@ -9590,6 +9875,376 @@
     "count": 2
   },
   {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-add-backlog",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-add-phase",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-add-tests",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-add-todo",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-ai-integration-phase",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-analyze-dependencies",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-audit-fix",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-audit-milestone",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-audit-uat",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-autonomous",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-check-todos",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-cleanup",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-code-review",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-code-review-fix",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-complete-milestone",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-debug",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-discuss-phase",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-do",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-docs-update",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-eval-review",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-execute-phase",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-explore",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-extract_learnings",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-fast",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-forensics",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-from-gsd2",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-graphify",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-health",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-help",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-import",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-inbox",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-insert-phase",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-intel",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-join-discord",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-list-phase-assumptions",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-list-workspaces",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-manager",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-map-codebase",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-milestone-summary",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-new-milestone",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-new-project",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-new-workspace",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-next",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-note",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-pause-work",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-plan-milestone-gaps",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-plan-phase",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-plant-seed",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-pr-branch",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-profile-user",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-progress",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-quick",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-reapply-patches",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-remove-phase",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-remove-workspace",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-research-phase",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-resume-work",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-review",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-review-backlog",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-scan",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-secure-phase",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-session-report",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-set-profile",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-settings",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-ship",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-stats",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-thread",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-ui-phase",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-ui-review",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-undo",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-update",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-validate-phase",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-verify-work",
+    "count": 1
+  },
+  {
+    "source": "GSD Tier 1 — Core Workflow Skills Hub",
+    "target": "skills/gsd-workstreams",
+    "count": 1
+  },
+  {
     "source": "GSD — Get Shit Done Context Engineering System",
     "target": "EMERAULD",
     "count": 2
@@ -10345,6 +11000,11 @@
     "count": 2
   },
   {
+    "source": "Governance Stress-Test Protocols — Index",
+    "target": "archive/Governance Stress-Test Protocols Index",
+    "count": 1
+  },
+  {
     "source": "Governance Typology — Recursive AI Governance Taxonomy",
     "target": "First Method Paper — Recursive AI Governance as Executable Method",
     "count": 4
@@ -10587,6 +11247,11 @@
   {
     "source": "Governance and PHAROS MOC",
     "target": "CDPDJ Complaint — Lepage v Calian and Novartis",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
+    "target": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
     "count": 1
   },
   {
@@ -10907,7 +11572,7 @@
   {
     "source": "Governance and PHAROS MOC",
     "target": "HEPHAISTOS Agent Architecture",
-    "count": 4
+    "count": 5
   },
   {
     "source": "Governance and PHAROS MOC",
@@ -11111,8 +11776,13 @@
   },
   {
     "source": "Governance and PHAROS MOC",
-    "target": "PHAROS AI Ethics Submission — Springer Draft",
+    "target": "PHAROS",
     "count": 2
+  },
+  {
+    "source": "Governance and PHAROS MOC",
+    "target": "PHAROS AI Ethics Submission — Springer Draft",
+    "count": 1
   },
   {
     "source": "Governance and PHAROS MOC",
@@ -11361,6 +12031,11 @@
   },
   {
     "source": "Governance and PHAROS MOC",
+    "target": "Railway — COMPASSai Production Deployment Platform",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
     "target": "Reboot — Performance, Gender, and Computing of Identity",
     "count": 1
   },
@@ -11451,7 +12126,7 @@
   },
   {
     "source": "Governance and PHAROS MOC",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 2
   },
   {
@@ -11607,6 +12282,16 @@
   {
     "source": "Governance and PHAROS MOC",
     "target": "Writing and Novels MOC",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
+    "target": "archive/CO-EQUAL-AUTHORITY-DECISION",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
+    "target": "archive/Ethical Ground Values",
     "count": 1
   },
   {
@@ -11931,6 +12616,11 @@
   },
   {
     "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "target": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "count": 2
+  },
+  {
+    "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
     "target": "Agent Session Phenomenology",
     "count": 1
   },
@@ -11976,8 +12666,38 @@
   },
   {
     "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "target": "PHAROS",
+    "count": 1
+  },
+  {
+    "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "target": "PHAROS AI Ethics Submission — Springer Draft",
+    "count": 2
+  },
+  {
+    "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "target": "PHAROS Scholarly Publication Track",
+    "count": 1
+  },
+  {
+    "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "target": "RECURSO — Final Audit and Ethical Review",
+    "count": 2
+  },
+  {
+    "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "target": "RECURSO — Recursive Governance Test Archive",
+    "count": 2
+  },
+  {
+    "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
     "target": "Recursive Continuity Without Memory — AI Identity Across Sessions",
     "count": 1
+  },
+  {
+    "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "target": "Recursive Deterministic AI Governance — Method and Paper",
+    "count": 2
   },
   {
     "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
@@ -11987,6 +12707,11 @@
   {
     "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
     "target": "Recursive Governance Theory",
+    "count": 1
+  },
+  {
+    "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "target": "Research Hub",
     "count": 1
   },
   {
@@ -12356,6 +13081,11 @@
   },
   {
     "source": "HELIX — Value Proposition and Buyer Profile",
+    "target": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "count": 1
+  },
+  {
+    "source": "HELIX — Value Proposition and Buyer Profile",
     "target": "EU AI Act and Law 25 — Regulatory Pressure Window",
     "count": 1
   },
@@ -12406,12 +13136,27 @@
   },
   {
     "source": "HELIX — Value Proposition and Buyer Profile",
+    "target": "PHAROS AI Ethics Submission — Springer Draft",
+    "count": 1
+  },
+  {
+    "source": "HELIX — Value Proposition and Buyer Profile",
     "target": "PHAROS Method — Core Framework",
     "count": 2
   },
   {
     "source": "HELIX — Value Proposition and Buyer Profile",
     "target": "PHAROS Product Stack",
+    "count": 1
+  },
+  {
+    "source": "HELIX — Value Proposition and Buyer Profile",
+    "target": "RECURSO — Final Audit and Ethical Review",
+    "count": 1
+  },
+  {
+    "source": "HELIX — Value Proposition and Buyer Profile",
+    "target": "Recursive Deterministic AI Governance — Method and Paper",
     "count": 1
   },
   {
@@ -12681,7 +13426,7 @@
   },
   {
     "source": "HEPHAISTOS Agent Architecture",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 2
   },
   {
@@ -13121,8 +13866,13 @@
   },
   {
     "source": "Hermes Dashboard — Professional Governance Tool",
+    "target": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "count": 2
+  },
+  {
+    "source": "Hermes Dashboard — Professional Governance Tool",
     "target": "AurorA — COMPASSai Input Module",
-    "count": 3
+    "count": 4
   },
   {
     "source": "Hermes Dashboard — Professional Governance Tool",
@@ -13132,7 +13882,7 @@
   {
     "source": "Hermes Dashboard — Professional Governance Tool",
     "target": "COMPASSai — Governance Engine",
-    "count": 3
+    "count": 4
   },
   {
     "source": "Hermes Dashboard — Professional Governance Tool",
@@ -13148,6 +13898,11 @@
     "source": "Hermes Dashboard — Professional Governance Tool",
     "target": "Governance and PHAROS MOC",
     "count": 1
+  },
+  {
+    "source": "Hermes Dashboard — Professional Governance Tool",
+    "target": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 2
   },
   {
     "source": "Hermes Dashboard — Professional Governance Tool",
@@ -13181,8 +13936,13 @@
   },
   {
     "source": "Hermes Dashboard — Professional Governance Tool",
+    "target": "PHAROS",
+    "count": 2
+  },
+  {
+    "source": "Hermes Dashboard — Professional Governance Tool",
     "target": "PHAROS AI Ethics Submission — Springer Draft",
-    "count": 1
+    "count": 3
   },
   {
     "source": "Hermes Dashboard — Professional Governance Tool",
@@ -13191,8 +13951,18 @@
   },
   {
     "source": "Hermes Dashboard — Professional Governance Tool",
+    "target": "PHAROS Scholarly Publication Track",
+    "count": 2
+  },
+  {
+    "source": "Hermes Dashboard — Professional Governance Tool",
     "target": "PHAROS-AI Webservice — pharos-ai.ca",
     "count": 3
+  },
+  {
+    "source": "Hermes Dashboard — Professional Governance Tool",
+    "target": "RECURSO — Final Audit and Ethical Review",
+    "count": 1
   },
   {
     "source": "Hermes Dashboard — Professional Governance Tool",
@@ -13201,7 +13971,17 @@
   },
   {
     "source": "Hermes Dashboard — Professional Governance Tool",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Recursive Deterministic AI Governance — Method and Paper",
+    "count": 1
+  },
+  {
+    "source": "Hermes Dashboard — Professional Governance Tool",
+    "target": "Research Hub",
+    "count": 2
+  },
+  {
+    "source": "Hermes Dashboard — Professional Governance Tool",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 2
   },
   {
@@ -13961,6 +14741,11 @@
   },
   {
     "source": "Home",
+    "target": "PHAROS",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "PHAROS AI Ethics Submission — Springer Draft",
     "count": 3
   },
@@ -14201,7 +14986,7 @@
   },
   {
     "source": "Home",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 2
   },
   {
@@ -14336,6 +15121,11 @@
   },
   {
     "source": "Home",
+    "target": "Trismégiste",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "Trust Advantage Analysis — Sales and AI Governance",
     "count": 1
   },
@@ -14423,6 +15213,11 @@
     "source": "Home",
     "target": "Writing and Novels MOC",
     "count": 2
+  },
+  {
+    "source": "Home",
+    "target": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
+    "count": 1
   },
   {
     "source": "Home",
@@ -15946,12 +16741,12 @@
   },
   {
     "source": "Legitimacy Machines MOC",
-    "target": "PHAROS Method — Core Framework",
+    "target": "PHAROS",
     "count": 1
   },
   {
     "source": "Legitimacy Machines MOC",
-    "target": "PHAROS Method — Technical Reference",
+    "target": "PHAROS Method — Core Framework",
     "count": 1
   },
   {
@@ -16856,17 +17651,17 @@
   },
   {
     "source": "MASTER PACK — D Drive Archive Map",
+    "target": "PHAROS",
+    "count": 1
+  },
+  {
+    "source": "MASTER PACK — D Drive Archive Map",
     "target": "PHAROS AI Lineage — Source of Truth",
     "count": 2
   },
   {
     "source": "MASTER PACK — D Drive Archive Map",
     "target": "PHAROS Cross-AI Strategy Matrix",
-    "count": 1
-  },
-  {
-    "source": "MASTER PACK — D Drive Archive Map",
-    "target": "PHAROS Method — Technical Reference",
     "count": 1
   },
   {
@@ -16966,8 +17761,13 @@
   },
   {
     "source": "MASTERxMASTERxMASTER — Skill Corpus Map",
+    "target": "PHAROS",
+    "count": 1
+  },
+  {
+    "source": "MASTERxMASTERxMASTER — Skill Corpus Map",
     "target": "PHAROS Method — Technical Reference",
-    "count": 2
+    "count": 1
   },
   {
     "source": "MASTERxMASTERxMASTER — Skill Corpus Map",
@@ -17042,6 +17842,11 @@
   {
     "source": "MCP and Runtime Integration MOC",
     "target": "Manuscript Pipeline MOC",
+    "count": 1
+  },
+  {
+    "source": "MCP and Runtime Integration MOC",
+    "target": "Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)",
     "count": 1
   },
   {
@@ -17366,12 +18171,12 @@
   },
   {
     "source": "Manuscript Pipeline MOC",
-    "target": "PHAROS Method — Core Framework",
+    "target": "PHAROS",
     "count": 1
   },
   {
     "source": "Manuscript Pipeline MOC",
-    "target": "PHAROS Method — Technical Reference",
+    "target": "PHAROS Method — Core Framework",
     "count": 1
   },
   {
@@ -18516,7 +19321,7 @@
   },
   {
     "source": "Martin Voice Spec — Stage Map",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 1
   },
   {
@@ -18576,7 +19381,7 @@
   },
   {
     "source": "Martin Voice Spec — Version Genealogy",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 4
   },
   {
@@ -18588,6 +19393,16 @@
     "source": "Martin Voice Spec — Version Genealogy",
     "target": "Version Genealogy System",
     "count": 2
+  },
+  {
+    "source": "Martin Voice Spec — Version Genealogy",
+    "target": "genealogy/Martin Voice Spec — Stage Map",
+    "count": 1
+  },
+  {
+    "source": "Martin Voice Spec — Version Genealogy",
+    "target": "genealogy/Martin Voice Spec — Version Genealogy",
+    "count": 1
   },
   {
     "source": "Martin Voice Spec — Version Genealogy",
@@ -18926,7 +19741,7 @@
   },
   {
     "source": "Master Project Tracker — 2026",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 2
   },
   {
@@ -20036,7 +20851,7 @@
   },
   {
     "source": "Narrative and Method Integration — Creative Articulations of Governance",
-    "target": "PHAROS Method — Technical Reference",
+    "target": "PHAROS",
     "count": 1
   },
   {
@@ -20795,6 +21610,26 @@
     "count": 1
   },
   {
+    "source": "Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)",
+    "target": "EMERAULD",
+    "count": 3
+  },
+  {
+    "source": "Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)",
+    "target": "MCP and Runtime Integration MOC",
+    "count": 1
+  },
+  {
+    "source": "Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)",
+    "target": "PHAROS",
+    "count": 2
+  },
+  {
+    "source": "Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)",
+    "target": "Trismégiste — Personal AI Assistant",
+    "count": 2
+  },
+  {
     "source": "Obsidian Second Brain Product",
     "target": "AI Identity and Phenomenology",
     "count": 1
@@ -21095,6 +21930,131 @@
     "count": 1
   },
   {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "PROTOCOLS — Debate and Red-Team Runbook",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/CO-EQUAL-AUTHORITY-DECISION",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/Ethical Ground Values",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/Governance Stress-Test Protocols Index",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/Orphan Index — Artifacts And Archives — 2026-05-06",
+    "count": 2
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/Orphan Index — Operations And Misc — 2026-05-06",
+    "count": 2
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
+    "count": 2
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/Orphan Index — Raw Sources — 2026-05-06",
+    "count": 2
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/Orphan Index — Root Loose Notes — 2026-05-06",
+    "count": 2
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "count": 2
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/agent-evaluation",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/ai-product",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/brief-to-tasks",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/diamond-eyes",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/doc",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/first-principles",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/free-tool-strategy",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/hermes-dependency-mapper",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/hermes-escalation-router",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/inner-mind-eye",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/ma-degree-guide",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/repo-logo-generator",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/triangulation",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/ux-researcher-designer",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/web-scraping",
+    "count": 1
+  },
+  {
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
     "target": "AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
@@ -21136,13 +22096,28 @@
   },
   {
     "source": "PHAROS",
+    "target": "AurorA — COMPASSai Input Module",
+    "count": 2
+  },
+  {
+    "source": "PHAROS",
+    "target": "COMPASSai — Governance Engine",
+    "count": 2
+  },
+  {
+    "source": "PHAROS",
     "target": "Control Protocols MOC",
     "count": 1
   },
   {
     "source": "PHAROS",
     "target": "Governance and PHAROS MOC",
-    "count": 1
+    "count": 2
+  },
+  {
+    "source": "PHAROS",
+    "target": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 2
   },
   {
     "source": "PHAROS",
@@ -21166,8 +22141,23 @@
   },
   {
     "source": "PHAROS",
+    "target": "PHAROS Method — Technical Reference",
+    "count": 3
+  },
+  {
+    "source": "PHAROS",
     "target": "PHAROS Scholarly Publication Track",
-    "count": 1
+    "count": 3
+  },
+  {
+    "source": "PHAROS",
+    "target": "Recursive Deterministic AI Governance — Method and Paper",
+    "count": 2
+  },
+  {
+    "source": "PHAROS",
+    "target": "Research Hub",
+    "count": 2
   },
   {
     "source": "PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)",
@@ -21221,12 +22211,27 @@
   },
   {
     "source": "PHAROS AI Ethics Submission — Springer Draft",
+    "target": "AurorA — COMPASSai Input Module",
+    "count": 1
+  },
+  {
+    "source": "PHAROS AI Ethics Submission — Springer Draft",
+    "target": "COMPASSai — Governance Engine",
+    "count": 1
+  },
+  {
+    "source": "PHAROS AI Ethics Submission — Springer Draft",
     "target": "First Method Paper — Recursive AI Governance as Executable Method",
     "count": 1
   },
   {
     "source": "PHAROS AI Ethics Submission — Springer Draft",
     "target": "Founder Charter — Lepage and Stocker",
+    "count": 1
+  },
+  {
+    "source": "PHAROS AI Ethics Submission — Springer Draft",
+    "target": "HELIX — Value Proposition and Buyer Profile",
     "count": 1
   },
   {
@@ -21346,6 +22351,11 @@
   },
   {
     "source": "PHAROS AI Lineage — Source of Truth",
+    "target": "PHAROS",
+    "count": 1
+  },
+  {
+    "source": "PHAROS AI Lineage — Source of Truth",
     "target": "PHAROS Cross-AI Strategy Matrix",
     "count": 4
   },
@@ -21356,12 +22366,7 @@
   },
   {
     "source": "PHAROS AI Lineage — Source of Truth",
-    "target": "PHAROS Method — Technical Reference",
-    "count": 1
-  },
-  {
-    "source": "PHAROS AI Lineage — Source of Truth",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 2
   },
   {
@@ -21841,7 +22846,7 @@
   },
   {
     "source": "PHAROS Cross-AI Strategy Matrix",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 2
   },
   {
@@ -21941,6 +22946,11 @@
   },
   {
     "source": "PHAROS Final Voice Operator — GPT Creator",
+    "target": "PHAROS",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Final Voice Operator — GPT Creator",
     "target": "PHAROS AI Lineage — Source of Truth",
     "count": 2
   },
@@ -21948,11 +22958,6 @@
     "source": "PHAROS Final Voice Operator — GPT Creator",
     "target": "PHAROS Cross-AI Strategy Matrix",
     "count": 2
-  },
-  {
-    "source": "PHAROS Final Voice Operator — GPT Creator",
-    "target": "PHAROS Method — Technical Reference",
-    "count": 1
   },
   {
     "source": "PHAROS Invention Disclosure",
@@ -22771,8 +23776,18 @@
   },
   {
     "source": "PHAROS Scholarly Publication Track",
+    "target": "AurorA — COMPASSai Input Module",
+    "count": 2
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
     "target": "Bonded Intelligence Under Constraint — The LOTUS Processor Framework",
     "count": 1
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
+    "target": "COMPASSai — Governance Engine",
+    "count": 2
   },
   {
     "source": "PHAROS Scholarly Publication Track",
@@ -22803,6 +23818,16 @@
     "source": "PHAROS Scholarly Publication Track",
     "target": "Governance and PHAROS MOC",
     "count": 1
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
+    "target": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 2
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
+    "target": "Hermes Dashboard — Professional Governance Tool",
+    "count": 2
   },
   {
     "source": "PHAROS Scholarly Publication Track",
@@ -22891,6 +23916,16 @@
   },
   {
     "source": "PHAROS Scholarly Publication Track",
+    "target": "RECURSO — Final Audit and Ethical Review",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
+    "target": "RECURSO — Recursive Governance Test Archive",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
     "target": "Recursive AI Governance as Executable Method — The Very Long Narrative",
     "count": 1
   },
@@ -22903,6 +23938,11 @@
     "source": "PHAROS Scholarly Publication Track",
     "target": "Recursive Governance Theory",
     "count": 1
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
+    "target": "Research Hub",
+    "count": 2
   },
   {
     "source": "PHAROS Scholarly Publication Track",
@@ -24727,7 +25767,12 @@
   {
     "source": "Personal and Projects MOC",
     "target": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "count": 4
+    "count": 1
+  },
+  {
+    "source": "Personal and Projects MOC",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
+    "count": 3
   },
   {
     "source": "Personal and Projects MOC",
@@ -26946,8 +27991,23 @@
   },
   {
     "source": "RDAIG Method Editorial Consolidation — 2026",
+    "target": "AurorA — COMPASSai Input Module",
+    "count": 1
+  },
+  {
+    "source": "RDAIG Method Editorial Consolidation — 2026",
+    "target": "COMPASSai — Governance Engine",
+    "count": 1
+  },
+  {
+    "source": "RDAIG Method Editorial Consolidation — 2026",
     "target": "First Method Paper — Recursive AI Governance as Executable Method",
     "count": 2
+  },
+  {
+    "source": "RDAIG Method Editorial Consolidation — 2026",
+    "target": "HELIX — Value Proposition and Buyer Profile",
+    "count": 1
   },
   {
     "source": "RDAIG Method Editorial Consolidation — 2026",
@@ -27157,6 +28217,31 @@
   {
     "source": "ROOK — Session Boundary Model",
     "target": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "count": 1
+  },
+  {
+    "source": "Railway — COMPASSai Production Deployment Platform",
+    "target": "AurorA — COMPASSai Input Module",
+    "count": 2
+  },
+  {
+    "source": "Railway — COMPASSai Production Deployment Platform",
+    "target": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "count": 2
+  },
+  {
+    "source": "Railway — COMPASSai Production Deployment Platform",
+    "target": "COMPASSai — Governance Engine",
+    "count": 4
+  },
+  {
+    "source": "Railway — COMPASSai Production Deployment Platform",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Railway — COMPASSai Production Deployment Platform",
+    "target": "PHAROS-AI Webservice — pharos-ai.ca",
     "count": 1
   },
   {
@@ -28196,12 +29281,37 @@
   },
   {
     "source": "Research Hub",
+    "target": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "count": 1
+  },
+  {
+    "source": "Research Hub",
     "target": "Academic Paper Pipeline",
     "count": 1
   },
   {
     "source": "Research Hub",
+    "target": "AurorA — COMPASSai Input Module",
+    "count": 1
+  },
+  {
+    "source": "Research Hub",
+    "target": "COMPASSai — Governance Engine",
+    "count": 1
+  },
+  {
+    "source": "Research Hub",
     "target": "Complete Paper List — Martin Lepage Corpus",
+    "count": 1
+  },
+  {
+    "source": "Research Hub",
+    "target": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "Research Hub",
+    "target": "Hermes Dashboard — Professional Governance Tool",
     "count": 1
   },
   {
@@ -28216,7 +29326,22 @@
   },
   {
     "source": "Research Hub",
+    "target": "PHAROS",
+    "count": 2
+  },
+  {
+    "source": "Research Hub",
+    "target": "PHAROS AI Ethics Submission — Springer Draft",
+    "count": 1
+  },
+  {
+    "source": "Research Hub",
     "target": "PHAROS Scholarly Publication Track",
+    "count": 1
+  },
+  {
+    "source": "Research Hub",
+    "target": "Recursive Deterministic AI Governance — Method and Paper",
     "count": 1
   },
   {
@@ -28306,6 +29431,11 @@
   },
   {
     "source": "Research and Papers MOC",
+    "target": "AurorA — COMPASSai Input Module",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
     "target": "Authority After Legitimacy — Disenchantment and Queer Political Theory",
     "count": 1
   },
@@ -28357,6 +29487,11 @@
   {
     "source": "Research and Papers MOC",
     "target": "CDPDJ Complaint — Lepage v Calian and Novartis",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "COMPASSai — Governance Engine",
     "count": 1
   },
   {
@@ -28526,6 +29661,11 @@
   },
   {
     "source": "Research and Papers MOC",
+    "target": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
     "target": "HENRY — Research Paper Writing System",
     "count": 1
   },
@@ -28547,6 +29687,11 @@
   {
     "source": "Research and Papers MOC",
     "target": "Healthcare Governance Packet — Recursive Governance for Providers",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "Hermes Dashboard — Professional Governance Tool",
     "count": 1
   },
   {
@@ -28776,6 +29921,11 @@
   },
   {
     "source": "Research and Papers MOC",
+    "target": "PHAROS Scholarly Publication Track",
+    "count": 2
+  },
+  {
+    "source": "Research and Papers MOC",
     "target": "PHAROS — Origin and Doctrine",
     "count": 1
   },
@@ -28957,7 +30107,7 @@
   {
     "source": "Research and Papers MOC",
     "target": "Research Hub",
-    "count": 1
+    "count": 2
   },
   {
     "source": "Research and Papers MOC",
@@ -30186,6 +31336,11 @@
   },
   {
     "source": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
+    "count": 1
+  },
+  {
+    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
     "target": "Second Self System — Public Voice Examples",
     "count": 2
   },
@@ -30316,7 +31471,7 @@
   },
   {
     "source": "Second Self System — Public Voice Examples",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 1
   },
   {
@@ -33535,6 +34690,91 @@
     "count": 3
   },
   {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/Governance Stress-Test Protocols Index",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/agent-evaluation",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/ai-product",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/brief-to-tasks",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/diamond-eyes",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/doc",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/first-principles",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/free-tool-strategy",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/hermes-dependency-mapper",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/hermes-escalation-router",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/inner-mind-eye",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/ma-degree-guide",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/red-team",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/repo-logo-generator",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/triangulation",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/ux-researcher-designer",
+    "count": 1
+  },
+  {
+    "source": "Skill Ecosystem — Professional Capability Registry",
+    "target": "archive/web-scraping",
+    "count": 1
+  },
+  {
     "source": "Skill Map — Canonical Routed Skills (2026-05-06)",
     "target": "Codex Skills Inventory — Complete Registry (241 Skills)",
     "count": 1
@@ -34416,6 +35656,11 @@
   },
   {
     "source": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "count": 1
+  },
+  {
+    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
     "target": "session-state",
     "count": 1
   },
@@ -34533,6 +35778,11 @@
     "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
     "target": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
     "count": 1
+  },
+  {
+    "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "count": 2
   },
   {
     "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
@@ -36386,7 +37636,7 @@
   },
   {
     "source": "Trismégiste — Operator State",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 1
   },
   {
@@ -36446,8 +37696,13 @@
   },
   {
     "source": "Trismégiste — Personal AI Assistant",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 2
+  },
+  {
+    "source": "Trismégiste — Personal AI Assistant",
+    "target": "Trismégiste",
+    "count": 1
   },
   {
     "source": "Trismégiste — Personal AI Assistant",
@@ -36921,8 +38176,43 @@
   },
   {
     "source": "Vault Deep Linking Pass — 2026-05-06",
+    "target": "Workspace Cleanup Ledger — 2026-05-31",
+    "count": 1
+  },
+  {
+    "source": "Vault Deep Linking Pass — 2026-05-06",
     "target": "Writing and Novels MOC",
     "count": 2
+  },
+  {
+    "source": "Vault Deep Linking Pass — 2026-05-06",
+    "target": "archive/Orphan Index — Artifacts And Archives — 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "Vault Deep Linking Pass — 2026-05-06",
+    "target": "archive/Orphan Index — Operations And Misc — 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "Vault Deep Linking Pass — 2026-05-06",
+    "target": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "Vault Deep Linking Pass — 2026-05-06",
+    "target": "archive/Orphan Index — Raw Sources — 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "Vault Deep Linking Pass — 2026-05-06",
+    "target": "archive/Orphan Index — Root Loose Notes — 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "Vault Deep Linking Pass — 2026-05-06",
+    "target": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "count": 1
   },
   {
     "source": "Vault Deep Linking Pass — 2026-05-06",
@@ -37235,6 +38525,131 @@
     "count": 3
   },
   {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/2027 - AI 2027 Summary Research",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/2027 - AI 2027 Summary Research 2",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/2027 - AI 2027 Summary Research 3",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/2027 - AI 2027 Summary Research 4",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - 2006 - report 2",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - 2006 - report 3",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - 2006 - report 4",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - 2006 - report 5",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - 2009 - legalorcontract 2",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - 2013 - 23 ISSN 1528-0268 print",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - 2013 - auditorassessment 2",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - 2013 - auditorassessment 3",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - 2015 - policyorguidance 3",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - 2015 - policyorguidance 4",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf - 2020 - Mar - 2020 - Martin Lepage - Simp",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - CORPUS ou le gnie de linsistance 1",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - FIRST DRAFT",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - Governance by Denial Revised Working Draft",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - Introduction",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - dataimagepngbase64",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "bridges/Bridge - dataimagepngbase64... 2",
+    "count": 1
+  },
+  {
     "source": "Vault Graph Hygiene — Content Title Normalization Skill",
     "target": "Codex Skills Inventory — Complete Registry (241 Skills)",
     "count": 1
@@ -37397,6 +38812,166 @@
   {
     "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
     "target": "Virtually Magical Literally — Queer Agency and the Digital Witch",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/2025 - AI Fundamentals for Business Professionals Notebook",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/2025 - AI Fundamentals for Business Professionals Notebook 2",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/2027 - AI 2027 Summary Research",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/2027 - AI 2027 Summary Research 2",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/2027 - AI 2027 Summary Research 3",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/2027 - AI 2027 Summary Research 4",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - 2006 - report 2",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - 2006 - report 3",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - 2006 - report 4",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - 2006 - report 5",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - 2009 - legalorcontract 2",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - 2013 - 23 ISSN 1528-0268 print",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - 2013 - auditorassessment 2",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - 2013 - auditorassessment 3",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - 2015 - policyorguidance 3",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - 2015 - policyorguidance 4",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf - 2020 - Mar - 2020 - Martin Lepage - Simp",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - CORPUS ou le gnie de linsistance 1",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - FIRST DRAFT",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - Governance by Denial Revised Working Draft",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - Introduction",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - dataimagepngbase64",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge - dataimagepngbase64... 2",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge — Agents vs. Chatbots Fundamentals",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge — Malformed JSON Prefix",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge — Mandrake",
+    "count": 1
+  },
+  {
+    "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "target": "bridges/Bridge — Responses API Fundamentals",
     "count": 1
   },
   {
@@ -37822,6 +39397,16 @@
   {
     "source": "Version Genealogy System",
     "target": "Voodoo Doll — Archival Governance and Colonial Naming",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "genealogy/Martin Voice Spec — Stage Map",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "genealogy/Martin Voice Spec — Version Genealogy",
     "count": 1
   },
   {
@@ -38805,6 +40390,11 @@
     "count": 1
   },
   {
+    "source": "archive/Orphan Index — Raw Sources — 2026-05-06",
+    "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "count": 1
+  },
+  {
     "source": "archive/Orphan Index — Root Loose Notes — 2026-05-06",
     "target": "PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)",
     "count": 1
@@ -39286,7 +40876,12 @@
   },
   {
     "source": "genealogy/Martin Voice Spec — Stage Map",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
+    "count": 1
+  },
+  {
+    "source": "genealogy/Martin Voice Spec — Stage Map",
+    "target": "genealogy/test",
     "count": 1
   },
   {
@@ -39552,6 +41147,11 @@
   {
     "source": "maps/PHAROS Method Map",
     "target": "OpenAI Governance Framework — Comparison with PHAROS",
+    "count": 1
+  },
+  {
+    "source": "maps/PHAROS Method Map",
+    "target": "PHAROS",
     "count": 1
   },
   {
@@ -40266,7 +41866,7 @@
   },
   {
     "source": "projects/Second Self — Fisher King Project State",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 2
   },
   {
@@ -40445,17 +42045,17 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source Note",
+    "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
     "target": "Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source Note",
+    "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
     "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source Note",
+    "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
     "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },

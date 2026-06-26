@@ -34,7 +34,7 @@ Heal. Treat COMPASSai as active but not automatically production-credible. The r
 - Supersedes:
 - Superseded by:
 - Confidence: high for importance, medium for current implementation state
-- Last reviewed: 2026-05-07
+- Last reviewed: 2026-06-22
 - Review Owner/Signatory: Martin
 
 ## Active Tensions
@@ -64,6 +64,14 @@ Heal. Treat COMPASSai as active but not automatically production-credible. The r
 - COMPASSai naming normalized in the master tracker.
 - Later operator-state evidence records Web/SaaS architecture as decided on 2026-04-18.
 - L99 migration artifacts preserved a test-contract and deployment-hardening boundary after earlier narrative-reality gaps.
+- **2026-06-22 — Major classifier delivery (Railway production):**
+  - EU AI Act classifier expanded: 9 Annex III groups (added Art. 6(1) safety-component group for radiology/medical AI/autonomous vehicles); GPAI detection (Title VIII Arts. 51–52); Art. 5 prohibited-practice expansion; insurance claims adjudication added to essential services (commit 9bb696b — gap found during results review where UC was misclassified as limited_risk)
+  - Quebec Construction Regulatory Classifier built: 12 domains, 10 regulators, article-level obligations, `/api/v1/qc-construction/` endpoints; expert-report domain carries AI citation hallucination-risk flag
+  - Regulatory corpus schema (`reg_ingest.py`) with LégisQuébec XML + Justice Canada XML parsers; 19 priority stubs seeded
+  - 23 use cases total in production (12 original + 11 chaotic from Grok mock dataset)
+  - HELIX integration module added by Codex (experimental; affects uncertainty_fields, controls, gating)
+  - Claim boundary confirmed: these modules support compliance review; they do not certify legal compliance
+  - Security constraint confirmed: never commit passwords to git-tracked files; use env vars
 
 ## Consequence Binding
 - What changes if we execute the next move? -> COMPASSai becomes a governed engine surface with a clear source of truth and claim boundary.

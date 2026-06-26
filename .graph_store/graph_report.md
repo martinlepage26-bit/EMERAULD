@@ -1,48 +1,76 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-06-21T08:56:06Z
+Built: 2026-06-26T07:18:31Z
 Corpus: vector_store paths.json wiki entries
 
 ## Summary
 
-- Nodes: 901
-- Directed edges: 8672
-- Link mentions: 15707
-- Unresolved wikilinks: 3299
-- Connected components: 13
-- Largest component: 889
-- Zero-backlink notes: 56
-- One-backlink notes: 105
-- Two-backlink notes: 135
+- Nodes: 904
+- Directed edges: 8992
+- Link mentions: 16096
+- Unresolved wikilinks: 3285
+- Connected components: 1
+- Largest component: 904
+- Zero-backlink notes: 0
+- One-backlink notes: 16
+- Two-backlink notes: 258
 
 ## Backlink Histogram
 
-- 0: 56
-- 1: 105
-- 101+: 26
-- 11-20: 113
-- 2: 135
-- 21-50: 105
-- 3-4: 106
-- 5-6: 110
-- 51-100: 30
+- 1: 16
+- 101+: 25
+- 11-20: 112
+- 2: 258
+- 21-50: 107
+- 3-4: 127
+- 5-6: 112
+- 51-100: 32
 - 7-10: 115
 
 ## Low-Backlink Notes
 
-### Zero backlink (56)
+### Zero backlink (0)
+
+_None._
+
+### One backlink (16)
 - [[Agent Distillation Pipeline]]
-- [[PHAROS]]
-- [[Second Self System — Identity Kernel and Agent Routing Architecture]]
-- [[Trismégiste]]
+- [[Agent Logs Hub]]
+- [[Daily Dashboard]]
+- [[Knowledge Gaps]]
+- [[Personal OS]]
+- [[Projects Hub]]
+- [[Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]
+- [[Queering Neo-Pagan Magic — FINAL FINAL PAPER]]
+- [[VoiceBridge Foundation]]
+- [[Workflows Hub]]
 - [[Workspace Cleanup Ledger — 2026-05-31]]
-- [[archive/Governance Stress-Test Protocols Index]]
-- [[archive/Orphan Index — Artifacts And Archives — 2026-05-06]]
-- [[archive/Orphan Index — Operations And Misc — 2026-05-06]]
-- [[archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]
-- [[archive/Orphan Index — Raw Sources — 2026-05-06]]
-- [[archive/Orphan Index — Root Loose Notes — 2026-05-06]]
-- [[archive/Orphan Index — Runtime And Agents — 2026-05-06]]
+- [[archive/red-team]]
+- [[maps/Novel Corpus Map]]
+- [[skills/ask-vault]]
+- [[skills/trace-investigator]]
+- [[skills/vault-graph-hygiene]]
+
+### Two backlink (258)
+- [[2026 - Mauss - The Gift]]
+- [[ACTOR Framework — Agent vs Chatbot Decision Tool]]
+- [[App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]
+- [[CLAUDEX — AI Dialogue Archive]]
+- [[Chrome Extension Monetization - Policy and Product Options]]
+- [[Cultural and Lyric Corpus Memo — 2026-05-14]]
+- [[Governance and Platform Signals Memo — 2026-05-14]]
+- [[IP and Manuscript Brief — 2026-05-14]]
+- [[Kickstart App Prompt — Template and Synthesis Framework]]
+- [[Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]
+- [[Operator Continuity Memo — 2026-05-14]]
+- [[PERPLEXITY-COMPUTER]]
+- [[PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]
+- [[Philosopher]]
+- [[Queering Neo-Pagan Magic — MRW Submission (2026)]]
+- [[Railway — COMPASSai Production Deployment Platform]]
+- [[Second Self System Identity Kernel and Agent Routing Architecture]]
+- [[Trismégiste]]
+- [[WSL and System Storage Recovery — Quick Wins Checklist]]
 - [[archive/agent-evaluation]]
 - [[archive/ai-product]]
 - [[archive/brief-to-tasks]]
@@ -54,7 +82,6 @@ Corpus: vector_store paths.json wiki entries
 - [[archive/hermes-escalation-router]]
 - [[archive/inner-mind-eye]]
 - [[archive/ma-degree-guide]]
-- [[archive/red-team]]
 - [[archive/repo-logo-generator]]
 - [[archive/triangulation]]
 - [[archive/ux-researcher-designer]]
@@ -78,33 +105,17 @@ Corpus: vector_store paths.json wiki entries
 - [[bridges/Bridge - 2015 - policyorguidance 4]]
 - [[bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf - 2020 - Mar - 2020 - Martin Lepage - Simp]]
 - [[bridges/Bridge - CORPUS ou le gnie de linsistance 1]]
-- [[bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06]]
 - [[bridges/Bridge - FIRST DRAFT]]
 - [[bridges/Bridge - Governance by Denial Revised Working Draft]]
 - [[bridges/Bridge - Introduction]]
+- [[bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve]]
 - [[bridges/Bridge - dataimagepngbase64]]
 - [[bridges/Bridge - dataimagepngbase64... 2]]
-- [[genealogy/Martin Voice Spec — Stage Map]]
-- [[genealogy/Martin Voice Spec — Version Genealogy]]
-- [[raw-sources/2026-05-13/Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source Note]]
-
-### One backlink (105)
-- [[Agent Logs Hub]]
-- [[Daily Dashboard]]
-- [[Knowledge Gaps]]
-- [[Personal OS]]
-- [[Projects Hub]]
-- [[Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]
-- [[Queering Neo-Pagan Magic — FINAL FINAL PAPER]]
-- [[VoiceBridge Foundation]]
-- [[Workflows Hub]]
-- [[archive/CO-EQUAL-AUTHORITY-DECISION]]
-- [[archive/Ethical Ground Values]]
-- [[bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve]]
 - [[bridges/Bridge — Agents vs. Chatbots Fundamentals]]
 - [[bridges/Bridge — Malformed JSON Prefix]]
 - [[bridges/Bridge — Mandrake]]
-- [[maps/Novel Corpus Map]]
+- [[genealogy/Martin Voice Spec — Stage Map]]
+- [[genealogy/Martin Voice Spec — Version Genealogy]]
 - [[raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]
 - [[raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note]]
 - [[raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note]]
@@ -117,108 +128,6 @@ Corpus: vector_store paths.json wiki entries
 - [[raw-sources/2026-05-13/Skills as self-operators — Source Note]]
 - [[raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note]]
 - [[raw-sources/2026-05-13/gaga gisease lyrics — Source Note]]
-- [[skills/ask-vault]]
-- [[skills/gsd-add-backlog]]
-- [[skills/gsd-add-phase]]
-- [[skills/gsd-add-tests]]
-- [[skills/gsd-add-todo]]
-- [[skills/gsd-ai-integration-phase]]
-- [[skills/gsd-analyze-dependencies]]
-- [[skills/gsd-audit-fix]]
-- [[skills/gsd-audit-milestone]]
-- [[skills/gsd-audit-uat]]
-- [[skills/gsd-autonomous]]
-- [[skills/gsd-check-todos]]
-- [[skills/gsd-cleanup]]
-- [[skills/gsd-code-review]]
-- [[skills/gsd-code-review-fix]]
-- [[skills/gsd-complete-milestone]]
-- [[skills/gsd-debug]]
-- [[skills/gsd-discuss-phase]]
-- [[skills/gsd-do]]
-- [[skills/gsd-docs-update]]
-- [[skills/gsd-eval-review]]
-- [[skills/gsd-execute-phase]]
-- [[skills/gsd-explore]]
-- [[skills/gsd-extract_learnings]]
-- [[skills/gsd-fast]]
-- [[skills/gsd-forensics]]
-- [[skills/gsd-from-gsd2]]
-- [[skills/gsd-graphify]]
-- [[skills/gsd-health]]
-- [[skills/gsd-help]]
-- [[skills/gsd-import]]
-- [[skills/gsd-inbox]]
-- [[skills/gsd-insert-phase]]
-- [[skills/gsd-intel]]
-- [[skills/gsd-join-discord]]
-- [[skills/gsd-list-phase-assumptions]]
-- [[skills/gsd-list-workspaces]]
-- [[skills/gsd-manager]]
-- [[skills/gsd-map-codebase]]
-- [[skills/gsd-milestone-summary]]
-- [[skills/gsd-new-milestone]]
-- [[skills/gsd-new-project]]
-- [[skills/gsd-new-workspace]]
-- [[skills/gsd-next]]
-- [[skills/gsd-note]]
-- [[skills/gsd-pause-work]]
-- [[skills/gsd-plan-milestone-gaps]]
-- [[skills/gsd-plan-phase]]
-- [[skills/gsd-plant-seed]]
-- [[skills/gsd-pr-branch]]
-- [[skills/gsd-profile-user]]
-- [[skills/gsd-progress]]
-- [[skills/gsd-quick]]
-- [[skills/gsd-reapply-patches]]
-- [[skills/gsd-remove-phase]]
-- [[skills/gsd-remove-workspace]]
-- [[skills/gsd-research-phase]]
-- [[skills/gsd-resume-work]]
-- [[skills/gsd-review]]
-- [[skills/gsd-review-backlog]]
-- [[skills/gsd-scan]]
-- [[skills/gsd-secure-phase]]
-- [[skills/gsd-session-report]]
-- [[skills/gsd-set-profile]]
-- [[skills/gsd-settings]]
-- [[skills/gsd-ship]]
-- [[skills/gsd-stats]]
-- [[skills/gsd-thread]]
-- [[skills/gsd-ui-phase]]
-- [[skills/gsd-ui-review]]
-- [[skills/gsd-undo]]
-- [[skills/gsd-update]]
-- ... 5 more
-
-### Two backlink (135)
-- [[2026 - Mauss - The Gift]]
-- [[ACTOR Framework — Agent vs Chatbot Decision Tool]]
-- [[App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]
-- [[CLAUDEX — AI Dialogue Archive]]
-- [[Chrome Extension Monetization - Policy and Product Options]]
-- [[Cultural and Lyric Corpus Memo — 2026-05-14]]
-- [[Governance and Platform Signals Memo — 2026-05-14]]
-- [[IP and Manuscript Brief — 2026-05-14]]
-- [[Kickstart App Prompt — Template and Synthesis Framework]]
-- [[Operator Continuity Memo — 2026-05-14]]
-- [[PERPLEXITY-COMPUTER]]
-- [[PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]
-- [[Philosopher]]
-- [[Queering Neo-Pagan Magic — MRW Submission (2026)]]
-- [[Research Hub]]
-- [[WSL and System Storage Recovery — Quick Wins Checklist]]
-- [[bridges/2025 - AI Fundamentals for Business Professionals Notebook]]
-- [[bridges/2025 - AI Fundamentals for Business Professionals Notebook 2]]
-- [[bridges/Bridge — Responses API Fundamentals]]
-- [[genealogy/test]]
-- [[raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note]]
-- [[raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note]]
-- [[raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note]]
-- [[raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note]]
-- [[raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note]]
-- [[raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note]]
-- [[raw-sources/2026-05-13/WIP recruso paper — Source Note]]
 - [[skills/agent-manager-skill]]
 - [[skills/agent-tool-builder]]
 - [[skills/api-documentation-generator]]
@@ -243,72 +152,11 @@ Corpus: vector_store paths.json wiki entries
 - [[skills/consent-framework]]
 - [[skills/control-point-doctrine]]
 - [[skills/cost-reducer]]
-- [[skills/data-privacy-compliance]]
-- [[skills/database]]
-- [[skills/deploy]]
-- [[skills/design-brief]]
-- [[skills/design-flow]]
-- [[skills/design-review]]
-- [[skills/develop-web-game]]
-- [[skills/emerging-techniques-long-context]]
-- [[skills/emerging-techniques-speculative-decoding]]
-- [[skills/ethical-hacking-methodology]]
-- [[skills/fastapi-endpoint]]
-- [[skills/fastmcp-server]]
-- [[skills/fetch]]
-- [[skills/figma]]
-- [[skills/figma-code-connect-components]]
-- [[skills/figma-create-design-system-rules]]
-- [[skills/figma-create-new-file]]
-- [[skills/figma-generate-design]]
-- [[skills/figma-generate-library]]
-- [[skills/figma-implement-design]]
-- [[skills/figma-use]]
-- [[skills/file-reading]]
-- [[skills/frontend-design]]
-- [[skills/frontend-skill]]
-- [[skills/gh-address-comments]]
-- [[skills/gh-fix-ci]]
-- [[skills/github-actions-creator]]
-- [[skills/github-workflow-automation]]
-- [[skills/helix-operator]]
-- [[skills/information-architecture]]
-- [[skills/jupyter-notebook]]
-- [[skills/linear]]
-- [[skills/literary-references]]
-- [[skills/loki-mode]]
-- [[skills/ma-arts-letters]]
-- [[skills/markitdown]]
-- [[skills/netlify-deploy]]
-- [[skills/notion-knowledge-capture]]
-- [[skills/notion-meeting-intelligence]]
-- [[skills/notion-research-documentation]]
-- [[skills/notion-spec-to-implementation]]
-- [[skills/observability-phoenix]]
-- [[skills/obsidian-rag]]
-- [[skills/openai-account-usage]]
-- [[skills/pdf]]
-- [[skills/pharos-papers-db]]
-- [[skills/pharos-receipts-brief]]
-- [[skills/pharos-repurposer]]
-- [[skills/pharos-signal-report]]
-- ... 35 more
+- ... 158 more
 
 ## Components
 
-- Component 1: 889 notes; seed [[2026 - Mauss - The Gift]]
-- Component 2: 1 notes; seed [[Workspace Cleanup Ledger — 2026-05-31]]
-- Component 3: 1 notes; seed [[archive/Orphan Index — Artifacts And Archives — 2026-05-06]]
-- Component 4: 1 notes; seed [[archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]
-- Component 5: 1 notes; seed [[archive/Orphan Index — Raw Sources — 2026-05-06]]
-- Component 6: 1 notes; seed [[archive/Orphan Index — Runtime And Agents — 2026-05-06]]
-- Component 7: 1 notes; seed [[bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec]]
-- Component 8: 1 notes; seed [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023]]
-- Component 9: 1 notes; seed [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2]]
-- Component 10: 1 notes; seed [[bridges/2027 - AI 2027 Summary Research]]
-- Component 11: 1 notes; seed [[bridges/2027 - AI 2027 Summary Research 2]]
-- Component 12: 1 notes; seed [[bridges/2027 - AI 2027 Summary Research 3]]
-- Component 13: 1 notes; seed [[bridges/2027 - AI 2027 Summary Research 4]]
+- Component 1: 904 notes; seed [[2026 - Mauss - The Gift]]
 
 ## Top Unresolved Targets
 
@@ -326,7 +174,6 @@ Corpus: vector_store paths.json wiki entries
 - `VAULT-LINKING-AUDIT-2026-05-01`: 6
 - `Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2)`: 5
 - `Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy`: 5
-- `Dr. Sort Filename Normalization — 2026-05-06`: 5
 - `Second Self System — Adversarial Review`: 5
 - `Introduction`: 5
 - `readme`: 5
@@ -336,6 +183,7 @@ Corpus: vector_store paths.json wiki entries
 - `Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research`: 5
 - `“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal`: 4
 - `Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members`: 4
+- `Dr. Sort Filename Normalization — 2026-05-06`: 4
 - `GAIA Positioning Statement — Evidence-Aware Version`: 4
 - `The Circle Remains Open Toward a Queer Sociology of the Sacred (2)`: 4
 - `Readme`: 4

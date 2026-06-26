@@ -37,6 +37,7 @@ Primary runtime cluster index: [[MCP and Runtime Integration MOC]].
 - [[Root Loose Notes Cluster Map — 2026-05-06]] — Semantic repair layer for root-level graph outliers; distinguishes HELIX evidence, commercial scratchpads, writing raw lists, infrastructure checklists, RIA provenance, and empty stubs.
 - [[Vault Cluster Discovery and Linking Opportunities — 2026-05-01]] — Earlier cluster-discovery roadmap for the vault graph; use with [[Vault Linking Gaps & Bridge Opportunities — 2026-05-01]] and the two session summaries for provenance on the relinking campaign.
 - [[Vault Linking Session Summary — 2026-05-01]], [[Vault Linking Session 2 Summary — 2026-05-01]], and [[Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]] — Session-level summaries and scan output from the May 1 vault linking campaign.
+- [[Agent Distillation Pipeline]] — Config-driven ML pipeline distilling specialist agents into smaller student models while preserving domain expertise and safety behavior (`~/distillation/`).
 - [[Desktop Text Intake — 2026-05-06]] — Desktop `.md`/`.txt` scan promoted beyond raw copy into duplicate detection, synthesis notes, and review queue.
 
 ---

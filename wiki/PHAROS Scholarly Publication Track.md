@@ -11,7 +11,7 @@ updated: 2026-05-10
 
 The academic publication track for the PHAROS method: the papers that formalize the governance architecture for peer review, the journal strategy, and the supporting scholarly apparatus.
 
-This is the publication branch of the PHAROS graph. It formalizes the method's public claims and sits beside [[PHAROS Commercial Strategy]] as the other outward-facing branch.
+This is the publication branch of the PHAROS graph. It formalizes the method's public claims and sits beside [[PHAROS Commercial Strategy]] as the other outward-facing branch. See also [[Research Hub]] for the broader research context.
 
 **Methodological substrate:** The earliest dated scholarly artifact in [[Martin Lepage — Professional Profile|the operator's]] corpus is the 2010 MA thesis at Université Laval — see [[Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]] and the architectural keystone [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]]. The 2017 PhD at UQAM extends it; the PHAROS publication track operationalizes both into AI governance domain. Publication track readers benefit from reaching the substrate.
 
@@ -59,6 +59,19 @@ This is the publication branch of the PHAROS graph. It formalizes the method's p
 - [[Patent Research — Prior-Art Search and Free Tools]] — Prior-art workflow for disclosure diligence, classification refinement, and freedom-to-operate screening.
 - [[PHAROS Invention Disclosure]] — Official IP disclosure. Formalizes the 10-stage pipeline for patent and scholarly purposes.
 
+## Evidence-to-Publication Bridge
+
+This is the cluster that should replace loose "PHAROS evidence" sprawl. It links implemented or testable governance surfaces to the manuscript claims they can actually support:
+
+- [[RECURSO — Final Audit and Ethical Review]] — ethical audit substrate for the "Deploy: No. Not yet" claim and the SHADOWMASTER failure mode.
+- [[RECURSO — Recursive Governance Test Archive]] — older recursive test bed and empirical archive behind the governance-on-governance claims.
+- [[HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]] — live-run stress-test evidence for revisability, trace export, and adversarial continuity pressure.
+- [[COMPASSai — Governance Engine]] — productized governance processing layer; supports implementation-grounded claims only where routes, tests, and deployment evidence are named.
+- [[AurorA — COMPASSai Input Module]] — intake/admissibility layer; supports claims about evidence legibility and bounded corpus formation.
+- [[Hermes Dashboard — Professional Governance Tool]] — operator-facing routing and monitoring layer; belongs to the implementation evidence cluster, not the manuscript-writing cluster.
+
+Reframe: "Fisher King Project State" notes are project-state and recovery trackers. They should remain reachable from project hubs, but they should not be treated as the conceptual center of the PHAROS publication cluster.
+
 ---
 
 ## Publication Record
@@ -102,3 +115,8 @@ Strategy doc: [[Publishing Strategy — Springer Trilogy and Parallel Tracks]] �
 - [[Research and Papers MOC]]
 - [[Governance and PHAROS MOC]]
 - [[Documents Root Loose Files Intake — 2026-04-28]]
+- [[Research Hub]]
+- [[HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]
+- [[COMPASSai — Governance Engine]]
+- [[AurorA — COMPASSai Input Module]]
+- [[Hermes Dashboard — Professional Governance Tool]]

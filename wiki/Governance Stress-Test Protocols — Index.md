@@ -87,6 +87,7 @@ The protocols escalate in scope: Self-Polygraph tests individual epistemic failu
 ---
 
 ## Related
+- [[archive/Governance Stress-Test Protocols Index]] — compatibility bridge for older links to the pre-dash title
 - [[EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]] — authority after institution as executable tests
 - [[Control Protocols MOC]]
 - [[PHAROS Method — Technical Reference]]

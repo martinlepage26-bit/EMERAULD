@@ -23,5 +23,6 @@ EMERAULD is the local personal-knowledge and operator-continuity vault that hold
 - [[Control Protocols MOC]]
 - [[Home]]
 - [[Obsidian Second Brain Product]]
+- [[Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]
 - [[claude-mem — Persistent Memory Compression for Claude Code]]
 - [[PHAROS AI Lineage — Source of Truth]]

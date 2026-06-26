@@ -132,3 +132,33 @@ This is the full interconnectivity pass for the vault’s active deltas. It does
 - [[Personal and Projects MOC]]
 - [[Skill Corpus Genealogy Delta — 2026-05-06]]
 - [[PHAROS Skill Corpus Change Genealogy — 2026-05-06]]
+
+## Wiki orphan repair — 2026-06-26 (council zero-orphan pass)
+
+Inbound links added to clear wiki orphans:
+
+- [[2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec]]
+- [[2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023]]
+- [[2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2]]
+- [[2027 - AI 2027 Summary Research]]
+- [[2027 - AI 2027 Summary Research 2]]
+- [[2027 - AI 2027 Summary Research 3]]
+- [[2027 - AI 2027 Summary Research 4]]
+- [[Bridge - 2006 - report 2]]
+- [[Bridge - 2006 - report 3]]
+- [[Bridge - 2006 - report 4]]
+- [[Bridge - 2006 - report 5]]
+- [[Bridge - 2009 - legalorcontract 2]]
+- [[Bridge - 2013 - 23 ISSN 1528-0268 print]]
+- [[Bridge - 2013 - auditorassessment 2]]
+- [[Bridge - 2013 - auditorassessment 3]]
+- [[Bridge - 2015 - policyorguidance 3]]
+- [[Bridge - 2015 - policyorguidance 4]]
+- [[Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf - 2020 - Mar - 2020 - Martin Lepage - Simp]]
+- [[Bridge - CORPUS ou le gnie de linsistance 1]]
+- [[Bridge - Dr. Sort Filename Normalization 2026-05-06]]
+- [[Bridge - FIRST DRAFT]]
+- [[Bridge - Governance by Denial Revised Working Draft]]
+- [[Bridge - Introduction]]
+- [[Bridge - dataimagepngbase64]]
+- [[Bridge - dataimagepngbase64... 2]]

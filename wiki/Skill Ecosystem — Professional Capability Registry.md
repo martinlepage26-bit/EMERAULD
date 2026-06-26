@@ -141,6 +141,28 @@ See [[Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]] for the
 - [[Martin Lepage — Adjacent Skill Ring]] — central support layer around the authored set and its buckets
 - [[Martin Lepage — Skills by Life Domain]] — bridge to studies, work, and art
 
+### Archived Wiki Skill Bridges
+
+Retired or superseded skill bridge notes preserved under `wiki/archive/` for provenance:
+
+- [[archive/Governance Stress-Test Protocols Index]]
+- [[archive/agent-evaluation]]
+- [[archive/ai-product]]
+- [[archive/brief-to-tasks]]
+- [[archive/diamond-eyes]]
+- [[archive/doc]]
+- [[archive/first-principles]]
+- [[archive/free-tool-strategy]]
+- [[archive/hermes-dependency-mapper]]
+- [[archive/hermes-escalation-router]]
+- [[archive/inner-mind-eye]]
+- [[archive/ma-degree-guide]]
+- [[archive/red-team]]
+- [[archive/repo-logo-generator]]
+- [[archive/triangulation]]
+- [[archive/ux-researcher-designer]]
+- [[archive/web-scraping]]
+
 ---
 
 *Skill Ecosystem hub created 2026-05-06.*  

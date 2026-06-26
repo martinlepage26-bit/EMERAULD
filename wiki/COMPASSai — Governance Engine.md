@@ -4,7 +4,7 @@ aliases: [COMPASSai, COMPASS AI, governance engine]
 tags: [pharos, product, governance-software, compassai]
 status: active
 created: 2026-04-18
-updated: 2026-05-07
+updated: 2026-06-22
 ---
 
 # COMPASSai — Governance Engine
@@ -31,23 +31,37 @@ The [[Hermes Dashboard — Professional Governance Tool]] provides Martin's own 
 
 **Current architecture decision:** Web/SaaS application available online for clients (decided 2026-04-18; recorded in `raw sources/2026-05-06_trismegiste-operator-state.md`).
 
-**Current implementation evidence:** Local-stack runbook material describes a CompassAI backend at `http://127.0.0.1:9205/api/`, Mongo database `compassai`, JWT-protected routes, and an evidence-ingest route that can accept the internal service token used by AurorAI/AurorA handoff. This is local operational evidence, not proof of public production readiness.
+**Current implementation evidence:** Local-stack runbook material describes a CompassAI backend at `http://127.0.0.1:9205/api/`, Mongo database `compassai`, JWT-protected routes, and an evidence-ingest route that can accept the internal service token used by AurorA/AurorA handoff. This is local operational evidence, not proof of public production readiness.
 
 **Source-of-truth candidates:** Current evidence points to `/home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite/compassai` and older/parallel traces at `/home/cerebrhoe/PHAROS-SUITE/repos/CompassAI`, `/home/cerebrhoe/repos/CompassAI`, and the Martin public project page source at `/home/cerebrhoe/martin-lepage-site/src/content/projects/compassai-governance-engine.md`. These paths require a live repo check before any public capability claim.
 
+> [!warning] Contradiction detected
+> Source-of-truth paths above reference `/home/cerebrhoe/...` — the old development machine. The vault was migrated from the cerebrhoe/softinfo host to the current host (`/home/martin/`) on 2026-06-21 (see CLAUDE.md Vault Status 2026-06-21). Today's session (2026-06-22) confirmed COMPASSai is deployed to [[Railway — COMPASSai Production Deployment Platform|Railway]] production, with active code at `compassai/backend/server.py` and `compassai/backend/routers/qc_construction.py` (relative paths on the current machine). The cerebrhoe paths are likely stale or inaccessible from the current host. Verify the active repo path on the current machine before using these paths for any source lookup.
+
 **Governance alignment:** COMPASSai implements the 10-stage PHAROS pipeline (see [[PHAROS Invention Disclosure]]) and must enforce the consequence-binding map, admissibility rules, and promotion statuses described in the [[PHAROS Method — Technical Reference]].
+
+**Gate model (confirmed 2026-06-22):** `intake_complete → risk_assessed → controls_satisfied → approved_for_deploy` — Risk tiers T0–T3.
+
+**EU AI Act classifier (as of 2026-06-22):** Full 9-group Annex III coverage implemented; Art. 6(1) safety-component pathway (Group 9); GPAI detection (Title VIII Arts. 51–52); Art. 5 prohibited-practice expansion; insurance claims adjudication added to essential services (commit 9bb696b). Deployed to Railway. See [[COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]] for full detail.
+
+**Quebec Construction Regulatory Classifier (new, 2026-06-22):** `/api/v1/qc-construction/` — 12 domains, 10 regulators (RBQ, CCQ, CNESST, CMMTQ, Info-Excavation, MELCCFP, OPC, CRTC, CNB-QC, MTQ), article-level obligations, citation hints. Expert-report domain carries hallucination-risk flag: all AI-generated citations must be marked `[SUGGESTION — VALIDER AVEC SOURCE OFFICIELLE]`.
+
+**Regulatory corpus schema (new, 2026-06-22):** `reg_ingest.py` — LégisQuébec XML + Justice Canada XML parsers; 19 priority regulatory stubs seeded to production.
+
+**Claim boundary (operator-confirmed):** These modules support compliance review; they do not certify legal compliance.
 
 ## Key Ideas
 - Governance engine that turns the PHAROS method into a product
 - Client-facing intake through AurorA
-- Web/SaaS is the current recorded architecture decision
+- Web/SaaS deployed to Railway (production as of 2026-06-22)
+- EU AI Act classifier now covers all 9 Annex III groups, GPAI, and Art. 5
+- Quebec Construction module adds regulatory domain coverage for the Quebec market
 - Capability claims must be bounded to verified routes, tests, and deployment evidence
 
 ## Open Questions
 - Integration depth with InfraFabric modules
 - Relationship to the Hermes Dashboard — separate interface or same product?
-- Which repo/module path is authoritative for current development?
-- Which capabilities are public-production-ready versus local-stack-only?
+- Full chaotic UC (23 total) re-assessment after 9bb696b insurance fix deployment
 
 ## Non-Claims
 
@@ -55,11 +69,25 @@ The [[Hermes Dashboard — Professional Governance Tool]] provides Martin's own 
 - Do not claim the full PHAROS 10-stage pipeline is operational merely because route shells or tests exist.
 - Do not conflate older `CompassAI` repo traces with the current `COMPASSai` product name without source reconciliation.
 
+## Evidence-to-Publication Bridge
+
+COMPASSai is implementation evidence for the [[PHAROS Scholarly Publication Track]], not a parallel scholarly cluster. Cite it only where named routes, gate transitions, classifier outputs, or deployment records support a manuscript claim — for example gate-model language in [[Recursive Deterministic AI Governance — Method and Paper]], consequence-binding framing in [[PHAROS AI Ethics Submission — Springer Draft]], or revisability under institutional constraint in [[AI Society Manuscript — From AI Anxiety to Recursive Governance]]. Pair with [[AurorA — COMPASSai Input Module]] for intake/admissibility evidence and [[HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]] for adversarial stress-test evidence. Return context through [[PHAROS]] and [[Research Hub]].
+
 ## Related
 - [[AurorA — COMPASSai Input Module]]
-- [[COMPASSai — Fisher King Project State]]
+- [[RECURSO — Final Audit and Ethical Review]]
+- [[COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]
 - [[PHAROS Method — Technical Reference]]
 - [[PHAROS Invention Disclosure]]
+- [[EU AI Act and Law 25 — Regulatory Pressure Window]]
 - [[Hermes Dashboard — Professional Governance Tool]]
 - [[PHAROS-AI Webservice — pharos-ai.ca]]
 - [[Governance and PHAROS MOC]]
+- [[Recursive Deterministic AI Governance — Method and Paper]]
+- [[First Method Paper — Recursive AI Governance as Executable Method]]
+- [[AI Society Manuscript — From AI Anxiety to Recursive Governance]]
+- [[PHAROS AI Ethics Submission — Springer Draft]]
+- [[PHAROS]]
+- [[PHAROS Scholarly Publication Track]]
+- [[Research Hub]]
+- [[HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]

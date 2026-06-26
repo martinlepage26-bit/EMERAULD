@@ -66,14 +66,14 @@ Captured on 2026-04-15 as a Hermes dependency map. This note preserves the audit
   │   pharos-suite →
   /home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite
   │   pharos-ai    → /home/cerebrhoe/PHAROS-SUITE/repos/pharos-ai
-  │   AurorAI      → /home/cerebrhoe/PHAROS-SUITE/repos/AurorAI
+  │   AurorA      → /home/cerebrhoe/PHAROS-SUITE/repos/AurorA
   │   CompassAI    → /home/cerebrhoe/PHAROS-SUITE/repos/CompassAI
   │   pharos-ai-release-candidate-2026-03-14 → (symlink)
   │
   ├── SUB-PROJECTS (inside PHAROS-SUITE/repos/):
   │   ├── pharos-ai/              ← pharos-ai.ca backend/site (git
   status unverified)
-  │   ├── AurorAI/                ← AurorA module code — NO .git
+  │   ├── AurorA/                ← AurorA module code — NO .git
   (subdir only)
   │   ├── CompassAI/              ← COMPASSai module code — NO .git
   │   └── pharos-ai-release-candidate-2026-03-14/  ← frozen
@@ -120,10 +120,10 @@ Captured on 2026-04-15 as a Hermes dependency map. This note preserves the audit
   ---
   C. AURORAI GHOST
 
-  github.com/martinlepage26-bit/AurorAI.git
+  github.com/martinlepage26-bit/AurorA.git
   │
   └── [GHOST TRACKING — Windows home IS the repo]
-      /mnt/c/Users/softinfo/   ← git root tracking AurorAI
+      /mnt/c/Users/softinfo/   ← git root tracking AurorA
       branch: 4 commits, many deleted files (D status)
       HEAD: "Add LOTUS refined model and missing modules patch"
       NOTE: The Windows home directory is inside this git working
@@ -337,7 +337,7 @@ Captured on 2026-04-15 as a Hermes dependency map. This note preserves the audit
   Confidence: Medium
   ────────────────────────────────────────
   Project: AurorA (module)
-  Location(s): Linux/PHAROS-SUITE/repos/AurorAI (no .git)
+  Location(s): Linux/PHAROS-SUITE/repos/AurorA (no .git)
   Remote: —
   Status: Absorbed into pharos-suite
   Confidence: High
@@ -348,9 +348,9 @@ Captured on 2026-04-15 as a Hermes dependency map. This note preserves the audit
   Status: Absorbed into pharos-suite
   Confidence: High
   ────────────────────────────────────────
-  Project: AurorAI (legacy standalone)
+  Project: AurorA (legacy standalone)
   Location(s): Windows home dir ghost tracking
-  Remote: AurorAI.git
+  Remote: AurorA.git
   Status: Stale — ghost tracking
   Confidence: High
   ────────────────────────────────────────
@@ -509,8 +509,8 @@ Captured on 2026-04-15 as a Hermes dependency map. This note preserves the audit
 
   Critical (structural risk)
 
-  1. Windows home dir is a live git repo (AurorAI ghost)
-  - /mnt/c/Users/softinfo/ has .git tracking AurorAI.git
+  1. Windows home dir is a live git repo (AurorA ghost)
+  - /mnt/c/Users/softinfo/ has .git tracking AurorA.git
   - Status: hundreds of deleted files (D prefix in git status)
   - Risk: any git checkout, git restore, or accidental git
   operation could overwrite or ghost-delete files in
@@ -612,7 +612,7 @@ Captured on 2026-04-15 as a Hermes dependency map. This note preserves the audit
   main
   │       ├── pharos-ai/                    ← pharos-ai.ca
   sub-project
-  │       ├── AurorAI/                      ← AurorA module
+  │       ├── AurorA/                      ← AurorA module
   (in-repo, no .git needed)
   │       └── CompassAI/                    ← same
   │

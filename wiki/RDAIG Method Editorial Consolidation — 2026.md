@@ -64,4 +64,4 @@ Source: `raw sources/RDAIG_method_editorial_consolidation_2026-03-14__9dc78fa891
 
 ## Sources
 - `raw sources/RDAIG_method_editorial_consolidation_2026-03-14__9dc78fa891c981cf.txt`
-- Related: [[Recursive Deterministic AI Governance — Method and Paper]], [[First Method Paper — Recursive AI Governance as Executable Method]], [[AI Society Manuscript — From AI Anxiety to Recursive Governance]], [[PHAROS Scholarly Essay — Institutional Deployment Architecture]]
+- Related: [[Recursive Deterministic AI Governance — Method and Paper]], [[First Method Paper — Recursive AI Governance as Executable Method]], [[AI Society Manuscript — From AI Anxiety to Recursive Governance]], [[PHAROS Scholarly Essay — Institutional Deployment Architecture]], [[HELIX — Value Proposition and Buyer Profile]], [[COMPASSai — Governance Engine]], [[AurorA — COMPASSai Input Module]]

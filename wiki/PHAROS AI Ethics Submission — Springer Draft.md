@@ -155,3 +155,6 @@ Recommended revision sequence:
 - Related: [[AI Has No Intrinsic Ethics — Accountability and the Human Chain]] — the public-facing distillation of this paper's foundational claim; the 80% pharmaceutical-licensing signal supports the submission's governance urgency argument
 - Related: [[Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]] — theoretical grounding: LLMs as rhetoric machines; the submission's argument about AI authority rests on this structural distinction between rhetoric and reasoning
 - Related: [[Intelligence Definitions and AI Bias — 1956 Lecture]] — definitional substrate: the Sapiocentric assumptions encoded at Dartmouth 1956 are part of what the PHAROS governance protocol must interrupt
+- Related: [[HELIX — Value Proposition and Buyer Profile]] — productized governance stress-test
+- Related: [[COMPASSai — Governance Engine]] — governance engine implementation
+- Related: [[AurorA — COMPASSai Input Module]] — client-facing intake module

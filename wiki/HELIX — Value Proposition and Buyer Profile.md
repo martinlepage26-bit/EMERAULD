@@ -84,3 +84,7 @@ This is a product positioning note, not a deployment runbook. For the deployment
 - [[90-Day $1M Challenge — Status Report]] — revenue challenge this sits inside
 - [[Governance and PHAROS MOC]] — primary index
 - [[decision_compass_deployment_phasing]]
+- [[Recursive Deterministic AI Governance — Method and Paper]]
+- [[AI Society Manuscript — From AI Anxiety to Recursive Governance]]
+- [[PHAROS AI Ethics Submission — Springer Draft]]
+- [[RECURSO — Final Audit and Ethical Review]]

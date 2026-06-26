@@ -145,3 +145,28 @@ This was not a cleanup or deletion pass. Nothing was moved out of Documents, and
 - [[Writing and Novels MOC]]
 - [[Personal and Projects MOC]]
 - [[VAULT ADDITIONS TRACKER]]
+
+## Wiki orphan repair — 2026-06-26 (council zero-orphan pass)
+
+Inbound links added to clear wiki orphans:
+
+- [[2026-04-25 — DG waiting on client picks — Source Note]]
+- [[2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]
+- [[2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note]]
+- [[2026-04-25 — Stop coding, clean, package, send — Source Note]]
+- [[2026-04-25 — The lost-loop pattern — Source Note]]
+- [[2026-05-06 — Patent agent email — provisional application contract + notes — Source Note]]
+- [[24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note]]
+- [[AI is speeding into healthcare. Who should regulate it? — Source Note]]
+- [[Alchimie et Histoire des Sciences — Source Note]]
+- [[Cloudflare Workers Build Source Note 2026-05-13]]
+- [[Complete solutions, not compromises — Source Note]]
+- [[Email Député Guilbault AE — Source Note]]
+- [[Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note]]
+- [[MIA PAPERS planes lyrics — Source Note]]
+- [[REVISIONS - BRAIN PAPER JOURNAL — Source Note]]
+- [[Reddit Data API Wiki — Source Note]]
+- [[Skills as self-operators — Source Note]]
+- [[The Ballad of the Witches' Road — Source Note]]
+- [[WIP recruso paper — Source Note]]
+- [[gaga gisease lyrics — Source Note]]
