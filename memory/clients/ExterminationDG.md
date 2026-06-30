@@ -1,17 +1,40 @@
 ---
 type: client
+title: ExterminationDG
 aliases:
-  - ExterminationDG
-  - Extermination DG
-  - ExterminationGD
-  - Extermination GD
-  - DG (Extermination) — Client Engagement
-  - DG client
-tags: [client, hermes, active]
+- ExterminationDG
+- Extermination DG
+- ExterminationGD
+- Extermination GD
+- DG (Extermination) — Client Engagement
+- DG client
+- memory/clients/ExterminationDG
+tags:
+- client
+- hermes
+- active
+- memory
+- clients
 status: pre-launch
+created: '2026-04-24'
+updated: '2026-06-30'
+vault_area: memory
+canonical_path: memory/clients/ExterminationDG.md
+backlink_count: 12
+backlinks:
+- '[[wiki/CLIENT ACCOUNTS]]'
+- '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[wiki/Operator Continuity Memo — 2026-05-14]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[memory]]'
+- '[[memory/clients/helix-prospects-2026-q2]]'
+- '[[memory/daily/2026-05-05]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note]]'
+- '[[raw/00_Inbox/Raw/2026-04-25 — DG waiting on client picks]]'
+- '[[templates/Invoice Template Pharos-AI]]'
 payment_status: Contract signed 2026-05-08; $2,000 balance payment arriving 2026-05-15; $500 advance already applied
-created: 2026-04-24
-updated: 2026-05-14
 ---
 
 # ExterminationDG
@@ -41,6 +64,18 @@ Canonical lane tracker entry lives in `C:\Users\softinfo\Documents\CLIENT ACCOUN
 - Domain: extermination-dg.com (Cloudflare)
 - Soft launch target: May 20
 - **Next actions:** (1) confirm payment received, (2) complete remaining website fixes, (3) execute soft launch
+
+## SEO Strategy (révision 2 — 2026-06-30)
+
+Canonical document: `apps/web-apps/DG/SEO-STRATEGY.md` (repo `martinlepage26-bit/DG`). Calibrated on the deployed offer (`frontend/`, `memory/PRD.md`).
+
+**Scope correction made in this revision.** A prior strategy draft prioritized the most profitable *general* extermination keywords — punaises de lit, souris/rats, coquerelles. Those were dropped: **DG does not offer them.** The site marks rongeurs « hors offre » and treats only the **seasonal exterior perimeter** (araignées, perce-oreilles, fourmis, guêpes/frelons, insectes volants — two passes mai-juin + août-septembre). Targeting out-of-scope demand would draw calls DG must refuse and dilute relevance/freshness signals. Matrix re-aimed at DG's real services; **`nid de guêpes [ville]`** is the high-intent money term (urgent, seasonal, in-scope), not bed bugs.
+
+**Three winning levers (impact/cost order):** (1) Google Business Profile + authentic review engine — *the priority*; competitor Tremblay & Lemieux has very low visible reviews and at least one mis-categorized listing despite ~2 500 clients/month; (2) content freshness (competitor site is years stale); (3) ville × service-extérieur cross matrix nobody owns. None require a competitor's name on a DG page (passing-off risk: LMC art. 7/20/22 + art. 1457 C.c.Q.).
+
+**Verified facts:** Tremblay & Lemieux founded 1950, 2 500+ clients/mois, 7 service points, 1-888-415-4915 24/7. **To re-verify live before client presentation:** competitor's real-time Google review counts + listing categorization; **technician name(s)** for the GBP (not in project files — confirm with client, do not publish unverified). No verified keyword volumes — validate via Keyword Planner before heavy per-page investment.
+
+**90-day sequence:** wks 1-2 GBP + review engine + NAP citations (free, highest leverage); wks 3-6 service + city pillar pages (guêpes first — peak season); wks 7-12 P1 cross pages + `/conseils` seasonal content. Analytics/GSC still to install (PRD P1 outstanding). Related: [[DG Website Logo Rebrand & Governance Audit — 2026-05-01]].
 
 ## Update (2026-05-14)
 
