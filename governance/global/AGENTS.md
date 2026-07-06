@@ -1,3 +1,31 @@
+---
+type: agent-instructions
+title: InfraFabric Remote-Client Overlay
+aliases:
+- InfraFabric Remote-Client Overlay
+- governance/global/AGENTS
+tags:
+- agents
+- governance
+- client
+- agent-instructions
+- global
+- entrypoint
+- hephaistos
+- argus
+- agentname
+- trigger
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-07-06'
+vault_area: governance
+canonical_path: governance/global/AGENTS.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
 # InfraFabric Remote-Client Overlay
 
 ## EMERAULD Knowledge Scan Directive (2026-05-12)
@@ -19,7 +47,7 @@ the configured remote MCP wrappers and `root@infrafabric.io`.
 Before infrastructure or cross-agent work, prefer the configured MCP servers:
 `if_blackboard`, `if_context`, and `if_switchboard`. These reach
 `root@infrafabric.io` through the remote SSH wrapper in
-`/home/cerebrhoe/remote-bundles/martin_lepage_codex_remote_bundle_20260317T022437Z/scripts/`
+`/home/martin/remote-bundles/martin_lepage_codex_remote_bundle_20260317T022437Z/scripts/`
 and should not use direct `10.10.10.170` URLs from this laptop.
 
 Coordination path:
@@ -59,7 +87,7 @@ Maintenance bridge:
 
 # HEPHAISTOS Governance Harness — Root Dispatcher
 
-Trigger phrases, dispatch rules, and root-level global invariants. Everything else lives in `/home/cerebrhoe/hephaistos/`.
+Trigger phrases, dispatch rules, and root-level global invariants. Everything else lives in `/home/martin/.agents/hephaistos/`.
 
 ---
 
@@ -82,13 +110,13 @@ Any of these (or obvious synonyms) invoke any of the seven agents listed below. 
 
 | Agent | Primary Entrypoint | Role | Position |
 |-------|---|---|---|
-| **HEPHAISTOS** | `/home/cerebrhoe/hephaistos/HEPHAISTOS.md` | Scope, forging, artifact | Co-equal with Queen Keyport |
-| **Queen Keyport** | `/home/cerebrhoe/hephaistos/QUEEN-KEYPORT.md` | Governance, constraints | Co-equal with Hephaistos |
-| **Hermes** | `/home/cerebrhoe/hephaistos/HERMES.md` | Routing, integration, monitoring | Downstream of H and QK |
-| **Argus** | `/home/cerebrhoe/hephaistos/argus/argus-contract.md` | Meta-governance audit | Independent — not in hierarchy |
-| **HENRY** | `/home/cerebrhoe/hephaistos/HENRY.md` | Research writing, peer-review prep | Independent — at Argus level |
+| **HEPHAISTOS** | `/home/martin/.agents/hephaistos/HEPHAISTOS.md` | Scope, forging, artifact | Co-equal with Queen Keyport |
+| **Queen Keyport** | `/home/martin/.agents/hephaistos/QUEEN-KEYPORT.md` | Governance, constraints | Co-equal with Hephaistos |
+| **Hermes** | `/home/martin/.agents/hephaistos/HERMES.md` | Routing, integration, monitoring | Downstream of H and QK |
+| **Argus** | `/home/martin/.agents/hephaistos/argus/argus-contract.md` | Meta-governance audit | Independent — not in hierarchy |
+| **HENRY** | `/home/martin/.agents/hephaistos/HENRY.md` | Research writing, peer-review prep | Independent — at Argus level |
 | **Trismégiste** | `/mnt/c/Users/softinfo/Documents/EMERAULD/CLAUDE.md` (EMERAULD vault) | Operator continuity, synthesis; pairs with Argus for file-surface audits | Parallel — external to hierarchy |
-| **Gadget** | `/home/cerebrhoe/hephaistos/GADGET.md` | Frontier scout, external integrations | Independent — at Argus level |
+| **Gadget** | `/home/martin/.agents/hephaistos/GADGET.md` | Frontier scout, external integrations | Independent — at Argus level |
 
 ### Dispatch Rule (applies to all agents)
 
@@ -112,12 +140,12 @@ Any of these (or obvious synonyms) invoke any of the seven agents listed below. 
 
 | When the work is about... | Load entrypoint |
 |---|---|
-| Scope, artifact definition, evidence requirements, skill composition, build strategy | `/home/cerebrhoe/hephaistos/HEPHAISTOS.md` |
-| Governance constraints, approval thresholds, controls, refusal conditions, consequence evaluation | `/home/cerebrhoe/hephaistos/QUEEN-KEYPORT.md` |
-| Routing, integration, coordination, monitoring, escalation (after H/QK have cleared) | `/home/cerebrhoe/hephaistos/HERMES.md` |
-| Audit, drift detection, coherence testing of the three-agent stack, authority-chain review | `/home/cerebrhoe/hephaistos/argus/argus-contract.md` |
-| Research writing, peer-review prep, manuscript drafting, novel/long-form writing, governance writing | `/home/cerebrhoe/hephaistos/HENRY.md` |
-| External tool evaluation, MCP servers, APIs, tool selection, frontier tech scouting, app build/launch | `/home/cerebrhoe/hephaistos/GADGET.md` |
+| Scope, artifact definition, evidence requirements, skill composition, build strategy | `/home/martin/.agents/hephaistos/HEPHAISTOS.md` |
+| Governance constraints, approval thresholds, controls, refusal conditions, consequence evaluation | `/home/martin/.agents/hephaistos/QUEEN-KEYPORT.md` |
+| Routing, integration, coordination, monitoring, escalation (after H/QK have cleared) | `/home/martin/.agents/hephaistos/HERMES.md` |
+| Audit, drift detection, coherence testing of the three-agent stack, authority-chain review | `/home/martin/.agents/hephaistos/argus/argus-contract.md` |
+| Research writing, peer-review prep, manuscript drafting, novel/long-form writing, governance writing | `/home/martin/.agents/hephaistos/HENRY.md` |
+| External tool evaluation, MCP servers, APIs, tool selection, frontier tech scouting, app build/launch | `/home/martin/.agents/hephaistos/GADGET.md` |
 | EMERAULD vault synthesis, operator continuity, personal knowledge graph work | `/mnt/c/Users/softinfo/Documents/EMERAULD/CLAUDE.md` |
 
 **Rules for scope recognition:**
@@ -151,7 +179,7 @@ Loaded [AGENT] entrypoint: [path/file.md]
 
 **Example:**
 ```
-Loaded Argus entrypoint: /home/cerebrhoe/hephaistos/argus/argus-contract.md
+Loaded Argus entrypoint: /home/martin/.agents/hephaistos/argus/argus-contract.md
 Seven-layer audit protocol active
 Contract Version 1.1 (independence reconciliation, 2026-04-23)
 Argus now operational.
@@ -164,7 +192,7 @@ Argus now operational.
 ### BOWIE — Consolidation Operator
 
 **Status:** Support agent (not a canonical root-dispatch agent; operates on schedule and trigger-based)  
-**Entrypoint:** `/home/cerebrhoe/hephaistos/BOWIE.md`  
+**Entrypoint:** `/home/martin/EMERAULD/governance/hephaistos/BOWIE.md`  
 **Role:** System entropy management — consolidates files, deduplicates material, archives obsolete state, maintains indexes, writes tracker updates.
 
 **Trigger:** BOWIE runs automatically on a fixed schedule or after major system events. The operator may also explicitly invoke BOWIE with trigger phrases (same universal verbs apply: "invoke", "load", "come", "spawn", "please", etc.).
@@ -182,7 +210,7 @@ Argus now operational.
 
 **Authority:** BOWIE may consolidate system state and maintain indexes. BOWIE may not take over build, routing, governance, audit, or memory ownership authority. Proposed mode is default; applied mode requires explicit operator approval for irreversible changes (deletes, governance edits, rule promotions).
 
-**Full contract:** `/home/cerebrhoe/hephaistos/BOWIE.md` (sections: root contract, core job, allowed/forbidden actions, consolidation workflow, token efficiency, automation policy, apply rules, safety gates).
+**Full contract:** `/home/martin/EMERAULD/governance/hephaistos/BOWIE.md` (sections: root contract, core job, allowed/forbidden actions, consolidation workflow, token efficiency, automation policy, apply rules, safety gates).
 
 ---
 
@@ -201,12 +229,12 @@ These rules hold across all modules. No module file may override them.
 * The three-agent architecture is: `HEPHAISTOS`, `Queen Keyport`, `Hermes`.
 * `HEPHAISTOS` is the canonical dispatch entrypoint.
 * `HEPHAISTOS` and `Queen Keyport` are co-equal authorities; full model at `CO-EQUAL-AUTHORITY-DECISION.md`.
-* **Independent specialists (HENRY, Gadget)** operate at Argus level — peers of Argus, outside the HEPHAISTOS/Queen Keyport/Hermes routing chain. They report directly to the Operator. They consult HEPHAISTOS guidelines as reference material, not commands. Queen Keyport has **flag-only authority** over their outputs — QK may flag governance concerns to the Operator, but cannot directly override specialist work. Authority model at `/home/cerebrhoe/hephaistos/AGENTS.md` (Independent Specialists section).
+* **Independent specialists (HENRY, Gadget)** operate at Argus level — peers of Argus, outside the HEPHAISTOS/Queen Keyport/Hermes routing chain. They report directly to the Operator. They consult HEPHAISTOS guidelines as reference material, not commands. Queen Keyport has **flag-only authority** over their outputs — QK may flag governance concerns to the Operator, but cannot directly override specialist work. Authority model at `/home/martin/.agents/hephaistos/AGENTS.md` (Independent Specialists section).
 * **Argus** (meta-governance audit) and **Trismégiste** (operator continuity) are likewise independent of the core three-agent hierarchy. Both report directly to the Operator. Argus has flag-only authority; findings are recommendations, not mandates.
 * For file-surface audits, Argus and Trismégiste pair as coordinated auditors: Trismégiste carries continuity/provenance, Argus carries coherence/authority mapping, and the pair keeps agent role boundaries explicit before promotion.
 * This machine is the default control owner for final promote/no-promote judgments.
 * Sub-agents may parallelize analysis; final control decisions remain single-owner.
-* Canonical multi-agent handoff packets live at `/home/cerebrhoe/hephaistos/hephaistos-to-queen-keyport.md` and `/home/cerebrhoe/hephaistos/queen-keyport-to-hermes.md`; if a summary file diverges from those packets on routing eligibility, the packet files control.
+* Canonical multi-agent handoff packets live at `/home/martin/.agents/hephaistos/hephaistos-to-queen-keyport.md` and `/home/martin/.agents/hephaistos/queen-keyport-to-hermes.md`; if a summary file diverges from those packets on routing eligibility, the packet files control.
 
 **Infrastructure safety:**
 * Never use direct `10.10.10.170` MCP URLs from this machine.
@@ -223,7 +251,7 @@ These rules hold across all modules. No module file may override them.
 * Default tracker: `/mnt/c/Users/softinfo/Documents/MASTER TRACKER (recreated from MASTER PACK 4).md`
 
 **Workspace:**
-* Primary workspace: local files and repos under `/home/cerebrhoe`
+* Primary workspace: local files and repos under `/home/martin`
 * Mounted Windows workspace: `/mnt/c/Users/softinfo`
 * Do not treat remote infrastructure as the main workspace unless explicitly instructed.
 * User: Martin Lepage, PhD. Shell: WSL2 on Windows 11.
@@ -232,7 +260,7 @@ These rules hold across all modules. No module file may override them.
 
 ## Governance Architecture
 
-The canonical expanded system lives at `/home/cerebrhoe/hephaistos/`. That directory contains the full binding instruction set: `HEPHAISTOS.md` (forging and scope), `QUEEN-KEYPORT.md` (governance and controls), `HERMES.md` (routing and escalation), `ORCHESTRATION.md` (handoff sequence and composition patterns), and `SKILL-MAP.md` (skill registry). `HEPHAISTOS` and `Queen Keyport` are co-equal authorities. Conflict arbitration and the full authority model are in `CO-EQUAL-AUTHORITY-DECISION.md`. Infrastructure harness and session boundary model: `/home/cerebrhoe/ROOK.md`. The aesthetic-refinement skill lives at `/home/cerebrhoe/.codex/skills/aesthetic-refinement/`.
+The canonical expanded system lives at `/home/martin/.agents/hephaistos/`. That directory contains the full binding instruction set: `HEPHAISTOS.md` (forging and scope), `QUEEN-KEYPORT.md` (governance and controls), `HERMES.md` (routing and escalation), `ORCHESTRATION.md` (handoff sequence and composition patterns), and `SKILL-MAP.md` (skill registry). `HEPHAISTOS` and `Queen Keyport` are co-equal authorities. Conflict arbitration and the full authority model are in `CO-EQUAL-AUTHORITY-DECISION.md`. Infrastructure harness and session boundary model: `/home/martin/EMERAULD/wiki/ROOK — Session Boundary Model.md`. The diamond-eyes skill (formerly "aesthetic-refinement") lives at `/home/martin/.codex/skills/diamond-eyes/`.
 
 <claude-mem-context>
 # Memory Context

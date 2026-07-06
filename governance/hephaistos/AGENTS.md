@@ -1,15 +1,39 @@
+---
+type: agent-instructions
+title: HEPHAISTOS — Agent Orchestration Layer
+aliases:
+- HEPHAISTOS — Agent Orchestration Layer
+- governance/hephaistos/AGENTS
+tags:
+- agents
+- governance
+- ai
+- hephaistos
+- agent-instructions
+- keyport
+- queen
+- argus
+- operator
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-07-06'
+vault_area: governance
+canonical_path: governance/hephaistos/AGENTS.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
 # HEPHAISTOS — Agent Orchestration Layer
 
-## EMERAULD Intake Rule (2026-05-12)
-
-When work scope is EMERAULD knowledge scanning or intake, all agents must default to:
-- scan broadly,
-- verify first (integrity, readability, provenance, duplicate check),
-- hard-move verified source files into `/mnt/c/users/softinfo/documents/emerauld/raw`,
-- then produce wiki synthesis + graph linking + `verified` vs `inferred` reporting.
-- fail closed: unverified or duplicate-rejected artifacts cannot be used for wiki claims in that run.
-
-`raw sources/` remains legacy provenance storage and is not the default target for new scan runs unless Martin explicitly overrides.
+> **Wiki mirror notice:** this file mirrors the canonical, git-tracked copy at
+> `/home/martin/.agents/hephaistos/AGENTS.md` (`github.com/martinlepage26-bit/hephaistos`),
+> which is what `~/AGENTS.md` actually resolves to for every fresh AI CLI session.
+> Last synced from canonical: 2026-07-06. If this file and the canonical repo diverge,
+> the canonical repo controls — update this mirror to match, not the reverse, except for
+> the EMERAULD Intake Rule below, which is genuinely vault-specific and has no canonical
+> counterpart.
 
 This file is the constitutional layer for the hephaistos package. It governs workspace
 orientation, three-agent architecture, authority scope, binding principles, control
@@ -22,8 +46,34 @@ For canonical agent identity and authority definitions, load the relevant entryp
 - Co-equal authority model: `CO-EQUAL-AUTHORITY-DECISION.md` (binding spec)
 - L99 demotion and Argus placement: `L99-DEMOTION-TO-ARGUS.md` (binding spec)
 
-This file governs the local hephaistos package once entered through the root dispatcher
-at `/home/cerebrhoe/AGENTS.md`. Global dispatch authority remains there.
+This file is the root dispatcher for this machine. It is symlinked at `~/AGENTS.md` so all AI CLIs can locate it from the home directory.
+
+---
+
+## Session Start (required)
+
+Run the rook harness at the start of every session before any substantive work:
+
+```bash
+export IF_SID="$(ls -t /root/.claude/projects/-root/*.jsonl 2>/dev/null | head -1 | sed 's|.*/||; s|\.jsonl||')" \
+  && bash /root/scripts/if_rook_session_start.sh
+```
+
+Then read `/root/.codex/rook_arrival/capabilities.current.md` and `/root/.codex/rook_arrival/postits.current.md` for session context.
+
+---
+
+## EMERAULD Intake Rule (2026-05-12)
+
+Vault-specific — applies when work scope is EMERAULD knowledge scanning or intake. No
+canonical-repo counterpart; this rule lives only here. All agents must default to:
+- scan broadly,
+- verify first (integrity, readability, provenance, duplicate check),
+- hard-move verified source files into `/mnt/c/users/softinfo/documents/emerauld/raw`,
+- then produce wiki synthesis + graph linking + `verified` vs `inferred` reporting.
+- fail closed: unverified or duplicate-rejected artifacts cannot be used for wiki claims in that run.
+
+`raw sources/` remains legacy provenance storage and is not the default target for new scan runs unless Martin explicitly overrides.
 
 ---
 
@@ -33,6 +83,74 @@ at `/home/cerebrhoe/AGENTS.md`. Global dispatch authority remains there.
 - Local repo analysis and local artifact construction take precedence.
 - Do not assume remote environments are primary.
 - Do not perform remote-destructive or infra-altering actions unless explicitly requested.
+
+---
+
+## Universal Engineering Standards
+
+These bind all tools and all work on this host. **AGENTS.md is the canon;** per-tool
+files (`CLAUDE.md`, `.codex/AGENTS.md`, `.grok/AGENTS.md`, …) are thin adapters that point
+here and add only tool-specific notes. Sync'd from the canonical engineering manual
+2026-07-06.
+
+**Meta-rules**
+- **One canon, thin adapters.** Shared rules live here, once. A mirror must declare itself
+  a mirror and name its source; if a mirror and its source disagree, the source wins.
+- **Scope tags.** A rule is `[universal]` unless marked `[host]` (this machine) or
+  `[project]` (one codebase). Only `[universal]` rules belong in a portable file.
+- **No live state in instructions.** Never hardcode counts, "current" dates, statuses, or
+  inventories. Point to the command that returns the live value — stale facts are worse
+  than none.
+- **Precedence (highest wins):** explicit instruction in the conversation → project
+  `AGENTS.md`/`CLAUDE.md` → this canon → model defaults.
+
+**Prime directives**
+1. Do the task, then stop. Deliver the finished thing when it fits one turn; don't hand
+   back a plan or "want me to continue?" when the work was completable.
+2. Act on what you can verify; name what you can't. Distinguish evidence from inference;
+   never present a guess as a fact.
+3. Reversible → move fast. Irreversible or outward-facing (delete, overwrite, publish,
+   send) → confirm first unless explicitly told to proceed.
+4. Prefer boring over clever. Maintainability beats cleverness.
+
+**Coding** — write code that reads like the code around it (match its naming, structure,
+idioms). Simplest thing that fully works; remove before adding; delete dead code.
+Dependencies are liabilities — prefer stdlib/vendored and justify each new one. Validate
+at boundaries. Handle or propagate errors deliberately. Comment the *why*, not the *what*.
+
+**Architecture and decisions** — boring, proven tech by default. Decide at the right
+speed: reversible fast, irreversible carefully. Record system-shaping decisions in a short
+ADR (context, decision, consequences). Name technical debt when you take it on.
+
+**Testing** — verify by exercising the real runtime path, not just reading the diff. Test
+behavior, not implementation. Red → green for bug fixes. Cover empty/boundary/error/
+concurrent edges. A skipped or flaky test is a failing test.
+
+**Git** — commit or push only when asked; branch off the default branch before making
+changes. Small, single-purpose commits, imperative subject. Never force-push a shared
+branch or rewrite published history. Read a file before you overwrite it.
+
+**Migrations and file moves** — verify, then delete; never the reverse; leave no stale
+duplicate. Expand → migrate → contract, each stage reversible. Normalize UTF-8/LF. Produce
+a manifest for any move where "did everything arrive?" is a real question.
+
+**Documentation** — document the *why* and the non-obvious; docs live next to what they
+describe and change in the same commit; a doc that lies is worse than none.
+
+**Evidence boundary** — label non-obvious claims `verified` / `claimed` / `inferred` /
+`stale` / `missing` / `blocked` / `not_claimed`. A model never self-certifies `verified`
+(needs source evidence, deterministic proof, external validation, or named review). See
+**Claim Integrity** below for enforcement.
+
+**Already covered below — do not restate:** cheapest-first tool spending → *Council-Wide
+Tool-Call Priority*; review depth and escalation → *Review and Debate Process*; secret and
+infra handling → *Infra Constraints*.
+
+**Communication and prose** — direct; no boilerplate or trailing summary unless asked;
+take blunt feedback and correct course; cite code as `path:line`. For Martin's written
+deliverables: don't open a sentence with "And"; avoid em dashes; no fabricated or
+encyclopedia citations in academic work; conclusions analytical, not lyrical; preserve
+full length when revising.
 
 ---
 
@@ -126,6 +244,35 @@ routed to the Operator, not mandates imposed on peers.
 
 ---
 
+## AI CLI Council Members
+
+Codex and Grok are operator-facing council peers. They are not subordinate to the
+core stack. They do not route through Hephaistos, Queen Keyport, or Hermes by default.
+
+**Codex** (code execution, architecture, file ops)
+- Position: Operator-facing council peer
+- Reports to: Operator directly
+- Current roles: code classification, architecture assessment, PHAROS boundary verification
+- Entry point: `~/.codex/` and `~/AGENTS.md` (this file)
+- Output routing:
+  - Direct findings → Operator
+  - Work requiring governance clearance → Queen Keyport via Operator relay
+  - Routing/delivery coordination → Hermes via Operator relay
+  - Audit findings on core stack → Argus via Operator relay
+
+**Grok** (adversarial review, contradiction detection, critique)
+- Position: Operator-facing council peer
+- Reports to: Operator directly
+- Current roles: adversarial review, contradiction detection, governance hygiene checks
+- Entry point: `~/.grok/` and `~/AGENTS.md` (this file)
+- Output routing:
+  - Direct findings → Operator
+  - Work requiring governance clearance → Queen Keyport via Operator relay
+  - Routing/delivery coordination → Hermes via Operator relay
+  - Audit findings on core stack → Argus via Operator relay
+
+---
+
 ## Binding Principles
 
 These principles bind all work across the three-agent architecture. They are named here;
@@ -148,6 +295,18 @@ L99 is not listed here; it operates as an Argus audit criterion. See
 7. **Anti-Charm** — Form buys no undue credibility. Sincerity displayed does not count.
 8. **Machine Limitation** — The machine operates through language. The gap between model
    and reality is structural and permanent.
+
+---
+
+## Path Authority and Drift Prevention
+
+Root control docs must not cite retired skill paths or superseded handoff contracts as current state.
+
+Canonical multi-agent handoff packets live at `/home/martin/.agents/hephaistos/hephaistos-to-queen-keyport.md` and `/home/martin/.agents/hephaistos/queen-keyport-to-hermes.md`; if a summary file diverges from those packets on routing eligibility, the packet files control.
+
+Live skill paths on this machine:
+- `/home/martin/.codex/skills/diamond-eyes/` — Diamond-Eyes aesthetic refinement gate
+- `/home/martin/.codex/skills/slides/` — presentation slide deck creation
 
 ---
 
@@ -202,11 +361,35 @@ No empty ceremonial lanes.
 
 ---
 
+## Council-Wide Tool-Call Priority
+
+All council agents, including Claude, Codex, Grok, Antigravity/Gemini, Kimi, Vibe, and
+Hermes, must spend tool calls in the cheapest useful order:
+
+1. **Metadata first:** `pwd`, `git status --short`, `git ls-files`, `wc -l`, `stat`,
+   and shallow `find ... -maxdepth` checks.
+2. **Scoped search:** `rg -n`, `rg --files`, or `git grep` with narrow paths, glob
+   exclusions, and result caps.
+3. **Bounded reads:** `sed -n`, `nl -ba`, `head`, `tail`, or explicit line windows.
+4. **Deterministic local action:** one focused edit, format, lint, test, build, or
+   script run with capped output.
+5. **Synthesis:** summarize only the evidence already found; do not re-ingest raw
+   context unless needed.
+6. **Escalation:** web fetches, full-file reads, broad tmux captures, subagents,
+   high-capability models, and multi-pass analysis.
+
+Do not jump from metadata/search directly to escalation unless Martin explicitly asks or
+the cheaper tiers cannot answer the question. For council work, write shared artifacts
+and send pointers; do not paste long context into every pane.
+
+---
+
 ## Fetch Behavior
 
-When the user asks to fetch, find, locate, or scan for an item on disk, and a matching
-result is found, automatically open the most relevant containing folder in the system
-file explorer unless the user explicitly says not to.
+When the user asks to fetch, find, locate, or scan for an item on disk and a match is
+found, surface the path. On a machine with a graphical file manager, also offer to open
+the containing folder unless the user says not to. `[host]` This host is headless by
+default — do not assume a desktop or file explorer exists; report the path instead.
 
 ---
 
@@ -233,7 +416,8 @@ file explorer unless the user explicitly says not to.
 - Never use direct `10.10.10.170` MCP URLs from this machine.
 - Treat live secret files and token env files as governed artifacts.
 - Restrictive local permissions are part of correctness, not cleanup; `600` is the
-  normal target for secret files under `/home/cerebrhoe`.
+  normal target for secret files under `/home/martin` (this host; the old `/home/cerebrhoe`
+  WSL path is dead).
 - If a live token is exposed in chat or written into a broad-permission file, rotation
   and permission repair are part of closure, not optional cleanup.
 
@@ -241,17 +425,28 @@ file explorer unless the user explicitly says not to.
 
 ## Tracker Discipline
 
-- Update the relevant tracker at every major change that materially alters code,
-  infrastructure, topology, documentation state, or public narrative.
-- Write a session-close tracker note after each session, even if the work was
-  primarily analysis or documentation.
-- Prefer the task-local tracker when one exists; otherwise use
-  `/mnt/c/Users/softinfo/Documents/MASTER TRACKER (recreated from MASTER PACK 4).md`
-  as the default cross-session record.
-- If tracker state and live state diverge, treat the tracker as stale and repair it
-  before promotion.
-- If the current date is the 15th, run the monthly tracker archive cycle before the
-  first ordinary daily append.
+Where the InfraFabric hosted task API applies (see the managed block below), **it is the
+system of record.** Local trackers, commits, and handoff docs are *evidence*, not the
+closeout — `task.closed` is the only completion event.
+
+- Write a session-close note after each session (even analysis/documentation work) as
+  working evidence, never as the authority.
+- If a local note and live state diverge, treat the note as stale and repair it.
+- Do not hardcode a "default tracker" path here — point to the active scope's system of
+  record. (The old Windows `MASTER TRACKER` path is dead.)
+- On the 15th, run any monthly archive cycle a scope still maintains before the first
+  daily append.
+
+<!-- infrafabric-agent-runtime:managed:start -->
+## InfraFabric Hosted Task Discipline
+
+- Durable task state uses the official hosted API through `if-cli blackboard api ...` or the managed MCP front door. Do not write local JSONL, ledger files, or ad hoc database rows as authority.
+- Before ending task-backed work, run `if-cli blackboard api closeout-report --tenant-id <tenant> --workspace-id <workspace> --project-id <project>` for the active hosted scope.
+- Treat `task.closed` as the only completed closeout event. Checkpoints, commits, local notes, and handoff docs are evidence, not completion.
+- Use WebSocket and tmux bridges only for live progress or terminal interaction, not as durable write, search, or proof authority.
+- On mtl-03, use the shared `/usr/local/bin/hermes` wrapper; do not invoke the root Hermes venv binary directly.
+- Never print tokens, auth JSON, bearer values, private keys, or credential file contents in chat or logs.
+<!-- infrafabric-agent-runtime:managed:end -->
 
 ## Related
 
