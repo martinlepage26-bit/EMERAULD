@@ -137,6 +137,15 @@ a manifest for any move where "did everything arrive?" is a real question.
 **Documentation** — document the *why* and the non-obvious; docs live next to what they
 describe and change in the same commit; a doc that lies is worse than none.
 
+**Build-turn handoff (hard stop)** — never end a build turn without writing or updating
+`docs/handoff/<name>.md`: what's done, commit hashes, the exact verification commands run
+and their results, live URLs, risks, and the next decision. If the next-decision field
+can't be filled, the work is **abandoned**, not paused — say so.
+
+**Standard build order** — every autonomous build/agent order carries the verbatim
+standard in `STANDARD-BUILD-ORDER.md`. Do not edit it per-task; verbatim reuse is the
+point — the standard must not drift between sessions or models.
+
 **Evidence boundary** — label non-obvious claims `verified` / `claimed` / `inferred` /
 `stale` / `missing` / `blocked` / `not_claimed`. A model never self-certifies `verified`
 (needs source evidence, deterministic proof, external validation, or named review). See
