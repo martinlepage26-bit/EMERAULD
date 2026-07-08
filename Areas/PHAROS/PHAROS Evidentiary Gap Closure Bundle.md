@@ -34,9 +34,9 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Runbook SOP]]'
 - '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Phase 1 Governance Formation Sequence]]'
-- '[[wiki/Recursive Governance Theory]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/COVER_LETTER_FOR_COUNSEL]]'
 - '[[archive/session-state/session-state-001]]'
 ---

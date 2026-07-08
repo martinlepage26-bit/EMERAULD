@@ -31,10 +31,10 @@ backlink_count: 9
 backlinks:
 - '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
   Phenomenon]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Home]]'
 - '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
-- '[[wiki/Recursive Governance Theory]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

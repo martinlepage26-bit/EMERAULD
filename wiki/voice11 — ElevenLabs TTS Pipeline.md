@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[wiki/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Obsidian Second Brain Product]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 ---
 
 # voice11 — ElevenLabs TTS Pipeline

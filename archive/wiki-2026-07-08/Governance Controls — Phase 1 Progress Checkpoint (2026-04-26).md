@@ -3,10 +3,9 @@ type: governance-checkpoint
 title: Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)
 aliases:
 - GOVERNANCE CONTROLS — Phase 1 PROGRESS CHECKPOINT
-- wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)
 tags:
 - governance-checkpoint
-- wiki
+- archive
 - governance-controls-phase-1-progress-checkpoint-2026-04-26-md
 - phase
 - registry
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md
 backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'

@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/Operator Continuity Memo — 2026-05-14]]'
 - '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
 - '[[wiki/Rest and Consolidation Guide — Martin]]'
 - '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'

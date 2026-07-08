@@ -25,7 +25,7 @@ canonical_path: memory/clients/Lavoie Construct.md
 backlink_count: 8
 backlinks:
 - '[[wiki/CLIENT ACCOUNTS]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
 - '[[memory]]'

@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/TPS-TVQ PHAROS]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[maps/PHAROS Method Map]]'

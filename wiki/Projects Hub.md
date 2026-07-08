@@ -23,7 +23,7 @@ canonical_path: wiki/Projects Hub.md
 backlink_count: 5
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[index]]'
 - '[[session-state]]'

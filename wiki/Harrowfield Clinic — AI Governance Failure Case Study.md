@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial]]'

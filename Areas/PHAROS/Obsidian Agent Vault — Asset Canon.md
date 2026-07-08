@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Setup Guide]]'
 - '[[wiki/Obsidian Second Brain Product]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-MANIFEST]]'
 - '[[assets/elemental-agents/positioning-memo]]'

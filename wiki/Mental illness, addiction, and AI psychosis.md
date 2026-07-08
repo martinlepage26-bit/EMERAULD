@@ -25,7 +25,7 @@ vault_area: wiki
 canonical_path: wiki/Mental illness, addiction, and AI psychosis.md
 backlink_count: 6
 backlinks:
-- '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'

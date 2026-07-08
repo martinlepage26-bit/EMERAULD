@@ -4,7 +4,6 @@ title: AI Governance Reference Stack — Annotated Library (Operational 2026-03-
 aliases:
 - Annotated Lib (Operational)
 - AI Governance Annotated Library
-- wiki/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)
 tags:
 - reference
 - ai-governance
@@ -12,7 +11,7 @@ tags:
 - standards
 - regulation
 - frameworks
-- wiki
+- resources
 - ai-governance-reference-stack-annotated-library-operational-2026-03-11-md
 - annotated
 - roadmaps
@@ -21,9 +20,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Governance Reference Stack — Annotated Library (Operational
-  2026-03-11).md
+vault_area: Resources
+canonical_path: Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11).md
 backlink_count: 16
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
@@ -33,7 +31,7 @@ backlinks:
 - '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[wiki/Research Hub]]'

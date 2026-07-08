@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
-- '[[wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
+- '[[Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
 - '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
   Activism Switzerland)]]'
 - '[[wiki/LOTUS Model and Agency]]'
@@ -41,7 +41,7 @@ backlinks:
   2024]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
-- '[[wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
+- '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'

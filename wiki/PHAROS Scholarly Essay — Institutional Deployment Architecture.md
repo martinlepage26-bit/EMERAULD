@@ -26,7 +26,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'
 - '[[wiki/RECURSO — Final Audit and Ethical Review]]'
-- '[[wiki/Recursive Governance Theory]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

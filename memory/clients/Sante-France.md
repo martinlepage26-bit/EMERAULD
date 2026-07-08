@@ -24,7 +24,7 @@ backlink_count: 10
 backlinks:
 - '[[wiki/CLIENT ACCOUNTS]]'
 - '[[wiki/Operator Continuity Memo — 2026-05-14]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
 - '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

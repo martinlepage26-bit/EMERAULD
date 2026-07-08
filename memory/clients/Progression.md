@@ -25,7 +25,7 @@ backlink_count: 7
 backlinks:
 - '[[wiki/CLIENT ACCOUNTS]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory]]'
 - '[[memory/daily/2026-04-19]]'

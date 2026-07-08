@@ -192,21 +192,6 @@
     "backlinks": 33
   },
   {
-    "id": "AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)",
-    "title": "AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)",
-    "path": "wiki/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Governance Annotated Library",
-      "Annotated Lib (Operational)",
-      "wiki/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)"
-    ],
-    "outlinks": 2,
-    "unique_outlinks": 2,
-    "backlinks": 23
-  },
-  {
     "id": "AI Governance Sprint — One-Page Sellable Packet",
     "title": "AI Governance Sprint — One-Page Sellable Packet",
     "path": "wiki/AI Governance Sprint — One-Page Sellable Packet.md",
@@ -443,21 +428,6 @@
     "outlinks": 0,
     "unique_outlinks": 0,
     "backlinks": 0
-  },
-  {
-    "id": "Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
-    "title": "Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
-    "path": "wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Machine gambling zone",
-      "Natasha Dow Schüll Addiction by Design",
-      "wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 11,
-    "backlinks": 11
   },
   {
     "id": "Agatha All Along Social Compass — Version Genealogy",
@@ -1470,6 +1440,19 @@
     "backlinks": 0
   },
   {
+    "id": "Areas/Personal/Personal and Projects MOC",
+    "title": "Personal and Projects MOC",
+    "path": "Areas/Personal/Personal and Projects MOC.md",
+    "type": "moc",
+    "status": "active",
+    "aliases": [
+      "Personal and Projects MOC"
+    ],
+    "outlinks": 171,
+    "unique_outlinks": 151,
+    "backlinks": 96
+  },
+  {
     "id": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
     "title": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
     "path": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance.md",
@@ -1967,21 +1950,6 @@
     "backlinks": 281
   },
   {
-    "id": "Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)",
-    "title": "Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)",
-    "path": "wiki/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Automating Inequality (Eubanks)",
-      "Digital Poorhouse (Eubanks)",
-      "wiki/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 3,
-    "backlinks": 11
-  },
-  {
     "id": "Avatar Chapter — A Queer Reading of Embodied Power (English)",
     "title": "Avatar Chapter — A Queer Reading of Embodied Power (English)",
     "path": "wiki/Avatar Chapter — A Queer Reading of Embodied Power (English).md",
@@ -2319,20 +2287,6 @@
     "backlinks": 30
   },
   {
-    "id": "CSV_DIAGNOSTIC_REPORT",
-    "title": "CSV_DIAGNOSTIC_REPORT",
-    "path": "wiki/CSV_DIAGNOSTIC_REPORT.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "CSV_DIAGNOSTIC_REPORT",
-      "wiki/CSV_DIAGNOSTIC_REPORT"
-    ],
-    "outlinks": 2,
-    "unique_outlinks": 2,
-    "backlinks": 2
-  },
-  {
     "id": "Care, Ethics, and Governance",
     "title": "Care, Ethics, and Governance",
     "path": "wiki/Care, Ethics, and Governance.md",
@@ -2410,22 +2364,6 @@
     "outlinks": 10,
     "unique_outlinks": 6,
     "backlinks": 9
-  },
-  {
-    "id": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "title": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Apps SDK deployment guide",
-      "Apps SDK metadata guide",
-      "ChatGPT Apps SDK planning guide",
-      "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 8,
-    "backlinks": 16
   },
   {
     "id": "Chrome Extension Monetization - Policy and Product Options",
@@ -3282,24 +3220,6 @@
     "backlinks": 6
   },
   {
-    "id": "Epistemic Governance — Canonical Reference",
-    "title": "Epistemic Governance — Canonical Reference",
-    "path": "wiki/Epistemic Governance — Canonical Reference.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Dimension F reference",
-      "OODA canonical",
-      "epistemic governance reference",
-      "skill-architect epistemic standard",
-      "voice operator canonical",
-      "wiki/Epistemic Governance — Canonical Reference"
-    ],
-    "outlinks": 20,
-    "unique_outlinks": 14,
-    "backlinks": 15
-  },
-  {
     "id": "Epistemic Operator — Operational Specification",
     "title": "Epistemic Operator — Operational Specification",
     "path": "wiki/Epistemic Operator — Operational Specification.md",
@@ -3346,20 +3266,6 @@
     "outlinks": 25,
     "unique_outlinks": 16,
     "backlinks": 21
-  },
-  {
-    "id": "Evidence Discipline and Epistemics",
-    "title": "Evidence Discipline and Epistemics",
-    "path": "wiki/Evidence Discipline and Epistemics.md",
-    "type": "map",
-    "status": "active",
-    "aliases": [
-      "TOPIC — Evidence Discipline and Epistemics",
-      "wiki/Evidence Discipline and Epistemics"
-    ],
-    "outlinks": 65,
-    "unique_outlinks": 60,
-    "backlinks": 311
   },
   {
     "id": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
@@ -3678,20 +3584,6 @@
     "outlinks": 9,
     "unique_outlinks": 9,
     "backlinks": 5
-  },
-  {
-    "id": "Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
-    "title": "Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
-    "path": "wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md",
-    "type": "governance-checkpoint",
-    "status": "active",
-    "aliases": [
-      "GOVERNANCE CONTROLS — Phase 1 PROGRESS CHECKPOINT",
-      "wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 10,
-    "backlinks": 4
   },
   {
     "id": "Governance Stress-Test Protocols — Index",
@@ -4240,21 +4132,6 @@
     "backlinks": 6
   },
   {
-    "id": "In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)",
-    "title": "In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)",
-    "path": "wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "In the Study of the Witch (Religions 2018)",
-      "Zwissler 2018 study of the witch",
-      "wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 4,
-    "backlinks": 9
-  },
-  {
     "id": "Inbox/README",
     "title": "README",
     "path": "Inbox/README.md",
@@ -4541,21 +4418,6 @@
     "backlinks": 12
   },
   {
-    "id": "Le Mythe de Sisyphe — Camus (Absurd as Starting Point)",
-    "title": "Le Mythe de Sisyphe — Camus (Absurd as Starting Point)",
-    "path": "wiki/Le Mythe de Sisyphe — Camus (Absurd as Starting Point).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Camus — Le Mythe de Sisyphe",
-      "The Myth of Sisyphus (Camus)",
-      "wiki/Le Mythe de Sisyphe — Camus (Absurd as Starting Point)"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 2,
-    "backlinks": 9
-  },
-  {
     "id": "Le sang qui porte ton nom — Novel",
     "title": "Le sang qui porte ton nom — Novel",
     "path": "wiki/Le sang qui porte ton nom — Novel.md",
@@ -4708,38 +4570,6 @@
     "backlinks": 20
   },
   {
-    "id": "Literary References in Common English — Allusion and Idiom Guide",
-    "title": "Literary References in Common English — Allusion and Idiom Guide",
-    "path": "wiki/Literary References in Common English — Allusion and Idiom Guide.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Common English Allusions",
-      "Literary References Guide",
-      "Literature Idioms Reference",
-      "wiki/Literary References in Common English — Allusion and Idiom Guide"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 4,
-    "backlinks": 8
-  },
-  {
-    "id": "Literary References — Craft Guide",
-    "title": "Literary References — Craft Guide",
-    "path": "wiki/Literary References — Craft Guide.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Henry Craft Reference",
-      "Idiom Craft Guide",
-      "Literary Allusion Guide",
-      "wiki/Literary References — Craft Guide"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 5,
-    "backlinks": 14
-  },
-  {
     "id": "Livre des Ombres — Martin's Magical System (1996-2026)",
     "title": "Livre des Ombres — Martin's Magical System (1996-2026)",
     "path": "wiki/Livre des Ombres — Martin's Magical System (1996-2026).md",
@@ -4842,22 +4672,6 @@
     "outlinks": 17,
     "unique_outlinks": 11,
     "backlinks": 9
-  },
-  {
-    "id": "MASTER REFERENCE SAFE — Canonical Bibliography System",
-    "title": "MASTER REFERENCE SAFE — Canonical Bibliography System",
-    "path": "wiki/MASTER REFERENCE SAFE — Canonical Bibliography System.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "MASTER REFERENCE SAFE",
-      "canonical reference list",
-      "reference manager",
-      "wiki/MASTER REFERENCE SAFE — Canonical Bibliography System"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 13,
-    "backlinks": 303
   },
   {
     "id": "MASTERxMASTERxMASTER — Skill Corpus Map",
@@ -5100,20 +4914,6 @@
     "outlinks": 15,
     "unique_outlinks": 9,
     "backlinks": 11
-  },
-  {
-    "id": "Master Bibliography — Références bibliographiques 2025",
-    "title": "Master Bibliography — Références bibliographiques 2025",
-    "path": "wiki/Master Bibliography — Références bibliographiques 2025.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Master Bibliography — Références bibliographiques 2025",
-      "wiki/Master Bibliography — Références bibliographiques 2025"
-    ],
-    "outlinks": 25,
-    "unique_outlinks": 16,
-    "backlinks": 309
   },
   {
     "id": "Master Project Tracker — 2026",
@@ -6567,20 +6367,6 @@
     "backlinks": 2
   },
   {
-    "id": "Personal and Projects MOC",
-    "title": "Personal and Projects MOC",
-    "path": "wiki/Personal and Projects MOC.md",
-    "type": "moc",
-    "status": "active",
-    "aliases": [
-      "Personal and Projects MOC",
-      "wiki/Personal and Projects MOC"
-    ],
-    "outlinks": 171,
-    "unique_outlinks": 151,
-    "backlinks": 96
-  },
-  {
     "id": "Phase 1 Governance Formation Sequence",
     "title": "Phase 1 Governance Formation Sequence",
     "path": "wiki/Phase 1 Governance Formation Sequence.md",
@@ -6624,20 +6410,6 @@
     "outlinks": 4,
     "unique_outlinks": 4,
     "backlinks": 2
-  },
-  {
-    "id": "Plugin Recommendations",
-    "title": "Plugin Recommendations",
-    "path": "wiki/Plugin Recommendations.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Plugin Recommendations",
-      "wiki/Plugin Recommendations"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 6,
-    "backlinks": 22
   },
   {
     "id": "Poiesis Poietics Poetics Praxis — Making and Action Distinctions",
@@ -6904,21 +6676,6 @@
     "outlinks": 3,
     "unique_outlinks": 2,
     "backlinks": 5
-  },
-  {
-    "id": "Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
-    "title": "Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
-    "path": "wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Queer Religiosities (Wilcox)",
-      "Wilcox — Queer Religiosities",
-      "wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 9,
-    "backlinks": 10
   },
   {
     "id": "Queer Theory Foundations",
@@ -7293,37 +7050,6 @@
     "backlinks": 63
   },
   {
-    "id": "Recursive Governance Theory",
-    "title": "Recursive Governance Theory",
-    "path": "wiki/Recursive Governance Theory.md",
-    "type": "map",
-    "status": "active",
-    "aliases": [
-      "TOPIC — Recursive Governance Theory",
-      "wiki/Recursive Governance Theory"
-    ],
-    "outlinks": 60,
-    "unique_outlinks": 52,
-    "backlinks": 221
-  },
-  {
-    "id": "Red Team Handbook — Offensive Security Reference",
-    "title": "Red Team Handbook — Offensive Security Reference",
-    "path": "wiki/Red Team Handbook — Offensive Security Reference.md",
-    "type": "wiki",
-    "status": "reference",
-    "aliases": [
-      "RED-HANDBOOK",
-      "offensive security",
-      "penetration testing",
-      "red team",
-      "wiki/Red Team Handbook — Offensive Security Reference"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 4,
-    "backlinks": 5
-  },
-  {
     "id": "Reddit Data API — Access Terms and Rate Limits",
     "title": "Reddit Data API — Access Terms and Rate Limits",
     "path": "wiki/Reddit Data API — Access Terms and Rate Limits.md",
@@ -7416,6 +7142,166 @@
     "backlinks": 16
   },
   {
+    "id": "Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)",
+    "title": "AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)",
+    "path": "Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Governance Annotated Library",
+      "Annotated Lib (Operational)"
+    ],
+    "outlinks": 2,
+    "unique_outlinks": 2,
+    "backlinks": 23
+  },
+  {
+    "id": "Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
+    "title": "Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
+    "path": "Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Machine gambling zone",
+      "Natasha Dow Schüll Addiction by Design"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 11,
+    "backlinks": 11
+  },
+  {
+    "id": "Resources/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)",
+    "title": "Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)",
+    "path": "Resources/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Automating Inequality (Eubanks)",
+      "Digital Poorhouse (Eubanks)"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 3,
+    "backlinks": 11
+  },
+  {
+    "id": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "title": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Apps SDK deployment guide",
+      "Apps SDK metadata guide",
+      "ChatGPT Apps SDK planning guide"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 8,
+    "backlinks": 16
+  },
+  {
+    "id": "Resources/Epistemic Governance — Canonical Reference",
+    "title": "Epistemic Governance — Canonical Reference",
+    "path": "Resources/Epistemic Governance — Canonical Reference.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Dimension F reference",
+      "OODA canonical",
+      "epistemic governance reference",
+      "skill-architect epistemic standard",
+      "voice operator canonical"
+    ],
+    "outlinks": 20,
+    "unique_outlinks": 14,
+    "backlinks": 15
+  },
+  {
+    "id": "Resources/Evidence Discipline and Epistemics",
+    "title": "Evidence Discipline and Epistemics",
+    "path": "Resources/Evidence Discipline and Epistemics.md",
+    "type": "map",
+    "status": "active",
+    "aliases": [
+      "TOPIC — Evidence Discipline and Epistemics"
+    ],
+    "outlinks": 65,
+    "unique_outlinks": 60,
+    "backlinks": 311
+  },
+  {
+    "id": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)",
+    "title": "In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)",
+    "path": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "In the Study of the Witch (Religions 2018)",
+      "Zwissler 2018 study of the witch"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 4,
+    "backlinks": 9
+  },
+  {
+    "id": "Resources/Le Mythe de Sisyphe — Camus (Absurd as Starting Point)",
+    "title": "Le Mythe de Sisyphe — Camus (Absurd as Starting Point)",
+    "path": "Resources/Le Mythe de Sisyphe — Camus (Absurd as Starting Point).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Camus — Le Mythe de Sisyphe",
+      "The Myth of Sisyphus (Camus)"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 2,
+    "backlinks": 9
+  },
+  {
+    "id": "Resources/Literary References in Common English — Allusion and Idiom Guide",
+    "title": "Literary References in Common English — Allusion and Idiom Guide",
+    "path": "Resources/Literary References in Common English — Allusion and Idiom Guide.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Common English Allusions",
+      "Literary References Guide",
+      "Literature Idioms Reference"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 4,
+    "backlinks": 8
+  },
+  {
+    "id": "Resources/Literary References — Craft Guide",
+    "title": "Literary References — Craft Guide",
+    "path": "Resources/Literary References — Craft Guide.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Henry Craft Reference",
+      "Idiom Craft Guide",
+      "Literary Allusion Guide"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 5,
+    "backlinks": 14
+  },
+  {
+    "id": "Resources/MASTER REFERENCE SAFE — Canonical Bibliography System",
+    "title": "MASTER REFERENCE SAFE — Canonical Bibliography System",
+    "path": "Resources/MASTER REFERENCE SAFE — Canonical Bibliography System.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "MASTER REFERENCE SAFE",
+      "canonical reference list",
+      "reference manager"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 13,
+    "backlinks": 303
+  },
+  {
     "id": "Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
     "title": "Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
     "path": "Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence).md",
@@ -7428,6 +7314,32 @@
     "outlinks": 7,
     "unique_outlinks": 7,
     "backlinks": 14
+  },
+  {
+    "id": "Resources/Master Bibliography — Références bibliographiques 2025",
+    "title": "Master Bibliography — Références bibliographiques 2025",
+    "path": "Resources/Master Bibliography — Références bibliographiques 2025.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Master Bibliography — Références bibliographiques 2025"
+    ],
+    "outlinks": 25,
+    "unique_outlinks": 16,
+    "backlinks": 309
+  },
+  {
+    "id": "Resources/Plugin Recommendations",
+    "title": "Plugin Recommendations",
+    "path": "Resources/Plugin Recommendations.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Plugin Recommendations"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 6,
+    "backlinks": 22
   },
   {
     "id": "Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)",
@@ -7458,6 +7370,20 @@
     "backlinks": 11
   },
   {
+    "id": "Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
+    "title": "Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
+    "path": "Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Queer Religiosities (Wilcox)",
+      "Wilcox — Queer Religiosities"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 9,
+    "backlinks": 10
+  },
+  {
     "id": "Resources/ROUTING",
     "title": "ROUTING",
     "path": "Resources/ROUTING.md",
@@ -7469,6 +7395,35 @@
     "outlinks": 0,
     "unique_outlinks": 0,
     "backlinks": 0
+  },
+  {
+    "id": "Resources/Recursive Governance Theory",
+    "title": "Recursive Governance Theory",
+    "path": "Resources/Recursive Governance Theory.md",
+    "type": "map",
+    "status": "active",
+    "aliases": [
+      "TOPIC — Recursive Governance Theory"
+    ],
+    "outlinks": 60,
+    "unique_outlinks": 52,
+    "backlinks": 221
+  },
+  {
+    "id": "Resources/Red Team Handbook — Offensive Security Reference",
+    "title": "Red Team Handbook — Offensive Security Reference",
+    "path": "Resources/Red Team Handbook — Offensive Security Reference.md",
+    "type": "wiki",
+    "status": "reference",
+    "aliases": [
+      "RED-HANDBOOK",
+      "offensive security",
+      "penetration testing",
+      "red team"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 4,
+    "backlinks": 5
   },
   {
     "id": "Resources/Regulatory Standards Reference Stack — Governance Controls Grounding",
@@ -7508,6 +7463,21 @@
     "outlinks": 12,
     "unique_outlinks": 10,
     "backlinks": 13
+  },
+  {
+    "id": "Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)",
+    "title": "The Gift — Mauss (Obligation, Reciprocity, Hau)",
+    "path": "Resources/The Gift — Mauss (Obligation, Reciprocity, Hau).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Essai sur le don",
+      "Hau (spirit of the gift)",
+      "Mauss — The Gift"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 5,
+    "backlinks": 11
   },
   {
     "id": "Resources/glossary",
@@ -8547,22 +8517,6 @@
     "outlinks": 8,
     "unique_outlinks": 4,
     "backlinks": 18
-  },
-  {
-    "id": "The Gift — Mauss (Obligation, Reciprocity, Hau)",
-    "title": "The Gift — Mauss (Obligation, Reciprocity, Hau)",
-    "path": "wiki/The Gift — Mauss (Obligation, Reciprocity, Hau).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Essai sur le don",
-      "Hau (spirit of the gift)",
-      "Mauss — The Gift",
-      "wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 5,
-    "backlinks": 11
   },
   {
     "id": "The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)",
@@ -9995,6 +9949,32 @@
     "backlinks": 2
   },
   {
+    "id": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
+    "title": "CSV_DIAGNOSTIC_REPORT",
+    "path": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "CSV_DIAGNOSTIC_REPORT"
+    ],
+    "outlinks": 2,
+    "unique_outlinks": 2,
+    "backlinks": 11
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
+    "title": "Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
+    "path": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md",
+    "type": "governance-checkpoint",
+    "status": "active",
+    "aliases": [
+      "GOVERNANCE CONTROLS — Phase 1 PROGRESS CHECKPOINT"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 10,
+    "backlinks": 4
+  },
+  {
     "id": "argus-drift-audit-scope-multi-agent-orchestration",
     "title": "argus-drift-audit-scope-multi-agent-orchestration",
     "path": "wiki/argus-drift-audit-scope-multi-agent-orchestration.md",
@@ -10110,7 +10090,7 @@
     ],
     "outlinks": 1,
     "unique_outlinks": 1,
-    "backlinks": 10
+    "backlinks": 1
   },
   {
     "id": "artifacts/2026-04-19-pharos-migration-pr4/docs/PHAROS_OPERATIONAL_RUNBOOK",

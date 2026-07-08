@@ -21,7 +21,7 @@ canonical_path: wiki/Healing the Fisher King Project Note Templates.md
 backlink_count: 5
 backlinks:
 - '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Projects Hub]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'

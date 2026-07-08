@@ -3,10 +3,9 @@ type: moc
 title: Personal and Projects MOC
 aliases:
 - Personal and Projects MOC
-- wiki/Personal and Projects MOC
 tags:
 - moc
-- wiki
+- areas
 - personal-and-projects-moc-md
 - agent
 - obsidian
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-07-06'
-vault_area: wiki
-canonical_path: wiki/Personal and Projects MOC.md
+vault_area: Areas
+canonical_path: Areas/Personal/Personal and Projects MOC.md
 backlink_count: 68
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
@@ -41,7 +40,7 @@ backlinks:
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
-- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
 - '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
@@ -50,7 +49,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/Legal and Institutional Cases]]'
-- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'

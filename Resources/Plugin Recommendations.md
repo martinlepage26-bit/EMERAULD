@@ -3,9 +3,8 @@ type: wiki
 title: Plugin Recommendations
 aliases:
 - Plugin Recommendations
-- wiki/Plugin Recommendations
 tags:
-- wiki
+- resources
 - plugin-recommendations-md
 - plugins
 - obsidian
@@ -16,13 +15,13 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Plugin Recommendations.md
+vault_area: Resources
+canonical_path: Resources/Plugin Recommendations.md
 backlink_count: 14
 backlinks:
 - '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'
 - '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
-- '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[wiki/Home]]'
 - '[[wiki/LightRAG — Graph-Based RAG System]]'
@@ -30,7 +29,7 @@ backlinks:
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Setup Guide]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/RAG-Anything — Multimodal RAG Framework]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'

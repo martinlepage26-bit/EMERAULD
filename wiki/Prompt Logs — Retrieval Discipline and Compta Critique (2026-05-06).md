@@ -27,7 +27,7 @@ backlink_count: 6
 backlinks:
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Documents and Downloads Scan — 2026-05-06]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

@@ -5,14 +5,13 @@ aliases:
 - MASTER REFERENCE SAFE
 - canonical reference list
 - reference manager
-- wiki/MASTER REFERENCE SAFE — Canonical Bibliography System
 tags:
 - bibliography
 - tools
 - reference
 - knowledge-infrastructure
 - research
-- wiki
+- resources
 - master-reference-safe-canonical-bibliography-system-md
 - master
 - library
@@ -21,16 +20,16 @@ tags:
 status: active
 created: '2026-05-04'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/MASTER REFERENCE SAFE — Canonical Bibliography System.md
+vault_area: Resources
+canonical_path: Resources/MASTER REFERENCE SAFE — Canonical Bibliography System.md
 backlink_count: 8
 backlinks:
-- '[[wiki/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)]]'
+- '[[Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)]]'
 - '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

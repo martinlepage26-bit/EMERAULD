@@ -1,6 +1,6 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:37:18Z
+Built: 2026-07-08T05:37:19Z
 Corpus: wiki/**/*.md
 
 ## Summary
@@ -12,21 +12,21 @@ Corpus: wiki/**/*.md
 - Connected components: 46
 - Largest component: 1361
 - Zero-backlink notes: 67
-- One-backlink notes: 166
-- Two-backlink notes: 367
+- One-backlink notes: 167
+- Two-backlink notes: 366
 
 ## Backlink Histogram
 
 - 0: 67
-- 1: 166
+- 1: 167
 - 101+: 28
-- 11-20: 199
-- 2: 367
+- 11-20: 200
+- 2: 366
 - 21-50: 151
 - 3-4: 167
 - 5-6: 67
 - 51-100: 43
-- 7-10: 160
+- 7-10: 159
 
 ## Low-Backlink Notes
 
@@ -99,7 +99,7 @@ Corpus: wiki/**/*.md
 - [[projects/security-audit-skill/multi-agent-orchestration/run-1/phase2-hunt-findings]]
 - [[projects/security-audit-skill/multi-agent-orchestration/run-1/phase3-validation]]
 
-### One backlink (166)
+### One backlink (167)
 - [[InfraFabric Architecture]]
 - [[archive/CO-EQUAL-AUTHORITY-DECISION]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/01_Recursive_AI_Governance_Very_Long_Narrative]]
@@ -118,6 +118,7 @@ Corpus: wiki/**/*.md
 - [[archive/session-state/session-state-002]]
 - [[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]
 - [[artifacts/2026-04-19-pharos-migration-pr4/docs/CODEX_PROMPT_SERVER_HARDENING]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/docs/CSV_DIAGNOSTIC_REPORT]]
 - [[artifacts/2026-04-19-pharos-migration-pr4/docs/martin_decision_brief]]
 - [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/README]]
 - [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/archive/README]]
@@ -199,12 +200,10 @@ Corpus: wiki/**/*.md
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/evolution]]
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/method]]
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/offer-pricing-architect/references/ecosystem]]
-- ... 66 more
+- ... 67 more
 
-### Two backlink (367)
+### Two backlink (366)
 - [[Agent Logs Hub]]
-- [[CSV_DIAGNOSTIC_REPORT]]
 - [[Daily Dashboard]]
 - [[Home]]
 - [[Knowledge Gaps]]
@@ -303,7 +302,8 @@ Corpus: wiki/**/*.md
 - [[bridges/Bridge - 2013 - 23 ISSN 1528-0268 print]]
 - [[bridges/Bridge - 2013 - auditorassessment 2]]
 - [[bridges/Bridge - 2013 - auditorassessment 3]]
-- ... 267 more
+- [[bridges/Bridge - 2015 - policyorguidance 3]]
+- ... 266 more
 
 ## Components
 
@@ -356,8 +356,8 @@ Corpus: wiki/**/*.md
 - `﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch`: 5
 - `Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research`: 5
 - `readme`: 5
-- `wikilinks`: 5
 - `EXTERNAL DATA REGISTRY (Phase 1 Build)`: 5
+- `wikilinks`: 5
 - `ARCHITECTURE-STATUS-MARKING-CHECKLIST`: 4
 - `GAIA Positioning Statement — Evidence-Aware Version`: 4
 - `Governance by Denial — Revised Working Draft`: 4

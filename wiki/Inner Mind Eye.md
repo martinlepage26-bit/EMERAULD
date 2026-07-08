@@ -23,9 +23,9 @@ canonical_path: wiki/Inner Mind Eye.md
 backlink_count: 9
 backlinks:
 - '[[wiki/Anti-Charm]]'
-- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
   Laval, 2010)]]'

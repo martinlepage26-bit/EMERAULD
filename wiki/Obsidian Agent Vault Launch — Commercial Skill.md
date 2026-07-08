@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[wiki/Obsidian Second Brain Product]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/session-state/session-state-002]]'
 - '[[assets/elemental-agents/positioning-memo]]'
 - '[[assets/elemental-agents/sales-page-outline]]'

@@ -23,7 +23,7 @@ backlinks:
 - '[[wiki/D Drive Scan — 2026-05-12]]'
 - '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[raw/D-drive-scan-2026-05-12/dg-migration/MIGRATION_REPORT]]'
 - '[[session-state]]'

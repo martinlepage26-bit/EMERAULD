@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/SYSTEM CHECK]]'
 - '[[wiki/Trismégiste — Personal AI Assistant]]'

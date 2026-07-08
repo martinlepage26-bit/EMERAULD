@@ -25,7 +25,7 @@ canonical_path: wiki/Operator-Check Skill — Burnout Cascade Interrupt.md
 backlink_count: 17
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Agent Session Phenomenology]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Mental illness, addiction, and AI psychosis]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Rest and Consolidation Guide — Martin]]'
 - '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'

@@ -39,7 +39,7 @@ backlinks:
 - '[[wiki/Machine Limitation]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

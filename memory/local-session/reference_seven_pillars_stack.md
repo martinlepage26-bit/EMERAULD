@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/local-session/reference_seven_pillars_stack.md
 backlink_count: 3
 backlinks:
-- '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 name: Seven Pillars of Full-Stack Architecture

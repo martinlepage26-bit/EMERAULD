@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Strategic Storytelling in the AI Economy]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[wiki/Recursive Governance Theory]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
 - '[[maps/PHAROS Method Map]]'
 ---

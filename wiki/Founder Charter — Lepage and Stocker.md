@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/PHAROS Legal Classification — CAE Code Strategy]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN]]'
 - '[[maps/PHAROS Method Map]]'

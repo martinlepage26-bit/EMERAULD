@@ -29,7 +29,7 @@ vault_area: wiki
 canonical_path: wiki/L99 PHAROS Migration Artifacts 2026-04-19.md
 backlink_count: 15
 backlinks:
-- '[[wiki/CSV_DIAGNOSTIC_REPORT]]'
+- '[[archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT]]'
 - '[[wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'

@@ -22,7 +22,7 @@ canonical_path: wiki/Intelligence Definitions and AI Bias — 1956 Lecture.md
 backlink_count: 6
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

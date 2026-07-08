@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[memory/agents/Blockers]]'
 - '[[memory/agents/Journal]]'
 - '[[memory/agents/Learning]]'

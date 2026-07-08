@@ -33,7 +33,7 @@ backlink_count: 8
 backlinks:
 - '[[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Skill Domain — Development and Testing]]'
 - '[[wiki/Skill Domain — Security and Compliance]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'

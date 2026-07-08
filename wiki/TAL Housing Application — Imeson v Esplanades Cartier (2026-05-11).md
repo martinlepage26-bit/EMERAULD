@@ -29,7 +29,7 @@ backlink_count: 5
 backlinks:
 - '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[wiki/Legal and Institutional Cases]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 source:

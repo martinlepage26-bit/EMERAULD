@@ -26,12 +26,12 @@ vault_area: wiki
 canonical_path: wiki/Care, Ethics, and Governance.md
 backlink_count: 27
 backlinks:
-- '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[wiki/Authority Without Power-Over]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
@@ -44,12 +44,12 @@ backlinks:
 - '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/Recursive Governance Theory]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
   — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
-- '[[wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
+- '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[wiki/Vault Linking Session 2 Summary — 2026-05-01]]'

@@ -35,7 +35,7 @@ backlinks:
   (2026-05-07)]]'
 - '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
   (2026-05-12)]]'
-- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control
   Surface (2026-05-11)]]'

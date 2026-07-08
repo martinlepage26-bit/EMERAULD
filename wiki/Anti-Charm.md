@@ -24,9 +24,9 @@ vault_area: wiki
 canonical_path: wiki/Anti-Charm.md
 backlink_count: 7
 backlinks:
-- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Inner Mind Eye]]'
 - '[[wiki/Philosopher]]'

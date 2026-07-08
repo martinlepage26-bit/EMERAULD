@@ -22,12 +22,12 @@ canonical_path: wiki/CLI-Anything — Agent Harness for Tool Integration.md
 backlink_count: 8
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[wiki/Claude Code Skill Corpus]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/SYSTEM CHECK]]'
 ---
 

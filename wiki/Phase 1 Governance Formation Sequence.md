@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
-- '[[wiki/Recursive Governance Theory]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
 - '[[wiki/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of

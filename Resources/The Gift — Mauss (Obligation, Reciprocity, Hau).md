@@ -5,7 +5,6 @@ aliases:
 - Mauss — The Gift
 - Essai sur le don
 - Hau (spirit of the gift)
-- wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)
 tags:
 - reference
 - anthropology
@@ -14,7 +13,7 @@ tags:
 - reciprocity
 - governance
 - labels
-- wiki
+- resources
 - the-gift-mauss-obligation-reciprocity-hau-md
 - gift
 - mauss
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Gift — Mauss (Obligation, Reciprocity, Hau).md
+vault_area: Resources
+canonical_path: Resources/The Gift — Mauss (Obligation, Reciprocity, Hau).md
 backlink_count: 8
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

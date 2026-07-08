@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 

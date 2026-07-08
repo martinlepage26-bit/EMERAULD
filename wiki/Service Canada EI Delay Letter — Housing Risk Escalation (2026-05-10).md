@@ -30,7 +30,7 @@ backlink_count: 5
 backlinks:
 - '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[wiki/Legal and Institutional Cases]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 source:

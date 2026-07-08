@@ -28,8 +28,8 @@ canonical_path: wiki/Epistemic AI Purple Teaming.md
 backlink_count: 6
 backlinks:
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
-- '[[wiki/Epistemic Governance — Canonical Reference]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

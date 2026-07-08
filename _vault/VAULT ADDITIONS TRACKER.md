@@ -24,7 +24,7 @@ backlink_count: 37
 backlinks:
 - '[[wiki/Agent Logs Hub]]'
 - '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
-- '[[wiki/CSV_DIAGNOSTIC_REPORT]]'
+- '[[archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT]]'
 - '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
 - '[[wiki/Desktop Text Intake — 2026-05-06]]'
 - '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
@@ -72,9 +72,9 @@ Latest notes and resources added to the EMERAULD vault.
 
 - 2026-07-03 | [[wiki/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time]] | Added entrepreneurship heuristic note: outcome as compressed judgment across specific knowledge, leverage, judgment, accountability, social value, time, and learning rate. Captures the anti-false-precision warning, the repeated-shots-on-goal model, and five practical questions for evaluating high-upside entrepreneurial opportunities.
 
-- 2026-06-27 | [[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]] | Added corrected spec sheet for InfraFabric `if.blackboard`: append-only task/session/signal coordination evidence surface, MCP access boundary, data model, derived surfaces, integration map, data-asset posture, claim register, readiness checklist, open questions, and 2026-06-27 liveness caveat that historical `/llm/blackboard/**` public endpoints currently redirect to sign-in from this machine. Linked from [[wiki/AI Infrastructure Stack]], [[wiki/InfraFabric Architecture]], [[wiki/InfraFabric MCP Stack — Remote Bundles]], and [[wiki/Personal and Projects MOC]].
+- 2026-06-27 | [[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]] | Added corrected spec sheet for InfraFabric `if.blackboard`: append-only task/session/signal coordination evidence surface, MCP access boundary, data model, derived surfaces, integration map, data-asset posture, claim register, readiness checklist, open questions, and 2026-06-27 liveness caveat that historical `/llm/blackboard/**` public endpoints currently redirect to sign-in from this machine. Linked from [[wiki/AI Infrastructure Stack]], [[wiki/InfraFabric Architecture]], [[wiki/InfraFabric MCP Stack — Remote Bundles]], and [[Areas/Personal/Personal and Projects MOC]].
 
-- 2026-06-27 | [[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]] | Added official-source spec sheet for emergent.sh: agentic app-builder positioning, capability matrix, pricing snapshot, export/deployment posture, enterprise claims, PHAROS/EMERAULD use boundary, production checklist, governance rules, and open questions. Linked from [[wiki/AI Infrastructure Stack]] and [[wiki/Personal and Projects MOC]].
+- 2026-06-27 | [[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]] | Added official-source spec sheet for emergent.sh: agentic app-builder positioning, capability matrix, pricing snapshot, export/deployment posture, enterprise claims, PHAROS/EMERAULD use boundary, production checklist, governance rules, and open questions. Linked from [[wiki/AI Infrastructure Stack]] and [[Areas/Personal/Personal and Projects MOC]].
 
 - 2026-06-26 | [[wiki/Weekly Review — 2026-06-26]] | Weekly synthesis note for 2026-06-22 to 2026-06-26: captures COMPASSai EU AI Act + Quebec Construction classifier delivery (Railway production), tmux AI Council dashboard/broadcast tooling, evidence-to-publication bridge reframe, zero-orphan enforcement pass, frontmatter normalization, and backlink enrichment across 1,395 files.
 

@@ -27,7 +27,7 @@ canonical_path: wiki/The Golden Bough — Frazer (Magic, Religion, Regicide).md
 backlink_count: 10
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
+- '[[Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
 - '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et
   française — Keck 2002 (Methodos)]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'

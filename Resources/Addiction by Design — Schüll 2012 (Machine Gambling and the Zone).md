@@ -4,7 +4,6 @@ title: Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)
 aliases:
 - Natasha Dow Schüll Addiction by Design
 - Machine gambling zone
-- wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)
 tags:
 - reference
 - addiction
@@ -15,7 +14,7 @@ tags:
 - compulsion
 - feedback
 - vegas
-- wiki
+- resources
 - addiction-by-design-sch-ll-2012-machine-gambling-and-the-zone-md
 - zone
 - therapeutics
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone).md
+vault_area: Resources
+canonical_path: Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone).md
 backlink_count: 8
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

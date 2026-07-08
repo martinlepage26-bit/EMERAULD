@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
   2024]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
 - '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'

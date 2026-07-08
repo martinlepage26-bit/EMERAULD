@@ -3,12 +3,10 @@ type: wiki
 title: CSV_DIAGNOSTIC_REPORT
 aliases:
 - CSV_DIAGNOSTIC_REPORT
-- wiki/CSV_DIAGNOSTIC_REPORT
 tags:
 - diagnostic
 - archive
 - pharos
-- wiki
 - csv-diagnostic-report-md
 - migration
 - rewriting
@@ -18,8 +16,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/CSV_DIAGNOSTIC_REPORT.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT.md
 backlink_count: 1
 backlinks:
 - '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'

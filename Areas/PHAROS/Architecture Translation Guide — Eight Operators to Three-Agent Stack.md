@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
-- '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'

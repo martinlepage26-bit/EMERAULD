@@ -31,7 +31,7 @@ canonical_path: wiki/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Ti
 backlink_count: 10
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)]]'
+- '[[Resources/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche

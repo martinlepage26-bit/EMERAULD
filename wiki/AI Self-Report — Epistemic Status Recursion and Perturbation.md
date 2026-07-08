@@ -29,7 +29,7 @@ backlink_count: 14
 backlinks:
 - '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[wiki/Machine Limitation]]'

@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
+- '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/Version Genealogy System]]'
 - '[[wiki/Voodoo Doll as Archival Problem — Version Genealogy]]'

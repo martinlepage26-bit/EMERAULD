@@ -483,7 +483,7 @@ morning agent 2026-06-27 — daily note created, stale scan clean (all project-t
 
 **Trigger:** Operator request to produce a spec sheet for `emergent.sh`.
 
-**Work completed:** Created [[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]] from official emergent.sh homepage, FAQ, pricing, and enterprise pages. The note captures platform positioning, capability matrix, pricing tiers, PHAROS/EMERAULD use boundary, production acceptance checklist, governance rules, and open questions. Linked it from [[wiki/AI Infrastructure Stack]], [[wiki/Personal and Projects MOC]], and [[_vault/VAULT ADDITIONS TRACKER]].
+**Work completed:** Created [[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]] from official emergent.sh homepage, FAQ, pricing, and enterprise pages. The note captures platform positioning, capability matrix, pricing tiers, PHAROS/EMERAULD use boundary, production acceptance checklist, governance rules, and open questions. Linked it from [[wiki/AI Infrastructure Stack]], [[Areas/Personal/Personal and Projects MOC]], and [[_vault/VAULT ADDITIONS TRACKER]].
 
 **Boundary:** Official-source-only spec sheet; no hands-on emergent.sh build, generated-code review, security audit, legal review, or enterprise contract review performed.
 
@@ -493,7 +493,7 @@ morning agent 2026-06-27 — daily note created, stale scan clean (all project-t
 
 **Trigger:** Operator corrected the requested target: "NO a spec sheet for if.blackboard".
 
-**Work completed:** Created [[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]], linked it from [[wiki/AI Infrastructure Stack]], [[wiki/InfraFabric Architecture]], [[wiki/InfraFabric MCP Stack — Remote Bundles]], [[wiki/Personal and Projects MOC]], and [[_vault/VAULT ADDITIONS TRACKER]], and prepared a download copy in `/home/martin/Downloads/if-blackboard-spec-sheet-2026-06-27.md`.
+**Work completed:** Created [[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]], linked it from [[wiki/AI Infrastructure Stack]], [[wiki/InfraFabric Architecture]], [[wiki/InfraFabric MCP Stack — Remote Bundles]], [[Areas/Personal/Personal and Projects MOC]], and [[_vault/VAULT ADDITIONS TRACKER]], and prepared a download copy in `/home/martin/Downloads/if-blackboard-spec-sheet-2026-06-27.md`.
 
 **Boundary:** The sheet separates local InfraFabric canon from current liveness. Local sources support `if.blackboard` as a preview, active-internal, append-only task/session/signal coordination evidence surface. A 2026-06-27 unauthenticated endpoint check found historical `/llm/blackboard/**`, `/llm/signals/**`, and registry mirror URLs redirecting to the InfraFabric sign-in page, so public no-login reviewability is not claimed as current.
 

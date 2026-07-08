@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Machine Limitation]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/Red Team Handbook — Offensive Security Reference]]'
+- '[[Resources/Red Team Handbook — Offensive Security Reference]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

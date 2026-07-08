@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/RAG-Anything — Multimodal RAG Framework]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'

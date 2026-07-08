@@ -40,7 +40,7 @@ backlinks:
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/SYSTEM CHECK]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/skill]]'

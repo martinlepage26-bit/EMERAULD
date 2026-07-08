@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Red Team Handbook — Offensive Security Reference]]'
+- '[[Resources/Red Team Handbook — Offensive Security Reference]]'
 - '[[wiki/archive/red-team]]'
 - '[[hephaistos/agents/hephaistos]]'
 ---

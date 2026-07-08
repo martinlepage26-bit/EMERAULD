@@ -26,7 +26,7 @@ backlink_count: 8
 backlinks:
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Trismégiste]]'
 - '[[wiki/Trismégiste — Personal AI Assistant]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

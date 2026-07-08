@@ -24,7 +24,7 @@ canonical_path: wiki/D Library — Review Unreadable Cleanup (2026-05-04).md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

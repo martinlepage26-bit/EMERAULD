@@ -27,7 +27,7 @@ backlink_count: 5
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[wiki/Home]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

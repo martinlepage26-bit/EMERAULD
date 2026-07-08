@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[wiki/Machine Limitation]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
-- '[[wiki/Recursive Governance Theory]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

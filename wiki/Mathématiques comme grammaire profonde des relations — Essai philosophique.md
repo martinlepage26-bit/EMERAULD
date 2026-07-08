@@ -23,8 +23,8 @@ canonical_path: wiki/Mathématiques comme grammaire profonde des relations — E
   philosophique.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Evidence Discipline and Epistemics]]'
-- '[[wiki/Recursive Governance Theory]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
   and Computational Memory Architectures]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

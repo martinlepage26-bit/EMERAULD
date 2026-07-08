@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/Brutal Isms — Grant Revision Package (2026-05-12)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Events]]'

@@ -28,7 +28,7 @@ backlink_count: 17
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
-- '[[wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
+- '[[Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
 - '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
   Activism Switzerland)]]'
 - '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et

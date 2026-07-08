@@ -26,7 +26,7 @@ backlink_count: 6
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Trismégiste]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[archive/session-state/session-state-001]]'

@@ -25,7 +25,7 @@ backlinks:
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
-> For future Claude: Master catalog of all EMERAULD vault sections. Read this first when navigating the vault — it is cheaper and faster than listing directories. Regenerate with `/obsidian-init`. Vault has 575+ wiki notes; this index lists hubs, MOCs, and structural files, not every individual note. Use [[Areas/PHAROS/Governance and PHAROS MOC]], [[Areas/Writing/Research and Papers MOC]], and [[wiki/Personal and Projects MOC]] as topic entry points. Use `vsearch.py` for semantic search across all 575+ wiki notes.
+> For future Claude: Master catalog of all EMERAULD vault sections. Read this first when navigating the vault — it is cheaper and faster than listing directories. Regenerate with `/obsidian-init`. Vault has 575+ wiki notes; this index lists hubs, MOCs, and structural files, not every individual note. Use [[Areas/PHAROS/Governance and PHAROS MOC]], [[Areas/Writing/Research and Papers MOC]], and [[Areas/Personal/Personal and Projects MOC]] as topic entry points. Use `vsearch.py` for semantic search across all 575+ wiki notes.
 
 # EMERAULD Vault Index
 
@@ -97,7 +97,7 @@ Topic indexes for subjects with 7+ linked notes.
 - [[maps/Queer Media and Ritual Map\|Queer Media and Ritual Map]] — pagan, queer embodiment, ritual studies
 - [[maps/PHAROS Method Map\|PHAROS Method Map]] — PHAROS methodology; RECURSO, RDAIG, DAST
 
-See also wiki MOCs: [[Areas/Writing/Writing and Novels MOC]] · [[wiki/Personal and Projects MOC]] · [[Areas/PHAROS/Control Protocols MOC]] · [[Areas/Writing/Legitimacy Machines MOC]] · [[Areas/PHAROS/MCP and Runtime Integration MOC]] · [[Areas/Writing/Manuscript Pipeline MOC]] · [[Areas/Writing/Pagan and Queer Ritual Studies MOC]]
+See also wiki MOCs: [[Areas/Writing/Writing and Novels MOC]] · [[Areas/Personal/Personal and Projects MOC]] · [[Areas/PHAROS/Control Protocols MOC]] · [[Areas/Writing/Legitimacy Machines MOC]] · [[Areas/PHAROS/MCP and Runtime Integration MOC]] · [[Areas/Writing/Manuscript Pipeline MOC]] · [[Areas/Writing/Pagan and Queer Ritual Studies MOC]]
 
 ---
 
@@ -109,7 +109,7 @@ All durable linked knowledge notes. Too numerous to list individually — use en
 - [[Areas/PHAROS/Governance and PHAROS MOC]] — AI governance, PHAROS products, commercial strategy
 - [[Areas/Writing/Research and Papers MOC]] — papers, academic pipeline, publication track
 - [[Areas/Writing/Writing and Novels MOC]] — fiction, thesis-book, creative work
-- [[wiki/Personal and Projects MOC]] — personal life, project recovery (Fisher King)
+- [[Areas/Personal/Personal and Projects MOC]] — personal life, project recovery (Fisher King)
 - [[wiki/Fisher King Hub — Project Recovery Map]] — cross-project state map
 - [[wiki/Projects Hub]] — active projects navigation
 - [[wiki/Research Hub]] — research and papers entry point

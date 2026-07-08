@@ -31,7 +31,7 @@ canonical_path: wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osma
 backlink_count: 6
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Legal and Institutional Cases]]'

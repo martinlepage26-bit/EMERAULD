@@ -37,7 +37,7 @@ backlinks:
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[wiki/Obsidian Second Brain Product]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/RAG-Anything — Multimodal RAG Framework]]'
 - '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
 version-history-added: '2026-04-16'

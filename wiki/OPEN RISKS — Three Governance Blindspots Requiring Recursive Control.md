@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
 - '[[wiki/Governance Controls — Incident Response (Control Failure Procedures)]]'
-- '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'

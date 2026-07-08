@@ -31,7 +31,7 @@ backlink_count: 6
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/daily/2026-06-27]]'
 - '[[session-state]]'

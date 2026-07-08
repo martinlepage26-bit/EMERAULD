@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'
 ---
 

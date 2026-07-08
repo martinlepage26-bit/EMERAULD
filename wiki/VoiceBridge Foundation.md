@@ -27,7 +27,7 @@ backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[wiki/Host Environment — pharos-corpus-runner-01]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 ---
 
 # VoiceBridge Foundation

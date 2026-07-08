@@ -31,13 +31,13 @@ canonical_path: wiki/Master Reference Bridge Atlas — 2026-05-06.md
 backlink_count: 12
 backlinks:
 - '[[wiki/Home]]'
-- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
-- '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

@@ -7,7 +7,6 @@ aliases:
 - skill-architect epistemic standard
 - voice operator canonical
 - OODA canonical
-- wiki/Epistemic Governance — Canonical Reference
 tags:
 - skill
 - governance
@@ -20,7 +19,7 @@ tags:
 - skill-corpus
 - dimension-f
 - audit
-- wiki
+- resources
 - epistemic-governance-canonical-reference-md
 - analytical
 - epistemic
@@ -30,14 +29,14 @@ tags:
 status: active
 created: '2026-05-24'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Epistemic Governance — Canonical Reference.md
+vault_area: Resources
+canonical_path: Resources/Epistemic Governance — Canonical Reference.md
 backlink_count: 8
 backlinks:
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'

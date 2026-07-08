@@ -26,7 +26,7 @@ canonical_path: wiki/Documents and Downloads Coverage Matrix — 2026-05-06.md
 backlink_count: 6
 backlinks:
 - '[[wiki/Documents and Downloads Scan — 2026-05-06]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Home]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'

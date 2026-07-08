@@ -28,7 +28,7 @@ canonical_path: wiki/Fisher King Hub — Project Recovery Map.md
 backlink_count: 6
 backlinks:
 - '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Projects Hub]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[index]]'

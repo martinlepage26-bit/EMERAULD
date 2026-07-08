@@ -31,7 +31,7 @@ backlinks:
   Phenomenon]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/Recursive Governance Theory]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/Ethical Ground Values]]'
 - '[[governance/governance-index]]'

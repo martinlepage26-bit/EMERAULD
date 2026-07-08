@@ -1795,6 +1795,16 @@
     "source_path": "Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06).md"
   },
   {
+    "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "AI Agent Operations Manager — Credential Path and Portfolio",
+    "source_path": "Areas/Personal/Personal and Projects MOC.md"
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "2026 - Martin Lepage - Feb 4, 2026",
+    "source_path": "Areas/Personal/Personal and Projects MOC.md"
+  },
+  {
     "source": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
     "target": "2023 - Sorcellerie social compass",
     "source_path": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes.md"
@@ -5380,9 +5390,104 @@
     "source_path": "Areas/Writing/Writing and Novels MOC.md"
   },
   {
+    "source": "Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
+    "target": "Addiction by Design Machine Gambling in Las Vegas",
+    "source_path": "Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone).md"
+  },
+  {
+    "source": "Resources/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)",
+    "target": "2018 - Tech Tools Profile, Police, and Pun",
+    "source_path": "Resources/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment).md"
+  },
+  {
+    "source": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "target": "ACTOR Framework Worksheet",
+    "source_path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
+  },
+  {
+    "source": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "target": "AI Agent Operations and Governance Manager",
+    "source_path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
+  },
+  {
+    "source": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "target": "THREAT_MODEL",
+    "source_path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
+  },
+  {
+    "source": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "target": "MockPool",
+    "source_path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
+  },
+  {
+    "source": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "target": "writing-tests",
+    "source_path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
+  },
+  {
+    "source": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "target": "2026 - audit_or_assessment [3",
+    "source_path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
+  },
+  {
+    "source": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "target": "2026 - policy_or_guidance.pdf - 2026 - policy_or_guidance.pdf.pdf - 2026 - policy_or_guidance.pdf -",
+    "source_path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
+  },
+  {
+    "source": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "target": "PHAROS LinkedIn Schedule — April 2026",
+    "source_path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
+  },
+  {
+    "source": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "target": "LINKEDIN-SCHEDULE-NOW",
+    "source_path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
+  },
+  {
+    "source": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)",
+    "target": "2018 - religions",
+    "source_path": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender).md"
+  },
+  {
+    "source": "Resources/Literary References — Craft Guide",
+    "target": "2013 - journal_article_1.pdf - 2013 - journal_article_1.pdf.pdf - 2013 - journal_article_1.pdf - 201",
+    "source_path": "Resources/Literary References — Craft Guide.md"
+  },
+  {
+    "source": "Resources/Literary References — Craft Guide",
+    "target": "2019 - thesis_or_dissertation.pdf - 2019 - thesis_or_dissertation.pdf.pdf - 2019 - thesis_or_dissert",
+    "source_path": "Resources/Literary References — Craft Guide.md"
+  },
+  {
+    "source": "Resources/Literary References — Craft Guide",
+    "target": "2025 - report_1",
+    "source_path": "Resources/Literary References — Craft Guide.md"
+  },
+  {
+    "source": "Resources/Literary References — Craft Guide",
+    "target": "content",
+    "source_path": "Resources/Literary References — Craft Guide.md"
+  },
+  {
     "source": "Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
     "target": "Microsoft Word - Mapping the Margins.doc",
     "source_path": "Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence).md"
+  },
+  {
+    "source": "Resources/Master Bibliography — Références bibliographiques 2025",
+    "target": "2020 - journal_article.pdf - 2020 - journal_article.pdf.pdf - 2020 - journal_article.pdf - 2020 - jo",
+    "source_path": "Resources/Master Bibliography — Références bibliographiques 2025.md"
+  },
+  {
+    "source": "Resources/Master Bibliography — Références bibliographiques 2025",
+    "target": "drsortoriginalfilename 2010 - bookchapter.docx - 2010 - bookchapter.docx.docx",
+    "source_path": "Resources/Master Bibliography — Références bibliographiques 2025.md"
+  },
+  {
+    "source": "Resources/Master Bibliography — Références bibliographiques 2025",
+    "target": "drsortoriginalfilename 2015 - journalarticle.docx - 2015 - journalarticle.docx",
+    "source_path": "Resources/Master Bibliography — Références bibliographiques 2025.md"
   },
   {
     "source": "Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)",
@@ -5393,6 +5498,11 @@
     "source": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
     "target": "ISO 15930 - Electronic document file format for prepress digital data exchange (PDFX) (2)",
     "source_path": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence).md"
+  },
+  {
+    "source": "Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
+    "target": "QR",
+    "source_path": "Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion).md"
   },
   {
     "source": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
@@ -5568,6 +5678,21 @@
     "source": "archive/session-state/session-state-003",
     "target": "_vault/VAULT ADDITIONS TRACKER",
     "source_path": "archive/session-state/session-state-003.md"
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
+    "target": "EXTERNAL DATA REGISTRY (Phase 1 Build)",
+    "source_path": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md"
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
+    "target": "EXTERNAL DATA REFRESH CALENDAR (Phase 1 Build)",
+    "source_path": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md"
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
+    "target": "EXTERNAL DATA REGISTRY (Phase 1 Build)",
+    "source_path": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md"
   },
   {
     "source": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE",
@@ -7310,11 +7435,6 @@
     "source_path": "wiki/ASSETS MOC.md"
   },
   {
-    "source": "Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
-    "target": "Addiction by Design Machine Gambling in Las Vegas",
-    "source_path": "wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone).md"
-  },
-  {
     "source": "Agatha Grant Post-Mortem — First Assessment",
     "target": "2019 - Martin Lepage - ocr_needed_1.pdf - 2019 - Martin Lepage - ocr_needed_1.pdf.pdf - 2019 - Marti",
     "source_path": "wiki/Agatha Grant Post-Mortem — First Assessment.md"
@@ -7398,11 +7518,6 @@
     "source": "Authority, Legitimacy, and Post-Sovereignty",
     "target": "1999 - Resenas",
     "source_path": "wiki/Authority, Legitimacy, and Post-Sovereignty.md"
-  },
-  {
-    "source": "Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)",
-    "target": "2018 - Tech Tools Profile, Police, and Pun",
-    "source_path": "wiki/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment).md"
   },
   {
     "source": "Avatar Chapter — A Queer Reading of Embodied Power (English)",
@@ -7553,51 +7668,6 @@
     "source": "Charge & Circle — Four-Pivot Decision Map (2026-05-24)",
     "target": "Alchemy of the Wound",
     "source_path": "wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24).md"
-  },
-  {
-    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "target": "ACTOR Framework Worksheet",
-    "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
-  },
-  {
-    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "target": "AI Agent Operations and Governance Manager",
-    "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
-  },
-  {
-    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "target": "THREAT_MODEL",
-    "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
-  },
-  {
-    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "target": "MockPool",
-    "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
-  },
-  {
-    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "target": "writing-tests",
-    "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
-  },
-  {
-    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "target": "2026 - audit_or_assessment [3",
-    "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
-  },
-  {
-    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "target": "2026 - policy_or_guidance.pdf - 2026 - policy_or_guidance.pdf.pdf - 2026 - policy_or_guidance.pdf -",
-    "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
-  },
-  {
-    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "target": "PHAROS LinkedIn Schedule — April 2026",
-    "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
-  },
-  {
-    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "target": "LINKEDIN-SCHEDULE-NOW",
-    "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
   },
   {
     "source": "Codex Skill Corpus Sync — 2026-04-20",
@@ -7955,21 +8025,6 @@
     "source_path": "wiki/Governance Controls — Phase 1 Completion Checklist.md"
   },
   {
-    "source": "Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
-    "target": "EXTERNAL DATA REGISTRY (Phase 1 Build)",
-    "source_path": "wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md"
-  },
-  {
-    "source": "Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
-    "target": "EXTERNAL DATA REFRESH CALENDAR (Phase 1 Build)",
-    "source_path": "wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md"
-  },
-  {
-    "source": "Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
-    "target": "EXTERNAL DATA REGISTRY (Phase 1 Build)",
-    "source_path": "wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md"
-  },
-  {
     "source": "Governance and Platform Signals Memo — 2026-05-14",
     "target": "raw/Clippings/AI is speeding into healthcare. Who should regulate it",
     "source_path": "wiki/Governance and Platform Signals Memo — 2026-05-14.md"
@@ -8300,11 +8355,6 @@
     "source_path": "wiki/IP and Manuscript Brief — 2026-05-14.md"
   },
   {
-    "source": "In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)",
-    "target": "2018 - religions",
-    "source_path": "wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender).md"
-  },
-  {
     "source": "Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
     "target": "2026-04-30_inderscience-ijaighr-submission-pipeline",
     "source_path": "wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md"
@@ -8568,26 +8618,6 @@
     "source": "LightRAG — Graph-Based RAG System",
     "target": "ROADMAP",
     "source_path": "wiki/LightRAG — Graph-Based RAG System.md"
-  },
-  {
-    "source": "Literary References — Craft Guide",
-    "target": "2013 - journal_article_1.pdf - 2013 - journal_article_1.pdf.pdf - 2013 - journal_article_1.pdf - 201",
-    "source_path": "wiki/Literary References — Craft Guide.md"
-  },
-  {
-    "source": "Literary References — Craft Guide",
-    "target": "2019 - thesis_or_dissertation.pdf - 2019 - thesis_or_dissertation.pdf.pdf - 2019 - thesis_or_dissert",
-    "source_path": "wiki/Literary References — Craft Guide.md"
-  },
-  {
-    "source": "Literary References — Craft Guide",
-    "target": "2025 - report_1",
-    "source_path": "wiki/Literary References — Craft Guide.md"
-  },
-  {
-    "source": "Literary References — Craft Guide",
-    "target": "content",
-    "source_path": "wiki/Literary References — Craft Guide.md"
   },
   {
     "source": "Livre des Ombres — Martin's Magical System (1996-2026)",
@@ -8988,21 +9018,6 @@
     "source": "Martin Lepage — Authored Skills",
     "target": "EMERAULD — Vault and Knowledge Graph",
     "source_path": "wiki/Martin Lepage — Authored Skills.md"
-  },
-  {
-    "source": "Master Bibliography — Références bibliographiques 2025",
-    "target": "2020 - journal_article.pdf - 2020 - journal_article.pdf.pdf - 2020 - journal_article.pdf - 2020 - jo",
-    "source_path": "wiki/Master Bibliography — Références bibliographiques 2025.md"
-  },
-  {
-    "source": "Master Bibliography — Références bibliographiques 2025",
-    "target": "drsortoriginalfilename 2010 - bookchapter.docx - 2010 - bookchapter.docx.docx",
-    "source_path": "wiki/Master Bibliography — Références bibliographiques 2025.md"
-  },
-  {
-    "source": "Master Bibliography — Références bibliographiques 2025",
-    "target": "drsortoriginalfilename 2015 - journalarticle.docx - 2015 - journalarticle.docx",
-    "source_path": "wiki/Master Bibliography — Références bibliographiques 2025.md"
   },
   {
     "source": "NIST AI RMF 1.0 — NIST AI 100-1 (2023)",
@@ -9500,16 +9515,6 @@
     "source_path": "wiki/Personal OS.md"
   },
   {
-    "source": "Personal and Projects MOC",
-    "target": "AI Agent Operations Manager — Credential Path and Portfolio",
-    "source_path": "wiki/Personal and Projects MOC.md"
-  },
-  {
-    "source": "Personal and Projects MOC",
-    "target": "2026 - Martin Lepage - Feb 4, 2026",
-    "source_path": "wiki/Personal and Projects MOC.md"
-  },
-  {
     "source": "Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique",
     "target": "THE MAIN HYPOTHESIS AND ITS RIVALS",
     "source_path": "wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique.md"
@@ -9583,11 +9588,6 @@
     "source": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
     "target": "Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds",
     "source_path": "wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md"
-  },
-  {
-    "source": "Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
-    "target": "QR",
-    "source_path": "wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion).md"
   },
   {
     "source": "Queering Neo-Pagan Magic — 2006 Paper",

@@ -3,7 +3,6 @@ type: map
 title: Recursive Governance Theory
 aliases:
 - TOPIC — Recursive Governance Theory
-- wiki/Recursive Governance Theory
 tags:
 - index
 - map
@@ -11,7 +10,7 @@ tags:
 - governance
 - pharos
 - recursive
-- wiki
+- resources
 - recursive-governance-theory-md
 - method
 - discipline
@@ -19,8 +18,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Recursive Governance Theory.md
+vault_area: Resources
+canonical_path: Resources/Recursive Governance Theory.md
 backlink_count: 66
 backlinks:
 - '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
@@ -31,8 +30,7 @@ backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
@@ -42,9 +40,9 @@ backlinks:
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
-- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Fluency and Interruption Theory]]'
@@ -64,8 +62,7 @@ backlinks:
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
@@ -79,8 +76,7 @@ backlinks:
 - '[[wiki/Skill Domain — Governance and Method]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
-  and Computational Memory Architectures]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'

@@ -27,7 +27,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
-- '[[wiki/Literary References — Craft Guide]]'
+- '[[Resources/Literary References — Craft Guide]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Philosopher]]'

@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/LightRAG — Graph-Based RAG System]]'
 - '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 ---
 
 # RAG-Anything — Multimodal RAG Framework

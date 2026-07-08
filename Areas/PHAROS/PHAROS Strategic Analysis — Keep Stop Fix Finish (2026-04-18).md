@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'

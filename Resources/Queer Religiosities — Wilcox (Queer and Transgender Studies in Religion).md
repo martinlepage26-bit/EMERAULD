@@ -4,7 +4,6 @@ title: Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion
 aliases:
 - Queer Religiosities (Wilcox)
 - Wilcox — Queer Religiosities
-- wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)
 tags:
 - reference
 - queer-theory
@@ -13,7 +12,7 @@ tags:
 - textbook
 - bibliography
 - methods
-- wiki
+- resources
 - queer-religiosities-wilcox-queer-and-transgender-studies-in-religion-md
 - queer
 - pagan
@@ -22,9 +21,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in
-  Religion).md
+vault_area: Resources
+canonical_path: Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion).md
 backlink_count: 8
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

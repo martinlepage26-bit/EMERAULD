@@ -6,13 +6,12 @@ aliases:
 - RED-HANDBOOK
 - offensive security
 - penetration testing
-- wiki/Red Team Handbook — Offensive Security Reference
 tags:
 - security
 - red-team
 - reference
 - tooling
-- wiki
+- resources
 - red-team-handbook-offensive-security-reference-md
 - exploitation
 - handbook
@@ -23,12 +22,12 @@ tags:
 status: reference
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Red Team Handbook — Offensive Security Reference.md
+vault_area: Resources
+canonical_path: Resources/Red Team Handbook — Offensive Security Reference.md
 backlink_count: 4
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[wiki/archive/red-team]]'
 ---

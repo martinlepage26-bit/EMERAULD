@@ -21,7 +21,7 @@ backlink_count: 5
 backlinks:
 - '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/session-state/session-state-002]]'
 - '[[session-state]]'
 agent: Trismégiste

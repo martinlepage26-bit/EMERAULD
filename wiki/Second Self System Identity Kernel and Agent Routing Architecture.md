@@ -27,7 +27,7 @@ canonical_path: wiki/Second Self System Identity Kernel and Agent Routing Archit
 backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 canonical_note: '[[Second Self System — Identity Kernel and Agent Routing Architecture]]'

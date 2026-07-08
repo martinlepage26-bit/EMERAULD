@@ -23,7 +23,7 @@ backlink_count: 7
 backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
-- '[[wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
+- '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
 - '[[wiki/Version Genealogy System]]'
 - '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'

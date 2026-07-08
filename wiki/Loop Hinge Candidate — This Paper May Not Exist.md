@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Loop Hinge Candidate — This Paper May Not Exist.md
 backlink_count: 8
 backlinks:
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Home]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'

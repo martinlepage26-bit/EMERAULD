@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
 - '[[wiki/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
 - '[[wiki/HELIX Test Run — Epstein Files Topic (2026)]]'
-- '[[wiki/Recursive Governance Theory]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

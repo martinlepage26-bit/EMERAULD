@@ -28,7 +28,7 @@ canonical_path: wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24).md
 backlink_count: 4
 backlinks:
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

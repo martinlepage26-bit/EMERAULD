@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
 - '[[wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
 - '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[projects/COMPASSai — Fisher King Project State]]'

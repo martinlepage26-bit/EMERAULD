@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
 - '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'

@@ -26,8 +26,8 @@ vault_area: wiki
 canonical_path: wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book.md
 backlink_count: 11
 backlinks:
-- '[[wiki/Literary References in Common English — Allusion and Idiom Guide]]'
-- '[[wiki/Literary References — Craft Guide]]'
+- '[[Resources/Literary References in Common English — Allusion and Idiom Guide]]'
+- '[[Resources/Literary References — Craft Guide]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

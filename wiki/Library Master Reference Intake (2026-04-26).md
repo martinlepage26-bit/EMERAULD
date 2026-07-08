@@ -28,7 +28,7 @@ backlink_count: 7
 backlinks:
 - '[[wiki/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
 - '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
-- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

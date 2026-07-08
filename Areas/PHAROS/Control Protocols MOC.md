@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/EMERAULD]]'
 - '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
-- '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'

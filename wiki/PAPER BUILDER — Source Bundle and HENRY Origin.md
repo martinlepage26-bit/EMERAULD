@@ -30,7 +30,7 @@ backlink_count: 3
 backlinks:
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[wiki/Martin Voice Spec — Version Genealogy]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 ---
 
 # PAPER BUILDER — Source Bundle and HENRY Origin

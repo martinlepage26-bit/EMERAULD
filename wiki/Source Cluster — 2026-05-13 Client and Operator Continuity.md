@@ -27,7 +27,7 @@ backlink_count: 12
 backlinks:
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Operator Continuity Memo — 2026-05-14]]'
-- '[[wiki/Personal and Projects MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'

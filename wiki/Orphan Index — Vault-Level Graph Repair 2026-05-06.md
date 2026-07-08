@@ -255,7 +255,7 @@ Generated index links for editable Markdown files that had no inbound wikilinks 
 
 ### wiki
 - [[wiki/2026 - Mauss - The Gift]]
-- [[wiki/CSV_DIAGNOSTIC_REPORT]]
+- [[archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT]]
 - [[wiki/Home]]
 - [[wiki/VAULT ADDITIONS TRACKER]]
 - [[wiki/memory]]

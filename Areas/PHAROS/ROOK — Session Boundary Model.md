@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
-- '[[wiki/Plugin Recommendations]]'
+- '[[Resources/Plugin Recommendations]]'
 - '[[wiki/Trismégiste — Operator State]]'
 - '[[wiki/Trismégiste — Personal AI Assistant]]'
 - '[[wiki/claude-peers-mcp — Claude Peer Network]]'

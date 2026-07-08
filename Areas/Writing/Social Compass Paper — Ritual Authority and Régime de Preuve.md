@@ -39,7 +39,7 @@ backlinks:
 - '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
-- '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
