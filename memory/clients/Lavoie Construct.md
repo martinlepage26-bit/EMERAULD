@@ -33,22 +33,21 @@ backlinks:
 - '[[templates/Invoice Template Pharos-AI]]'
 payment_status: not documented
 entity_type: Client
-entity_id: groupe_lavoie_client
+entity_id: lavoie_construct_client
 entity_aliases:
 - Lavoie Construct
-- SOS Plomberie
-- Excavations Lavoie
-- GVI
-- Clôtures Israel Concept
-- Lavoie
+- Lavoie Excavation
 entity_confidence: high
 ---
 
 # Lavoie Construct
 
+> [!success] Entity disambiguation applied (operator decision, 2026-07-08)
+> This note previously carried `entity_id: groupe_lavoie_client` and aliased SOS Plomberie / Excavations Lavoie / GVI / Clôtures Israel Concept — conflating this April 2026 excavation SOP client with the **separate** Groupe Lavoie engagement, contradicting `_CLAUDE.md` §12. Corrected: Lavoie Construct is its own entity. The Groupe Lavoie engagement lives at [[Areas/Lavoie/AREA|Area — Lavoie]] with its divisions and the [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)|contract v5 track]].
+
 ## Summary
 
-Client account for excavation & grading operations (Saguenay–Lac-Saint-Jean region). Tracked in [[CLIENT ACCOUNTS]] (vault snapshot) and managed through the [[Hermes Dashboard — Professional Governance Tool]] client lane. Status: dispatch priority; see also legacy seed note at [[memory/clients/Lavoie]] (superseded).
+Client account for excavation & grading operations (Saguenay–Lac-Saint-Jean region). Tracked in [[CLIENT ACCOUNTS]] (vault snapshot) and managed through the [[Hermes Dashboard — Professional Governance Tool]] client lane. Status: dispatch priority; see also legacy seed note at [[memory/clients/Lavoie]] (superseded). Distinct from the Groupe Lavoie engagement (see callout above).
 
 Canonical lane tracker entry lives in `C:\Users\softinfo\Documents\CLIENT ACCOUNTS TRACKER.md` (WSL: `/mnt/c/Users/softinfo/Documents/CLIENT ACCOUNTS TRACKER.md`).
 

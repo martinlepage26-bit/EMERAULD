@@ -59,11 +59,12 @@ Snapshot synced: 2026-05-05 (Lavoie row reconciled 2026-07-05 against `~/TASKS.m
 | Date | Account | Status | Next Action |
 |---|---|---|---|
 | 2026-05-05 | ExterminationDG | Contract sent; Phase C complete; Facture 002 issued | Await signed contract / client response, then client review + 2 000,00 $ balance |
-| 2026-05-10 | Lavoie Construct / Groupe Lavoie | **Active** — PHAROS AI engagement (reprioritized from pause 2026-05-10), gated on client prerequisites A1–A5 relayed via Patricia | Collect A1–A5; advance the gate-free Base44 apps. See `~/.claude/skills/lavoie-gatekeeper` |
+| 2026-05-10 | Groupe Lavoie | **Active** — PHAROS AI engagement, two workstreams: (1) contract-v5 signature track + SEO/marketing gated on A1–A5 relayed via Patricia; (2) software delivery (Contremaître/LegiPro) already in production | Signature window ~July 13; collect A1–A5; advance gate-free Base44 apps. See `~/.claude/skills/lavoie-gatekeeper` |
+| 2026-04 | Lavoie Construct | Separate entity — April 2026 excavation SOP client per `_CLAUDE.md` §12; no active PHAROS engagement recorded | Keep distinct from Groupe Lavoie in all records |
 | 2026-03-30 | Sante-France | In Progress | Documentation |
 
-> [!warning] Contradiction detected (2026-07-05 nightly pass)
-> This note treats **Lavoie Construct** and **Groupe Lavoie** as a single account — the row above reads "Lavoie Construct / Groupe Lavoie", and the Active Accounts bullet below points at [[memory/clients/Lavoie Construct]] as the PHAROS AI engagement gated on A1–A5. The operator disambiguation in `_CLAUDE.md` §12 (Active Context, updated 2026-06-29) states the opposite: *"`memory/clients/Lavoie Construct.md` = April 2026 excavation SOP client (**different entity**). `Areas/Lavoie/AREA.md` = Groupe Lavoie (SOS Plomberie, Excavations Lavoie, GVI). Do not conflate."* The vault-side client note [[memory/clients/Lavoie Construct]] reinforces the conflation — its `entity_aliases` list SOS Plomberie / Excavations Lavoie / GVI / Clôtures Israel Concept under the Lavoie Construct entity — so the ambiguity is standing, not a one-off typo. Not resolved here (add/update-only pass): operator to decide whether these are one account or two, then align the client notes with `_CLAUDE.md` §12.
+> [!success] Contradiction resolved (operator decision, 2026-07-08)
+> The 2026-07-05 nightly-pass flag is closed. Operator confirmed: **Lavoie Construct and Groupe Lavoie are two entities** (per `_CLAUDE.md` §12), and the Groupe Lavoie engagement runs **two workstreams** — the A1–A5-gated signature/SEO track and the independently-proceeding software delivery track ([[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform|Contremaître]] + [[Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan|LegiPro]]). [[memory/clients/Lavoie Construct]] `entity_aliases` corrected the same day. Current instruments: [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)|contract v5]] and [[Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)|offre v5]].
 
 ---
 
@@ -71,7 +72,8 @@ Snapshot synced: 2026-05-05 (Lavoie row reconciled 2026-07-05 against `~/TASKS.m
 
 - Canonical lane record lives in the Documents tracker above; vault-side detail notes live in `memory/clients/`.
 - [[memory/clients/ExterminationDG]] — contract sent 2026-05-05; phase C complete; invoice 002 issued for final website/Facebook balance.
-- [[memory/clients/Lavoie Construct]] — **active** (reprioritized to dispatch 2026-05-10; PHAROS AI engagement gated on A1–A5 via Patricia — see `~/.claude/skills/lavoie-gatekeeper` and `~/TASKS.md`).
+- **Groupe Lavoie** — active PHAROS AI engagement (two workstreams, see resolution callout above); area file [[Areas/Lavoie/AREA|Area — Lavoie]]; operating rules in `~/.claude/skills/lavoie-gatekeeper` and `~/TASKS.md`.
+- [[memory/clients/Lavoie Construct]] — separate entity (April 2026 excavation SOP client); not part of the Groupe Lavoie engagement.
 - [[memory/clients/Sante-France]] — in-progress client account.
 - [[memory/clients/Progression]] — active client/prospect record (diagnostic target).
 

@@ -27,7 +27,7 @@ backlinks:
 
 # Area — Lavoie
 
-Active PHAROS client. On ice pending gates A1–A5.
+Active PHAROS client, two workstreams (operator decision 2026-07-08): the signature + SEO/marketing track is gated on A1–A5 (relayed via Patricia, ~July 13 signature window per [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)|contract v5]]); the software delivery track ([[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform|Contremaître]], [[Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan|LegiPro]]) proceeds independently and is in production.
 
 ## Scope
 Groupe Lavoie: SOS Plomberie, Excavations Lavoie, GVI (property mgmt), Clôtures Israel Concept.
