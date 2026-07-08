@@ -29,7 +29,7 @@ canonical_path: Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iter
 backlink_count: 6
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[projects/Dr. Sort — Fisher King Project State]]'

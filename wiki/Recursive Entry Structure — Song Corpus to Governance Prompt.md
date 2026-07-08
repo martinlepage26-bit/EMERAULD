@@ -30,7 +30,7 @@ canonical_path: wiki/Recursive Entry Structure — Song Corpus to Governance Pro
 backlink_count: 16
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'

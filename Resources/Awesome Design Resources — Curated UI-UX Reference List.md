@@ -29,7 +29,7 @@ canonical_path: Resources/Awesome Design Resources — Curated UI-UX Reference L
 backlink_count: 5
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons]]'
+- '[[Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'

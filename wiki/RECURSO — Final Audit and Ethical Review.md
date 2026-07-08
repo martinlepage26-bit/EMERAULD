@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[wiki/CODEX Writing Projects Manifest]]'
+- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'

@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/GSD Tier 1 — Core Workflow Skills Hub.md
 backlink_count: 9
 backlinks:
-- '[[wiki/Claude Code Skill Corpus]]'
+- '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[wiki/GSD — Get Shit Done Context Engineering System]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'

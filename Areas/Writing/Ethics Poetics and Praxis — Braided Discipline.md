@@ -25,7 +25,7 @@ canonical_path: Areas/Writing/Ethics Poetics and Praxis — Braided Discipline.m
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
-- '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
+- '[[Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Martin Lepage Professional Identity]]'

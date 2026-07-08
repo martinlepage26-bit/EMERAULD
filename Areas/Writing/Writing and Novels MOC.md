@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/Writing/Brutal Isms — Art Grant Proposal]]'
 - '[[Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12)]]'
 - '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/CODEX Writing Projects Manifest]]'
+- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
 - '[[Areas/Writing/CORPUS Novel — Version Genealogy]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'

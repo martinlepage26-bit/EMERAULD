@@ -42,9 +42,9 @@ vault_area: Resources
 canonical_path: Resources/Regulatory Standards Reference Stack — Governance Controls Grounding.md
 backlink_count: 9
 backlinks:
-- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
-- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
-- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'

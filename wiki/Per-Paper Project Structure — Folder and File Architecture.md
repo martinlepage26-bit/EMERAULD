@@ -23,7 +23,7 @@ canonical_path: wiki/Per-Paper Project Structure — Folder and File Architectur
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
+- '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'

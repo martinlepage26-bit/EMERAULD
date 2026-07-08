@@ -26,7 +26,7 @@ backlink_count: 27
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
-- '[[wiki/CLAUDEX — AI Dialogue Archive]]'
+- '[[archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/EMERAULD]]'

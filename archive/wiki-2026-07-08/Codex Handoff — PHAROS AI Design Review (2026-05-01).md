@@ -4,14 +4,13 @@ title: Codex Handoff — PHAROS AI Design Review (2026-05-01)
 aliases:
 - Codex Design Review Handoff
 - PHAROS Design Iteration Sprint
-- wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)
 tags:
 - codex
 - design
 - pharos
 - handoff
 - '2026-05-01'
-- wiki
+- archive
 - codex-handoff-pharos-ai-design-review-2026-05-01-md
 - color
 - articles
@@ -22,12 +21,12 @@ tags:
 status: deployed-pending-custom-domain-verification
 created: 2026-05-01T16:10
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01).md
 backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
-- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
 - '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'

@@ -29,7 +29,7 @@ canonical_path: wiki/claude-peers-mcp — Claude Peer Network.md
 backlink_count: 11
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'

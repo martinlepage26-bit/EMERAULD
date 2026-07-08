@@ -36,7 +36,7 @@ backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
-- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'

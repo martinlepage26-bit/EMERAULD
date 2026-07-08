@@ -25,7 +25,7 @@ canonical_path: Areas/Writing/Manuscript Pipeline MOC.md
 backlink_count: 59
 backlinks:
 - '[[Areas/Writing/AREA]]'
-- '[[wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
+- '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/Glitching the Sacred]]'

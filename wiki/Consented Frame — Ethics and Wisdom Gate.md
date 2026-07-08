@@ -29,8 +29,8 @@ backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/Anti-Charm]]'
-- '[[wiki/Claude Code Skill Corpus]]'
-- '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[Areas/PHAROS/Claude Code Skill Corpus]]'
+- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'

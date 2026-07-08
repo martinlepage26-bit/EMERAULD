@@ -24,8 +24,8 @@ backlink_count: 34
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/CLI-Anything — Agent Harness for Tool Integration]]'
-- '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration]]'
+- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics

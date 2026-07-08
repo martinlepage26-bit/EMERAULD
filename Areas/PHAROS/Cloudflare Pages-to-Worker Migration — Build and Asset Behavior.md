@@ -5,7 +5,6 @@ aliases:
 - Pages to Worker migration
 - Pages-to-Worker conversion
 - Cloudflare Pages migration to Worker
-- wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior
 tags:
 - cloudflare
 - deployment
@@ -14,7 +13,7 @@ tags:
 - wrangler
 - routing
 - assets
-- wiki
+- areas
 - cloudflare-pages-to-worker-migration-build-and-asset-behavior-md
 - worker
 - jsonc
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-04-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior.md
 backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

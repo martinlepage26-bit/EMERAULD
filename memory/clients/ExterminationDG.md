@@ -27,7 +27,7 @@ vault_area: memory
 canonical_path: memory/clients/ExterminationDG.md
 backlink_count: 12
 backlinks:
-- '[[wiki/CLIENT ACCOUNTS]]'
+- '[[Areas/PHAROS/CLIENT ACCOUNTS]]'
 - '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
 - '[[wiki/Operator Continuity Memo — 2026-05-14]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'

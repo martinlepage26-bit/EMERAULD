@@ -5,7 +5,6 @@ aliases:
 - COMPASSai EU AI Act classifier
 - Quebec Construction Classifier
 - COMPASSai classifier 2026-06
-- wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)
 tags:
 - pharos
 - compassai
@@ -15,7 +14,7 @@ tags:
 - construction
 - governance-software
 - classifier
-- wiki
+- areas
 - compassai-eu-ai-act-classifier-expansion-and-quebec-construction-module-2026-06-22-md
 - gpai
 - regulatory
@@ -23,9 +22,8 @@ tags:
 status: active
 created: '2026-06-22'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction
-  Module (2026-06-22).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md
 backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'

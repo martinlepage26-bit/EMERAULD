@@ -32,7 +32,7 @@ backlink_count: 25
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
+- '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'

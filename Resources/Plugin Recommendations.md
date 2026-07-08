@@ -20,7 +20,7 @@ canonical_path: Resources/Plugin Recommendations.md
 backlink_count: 14
 backlinks:
 - '[[Resources/Awesome Design Resources — Curated UI-UX Reference List]]'
-- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[wiki/Home]]'

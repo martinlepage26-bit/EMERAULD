@@ -5,14 +5,12 @@ aliases:
 - CLAUDEX
 - AI council archive
 - dialogue archive
-- wiki/CLAUDEX — AI Dialogue Archive
 tags:
 - archive
 - ai-council
 - dialogue
 - claude
 - codex
-- wiki
 - claudex-ai-dialogue-archive-md
 - claudex
 - debate
@@ -23,8 +21,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/CLAUDEX — AI Dialogue Archive.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive.md
 backlink_count: 3
 backlinks:
 - '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'

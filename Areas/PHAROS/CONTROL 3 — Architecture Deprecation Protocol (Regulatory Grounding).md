@@ -4,10 +4,9 @@ title: CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)
 aliases:
 - Architecture Deprecation Protocol
 - CONTROL 3
-- wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)
 tags:
 - governance-control
-- wiki
+- areas
 - control-3-architecture-deprecation-protocol-regulatory-grounding-md
 - architecture
 - deprecated
@@ -18,12 +17,12 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md
 backlink_count: 22
 backlinks:
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
-- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'

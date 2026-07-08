@@ -25,7 +25,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack.md
 backlink_count: 14
 backlinks:
-- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist]]'

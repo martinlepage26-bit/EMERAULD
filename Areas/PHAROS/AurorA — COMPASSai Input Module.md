@@ -24,7 +24,7 @@ canonical_path: Areas/PHAROS/AurorA — COMPASSai Input Module.md
 backlink_count: 22
 backlinks:
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
-- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
+- '[[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'

@@ -26,9 +26,9 @@ canonical_path: wiki/Provisional Arbitration Charter — Argus Layer 9.5.md
 backlink_count: 21
 backlinks:
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
-- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
-- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
-- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'

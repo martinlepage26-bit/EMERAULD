@@ -3,9 +3,8 @@ type: wiki
 title: Claude Code Skill Corpus
 aliases:
 - Claude Code Skill Corpus
-- wiki/Claude Code Skill Corpus
 tags:
-- wiki
+- areas
 - skill
 - claude-code-skill-corpus-md
 - anything
@@ -16,14 +15,14 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Claude Code Skill Corpus.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Claude Code Skill Corpus.md
 backlink_count: 40
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[Resources/Epistemic Governance — Canonical Reference]]'

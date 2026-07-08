@@ -3,9 +3,8 @@ type: wiki
 title: CODEX Writing Projects Manifest
 aliases:
 - CODEX Writing Projects Manifest
-- wiki/CODEX Writing Projects Manifest
 tags:
-- wiki
+- areas
 - codex-writing-projects-manifest-md
 - whos
 - publications
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/CODEX Writing Projects Manifest.md
+vault_area: Areas
+canonical_path: Areas/Writing/CODEX Writing Projects Manifest.md
 backlink_count: 5
 backlinks:
 - '[[wiki/Home]]'

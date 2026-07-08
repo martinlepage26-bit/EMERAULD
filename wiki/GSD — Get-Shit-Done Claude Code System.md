@@ -28,7 +28,7 @@ canonical_path: wiki/GSD — Get-Shit-Done Claude Code System.md
 backlink_count: 8
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Claude Code Skill Corpus]]'
+- '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'

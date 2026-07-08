@@ -29,7 +29,7 @@ backlinks:
 - '[[Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
 - '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/CODEX Writing Projects Manifest]]'
+- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
 - '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'

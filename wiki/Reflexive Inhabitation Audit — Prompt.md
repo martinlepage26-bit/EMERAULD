@@ -30,7 +30,7 @@ backlink_count: 21
 backlinks:
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[wiki/Desktop Text Intake — 2026-05-06]]'
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics

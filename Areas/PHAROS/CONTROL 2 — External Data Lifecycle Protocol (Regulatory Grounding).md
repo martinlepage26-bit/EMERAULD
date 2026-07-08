@@ -4,10 +4,9 @@ title: CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)
 aliases:
 - CONTROL 2 — External Data Lifecycle Protocol
 - CONTROL 2
-- wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)
 tags:
 - governance-control
-- wiki
+- areas
 - control-2-external-data-lifecycle-protocol-regulatory-grounding-md
 - policy
 - external
@@ -18,11 +17,11 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding).md
 backlink_count: 22
 backlinks:
-- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/External Data Refresh Calendar — Phase 1 Build]]'

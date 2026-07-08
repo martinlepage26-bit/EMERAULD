@@ -6,14 +6,13 @@ aliases:
 - monogram strategy
 - SMB branding
 - client logo lessons
-- wiki/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons
 tags:
 - design
 - branding
 - client-work
 - lessons
 - smb
-- wiki
+- areas
 - client-logo-strategy-monogram-pivot-and-smb-branding-lessons-md
 - monogram
 - logo
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-05-05'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons.md
 backlink_count: 7
 backlinks:
 - '[[wiki/Desktop Text Intake — 2026-05-06]]'

@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons]]'
+- '[[Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons]]'
 - '[[wiki/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

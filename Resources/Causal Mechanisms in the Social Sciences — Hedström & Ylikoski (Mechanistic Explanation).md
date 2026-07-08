@@ -1,12 +1,9 @@
 ---
 type: wiki
-title: Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
-  Explanation)
+title: Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)
 aliases:
 - Hedström Ylikoski causal mechanisms
 - Causal mechanisms social science working paper
-- wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
-  Explanation)
 tags:
 - reference
 - method
@@ -15,7 +12,7 @@ tags:
 - analytical-sociology
 - agent-based-modeling
 - evidence
-- wiki
+- resources
 - causal-mechanisms-in-the-social-sciences-hedstr-m-ylikoski-mechanistic-explanation-md
 - ylikoski
 - hedstrom
@@ -26,9 +23,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski
-  (Mechanistic Explanation).md
+vault_area: Resources
+canonical_path: Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation).md
 backlink_count: 8
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

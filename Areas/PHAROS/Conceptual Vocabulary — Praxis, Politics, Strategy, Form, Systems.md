@@ -5,13 +5,12 @@ aliases:
 - Praxis politics strategy form systems
 - Concept selection grid
 - Term-selection discipline
-- wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems
 tags:
 - epistemics
 - vocabulary
 - governance
 - method
-- wiki
+- areas
 - conceptual-vocabulary-praxis-politics-strategy-form-systems-md
 - praxis
 - poetics
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md
 backlink_count: 4
 backlinks:
 - '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'

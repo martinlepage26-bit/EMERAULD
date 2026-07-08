@@ -185,6 +185,36 @@
     "source_path": "Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework.md"
   },
   {
+    "source": "Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration",
+    "target": "readme",
+    "source_path": "Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration.md"
+  },
+  {
+    "source": "Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration",
+    "target": "HISTORY",
+    "source_path": "Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration.md"
+  },
+  {
+    "source": "Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "target": "tmux AI Council",
+    "source_path": "Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md"
+  },
+  {
+    "source": "Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
+    "target": "The Market Impact Question",
+    "source_path": "Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md"
+  },
+  {
+    "source": "Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
+    "target": "if-gov-ai-2027-2028",
+    "source_path": "Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md"
+  },
+  {
+    "source": "Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems",
+    "target": "2026-04-18_conceptual-vocabulary-praxis-politics-strategy-form-systems",
+    "source_path": "Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md"
+  },
+  {
     "source": "Areas/PHAROS/Control Protocols MOC",
     "target": "Responses API Fundamentals___",
     "source_path": "Areas/PHAROS/Control Protocols MOC.md"
@@ -2078,6 +2108,16 @@
     "source": "Areas/Writing/Brutal Isms — Art Grant Proposal",
     "target": "2023 - job_application.pdf - 2023 - job_application.pdf.pdf - 2023 - job_application.pdf - 2023 - jo",
     "source_path": "Areas/Writing/Brutal Isms — Art Grant Proposal.md"
+  },
+  {
+    "source": "Areas/Writing/CORPUS ou le génie de l'insistance — Novel",
+    "target": "CORPUS ou le génie de l’insistance (1)",
+    "source_path": "Areas/Writing/CORPUS ou le génie de l'insistance — Novel.md"
+  },
+  {
+    "source": "Areas/Writing/CORPUS ou le génie de l'insistance — Novel",
+    "target": "CORPUS ou le génie de l'insistance",
+    "source_path": "Areas/Writing/CORPUS ou le génie de l'insistance — Novel.md"
   },
   {
     "source": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
@@ -5675,6 +5715,21 @@
     "source_path": "Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining).md"
   },
   {
+    "source": "Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)",
+    "target": "2007 - ARS Final Hedstrom Ylikoski",
+    "source_path": "Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation).md"
+  },
+  {
+    "source": "Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)",
+    "target": "2015 - Praise",
+    "source_path": "Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation).md"
+  },
+  {
+    "source": "Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)",
+    "target": "Causal_Mechanisms_in_the_Social_Sciences.pdf",
+    "source_path": "Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation).md"
+  },
+  {
     "source": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
     "target": "ACTOR Framework Worksheet",
     "source_path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
@@ -5958,6 +6013,16 @@
     "source": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
     "target": "2019 - Martin Lepage - ocr_needed_1.pdf - 2019 - Martin Lepage - ocr_needed_1.pdf.pdf - 2019 - Marti",
     "source_path": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment.md"
+  },
+  {
+    "source": "archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive",
+    "target": "EMERAULD — Vault and Knowledge Graph",
+    "source_path": "archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive.md"
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20",
+    "target": "HISTORY",
+    "source_path": "archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20.md"
   },
   {
     "source": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
@@ -7760,74 +7825,9 @@
     "source_path": "wiki/Authority, Legitimacy, and Post-Sovereignty.md"
   },
   {
-    "source": "CLAUDEX — AI Dialogue Archive",
-    "target": "EMERAULD — Vault and Knowledge Graph",
-    "source_path": "wiki/CLAUDEX — AI Dialogue Archive.md"
-  },
-  {
-    "source": "CLI-Anything — Agent Harness for Tool Integration",
-    "target": "readme",
-    "source_path": "wiki/CLI-Anything — Agent Harness for Tool Integration.md"
-  },
-  {
-    "source": "CLI-Anything — Agent Harness for Tool Integration",
-    "target": "HISTORY",
-    "source_path": "wiki/CLI-Anything — Agent Harness for Tool Integration.md"
-  },
-  {
-    "source": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
-    "target": "tmux AI Council",
-    "source_path": "wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md"
-  },
-  {
-    "source": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
-    "target": "The Market Impact Question",
-    "source_path": "wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md"
-  },
-  {
-    "source": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
-    "target": "if-gov-ai-2027-2028",
-    "source_path": "wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md"
-  },
-  {
-    "source": "CORPUS ou le génie de l'insistance — Novel",
-    "target": "CORPUS ou le génie de l’insistance (1)",
-    "source_path": "wiki/CORPUS ou le génie de l'insistance — Novel.md"
-  },
-  {
-    "source": "CORPUS ou le génie de l'insistance — Novel",
-    "target": "CORPUS ou le génie de l'insistance",
-    "source_path": "wiki/CORPUS ou le génie de l'insistance — Novel.md"
-  },
-  {
-    "source": "Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)",
-    "target": "2007 - ARS Final Hedstrom Ylikoski",
-    "source_path": "wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation).md"
-  },
-  {
-    "source": "Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)",
-    "target": "2015 - Praise",
-    "source_path": "wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation).md"
-  },
-  {
-    "source": "Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)",
-    "target": "Causal_Mechanisms_in_the_Social_Sciences.pdf",
-    "source_path": "wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation).md"
-  },
-  {
     "source": "Charge & Circle — Four-Pivot Decision Map (2026-05-24)",
     "target": "Alchemy of the Wound",
     "source_path": "wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24).md"
-  },
-  {
-    "source": "Codex Skill Corpus Sync — 2026-04-20",
-    "target": "HISTORY",
-    "source_path": "wiki/Codex Skill Corpus Sync — 2026-04-20.md"
-  },
-  {
-    "source": "Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems",
-    "target": "2026-04-18_conceptual-vocabulary-praxis-politics-strategy-form-systems",
-    "source_path": "wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md"
   },
   {
     "source": "Consent Frameworks — Historical, Legal, Social, and AI Governance",

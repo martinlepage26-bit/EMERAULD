@@ -4,10 +4,9 @@ title: CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)
 aliases:
 - CONTROL 1 — Tool Layer Audit Protocol
 - CONTROL 1
-- wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)
 tags:
 - governance-control
-- wiki
+- areas
 - control-1-tool-layer-audit-protocol-regulatory-grounding-md
 - tool
 - plugin
@@ -18,13 +17,13 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding).md
 backlink_count: 24
 backlinks:
 - '[[Areas/PHAROS/Argus]]'
-- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
-- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'

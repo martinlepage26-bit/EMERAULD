@@ -29,7 +29,7 @@ canonical_path: wiki/claude-mem — Persistent Memory Compression for Claude Cod
 backlink_count: 12
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Claude Code Skill Corpus]]'
+- '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[wiki/EMERAULD]]'
 - '[[wiki/GSD — Get Shit Done Context Engineering System]]'
 - '[[wiki/GSD — Get-Shit-Done Claude Code System]]'

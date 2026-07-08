@@ -5,9 +5,8 @@ aliases:
 - Chat Node Instructions
 - 16-Node Paper Pipeline
 - Paper Node Protocol
-- wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline
 tags:
-- wiki
+- areas
 - chat-node-instructions-16-node-scholarly-paper-pipeline-md
 - chat
 - instruction
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline.md
+vault_area: Areas
+canonical_path: Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline.md
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'

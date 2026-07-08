@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
 - '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
-- '[[wiki/CODEX Writing Projects Manifest]]'
+- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'

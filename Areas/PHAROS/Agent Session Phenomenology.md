@@ -21,7 +21,7 @@ canonical_path: Areas/PHAROS/Agent Session Phenomenology.md
 backlink_count: 26
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/CLI-Anything — Agent Harness for Tool Integration]]'
+- '[[Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'

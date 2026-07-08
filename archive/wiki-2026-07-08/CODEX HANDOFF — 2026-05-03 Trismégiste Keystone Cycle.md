@@ -3,14 +3,13 @@ type: handoff
 title: CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle
 aliases:
 - CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle
-- wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle
 tags:
 - handoff
 - codex
 - trismegiste
 - keystone
 - vault
-- wiki
+- archive
 - codex-handoff-2026-05-03-trism-giste-keystone-cycle-md
 - trism
 - giste
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-05-03'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle.md
 backlink_count: 6
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

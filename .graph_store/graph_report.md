@@ -1,6 +1,6 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:37:26Z
+Built: 2026-07-08T05:37:27Z
 Corpus: wiki/**/*.md
 
 ## Summary
@@ -343,6 +343,7 @@ Corpus: wiki/**/*.md
 - `VAULT-LINKING-AUDIT-2026-05-01`: 6
 - `Groupe Lavoie`: 6
 - `argus.agent`: 5
+- `readme`: 5
 - `The Circle Remains Open Toward a Queer Sociology of the Sacred (2)`: 5
 - `Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2)`: 5
 - `Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy`: 5
@@ -354,7 +355,6 @@ Corpus: wiki/**/*.md
 - `“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal`: 5
 - `Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members`: 5
 - `Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research`: 5
-- `readme`: 5
 - `EXTERNAL DATA REGISTRY (Phase 1 Build)`: 5
 - `wikilinks`: 5
 - `Readme`: 4

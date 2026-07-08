@@ -19,7 +19,7 @@ vault_area: archive
 canonical_path: archive/session-state/session-state-001.md
 backlink_count: 5
 backlinks:
-- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/session-state/session-state-002]]'

@@ -3,9 +3,8 @@ type: wiki
 title: Client Accounts
 aliases:
 - Client Accounts
-- wiki/CLIENT ACCOUNTS
 tags:
-- wiki
+- areas
 - client
 - client-accounts-md
 - clients
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-07-05'
-vault_area: wiki
-canonical_path: wiki/CLIENT ACCOUNTS.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/CLIENT ACCOUNTS.md
 backlink_count: 16
 backlinks:
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'

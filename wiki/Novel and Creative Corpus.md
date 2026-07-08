@@ -27,7 +27,7 @@ backlink_count: 23
 backlinks:
 - '[[Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
 - '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
-- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/Writing/CORPUS Novel — Version Genealogy]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'

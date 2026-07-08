@@ -23,7 +23,7 @@ vault_area: memory
 canonical_path: memory/clients/Lavoie.md
 backlink_count: 5
 backlinks:
-- '[[wiki/CLIENT ACCOUNTS]]'
+- '[[Areas/PHAROS/CLIENT ACCOUNTS]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory]]'
 - '[[memory/clients/Lavoie Construct]]'

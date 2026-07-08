@@ -23,7 +23,7 @@ vault_area: wiki
 canonical_path: wiki/Governance Typology — Recursive AI Governance Taxonomy.md
 backlink_count: 7
 backlinks:
-- '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
+- '[[Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'

@@ -142,7 +142,7 @@ Council operations coordinate via `tmux-council-loop` for multi-agent workflows 
 - **Council Seat**: Listed in [[Areas/PHAROS/company.md]] AI CLI Council
 - **Glossary Entry**: Defined in [[Resources/glossary.md]] as "Parallel synthesis, alternate review"
 - **System Integration**: Documented in [[wiki/GSD — Get-Shit-Done Claude Code System]]
-- **Classifier**: Referenced in [[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]
+- **Classifier**: Referenced in [[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]
 
 ### Agent Ecosystem
 - **Council Operations**: Participates in multi-agent workflows via tmux
@@ -173,4 +173,4 @@ Council operations coordinate via `tmux-council-loop` for multi-agent workflows 
 - [[Areas/PHAROS/company]]
 - [[Resources/glossary]]
 - [[wiki/GSD — Get-Shit-Done Claude Code System]]
-- [[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]
+- [[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]

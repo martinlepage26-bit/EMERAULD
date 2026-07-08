@@ -24,7 +24,7 @@ canonical_path: governance/hephaistos/QUEEN-KEYPORT.md
 backlink_count: 15
 backlinks:
 - '[[.github/agents/queen-keyport.agent]]'
-- '[[wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
+- '[[archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
 - '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'

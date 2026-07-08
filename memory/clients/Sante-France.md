@@ -22,7 +22,7 @@ vault_area: memory
 canonical_path: memory/clients/Sante-France.md
 backlink_count: 10
 backlinks:
-- '[[wiki/CLIENT ACCOUNTS]]'
+- '[[Areas/PHAROS/CLIENT ACCOUNTS]]'
 - '[[wiki/Operator Continuity Memo — 2026-05-14]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'

@@ -52,7 +52,7 @@ source_report: raw/intake-report-20260513.json
 
 ## Related
 - [[wiki/Reflexive Inhabitation Audit — Prompt.md]]
-- [[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25).md]]
+- [[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]
 ## Cluster Links
 - [[Source Cluster — 2026-05-13 Client and Operator Continuity]]
 - [[Source Cluster Map — 2026-05-13 Raw Sources]]

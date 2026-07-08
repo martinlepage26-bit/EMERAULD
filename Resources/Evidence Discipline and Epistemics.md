@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
+- '[[Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
 - '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'

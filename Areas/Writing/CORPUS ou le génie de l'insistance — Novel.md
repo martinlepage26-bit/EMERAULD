@@ -3,9 +3,8 @@ type: wiki
 title: CORPUS ou le génie de l'insistance — Novel
 aliases:
 - CORPUS ou le génie de l'insistance — Novel
-- wiki/CORPUS ou le génie de l'insistance — Novel
 tags:
-- wiki
+- areas
 - novel
 - corpus-ou-le-g-nie-de-l-insistance-novel-md
 - moriel
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/CORPUS ou le génie de l'insistance — Novel.md
+vault_area: Areas
+canonical_path: Areas/Writing/CORPUS ou le génie de l'insistance — Novel.md
 backlink_count: 23
 backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'

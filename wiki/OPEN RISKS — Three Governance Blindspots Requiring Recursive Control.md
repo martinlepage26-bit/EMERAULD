@@ -25,9 +25,9 @@ canonical_path: wiki/OPEN RISKS — Three Governance Blindspots Requiring Recurs
 backlink_count: 17
 backlinks:
 - '[[.trash/Building Your First AI Agent with OpenAI__________]]'
-- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
-- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
-- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'

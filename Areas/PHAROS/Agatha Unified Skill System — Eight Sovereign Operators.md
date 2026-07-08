@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
-- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Controls and Mechanisms]]'

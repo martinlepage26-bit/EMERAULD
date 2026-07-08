@@ -41,7 +41,7 @@ backlinks:
 - '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
+- '[[Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[Areas/Writing/Circle Remains Open — Version Genealogy]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'

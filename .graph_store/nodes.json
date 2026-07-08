@@ -647,6 +647,47 @@
     "backlinks": 37
   },
   {
+    "id": "Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration",
+    "title": "CLI-Anything — Agent Harness for Tool Integration",
+    "path": "Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "CLI-Anything — Agent Harness for Tool Integration"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 6,
+    "backlinks": 15
+  },
+  {
+    "id": "Areas/PHAROS/CLIENT ACCOUNTS",
+    "title": "CLIENT ACCOUNTS",
+    "path": "Areas/PHAROS/CLIENT ACCOUNTS.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Client Accounts"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 5,
+    "backlinks": 33
+  },
+  {
+    "id": "Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "title": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "path": "Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "COMPASSai EU AI Act classifier",
+      "COMPASSai classifier 2026-06",
+      "Quebec Construction Classifier"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 6,
+    "backlinks": 15
+  },
+  {
     "id": "Areas/PHAROS/COMPASSai — Governance Engine",
     "title": "COMPASSai — Governance Engine",
     "path": "Areas/PHAROS/COMPASSai — Governance Engine.md",
@@ -660,6 +701,106 @@
     "outlinks": 40,
     "unique_outlinks": 21,
     "backlinks": 57
+  },
+  {
+    "id": "Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
+    "title": "CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
+    "path": "Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding).md",
+    "type": "governance-control",
+    "status": "active",
+    "aliases": [
+      "CONTROL 1",
+      "CONTROL 1 — Tool Layer Audit Protocol"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 9,
+    "backlinks": 33
+  },
+  {
+    "id": "Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)",
+    "title": "CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)",
+    "path": "Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding).md",
+    "type": "governance-control",
+    "status": "active",
+    "aliases": [
+      "CONTROL 2",
+      "CONTROL 2 — External Data Lifecycle Protocol"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 11,
+    "backlinks": 32
+  },
+  {
+    "id": "Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
+    "title": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
+    "path": "Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md",
+    "type": "governance-control",
+    "status": "active",
+    "aliases": [
+      "Architecture Deprecation Protocol",
+      "CONTROL 3"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 9,
+    "backlinks": 31
+  },
+  {
+    "id": "Areas/PHAROS/Chrome Extension Monetization - Policy and Product Options",
+    "title": "Chrome Extension Monetization - Policy and Product Options",
+    "path": "Areas/PHAROS/Chrome Extension Monetization - Policy and Product Options.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Chrome Extension Monetization",
+      "Chrome Extension Monetization Guide"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 3,
+    "backlinks": 7
+  },
+  {
+    "id": "Areas/PHAROS/Claude Code Skill Corpus",
+    "title": "Claude Code Skill Corpus",
+    "path": "Areas/PHAROS/Claude Code Skill Corpus.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Claude Code Skill Corpus"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 16,
+    "backlinks": 69
+  },
+  {
+    "id": "Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons",
+    "title": "Client Logo Strategy — Monogram Pivot and SMB Branding Lessons",
+    "path": "Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "SMB branding",
+      "client logo lessons",
+      "logo pivot",
+      "monogram strategy"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 3,
+    "backlinks": 10
+  },
+  {
+    "id": "Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior",
+    "title": "Cloudflare Pages-to-Worker Migration — Build and Asset Behavior",
+    "path": "Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Cloudflare Pages migration to Worker",
+      "Pages to Worker migration",
+      "Pages-to-Worker conversion"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 4,
+    "backlinks": 14
   },
   {
     "id": "Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS",
@@ -679,6 +820,21 @@
     "outlinks": 14,
     "unique_outlinks": 7,
     "backlinks": 16
+  },
+  {
+    "id": "Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems",
+    "title": "Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems",
+    "path": "Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Concept selection grid",
+      "Praxis politics strategy form systems",
+      "Term-selection discipline"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 7,
+    "backlinks": 9
   },
   {
     "id": "Areas/PHAROS/Control Protocols MOC",
@@ -1616,6 +1772,19 @@
     "backlinks": 7
   },
   {
+    "id": "Areas/Writing/CODEX Writing Projects Manifest",
+    "title": "CODEX Writing Projects Manifest",
+    "path": "Areas/Writing/CODEX Writing Projects Manifest.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "CODEX Writing Projects Manifest"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 11,
+    "backlinks": 9
+  },
+  {
     "id": "Areas/Writing/CORPUS Novel — Version Genealogy",
     "title": "CORPUS Novel — Version Genealogy",
     "path": "Areas/Writing/CORPUS Novel — Version Genealogy.md",
@@ -1627,6 +1796,34 @@
     "outlinks": 5,
     "unique_outlinks": 4,
     "backlinks": 6
+  },
+  {
+    "id": "Areas/Writing/CORPUS ou le génie de l'insistance — Novel",
+    "title": "CORPUS ou le génie de l'insistance — Novel",
+    "path": "Areas/Writing/CORPUS ou le génie de l'insistance — Novel.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "CORPUS ou le génie de l'insistance — Novel"
+    ],
+    "outlinks": 21,
+    "unique_outlinks": 15,
+    "backlinks": 30
+  },
+  {
+    "id": "Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline",
+    "title": "Chat Node Instructions — 16-Node Scholarly Paper Pipeline",
+    "path": "Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "16-Node Paper Pipeline",
+      "Chat Node Instructions",
+      "Paper Node Protocol"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 6,
+    "backlinks": 9
   },
   {
     "id": "Areas/Writing/Circle Remains Open — Version Genealogy",
@@ -2319,153 +2516,6 @@
     "backlinks": 83
   },
   {
-    "id": "CLAUDEX — AI Dialogue Archive",
-    "title": "CLAUDEX — AI Dialogue Archive",
-    "path": "wiki/CLAUDEX — AI Dialogue Archive.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI council archive",
-      "CLAUDEX",
-      "dialogue archive",
-      "wiki/CLAUDEX — AI Dialogue Archive"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 3,
-    "backlinks": 7
-  },
-  {
-    "id": "CLI-Anything — Agent Harness for Tool Integration",
-    "title": "CLI-Anything — Agent Harness for Tool Integration",
-    "path": "wiki/CLI-Anything — Agent Harness for Tool Integration.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "CLI-Anything — Agent Harness for Tool Integration",
-      "wiki/CLI-Anything — Agent Harness for Tool Integration"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 6,
-    "backlinks": 15
-  },
-  {
-    "id": "CLIENT ACCOUNTS",
-    "title": "CLIENT ACCOUNTS",
-    "path": "wiki/CLIENT ACCOUNTS.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Client Accounts",
-      "wiki/CLIENT ACCOUNTS"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 5,
-    "backlinks": 33
-  },
-  {
-    "id": "CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
-    "title": "CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
-    "path": "wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle.md",
-    "type": "handoff",
-    "status": "active",
-    "aliases": [
-      "CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
-      "wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 13,
-    "backlinks": 6
-  },
-  {
-    "id": "CODEX Writing Projects Manifest",
-    "title": "CODEX Writing Projects Manifest",
-    "path": "wiki/CODEX Writing Projects Manifest.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "CODEX Writing Projects Manifest",
-      "wiki/CODEX Writing Projects Manifest"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 11,
-    "backlinks": 9
-  },
-  {
-    "id": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
-    "title": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
-    "path": "wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "COMPASSai EU AI Act classifier",
-      "COMPASSai classifier 2026-06",
-      "Quebec Construction Classifier",
-      "wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 6,
-    "backlinks": 15
-  },
-  {
-    "id": "CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
-    "title": "CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
-    "path": "wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding).md",
-    "type": "governance-control",
-    "status": "active",
-    "aliases": [
-      "CONTROL 1",
-      "CONTROL 1 — Tool Layer Audit Protocol",
-      "wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 9,
-    "backlinks": 33
-  },
-  {
-    "id": "CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)",
-    "title": "CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)",
-    "path": "wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding).md",
-    "type": "governance-control",
-    "status": "active",
-    "aliases": [
-      "CONTROL 2",
-      "CONTROL 2 — External Data Lifecycle Protocol",
-      "wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 11,
-    "backlinks": 32
-  },
-  {
-    "id": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
-    "title": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
-    "path": "wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md",
-    "type": "governance-control",
-    "status": "active",
-    "aliases": [
-      "Architecture Deprecation Protocol",
-      "CONTROL 3",
-      "wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 9,
-    "backlinks": 31
-  },
-  {
-    "id": "CORPUS ou le génie de l'insistance — Novel",
-    "title": "CORPUS ou le génie de l'insistance — Novel",
-    "path": "wiki/CORPUS ou le génie de l'insistance — Novel.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "CORPUS ou le génie de l'insistance — Novel",
-      "wiki/CORPUS ou le génie de l'insistance — Novel"
-    ],
-    "outlinks": 21,
-    "unique_outlinks": 15,
-    "backlinks": 30
-  },
-  {
     "id": "Care, Ethics, and Governance",
     "title": "Care, Ethics, and Governance",
     "path": "wiki/Care, Ethics, and Governance.md",
@@ -2478,21 +2528,6 @@
     "outlinks": 36,
     "unique_outlinks": 34,
     "backlinks": 34
-  },
-  {
-    "id": "Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)",
-    "title": "Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)",
-    "path": "wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Causal mechanisms social science working paper",
-      "Hedström Ylikoski causal mechanisms",
-      "wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 11,
-    "backlinks": 11
   },
   {
     "id": "Charge & Circle — Four-Pivot Decision Map (2026-05-24)",
@@ -2529,131 +2564,6 @@
     "backlinks": 10
   },
   {
-    "id": "Chat Node Instructions — 16-Node Scholarly Paper Pipeline",
-    "title": "Chat Node Instructions — 16-Node Scholarly Paper Pipeline",
-    "path": "wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "16-Node Paper Pipeline",
-      "Chat Node Instructions",
-      "Paper Node Protocol",
-      "wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 6,
-    "backlinks": 9
-  },
-  {
-    "id": "Chrome Extension Monetization - Policy and Product Options",
-    "title": "Chrome Extension Monetization - Policy and Product Options",
-    "path": "wiki/Chrome Extension Monetization - Policy and Product Options.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Chrome Extension Monetization",
-      "Chrome Extension Monetization Guide",
-      "wiki/Chrome Extension Monetization - Policy and Product Options"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 3,
-    "backlinks": 7
-  },
-  {
-    "id": "Claude Code Skill Corpus",
-    "title": "Claude Code Skill Corpus",
-    "path": "wiki/Claude Code Skill Corpus.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Claude Code Skill Corpus",
-      "wiki/Claude Code Skill Corpus"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 16,
-    "backlinks": 69
-  },
-  {
-    "id": "Client Logo Strategy — Monogram Pivot and SMB Branding Lessons",
-    "title": "Client Logo Strategy — Monogram Pivot and SMB Branding Lessons",
-    "path": "wiki/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "SMB branding",
-      "client logo lessons",
-      "logo pivot",
-      "monogram strategy",
-      "wiki/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 3,
-    "backlinks": 10
-  },
-  {
-    "id": "Cloudflare Pages-to-Worker Migration — Build and Asset Behavior",
-    "title": "Cloudflare Pages-to-Worker Migration — Build and Asset Behavior",
-    "path": "wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Cloudflare Pages migration to Worker",
-      "Pages to Worker migration",
-      "Pages-to-Worker conversion",
-      "wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 4,
-    "backlinks": 14
-  },
-  {
-    "id": "Codex Handoff — PHAROS AI Design Review (2026-05-01)",
-    "title": "Codex Handoff — PHAROS AI Design Review (2026-05-01)",
-    "path": "wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01).md",
-    "type": "wiki",
-    "status": "deployed-pending-custom-domain-verification",
-    "aliases": [
-      "Codex Design Review Handoff",
-      "PHAROS Design Iteration Sprint",
-      "wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 5,
-    "backlinks": 12
-  },
-  {
-    "id": "Codex RIA Run — The Web as X (First Operationalization 2026-04-25)",
-    "title": "Codex RIA Run — The Web as X (First Operationalization 2026-04-25)",
-    "path": "wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Codex RIA",
-      "RIA first run",
-      "trust mechanism finding",
-      "web as X",
-      "wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 6,
-    "backlinks": 15
-  },
-  {
-    "id": "Codex Skill Corpus Sync — 2026-04-20",
-    "title": "Codex Skill Corpus Sync — 2026-04-20",
-    "path": "wiki/Codex Skill Corpus Sync — 2026-04-20.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Codex corpus upgrade 04-20",
-      "Codex skill sync",
-      "wiki/Codex Skill Corpus Sync — 2026-04-20"
-    ],
-    "outlinks": 16,
-    "unique_outlinks": 8,
-    "backlinks": 24
-  },
-  {
     "id": "Codex Skills Inventory — Complete Registry (241 Skills)",
     "title": "Codex Skills Inventory — Complete Registry (241 Skills)",
     "path": "wiki/Codex Skills Inventory — Complete Registry (241 Skills).md",
@@ -2683,22 +2593,6 @@
     "outlinks": 10,
     "unique_outlinks": 7,
     "backlinks": 13
-  },
-  {
-    "id": "Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems",
-    "title": "Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems",
-    "path": "wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Concept selection grid",
-      "Praxis politics strategy form systems",
-      "Term-selection discipline",
-      "wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 7,
-    "backlinks": 9
   },
   {
     "id": "Consent Frameworks — Historical, Legal, Social, and AI Governance",
@@ -7089,6 +6983,20 @@
     "backlinks": 14
   },
   {
+    "id": "Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)",
+    "title": "Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)",
+    "path": "Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Causal mechanisms social science working paper",
+      "Hedström Ylikoski causal mechanisms"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 11,
+    "backlinks": 11
+  },
+  {
     "id": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
     "title": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
     "path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md",
@@ -9629,6 +9537,34 @@
     "backlinks": 8
   },
   {
+    "id": "archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive",
+    "title": "CLAUDEX — AI Dialogue Archive",
+    "path": "archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI council archive",
+      "CLAUDEX",
+      "dialogue archive"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 3,
+    "backlinks": 7
+  },
+  {
+    "id": "archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
+    "title": "CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
+    "path": "archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle.md",
+    "type": "handoff",
+    "status": "active",
+    "aliases": [
+      "CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 13,
+    "backlinks": 6
+  },
+  {
     "id": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
     "title": "CSV_DIAGNOSTIC_REPORT",
     "path": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT.md",
@@ -9640,6 +9576,50 @@
     "outlinks": 2,
     "unique_outlinks": 2,
     "backlinks": 11
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01)",
+    "title": "Codex Handoff — PHAROS AI Design Review (2026-05-01)",
+    "path": "archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01).md",
+    "type": "wiki",
+    "status": "deployed-pending-custom-domain-verification",
+    "aliases": [
+      "Codex Design Review Handoff",
+      "PHAROS Design Iteration Sprint"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 5,
+    "backlinks": 12
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)",
+    "title": "Codex RIA Run — The Web as X (First Operationalization 2026-04-25)",
+    "path": "archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Codex RIA",
+      "RIA first run",
+      "trust mechanism finding",
+      "web as X"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 6,
+    "backlinks": 15
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20",
+    "title": "Codex Skill Corpus Sync — 2026-04-20",
+    "path": "archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Codex corpus upgrade 04-20",
+      "Codex skill sync"
+    ],
+    "outlinks": 16,
+    "unique_outlinks": 8,
+    "backlinks": 24
   },
   {
     "id": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",

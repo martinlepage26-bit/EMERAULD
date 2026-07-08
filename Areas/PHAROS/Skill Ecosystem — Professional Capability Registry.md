@@ -25,7 +25,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/Skill Ecosystem — Professional Capability Registry.md
 backlink_count: 238
 backlinks:
-- '[[wiki/Claude Code Skill Corpus]]'
+- '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'

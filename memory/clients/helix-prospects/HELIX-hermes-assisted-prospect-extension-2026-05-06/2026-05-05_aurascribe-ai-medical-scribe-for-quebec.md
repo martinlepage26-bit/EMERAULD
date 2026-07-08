@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aurascribe-ai-medical-scribe-for-quebec.md
 backlink_count: 2
 backlinks:
-- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://aurascribe.ca/compliance?lang=en
 date: '2026-05-05'

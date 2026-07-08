@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/GSD — Get Shit Done Context Engineering System.md
 backlink_count: 16
 backlinks:
-- '[[wiki/Claude Code Skill Corpus]]'
+- '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
