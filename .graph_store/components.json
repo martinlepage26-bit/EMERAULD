@@ -11,8 +11,11 @@
     "Architecture - EMERAULD Scripts - Overview",
     "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
     "Areas/Lavoie/AREA",
+    "Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)",
     "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
+    "Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)",
     "Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)",
     "Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule",
     "Areas/PHAROS/2026-06-29 - idea-discovery",
     "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
@@ -36,8 +39,11 @@
     "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "Areas/PHAROS/AREA",
     "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "Areas/PHAROS/Agent Collab Session — Vault Assessment Council (Historical)",
     "Areas/PHAROS/Agent Distillation Pipeline",
     "Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
+    "Areas/PHAROS/Agent Protocol — Working With Martin",
+    "Areas/PHAROS/Agent Scaffolds — ~agents vs .claude-agents Distinction",
     "Areas/PHAROS/Agent Session Phenomenology",
     "Areas/PHAROS/Anti-Charm",
     "Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)",
@@ -58,6 +64,7 @@
     "Areas/PHAROS/Claude Code Skill Corpus",
     "Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons",
     "Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior",
+    "Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)",
     "Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS",
     "Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems",
     "Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance",
@@ -95,11 +102,13 @@
     "Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents",
     "Areas/PHAROS/Governed Self-Improvement — Method Slide Asset",
     "Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification",
+    "Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06)",
     "Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)",
     "Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)",
     "Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
     "Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build",
     "Areas/PHAROS/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)",
     "Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06",
     "Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06",
     "Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06",
@@ -109,6 +118,7 @@
     "Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026)",
     "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
     "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report",
     "Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study",
     "Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers",
     "Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification",
@@ -122,14 +132,17 @@
     "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
     "Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
     "Areas/PHAROS/Inner Mind Eye",
+    "Areas/PHAROS/Jade — Name Disambiguation",
     "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework",
     "Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification",
     "Areas/PHAROS/LOTUS Model — Agency and Social Positioning",
     "Areas/PHAROS/LOTUS Premium Spec",
+    "Areas/PHAROS/Law 25 ADM — Practitioner Brief",
     "Areas/PHAROS/MCP and Runtime Integration MOC",
     "Areas/PHAROS/Machine Limitation",
     "Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment",
     "Areas/PHAROS/Martin Lepage — Professional Profile",
+    "Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App",
     "Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template",
     "Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
     "Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control",
@@ -139,6 +152,7 @@
     "Areas/PHAROS/Obsidian Agent Vault — Setup Guide",
     "Areas/PHAROS/Obsidian Second Brain Product",
     "Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS",
+    "Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)",
     "Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt",
     "Areas/PHAROS/PHAROS",
     "Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)",
@@ -181,6 +195,7 @@
     "Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
     "Areas/PHAROS/RECURSO — Final Audit and Ethical Review",
     "Areas/PHAROS/RECURSO — Recursive Governance Test Archive",
+    "Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger",
     "Areas/PHAROS/RIA-CODEX — System Audit Protocol",
     "Areas/PHAROS/ROOK — Session Boundary Model",
     "Areas/PHAROS/Railway — COMPASSai Production Deployment Platform",
@@ -188,10 +203,12 @@
     "Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions",
     "Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt",
     "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "Areas/PHAROS/Reflexive Inhabitation Audit — Built App",
     "Areas/PHAROS/Reflexive Inhabitation Audit — Prompt",
     "Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)",
     "Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model",
     "Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
+    "Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline",
     "Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion",
     "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
     "Areas/PHAROS/Second Self System — Public Voice Examples",
@@ -219,14 +236,20 @@
     "Areas/PHAROS/Trismégiste — Personal AI Assistant",
     "Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance",
     "Areas/PHAROS/VoiceBridge Foundation",
+    "Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation",
     "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration",
     "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
     "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "Areas/PHAROS/clearday — Mobile App and App Store Review State",
     "Areas/PHAROS/company",
+    "Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform",
+    "Areas/PHAROS/fantasycast-gay — Expo App",
     "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
     "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "Areas/PHAROS/if.switchboard — InfraFabric Product Center",
+    "Areas/PHAROS/micro1 — Data Licensing Opportunity (PHAROS)",
     "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "Areas/PHAROS/nexusos — Base44 App",
     "Areas/PHAROS/security-audit-plan",
     "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
     "Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s)",
@@ -480,12 +503,9 @@
     "PERPLEXITY-COMPUTER",
     "PHAROS Skill Corpus Change Genealogy — 2026-05-06",
     "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
-    "PUBLICATIONS MOC",
     "Philosopher",
     "Poiesis Poietics Poetics Praxis — Making and Action Distinctions",
     "Projects Hub",
-    "Publications/BOOKS/essay_identity_enforceable",
-    "Publications/Papers and Chapters/Rivard2026/Pourquoi rêver encore-@nalyses-REWRITE",
     "Queer Theory Foundations",
     "Recursive Governance Memo — EMERAULD Control Packet (2026-05-12)",
     "Research Hub",
@@ -851,6 +871,7 @@
     "graph/indexes/workflow-index",
     "graph/nodes/unmapped/archive_register_py",
     "graph/nodes/unmapped/aurora_product",
+    "graph/nodes/unmapped/auto_tagger_py",
     "graph/nodes/unmapped/broken_frequency_novel",
     "graph/nodes/unmapped/cloudflare_stack",
     "graph/nodes/unmapped/coequal_conflict_resolution_workflow",
@@ -858,33 +879,47 @@
     "graph/nodes/unmapped/content_to_market_pipeline_workflow",
     "graph/nodes/unmapped/dast_project",
     "graph/nodes/unmapped/echo_product",
+    "graph/nodes/unmapped/emerauld_intake_rule_workflow",
     "graph/nodes/unmapped/emerauld_vault",
     "graph/nodes/unmapped/enrich_frontmatter_backlinks_py",
     "graph/nodes/unmapped/gaia_product",
     "graph/nodes/unmapped/helix_product",
+    "graph/nodes/unmapped/hermes_dashboard_tool",
     "graph/nodes/unmapped/hexa_project",
+    "graph/nodes/unmapped/israel_lavoie",
     "graph/nodes/unmapped/jade",
     "graph/nodes/unmapped/l99_demotion_to_argus_decision",
+    "graph/nodes/unmapped/lightrag_config_py",
     "graph/nodes/unmapped/lotus_product",
     "graph/nodes/unmapped/martin_govern_ai_site",
     "graph/nodes/unmapped/martin_lepage",
+    "graph/nodes/unmapped/pa_mcp_server",
+    "graph/nodes/unmapped/pa_trismegiste_bundle",
     "graph/nodes/unmapped/patricia",
     "graph/nodes/unmapped/pharos",
     "graph/nodes/unmapped/pharos_newlook",
     "graph/nodes/unmapped/pharos_suite_repo",
+    "graph/nodes/unmapped/philosopher_right_arm",
     "graph/nodes/unmapped/post_launch_learning_loop_workflow",
+    "graph/nodes/unmapped/power_analyst_right_arm",
+    "graph/nodes/unmapped/raw_intake_dataset",
+    "graph/nodes/unmapped/raw_sources_dataset",
     "graph/nodes/unmapped/rdaig_manuscript",
     "graph/nodes/unmapped/recurso_framework",
     "graph/nodes/unmapped/resolve_orphans_py",
     "graph/nodes/unmapped/revenue_support_optimizer",
+    "graph/nodes/unmapped/right_arm_extension_decision",
     "graph/nodes/unmapped/scripto_dr_sort",
     "graph/nodes/unmapped/session_state_protocol_workflow",
     "graph/nodes/unmapped/session_state_registers_dataset",
+    "graph/nodes/unmapped/specialist_guideline_authority_decision",
     "graph/nodes/unmapped/spp_project",
     "graph/nodes/unmapped/three_agent_handoff_workflow",
     "graph/nodes/unmapped/vault_maintenance_pipeline_workflow",
     "graph/nodes/unmapped/vault_workflow",
+    "graph/nodes/unmapped/verify_and_hardmove_py",
     "graph/nodes/unmapped/vigil_gsk",
+    "graph/nodes/unmapped/wave2_gate_decision",
     "graph/nodes/unmapped/why_be_king_book",
     "graph/nodes/unmapped/wiki_corpus_dataset",
     "hephaistos/DEPLOYMENT-CHECKLIST",
@@ -903,7 +938,6 @@
     "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/method",
     "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/subjectivity",
     "hephaistos/personal-assistant-agents/demand-scout/SKILL",
-    "hephaistos/personal-assistant-agents/demand-scout/references/ecosystem",
     "hephaistos/personal-assistant-agents/demand-scout/references/evolution",
     "hephaistos/personal-assistant-agents/demand-scout/references/method",
     "hephaistos/personal-assistant-agents/demand-scout/references/subjectivity",
@@ -958,11 +992,6 @@
     "hephaistos/personal-assistant-agents/synthesis-editor/references/subjectivity",
     "hephaistos/personal-assistant-agents/trismegiste/README",
     "hephaistos/personal-assistant-agents/trismegiste/vault/CLAUDE",
-    "hephaistos/personal-assistant-agents/trismegiste/vault/raw/README",
-    "hephaistos/personal-assistant-agents/trismegiste/vault/skills/README",
-    "hephaistos/personal-assistant-agents/trismegiste/vault/skills/skill-synthesis",
-    "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/README",
-    "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/hub-projects",
     "lightrag_config — EMERAULD Shared Config Module",
     "maps/Novel Corpus Map",
     "maps/PHAROS Method Map",
@@ -1089,7 +1118,23 @@
     "projects/Second Brain — Fisher King Project State",
     "projects/Second Self — Fisher King Project State",
     "projects/Stuttering Machines — Fisher King Project State",
+    "projects/genealogie-lepage-deschenes/README",
+    "projects/genealogie-lepage-deschenes/arbre/dossier-fiabilisation-2026-07-05",
+    "projects/genealogie-lepage-deschenes/journal-recherche",
+    "projects/jade/README",
+    "projects/patent-workbench/CLAUDE_TASK",
+    "projects/patent-workbench/README",
+    "projects/products/pharos-governance-tools/AI_Source_Integrity_Field_Guide",
+    "projects/products/pharos-governance-tools/GUMROAD_HALLUCINATION_SCORECARD",
+    "projects/products/pharos-governance-tools/GUMROAD_SOURCE_INTEGRITY_GUIDE",
+    "projects/products/pharos-governance-tools/Hallucination_Risk_Scorecard_Methodology",
+    "projects/products/pharos-governance-tools/README",
     "projects/security-audit-skill/martin-governance/run-1/architecture",
+    "projects/security-audit-skill/multi-agent-orchestration/run-1/FINDINGS-DETAIL",
+    "projects/security-audit-skill/multi-agent-orchestration/run-1/REPORT",
+    "projects/security-audit-skill/multi-agent-orchestration/run-1/architecture",
+    "projects/security-audit-skill/multi-agent-orchestration/run-1/phase2-hunt-findings",
+    "projects/security-audit-skill/multi-agent-orchestration/run-1/phase3-validation",
     "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
     "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
     "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
@@ -1362,6 +1407,11 @@
     "trismegiste-state"
   ],
   [
+    "PUBLICATIONS MOC",
+    "Publications/BOOKS/essay_identity_enforceable",
+    "Publications/Papers and Chapters/Rivard2026/Pourquoi rêver encore-@nalyses-REWRITE"
+  ],
+  [
     "graph/nodes/unmapped/embed_py",
     "graph/nodes/unmapped/vector_store_system",
     "graph/nodes/unmapped/vsearch_py"
@@ -1370,11 +1420,6 @@
     "graph/nodes/unmapped/ingest_py",
     "graph/nodes/unmapped/lightrag_kg_system",
     "graph/nodes/unmapped/query_py"
-  ],
-  [
-    "graph/nodes/unmapped/raw_intake_dataset",
-    "graph/nodes/unmapped/raw_sources_dataset",
-    "graph/nodes/unmapped/verify_and_hardmove_py"
   ],
   [
     "graph/nodes/unmapped/build_wikilink_graph_py",
@@ -1419,93 +1464,99 @@
     "TEMPLATES MOC"
   ],
   [
-    "graph/nodes/unmapped/auto_tagger_py"
+    "hephaistos/personal-assistant-agents/demand-scout/references/ecosystem"
   ],
   [
-    "graph/nodes/unmapped/emerauld_intake_rule_workflow"
+    "hephaistos/personal-assistant-agents/trismegiste/vault/raw/README"
   ],
   [
-    "graph/nodes/unmapped/hermes_dashboard_tool"
+    "hephaistos/personal-assistant-agents/trismegiste/vault/skills/README"
   ],
   [
-    "graph/nodes/unmapped/israel_lavoie"
+    "hephaistos/personal-assistant-agents/trismegiste/vault/skills/skill-synthesis"
   ],
   [
-    "graph/nodes/unmapped/lightrag_config_py"
+    "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/README"
   ],
   [
-    "graph/nodes/unmapped/pa_mcp_server"
-  ],
-  [
-    "graph/nodes/unmapped/pa_trismegiste_bundle"
-  ],
-  [
-    "graph/nodes/unmapped/philosopher_right_arm"
-  ],
-  [
-    "graph/nodes/unmapped/power_analyst_right_arm"
-  ],
-  [
-    "graph/nodes/unmapped/right_arm_extension_decision"
-  ],
-  [
-    "graph/nodes/unmapped/specialist_guideline_authority_decision"
-  ],
-  [
-    "graph/nodes/unmapped/wave2_gate_decision"
+    "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/hub-projects"
   ],
   [
     "projects/DOMAIN"
   ],
   [
-    "projects/genealogie-lepage-deschenes/README"
-  ],
-  [
-    "projects/genealogie-lepage-deschenes/arbre/dossier-fiabilisation-2026-07-05"
-  ],
-  [
-    "projects/genealogie-lepage-deschenes/journal-recherche"
-  ],
-  [
     "projects/jade/.pytest_cache/README"
   ],
   [
-    "projects/jade/README"
+    "projects/micro1/4164-pharos-micro1-operational-data-licensing-blackboard-iftrace-assessment-2026-06-08"
   ],
   [
-    "projects/patent-workbench/CLAUDE_TASK"
+    "projects/micro1/4166-pharos-micro1-missing-workstreams-entanglement-ip-and-methodology-risk-2026-06-08"
   ],
   [
-    "projects/patent-workbench/README"
+    "projects/micro1/4167-pharos-micro1-qualification-call-posture-and-reply-draft-2026-06-08"
   ],
   [
-    "projects/products/pharos-governance-tools/AI_Source_Integrity_Field_Guide"
+    "projects/micro1/4168-pharos-micro1-qualification-call-posture-v2-trading-names-and-deal-guardrails-2026-06-08"
   ],
   [
-    "projects/products/pharos-governance-tools/GUMROAD_HALLUCINATION_SCORECARD"
+    "projects/micro1/4169-pharos-micro1-blackboard-signals-licensability-audit-v1-no-iftrace-2026-06-09"
   ],
   [
-    "projects/products/pharos-governance-tools/GUMROAD_SOURCE_INTEGRITY_GUIDE"
+    "projects/micro1/4170-legipro-data-licensing-jade-all-in-one-autocomplete-conveyor-corpus-explainer-2026-06-09"
   ],
   [
-    "projects/products/pharos-governance-tools/Hallucination_Risk_Scorecard_Methodology"
+    "projects/micro1/4391-internal-micro1prep/4391-infrafabric-blackboard-micro1-explainer-2026-06"
   ],
   [
-    "projects/products/pharos-governance-tools/README"
+    "projects/micro1/4391-internal-micro1prep/4392-infrafabric-blackboard-session-crossref-2026-06"
   ],
   [
-    "projects/security-audit-skill/multi-agent-orchestration/run-1/FINDINGS-DETAIL"
+    "projects/micro1/README"
   ],
   [
-    "projects/security-audit-skill/multi-agent-orchestration/run-1/REPORT"
+    "projects/micro1/camilo-meeting-brief-2026-06-15"
   ],
   [
-    "projects/security-audit-skill/multi-agent-orchestration/run-1/architecture"
+    "projects/micro1/camilo-meeting-cheat-sheet"
   ],
   [
-    "projects/security-audit-skill/multi-agent-orchestration/run-1/phase2-hunt-findings"
+    "projects/micro1/docs/4391-infrafabric-blackboard-micro1-explainer-2026-06"
   ],
   [
-    "projects/security-audit-skill/multi-agent-orchestration/run-1/phase3-validation"
+    "projects/micro1/docs/4392-infrafabric-blackboard-session-crossref-2026-06"
+  ],
+  [
+    "projects/micro1/docs/index"
+  ],
+  [
+    "projects/micro1/docs/pharos-micro1-call-posture-script"
+  ],
+  [
+    "projects/micro1/docs/pharos-micro1-data-dictionary"
+  ],
+  [
+    "projects/micro1/docs/pharos-micro1-domain-map"
+  ],
+  [
+    "projects/micro1/docs/pharos-micro1-main-explainer"
+  ],
+  [
+    "projects/micro1/docs/pharos-micro1-one-pager"
+  ],
+  [
+    "projects/micro1/docs/pharos-micro1-pilot-proposal"
+  ],
+  [
+    "projects/micro1/pharos-micro1-data-operations-one-pager"
+  ],
+  [
+    "projects/micro1/pharos-micro1-executive-summary-2026-06-17"
+  ],
+  [
+    "projects/micro1/pharos-micro1-response-email"
+  ],
+  [
+    "projects/micro1/pharos_micro1_assessment"
   ]
 ]

@@ -27,3 +27,10 @@ backlinks:
 
 - [[hephaistos/agents/GADGET Frontier Scout External Integration Agent]]
 - [[hephaistos/agents/Trismegiste Personal AI Assistant]]
+
+## Ledger and live rulings (2026-07-08 sync)
+
+- [[Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger]]
+- [[Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline]]
+- [[Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report]] (closes the Phase 1–7 series)
+- [[Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)]]

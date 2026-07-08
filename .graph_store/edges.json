@@ -776,18 +776,53 @@
   },
   {
     "source": "Areas/Lavoie/AREA",
-    "target": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
+    "target": "Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)",
     "count": 1
   },
   {
     "source": "Areas/Lavoie/AREA",
+    "target": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
+    "count": 2
+  },
+  {
+    "source": "Areas/Lavoie/AREA",
     "target": "Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "count": 2
+  },
+  {
+    "source": "Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)",
+    "target": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
+    "count": 1
+  },
+  {
+    "source": "Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)",
+    "target": "Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)",
+    "target": "Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "count": 1
+  },
+  {
+    "source": "Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)",
+    "target": "Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)",
+    "target": "Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule",
     "count": 1
   },
   {
     "source": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
     "target": "Areas/Lavoie/AREA",
     "count": 4
+  },
+  {
+    "source": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
+    "target": "Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)",
+    "count": 1
   },
   {
     "source": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
@@ -815,6 +850,31 @@
     "count": 2
   },
   {
+    "source": "Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)",
+    "target": "Areas/Lavoie/AREA",
+    "count": 1
+  },
+  {
+    "source": "Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)",
+    "target": "Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)",
+    "target": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
+    "count": 1
+  },
+  {
+    "source": "Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)",
+    "target": "Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)",
+    "target": "Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule",
+    "count": 1
+  },
+  {
     "source": "Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan",
     "target": "Areas/Lavoie/AREA",
     "count": 2
@@ -832,6 +892,26 @@
   {
     "source": "Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan",
     "target": "Master Project Tracker — 2026",
+    "count": 1
+  },
+  {
+    "source": "Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)",
+    "target": "Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)",
+    "count": 2
+  },
+  {
+    "source": "Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)",
+    "target": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
+    "count": 1
+  },
+  {
+    "source": "Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)",
+    "target": "Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)",
+    "target": "Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan",
     "count": 1
   },
   {
@@ -1870,6 +1950,16 @@
     "count": 2
   },
   {
+    "source": "Areas/PHAROS/Agent Collab Session — Vault Assessment Council (Historical)",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agent Collab Session — Vault Assessment Council (Historical)",
+    "target": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
+    "count": 2
+  },
+  {
     "source": "Areas/PHAROS/Agent Distillation Pipeline",
     "target": "Areas/PHAROS/Host Environment — pharos-corpus-runner-01",
     "count": 3
@@ -1948,6 +2038,41 @@
     "source": "Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
     "target": "archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
     "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agent Protocol — Working With Martin",
+    "target": "Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agent Protocol — Working With Martin",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agent Protocol — Working With Martin",
+    "target": "Areas/PHAROS/PHAROS Method — Core Framework",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agent Protocol — Working With Martin",
+    "target": "Areas/PHAROS/Trismégiste — Personal AI Assistant",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agent Scaffolds — ~agents vs .claude-agents Distinction",
+    "target": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agent Scaffolds — ~agents vs .claude-agents Distinction",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agent Scaffolds — ~agents vs .claude-agents Distinction",
+    "target": "Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026)",
+    "count": 2
   },
   {
     "source": "Areas/PHAROS/Agent Session Phenomenology",
@@ -2391,6 +2516,31 @@
   },
   {
     "source": "Areas/PHAROS/CLIENT ACCOUNTS",
+    "target": "Areas/Lavoie/AREA",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/CLIENT ACCOUNTS",
+    "target": "Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/CLIENT ACCOUNTS",
+    "target": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/CLIENT ACCOUNTS",
+    "target": "Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/CLIENT ACCOUNTS",
+    "target": "Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/CLIENT ACCOUNTS",
     "target": "memory/clients/ExterminationDG",
     "count": 1
   },
@@ -2402,7 +2552,7 @@
   {
     "source": "Areas/PHAROS/CLIENT ACCOUNTS",
     "target": "memory/clients/Lavoie Construct",
-    "count": 4
+    "count": 3
   },
   {
     "source": "Areas/PHAROS/CLIENT ACCOUNTS",
@@ -2822,6 +2972,31 @@
   {
     "source": "Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior",
     "target": "archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)",
+    "target": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)",
+    "target": "Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)",
+    "target": "Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger",
     "count": 2
   },
   {
@@ -4831,6 +5006,21 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/Agent Collab Session — Vault Assessment Council (Historical)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/Agent Protocol — Working With Martin",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/Agent Scaffolds — ~agents vs .claude-agents Distinction",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/Agent Session Phenomenology",
     "count": 2
   },
@@ -4882,6 +5072,11 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)",
     "count": 1
   },
   {
@@ -5011,12 +5206,22 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)",
     "count": 1
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)",
     "count": 1
   },
   {
@@ -5033,6 +5238,11 @@
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
     "count": 5
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report",
+    "count": 1
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
@@ -5081,6 +5291,11 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/Jade — Name Disambiguation",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification",
     "count": 1
   },
@@ -5092,6 +5307,11 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/LOTUS Premium Spec",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/Law 25 ADM — Practitioner Brief",
     "count": 1
   },
   {
@@ -5122,6 +5342,11 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)",
     "count": 1
   },
   {
@@ -5291,6 +5516,11 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/RIA-CODEX — System Audit Protocol",
     "count": 1
   },
@@ -5326,6 +5556,11 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/Reflexive Inhabitation Audit — Built App",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/Reflexive Inhabitation Audit — Prompt",
     "count": 2
   },
@@ -5342,6 +5577,11 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline",
     "count": 1
   },
   {
@@ -5396,7 +5636,17 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/micro1 — Data Licensing Opportunity (PHAROS)",
     "count": 1
   },
   {
@@ -6615,6 +6865,26 @@
     "count": 1
   },
   {
+    "source": "Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06)",
+    "target": "Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06)",
+    "target": "Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06)",
+    "target": "Areas/PHAROS/PHAROS Cross-AI Strategy Matrix",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06)",
+    "target": "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration",
+    "count": 1
+  },
+  {
     "source": "Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
@@ -6868,6 +7138,21 @@
     "source": "Areas/PHAROS/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
     "target": "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION",
     "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)",
+    "target": "Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)",
+    "target": "Areas/PHAROS/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "count": 5
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)",
+    "target": "Governance Stress-Test Protocols — Index",
+    "count": 1
   },
   {
     "source": "Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06",
@@ -7492,6 +7777,26 @@
   {
     "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
     "target": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report",
+    "target": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report",
+    "target": "Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report",
+    "target": "Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline",
     "count": 1
   },
   {
@@ -8250,6 +8555,16 @@
     "count": 1
   },
   {
+    "source": "Areas/PHAROS/Jade — Name Disambiguation",
+    "target": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Jade — Name Disambiguation",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
     "source": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework",
     "target": "AI Infrastructure Stack",
     "count": 2
@@ -8478,6 +8793,21 @@
     "source": "Areas/PHAROS/LOTUS Premium Spec",
     "target": "MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS",
     "count": 4
+  },
+  {
+    "source": "Areas/PHAROS/Law 25 ADM — Practitioner Brief",
+    "target": "Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Law 25 ADM — Practitioner Brief",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Law 25 ADM — Practitioner Brief",
+    "target": "Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)",
+    "count": 2
   },
   {
     "source": "Areas/PHAROS/MCP and Runtime Integration MOC",
@@ -8882,6 +9212,21 @@
   {
     "source": "Areas/PHAROS/Martin Lepage — Professional Profile",
     "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App",
+    "target": "Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App",
+    "target": "Areas/PHAROS/PHAROS Product Stack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App",
+    "target": "Areas/PHAROS/fantasycast-gay — Expo App",
     "count": 1
   },
   {
@@ -9383,6 +9728,26 @@
     "source": "Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS",
     "target": "Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture",
     "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)",
+    "target": "Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06)",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)",
+    "target": "Areas/PHAROS/PHAROS Cross-AI Strategy Matrix",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)",
+    "target": "Areas/PHAROS/Trismégiste — Operator State",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)",
+    "target": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "count": 1
   },
   {
     "source": "Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt",
@@ -10761,6 +11126,11 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS Product Stack",
+    "target": "Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Product Stack",
     "target": "Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)",
     "count": 1
   },
@@ -10777,6 +11147,26 @@
   {
     "source": "Areas/PHAROS/PHAROS Product Stack",
     "target": "Areas/PHAROS/PHAROS Scholarly Publication Track",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Product Stack",
+    "target": "Areas/PHAROS/clearday — Mobile App and App Store Review State",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Product Stack",
+    "target": "Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Product Stack",
+    "target": "Areas/PHAROS/fantasycast-gay — Expo App",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Product Stack",
+    "target": "Areas/PHAROS/nexusos — Base44 App",
     "count": 1
   },
   {
@@ -12030,6 +12420,26 @@
     "count": 1
   },
   {
+    "source": "Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger",
+    "target": "Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger",
+    "target": "Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline",
+    "count": 1
+  },
+  {
     "source": "Areas/PHAROS/RIA-CODEX — System Audit Protocol",
     "target": "Areas/PHAROS/Argus",
     "count": 4
@@ -12375,6 +12785,26 @@
     "count": 2
   },
   {
+    "source": "Areas/PHAROS/Reflexive Inhabitation Audit — Built App",
+    "target": "Areas/PHAROS/PHAROS Product Stack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Reflexive Inhabitation Audit — Built App",
+    "target": "Areas/PHAROS/RIA-CODEX — System Audit Protocol",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Reflexive Inhabitation Audit — Built App",
+    "target": "Areas/PHAROS/Reflexive Inhabitation Audit — Prompt",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Reflexive Inhabitation Audit — Built App",
+    "target": "Areas/PHAROS/fantasycast-gay — Expo App",
+    "count": 1
+  },
+  {
     "source": "Areas/PHAROS/Reflexive Inhabitation Audit — Prompt",
     "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
@@ -12517,6 +12947,26 @@
   {
     "source": "Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
     "target": "governance/hephaistos/SPECIALIST-GUIDELINE-AUTHORITY",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline",
+    "target": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline",
+    "target": "Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline",
+    "target": "Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger",
     "count": 1
   },
   {
@@ -15435,6 +15885,31 @@
     "count": 2
   },
   {
+    "source": "Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation",
+    "target": "Areas/PHAROS/Agent Distillation Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation",
+    "target": "Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation",
+    "target": "Areas/PHAROS/PHAROS Product Stack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation",
+    "target": "Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation",
+    "target": "Areas/PHAROS/nexusos — Base44 App",
+    "count": 1
+  },
+  {
     "source": "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
@@ -15515,6 +15990,56 @@
     "count": 2
   },
   {
+    "source": "Areas/PHAROS/clearday — Mobile App and App Store Review State",
+    "target": "Areas/PHAROS/PHAROS Product Stack",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/clearday — Mobile App and App Store Review State",
+    "target": "Areas/Personal/Personal and Projects MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform",
+    "target": "Areas/PHAROS/AurorA — COMPASSai Input Module",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform",
+    "target": "Areas/PHAROS/PHAROS Product Stack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform",
+    "target": "Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform",
+    "target": "Areas/PHAROS/nexusos — Base44 App",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/fantasycast-gay — Expo App",
+    "target": "Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/fantasycast-gay — Expo App",
+    "target": "Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/fantasycast-gay — Expo App",
+    "target": "Areas/PHAROS/PHAROS Product Stack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/fantasycast-gay — Expo App",
+    "target": "Areas/PHAROS/Reflexive Inhabitation Audit — Built App",
+    "count": 1
+  },
+  {
     "source": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
@@ -15590,6 +16115,21 @@
     "count": 3
   },
   {
+    "source": "Areas/PHAROS/micro1 — Data Licensing Opportunity (PHAROS)",
+    "target": "Areas/PHAROS/COMPASSai — Governance Engine",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/micro1 — Data Licensing Opportunity (PHAROS)",
+    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/micro1 — Data Licensing Opportunity (PHAROS)",
+    "target": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 2
+  },
+  {
     "source": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
     "target": "Areas/PHAROS/Argus",
     "count": 3
@@ -15628,6 +16168,26 @@
     "source": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
     "target": "adr/0001-skill-acquisition-strategy",
     "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/nexusos — Base44 App",
+    "target": "Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/nexusos — Base44 App",
+    "target": "Areas/PHAROS/PHAROS Product Stack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/nexusos — Base44 App",
+    "target": "Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/nexusos — Base44 App",
+    "target": "Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform",
+    "count": 1
   },
   {
     "source": "Areas/PHAROS/security-audit-plan",
@@ -15941,6 +16501,11 @@
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
     "target": "Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill",
     "count": 1
   },
@@ -16087,6 +16652,11 @@
   {
     "source": "Areas/Personal/Personal and Projects MOC",
     "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "Areas/PHAROS/clearday — Mobile App and App Store Review State",
     "count": 1
   },
   {
@@ -30271,6 +30841,11 @@
   },
   {
     "source": "Governance Stress-Test Protocols — Index",
+    "target": "Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)",
+    "count": 1
+  },
+  {
+    "source": "Governance Stress-Test Protocols — Index",
     "target": "Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
     "count": 1
   },
@@ -30342,6 +30917,26 @@
   {
     "source": "Governance Stress-Test Protocols — Index",
     "target": "archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)",
+    "count": 1
+  },
+  {
+    "source": "HEPHAISTOS MOC",
+    "target": "Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)",
+    "count": 1
+  },
+  {
+    "source": "HEPHAISTOS MOC",
+    "target": "Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report",
+    "count": 1
+  },
+  {
+    "source": "HEPHAISTOS MOC",
+    "target": "Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger",
+    "count": 1
+  },
+  {
+    "source": "HEPHAISTOS MOC",
+    "target": "Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline",
     "count": 1
   },
   {
@@ -33851,251 +34446,6 @@
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "Home",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/00_PROJECT_CONTROL/CLAIM_REGISTER",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/00_PROJECT_CONTROL/JOURNAL_GUIDELINES",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/00_PROJECT_CONTROL/MODEL_HANDOFF_LOG",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/00_PROJECT_CONTROL/PROJECT_BRIEF",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/00_PROJECT_CONTROL/SECTION_PLAN",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/00_PROJECT_CONTROL/STYLE_RULES",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/01_RAW_MATERIALS/MATERIALS_INVENTORY",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/01_RAW_MATERIALS/README",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/01_RAW_MATERIALS/UNCERTAINTY_REGISTER",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/02_SOURCE_FIELD/ADJACENT_LITERATURES",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/02_SOURCE_FIELD/CANONICAL_WORKS",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/02_SOURCE_FIELD/REFERENCE_TREE",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/02_SOURCE_FIELD/SOURCE_GAPS",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/02_SOURCE_FIELD/SOURCE_MATRIX",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/ABSTRACT_REVISED_AFTER_BODY",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/ABSTRACT_V1",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/OUTLINE_REVIEW",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/OUTLINE_V1",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/04_RESEARCH_BUNDLE/CITATION_CANDIDATES",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/04_RESEARCH_BUNDLE/CLAIM_TO_SOURCE_MAP",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/04_RESEARCH_BUNDLE/DEEP_RESEARCH",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/04_RESEARCH_BUNDLE/METHOD_AND_CORPUS_NOTES",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/04_RESEARCH_BUNDLE/PAGE_NUMBER_TRACKER",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/05_SECTION_DRAFTS/01_BACKGROUND_CONTEXT",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/05_SECTION_DRAFTS/02_LITERATURE_REVIEW",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/05_SECTION_DRAFTS/03_CONCEPTUAL_FRAMEWORK",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/05_SECTION_DRAFTS/04_ANALYSIS_FINDINGS",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/05_SECTION_DRAFTS/05_DISCUSSION",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/05_SECTION_DRAFTS/06_CONCLUSION",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/05_SECTION_DRAFTS/07_INTRODUCTION",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/05_SECTION_DRAFTS/08_ABSTRACT_FINAL",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/06_VALIDATION/CITATION_AUDIT",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/06_VALIDATION/CLAIM_AUDIT",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/06_VALIDATION/FINAL_RISK_REGISTER",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/06_VALIDATION/JOURNAL_CONFORMITY_AUDIT",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/06_VALIDATION/PEER_REVIEW_STRESS_TEST",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/06_VALIDATION/REFERENCE_LIST_AUDIT",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/07_FINAL_OUTPUTS/ABSTRACT_FINAL",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/07_FINAL_OUTPUTS/AUTHOR_BIO",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/07_FINAL_OUTPUTS/COVER_LETTER",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/07_FINAL_OUTPUTS/KEYWORDS",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/07_FINAL_OUTPUTS/SUBMISSION_CHECKLIST",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/NODE_INSTRUCTIONS",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/PROJECT_INSTRUCTION",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PEER-REVIEW/README",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "Publications/BOOKS/essay_identity_enforceable",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "Publications/Papers and Chapters/Rivard2026/Pourquoi rêver encore-@nalyses-REWRITE",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "VAULT ADDITIONS TRACKER",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "target": "archive/Ethical Ground Values",
     "count": 1
   },
@@ -34251,62 +34601,232 @@
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/wiki-2026-07-08/2026 - Mauss - The Gift",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "target": "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION",
     "count": 1
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "hephaistos/agents/GADGET Frontier Scout External Integration Agent",
+    "target": "graph/nodes/unmapped/aurora_product",
     "count": 1
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "hephaistos/agents/Trismegiste Personal AI Assistant",
+    "target": "graph/nodes/unmapped/auto_tagger_py",
     "count": 1
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "memory",
+    "target": "graph/nodes/unmapped/compassai",
     "count": 1
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_alayaflow-alayacare",
+    "target": "graph/nodes/unmapped/content_to_market_pipeline_workflow",
     "count": 1
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "memory/daily/2026-06-27",
+    "target": "graph/nodes/unmapped/emerauld_intake_rule_workflow",
     "count": 1
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "memory/daily/2026-06-28",
+    "target": "graph/nodes/unmapped/emerauld_vault",
     "count": 1
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "memory/daily/2026-06-30",
+    "target": "graph/nodes/unmapped/gaia_product",
     "count": 1
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "memory/daily/2026-07-01",
+    "target": "graph/nodes/unmapped/helix_product",
     "count": 1
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "session-state",
+    "target": "graph/nodes/unmapped/hermes_dashboard_tool",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/israel_lavoie",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/jade",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/lightrag_config_py",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/pa_mcp_server",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/pa_trismegiste_bundle",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/pharos",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/philosopher_right_arm",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/power_analyst_right_arm",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/raw_intake_dataset",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/raw_sources_dataset",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/rdaig_manuscript",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/right_arm_extension_decision",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/session_state_protocol_workflow",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/specialist_guideline_authority_decision",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/three_agent_handoff_workflow",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/vault_maintenance_pipeline_workflow",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/vault_workflow",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graph/nodes/unmapped/wave2_gate_decision",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "memory/daily/2026-07-02",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "memory/daily/2026-07-03",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/genealogie-lepage-deschenes/arbre/dossier-fiabilisation-2026-07-05",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/genealogie-lepage-deschenes/journal-recherche",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/jade/README",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/patent-workbench/CLAUDE_TASK",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/patent-workbench/README",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/products/pharos-governance-tools/AI_Source_Integrity_Field_Guide",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/products/pharos-governance-tools/GUMROAD_HALLUCINATION_SCORECARD",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/products/pharos-governance-tools/GUMROAD_SOURCE_INTEGRITY_GUIDE",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/products/pharos-governance-tools/Hallucination_Risk_Scorecard_Methodology",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/products/pharos-governance-tools/README",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/security-audit-skill/multi-agent-orchestration/run-1/FINDINGS-DETAIL",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/security-audit-skill/multi-agent-orchestration/run-1/REPORT",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/security-audit-skill/multi-agent-orchestration/run-1/architecture",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/security-audit-skill/multi-agent-orchestration/run-1/phase2-hunt-findings",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/security-audit-skill/multi-agent-orchestration/run-1/phase3-validation",
     "count": 1
   },
   {
@@ -37680,6 +38200,11 @@
     "count": 1
   },
   {
+    "source": "Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)",
+    "target": "archive/wiki-2026-07-08/2026 - Mauss - The Gift",
+    "count": 1
+  },
+  {
     "source": "Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)",
     "target": "AI Identity and Phenomenology",
     "count": 1
@@ -38108,11 +38633,6 @@
     "source": "Root Loose Notes Cluster Map — 2026-05-06",
     "target": "archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06",
     "count": 2
-  },
-  {
-    "source": "Root Loose Notes Cluster Map — 2026-05-06",
-    "target": "genealogy/test",
-    "count": 1
   },
   {
     "source": "September 2024 Research Retrospective",
@@ -39641,32 +40161,12 @@
   },
   {
     "source": "Wiki MOC",
-    "target": "Home",
-    "count": 1
-  },
-  {
-    "source": "Wiki MOC",
-    "target": "VAULT ADDITIONS TRACKER",
-    "count": 1
-  },
-  {
-    "source": "Wiki MOC",
     "target": "archive/wiki-2026-07-08/2026 - Mauss - The Gift",
     "count": 1
   },
   {
     "source": "Wiki MOC",
     "target": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
-    "count": 1
-  },
-  {
-    "source": "Wiki MOC",
-    "target": "memory",
-    "count": 1
-  },
-  {
-    "source": "Wiki MOC",
-    "target": "session-state",
     "count": 1
   },
   {
@@ -40186,16 +40686,6 @@
   },
   {
     "source": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
-    "target": "genealogy/Martin Voice Spec — Stage Map",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
-    "target": "genealogy/Martin Voice Spec — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
     "target": "governance/decision-index",
     "count": 1
   },
@@ -40507,341 +40997,6 @@
   {
     "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
     "target": "hephaistos/hq-disagreement-test-case",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/README",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/content-inventory-cartographer/SKILL",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/evolution",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/method",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/subjectivity",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/demand-scout/SKILL",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/demand-scout/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/demand-scout/references/evolution",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/demand-scout/references/method",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/demand-scout/references/subjectivity",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/SKILL",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/evolution",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/method",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/subjectivity",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/intake-triager/SKILL",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/intake-triager/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/intake-triager/references/evolution",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/intake-triager/references/method",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/intake-triager/references/subjectivity",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/listing-creative-director/SKILL",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/listing-creative-director/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/listing-creative-director/references/evolution",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/listing-creative-director/references/method",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/listing-creative-director/references/subjectivity",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/marketplace-dispatcher/SKILL",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/evolution",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/method",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/subjectivity",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/metadata-link-warden/SKILL",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/metadata-link-warden/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/metadata-link-warden/references/evolution",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/metadata-link-warden/references/method",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/metadata-link-warden/references/subjectivity",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/offer-pricing-architect/SKILL",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/offer-pricing-architect/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/offer-pricing-architect/references/evolution",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/offer-pricing-architect/references/method",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/offer-pricing-architect/references/subjectivity",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/raw-archivist/SKILL",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/raw-archivist/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/raw-archivist/references/evolution",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/raw-archivist/references/method",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/raw-archivist/references/subjectivity",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/revenue-support-optimizer/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/revenue-support-optimizer/references/evolution",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/revenue-support-optimizer/references/method",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/revenue-support-optimizer/references/subjectivity",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/rights-policy-warden/SKILL",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/rights-policy-warden/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/rights-policy-warden/references/evolution",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/rights-policy-warden/references/method",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/rights-policy-warden/references/subjectivity",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/synthesis-editor/SKILL",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/synthesis-editor/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/synthesis-editor/references/evolution",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/synthesis-editor/references/method",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/synthesis-editor/references/subjectivity",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/trismegiste/README",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/trismegiste/vault/CLAUDE",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/trismegiste/vault/raw/README",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/trismegiste/vault/skills/README",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/trismegiste/vault/skills/skill-synthesis",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/README",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "target": "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/hub-projects",
     "count": 1
   },
   {
@@ -42162,7 +42317,7 @@
   {
     "source": "archive/session-state/session-state-003",
     "target": "AI Infrastructure Stack",
-    "count": 5
+    "count": 3
   },
   {
     "source": "archive/session-state/session-state-003",
@@ -42582,11 +42737,6 @@
   {
     "source": "archive/session-state/session-state-003",
     "target": "Master Project Tracker — 2026",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-003",
-    "target": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "count": 1
   },
   {
@@ -59156,21 +59306,6 @@
   },
   {
     "source": "memory/agents/Events",
-    "target": "Architecture - EMERAULD Scripts - Intake Pipeline",
-    "count": 1
-  },
-  {
-    "source": "memory/agents/Events",
-    "target": "Architecture - EMERAULD Scripts - Key Decisions",
-    "count": 1
-  },
-  {
-    "source": "memory/agents/Events",
-    "target": "Architecture - EMERAULD Scripts - Overview",
-    "count": 1
-  },
-  {
-    "source": "memory/agents/Events",
     "target": "Areas/PHAROS/Agent Session Phenomenology",
     "count": 1
   },
@@ -59847,6 +59982,16 @@
   {
     "source": "memory/clients/Lavoie",
     "target": "memory/daily/2026-04-19",
+    "count": 1
+  },
+  {
+    "source": "memory/clients/Lavoie Construct",
+    "target": "Areas/Lavoie/AREA",
+    "count": 1
+  },
+  {
+    "source": "memory/clients/Lavoie Construct",
+    "target": "Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)",
     "count": 1
   },
   {
@@ -61347,11 +61492,6 @@
   {
     "source": "memory/daily/2026-06-29",
     "target": "VAULT ADDITIONS TRACKER",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-06-29",
-    "target": "WIKI-ROUTING-REPORT",
     "count": 1
   },
   {

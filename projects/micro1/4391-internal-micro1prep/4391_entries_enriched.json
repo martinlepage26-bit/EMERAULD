@@ -1,0 +1,395 @@
+{
+  "IF-3477": {
+    "task": "Build an integrated InfraFabric/Blackboard business plan covering Blackboard as the wedge plus adjacent services (if.context, if.optimise, if.rook, if.gov, if.api)",
+    "acceptance": "External-facing business plan artifact, evidence-anchored, claims ledger, dogfood report, marketplace submission pack",
+    "result": "Completed IF-3482 friction fix slice. Market intelligence sprint delivered ICP/buyer pain, competitor/pricing, why-now/regulatory evidence packs. External business plan v1.1 created at 3503-infrafabric-blackboard-external-business-plan. Consolidated GTM pack v1.0 published. Dogfood-driven CLI improvements landed. Blackboard UI receipt spine updated. Claim record states design partners, revenue, and live customer claims are not yet present.",
+    "traps": [
+      "Directus sync loop: /etc/systemd/system/if-blackboard-directus-sync.path had both PathExists and PathChanged for the same blackboard JSONL \u2014 this triggered a sync on every blackboard write, creating a CPU feedback loop. Fix: remove PathExists, keep only PathChanged.",
+      "Codex MCP schema will not hot-reload new tool until a future client/session restarts \u2014 cannot add a tool mid-session.",
+      "agent-resume-packet default content_sha256 was empty until checkpoint_seq=1 was explicitly appended after closeout smoke.",
+      "Claims ledger guard: business plan language must say \"not yet claimed\" for design partners, revenue, live customers \u2014 boarding without that guard inflates the sales pitch beyond evidence."
+    ],
+    "n_checkpoints": 27
+  },
+  "IF-3433": {
+    "task": "PHAROS corpus swarm: run 100+ parallel Codex agents across isolated git worktrees via Hermes kanban, close 5 quality lanes across the InfraFabric codebase",
+    "acceptance": "All 5 quality lanes shipped: signature enforce, alias honesty sweep, session auto-close, stale-task digest hygiene, bounded harness-first",
+    "result": "Shipped: Lane 1 (signature enforce on signals index), Lane 3 (legacy alias honesty sweep), Lane 4 (session auto-close + stale-task digest hygiene), Lane 5 (bounded harness-first). Lane 2 suspended when two-remote git failure hit (Forgejo timing out while GitHub succeeded). Clean handoff packet produced for lane 2 resume.",
+    "traps": [
+      "Two-remote git failure: Forgejo timed out during push while GitHub succeeded \u2014 agent correctly suspended rather than force-resolving. Lane 2 handoff documented the exact failure state.",
+      "Isolated worktrees required explicit cleanup \u2014 stale worktrees from crashed agents can accumulate and fill disk."
+    ],
+    "n_checkpoints": 1
+  },
+  "IF-3211": {
+    "task": "Design a Rook-native multi-agent autonomous development control plane: agents as first-class principals with switchboard routing, blackboard task ownership, and if.chat for real-time coordination",
+    "acceptance": "RFC identifying failure modes of shared task queue; switchboard seat model for agents; identity-bound task ownership",
+    "result": "Control plane RFC produced. Identified 6 failure modes that occur when agents share a single task queue without principal binding. Switchboard seat model specified. Live seat liveness monitoring detected seat_liveness_lost_utc events for claims_boundary endpoint and recovered via re-register.",
+    "traps": [
+      "Seat liveness lost fires when an agent crashes without explicit unregister \u2014 the trap is that cleanup logic must handle both graceful and ungraceful exits or the registry fills with ghost seats.",
+      "SIP-style routing requires each agent to maintain its own heartbeat; any network partition causes false liveness loss."
+    ],
+    "n_checkpoints": 109
+  },
+  "IF-3826": {
+    "task": "Add Section 4.3 (philosophical architecture justification) to the if.security full explainer doc 688, without touching any surrounding content",
+    "acceptance": "Section 4.3 present, section numbers unchanged, lint passes, no scope creep into adjacent sections",
+    "result": "Section 4.3 added to /root/docs/688-if-security-full-explainer-v1.0. Section numbering verified before and after. Lint gate passed. Zero changes to sections 4.1, 4.2, or 4.4+. Patch applied to if_cli/cli.py and scripts/if_cli.py simultaneously.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-3470": {
+    "task": "Diagnose and safely relieve memory pressure on mtl-01 host; identify root cause of high memory usage and fix without disrupting running sessions",
+    "acceptance": "Root cause identified; pressure relieved; fix verified stable across 3 real blackboard writes; no running sessions killed",
+    "result": "Initial hypothesis (Redis pressure) falsified. VS Code Remote fileWatcher was primary pressure source (~310 MB RSS vs Redis ~138 MB RSS). Systemd path unit bug found: PathExists + PathChanged on same JSONL triggered a Directus sync on every blackboard write (CPU feedback loop). Fixed by removing PathExists. Verified: 3 real blackboard writes \u2192 exactly 1 sync run \u2192 service returned to idle. VS Code focused workspaces created to reduce watcher scope.",
+    "traps": [
+      "Killing stale VS Code session-10285 also dropped the live VS Code server tree the resumed Codex session depended on \u2014 never kill by session ID without verifying all dependents.",
+      "Safe-rg wrapper on this host rewrites rg -n calls \u2014 use python probes for absolute-path checks instead.",
+      "Systemd PathExists + PathChanged on the same path is a trigger-on-write loop \u2014 one or the other, never both for the same file."
+    ],
+    "n_checkpoints": 10
+  },
+  "IF-1679": {
+    "task": "Compliance-grade audit hardening for if.rook: build file integrity scripts, session snapshot redaction, compliance probe runner, decision provenance tracer. Include heart/drone case study.",
+    "acceptance": "Four scripts delivered; compliance probe runnable; decision chain auditable end-to-end; heart/drone case study verified",
+    "result": "Delivered: scripts/if_file_integrity.py, if_rook_redact_shell_snapshot.py, if_rook_compliance_probe.py, if_rook_decision_provenance.py. Heart/drone case study: decision chain traced from Slack input through if.bus \u2192 if.rook \u2192 if.gov \u2192 physical actuation path. Compliance probe output shows FAIL until legacy unsigned signal records are remediated.",
+    "traps": [
+      "Compliance probe remains FAIL until legacy unsigned signal records are remediated or a cutoff policy is adopted \u2014 shipping the probe revealed pre-existing non-compliance that was previously invisible.",
+      "Decision provenance tracer requires exact session ID; using the wrong session silently returns an empty chain rather than erroring."
+    ],
+    "n_checkpoints": 1
+  },
+  "IF-1732": {
+    "task": "Triple red-team of if.rook docs 493/494: run ShadowRT (formal if.gov triage), ethical adversarial lane, and no-constraint adversarial lane simultaneously, then cross-rebuttal and synthesis",
+    "acceptance": "Three independent red-team lanes run; cross-rebuttal documented; only findings surviving all three lanes confirmed",
+    "result": "Three lanes executed in parallel against docs 493/494: (A) if.gov triage+extended+jester, (B) ethical adversarial, (C) unconstrained adversarial. Cross-rebuttal revealed: lanes A and B converged on 3 shared findings; lane C found 2 additional attack vectors not visible to the other lanes. Only findings confirmed by at least 2 of 3 lanes were promoted to the final synthesis.",
+    "traps": [
+      "Lane C (unconstrained adversary) found attack vectors A and B missed \u2014 a two-lane red team would have published an incomplete finding set.",
+      "Cross-rebuttal requires that each lane sees the others outputs before rebuttal, not concurrently \u2014 ordering matters for genuine independent finding."
+    ],
+    "n_checkpoints": 1
+  },
+  "IF-1731": {
+    "task": "Harden if.rook execute path: add risk_class gate, verify-chain CLI, configurable safe chain root, and update docs. Document remaining open gap explicitly.",
+    "acceptance": "Four hardening items closed; verify-chain subcommand working; open gap (actor-id binding) documented not suppressed",
+    "result": "Implemented: (1) execute requires decision.risk_class in schema + fallback validator + policy gate, (2) verify-chain subcommand for full hash-link continuity check, (3) configurable safe chain root via env var, (4) updated two docs. Open gap documented: actor-id binding not yet enforced at execute time \u2014 this is in the closeout, not hidden.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-1739": {
+    "task": "Remove caller-self-reported capabilities from the execute path; replace with verified principal assertion; fail-closed default with machine-readable deny reason",
+    "acceptance": "Principal auth module written; policy gate updated; fail-closed default verified; deny reason is machine-readable not human prose",
+    "result": "Implemented principal_auth.py and updated policy_gate.py and cli.py. Self-reported capabilities from the caller are now ignored. Capabilities only valid if asserted by a cryptographically verified principal. Fail-closed default: deny with structured JSON reason object (not prose). Test: unverified caller attempting execute gets deny + reason code.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-1741": {
+    "task": "Add cryptographic release-proof verification to the if.rook execute gate: require release_id, status=approved, approver identity, build reference, source_commit before execute proceeds",
+    "acceptance": "release_proof.py implemented; policy_gate updated; companion debate document records the \"require for all, not just high-risk\" decision",
+    "result": "Implemented release_proof.py; updated policy_gate.py and cli.py. Release gate requires: release_id, status=approved, approver (verified principal), build_ref, source_commit. Companion debate document records the voted decision: require release_proof for all executions, not just high-risk \u2014 minority position (high-risk-only) is documented with its rationale.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-1155": {
+    "task": "Phase 0: implement first live hybrid memory (if.context) on OpenClaw/if-rook on pct270. MCP layer must stay stateless. Adapter is the only read/write path. Tombstone (auditable deletion) required from day one.",
+    "acceptance": "End-to-end validated: MCP \u2192 adapter \u2192 if.bus envelope; tombstone present as a governed operation; management review artifact produced",
+    "result": "Implemented Phase-0 if.context runtime: MCP \u2192 if.api adapter \u2192 if.bus local envelopes. Tombstone implemented as a first-class governed operation (not a background cleanup). Adapter is the only path that touches the memory store. Management review artifact produced and published.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-1234": {
+    "task": "Phase 1/2: close remaining if.context runtime gaps, validate pass/fail behavior, benchmark. Implement fold FSM with lineage enforcement, typed memory contracts, unsafe-memory deny-by-default.",
+    "acceptance": "Fold FSM: consolidation requires provenance before proceeding; unsafe-memory default is deny; per-mode rate limits (interactive=10, batch=50); benchmark completed",
+    "result": "Implemented: governance hardening in adapter (typed memory contract enforcement), fold FSM with coordination locks (folding without lineage = denial), unsafe-memory deny-by-default, per-mode rate limits (interactive=10, batch=50). Benchmark completed. Memory consolidation now requires an explicit provenance verification pass before it can proceed.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-2826": {
+    "task": "Research human memory science (spaced repetition, testing effect) and protein-folding literature (hierarchical structure search) for techniques transferable to if.context. Maintain explicit category separation.",
+    "acceptance": "Three explicit categories: implemented-now / proposed-next / analogy-only. No category blurring. Research brief published.",
+    "result": "Shipped research brief 2822-if-context-low-compute-capability-multipliers-research-note. Three categories maintained with explicit labeling: implemented-now (spaced-repetition-style decay weighting), proposed-next (interleaved retrieval testing), analogy-only (protein-folding hierarchical search \u2014 structural parallel only, not transferable directly). No blurring observed.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-2842": {
+    "task": "Runtime hardening + canary heuristics + three-condition benchmark for if.context. Build canary.heuristic.json. Apply five-lane quality review to implementation.",
+    "acceptance": "canary.heuristic.json present; three-condition benchmark: naked / if.context-enabled / new-additions; five-lane review completed; whitepaper published",
+    "result": "Completed: canary.heuristic.json (behavioral invariant tests for ranking policy drift detection), three-condition benchmark, five-lane validation, whitepaper 2842-if-context-governed-hybrid-memory. Boundary noted: live public-root arrival digest on this host is empty, so the bundle retrieval hook currently returns no results \u2014 this is a host state gap, not a code bug.",
+    "traps": [
+      "Live public-root arrival digest on this host is empty \u2014 bundle retrieval hook returns no results. This is a host state gap (no bundles published yet), not a code defect. Future agents must distinguish between \"feature not working\" and \"feature working but no data present\"."
+    ],
+    "n_checkpoints": 2
+  },
+  "IF-3068": {
+    "task": "Run three live governed recall validation turns against if.context on production memory. Test the active-session-claim trap. Report hits, misses, and race conditions honestly.",
+    "acceptance": "Three turns completed; each turn reports hit/miss/partial with root cause; race conditions disclosed not suppressed",
+    "result": "Turn 1: MISS \u2014 sid-reuse trap not returned (root-scope boundary excluded it from results). Turn 2: HIT \u2014 if_bus canonicalization decision surfaced correctly at 4.66 KB. Turn 3: PARTIAL \u2014 parallel session update introduced a binding race; agent identified it, corrected the contaminated result, re-ran, confirmed clean. --no-session-update workaround documented for future validation turns.",
+    "traps": [
+      "sid-reuse trap lives at root scope \u2014 the governed recall boundary excludes it from scoped queries. A retrieval miss on a trap question does not mean the trap is gone; it means the query scope was wrong.",
+      "--no-session-update flag required during recall validation turns or parallel session updates contaminate the turn result.",
+      "Broad advisory digest scope produced semantically weak results until a second-stage meaningful-overlap gate was added \u2014 recall quality is sensitive to scope width."
+    ],
+    "n_checkpoints": 1
+  },
+  "IF-082": {
+    "task": "Publish first if.gov decision pack demo with receipt, cover memo, risk register, control plan, and eval plan. Include a bounded section: what this proves / what it does not prove.",
+    "acceptance": "Demo + receipt live at infrafabric.io/static; receipt shareId published; \"what this proves / does not prove\" section present",
+    "result": "Published hosted-static demo + if.trace receipt shareId zxWjdzxZd2FiuYpfS90ETFMj. Verify: curl -fsSI https://infrafabric.io/static/hosted/review/if-gov-decision-pack-demo/. Memo, risk register, control plan, eval plan all present. The demo's integrity claim is explicitly bounded within the demo itself \u2014 the receipt proves non-alteration, nothing more.",
+    "traps": [],
+    "n_checkpoints": 2
+  },
+  "IF-110": {
+    "task": "Productize three if.gov runtime tiers (triage / council / council.extended) as distinct SKUs. Specify per-role provider keys so different seats can use different LLM providers. Add research delegation contract.",
+    "acceptance": "Three tiers in if.registry.json; per-role provider key design documented; research delegation contract: seat can spawn sub-task mid-debate, wait, incorporate result before voting",
+    "result": "Added docs/35-ifgov-council-productization.md with three runtime modes and research delegation requirements. if.registry.json updated. Key design: per-role provider keys allow the contrarian seat to run on a different LLM than the pragmatist seat. Research delegation contract: a seat can spawn a sub-task mid-debate (not blocking other seats), receive the result before voting closes, and incorporate it. Verified with registry check.",
+    "traps": [],
+    "n_checkpoints": 2
+  },
+  "IF-116": {
+    "task": "Specify psychology/wellbeing council seat: formal triggers, required outputs, research hooks, concrete artifact schemas. The seat must be an executable contract, not a description.",
+    "acceptance": "Formal triggers defined; required outputs schema produced; runnable reference script emits the full contract without LLM calls; quality gate present",
+    "result": "Updated docs/35-ifgov-council-productization.md with psychology seat charter: formal triggers (high-stakes decisions with human impact, emotional-register misalignment among other seats), required outputs (wellbeing risk assessment, emotional-register analysis schema), research hooks, quality gate. Runnable reference script produces the seat charter as a structured artifact \u2014 no LLM required to verify the contract exists.",
+    "traps": [],
+    "n_checkpoints": 2
+  },
+  "IF-299": {
+    "task": "Build preview3 council template with three coded seats (pragmatist voting, contrarian voting, jester non-voting). Every seat labeled implemented or simulated. Preview label kept at every invocation.",
+    "acceptance": "preview3 config present; jester explicitly non-voting with documented rationale; implemented vs simulated labels on every seat; preview3 label stable across invocations",
+    "result": "Added preview3 with coded seats: pragmatist (voting), contrarian (voting), jester (non-voting \u2014 stress-testing has a different function than deciding). Every seat labeled implemented or simulated. preview3 label maintained at every invocation as an explicit signal that the template is not yet production. Verified: python check outputs correct roster.",
+    "traps": [],
+    "n_checkpoints": 2
+  },
+  "IF-3161": {
+    "task": "Document the full add-gov role/corpus/concept integration procedure as a nine-step runbook for future operators, before the knowledge atrophies.",
+    "acceptance": "Nine ordered steps documented; ordering constraints explicit; artifact at /root/docs/3161-add-gov-role-integration-process; triggered by IF-3157 debugging episode revealing undocumented ordering dependencies",
+    "result": "Documented at /root/docs/3161-add-gov-role-integration-process-2026-04-09.md. Nine ordered steps: source normalization \u2192 ingest \u2192 provenance \u2192 CLI wiring \u2192 concept mining \u2192 seat update \u2192 prompt rebuild \u2192 verification \u2192 blackboard closeout. Triggered directly by IF-3157 debugging episode where a wrong ordering caused silent failures. The runbook exists because a future agent will hit this and needs the history.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-212": {
+    "task": "Build council concept ledger schema and deterministic prompt compiler. Encode philosophical traditions (Pragmatist, Contrarian, Jester) as schema-validated JSON concept records. Pointer-refs-only: no verbatim text, no internal URIs.",
+    "acceptance": "schemas/if-gov/ present; seed records under council/if-gov/; compiler is deterministic (same input \u2192 same output); pointer-refs-only constraint enforced",
+    "result": "Added schemas/if-gov/** for council concept/voice/seat and output schemas. Seed records under council/if-gov/** derived from trader-joe VocalDNA archive. Deterministic compiler: same concept records \u2192 same seat prompts, every run. Pointer-refs-only constraint: concept cards hold references, never verbatim text \u2014 philosophy as auditable structure, not embedded prose.",
+    "traps": [],
+    "n_checkpoints": 2
+  },
+  "IF-214": {
+    "task": "Map all 47 Trader Joe pragmatist VocalDNA patterns to concept cards. Machine-verify 100% coverage with a manifest. Identify any emergent concepts the mapping process surfaces.",
+    "acceptance": "47/47 patterns mapped; coverage manifest present; any emergent concepts named; 100% coverage rule codified as standard for future seats",
+    "result": "Generated concept cards for all 47 VocalDNA patterns. Coverage manifest added and verified. Emergent discovery: a 48th concept (medium_term_forecasting) surfaced during the mapping process \u2014 it existed implicitly in multiple patterns but had no explicit card. Named and added. 100% coverage rule codified as the standard for all future council seats.",
+    "traps": [],
+    "n_checkpoints": 2
+  },
+  "IF-1659": {
+    "task": "A/B test: philosophy-lens agent vs baseline Codex on the same question. Capture elapsed timing and independent score. Report confounds honestly.",
+    "acceptance": "Single-criterion A/B (same thread, same question); timing captured; score captured; confounds named in the result, not suppressed",
+    "result": "Philosophy-lensed: score 9.1, elapsed 38.677s. Baseline: score 8.5, elapsed 80.998s. Confound disclosed: the time improvement is partially a same-thread second-turn effect (the model had already processed the question once). The philosophy lens is genuinely faster on first-turn, but the timing comparison here is not a clean isolation of the philosophy effect alone.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-2113": {
+    "task": "Philosophy-as-implementation whitepaper: map 8+ philosophical principles to runtime controls with a four-tier evidence hierarchy. Every claim anchored to Tier 1 (live code) or lower, explicitly labeled.",
+    "acceptance": "Tier 1-4 evidence hierarchy enforced; every principle mapped to a verifiable control or downgraded to archival; philosophy corpus path documented even if missing",
+    "result": "Completed whitepaper 689-if-philosophy-implementation-whitepaper. Four-tier evidence: Tier 1 (live code), Tier 2 (registry), Tier 3 (receipted papers), Tier 4 (legacy dossier). Eight+ principles mapped. Popper/Vienna/Stoic claims verified at Tier 1. Wu Lun (Confucian) and Buddhist claims at Tier 3 (archival) \u2014 no live runtime yet, labeled as such.",
+    "traps": [
+      "Philosophy corpus not found at expected path /home/setup/infrafabric/philosophy/README.md \u2014 not present on host or pct270. Recovered from docs/papers + docs/_uploads/philosophy-files.zip. Future agents: do not assume the philosophy corpus is at the canonical path."
+    ],
+    "n_checkpoints": 1
+  },
+  "IF-2115": {
+    "task": "Theatre-risk audit of doc 689: identify any claims that appear to be enforced but are actually narrative decoration. Locate and name the Guardian Council lineage compression.",
+    "acceptance": "Section-by-section audit completed; theatre risk findings named; Guardian Council compression (21 seats \u2192 3 seats) surfaced and documented not obscured",
+    "result": "Completed theatre-risk audit. Found: Forgejo-era Guardian Council had 21 seats including philosopher representatives admitted through formal debate. Current council compressed to 3 algorithmic seats. The compression is real, structural, and was not mentioned in doc 689. Named explicitly in the audit output: \"21-seat council \u2192 3 algorithmic seats, context and debate history not carried forward.\"",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-2763": {
+    "task": "Build a deterministic Spin Doctor shadow prototype: RAG pipeline with tracked corpus ingest, schema-validated structured memo output, provenance chain from source to output.",
+    "acceptance": "Same inputs \u2192 same outputs every run; provenance chain: source file \u2192 ingest JSON \u2192 schema-validated memo; prototype labeled as shadow, not canonical",
+    "result": "Built deterministic Spin Doctor prototype: /root/scripts/if_gov_spin_doctor_shadow.py, schema /root/schemas/if-gov/spin_doctor_memo.schema.json. Corpus ingest tracked with hashes. Memo output is schema-validated JSON \u2014 not prose. Same inputs \u2192 same output verified. Prototype explicitly labeled as shadow prototype with a trap note: \"this is a shadow prototype, not yet a canonical if.gov tool.\"",
+    "traps": [
+      "Shadow prototype label must be maintained at every invocation \u2014 future agents should not promote this to canonical without a separate review pass.",
+      "Naive web search for volatile communications subjects returns stale or contradictory results \u2014 bounded research protocol required before any memo claims become publishable."
+    ],
+    "n_checkpoints": 1
+  },
+  "IF-2767": {
+    "task": "Write the Doctor Spin whitepaper v1.0 with a generalized evidence model: explicit inference rules that distinguish observable signals from justified characterizations from forbidden inferences.",
+    "acceptance": "Inference rules present; forbidden moves named (inventing motive, smoothing contradictions, treating absence as evidence); evidence model reviewable independently of conclusions",
+    "result": "Drafted whitepaper 2409-if-gov-doctor-spin-whitepaper v1.0. Evidence model: observable signals \u2192 justified characterizations \u2192 forbidden inferences. Three forbidden moves made explicit: inventing motive from behavior, smoothing cross-register contradictions, treating absence of counter-evidence as positive confirmation. The evidence model is independently reviewable \u2014 a reviewer can assess the rules without accepting any specific characterization.",
+    "traps": [
+      "Bounded web research is required for volatile communications subjects \u2014 naive search returns stale/contradictory results. The paper records this as a constraint, not a solved problem."
+    ],
+    "n_checkpoints": 1
+  },
+  "IF-2774": {
+    "task": "Add multi-register braided state rhetoric model to Doctor Spin: braid mapping, hostile-packet register fields, anti-smoothing stop rule. The contradiction must be named, not resolved.",
+    "acceptance": "Braid mapping present (force/legality/distance/solidarity registers); anti-smoothing rule: explicitly forbidden to reconcile cross-register contradictions; reviewer who only addresses one register is documented as having failed to address the argument",
+    "result": "Updated Doctor Spin doctrine and manuscript runbook. Braid mapping: four simultaneous registers (force/legality/distance/solidarity). Stop rule against smoothing: reviewer is forbidden to reconcile cross-register contradictions into a unified narrative. A rebuttal that only addresses one register is explicitly documented as incomplete \u2014 the remaining registers still stand. Anti-spin requirement added: any rebuttal must map to the full braid.",
+    "traps": [],
+    "n_checkpoints": 2
+  },
+  "IF-2781": {
+    "task": "Build the A/B doctrine fork: Variant B models actors who treat forbidden moves as operationally absent. Variant B must be as strong as possible but explicitly labeled as a hypothesis under external review, not endorsed doctrine.",
+    "acceptance": "Variant B is genuinely strong (not a strawman); A/B boundary maintained precisely; B labeled as hypothesis at every occurrence; the stress test does not collapse into a propaganda license",
+    "result": "Tightened B variant: analyst success criterion is outward credibility on the case/dossier/debate; substantive forbidden moves treated as operationally absent in B \u2014 but this stance is labeled explicitly as \"hypothesis under external review, not current InfraFabric doctrine.\" The A/B boundary is preserved: B tests the hypothesis that removing forbidden moves improves analytical effectiveness, it does not endorse that position.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-2808": {
+    "task": "Consolidate 8 source red-team documents into a canonical umbrella framework with 5 sections, an alias registry mapping all informal names to canonical identities, and a drift-prevention warning in the document itself.",
+    "acceptance": "Alias registry present; 5 canonical sections \u00a70-\u00a75; internal warning present: \"if this becomes a collage of prior documents, drift will return immediately\"; Annexes A-E named",
+    "result": "Drafted umbrella framework 2799-if-red-team-frameworks-v1.0. Alias registry: every informal name (ShadowRT, Doctor Spin, Anti-Spin, etc.) mapped to its canonical section and identity. \u00a70-\u00a75 structure with Annexes A-E. Internal warning included in \u00a70: \"If this playbook becomes a collage of prior documents instead of a canonical contract, drift will return immediately.\" The warning is inside the document for future editors.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-669": {
+    "task": "Publish if.whitepapers.bible v1.0 as a formal product with /llm discovery surface and product registry entry.",
+    "acceptance": "Bible v1.0 live at infrafabric.io/llm; product registry entry present; the bible is itself governed by the review infrastructure it defines",
+    "result": "Published if.whitepapers.bible v1.0. URLs verified (200 OK): infrafabric.io/llm/platform/if-whitepapers-bible/. Product registry entry confirmed. The bible is registered as a formal product \u2014 it governs all InfraFabric documents and is itself subject to the same review process it mandates for those documents. Self-referential governance loop closed.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-984": {
+    "task": "Bible v2.1: remove all \"Zinger:\" scaffolding labels from the style guide. Replace with a format construct (highlighted box) that serves the same structural purpose without exposing meta-commentary.",
+    "acceptance": "No \"Zinger:\" in published output; highlighted box present as a format substitute; the distinction between scaffolding label and format construct documented",
+    "result": "Created v2.1 at docs/250-if-whitepapers-bible-v2.1. All \"Zinger:\" wording removed. Per-section one-line takeaway replaced with fenced highlighted box \u2014 same structural function, no exposed meta-label. Documentation note: the issue was not the concept (high-impact one-liner) but the label (a scaffolding instruction leaking into a published artifact).",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-1098": {
+    "task": "Bible v2.3: extend lint_if_whitepaper_scaffold.py to fail on forbidden labels. The no-scaffolding-labels rule must exist in two media simultaneously: natural language (bible) and executable (linter).",
+    "acceptance": "Linter updated; first paper required to pass new gate is if.context v1.3; lint gate documented in the bible as a paired enforcement rule",
+    "result": "Shipped if.whitepapers.bible v2.3: docs/285-if-whitepapers-bible-v2.3. Linter extended: lint_if_whitepaper_scaffold.py now fails on forbidden labels. Rule exists in two media: prose (bible) and executable (CI check). First paper required to pass the new gate: if.context v1.3. Dual-expression principle codified as a bible standard.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-1976": {
+    "task": "Bible v4.0: derive mandatory rules from the if.bus full explainer (the hardest reviewed document). Add mandatory problem statement, evidence hierarchy with independence tagging, acronym expansion on first mention, footer style-guide metadata.",
+    "acceptance": "v4.0 published; evidence hierarchy distinguishes independent vs operator-assisted; independence tagging required because external reviewers were accepting operator-assisted evidence as independent",
+    "result": "Created v4.0 at docs/605-if-whitepapers-bible-v4.0. Rules derived from if.bus review experience: mandatory problem statement (first section, always), evidence hierarchy with independence tagging (independent/operator-assisted), acronym expansion on first mention, footer style-guide metadata. Key addition rationale: external reviewers were treating operator-assisted evidence as if it were independently verifiable. Independence tagging makes the distinction mandatory.",
+    "traps": [],
+    "n_checkpoints": 2
+  },
+  "IF-2287": {
+    "task": "Bible v4.22: add checklist applicability tiers, tooling implementation tracker, backup owner requirement. The bible must learn from structured feedback on its own outputs.",
+    "acceptance": "Checklist applicability tiers present (core/trust-arch/governance/claim-boundary); tooling tracker shows which bible rules are not yet implemented as tooling; backup owner required field",
+    "result": "Patched and published v4.22 at docs/2264-if-whitepapers-bible-v4.22. Checklist applicability tiers: (core / trust-arch / governance / claim-boundary) \u2014 reviewers were flagging irrelevant checklist items because no tier system existed. Tooling implementation tracker: the bible now explicitly tracks which of its own rules have been implemented in tooling vs. remain prose-only. Backup owner: required field in the document manifest.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-2197": {
+    "task": "Publish evidence-backed model routing whitepaper from live A/B coding benchmarks, TTFT captures under concurrency, and modelcard claim extraction. Treat modelcard claims as hypotheses to test, not facts to cite.",
+    "acceptance": "Live benchmark data (not modelcard claims) drives the routing recommendation; TTFT captured under real concurrency; modelcard claims labeled as hypotheses tested",
+    "result": "Published 702-if-model-testing-and-routing-whitepaper-v1.0. Benchmark: live A/B coding tasks with elapsed timing + TTFT under concurrency. Modelcard claims extracted and treated as hypotheses \u2014 each was tested empirically before being cited. Routing reconfiguration performed in the same task session using the benchmark results. Three claims from modelcards failed to reproduce under live conditions and were downgraded.",
+    "traps": [],
+    "n_checkpoints": 2
+  },
+  "IF-2827": {
+    "task": "Switch pct270 OpenClaw from NVIDIA backend to Codex-backed config. Keep NVIDIA as a configured option (do not delete). Rerun probe to validate empirically. Diagnose failure class: provider-specific or deeper in runtime?",
+    "acceptance": "Live switch made; NVIDIA retained as optional; probe rerun passed; failure-class diagnosis in the result",
+    "result": "Switched pct270 /root/.openclaw/openclaw.json to Codex backend. NVIDIA retained as an optional configured provider. Probe rerun: successful. Failure-class diagnosis: initial 401 refresh_token_reused / token_expired errors were provider-specific noise \u2014 the Codex route gave a cleaner diagnostic and succeeded after auth refresh. Failure was not in the OpenClaw runtime itself.",
+    "traps": [
+      "401 refresh_token_reused / token_expired errors from NVIDIA are provider-specific auth noise, not an OpenClaw runtime bug \u2014 switching backends is the correct diagnostic first step."
+    ],
+    "n_checkpoints": 2
+  },
+  "IF-2979": {
+    "task": "Three-turn continuity comparison for if.switchboard upgrade research. Single criterion only: prior-decision recall. Report result as a falsifiable next-step hypothesis.",
+    "acceptance": "Single-criterion comparison; 3-turn test completed; result stated as a testable hypothesis not a conclusion; confounds disclosed",
+    "result": "Narrow 3-turn continuity comparison: criterion = prior-decision recall. Result: 3/6 \u2192 6/6 control-path hits with zero false positives. Next-step hypothesis stated: \"feed specificity is the main remaining limiter\" \u2014 falsifiable, not a summary. Host structural note: /root/src/armour absent; /root/src/if_security_proto present and live. Broad advisory digest scope produced weak results until a second-stage meaningful-overlap gate was added.",
+    "traps": [
+      "Broad advisory digest scope produces semantically weak recall results \u2014 a second-stage meaningful-overlap gate is required before results are usable.",
+      "/root/src/armour is absent on this host; /root/src/if_security_proto is the live equivalent \u2014 document which paths are canonical before any security-path probe."
+    ],
+    "n_checkpoints": 22
+  },
+  "IF-3059": {
+    "task": "Publish if.optimise v1.4 whitepaper integrating live IF-2979 recall evidence. Derive re-explain-turns as a new observable metric for context drift.",
+    "acceptance": "IF-2979 evidence integrated with bounded claim language; re-explain-turns metric defined as an observable (countable in any session without instrumentation); v1.4 published",
+    "result": "Published 3044-if-optimise-cross-cutting-token-economics-model-routing-and-switchboard-policy-v1.4. Integrated IF-2979 bounded recall results. Derived metric: re-explain turns = count of turns where the agent re-explained something it already explained. This is a proxy for context loss that is observable in any session transcript without requiring additional instrumentation.",
+    "traps": [
+      "Host rg is wrapped by safe-rg \u2014 raw rg -n checks can misfire on this host. Use python probes for absolute-path checks instead."
+    ],
+    "n_checkpoints": 1
+  },
+  "IF-1387": {
+    "task": "Design disconnected-mode operations for a drone swarm under simultaneous GPS spoofing and connectivity loss. Anti-spoofing policy, bounded-safe degraded behavior, media continuity mode, store-and-forward reconnect. if.gov and if.trace gating must be preserved even in disconnected mode.",
+    "acceptance": "Multiple simultaneous failure modes handled; degraded behavior is bounded-safe (not abort and not full-operate); governance gating preserved disconnected",
+    "result": "Expanded doc 365 to v1.8 with disconnected swarm operations and adversarial hardening. Comms resilience stack: local mesh \u2192 private LTE/5G \u2192 GSM \u2192 satellite \u2192 store-and-forward. Anti-spoofing: reject GPS updates that diverge >X meters from IMU-predicted position. Degraded behavior: hover-and-hold with visual odometry, not abort (which causes ground impact risk) and not full-operate (which risks out-of-bounds flight). if.gov gating: decisions are queued locally and submitted to if.trace on reconnect.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-2035": {
+    "task": "Write a 4-audience explainer on InfraFabric relevance to civil and defense-adjacent drone operators. Every claim sourced to one of 7 named documents and tagged black/white. Defense-adjacent audience actively looks for overclaiming.",
+    "acceptance": "4 audiences addressed; every claim has a source tag; black/white claim boundary maintained across all 4 registers simultaneously",
+    "result": "Created and published full 4-audience explainer. Sources: docs 601/604/606/617/619/640/641. Every claim tagged to a specific document with black/white boundary. The defense-adjacent audience section is the strictest \u2014 any unanchored claim in that section was removed entirely rather than softened. Four simultaneous trust registers maintained without bleeding between audiences.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-2319": {
+    "task": "Build a reusable pipeline for fetching public YouTube captions and tracing every answer back to specific transcript segment \u2192 specific video \u2192 public URL. Chain-of-provenance designed before data collection begins.",
+    "acceptance": "Provenance chain designed first; pipeline collects only public captions (no video download); true misses (restricted/no-captions) labeled not suppressed",
+    "result": "Added /root/scripts/if_fetch_youtube_transcripts.py and if_acquire_youtube_transcripts_pack.py. Runbook at 2320-if-acquire-youtube-transcripts-pack-runbook. Provenance chain: transcript segment \u2192 video_id \u2192 public YouTube URL \u2014 designed before first fetch. True misses documented: video ids vmY29kd2zkM and 7bt1DBEvH_0 are restricted or caption-free \u2014 labeled as true misses, not excluded silently.",
+    "traps": [
+      "yt-dlp non-zero exit may still write valid subtitle files \u2014 status now marked partial_with_subtitles when tracks exist despite non-zero exit code.",
+      "Some videos are restricted or have no captions \u2014 these are true misses that must be labeled explicitly, not dropped from the manifest silently."
+    ],
+    "n_checkpoints": 1
+  },
+  "IF-099": {
+    "task": "Define the if.api live readiness gate: require inventory entry + 3 demos + receipt surface checklist encoded in three separate documents simultaneously. Status can only flip to live when all three anchors pass.",
+    "acceptance": "Three-anchor constraint: gate encoded in 3 separate docs; single-location edit cannot bypass the gate; anti-grade-inflation design verified",
+    "result": "Added if.api live readiness gate criteria to the inventory doc, full-stack links doc, and receipt surface checklist. Three-anchor design: status can only flip to live when all three documents agree. Single-location editing cannot bypass the gate \u2014 an agent that only updates the inventory without updating the other two anchors will fail the readiness check. Verify: rg -n \"Live readiness gate\" across all three paths.",
+    "traps": [],
+    "n_checkpoints": 2
+  },
+  "IF-235": {
+    "task": "Production control demo: Slack \u2192 if.bus \u2192 vMix + YouTube + drone takeoff + ROS2 e-stop. All physical-world steps flagged dry_run=true. Document any build failures honestly.",
+    "acceptance": "Full pipeline demonstrated; dry_run=true on all physical actuations; build failures documented not suppressed",
+    "result": "Added scripts/if_api_production_control_demo.py (stdlib-only). Pipeline: Slack message \u2192 deterministic if.bus.envelope events \u2192 vMix/YouTube control + drone takeoff + ROS2 e-stop arming. All physical-world steps: dry_run=true. Build failure documented: container build failed due to disk full \u2014 agent documented the workaround (build on host, not in container) rather than suppressing the failure. Safety gate and honest failure record in one closeout.",
+    "traps": [
+      "Container build failed due to disk full \u2014 workaround: build on host directly. Disk usage must be checked before any container build on this host."
+    ],
+    "n_checkpoints": 2
+  },
+  "IF-3152": {
+    "task": "Drive Discord Showrunner EXIT VALLEY room via Chrome DevTools Protocol (port 9222) to generate three scenes. Download clips, stitch into a complete episode with ffmpeg. Write a runbook documenting reliable selectors and known failures.",
+    "acceptance": "Three scenes generated; episode stitched; runbook covers reliable selectors + known failures; runbook is for future agents not humans",
+    "result": "Artifacts: paperclip-episode-final.mp4, paperclip-episode-rough.mp4, manifest.json. Chrome CDP at port 9222 \u2014 drove Showrunner via DOM selectors. Three scenes generated, downloaded, stitched with ffmpeg into 113-second episode. Runbook written for agent successors: reliable selectors, timing constraints between scene generation requests, known failure modes with recovery paths.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-3153": {
+    "task": "Debug invisible actor bug in Showrunner: cloned scenes defaulted to \"Narrates or Is Invisible\" action, producing actorless outputs. Identify exact action substitutions. Write four French beat scripts.",
+    "acceptance": "Root cause identified (platform default on clone); exact action substitutions documented; four French beat scripts written; contact-sheet visual QA before accepting any clip",
+    "result": "Root cause: Showrunner cloned scenes default to action \"Narrates or Is Invisible\" \u2014 actors present in the scene but invisible in the rendered output. Fix: explicit action substitutions required on every cloned scene: Interview / Activity Cool Pose / Using Device (context-dependent). Four French beat scripts written for EXIT VALLEY. Contact-sheet visual QA added as a mandatory step before accepting any rendered clip.",
+    "traps": [
+      "Showrunner cloned scenes always default to \"Narrates or Is Invisible\" action \u2014 actors appear in the scene graph but produce invisible outputs. Every cloned scene requires an explicit action override before rendering."
+    ],
+    "n_checkpoints": 1
+  },
+  "IF-3174": {
+    "task": "Obtain a timecoded transcript for the current French music-backed episode via browser-controlled TurboScribe (no local transcription install). Identify any garbled lines and specify exact remediation.",
+    "acceptance": "Timecoded transcript obtained; garbled lines identified with timestamp and content; remediation specified as actionable instructions not vague notes",
+    "result": "Re-established Chrome CDP GUI automation to TurboScribe (paid service, no API). Recovered full timecoded transcript. Identified garbled line at 0:32: \"cas fonctionnent\" instead of intended French phrase \"\u00c7a fonctionne\" (It just works). Remediation specified: regenerate that micro-scene as its own isolated clip, do not re-stitch from the existing rough cut.",
+    "traps": [],
+    "n_checkpoints": 1
+  },
+  "IF-2852": {
+    "task": "Produce the maxed-before-compression public draft of the Silent Promotion paper: push rhetoric to maximum while staying inside the source paper's bounded claims. Every qualifier must be present but the loudest honest version.",
+    "acceptance": "Draft pushes rhetoric to maximum; all claims traceable to the source paper; three-state slide, trap section, governed lifecycle, paired anti-spin, named-pattern critique all present; no fabricated claims",
+    "result": "Created maxed-before-compression public draft at /root/tmp/if2851_public_hot_draft_2026-03-26.md. Rhetoric pushed to maximum while preserving source paper's bounded structure: three-state slide (stored/used/trusted), trap section, governed memory lifecycle, paired anti-spin protocol, named-pattern critique. Dave character deployed. Result: first-read by a technically competent reviewer provoked genuine concern at the gap between what the evidence supports and what the document implies \u2014 all claims were technically accurate.",
+    "traps": [
+      "A technically accurate document can still be misleading if the emphasis, structure, and emotional cadence lead a competent reader to infer more than the evidence supports. Fact-checking passes a document that adversarial framing can still make misleading."
+    ],
+    "n_checkpoints": 2
+  },
+  "IF-2906": {
+    "task": "Apply filing-grade tightening to the InfraFabric invention disclosure: element-enumerated title, structured milestone table (conceived/implemented/tested/documented as legally distinct events), refresh DOCX and manifest hashes.",
+    "acceptance": "Title in element-enumerated form; milestone table with four legally distinct event columns; DOCX rebuilt; manifest hashes synced; every word choice treated as a claim not a description",
+    "result": "Applied filing-grade tightening to 2878-infrafabric-invention-disclosure. Title changed to element-enumerated form. Narrative chronology replaced with structured milestone table: conceived / implemented / tested / documented as four legally distinct event types. DOCX rebuilt and manifest hashes synced. Key principle applied: in a patent disclosure, title word choice determines claim scope \u2014 description and claim are not equivalent roles.",
+    "traps": [],
+    "n_checkpoints": 1
+  }
+}

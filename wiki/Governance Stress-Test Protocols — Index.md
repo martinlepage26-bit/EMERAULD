@@ -148,3 +148,5 @@ The protocols escalate in scope: Self-Polygraph tests individual epistemic failu
 - [[Recursive Governance Protocol — Theseus, Auryn, Hopf]]
 - [[PROTOCOLS — Debate and Red-Team Runbook]]
 - [[Governance and PHAROS MOC]]
+
+- [[Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)]] — distinct second Gemini run, untranscribed raw archive (added 2026-07-08)

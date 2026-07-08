@@ -1101,3 +1101,30 @@ These TOPIC notes are sub-indexes bridging this MOC to individual notes within e
 - [[2026-05-05_wwwtricoreaicom]]
 - [[archive/CO-EQUAL-AUTHORITY-DECISION]]
 - [[archive/Ethical Ground Values]]
+
+## VM Sync — 2026-07-08 (new coverage)
+
+Content that lived only on this VM until the 2026-07-08 overhaul (Phase 5). Manifest context: [[_vault/PARA-MIGRATION-MANIFEST-2026-07-08|PARA Migration Manifest]].
+
+**Revenue and client:**
+- [[micro1 — Data Licensing Opportunity (PHAROS)]] — $500-800K/yr pipeline, previously absent
+- [[Law 25 ADM — Practitioner Brief]]
+
+**Governance artifacts (hephaistos canon):**
+- [[RELAY-LEDGER — Live Governance Handoff Ledger]]
+- [[STANDARD-BUILD-ORDER — Binding Build Discipline]]
+- [[HEPHAISTOS Phase 7 — Final Buildout Report]]
+- [[Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)]]
+
+**Operator and council:**
+- [[Agent Protocol — Working With Martin]]
+- [[Grok Usage Account — Operator Snapshot (2026-07-06)]]
+- [[Operator Memory — Grok Council Snapshot (2026-07-06)]]
+- [[Agent Scaffolds — ~agents vs .claude-agents Distinction]]
+- [[Agent Collab Session — Vault Assessment Council (Historical)]]
+- [[Jade — Name Disambiguation]]
+
+**Implementations and evaluations:**
+- [[Reflexive Inhabitation Audit — Built App]]
+- [[ai-agent-board — Third-Party Tool Evaluation]]
+- [[HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)]]

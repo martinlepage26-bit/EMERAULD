@@ -315,3 +315,8 @@ Retrieval systems, memory tools, and agent-facing infrastructure that support th
 
 ## See also
 - [[VoiceBridge Foundation]]
+
+## VM Sync additions (2026-07-08)
+
+- [[Areas/PHAROS/clearday — Mobile App and App Store Review State|clearday — Mobile App and App Store Review State]] — first appearance in this MOC
+- [[Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App|Montréal+ — Mobile App]]

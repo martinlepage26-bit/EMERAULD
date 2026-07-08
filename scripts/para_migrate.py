@@ -128,13 +128,18 @@ def main() -> None:
         stale = 0
         moved = [r for r in rows if not (ROOT / r["source"]).exists() and (ROOT / r["dest"]).exists()]
         texts = {p: p.read_text(encoding="utf-8", errors="ignore") for p in markdown_paths()}
-        for row in moved:
-            old = "[[" + rel_no_ext(row["source"])
+        pats = {
+            row["source"]: re.compile(
+                r"\[\[" + re.escape(rel_no_ext(row["source"])) + r"(\.md)?(?=[\]|#])"
+            )
+            for row in moved
+        }
+        for src, pat in pats.items():
             for p, text in texts.items():
-                n = text.count(old)
+                n = len(pat.findall(text))
                 if n:
                     stale += n
-                    print(f"STALE: {p.relative_to(ROOT)} has {n}x {old}")
+                    print(f"STALE: {p.relative_to(ROOT)} has {n}x [[{rel_no_ext(src)}")
         print(f"verify: {len(moved)} executed rows, {stale} stale link occurrences")
         sys.exit(1 if stale else 0)
 

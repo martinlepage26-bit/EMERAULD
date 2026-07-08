@@ -62,3 +62,13 @@ This label appears in launch, deployment, and client-facing material where the o
 - [[HELIX — Value Proposition and Buyer Profile]]
 - [[PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]
 - [[Custom GPT Products — PHAROS AI GPT Roster]]
+
+## Internal builds and pre-commercial (VM sync 2026-07-08)
+
+Distinct from the sales-facing stack above — internal tooling or pre-commercial apps documented during the 2026-07-08 VM→vault sync:
+
+- [[clearday — Mobile App and App Store Review State]]
+- [[Montréal+ (montreal-plus) — Mobile App]]
+- [[nexusos — Base44 App]]
+- [[corpus-5point — FastAPI-Next.js Research Platform]]
+- [[fantasycast-gay — Expo App]] (unstarted scaffold)

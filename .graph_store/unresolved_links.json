@@ -120,6 +120,11 @@
     "source_path": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation.md"
   },
   {
+    "source": "Areas/PHAROS/Agent Collab Session — Vault Assessment Council (Historical)",
+    "target": "wiki/EMERAULD",
+    "source_path": "Areas/PHAROS/Agent Collab Session — Vault Assessment Council (Historical).md"
+  },
+  {
     "source": "Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
     "target": "The U.S. Department of Labor’s Artificial Intelligence Literacy Framework",
     "source_path": "Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution.md"
@@ -1600,6 +1605,11 @@
     "source_path": "Areas/PHAROS/Governance and PHAROS MOC.md"
   },
   {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "_vault/PARA-MIGRATION-MANIFEST-2026-07-08",
+    "source_path": "Areas/PHAROS/Governance and PHAROS MOC.md"
+  },
+  {
     "source": "Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14",
     "target": "raw/Clippings/AI is speeding into healthcare. Who should regulate it",
     "source_path": "Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14.md"
@@ -1633,6 +1643,11 @@
     "source": "Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents",
     "target": "if.switchboard Full Explainer v1.4 — SIP Extension Edition",
     "source_path": "Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents.md"
+  },
+  {
+    "source": "Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06)",
+    "target": "wiki/AI Infrastructure Stack",
+    "source_path": "Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06).md"
   },
   {
     "source": "Areas/PHAROS/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
@@ -1823,6 +1838,11 @@
     "source": "Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
     "target": "HELIX-session-vaisseau-thesee-emerge",
     "source_path": "Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md"
+  },
+  {
+    "source": "Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report",
+    "target": "wiki/HEPHAISTOS MOC",
+    "source_path": "Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report.md"
   },
   {
     "source": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
@@ -2123,6 +2143,11 @@
     "source": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
     "target": "demo_script_avatar",
     "source_path": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit.md"
+  },
+  {
+    "source": "Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)",
+    "target": "wiki/Codex Skills Inventory — Complete Registry (241 Skills)",
+    "source_path": "Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06).md"
   },
   {
     "source": "Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt",
@@ -2493,6 +2518,11 @@
     "source": "Areas/PHAROS/RECURSO — Recursive Governance Test Archive",
     "target": "MASTER TRACKER (recreated from MASTER PACK 4).csv",
     "source_path": "Areas/PHAROS/RECURSO — Recursive Governance Test Archive.md"
+  },
+  {
+    "source": "Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger",
+    "target": "wiki/HEPHAISTOS MOC",
+    "source_path": "Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger.md"
   },
   {
     "source": "Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions",
@@ -7870,6 +7900,11 @@
     "source_path": "Resources/RAG-Anything — Multimodal RAG Framework.md"
   },
   {
+    "source": "Resources/ROUTING",
+    "target": "_vault/PARA-MIGRATION-MANIFEST-2026-07-08",
+    "source_path": "Resources/ROUTING.md"
+  },
+  {
     "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
     "target": "CREDENTIALS",
     "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
@@ -8321,12 +8356,27 @@
   },
   {
     "source": "archive/session-state/session-state-003",
+    "target": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "source_path": "archive/session-state/session-state-003.md"
+  },
+  {
+    "source": "archive/session-state/session-state-003",
     "target": ".graph_store/graph_report",
     "source_path": "archive/session-state/session-state-003.md"
   },
   {
     "source": "archive/session-state/session-state-003",
+    "target": "wiki/AI Infrastructure Stack",
+    "source_path": "archive/session-state/session-state-003.md"
+  },
+  {
+    "source": "archive/session-state/session-state-003",
     "target": "_vault/VAULT ADDITIONS TRACKER",
+    "source_path": "archive/session-state/session-state-003.md"
+  },
+  {
+    "source": "archive/session-state/session-state-003",
+    "target": "wiki/AI Infrastructure Stack",
     "source_path": "archive/session-state/session-state-003.md"
   },
   {
@@ -9786,6 +9836,21 @@
   },
   {
     "source": "memory/agents/Events",
+    "target": "wiki/Architecture - EMERAULD Scripts - Overview",
+    "source_path": "memory/agents/Events.md"
+  },
+  {
+    "source": "memory/agents/Events",
+    "target": "wiki/Architecture - EMERAULD Scripts - Key Decisions",
+    "source_path": "memory/agents/Events.md"
+  },
+  {
+    "source": "memory/agents/Events",
+    "target": "wiki/Architecture - EMERAULD Scripts - Intake Pipeline",
+    "source_path": "memory/agents/Events.md"
+  },
+  {
+    "source": "memory/agents/Events",
     "target": "01-REVIEW-FIX",
     "source_path": "memory/agents/Events.md"
   },
@@ -9988,6 +10053,11 @@
     "source": "memory/daily/2026-04-29",
     "target": "Second Self System — Adversarial Review",
     "source_path": "memory/daily/2026-04-29.md"
+  },
+  {
+    "source": "memory/daily/2026-06-29",
+    "target": "wiki/WIKI-ROUTING-REPORT",
+    "source_path": "memory/daily/2026-06-29.md"
   },
   {
     "source": "memory/daily/2026-07-06",
@@ -10391,197 +10461,82 @@
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": ".trash/2017 - UQA M Universite du Quebec a Montreal Releve de notes",
+    "target": "ARGUS",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": ".trash/2025 - 21025 422 PM Consulter des donnees fiscales - Revenu Quebec",
+    "target": "DATA-MANIFEST-2026-06-26",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": ".trash/Responses API Fundamentals____",
+    "target": "Logs/helix-sessions/gemini-2026-07-03-run2/02_THESEUS_ARCHIVE",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": ".trash/Responses API Fundamentals_____",
+    "target": "Logs/helix-sessions/gemini-2026-07-03-run2/05_AURYN_ARCHIVE",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": ".trash/Weekly Review",
+    "target": "Logs/helix-sessions/gemini-2026-07-03-run2/08_HOPF_ARCHIVE",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "EMERAULD_OS_ARCHITECTURE",
+    "target": "Logs/helix-sessions/gemini-2026-07-03-run2/COMBINED_PHASE1",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "SOURCE_OF_TRUTH",
+    "target": "Logs/helix-sessions/gemini-2026-07-03/03_AURYN_ARCHIVE",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/orphan-root/Untitled Kanban 1 — empty board archived 2026-05-31",
+    "target": "Logs/helix-sessions/gemini-2026-07-03/COMBINED_PHASE1_2",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/breath-of-the-astral-year-cover-spec",
+    "target": "Logs/helix-sessions/gemini-2026-07-03/session-log",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/breath-of-the-astral-year-kdp-format-spec",
+    "target": "MIGRATION-MANIFEST-2026-06-15",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/audience-expansion",
+    "target": "MIGRATION-MANIFEST-2026-06-21",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/positioning-memo",
+    "target": "PHAROS-AI CHANGE TRACKER",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/sales-page-outline",
+    "target": "TASKS",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/source-completions/agents/05-quality-auditor",
+    "target": "council-orchestration-mapping",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/source-completions/examples/03-bug-triage-and-fix",
+    "target": "council-risk-flag-multi-agent-orchestration",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/source-completions/examples/05-post-incident-retrospective",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/source-completions/validation/02-operational-content-check",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/ttrpg-repack/BRAND-DECISION",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/ttrpg-repack/manuscript/01-the-doctrine",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/ttrpg-repack/manuscript/02-operations",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/ttrpg-repack/manuscript/03-audit",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/ttrpg-repack/manuscript/_archive_00-introduction-v0.2-long-form",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/ttrpg-repack/manuscript/_audit_dimension-F-2026-05-24",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/ttrpg-repack/manuscript/charge-and-circle-publish-ready",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/elemental-agents/ttrpg-repack/reddit-drafts/reddit-r-rpgdesign-post",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "assets/manuscripts/queering-neo-pagan-magic-mrw-2026/_archive_superseded_2026-05-31/source_uploads/Lepage--Queering Pagan Magic--MRW revision",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "graphify-out/2026-06-30/GRAPH_REPORT",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "graphify-out/2026-07-01/GRAPH_REPORT",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "graphify-out/GRAPH_REPORT",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "graphify-out/converted/pharos-inventory-2026-04-18_b9b1ffde",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "raw/Clippings/AI Recruiting Has an Accessibility Problem",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "raw/D-drive-scan-2026-05-12/MANIFEST",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "raw/D-drive-scan-2026-05-12/elemental-agents/README",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "raw/D-drive-scan-2026-05-12/elemental-agents/combinations/README",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "raw/Desktop-Downloads-scan-2026-05-12/MANIFEST",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "raw/README",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "resources/mtl-01-access",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "templates/OS_Record_Template",
-    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "templates/Weekly Review Template",
+    "target": "scripts/retired/README",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
@@ -10711,6 +10666,11 @@
   },
   {
     "source": "Root Loose Notes Cluster Map — 2026-05-06",
+    "target": "wiki/genealogy/test",
+    "source_path": "wiki/Root Loose Notes Cluster Map — 2026-05-06.md"
+  },
+  {
+    "source": "Root Loose Notes Cluster Map — 2026-05-06",
     "target": "wiki/orphan-index/Orphan Index — Root Loose Notes — 2026-05-06",
     "source_path": "wiki/Root Loose Notes Cluster Map — 2026-05-06.md"
   },
@@ -10758,6 +10718,31 @@
     "source": "Vault Health — 2026-07-05",
     "target": "wikilink",
     "source_path": "wiki/Vault Health — 2026-07-05.md"
+  },
+  {
+    "source": "WIKI-ROUTING-REPORT",
+    "target": "_vault/PARA-MIGRATION-MANIFEST-2026-07-08",
+    "source_path": "wiki/WIKI-ROUTING-REPORT.md"
+  },
+  {
+    "source": "Wiki MOC",
+    "target": "wiki/Home",
+    "source_path": "wiki/Wiki MOC.md"
+  },
+  {
+    "source": "Wiki MOC",
+    "target": "wiki/VAULT ADDITIONS TRACKER",
+    "source_path": "wiki/Wiki MOC.md"
+  },
+  {
+    "source": "Wiki MOC",
+    "target": "wiki/memory",
+    "source_path": "wiki/Wiki MOC.md"
+  },
+  {
+    "source": "Wiki MOC",
+    "target": "wiki/session-state",
+    "source_path": "wiki/Wiki MOC.md"
   },
   {
     "source": "Workflows Hub",
@@ -11397,6 +11382,16 @@
   {
     "source": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
     "target": "wiki/Argus Audit — Phase 3A/3B/3C/3D Relinking Campaign (2026-05-06)",
+    "source_path": "wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
+    "target": "wiki/genealogy/Martin Voice Spec — Stage Map",
+    "source_path": "wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
+    "target": "wiki/genealogy/Martin Voice Spec — Version Genealogy",
     "source_path": "wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06.md"
   },
   {
@@ -15676,7 +15671,342 @@
   },
   {
     "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/README",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/content-inventory-cartographer/SKILL",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/content-inventory-cartographer/references/ecosystem",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/content-inventory-cartographer/references/evolution",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/content-inventory-cartographer/references/method",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/content-inventory-cartographer/references/subjectivity",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/demand-scout/SKILL",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/demand-scout/references/ecosystem",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/demand-scout/references/evolution",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/demand-scout/references/method",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/demand-scout/references/subjectivity",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/graph-retrieval-cartographer/SKILL",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/graph-retrieval-cartographer/references/ecosystem",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/graph-retrieval-cartographer/references/evolution",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/graph-retrieval-cartographer/references/method",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/graph-retrieval-cartographer/references/subjectivity",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/intake-triager/SKILL",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/intake-triager/references/ecosystem",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/intake-triager/references/evolution",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/intake-triager/references/method",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/intake-triager/references/subjectivity",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/listing-creative-director/SKILL",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/listing-creative-director/references/ecosystem",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/listing-creative-director/references/evolution",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/listing-creative-director/references/method",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/listing-creative-director/references/subjectivity",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/marketplace-dispatcher/SKILL",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/marketplace-dispatcher/references/ecosystem",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/marketplace-dispatcher/references/evolution",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/marketplace-dispatcher/references/method",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/marketplace-dispatcher/references/subjectivity",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/metadata-link-warden/SKILL",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/metadata-link-warden/references/ecosystem",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/metadata-link-warden/references/evolution",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/metadata-link-warden/references/method",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/metadata-link-warden/references/subjectivity",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/offer-pricing-architect/SKILL",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/offer-pricing-architect/references/ecosystem",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/offer-pricing-architect/references/evolution",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/offer-pricing-architect/references/method",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/offer-pricing-architect/references/subjectivity",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/raw-archivist/SKILL",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/raw-archivist/references/ecosystem",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/raw-archivist/references/evolution",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/raw-archivist/references/method",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/raw-archivist/references/subjectivity",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
     "target": "personal-assistant-agents/revenue-support-optimizer/SKILL",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/revenue-support-optimizer/references/ecosystem",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/revenue-support-optimizer/references/evolution",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/revenue-support-optimizer/references/method",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/revenue-support-optimizer/references/subjectivity",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/rights-policy-warden/SKILL",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/rights-policy-warden/references/ecosystem",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/rights-policy-warden/references/evolution",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/rights-policy-warden/references/method",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/rights-policy-warden/references/subjectivity",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/synthesis-editor/SKILL",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/synthesis-editor/references/ecosystem",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/synthesis-editor/references/evolution",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/synthesis-editor/references/method",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/synthesis-editor/references/subjectivity",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/trismegiste/README",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/trismegiste/vault/CLAUDE",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/trismegiste/vault/raw/README",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/trismegiste/vault/skills/README",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/trismegiste/vault/skills/skill-synthesis",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/trismegiste/vault/wiki/README",
+    "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
+  },
+  {
+    "source": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "target": "personal-assistant-agents/trismegiste/vault/wiki/hub-projects",
     "source_path": "wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md"
   },
   {
