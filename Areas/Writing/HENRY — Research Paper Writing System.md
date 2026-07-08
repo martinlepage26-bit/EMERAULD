@@ -53,7 +53,7 @@ backlinks:
 - '[[memory/agents/Learning]]'
 - '[[projects/Papers — Fisher King Project State]]'
 - '[[session-state]]'
-- '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'
+- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # HENRY — Research Paper Writing System

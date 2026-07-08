@@ -56,7 +56,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
-- '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
 - '[[memory/agents/Journal]]'
 - '[[wiki/skills/observability-governance]]'
 ---

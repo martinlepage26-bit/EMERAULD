@@ -50,7 +50,7 @@ backlinks:
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
-- '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
 - '[[governance/governance-index]]'
 - '[[governance/hephaistos/AGENTS]]'
 - '[[governance/hephaistos/AGENT_AUDIT_2026-04-23]]'

@@ -151,7 +151,7 @@ backlinks:
 - '[[Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[Welcome]]'
-- '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
+- '[[Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
 - '[[Areas/Writing/Wicca 2.0 — Version Genealogy]]'
 - '[[_vault/AGENTS]]'

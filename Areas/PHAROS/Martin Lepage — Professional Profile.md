@@ -129,7 +129,7 @@ backlinks:
 - '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
-- '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
+- '[[Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

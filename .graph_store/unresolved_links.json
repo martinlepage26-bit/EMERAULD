@@ -2900,6 +2900,11 @@
     "source_path": "Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance.md"
   },
   {
+    "source": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "target": "changelog",
+    "source_path": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code.md"
+  },
+  {
     "source": "Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s)",
     "target": "Book of beliefs and theories 2000s",
     "source_path": "Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s).md"
@@ -15758,11 +15763,6 @@
     "source": "bridges/Bridge — Responses API Fundamentals",
     "target": "Responses API Fundamentals",
     "source_path": "wiki/bridges/Bridge — Responses API Fundamentals.md"
-  },
-  {
-    "source": "claude-mem — Persistent Memory Compression for Claude Code",
-    "target": "changelog",
-    "source_path": "wiki/claude-mem — Persistent Memory Compression for Claude Code.md"
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",

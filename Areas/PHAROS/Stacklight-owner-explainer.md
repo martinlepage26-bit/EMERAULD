@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'
+- '[[Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'
 - '[[memory/daily/2026-06-30]]'
 - '[[memory/daily/2026-07-01]]'
 - '[[session-state]]'

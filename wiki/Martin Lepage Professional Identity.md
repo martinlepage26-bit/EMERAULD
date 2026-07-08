@@ -56,10 +56,10 @@ backlinks:
 - '[[Areas/Writing/Sealed Card Protocol — Version Genealogy]]'
 - '[[Areas/PHAROS/Strategic Storytelling in the AI Economy]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
-- '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'
+- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # Martin Lepage Professional Identity

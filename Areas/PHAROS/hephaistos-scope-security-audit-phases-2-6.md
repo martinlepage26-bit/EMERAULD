@@ -3,11 +3,10 @@ type: hephaistos-scope-packet
 title: 'HEPHAISTOS → Queen Keyport Scope Packet: Security Audit Phases 2-6'
 aliases:
 - 'HEPHAISTOS → Queen Keyport Scope Packet: Security Audit Phases 2-6'
-- wiki/hephaistos-scope-security-audit-phases-2-6
 status: active
 created: '2026-07-03'
-vault_area: wiki
-canonical_path: wiki/hephaistos-scope-security-audit-phases-2-6.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6.md
 schema: hephaistos-to-queen-keyport.md
 handoff_version: '1.0'
 task_id: security-audit-phases-2-6-20260703

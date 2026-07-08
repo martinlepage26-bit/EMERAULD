@@ -38,7 +38,7 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Resources/RAG-Anything — Multimodal RAG Framework]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
 - '[[hephaistos/personal-assistant-agents/trismegiste/README]]'
 - '[[memory/daily/2026-04-24]]'
 ---

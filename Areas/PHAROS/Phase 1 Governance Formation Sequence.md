@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
-- '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
+- '[[Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

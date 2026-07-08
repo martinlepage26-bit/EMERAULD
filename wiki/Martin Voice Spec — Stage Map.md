@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
-- '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'
+- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # Martin Voice Spec — Stage Map

@@ -47,7 +47,7 @@ backlinks:
 - '[[Areas/Writing/The Returning Light — Monograph]]'
 - '[[Areas/Writing/The Wheel and the Watcher]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
-- '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Events]]'
 - '[[memory/agents/Journal]]'

@@ -81,7 +81,7 @@ backlinks:
 - '[[Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming]]'
 - '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
-- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[Areas/Writing/Wicca 2.0 — Version Genealogy]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'

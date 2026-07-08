@@ -3,11 +3,10 @@ type: hephaistos-scope-packet
 title: 'HEPHAISTOS → Queen Keyport Scope Packet: Argus Drift-Audit on multi-agent-orchestration'
 aliases:
 - 'HEPHAISTOS → Queen Keyport Scope Packet: Argus Drift-Audit on multi-agent-orchestration'
-- wiki/argus-drift-audit-scope-multi-agent-orchestration
 status: active
 created: '2026-07-03'
-vault_area: wiki
-canonical_path: wiki/argus-drift-audit-scope-multi-agent-orchestration.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration.md
 schema: hephaistos-to-queen-keyport.md
 handoff_version: '1.0'
 task_id: argus-drift-audit-mao-20260703

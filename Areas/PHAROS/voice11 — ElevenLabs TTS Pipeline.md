@@ -9,7 +9,6 @@ aliases:
 - mlen
 - Quebec voice
 - canonical voice sample
-- wiki/voice11 — ElevenLabs TTS Pipeline
 tags:
 - tooling
 - voice
@@ -18,7 +17,7 @@ tags:
 - elevenlabs
 - voice-spec
 - quebec-english
-- wiki
+- areas
 - voice11-elevenlabs-tts-pipeline-md
 - mlen
 - render
@@ -27,8 +26,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/voice11 — ElevenLabs TTS Pipeline.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline.md
 backlink_count: 5
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

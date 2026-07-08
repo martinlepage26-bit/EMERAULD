@@ -6,14 +6,13 @@ aliases:
 - peer network
 - MCP peers
 - multi-agent communication
-- wiki/claude-peers-mcp — Claude Peer Network
 tags:
 - tooling
 - mcp
 - multi-agent
 - claude-code
 - infrastructure
-- wiki
+- areas
 - claude-peers-mcp-claude-peer-network-md
 - peers
 - claude
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/claude-peers-mcp — Claude Peer Network.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/claude-peers-mcp — Claude Peer Network.md
 backlink_count: 11
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

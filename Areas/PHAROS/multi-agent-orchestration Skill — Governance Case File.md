@@ -5,7 +5,6 @@ aliases:
 - multi-agent-orchestration
 - multi-agent-orchestration skill
 - skill governance case file
-- wiki/multi-agent-orchestration Skill — Governance Case File
 tags:
 - skills
 - governance
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-07-03'
 updated: '2026-07-03'
-vault_area: wiki
-canonical_path: wiki/multi-agent-orchestration Skill — Governance Case File.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File.md
 ---
 
 # multi-agent-orchestration Skill — Governance Case File

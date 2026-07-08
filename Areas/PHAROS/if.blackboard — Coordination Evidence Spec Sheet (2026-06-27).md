@@ -7,7 +7,6 @@ aliases:
 - InfraFabric Blackboard
 - Blackboard
 - if.tasks
-- wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)
 tags:
 - infrafabric
 - blackboard
@@ -17,7 +16,7 @@ tags:
 - governance
 - mcp
 - tool-spec
-- wiki
+- areas
 - if-blackboard-coordination-evidence-spec-sheet-2026-06-27-md
 - redirected
 - task
@@ -26,8 +25,8 @@ tags:
 status: active
 created: '2026-06-27'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27).md
 backlink_count: 12
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
@@ -37,19 +36,14 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[wiki/if.switchboard — InfraFabric Product Center]]'
+- '[[Areas/PHAROS/if.switchboard — InfraFabric Product Center]]'
 - '[[memory/daily/2026-06-27]]'
 - '[[memory/daily/2026-06-30]]'
 - '[[memory/daily/2026-07-01]]'
 - '[[session-state]]'
-evidence_boundary: Local InfraFabric canon plus public endpoint liveness check from
-  this machine on 2026-06-27; no authenticated remote write test performed. Access-pattern
-  section updated 2026-07-01 against the R0.5 Postgres authority runbook (2026-06-29)
-  and mtl-03 handover (2026-06-30); durable-authority claims not independently re-tested
-  from this session.
+evidence_boundary: Local InfraFabric canon plus public endpoint liveness check from this machine on 2026-06-27; no authenticated remote write test performed. Access-pattern section updated 2026-07-01 against the R0.5 Postgres authority runbook (2026-06-29) and mtl-03 handover (2026-06-30); durable-authority claims not independently re-tested from this session.
 local_sources:
-- raw sources/infrafabric-archive/if.blackboard Full Explainer v1.3 (Multi-Audience,
-  Split-Boundary Strict).md
+- raw sources/infrafabric-archive/if.blackboard Full Explainer v1.3 (Multi-Audience, Split-Boundary Strict).md
 - governance/global/AGENTS.md
 - governance/hephaistos/PHASE-2-INTEGRATION-ROADMAP.md
 - governance/hephaistos/BOWIE.md

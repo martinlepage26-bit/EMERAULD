@@ -90,7 +90,7 @@ backlinks:
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
 - '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
-- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 ---

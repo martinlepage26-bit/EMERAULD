@@ -48,7 +48,7 @@ backlinks:
 - '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
   — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
 - '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
-- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

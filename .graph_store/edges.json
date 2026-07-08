@@ -436,6 +436,31 @@
   },
   {
     "source": "AI Infrastructure Stack",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "Areas/PHAROS/if.switchboard — InfraFabric Product Center",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
     "target": "Areas/Personal/Personal and Projects MOC",
     "count": 2
   },
@@ -551,32 +576,7 @@
   },
   {
     "source": "AI Infrastructure Stack",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
-    "count": 1
-  },
-  {
-    "source": "AI Infrastructure Stack",
-    "target": "claude-peers-mcp — Claude Peer Network",
-    "count": 1
-  },
-  {
-    "source": "AI Infrastructure Stack",
-    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
-    "count": 1
-  },
-  {
-    "source": "AI Infrastructure Stack",
-    "target": "if.switchboard — InfraFabric Product Center",
-    "count": 1
-  },
-  {
-    "source": "AI Infrastructure Stack",
     "target": "memory",
-    "count": 1
-  },
-  {
-    "source": "AI Infrastructure Stack",
-    "target": "voice11 — ElevenLabs TTS Pipeline",
     "count": 1
   },
   {
@@ -2756,6 +2756,11 @@
   },
   {
     "source": "Areas/PHAROS/Claude Code Skill Corpus",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Claude Code Skill Corpus",
     "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
     "count": 2
   },
@@ -2782,11 +2787,6 @@
   {
     "source": "Areas/PHAROS/Claude Code Skill Corpus",
     "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Claude Code Skill Corpus",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
     "count": 1
   },
   {
@@ -4496,6 +4496,11 @@
   },
   {
     "source": "Areas/PHAROS/GSD — Get Shit Done Context Engineering System",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/GSD — Get Shit Done Context Engineering System",
     "target": "Areas/governanceframework/README",
     "count": 1
   },
@@ -4503,11 +4508,6 @@
     "source": "Areas/PHAROS/GSD — Get Shit Done Context Engineering System",
     "target": "LightRAG — Graph-Based RAG System",
     "count": 2
-  },
-  {
-    "source": "Areas/PHAROS/GSD — Get Shit Done Context Engineering System",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
-    "count": 1
   },
   {
     "source": "Areas/PHAROS/GSD — Get-Shit-Done Claude Code System",
@@ -4526,12 +4526,12 @@
   },
   {
     "source": "Areas/PHAROS/GSD — Get-Shit-Done Claude Code System",
-    "target": "LightRAG — Graph-Based RAG System",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
     "count": 2
   },
   {
     "source": "Areas/PHAROS/GSD — Get-Shit-Done Claude Code System",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
+    "target": "LightRAG — Graph-Based RAG System",
     "count": 2
   },
   {
@@ -5396,6 +5396,16 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis",
     "count": 1
   },
@@ -5577,6 +5587,11 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
     "count": 1
   },
   {
@@ -5817,11 +5832,6 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Supersession Registry",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
     "count": 1
   },
   {
@@ -6117,11 +6127,6 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "artifacts/marketplace/promo/social-posts",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "claude-peers-mcp — Claude Peer Network",
     "count": 1
   },
   {
@@ -6452,11 +6457,6 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "memory/local-session/user_ethical_ground",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "multi-agent-orchestration Skill — Governance Case File",
     "count": 1
   },
   {
@@ -7421,6 +7421,11 @@
   },
   {
     "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "count": 1
   },
@@ -7487,11 +7492,6 @@
   {
     "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
     "target": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "target": "claude-peers-mcp — Claude Peer Network",
     "count": 1
   },
   {
@@ -8006,6 +8006,11 @@
   },
   {
     "source": "Areas/PHAROS/InfraFabric Architecture",
+    "target": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Architecture",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "count": 1
   },
@@ -8023,11 +8028,6 @@
     "source": "Areas/PHAROS/InfraFabric Architecture",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
     "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/InfraFabric Architecture",
-    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
-    "count": 2
   },
   {
     "source": "Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame",
@@ -8096,6 +8096,11 @@
   },
   {
     "source": "Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame",
     "target": "Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building",
     "count": 1
   },
@@ -8136,11 +8141,6 @@
   },
   {
     "source": "Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame",
-    "target": "claude-peers-mcp — Claude Peer Network",
-    "count": 2
-  },
-  {
-    "source": "Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame",
     "target": "trismegiste-state",
     "count": 2
   },
@@ -8176,22 +8176,22 @@
   },
   {
     "source": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
+    "target": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
     "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 2
   },
   {
     "source": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
     "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
-    "target": "claude-peers-mcp — Claude Peer Network",
-    "count": 2
-  },
-  {
-    "source": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
-    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "count": 1
   },
   {
@@ -8216,7 +8216,7 @@
   },
   {
     "source": "Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
-    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "target": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "count": 4
   },
   {
@@ -8541,6 +8541,16 @@
   },
   {
     "source": "Areas/PHAROS/MCP and Runtime Integration MOC",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/MCP and Runtime Integration MOC",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/MCP and Runtime Integration MOC",
     "target": "Areas/Writing/Legitimacy Machines MOC",
     "count": 1
   },
@@ -8567,16 +8577,6 @@
   {
     "source": "Areas/PHAROS/MCP and Runtime Integration MOC",
     "target": "archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/MCP and Runtime Integration MOC",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/MCP and Runtime Integration MOC",
-    "target": "claude-peers-mcp — Claude Peer Network",
     "count": 1
   },
   {
@@ -9061,6 +9061,11 @@
   },
   {
     "source": "Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill",
     "target": "Areas/Personal/Personal and Projects MOC",
     "count": 1
   },
@@ -9078,11 +9083,6 @@
     "source": "Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill",
     "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE",
     "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
-    "count": 2
   },
   {
     "source": "Areas/PHAROS/Obsidian Agent Vault — Asset Canon",
@@ -9296,6 +9296,16 @@
   },
   {
     "source": "Areas/PHAROS/Obsidian Second Brain Product",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Obsidian Second Brain Product",
+    "target": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Obsidian Second Brain Product",
     "target": "Areas/Personal/Personal and Projects MOC",
     "count": 1
   },
@@ -9337,16 +9347,6 @@
   {
     "source": "Areas/PHAROS/Obsidian Second Brain Product",
     "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/SANITIZATION-REPORT",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Obsidian Second Brain Product",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Obsidian Second Brain Product",
-    "target": "voice11 — ElevenLabs TTS Pipeline",
     "count": 1
   },
   {
@@ -11711,7 +11711,7 @@
   },
   {
     "source": "Areas/PHAROS/Phase 1 Governance Formation Sequence",
-    "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "target": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
     "count": 2
   },
   {
@@ -14921,17 +14921,17 @@
   },
   {
     "source": "Areas/PHAROS/Stacklight-owner-explainer",
+    "target": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Stacklight-owner-explainer",
     "target": "Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)",
     "count": 1
   },
   {
     "source": "Areas/PHAROS/Stacklight-owner-explainer",
     "target": "governance/governance-index",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Stacklight-owner-explainer",
-    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "count": 1
   },
   {
@@ -15435,6 +15435,236 @@
     "count": 2
   },
   {
+    "source": "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration",
+    "target": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration",
+    "target": "Areas/PHAROS/security-audit-plan",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration",
+    "target": "adr/0001-skill-acquisition-strategy",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "target": "Areas/PHAROS/Claude Code Skill Corpus",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "target": "Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "target": "Areas/PHAROS/Trismégiste — Personal AI Assistant",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "target": "Areas/governanceframework/README",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "target": "LightRAG — Graph-Based RAG System",
+    "count": 5
+  },
+  {
+    "source": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "target": "Resources/Plugin Recommendations",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "target": "Areas/PHAROS/InfraFabric Architecture",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "target": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "target": "Areas/PHAROS/ROOK — Session Boundary Model",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "target": "Areas/governanceframework/README",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
+    "target": "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
+    "target": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
+    "target": "Areas/PHAROS/security-audit-plan",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
+    "target": "VAULT ADDITIONS TRACKER",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
+    "target": "adr/0001-skill-acquisition-strategy",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "target": "Areas/PHAROS/InfraFabric Architecture",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "target": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "target": "Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "target": "Areas/PHAROS/Stacklight-owner-explainer",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/if.switchboard — InfraFabric Product Center",
+    "target": "AI Infrastructure Stack",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/if.switchboard — InfraFabric Product Center",
+    "target": "Areas/PHAROS/InfraFabric Architecture",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/if.switchboard — InfraFabric Product Center",
+    "target": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/if.switchboard — InfraFabric Product Center",
+    "target": "Areas/PHAROS/ROOK — Session Boundary Model",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/if.switchboard — InfraFabric Product Center",
+    "target": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "target": "Areas/PHAROS/Argus",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "target": "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "target": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "target": "Areas/PHAROS/security-audit-plan",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "target": "Master Project Tracker — 2026",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "target": "adr/0001-skill-acquisition-strategy",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/security-audit-plan",
+    "target": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "target": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "target": "Areas/Writing/HENRY — Research Paper Writing System",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "target": "Martin Lepage Professional Identity",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "target": "Martin Voice Spec — Stage Map",
+    "count": 2
+  },
+  {
     "source": "Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s)",
     "target": "Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework",
     "count": 1
@@ -15851,6 +16081,26 @@
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
     "target": "Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis",
     "count": 1
   },
@@ -16251,21 +16501,6 @@
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
-    "count": 1
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "claude-peers-mcp — Claude Peer Network",
-    "count": 1
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
-    "count": 1
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
     "target": "memory",
     "count": 1
   },
@@ -16293,11 +16528,6 @@
     "source": "Areas/Personal/Personal and Projects MOC",
     "target": "trismegiste-state",
     "count": 2
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "voice11 — ElevenLabs TTS Pipeline",
-    "count": 1
   },
   {
     "source": "Areas/Personal/Rest and Consolidation Guide — Martin",
@@ -18481,6 +18711,11 @@
   },
   {
     "source": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
+    "target": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "count": 3
+  },
+  {
+    "source": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
     "target": "Governance Controls and Mechanisms",
     "count": 1
   },
@@ -18488,11 +18723,6 @@
     "source": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
     "target": "Resources/Recursive Governance Theory",
     "count": 1
-  },
-  {
-    "source": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
-    "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "count": 3
   },
   {
     "source": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
@@ -18911,6 +19141,11 @@
   },
   {
     "source": "Areas/Writing/HENRY — Research Paper Writing System",
+    "target": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "count": 3
+  },
+  {
+    "source": "Areas/Writing/HENRY — Research Paper Writing System",
     "target": "Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline",
     "count": 1
   },
@@ -18948,11 +19183,6 @@
     "source": "Areas/Writing/HENRY — Research Paper Writing System",
     "target": "Areas/Writing/Writing and Novels MOC",
     "count": 1
-  },
-  {
-    "source": "Areas/Writing/HENRY — Research Paper Writing System",
-    "target": "voice11 — ElevenLabs TTS Pipeline",
-    "count": 3
   },
   {
     "source": "Areas/Writing/HEXA Press — Publishing and Practice Initiative",
@@ -19566,6 +19796,11 @@
   },
   {
     "source": "Areas/Writing/Legitimacy Machines MOC",
+    "target": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Legitimacy Machines MOC",
     "target": "Areas/Writing/Writing and Novels MOC",
     "count": 1
   },
@@ -19592,11 +19827,6 @@
   {
     "source": "Areas/Writing/Legitimacy Machines MOC",
     "target": "Novel and Creative Corpus",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Legitimacy Machines MOC",
-    "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
     "count": 1
   },
   {
@@ -20136,6 +20366,16 @@
   },
   {
     "source": "Areas/Writing/Manuscript Pipeline MOC",
+    "target": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Manuscript Pipeline MOC",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Manuscript Pipeline MOC",
     "target": "Areas/governanceframework/README",
     "count": 1
   },
@@ -20162,16 +20402,6 @@
   {
     "source": "Areas/Writing/Manuscript Pipeline MOC",
     "target": "Skill Domain — Research and Scholarly Work",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Manuscript Pipeline MOC",
-    "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Manuscript Pipeline MOC",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -20371,6 +20601,11 @@
   },
   {
     "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
     "target": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
     "count": 2
   },
@@ -20408,11 +20643,6 @@
     "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
     "target": "genealogy/Martin Voice Spec — Version Genealogy",
     "count": 1
-  },
-  {
-    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
-    "target": "voice11 — ElevenLabs TTS Pipeline",
-    "count": 2
   },
   {
     "source": "Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries",
@@ -20456,7 +20686,7 @@
   },
   {
     "source": "Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -21351,7 +21581,17 @@
   },
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "target": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -21496,16 +21736,6 @@
   },
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)",
     "count": 2
   },
@@ -21566,6 +21796,11 @@
   },
   {
     "source": "Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
     "target": "Martin Lepage Professional Identity",
     "count": 1
   },
@@ -21577,11 +21812,6 @@
   {
     "source": "Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
     "target": "Queering Neo-Pagan Magic — 2026 Paper",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -22086,6 +22316,11 @@
   },
   {
     "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
     "target": "Areas/Writing/Wicca 2.0 — Version Genealogy",
     "count": 1
   },
@@ -22198,11 +22433,6 @@
     "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
     "target": "Resources/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography",
     "count": 1
-  },
-  {
-    "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "count": 2
   },
   {
     "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
@@ -22661,7 +22891,7 @@
   },
   {
     "source": "Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
-    "target": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
     "count": 3
   },
   {
@@ -23281,6 +23511,11 @@
   },
   {
     "source": "Areas/Writing/Research and Papers MOC",
+    "target": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Research and Papers MOC",
     "target": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
     "count": 1
   },
@@ -23648,11 +23883,6 @@
     "source": "Areas/Writing/Research and Papers MOC",
     "target": "Skill Domain — Research and Scholarly Work",
     "count": 1
-  },
-  {
-    "source": "Areas/Writing/Research and Papers MOC",
-    "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "count": 2
   },
   {
     "source": "Areas/Writing/Research and Papers MOC",
@@ -24416,6 +24646,11 @@
   },
   {
     "source": "Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
+    "target": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "count": 3
+  },
+  {
+    "source": "Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
     "target": "Areas/Writing/Writing and Novels MOC",
     "count": 1
   },
@@ -24423,11 +24658,6 @@
     "source": "Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
     "target": "Queering Neo-Pagan Magic — 2006 Paper",
     "count": 1
-  },
-  {
-    "source": "Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
-    "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "count": 3
   },
   {
     "source": "Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging",
@@ -24496,13 +24726,13 @@
   },
   {
     "source": "Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "target": "Consent and Boundary Frameworks",
-    "count": 1
+    "target": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "count": 3
   },
   {
     "source": "Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "count": 3
+    "target": "Consent and Boundary Frameworks",
+    "count": 1
   },
   {
     "source": "Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging",
@@ -26510,6 +26740,101 @@
     "count": 2
   },
   {
+    "source": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "target": "Areas/PHAROS/Phase 1 Governance Formation Sequence",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "target": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "target": "Areas/Writing/HEXA Press — Publishing and Practice Initiative",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "target": "Areas/Writing/Manuscript Pipeline MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "target": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "target": "Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "target": "Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "target": "Areas/Writing/The Wheel and the Watcher",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "AI Governance Failure Cases",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 3
+  },
+  {
+    "source": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "Authority, Legitimacy, and Post-Sovereignty",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "Governance Controls and Mechanisms",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "Resources/Recursive Governance Theory",
+    "count": 1
+  },
+  {
     "source": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
     "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "count": 3
@@ -26567,6 +26892,61 @@
   {
     "source": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
     "target": "Queering Neo-Pagan Magic — 2026 Paper",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "target": "Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "target": "Areas/Writing/Manuscript Pipeline MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "target": "Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "target": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
+    "count": 3
+  },
+  {
+    "source": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "target": "Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "target": "Martin Lepage Professional Identity",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "target": "Queer Theory Foundations",
     "count": 1
   },
   {
@@ -27936,13 +28316,13 @@
   },
   {
     "source": "Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)",
-    "target": "WSL and System Storage Recovery — Quick Wins Checklist",
-    "count": 1
+    "target": "archive/session-state/session-state-003",
+    "count": 2
   },
   {
     "source": "Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)",
-    "target": "archive/session-state/session-state-003",
-    "count": 2
+    "target": "archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist",
+    "count": 1
   },
   {
     "source": "Consent and Boundary Frameworks",
@@ -28436,6 +28816,11 @@
   },
   {
     "source": "EMERAULD",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD",
     "target": "Areas/Writing/Legitimacy Machines MOC",
     "count": 1
   },
@@ -28467,11 +28852,6 @@
   {
     "source": "EMERAULD",
     "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home",
-    "count": 1
-  },
-  {
-    "source": "EMERAULD",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
     "count": 1
   },
   {
@@ -28531,12 +28911,12 @@
   },
   {
     "source": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
-    "target": "WSL and System Storage Recovery — Quick Wins Checklist",
+    "target": "archive/session-state/session-state-003",
     "count": 1
   },
   {
     "source": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
-    "target": "archive/session-state/session-state-003",
+    "target": "archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist",
     "count": 1
   },
   {
@@ -31101,6 +31481,11 @@
   },
   {
     "source": "LightRAG — Graph-Based RAG System",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "LightRAG — Graph-Based RAG System",
     "target": "Areas/governanceframework/README",
     "count": 1
   },
@@ -31113,11 +31498,6 @@
     "source": "LightRAG — Graph-Based RAG System",
     "target": "Resources/RAG-Anything — Multimodal RAG Framework",
     "count": 4
-  },
-  {
-    "source": "LightRAG — Graph-Based RAG System",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
-    "count": 1
   },
   {
     "source": "MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS",
@@ -31511,6 +31891,11 @@
   },
   {
     "source": "Martin Lepage Professional Identity",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "count": 1
+  },
+  {
+    "source": "Martin Lepage Professional Identity",
     "target": "Areas/Writing/Writing and Novels MOC",
     "count": 2
   },
@@ -31567,11 +31952,6 @@
   {
     "source": "Martin Lepage Professional Identity",
     "target": "September 2024 Research Retrospective",
-    "count": 1
-  },
-  {
-    "source": "Martin Lepage Professional Identity",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -36011,17 +36391,17 @@
   },
   {
     "source": "Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "count": 1
+  },
+  {
+    "source": "Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
     "target": "Queer Theory Foundations",
     "count": 1
   },
   {
     "source": "Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
     "target": "Resources/Qualitative Handbook — Expanded Reference List",
-    "count": 1
-  },
-  {
-    "source": "Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -36746,17 +37126,17 @@
   },
   {
     "source": "Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "count": 1
+  },
+  {
+    "source": "Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
     "target": "Queer Theory Foundations",
     "count": 1
   },
   {
     "source": "Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
     "target": "Queering Neo-Pagan Magic — 2026 Paper",
-    "count": 1
-  },
-  {
-    "source": "Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -36771,17 +37151,17 @@
   },
   {
     "source": "Resources/RAG-Anything — Multimodal RAG Framework",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "Resources/RAG-Anything — Multimodal RAG Framework",
     "target": "LightRAG — Graph-Based RAG System",
     "count": 8
   },
   {
     "source": "Resources/RAG-Anything — Multimodal RAG Framework",
     "target": "Resources/Plugin Recommendations",
-    "count": 1
-  },
-  {
-    "source": "Resources/RAG-Anything — Multimodal RAG Framework",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
     "count": 1
   },
   {
@@ -37081,6 +37461,11 @@
   },
   {
     "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 2
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
     "target": "Areas/governanceframework/README",
     "count": 1
   },
@@ -37093,11 +37478,6 @@
     "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
     "target": "Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)",
     "count": 1
-  },
-  {
-    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
-    "count": 2
   },
   {
     "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
@@ -39215,21 +39595,6 @@
     "count": 2
   },
   {
-    "source": "WSL and System Storage Recovery — Quick Wins Checklist",
-    "target": "AI Infrastructure Stack",
-    "count": 1
-  },
-  {
-    "source": "WSL and System Storage Recovery — Quick Wins Checklist",
-    "target": "Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)",
-    "count": 1
-  },
-  {
-    "source": "WSL and System Storage Recovery — Quick Wins Checklist",
-    "target": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
-    "count": 2
-  },
-  {
     "source": "Weekly Review — 2026-06-26",
     "target": "Areas/PHAROS/AurorA — COMPASSai Input Module",
     "count": 2
@@ -39320,156 +39685,6 @@
     "count": 1
   },
   {
-    "source": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
-    "count": 1
-  },
-  {
-    "source": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "target": "Areas/PHAROS/Phase 1 Governance Formation Sequence",
-    "count": 1
-  },
-  {
-    "source": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "target": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
-    "count": 1
-  },
-  {
-    "source": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "target": "Areas/Writing/HEXA Press — Publishing and Practice Initiative",
-    "count": 1
-  },
-  {
-    "source": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "target": "Areas/Writing/Manuscript Pipeline MOC",
-    "count": 1
-  },
-  {
-    "source": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "target": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "count": 1
-  },
-  {
-    "source": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "target": "Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
-    "count": 1
-  },
-  {
-    "source": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "target": "Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "count": 1
-  },
-  {
-    "source": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "target": "Areas/Writing/The Wheel and the Watcher",
-    "count": 1
-  },
-  {
-    "source": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "target": "AI Governance Failure Cases",
-    "count": 1
-  },
-  {
-    "source": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 3
-  },
-  {
-    "source": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 1
-  },
-  {
-    "source": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
-    "count": 1
-  },
-  {
-    "source": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "target": "Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture",
-    "count": 2
-  },
-  {
-    "source": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "target": "Authority, Legitimacy, and Post-Sovereignty",
-    "count": 2
-  },
-  {
-    "source": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "target": "Governance Controls and Mechanisms",
-    "count": 2
-  },
-  {
-    "source": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "target": "Resources/Recursive Governance Theory",
-    "count": 1
-  },
-  {
-    "source": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 1
-  },
-  {
-    "source": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "target": "Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)",
-    "count": 1
-  },
-  {
-    "source": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "target": "Areas/Writing/Manuscript Pipeline MOC",
-    "count": 1
-  },
-  {
-    "source": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "target": "Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads",
-    "count": 2
-  },
-  {
-    "source": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
-    "count": 1
-  },
-  {
-    "source": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 1
-  },
-  {
-    "source": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "target": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "count": 1
-  },
-  {
-    "source": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
-    "count": 3
-  },
-  {
-    "source": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "target": "Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)",
-    "count": 1
-  },
-  {
-    "source": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "target": "Martin Lepage Professional Identity",
-    "count": 1
-  },
-  {
-    "source": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "target": "Queer Theory Foundations",
-    "count": 1
-  },
-  {
     "source": "Wiki MOC",
     "target": "2026 - Mauss - The Gift",
     "count": 1
@@ -39521,12 +39736,12 @@
   },
   {
     "source": "adr/0001-skill-acquisition-strategy",
-    "target": "argus-drift-audit-scope-multi-agent-orchestration",
+    "target": "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration",
     "count": 1
   },
   {
     "source": "adr/0001-skill-acquisition-strategy",
-    "target": "hephaistos-scope-security-audit-phases-2-6",
+    "target": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
     "count": 1
   },
   {
@@ -42281,6 +42496,16 @@
   },
   {
     "source": "archive/session-state/session-state-003",
+    "target": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 3
+  },
+  {
+    "source": "archive/session-state/session-state-003",
+    "target": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-003",
     "target": "Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis",
     "count": 1
   },
@@ -42471,11 +42696,6 @@
   },
   {
     "source": "archive/session-state/session-state-003",
-    "target": "WSL and System Storage Recovery — Quick Wins Checklist",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-003",
     "target": "Weekly Review — 2026-06-26",
     "count": 1
   },
@@ -42526,6 +42746,11 @@
   },
   {
     "source": "archive/session-state/session-state-003",
+    "target": "archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-003",
     "target": "artifacts/emerge-pattern-report-2026-06-29",
     "count": 1
   },
@@ -42533,11 +42758,6 @@
     "source": "archive/session-state/session-state-003",
     "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home",
     "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-003",
-    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
-    "count": 3
   },
   {
     "source": "archive/session-state/session-state-003",
@@ -42552,11 +42772,6 @@
   {
     "source": "archive/session-state/session-state-003",
     "target": "memory/clients/Lavoie Construct",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-003",
-    "target": "multi-agent-orchestration Skill — Governance Case File",
     "count": 1
   },
   {
@@ -42746,6 +42961,11 @@
   },
   {
     "source": "archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
+    "target": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
     "target": "Dr. Sort Corpus Map — March 2026",
     "count": 1
   },
@@ -42757,11 +42977,6 @@
   {
     "source": "archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
     "target": "Novel and Creative Corpus",
-    "count": 1
-  },
-  {
-    "source": "archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
-    "target": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
     "count": 1
   },
   {
@@ -42876,6 +43091,11 @@
   },
   {
     "source": "archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 5
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20",
     "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
     "count": 2
   },
@@ -42883,11 +43103,6 @@
     "source": "archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20",
     "target": "MASTERxMASTERxMASTER — Skill Corpus Map",
     "count": 1
-  },
-  {
-    "source": "archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20",
-    "target": "claude-peers-mcp — Claude Peer Network",
-    "count": 5
   },
   {
     "source": "archive/wiki-2026-07-08/D Drive Scan — 2026-05-12",
@@ -44131,6 +44346,11 @@
   },
   {
     "source": "archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)",
     "target": "Areas/Writing/Writing and Novels MOC",
     "count": 1
   },
@@ -44312,11 +44532,6 @@
   {
     "source": "archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)",
     "target": "Resources/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography",
-    "count": 1
-  },
-  {
-    "source": "archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -46480,28 +46695,23 @@
     "count": 1
   },
   {
-    "source": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31",
-    "target": "governance/global/AGENTS",
+    "source": "archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist",
+    "target": "AI Infrastructure Stack",
     "count": 1
   },
   {
-    "source": "argus-drift-audit-scope-multi-agent-orchestration",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "source": "archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist",
+    "target": "Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)",
     "count": 1
   },
   {
-    "source": "argus-drift-audit-scope-multi-agent-orchestration",
-    "target": "adr/0001-skill-acquisition-strategy",
+    "source": "archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist",
+    "target": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
     "count": 2
   },
   {
-    "source": "argus-drift-audit-scope-multi-agent-orchestration",
-    "target": "hephaistos-scope-security-audit-phases-2-6",
-    "count": 1
-  },
-  {
-    "source": "argus-drift-audit-scope-multi-agent-orchestration",
-    "target": "security-audit-plan",
+    "source": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31",
+    "target": "governance/global/AGENTS",
     "count": 1
   },
   {
@@ -48051,6 +48261,26 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/if.switchboard — InfraFabric Product Center",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
     "target": "Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s)",
     "count": 1
   },
@@ -48561,7 +48791,22 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
     "target": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -49086,27 +49331,7 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
-    "target": "WSL and System Storage Recovery — Quick Wins Checklist",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
     "target": "Weekly Review — 2026-06-26",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -49271,12 +49496,7 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "claude-peers-mcp — Claude Peer Network",
+    "target": "archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist",
     "count": 1
   },
   {
@@ -49287,11 +49507,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-04",
     "target": "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "if.switchboard — InfraFabric Product Center",
     "count": 1
   },
   {
@@ -49315,11 +49530,6 @@
     "count": 1
   },
   {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "voice11 — ElevenLabs TTS Pipeline",
-    "count": 1
-  },
-  {
     "source": "artifacts/stale-projects-2026-07-05",
     "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
     "count": 1
@@ -50171,6 +50381,26 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/if.switchboard — InfraFabric Product Center",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
     "target": "Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s)",
     "count": 1
   },
@@ -50681,7 +50911,22 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
     "target": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -51206,27 +51451,7 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
-    "target": "WSL and System Storage Recovery — Quick Wins Checklist",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
     "target": "Weekly Review — 2026-06-26",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -51386,22 +51611,12 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
+    "target": "archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
     "target": "artifacts/stale-projects-2026-07-04",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "claude-peers-mcp — Claude Peer Network",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "if.switchboard — InfraFabric Product Center",
     "count": 1
   },
   {
@@ -51425,11 +51640,6 @@
     "count": 1
   },
   {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "voice11 — ElevenLabs TTS Pipeline",
-    "count": 1
-  },
-  {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
     "count": 1
@@ -52281,6 +52491,26 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/if.switchboard — InfraFabric Product Center",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
     "target": "Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s)",
     "count": 1
   },
@@ -52791,7 +53021,22 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
     "target": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -53316,27 +53561,7 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-06",
-    "target": "WSL and System Storage Recovery — Quick Wins Checklist",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
     "target": "Weekly Review — 2026-06-26",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -53501,12 +53726,7 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-06",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "claude-peers-mcp — Claude Peer Network",
+    "target": "archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist",
     "count": 1
   },
   {
@@ -53517,11 +53737,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "if.switchboard — InfraFabric Product Center",
     "count": 1
   },
   {
@@ -53545,11 +53760,6 @@
     "count": 1
   },
   {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "voice11 — ElevenLabs TTS Pipeline",
-    "count": 1
-  },
-  {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
     "count": 1
@@ -54401,6 +54611,26 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/if.switchboard — InfraFabric Product Center",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
     "target": "Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s)",
     "count": 1
   },
@@ -54911,7 +55141,17 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
     "target": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -55436,22 +55676,7 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
-    "target": "WSL and System Storage Recovery — Quick Wins Checklist",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
     "target": "Weekly Review — 2026-06-26",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 1
   },
   {
@@ -55616,12 +55841,7 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
-    "target": "claude-mem — Persistent Memory Compression for Claude Code",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "claude-peers-mcp — Claude Peer Network",
+    "target": "archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist",
     "count": 1
   },
   {
@@ -55632,11 +55852,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "if.switchboard — InfraFabric Product Center",
     "count": 1
   },
   {
@@ -55657,11 +55872,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "trismegiste-state",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "voice11 — ElevenLabs TTS Pipeline",
     "count": 1
   },
   {
@@ -55883,66 +56093,6 @@
     "source": "bridges/Bridge — Responses API Fundamentals",
     "target": "Areas/Writing/Legitimacy Machines MOC",
     "count": 1
-  },
-  {
-    "source": "claude-mem — Persistent Memory Compression for Claude Code",
-    "target": "Areas/PHAROS/Claude Code Skill Corpus",
-    "count": 2
-  },
-  {
-    "source": "claude-mem — Persistent Memory Compression for Claude Code",
-    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "count": 2
-  },
-  {
-    "source": "claude-mem — Persistent Memory Compression for Claude Code",
-    "target": "Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions",
-    "count": 2
-  },
-  {
-    "source": "claude-mem — Persistent Memory Compression for Claude Code",
-    "target": "Areas/PHAROS/Trismégiste — Personal AI Assistant",
-    "count": 2
-  },
-  {
-    "source": "claude-mem — Persistent Memory Compression for Claude Code",
-    "target": "Areas/governanceframework/README",
-    "count": 1
-  },
-  {
-    "source": "claude-mem — Persistent Memory Compression for Claude Code",
-    "target": "LightRAG — Graph-Based RAG System",
-    "count": 5
-  },
-  {
-    "source": "claude-mem — Persistent Memory Compression for Claude Code",
-    "target": "Resources/Plugin Recommendations",
-    "count": 1
-  },
-  {
-    "source": "claude-peers-mcp — Claude Peer Network",
-    "target": "Areas/PHAROS/InfraFabric Architecture",
-    "count": 2
-  },
-  {
-    "source": "claude-peers-mcp — Claude Peer Network",
-    "target": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
-    "count": 2
-  },
-  {
-    "source": "claude-peers-mcp — Claude Peer Network",
-    "target": "Areas/PHAROS/ROOK — Session Boundary Model",
-    "count": 2
-  },
-  {
-    "source": "claude-peers-mcp — Claude Peer Network",
-    "target": "Areas/governanceframework/README",
-    "count": 1
-  },
-  {
-    "source": "claude-peers-mcp — Claude Peer Network",
-    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 2
   },
   {
     "source": "genealogy/Martin Voice Spec — Stage Map",
@@ -57395,36 +57545,6 @@
     "count": 1
   },
   {
-    "source": "hephaistos-scope-security-audit-phases-2-6",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "hephaistos-scope-security-audit-phases-2-6",
-    "target": "VAULT ADDITIONS TRACKER",
-    "count": 1
-  },
-  {
-    "source": "hephaistos-scope-security-audit-phases-2-6",
-    "target": "adr/0001-skill-acquisition-strategy",
-    "count": 1
-  },
-  {
-    "source": "hephaistos-scope-security-audit-phases-2-6",
-    "target": "argus-drift-audit-scope-multi-agent-orchestration",
-    "count": 1
-  },
-  {
-    "source": "hephaistos-scope-security-audit-phases-2-6",
-    "target": "multi-agent-orchestration Skill — Governance Case File",
-    "count": 1
-  },
-  {
-    "source": "hephaistos-scope-security-audit-phases-2-6",
-    "target": "security-audit-plan",
-    "count": 2
-  },
-  {
     "source": "hephaistos/DEPLOYMENT-CHECKLIST",
     "target": "Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)",
     "count": 1
@@ -58120,51 +58240,6 @@
     "count": 1
   },
   {
-    "source": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
-    "target": "Areas/PHAROS/InfraFabric Architecture",
-    "count": 3
-  },
-  {
-    "source": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
-    "target": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
-    "count": 3
-  },
-  {
-    "source": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
-    "target": "Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
-    "count": 2
-  },
-  {
-    "source": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
-    "target": "Areas/PHAROS/Stacklight-owner-explainer",
-    "count": 2
-  },
-  {
-    "source": "if.switchboard — InfraFabric Product Center",
-    "target": "AI Infrastructure Stack",
-    "count": 2
-  },
-  {
-    "source": "if.switchboard — InfraFabric Product Center",
-    "target": "Areas/PHAROS/InfraFabric Architecture",
-    "count": 3
-  },
-  {
-    "source": "if.switchboard — InfraFabric Product Center",
-    "target": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
-    "count": 1
-  },
-  {
-    "source": "if.switchboard — InfraFabric Product Center",
-    "target": "Areas/PHAROS/ROOK — Session Boundary Model",
-    "count": 1
-  },
-  {
-    "source": "if.switchboard — InfraFabric Product Center",
-    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
-    "count": 3
-  },
-  {
     "source": "lightrag_config — EMERAULD Shared Config Module",
     "target": "Architecture - EMERAULD Scripts - Intake Pipeline",
     "count": 1
@@ -58851,6 +58926,11 @@
   },
   {
     "source": "memory/agents/Blockers",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "memory/agents/Blockers",
     "target": "Areas/governanceframework/README",
     "count": 1
   },
@@ -58872,11 +58952,6 @@
   {
     "source": "memory/agents/Blockers",
     "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "memory/agents/Blockers",
-    "target": "claude-peers-mcp — Claude Peer Network",
     "count": 1
   },
   {
@@ -59416,6 +59491,11 @@
   },
   {
     "source": "memory/agents/Journal",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "memory/agents/Journal",
     "target": "Areas/Personal/Personal and Projects MOC",
     "count": 1
   },
@@ -59467,11 +59547,6 @@
   {
     "source": "memory/agents/Journal",
     "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home",
-    "count": 1
-  },
-  {
-    "source": "memory/agents/Journal",
-    "target": "claude-peers-mcp — Claude Peer Network",
     "count": 1
   },
   {
@@ -59581,6 +59656,11 @@
   },
   {
     "source": "memory/agents/Learning",
+    "target": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "memory/agents/Learning",
     "target": "Areas/Writing/HENRY — Research Paper Writing System",
     "count": 1
   },
@@ -59618,11 +59698,6 @@
     "source": "memory/agents/Learning",
     "target": "artifacts/emerge-pattern-report-2026-06-29",
     "count": 2
-  },
-  {
-    "source": "memory/agents/Learning",
-    "target": "claude-peers-mcp — Claude Peer Network",
-    "count": 1
   },
   {
     "source": "memory/agents/Learning",
@@ -60681,12 +60756,12 @@
   },
   {
     "source": "memory/daily/2026-06-22",
-    "target": "VAULT ADDITIONS TRACKER",
+    "target": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
     "count": 1
   },
   {
     "source": "memory/daily/2026-06-22",
-    "target": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "VAULT ADDITIONS TRACKER",
     "count": 1
   },
   {
@@ -60786,17 +60861,17 @@
   },
   {
     "source": "memory/daily/2026-06-23",
+    "target": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-06-23",
     "target": "Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)",
     "count": 1
   },
   {
     "source": "memory/daily/2026-06-23",
     "target": "VAULT ADDITIONS TRACKER",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-06-23",
-    "target": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
     "count": 1
   },
   {
@@ -60881,12 +60956,12 @@
   },
   {
     "source": "memory/daily/2026-06-24",
-    "target": "VAULT ADDITIONS TRACKER",
+    "target": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
     "count": 1
   },
   {
     "source": "memory/daily/2026-06-24",
-    "target": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "VAULT ADDITIONS TRACKER",
     "count": 1
   },
   {
@@ -60971,12 +61046,12 @@
   },
   {
     "source": "memory/daily/2026-06-25",
-    "target": "VAULT ADDITIONS TRACKER",
+    "target": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
     "count": 1
   },
   {
     "source": "memory/daily/2026-06-25",
-    "target": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "target": "VAULT ADDITIONS TRACKER",
     "count": 1
   },
   {
@@ -61057,6 +61132,11 @@
   {
     "source": "memory/daily/2026-06-26",
     "target": "Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-06-26",
+    "target": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
     "count": 1
   },
   {
@@ -61073,11 +61153,6 @@
     "source": "memory/daily/2026-06-26",
     "target": "Weekly Review — 2026-06-26",
     "count": 2
-  },
-  {
-    "source": "memory/daily/2026-06-26",
-    "target": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "count": 1
   },
   {
     "source": "memory/daily/2026-06-26",
@@ -61166,6 +61241,11 @@
   },
   {
     "source": "memory/daily/2026-06-27",
+    "target": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-06-27",
     "target": "Areas/Personal/Personal and Projects MOC",
     "count": 1
   },
@@ -61192,11 +61272,6 @@
   {
     "source": "memory/daily/2026-06-27",
     "target": "archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-06-27",
-    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "count": 1
   },
   {
@@ -61341,6 +61416,11 @@
   },
   {
     "source": "memory/daily/2026-06-30",
+    "target": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-06-30",
     "target": "VAULT ADDITIONS TRACKER",
     "count": 1
   },
@@ -61352,11 +61432,6 @@
   {
     "source": "memory/daily/2026-06-30",
     "target": "archive/session-state/session-state-003",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-06-30",
-    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "count": 1
   },
   {
@@ -61391,6 +61466,11 @@
   },
   {
     "source": "memory/daily/2026-07-01",
+    "target": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-07-01",
     "target": "VAULT ADDITIONS TRACKER",
     "count": 1
   },
@@ -61402,11 +61482,6 @@
   {
     "source": "memory/daily/2026-07-01",
     "target": "archive/session-state/session-state-003",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-07-01",
-    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "count": 1
   },
   {
@@ -61496,6 +61571,21 @@
   },
   {
     "source": "memory/daily/2026-07-03",
+    "target": "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-07-03",
+    "target": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-07-03",
+    "target": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-07-03",
     "target": "Governance Stress-Test Protocols — Index",
     "count": 1
   },
@@ -61525,21 +61615,6 @@
     "count": 1
   },
   {
-    "source": "memory/daily/2026-07-03",
-    "target": "argus-drift-audit-scope-multi-agent-orchestration",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-07-03",
-    "target": "hephaistos-scope-security-audit-phases-2-6",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-07-03",
-    "target": "multi-agent-orchestration Skill — Governance Case File",
-    "count": 1
-  },
-  {
     "source": "memory/daily/2026-07-04",
     "target": "Areas/PHAROS/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
     "count": 1
@@ -61566,6 +61641,16 @@
   },
   {
     "source": "memory/daily/2026-07-04",
+    "target": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-07-04",
+    "target": "Areas/PHAROS/security-audit-plan",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-07-04",
     "target": "VAULT ADDITIONS TRACKER",
     "count": 1
   },
@@ -61583,16 +61668,6 @@
     "source": "memory/daily/2026-07-04",
     "target": "artifacts/stale-projects-2026-07-04",
     "count": 2
-  },
-  {
-    "source": "memory/daily/2026-07-04",
-    "target": "multi-agent-orchestration Skill — Governance Case File",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-07-04",
-    "target": "security-audit-plan",
-    "count": 1
   },
   {
     "source": "memory/daily/2026-07-05",
@@ -61636,6 +61711,16 @@
   },
   {
     "source": "memory/daily/2026-07-05",
+    "target": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-07-05",
+    "target": "Areas/PHAROS/security-audit-plan",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-07-05",
     "target": "VAULT ADDITIONS TRACKER",
     "count": 1
   },
@@ -61662,16 +61747,6 @@
   {
     "source": "memory/daily/2026-07-05",
     "target": "memory/daily/2026-07-04",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-07-05",
-    "target": "multi-agent-orchestration Skill — Governance Case File",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-07-05",
-    "target": "security-audit-plan",
     "count": 1
   },
   {
@@ -61726,6 +61801,16 @@
   },
   {
     "source": "memory/daily/2026-07-06",
+    "target": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-07-06",
+    "target": "Areas/PHAROS/security-audit-plan",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-07-06",
     "target": "Areas/Personal/Personal and Projects MOC",
     "count": 1
   },
@@ -61762,16 +61847,6 @@
   {
     "source": "memory/daily/2026-07-06",
     "target": "memory/daily/2026-07-05",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-07-06",
-    "target": "multi-agent-orchestration Skill — Governance Case File",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-07-06",
-    "target": "security-audit-plan",
     "count": 1
   },
   {
@@ -61821,6 +61896,16 @@
   },
   {
     "source": "memory/daily/2026-07-07",
+    "target": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-07-07",
+    "target": "Areas/PHAROS/security-audit-plan",
+    "count": 1
+  },
+  {
+    "source": "memory/daily/2026-07-07",
     "target": "VAULT ADDITIONS TRACKER",
     "count": 1
   },
@@ -61847,16 +61932,6 @@
   {
     "source": "memory/daily/2026-07-07",
     "target": "memory/daily/2026-07-06",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-07-07",
-    "target": "multi-agent-orchestration Skill — Governance Case File",
-    "count": 1
-  },
-  {
-    "source": "memory/daily/2026-07-07",
-    "target": "security-audit-plan",
     "count": 1
   },
   {
@@ -62028,46 +62103,6 @@
     "source": "memory/local-session/user_ethical_ground",
     "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
     "count": 1
-  },
-  {
-    "source": "multi-agent-orchestration Skill — Governance Case File",
-    "target": "Areas/PHAROS/Argus",
-    "count": 3
-  },
-  {
-    "source": "multi-agent-orchestration Skill — Governance Case File",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 2
-  },
-  {
-    "source": "multi-agent-orchestration Skill — Governance Case File",
-    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "count": 2
-  },
-  {
-    "source": "multi-agent-orchestration Skill — Governance Case File",
-    "target": "Master Project Tracker — 2026",
-    "count": 2
-  },
-  {
-    "source": "multi-agent-orchestration Skill — Governance Case File",
-    "target": "adr/0001-skill-acquisition-strategy",
-    "count": 3
-  },
-  {
-    "source": "multi-agent-orchestration Skill — Governance Case File",
-    "target": "argus-drift-audit-scope-multi-agent-orchestration",
-    "count": 2
-  },
-  {
-    "source": "multi-agent-orchestration Skill — Governance Case File",
-    "target": "hephaistos-scope-security-audit-phases-2-6",
-    "count": 2
-  },
-  {
-    "source": "multi-agent-orchestration Skill — Governance Case File",
-    "target": "security-audit-plan",
-    "count": 2
   },
   {
     "source": "projects/AurorA — Fisher King Project State",
@@ -62471,6 +62506,11 @@
   },
   {
     "source": "projects/Stuttering Machines — Fisher King Project State",
+    "target": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "count": 2
+  },
+  {
+    "source": "projects/Stuttering Machines — Fisher King Project State",
     "target": "Fluency and Interruption Theory",
     "count": 2
   },
@@ -62478,11 +62518,6 @@
     "source": "projects/Stuttering Machines — Fisher King Project State",
     "target": "Master Project Tracker — 2026",
     "count": 1
-  },
-  {
-    "source": "projects/Stuttering Machines — Fisher King Project State",
-    "target": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "count": 2
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
@@ -62812,11 +62847,6 @@
   {
     "source": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
     "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "security-audit-plan",
-    "target": "hephaistos-scope-security-audit-phases-2-6",
     "count": 1
   },
   {
@@ -65527,36 +65557,6 @@
   {
     "source": "trismegiste-state",
     "target": "Areas/PHAROS/Trismégiste — Personal AI Assistant",
-    "count": 2
-  },
-  {
-    "source": "voice11 — ElevenLabs TTS Pipeline",
-    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 2
-  },
-  {
-    "source": "voice11 — ElevenLabs TTS Pipeline",
-    "target": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
-    "count": 2
-  },
-  {
-    "source": "voice11 — ElevenLabs TTS Pipeline",
-    "target": "Areas/Writing/HENRY — Research Paper Writing System",
-    "count": 1
-  },
-  {
-    "source": "voice11 — ElevenLabs TTS Pipeline",
-    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
-    "count": 2
-  },
-  {
-    "source": "voice11 — ElevenLabs TTS Pipeline",
-    "target": "Martin Lepage Professional Identity",
-    "count": 2
-  },
-  {
-    "source": "voice11 — ElevenLabs TTS Pipeline",
-    "target": "Martin Voice Spec — Stage Map",
     "count": 2
   }
 ]

@@ -38,7 +38,7 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[wiki/Vault Health — 2026-06-28]]'
-- '[[wiki/WSL and System Storage Recovery — Quick Wins Checklist]]'
+- '[[archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/daily/2026-06-28]]'
 - '[[session-state]]'

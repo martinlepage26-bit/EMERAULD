@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
-- '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
+- '[[Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[projects/Papers — Fisher King Project State]]'
 ---
 

@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'
+- '[[Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'
 - '[[memory/daily/2026-07-01]]'
 - '[[session-state]]'
 ---

@@ -5,14 +5,13 @@ aliases:
 - Wheels of Will
 - Wheels-of-Will
 - Wheels of Will bottle photographs
-- wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice
 tags:
 - art
 - ritual
 - research-creation
 - legitimacy
 - martin-lepage
-- wiki
+- areas
 - wheels-of-will-ritual-bottle-art-and-research-creation-practice-md
 - bottle
 - sealed
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice.md
+vault_area: Areas
+canonical_path: Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice.md
 backlink_count: 8
 backlinks:
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'

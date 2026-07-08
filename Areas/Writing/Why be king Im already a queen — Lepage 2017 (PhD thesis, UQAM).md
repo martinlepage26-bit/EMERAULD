@@ -4,7 +4,6 @@ title: Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)
 aliases:
 - '"Why be king? I''m already a queen!" — Lepage 2017'
 - Performances rituelles et négociations queer — Lepage 2017
-- wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)
 tags:
 - reference
 - thesis
@@ -17,15 +16,15 @@ tags:
 - performance
 - authenticity
 - religion
-- wiki
+- areas
 - why-be-king-im-already-a-queen-lepage-2017-phd-thesis-uqam-md
 - uqam
 - color-violet
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md
+vault_area: Areas
+canonical_path: Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md
 backlink_count: 11
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

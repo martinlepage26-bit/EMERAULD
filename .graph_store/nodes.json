@@ -3166,6 +3166,51 @@
     "backlinks": 6
   },
   {
+    "id": "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration",
+    "title": "argus-drift-audit-scope-multi-agent-orchestration",
+    "path": "Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration.md",
+    "type": "hephaistos-scope-packet",
+    "status": "active",
+    "aliases": [
+      "HEPHAISTOS → Queen Keyport Scope Packet: Argus Drift-Audit on multi-agent-orchestration"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 4,
+    "backlinks": 5
+  },
+  {
+    "id": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code",
+    "title": "claude-mem — Persistent Memory Compression for Claude Code",
+    "path": "Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "claude-mem",
+      "claude-mem Plugin — Session Memory Layer",
+      "claude-mem plugin",
+      "thedotmack/claude-mem"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 7,
+    "backlinks": 19
+  },
+  {
+    "id": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network",
+    "title": "claude-peers-mcp — Claude Peer Network",
+    "path": "Areas/PHAROS/claude-peers-mcp — Claude Peer Network.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "MCP peers",
+      "claude-peers",
+      "multi-agent communication",
+      "peer network"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 5,
+    "backlinks": 21
+  },
+  {
     "id": "Areas/PHAROS/company",
     "title": "company",
     "path": "Areas/PHAROS/company.md",
@@ -3177,6 +3222,98 @@
     "outlinks": 0,
     "unique_outlinks": 0,
     "backlinks": 10
+  },
+  {
+    "id": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6",
+    "title": "hephaistos-scope-security-audit-phases-2-6",
+    "path": "Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6.md",
+    "type": "hephaistos-scope-packet",
+    "status": "active",
+    "aliases": [
+      "HEPHAISTOS → Queen Keyport Scope Packet: Security Audit Phases 2-6"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 6,
+    "backlinks": 6
+  },
+  {
+    "id": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "title": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "path": "Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27).md",
+    "type": "tool-spec",
+    "status": "active",
+    "aliases": [
+      "Blackboard",
+      "InfraFabric Blackboard",
+      "if.blackboard",
+      "if.tasks",
+      "if_blackboard"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 4,
+    "backlinks": 19
+  },
+  {
+    "id": "Areas/PHAROS/if.switchboard — InfraFabric Product Center",
+    "title": "if.switchboard — InfraFabric Product Center",
+    "path": "Areas/PHAROS/if.switchboard — InfraFabric Product Center.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "InfraFabric Switchboard",
+      "if.switchboard"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 5,
+    "backlinks": 5
+  },
+  {
+    "id": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File",
+    "title": "multi-agent-orchestration Skill — Governance Case File",
+    "path": "Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "multi-agent-orchestration",
+      "multi-agent-orchestration skill",
+      "skill governance case file"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 8,
+    "backlinks": 8
+  },
+  {
+    "id": "Areas/PHAROS/security-audit-plan",
+    "title": "security-audit-plan",
+    "path": "Areas/PHAROS/security-audit-plan.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Scoped Plan: Security Audit Phases 2-6",
+      "security-audit-plan"
+    ],
+    "outlinks": 1,
+    "unique_outlinks": 1,
+    "backlinks": 9
+  },
+  {
+    "id": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline",
+    "title": "voice11 — ElevenLabs TTS Pipeline",
+    "path": "Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "ElevenLabs",
+      "Quebec voice",
+      "TTS",
+      "canonical voice sample",
+      "mlen",
+      "text-to-speech",
+      "voice11"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 6,
+    "backlinks": 12
   },
   {
     "id": "Areas/Personal/AREA",
@@ -5111,6 +5248,36 @@
     "backlinks": 21
   },
   {
+    "id": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "title": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "path": "Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Wheels of Will",
+      "Wheels of Will bottle photographs",
+      "Wheels-of-Will"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 10,
+    "backlinks": 20
+  },
+  {
+    "id": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "title": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
+    "path": "Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device.md",
+    "type": "wiki",
+    "status": "in-progress",
+    "aliases": [
+      "Boob and Trap book",
+      "Booby-Trap Device",
+      "Who's the Boob Who's the Trap"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 9,
+    "backlinks": 15
+  },
+  {
     "id": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
     "title": "Why Be King Im Already a Queen — Book Project",
     "path": "Areas/Writing/Why Be King Im Already a Queen — Book Project.md",
@@ -5122,6 +5289,20 @@
     "outlinks": 19,
     "unique_outlinks": 12,
     "backlinks": 31
+  },
+  {
+    "id": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "title": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "path": "Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Performances rituelles et négociations queer — Lepage 2017",
+      "Why be king? I''m already a queen!\" — Lepage 2017"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 11,
+    "backlinks": 14
   },
   {
     "id": "Areas/Writing/Wicca 2.0 — Version Genealogy",
@@ -8093,22 +8274,6 @@
     "backlinks": 2
   },
   {
-    "id": "WSL and System Storage Recovery — Quick Wins Checklist",
-    "title": "WSL and System Storage Recovery — Quick Wins Checklist",
-    "path": "wiki/WSL and System Storage Recovery — Quick Wins Checklist.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Disk Space Quick Wins",
-      "WSL Storage Recovery",
-      "vhdx compaction",
-      "wiki/WSL and System Storage Recovery — Quick Wins Checklist"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 3,
-    "backlinks": 7
-  },
-  {
     "id": "Weekly Review — 2026-06-26",
     "title": "Weekly Review — 2026-06-26",
     "path": "wiki/Weekly Review — 2026-06-26.md",
@@ -8122,53 +8287,6 @@
     "outlinks": 25,
     "unique_outlinks": 18,
     "backlinks": 52
-  },
-  {
-    "id": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "title": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
-    "path": "wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Wheels of Will",
-      "Wheels of Will bottle photographs",
-      "Wheels-of-Will",
-      "wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 10,
-    "backlinks": 20
-  },
-  {
-    "id": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "title": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "path": "wiki/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device.md",
-    "type": "wiki",
-    "status": "in-progress",
-    "aliases": [
-      "Boob and Trap book",
-      "Booby-Trap Device",
-      "Who's the Boob Who's the Trap",
-      "wiki/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 9,
-    "backlinks": 15
-  },
-  {
-    "id": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "title": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
-    "path": "wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Performances rituelles et négociations queer — Lepage 2017",
-      "Why be king? I''m already a queen!\" — Lepage 2017",
-      "wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 11,
-    "backlinks": 14
   },
   {
     "id": "Wiki MOC",
@@ -9596,6 +9714,21 @@
     "backlinks": 19
   },
   {
+    "id": "archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist",
+    "title": "WSL and System Storage Recovery — Quick Wins Checklist",
+    "path": "archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Disk Space Quick Wins",
+      "WSL Storage Recovery",
+      "vhdx compaction"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 3,
+    "backlinks": 7
+  },
+  {
     "id": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31",
     "title": "Workspace Cleanup Ledger — 2026-05-31",
     "path": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31.md",
@@ -9607,20 +9740,6 @@
     "outlinks": 1,
     "unique_outlinks": 1,
     "backlinks": 3
-  },
-  {
-    "id": "argus-drift-audit-scope-multi-agent-orchestration",
-    "title": "argus-drift-audit-scope-multi-agent-orchestration",
-    "path": "wiki/argus-drift-audit-scope-multi-agent-orchestration.md",
-    "type": "hephaistos-scope-packet",
-    "status": "active",
-    "aliases": [
-      "HEPHAISTOS → Queen Keyport Scope Packet: Argus Drift-Audit on multi-agent-orchestration",
-      "wiki/argus-drift-audit-scope-multi-agent-orchestration"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 4,
-    "backlinks": 5
   },
   {
     "id": "artifacts/2026-04-19-pharos-migration-pr4/01-deploy-config/migration-govern-to-pharos",
@@ -10966,40 +11085,6 @@
     "outlinks": 1,
     "unique_outlinks": 1,
     "backlinks": 3
-  },
-  {
-    "id": "claude-mem — Persistent Memory Compression for Claude Code",
-    "title": "claude-mem — Persistent Memory Compression for Claude Code",
-    "path": "wiki/claude-mem — Persistent Memory Compression for Claude Code.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "claude-mem",
-      "claude-mem Plugin — Session Memory Layer",
-      "claude-mem plugin",
-      "thedotmack/claude-mem",
-      "wiki/claude-mem — Persistent Memory Compression for Claude Code"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 7,
-    "backlinks": 19
-  },
-  {
-    "id": "claude-peers-mcp — Claude Peer Network",
-    "title": "claude-peers-mcp — Claude Peer Network",
-    "path": "wiki/claude-peers-mcp — Claude Peer Network.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "MCP peers",
-      "claude-peers",
-      "multi-agent communication",
-      "peer network",
-      "wiki/claude-peers-mcp — Claude Peer Network"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 5,
-    "backlinks": 21
   },
   {
     "id": "genealogy/Martin Voice Spec — Stage Map",
@@ -12606,20 +12691,6 @@
     "backlinks": 2
   },
   {
-    "id": "hephaistos-scope-security-audit-phases-2-6",
-    "title": "hephaistos-scope-security-audit-phases-2-6",
-    "path": "wiki/hephaistos-scope-security-audit-phases-2-6.md",
-    "type": "hephaistos-scope-packet",
-    "status": "active",
-    "aliases": [
-      "HEPHAISTOS → Queen Keyport Scope Packet: Security Audit Phases 2-6",
-      "wiki/hephaistos-scope-security-audit-phases-2-6"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 6,
-    "backlinks": 6
-  },
-  {
     "id": "hephaistos/DEPLOYMENT-CHECKLIST",
     "title": "DEPLOYMENT-CHECKLIST",
     "path": "hephaistos/DEPLOYMENT-CHECKLIST.md",
@@ -13682,39 +13753,6 @@
     "outlinks": 0,
     "unique_outlinks": 0,
     "backlinks": 1
-  },
-  {
-    "id": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
-    "title": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
-    "path": "wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27).md",
-    "type": "tool-spec",
-    "status": "active",
-    "aliases": [
-      "Blackboard",
-      "InfraFabric Blackboard",
-      "if.blackboard",
-      "if.tasks",
-      "if_blackboard",
-      "wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 4,
-    "backlinks": 19
-  },
-  {
-    "id": "if.switchboard — InfraFabric Product Center",
-    "title": "if.switchboard — InfraFabric Product Center",
-    "path": "wiki/if.switchboard — InfraFabric Product Center.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "InfraFabric Switchboard",
-      "if.switchboard",
-      "wiki/if.switchboard — InfraFabric Product Center"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 5,
-    "backlinks": 5
   },
   {
     "id": "lightrag_config — EMERAULD Shared Config Module",
@@ -15220,22 +15258,6 @@
     "backlinks": 3
   },
   {
-    "id": "multi-agent-orchestration Skill — Governance Case File",
-    "title": "multi-agent-orchestration Skill — Governance Case File",
-    "path": "wiki/multi-agent-orchestration Skill — Governance Case File.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "multi-agent-orchestration",
-      "multi-agent-orchestration skill",
-      "skill governance case file",
-      "wiki/multi-agent-orchestration Skill — Governance Case File"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 8,
-    "backlinks": 8
-  },
-  {
     "id": "projects/AurorA — Fisher King Project State",
     "title": "AurorA — Fisher King Project State",
     "path": "projects/AurorA — Fisher King Project State.md",
@@ -15920,21 +15942,6 @@
     "outlinks": 3,
     "unique_outlinks": 3,
     "backlinks": 2
-  },
-  {
-    "id": "security-audit-plan",
-    "title": "security-audit-plan",
-    "path": "wiki/security-audit-plan.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Scoped Plan: Security Audit Phases 2-6",
-      "security-audit-plan",
-      "wiki/security-audit-plan"
-    ],
-    "outlinks": 1,
-    "unique_outlinks": 1,
-    "backlinks": 9
   },
   {
     "id": "session-state",
@@ -19436,25 +19443,5 @@
     "outlinks": 2,
     "unique_outlinks": 1,
     "backlinks": 8
-  },
-  {
-    "id": "voice11 — ElevenLabs TTS Pipeline",
-    "title": "voice11 — ElevenLabs TTS Pipeline",
-    "path": "wiki/voice11 — ElevenLabs TTS Pipeline.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "ElevenLabs",
-      "Quebec voice",
-      "TTS",
-      "canonical voice sample",
-      "mlen",
-      "text-to-speech",
-      "voice11",
-      "wiki/voice11 — ElevenLabs TTS Pipeline"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 6,
-    "backlinks": 12
   }
 ]

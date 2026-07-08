@@ -6,14 +6,13 @@ aliases:
 - claude-mem plugin
 - thedotmack/claude-mem
 - claude-mem Plugin — Session Memory Layer
-- wiki/claude-mem — Persistent Memory Compression for Claude Code
 tags:
 - ai-tooling
 - memory
 - mcp
 - claude-code
 - persistence
-- wiki
+- areas
 - claude-mem-persistent-memory-compression-for-claude-code-md
 - claude
 - corpora
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/claude-mem — Persistent Memory Compression for Claude Code.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code.md
 backlink_count: 12
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

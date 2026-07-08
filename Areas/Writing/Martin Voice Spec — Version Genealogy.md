@@ -36,7 +36,7 @@ backlinks:
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'
-- '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'
+- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # Martin Voice Spec — Version Genealogy

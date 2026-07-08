@@ -47,7 +47,7 @@ backlinks:
 - '[[archive/session-state/session-state-001]]'
 - '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'
 - '[[session-state]]'
-- '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'
+- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # AI Personas — Agatha, DOTTIE, and MOBI

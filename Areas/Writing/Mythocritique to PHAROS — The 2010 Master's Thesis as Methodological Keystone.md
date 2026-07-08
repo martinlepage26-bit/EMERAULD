@@ -146,7 +146,7 @@ backlinks:
 - '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
-- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'

@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Resources/RAG-Anything — Multimodal RAG Framework]]'
 - '[[archive/session-state/session-state-001]]'
-- '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
 ---
 
 # Plugin Recommendations

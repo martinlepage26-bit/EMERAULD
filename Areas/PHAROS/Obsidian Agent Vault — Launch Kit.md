@@ -59,7 +59,7 @@ backlinks:
 - '[[memory/daily/2026-06-29]]'
 - '[[projects/Second Brain — Fisher King Project State]]'
 - '[[session-state]]'
-- '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'
+- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # Obsidian Agent Vault — Launch Kit

@@ -5,9 +5,8 @@ aliases:
 - WSL Storage Recovery
 - Disk Space Quick Wins
 - vhdx compaction
-- wiki/WSL and System Storage Recovery — Quick Wins Checklist
 tags:
-- wiki
+- archive
 - wsl-and-system-storage-recovery-quick-wins-checklist-md
 - cache
 - vhdx
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/WSL and System Storage Recovery — Quick Wins Checklist.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist.md
 backlink_count: 5
 backlinks:
 - '[[.graph_store/graph_report]]'

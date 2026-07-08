@@ -1,10 +1,9 @@
 ---
 type: wiki
-title: "Scoped Plan: Security Audit Phases 2-6"
+title: 'Scoped Plan: Security Audit Phases 2-6'
 aliases:
-- "Scoped Plan: Security Audit Phases 2-6"
+- 'Scoped Plan: Security Audit Phases 2-6'
 - security-audit-plan
-- wiki/security-audit-plan
 tags:
 - security-audit
 - governance
@@ -13,8 +12,8 @@ tags:
 status: active
 created: '2026-07-03'
 updated: '2026-07-03'
-vault_area: wiki
-canonical_path: wiki/security-audit-plan.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/security-audit-plan.md
 ---
 
 # Scoped Plan: Security Audit Phases 2-6

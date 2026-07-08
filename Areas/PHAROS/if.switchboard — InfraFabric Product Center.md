@@ -4,14 +4,13 @@ title: if.switchboard — InfraFabric Product Center
 aliases:
 - if.switchboard
 - InfraFabric Switchboard
-- wiki/if.switchboard — InfraFabric Product Center
 tags:
 - infrafabric
 - switchboard
 - product-center
 - governance
 - mcp
-- wiki
+- areas
 - if-switchboard-infrafabric-product-center-md
 - blackboard
 - coordination
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-06-27'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/if.switchboard — InfraFabric Product Center.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/if.switchboard — InfraFabric Product Center.md
 backlink_count: 2
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
