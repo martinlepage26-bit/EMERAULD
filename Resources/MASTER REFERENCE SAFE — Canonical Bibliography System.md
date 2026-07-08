@@ -25,7 +25,7 @@ canonical_path: Resources/MASTER REFERENCE SAFE — Canonical Bibliography Syste
 backlink_count: 8
 backlinks:
 - '[[Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)]]'
-- '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
+- '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'

@@ -3,9 +3,8 @@ type: wiki
 title: SYSTEM CHECK
 aliases:
 - SYSTEM CHECK
-- wiki/SYSTEM CHECK
 tags:
-- wiki
+- archive
 - system-check-md
 - linux
 - remote
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/SYSTEM CHECK.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/SYSTEM CHECK.md
 backlink_count: 11
 backlinks:
 - '[[wiki/Agent Session Phenomenology]]'

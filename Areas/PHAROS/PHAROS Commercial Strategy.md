@@ -44,7 +44,7 @@ backlinks:
 - '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
 - '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
 - '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
-- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
 - '[[wiki/Home]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'

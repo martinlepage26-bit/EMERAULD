@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
 - '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
 - '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
-- '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
 - '[[wiki/APEX Papers — Research Archive Map]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'

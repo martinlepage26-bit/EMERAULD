@@ -343,22 +343,6 @@
     "backlinks": 23
   },
   {
-    "id": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "title": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "path": "wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Society manuscript status update 2026-05-10",
-      "Research Square screening notice",
-      "Springer In Review notification",
-      "wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 9,
-    "backlinks": 11
-  },
-  {
     "id": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
     "title": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
     "path": "wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization.md",
@@ -2671,35 +2655,6 @@
     "backlinks": 13
   },
   {
-    "id": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "title": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "path": "wiki/D Library — Genealogy Flags and Cleanup Leads (2026-04-26).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "D Library cleanup leads",
-      "D:\\LIBRARY genealogy flags",
-      "wiki/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 4,
-    "backlinks": 10
-  },
-  {
-    "id": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "title": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "path": "wiki/D Library — Review Unreadable Cleanup (2026-05-04).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "D Library — Review Unreadable Cleanup (2026-05-04)",
-      "wiki/D Library — Review Unreadable Cleanup (2026-05-04)"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 9,
-    "backlinks": 10
-  },
-  {
     "id": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
     "title": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
     "path": "wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture.md",
@@ -2776,22 +2731,6 @@
     "outlinks": 9,
     "unique_outlinks": 9,
     "backlinks": 23
-  },
-  {
-    "id": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "title": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "path": "wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Desktop Obsidian setup logs",
-      "Obsidian WSL setup transcript",
-      "personal assistant Desktop scaffold",
-      "wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 8,
-    "backlinks": 8
   },
   {
     "id": "Desktop Text Intake — 2026-05-06",
@@ -3530,20 +3469,6 @@
     "backlinks": 377
   },
   {
-    "id": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "title": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "path": "wiki/Governance Controls — Baseline Assessment (2026-04-26).md",
-    "type": "governance-assessment",
-    "status": "active",
-    "aliases": [
-      "GOVERNANCE CONTROLS — BASELINE ASSESSMENT (2026-04-26)",
-      "wiki/Governance Controls — Baseline Assessment (2026-04-26)"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 9,
-    "backlinks": 9
-  },
-  {
     "id": "Governance Controls — Incident Response (Control Failure Procedures)",
     "title": "Governance Controls — Incident Response (Control Failure Procedures)",
     "path": "wiki/Governance Controls — Incident Response (Control Failure Procedures).md",
@@ -3570,20 +3495,6 @@
     "outlinks": 8,
     "unique_outlinks": 7,
     "backlinks": 7
-  },
-  {
-    "id": "Governance Controls — Phase 1 Completion Checklist",
-    "title": "Governance Controls — Phase 1 Completion Checklist",
-    "path": "wiki/Governance Controls — Phase 1 Completion Checklist.md",
-    "type": "governance-procedures",
-    "status": "active",
-    "aliases": [
-      "GOVERNANCE CONTROLS — Phase 1 COMPLETION CHECKLIST",
-      "wiki/Governance Controls — Phase 1 Completion Checklist"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 9,
-    "backlinks": 5
   },
   {
     "id": "Governance Stress-Test Protocols — Index",
@@ -3816,22 +3727,6 @@
     "backlinks": 16
   },
   {
-    "id": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "title": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "path": "wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HELIX deployment runbook",
-      "HELIX shipping instructions",
-      "HELIX v0.1.0 release",
-      "wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 12,
-    "backlinks": 12
-  },
-  {
     "id": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
     "title": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
     "path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md",
@@ -3894,20 +3789,6 @@
     "outlinks": 8,
     "unique_outlinks": 5,
     "backlinks": 9
-  },
-  {
-    "id": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "title": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "path": "wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18).md",
-    "type": "governance-update",
-    "status": "active",
-    "aliases": [
-      "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-      "wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 5,
-    "backlinks": 35
   },
   {
     "id": "HEPHAISTOS MOC",
@@ -7538,22 +7419,6 @@
     "backlinks": 12
   },
   {
-    "id": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "title": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "path": "wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Hephaistos right-arm consultation",
-      "Hermes exception consultation",
-      "Right-Arm Extension Decision",
-      "wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 6,
-    "backlinks": 9
-  },
-  {
     "id": "Root Loose Notes Cluster Map — 2026-05-06",
     "title": "Root Loose Notes Cluster Map — 2026-05-06",
     "path": "wiki/Root Loose Notes Cluster Map — 2026-05-06.md",
@@ -7607,20 +7472,6 @@
     "outlinks": 3,
     "unique_outlinks": 2,
     "backlinks": 9
-  },
-  {
-    "id": "SYSTEM CHECK",
-    "title": "SYSTEM CHECK",
-    "path": "wiki/SYSTEM CHECK.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "SYSTEM CHECK",
-      "wiki/SYSTEM CHECK"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 6,
-    "backlinks": 15
   },
   {
     "id": "Sales Objection Handling — Diagnosing Fog Without Coercion",
@@ -7681,20 +7532,6 @@
     "outlinks": 5,
     "unique_outlinks": 4,
     "backlinks": 5
-  },
-  {
-    "id": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "title": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "path": "wiki/Second Self System Identity Kernel and Agent Routing Architecture.md",
-    "type": "wiki",
-    "status": "recovered",
-    "aliases": [
-      "Second Self System Identity Kernel and Agent Routing Architecture (recovery artifact)",
-      "wiki/Second Self System Identity Kernel and Agent Routing Architecture"
-    ],
-    "outlinks": 31,
-    "unique_outlinks": 19,
-    "backlinks": 3
   },
   {
     "id": "Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)",
@@ -8127,20 +7964,6 @@
     "outlinks": 8,
     "unique_outlinks": 6,
     "backlinks": 8
-  },
-  {
-    "id": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "title": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "path": "wiki/Source Cluster Map — 2026-05-13 Raw Sources.md",
-    "type": "source-cluster-map",
-    "status": "active",
-    "aliases": [
-      "Source Cluster Map — 2026-05-13 Raw Sources",
-      "wiki/Source Cluster Map — 2026-05-13 Raw Sources"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 13,
-    "backlinks": 29
   },
   {
     "id": "Source Cluster — 2026-05-13 Client and Operator Continuity",
@@ -9307,20 +9130,6 @@
     "backlinks": 2
   },
   {
-    "id": "Workspace Cleanup Ledger — 2026-05-31",
-    "title": "Workspace Cleanup Ledger — 2026-05-31",
-    "path": "wiki/Workspace Cleanup Ledger — 2026-05-31.md",
-    "type": "project-state",
-    "status": "active",
-    "aliases": [
-      "Workspace Cleanup Ledger — 2026-05-31",
-      "wiki/Workspace Cleanup Ledger — 2026-05-31"
-    ],
-    "outlinks": 1,
-    "unique_outlinks": 1,
-    "backlinks": 3
-  },
-  {
     "id": "adr/0001-skill-acquisition-strategy",
     "title": "0001-skill-acquisition-strategy",
     "path": "wiki/adr/0001-skill-acquisition-strategy.md",
@@ -9949,6 +9758,21 @@
     "backlinks": 2
   },
   {
+    "id": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "title": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "path": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Society manuscript status update 2026-05-10",
+      "Research Square screening notice",
+      "Springer In Review notification"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 9,
+    "backlinks": 11
+  },
+  {
     "id": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
     "title": "CSV_DIAGNOSTIC_REPORT",
     "path": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT.md",
@@ -9962,6 +9786,74 @@
     "backlinks": 11
   },
   {
+    "id": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "title": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "path": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "D Library cleanup leads",
+      "D:\\LIBRARY genealogy flags"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 4,
+    "backlinks": 10
+  },
+  {
+    "id": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "title": "D Library — Review Unreadable Cleanup (2026-05-04)",
+    "path": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "D Library — Review Unreadable Cleanup (2026-05-04)"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 9,
+    "backlinks": 10
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "title": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "path": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Desktop Obsidian setup logs",
+      "Obsidian WSL setup transcript",
+      "personal assistant Desktop scaffold"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 8,
+    "backlinks": 8
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "title": "Governance Controls — Baseline Assessment (2026-04-26)",
+    "path": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26).md",
+    "type": "governance-assessment",
+    "status": "active",
+    "aliases": [
+      "GOVERNANCE CONTROLS — BASELINE ASSESSMENT (2026-04-26)"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 9,
+    "backlinks": 9
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "title": "Governance Controls — Phase 1 Completion Checklist",
+    "path": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist.md",
+    "type": "governance-procedures",
+    "status": "active",
+    "aliases": [
+      "GOVERNANCE CONTROLS — Phase 1 COMPLETION CHECKLIST"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 9,
+    "backlinks": 5
+  },
+  {
     "id": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
     "title": "Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
     "path": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md",
@@ -9973,6 +9865,101 @@
     "outlinks": 10,
     "unique_outlinks": 10,
     "backlinks": 4
+  },
+  {
+    "id": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "title": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "path": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HELIX deployment runbook",
+      "HELIX shipping instructions",
+      "HELIX v0.1.0 release"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 12,
+    "backlinks": 12
+  },
+  {
+    "id": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "title": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "path": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18).md",
+    "type": "governance-update",
+    "status": "active",
+    "aliases": [
+      "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 5,
+    "backlinks": 35
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "title": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "path": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Hephaistos right-arm consultation",
+      "Hermes exception consultation",
+      "Right-Arm Extension Decision"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 6,
+    "backlinks": 9
+  },
+  {
+    "id": "archive/wiki-2026-07-08/SYSTEM CHECK",
+    "title": "SYSTEM CHECK",
+    "path": "archive/wiki-2026-07-08/SYSTEM CHECK.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "SYSTEM CHECK"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 6,
+    "backlinks": 15
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "title": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "path": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture.md",
+    "type": "wiki",
+    "status": "recovered",
+    "aliases": [
+      "Second Self System Identity Kernel and Agent Routing Architecture (recovery artifact)"
+    ],
+    "outlinks": 31,
+    "unique_outlinks": 19,
+    "backlinks": 3
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "title": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "path": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources.md",
+    "type": "source-cluster-map",
+    "status": "active",
+    "aliases": [
+      "Source Cluster Map — 2026-05-13 Raw Sources"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 13,
+    "backlinks": 29
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31",
+    "title": "Workspace Cleanup Ledger — 2026-05-31",
+    "path": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31.md",
+    "type": "project-state",
+    "status": "active",
+    "aliases": [
+      "Workspace Cleanup Ledger — 2026-05-31"
+    ],
+    "outlinks": 1,
+    "unique_outlinks": 1,
+    "backlinks": 3
   },
   {
     "id": "argus-drift-audit-scope-multi-agent-orchestration",

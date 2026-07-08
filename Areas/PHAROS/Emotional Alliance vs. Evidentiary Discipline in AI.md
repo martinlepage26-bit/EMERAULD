@@ -52,7 +52,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
-- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
 - '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'

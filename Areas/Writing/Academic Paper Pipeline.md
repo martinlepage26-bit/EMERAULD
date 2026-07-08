@@ -28,7 +28,7 @@ backlink_count: 39
 backlinks:
 - '[[wiki/2026-06-29 - idea-discovery]]'
 - '[[wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
-- '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
 - '[[wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'

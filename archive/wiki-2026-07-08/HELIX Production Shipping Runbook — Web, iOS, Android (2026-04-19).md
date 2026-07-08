@@ -5,7 +5,6 @@ aliases:
 - HELIX shipping instructions
 - HELIX deployment runbook
 - HELIX v0.1.0 release
-- wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)
 tags:
 - workflow
 - deliverable
@@ -17,7 +16,7 @@ tags:
 - pharos-suite
 - mobile
 - web
-- wiki
+- archive
 - helix-production-shipping-runbook-web-ios-android-2026-04-19-md
 - android
 - shipping
@@ -25,8 +24,8 @@ tags:
 status: active
 created: '2026-04-30'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md
 backlink_count: 6
 backlinks:
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'

@@ -29,7 +29,7 @@ backlink_count: 14
 backlinks:
 - '[[.planning/ROADMAP]]'
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
 - '[[wiki/GSD — Get Shit Done Context Engineering System]]'
 - '[[wiki/GSD — Get-Shit-Done Claude Code System]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'

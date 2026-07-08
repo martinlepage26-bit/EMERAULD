@@ -861,11 +861,6 @@
   },
   {
     "source": "AI Identity and Phenomenology",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "AI Identity and Phenomenology",
     "target": "IF.EMOTION — Empathetic AI Architecture",
     "count": 1
   },
@@ -952,6 +947,11 @@
   {
     "source": "AI Identity and Phenomenology",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template",
+    "count": 1
+  },
+  {
+    "source": "AI Identity and Phenomenology",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 1
   },
   {
@@ -1058,11 +1058,6 @@
     "source": "AI Infrastructure Stack",
     "target": "Codex Skill Corpus Sync — 2026-04-20",
     "count": 2
-  },
-  {
-    "source": "AI Infrastructure Stack",
-    "target": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "count": 1
   },
   {
     "source": "AI Infrastructure Stack",
@@ -1217,6 +1212,11 @@
   {
     "source": "AI Infrastructure Stack",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
     "count": 1
   },
   {
@@ -1483,51 +1483,6 @@
     "source": "AI Self-Report — Epistemic Status Recursion and Perturbation",
     "target": "Self-Polygraph Protocol and Suprametacognition",
     "count": 3
-  },
-  {
-    "source": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "target": "Areas/PHAROS/PHAROS Scholarly Publication Track",
-    "count": 1
-  },
-  {
-    "source": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "target": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
-    "count": 2
-  },
-  {
-    "source": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "target": "Areas/Writing/Academic Paper Pipeline",
-    "count": 1
-  },
-  {
-    "source": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "target": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
-    "count": 1
-  },
-  {
-    "source": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "target": "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)",
-    "count": 1
-  },
-  {
-    "source": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "target": "Master Project Tracker — 2026",
-    "count": 1
-  },
-  {
-    "source": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "target": "Publishing Strategy — Springer Trilogy and Parallel Tracks",
-    "count": 1
   },
   {
     "source": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
@@ -1861,11 +1816,6 @@
   },
   {
     "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 2
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
     "target": "Media Studies and Pop Culture Analysis",
     "count": 1
   },
@@ -1883,6 +1833,11 @@
     "source": "Agatha Unified Skill System — Eight Sovereign Operators",
     "target": "Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate",
     "count": 1
+  },
+  {
+    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 2
   },
   {
     "source": "Agent Ecosystem Audit — 2026-04-23",
@@ -1996,11 +1951,6 @@
   },
   {
     "source": "Agent Session Phenomenology",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "Agent Session Phenomenology",
     "target": "Local Hardware and Discovery Snapshot — Laptop A",
     "count": 2
   },
@@ -2008,11 +1958,6 @@
     "source": "Agent Session Phenomenology",
     "target": "Operator-Check Skill — Burnout Cascade Interrupt",
     "count": 1
-  },
-  {
-    "source": "Agent Session Phenomenology",
-    "target": "SYSTEM CHECK",
-    "count": 2
   },
   {
     "source": "Agent Session Phenomenology",
@@ -2028,6 +1973,16 @@
     "source": "Agent Session Phenomenology",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template",
     "count": 1
+  },
+  {
+    "source": "Agent Session Phenomenology",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 1
+  },
+  {
+    "source": "Agent Session Phenomenology",
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
+    "count": 2
   },
   {
     "source": "Alchemy of the Wound — Version Genealogy",
@@ -2346,11 +2301,6 @@
   },
   {
     "source": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 2
-  },
-  {
-    "source": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
     "target": "MASTERxMASTERxMASTER — Skill Corpus Map",
     "count": 2
   },
@@ -2358,6 +2308,11 @@
     "source": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
     "target": "Resources/Evidence Discipline and Epistemics",
     "count": 1
+  },
+  {
+    "source": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 2
   },
   {
     "source": "Areas/Lavoie/AREA",
@@ -2416,11 +2371,6 @@
   },
   {
     "source": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
     "target": "Provisional Arbitration Charter — Argus Layer 9.5",
     "count": 1
   },
@@ -2428,6 +2378,11 @@
     "source": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
     "target": "Supersession Registry",
     "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 1
   },
   {
     "source": "Areas/PHAROS/AurorA — COMPASSai Input Module",
@@ -2731,11 +2686,6 @@
   },
   {
     "source": "Areas/PHAROS/Control Protocols MOC",
-    "target": "Governance Controls — Phase 1 Completion Checklist",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Control Protocols MOC",
     "target": "Governance Stress-Test Protocols — Index",
     "count": 1
   },
@@ -2802,6 +2752,11 @@
   {
     "source": "Areas/PHAROS/Control Protocols MOC",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/MANIFEST",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Control Protocols MOC",
+    "target": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
     "count": 1
   },
   {
@@ -2916,13 +2871,13 @@
   },
   {
     "source": "Areas/PHAROS/External Data Registry — Phase 1 Build",
-    "target": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "count": 2
+    "target": "Governance Controls — Monitoring Plan & Automation Roadmap",
+    "count": 1
   },
   {
     "source": "Areas/PHAROS/External Data Registry — Phase 1 Build",
-    "target": "Governance Controls — Monitoring Plan & Automation Roadmap",
-    "count": 1
+    "target": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "count": 2
   },
   {
     "source": "Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning",
@@ -3516,11 +3471,6 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
     "count": 1
   },
@@ -3631,22 +3581,12 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Governance Controls — Incident Response (Control Failure Procedures)",
     "count": 1
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Governance Controls — Monitoring Plan & Automation Roadmap",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "Governance Controls — Phase 1 Completion Checklist",
     "count": 1
   },
   {
@@ -3697,16 +3637,6 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 1
   },
   {
@@ -4091,11 +4021,6 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
     "count": 1
   },
@@ -4117,11 +4042,6 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Skill-Pairing — Five-Case Test Suite",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -4296,7 +4216,42 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -4961,11 +4916,6 @@
   },
   {
     "source": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
-    "target": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "count": 3
-  },
-  {
-    "source": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
     "target": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
     "count": 1
   },
@@ -4988,6 +4938,11 @@
     "source": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
     "target": "RECURSO — Final Audit and Ethical Review",
     "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
+    "target": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "count": 3
   },
   {
     "source": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
@@ -5096,11 +5051,6 @@
   },
   {
     "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
     "target": "InfraFabric MCP Stack — Remote Bundles",
     "count": 1
   },
@@ -5166,11 +5116,6 @@
   },
   {
     "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "target": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
     "target": "SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
     "count": 1
   },
@@ -5197,6 +5142,16 @@
   {
     "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "target": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
     "count": 1
   },
   {
@@ -6721,11 +6676,6 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
-    "target": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
     "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
@@ -6956,6 +6906,11 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
+    "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
     "target": "graph/nodes/unmapped/hermes_dashboard_tool",
     "count": 2
   },
@@ -7011,11 +6966,6 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 3
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
     "target": "InfraFabric MCP Stack — Remote Bundles",
     "count": 1
   },
@@ -7058,6 +7008,11 @@
     "source": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
     "target": "Trust Advantage Analysis — Sales and AI Governance",
     "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 3
   },
   {
     "source": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
@@ -7236,17 +7191,17 @@
   },
   {
     "source": "Areas/PHAROS/ROOK — Session Boundary Model",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 2
-  },
-  {
-    "source": "Areas/PHAROS/ROOK — Session Boundary Model",
     "target": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
     "count": 1
   },
   {
     "source": "Areas/PHAROS/ROOK — Session Boundary Model",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/ROOK — Session Boundary Model",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 2
   },
   {
@@ -7316,17 +7271,17 @@
   },
   {
     "source": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
     "target": "The Compulsion to Complete — AI as Gap-Closer",
     "count": 1
   },
   {
     "source": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
     "target": "VAULT ADDITIONS TRACKER",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
+    "target": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
     "count": 1
   },
   {
@@ -9671,16 +9626,6 @@
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "count": 1
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "count": 1
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
     "target": "DG Clean Migration Report — C to D Transfer Verification (2026-05-12)",
     "count": 1
   },
@@ -9956,22 +9901,12 @@
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "SYSTEM CHECK",
-    "count": 1
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
     "target": "Sales Objection Handling — Diagnosing Fog Without Coercion",
     "count": 1
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
     "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "count": 1
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
     "count": 1
   },
   {
@@ -10007,11 +9942,6 @@
   {
     "source": "Areas/Personal/Personal and Projects MOC",
     "target": "Skill Domain — Writing and Humanization",
-    "count": 1
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -10091,6 +10021,31 @@
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
     "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home",
     "count": 2
   },
@@ -10153,11 +10108,6 @@
     "source": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
     "target": "AI Governance Public Statement and Market Impact Pack",
     "count": 2
-  },
-  {
-    "source": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
-    "target": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "count": 1
   },
   {
     "source": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
@@ -10225,6 +10175,11 @@
     "count": 1
   },
   {
+    "source": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "count": 1
+  },
+  {
     "source": "Areas/Writing/AREA",
     "target": "Areas/Writing/HENRY — Research Paper Writing System",
     "count": 1
@@ -10262,11 +10217,6 @@
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Academic Paper Pipeline",
-    "target": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
     "count": 1
   },
   {
@@ -10507,6 +10457,11 @@
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "Version Genealogy System",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Academic Paper Pipeline",
+    "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
     "count": 1
   },
   {
@@ -11381,11 +11336,6 @@
   },
   {
     "source": "Areas/Writing/Legitimacy Machines MOC",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Legitimacy Machines MOC",
     "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
     "count": 1
   },
@@ -11422,6 +11372,11 @@
   {
     "source": "Areas/Writing/Legitimacy Machines MOC",
     "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Legitimacy Machines MOC",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -11552,11 +11507,6 @@
   {
     "source": "Areas/Writing/Loop Papers and Recursive Governance",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Manuscript Pipeline MOC",
-    "target": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
     "count": 1
   },
   {
@@ -11711,11 +11661,6 @@
   },
   {
     "source": "Areas/Writing/Manuscript Pipeline MOC",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Manuscript Pipeline MOC",
     "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
     "count": 1
   },
@@ -11737,6 +11682,16 @@
   {
     "source": "Areas/Writing/Manuscript Pipeline MOC",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/editorial_log",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Manuscript Pipeline MOC",
+    "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Manuscript Pipeline MOC",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -12916,11 +12871,6 @@
   },
   {
     "source": "Areas/Writing/Research and Papers MOC",
-    "target": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Research and Papers MOC",
     "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
     "count": 2
   },
@@ -13207,11 +13157,6 @@
   {
     "source": "Areas/Writing/Research and Papers MOC",
     "target": "Crossing Under Watch — Troll's Toll and Digital Ritual Passage",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Research and Papers MOC",
-    "target": "D Library — Review Unreadable Cleanup (2026-05-04)",
     "count": 1
   },
   {
@@ -13751,11 +13696,6 @@
   },
   {
     "source": "Areas/Writing/Research and Papers MOC",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Research and Papers MOC",
     "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
@@ -13932,6 +13872,21 @@
   {
     "source": "Areas/Writing/Research and Papers MOC",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/MANIFEST",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Research and Papers MOC",
+    "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Research and Papers MOC",
+    "target": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Research and Papers MOC",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -14901,11 +14856,6 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Documents Root Loose Files Intake — 2026-04-28",
     "count": 1
   },
@@ -15226,6 +15176,11 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "artifacts/2026-04-19-pharos-migration-pr4/_manifest/GAP-pr4-server-spec-alignment",
     "count": 1
   },
@@ -15321,12 +15276,12 @@
   },
   {
     "source": "Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)",
-    "target": "Workspace Cleanup Ledger — 2026-05-31",
+    "target": "archive/session-state/session-state-003",
     "count": 1
   },
   {
     "source": "Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)",
-    "target": "archive/session-state/session-state-003",
+    "target": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31",
     "count": 1
   },
   {
@@ -17266,11 +17221,6 @@
   },
   {
     "source": "Claude Code Skill Corpus",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "Claude Code Skill Corpus",
     "target": "MASTERxMASTERxMASTER — Skill Corpus Map",
     "count": 1
   },
@@ -17282,6 +17232,11 @@
   {
     "source": "Claude Code Skill Corpus",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
+    "count": 1
+  },
+  {
+    "source": "Claude Code Skill Corpus",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 1
   },
   {
@@ -18001,11 +17956,6 @@
   },
   {
     "source": "Custom GPT Products — PHAROS AI GPT Roster",
-    "target": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "count": 1
-  },
-  {
-    "source": "Custom GPT Products — PHAROS AI GPT Roster",
     "target": "Henry GPT — Peer Reviewer ChatGPT Product Specification",
     "count": 1
   },
@@ -18033,6 +17983,11 @@
     "source": "Custom GPT Products — PHAROS AI GPT Roster",
     "target": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
     "count": 2
+  },
+  {
+    "source": "Custom GPT Products — PHAROS AI GPT Roster",
+    "target": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "count": 1
   },
   {
     "source": "D Drive Scan — 2026-05-12",
@@ -18072,71 +18027,6 @@
   {
     "source": "D Drive Scan — 2026-05-12",
     "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home",
-    "count": 1
-  },
-  {
-    "source": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "target": "2026 - Mauss - The Gift",
-    "count": 1
-  },
-  {
-    "source": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "target": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
-    "count": 1
-  },
-  {
-    "source": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "target": "Library Master Reference Intake (2026-04-26)",
-    "count": 4
-  },
-  {
-    "source": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "target": "Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)",
-    "count": 1
-  },
-  {
-    "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "target": "Areas/Personal/Personal and Projects MOC",
-    "count": 1
-  },
-  {
-    "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "target": "Areas/Writing/Writing and Novels MOC",
-    "count": 1
-  },
-  {
-    "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "target": "CLAUDEX — AI Dialogue Archive",
-    "count": 1
-  },
-  {
-    "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "target": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "count": 1
-  },
-  {
-    "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "target": "Library Master Reference Intake (2026-04-26)",
-    "count": 4
-  },
-  {
-    "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "target": "Resources/MASTER REFERENCE SAFE — Canonical Bibliography System",
-    "count": 3
-  },
-  {
-    "source": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "target": "bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06",
     "count": 1
   },
   {
@@ -18340,46 +18230,6 @@
     "count": 1
   },
   {
-    "source": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "target": "AI Infrastructure Stack",
-    "count": 2
-  },
-  {
-    "source": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "target": "Areas/PHAROS/Obsidian Agent Vault — Asset Canon",
-    "count": 1
-  },
-  {
-    "source": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "target": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
-    "count": 1
-  },
-  {
-    "source": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "target": "Areas/Personal/Personal and Projects MOC",
-    "count": 1
-  },
-  {
-    "source": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "target": "Ask Vault — EMERAULD Vault Briefing Skill",
-    "count": 1
-  },
-  {
-    "source": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "target": "LightRAG — Graph-Based RAG System",
-    "count": 1
-  },
-  {
-    "source": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "target": "Obsidian Second Brain Product",
-    "count": 2
-  },
-  {
-    "source": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "target": "hephaistos/agents/Trismegiste Personal AI Assistant",
-    "count": 1
-  },
-  {
     "source": "Desktop Text Intake — 2026-05-06",
     "target": "AI Infrastructure Stack",
     "count": 1
@@ -18411,16 +18261,6 @@
   },
   {
     "source": "Desktop Text Intake — 2026-05-06",
-    "target": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "count": 1
-  },
-  {
-    "source": "Desktop Text Intake — 2026-05-06",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "Desktop Text Intake — 2026-05-06",
     "target": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
     "count": 1
   },
@@ -18442,6 +18282,16 @@
   {
     "source": "Desktop Text Intake — 2026-05-06",
     "target": "VAULT ADDITIONS TRACKER",
+    "count": 1
+  },
+  {
+    "source": "Desktop Text Intake — 2026-05-06",
+    "target": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "count": 1
+  },
+  {
+    "source": "Desktop Text Intake — 2026-05-06",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 1
   },
   {
@@ -18506,11 +18356,6 @@
   },
   {
     "source": "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)",
-    "target": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "count": 1
-  },
-  {
-    "source": "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)",
     "target": "Areas/Writing/Academic Paper Pipeline",
     "count": 1
   },
@@ -18522,6 +18367,11 @@
   {
     "source": "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)",
     "target": "D Drive Scan — 2026-05-12",
+    "count": 1
+  },
+  {
+    "source": "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)",
+    "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
     "count": 1
   },
   {
@@ -18886,13 +18736,13 @@
   },
   {
     "source": "Documents Root Intake — Hermes Action Map 2026-04-28",
-    "target": "SYSTEM CHECK",
-    "count": 1
+    "target": "Trust Advantage Analysis — Sales and AI Governance",
+    "count": 2
   },
   {
     "source": "Documents Root Intake — Hermes Action Map 2026-04-28",
-    "target": "Trust Advantage Analysis — Sales and AI Governance",
-    "count": 2
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
+    "count": 1
   },
   {
     "source": "Documents Root Intake — Hermes Action Map 2026-04-28",
@@ -19056,11 +18906,6 @@
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "SYSTEM CHECK",
-    "count": 1
-  },
-  {
-    "source": "Documents Root Loose Files Intake — 2026-04-28",
     "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
     "count": 1
   },
@@ -19072,6 +18917,11 @@
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
     "target": "VAULT ADDITIONS TRACKER",
+    "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
     "count": 1
   },
   {
@@ -19221,11 +19071,6 @@
   },
   {
     "source": "Documents and Downloads Coverage Matrix — 2026-05-06",
-    "target": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "count": 1
-  },
-  {
-    "source": "Documents and Downloads Coverage Matrix — 2026-05-06",
     "target": "Desktop Text Intake — 2026-05-06",
     "count": 1
   },
@@ -19282,6 +19127,11 @@
   {
     "source": "Documents and Downloads Coverage Matrix — 2026-05-06",
     "target": "Vault Topic Coverage Matrix — 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "Documents and Downloads Coverage Matrix — 2026-05-06",
+    "target": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
     "count": 1
   },
   {
@@ -20626,7 +20476,7 @@
   },
   {
     "source": "External Data Refresh Calendar — Phase 1 Build",
-    "target": "Governance Controls — Phase 1 Completion Checklist",
+    "target": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
     "count": 1
   },
   {
@@ -21916,22 +21766,12 @@
   },
   {
     "source": "Governance Controls and Mechanisms",
-    "target": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls and Mechanisms",
     "target": "Governance Controls — Incident Response (Control Failure Procedures)",
     "count": 2
   },
   {
     "source": "Governance Controls and Mechanisms",
     "target": "Governance Controls — Monitoring Plan & Automation Roadmap",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls and Mechanisms",
-    "target": "Governance Controls — Phase 1 Completion Checklist",
     "count": 1
   },
   {
@@ -21986,11 +21826,6 @@
   },
   {
     "source": "Governance Controls and Mechanisms",
-    "target": "SYSTEM CHECK",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls and Mechanisms",
     "target": "Self-Polygraph Protocol and Suprametacognition",
     "count": 1
   },
@@ -22006,53 +21841,23 @@
   },
   {
     "source": "Governance Controls and Mechanisms",
+    "target": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "count": 1
+  },
+  {
+    "source": "Governance Controls and Mechanisms",
+    "target": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "count": 1
+  },
+  {
+    "source": "Governance Controls and Mechanisms",
     "target": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
     "count": 1
   },
   {
-    "source": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "target": "Areas/PHAROS/Governance Controls Integration Dashboard",
+    "source": "Governance Controls and Mechanisms",
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
     "count": 1
-  },
-  {
-    "source": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "count": 4
-  },
-  {
-    "source": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "target": "CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "target": "CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "target": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "target": "OPEN RISKS — Three Governance Blindspots Requiring Recursive Control",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "target": "Reddit Data API — Access Terms and Rate Limits",
-    "count": 3
-  },
-  {
-    "source": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "target": "Resources/Regulatory Standards Reference Stack — Governance Controls Grounding",
-    "count": 5
   },
   {
     "source": "Governance Controls — Incident Response (Control Failure Procedures)",
@@ -22107,11 +21912,6 @@
   {
     "source": "Governance Controls — Monitoring Plan & Automation Roadmap",
     "target": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Monitoring Plan & Automation Roadmap",
-    "target": "Governance Controls — Baseline Assessment (2026-04-26)",
     "count": 1
   },
   {
@@ -22120,48 +21920,8 @@
     "count": 2
   },
   {
-    "source": "Governance Controls — Phase 1 Completion Checklist",
-    "target": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Phase 1 Completion Checklist",
-    "target": "Areas/PHAROS/Control Protocols MOC",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Phase 1 Completion Checklist",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Phase 1 Completion Checklist",
-    "target": "CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Phase 1 Completion Checklist",
-    "target": "CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Phase 1 Completion Checklist",
-    "target": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Phase 1 Completion Checklist",
-    "target": "Governance Controls — Monitoring Plan & Automation Roadmap",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Phase 1 Completion Checklist",
-    "target": "Supersession Registry",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls — Phase 1 Completion Checklist",
-    "target": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
+    "source": "Governance Controls — Monitoring Plan & Automation Roadmap",
+    "target": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
     "count": 1
   },
   {
@@ -22845,66 +22605,6 @@
     "count": 1
   },
   {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "count": 2
-  },
-  {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "AI Infrastructure Stack",
-    "count": 2
-  },
-  {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "count": 1
-  },
-  {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "Areas/PHAROS/PHAROS Runbook SOP",
-    "count": 3
-  },
-  {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca",
-    "count": 2
-  },
-  {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "Areas/governanceframework/README",
-    "count": 1
-  },
-  {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "Cloudflare Pages-to-Worker Migration — Build and Asset Behavior",
-    "count": 3
-  },
-  {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "Diamond-Eyes — Aesthetic Refinement Skill",
-    "count": 2
-  },
-  {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "Governance Stress-Test Protocols — Index",
-    "count": 2
-  },
-  {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "MARTIN SURFACE",
-    "count": 1
-  },
-  {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "PHAROS SURFACE",
-    "count": 2
-  },
-  {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "graph/nodes/unmapped/hermes_dashboard_tool",
-    "count": 2
-  },
-  {
     "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
     "target": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
     "count": 1
@@ -23073,31 +22773,6 @@
     "source": "HELIX Test Run — Epstein Files Topic (2026)",
     "target": "HELIX Test Run — Claude Code Agents as Subject (2026)",
     "count": 2
-  },
-  {
-    "source": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "target": "Agent Session Phenomenology",
-    "count": 1
-  },
-  {
-    "source": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 9
-  },
-  {
-    "source": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
-    "count": 1
-  },
-  {
-    "source": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 1
-  },
-  {
-    "source": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "target": "Claude Code Skill Corpus",
-    "count": 1
   },
   {
     "source": "HEPHAISTOS MOC",
@@ -23586,11 +23261,6 @@
   },
   {
     "source": "Hermes Dashboard — Professional Governance Tool",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "Hermes Dashboard — Professional Governance Tool",
     "target": "MARTIN SURFACE",
     "count": 1
   },
@@ -23612,6 +23282,11 @@
   {
     "source": "Hermes Dashboard — Professional Governance Tool",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
+    "count": 1
+  },
+  {
+    "source": "Hermes Dashboard — Professional Governance Tool",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 1
   },
   {
@@ -24831,11 +24506,6 @@
   },
   {
     "source": "Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
-    "target": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "count": 1
-  },
-  {
-    "source": "Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
     "target": "Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)",
     "count": 2
   },
@@ -24862,6 +24532,11 @@
   {
     "source": "Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template",
+    "count": 1
+  },
+  {
+    "source": "Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
+    "target": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
     "count": 1
   },
   {
@@ -25121,11 +24796,6 @@
   },
   {
     "source": "InfraFabric MCP Stack — Remote Bundles",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 2
-  },
-  {
-    "source": "InfraFabric MCP Stack — Remote Bundles",
     "target": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
     "count": 3
   },
@@ -25142,6 +24812,11 @@
   {
     "source": "InfraFabric MCP Stack — Remote Bundles",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
+    "count": 2
+  },
+  {
+    "source": "InfraFabric MCP Stack — Remote Bundles",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 2
   },
   {
@@ -26616,7 +26291,7 @@
   },
   {
     "source": "Local Hardware and Discovery Snapshot — Laptop A",
-    "target": "SYSTEM CHECK",
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
     "count": 1
   },
   {
@@ -29616,11 +29291,6 @@
   },
   {
     "source": "OUTLIERS — Five Notes That Break the Architecture",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "OUTLIERS — Five Notes That Break the Architecture",
     "target": "OPEN RISKS — Three Governance Blindspots Requiring Recursive Control",
     "count": 1
   },
@@ -29652,6 +29322,11 @@
   {
     "source": "OUTLIERS — Five Notes That Break the Architecture",
     "target": "Root Loose Notes Cluster Map — 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "OUTLIERS — Five Notes That Break the Architecture",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 1
   },
   {
@@ -29796,11 +29471,6 @@
   },
   {
     "source": "Obsidian Second Brain Product",
-    "target": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
-    "count": 1
-  },
-  {
-    "source": "Obsidian Second Brain Product",
     "target": "GSD — Get-Shit-Done Claude Code System",
     "count": 1
   },
@@ -29832,6 +29502,11 @@
   {
     "source": "Obsidian Second Brain Product",
     "target": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "count": 1
+  },
+  {
+    "source": "Obsidian Second Brain Product",
+    "target": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
     "count": 1
   },
   {
@@ -30011,11 +29686,6 @@
   },
   {
     "source": "Operator-Check Skill — Burnout Cascade Interrupt",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 2
-  },
-  {
-    "source": "Operator-Check Skill — Burnout Cascade Interrupt",
     "target": "Posture vs Execution Drift — The Practice of Refusal",
     "count": 1
   },
@@ -30033,6 +29703,11 @@
     "source": "Operator-Check Skill — Burnout Cascade Interrupt",
     "target": "The Lost-Loop Pattern — Avoidance Through System-Building",
     "count": 1
+  },
+  {
+    "source": "Operator-Check Skill — Burnout Cascade Interrupt",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 2
   },
   {
     "source": "Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord)",
@@ -30541,13 +30216,13 @@
   },
   {
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
-    "target": "SYSTEM CHECK",
-    "count": 1
+    "target": "Version Genealogy System",
+    "count": 2
   },
   {
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
-    "target": "Version Genealogy System",
-    "count": 2
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
+    "count": 1
   },
   {
     "source": "PEER-REVIEW MOC",
@@ -31856,12 +31531,12 @@
   },
   {
     "source": "PROTOCOLS — Debate and Red-Team Runbook",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "target": "RECURSO — Final Audit and Ethical Review",
     "count": 2
   },
   {
     "source": "PROTOCOLS — Debate and Red-Team Runbook",
-    "target": "RECURSO — Final Audit and Ethical Review",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 2
   },
   {
@@ -32036,11 +31711,6 @@
   },
   {
     "source": "Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)",
     "target": "Loop Hinge Candidate — This Paper May Not Exist",
     "count": 1
   },
@@ -32057,6 +31727,11 @@
   {
     "source": "Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template",
+    "count": 1
+  },
+  {
+    "source": "Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 1
   },
   {
@@ -35751,17 +35426,17 @@
   },
   {
     "source": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
-    "target": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "count": 1
-  },
-  {
-    "source": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
     "target": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
     "count": 1
   },
   {
     "source": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
     "target": "Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
+    "count": 1
+  },
+  {
+    "source": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
+    "target": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
     "count": 1
   },
   {
@@ -36121,11 +35796,6 @@
   },
   {
     "source": "Resources/Regulatory Standards Reference Stack — Governance Controls Grounding",
-    "target": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "count": 3
-  },
-  {
-    "source": "Resources/Regulatory Standards Reference Stack — Governance Controls Grounding",
     "target": "Governance Controls — Monitoring Plan & Automation Roadmap",
     "count": 1
   },
@@ -36150,6 +35820,11 @@
     "count": 1
   },
   {
+    "source": "Resources/Regulatory Standards Reference Stack — Governance Controls Grounding",
+    "target": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "count": 3
+  },
+  {
     "source": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
     "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
@@ -36167,11 +35842,6 @@
   {
     "source": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
     "target": "Areas/PHAROS/PHAROS Method — Technical Reference",
-    "count": 1
-  },
-  {
-    "source": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
-    "target": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
     "count": 1
   },
   {
@@ -36197,6 +35867,11 @@
   {
     "source": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
     "target": "The Compulsion to Complete — AI as Gap-Closer",
+    "count": 1
+  },
+  {
+    "source": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
+    "target": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
     "count": 1
   },
   {
@@ -36395,36 +36070,6 @@
     "count": 3
   },
   {
-    "source": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "target": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
-    "count": 1
-  },
-  {
-    "source": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "count": 1
-  },
-  {
-    "source": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 2
-  },
-  {
-    "source": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "target": "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION",
-    "count": 1
-  },
-  {
-    "source": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "target": "governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION",
-    "count": 1
-  },
-  {
     "source": "Root Loose Notes Cluster Map — 2026-05-06",
     "target": "AI Identity and Phenomenology",
     "count": 1
@@ -36561,11 +36206,6 @@
   },
   {
     "source": "Root Loose Notes Cluster Map — 2026-05-06",
-    "target": "SYSTEM CHECK",
-    "count": 1
-  },
-  {
-    "source": "Root Loose Notes Cluster Map — 2026-05-06",
     "target": "Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures",
     "count": 1
   },
@@ -36578,6 +36218,11 @@
     "source": "Root Loose Notes Cluster Map — 2026-05-06",
     "target": "Vault Deep Linking Pass — 2026-05-06",
     "count": 2
+  },
+  {
+    "source": "Root Loose Notes Cluster Map — 2026-05-06",
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
+    "count": 1
   },
   {
     "source": "Root Loose Notes Cluster Map — 2026-05-06",
@@ -36647,36 +36292,6 @@
   {
     "source": "SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
     "target": "governance/hephaistos/SPECIALIST-GUIDELINE-AUTHORITY",
-    "count": 1
-  },
-  {
-    "source": "SYSTEM CHECK",
-    "target": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
-    "count": 1
-  },
-  {
-    "source": "SYSTEM CHECK",
-    "target": "Areas/Personal/Personal and Projects MOC",
-    "count": 1
-  },
-  {
-    "source": "SYSTEM CHECK",
-    "target": "CLI-Anything — Agent Harness for Tool Integration",
-    "count": 1
-  },
-  {
-    "source": "SYSTEM CHECK",
-    "target": "Documents Root Loose Files Intake — 2026-04-28",
-    "count": 1
-  },
-  {
-    "source": "SYSTEM CHECK",
-    "target": "Local Hardware and Discovery Snapshot — Laptop A",
-    "count": 1
-  },
-  {
-    "source": "SYSTEM CHECK",
-    "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
     "count": 1
   },
   {
@@ -36837,101 +36452,6 @@
   {
     "source": "Sealed Card Protocol — Version Genealogy",
     "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "count": 1
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 2
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
-    "count": 2
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
-    "count": 1
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "count": 3
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Areas/PHAROS/PHAROS AI Lineage — Source of Truth",
-    "count": 3
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
-    "count": 1
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Areas/PHAROS/Second Self System — Public Voice Examples",
-    "count": 2
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
-    "count": 2
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 2
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Documents Root Intake — Hermes Action Map 2026-04-28",
-    "count": 1
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Martin Voice Spec — Stage Map",
-    "count": 2
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 2
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Recursive Continuity Without Memory — AI Identity Across Sessions",
-    "count": 1
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "The Compulsion to Complete — AI as Gap-Closer",
-    "count": 1
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "VAULT ADDITIONS TRACKER",
-    "count": 1
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "graph/nodes/unmapped/hermes_dashboard_tool",
-    "count": 1
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "hephaistos/agents/Trismegiste Personal AI Assistant",
-    "count": 2
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/ecosystem",
-    "count": 1
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "memory",
     "count": 1
   },
   {
@@ -39020,71 +38540,6 @@
     "count": 1
   },
   {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Areas/Personal/Personal and Projects MOC",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Areas/Writing/Legitimacy Machines MOC",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Areas/Writing/Manuscript Pipeline MOC",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "archive/session-state/session-state-003",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
-    "count": 1
-  },
-  {
     "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
     "target": "Areas/Personal/Personal and Projects MOC",
     "count": 1
@@ -39256,11 +38711,6 @@
   },
   {
     "source": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
     "count": 1
   },
@@ -39277,6 +38727,11 @@
   {
     "source": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -39661,7 +39116,7 @@
   },
   {
     "source": "Supersession Registry",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 1
   },
   {
@@ -40921,11 +40376,6 @@
   },
   {
     "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 2
-  },
-  {
-    "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
     "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
     "count": 1
   },
@@ -40948,6 +40398,11 @@
     "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
     "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
+  },
+  {
+    "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 2
   },
   {
     "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
@@ -41016,11 +40471,6 @@
   },
   {
     "source": "Trismégiste — Personal AI Assistant",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "Trismégiste — Personal AI Assistant",
     "target": "Local Hardware and Discovery Snapshot — Laptop A",
     "count": 1
   },
@@ -41032,6 +40482,11 @@
   {
     "source": "Trismégiste — Personal AI Assistant",
     "target": "Trismégiste — Operator State",
+    "count": 1
+  },
+  {
+    "source": "Trismégiste — Personal AI Assistant",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 1
   },
   {
@@ -41176,7 +40631,7 @@
   },
   {
     "source": "VAULT ADDITIONS TRACKER",
-    "target": "Workspace Cleanup Ledger — 2026-05-31",
+    "target": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31",
     "count": 1
   },
   {
@@ -41401,11 +40856,6 @@
   },
   {
     "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "count": 2
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
     "target": "Glitching the Sacred",
     "count": 2
   },
@@ -41417,11 +40867,6 @@
   {
     "source": "Vault Deep Linking Pass — 2026-05-06",
     "target": "Governance Controls — Incident Response (Control Failure Procedures)",
-    "count": 1
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "Governance Controls — Phase 1 Completion Checklist",
     "count": 1
   },
   {
@@ -41481,11 +40926,6 @@
   },
   {
     "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "count": 2
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
     "target": "Root Loose Notes Cluster Map — 2026-05-06",
     "count": 3
   },
@@ -41531,11 +40971,6 @@
   },
   {
     "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "Workspace Cleanup Ledger — 2026-05-31",
-    "count": 1
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
     "target": "archive/Orphan Index — Artifacts And Archives — 2026-05-06",
     "count": 1
   },
@@ -41562,6 +40997,26 @@
   {
     "source": "Vault Deep Linking Pass — 2026-05-06",
     "target": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "Vault Deep Linking Pass — 2026-05-06",
+    "target": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "count": 2
+  },
+  {
+    "source": "Vault Deep Linking Pass — 2026-05-06",
+    "target": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "count": 1
+  },
+  {
+    "source": "Vault Deep Linking Pass — 2026-05-06",
+    "target": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "count": 2
+  },
+  {
+    "source": "Vault Deep Linking Pass — 2026-05-06",
+    "target": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31",
     "count": 1
   },
   {
@@ -43305,11 +42760,6 @@
     "count": 1
   },
   {
-    "source": "Workspace Cleanup Ledger — 2026-05-31",
-    "target": "governance/global/AGENTS",
-    "count": 1
-  },
-  {
     "source": "adr/0001-skill-acquisition-strategy",
     "target": "argus-drift-audit-scope-multi-agent-orchestration",
     "count": 1
@@ -45031,11 +44481,6 @@
   },
   {
     "source": "archive/session-state/session-state-001",
-    "target": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "count": 2
-  },
-  {
-    "source": "archive/session-state/session-state-001",
     "target": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
     "count": 1
   },
@@ -45411,11 +44856,6 @@
   },
   {
     "source": "archive/session-state/session-state-001",
-    "target": "SYSTEM CHECK",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-001",
     "target": "Sales Objection Handling — Diagnosing Fog Without Coercion",
     "count": 1
   },
@@ -45507,6 +44947,16 @@
   {
     "source": "archive/session-state/session-state-001",
     "target": "archive/Governance Stress-Test Protocols Index",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-001",
+    "target": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "count": 2
+  },
+  {
+    "source": "archive/session-state/session-state-001",
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
     "count": 1
   },
   {
@@ -45696,11 +45146,6 @@
   },
   {
     "source": "archive/session-state/session-state-002",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-002",
     "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
@@ -45722,6 +45167,11 @@
   {
     "source": "archive/session-state/session-state-002",
     "target": "archive/session-state/session-state-001",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-002",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -45792,11 +45242,6 @@
   {
     "source": "archive/session-state/session-state-003",
     "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-003",
-    "target": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
     "count": 1
   },
   {
@@ -46296,6 +45741,11 @@
   },
   {
     "source": "archive/session-state/session-state-003",
+    "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-003",
     "target": "artifacts/emerge-pattern-report-2026-06-29",
     "count": 1
   },
@@ -46390,6 +45840,51 @@
     "count": 1
   },
   {
+    "source": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "target": "Areas/PHAROS/PHAROS Scholarly Publication Track",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "target": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "target": "Areas/Writing/Academic Paper Pipeline",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "target": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "target": "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "target": "Master Project Tracker — 2026",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "target": "Publishing Strategy — Springer Trilogy and Parallel Tracks",
+    "count": 1
+  },
+  {
     "source": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
     "target": "L99 PHAROS Migration Artifacts 2026-04-19",
     "count": 1
@@ -46397,6 +45892,201 @@
   {
     "source": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
     "target": "VAULT ADDITIONS TRACKER",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "target": "2026 - Mauss - The Gift",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "target": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "target": "Library Master Reference Intake (2026-04-26)",
+    "count": 4
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "target": "Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "target": "Areas/Personal/Personal and Projects MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "target": "Areas/Writing/Writing and Novels MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "target": "CLAUDEX — AI Dialogue Archive",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "target": "Library Master Reference Intake (2026-04-26)",
+    "count": 4
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "target": "Resources/MASTER REFERENCE SAFE — Canonical Bibliography System",
+    "count": 3
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "target": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "target": "bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "target": "AI Infrastructure Stack",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "target": "Areas/PHAROS/Obsidian Agent Vault — Asset Canon",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "target": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "target": "Areas/Personal/Personal and Projects MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "target": "Ask Vault — EMERAULD Vault Briefing Skill",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "target": "LightRAG — Graph-Based RAG System",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "target": "Obsidian Second Brain Product",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "target": "hephaistos/agents/Trismegiste Personal AI Assistant",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "target": "Areas/PHAROS/Governance Controls Integration Dashboard",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 4
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "target": "CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "target": "CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "target": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "target": "OPEN RISKS — Three Governance Blindspots Requiring Recursive Control",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "target": "Reddit Data API — Access Terms and Rate Limits",
+    "count": 3
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "target": "Resources/Regulatory Standards Reference Stack — Governance Controls Grounding",
+    "count": 5
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "target": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "target": "Areas/PHAROS/Control Protocols MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "target": "CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "target": "CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "target": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "target": "Governance Controls — Monitoring Plan & Automation Roadmap",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "target": "Supersession Registry",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
+    "target": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
     "count": 1
   },
   {
@@ -46426,11 +46116,6 @@
   },
   {
     "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
-    "target": "Governance Controls — Baseline Assessment (2026-04-26)",
-    "count": 1
-  },
-  {
-    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
     "target": "Governance Controls — Incident Response (Control Failure Procedures)",
     "count": 1
   },
@@ -46447,6 +46132,321 @@
   {
     "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
     "target": "Supersession Registry",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
+    "target": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "AI Infrastructure Stack",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "Areas/PHAROS/PHAROS Runbook SOP",
+    "count": 3
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "Areas/governanceframework/README",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "Cloudflare Pages-to-Worker Migration — Build and Asset Behavior",
+    "count": 3
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "Diamond-Eyes — Aesthetic Refinement Skill",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "Governance Stress-Test Protocols — Index",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "MARTIN SURFACE",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "PHAROS SURFACE",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "graph/nodes/unmapped/hermes_dashboard_tool",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "target": "Agent Session Phenomenology",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 9
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "target": "Claude Code Skill Corpus",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "target": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "target": "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "target": "governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/SYSTEM CHECK",
+    "target": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/SYSTEM CHECK",
+    "target": "Areas/Personal/Personal and Projects MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/SYSTEM CHECK",
+    "target": "CLI-Anything — Agent Harness for Tool Integration",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/SYSTEM CHECK",
+    "target": "Documents Root Loose Files Intake — 2026-04-28",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/SYSTEM CHECK",
+    "target": "Local Hardware and Discovery Snapshot — Laptop A",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/SYSTEM CHECK",
+    "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 3
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Areas/PHAROS/PHAROS AI Lineage — Source of Truth",
+    "count": 3
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Areas/PHAROS/Second Self System — Public Voice Examples",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Documents Root Intake — Hermes Action Map 2026-04-28",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Martin Voice Spec — Stage Map",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Martin Voice Spec — Version Genealogy",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Recursive Continuity Without Memory — AI Identity Across Sessions",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "The Compulsion to Complete — AI as Gap-Closer",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "VAULT ADDITIONS TRACKER",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "graph/nodes/unmapped/hermes_dashboard_tool",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "hephaistos/agents/Trismegiste Personal AI Assistant",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/ecosystem",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "memory",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "Areas/Personal/Personal and Projects MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "Areas/Writing/Legitimacy Machines MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "Areas/Writing/Manuscript Pipeline MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "archive/session-state/session-state-003",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31",
+    "target": "governance/global/AGENTS",
     "count": 1
   },
   {
@@ -47226,11 +47226,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
     "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
     "count": 1
   },
@@ -47766,16 +47761,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
-    "target": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
     "target": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
     "count": 1
   },
@@ -47787,11 +47772,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-04",
     "target": "DG Website Logo Rebrand & Governance Audit — 2026-05-01",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
     "count": 1
   },
   {
@@ -47992,11 +47972,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-04",
     "target": "HELIX Potential Clients - Source Sweep 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
     "count": 1
   },
   {
@@ -48761,22 +48736,12 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
-    "target": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
     "target": "SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
     "count": 1
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
     "target": "SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "SYSTEM CHECK",
     "count": 1
   },
   {
@@ -49216,7 +49181,42 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
+    "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
     "target": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
     "count": 1
   },
   {
@@ -49356,11 +49356,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
     "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
     "count": 1
   },
@@ -49891,16 +49886,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
-    "target": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
     "target": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
     "count": 1
   },
@@ -49912,11 +49897,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-05",
     "target": "DG Website Logo Rebrand & Governance Audit — 2026-05-01",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
     "count": 1
   },
   {
@@ -50117,11 +50097,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-05",
     "target": "HELIX Potential Clients - Source Sweep 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
     "count": 1
   },
   {
@@ -50886,22 +50861,12 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
-    "target": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
     "target": "SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
     "count": 1
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
     "target": "SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "SYSTEM CHECK",
     "count": 1
   },
   {
@@ -51336,7 +51301,42 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
+    "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
     "target": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
     "count": 1
   },
   {
@@ -51467,11 +51467,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
     "count": 1
   },
   {
@@ -52006,16 +52001,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-06",
-    "target": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
     "target": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
     "count": 1
   },
@@ -52027,11 +52012,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "DG Website Logo Rebrand & Governance Audit — 2026-05-01",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
     "count": 1
   },
   {
@@ -52232,11 +52212,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "HELIX Potential Clients - Source Sweep 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
     "count": 1
   },
   {
@@ -53001,22 +52976,12 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-06",
-    "target": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
     "target": "SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
     "count": 1
   },
   {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "SYSTEM CHECK",
     "count": 1
   },
   {
@@ -53456,7 +53421,42 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-06",
+    "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
     "target": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
     "count": 1
   },
   {
@@ -53596,11 +53596,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
     "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
     "count": 1
   },
@@ -54131,16 +54126,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
-    "target": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "D Library — Review Unreadable Cleanup (2026-05-04)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
     "target": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
     "count": 1
   },
@@ -54152,11 +54137,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "DG Website Logo Rebrand & Governance Audit — 2026-05-01",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
     "count": 1
   },
   {
@@ -54357,11 +54337,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "HELIX Potential Clients - Source Sweep 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
     "count": 1
   },
   {
@@ -55126,22 +55101,12 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
-    "target": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
     "target": "SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
     "count": 1
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "SYSTEM CHECK",
     "count": 1
   },
   {
@@ -55576,7 +55541,42 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
+    "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
     "target": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
     "count": 1
   },
   {
@@ -55916,17 +55916,17 @@
   },
   {
     "source": "claude-peers-mcp — Claude Peer Network",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 2
-  },
-  {
-    "source": "claude-peers-mcp — Claude Peer Network",
     "target": "InfraFabric MCP Stack — Remote Bundles",
     "count": 2
   },
   {
     "source": "claude-peers-mcp — Claude Peer Network",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
+    "count": 2
+  },
+  {
+    "source": "claude-peers-mcp — Claude Peer Network",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 2
   },
   {
@@ -56571,7 +56571,7 @@
   },
   {
     "source": "governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION",
-    "target": "Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
+    "target": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
     "count": 1
   },
   {
@@ -57461,11 +57461,6 @@
   },
   {
     "source": "hephaistos/agents/Trismegiste Personal AI Assistant",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 2
-  },
-  {
-    "source": "hephaistos/agents/Trismegiste Personal AI Assistant",
     "target": "Local Hardware and Discovery Snapshot — Laptop A",
     "count": 1
   },
@@ -57473,6 +57468,11 @@
     "source": "hephaistos/agents/Trismegiste Personal AI Assistant",
     "target": "Trismégiste — Operator State",
     "count": 1
+  },
+  {
+    "source": "hephaistos/agents/Trismegiste Personal AI Assistant",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 2
   },
   {
     "source": "hephaistos/agents/Trismegiste Personal AI Assistant",
@@ -58846,17 +58846,17 @@
   },
   {
     "source": "memory/agents/Blockers",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "memory/agents/Blockers",
     "target": "Master Project Tracker — 2026",
     "count": 1
   },
   {
     "source": "memory/agents/Blockers",
     "target": "VAULT ADDITIONS TRACKER",
+    "count": 1
+  },
+  {
+    "source": "memory/agents/Blockers",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 1
   },
   {
@@ -58951,11 +58951,6 @@
   },
   {
     "source": "memory/agents/Decisions",
-    "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 1
-  },
-  {
-    "source": "memory/agents/Decisions",
     "target": "Martin Lepage — AI Governance Consulting Profile Assessment",
     "count": 1
   },
@@ -58993,6 +58988,11 @@
     "source": "memory/agents/Decisions",
     "target": "archive/session-state/session-state-003",
     "count": 4
+  },
+  {
+    "source": "memory/agents/Decisions",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 1
   },
   {
     "source": "memory/agents/Decisions",
@@ -59296,13 +59296,13 @@
   },
   {
     "source": "memory/agents/Grok",
-    "target": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "count": 1
+    "target": "archive/session-state/session-state-003",
+    "count": 2
   },
   {
     "source": "memory/agents/Grok",
-    "target": "archive/session-state/session-state-003",
-    "count": 2
+    "target": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "count": 1
   },
   {
     "source": "memory/agents/Grok",
@@ -60391,7 +60391,7 @@
   },
   {
     "source": "memory/daily/2026-04-28",
-    "target": "SYSTEM CHECK",
+    "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
     "count": 1
   },
   {
@@ -62216,11 +62216,6 @@
   },
   {
     "source": "projects/HELIX — Fisher King Project State",
-    "target": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "count": 2
-  },
-  {
-    "source": "projects/HELIX — Fisher King Project State",
     "target": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
     "count": 1
   },
@@ -62228,6 +62223,11 @@
     "source": "projects/HELIX — Fisher King Project State",
     "target": "PHAROS Product Stack",
     "count": 1
+  },
+  {
+    "source": "projects/HELIX — Fisher King Project State",
+    "target": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "count": 2
   },
   {
     "source": "projects/LOTUS — Fisher King Project State",
@@ -62466,17 +62466,17 @@
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
     "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
     "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62496,11 +62496,6 @@
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
     "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
     "count": 1
   },
@@ -62510,8 +62505,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62522,6 +62517,11 @@
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
     "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62536,11 +62536,6 @@
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
     "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
     "count": 1
   },
@@ -62550,8 +62545,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62570,8 +62565,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62585,8 +62580,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62600,8 +62595,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62615,8 +62610,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62630,8 +62625,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62645,8 +62640,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62660,8 +62655,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62675,8 +62670,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62690,8 +62685,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62705,8 +62700,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62720,8 +62715,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62735,8 +62730,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62750,8 +62745,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62765,8 +62760,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62780,8 +62775,8 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "source": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
@@ -62792,6 +62787,11 @@
   {
     "source": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
     "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {

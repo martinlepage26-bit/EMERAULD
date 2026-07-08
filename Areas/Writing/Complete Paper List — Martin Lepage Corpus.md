@@ -21,7 +21,7 @@ backlink_count: 33
 backlinks:
 - '[[wiki/2026-06-29 - idea-discovery]]'
 - '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
-- '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/CODEX Writing Projects Manifest]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'

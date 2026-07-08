@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[wiki/Operator Continuity Memo — 2026-05-14]]'
-- '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/method]]'
 ---
 

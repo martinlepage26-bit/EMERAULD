@@ -27,7 +27,7 @@ canonical_path: wiki/Source Cluster — 2026-05-13 Governance and Platform Signa
 backlink_count: 9
 backlinks:
 - '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
-- '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[wiki/raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start

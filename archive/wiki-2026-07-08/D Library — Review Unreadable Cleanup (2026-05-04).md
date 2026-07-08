@@ -3,14 +3,13 @@ type: wiki
 title: D Library — Review Unreadable Cleanup (2026-05-04)
 aliases:
 - D Library — Review Unreadable Cleanup (2026-05-04)
-- wiki/D Library — Review Unreadable Cleanup (2026-05-04)
 tags:
 - library
 - docsort
 - triage
 - cleanup
 - reference
-- wiki
+- archive
 - d-library-review-unreadable-cleanup-2026-05-04-md
 - mine
 - filename
@@ -19,8 +18,8 @@ tags:
 status: active
 created: '2026-05-05'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/D Library — Review Unreadable Cleanup (2026-05-04).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04).md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

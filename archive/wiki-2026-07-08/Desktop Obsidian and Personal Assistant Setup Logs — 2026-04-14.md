@@ -5,7 +5,6 @@ aliases:
 - Desktop Obsidian setup logs
 - personal assistant Desktop scaffold
 - Obsidian WSL setup transcript
-- wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14
 tags:
 - obsidian
 - personal-assistant
@@ -13,7 +12,7 @@ tags:
 - infrastructure
 - desktop-intake
 - vault-product
-- wiki
+- archive
 - desktop-obsidian-and-personal-assistant-setup-logs-2026-04-14-md
 - assistant
 - desktop
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14.md
 backlink_count: 5
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

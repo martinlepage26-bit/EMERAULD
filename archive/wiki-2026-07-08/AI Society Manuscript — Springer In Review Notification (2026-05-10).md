@@ -5,7 +5,6 @@ aliases:
 - Springer In Review notification
 - Research Square screening notice
 - AI Society manuscript status update 2026-05-10
-- wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)
 tags:
 - publication
 - springer
@@ -13,7 +12,7 @@ tags:
 - research-square
 - ai-society
 - manuscript-tracking
-- wiki
+- archive
 - ai-society-manuscript-springer-in-review-notification-2026-05-10-md
 - square
 - preprint
@@ -23,14 +22,13 @@ tags:
 status: active
 created: '2026-05-12'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10).md
 backlink_count: 8
 backlinks:
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia
-  — Draft Snapshot (2026-05-10)]]'
+- '[[wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

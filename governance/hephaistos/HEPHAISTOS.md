@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
 - '[[wiki/GSD — Get Shit Done Context Engineering System]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
-- '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[wiki/LightRAG — Graph-Based RAG System]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'

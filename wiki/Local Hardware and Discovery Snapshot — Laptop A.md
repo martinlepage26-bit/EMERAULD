@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[wiki/SYSTEM CHECK]]'
+- '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
 - '[[wiki/Trismégiste — Personal AI Assistant]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

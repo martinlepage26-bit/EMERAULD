@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note]]'

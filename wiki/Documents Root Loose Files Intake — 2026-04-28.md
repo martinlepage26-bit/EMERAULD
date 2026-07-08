@@ -50,7 +50,7 @@ backlinks:
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/SYSTEM CHECK]]'
+- '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[wiki/Trismégiste — Personal AI Assistant]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

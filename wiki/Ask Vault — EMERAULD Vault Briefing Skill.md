@@ -30,7 +30,7 @@ backlinks:
 - '[[.planning/phases/01-lightrag-script-runtime-hardening/01-REVIEW]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Claude Code Skill Corpus]]'
-- '[[wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'

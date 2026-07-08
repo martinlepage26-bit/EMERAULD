@@ -23,7 +23,7 @@ canonical_path: wiki/Master Project Tracker — 2026.md
 backlink_count: 42
 backlinks:
 - '[[wiki/90-Day $1M Challenge — Status Report]]'
-- '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[wiki/Agent Logs Hub]]'
 - '[[wiki/CODEX Writing Projects Manifest]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'

@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Workspace Cleanup Ledger — 2026-05-31]]'
+- '[[archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
 - '[[governance/governance-index]]'
 - '[[governance/hephaistos/HEPHAISTOS]]'

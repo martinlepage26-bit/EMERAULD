@@ -25,7 +25,7 @@ vault_area: wiki
 canonical_path: wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks.md
 backlink_count: 6
 backlinks:
-- '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'

@@ -3,10 +3,9 @@ type: governance-update
 title: HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)
 aliases:
 - HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)
-- wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)
 tags:
 - governance-update
-- wiki
+- archive
 - hephaistos-co-equal-authority-cleanup-wave-1-and-2-2026-04-18-md
 - tier
 - equal
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18).md
 backlink_count: 24
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
@@ -38,8 +37,7 @@ backlinks:
 - '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
-- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
-  (2026-04-18)]]'
+- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]'
 - '[[wiki/Supersession Registry]]'
 - '[[wiki/Trismégiste — Personal AI Assistant]]'
 - '[[wiki/claude-peers-mcp — Claude Peer Network]]'

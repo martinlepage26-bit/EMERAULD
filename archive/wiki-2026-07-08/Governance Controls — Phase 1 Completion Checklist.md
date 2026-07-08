@@ -3,10 +3,9 @@ type: governance-procedures
 title: Governance Controls — Phase 1 Completion Checklist
 aliases:
 - GOVERNANCE CONTROLS — Phase 1 COMPLETION CHECKLIST
-- wiki/Governance Controls — Phase 1 Completion Checklist
 tags:
 - governance-procedures
-- wiki
+- archive
 - governance-controls-phase-1-completion-checklist-md
 - refresh
 - phase
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governance Controls — Phase 1 Completion Checklist.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist.md
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'

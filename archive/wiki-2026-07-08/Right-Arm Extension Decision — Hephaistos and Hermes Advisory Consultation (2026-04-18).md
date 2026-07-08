@@ -1,13 +1,10 @@
 ---
 type: wiki
-title: Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
-  (2026-04-18)
+title: Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)
 aliases:
 - Right-Arm Extension Decision
 - Hephaistos right-arm consultation
 - Hermes exception consultation
-- wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
-  (2026-04-18)
 tags:
 - governance
 - hephaistos
@@ -16,7 +13,7 @@ tags:
 - right-arm
 - binding-decision
 - architecture
-- wiki
+- archive
 - right-arm-extension-decision-hephaistos-and-hermes-advisory-consultation-2026-04-18-md
 - arms
 - consultation
@@ -26,9 +23,8 @@ tags:
 status: active
 created: '2026-05-04'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory
-  Consultation (2026-04-18).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18).md
 backlink_count: 8
 backlinks:
 - '[[.github/agents/hephaistos.agent]]'

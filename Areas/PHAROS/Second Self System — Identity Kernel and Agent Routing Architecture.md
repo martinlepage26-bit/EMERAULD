@@ -45,7 +45,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
 - '[[wiki/Trismégiste — Operator State]]'
 - '[[wiki/Trismégiste — Personal AI Assistant]]'

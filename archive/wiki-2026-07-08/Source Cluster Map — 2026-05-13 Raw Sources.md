@@ -3,7 +3,6 @@ type: source-cluster-map
 title: Source Cluster Map — 2026-05-13 Raw Sources
 aliases:
 - Source Cluster Map — 2026-05-13 Raw Sources
-- wiki/Source Cluster Map — 2026-05-13 Raw Sources
 tags:
 - cluster-map
 - source-notes
@@ -11,7 +10,7 @@ tags:
 - henry
 - trismegiste
 - source-cluster-map
-- wiki
+- archive
 - source-cluster-map-2026-05-13-raw-sources-md
 - cluster
 - trism
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Source Cluster Map — 2026-05-13 Raw Sources.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources.md
 backlink_count: 29
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
@@ -35,28 +34,19 @@ backlinks:
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
-- '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source
-  Note]]'
-- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a
-  live X — Source Note]]'
-- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker
-  — Source Note]]'
-- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send —
-  Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note]]'
-- '[[wiki/raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application
-  contract + notes — Source Note]]'
-- '[[wiki/raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start
-  Selling Today) — Source Note]]'
-- '[[wiki/raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate
-  it? — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note]]'
-- '[[wiki/raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26
-  Account Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/Complete solutions, not compromises — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/Email Député Guilbault AE — Source Note]]'
-- '[[wiki/raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure
-  — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/Reddit Data API Wiki — Source Note]]'

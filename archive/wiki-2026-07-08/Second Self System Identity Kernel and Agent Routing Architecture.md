@@ -3,7 +3,6 @@ type: wiki
 title: Second Self System — Identity Kernel and Agent Routing Architecture
 aliases:
 - Second Self System Identity Kernel and Agent Routing Architecture (recovery artifact)
-- wiki/Second Self System Identity Kernel and Agent Routing Architecture
 tags:
 - agent-architecture
 - adversarial-review
@@ -11,7 +10,7 @@ tags:
 - governance
 - second-self
 - provenance-artifact
-- wiki
+- archive
 - second-self-system-identity-kernel-and-agent-routing-architecture-md
 - organ
 - merge
@@ -22,8 +21,8 @@ tags:
 status: recovered
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Second Self System Identity Kernel and Agent Routing Architecture.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture.md
 backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'

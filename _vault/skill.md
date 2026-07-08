@@ -23,7 +23,7 @@ backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
-- '[[wiki/Workspace Cleanup Ledger — 2026-05-31]]'
+- '[[archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31]]'
 - '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
 name: ask-vault
 description: 'How to use an Obsidian vault as a lightweight retrieval system for LLM

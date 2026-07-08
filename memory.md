@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

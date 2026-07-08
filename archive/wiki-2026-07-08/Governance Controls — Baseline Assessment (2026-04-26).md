@@ -3,10 +3,9 @@ type: governance-assessment
 title: Governance Controls — Baseline Assessment (2026-04-26)
 aliases:
 - GOVERNANCE CONTROLS — BASELINE ASSESSMENT (2026-04-26)
-- wiki/Governance Controls — Baseline Assessment (2026-04-26)
 tags:
 - governance-assessment
-- wiki
+- archive
 - governance-controls-baseline-assessment-2026-04-26-md
 - external
 - refresh
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governance Controls — Baseline Assessment (2026-04-26).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26).md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/External Data Registry — Phase 1 Build]]'

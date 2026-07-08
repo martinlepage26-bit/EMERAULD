@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/SYSTEM CHECK]]'
+- '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
 ---
 
 # CLI-Anything — Agent Harness for Tool Integration

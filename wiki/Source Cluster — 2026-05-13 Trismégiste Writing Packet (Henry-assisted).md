@@ -27,7 +27,7 @@ canonical_path: wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (
 backlink_count: 26
 backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[wiki/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

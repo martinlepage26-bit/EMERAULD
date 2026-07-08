@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/CODEX Writing Projects Manifest]]'
 - '[[wiki/CORPUS Novel — Version Genealogy]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
-- '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
+- '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

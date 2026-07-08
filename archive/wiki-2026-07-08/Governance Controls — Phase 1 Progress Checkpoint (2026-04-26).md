@@ -22,7 +22,7 @@ backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 phase: Phase 1 Infrastructure
 completion: 35%

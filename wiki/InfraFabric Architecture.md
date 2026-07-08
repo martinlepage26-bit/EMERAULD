@@ -55,7 +55,7 @@ backlinks:
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/SYSTEM CHECK]]'
+- '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Stacklight-owner-explainer]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
