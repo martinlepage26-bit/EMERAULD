@@ -5,7 +5,6 @@ aliases:
 - Reddit API
 - Reddit Data API
 - r/redditdev rate limits
-- wiki/Reddit Data API — Access Terms and Rate Limits
 tags:
 - reference
 - api
@@ -13,7 +12,7 @@ tags:
 - rate-limits
 - oauth
 - tooling
-- wiki
+- resources
 - reddit-data-api-access-terms-and-rate-limits-md
 - deletion
 - rate
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-04-20'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Reddit Data API — Access Terms and Rate Limits.md
+vault_area: Resources
+canonical_path: Resources/Reddit Data API — Access Terms and Rate Limits.md
 backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'

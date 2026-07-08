@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/RECURSO — Final Audit and Ethical Review]]'
+- '[[Areas/PHAROS/RECURSO — Final Audit and Ethical Review]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[governance/hephaistos/research-ethics-gate]]'
 - '[[maps/PHAROS Method Map]]'

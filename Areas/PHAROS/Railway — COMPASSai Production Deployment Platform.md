@@ -5,14 +5,13 @@ aliases:
 - Railway deployment
 - Railway PaaS
 - COMPASSai Railway
-- wiki/Railway — COMPASSai Production Deployment Platform
 tags:
 - pharos
 - compassai
 - deployment
 - infrastructure
 - railway
-- wiki
+- areas
 - railway-compassai-production-deployment-platform-md
 - classifier
 - construction
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-06-22'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Railway — COMPASSai Production Deployment Platform.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Railway — COMPASSai Production Deployment Platform.md
 backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'

@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Setup Guide]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/RAG-Anything — Multimodal RAG Framework]]'
+- '[[Resources/RAG-Anything — Multimodal RAG Framework]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
 ---

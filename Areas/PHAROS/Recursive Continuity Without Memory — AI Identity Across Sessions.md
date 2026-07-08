@@ -3,9 +3,8 @@ type: wiki
 title: Recursive Continuity Without Memory — AI Identity Across Sessions
 aliases:
 - Recursive Continuity Without Memory — AI Identity Across Sessions
-- wiki/Recursive Continuity Without Memory — AI Identity Across Sessions
 tags:
-- wiki
+- areas
 - recursion
 - ai
 - recursive-continuity-without-memory-ai-identity-across-sessions-md
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Recursive Continuity Without Memory — AI Identity Across Sessions.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions.md
 backlink_count: 30
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
@@ -40,7 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'

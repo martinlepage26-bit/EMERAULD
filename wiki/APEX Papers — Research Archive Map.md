@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
-- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
 - '[[tmp/drive-audit-2026-04-18/corpus_structure]]'

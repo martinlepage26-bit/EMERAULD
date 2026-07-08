@@ -5,7 +5,6 @@ aliases:
 - recursive entry prompt
 - legitimacy inhabitation protocol
 - song structure governance
-- wiki/Recursive Entry Structure — Song Corpus to Governance Prompt
 tags:
 - governance
 - recursion
@@ -14,7 +13,7 @@ tags:
 - proof-regime
 - audit
 - prompt-engineering
-- wiki
+- areas
 - recursive-entry-structure-song-corpus-to-governance-prompt-md
 - song
 - lyrics
@@ -25,8 +24,8 @@ tags:
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Recursive Entry Structure — Song Corpus to Governance Prompt.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt.md
 backlink_count: 16
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
@@ -35,7 +34,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
-- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'

@@ -2490,6 +2490,56 @@
     "source_path": "Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md"
   },
   {
+    "source": "Areas/PHAROS/RECURSO — Recursive Governance Test Archive",
+    "target": "MASTER TRACKER (recreated from MASTER PACK 4).csv",
+    "source_path": "Areas/PHAROS/RECURSO — Recursive Governance Test Archive.md"
+  },
+  {
+    "source": "Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions",
+    "target": "Gemini a dit",
+    "source_path": "Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions.md"
+  },
+  {
+    "source": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "target": "Grok's work on HELIX",
+    "source_path": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
+  },
+  {
+    "source": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "target": "00_MASTER_EXPLAINER",
+    "source_path": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
+  },
+  {
+    "source": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "target": "04_AURYN_TEMPLATE",
+    "source_path": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
+  },
+  {
+    "source": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "target": "05_AURYN_ARCHIVE",
+    "source_path": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
+  },
+  {
+    "source": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "target": "06_AURYN_QUESTIONS",
+    "source_path": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
+  },
+  {
+    "source": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "target": "07_HOPF_TEMPLATE",
+    "source_path": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
+  },
+  {
+    "source": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "target": "08_HOPF_ARCHIVE",
+    "source_path": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
+  },
+  {
+    "source": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "target": "09_HOPF_QUESTIONS",
+    "source_path": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
+  },
+  {
     "source": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
     "target": "Second Self System — Adversarial Review",
     "source_path": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture.md"
@@ -3943,6 +3993,51 @@
     "source": "Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening",
     "target": "2026 - Coach House Books",
     "source_path": "Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md"
+  },
+  {
+    "source": "Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
+    "target": "2020 - policy_or_guidance [2",
+    "source_path": "Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md"
+  },
+  {
+    "source": "Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
+    "target": "2024 - 2024",
+    "source_path": "Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md"
+  },
+  {
+    "source": "Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
+    "target": "2025 - Martin Lepage - Submission to JAAR",
+    "source_path": "Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md"
+  },
+  {
+    "source": "Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
+    "target": "Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2)",
+    "source_path": "Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md"
+  },
+  {
+    "source": "Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
+    "target": "Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds",
+    "source_path": "Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md"
+  },
+  {
+    "source": "Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)",
+    "target": "2010 - Studies in Religion Sciences Religieuses.pdf - 2010 - Studies i - 2010 - Studies in Religion",
+    "source_path": "Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming).md"
+  },
+  {
+    "source": "Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)",
+    "target": "2010 - Studies in Religion Sciences Religieuses_1.pdf - 2010 - Studies - 2010 - Studies in Religion",
+    "source_path": "Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming).md"
+  },
+  {
+    "source": "Areas/Writing/Reboot — Performance, Gender, and Computing of Identity",
+    "target": "Abstract",
+    "source_path": "Areas/Writing/Reboot — Performance, Gender, and Computing of Identity.md"
+  },
+  {
+    "source": "Areas/Writing/Reboot — Performance, Gender, and Computing of Identity",
+    "target": "Martin Lepage, PhD (2)",
+    "source_path": "Areas/Writing/Reboot — Performance, Gender, and Computing of Identity.md"
   },
   {
     "source": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
@@ -7185,9 +7280,79 @@
     "source_path": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence).md"
   },
   {
+    "source": "Resources/Qualitative Handbook — Expanded Reference List",
+    "target": "Qualitative Research and Intersectional Frameworks",
+    "source_path": "Resources/Qualitative Handbook — Expanded Reference List.md"
+  },
+  {
     "source": "Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
     "target": "QR",
     "source_path": "Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion).md"
+  },
+  {
+    "source": "Resources/RAG-Anything — Multimodal RAG Framework",
+    "target": "2025 - PowerPoint Presentation",
+    "source_path": "Resources/RAG-Anything — Multimodal RAG Framework.md"
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "CREDENTIALS",
+    "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "readme",
+    "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "CHANGELOG",
+    "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "HISTORY",
+    "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "Connector",
+    "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "RetryAgent",
+    "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "RetryHandler",
+    "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "SnapshotAgent",
+    "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "Socks5ProxyAgent",
+    "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "2022 - job_application.pdf - 2022 - job_application.pdf.pdf - 2022 - job_application.pdf - 2022 - jo",
+    "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "2026 - Martin Lepage - report",
+    "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
+  },
+  {
+    "source": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "target": "Introduction (2)",
+    "source_path": "Resources/Reddit Data API — Access Terms and Rate Limits.md"
   },
   {
     "source": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
@@ -9615,36 +9780,6 @@
     "source_path": "wiki/Projects Hub.md"
   },
   {
-    "source": "Qualitative Handbook — Expanded Reference List",
-    "target": "Qualitative Research and Intersectional Frameworks",
-    "source_path": "wiki/Qualitative Handbook — Expanded Reference List.md"
-  },
-  {
-    "source": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
-    "target": "2020 - policy_or_guidance [2",
-    "source_path": "wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md"
-  },
-  {
-    "source": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
-    "target": "2024 - 2024",
-    "source_path": "wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md"
-  },
-  {
-    "source": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
-    "target": "2025 - Martin Lepage - Submission to JAAR",
-    "source_path": "wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md"
-  },
-  {
-    "source": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
-    "target": "Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2)",
-    "source_path": "wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md"
-  },
-  {
-    "source": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
-    "target": "Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds",
-    "source_path": "wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md"
-  },
-  {
     "source": "Queering Neo-Pagan Magic — 2006 Paper",
     "target": "2013 - Martin Lepage - correspondence",
     "source_path": "wiki/Queering Neo-Pagan Magic — 2006 Paper.md"
@@ -9680,21 +9815,6 @@
     "source_path": "wiki/Queering Neo-Pagan Magic — 2025 Revised Version.md"
   },
   {
-    "source": "Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)",
-    "target": "2010 - Studies in Religion Sciences Religieuses.pdf - 2010 - Studies i - 2010 - Studies in Religion",
-    "source_path": "wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming).md"
-  },
-  {
-    "source": "Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)",
-    "target": "2010 - Studies in Religion Sciences Religieuses_1.pdf - 2010 - Studies - 2010 - Studies in Religion",
-    "source_path": "wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming).md"
-  },
-  {
-    "source": "RAG-Anything — Multimodal RAG Framework",
-    "target": "2025 - PowerPoint Presentation",
-    "source_path": "wiki/RAG-Anything — Multimodal RAG Framework.md"
-  },
-  {
     "source": "RAW MOC",
     "target": "raw/Clippings/AI Recruiting Has an Accessibility Problem",
     "source_path": "wiki/RAW MOC.md"
@@ -9725,29 +9845,9 @@
     "source_path": "wiki/RAW MOC.md"
   },
   {
-    "source": "RECURSO — Recursive Governance Test Archive",
-    "target": "MASTER TRACKER (recreated from MASTER PACK 4).csv",
-    "source_path": "wiki/RECURSO — Recursive Governance Test Archive.md"
-  },
-  {
     "source": "RESOURCES MOC",
     "target": "resources/mtl-01-access",
     "source_path": "wiki/RESOURCES MOC.md"
-  },
-  {
-    "source": "Reboot — Performance, Gender, and Computing of Identity",
-    "target": "Abstract",
-    "source_path": "wiki/Reboot — Performance, Gender, and Computing of Identity.md"
-  },
-  {
-    "source": "Reboot — Performance, Gender, and Computing of Identity",
-    "target": "Martin Lepage, PhD (2)",
-    "source_path": "wiki/Reboot — Performance, Gender, and Computing of Identity.md"
-  },
-  {
-    "source": "Recursive Continuity Without Memory — AI Identity Across Sessions",
-    "target": "Gemini a dit",
-    "source_path": "wiki/Recursive Continuity Without Memory — AI Identity Across Sessions.md"
   },
   {
     "source": "Recursive Governance Memo — EMERAULD Control Packet (2026-05-12)",
@@ -9758,106 +9858,6 @@
     "source": "Recursive Governance Memo — EMERAULD Control Packet (2026-05-12)",
     "target": "AI Agent Operations and Governance Manager",
     "source_path": "wiki/Recursive Governance Memo — EMERAULD Control Packet (2026-05-12).md"
-  },
-  {
-    "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "target": "Grok's work on HELIX",
-    "source_path": "wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
-  },
-  {
-    "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "target": "00_MASTER_EXPLAINER",
-    "source_path": "wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
-  },
-  {
-    "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "target": "04_AURYN_TEMPLATE",
-    "source_path": "wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
-  },
-  {
-    "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "target": "05_AURYN_ARCHIVE",
-    "source_path": "wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
-  },
-  {
-    "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "target": "06_AURYN_QUESTIONS",
-    "source_path": "wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
-  },
-  {
-    "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "target": "07_HOPF_TEMPLATE",
-    "source_path": "wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
-  },
-  {
-    "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "target": "08_HOPF_ARCHIVE",
-    "source_path": "wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
-  },
-  {
-    "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "target": "09_HOPF_QUESTIONS",
-    "source_path": "wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "CREDENTIALS",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "readme",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "CHANGELOG",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "HISTORY",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "Connector",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "RetryAgent",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "RetryHandler",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "SnapshotAgent",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "Socks5ProxyAgent",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "2022 - job_application.pdf - 2022 - job_application.pdf.pdf - 2022 - job_application.pdf - 2022 - jo",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "2026 - Martin Lepage - report",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "Introduction (2)",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
   },
   {
     "source": "Reflexive Inhabitation Audit — Prompt",

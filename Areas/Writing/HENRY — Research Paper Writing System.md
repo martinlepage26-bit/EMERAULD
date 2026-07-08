@@ -42,7 +42,7 @@ backlinks:
 - '[[Areas/Writing/Per-Paper Project Structure — Folder and File Architecture]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
-- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

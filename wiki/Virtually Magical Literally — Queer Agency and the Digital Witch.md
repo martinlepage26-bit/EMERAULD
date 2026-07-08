@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
+- '[[Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

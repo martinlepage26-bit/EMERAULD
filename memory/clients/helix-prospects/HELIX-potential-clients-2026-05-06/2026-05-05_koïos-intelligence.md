@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-0
 backlink_count: 2
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[Resources/Reddit Data API — Access Terms and Rate Limits]]'
 source_url: https://koiosintelligence.ca/
 date: '2026-05-05'
 scraped: '2026-05-05'

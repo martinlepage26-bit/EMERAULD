@@ -22,7 +22,7 @@ backlink_count: 5
 backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
+- '[[Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---

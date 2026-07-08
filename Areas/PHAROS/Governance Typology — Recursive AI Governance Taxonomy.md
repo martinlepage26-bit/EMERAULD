@@ -26,7 +26,7 @@ backlinks:
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
+- '[[Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[maps/PHAROS Method Map]]'
 ---

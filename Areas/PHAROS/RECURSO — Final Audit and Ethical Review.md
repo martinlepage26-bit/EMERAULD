@@ -3,9 +3,8 @@ type: wiki
 title: RECURSO — Final Audit and Ethical Review
 aliases:
 - RECURSO — Final Audit and Ethical Review
-- wiki/RECURSO — Final Audit and Ethical Review
 tags:
-- wiki
+- areas
 - recurso
 - recurso-final-audit-and-ethical-review-md
 - utilitarian
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/RECURSO — Final Audit and Ethical Review.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/RECURSO — Final Audit and Ethical Review.md
 backlink_count: 50
 backlinks:
 - '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
@@ -57,10 +56,10 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook]]'
-- '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
-- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
-- '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
-- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
+- '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
+- '[[Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
+- '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[Resources/Red Team Handbook — Offensive Security Reference]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/September 2024 Research Retrospective]]'

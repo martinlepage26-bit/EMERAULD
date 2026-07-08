@@ -6,14 +6,13 @@ aliases:
 - three-language verification
 - mechanism naming
 - divergence detection
-- wiki/RIA-CODEX — System Audit Protocol
 tags:
 - methodology
 - audit
 - governance
 - systems-thinking
 - hidden-mechanisms
-- wiki
+- areas
 - ria-codex-system-audit-protocol-md
 - divergence
 - mechanism
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-07-03'
-vault_area: wiki
-canonical_path: wiki/RIA-CODEX — System Audit Protocol.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/RIA-CODEX — System Audit Protocol.md
 backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'

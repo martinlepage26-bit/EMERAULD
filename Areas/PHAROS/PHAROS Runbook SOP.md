@@ -42,7 +42,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/RECURSO — Final Audit and Ethical Review]]'
+- '[[Areas/PHAROS/RECURSO — Final Audit and Ethical Review]]'
 - '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'

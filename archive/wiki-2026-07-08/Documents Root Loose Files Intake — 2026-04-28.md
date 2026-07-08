@@ -46,7 +46,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Phase 1 Governance Formation Sequence]]'
-- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'

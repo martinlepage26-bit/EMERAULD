@@ -32,7 +32,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 ---
 
 # MASTER PACK — D Drive Archive Map

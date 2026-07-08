@@ -3,9 +3,8 @@ type: wiki
 title: Recursive AI Governance as Executable Method — The Very Long Narrative
 aliases:
 - Recursive AI Governance as Executable Method — The Very Long Narrative
-- wiki/Recursive AI Governance as Executable Method — The Very Long Narrative
 tags:
-- wiki
+- areas
 - recursion
 - governance
 - ai
@@ -19,9 +18,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Recursive AI Governance as Executable Method — The Very Long
-  Narrative.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative.md
 backlink_count: 9
 backlinks:
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'

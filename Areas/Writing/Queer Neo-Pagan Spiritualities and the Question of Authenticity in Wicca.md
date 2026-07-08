@@ -3,9 +3,8 @@ type: wiki
 title: Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca
 aliases:
 - Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca
-- wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca
 tags:
-- wiki
+- areas
 - wicca
 - pagan
 - ritual
@@ -17,9 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity
-  in Wicca.md
+vault_area: Areas
+canonical_path: Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md
 backlink_count: 26
 backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
@@ -31,16 +29,15 @@ backlinks:
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
-- '[[wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
 - '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
-- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
-  vs Reclaiming)]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'

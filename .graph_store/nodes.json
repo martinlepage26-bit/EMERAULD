@@ -213,6 +213,20 @@
     "backlinks": 13
   },
   {
+    "id": "Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule",
+    "title": "Quiet Compliance Workbench — Standing Tone Rule",
+    "path": "Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Quiet Compliance Workbench",
+      "quiet compliance workbench"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 3,
+    "backlinks": 6
+  },
+  {
     "id": "Areas/PHAROS/2026-06-29 - idea-discovery",
     "title": "2026-06-29 - idea-discovery",
     "path": "Areas/PHAROS/2026-06-29 - idea-discovery.md",
@@ -2545,6 +2559,76 @@
     "backlinks": 11
   },
   {
+    "id": "Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026",
+    "title": "RDAIG Method Editorial Consolidation — 2026",
+    "path": "Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "RDAIG Method Editorial Consolidation — 2026"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 9,
+    "backlinks": 12
+  },
+  {
+    "id": "Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
+    "title": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
+    "path": "Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis"
+    ],
+    "outlinks": 20,
+    "unique_outlinks": 9,
+    "backlinks": 22
+  },
+  {
+    "id": "Areas/PHAROS/RECURSO — Final Audit and Ethical Review",
+    "title": "RECURSO — Final Audit and Ethical Review",
+    "path": "Areas/PHAROS/RECURSO — Final Audit and Ethical Review.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "RECURSO — Final Audit and Ethical Review"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 6,
+    "backlinks": 78
+  },
+  {
+    "id": "Areas/PHAROS/RECURSO — Recursive Governance Test Archive",
+    "title": "RECURSO — Recursive Governance Test Archive",
+    "path": "Areas/PHAROS/RECURSO — Recursive Governance Test Archive.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "POST-RECURS",
+      "RECURSO",
+      "recursive governance runs"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 11,
+    "backlinks": 25
+  },
+  {
+    "id": "Areas/PHAROS/RIA-CODEX — System Audit Protocol",
+    "title": "RIA-CODEX — System Audit Protocol",
+    "path": "Areas/PHAROS/RIA-CODEX — System Audit Protocol.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "divergence detection",
+      "mechanism naming",
+      "system audit",
+      "three-language verification"
+    ],
+    "outlinks": 21,
+    "unique_outlinks": 9,
+    "backlinks": 19
+  },
+  {
     "id": "Areas/PHAROS/ROOK — Session Boundary Model",
     "title": "ROOK — Session Boundary Model",
     "path": "Areas/PHAROS/ROOK — Session Boundary Model.md",
@@ -2558,6 +2642,75 @@
     "outlinks": 8,
     "unique_outlinks": 5,
     "backlinks": 27
+  },
+  {
+    "id": "Areas/PHAROS/Railway — COMPASSai Production Deployment Platform",
+    "title": "Railway — COMPASSai Production Deployment Platform",
+    "path": "Areas/PHAROS/Railway — COMPASSai Production Deployment Platform.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "COMPASSai Railway",
+      "Railway PaaS",
+      "Railway deployment"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 5,
+    "backlinks": 8
+  },
+  {
+    "id": "Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative",
+    "title": "Recursive AI Governance as Executable Method — The Very Long Narrative",
+    "path": "Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Recursive AI Governance as Executable Method — The Very Long Narrative"
+    ],
+    "outlinks": 16,
+    "unique_outlinks": 9,
+    "backlinks": 15
+  },
+  {
+    "id": "Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions",
+    "title": "Recursive Continuity Without Memory — AI Identity Across Sessions",
+    "path": "Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Recursive Continuity Without Memory — AI Identity Across Sessions"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 9,
+    "backlinks": 45
+  },
+  {
+    "id": "Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt",
+    "title": "Recursive Entry Structure — Song Corpus to Governance Prompt",
+    "path": "Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "legitimacy inhabitation protocol",
+      "recursive entry prompt",
+      "song structure governance"
+    ],
+    "outlinks": 27,
+    "unique_outlinks": 15,
+    "backlinks": 24
+  },
+  {
+    "id": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "title": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "path": "Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Recursive Governance Protocol — Theseus, Auryn, Hopf"
+    ],
+    "outlinks": 27,
+    "unique_outlinks": 17,
+    "backlinks": 63
   },
   {
     "id": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
@@ -3820,6 +3973,33 @@
     "backlinks": 18
   },
   {
+    "id": "Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks",
+    "title": "Publishing Strategy — Springer Trilogy and Parallel Tracks",
+    "path": "Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Publishing Strategy",
+      "Submission Strategy 2026"
+    ],
+    "outlinks": 22,
+    "unique_outlinks": 17,
+    "backlinks": 10
+  },
+  {
+    "id": "Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
+    "title": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
+    "path": "Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca"
+    ],
+    "outlinks": 26,
+    "unique_outlinks": 13,
+    "backlinks": 33
+  },
+  {
     "id": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
     "title": "Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
     "path": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy.md",
@@ -3846,6 +4026,33 @@
     "backlinks": 467
   },
   {
+    "id": "Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic",
+    "title": "Queering Neo-Pagan Magic — Identity Power and the Uses of Magic",
+    "path": "Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Queering Neo-Pagan Magic — Identity Power and the Uses of Magic"
+    ],
+    "outlinks": 25,
+    "unique_outlinks": 12,
+    "backlinks": 35
+  },
+  {
+    "id": "Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)",
+    "title": "Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)",
+    "path": "Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Lepage 2017 Queerness and Transgender Identity",
+      "Queerness and Transgender Identity: Negotiations in the Pagan Community of Montreal"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 13,
+    "backlinks": 18
+  },
+  {
     "id": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy",
     "title": "Reboot Performance Gender Identity — Version Genealogy",
     "path": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy.md",
@@ -3857,6 +4064,19 @@
     "outlinks": 3,
     "unique_outlinks": 3,
     "backlinks": 5
+  },
+  {
+    "id": "Areas/Writing/Reboot — Performance, Gender, and Computing of Identity",
+    "title": "Reboot — Performance, Gender, and Computing of Identity",
+    "path": "Areas/Writing/Reboot — Performance, Gender, and Computing of Identity.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Reboot — Performance, Gender, and Computing of Identity"
+    ],
+    "outlinks": 27,
+    "unique_outlinks": 17,
+    "backlinks": 21
   },
   {
     "id": "Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy",
@@ -5629,67 +5849,6 @@
     "backlinks": 2
   },
   {
-    "id": "Publishing Strategy — Springer Trilogy and Parallel Tracks",
-    "title": "Publishing Strategy — Springer Trilogy and Parallel Tracks",
-    "path": "wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Publishing Strategy",
-      "Submission Strategy 2026",
-      "wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks"
-    ],
-    "outlinks": 22,
-    "unique_outlinks": 17,
-    "backlinks": 10
-  },
-  {
-    "id": "Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)",
-    "title": "Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)",
-    "path": "wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "BDSM Gay Masculinities Literature Review",
-      "Pup Play Bibliography",
-      "Puppy Play Annotated Bibliography",
-      "wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 7,
-    "backlinks": 6
-  },
-  {
-    "id": "Qualitative Handbook — Expanded Reference List",
-    "title": "Qualitative Handbook — Expanded Reference List",
-    "path": "wiki/Qualitative Handbook — Expanded Reference List.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Expanded Qualitative Reference",
-      "Qualitative Handbook",
-      "Qualitative Methods Handbook",
-      "wiki/Qualitative Handbook — Expanded Reference List"
-    ],
-    "outlinks": 31,
-    "unique_outlinks": 17,
-    "backlinks": 94
-  },
-  {
-    "id": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
-    "title": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
-    "path": "wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
-      "wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca"
-    ],
-    "outlinks": 26,
-    "unique_outlinks": 13,
-    "backlinks": 33
-  },
-  {
     "id": "Queer Theory Foundations",
     "title": "Queer Theory Foundations",
     "path": "wiki/Queer Theory Foundations.md",
@@ -5760,20 +5919,6 @@
     "backlinks": 6
   },
   {
-    "id": "Queering Neo-Pagan Magic — Identity Power and the Uses of Magic",
-    "title": "Queering Neo-Pagan Magic — Identity Power and the Uses of Magic",
-    "path": "wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Queering Neo-Pagan Magic — Identity Power and the Uses of Magic",
-      "wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic"
-    ],
-    "outlinks": 25,
-    "unique_outlinks": 12,
-    "backlinks": 35
-  },
-  {
     "id": "Queering Neo-Pagan Magic — MRW Submission (2026)",
     "title": "Queering Neo-Pagan Magic — MRW Submission (2026)",
     "path": "wiki/Queering Neo-Pagan Magic — MRW Submission (2026).md",
@@ -5788,52 +5933,6 @@
     "backlinks": 7
   },
   {
-    "id": "Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)",
-    "title": "Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)",
-    "path": "wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Lepage 2017 Queerness and Transgender Identity",
-      "Queerness and Transgender Identity: Negotiations in the Pagan Community of Montreal",
-      "wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 13,
-    "backlinks": 18
-  },
-  {
-    "id": "Quiet Compliance Workbench — Standing Tone Rule",
-    "title": "Quiet Compliance Workbench — Standing Tone Rule",
-    "path": "wiki/Quiet Compliance Workbench — Standing Tone Rule.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Quiet Compliance Workbench",
-      "quiet compliance workbench"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 3,
-    "backlinks": 6
-  },
-  {
-    "id": "RAG-Anything — Multimodal RAG Framework",
-    "title": "RAG-Anything — Multimodal RAG Framework",
-    "path": "wiki/RAG-Anything — Multimodal RAG Framework.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HKUDS RAG-Anything",
-      "RAG-Anything",
-      "multimodal RAG",
-      "raganything",
-      "wiki/RAG-Anything — Multimodal RAG Framework"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 5,
-    "backlinks": 11
-  },
-  {
     "id": "RAW MOC",
     "title": "RAW MOC",
     "path": "wiki/RAW MOC.md",
@@ -5845,64 +5944,6 @@
     "backlinks": 0
   },
   {
-    "id": "RDAIG Method Editorial Consolidation — 2026",
-    "title": "RDAIG Method Editorial Consolidation — 2026",
-    "path": "wiki/RDAIG Method Editorial Consolidation — 2026.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "RDAIG Method Editorial Consolidation — 2026",
-      "wiki/RDAIG Method Editorial Consolidation — 2026"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 9,
-    "backlinks": 12
-  },
-  {
-    "id": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
-    "title": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
-    "path": "wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
-      "wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis"
-    ],
-    "outlinks": 20,
-    "unique_outlinks": 9,
-    "backlinks": 22
-  },
-  {
-    "id": "RECURSO — Final Audit and Ethical Review",
-    "title": "RECURSO — Final Audit and Ethical Review",
-    "path": "wiki/RECURSO — Final Audit and Ethical Review.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "RECURSO — Final Audit and Ethical Review",
-      "wiki/RECURSO — Final Audit and Ethical Review"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 6,
-    "backlinks": 78
-  },
-  {
-    "id": "RECURSO — Recursive Governance Test Archive",
-    "title": "RECURSO — Recursive Governance Test Archive",
-    "path": "wiki/RECURSO — Recursive Governance Test Archive.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "POST-RECURS",
-      "RECURSO",
-      "recursive governance runs",
-      "wiki/RECURSO — Recursive Governance Test Archive"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 11,
-    "backlinks": 25
-  },
-  {
     "id": "RESOURCES MOC",
     "title": "RESOURCES MOC",
     "path": "wiki/RESOURCES MOC.md",
@@ -5912,97 +5953,6 @@
     "outlinks": 0,
     "unique_outlinks": 0,
     "backlinks": 0
-  },
-  {
-    "id": "RIA-CODEX — System Audit Protocol",
-    "title": "RIA-CODEX — System Audit Protocol",
-    "path": "wiki/RIA-CODEX — System Audit Protocol.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "divergence detection",
-      "mechanism naming",
-      "system audit",
-      "three-language verification",
-      "wiki/RIA-CODEX — System Audit Protocol"
-    ],
-    "outlinks": 21,
-    "unique_outlinks": 9,
-    "backlinks": 19
-  },
-  {
-    "id": "Railway — COMPASSai Production Deployment Platform",
-    "title": "Railway — COMPASSai Production Deployment Platform",
-    "path": "wiki/Railway — COMPASSai Production Deployment Platform.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "COMPASSai Railway",
-      "Railway PaaS",
-      "Railway deployment",
-      "wiki/Railway — COMPASSai Production Deployment Platform"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 5,
-    "backlinks": 8
-  },
-  {
-    "id": "Reboot — Performance, Gender, and Computing of Identity",
-    "title": "Reboot — Performance, Gender, and Computing of Identity",
-    "path": "wiki/Reboot — Performance, Gender, and Computing of Identity.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Reboot — Performance, Gender, and Computing of Identity",
-      "wiki/Reboot — Performance, Gender, and Computing of Identity"
-    ],
-    "outlinks": 27,
-    "unique_outlinks": 17,
-    "backlinks": 21
-  },
-  {
-    "id": "Recursive AI Governance as Executable Method — The Very Long Narrative",
-    "title": "Recursive AI Governance as Executable Method — The Very Long Narrative",
-    "path": "wiki/Recursive AI Governance as Executable Method — The Very Long Narrative.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Recursive AI Governance as Executable Method — The Very Long Narrative",
-      "wiki/Recursive AI Governance as Executable Method — The Very Long Narrative"
-    ],
-    "outlinks": 16,
-    "unique_outlinks": 9,
-    "backlinks": 15
-  },
-  {
-    "id": "Recursive Continuity Without Memory — AI Identity Across Sessions",
-    "title": "Recursive Continuity Without Memory — AI Identity Across Sessions",
-    "path": "wiki/Recursive Continuity Without Memory — AI Identity Across Sessions.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Recursive Continuity Without Memory — AI Identity Across Sessions",
-      "wiki/Recursive Continuity Without Memory — AI Identity Across Sessions"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 9,
-    "backlinks": 45
-  },
-  {
-    "id": "Recursive Entry Structure — Song Corpus to Governance Prompt",
-    "title": "Recursive Entry Structure — Song Corpus to Governance Prompt",
-    "path": "wiki/Recursive Entry Structure — Song Corpus to Governance Prompt.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "legitimacy inhabitation protocol",
-      "recursive entry prompt",
-      "song structure governance",
-      "wiki/Recursive Entry Structure — Song Corpus to Governance Prompt"
-    ],
-    "outlinks": 27,
-    "unique_outlinks": 15,
-    "backlinks": 24
   },
   {
     "id": "Recursive Governance Memo — EMERAULD Control Packet (2026-05-12)",
@@ -6018,36 +5968,6 @@
     "outlinks": 2,
     "unique_outlinks": 2,
     "backlinks": 11
-  },
-  {
-    "id": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "title": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "path": "wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-      "wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf"
-    ],
-    "outlinks": 27,
-    "unique_outlinks": 17,
-    "backlinks": 63
-  },
-  {
-    "id": "Reddit Data API — Access Terms and Rate Limits",
-    "title": "Reddit Data API — Access Terms and Rate Limits",
-    "path": "wiki/Reddit Data API — Access Terms and Rate Limits.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Reddit API",
-      "Reddit Data API",
-      "r/redditdev rate limits",
-      "wiki/Reddit Data API — Access Terms and Rate Limits"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 9,
-    "backlinks": 17
   },
   {
     "id": "Reflexive Inhabitation Audit — Prompt",
@@ -6734,6 +6654,36 @@
     "backlinks": 11
   },
   {
+    "id": "Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)",
+    "title": "Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)",
+    "path": "Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "BDSM Gay Masculinities Literature Review",
+      "Pup Play Bibliography",
+      "Puppy Play Annotated Bibliography"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 7,
+    "backlinks": 6
+  },
+  {
+    "id": "Resources/Qualitative Handbook — Expanded Reference List",
+    "title": "Qualitative Handbook — Expanded Reference List",
+    "path": "Resources/Qualitative Handbook — Expanded Reference List.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Expanded Qualitative Reference",
+      "Qualitative Handbook",
+      "Qualitative Methods Handbook"
+    ],
+    "outlinks": 31,
+    "unique_outlinks": 17,
+    "backlinks": 94
+  },
+  {
     "id": "Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
     "title": "Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)",
     "path": "Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion).md",
@@ -6746,6 +6696,22 @@
     "outlinks": 11,
     "unique_outlinks": 9,
     "backlinks": 10
+  },
+  {
+    "id": "Resources/RAG-Anything — Multimodal RAG Framework",
+    "title": "RAG-Anything — Multimodal RAG Framework",
+    "path": "Resources/RAG-Anything — Multimodal RAG Framework.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HKUDS RAG-Anything",
+      "RAG-Anything",
+      "multimodal RAG",
+      "raganything"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 5,
+    "backlinks": 11
   },
   {
     "id": "Resources/ROUTING",
@@ -6788,6 +6754,21 @@
     "outlinks": 8,
     "unique_outlinks": 4,
     "backlinks": 5
+  },
+  {
+    "id": "Resources/Reddit Data API — Access Terms and Rate Limits",
+    "title": "Reddit Data API — Access Terms and Rate Limits",
+    "path": "Resources/Reddit Data API — Access Terms and Rate Limits.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Reddit API",
+      "Reddit Data API",
+      "r/redditdev rate limits"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 9,
+    "backlinks": 17
   },
   {
     "id": "Resources/Regulatory Standards Reference Stack — Governance Controls Grounding",

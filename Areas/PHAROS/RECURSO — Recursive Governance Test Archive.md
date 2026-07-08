@@ -5,14 +5,13 @@ aliases:
 - RECURSO
 - POST-RECURS
 - recursive governance runs
-- wiki/RECURSO — Recursive Governance Test Archive
 tags:
 - pharos
 - governance
 - testing
 - archive
 - recurso
-- wiki
+- areas
 - recurso-recursive-governance-test-archive-md
 - recurs
 - stress
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/RECURSO — Recursive Governance Test Archive.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/RECURSO — Recursive Governance Test Archive.md
 backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
@@ -38,7 +37,7 @@ backlinks:
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
+- '[[Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[maps/PHAROS Method Map]]'

@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[Resources/Reddit Data API — Access Terms and Rate Limits]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)]]'

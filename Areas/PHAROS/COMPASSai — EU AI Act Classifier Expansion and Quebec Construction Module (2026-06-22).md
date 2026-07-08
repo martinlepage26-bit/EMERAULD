@@ -28,7 +28,7 @@ backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Railway — COMPASSai Production Deployment Platform]]'
+- '[[Areas/PHAROS/Railway — COMPASSai Production Deployment Platform]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/daily/2026-06-22]]'

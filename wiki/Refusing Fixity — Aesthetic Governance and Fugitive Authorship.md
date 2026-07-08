@@ -42,7 +42,7 @@ backlinks:
 - '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
-- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'

@@ -51,7 +51,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
-- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
 - '[[wiki/September 2024 Research Retrospective]]'

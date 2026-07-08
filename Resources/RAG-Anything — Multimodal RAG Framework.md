@@ -6,7 +6,6 @@ aliases:
 - multimodal RAG
 - HKUDS RAG-Anything
 - raganything
-- wiki/RAG-Anything — Multimodal RAG Framework
 tags:
 - ai-tooling
 - retrieval
@@ -15,7 +14,7 @@ tags:
 - infrastructure
 - knowledge-graph
 - python
-- wiki
+- resources
 - rag-anything-multimodal-rag-framework-md
 - raganything
 - lightrag
@@ -25,8 +24,8 @@ tags:
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/RAG-Anything — Multimodal RAG Framework.md
+vault_area: Resources
+canonical_path: Resources/RAG-Anything — Multimodal RAG Framework.md
 backlink_count: 4
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

@@ -43,7 +43,7 @@ backlinks:
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
 - '[[Areas/Writing/Per-Paper Project Structure — Folder and File Architecture]]'
-- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Skill Domain — Governance and Method]]'

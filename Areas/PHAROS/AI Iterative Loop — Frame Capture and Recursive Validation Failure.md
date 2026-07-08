@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal]]'
-- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
 - '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'

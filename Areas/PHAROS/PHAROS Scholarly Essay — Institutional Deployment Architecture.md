@@ -23,8 +23,8 @@ backlinks:
 - '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'
-- '[[wiki/RECURSO — Final Audit and Ethical Review]]'
+- '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
+- '[[Areas/PHAROS/RECURSO — Final Audit and Ethical Review]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[maps/PHAROS Method Map]]'
 ---

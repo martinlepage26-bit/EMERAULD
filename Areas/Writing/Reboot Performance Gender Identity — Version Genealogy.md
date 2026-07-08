@@ -21,7 +21,7 @@ canonical_path: Areas/Writing/Reboot Performance Gender Identity — Version Gen
 backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'
-- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---

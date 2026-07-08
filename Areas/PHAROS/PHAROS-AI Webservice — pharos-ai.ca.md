@@ -40,7 +40,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[archive/wiki-2026-07-08/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)]]'
-- '[[wiki/Railway — COMPASSai Production Deployment Platform]]'
+- '[[Areas/PHAROS/Railway — COMPASSai Production Deployment Platform]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]'

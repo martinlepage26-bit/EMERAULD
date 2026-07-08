@@ -80,7 +80,7 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
-- '[[wiki/RIA-CODEX — System Audit Protocol]]'
+- '[[Areas/PHAROS/RIA-CODEX — System Audit Protocol]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Resources/Red Team Handbook — Offensive Security Reference]]'
 - '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'

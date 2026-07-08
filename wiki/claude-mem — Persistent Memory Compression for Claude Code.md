@@ -38,8 +38,8 @@ backlinks:
 - '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/RAG-Anything — Multimodal RAG Framework]]'
-- '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[Resources/RAG-Anything — Multimodal RAG Framework]]'
+- '[[Resources/Reddit Data API — Access Terms and Rate Limits]]'
 version-history-added: '2026-04-16'
 ---
 

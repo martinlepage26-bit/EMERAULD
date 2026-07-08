@@ -51,7 +51,7 @@ backlinks:
 - '[[Areas/Writing/Per-Paper Project Structure — Folder and File Architecture]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
-- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'

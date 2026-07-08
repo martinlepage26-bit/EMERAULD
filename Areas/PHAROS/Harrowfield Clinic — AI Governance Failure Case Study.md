@@ -34,7 +34,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
 - '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
-- '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'
+- '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[maps/PHAROS Method Map]]'
 ---

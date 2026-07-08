@@ -27,7 +27,7 @@ backlinks:
 - '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

@@ -49,7 +49,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Method — Core Framework]]'
 - '[[Areas/PHAROS/PHAROS Product Stack]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'
+- '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[_CLAUDE]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

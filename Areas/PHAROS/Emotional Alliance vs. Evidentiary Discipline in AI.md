@@ -47,7 +47,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture]]'
 - '[[Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'

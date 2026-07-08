@@ -28,7 +28,7 @@ backlink_count: 10
 backlinks:
 - '[[Resources/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[archive/session-state/session-state-001]]'

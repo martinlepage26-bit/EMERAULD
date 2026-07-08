@@ -16,8 +16,8 @@ tags:
 status: active
 created: '2026-07-06'
 updated: '2026-07-06'
-vault_area: wiki
-canonical_path: wiki/Quiet Compliance Workbench — Standing Tone Rule.md
+vault_area: Areas
+canonical_path: Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule.md
 ---
 
 # Quiet Compliance Workbench — Standing Tone Rule

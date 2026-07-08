@@ -3,9 +3,8 @@ type: wiki
 title: Recursive Governance Protocol — Theseus, Auryn, Hopf
 aliases:
 - Recursive Governance Protocol — Theseus, Auryn, Hopf
-- wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf
 tags:
-- wiki
+- areas
 - recursion
 - governance
 - recursive-governance-protocol-theseus-auryn-hopf-md
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md
 backlink_count: 34
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
@@ -28,14 +27,12 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
-  (2026-05-07)]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
-- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control
-  Surface (2026-05-11)]]'
+- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)]]'
 - '[[Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
@@ -47,9 +44,9 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
 - '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
-- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
-- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'

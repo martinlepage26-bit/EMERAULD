@@ -68,7 +68,7 @@ backlinks:
 - '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
 - '[[archive/wiki-2026-07-08/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)]]'
 - '[[Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
-- '[[wiki/RIA-CODEX — System Audit Protocol]]'
+- '[[Areas/PHAROS/RIA-CODEX — System Audit Protocol]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'

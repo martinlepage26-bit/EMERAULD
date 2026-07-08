@@ -3,9 +3,8 @@ type: wiki
 title: Queering Neo-Pagan Magic — Identity Power and the Uses of Magic
 aliases:
 - Queering Neo-Pagan Magic — Identity Power and the Uses of Magic
-- wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic
 tags:
-- wiki
+- areas
 - pagan
 - magic
 - queer
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic.md
+vault_area: Areas
+canonical_path: Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic.md
 backlink_count: 22
 backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
@@ -28,7 +27,7 @@ backlinks:
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
-- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'

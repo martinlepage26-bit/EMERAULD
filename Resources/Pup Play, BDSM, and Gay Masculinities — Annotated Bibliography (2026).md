@@ -5,7 +5,6 @@ aliases:
 - Pup Play Bibliography
 - BDSM Gay Masculinities Literature Review
 - Puppy Play Annotated Bibliography
-- wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)
 tags:
 - bibliography
 - pup-play
@@ -15,7 +14,7 @@ tags:
 - queer-theory
 - sexuality
 - kink
-- wiki
+- resources
 - pup-play-bdsm-and-gay-masculinities-annotated-bibliography-2026-md
 - play
 - threads
@@ -26,9 +25,8 @@ tags:
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography
-  (2026).md
+vault_area: Resources
+canonical_path: Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026).md
 backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'

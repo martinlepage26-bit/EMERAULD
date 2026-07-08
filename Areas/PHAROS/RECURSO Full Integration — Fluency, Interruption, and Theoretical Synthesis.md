@@ -3,9 +3,8 @@ type: wiki
 title: RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis
 aliases:
 - RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis
-- wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis
 tags:
-- wiki
+- areas
 - recurso
 - recurso-full-integration-fluency-interruption-and-theoretical-synthesis-md
 - upstream
@@ -17,9 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical
-  Synthesis.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis.md
 backlink_count: 12
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
@@ -30,7 +28,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
-- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'

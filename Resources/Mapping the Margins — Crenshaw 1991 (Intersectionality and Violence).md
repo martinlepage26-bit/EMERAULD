@@ -31,7 +31,7 @@ backlinks:
 - '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
 - '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'

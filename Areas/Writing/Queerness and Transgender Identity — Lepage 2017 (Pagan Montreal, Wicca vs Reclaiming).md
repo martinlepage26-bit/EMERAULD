@@ -1,12 +1,9 @@
 ---
 type: wiki
-title: Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs
-  Reclaiming)
+title: Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)
 aliases:
 - 'Queerness and Transgender Identity: Negotiations in the Pagan Community of Montreal'
 - Lepage 2017 Queerness and Transgender Identity
-- wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs
-  Reclaiming)
 tags:
 - paper
 - paganism
@@ -19,7 +16,7 @@ tags:
 - magic
 - ritual
 - negotiation
-- wiki
+- areas
 - queerness-and-transgender-identity-lepage-2017-pagan-montreal-wicca-vs-reclaiming-md
 - religieuses
 - religion
@@ -28,14 +25,12 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal,
-  Wicca vs Reclaiming).md
+vault_area: Areas
+canonical_path: Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming).md
 backlink_count: 15
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
-  Activism Switzerland)]]'
+- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
 - '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'

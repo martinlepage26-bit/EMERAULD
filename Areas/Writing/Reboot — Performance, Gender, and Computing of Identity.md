@@ -3,9 +3,8 @@ type: wiki
 title: Reboot — Performance, Gender, and Computing of Identity
 aliases:
 - Reboot — Performance, Gender, and Computing of Identity
-- wiki/Reboot — Performance, Gender, and Computing of Identity
 tags:
-- wiki
+- areas
 - reboot-performance-gender-and-computing-of-identity-md
 - reboot
 - sprites
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Reboot — Performance, Gender, and Computing of Identity.md
+vault_area: Areas
+canonical_path: Areas/Writing/Reboot — Performance, Gender, and Computing of Identity.md
 backlink_count: 17
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'

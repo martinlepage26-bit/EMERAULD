@@ -41,7 +41,7 @@ backlinks:
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[Resources/Reddit Data API — Access Terms and Rate Limits]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/SANITIZATION-REPORT]]'
 - '[[memory]]'

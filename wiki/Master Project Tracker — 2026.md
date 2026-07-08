@@ -44,7 +44,7 @@ backlinks:
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Resources/Plugin Recommendations]]'
-- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Rest and Consolidation Guide — Martin]]'
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'

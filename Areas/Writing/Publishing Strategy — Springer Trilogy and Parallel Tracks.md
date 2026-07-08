@@ -4,14 +4,13 @@ title: Publishing Strategy — Springer Trilogy and Parallel Tracks
 aliases:
 - Publishing Strategy
 - Submission Strategy 2026
-- wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks
 tags:
 - publishing
 - strategy
 - papers
 - springer
 - pipeline
-- wiki
+- areas
 - publishing-strategy-springer-trilogy-and-parallel-tracks-md
 - paper
 - venue
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-04-27'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks.md
+vault_area: Areas
+canonical_path: Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks.md
 backlink_count: 6
 backlinks:
 - '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'

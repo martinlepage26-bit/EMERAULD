@@ -5,7 +5,6 @@ aliases:
 - Qualitative Handbook
 - Expanded Qualitative Reference
 - Qualitative Methods Handbook
-- wiki/Qualitative Handbook — Expanded Reference List
 tags:
 - qualitative-methods
 - research
@@ -15,7 +14,7 @@ tags:
 - discourse
 - ritual
 - queer-theory
-- wiki
+- resources
 - qualitative-handbook-expanded-reference-list-md
 - inductive
 - qualitative
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Qualitative Handbook — Expanded Reference List.md
+vault_area: Resources
+canonical_path: Resources/Qualitative Handbook — Expanded Reference List.md
 backlink_count: 16
 backlinks:
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
@@ -36,8 +35,7 @@ backlinks:
 - '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
-- '[[wiki/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou
-  haitien à Montréal-Nord)]]'
+- '[[wiki/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

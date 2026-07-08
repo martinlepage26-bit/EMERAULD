@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/RAG-Anything — Multimodal RAG Framework]]'
+- '[[Resources/RAG-Anything — Multimodal RAG Framework]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
 - '[[memory/agents/Decisions]]'

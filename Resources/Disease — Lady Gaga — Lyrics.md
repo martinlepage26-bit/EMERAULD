@@ -27,7 +27,7 @@ backlink_count: 9
 backlinks:
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
-- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[archive/session-state/session-state-001]]'
