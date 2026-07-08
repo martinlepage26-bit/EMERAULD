@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/PHAROS SURFACE]]'
+- '[[Areas/PHAROS/PHAROS SURFACE]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 - '[[archive/session-state/session-state-001]]'
 ---

@@ -4,7 +4,6 @@ title: PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)
 aliases:
 - PHAROS SEO Readiness
 - Pre-Launch Technical Audit
-- wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)
 tags:
 - pharos
 - seo
@@ -13,7 +12,7 @@ tags:
 - deployment
 - blockers
 - '2026-05-01'
-- wiki
+- archive
 - pharos-ai-seo-audit-pre-launch-readiness-2026-05-01-md
 - days
 - hreflang
@@ -24,14 +23,14 @@ tags:
 status: active
 created: 2026-05-01T18:15
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01).md
 backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory]]'
 - '[[projects/PHAROS — Fisher King Project State]]'

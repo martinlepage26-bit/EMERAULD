@@ -4,14 +4,13 @@ title: PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)
 aliases:
 - PHAROS Commercial Brief Pre-Launch
 - Inspector Leaving draft
-- wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)
 tags:
 - pharos
 - commercial
 - governance
 - version-genealogy
 - compliance
-- wiki
+- archive
 - pharos-commercial-brief-pre-launch-draft-q2-2026-md
 - launch
 - days
@@ -22,8 +21,8 @@ tags:
 status: archived-draft
 created: '2026-05-04'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026).md
 backlink_count: 7
 backlinks:
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'

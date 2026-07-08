@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Martin Voice Spec — Stage Map]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
+- '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'

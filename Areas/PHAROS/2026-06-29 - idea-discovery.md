@@ -38,7 +38,7 @@ source_notes:
 - '[[wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
 - '[[projects/GAIA — Fisher King Project State]]'
 - '[[projects/Papers — Fisher King Project State]]'
-- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[projects/Echo — Fisher King Project State]]'
 ---
 

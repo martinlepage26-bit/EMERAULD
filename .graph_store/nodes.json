@@ -2009,6 +2009,19 @@
     "backlinks": 13
   },
   {
+    "id": "Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt",
+    "title": "Operator-Check Skill — Burnout Cascade Interrupt",
+    "path": "Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "operator-check"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 8,
+    "backlinks": 27
+  },
+  {
     "id": "Areas/PHAROS/PHAROS",
     "title": "PHAROS",
     "path": "Areas/PHAROS/PHAROS.md",
@@ -2049,6 +2062,21 @@
     "backlinks": 57
   },
   {
+    "id": "Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates",
+    "title": "PHAROS AI Governance Service — Offer Architecture and Outreach Templates",
+    "path": "Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Governance Freelance Offer",
+      "AI Trust Sprint Offer",
+      "PHAROS Service Offer Architecture"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 7,
+    "backlinks": 7
+  },
+  {
     "id": "Areas/PHAROS/PHAROS AI Lineage — Source of Truth",
     "title": "PHAROS AI Lineage — Source of Truth",
     "path": "Areas/PHAROS/PHAROS AI Lineage — Source of Truth.md",
@@ -2064,6 +2092,19 @@
     "backlinks": 52
   },
   {
+    "id": "Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper",
+    "title": "PHAROS AI and Ethics Submission — Architecture Paper",
+    "path": "Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS AI and Ethics Submission — Architecture Paper"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 14,
+    "backlinks": 19
+  },
+  {
     "id": "Areas/PHAROS/PHAROS Commercial Strategy",
     "title": "PHAROS Commercial Strategy",
     "path": "Areas/PHAROS/PHAROS Commercial Strategy.md",
@@ -2075,6 +2116,33 @@
     "outlinks": 55,
     "unique_outlinks": 51,
     "backlinks": 84
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS Company Registration and Security Incidents",
+    "title": "PHAROS Company Registration and Security Incidents",
+    "path": "Areas/PHAROS/PHAROS Company Registration and Security Incidents.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS Company Registration and Security Incidents"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 5,
+    "backlinks": 27
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS Cross-AI Strategy Matrix",
+    "title": "PHAROS Cross-AI Strategy Matrix",
+    "path": "Areas/PHAROS/PHAROS Cross-AI Strategy Matrix.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Cross-AI Matrix",
+      "Cross-AI Strategy"
+    ],
+    "outlinks": 22,
+    "unique_outlinks": 14,
+    "backlinks": 23
   },
   {
     "id": "Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle",
@@ -2103,6 +2171,21 @@
     "backlinks": 33
   },
   {
+    "id": "Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator",
+    "title": "PHAROS Final Voice Operator — GPT Creator",
+    "path": "Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Final Voice Operator GPT",
+      "PHAROS Final Voice Operator",
+      "PHAROS GPT Spec"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 8,
+    "backlinks": 25
+  },
+  {
     "id": "Areas/PHAROS/PHAROS Invention Disclosure",
     "title": "PHAROS Invention Disclosure",
     "path": "Areas/PHAROS/PHAROS Invention Disclosure.md",
@@ -2116,6 +2199,34 @@
     "backlinks": 117
   },
   {
+    "id": "Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
+    "title": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
+    "path": "Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Evidence as Interruption",
+      "Fluency and Trust in PHAROS Sales",
+      "Mid-Funnel Governance"
+    ],
+    "outlinks": 51,
+    "unique_outlinks": 25,
+    "backlinks": 13
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy",
+    "title": "PHAROS Legal Classification — CAE Code Strategy",
+    "path": "Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS Legal Classification — CAE Code Strategy"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 8,
+    "backlinks": 14
+  },
+  {
     "id": "Areas/PHAROS/PHAROS Licensing Prospectus",
     "title": "PHAROS Licensing Prospectus",
     "path": "Areas/PHAROS/PHAROS Licensing Prospectus.md",
@@ -2127,6 +2238,20 @@
     "outlinks": 19,
     "unique_outlinks": 9,
     "backlinks": 34
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS Method — Core Framework",
+    "title": "PHAROS Method — Core Framework",
+    "path": "Areas/PHAROS/PHAROS Method — Core Framework.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS Method — Core Framework",
+      "PHAROS method"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 9,
+    "backlinks": 8
   },
   {
     "id": "Areas/PHAROS/PHAROS Method — Technical Reference",
@@ -2148,6 +2273,21 @@
     "backlinks": 102
   },
   {
+    "id": "Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets",
+    "title": "PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets",
+    "path": "Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Desjardins BNC Beneva outreach",
+      "PHAROS Outreach Pack v1",
+      "Quebec Tier 1 outreach"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 8,
+    "backlinks": 9
+  },
+  {
     "id": "Areas/PHAROS/PHAROS Procurement-Unblock Sprint",
     "title": "PHAROS Procurement-Unblock Sprint",
     "path": "Areas/PHAROS/PHAROS Procurement-Unblock Sprint.md",
@@ -2159,6 +2299,19 @@
     "outlinks": 13,
     "unique_outlinks": 10,
     "backlinks": 77
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS Product Stack",
+    "title": "PHAROS Product Stack",
+    "path": "Areas/PHAROS/PHAROS Product Stack.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS Product Stack"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 10,
+    "backlinks": 22
   },
   {
     "id": "Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture",
@@ -2185,6 +2338,32 @@
     "outlinks": 8,
     "unique_outlinks": 7,
     "backlinks": 47
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS SURFACE",
+    "title": "PHAROS SURFACE",
+    "path": "Areas/PHAROS/PHAROS SURFACE.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS Surface"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 5,
+    "backlinks": 14
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture",
+    "title": "PHAROS Scholarly Essay — Institutional Deployment Architecture",
+    "path": "Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS Scholarly Essay — Institutional Deployment Architecture"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 12,
+    "backlinks": 11
   },
   {
     "id": "Areas/PHAROS/PHAROS Scholarly Publication Track",
@@ -3399,6 +3578,21 @@
     "backlinks": 35
   },
   {
+    "id": "Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin",
+    "title": "PAPER BUILDER — Source Bundle and HENRY Origin",
+    "path": "Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HENRY Origin Bundle",
+      "PAPER BUILDER Source Bundle",
+      "ubuntu disk bundle"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 8,
+    "backlinks": 8
+  },
+  {
     "id": "Areas/Writing/Pagan Magic — Version Genealogy",
     "title": "Pagan Magic — Version Genealogy",
     "path": "Areas/Writing/Pagan Magic — Version Genealogy.md",
@@ -4510,35 +4704,6 @@
     "backlinks": 7
   },
   {
-    "id": "Operator-Check Skill — Burnout Cascade Interrupt",
-    "title": "Operator-Check Skill — Burnout Cascade Interrupt",
-    "path": "wiki/Operator-Check Skill — Burnout Cascade Interrupt.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "operator-check",
-      "wiki/Operator-Check Skill — Burnout Cascade Interrupt"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 8,
-    "backlinks": 27
-  },
-  {
-    "id": "Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord)",
-    "title": "Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord)",
-    "path": "wiki/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Claude Gilles 2017 Vodou Montréal-Nord",
-      "Oralité primaire et Vodou haïtien (UQAM)",
-      "wiki/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien"
-    ],
-    "outlinks": 2,
-    "unique_outlinks": 2,
-    "backlinks": 9
-  },
-  {
     "id": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "title": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md",
@@ -4551,22 +4716,6 @@
     "outlinks": 99,
     "unique_outlinks": 93,
     "backlinks": 9
-  },
-  {
-    "id": "PAPER BUILDER — Source Bundle and HENRY Origin",
-    "title": "PAPER BUILDER — Source Bundle and HENRY Origin",
-    "path": "wiki/PAPER BUILDER — Source Bundle and HENRY Origin.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HENRY Origin Bundle",
-      "PAPER BUILDER Source Bundle",
-      "ubuntu disk bundle",
-      "wiki/PAPER BUILDER — Source Bundle and HENRY Origin"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 8,
-    "backlinks": 8
   },
   {
     "id": "PEER-REVIEW MOC",
@@ -5179,244 +5328,6 @@
     "backlinks": 8
   },
   {
-    "id": "PHAROS AI Governance Service — Offer Architecture and Outreach Templates",
-    "title": "PHAROS AI Governance Service — Offer Architecture and Outreach Templates",
-    "path": "wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Governance Freelance Offer",
-      "AI Trust Sprint Offer",
-      "PHAROS Service Offer Architecture",
-      "wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 7,
-    "backlinks": 7
-  },
-  {
-    "id": "PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
-    "title": "PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
-    "path": "wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS SEO Readiness",
-      "Pre-Launch Technical Audit",
-      "wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 9,
-    "backlinks": 9
-  },
-  {
-    "id": "PHAROS AI and Ethics Submission — Architecture Paper",
-    "title": "PHAROS AI and Ethics Submission — Architecture Paper",
-    "path": "wiki/PHAROS AI and Ethics Submission — Architecture Paper.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS AI and Ethics Submission — Architecture Paper",
-      "wiki/PHAROS AI and Ethics Submission — Architecture Paper"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 14,
-    "backlinks": 19
-  },
-  {
-    "id": "PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)",
-    "title": "PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)",
-    "path": "wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026).md",
-    "type": "wiki",
-    "status": "archived-draft",
-    "aliases": [
-      "Inspector Leaving draft",
-      "PHAROS Commercial Brief Pre-Launch",
-      "wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 8,
-    "backlinks": 9
-  },
-  {
-    "id": "PHAROS Company Registration and Security Incidents",
-    "title": "PHAROS Company Registration and Security Incidents",
-    "path": "wiki/PHAROS Company Registration and Security Incidents.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS Company Registration and Security Incidents",
-      "wiki/PHAROS Company Registration and Security Incidents"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 5,
-    "backlinks": 27
-  },
-  {
-    "id": "PHAROS Cross-AI Strategy Matrix",
-    "title": "PHAROS Cross-AI Strategy Matrix",
-    "path": "wiki/PHAROS Cross-AI Strategy Matrix.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Cross-AI Matrix",
-      "Cross-AI Strategy",
-      "wiki/PHAROS Cross-AI Strategy Matrix"
-    ],
-    "outlinks": 22,
-    "unique_outlinks": 14,
-    "backlinks": 23
-  },
-  {
-    "id": "PHAROS Final Voice Operator — GPT Creator",
-    "title": "PHAROS Final Voice Operator — GPT Creator",
-    "path": "wiki/PHAROS Final Voice Operator — GPT Creator.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Final Voice Operator GPT",
-      "PHAROS Final Voice Operator",
-      "PHAROS GPT Spec",
-      "wiki/PHAROS Final Voice Operator — GPT Creator"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 8,
-    "backlinks": 25
-  },
-  {
-    "id": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
-    "title": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
-    "path": "wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Evidence as Interruption",
-      "Fluency and Trust in PHAROS Sales",
-      "Mid-Funnel Governance",
-      "wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)"
-    ],
-    "outlinks": 51,
-    "unique_outlinks": 25,
-    "backlinks": 13
-  },
-  {
-    "id": "PHAROS Legal Classification — CAE Code Strategy",
-    "title": "PHAROS Legal Classification — CAE Code Strategy",
-    "path": "wiki/PHAROS Legal Classification — CAE Code Strategy.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS Legal Classification — CAE Code Strategy",
-      "wiki/PHAROS Legal Classification — CAE Code Strategy"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 8,
-    "backlinks": 14
-  },
-  {
-    "id": "PHAROS LinkedIn April 2026 Publishing Routine",
-    "title": "PHAROS LinkedIn April 2026 Publishing Routine",
-    "path": "wiki/PHAROS LinkedIn April 2026 Publishing Routine.md",
-    "type": "note",
-    "status": "active",
-    "aliases": [
-      "PHAROS LinkedIn April 2026 Publishing Routine",
-      "wiki/PHAROS LinkedIn April 2026 Publishing Routine"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 13,
-    "backlinks": 25
-  },
-  {
-    "id": "PHAROS Method — Core Framework",
-    "title": "PHAROS Method — Core Framework",
-    "path": "wiki/PHAROS Method — Core Framework.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS Method — Core Framework",
-      "PHAROS method",
-      "wiki/PHAROS Method — Core Framework"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 9,
-    "backlinks": 8
-  },
-  {
-    "id": "PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)",
-    "title": "PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)",
-    "path": "wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19).md",
-    "type": "wiki",
-    "status": "archived",
-    "aliases": [
-      "PHAROS Migration 2026-04-19",
-      "PR4 Runbook",
-      "SHOW-ME-WHAT-TO-DO",
-      "wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 4,
-    "backlinks": 11
-  },
-  {
-    "id": "PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets",
-    "title": "PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets",
-    "path": "wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Desjardins BNC Beneva outreach",
-      "PHAROS Outreach Pack v1",
-      "Quebec Tier 1 outreach",
-      "wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 8,
-    "backlinks": 9
-  },
-  {
-    "id": "PHAROS Product Stack",
-    "title": "PHAROS Product Stack",
-    "path": "wiki/PHAROS Product Stack.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS Product Stack",
-      "wiki/PHAROS Product Stack"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 10,
-    "backlinks": 22
-  },
-  {
-    "id": "PHAROS SURFACE",
-    "title": "PHAROS SURFACE",
-    "path": "wiki/PHAROS SURFACE.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS Surface",
-      "wiki/PHAROS SURFACE"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 5,
-    "backlinks": 14
-  },
-  {
-    "id": "PHAROS Scholarly Essay — Institutional Deployment Architecture",
-    "title": "PHAROS Scholarly Essay — Institutional Deployment Architecture",
-    "path": "wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS Scholarly Essay — Institutional Deployment Architecture",
-      "wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 12,
-    "backlinks": 11
-  },
-  {
     "id": "PHAROS Skill Corpus Change Genealogy — 2026-05-06",
     "title": "PHAROS Skill Corpus Change Genealogy — 2026-05-06",
     "path": "wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06.md",
@@ -5429,22 +5340,6 @@
     "outlinks": 28,
     "unique_outlinks": 15,
     "backlinks": 12
-  },
-  {
-    "id": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
-    "title": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
-    "path": "wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "MVP diagnostic offer",
-      "Stuck Deal Diagnostic",
-      "enterprise deal diagnostic",
-      "wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 6,
-    "backlinks": 8
   },
   {
     "id": "PHAROS Workspace Inventory 2026-04-18",
@@ -6844,6 +6739,20 @@
     "outlinks": 11,
     "unique_outlinks": 11,
     "backlinks": 16
+  },
+  {
+    "id": "Resources/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord)",
+    "title": "Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord)",
+    "path": "Resources/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Claude Gilles 2017 Vodou Montréal-Nord",
+      "Oralité primaire et Vodou haïtien (UQAM)"
+    ],
+    "outlinks": 2,
+    "unique_outlinks": 2,
+    "backlinks": 9
   },
   {
     "id": "Resources/Plugin Recommendations",
@@ -9613,6 +9522,77 @@
     "outlinks": 15,
     "unique_outlinks": 11,
     "backlinks": 6
+  },
+  {
+    "id": "archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
+    "title": "PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
+    "path": "archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS SEO Readiness",
+      "Pre-Launch Technical Audit"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 9,
+    "backlinks": 9
+  },
+  {
+    "id": "archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)",
+    "title": "PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)",
+    "path": "archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026).md",
+    "type": "wiki",
+    "status": "archived-draft",
+    "aliases": [
+      "Inspector Leaving draft",
+      "PHAROS Commercial Brief Pre-Launch"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 8,
+    "backlinks": 9
+  },
+  {
+    "id": "archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine",
+    "title": "PHAROS LinkedIn April 2026 Publishing Routine",
+    "path": "archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine.md",
+    "type": "note",
+    "status": "active",
+    "aliases": [
+      "PHAROS LinkedIn April 2026 Publishing Routine"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 13,
+    "backlinks": 25
+  },
+  {
+    "id": "archive/wiki-2026-07-08/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)",
+    "title": "PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)",
+    "path": "archive/wiki-2026-07-08/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19).md",
+    "type": "wiki",
+    "status": "archived",
+    "aliases": [
+      "PHAROS Migration 2026-04-19",
+      "PR4 Runbook",
+      "SHOW-ME-WHAT-TO-DO"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 4,
+    "backlinks": 11
+  },
+  {
+    "id": "archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
+    "title": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
+    "path": "archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "MVP diagnostic offer",
+      "Stuck Deal Diagnostic",
+      "enterprise deal diagnostic"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 6,
+    "backlinks": 8
   },
   {
     "id": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",

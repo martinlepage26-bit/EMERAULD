@@ -4,13 +4,12 @@ title: PHAROS Method — Core Framework
 aliases:
 - PHAROS Method — Core Framework
 - PHAROS method
-- wiki/PHAROS Method — Core Framework
 tags:
 - pharos
 - governance
 - method
 - framework
-- wiki
+- areas
 - pharos-method-core-framework-md
 - facing
 - product
@@ -19,8 +18,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Method — Core Framework.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Method — Core Framework.md
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'

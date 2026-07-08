@@ -3,9 +3,8 @@ type: wiki
 title: PHAROS Company Registration and Security Incidents
 aliases:
 - PHAROS Company Registration and Security Incidents
-- wiki/PHAROS Company Registration and Security Incidents
 tags:
-- wiki
+- areas
 - pharos
 - pharos-company-registration-and-security-incidents-md
 - manus
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Company Registration and Security Incidents.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Company Registration and Security Incidents.md
 backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/Founder Charter — Lepage and Stocker]]'
@@ -27,9 +26,9 @@ backlinks:
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
+- '[[Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[wiki/PHAROS Legal Classification — CAE Code Strategy]]'
+- '[[Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'

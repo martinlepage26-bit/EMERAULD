@@ -59,7 +59,7 @@ backlinks:
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
-- '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
+- '[[Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[Areas/PHAROS/PHAROS Runbook SOP]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'

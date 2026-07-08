@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Areas/PHAROS/PHAROS]]'
-- '[[wiki/PHAROS Product Stack]]'
+- '[[Areas/PHAROS/PHAROS Product Stack]]'
 - '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'

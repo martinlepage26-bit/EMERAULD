@@ -5,7 +5,6 @@ aliases:
 - Fluency and Trust in PHAROS Sales
 - Evidence as Interruption
 - Mid-Funnel Governance
-- wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)
 tags:
 - pharos
 - commercial
@@ -16,7 +15,7 @@ tags:
 - sales
 - governance
 - synthesis
-- wiki
+- areas
 - pharos-launch-fluency-evidence-and-mid-funnel-trust-synthesis-md
 - launch
 - funnel
@@ -24,15 +23,15 @@ tags:
 status: active
 created: 2026-05-01T16:25
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis).md
 backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window]]'
-- '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
-- '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
+- '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
+- '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

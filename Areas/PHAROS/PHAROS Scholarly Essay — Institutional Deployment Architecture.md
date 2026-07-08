@@ -3,9 +3,8 @@ type: wiki
 title: PHAROS Scholarly Essay — Institutional Deployment Architecture
 aliases:
 - PHAROS Scholarly Essay — Institutional Deployment Architecture
-- wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture
 tags:
-- wiki
+- areas
 - pharos
 - pharos-scholarly-essay-institutional-deployment-architecture-md
 - essay
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture.md
 backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'

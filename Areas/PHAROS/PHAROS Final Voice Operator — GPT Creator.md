@@ -5,7 +5,6 @@ aliases:
 - PHAROS Final Voice Operator
 - Final Voice Operator GPT
 - PHAROS GPT Spec
-- wiki/PHAROS Final Voice Operator — GPT Creator
 tags:
 - voice
 - gpt
@@ -13,7 +12,7 @@ tags:
 - pharos
 - governance
 - ai-governance
-- wiki
+- areas
 - pharos-final-voice-operator-gpt-creator-md
 - dottie
 - mobius
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Final Voice Operator — GPT Creator.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator.md
 backlink_count: 17
 backlinks:
 - '[[.github/agents/gadget.agent]]'
@@ -40,7 +39,7 @@ backlinks:
 - '[[wiki/Martin Voice Spec — Stage Map]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
-- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'
 - '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
 - '[[templates/Recursive Governance Packet Header]]'

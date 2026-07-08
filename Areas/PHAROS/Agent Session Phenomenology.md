@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
-- '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
+- '[[Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
 - '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'

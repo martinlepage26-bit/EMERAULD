@@ -1,12 +1,9 @@
 ---
 type: wiki
-title: Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien
-  à Montréal-Nord)
+title: Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord)
 aliases:
 - Claude Gilles 2017 Vodou Montréal-Nord
 - Oralité primaire et Vodou haïtien (UQAM)
-- wiki/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien
-  à Montréal-Nord)
 tags:
 - reference
 - vodou
@@ -15,7 +12,7 @@ tags:
 - oral-tradition
 - ethnography
 - uqam
-- wiki
+- resources
 - oralit-primaire-et-transmission-des-savoirs-claude-gilles-2017-vodou-haitien-montr-al-nord-md
 - transmission
 - nord
@@ -24,9 +21,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Oralité primaire et transmission des savoirs — Claude Gilles
-  2017 (Vodou haitien à Montréal-Nord).md
+vault_area: Resources
+canonical_path: Resources/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord).md
 backlink_count: 7
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

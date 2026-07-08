@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
 - '[[tmp/drive-audit-2026-04-18/summary]]'
 ---

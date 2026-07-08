@@ -3,9 +3,8 @@ type: wiki
 title: PHAROS AI and Ethics Submission — Architecture Paper
 aliases:
 - PHAROS AI and Ethics Submission — Architecture Paper
-- wiki/PHAROS AI and Ethics Submission — Architecture Paper
 tags:
-- wiki
+- areas
 - pharos
 - ai
 - paper
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS AI and Ethics Submission — Architecture Paper.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper.md
 backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
@@ -27,8 +26,8 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
-- '[[wiki/PHAROS Legal Classification — CAE Code Strategy]]'
-- '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
+- '[[Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/RECURSO — Final Audit and Ethical Review]]'
 - '[[Resources/Recursive Governance Theory]]'

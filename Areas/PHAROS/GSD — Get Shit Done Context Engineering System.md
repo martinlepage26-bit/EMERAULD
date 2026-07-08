@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/LightRAG — Graph-Based RAG System]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
-- '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/RAG-Anything — Multimodal RAG Framework]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'

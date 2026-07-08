@@ -38,7 +38,7 @@ backlinks:
 - '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
-- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'

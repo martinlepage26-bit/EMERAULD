@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[Areas/Writing/Loop Papers and Recursive Governance]]'
-- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'

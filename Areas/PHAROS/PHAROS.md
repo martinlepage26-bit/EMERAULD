@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
-- '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
 - '[[wiki/Research Hub]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[maps/PHAROS Method Map]]'

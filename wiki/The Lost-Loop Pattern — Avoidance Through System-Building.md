@@ -36,7 +36,7 @@ backlinks:
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14]]'
-- '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
+- '[[Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'

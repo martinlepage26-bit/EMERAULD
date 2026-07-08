@@ -3,7 +3,6 @@ type: note
 title: PHAROS LinkedIn April 2026 Publishing Routine
 aliases:
 - PHAROS LinkedIn April 2026 Publishing Routine
-- wiki/PHAROS LinkedIn April 2026 Publishing Routine
 tags:
 - pharos
 - publishing
@@ -11,7 +10,7 @@ tags:
 - public-surface
 - operations
 - note
-- wiki
+- archive
 - pharos-linkedin-april-2026-publishing-routine-md
 - april
 - posts
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-04-28'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS LinkedIn April 2026 Publishing Routine.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine.md
 backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
@@ -30,9 +29,9 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
-- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'

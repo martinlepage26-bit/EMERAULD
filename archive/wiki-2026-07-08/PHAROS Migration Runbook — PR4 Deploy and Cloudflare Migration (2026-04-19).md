@@ -5,9 +5,8 @@ aliases:
 - SHOW-ME-WHAT-TO-DO
 - PR4 Runbook
 - PHAROS Migration 2026-04-19
-- wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)
 tags:
-- wiki
+- archive
 - pharos-migration-runbook-pr4-deploy-and-cloudflare-migration-2026-04-19-md
 - migration
 - cloudflare
@@ -18,9 +17,8 @@ tags:
 status: archived
 created: '2026-04-19'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration
-  (2026-04-19).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19).md
 backlink_count: 13
 backlinks:
 - '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'

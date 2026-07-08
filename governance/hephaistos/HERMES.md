@@ -25,7 +25,7 @@ backlinks:
 - '[[.github/agents/hermes.agent]]'
 - '[[archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
 - '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
-- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
 - '[[governance/hephaistos/GOVERNANCE-INFRASTRUCTURE-MANIFEST]]'
 - '[[governance/hephaistos/PHASE-2-INTEGRATION-ROADMAP]]'

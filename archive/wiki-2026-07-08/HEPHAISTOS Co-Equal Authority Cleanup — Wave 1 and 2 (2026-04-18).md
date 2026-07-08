@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
-- '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
+- '[[Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'

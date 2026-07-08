@@ -3,9 +3,8 @@ type: wiki
 title: PHAROS Surface
 aliases:
 - PHAROS Surface
-- wiki/PHAROS SURFACE
 tags:
-- wiki
+- areas
 - pharos
 - pharos-surface-md
 - documents
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS SURFACE.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS SURFACE.md
 backlink_count: 9
 backlinks:
 - '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'

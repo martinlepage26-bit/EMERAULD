@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/PHAROS Legal Classification — CAE Code Strategy]]'
+- '[[Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'

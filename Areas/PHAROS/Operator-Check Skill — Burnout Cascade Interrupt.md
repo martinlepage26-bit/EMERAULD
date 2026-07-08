@@ -3,14 +3,13 @@ type: wiki
 title: Operator-Check Skill — Burnout Cascade Interrupt
 aliases:
 - operator-check
-- wiki/Operator-Check Skill — Burnout Cascade Interrupt
 tags:
 - skill
 - burnout
 - governance
 - claude
 - operator-pattern
-- wiki
+- areas
 - operator-check-skill-burnout-cascade-interrupt-md
 - flattery
 - cascade
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Operator-Check Skill — Burnout Cascade Interrupt.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt.md
 backlink_count: 17
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

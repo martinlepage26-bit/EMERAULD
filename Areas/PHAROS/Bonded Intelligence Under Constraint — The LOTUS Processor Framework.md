@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
-- '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

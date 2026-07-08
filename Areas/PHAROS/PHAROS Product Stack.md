@@ -3,13 +3,12 @@ type: wiki
 title: PHAROS Product Stack
 aliases:
 - PHAROS Product Stack
-- wiki/PHAROS Product Stack
 tags:
 - pharos
 - product
 - commercial
 - governance
-- wiki
+- areas
 - pharos-product-stack-md
 - label
 - lineage
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Product Stack.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Product Stack.md
 backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
@@ -29,7 +28,7 @@ backlinks:
 - '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[wiki/PHAROS Method — Core Framework]]'
+- '[[Areas/PHAROS/PHAROS Method — Core Framework]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[projects/AurorA — Fisher King Project State]]'
 - '[[projects/COMPASSai — Fisher King Project State]]'

@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[wiki/PHAROS Product Stack]]'
+- '[[Areas/PHAROS/PHAROS Product Stack]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

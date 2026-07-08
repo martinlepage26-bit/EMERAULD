@@ -44,7 +44,7 @@ backlinks:
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
-- '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
+- '[[Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'

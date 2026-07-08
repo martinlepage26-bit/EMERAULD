@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
-- '[[wiki/PHAROS Legal Classification — CAE Code Strategy]]'
+- '[[Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'

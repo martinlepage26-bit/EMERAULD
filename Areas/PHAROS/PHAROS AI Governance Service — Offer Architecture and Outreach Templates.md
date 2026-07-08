@@ -5,9 +5,8 @@ aliases:
 - PHAROS Service Offer Architecture
 - AI Trust Sprint Offer
 - AI Governance Freelance Offer
-- wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates
 tags:
-- wiki
+- areas
 - pharos-ai-governance-service-offer-architecture-and-outreach-templates-md
 - offer
 - businesses
@@ -18,9 +17,8 @@ tags:
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS AI Governance Service — Offer Architecture and Outreach
-  Templates.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates.md
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'

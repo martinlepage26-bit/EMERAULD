@@ -23,7 +23,7 @@ canonical_path: wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templ
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
-- '[[wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
+- '[[Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'

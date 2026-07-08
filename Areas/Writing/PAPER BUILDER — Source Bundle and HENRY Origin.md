@@ -5,7 +5,6 @@ aliases:
 - PAPER BUILDER Source Bundle
 - HENRY Origin Bundle
 - ubuntu disk bundle
-- wiki/PAPER BUILDER — Source Bundle and HENRY Origin
 tags:
 - henry
 - paper-builder
@@ -14,7 +13,7 @@ tags:
 - build-artifact
 - writing-system
 - version-genealogy
-- wiki
+- areas
 - paper-builder-source-bundle-and-henry-origin-md
 - voice
 - builder
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-05-03'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PAPER BUILDER — Source Bundle and HENRY Origin.md
+vault_area: Areas
+canonical_path: Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin.md
 backlink_count: 3
 backlinks:
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'

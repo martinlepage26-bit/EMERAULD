@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governed Self-Improvement — Method Slide Asset]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
-- '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'

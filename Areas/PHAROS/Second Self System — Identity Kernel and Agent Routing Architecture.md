@@ -43,7 +43,7 @@ backlinks:
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
-- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'

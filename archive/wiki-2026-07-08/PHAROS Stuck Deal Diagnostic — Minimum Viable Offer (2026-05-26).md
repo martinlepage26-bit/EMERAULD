@@ -5,7 +5,6 @@ aliases:
 - Stuck Deal Diagnostic
 - MVP diagnostic offer
 - enterprise deal diagnostic
-- wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)
 tags:
 - commercial
 - pharos
@@ -13,7 +12,7 @@ tags:
 - mvp
 - outreach
 - first-customer
-- wiki
+- archive
 - pharos-stuck-deal-diagnostic-minimum-viable-offer-2026-05-26-md
 - deal
 - sprint
@@ -24,11 +23,11 @@ tags:
 status: active
 created: '2026-05-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26).md
 backlink_count: 5
 backlinks:
-- '[[wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
+- '[[Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
