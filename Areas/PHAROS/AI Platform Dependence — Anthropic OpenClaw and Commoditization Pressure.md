@@ -5,7 +5,6 @@ aliases:
 - Anthropic OpenClaw platform dependence
 - OpenClaw and Anthropic pricing
 - AI provider commoditization pressure
-- wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure
 tags:
 - ai-infrastructure
 - anthropic
@@ -14,7 +13,7 @@ tags:
 - pricing
 - platform-strategy
 - open-weights
-- wiki
+- areas
 - ai-platform-dependence-anthropic-openclaw-and-commoditization-pressure-md
 - moat
 - provider
@@ -24,13 +23,12 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization
-  Pressure.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure.md
 backlink_count: 6
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
+- '[[Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/OpenAI Governance Framework — Comparison with PHAROS]]'

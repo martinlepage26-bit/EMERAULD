@@ -21,7 +21,7 @@ vault_area: governance
 canonical_path: governance/hephaistos/AGENT_AUDIT_2026-04-23.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Agent Ecosystem Audit — 2026-04-23]]'
+- '[[archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
 - '[[governance/hephaistos/HEPHAISTOS]]'

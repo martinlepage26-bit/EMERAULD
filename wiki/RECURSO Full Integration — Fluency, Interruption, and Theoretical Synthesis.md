@@ -23,7 +23,7 @@ canonical_path: wiki/RECURSO Full Integration — Fluency, Interruption, and The
 backlink_count: 12
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Governance by Denial]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'

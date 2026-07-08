@@ -22,10 +22,10 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft.md
 backlink_count: 34
 backlinks:
-- '[[wiki/AI Ethics Literature — Contestable Governance Artifacts]]'
+- '[[Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts]]'
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
-- '[[wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
+- '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'

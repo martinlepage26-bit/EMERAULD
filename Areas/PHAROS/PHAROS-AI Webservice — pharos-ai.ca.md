@@ -24,7 +24,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca.md
 backlink_count: 23
 backlinks:
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior]]'

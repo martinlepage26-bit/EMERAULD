@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/TPS-TVQ PHAROS.md
 backlink_count: 6
 backlinks:
-- '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
+- '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Company Registration and Security Incidents]]'

@@ -33,7 +33,7 @@ canonical_path: wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-It
 backlink_count: 16
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Anti-Charm]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'

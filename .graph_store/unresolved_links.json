@@ -25,6 +25,101 @@
     "source_path": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test.md"
   },
   {
+    "source": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "2026-04-18_ai-ethics-contestable-governance-artifacts-paragraph",
+    "source_path": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "1) Amazon Recruiting Tool Bias (2018)",
+    "source_path": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "2018 - audit_or_assessment",
+    "source_path": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "Martin LepageWSP Canada",
+    "source_path": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "2015 - policy_or_guidance [3",
+    "source_path": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "2015 - policy_or_guidance [4",
+    "source_path": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Literature Review From the Politics of Visibility to the Politics of Voice in AI Governance",
+    "source_path": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "FIRST DRAFT",
+    "source_path": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "2026-04-18_ethics-poetics-praxis-ai-governance-manifesto",
+    "source_path": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "PHAROS AI governance service business",
+    "source_path": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "target": "AI governance service business",
+    "source_path": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Automating Inequality — Eubanks",
+    "source_path": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Automating Inequality — Eubanks",
+    "source_path": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "AI has no intrinsic ethics.",
+    "source_path": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Report_copy_05_for print",
+    "source_path": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "target": "summary",
+    "source_path": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "target": "2026-04-18_anthropic-openclaw-platform-dependence-and-narrative-capture",
+    "source_path": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "target": "2026-04-18_anthropic-openclaw-platform-dependence-and-narrative-capture",
+    "source_path": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure.md"
+  },
+  {
+    "source": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "2026-04-18_ai-self-report-recursion-perturbation-epistemic-status",
+    "source_path": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation.md"
+  },
+  {
     "source": "Areas/PHAROS/AurorA — COMPASSai Input Module",
     "target": "Free-First Architecture",
     "source_path": "Areas/PHAROS/AurorA — COMPASSai Input Module.md"
@@ -1828,6 +1923,16 @@
     "source": "Areas/Personal/Personal and Projects MOC",
     "target": "2026 - Martin Lepage - Feb 4, 2026",
     "source_path": "Areas/Personal/Personal and Projects MOC.md"
+  },
+  {
+    "source": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "target": "Reflexive Inhabitation Audit",
+    "source_path": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026).md"
+  },
+  {
+    "source": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "target": "Reflexive Inhabitation Audit",
+    "source_path": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026).md"
   },
   {
     "source": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
@@ -5710,6 +5815,11 @@
     "source_path": "archive/session-state/session-state-003.md"
   },
   {
+    "source": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "target": "2019 - Martin Lepage - ocr_needed_1.pdf - 2019 - Martin Lepage - ocr_needed_1.pdf.pdf - 2019 - Marti",
+    "source_path": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment.md"
+  },
+  {
     "source": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
     "target": "DocSort — Dr. Sort Automation Project",
     "source_path": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04).md"
@@ -7385,111 +7495,6 @@
     "source_path": "projects/patent-workbench/CLAUDE_TASK.md"
   },
   {
-    "source": "AI Ethics Literature — Contestable Governance Artifacts",
-    "target": "2026-04-18_ai-ethics-contestable-governance-artifacts-paragraph",
-    "source_path": "wiki/AI Ethics Literature — Contestable Governance Artifacts.md"
-  },
-  {
-    "source": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "target": "1) Amazon Recruiting Tool Bias (2018)",
-    "source_path": "wiki/AI Governance Course — Ethics, Failure Modes, and Practice.md"
-  },
-  {
-    "source": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "target": "2018 - audit_or_assessment",
-    "source_path": "wiki/AI Governance Course — Ethics, Failure Modes, and Practice.md"
-  },
-  {
-    "source": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "target": "Martin LepageWSP Canada",
-    "source_path": "wiki/AI Governance Course — Ethics, Failure Modes, and Practice.md"
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "2015 - policy_or_guidance [3",
-    "source_path": "wiki/AI Governance Manifesto — Upstream Institutional Practice.md"
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "2015 - policy_or_guidance [4",
-    "source_path": "wiki/AI Governance Manifesto — Upstream Institutional Practice.md"
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "Literature Review From the Politics of Visibility to the Politics of Voice in AI Governance",
-    "source_path": "wiki/AI Governance Manifesto — Upstream Institutional Practice.md"
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "FIRST DRAFT",
-    "source_path": "wiki/AI Governance Manifesto — Upstream Institutional Practice.md"
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "2026-04-18_ethics-poetics-praxis-ai-governance-manifesto",
-    "source_path": "wiki/AI Governance Manifesto — Upstream Institutional Practice.md"
-  },
-  {
-    "source": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "target": "PHAROS AI governance service business",
-    "source_path": "wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan.md"
-  },
-  {
-    "source": "AI Governance Sprint — One-Page Sellable Packet",
-    "target": "AI governance service business",
-    "source_path": "wiki/AI Governance Sprint — One-Page Sellable Packet.md"
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Automating Inequality — Eubanks",
-    "source_path": "wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md"
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Automating Inequality — Eubanks",
-    "source_path": "wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md"
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "AI has no intrinsic ethics.",
-    "source_path": "wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md"
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Report_copy_05_for print",
-    "source_path": "wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md"
-  },
-  {
-    "source": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "target": "summary",
-    "source_path": "wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study.md"
-  },
-  {
-    "source": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "target": "2026-04-18_anthropic-openclaw-platform-dependence-and-narrative-capture",
-    "source_path": "wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure.md"
-  },
-  {
-    "source": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "target": "2026-04-18_anthropic-openclaw-platform-dependence-and-narrative-capture",
-    "source_path": "wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure.md"
-  },
-  {
-    "source": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "target": "Reflexive Inhabitation Audit",
-    "source_path": "wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026).md"
-  },
-  {
-    "source": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "target": "Reflexive Inhabitation Audit",
-    "source_path": "wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026).md"
-  },
-  {
-    "source": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "target": "2026-04-18_ai-self-report-recursion-perturbation-epistemic-status",
-    "source_path": "wiki/AI Self-Report — Epistemic Status Recursion and Perturbation.md"
-  },
-  {
     "source": "APEX Papers — Research Archive Map",
     "target": "corpus_structure",
     "source_path": "wiki/APEX Papers — Research Archive Map.md"
@@ -7583,11 +7588,6 @@
     "source": "ASSETS MOC",
     "target": "assets/manuscripts/queering-neo-pagan-magic-mrw-2026/_archive_superseded_2026-05-31/source_uploads/Lepage--Queering Pagan Magic--MRW revision",
     "source_path": "wiki/ASSETS MOC.md"
-  },
-  {
-    "source": "Agatha Grant Post-Mortem — First Assessment",
-    "target": "2019 - Martin Lepage - ocr_needed_1.pdf - 2019 - Martin Lepage - ocr_needed_1.pdf.pdf - 2019 - Marti",
-    "source_path": "wiki/Agatha Grant Post-Mortem — First Assessment.md"
   },
   {
     "source": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",

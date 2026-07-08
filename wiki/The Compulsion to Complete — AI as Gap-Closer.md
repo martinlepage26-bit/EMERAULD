@@ -21,8 +21,8 @@ vault_area: wiki
 canonical_path: wiki/The Compulsion to Complete — AI as Gap-Closer.md
 backlink_count: 28
 backlinks:
-- '[[wiki/AI Ethics Literature — Contestable Governance Artifacts]]'
-- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts]]'
+- '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
   (2026)]]'

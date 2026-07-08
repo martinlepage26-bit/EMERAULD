@@ -23,7 +23,7 @@ canonical_path: wiki/Harrowfield Clinic — AI Governance Failure Case Study.md
 backlink_count: 16
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
+- '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'

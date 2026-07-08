@@ -24,11 +24,11 @@ backlink_count: 66
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'

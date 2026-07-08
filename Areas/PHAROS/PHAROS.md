@@ -22,7 +22,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS.md
 backlink_count: 23
 backlinks:
-- '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
 - '[[wiki/APEX Papers — Research Archive Map]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'

@@ -30,7 +30,7 @@ canonical_path: wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023).md
 backlink_count: 10
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'

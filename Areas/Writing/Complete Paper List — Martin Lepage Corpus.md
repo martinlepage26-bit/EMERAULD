@@ -20,7 +20,7 @@ canonical_path: Areas/Writing/Complete Paper List — Martin Lepage Corpus.md
 backlink_count: 33
 backlinks:
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
-- '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
+- '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
 - '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/CODEX Writing Projects Manifest]]'

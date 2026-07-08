@@ -3,9 +3,8 @@ type: wiki
 title: ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison
 aliases:
 - ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison
-- wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison
 tags:
-- wiki
+- areas
 - pharos
 - governance
 - anthro-pharos-anthropic-vs-pharos-governance-comparison-md
@@ -17,12 +16,12 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison.md
 backlink_count: 15
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
+- '[[Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
 - '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Global Publication Search — PHAROS Method and Variants]]'

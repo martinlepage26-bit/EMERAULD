@@ -24,7 +24,7 @@ vault_area: wiki
 canonical_path: wiki/PHAROS LinkedIn April 2026 Publishing Routine.md
 backlink_count: 17
 backlinks:
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

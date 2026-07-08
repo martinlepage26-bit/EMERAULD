@@ -23,8 +23,8 @@ canonical_path: wiki/Architectural AI Governance — Willis and PBSAI.md
 backlink_count: 13
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
-- '[[wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
 - '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

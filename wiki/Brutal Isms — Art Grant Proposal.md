@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Brutal Isms — Art Grant Proposal.md
 backlink_count: 8
 backlinks:
-- '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[wiki/Brutal Isms — Grant Revision Package (2026-05-12)]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'

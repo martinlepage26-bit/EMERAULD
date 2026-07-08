@@ -5,7 +5,6 @@ aliases:
 - Epistemic status of AI self-report
 - AI self-report recursion perturbation
 - Self-report as governance artifact
-- wiki/AI Self-Report — Epistemic Status Recursion and Perturbation
 tags:
 - ai-self-report
 - epistemics
@@ -13,7 +12,7 @@ tags:
 - perturbation
 - self-polygraph
 - governance
-- wiki
+- areas
 - ai-self-report-epistemic-status-recursion-and-perturbation-md
 - self
 - polygraph
@@ -23,11 +22,11 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Self-Report — Epistemic Status Recursion and Perturbation.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation.md
 backlink_count: 14
 backlinks:
-- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
@@ -38,8 +37,7 @@ backlinks:
 - '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
-  and Computational Memory Architectures]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 ---

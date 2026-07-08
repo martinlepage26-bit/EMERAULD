@@ -4,7 +4,6 @@ title: AI Governance Sprint — One-Page Sellable Packet
 aliases:
 - Trust Pack one-pager
 - AI Governance Sprint one-pager
-- wiki/AI Governance Sprint — One-Page Sellable Packet
 tags:
 - commercial
 - pharos
@@ -12,7 +11,7 @@ tags:
 - sellable
 - ai-governance
 - montreal
-- wiki
+- areas
 - ai-governance-sprint-one-page-sellable-packet-md
 - firms
 - calendly
@@ -22,11 +21,11 @@ tags:
 status: active
 created: '2026-05-14'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Governance Sprint — One-Page Sellable Packet.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet.md
 backlink_count: 10
 backlinks:
-- '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
+- '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'

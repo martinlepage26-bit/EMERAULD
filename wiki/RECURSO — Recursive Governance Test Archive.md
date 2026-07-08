@@ -27,7 +27,7 @@ canonical_path: wiki/RECURSO — Recursive Governance Test Archive.md
 backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
-- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[wiki/APEX Papers — Research Archive Map]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'

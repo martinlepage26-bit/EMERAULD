@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions.md
 backlink_count: 10
 backlinks:
-- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
 - '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
 - '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'

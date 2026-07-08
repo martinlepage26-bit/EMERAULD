@@ -27,8 +27,8 @@ vault_area: wiki
 canonical_path: wiki/Machine Limitation.md
 backlink_count: 10
 backlinks:
-- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
-- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[wiki/Authority Without Power-Over]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/Governance Controls and Mechanisms]]'

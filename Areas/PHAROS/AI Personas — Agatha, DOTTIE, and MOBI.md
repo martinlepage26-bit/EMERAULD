@@ -3,9 +3,8 @@ type: wiki
 title: AI Personas — Agatha, DOTTIE, and MOBI
 aliases:
 - AI Personas — Agatha, DOTTIE, and MOBI
-- wiki/AI Personas — Agatha, DOTTIE, and MOBI
 tags:
-- wiki
+- areas
 - ai
 - ai-personas-agatha-dottie-and-mobi-md
 - agatha
@@ -17,12 +16,12 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Personas — Agatha, DOTTIE, and MOBI.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI.md
 backlink_count: 28
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

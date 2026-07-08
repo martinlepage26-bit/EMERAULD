@@ -5,7 +5,6 @@ aliases:
 - Montreal Quebec AI governance offer ladder
 - 90-day AI governance revenue plan
 - Montreal Quebec service ladder
-- wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan
 tags:
 - commercial
 - ai-governance
@@ -14,7 +13,7 @@ tags:
 - offers
 - revenue
 - commercial-map
-- wiki
+- areas
 - ai-governance-offer-ladder-montreal-quebec-90-day-revenue-plan-md
 - weeks
 - offer
@@ -24,12 +23,12 @@ tags:
 status: active
 created: '2026-05-11'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan.md
 backlink_count: 15
 backlinks:
 - '[[Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
-- '[[wiki/AI Governance Sprint — One-Page Sellable Packet]]'
+- '[[Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'

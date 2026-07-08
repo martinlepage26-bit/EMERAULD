@@ -5,14 +5,13 @@ aliases:
 - AI Paper Prompt
 - PHAROS Paper Prompt
 - Recursive Workflow Paper Prompt
-- wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study
 tags:
 - prompting
 - ai-paper
 - research
 - pharos
 - governance
-- wiki
+- areas
 - ai-paper-prompt-pharos-recursive-workflow-case-study-md
 - chronology
 - prompt
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study.md
 backlink_count: 6
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'

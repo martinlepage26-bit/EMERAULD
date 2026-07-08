@@ -24,7 +24,7 @@ vault_area: wiki
 canonical_path: wiki/Argus.md
 backlink_count: 13
 backlinks:
-- '[[wiki/Agent Ecosystem Audit — 2026-04-23]]'
+- '[[archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23]]'
 - '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'

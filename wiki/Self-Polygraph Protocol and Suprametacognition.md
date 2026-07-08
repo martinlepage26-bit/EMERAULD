@@ -21,8 +21,8 @@ canonical_path: wiki/Self-Polygraph Protocol and Suprametacognition.md
 backlink_count: 31
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
-- '[[wiki/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
+- '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
 - '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'

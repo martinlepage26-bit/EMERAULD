@@ -39,8 +39,8 @@ backlink_count: 66
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
-- '[[wiki/Agent Ecosystem Audit — 2026-04-23]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23]]'
 - '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'

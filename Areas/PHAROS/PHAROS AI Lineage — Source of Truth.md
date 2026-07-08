@@ -24,8 +24,8 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS AI Lineage — Source of Truth.md
 backlink_count: 27
 backlinks:
-- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
-- '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
 - '[[wiki/CLAUDEX — AI Dialogue Archive]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'

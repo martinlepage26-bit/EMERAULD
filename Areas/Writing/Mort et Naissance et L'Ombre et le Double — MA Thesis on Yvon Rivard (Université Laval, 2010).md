@@ -31,7 +31,7 @@ canonical_path: Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA T
 backlink_count: 63
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'

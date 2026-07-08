@@ -1,13 +1,10 @@
 ---
 type: wiki
-title: AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
-  (2026)
+title: AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)
 aliases:
 - Centre de Sante Osman AI hallucination arbitration case
 - Jeanniot hallucinated jurisprudence case
 - Sheehan AI arbitration decision 2026
-- wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
-  (2026)
 tags:
 - ai-governance
 - legal
@@ -16,7 +13,7 @@ tags:
 - evidence-discipline
 - quebec
 - case-study
-- wiki
+- areas
 - ai-hallucinated-arbitration-decision-centre-de-sante-osman-v-sante-quebec-2026-md
 - arbitrator
 - authorities
@@ -25,9 +22,8 @@ tags:
 status: active
 created: '2026-04-28'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman
-  v Sante Quebec (2026).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026).md
 backlink_count: 6
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'

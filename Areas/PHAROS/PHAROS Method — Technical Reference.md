@@ -28,10 +28,10 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Method — Technical Reference.md
 backlink_count: 67
 backlinks:
-- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
-- '[[wiki/AI Governance Sprint — One-Page Sellable Packet]]'
+- '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet]]'
 - '[[wiki/APEX Papers — Research Archive Map]]'
-- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'

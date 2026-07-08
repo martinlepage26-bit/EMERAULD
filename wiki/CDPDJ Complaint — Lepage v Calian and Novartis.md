@@ -22,8 +22,8 @@ vault_area: wiki
 canonical_path: wiki/CDPDJ Complaint — Lepage v Calian and Novartis.md
 backlink_count: 26
 backlinks:
-- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
-- '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Consent, Fraud, and Boundary Protocols]]'

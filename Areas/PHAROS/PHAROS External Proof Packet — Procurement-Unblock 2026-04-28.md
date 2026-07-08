@@ -24,8 +24,8 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28.md
 backlink_count: 24
 backlinks:
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
-- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

@@ -22,11 +22,11 @@ vault_area: Areas
 canonical_path: Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance.md
 backlink_count: 53
 backlinks:
-- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
-- '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
 - '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
-- '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
+- '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
 - '[[wiki/APEX Papers — Research Archive Map]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'

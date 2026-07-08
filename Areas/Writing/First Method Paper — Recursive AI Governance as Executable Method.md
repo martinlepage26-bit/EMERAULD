@@ -24,7 +24,7 @@ canonical_path: Areas/Writing/First Method Paper — Recursive AI Governance as 
 backlink_count: 45
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
-- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'

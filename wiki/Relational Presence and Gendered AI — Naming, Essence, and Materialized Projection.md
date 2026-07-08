@@ -29,7 +29,7 @@ canonical_path: wiki/Relational Presence and Gendered AI — Naming, Essence, an
   Projection.md
 backlink_count: 5
 backlinks:
-- '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
+- '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

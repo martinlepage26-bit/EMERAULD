@@ -23,7 +23,7 @@ canonical_path: wiki/Stuttering through the Institution — Academic Containment
   Queer Knowing.md
 backlink_count: 17
 backlinks:
-- '[[wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
+- '[[Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
 - '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[wiki/Care, Ethics, and Governance]]'

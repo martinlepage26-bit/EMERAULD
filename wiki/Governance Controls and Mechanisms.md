@@ -27,8 +27,8 @@ vault_area: wiki
 canonical_path: wiki/Governance Controls and Mechanisms.md
 backlink_count: 39
 backlinks:
-- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
-- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
   of Interruption]]'
 - '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'

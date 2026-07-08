@@ -23,14 +23,14 @@ vault_area: Areas
 canonical_path: Areas/Writing/Recursive Deterministic AI Governance — Method and Paper.md
 backlink_count: 109
 backlinks:
-- '[[wiki/AI Ethics Literature — Contestable Governance Artifacts]]'
-- '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
-- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
-- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts]]'
+- '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
+- '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
-- '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
+- '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[wiki/Agent Session Phenomenology]]'
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[wiki/Architectural AI Governance — Willis and PBSAI]]'

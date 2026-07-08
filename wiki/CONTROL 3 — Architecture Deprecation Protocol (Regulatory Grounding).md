@@ -22,7 +22,7 @@ vault_area: wiki
 canonical_path: wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md
 backlink_count: 22
 backlinks:
-- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'

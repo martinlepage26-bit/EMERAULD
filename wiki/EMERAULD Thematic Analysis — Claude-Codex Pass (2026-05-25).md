@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25).md
 backlink_count: 10
 backlinks:
-- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
   of Interruption]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'

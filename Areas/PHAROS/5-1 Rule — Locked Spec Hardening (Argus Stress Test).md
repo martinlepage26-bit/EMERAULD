@@ -21,7 +21,7 @@ canonical_path: Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Te
 backlink_count: 10
 backlinks:
 - '[[.github/agents/argus.agent]]'
-- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'

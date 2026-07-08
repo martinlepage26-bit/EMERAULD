@@ -20,7 +20,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/Governance Controls Integration Dashboard.md
 backlink_count: 21
 backlinks:
-- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'

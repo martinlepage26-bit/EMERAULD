@@ -24,7 +24,7 @@ backlink_count: 30
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
+- '[[Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial]]'

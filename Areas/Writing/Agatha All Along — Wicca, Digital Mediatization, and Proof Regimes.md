@@ -22,8 +22,8 @@ canonical_path: Areas/Writing/Agatha All Along — Wicca, Digital Mediatization,
 backlink_count: 55
 backlinks:
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
-- '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
-- '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'

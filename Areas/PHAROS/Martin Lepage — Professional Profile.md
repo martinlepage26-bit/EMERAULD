@@ -21,8 +21,8 @@ backlink_count: 116
 backlinks:
 - '[[.trash/Building Your First AI Agent with OpenAI_______]]'
 - '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
-- '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
-- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
+- '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'

@@ -30,8 +30,8 @@ backlink_count: 18
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
-- '[[wiki/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
+- '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
 - '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
   (2026)]]'
 - '[[wiki/Consent and Boundary Frameworks]]'

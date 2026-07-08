@@ -1,105 +1,5 @@
 [
   {
-    "source": "AI Ethics Literature — Contestable Governance Artifacts",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 3
-  },
-  {
-    "source": "AI Ethics Literature — Contestable Governance Artifacts",
-    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
-    "count": 2
-  },
-  {
-    "source": "AI Ethics Literature — Contestable Governance Artifacts",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "AI Ethics Literature — Contestable Governance Artifacts",
-    "target": "Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft",
-    "count": 3
-  },
-  {
-    "source": "AI Ethics Literature — Contestable Governance Artifacts",
-    "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
-    "count": 1
-  },
-  {
-    "source": "AI Ethics Literature — Contestable Governance Artifacts",
-    "target": "Resources/Evidence Discipline and Epistemics",
-    "count": 1
-  },
-  {
-    "source": "AI Ethics Literature — Contestable Governance Artifacts",
-    "target": "The Compulsion to Complete — AI as Gap-Closer",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "target": "Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "target": "Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "target": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "target": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "target": "PHAROS AI and Ethics Submission — Architecture Paper",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "target": "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_trusted-ai-crim",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Failure Cases",
-    "target": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Failure Cases",
-    "target": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Failure Cases",
-    "target": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Failure Cases",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "count": 1
-  },
-  {
     "source": "AI Governance Failure Cases",
     "target": "Architectural AI Governance — Willis and PBSAI",
     "count": 1
@@ -107,6 +7,26 @@
   {
     "source": "AI Governance Failure Cases",
     "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "count": 1
+  },
+  {
+    "source": "AI Governance Failure Cases",
+    "target": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "count": 1
+  },
+  {
+    "source": "AI Governance Failure Cases",
+    "target": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "count": 1
+  },
+  {
+    "source": "AI Governance Failure Cases",
+    "target": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "count": 1
+  },
+  {
+    "source": "AI Governance Failure Cases",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -220,323 +140,28 @@
     "count": 1
   },
   {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "Areas/PHAROS/PHAROS Method — Technical Reference",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
-    "count": 3
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "Governance Controls and Mechanisms",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "PEER-REVIEW/05_SECTION_DRAFTS/07_INTRODUCTION",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "Poiesis Poietics Poetics Praxis — Making and Action Distinctions",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Manifesto — Upstream Institutional Practice",
-    "target": "Resources/Recursive Governance Theory",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "target": "Areas/PHAROS/PHAROS Procurement-Unblock Sprint",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "target": "EU AI Act and Law 25 — Regulatory Pressure Window",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "target": "Service Offer Prompts — GPT-Assisted Revenue Design Templates",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "target": "Strategic Storytelling in the AI Economy",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "target": "TPS-TVQ PHAROS",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "target": "Trust Advantage Analysis — Sales and AI Governance",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Architectural AI Governance — Willis and PBSAI",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Areas/PHAROS/PHAROS Licensing Prospectus",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Areas/PHAROS/PHAROS Procurement-Unblock Sprint",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Governance by Denial",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Learning Together for Responsible AI — ISED Public Awareness WG 2022",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "NIST AI RMF 1.0 — NIST AI 100-1 (2023)",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "OpenAI Governance Framework — Comparison with PHAROS",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "PHAROS Legal Classification — CAE Code Strategy",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "PHAROS LinkedIn April 2026 Publishing Routine",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Public Statement and Market Impact Pack",
-    "target": "Trust Advantage Analysis — Sales and AI Governance",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Sprint — One-Page Sellable Packet",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "count": 2
-  },
-  {
-    "source": "AI Governance Sprint — One-Page Sellable Packet",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Sprint — One-Page Sellable Packet",
-    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Sprint — One-Page Sellable Packet",
-    "target": "Areas/PHAROS/PHAROS Method — Technical Reference",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Sprint — One-Page Sellable Packet",
-    "target": "Trust Advantage Analysis — Sales and AI Governance",
-    "count": 1
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 3
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "count": 2
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
-    "count": 2
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
-    "count": 1
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)",
-    "count": 1
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Areas/PHAROS/PHAROS AI Lineage — Source of Truth",
-    "count": 2
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28",
-    "count": 2
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
-    "count": 1
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Consent and Boundary Frameworks",
-    "count": 1
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Consented Frame — Ethics and Wisdom Gate",
-    "count": 2
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Governance Controls and Mechanisms",
-    "count": 1
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "Machine Limitation",
-    "count": 3
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
-    "count": 1
-  },
-  {
-    "source": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "target": "RECURSO — Recursive Governance Test Archive",
-    "count": 1
-  },
-  {
     "source": "AI Identity and Phenomenology",
     "target": "AI Infrastructure Stack",
     "count": 1
   },
   {
     "source": "AI Identity and Phenomenology",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "AI Identity and Phenomenology",
-    "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "count": 1
-  },
-  {
-    "source": "AI Identity and Phenomenology",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "count": 1
-  },
-  {
-    "source": "AI Identity and Phenomenology",
     "target": "Agent Session Phenomenology",
+    "count": 1
+  },
+  {
+    "source": "AI Identity and Phenomenology",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 1
+  },
+  {
+    "source": "AI Identity and Phenomenology",
+    "target": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "count": 1
+  },
+  {
+    "source": "AI Identity and Phenomenology",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -661,22 +286,22 @@
   },
   {
     "source": "AI Infrastructure Stack",
-    "target": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "count": 1
-  },
-  {
-    "source": "AI Infrastructure Stack",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "count": 1
-  },
-  {
-    "source": "AI Infrastructure Stack",
     "target": "Agent Logs Hub",
     "count": 1
   },
   {
     "source": "AI Infrastructure Stack",
     "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -955,346 +580,6 @@
     "count": 1
   },
   {
-    "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "count": 3
-  },
-  {
-    "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "count": 1
-  },
-  {
-    "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
-    "count": 3
-  },
-  {
-    "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft",
-    "count": 3
-  },
-  {
-    "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "Governance Stress-Test Protocols — Index",
-    "count": 1
-  },
-  {
-    "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "Governed Revision Loop — Responsible Self-Improving Agents",
-    "count": 3
-  },
-  {
-    "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "Machine Limitation",
-    "count": 2
-  },
-  {
-    "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
-    "count": 2
-  },
-  {
-    "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "Reflexive Inhabitation Audit — Prompt",
-    "count": 1
-  },
-  {
-    "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "The Compulsion to Complete — AI as Gap-Closer",
-    "count": 2
-  },
-  {
-    "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "The Lost-Loop Pattern — Avoidance Through System-Building",
-    "count": 1
-  },
-  {
-    "source": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "target": "Areas/PHAROS/PHAROS",
-    "count": 1
-  },
-  {
-    "source": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "target": "Areas/PHAROS/PHAROS AI Lineage — Source of Truth",
-    "count": 3
-  },
-  {
-    "source": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "target": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
-    "count": 2
-  },
-  {
-    "source": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "target": "PHAROS Cross-AI Strategy Matrix",
-    "count": 3
-  },
-  {
-    "source": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "target": "PHAROS Final Voice Operator — GPT Creator",
-    "count": 1
-  },
-  {
-    "source": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "target": "The Blind Leading the Automated — AI Governance Failure Case Study",
-    "count": 3
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
-    "count": 2
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
-    "count": 2
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
-    "count": 2
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "CDPDJ Complaint — Lepage v Calian and Novartis",
-    "count": 2
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "Custom GPT Products — PHAROS AI GPT Roster",
-    "count": 3
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
-    "count": 1
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "Governess Agatha GPT — ChatGPT Product Specification",
-    "count": 2
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "HEXA Press — Publishing and Practice Initiative",
-    "count": 2
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "PHAROS Final Voice Operator — GPT Creator",
-    "count": 1
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
-    "count": 2
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "count": 3
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "Self-Polygraph Protocol and Suprametacognition",
-    "count": 2
-  },
-  {
-    "source": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "target": "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
-    "count": 2
-  },
-  {
-    "source": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "target": "AI Infrastructure Stack",
-    "count": 1
-  },
-  {
-    "source": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "count": 2
-  },
-  {
-    "source": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "count": 1
-  },
-  {
-    "source": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "target": "OpenAI Governance Framework — Comparison with PHAROS",
-    "count": 2
-  },
-  {
-    "source": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "target": "Areas/Writing/Academic Paper Pipeline",
-    "count": 1
-  },
-  {
-    "source": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "target": "Disability Epistemology and Institutional Critique",
-    "count": 3
-  },
-  {
-    "source": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "target": "Stuttering through the Institution — Academic Containment and Queer Knowing",
-    "count": 3
-  },
-  {
-    "source": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "target": "The Blind Leading the Automated — AI Governance Failure Case Study",
-    "count": 1
-  },
-  {
-    "source": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "target": "graph/nodes/unmapped/martin_lepage",
-    "count": 1
-  },
-  {
-    "source": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 2
-  },
-  {
-    "source": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "target": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
-    "count": 1
-  },
-  {
-    "source": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "target": "Recursive Continuity Without Memory — AI Identity Across Sessions",
-    "count": 3
-  },
-  {
-    "source": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "target": "Resources/Evidence Discipline and Epistemics",
-    "count": 1
-  },
-  {
-    "source": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "target": "Self-Polygraph Protocol and Suprametacognition",
-    "count": 3
-  },
-  {
-    "source": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "target": "Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture",
-    "count": 3
-  },
-  {
-    "source": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "target": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
-    "count": 3
-  },
-  {
-    "source": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
-    "count": 1
-  },
-  {
-    "source": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "target": "Governance by Denial",
-    "count": 1
-  },
-  {
-    "source": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "target": "Harrowfield Clinic — AI Governance Failure Case Study",
-    "count": 3
-  },
-  {
-    "source": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "target": "PEER-REVIEW/05_SECTION_DRAFTS/07_INTRODUCTION",
-    "count": 1
-  },
-  {
-    "source": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "target": "PHAROS Scholarly Essay — Institutional Deployment Architecture",
-    "count": 1
-  },
-  {
-    "source": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "target": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
-    "count": 1
-  },
-  {
-    "source": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 1
-  },
-  {
-    "source": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "target": "AI Governance Failure Cases",
-    "count": 2
-  },
-  {
-    "source": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
-    "count": 2
-  },
-  {
-    "source": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "target": "Legal and Institutional Cases",
-    "count": 2
-  },
-  {
-    "source": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "target": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
-    "count": 1
-  },
-  {
-    "source": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "target": "Resources/Evidence Discipline and Epistemics",
-    "count": 1
-  },
-  {
-    "source": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "target": "The Compulsion to Complete — AI as Gap-Closer",
-    "count": 1
-  },
-  {
-    "source": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "target": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "count": 2
-  },
-  {
-    "source": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "target": "Architectural AI Governance — Willis and PBSAI",
-    "count": 3
-  },
-  {
-    "source": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 2
-  },
-  {
-    "source": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "target": "Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft",
-    "count": 2
-  },
-  {
-    "source": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "target": "Areas/PHAROS/PHAROS Licensing Prospectus",
-    "count": 3
-  },
-  {
-    "source": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "target": "Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture",
-    "count": 2
-  },
-  {
     "source": "APEX Papers — Research Archive Map",
     "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
     "count": 2
@@ -1332,181 +617,6 @@
   {
     "source": "APEX Papers — Research Archive Map",
     "target": "RECURSO — Recursive Governance Test Archive",
-    "count": 1
-  },
-  {
-    "source": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "target": "Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture",
-    "count": 2
-  },
-  {
-    "source": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "target": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
-    "count": 2
-  },
-  {
-    "source": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 1
-  },
-  {
-    "source": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
-    "count": 3
-  },
-  {
-    "source": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "target": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
-    "count": 1
-  },
-  {
-    "source": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "target": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
-    "count": 1
-  },
-  {
-    "source": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "target": "Media Studies and Pop Culture Analysis",
-    "count": 1
-  },
-  {
-    "source": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "target": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
-    "count": 1
-  },
-  {
-    "source": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "target": "RECURSO — Final Audit and Ethical Review",
-    "count": 3
-  },
-  {
-    "source": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "target": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
-    "count": 1
-  },
-  {
-    "source": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "target": "Resources/Recursive Governance Theory",
-    "count": 1
-  },
-  {
-    "source": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "count": 2
-  },
-  {
-    "source": "Agatha Grant Post-Mortem — First Assessment",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 2
-  },
-  {
-    "source": "Agatha Grant Post-Mortem — First Assessment",
-    "target": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "count": 1
-  },
-  {
-    "source": "Agatha Grant Post-Mortem — First Assessment",
-    "target": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
-    "count": 4
-  },
-  {
-    "source": "Agatha Grant Post-Mortem — First Assessment",
-    "target": "Brutal Isms — Art Grant Proposal",
-    "count": 1
-  },
-  {
-    "source": "Agatha Grant Post-Mortem — First Assessment",
-    "target": "CDPDJ Complaint — Lepage v Calian and Novartis",
-    "count": 2
-  },
-  {
-    "source": "Agatha Grant Post-Mortem — First Assessment",
-    "target": "MASTER PACK — D Drive Archive Map",
-    "count": 2
-  },
-  {
-    "source": "Agatha Grant Post-Mortem — First Assessment",
-    "target": "Social Compass Reviewer Response — Wicca and Agatha All Along",
-    "count": 1
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
-    "count": 2
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "Areas/PHAROS/Governance Controls Integration Dashboard",
-    "count": 1
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "count": 4
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "Areas/PHAROS/PHAROS Method — Technical Reference",
-    "count": 2
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "Areas/PHAROS/ROOK — Session Boundary Model",
-    "count": 1
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
-    "count": 1
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 1
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
-    "count": 1
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "Claude Code Skill Corpus",
-    "count": 2
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "Media Studies and Pop Culture Analysis",
-    "count": 1
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "OUTLIERS — Five Notes That Break the Architecture",
-    "count": 1
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "Operator-Check Skill — Burnout Cascade Interrupt",
-    "count": 2
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate",
-    "count": 1
-  },
-  {
-    "source": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
-    "count": 2
-  },
-  {
-    "source": "Agent Ecosystem Audit — 2026-04-23",
-    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "count": 2
-  },
-  {
-    "source": "Agent Ecosystem Audit — 2026-04-23",
-    "target": "governance/hephaistos/AGENT_AUDIT_2026-04-23",
     "count": 1
   },
   {
@@ -1796,7 +906,7 @@
   },
   {
     "source": "Architectural AI Governance — Willis and PBSAI",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -2051,7 +1161,7 @@
   },
   {
     "source": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
   },
   {
@@ -2111,7 +1221,7 @@
   },
   {
     "source": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
     "count": 2
   },
   {
@@ -2136,12 +1246,12 @@
   },
   {
     "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
   },
   {
     "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -2230,6 +1340,691 @@
     "count": 1
   },
   {
+    "source": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "Resources/Evidence Discipline and Epistemics",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "The Compulsion to Complete — AI as Gap-Closer",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "Embedding Before Rupture — Relational AI and Institutional Power",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "PHAROS AI and Ethics Submission — Architecture Paper",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_trusted-ai-crim",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/PHAROS/PHAROS Method — Technical Reference",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Governance Controls and Mechanisms",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "PEER-REVIEW/05_SECTION_DRAFTS/07_INTRODUCTION",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Poiesis Poietics Poetics Praxis — Making and Action Distinctions",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Resources/Recursive Governance Theory",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/PHAROS Procurement-Unblock Sprint",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "EU AI Act and Law 25 — Regulatory Pressure Window",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Service Offer Prompts — GPT-Assisted Revenue Design Templates",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Strategic Storytelling in the AI Economy",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "TPS-TVQ PHAROS",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Trust Advantage Analysis — Sales and AI Governance",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Architectural AI Governance — Willis and PBSAI",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/PHAROS Licensing Prospectus",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/PHAROS Procurement-Unblock Sprint",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Embedding Before Rupture — Relational AI and Institutional Power",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Governance by Denial",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Learning Together for Responsible AI — ISED Public Awareness WG 2022",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "NIST AI RMF 1.0 — NIST AI 100-1 (2023)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "OpenAI Governance Framework — Comparison with PHAROS",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "PHAROS Legal Classification — CAE Code Strategy",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "PHAROS LinkedIn April 2026 Publishing Routine",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "target": "Trust Advantage Analysis — Sales and AI Governance",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "target": "Areas/PHAROS/PHAROS Method — Technical Reference",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "target": "Trust Advantage Analysis — Sales and AI Governance",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Areas/PHAROS/PHAROS AI Lineage — Source of Truth",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Consent and Boundary Frameworks",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Consented Frame — Ethics and Wisdom Gate",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Governance Controls and Mechanisms",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Machine Limitation",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "RECURSO — Recursive Governance Test Archive",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Governance Stress-Test Protocols — Index",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Governed Revision Loop — Responsible Self-Improving Agents",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Machine Limitation",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Reflexive Inhabitation Audit — Prompt",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "The Compulsion to Complete — AI as Gap-Closer",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "The Lost-Loop Pattern — Avoidance Through System-Building",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "target": "Areas/PHAROS/PHAROS",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "target": "Areas/PHAROS/PHAROS AI Lineage — Source of Truth",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "target": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "target": "PHAROS Cross-AI Strategy Matrix",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "target": "PHAROS Final Voice Operator — GPT Creator",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "target": "The Blind Leading the Automated — AI Governance Failure Case Study",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "CDPDJ Complaint — Lepage v Calian and Novartis",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Custom GPT Products — PHAROS AI GPT Roster",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Governess Agatha GPT — ChatGPT Product Specification",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "HEXA Press — Publishing and Practice Initiative",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "PHAROS Final Voice Operator — GPT Creator",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Self-Polygraph Protocol and Suprametacognition",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "target": "AI Infrastructure Stack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "target": "OpenAI Governance Framework — Comparison with PHAROS",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Recursive Continuity Without Memory — AI Identity Across Sessions",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Resources/Evidence Discipline and Epistemics",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Self-Polygraph Protocol and Suprametacognition",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "target": "Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "target": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "target": "Governance by Denial",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "target": "Harrowfield Clinic — AI Governance Failure Case Study",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "target": "PEER-REVIEW/05_SECTION_DRAFTS/07_INTRODUCTION",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "target": "PHAROS Scholarly Essay — Institutional Deployment Architecture",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "target": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "target": "AI Governance Failure Cases",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "target": "Legal and Institutional Cases",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "target": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "target": "Resources/Evidence Discipline and Epistemics",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "target": "The Compulsion to Complete — AI as Gap-Closer",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Architectural AI Governance — Willis and PBSAI",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Areas/PHAROS/PHAROS Licensing Prospectus",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture",
+    "count": 2
+  },
+  {
     "source": "Areas/PHAROS/AREA",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
@@ -2238,6 +2033,76 @@
     "source": "Areas/PHAROS/AREA",
     "target": "projects/PHAROS — Fisher King Project State",
     "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Governance Controls Integration Dashboard",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 4
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/PHAROS Method — Technical Reference",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/ROOK — Session Boundary Model",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Claude Code Skill Corpus",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Media Studies and Pop Culture Analysis",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "OUTLIERS — Five Notes That Break the Architecture",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Operator-Check Skill — Burnout Cascade Interrupt",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "count": 2
   },
   {
     "source": "Areas/PHAROS/Agent Distillation Pipeline",
@@ -2251,7 +2116,7 @@
   },
   {
     "source": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -2701,13 +2566,13 @@
   },
   {
     "source": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 2
+    "target": "Agent Session Phenomenology",
+    "count": 1
   },
   {
     "source": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
-    "target": "Agent Session Phenomenology",
-    "count": 1
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 2
   },
   {
     "source": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
@@ -2886,37 +2751,7 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "AI Governance Failure Cases",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "count": 2
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
     "count": 1
   },
   {
@@ -2928,51 +2763,6 @@
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "AI Infrastructure Stack",
     "count": 2
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "count": 3
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "count": 1
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
@@ -3017,6 +2807,76 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -3192,6 +3052,11 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Areas/Writing/Academic Paper Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
     "count": 1
   },
   {
@@ -4111,6 +3976,11 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
     "count": 1
   },
@@ -4277,11 +4147,6 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "governance/global/HEPHAISTOS-STATUS",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "governance/hephaistos/AGENT_AUDIT_2026-04-23",
     "count": 1
   },
   {
@@ -4866,21 +4731,6 @@
   },
   {
     "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "target": "Agatha Grant Post-Mortem — First Assessment",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
     "target": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
     "count": 1
   },
@@ -4892,6 +4742,16 @@
   {
     "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
     "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -5051,6 +4911,11 @@
   },
   {
     "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "target": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
     "target": "archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 1
   },
@@ -5071,13 +4936,13 @@
   },
   {
     "source": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 2
+    "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "count": 1
   },
   {
     "source": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
-    "count": 1
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 2
   },
   {
     "source": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
@@ -5256,7 +5121,7 @@
   },
   {
     "source": "Areas/PHAROS/MCP and Runtime Integration MOC",
-    "target": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "target": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
     "count": 1
   },
   {
@@ -5781,12 +5646,12 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
     "count": 2
   },
   {
     "source": "Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft",
-    "target": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
     "count": 1
   },
   {
@@ -5861,7 +5726,7 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS AI Lineage — Source of Truth",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
   },
   {
@@ -5926,31 +5791,6 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "count": 2
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "target": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
     "target": "App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)",
     "count": 1
   },
@@ -5967,6 +5807,31 @@
   {
     "source": "Areas/PHAROS/PHAROS Commercial Strategy",
     "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "target": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -6206,7 +6071,7 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
     "count": 1
   },
   {
@@ -6451,12 +6316,12 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS Procurement-Unblock Sprint",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
     "count": 1
   },
   {
     "source": "Areas/PHAROS/PHAROS Procurement-Unblock Sprint",
-    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
     "count": 1
   },
   {
@@ -6566,26 +6431,6 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
-    "target": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
     "target": "APEX Papers — Research Archive Map",
     "count": 1
   },
@@ -6597,6 +6442,26 @@
   {
     "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
     "target": "Architectural AI Governance — Willis and PBSAI",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
+    "target": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Scholarly Publication Track",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -6821,13 +6686,13 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 1
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "count": 2
   },
   {
     "source": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
-    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
-    "count": 2
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 1
   },
   {
     "source": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
@@ -6991,7 +6856,7 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
     "count": 2
   },
   {
@@ -7086,13 +6951,13 @@
   },
   {
     "source": "Areas/PHAROS/ROOK — Session Boundary Model",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "count": 1
+    "target": "Agent Session Phenomenology",
+    "count": 2
   },
   {
     "source": "Areas/PHAROS/ROOK — Session Boundary Model",
-    "target": "Agent Session Phenomenology",
-    "count": 2
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "count": 1
   },
   {
     "source": "Areas/PHAROS/ROOK — Session Boundary Model",
@@ -7111,7 +6976,7 @@
   },
   {
     "source": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 2
   },
   {
@@ -7211,7 +7076,7 @@
   },
   {
     "source": "Areas/PHAROS/Second Self System — Public Voice Examples",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
   },
   {
@@ -8701,7 +8566,7 @@
   },
   {
     "source": "Areas/PHAROS/Skill Ecosystem — Professional Capability Registry",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 3
   },
   {
@@ -9266,16 +9131,6 @@
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "Agatha Grant Post-Mortem — First Assessment",
-    "count": 1
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
     "target": "Agent Logs Hub",
     "count": 1
   },
@@ -9287,6 +9142,11 @@
   {
     "source": "Areas/Personal/Personal and Projects MOC",
     "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
   },
   {
@@ -9921,6 +9781,11 @@
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
     "target": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
     "count": 1
   },
@@ -10055,8 +9920,38 @@
     "count": 1
   },
   {
+    "source": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "target": "Areas/Writing/Academic Paper Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "target": "Disability Epistemology and Institutional Critique",
+    "count": 3
+  },
+  {
+    "source": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "target": "Stuttering through the Institution — Academic Containment and Queer Knowing",
+    "count": 3
+  },
+  {
+    "source": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "target": "The Blind Leading the Automated — AI Governance Failure Case Study",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "target": "graph/nodes/unmapped/martin_lepage",
+    "count": 1
+  },
+  {
     "source": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
     "count": 2
   },
   {
@@ -10161,22 +10056,22 @@
   },
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Academic Paper Pipeline",
-    "target": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "APEX Papers — Research Archive Map",
     "count": 1
   },
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Academic Paper Pipeline",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Academic Paper Pipeline",
+    "target": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
     "count": 1
   },
   {
@@ -10456,11 +10351,6 @@
   },
   {
     "source": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
-    "target": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
     "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
     "count": 1
   },
@@ -10472,6 +10362,11 @@
   {
     "source": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
     "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
+    "target": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
     "count": 1
   },
   {
@@ -10563,6 +10458,66 @@
     "source": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
     "target": "The Ballad of the Witches' Road — Lyrics",
     "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "target": "Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "target": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
+    "count": 3
+  },
+  {
+    "source": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "target": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "target": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "target": "Media Studies and Pop Culture Analysis",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "target": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "target": "RECURSO — Final Audit and Ethical Review",
+    "count": 3
+  },
+  {
+    "source": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "target": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "target": "Resources/Recursive Governance Theory",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
+    "count": 2
   },
   {
     "source": "Areas/Writing/Alchemy of the Wound — Novel",
@@ -11006,7 +10961,7 @@
   },
   {
     "source": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
     "count": 2
   },
   {
@@ -11301,7 +11256,7 @@
   },
   {
     "source": "Areas/Writing/HENRY — Research Paper Writing System",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
   },
   {
@@ -11736,11 +11691,6 @@
   },
   {
     "source": "Areas/Writing/Manuscript Pipeline MOC",
-    "target": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Manuscript Pipeline MOC",
     "target": "Areas/PHAROS/Control Protocols MOC",
     "count": 1
   },
@@ -11772,6 +11722,11 @@
   {
     "source": "Areas/Writing/Manuscript Pipeline MOC",
     "target": "Areas/Writing/Academic Paper Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Manuscript Pipeline MOC",
+    "target": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
     "count": 1
   },
   {
@@ -11986,12 +11941,12 @@
   },
   {
     "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "APEX Papers — Research Archive Map",
     "count": 1
   },
   {
     "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
-    "target": "APEX Papers — Research Archive Map",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
   },
   {
@@ -13241,38 +13196,8 @@
   },
   {
     "source": "Areas/Writing/Research and Papers MOC",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 2
-  },
-  {
-    "source": "Areas/Writing/Research and Papers MOC",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Research and Papers MOC",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Research and Papers MOC",
-    "target": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Research and Papers MOC",
     "target": "AI Infrastructure Stack",
     "count": 1
-  },
-  {
-    "source": "Areas/Writing/Research and Papers MOC",
-    "target": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Research and Papers MOC",
-    "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "count": 2
   },
   {
     "source": "Areas/Writing/Research and Papers MOC",
@@ -13288,6 +13213,31 @@
     "source": "Areas/Writing/Research and Papers MOC",
     "target": "Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)",
     "count": 1
+  },
+  {
+    "source": "Areas/Writing/Research and Papers MOC",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Research and Papers MOC",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Research and Papers MOC",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Research and Papers MOC",
+    "target": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Research and Papers MOC",
+    "target": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "count": 2
   },
   {
     "source": "Areas/Writing/Research and Papers MOC",
@@ -13352,6 +13302,11 @@
   {
     "source": "Areas/Writing/Research and Papers MOC",
     "target": "Areas/Personal/Personal and Projects MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Research and Papers MOC",
+    "target": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
     "count": 1
   },
   {
@@ -15136,7 +15091,7 @@
   },
   {
     "source": "Areas/Writing/Version Genealogy System",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -16616,17 +16571,17 @@
   },
   {
     "source": "Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology",
-    "target": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "count": 1
-  },
-  {
-    "source": "Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology",
     "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "count": 2
   },
   {
     "source": "Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology",
     "target": "Areas/PHAROS/PHAROS Invention Disclosure",
+    "count": 1
+  },
+  {
+    "source": "Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology",
+    "target": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
     "count": 1
   },
   {
@@ -17391,7 +17346,7 @@
   },
   {
     "source": "CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -17506,12 +17461,12 @@
   },
   {
     "source": "Care, Ethics, and Governance",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
     "count": 1
   },
   {
     "source": "Care, Ethics, and Governance",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -17676,7 +17631,7 @@
   },
   {
     "source": "Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
     "count": 1
   },
   {
@@ -18026,7 +17981,7 @@
   },
   {
     "source": "Codex RIA Run — The Web as X (First Operationalization 2026-04-25)",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
   },
   {
@@ -18201,7 +18156,7 @@
   },
   {
     "source": "Consent Frameworks — Historical, Legal, Social, and AI Governance",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
     "count": 2
   },
   {
@@ -18246,27 +18201,27 @@
   },
   {
     "source": "Consent and Boundary Frameworks",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 1
-  },
-  {
-    "source": "Consent and Boundary Frameworks",
-    "target": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "count": 1
-  },
-  {
-    "source": "Consent and Boundary Frameworks",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "count": 1
-  },
-  {
-    "source": "Consent and Boundary Frameworks",
-    "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "count": 1
-  },
-  {
-    "source": "Consent and Boundary Frameworks",
     "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "count": 1
+  },
+  {
+    "source": "Consent and Boundary Frameworks",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 1
+  },
+  {
+    "source": "Consent and Boundary Frameworks",
+    "target": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "count": 1
+  },
+  {
+    "source": "Consent and Boundary Frameworks",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "count": 1
+  },
+  {
+    "source": "Consent and Boundary Frameworks",
+    "target": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
     "count": 1
   },
   {
@@ -18626,7 +18581,7 @@
   },
   {
     "source": "Custom GPT Products — PHAROS AI GPT Roster",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 5
   },
   {
@@ -18751,7 +18706,7 @@
   },
   {
     "source": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
     "count": 1
   },
   {
@@ -19146,7 +19101,7 @@
   },
   {
     "source": "Disability Epistemology and Institutional Critique",
-    "target": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "target": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
     "count": 1
   },
   {
@@ -19321,13 +19276,13 @@
   },
   {
     "source": "Documents Root Intake — Hermes Action Map 2026-04-28",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 4
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "count": 3
   },
   {
     "source": "Documents Root Intake — Hermes Action Map 2026-04-28",
-    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 3
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 4
   },
   {
     "source": "Documents Root Intake — Hermes Action Map 2026-04-28",
@@ -19481,11 +19436,6 @@
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 1
-  },
-  {
-    "source": "Documents Root Loose Files Intake — 2026-04-28",
     "target": "APEX Papers — Research Archive Map",
     "count": 1
   },
@@ -19493,6 +19443,11 @@
     "source": "Documents Root Loose Files Intake — 2026-04-28",
     "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 3
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
@@ -19751,12 +19706,12 @@
   },
   {
     "source": "Documents and Downloads Coverage Matrix — 2026-05-06",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
     "count": 1
   },
   {
     "source": "Documents and Downloads Coverage Matrix — 2026-05-06",
-    "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
     "count": 1
   },
   {
@@ -20181,21 +20136,6 @@
   },
   {
     "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 3
-  },
-  {
-    "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "count": 1
-  },
-  {
-    "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
-    "count": 2
-  },
-  {
-    "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
     "target": "AI Identity and Phenomenology",
     "count": 1
   },
@@ -20206,22 +20146,32 @@
   },
   {
     "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
-    "target": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "count": 1
-  },
-  {
-    "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
     "target": "Agent Session Phenomenology",
     "count": 2
   },
   {
     "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
     "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 3
+  },
+  {
+    "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "count": 2
+  },
+  {
+    "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
   },
   {
@@ -20253,6 +20203,11 @@
     "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
     "target": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 4
+  },
+  {
+    "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
+    "target": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "count": 1
   },
   {
     "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
@@ -20796,12 +20751,12 @@
   },
   {
     "source": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 2
   },
   {
     "source": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
-    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
     "count": 2
   },
   {
@@ -21266,12 +21221,12 @@
   },
   {
     "source": "Fluency and Interruption Theory",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
     "count": 1
   },
   {
     "source": "Fluency and Interruption Theory",
-    "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -22171,7 +22126,7 @@
   },
   {
     "source": "Global Publication Search — PHAROS Method and Variants",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 2
   },
   {
@@ -22206,27 +22161,7 @@
   },
   {
     "source": "Governance Controls and Mechanisms",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls and Mechanisms",
-    "target": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls and Mechanisms",
     "target": "AI Infrastructure Stack",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls and Mechanisms",
-    "target": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls and Mechanisms",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -22242,6 +22177,26 @@
   {
     "source": "Governance Controls and Mechanisms",
     "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "count": 1
+  },
+  {
+    "source": "Governance Controls and Mechanisms",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 1
+  },
+  {
+    "source": "Governance Controls and Mechanisms",
+    "target": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "count": 1
+  },
+  {
+    "source": "Governance Controls and Mechanisms",
+    "target": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "count": 1
+  },
+  {
+    "source": "Governance Controls and Mechanisms",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -22696,7 +22651,7 @@
   },
   {
     "source": "Governance and Platform Signals Memo — 2026-05-14",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
     "count": 2
   },
   {
@@ -22826,12 +22781,12 @@
   },
   {
     "source": "Governed Revision Loop — Responsible Self-Improving Agents",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
     "count": 1
   },
   {
     "source": "Governed Revision Loop — Responsible Self-Improving Agents",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -22896,7 +22851,7 @@
   },
   {
     "source": "Governess Agatha GPT — ChatGPT Product Specification",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 3
   },
   {
@@ -23241,13 +23196,13 @@
   },
   {
     "source": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "count": 1
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "count": 2
   },
   {
     "source": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
-    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 2
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "count": 1
   },
   {
     "source": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
@@ -23721,7 +23676,7 @@
   },
   {
     "source": "Henry GPT — Peer Reviewer ChatGPT Product Specification",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
   },
   {
@@ -23896,37 +23851,12 @@
   },
   {
     "source": "Home",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "AI Identity and Phenomenology",
     "count": 1
   },
   {
     "source": "Home",
     "target": "AI Infrastructure Stack",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
     "count": 1
   },
   {
@@ -23952,6 +23882,26 @@
   {
     "source": "Home",
     "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -24062,6 +24012,11 @@
   {
     "source": "Home",
     "target": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
     "count": 1
   },
   {
@@ -25266,12 +25221,12 @@
   },
   {
     "source": "InfraFabric Codex Alignment — System-Shaper Frame",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
     "count": 1
   },
   {
     "source": "InfraFabric Codex Alignment — System-Shaper Frame",
-    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -26206,7 +26161,7 @@
   },
   {
     "source": "Legal and Institutional Cases",
-    "target": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "target": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
     "count": 1
   },
   {
@@ -26871,7 +26826,7 @@
   },
   {
     "source": "Loop Hinge Candidate — This Paper May Not Exist",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 2
   },
   {
@@ -27051,11 +27006,6 @@
   },
   {
     "source": "MASTER PACK — D Drive Archive Map",
-    "target": "Agatha Grant Post-Mortem — First Assessment",
-    "count": 1
-  },
-  {
-    "source": "MASTER PACK — D Drive Archive Map",
     "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
     "count": 1
   },
@@ -27098,6 +27048,11 @@
     "source": "MASTER PACK — D Drive Archive Map",
     "target": "RECURSO — Recursive Governance Test Archive",
     "count": 2
+  },
+  {
+    "source": "MASTER PACK — D Drive Archive Map",
+    "target": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "count": 1
   },
   {
     "source": "MASTERxMASTERxMASTER — Skill Corpus Map",
@@ -27171,18 +27126,18 @@
   },
   {
     "source": "Machine Limitation",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Architectural AI Governance — Willis and PBSAI",
+    "count": 2
+  },
+  {
+    "source": "Machine Limitation",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 3
   },
   {
     "source": "Machine Limitation",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
     "count": 1
-  },
-  {
-    "source": "Machine Limitation",
-    "target": "Architectural AI Governance — Willis and PBSAI",
-    "count": 2
   },
   {
     "source": "Machine Limitation",
@@ -27336,12 +27291,12 @@
   },
   {
     "source": "Martin Lepage Professional Identity",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
     "source": "Martin Lepage Professional Identity",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -27706,7 +27661,7 @@
   },
   {
     "source": "Martin Lepage — Adjacent Skill Ring",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -27806,7 +27761,7 @@
   },
   {
     "source": "Martin Lepage — Authored Skills",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -29026,7 +28981,7 @@
   },
   {
     "source": "NIST AI RMF 1.0 — NIST AI 100-1 (2023)",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 2
   },
   {
@@ -29081,22 +29036,22 @@
   },
   {
     "source": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 1
-  },
-  {
-    "source": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
     "target": "AI Governance Failure Cases",
     "count": 2
   },
   {
     "source": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
     "source": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
-    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 1
+  },
+  {
+    "source": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
   },
   {
@@ -29606,7 +29561,7 @@
   },
   {
     "source": "OPEN RISKS — Three Governance Blindspots Requiring Recursive Control",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -29666,17 +29621,17 @@
   },
   {
     "source": "OUTLIERS — Five Notes That Break the Architecture",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "count": 1
-  },
-  {
-    "source": "OUTLIERS — Five Notes That Break the Architecture",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "count": 1
-  },
-  {
-    "source": "OUTLIERS — Five Notes That Break the Architecture",
     "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "count": 1
+  },
+  {
+    "source": "OUTLIERS — Five Notes That Break the Architecture",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "count": 1
+  },
+  {
+    "source": "OUTLIERS — Five Notes That Break the Architecture",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -30031,12 +29986,12 @@
   },
   {
     "source": "OpenAI Governance Framework — Comparison with PHAROS",
-    "target": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "target": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
     "count": 1
   },
   {
     "source": "OpenAI Governance Framework — Comparison with PHAROS",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 2
   },
   {
@@ -30636,7 +30591,7 @@
   },
   {
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
   },
   {
@@ -30901,12 +30856,12 @@
   },
   {
     "source": "PHAROS AI Governance Service — Offer Architecture and Outreach Templates",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
     "count": 2
   },
   {
     "source": "PHAROS AI Governance Service — Offer Architecture and Outreach Templates",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
     "count": 1
   },
   {
@@ -31051,12 +31006,12 @@
   },
   {
     "source": "PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
+    "target": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
     "count": 2
   },
   {
     "source": "PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)",
-    "target": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
     "count": 2
   },
   {
@@ -31116,12 +31071,12 @@
   },
   {
     "source": "PHAROS Cross-AI Strategy Matrix",
-    "target": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "target": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
     "count": 2
   },
   {
     "source": "PHAROS Cross-AI Strategy Matrix",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 2
   },
   {
@@ -31186,7 +31141,7 @@
   },
   {
     "source": "PHAROS Final Voice Operator — GPT Creator",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
   },
   {
@@ -31226,11 +31181,6 @@
   },
   {
     "source": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 2
-  },
-  {
-    "source": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
     "target": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
     "count": 1
   },
@@ -31238,6 +31188,11 @@
     "source": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
     "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 1
+  },
+  {
+    "source": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 2
   },
   {
     "source": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
@@ -31391,7 +31346,7 @@
   },
   {
     "source": "PHAROS LinkedIn April 2026 Publishing Routine",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
     "count": 1
   },
   {
@@ -31771,18 +31726,18 @@
   },
   {
     "source": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "count": 1
-  },
-  {
-    "source": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
-    "count": 2
-  },
-  {
-    "source": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
     "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 1
+  },
+  {
+    "source": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "count": 2
   },
   {
     "source": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
@@ -31856,7 +31811,7 @@
   },
   {
     "source": "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 6
   },
   {
@@ -32281,7 +32236,7 @@
   },
   {
     "source": "Patent Research — Prior-Art Search and Free Tools",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
     "count": 1
   },
   {
@@ -32501,7 +32456,7 @@
   },
   {
     "source": "Poiesis Poietics Poetics Praxis — Making and Action Distinctions",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
     "count": 2
   },
   {
@@ -32546,7 +32501,7 @@
   },
   {
     "source": "Posture vs Execution Drift — The Practice of Refusal",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
   },
   {
@@ -33206,7 +33161,7 @@
   },
   {
     "source": "Queer Theory Foundations",
-    "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "target": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
     "count": 1
   },
   {
@@ -33996,11 +33951,6 @@
   },
   {
     "source": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
-    "target": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "count": 1
-  },
-  {
-    "source": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
     "target": "Areas/PHAROS/PHAROS Invention Disclosure",
     "count": 2
   },
@@ -34008,6 +33958,11 @@
     "source": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
     "target": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
     "count": 2
+  },
+  {
+    "source": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
+    "target": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "count": 1
   },
   {
     "source": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
@@ -34326,7 +34281,7 @@
   },
   {
     "source": "Recursive Continuity Without Memory — AI Identity Across Sessions",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
     "count": 2
   },
   {
@@ -34371,7 +34326,7 @@
   },
   {
     "source": "Recursive Entry Structure — Song Corpus to Governance Prompt",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
   },
   {
@@ -34586,7 +34541,7 @@
   },
   {
     "source": "Reflexive Inhabitation Audit — Prompt",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
   },
   {
@@ -34651,11 +34606,6 @@
   },
   {
     "source": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
-    "target": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "count": 1
-  },
-  {
-    "source": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
   },
@@ -34678,6 +34628,11 @@
     "source": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
     "target": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
     "count": 2
+  },
+  {
+    "source": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
+    "target": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "count": 1
   },
   {
     "source": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
@@ -34811,11 +34766,6 @@
   },
   {
     "source": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
-    "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "count": 3
-  },
-  {
-    "source": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
     "target": "Anti-Charm",
     "count": 2
   },
@@ -34823,6 +34773,11 @@
     "source": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
     "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 2
+  },
+  {
+    "source": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
+    "target": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "count": 3
   },
   {
     "source": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
@@ -34941,12 +34896,12 @@
   },
   {
     "source": "Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
-    "target": "AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
     "count": 1
   },
   {
     "source": "Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
-    "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "target": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
     "count": 2
   },
   {
@@ -35121,32 +35076,12 @@
   },
   {
     "source": "Resources/Evidence Discipline and Epistemics",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 1
-  },
-  {
-    "source": "Resources/Evidence Discipline and Epistemics",
     "target": "AI Governance Failure Cases",
     "count": 1
   },
   {
     "source": "Resources/Evidence Discipline and Epistemics",
     "target": "AI Infrastructure Stack",
-    "count": 1
-  },
-  {
-    "source": "Resources/Evidence Discipline and Epistemics",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "count": 1
-  },
-  {
-    "source": "Resources/Evidence Discipline and Epistemics",
-    "target": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "count": 1
-  },
-  {
-    "source": "Resources/Evidence Discipline and Epistemics",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -35162,6 +35097,26 @@
   {
     "source": "Resources/Evidence Discipline and Epistemics",
     "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
+    "count": 1
+  },
+  {
+    "source": "Resources/Evidence Discipline and Epistemics",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 1
+  },
+  {
+    "source": "Resources/Evidence Discipline and Epistemics",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "count": 1
+  },
+  {
+    "source": "Resources/Evidence Discipline and Epistemics",
+    "target": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "count": 1
+  },
+  {
+    "source": "Resources/Evidence Discipline and Epistemics",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -35706,7 +35661,7 @@
   },
   {
     "source": "Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -35761,12 +35716,12 @@
   },
   {
     "source": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Agent Session Phenomenology",
     "count": 1
   },
   {
     "source": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
-    "target": "Agent Session Phenomenology",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
     "count": 1
   },
   {
@@ -35856,11 +35811,6 @@
   },
   {
     "source": "Resources/Recursive Governance Theory",
-    "target": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "count": 1
-  },
-  {
-    "source": "Resources/Recursive Governance Theory",
     "target": "AI Infrastructure Stack",
     "count": 1
   },
@@ -35872,6 +35822,11 @@
   {
     "source": "Resources/Recursive Governance Theory",
     "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "count": 1
+  },
+  {
+    "source": "Resources/Recursive Governance Theory",
+    "target": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
     "count": 1
   },
   {
@@ -36191,12 +36146,12 @@
   },
   {
     "source": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
   },
   {
     "source": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
     "count": 1
   },
   {
@@ -36661,12 +36616,12 @@
   },
   {
     "source": "Sales Objection Handling — Diagnosing Fog Without Coercion",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
     "count": 1
   },
   {
     "source": "Sales Objection Handling — Diagnosing Fog Without Coercion",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
     "count": 1
   },
   {
@@ -36801,7 +36756,7 @@
   },
   {
     "source": "Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
     "count": 2
   },
   {
@@ -36866,7 +36821,7 @@
   },
   {
     "source": "Self-Polygraph Protocol and Suprametacognition",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
     "count": 2
   },
   {
@@ -37031,7 +36986,7 @@
   },
   {
     "source": "Service Offer Prompts — GPT-Assisted Revenue Design Templates",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
     "count": 1
   },
   {
@@ -37146,7 +37101,7 @@
   },
   {
     "source": "Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 2
   },
   {
@@ -37211,7 +37166,7 @@
   },
   {
     "source": "Skill Domain — Agent Architecture",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 2
   },
   {
@@ -37256,7 +37211,7 @@
   },
   {
     "source": "Skill Domain — Agent Architecture",
-    "target": "governance/hephaistos/AGENT_AUDIT_2026-04-23",
+    "target": "archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23",
     "count": 1
   },
   {
@@ -38036,7 +37991,7 @@
   },
   {
     "source": "Skill Domain — Skill Architecture",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 2
   },
   {
@@ -38226,7 +38181,7 @@
   },
   {
     "source": "Skill Domain — Writing and Humanization",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
     "count": 1
   },
   {
@@ -38406,12 +38361,12 @@
   },
   {
     "source": "Slayer Recursion Protocol — README and Repositioning",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 2
   },
   {
     "source": "Slayer Recursion Protocol — README and Repositioning",
-    "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "target": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
     "count": 1
   },
   {
@@ -38451,7 +38406,7 @@
   },
   {
     "source": "Smallest Building Block — Relation as Rule",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
     "count": 1
   },
   {
@@ -38856,12 +38811,12 @@
   },
   {
     "source": "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
-    "target": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "count": 1
   },
   {
     "source": "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "target": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
     "count": 1
   },
   {
@@ -38906,12 +38861,12 @@
   },
   {
     "source": "Stacklight-owner-explainer",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "AI Infrastructure Stack",
     "count": 1
   },
   {
     "source": "Stacklight-owner-explainer",
-    "target": "AI Infrastructure Stack",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
     "count": 1
   },
   {
@@ -39046,7 +39001,7 @@
   },
   {
     "source": "Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
     "count": 1
   },
   {
@@ -39156,7 +39111,7 @@
   },
   {
     "source": "Supersession Registry",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -39261,7 +39216,7 @@
   },
   {
     "source": "TPS-TVQ PHAROS",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
     "count": 1
   },
   {
@@ -39366,7 +39321,7 @@
   },
   {
     "source": "The Blind Leading the Automated — AI Governance Failure Case Study",
-    "target": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "target": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
     "count": 1
   },
   {
@@ -39581,7 +39536,7 @@
   },
   {
     "source": "The Compulsion to Complete — AI as Gap-Closer",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
   },
   {
@@ -39786,7 +39741,7 @@
   },
   {
     "source": "The Lost-Loop Pattern — Avoidance Through System-Building",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 3
   },
   {
@@ -39906,7 +39861,7 @@
   },
   {
     "source": "The Palace Under Root — Allegory and the Keyport Novel",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 2
   },
   {
@@ -39996,7 +39951,7 @@
   },
   {
     "source": "The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
   },
   {
@@ -40291,7 +40246,7 @@
   },
   {
     "source": "Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
     "count": 1
   },
   {
@@ -40416,13 +40371,13 @@
   },
   {
     "source": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
-    "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE",
-    "count": 1
+    "target": "archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23",
+    "count": 2
   },
   {
     "source": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
-    "target": "governance/hephaistos/AGENT_AUDIT_2026-04-23",
-    "count": 2
+    "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE",
+    "count": 1
   },
   {
     "source": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
@@ -40566,17 +40521,17 @@
   },
   {
     "source": "Trust Advantage Analysis — Sales and AI Governance",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
     "count": 2
   },
   {
     "source": "Trust Advantage Analysis — Sales and AI Governance",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
     "count": 1
   },
   {
     "source": "Trust Advantage Analysis — Sales and AI Governance",
-    "target": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "target": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
     "count": 1
   },
   {
@@ -40851,11 +40806,6 @@
   },
   {
     "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "Agatha Grant Post-Mortem — First Assessment",
-    "count": 2
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 4
   },
@@ -41051,6 +41001,11 @@
   },
   {
     "source": "Vault Deep Linking Pass — 2026-05-06",
+    "target": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "count": 2
+  },
+  {
+    "source": "Vault Deep Linking Pass — 2026-05-06",
     "target": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
     "count": 2
   },
@@ -41086,7 +41041,7 @@
   },
   {
     "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
     "count": 1
   },
   {
@@ -41576,7 +41531,7 @@
   },
   {
     "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
     "count": 1
   },
   {
@@ -41946,12 +41901,12 @@
   },
   {
     "source": "Vault Topic Coverage Matrix — 2026-05-06",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "AI Infrastructure Stack",
     "count": 1
   },
   {
     "source": "Vault Topic Coverage Matrix — 2026-05-06",
-    "target": "AI Infrastructure Stack",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
     "count": 1
   },
   {
@@ -42421,7 +42376,7 @@
   },
   {
     "source": "Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
     "count": 3
   },
   {
@@ -43991,33 +43946,8 @@
   },
   {
     "source": "archive/session-state/session-state-001",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 2
-  },
-  {
-    "source": "archive/session-state/session-state-001",
-    "target": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-001",
     "target": "AI Identity and Phenomenology",
     "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-001",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-001",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-001",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "count": 2
   },
   {
     "source": "archive/session-state/session-state-001",
@@ -44033,6 +43963,31 @@
     "source": "archive/session-state/session-state-001",
     "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-001",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "count": 2
+  },
+  {
+    "source": "archive/session-state/session-state-001",
+    "target": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-001",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-001",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-001",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "count": 2
   },
   {
     "source": "archive/session-state/session-state-001",
@@ -44796,17 +44751,12 @@
   },
   {
     "source": "archive/session-state/session-state-002",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-002",
-    "target": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-002",
     "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-002",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
     "count": 1
   },
   {
@@ -44838,6 +44788,11 @@
     "source": "archive/session-state/session-state-002",
     "target": "Areas/Personal/Personal and Projects MOC",
     "count": 5
+  },
+  {
+    "source": "archive/session-state/session-state-002",
+    "target": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "count": 1
   },
   {
     "source": "archive/session-state/session-state-002",
@@ -45026,23 +44981,8 @@
   },
   {
     "source": "archive/session-state/session-state-003",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-003",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
-    "count": 2
-  },
-  {
-    "source": "archive/session-state/session-state-003",
     "target": "AI Infrastructure Stack",
     "count": 5
-  },
-  {
-    "source": "archive/session-state/session-state-003",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
   },
   {
     "source": "archive/session-state/session-state-003",
@@ -45077,6 +45017,21 @@
   {
     "source": "archive/session-state/session-state-003",
     "target": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-003",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-003",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "count": 2
+  },
+  {
+    "source": "archive/session-state/session-state-003",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
   },
   {
@@ -45690,6 +45645,51 @@
     "count": 1
   },
   {
+    "source": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "target": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
+    "count": 4
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "target": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "target": "Brutal Isms — Art Grant Proposal",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "target": "CDPDJ Complaint — Lepage v Calian and Novartis",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "target": "MASTER PACK — D Drive Archive Map",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "target": "Social Compass Reviewer Response — Wicca and Agatha All Along",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23",
+    "target": "governance/hephaistos/AGENT_AUDIT_2026-04-23",
+    "count": 1
+  },
+  {
     "source": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
     "target": "L99 PHAROS Migration Artifacts 2026-04-19",
     "count": 1
@@ -46091,7 +46091,7 @@
   },
   {
     "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 2
   },
   {
@@ -47161,81 +47161,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "Agatha Grant Post-Mortem — First Assessment",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
     "target": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
     "count": 1
   },
@@ -47282,6 +47207,71 @@
   {
     "source": "artifacts/stale-projects-2026-07-04",
     "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -47472,6 +47462,11 @@
   {
     "source": "artifacts/stale-projects-2026-07-04",
     "target": "Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
     "count": 1
   },
   {
@@ -49186,6 +49181,16 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
+    "target": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
     "target": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
     "count": 1
   },
@@ -49232,11 +49237,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-04",
     "target": "genealogy/test",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "governance/hephaistos/AGENT_AUDIT_2026-04-23",
     "count": 1
   },
   {
@@ -49291,81 +49291,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "Agatha Grant Post-Mortem — First Assessment",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
     "target": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
     "count": 1
   },
@@ -49412,6 +49337,71 @@
   {
     "source": "artifacts/stale-projects-2026-07-05",
     "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -49602,6 +49592,11 @@
   {
     "source": "artifacts/stale-projects-2026-07-05",
     "target": "Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
     "count": 1
   },
   {
@@ -51302,6 +51297,16 @@
   {
     "source": "artifacts/stale-projects-2026-07-05",
     "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23",
     "count": 1
   },
   {
@@ -51356,11 +51361,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
-    "target": "governance/hephaistos/AGENT_AUDIT_2026-04-23",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
     "target": "graph/nodes/unmapped/emerauld_vault",
     "count": 1
   },
@@ -51402,81 +51402,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-05",
     "target": "voice11 — ElevenLabs TTS Pipeline",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "Agatha Grant Post-Mortem — First Assessment",
     "count": 1
   },
   {
@@ -51527,6 +51452,71 @@
   {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -51717,6 +51707,11 @@
   {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
     "count": 1
   },
   {
@@ -53426,6 +53421,16 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-06",
+    "target": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
     "target": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
     "count": 1
   },
@@ -53472,11 +53477,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "genealogy/test",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "governance/hephaistos/AGENT_AUDIT_2026-04-23",
     "count": 1
   },
   {
@@ -53531,81 +53531,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI Ethics Literature — Contestable Governance Artifacts",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI Governance Manifesto — Upstream Institutional Practice",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI Governance Sprint — One-Page Sellable Packet",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "Agatha Grant Post-Mortem — First Assessment",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
     "target": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
     "count": 1
   },
@@ -53652,6 +53577,71 @@
   {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -53842,6 +53832,11 @@
   {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
     "count": 1
   },
   {
@@ -55546,6 +55541,16 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
+    "target": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
     "target": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
     "count": 1
   },
@@ -55592,11 +55597,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "genealogy/test",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "governance/hephaistos/AGENT_AUDIT_2026-04-23",
     "count": 1
   },
   {
@@ -55931,7 +55931,7 @@
   },
   {
     "source": "genealogy/Martin Voice Spec — Stage Map",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
   },
   {
@@ -58276,11 +58276,6 @@
   },
   {
     "source": "maps/PHAROS Method Map",
-    "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "count": 1
-  },
-  {
-    "source": "maps/PHAROS Method Map",
     "target": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
     "count": 1
   },
@@ -58302,6 +58297,11 @@
   {
     "source": "maps/PHAROS Method Map",
     "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "count": 1
+  },
+  {
+    "source": "maps/PHAROS Method Map",
+    "target": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
   {
@@ -58536,11 +58536,6 @@
   },
   {
     "source": "maps/Queer Media and Ritual Map",
-    "target": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "count": 1
-  },
-  {
-    "source": "maps/Queer Media and Ritual Map",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
   },
@@ -58552,6 +58547,11 @@
   {
     "source": "maps/Queer Media and Ritual Map",
     "target": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
+    "count": 1
+  },
+  {
+    "source": "maps/Queer Media and Ritual Map",
+    "target": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
     "count": 1
   },
   {
@@ -60156,7 +60156,7 @@
   },
   {
     "source": "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_trusted-ai-crim",
-    "target": "AI Governance Course — Ethics, Failure Modes, and Practice",
+    "target": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
     "count": 1
   },
   {
@@ -60321,12 +60321,12 @@
   },
   {
     "source": "memory/daily/2026-04-28",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
     "source": "memory/daily/2026-04-28",
-    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
     "count": 1
   },
   {
@@ -60591,7 +60591,7 @@
   },
   {
     "source": "memory/daily/2026-05-11",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
     "count": 1
   },
   {
@@ -64801,7 +64801,7 @@
   },
   {
     "source": "skills/philosopher",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "target": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
   {
@@ -65521,7 +65521,7 @@
   },
   {
     "source": "voice11 — ElevenLabs TTS Pipeline",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "target": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 2
   },
   {

@@ -28,8 +28,8 @@ canonical_path: wiki/PHAROS Final Voice Operator — GPT Creator.md
 backlink_count: 17
 backlinks:
 - '[[.github/agents/gadget.agent]]'
-- '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
-- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'

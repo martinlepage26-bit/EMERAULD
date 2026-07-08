@@ -21,7 +21,7 @@ canonical_path: wiki/Claude Code Skill Corpus.md
 backlink_count: 40
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'

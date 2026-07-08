@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_trusted-ai-crim.md
 backlink_count: 2
 backlinks:
-- '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
+- '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 source_url: https://www.crim.ca/en/ia-de-confiance/
 date: '2026-05-05'

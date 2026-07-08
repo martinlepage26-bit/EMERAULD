@@ -25,7 +25,7 @@ canonical_path: Areas/PHAROS/ROOK — Session Boundary Model.md
 backlink_count: 19
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Agent Session Phenomenology]]'
 - '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

@@ -1,6 +1,6 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:37:23Z
+Built: 2026-07-08T05:37:24Z
 Corpus: wiki/**/*.md
 
 ## Summary
@@ -11,28 +11,27 @@ Corpus: wiki/**/*.md
 - Unresolved wikilinks: 3193
 - Connected components: 46
 - Largest component: 1361
-- Zero-backlink notes: 67
+- Zero-backlink notes: 66
 - One-backlink notes: 167
 - Two-backlink notes: 366
 
 ## Backlink Histogram
 
-- 0: 67
+- 0: 66
 - 1: 167
 - 101+: 28
-- 11-20: 200
+- 11-20: 199
 - 2: 366
 - 21-50: 151
-- 3-4: 167
+- 3-4: 168
 - 5-6: 67
 - 51-100: 43
-- 7-10: 159
+- 7-10: 160
 
 ## Low-Backlink Notes
 
-### Zero backlink (67)
+### Zero backlink (66)
 - [[ASSETS MOC]]
-- [[Agent Ecosystem Audit — 2026-04-23]]
 - [[Areas/PHAROS/AREA]]
 - [[Areas/Personal/AREA]]
 - [[Areas/Writing/AREA]]
@@ -374,9 +373,9 @@ Corpus: wiki/**/*.md
 - `path`: 4
 - `HELIX test Epstein`: 3
 - `HELIX test CC`: 3
-- `BOWIE-DUE`: 3
-- `Recursive Governance Packet Header`: 3
-- `if.whitepapers.bible (v4.23)`: 3
-- `if.infrafabric A Miniseries in Seven Parts`: 3
+- `2015 - policy_or_guidance [3`: 3
+- `2015 - policy_or_guidance [4`: 3
+- `Literature Review From the Politics of Visibility to the Politics of Voice in AI Governance`: 3
 - `FIRST DRAFT`: 3
-- `Argus Audit Tracker — Snapshot 2026-04-28`: 3
+- `2026-04-18_anthropic-openclaw-platform-dependence-and-narrative-capture`: 3
+- `BOWIE-DUE`: 3

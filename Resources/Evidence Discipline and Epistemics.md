@@ -24,11 +24,11 @@ vault_area: Resources
 canonical_path: Resources/Evidence Discipline and Epistemics.md
 backlink_count: 57
 backlinks:
-- '[[wiki/AI Ethics Literature — Contestable Governance Artifacts]]'
+- '[[Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts]]'
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
-- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
+- '[[Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
+- '[[Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Anti-Charm]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'

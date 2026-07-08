@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/Strategic Storytelling in the AI Economy.md
 backlink_count: 9
 backlinks:
-- '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
+- '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'

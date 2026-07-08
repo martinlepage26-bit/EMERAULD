@@ -5,7 +5,6 @@ aliases:
 - Contestable governance artifacts
 - AI ethics operationalization literature
 - AI safety claims as governance artifacts
-- wiki/AI Ethics Literature — Contestable Governance Artifacts
 tags:
 - ai-ethics
 - literature-review
@@ -13,7 +12,7 @@ tags:
 - pharos
 - accountability
 - auditing
-- wiki
+- areas
 - ai-ethics-literature-contestable-governance-artifacts-md
 - contestable
 - attractive
@@ -24,17 +23,15 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Ethics Literature — Contestable Governance Artifacts.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts.md
 backlink_count: 16
 backlinks:
-- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
-- '[[wiki/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
-- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
-  (2026)]]'
+- '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
+- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
-  Explanation)]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'

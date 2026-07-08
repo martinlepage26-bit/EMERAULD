@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/Consented Frame — Ethics and Wisdom Gate.md
 backlink_count: 8
 backlinks:
-- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[wiki/Anti-Charm]]'
 - '[[wiki/Claude Code Skill Corpus]]'
 - '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'

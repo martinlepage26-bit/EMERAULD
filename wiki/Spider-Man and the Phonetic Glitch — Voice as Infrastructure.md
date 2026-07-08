@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure.md
 backlink_count: 20
 backlinks:
-- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/Buffy Slayer Studies]]'

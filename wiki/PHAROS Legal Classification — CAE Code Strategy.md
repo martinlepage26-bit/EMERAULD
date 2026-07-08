@@ -22,7 +22,7 @@ vault_area: wiki
 canonical_path: wiki/PHAROS Legal Classification — CAE Code Strategy.md
 backlink_count: 10
 backlinks:
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Legal and Institutional Cases]]'

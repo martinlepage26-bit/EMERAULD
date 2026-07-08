@@ -28,7 +28,7 @@ canonical_path: wiki/MASTER PACK — D Drive Archive Map.md
 backlink_count: 6
 backlinks:
 - '[[wiki/APEX Papers — Research Archive Map]]'
-- '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'

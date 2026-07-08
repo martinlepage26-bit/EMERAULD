@@ -21,10 +21,10 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture.md
 backlink_count: 31
 backlinks:
-- '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
-- '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
-- '[[wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
-- '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
+- '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
+- '[[Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
+- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'
 - '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'

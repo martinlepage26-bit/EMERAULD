@@ -31,8 +31,8 @@ canonical_path: wiki/The Blind Leading the Automated — AI Governance Failure C
 backlink_count: 8
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
-- '[[wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
+- '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

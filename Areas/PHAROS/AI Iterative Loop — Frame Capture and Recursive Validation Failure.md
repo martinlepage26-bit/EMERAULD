@@ -5,7 +5,6 @@ aliases:
 - Loop frame capture
 - Recursive validation failure
 - AI loop epistemic limits
-- wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure
 tags:
 - ai-epistemics
 - machine-limitation
@@ -13,7 +12,7 @@ tags:
 - loop
 - recursive-validation
 - frame-capture
-- wiki
+- areas
 - ai-iterative-loop-frame-capture-and-recursive-validation-failure-md
 - output
 - economics
@@ -23,13 +22,13 @@ tags:
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md
 backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
-- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Machine Limitation]]'

@@ -3,9 +3,8 @@ type: wiki
 title: AI Governance Course — Ethics, Failure Modes, and Practice
 aliases:
 - AI Governance Course — Ethics, Failure Modes, and Practice
-- wiki/AI Governance Course — Ethics, Failure Modes, and Practice
 tags:
-- wiki
+- areas
 - governance
 - ai
 - ai-governance-course-ethics-failure-modes-and-practice-md
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Governance Course — Ethics, Failure Modes, and Practice.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice.md
 backlink_count: 5
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'

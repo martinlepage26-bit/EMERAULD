@@ -20,7 +20,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle.md
 backlink_count: 19
 backlinks:
-- '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
+- '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'

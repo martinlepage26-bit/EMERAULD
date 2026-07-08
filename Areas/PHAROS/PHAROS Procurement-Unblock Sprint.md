@@ -21,8 +21,8 @@ canonical_path: Areas/PHAROS/PHAROS Procurement-Unblock Sprint.md
 backlink_count: 57
 backlinks:
 - '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
-- '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'

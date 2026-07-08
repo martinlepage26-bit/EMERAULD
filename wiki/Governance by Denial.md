@@ -22,8 +22,8 @@ canonical_path: wiki/Governance by Denial.md
 backlink_count: 67
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
-- '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
 - '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
   of Interruption]]'

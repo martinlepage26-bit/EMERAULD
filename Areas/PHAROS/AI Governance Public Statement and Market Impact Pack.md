@@ -3,7 +3,6 @@ type: note
 title: AI Governance Public Statement and Market Impact Pack
 aliases:
 - AI Governance Public Statement and Market Impact Pack
-- wiki/AI Governance Public Statement and Market Impact Pack
 tags:
 - ai-governance
 - pharos
@@ -11,7 +10,7 @@ tags:
 - public-statement
 - compliance
 - note
-- wiki
+- areas
 - ai-governance-public-statement-and-market-impact-pack-md
 - public
 - loose
@@ -21,11 +20,11 @@ tags:
 status: active
 created: '2026-04-28'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Governance Public Statement and Market Impact Pack.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AI Governance Public Statement and Market Impact Pack.md
 backlink_count: 25
 backlinks:
-- '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
+- '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'

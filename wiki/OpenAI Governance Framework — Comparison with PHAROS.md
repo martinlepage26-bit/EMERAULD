@@ -24,8 +24,8 @@ canonical_path: wiki/OpenAI Governance Framework — Comparison with PHAROS.md
 backlink_count: 8
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
-- '[[wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'

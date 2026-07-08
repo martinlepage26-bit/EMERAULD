@@ -20,7 +20,7 @@ vault_area: tmp
 canonical_path: tmp/drive-audit-2026-04-18/summary.md
 backlink_count: 2
 backlinks:
-- '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 ---
 

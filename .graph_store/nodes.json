@@ -14,36 +14,6 @@
     "backlinks": 4
   },
   {
-    "id": "AI Ethics Literature — Contestable Governance Artifacts",
-    "title": "AI Ethics Literature — Contestable Governance Artifacts",
-    "path": "wiki/AI Ethics Literature — Contestable Governance Artifacts.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI ethics operationalization literature",
-      "AI safety claims as governance artifacts",
-      "Contestable governance artifacts",
-      "wiki/AI Ethics Literature — Contestable Governance Artifacts"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 7,
-    "backlinks": 25
-  },
-  {
-    "id": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "title": "AI Governance Course — Ethics, Failure Modes, and Practice",
-    "path": "wiki/AI Governance Course — Ethics, Failure Modes, and Practice.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Governance Course — Ethics, Failure Modes, and Practice",
-      "wiki/AI Governance Course — Ethics, Failure Modes, and Practice"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 9,
-    "backlinks": 9
-  },
-  {
     "id": "AI Governance Failure Cases",
     "title": "AI Governance Failure Cases",
     "path": "wiki/AI Governance Failure Cases.md",
@@ -56,82 +26,6 @@
     "outlinks": 28,
     "unique_outlinks": 28,
     "backlinks": 18
-  },
-  {
-    "id": "AI Governance Manifesto — Upstream Institutional Practice",
-    "title": "AI Governance Manifesto — Upstream Institutional Practice",
-    "path": "wiki/AI Governance Manifesto — Upstream Institutional Practice.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Governance Manifesto",
-      "Governance as upstream institutional practice",
-      "Upstream AI governance",
-      "wiki/AI Governance Manifesto — Upstream Institutional Practice"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 10,
-    "backlinks": 29
-  },
-  {
-    "id": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "title": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "path": "wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan.md",
-    "type": "commercial-map",
-    "status": "active",
-    "aliases": [
-      "90-day AI governance revenue plan",
-      "Montreal Quebec AI governance offer ladder",
-      "Montreal Quebec service ladder",
-      "wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 10,
-    "backlinks": 22
-  },
-  {
-    "id": "AI Governance Public Statement and Market Impact Pack",
-    "title": "AI Governance Public Statement and Market Impact Pack",
-    "path": "wiki/AI Governance Public Statement and Market Impact Pack.md",
-    "type": "note",
-    "status": "active",
-    "aliases": [
-      "AI Governance Public Statement and Market Impact Pack",
-      "wiki/AI Governance Public Statement and Market Impact Pack"
-    ],
-    "outlinks": 20,
-    "unique_outlinks": 19,
-    "backlinks": 33
-  },
-  {
-    "id": "AI Governance Sprint — One-Page Sellable Packet",
-    "title": "AI Governance Sprint — One-Page Sellable Packet",
-    "path": "wiki/AI Governance Sprint — One-Page Sellable Packet.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Governance Sprint one-pager",
-      "Trust Pack one-pager",
-      "wiki/AI Governance Sprint — One-Page Sellable Packet"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 5,
-    "backlinks": 17
-  },
-  {
-    "id": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "title": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
-    "path": "wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Has No Intrinsic Ethics",
-      "Human Chain of Accountability",
-      "wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain"
-    ],
-    "outlinks": 24,
-    "unique_outlinks": 15,
-    "backlinks": 11
   },
   {
     "id": "AI Identity and Phenomenology",
@@ -162,143 +56,6 @@
     "backlinks": 200
   },
   {
-    "id": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "title": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "path": "wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI loop epistemic limits",
-      "Loop frame capture",
-      "Recursive validation failure",
-      "wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure"
-    ],
-    "outlinks": 22,
-    "unique_outlinks": 11,
-    "backlinks": 27
-  },
-  {
-    "id": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "title": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
-    "path": "wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Paper Prompt",
-      "PHAROS Paper Prompt",
-      "Recursive Workflow Paper Prompt",
-      "wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 6,
-    "backlinks": 10
-  },
-  {
-    "id": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "title": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "path": "wiki/AI Personas — Agatha, DOTTIE, and MOBI.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Personas — Agatha, DOTTIE, and MOBI",
-      "wiki/AI Personas — Agatha, DOTTIE, and MOBI"
-    ],
-    "outlinks": 26,
-    "unique_outlinks": 13,
-    "backlinks": 50
-  },
-  {
-    "id": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "title": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
-    "path": "wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI provider commoditization pressure",
-      "Anthropic OpenClaw platform dependence",
-      "OpenClaw and Anthropic pricing",
-      "wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 5,
-    "backlinks": 11
-  },
-  {
-    "id": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "title": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
-    "path": "wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI recruiting and stuttering",
-      "AI-mediated hiring accessibility",
-      "wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 6,
-    "backlinks": 10
-  },
-  {
-    "id": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "title": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "path": "wiki/AI Self-Report — Epistemic Status Recursion and Perturbation.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI self-report recursion perturbation",
-      "Epistemic status of AI self-report",
-      "Self-report as governance artifact",
-      "wiki/AI Self-Report — Epistemic Status Recursion and Perturbation"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 5,
-    "backlinks": 23
-  },
-  {
-    "id": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "title": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-    "path": "wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI-2027 Critique — Relational AI and Vulnerability Monetization",
-      "wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 8,
-    "backlinks": 16
-  },
-  {
-    "id": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "title": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
-    "path": "wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Centre de Sante Osman AI hallucination arbitration case",
-      "Jeanniot hallucinated jurisprudence case",
-      "Sheehan AI arbitration decision 2026",
-      "wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 8,
-    "backlinks": 9
-  },
-  {
-    "id": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "title": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-    "path": "wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
-      "wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 6,
-    "backlinks": 23
-  },
-  {
     "id": "APEX Papers — Research Archive Map",
     "title": "APEX Papers — Research Archive Map",
     "path": "wiki/APEX Papers — Research Archive Map.md",
@@ -323,66 +80,6 @@
     "aliases": [],
     "outlinks": 0,
     "unique_outlinks": 0,
-    "backlinks": 0
-  },
-  {
-    "id": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "title": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-    "path": "wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript.md",
-    "type": "governance-artifact",
-    "status": "active",
-    "aliases": [
-      "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
-      "wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 12,
-    "backlinks": 8
-  },
-  {
-    "id": "Agatha Grant Post-Mortem — First Assessment",
-    "title": "Agatha Grant Post-Mortem — First Assessment",
-    "path": "wiki/Agatha Grant Post-Mortem — First Assessment.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "1stAgatha post-mortem",
-      "Agatha grant",
-      "WHEELS OF WILL grant",
-      "wiki/Agatha Grant Post-Mortem — First Assessment"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 7,
-    "backlinks": 9
-  },
-  {
-    "id": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "title": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "path": "wiki/Agatha Unified Skill System — Eight Sovereign Operators.md",
-    "type": "wiki",
-    "status": "deprecated",
-    "aliases": [
-      "Eight Sovereign Operators",
-      "eight operators",
-      "unified skill system",
-      "wiki/Agatha Unified Skill System — Eight Sovereign Operators"
-    ],
-    "outlinks": 22,
-    "unique_outlinks": 14,
-    "backlinks": 31
-  },
-  {
-    "id": "Agent Ecosystem Audit — 2026-04-23",
-    "title": "Agent Ecosystem Audit — 2026-04-23",
-    "path": "wiki/Agent Ecosystem Audit — 2026-04-23.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Agent Ecosystem Audit — 2026-04-23",
-      "wiki/Agent Ecosystem Audit — 2026-04-23"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 2,
     "backlinks": 0
   },
   {
@@ -656,6 +353,219 @@
     "backlinks": 32
   },
   {
+    "id": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts",
+    "title": "AI Ethics Literature — Contestable Governance Artifacts",
+    "path": "Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI ethics operationalization literature",
+      "AI safety claims as governance artifacts",
+      "Contestable governance artifacts"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 7,
+    "backlinks": 25
+  },
+  {
+    "id": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice",
+    "title": "AI Governance Course — Ethics, Failure Modes, and Practice",
+    "path": "Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Governance Course — Ethics, Failure Modes, and Practice"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 9,
+    "backlinks": 9
+  },
+  {
+    "id": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice",
+    "title": "AI Governance Manifesto — Upstream Institutional Practice",
+    "path": "Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Governance Manifesto",
+      "Governance as upstream institutional practice",
+      "Upstream AI governance"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 10,
+    "backlinks": 29
+  },
+  {
+    "id": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "title": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "path": "Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan.md",
+    "type": "commercial-map",
+    "status": "active",
+    "aliases": [
+      "90-day AI governance revenue plan",
+      "Montreal Quebec AI governance offer ladder",
+      "Montreal Quebec service ladder"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 10,
+    "backlinks": 22
+  },
+  {
+    "id": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack",
+    "title": "AI Governance Public Statement and Market Impact Pack",
+    "path": "Areas/PHAROS/AI Governance Public Statement and Market Impact Pack.md",
+    "type": "note",
+    "status": "active",
+    "aliases": [
+      "AI Governance Public Statement and Market Impact Pack"
+    ],
+    "outlinks": 20,
+    "unique_outlinks": 19,
+    "backlinks": 33
+  },
+  {
+    "id": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet",
+    "title": "AI Governance Sprint — One-Page Sellable Packet",
+    "path": "Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Governance Sprint one-pager",
+      "Trust Pack one-pager"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 5,
+    "backlinks": 17
+  },
+  {
+    "id": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "title": "AI Has No Intrinsic Ethics — Accountability and the Human Chain",
+    "path": "Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Has No Intrinsic Ethics",
+      "Human Chain of Accountability"
+    ],
+    "outlinks": 24,
+    "unique_outlinks": 15,
+    "backlinks": 11
+  },
+  {
+    "id": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "title": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "path": "Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI loop epistemic limits",
+      "Loop frame capture",
+      "Recursive validation failure"
+    ],
+    "outlinks": 22,
+    "unique_outlinks": 11,
+    "backlinks": 27
+  },
+  {
+    "id": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "title": "AI Paper Prompt — PHAROS Recursive Workflow Case Study",
+    "path": "Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Paper Prompt",
+      "PHAROS Paper Prompt",
+      "Recursive Workflow Paper Prompt"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 6,
+    "backlinks": 10
+  },
+  {
+    "id": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI",
+    "title": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "path": "Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Personas — Agatha, DOTTIE, and MOBI"
+    ],
+    "outlinks": 26,
+    "unique_outlinks": 13,
+    "backlinks": 50
+  },
+  {
+    "id": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "title": "AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure",
+    "path": "Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI provider commoditization pressure",
+      "Anthropic OpenClaw platform dependence",
+      "OpenClaw and Anthropic pricing"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 5,
+    "backlinks": 11
+  },
+  {
+    "id": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "title": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "path": "Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI self-report recursion perturbation",
+      "Epistemic status of AI self-report",
+      "Self-report as governance artifact"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 5,
+    "backlinks": 23
+  },
+  {
+    "id": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "title": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
+    "path": "Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI-2027 Critique — Relational AI and Vulnerability Monetization"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 8,
+    "backlinks": 16
+  },
+  {
+    "id": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "title": "AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)",
+    "path": "Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Centre de Sante Osman AI hallucination arbitration case",
+      "Jeanniot hallucinated jurisprudence case",
+      "Sheehan AI arbitration decision 2026"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 8,
+    "backlinks": 9
+  },
+  {
+    "id": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "title": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
+    "path": "Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 6,
+    "backlinks": 23
+  },
+  {
     "id": "Areas/PHAROS/AREA",
     "title": "AREA",
     "path": "Areas/PHAROS/AREA.md",
@@ -667,6 +577,21 @@
     "outlinks": 2,
     "unique_outlinks": 2,
     "backlinks": 0
+  },
+  {
+    "id": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators",
+    "title": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "path": "Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators.md",
+    "type": "wiki",
+    "status": "deprecated",
+    "aliases": [
+      "Eight Sovereign Operators",
+      "eight operators",
+      "unified skill system"
+    ],
+    "outlinks": 22,
+    "unique_outlinks": 14,
+    "backlinks": 31
   },
   {
     "id": "Areas/PHAROS/Agent Distillation Pipeline",
@@ -1403,6 +1328,20 @@
     "backlinks": 7
   },
   {
+    "id": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "title": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "path": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI recruiting and stuttering",
+      "AI-mediated hiring accessibility"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 6,
+    "backlinks": 10
+  },
+  {
     "id": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
     "title": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
     "path": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance.md",
@@ -1467,6 +1406,19 @@
     "outlinks": 30,
     "unique_outlinks": 22,
     "backlinks": 95
+  },
+  {
+    "id": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "title": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
+    "path": "Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript.md",
+    "type": "governance-artifact",
+    "status": "active",
+    "aliases": [
+      "Agatha Governance Memo — Recursive Governance Applied to Manuscript"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 12,
+    "backlinks": 8
   },
   {
     "id": "Areas/Writing/Alchemy of the Wound — Novel",
@@ -9669,6 +9621,34 @@
     "backlinks": 11
   },
   {
+    "id": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment",
+    "title": "Agatha Grant Post-Mortem — First Assessment",
+    "path": "archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "1stAgatha post-mortem",
+      "Agatha grant",
+      "WHEELS OF WILL grant"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 7,
+    "backlinks": 9
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23",
+    "title": "Agent Ecosystem Audit — 2026-04-23",
+    "path": "archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Agent Ecosystem Audit — 2026-04-23"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 2,
+    "backlinks": 8
+  },
+  {
     "id": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT",
     "title": "CSV_DIAGNOSTIC_REPORT",
     "path": "archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT.md",
@@ -11445,7 +11425,7 @@
     ],
     "outlinks": 2,
     "unique_outlinks": 2,
-    "backlinks": 12
+    "backlinks": 4
   },
   {
     "id": "governance/hephaistos/BOWIE",

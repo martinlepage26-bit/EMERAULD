@@ -29,7 +29,7 @@ canonical_path: wiki/AI Infrastructure Stack.md
 backlink_count: 52
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
+- '[[Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'

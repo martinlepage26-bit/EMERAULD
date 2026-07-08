@@ -5,7 +5,6 @@ aliases:
 - 1stAgatha post-mortem
 - Agatha grant
 - WHEELS OF WILL grant
-- wiki/Agatha Grant Post-Mortem — First Assessment
 tags:
 - agatha
 - grant
@@ -13,7 +12,7 @@ tags:
 - pagan
 - calian
 - post-mortem
-- wiki
+- archive
 - agatha-grant-post-mortem-first-assessment-md
 - mortem
 - employment
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Agatha Grant Post-Mortem — First Assessment.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment.md
 backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'

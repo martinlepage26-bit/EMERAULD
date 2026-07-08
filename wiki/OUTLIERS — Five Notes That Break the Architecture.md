@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/OUTLIERS — Five Notes That Break the Architecture.md
 backlink_count: 10
 backlinks:
-- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'

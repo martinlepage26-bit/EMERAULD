@@ -5,7 +5,6 @@ aliases:
 - unified skill system
 - eight operators
 - Eight Sovereign Operators
-- wiki/Agatha Unified Skill System — Eight Sovereign Operators
 tags:
 - skill-design
 - governance
@@ -13,7 +12,7 @@ tags:
 - chatgpt
 - epistemics
 - deprecated
-- wiki
+- areas
 - agatha-unified-skill-system-eight-sovereign-operators-md
 - eight
 - operators
@@ -23,8 +22,8 @@ tags:
 status: deprecated
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Agatha Unified Skill System — Eight Sovereign Operators.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators.md
 backlink_count: 25
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'

@@ -3,13 +3,12 @@ type: wiki
 title: Agent Ecosystem Audit — 2026-04-23
 aliases:
 - Agent Ecosystem Audit — 2026-04-23
-- wiki/Agent Ecosystem Audit — 2026-04-23
 tags:
 - agents
 - audit
 - governance
 - ecosystem
-- wiki
+- archive
 - agent-ecosystem-audit-2026-04-23-md
 - wrapper
 - agent
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Agent Ecosystem Audit — 2026-04-23.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23.md
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

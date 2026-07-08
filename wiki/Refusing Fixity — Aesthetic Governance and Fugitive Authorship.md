@@ -21,8 +21,8 @@ vault_area: wiki
 canonical_path: wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship.md
 backlink_count: 29
 backlinks:
-- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
-- '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Authority Without Power-Over]]'

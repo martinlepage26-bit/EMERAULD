@@ -25,7 +25,7 @@ vault_area: wiki
 canonical_path: wiki/EU AI Act and Law 25 — Regulatory Pressure Window.md
 backlink_count: 10
 backlinks:
-- '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
+- '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
 - '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
   (2026-06-22)]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'

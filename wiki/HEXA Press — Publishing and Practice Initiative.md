@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/HEXA Press — Publishing and Practice Initiative.md
 backlink_count: 33
 backlinks:
-- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/Brutal Isms — Art Grant Proposal]]'

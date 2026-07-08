@@ -24,7 +24,7 @@ vault_area: Areas
 canonical_path: Areas/Writing/Ethics Poetics and Praxis — Braided Discipline.md
 backlink_count: 6
 backlinks:
-- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
 - '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

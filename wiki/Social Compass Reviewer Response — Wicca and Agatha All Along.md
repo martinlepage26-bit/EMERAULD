@@ -24,7 +24,7 @@ canonical_path: wiki/Social Compass Reviewer Response — Wicca and Agatha All A
 backlink_count: 7
 backlinks:
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
-- '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[wiki/Home]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'

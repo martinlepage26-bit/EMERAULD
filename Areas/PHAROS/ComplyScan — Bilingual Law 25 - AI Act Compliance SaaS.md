@@ -32,7 +32,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS.md
 backlink_count: 9
 backlinks:
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'

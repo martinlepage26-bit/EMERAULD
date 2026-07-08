@@ -21,8 +21,8 @@ vault_area: wiki
 canonical_path: wiki/Embedding Before Rupture — Relational AI and Institutional Power.md
 backlink_count: 11
 backlinks:
-- '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'

@@ -21,7 +21,7 @@ canonical_path: archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup �
 backlink_count: 24
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Agent Session Phenomenology]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'

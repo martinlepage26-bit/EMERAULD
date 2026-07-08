@@ -27,8 +27,8 @@ canonical_path: wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fl
   to the Ethics of Interruption.md
 backlink_count: 22
 backlinks:
-- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
-- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
+- '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[wiki/APEX Papers — Research Archive Map]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'

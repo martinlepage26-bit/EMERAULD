@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/Disability Epistemology and Institutional Critique.md
 backlink_count: 27
 backlinks:
-- '[[wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
+- '[[Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
 - '[[wiki/Authority Without Power-Over]]'

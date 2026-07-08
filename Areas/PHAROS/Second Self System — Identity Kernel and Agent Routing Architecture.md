@@ -29,7 +29,7 @@ canonical_path: Areas/PHAROS/Second Self System — Identity Kernel and Agent Ro
 backlink_count: 30
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'

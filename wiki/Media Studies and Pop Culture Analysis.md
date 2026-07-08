@@ -28,8 +28,8 @@ backlink_count: 33
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
-- '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
-- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Fluency and Interruption Theory]]'

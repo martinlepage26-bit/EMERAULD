@@ -26,7 +26,7 @@ backlink_count: 17
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
-- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Agent Session Phenomenology]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
