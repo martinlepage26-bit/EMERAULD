@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: EMERGE
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/EMERGE.md
+---
+
 # HELIX Session — Vaisseau de Thésée
 
 > Live stress-test session using the HELIX protocol. Bilingual FR/EN.

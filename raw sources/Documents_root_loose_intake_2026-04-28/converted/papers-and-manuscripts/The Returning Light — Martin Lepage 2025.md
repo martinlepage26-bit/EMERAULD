@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: The Returning Light — Martin Lepage 2025
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/The Returning Light — Martin Lepage 2025.md
+---
+
 # 2025 - Martin Lepage - THE RETURNING LIGHT - book_or_monograph.docx_0.odt
 
 _Converted from ODT content.xml by local text extraction after MarkItDown did not support this file type._

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Dr_Sort_milestone1-design
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Dr_Sort_milestone1-design.md
+---
+
 # Dr.Sort Milestone 1 Design and Implementation
 
 ## 1. Product Architecture

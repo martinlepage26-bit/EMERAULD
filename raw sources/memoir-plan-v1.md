@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: memoir-plan-v1
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/memoir-plan-v1.md
+---
+
 # MEMOIR PLAN v1
 ## *All the People I Was* (working title: *Vectorized*)
 ### A 100,000-word memoir by Martin Lepage

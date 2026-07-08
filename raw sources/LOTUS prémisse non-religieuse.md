@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: LOTUS prémisse non-religieuse
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/LOTUS prémisse non-religieuse.md
+---
+
 # Appui empirique interdisciplinaire pour une prémisse religieuse non spécifiée
 
 ## Résumé exécutif

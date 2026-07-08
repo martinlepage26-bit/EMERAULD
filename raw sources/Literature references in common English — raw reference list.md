@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Literature references in common English — raw reference list
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Literature references in common English — raw reference list.md
+---
+
 Here are generally adopted literature references in common English, categorized by their meaning:
 1. For Misfortune, Struggle, or Hardship"A sea of troubles" (Shakespeare, Hamlet): Used to describe an overwhelming amount of problems."The best-laid schemes o' mice an' men / Gang aft agley" (Robert Burns): Used to express that even the best plans often go wrong."Whips and scorns of time" (Shakespeare, Hamlet): Refers to the injustices, mockery, and hardships one suffers simply by living."The Winter of our discontent" (Shakespeare, Richard III): Used to describe a time of unhappiness or dissatisfaction.
 

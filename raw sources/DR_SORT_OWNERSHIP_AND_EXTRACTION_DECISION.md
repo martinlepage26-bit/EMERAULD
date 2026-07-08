@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: DR_SORT_OWNERSHIP_AND_EXTRACTION_DECISION
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/DR_SORT_OWNERSHIP_AND_EXTRACTION_DECISION.md
+---
+
 # Dr. Sort Ownership And Extraction Decision
 
 Date: 2026-03-14

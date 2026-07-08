@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: ‘It's All a Giant Web' Syncretism, Agency and (Re)connection in a Contempo rar
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/‘It's All a Giant Web' Syncretism, Agency and (Re)connection in a Contempo rar.md
+---
+
 "‘It's All a Giant Web': Syncretism, Agency and (Re)connection in a Contempo rary Pagan Community." MA. diss., University of Montreal, 2009.
 Achouche, A., (2015). La Sorcière dans les séries télévisées américaines: une figure féminine ambiguë de la postmodernité. Paris: L'Harmattan.
 Adler, M., (1979). Drawing Down the Moon: Witches, Druids, Goddess-Worshippers, and Other Pagans in America Today. Boston, MA: Beacon Press.

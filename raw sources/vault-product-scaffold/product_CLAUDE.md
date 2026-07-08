@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: product_CLAUDE
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/vault-product-scaffold/product_CLAUDE.md
+---
+
 # CLAUDE.md — Agent Context Loader
 
 > The agent reads this file first. Everything here is standing context.

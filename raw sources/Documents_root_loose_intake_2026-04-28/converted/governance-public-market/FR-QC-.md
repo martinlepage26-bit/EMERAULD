@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: FR-QC-
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/FR-QC-.md
+---
+
 **ARTIFACT CLASSIFICATION:** Document Cleansing / Governance Extraction
 **STATUS:** Processed
 **OBJECTIVE:** Remove UI/conversational artifacts, enforce structural clarity, and map provided source tags to mandatory citation format.

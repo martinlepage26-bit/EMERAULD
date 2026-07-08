@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Received1January2025,accepted19January2025,dateofpublication22January2025,dateof
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Received1January2025,accepted19January2025,dateofpublication22January2025,dateof.md
+---
+
 Received1January2025,accepted19January2025,dateofpublication22January2025,dateofcurrentversion29January2025.
 DigitalObjectIdentifier10.1109/ACCESS.2025.3532853
 Agentic AI: Autonomous Intelligence for Complex

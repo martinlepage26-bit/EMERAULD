@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: De la quête à la transfiguration spiritualité poétique et allégorie moderne dans les premiers romans
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/De la quête à la transfiguration spiritualité poétique et allégorie moderne dans les premiers romans.md
+---
+
 **De la quête à la transfiguration : spiritualité poétique et allégorie moderne dans les premiers romans d’Yvon Rivard**
 
 Introduction

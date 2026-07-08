@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: HELIX-session-vaisseau-thesee-emerge
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/HELIX-session-vaisseau-thesee-emerge.md
+---
+
 Dans le cadre du protocole HELIX, la "gouvernance" n'est pas seulement une question de code, c'est une structure logique de contrôle en trois couches :
 
 1. Gouvernance Logique (Pôle X vs Pôle Y)

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: AMERICAN HORROR STORY V
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/AMERICAN HORROR STORY V.md
+---
+
 AMERICAN HORROR STORY: V
 
 Written by

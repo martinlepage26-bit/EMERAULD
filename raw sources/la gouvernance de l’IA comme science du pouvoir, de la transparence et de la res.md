@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: la gouvernance de l’IA comme science du pouvoir, de la transparence et de la res
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/la gouvernance de l’IA comme science du pouvoir, de la transparence et de la res.md
+---
+
 la gouvernance de l’IA comme science du pouvoir, de la transparence et de la responsabilité.
 
 une écriture qui montre que tu comprends les enjeux de pouvoir derrière la technique

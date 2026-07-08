@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Spec-1-ai Governance Engine
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Spec-1-ai Governance Engine.md
+---
+
 SPEC-1-AI Governance Engine
 
 Background

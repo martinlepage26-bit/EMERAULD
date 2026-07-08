@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: pharos-strategic-analysis-2026-04-18
+tags:
+- raw-source
+status: preserved
+created: '2026-04-18'
+vault_area: raw sources
+canonical_path: raw sources/pharos-strategic-analysis-2026-04-18.md
+---
+
 # PHAROS Strategic Analysis — Keep/Stop/Fix/Finish
 ## Source: Claude.ai conversation, 2026-04-18
 ## Files referenced: MARTIN-SITE CHANGE TRACKER.md, MASTER TRACKER (recreated from MASTER PACK 4).csv/.md, METHOD TRACKER.md, PHAROS-AI CHANGE TRACKER.md, SKILL_AUDIT_2026-04-06.md, PLAN-OF-ACTION-2026-04-18.md.docx, obsidian-vault-slides.html

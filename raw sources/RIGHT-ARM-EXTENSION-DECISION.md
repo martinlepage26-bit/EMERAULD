@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: RIGHT-ARM-EXTENSION-DECISION
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/RIGHT-ARM-EXTENSION-DECISION.md
+---
+
 # Right-Arm Extension Decision (Binding)
 
 **Decision date:** 2026-04-18

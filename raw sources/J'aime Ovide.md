@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: J'aime Ovide
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/J'aime Ovide.md
+---
+
 novembre 22, 2008 par malekexoterique
 
 J’aime Ovide, qu’on me pardonne. Je le redécouvre toujours, à chaque fois qu’il tombe entre mes mains. Je le lis dans l’ordre et le désordre, pas question de le contraindre à un récit. Ovide est un poème qui ne se récite pas. Si je pouvais le lire en latin, je le ferais. J’adore le courage qu’il a eu, de condenser, de compiler, de donner un sens à quelque chose qui n’en avait pas tellement. Je loue ses idées, sa façon de raconter, même s’il est traduit et retraduit. J’ai l’impression que sa voix est toujours contenue dans ses livres publiés à notre époque. Il a tellement été lu, étudié, commenté, glosé, étouffé. Quand je le lis, il est un puits, une muse en lui-même. Je sais qu’il est un auteur d’origine pour plusieurs. Pour moi, il est auteur de parcours. Il parle des dieux comme s’ils prenaient l’apéro ensemble, comme s’il était au stade de dieu lui-même. Ovide, c’est l’auteur au-dessus des autres, qui m’amène, qui m’apporte, qui déloge. Ovide, c’est le déluge de savoir, c’est la création de l’écrivain, c’est les métamorphoses de chacun. Hier, quand il est tombé de ma bibliothèque, parce que le chat voulait vraisemblablement chasser la figurine  de gargouille de l’étagère, j’ai relu Pygmalion. J’ai eu le goût de pasticher, d’avoir un peu de lui en moi, dans mes écrits. Je vous montre.

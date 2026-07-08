@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: FIRST DRAFT
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/FIRST DRAFT.md
+---
+
 FIRST DRAFT
 
 Compress without opacity

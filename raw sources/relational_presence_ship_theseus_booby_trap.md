@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: relational_presence_ship_theseus_booby_trap
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/relational_presence_ship_theseus_booby_trap.md
+---
+
 # Relational Presence, Gendered AI, and the Booby Trap as Post-Humanist Assemblage
 
 ## 1. Claude, ChatGPT, and the Gendering of Artificial Interlocutors

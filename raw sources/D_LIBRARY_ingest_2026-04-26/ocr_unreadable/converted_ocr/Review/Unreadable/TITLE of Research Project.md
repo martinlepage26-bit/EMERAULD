@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: TITLE of Research Project
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/TITLE of Research Project.md
+---
+
 ## TITLE of Research Project
 
 Masculinities in passing: perceptions of community in the age of chemsex among Montreal queer men

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: SHOW-ME-WHAT-TO-DO — PR4 deploy runbook 2026-04-19
+tags:
+- raw-source
+status: preserved
+created: '2026-04-19'
+vault_area: raw sources
+canonical_path: raw sources/SHOW-ME-WHAT-TO-DO — PR4 deploy runbook 2026-04-19.md
+---
+
 # SHOW ME WHAT TO DO
 
 **Date:** 2026-04-19 (late)

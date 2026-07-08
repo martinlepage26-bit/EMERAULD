@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: PHAROS LinkedIn Monthly Routine — April 2026
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/pharos-ops-publishing/PHAROS LinkedIn Monthly Routine — April 2026.md
+---
+
 # PHAROS LinkedIn Monthly Routine — April 2026
 *Run date: April 6, 2026*
 *Martin Lepage, PhD — Founder, PHAROS | pharos-ai.ca*

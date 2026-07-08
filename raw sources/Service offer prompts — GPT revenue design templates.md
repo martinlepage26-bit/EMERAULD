@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Service offer prompts — GPT revenue design templates
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Service offer prompts — GPT revenue design templates.md
+---
+
 Below are **5 separate ready-to-paste GPT-5.2 prompts**.
 
 ## 1. Freelance Offer Prompt

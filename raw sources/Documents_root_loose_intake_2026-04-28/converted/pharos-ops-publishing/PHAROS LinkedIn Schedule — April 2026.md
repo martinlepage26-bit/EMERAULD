@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: PHAROS LinkedIn Schedule — April 2026
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/pharos-ops-publishing/PHAROS LinkedIn Schedule — April 2026.md
+---
+
 # PHAROS LinkedIn — Schedule These Now
 **Today**: April 6, 2026 | **Posts remaining**: 10 (Apr 1–5 are past)
 **Method**: LinkedIn native scheduler → Start a post → Paste → Schedule → Set date/time → Done

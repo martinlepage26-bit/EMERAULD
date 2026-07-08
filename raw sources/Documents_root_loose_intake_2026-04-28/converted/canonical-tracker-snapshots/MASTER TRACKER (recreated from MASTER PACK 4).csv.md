@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: MASTER TRACKER (recreated from MASTER PACK 4).csv
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).csv.md
+---
+
 | case_slug | run_group | run_root | final_outcome | triage_status | risk_tier | total_files | total_sources | contracts_missing_count | coverage_status | executable_pass_count | missing_pass_count | dataset_fingerprint | zip_modified | manifest_path |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ag-runner-md-readme-master-pass-2426d4903d | SCRIPTS/Paper outcomes RESTART-2 | MASTER PACK/RECURSO/RECURSOTRUE_unpacked/SCRIPTS/Paper outcomes RESTART-2/governance_master_runs/ag-runner-md-readme-master-pass-2426d4903d |  |  |  |  |  |  |  |  |  |  | 2026-03-09 22:46:28 | MASTER PACK/RECURSO/RECURSOTRUE_unpacked/SCRIPTS/Paper outcomes RESTART-2/governance_master_runs/ag-runner-md-readme-master-pass-2426d4903d/dataset_manifest.json |

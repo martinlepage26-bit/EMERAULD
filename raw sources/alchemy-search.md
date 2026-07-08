@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: alchemy-search
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/alchemy-search.md
+---
+
 # Plan de recherche provisoire sur l’alchimie
 
 ## Résumé exécutif

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Grok's work on HELIX — v2.1 v2.3 v2.4 dev session
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Grok's work on HELIX — v2.1 v2.3 v2.4 dev session.md
+---
+
 import { useState, useRef, useEffect, useReducer, useCallback } from "react";
 // =========================================================================
 // HELIX — Hierarchical Epistemic Limit & Invariant eXamination

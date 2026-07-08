@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Voici une série de patterns, d'expressions et de vocabulaire couramment utilisés
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Voici une série de patterns, d'expressions et de vocabulaire couramment utilisés.md
+---
+
 Voici une série de patterns, d'expressions et de vocabulaire couramment utilisés à l'écrit dans l'écosystème professionnel québécois de l'intelligence artificielle (IA).
 
 Dans ce milieu, la communication écrite cherche souvent un équilibre entre le maintien d'une terminologie francophone rigoureuse (fortement encouragée par l'Office québécois de la langue française - OQLF) et la dynamique rapide de la tech nord-américaine.

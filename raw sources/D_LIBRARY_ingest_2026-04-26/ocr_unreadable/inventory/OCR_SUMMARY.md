@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: OCR_SUMMARY
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/inventory/OCR_SUMMARY.md
+---
+
 # D:\LIBRARY\Review\Unreadable — OCR Summary (2026-04-26)
 
 See also [[Manuscript Pipeline MOC]].

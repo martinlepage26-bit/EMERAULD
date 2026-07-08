@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: hub_person
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/vault-product-scaffold/hub_person.md
+---
+
 # [Person Name]
 
 **Role:** [Their role relative to your work — e.g., "co-founder," "client," "reviewer"]

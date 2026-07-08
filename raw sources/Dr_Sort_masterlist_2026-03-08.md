@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Dr_Sort_masterlist_2026-03-08
+tags:
+- raw-source
+status: preserved
+created: '2026-03-08'
+vault_area: raw sources
+canonical_path: raw sources/Dr_Sort_masterlist_2026-03-08.md
+---
+
 # Masterlist 2026-03-08_175129
 
 ## CREATIVE / manuscript

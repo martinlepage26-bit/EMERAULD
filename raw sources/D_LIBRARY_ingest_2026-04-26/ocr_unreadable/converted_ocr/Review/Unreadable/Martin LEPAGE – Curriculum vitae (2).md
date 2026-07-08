@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Martin LEPAGE – Curriculum vitae (2)
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Martin LEPAGE – Curriculum vitae (2).md
+---
+
 # Martin LEPAGE – Curriculum vitae
 
 2450, rue de Rouen

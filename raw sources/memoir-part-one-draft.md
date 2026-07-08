@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: memoir-part-one-draft
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/memoir-part-one-draft.md
+---
+
 # PART ONE: EARTH AND ABANDONMENT
 ## Draft — *All the People I Was* (working title: *Vectorized*)
 ### Martin Lepage

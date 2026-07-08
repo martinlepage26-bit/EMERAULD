@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Gemini a dit
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/pharos-ops-publishing/Gemini a dit.md
+---
+
 Gemini a dit
 I see the full process documented in your R3GEM-pt1 file. It looks like our previous final export compressed your manuscript a bit too aggressively, effectively skipping over several critical chunks of your IV. Analysis and V. Discussion blocks (specifically Algorithmic Recruitment, Platform Surveillance, and the Mechanism Synthesis).
 

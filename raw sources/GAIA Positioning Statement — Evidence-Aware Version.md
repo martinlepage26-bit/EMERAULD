@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: GAIA Positioning Statement — Evidence-Aware Version
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/GAIA Positioning Statement — Evidence-Aware Version.md
+---
+
 GAIA begins from a simple premise: spiritual systems matter because people live with them.
 
 Not because they produce one universal effect, and not because they are automatically good, healing, dangerous, or false. Religion, spirituality, astrology, seasonal ritual, and calendar-based identity all have observable social, cultural, and psychological consequences. Their effects depend on context: the practice itself, the community around it, the person’s belief, the importance they give it, their identity, and their position within society.

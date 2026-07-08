@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: 2025 - Martin Lepage - Martin Lepage, PhD
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - Martin Lepage - Martin Lepage, PhD.md
+---
+
 See also [[Pagan and Queer Ritual Studies MOC]].
 ---
 dr_sort_original_filename: "2025 - Martin Lepage - Martin Lepage, PhD.docx - 2025 - Martin Lepage - Martin Lepage, PhD.docx.docx - 2025 - Martin Lep__69da11f4abc0.md"

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Advanced Tool Development and Integration 1.7 Harden and Test the Logistics Toolkit
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Advanced Tool Development and Integration 1.7 Harden and Test the Logistics Toolkit.md
+---
+
 ## **Overview**
 
 You've successfully refactored Innovate Logistics' naive functions into reliable, agent-callable tools. However, your functions (get_tracking_status, check_inventory, etc.) all contain identical, repetitive try/except blocks for error handling.

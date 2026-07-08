@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: 07_HOPF_TEMPLATE
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/07_HOPF_TEMPLATE.md
+---
+
 ================================================================================
 DOCUMENT 07 — PHASE 3: HOPF
 Generic Template — Diagnostic Logic & Adaptability Notes

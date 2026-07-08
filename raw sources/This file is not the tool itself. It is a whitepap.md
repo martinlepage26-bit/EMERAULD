@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: This file is not the tool itself. It is a whitepap
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/This file is not the tool itself. It is a whitepap.md
+---
+
 This file is **not the tool itself**. It is a **whitepaper that explains and tries to prove what the tool is doing**. In plain language, it argues that InfraFabric’s “philosophy” is not just branding or lofty language, but is supposed to show up as concrete engineering controls, especially in the `if.security.secrets.detect` component.
 
 The core thing it describes is a pipeline like this: philosophical principles feed into system rules, those rules feed into a runtime component called `if-cli secrets detect`, and that component then validates events, emits a signed security signal, and writes evidence to an append-only audit surface. In other words, the paper says the system turns abstract ideas into enforceable behavior plus receipts.

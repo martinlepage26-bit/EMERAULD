@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Quick wins no data loss — WSL storage recovery session
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Quick wins no data loss — WSL storage recovery session.md
+---
+
 
   1. Compact the WSL vhdx — this is the biggest lever (~30-40GB potentially recoverable). Run in PowerShell as admin:
   wsl --shutdown

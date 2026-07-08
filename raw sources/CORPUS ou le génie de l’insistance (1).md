@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: CORPUS ou le génie de l’insistance (1)
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/CORPUS ou le génie de l’insistance (1).md
+---
+
 
 
 **CORPUS**

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Qualitative Research and Intersectional Frameworks
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Qualitative Research and Intersectional Frameworks.md
+---
+
 # Qualitative Research and Intersectional Frameworks
 ## Expanded Continuation From `Master Reference List.txt`
 

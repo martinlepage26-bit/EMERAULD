@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Executive Summary
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Executive Summary.md
+---
+
 
 
 **Commercial Brief — Q2 2026**

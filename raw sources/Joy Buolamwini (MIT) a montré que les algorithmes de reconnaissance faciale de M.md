@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Joy Buolamwini (MIT) a montré que les algorithmes de reconnaissance faciale de M
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Joy Buolamwini (MIT) a montré que les algorithmes de reconnaissance faciale de M.md
+---
+
 Joy Buolamwini (MIT) a montré que les algorithmes de reconnaissance faciale de Microsoft, IBM et Face++ avaient des taux d’erreur bien plus élevés pour les visages féminins et à la peau foncée (Gender Shades, 2018).
 Loi sur l’IA de l’UE : Obligation d’évaluer les risques de discrimination avant le déploiement de systèmes à haut risque.
 Michel Foucault

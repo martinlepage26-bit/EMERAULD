@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Montréal, April 30th, 2025
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Montréal, April 30th, 2025.md
+---
+
 **Montréal, April 30th, 2025**
 
 **List of Living conditions**

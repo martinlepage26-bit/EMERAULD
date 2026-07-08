@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: 00_README
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/D_LIBRARY_ingest_2026-04-26/00_README.md
+---
+
 # D:\LIBRARY — Raw Intake (Trismégiste)
 
 See also [[Manuscript Pipeline MOC]].

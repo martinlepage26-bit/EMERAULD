@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: ai-stutter-jobs
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/ai-stutter-jobs.md
+---
+
 # IA générative, emploi et accessibilité au travail pour les personnes qui bégaient
 
 ## Résumé exécutif

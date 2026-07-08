@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: raw_README
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/vault-product-scaffold/raw_README.md
+---
+
 # raw/
 
 See also [[Manuscript Pipeline MOC]].

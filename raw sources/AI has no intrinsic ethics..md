@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: AI has no intrinsic ethics.
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/AI has no intrinsic ethics..md
+---
+
 AI is not the moral agent. People are.
 
 The people building it. Deploying it. Procuring it. Regulating it. Using it.

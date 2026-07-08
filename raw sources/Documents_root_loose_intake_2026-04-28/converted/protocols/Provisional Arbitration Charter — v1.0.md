@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Provisional Arbitration Charter — v1.0
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/Provisional Arbitration Charter — v1.0.md
+---
+
 # PHAROS METHOD — PROVISIONAL ARBITRATION CHARTER
 
 **Document type:** Constitutional provisional (Layer 9.5)

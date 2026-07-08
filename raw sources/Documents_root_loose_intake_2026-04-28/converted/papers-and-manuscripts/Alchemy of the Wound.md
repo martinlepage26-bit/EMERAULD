@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Alchemy of the Wound
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/Alchemy of the Wound.md
+---
+
 **ALCHEMY OF THE WOUND**
 
 ***Field Manual For The Body***

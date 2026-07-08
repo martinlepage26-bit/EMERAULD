@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: ANNOTATED LIB - OPERATIONAL VERSION
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/ANNOTATED LIB - OPERATIONAL VERSION.md
+---
+
 ANNOTATED LIB - OPERATIONAL VERSION
 
 Last updated: 2026-03-11

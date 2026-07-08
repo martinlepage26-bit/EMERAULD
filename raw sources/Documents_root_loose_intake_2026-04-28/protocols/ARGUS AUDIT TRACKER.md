@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: ARGUS AUDIT TRACKER
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/protocols/ARGUS AUDIT TRACKER.md
+---
+
 # ARGUS AUDIT TRACKER
 
 **Purpose**: Seven-layer governance audit findings, authority drift detection, and constraint violation reports monitored by Argus and Trismégiste.

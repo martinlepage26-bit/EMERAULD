@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Advanced Tool Development and Integration 1.5 From Working to Production-Ready
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Advanced Tool Development and Integration 1.5 From Working to Production-Ready.md
+---
+
 You did a great job refactoring those three functions for Innovate ​Logistics. You added the necessary validation and error handling, but ​let's look closely at your code. ​Now I am inside the logistic_tools.py file in VS Code. ​Notice this large try-slash-accept block in get_tracking_status. ​Now let's look at check_inventory. It has ​the exact same repetitive logic for error handling, logging and ​performance timing. This is a problem. Our business logic is clean, but ​it's cluttered by identical infrastructure code. If we wanted to change ​our error format, we'd have to edit every single function. 
 
 ​Now I am inside the production_wrapper_demo.py ​file in VS Code. The solution is the production wrapper pattern using a ​Python decorator that is part of our development standard at Praxis AI. ​This pattern eliminates the repetition and achieves a critical design goal ​separation of concerns. Here is the decorator itself. It accepts a function, ​which we call func, and returns a new wrapper function that surrounds the ​original. The decorator takes on three infrastructure jobs. Job 1. It logs ​the function call automatically. Job 2. It automatically records the ​execution start time. And Job 3. The most important. It handles all the ​error conversion. If the function raises a value error, the decorator ​catches it, and returns the standardized error dictionary success ​false error_type validation. This logic is now written once and ​is centrally managed. 

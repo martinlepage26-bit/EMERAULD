@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Herbiers des présences
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Herbiers des présences.md
+---
+
 # L’Herbier des présences — Manuscrit de cours pour une correspondance végétale entre science, mémoire, soin et symbole
 
 ## Préface

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Book of beliefs and theories 2000s
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Book of beliefs and theories 2000s.md
+---
+
 One of the most important theories I have is about the soul of human beings. After several readings and studies about it, I have come to the conclusion that it has a point of anchor in the heart of humans.
 
 In fact, I believe that the soul has only one particle of matter that takes part of the muscles in the human heart. Then the soul, even when it is not contained in a body, gravitates all around it.

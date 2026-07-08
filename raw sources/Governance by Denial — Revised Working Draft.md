@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Governance by Denial — Revised Working Draft
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Governance by Denial — Revised Working Draft.md
+---
+
 Governance by Denial: How Legibility, Capacity, and Classification Rewire Accountability
 Abstract
 Democratic hollowing often proceeds through legality and tempo rather than rupture. Systems can retain elections, courts, oversight bodies, and constitutional language while power over what counts as credible, governable, and sanctionable is reorganized upstream. This article conceptualizes hollowing as a transformation in the governance of public reality and specifies a coupled mechanism family: narrative control, impunity signaling, and weak accountability loops. Narrative control governs intelligibility and adjudication by reshaping inference rules. Impunity signaling recalibrates expectations of enforcement through patterned nonconsequence and strategic silence. Weak accountability loops routinize procedural response while leaving incentive structures intact. The framework integrates queer, disability, and postcolonial analytics to treat intelligibility, capacity, and classification as measurable sites of governance. A theory-driven, process-tracing comparison of the United States, Canada, and Europe, with Israel–Gaza as a bounded stress test, shows how democratic form can persist while plausibility, sanction, and denial are repurposed. The article contributes a portable indicator scheme for tracing hollowing across arenas and regime types.

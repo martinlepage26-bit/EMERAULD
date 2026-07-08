@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: SKILL_AUDIT_2026-04-06
+tags:
+- raw-source
+status: preserved
+created: '2026-04-06'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/pharos-ops-publishing/SKILL_AUDIT_2026-04-06.md
+---
+
 # **Audit Report: Skill Creation & Improvement Opportunities**
 **Date:** April 6, 2026 | **Based on:** Calendar, Slack, Notion, 10 recent sessions, scheduled tasks
 

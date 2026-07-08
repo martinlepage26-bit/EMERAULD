@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: PHAROS_Commercial_Brief_v1
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/PHAROS_Commercial_Brief_v1.md
+---
+
 # PHAROS AI
 
 ## AI Governance That Survives the Inspector Leaving

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: The Market Impact Question
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/The Market Impact Question.md
+---
+
 # The Market Impact Question
 
 This requires separating what the documents actually demonstrate from speculation about what it could become. The documents themselves would demand that distinction, so I'll honor it.

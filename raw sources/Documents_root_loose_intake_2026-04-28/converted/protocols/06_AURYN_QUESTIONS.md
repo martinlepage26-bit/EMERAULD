@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: 06_AURYN_QUESTIONS
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/06_AURYN_QUESTIONS.md
+---
+
 ================================================================================
 DOCUMENT 06 — PHASE 2: AURYN
 Live Question Set — Prompts with Insertion Points

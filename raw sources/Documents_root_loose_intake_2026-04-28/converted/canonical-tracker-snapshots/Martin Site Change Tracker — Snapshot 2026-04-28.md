@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Martin Site Change Tracker — Snapshot 2026-04-28
+tags:
+- raw-source
+status: preserved
+created: '2026-04-28'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/Martin Site Change Tracker — Snapshot 2026-04-28.md
+---
+
 # MARTIN-SITE CHANGE TRACKER
 
 - Parent tracker: `/mnt/c/Users/softinfo/Documents/MASTER TRACKER (recreated from MASTER PACK 4).md`

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Governance by Denial — Revised Working Draft
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Governance by Denial — Revised Working Draft.md
+---
+
 # Governance by Denial - revised working draft.docx_0.odt
 
 _Converted from ODT content.xml by local text extraction after MarkItDown did not support this file type._

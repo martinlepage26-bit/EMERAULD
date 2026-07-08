@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: RIA PROMPT
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/RIA PROMPT.md
+---
+
 # Régime de Pouvoir + HELIX + Communitas
 ## Reflexive Inhabitation Audit — Prompt
 

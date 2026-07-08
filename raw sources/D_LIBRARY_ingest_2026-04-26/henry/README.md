@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: README
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/D_LIBRARY_ingest_2026-04-26/henry/README.md
+---
+
 # Henry Intake — D:\LIBRARY Candidates (2026-04-26)
 
 See also [[Manuscript Pipeline MOC]].

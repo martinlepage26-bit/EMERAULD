@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Martin Lepage, PhD (2)
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Martin Lepage, PhD (2).md
+---
+
 **Martin Lepage, PhD**
 2456, de Rouen
 

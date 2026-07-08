@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: LOTUS_PREMIUM_SPEC
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/LOTUS_PREMIUM_SPEC.md
+---
+
 # LOTUS Premium Spec
 
 `LOTUS | Dr. Sort-Academic Helper` is evolving from a safe document sorter into a high-end, local-first, content-aware archive application.

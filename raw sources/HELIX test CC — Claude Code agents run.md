@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: HELIX test CC — Claude Code agents run
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/HELIX test CC — Claude Code agents run.md
+---
+
 HELIX - Test my WSL Claude Code agents
 HIERARCHICAL EPISTEMIC LIMIT & INVARIANT EXAMINATION
 live

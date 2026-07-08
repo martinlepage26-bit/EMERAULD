@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: skill_template
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/vault-product-scaffold/skill_template.md
+---
+
 # Skill: [Name]
 
 See also [[Util]].

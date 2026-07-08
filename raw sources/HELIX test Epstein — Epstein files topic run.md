@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: HELIX test Epstein — Epstein files topic run
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/HELIX test Epstein — Epstein files topic run.md
+---
+
 HELIX - Thoughts on Epsetein files?
 HIERARCHICAL EPISTEMIC LIMIT & INVARIANT EXAMINATION
 live

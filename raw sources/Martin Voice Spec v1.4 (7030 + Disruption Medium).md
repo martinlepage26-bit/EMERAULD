@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Martin Voice Spec v1.4 (7030 + Disruption Medium)
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Martin Voice Spec v1.4 (7030 + Disruption Medium).md
+---
+
 Martin Voice Spec v1.4 (70/30 + Disruption Medium) — 8k-char build
 
 0. Default mode

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Recovered analysis Ballad Witches Road
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Recovered analysis Ballad Witches Road.md
+---
+
 # Recovered analysis: Ballad / Witches Road
 
 - source: `.codex/history.jsonl:3683`

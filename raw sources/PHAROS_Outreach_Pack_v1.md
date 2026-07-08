@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: PHAROS_Outreach_Pack_v1
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/PHAROS_Outreach_Pack_v1.md
+---
+
 # PHAROS AI — Outreach Pack
 ## First Three Conversations — Quebec Tier 1 Targets
 

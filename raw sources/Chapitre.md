@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Chapitre
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Chapitre.md
+---
+
 Chapitre |
 
 Vos parents ne vous ont jamais dit de ne pas parler aux étrangers ? Et bien, ce fut le cas

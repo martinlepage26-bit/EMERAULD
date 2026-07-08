@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Documents_root_loose_intake_protocols_provisional-arbitration-charter-v1.1
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/_archive_superseded_2026-05-31/provisional-arbitration-charter-v1.1/Documents_root_loose_intake_protocols_provisional-arbitration-charter-v1.1.md
+---
+
 # PHAROS METHOD — PROVISIONAL ARBITRATION CHARTER
 
 **Document type:** Constitutional provisional (Layer 9.5)

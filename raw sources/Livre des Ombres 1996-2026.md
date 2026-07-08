@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Livre des Ombres 1996-2026
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Livre des Ombres 1996-2026.md
+---
+
 Martin's magical system
 
 Introduction aux éléments

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: 1) Website Style Card
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/1) Website Style Card.md
+---
+
 1) Website Style Card
 
 House style for public posts

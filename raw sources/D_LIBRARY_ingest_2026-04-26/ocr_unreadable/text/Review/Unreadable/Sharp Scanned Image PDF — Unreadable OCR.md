@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Sharp Scanned Image PDF — Unreadable OCR
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/Sharp Scanned Image PDF — Unreadable OCR.md
+---
+
 ===== IMAGE: /tmp/unreadable_ocr_733r9_3e/p00001.png =====
 
 n S—

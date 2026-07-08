@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: GUIDE_rest-and-consolidation
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/GUIDE_rest-and-consolidation.md
+---
+
 # Rest and Consolidation — A Practical Guide
 
 *Written for Martin. Not generic. Based on the actual pattern.*

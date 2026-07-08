@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: METHOD TRACKER
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/METHOD TRACKER.md
+---
+
 # METHOD TRACKER
 
 - Parent tracker: `/mnt/c/Users/softinfo/Documents/MASTER TRACKER (recreated from MASTER PACK 4).md`

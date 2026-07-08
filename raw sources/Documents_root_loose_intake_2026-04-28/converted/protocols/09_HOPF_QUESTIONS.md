@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: 09_HOPF_QUESTIONS
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/09_HOPF_QUESTIONS.md
+---
+
 ================================================================================
 DOCUMENT 09 — PHASE 3: HOPF
 Live Question Set — Prompts with Insertion Points

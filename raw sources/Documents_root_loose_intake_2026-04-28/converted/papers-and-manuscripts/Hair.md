@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Hair
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/Hair.md
+---
+
 %0 Book
 %T Hair: Untangling a Social History
 %A Jolly, P.H.

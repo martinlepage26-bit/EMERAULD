@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: hub_decision_log
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/vault-product-scaffold/hub_decision_log.md
+---
+
 # Decision Log — [Project or Domain]
 
 See also [[Manuscript Pipeline MOC]].

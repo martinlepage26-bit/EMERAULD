@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: example_wiki_note
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/vault-product-scaffold/example_wiki_note.md
+---
+
 # Auth Migration — Firebase to Supabase
 
 > Delete this file after you've seen how wiki notes work.

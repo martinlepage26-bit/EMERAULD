@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: The Rooted Archive - Plant, Spirit, and Knowledge in Nine Chambers (scaffold)
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/The Rooted Archive - Plant, Spirit, and Knowledge in Nine Chambers (scaffold).md
+---
+
 A Curriculum for Advanced Students in Ethnobotany, Folklore, and Living Practice
 
   ---

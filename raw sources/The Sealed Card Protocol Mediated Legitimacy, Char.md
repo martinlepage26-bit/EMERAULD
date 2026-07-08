@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: The Sealed Card Protocol Mediated Legitimacy, Char
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/The Sealed Card Protocol Mediated Legitimacy, Char.md
+---
+
 ﻿The Sealed Card Protocol: Mediated Legitimacy, Charging, and Governance at the Seam
 Abstract
 This paper introduces the Sealed Card Protocol, an instrument for making mediated legitimacy observable under generative conditions. It begins from the glitch as a perceptual threshold event: the moment mediation becomes narratable and evaluation pivots from artifact to pathway. Rather than treating AI debates as capability disputes or moral arguments about authenticity, the protocol reframes them as governance disputes about pathway authorization under consequence pressure. It locks a disciplined vocabulary, distinguishing glitch, seam, pathway, charging, legibility, and legitimacy so evaluators cannot let criteria drift.

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Ahmed, Sara. The Promise of Happine
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/Ahmed, Sara. The Promise of Happine.md
+---
+
 Ahmed, Sara. The Promise of Happiness.
 
 Ang, Ien. Living Room Wars: Rethinking Media Audiences for a Postmodern World.

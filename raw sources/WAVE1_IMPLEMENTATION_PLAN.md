@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: WAVE1_IMPLEMENTATION_PLAN
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/WAVE1_IMPLEMENTATION_PLAN.md
+---
+
 # Wave 1 Clean Rewrite Plan — Implementation via Claude Code (WSL)
 
 **Purpose:** A coherent execution plan for implementing the co-equal authority decision, L99 demotion, and root/repo architecture choice through clean rewrites (not patches) in Claude Code on WSL.

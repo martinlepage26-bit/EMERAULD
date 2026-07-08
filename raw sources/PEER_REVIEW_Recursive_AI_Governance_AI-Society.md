@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: PEER_REVIEW_Recursive_AI_Governance_AI-Society
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/PEER_REVIEW_Recursive_AI_Governance_AI-Society.md
+---
+
 # Peer Review
 
 **Manuscript:** *Recursive AI Governance as Executable Method: The Very Long Narrative*

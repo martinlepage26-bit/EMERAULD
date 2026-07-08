@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: synthesis_prompt
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/vault-product-scaffold/synthesis_prompt.md
+---
+
 # Skill: Synthesis — Raw to Wiki
 
 ## Purpose

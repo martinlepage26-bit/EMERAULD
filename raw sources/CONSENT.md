@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: CONSENT
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/CONSENT.md
+---
+
 Consent is a multifaceted concept that has evolved over time and varies across different disciplines and cultures. Here’s an overview of its historical, social, legal, and cultural aspects:
 
 Historical Perspective

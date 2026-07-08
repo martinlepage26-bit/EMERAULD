@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: PHAROS AI governance service business — offer design session
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/PHAROS AI governance service business — offer design session.md
+---
+
  For companies already using AI but lacking basic controls, policy, risk documentation, or client-facing trust materials.
 
 AI governance is becoming a real buying problem. The EU AI Act applies progressively, with AI literacy and prohibited-practice provisions already applicable from February 2, 2025, GPAI obligations from August 2, 2025, and many high-risk and transparency obligations scheduled from August 2, 2026. ([AI Act Service Desk](https://ai-act-service-desk.ec.europa.eu/en/ai-act/eu-ai-act-implementation-timeline?utm_source=chatgpt.com "Timeline for the Implementation of the EU AI Act | AI Act Service Desk")) NIST’s AI RMF gives a practical voluntary structure around Govern, Map, Measure, and Manage, and its playbook gives implementation actions organizations can use. ([NIST](https://www.nist.gov/itl/ai-risk-management-framework?utm_source=chatgpt.com "AI Risk Management Framework | NIST")) In Canada, Bill C-27/AIDA did not become law in the 44th Parliament, but privacy, human rights, sectoral, and Quebec Law 25 style obligations still create governance pressure for businesses using AI. ([Parlement du Canada](https://www.parl.ca/legisinfo/en/bill/44-1/c-27?utm_source=chatgpt.com "C-27 (44-1) - LEGISinfo - Parliament of Canada"))

@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Markov Chains
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Markov Chains.md
+---
+
 The Markov chain explanation is broadly good. The martingale section needs tightening.
 
 The main corrections:

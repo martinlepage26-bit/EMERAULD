@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Complete Paper List — Martin Lepage
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/Complete Paper List — Martin Lepage.md
+---
+
  Complete Paper List — Martin Lepage Corpus
 
   69 files → 29 distinct scholarly works, cross-referenced with PHAROS METHOD REPOSITORY

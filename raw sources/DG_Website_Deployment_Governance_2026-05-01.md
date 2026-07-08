@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: DG_Website_Deployment_Governance_2026-05-01
+tags:
+- raw-source
+status: preserved
+created: '2026-05-01'
+vault_area: raw sources
+canonical_path: raw sources/DG_Website_Deployment_Governance_2026-05-01.md
+---
+
 # DG Website Deployment & Governance Audit — 2026-05-01
 
 **Session:** Claude Code (Haiku 4.5)  

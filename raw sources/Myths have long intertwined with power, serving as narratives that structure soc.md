@@ -1,3 +1,14 @@
+---
+type: raw-source
+title: Myths have long intertwined with power, serving as narratives that structure soc
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Myths have long intertwined with power, serving as narratives that structure soc.md
+---
+
 Myths have long intertwined with power, serving as narratives that structure societies, legitimize authority, and reflect human aspirations across history. They encode hierarchies, justify dominance, and adapt to economic realities, evolving from ancient oral traditions to modern ideologies.
 
 Structural Aspects
