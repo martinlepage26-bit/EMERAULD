@@ -19,7 +19,7 @@ vault_area: Resources
 canonical_path: Resources/Plugin Recommendations.md
 backlink_count: 14
 backlinks:
-- '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'
+- '[[Resources/Awesome Design Resources — Curated UI-UX Reference List]]'
 - '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'

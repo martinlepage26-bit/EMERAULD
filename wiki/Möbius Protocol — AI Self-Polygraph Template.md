@@ -23,7 +23,7 @@ backlink_count: 18
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Agent Session Phenomenology]]'
+- '[[Areas/PHAROS/Agent Session Phenomenology]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'

@@ -1,14 +1,10 @@
 ---
 type: wiki
-title: Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption
+title: Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption
 aliases:
-- Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of
-  Interruption
-- wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption
+- Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption
 tags:
-- wiki
+- areas
 - governance
 - ai
 - agents
@@ -22,9 +18,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency
-  to the Ethics of Interruption.md
+vault_area: Areas
+canonical_path: Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption.md
 backlink_count: 22
 backlinks:
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'

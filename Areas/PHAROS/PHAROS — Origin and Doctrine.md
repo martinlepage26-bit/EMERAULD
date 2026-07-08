@@ -27,8 +27,8 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS — Origin and Doctrine.md
 backlink_count: 18
 backlinks:
-- '[[wiki/Authority Without Power-Over]]'
-- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/PHAROS/Authority Without Power-Over]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[wiki/Consent, Fraud, and Boundary Protocols]]'
 - '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

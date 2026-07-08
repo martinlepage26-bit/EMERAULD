@@ -29,7 +29,7 @@ backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
-- '[[wiki/Authority Without Power-Over]]'
+- '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Mental illness, addiction, and AI psychosis]]'

@@ -22,7 +22,7 @@ canonical_path: wiki/Responsible AI Evaluation — Patient Readmission Model.md
 backlink_count: 13
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'

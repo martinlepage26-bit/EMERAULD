@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
   of Interruption]]'
 - '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
-- '[[wiki/Authority Without Power-Over]]'
+- '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[wiki/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'

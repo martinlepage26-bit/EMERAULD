@@ -25,7 +25,7 @@ backlink_count: 34
 backlinks:
 - '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/Consent and Boundary Frameworks]]'

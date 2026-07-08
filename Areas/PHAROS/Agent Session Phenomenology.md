@@ -3,9 +3,8 @@ type: wiki
 title: Agent Session Phenomenology
 aliases:
 - Agent Session Phenomenology
-- wiki/Agent Session Phenomenology
 tags:
-- wiki
+- areas
 - agents
 - agent-session-phenomenology-md
 - perimeter
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Agent Session Phenomenology.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Agent Session Phenomenology.md
 backlink_count: 26
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'

@@ -3,9 +3,8 @@ type: wiki
 title: Avatar Chapter — A Queer Reading of Embodied Power (English)
 aliases:
 - Avatar Chapter — A Queer Reading of Embodied Power (English)
-- wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)
 tags:
-- wiki
+- areas
 - queer
 - avatar-chapter-a-queer-reading-of-embodied-power-english-md
 - chapter
@@ -16,11 +15,11 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Avatar Chapter — A Queer Reading of Embodied Power (English).md
+vault_area: Areas
+canonical_path: Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English).md
 backlink_count: 11
 backlinks:
-- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'

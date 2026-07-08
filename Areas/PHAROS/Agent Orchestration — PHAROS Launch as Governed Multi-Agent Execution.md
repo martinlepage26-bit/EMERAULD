@@ -5,7 +5,6 @@ aliases:
 - Multi-Agent Launch Coordination
 - Governed Agent Orchestration
 - Hephaistos–Queen Keyport–Hermes in Practice
-- wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution
 tags:
 - pharos
 - governance
@@ -16,7 +15,7 @@ tags:
 - hermes
 - codex
 - henry
-- wiki
+- areas
 - agent-orchestration-pharos-launch-as-governed-multi-agent-execution-md
 - keyport
 - queen
@@ -27,8 +26,8 @@ tags:
 status: active
 created: 2026-05-01T17:45
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution.md
 backlink_count: 11
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'

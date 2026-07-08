@@ -22,7 +22,7 @@ canonical_path: wiki/Narrative and Method Integration — Creative Articulations
   Governance.md
 backlink_count: 14
 backlinks:
-- '[[wiki/Authority Without Power-Over]]'
+- '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'

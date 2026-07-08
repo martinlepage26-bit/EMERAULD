@@ -31,7 +31,7 @@ canonical_path: wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window
 backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
-- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
   (2026-06-22)]]'
 - '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'

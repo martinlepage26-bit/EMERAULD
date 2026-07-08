@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06).md
 backlink_count: 10
 backlinks:
-- '[[wiki/Argus]]'
+- '[[Areas/PHAROS/Argus]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'

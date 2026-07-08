@@ -22,7 +22,7 @@ backlink_count: 14
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[wiki/Consent, Fraud, and Boundary Protocols]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'

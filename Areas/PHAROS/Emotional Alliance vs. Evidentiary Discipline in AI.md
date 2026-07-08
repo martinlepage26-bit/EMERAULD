@@ -26,7 +26,7 @@ backlinks:
 - '[[Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
-- '[[wiki/Anti-Charm]]'
+- '[[Areas/PHAROS/Anti-Charm]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'

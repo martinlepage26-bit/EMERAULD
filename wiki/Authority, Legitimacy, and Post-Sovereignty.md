@@ -26,13 +26,13 @@ canonical_path: wiki/Authority, Legitimacy, and Post-Sovereignty.md
 backlink_count: 44
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
   of Interruption]]'
 - '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
-- '[[wiki/Authority Without Ethics — The Love Witch]]'
-- '[[wiki/Authority Without Power-Over]]'
+- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
+- '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'

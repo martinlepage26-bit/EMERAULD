@@ -32,10 +32,10 @@ backlink_count: 63
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
-- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
-- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'

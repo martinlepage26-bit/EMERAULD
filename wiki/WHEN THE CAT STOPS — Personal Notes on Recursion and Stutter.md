@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter.md
 backlink_count: 17
 backlinks:
-- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent, Fraud, and Boundary Protocols]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'

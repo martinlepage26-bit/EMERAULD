@@ -26,7 +26,7 @@ canonical_path: Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (20
 backlink_count: 18
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
-- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
 - '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
 - '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'

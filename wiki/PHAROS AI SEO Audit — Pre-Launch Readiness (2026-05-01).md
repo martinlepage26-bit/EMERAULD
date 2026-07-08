@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01).md
 backlink_count: 7
 backlinks:
-- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'

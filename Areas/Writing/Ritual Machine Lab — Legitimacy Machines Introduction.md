@@ -21,9 +21,9 @@ backlink_count: 27
 backlinks:
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
-- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

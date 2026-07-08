@@ -22,7 +22,7 @@ canonical_path: wiki/IF.EMOTION — Empathetic AI Architecture.md
 backlink_count: 9
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/InfraFabric Architecture]]'

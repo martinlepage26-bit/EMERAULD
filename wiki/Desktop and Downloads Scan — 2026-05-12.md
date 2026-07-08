@@ -25,7 +25,7 @@ vault_area: wiki
 canonical_path: wiki/Desktop and Downloads Scan — 2026-05-12.md
 backlink_count: 8
 backlinks:
-- '[[wiki/Brutal Isms — Grant Revision Package (2026-05-12)]]'
+- '[[Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Home]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'

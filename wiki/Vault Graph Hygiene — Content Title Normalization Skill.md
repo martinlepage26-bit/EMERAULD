@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/Vault Graph Hygiene — Content Title Normalization Skill.md
 backlink_count: 8
 backlinks:
-- '[[wiki/Anti-Charm]]'
+- '[[Areas/PHAROS/Anti-Charm]]'
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'

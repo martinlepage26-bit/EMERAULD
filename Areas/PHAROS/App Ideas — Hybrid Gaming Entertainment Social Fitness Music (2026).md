@@ -5,9 +5,8 @@ aliases:
 - Hybrid App Ideas 2026
 - Money-Making App Ideas
 - App Revenue Ideas
-- wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)
 tags:
-- wiki
+- areas
 - app-ideas-hybrid-gaming-entertainment-social-fitness-music-2026-md
 - music
 - fitness
@@ -18,9 +17,8 @@ tags:
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music
-  (2026).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026).md
 backlink_count: 5
 backlinks:
 - '[[.graph_store/graph_report]]'

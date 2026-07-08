@@ -24,8 +24,8 @@ canonical_path: wiki/Stuttering through the Institution — Academic Containment
 backlink_count: 17
 backlinks:
 - '[[Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
-- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'

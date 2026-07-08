@@ -24,7 +24,7 @@ canonical_path: wiki/bridges/2025 - AI Fundamentals for Business Professionals N
   2.md
 backlink_count: 3
 backlinks:
-- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 year: 2025

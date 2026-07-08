@@ -22,7 +22,7 @@ vault_area: wiki
 canonical_path: wiki/Inner Mind Eye.md
 backlink_count: 9
 backlinks:
-- '[[wiki/Anti-Charm]]'
+- '[[Areas/PHAROS/Anti-Charm]]'
 - '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'

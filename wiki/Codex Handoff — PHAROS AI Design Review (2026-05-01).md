@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01).md
 backlink_count: 13
 backlinks:
-- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'

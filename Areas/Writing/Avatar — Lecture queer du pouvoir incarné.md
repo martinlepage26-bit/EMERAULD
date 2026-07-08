@@ -3,9 +3,8 @@ type: wiki
 title: Avatar — Lecture queer du pouvoir incarné
 aliases:
 - Avatar — Lecture queer du pouvoir incarné
-- wiki/Avatar — Lecture queer du pouvoir incarné
 tags:
-- wiki
+- areas
 - queer
 - avatar-lecture-queer-du-pouvoir-incarn-md
 - tlok
@@ -17,12 +16,12 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Avatar — Lecture queer du pouvoir incarné.md
+vault_area: Areas
+canonical_path: Areas/Writing/Avatar — Lecture queer du pouvoir incarné.md
 backlink_count: 14
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
+- '[[Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'

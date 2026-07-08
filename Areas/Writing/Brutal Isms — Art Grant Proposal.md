@@ -3,9 +3,8 @@ type: wiki
 title: Brutal Isms — Art Grant Proposal
 aliases:
 - Brutal Isms — Art Grant Proposal
-- wiki/Brutal Isms — Art Grant Proposal
 tags:
-- wiki
+- areas
 - brutal-isms-art-grant-proposal-md
 - studio
 - sculpture
@@ -16,12 +15,12 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Brutal Isms — Art Grant Proposal.md
+vault_area: Areas
+canonical_path: Areas/Writing/Brutal Isms — Art Grant Proposal.md
 backlink_count: 8
 backlinks:
 - '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
-- '[[wiki/Brutal Isms — Grant Revision Package (2026-05-12)]]'
+- '[[Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12)]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'

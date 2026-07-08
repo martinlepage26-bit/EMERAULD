@@ -22,7 +22,7 @@ backlink_count: 37
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'

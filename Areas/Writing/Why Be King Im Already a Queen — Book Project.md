@@ -19,7 +19,7 @@ vault_area: Areas
 canonical_path: Areas/Writing/Why Be King Im Already a Queen — Book Project.md
 backlink_count: 20
 backlinks:
-- '[[wiki/Brutal Isms — Art Grant Proposal]]'
+- '[[Areas/Writing/Brutal Isms — Art Grant Proposal]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'

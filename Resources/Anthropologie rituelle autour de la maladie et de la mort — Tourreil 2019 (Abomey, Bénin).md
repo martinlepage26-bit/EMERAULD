@@ -1,12 +1,9 @@
 ---
 type: wiki
-title: Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey,
-  Bénin)
+title: Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)
 aliases:
 - Tourreil 2019 Abomey
 - Maladie, mort, et rituel vaudou (Tourreil)
-- wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey,
-  Bénin)
 tags:
 - reference
 - thesis
@@ -16,7 +13,7 @@ tags:
 - illness
 - vaudou
 - benin
-- wiki
+- resources
 - anthropologie-rituelle-autour-de-la-maladie-et-de-la-mort-tourreil-2019-abomey-b-nin-md
 - tourreil
 - abomey
@@ -26,9 +23,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil
-  2019 (Abomey, Bénin).md
+vault_area: Resources
+canonical_path: Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin).md
 backlink_count: 6
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

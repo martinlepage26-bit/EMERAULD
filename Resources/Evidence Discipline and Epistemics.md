@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
 - '[[Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Anti-Charm]]'
+- '[[Areas/PHAROS/Anti-Charm]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Care, Ethics, and Governance]]'

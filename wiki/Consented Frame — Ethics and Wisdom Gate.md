@@ -28,7 +28,7 @@ canonical_path: wiki/Consented Frame — Ethics and Wisdom Gate.md
 backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
-- '[[wiki/Anti-Charm]]'
+- '[[Areas/PHAROS/Anti-Charm]]'
 - '[[wiki/Claude Code Skill Corpus]]'
 - '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'

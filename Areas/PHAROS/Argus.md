@@ -5,13 +5,12 @@ aliases:
 - Argus
 - Argus — Meta-Governance Auditor
 - L99 Demotion to Argus Review Criterion — Decision Spec
-- wiki/Argus
 tags:
 - argus
 - governance
 - audit
 - authority
-- wiki
+- areas
 - argus-md
 - relinking
 - demotion
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Argus.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Argus.md
 backlink_count: 13
 backlinks:
 - '[[archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23]]'

@@ -24,7 +24,7 @@ vault_area: wiki
 canonical_path: wiki/Local Hardware and Discovery Snapshot — Laptop A.md
 backlink_count: 15
 backlinks:
-- '[[wiki/Agent Session Phenomenology]]'
+- '[[Areas/PHAROS/Agent Session Phenomenology]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'

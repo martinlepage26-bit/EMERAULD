@@ -20,8 +20,8 @@ canonical_path: Areas/Writing/Legitimacy Machines — Book Skeleton and Architec
 backlink_count: 31
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
-- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
+- '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[wiki/CODEX Writing Projects Manifest]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'

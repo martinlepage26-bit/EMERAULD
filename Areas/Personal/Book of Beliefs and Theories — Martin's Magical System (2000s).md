@@ -5,14 +5,13 @@ aliases:
 - Book of Beliefs
 - Martin's Early Beliefs
 - 2000s magical theories
-- wiki/Book of Beliefs and Theories — Martin's Magical System (2000s)
 tags:
 - personal
 - magic
 - beliefs
 - spiritual-system
 - early-writing
-- wiki
+- areas
 - book-of-beliefs-and-theories-martin-s-magical-system-2000s-md
 - demon
 - heart
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-05-04'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Book of Beliefs and Theories — Martin's Magical System (2000s).md
+vault_area: Areas
+canonical_path: Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s).md
 backlink_count: 6
 backlinks:
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'

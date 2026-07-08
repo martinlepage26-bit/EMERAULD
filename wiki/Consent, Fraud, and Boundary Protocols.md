@@ -20,9 +20,9 @@ vault_area: wiki
 canonical_path: wiki/Consent, Fraud, and Boundary Protocols.md
 backlink_count: 17
 backlinks:
-- '[[wiki/Authority Without Power-Over]]'
+- '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'

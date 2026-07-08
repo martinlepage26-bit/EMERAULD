@@ -3,9 +3,8 @@ type: wiki
 title: Bonded Intelligence Under Constraint — The LOTUS Processor Framework
 aliases:
 - Bonded Intelligence Under Constraint — The LOTUS Processor Framework
-- wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework
 tags:
-- wiki
+- areas
 - ai
 - bonded-intelligence-under-constraint-the-lotus-processor-framework-md
 - lotus
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework.md
 backlink_count: 22
 backlinks:
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
@@ -33,16 +32,14 @@ backlinks:
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/LOTUS Premium Spec]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
-  and Computational Memory Architectures]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[projects/LOTUS — Fisher King Project State]]'
 ---

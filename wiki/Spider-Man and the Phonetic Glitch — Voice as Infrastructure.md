@@ -22,7 +22,7 @@ backlink_count: 20
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'

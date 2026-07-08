@@ -22,8 +22,8 @@ canonical_path: wiki/Crossing Under Watch — Troll's Toll and Digital Ritual Pa
 backlink_count: 15
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Home]]'

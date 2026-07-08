@@ -24,7 +24,7 @@ canonical_path: governance/hephaistos/HENRY.md
 backlink_count: 7
 backlinks:
 - '[[.github/agents/henry.agent]]'
-- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'

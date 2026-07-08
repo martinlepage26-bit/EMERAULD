@@ -24,8 +24,8 @@ backlinks:
 - '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
   of Interruption]]'
-- '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
-- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/PHAROS/Architectural AI Governance — Willis and PBSAI]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Consent and Boundary Frameworks]]'

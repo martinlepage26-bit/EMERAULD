@@ -23,7 +23,7 @@ canonical_path: wiki/Magic After Legitimacy — Charmed and the Governance of Fe
   Power.md
 backlink_count: 19
 backlinks:
-- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'

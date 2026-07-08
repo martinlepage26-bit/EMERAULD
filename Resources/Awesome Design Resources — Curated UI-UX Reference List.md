@@ -6,7 +6,6 @@ aliases:
 - design resources
 - UI-UX toolkit
 - Awesome Design Resources — Curated UI/UX Reference List
-- wiki/Awesome Design Resources — Curated UI-UX Reference List
 tags:
 - design
 - resources
@@ -16,7 +15,6 @@ tags:
 - color
 - tools
 - frontend
-- wiki
 - awesome-design-resources-curated-ui-ux-reference-list-md
 - awesome
 - colors
@@ -26,8 +24,8 @@ tags:
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Awesome Design Resources — Curated UI-UX Reference List.md
+vault_area: Resources
+canonical_path: Resources/Awesome Design Resources — Curated UI-UX Reference List.md
 backlink_count: 5
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

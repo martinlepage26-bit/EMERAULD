@@ -5,7 +5,6 @@ aliases:
 - Brutal Isms 2026 revision pack
 - Brutal Isms grant final package
 - GLAMMY Brutal Isms grant update
-- wiki/Brutal Isms — Grant Revision Package (2026-05-12)
 tags:
 - creative
 - grant
@@ -13,7 +12,7 @@ tags:
 - studio-practice
 - revision
 - portfolio
-- wiki
+- areas
 - brutal-isms-grant-revision-package-2026-05-12-md
 - brutal
 - isms
@@ -23,11 +22,11 @@ tags:
 status: active
 created: '2026-05-12'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Brutal Isms — Grant Revision Package (2026-05-12).md
+vault_area: Areas
+canonical_path: Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12).md
 backlink_count: 4
 backlinks:
-- '[[wiki/Brutal Isms — Art Grant Proposal]]'
+- '[[Areas/Writing/Brutal Isms — Art Grant Proposal]]'
 - '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

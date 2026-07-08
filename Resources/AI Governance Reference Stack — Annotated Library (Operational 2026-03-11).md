@@ -26,7 +26,7 @@ backlink_count: 16
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
-- '[[wiki/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)]]'
+- '[[Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'

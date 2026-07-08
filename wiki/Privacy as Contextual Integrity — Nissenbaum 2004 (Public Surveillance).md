@@ -27,7 +27,7 @@ canonical_path: wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public
 backlink_count: 11
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)]]'
+- '[[Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'

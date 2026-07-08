@@ -25,7 +25,7 @@ backlink_count: 11
 backlinks:
 - '[[.github/agents/argus.agent]]'
 - '[[.trash/2026-05-05_botpress-enterprise]]'
-- '[[wiki/Argus]]'
+- '[[Areas/PHAROS/Argus]]'
 - '[[CLAUDE]]'
 - '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

@@ -26,7 +26,7 @@ canonical_path: wiki/Mental illness, addiction, and AI psychosis.md
 backlink_count: 6
 backlinks:
 - '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
-- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'

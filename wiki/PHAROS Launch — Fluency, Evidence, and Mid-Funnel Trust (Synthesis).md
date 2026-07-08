@@ -29,7 +29,7 @@ canonical_path: wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (
 backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
-- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
 - '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
 - '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'

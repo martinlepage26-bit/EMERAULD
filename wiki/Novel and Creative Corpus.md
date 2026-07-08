@@ -25,8 +25,8 @@ vault_area: wiki
 canonical_path: wiki/Novel and Creative Corpus.md
 backlink_count: 23
 backlinks:
-- '[[wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
-- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
+- '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/Writing/CORPUS Novel — Version Genealogy]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'

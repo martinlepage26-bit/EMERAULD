@@ -5,14 +5,13 @@ aliases:
 - Authority Without Power-Over
 - Binding Principle
 - Stewardship not dominion
-- wiki/Authority Without Power-Over
 tags:
 - governance
 - binding-principle
 - authority
 - stewardship
 - hephaistos
-- wiki
+- areas
 - authority-without-power-over-md
 - principle
 - consent
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-05-02'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Authority Without Power-Over.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Authority Without Power-Over.md
 backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
@@ -36,8 +35,7 @@ backlinks:
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[wiki/Machine Limitation]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
-  Projection]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

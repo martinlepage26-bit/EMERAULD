@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
-- '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'
+- '[[Resources/Awesome Design Resources — Curated UI-UX Reference List]]'
 - '[[wiki/CLAUDEX — AI Dialogue Archive]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'

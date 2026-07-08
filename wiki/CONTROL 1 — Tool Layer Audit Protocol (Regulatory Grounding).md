@@ -22,7 +22,7 @@ vault_area: wiki
 canonical_path: wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding).md
 backlink_count: 24
 backlinks:
-- '[[wiki/Argus]]'
+- '[[Areas/PHAROS/Argus]]'
 - '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'

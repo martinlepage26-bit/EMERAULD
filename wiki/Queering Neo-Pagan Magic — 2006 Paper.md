@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/Queering Neo-Pagan Magic — 2006 Paper.md
 backlink_count: 24
 backlinks:
-- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'

@@ -3,9 +3,8 @@ type: wiki
 title: Authority Without Ethics — The Love Witch
 aliases:
 - Authority Without Ethics — The Love Witch
-- wiki/Authority Without Ethics — The Love Witch
 tags:
-- wiki
+- areas
 - authority-without-ethics-the-love-witch-md
 - elaine
 - film
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Authority Without Ethics — The Love Witch.md
+vault_area: Areas
+canonical_path: Areas/Writing/Authority Without Ethics — The Love Witch.md
 backlink_count: 27
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
@@ -28,8 +27,7 @@ backlinks:
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
-  Activism Switzerland)]]'
+- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
@@ -37,8 +35,7 @@ backlinks:
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
-- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
-  Projection]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'

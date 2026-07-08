@@ -20,7 +20,7 @@ canonical_path: Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastr
 backlink_count: 31
 backlinks:
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
-- '[[wiki/Authority Without Power-Over]]'
+- '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'

@@ -3,9 +3,8 @@ type: wiki
 title: Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology
 aliases:
 - Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology
-- wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology
 tags:
-- wiki
+- areas
 - beyond-fluency-stuttering-autoethnography-and-unstable-epistemology-md
 - fluency
 - stuttering
@@ -16,12 +15,11 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology.md
+vault_area: Areas
+canonical_path: Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology.md
 backlink_count: 39
 backlinks:
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'

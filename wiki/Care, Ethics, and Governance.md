@@ -27,7 +27,7 @@ canonical_path: wiki/Care, Ethics, and Governance.md
 backlink_count: 27
 backlinks:
 - '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
-- '[[wiki/Authority Without Power-Over]]'
+- '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'

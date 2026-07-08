@@ -25,7 +25,7 @@ vault_area: Areas
 canonical_path: Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026).md
 backlink_count: 7
 backlinks:
-- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

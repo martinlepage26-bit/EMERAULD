@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/APEX Papers — Research Archive Map]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
-- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/CODEX Writing Projects Manifest]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'

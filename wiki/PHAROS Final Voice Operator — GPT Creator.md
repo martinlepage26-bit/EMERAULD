@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governess Agatha GPT — ChatGPT Product Specification]]'

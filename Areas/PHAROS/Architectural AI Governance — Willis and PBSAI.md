@@ -3,9 +3,8 @@ type: wiki
 title: Architectural AI Governance — Willis and PBSAI
 aliases:
 - Architectural AI Governance — Willis and PBSAI
-- wiki/Architectural AI Governance — Willis and PBSAI
 tags:
-- wiki
+- areas
 - governance
 - ai
 - architectural-ai-governance-willis-and-pbsai-md
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Architectural AI Governance — Willis and PBSAI.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Architectural AI Governance — Willis and PBSAI.md
 backlink_count: 13
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'

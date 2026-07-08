@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
-- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'

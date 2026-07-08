@@ -97,109 +97,6 @@
     "backlinks": 2
   },
   {
-    "id": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
-    "title": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
-    "path": "wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Governed Agent Orchestration",
-      "Hephaistos–Queen Keyport–Hermes in Practice",
-      "Multi-Agent Launch Coordination",
-      "wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution"
-    ],
-    "outlinks": 24,
-    "unique_outlinks": 14,
-    "backlinks": 15
-  },
-  {
-    "id": "Agent Session Phenomenology",
-    "title": "Agent Session Phenomenology",
-    "path": "wiki/Agent Session Phenomenology.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Agent Session Phenomenology",
-      "wiki/Agent Session Phenomenology"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 10,
-    "backlinks": 35
-  },
-  {
-    "id": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
-    "title": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
-    "path": "wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of",
-      "wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics"
-    ],
-    "outlinks": 24,
-    "unique_outlinks": 14,
-    "backlinks": 31
-  },
-  {
-    "id": "Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)",
-    "title": "Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)",
-    "path": "wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Maladie, mort, et rituel vaudou (Tourreil)",
-      "Tourreil 2019 Abomey",
-      "wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey,"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 4,
-    "backlinks": 8
-  },
-  {
-    "id": "Anti-Charm",
-    "title": "Anti-Charm",
-    "path": "wiki/Anti-Charm.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Anti-Charm",
-      "wiki/Anti-Charm"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 8,
-    "backlinks": 14
-  },
-  {
-    "id": "App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)",
-    "title": "App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)",
-    "path": "wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "App Revenue Ideas",
-      "Hybrid App Ideas 2026",
-      "Money-Making App Ideas",
-      "wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 4,
-    "backlinks": 7
-  },
-  {
-    "id": "Architectural AI Governance — Willis and PBSAI",
-    "title": "Architectural AI Governance — Willis and PBSAI",
-    "path": "wiki/Architectural AI Governance — Willis and PBSAI.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Architectural AI Governance — Willis and PBSAI",
-      "wiki/Architectural AI Governance — Willis and PBSAI"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 6,
-    "backlinks": 20
-  },
-  {
     "id": "Architecture - EMERAULD Scripts - Intake Pipeline",
     "title": "Architecture - EMERAULD Scripts - Intake Pipeline",
     "path": "wiki/Architecture - EMERAULD Scripts - Intake Pipeline.md",
@@ -609,6 +506,75 @@
     "backlinks": 6
   },
   {
+    "id": "Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
+    "title": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
+    "path": "Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Governed Agent Orchestration",
+      "Hephaistos–Queen Keyport–Hermes in Practice",
+      "Multi-Agent Launch Coordination"
+    ],
+    "outlinks": 24,
+    "unique_outlinks": 14,
+    "backlinks": 15
+  },
+  {
+    "id": "Areas/PHAROS/Agent Session Phenomenology",
+    "title": "Agent Session Phenomenology",
+    "path": "Areas/PHAROS/Agent Session Phenomenology.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Agent Session Phenomenology"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 10,
+    "backlinks": 35
+  },
+  {
+    "id": "Areas/PHAROS/Anti-Charm",
+    "title": "Anti-Charm",
+    "path": "Areas/PHAROS/Anti-Charm.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Anti-Charm"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 8,
+    "backlinks": 14
+  },
+  {
+    "id": "Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)",
+    "title": "App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)",
+    "path": "Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "App Revenue Ideas",
+      "Hybrid App Ideas 2026",
+      "Money-Making App Ideas"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 4,
+    "backlinks": 7
+  },
+  {
+    "id": "Areas/PHAROS/Architectural AI Governance — Willis and PBSAI",
+    "title": "Architectural AI Governance — Willis and PBSAI",
+    "path": "Areas/PHAROS/Architectural AI Governance — Willis and PBSAI.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Architectural AI Governance — Willis and PBSAI"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 6,
+    "backlinks": 20
+  },
+  {
     "id": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
     "title": "Architecture Translation Guide — Eight Operators to Three-Agent Stack",
     "path": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack.md",
@@ -624,6 +590,21 @@
     "backlinks": 18
   },
   {
+    "id": "Areas/PHAROS/Argus",
+    "title": "Argus",
+    "path": "Areas/PHAROS/Argus.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Argus",
+      "Argus — Meta-Governance Auditor",
+      "L99 Demotion to Argus Review Criterion — Decision Spec"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 5,
+    "backlinks": 30
+  },
+  {
     "id": "Areas/PHAROS/AurorA — COMPASSai Input Module",
     "title": "AurorA — COMPASSai Input Module",
     "path": "Areas/PHAROS/AurorA — COMPASSai Input Module.md",
@@ -636,6 +617,34 @@
     "outlinks": 29,
     "unique_outlinks": 15,
     "backlinks": 47
+  },
+  {
+    "id": "Areas/PHAROS/Authority Without Power-Over",
+    "title": "Authority Without Power-Over",
+    "path": "Areas/PHAROS/Authority Without Power-Over.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Authority Without Power-Over",
+      "Binding Principle",
+      "Stewardship not dominion"
+    ],
+    "outlinks": 20,
+    "unique_outlinks": 13,
+    "backlinks": 20
+  },
+  {
+    "id": "Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework",
+    "title": "Bonded Intelligence Under Constraint — The LOTUS Processor Framework",
+    "path": "Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Bonded Intelligence Under Constraint — The LOTUS Processor Framework"
+    ],
+    "outlinks": 22,
+    "unique_outlinks": 13,
+    "backlinks": 37
   },
   {
     "id": "Areas/PHAROS/COMPASSai — Governance Engine",
@@ -735,7 +744,7 @@
       "GOVERNANCE CONTROLS INTEGRATION DASHBOARD"
     ],
     "outlinks": 20,
-    "unique_outlinks": 9,
+    "unique_outlinks": 10,
     "backlinks": 23
   },
   {
@@ -820,7 +829,7 @@
     ],
     "outlinks": 47,
     "unique_outlinks": 43,
-    "backlinks": 269
+    "backlinks": 242
   },
   {
     "id": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
@@ -1300,6 +1309,34 @@
     "backlinks": 0
   },
   {
+    "id": "Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s)",
+    "title": "Book of Beliefs and Theories — Martin's Magical System (2000s)",
+    "path": "Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "2000s magical theories",
+      "Book of Beliefs",
+      "Martin's Early Beliefs"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 10,
+    "backlinks": 11
+  },
+  {
+    "id": "Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis",
+    "title": "CDPDJ Complaint — Lepage v Calian and Novartis",
+    "path": "Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "CDPDJ Complaint — Lepage v Calian and Novartis"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 11,
+    "backlinks": 38
+  },
+  {
     "id": "Areas/Personal/Personal and Projects MOC",
     "title": "Personal and Projects MOC",
     "path": "Areas/Personal/Personal and Projects MOC.md",
@@ -1447,6 +1484,19 @@
     "backlinks": 7
   },
   {
+    "id": "Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "title": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "path": "Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption"
+    ],
+    "outlinks": 24,
+    "unique_outlinks": 14,
+    "backlinks": 31
+  },
+  {
     "id": "Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory",
     "title": "Authority After Legitimacy — Disenchantment and Queer Political Theory",
     "path": "Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory.md",
@@ -1458,6 +1508,58 @@
     "outlinks": 26,
     "unique_outlinks": 16,
     "backlinks": 44
+  },
+  {
+    "id": "Areas/Writing/Authority Without Ethics — The Love Witch",
+    "title": "Authority Without Ethics — The Love Witch",
+    "path": "Areas/Writing/Authority Without Ethics — The Love Witch.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Authority Without Ethics — The Love Witch"
+    ],
+    "outlinks": 27,
+    "unique_outlinks": 17,
+    "backlinks": 37
+  },
+  {
+    "id": "Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English)",
+    "title": "Avatar Chapter — A Queer Reading of Embodied Power (English)",
+    "path": "Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Avatar Chapter — A Queer Reading of Embodied Power (English)"
+    ],
+    "outlinks": 16,
+    "unique_outlinks": 9,
+    "backlinks": 14
+  },
+  {
+    "id": "Areas/Writing/Avatar — Lecture queer du pouvoir incarné",
+    "title": "Avatar — Lecture queer du pouvoir incarné",
+    "path": "Areas/Writing/Avatar — Lecture queer du pouvoir incarné.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Avatar — Lecture queer du pouvoir incarné"
+    ],
+    "outlinks": 21,
+    "unique_outlinks": 13,
+    "backlinks": 19
+  },
+  {
+    "id": "Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology",
+    "title": "Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology",
+    "path": "Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology"
+    ],
+    "outlinks": 30,
+    "unique_outlinks": 18,
+    "backlinks": 62
   },
   {
     "id": "Areas/Writing/Breath of the Astral Year — Astrology Monograph",
@@ -1484,6 +1586,34 @@
     "outlinks": 3,
     "unique_outlinks": 2,
     "backlinks": 6
+  },
+  {
+    "id": "Areas/Writing/Brutal Isms — Art Grant Proposal",
+    "title": "Brutal Isms — Art Grant Proposal",
+    "path": "Areas/Writing/Brutal Isms — Art Grant Proposal.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Brutal Isms — Art Grant Proposal"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 6,
+    "backlinks": 13
+  },
+  {
+    "id": "Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12)",
+    "title": "Brutal Isms — Grant Revision Package (2026-05-12)",
+    "path": "Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Brutal Isms 2026 revision pack",
+      "Brutal Isms grant final package",
+      "GLAMMY Brutal Isms grant update"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 4,
+    "backlinks": 7
   },
   {
     "id": "Areas/Writing/CORPUS Novel — Version Genealogy",
@@ -2130,22 +2260,6 @@
     "backlinks": 30
   },
   {
-    "id": "Argus",
-    "title": "Argus",
-    "path": "wiki/Argus.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Argus",
-      "Argus — Meta-Governance Auditor",
-      "L99 Demotion to Argus Review Criterion — Decision Spec",
-      "wiki/Argus"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 6,
-    "backlinks": 3
-  },
-  {
     "id": "Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)",
     "title": "Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)",
     "path": "wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06).md",
@@ -2177,36 +2291,6 @@
     "backlinks": 29
   },
   {
-    "id": "Authority Without Ethics — The Love Witch",
-    "title": "Authority Without Ethics — The Love Witch",
-    "path": "wiki/Authority Without Ethics — The Love Witch.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Authority Without Ethics — The Love Witch",
-      "wiki/Authority Without Ethics — The Love Witch"
-    ],
-    "outlinks": 27,
-    "unique_outlinks": 17,
-    "backlinks": 37
-  },
-  {
-    "id": "Authority Without Power-Over",
-    "title": "Authority Without Power-Over",
-    "path": "wiki/Authority Without Power-Over.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Authority Without Power-Over",
-      "Binding Principle",
-      "Stewardship not dominion",
-      "wiki/Authority Without Power-Over"
-    ],
-    "outlinks": 20,
-    "unique_outlinks": 13,
-    "backlinks": 20
-  },
-  {
     "id": "Authority, Legitimacy, and Post-Sovereignty",
     "title": "Authority, Legitimacy, and Post-Sovereignty",
     "path": "wiki/Authority, Legitimacy, and Post-Sovereignty.md",
@@ -2221,140 +2305,6 @@
     "backlinks": 281
   },
   {
-    "id": "Avatar Chapter — A Queer Reading of Embodied Power (English)",
-    "title": "Avatar Chapter — A Queer Reading of Embodied Power (English)",
-    "path": "wiki/Avatar Chapter — A Queer Reading of Embodied Power (English).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Avatar Chapter — A Queer Reading of Embodied Power (English)",
-      "wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)"
-    ],
-    "outlinks": 16,
-    "unique_outlinks": 9,
-    "backlinks": 14
-  },
-  {
-    "id": "Avatar — Lecture queer du pouvoir incarné",
-    "title": "Avatar — Lecture queer du pouvoir incarné",
-    "path": "wiki/Avatar — Lecture queer du pouvoir incarné.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Avatar — Lecture queer du pouvoir incarné",
-      "wiki/Avatar — Lecture queer du pouvoir incarné"
-    ],
-    "outlinks": 21,
-    "unique_outlinks": 13,
-    "backlinks": 19
-  },
-  {
-    "id": "Awesome Design Resources — Curated UI-UX Reference List",
-    "title": "Awesome Design Resources — Curated UI-UX Reference List",
-    "path": "wiki/Awesome Design Resources — Curated UI-UX Reference List.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Awesome Design Resources — Curated UI/UX Reference List",
-      "UI-UX toolkit",
-      "awesome-design",
-      "design resources",
-      "wiki/Awesome Design Resources — Curated UI-UX Reference List"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 4,
-    "backlinks": 10
-  },
-  {
-    "id": "Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology",
-    "title": "Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology",
-    "path": "wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology",
-      "wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology"
-    ],
-    "outlinks": 30,
-    "unique_outlinks": 18,
-    "backlinks": 62
-  },
-  {
-    "id": "Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)",
-    "title": "Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)",
-    "path": "wiki/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Barocas and Selbst 2016 disparate impact",
-      "Big Data's Disparate Impact",
-      "wiki/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 3,
-    "backlinks": 14
-  },
-  {
-    "id": "Bonded Intelligence Under Constraint — The LOTUS Processor Framework",
-    "title": "Bonded Intelligence Under Constraint — The LOTUS Processor Framework",
-    "path": "wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Bonded Intelligence Under Constraint — The LOTUS Processor Framework",
-      "wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework"
-    ],
-    "outlinks": 22,
-    "unique_outlinks": 13,
-    "backlinks": 37
-  },
-  {
-    "id": "Book of Beliefs and Theories — Martin's Magical System (2000s)",
-    "title": "Book of Beliefs and Theories — Martin's Magical System (2000s)",
-    "path": "wiki/Book of Beliefs and Theories — Martin's Magical System (2000s).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "2000s magical theories",
-      "Book of Beliefs",
-      "Martin's Early Beliefs",
-      "wiki/Book of Beliefs and Theories — Martin's Magical System (2000s)"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 10,
-    "backlinks": 11
-  },
-  {
-    "id": "Brutal Isms — Art Grant Proposal",
-    "title": "Brutal Isms — Art Grant Proposal",
-    "path": "wiki/Brutal Isms — Art Grant Proposal.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Brutal Isms — Art Grant Proposal",
-      "wiki/Brutal Isms — Art Grant Proposal"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 6,
-    "backlinks": 13
-  },
-  {
-    "id": "Brutal Isms — Grant Revision Package (2026-05-12)",
-    "title": "Brutal Isms — Grant Revision Package (2026-05-12)",
-    "path": "wiki/Brutal Isms — Grant Revision Package (2026-05-12).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Brutal Isms 2026 revision pack",
-      "Brutal Isms grant final package",
-      "GLAMMY Brutal Isms grant update",
-      "wiki/Brutal Isms — Grant Revision Package (2026-05-12)"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 4,
-    "backlinks": 7
-  },
-  {
     "id": "Buffy Slayer Studies",
     "title": "Buffy Slayer Studies",
     "path": "wiki/Buffy Slayer Studies.md",
@@ -2367,20 +2317,6 @@
     "outlinks": 29,
     "unique_outlinks": 28,
     "backlinks": 83
-  },
-  {
-    "id": "CDPDJ Complaint — Lepage v Calian and Novartis",
-    "title": "CDPDJ Complaint — Lepage v Calian and Novartis",
-    "path": "wiki/CDPDJ Complaint — Lepage v Calian and Novartis.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "CDPDJ Complaint — Lepage v Calian and Novartis",
-      "wiki/CDPDJ Complaint — Lepage v Calian and Novartis"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 11,
-    "backlinks": 38
   },
   {
     "id": "CLAUDEX — AI Dialogue Archive",
@@ -2482,7 +2418,7 @@
       "wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)"
     ],
     "outlinks": 15,
-    "unique_outlinks": 8,
+    "unique_outlinks": 9,
     "backlinks": 33
   },
   {
@@ -2497,7 +2433,7 @@
       "wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)"
     ],
     "outlinks": 15,
-    "unique_outlinks": 10,
+    "unique_outlinks": 11,
     "backlinks": 32
   },
   {
@@ -2512,7 +2448,7 @@
       "wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)"
     ],
     "outlinks": 18,
-    "unique_outlinks": 8,
+    "unique_outlinks": 9,
     "backlinks": 31
   },
   {
@@ -5056,7 +4992,7 @@
       "wiki/Narrative and Method Integration — Creative Articulations of Governance"
     ],
     "outlinks": 50,
-    "unique_outlinks": 27,
+    "unique_outlinks": 28,
     "backlinks": 18
   },
   {
@@ -5115,7 +5051,7 @@
       "wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control"
     ],
     "outlinks": 34,
-    "unique_outlinks": 12,
+    "unique_outlinks": 13,
     "backlinks": 20
   },
   {
@@ -7095,6 +7031,20 @@
     "backlinks": 11
   },
   {
+    "id": "Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)",
+    "title": "Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)",
+    "path": "Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Maladie, mort, et rituel vaudou (Tourreil)",
+      "Tourreil 2019 Abomey"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 4,
+    "backlinks": 8
+  },
+  {
     "id": "Resources/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)",
     "title": "Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)",
     "path": "Resources/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment).md",
@@ -7107,6 +7057,36 @@
     "outlinks": 4,
     "unique_outlinks": 3,
     "backlinks": 11
+  },
+  {
+    "id": "Resources/Awesome Design Resources — Curated UI-UX Reference List",
+    "title": "Awesome Design Resources — Curated UI-UX Reference List",
+    "path": "Resources/Awesome Design Resources — Curated UI-UX Reference List.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Awesome Design Resources — Curated UI/UX Reference List",
+      "UI-UX toolkit",
+      "awesome-design",
+      "design resources"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 4,
+    "backlinks": 10
+  },
+  {
+    "id": "Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)",
+    "title": "Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)",
+    "path": "Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Barocas and Selbst 2016 disparate impact",
+      "Big Data's Disparate Impact"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 3,
+    "backlinks": 14
   },
   {
     "id": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
@@ -9534,7 +9514,7 @@
       "archive/session-state/session-state-001"
     ],
     "outlinks": 270,
-    "unique_outlinks": 162,
+    "unique_outlinks": 163,
     "backlinks": 5
   },
   {
@@ -9645,7 +9625,7 @@
       "Agent Ecosystem Audit — 2026-04-23"
     ],
     "outlinks": 3,
-    "unique_outlinks": 2,
+    "unique_outlinks": 3,
     "backlinks": 8
   },
   {
@@ -10773,7 +10753,7 @@
       "stale-projects-2026-07-04"
     ],
     "outlinks": 427,
-    "unique_outlinks": 426,
+    "unique_outlinks": 427,
     "backlinks": 3
   },
   {
@@ -10786,7 +10766,7 @@
       "stale-projects-2026-07-05"
     ],
     "outlinks": 426,
-    "unique_outlinks": 423,
+    "unique_outlinks": 424,
     "backlinks": 2
   },
   {
@@ -10797,7 +10777,7 @@
     "status": "active",
     "aliases": [],
     "outlinks": 426,
-    "unique_outlinks": 425,
+    "unique_outlinks": 426,
     "backlinks": 3
   },
   {
@@ -10808,7 +10788,7 @@
     "status": "active",
     "aliases": [],
     "outlinks": 425,
-    "unique_outlinks": 424,
+    "unique_outlinks": 425,
     "backlinks": 3
   },
   {
@@ -11396,7 +11376,7 @@
       "governance/governance-index"
     ],
     "outlinks": 21,
-    "unique_outlinks": 17,
+    "unique_outlinks": 18,
     "backlinks": 4
   },
   {
@@ -11691,7 +11671,7 @@
     ],
     "outlinks": 3,
     "unique_outlinks": 3,
-    "backlinks": 5
+    "backlinks": 4
   },
   {
     "id": "governance/hephaistos/NEXT-STEPS",
@@ -15526,7 +15506,7 @@
       "wiki/multi-agent-orchestration Skill — Governance Case File"
     ],
     "outlinks": 18,
-    "unique_outlinks": 7,
+    "unique_outlinks": 8,
     "backlinks": 8
   },
   {

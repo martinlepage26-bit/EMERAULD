@@ -1,13 +1,13 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:37:24Z
+Built: 2026-07-08T05:37:26Z
 Corpus: wiki/**/*.md
 
 ## Summary
 
 - Nodes: 1415
-- Directed edges: 13110
-- Link mentions: 20797
+- Directed edges: 13123
+- Link mentions: 20796
 - Unresolved wikilinks: 3193
 - Connected components: 46
 - Largest component: 1361
@@ -22,9 +22,9 @@ Corpus: wiki/**/*.md
 - 101+: 28
 - 11-20: 199
 - 2: 366
-- 21-50: 151
+- 21-50: 152
 - 3-4: 168
-- 5-6: 67
+- 5-6: 66
 - 51-100: 43
 - 7-10: 160
 
@@ -350,20 +350,20 @@ Corpus: wiki/**/*.md
 - `queen-keyport.agent`: 5
 - `hermes.agent`: 5
 - `Martin Lepage, PhD — External Review Profile (Offline-Ready)`: 5
+- `﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch`: 5
 - `“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal`: 5
 - `Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members`: 5
-- `﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch`: 5
 - `Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research`: 5
 - `readme`: 5
 - `EXTERNAL DATA REGISTRY (Phase 1 Build)`: 5
 - `wikilinks`: 5
+- `Readme`: 4
 - `ARCHITECTURE-STATUS-MARKING-CHECKLIST`: 4
 - `GAIA Positioning Statement — Evidence-Aware Version`: 4
 - `Governance by Denial — Revised Working Draft`: 4
 - `skill`: 4
 - `Complete Paper List — Martin Lepage`: 4
 - `Dr_Sort_masterlist_2026-03-08`: 4
-- `Readme`: 4
 - `Welcome to this course on ethical and societal asp`: 4
 - `_vault/VAULT ADDITIONS TRACKER`: 4
 - `Session State — Project Name`: 4

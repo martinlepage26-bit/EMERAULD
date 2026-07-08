@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md
 backlink_count: 23
 backlinks:
-- '[[wiki/Brutal Isms — Art Grant Proposal]]'
+- '[[Areas/Writing/Brutal Isms — Art Grant Proposal]]'
 - '[[Areas/Writing/Circle Remains Open — Version Genealogy]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'

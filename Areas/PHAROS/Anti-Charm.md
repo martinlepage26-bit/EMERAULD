@@ -3,13 +3,12 @@ type: wiki
 title: Anti-Charm
 aliases:
 - Anti-Charm
-- wiki/Anti-Charm
 tags:
 - ethics
 - governance
 - clarity
 - analysis
-- wiki
+- areas
 - anti-charm-md
 - charm
 - anti
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Anti-Charm.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Anti-Charm.md
 backlink_count: 7
 backlinks:
 - '[[Resources/Epistemic Governance — Canonical Reference]]'
@@ -30,8 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Inner Mind Eye]]'
 - '[[wiki/Philosopher]]'
-- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
-  Projection]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
 ---
 
 # Anti-Charm

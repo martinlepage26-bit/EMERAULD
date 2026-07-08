@@ -22,8 +22,8 @@ backlink_count: 48
 backlinks:
 - '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Agent Session Phenomenology]]'
-- '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
+- '[[Areas/PHAROS/Agent Session Phenomenology]]'
+- '[[Areas/PHAROS/Architectural AI Governance — Willis and PBSAI]]'
 - '[[wiki/CLI-Anything — Agent Harness for Tool Integration]]'
 - '[[wiki/CODEX Writing Projects Manifest]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'

@@ -21,7 +21,7 @@ canonical_path: wiki/LOTUS Model — Agency and Social Positioning.md
 backlink_count: 25
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
   Explanation)]]'
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'

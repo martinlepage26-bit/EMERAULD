@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/Elemental Agents — Productization Plan (2026-05-24).md
 backlink_count: 10
 backlinks:
-- '[[wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
+- '[[Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'

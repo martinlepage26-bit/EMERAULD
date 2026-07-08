@@ -20,7 +20,7 @@ vault_area: Areas
 canonical_path: Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory.md
 backlink_count: 33
 backlinks:
-- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Care, Ethics, and Governance]]'

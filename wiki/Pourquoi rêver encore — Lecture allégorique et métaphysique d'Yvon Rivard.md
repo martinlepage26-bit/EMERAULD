@@ -21,7 +21,7 @@ canonical_path: wiki/Pourquoi rêver encore — Lecture allégorique et métaphy
   Rivard.md
 backlink_count: 17
 backlinks:
-- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/La fréquence brisée du verbe — Roman]]'

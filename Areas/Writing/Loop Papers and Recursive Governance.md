@@ -22,7 +22,7 @@ vault_area: Areas
 canonical_path: Areas/Writing/Loop Papers and Recursive Governance.md
 backlink_count: 30
 backlinks:
-- '[[wiki/Brutal Isms — Art Grant Proposal]]'
+- '[[Areas/Writing/Brutal Isms — Art Grant Proposal]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'

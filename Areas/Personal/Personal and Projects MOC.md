@@ -22,9 +22,9 @@ backlink_count: 68
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Agent Distillation Pipeline]]'
-- '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'
+- '[[Resources/Awesome Design Resources — Curated UI-UX Reference List]]'
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
-- '[[wiki/Brutal Isms — Grant Revision Package (2026-05-12)]]'
+- '[[Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12)]]'
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[wiki/Chrome Extension Monetization - Policy and Product Options]]'

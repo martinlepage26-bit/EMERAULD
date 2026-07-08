@@ -27,7 +27,7 @@ canonical_path: wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governa
   Architecture.md
 backlink_count: 11
 backlinks:
-- '[[wiki/Authority Without Power-Over]]'
+- '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

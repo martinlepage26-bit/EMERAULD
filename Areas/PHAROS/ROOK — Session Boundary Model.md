@@ -26,7 +26,7 @@ backlink_count: 19
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
-- '[[wiki/Agent Session Phenomenology]]'
+- '[[Areas/PHAROS/Agent Session Phenomenology]]'
 - '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'

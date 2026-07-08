@@ -19,7 +19,7 @@ vault_area: archive
 canonical_path: archive/wiki-2026-07-08/SYSTEM CHECK.md
 backlink_count: 11
 backlinks:
-- '[[wiki/Agent Session Phenomenology]]'
+- '[[Areas/PHAROS/Agent Session Phenomenology]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Governance Controls and Mechanisms]]'

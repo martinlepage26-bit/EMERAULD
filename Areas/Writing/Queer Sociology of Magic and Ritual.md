@@ -26,7 +26,7 @@ backlink_count: 56
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
-- '[[wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
+- '[[Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Glitching the Sacred]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

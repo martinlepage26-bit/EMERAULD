@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
   (2026)]]'
 - '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
-- '[[wiki/Agent Session Phenomenology]]'
+- '[[Areas/PHAROS/Agent Session Phenomenology]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'

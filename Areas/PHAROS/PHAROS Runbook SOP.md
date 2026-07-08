@@ -20,7 +20,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Runbook SOP.md
 backlink_count: 29
 backlinks:
-- '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
+- '[[Areas/PHAROS/Architectural AI Governance — Willis and PBSAI]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/Consent and Boundary Frameworks]]'

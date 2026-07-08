@@ -24,7 +24,7 @@ canonical_path: Areas/PHAROS/Control Protocols MOC.md
 backlink_count: 57
 backlinks:
 - '[[.trash/Responses API Fundamentals___]]'
-- '[[wiki/Argus]]'
+- '[[Areas/PHAROS/Argus]]'
 - '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/EMERAULD]]'

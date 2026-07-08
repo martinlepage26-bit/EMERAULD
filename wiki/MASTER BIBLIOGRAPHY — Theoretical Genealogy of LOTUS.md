@@ -31,7 +31,7 @@ vault_area: wiki
 canonical_path: wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS.md
 backlink_count: 18
 backlinks:
-- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'

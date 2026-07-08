@@ -22,10 +22,10 @@ backlink_count: 59
 backlinks:
 - '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
-- '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
+- '[[Areas/PHAROS/Architectural AI Governance — Willis and PBSAI]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
-- '[[wiki/Authority Without Ethics — The Love Witch]]'
-- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'

@@ -22,7 +22,7 @@ backlink_count: 24
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
-- '[[wiki/Agent Session Phenomenology]]'
+- '[[Areas/PHAROS/Agent Session Phenomenology]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[wiki/Claude Code Skill Corpus]]'

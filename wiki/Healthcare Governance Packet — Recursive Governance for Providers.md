@@ -23,8 +23,8 @@ canonical_path: wiki/Healthcare Governance Packet — Recursive Governance for P
 backlink_count: 26
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
-- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'

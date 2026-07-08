@@ -26,7 +26,7 @@ canonical_path: wiki/Philosopher.md
 backlink_count: 10
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Anti-Charm]]'
+- '[[Areas/PHAROS/Anti-Charm]]'
 - '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
   Phenomenon]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

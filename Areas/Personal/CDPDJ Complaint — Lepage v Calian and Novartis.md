@@ -3,9 +3,8 @@ type: wiki
 title: CDPDJ Complaint — Lepage v Calian and Novartis
 aliases:
 - CDPDJ Complaint — Lepage v Calian and Novartis
-- wiki/CDPDJ Complaint — Lepage v Calian and Novartis
 tags:
-- wiki
+- areas
 - ai
 - legal
 - cdpdj-complaint-lepage-v-calian-and-novartis-md
@@ -18,13 +17,13 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/CDPDJ Complaint — Lepage v Calian and Novartis.md
+vault_area: Areas
+canonical_path: Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis.md
 backlink_count: 26
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
-- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Consent, Fraud, and Boundary Protocols]]'
 - '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
@@ -46,8 +45,7 @@ backlinks:
 - '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
-  Glitch]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
 - '[[session-state]]'
 ---
 

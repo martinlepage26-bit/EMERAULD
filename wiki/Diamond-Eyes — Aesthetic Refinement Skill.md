@@ -23,8 +23,8 @@ backlink_count: 47
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Anti-Charm]]'
-- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[Areas/PHAROS/Anti-Charm]]'
+- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Claude Code Skill Corpus]]'
 - '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'

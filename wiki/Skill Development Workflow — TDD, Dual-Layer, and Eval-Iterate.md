@@ -34,7 +34,7 @@ backlink_count: 16
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
-- '[[wiki/Anti-Charm]]'
+- '[[Areas/PHAROS/Anti-Charm]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'

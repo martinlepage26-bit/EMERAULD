@@ -26,7 +26,7 @@ canonical_path: wiki/Trismégiste.md
 backlink_count: 8
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[wiki/Home]]'
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
   Laval, 2010)]]'

@@ -29,9 +29,9 @@ backlinks:
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
   of Interruption]]'
 - '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
-- '[[wiki/Authority Without Power-Over]]'
+- '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[wiki/Consent, Fraud, and Boundary Protocols]]'

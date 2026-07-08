@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/Brutal Isms — Art Grant Proposal]]'
+- '[[Areas/Writing/Brutal Isms — Art Grant Proposal]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/La fréquence brisée du verbe — Roman]]'
