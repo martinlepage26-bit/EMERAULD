@@ -23,7 +23,10 @@ backlinks:
 
 # OS Spec — MCP Surface for the Vault (gap 6)
 
-> For future Claude: decision + wiring spec for giving the vault a programmatic API surface. As of 2026-07-08 every `mcpServers` config on this host is empty — no tool other than a filesystem-access CLI session can reach the vault. Build in Stage 2 of [[governance/EMERAULD-OS-BUILD-ORDER|the build order]].
+> For future Claude: decision + wiring spec for giving the vault a programmatic API surface. Build in Stage 2 of [[governance/EMERAULD-OS-BUILD-ORDER|the build order]].
+
+> [!success] Executed 2026-07-08 (same day, operator directive)
+> Server registered in Claude Code local scope (project /home/martin) and health-checked Connected: `uv run --with mcp python .../obsidian-mcp-server/server.py`, env `OBSIDIAN_VAULT_PATH=/home/martin/EMERAULD` + `OBSIDIAN_PROTECTED_DIRS="raw sources:raw"`. Raw-lane write guard added to vault_ops.py (env-extensible, vendored-repo commit 3818257) and verified — both lanes refuse writes. **Exit criterion met:** a headless second surface with MCP tools only (filesystem tools disallowed) read a governance note, created `Inbox/2026-07-08 - mcp-surface-smoke-test-2026-07-08.md` with two resolving wikilinks, appended the tracker line via `obsidian_update_note`, and passed validation with no issues. Ledger: RELAY-20260708-001. Open: promote scope local→global after ~1 week clean; MCP-created notes carry the upstream ai-first schema until the Stage 3 routing pass normalizes them on filing.
 
 ## Decision (2026-07-08)
 

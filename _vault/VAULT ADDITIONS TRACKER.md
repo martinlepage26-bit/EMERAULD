@@ -13,7 +13,7 @@ tags:
 - created
 status: active
 created: '2026-06-21'
-updated: '2026-07-03'
+updated: 2026-07-08
 vault_area: _vault
 canonical_path: _vault/VAULT ADDITIONS TRACKER.md
 backlink_count: 49
@@ -409,3 +409,6 @@ Latest notes and resources added to the EMERAULD vault.
 - 2026-07-08 | MOC link-ins | VM-sync sections added to [[Areas/PHAROS/Governance and PHAROS MOC|Governance and PHAROS MOC]], [[Areas/PHAROS/PHAROS Product Stack|PHAROS Product Stack]], [[wiki/HEPHAISTOS MOC|HEPHAISTOS MOC]], [[wiki/Governance Stress-Test Protocols — Index|Stress-Test Protocols Index]], [[Areas/Personal/Personal and Projects MOC|Personal and Projects MOC]].
 - 2026-07-08 | [[governance/EMERAULD-OS-BUILD-ORDER|EMERAULD OS Build Order]] + 3 OS specs ([[governance/EMERAULD-OS-SPEC — MCP Surface|MCP Surface]], [[governance/EMERAULD-OS-SPEC — Event Triggers|Event Triggers]], [[governance/EMERAULD-OS-SPEC — Governance Wiring|Governance Wiring]]) + [[Areas/PHAROS/Agent Bus — Design Record (Retired Runtime)|Agent Bus design record]] | Phase 6 agentic OS preparation: 9-gap build order (gaps 1/4/5/7 CLOSED same day), 5-stage sequence with exit criteria. Foundation fixes executed: nightly.sh runs archive_register.py deterministically before the model pass; all 4 cron scripts log durably to Logs/scheduled/ with FAILURES.md surfacing; cron prompts made PARA-aware (were wiki/-only — would have gone blind post-migration); trismegiste-state dead /home/cerebrhoe pointer corrected; scheduler_memory/ + .agent_bus/ retired to archive/retired-2026-07-08/ with tombstones.
 - 2026-07-08 | [[docs/handoff/vault-overhaul-2026-07-08|Handoff — Vault Overhaul 2026-07-08]] + session-state session note | Phase 7 closeout: all gates green vs baseline (0 missing frontmatter, 0 YAML failures, 0 stale links, raw lanes 0 deletions whole-range, no updated-saturation); vector store + graph rebuilt (1,462 notes / 13,217 edges / 19 components); 4 cron jobs re-enabled with hardened scripts; _CLAUDE.md §12 active context refreshed (priorities as of 2026-07-08). Next decision: OS build Stage 2 (MCP surface).
+
+- 2026-07-08 | [[Inbox/2026-07-08 - mcp-surface-smoke-test-2026-07-08|MCP Surface Smoke Test]] | Stage 2 exit-criterion: note created via MCP by a second surface with no filesystem access.
+- 2026-07-08 | [[governance/EMERAULD-OS-SPEC — MCP Surface|OS Spec — MCP Surface]] executed | OS build Stage 2 complete: vendored obsidian-second-brain MCP server registered (local scope) and Connected; raw-lane write guard (OBSIDIAN_PROTECTED_DIRS) patched into vault_ops.py and verified; exit criterion met by a headless MCP-only second surface (read + compliant create + tracker append + validation, no filesystem access); RELAY-20260708-001 written at dispatch time; gap 6 closed in [[governance/EMERAULD-OS-BUILD-ORDER|the build order]]. Next: Stage 3 (Inbox event triggers).

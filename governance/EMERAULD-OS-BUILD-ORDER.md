@@ -51,7 +51,7 @@ The autonomous layer already running: martin's crontab → `scripts/scheduled/{m
 | 3 | Governance stack wired to execution | SPEC | [[governance/EMERAULD-OS-SPEC — Governance Wiring|Governance Wiring spec]] |
 | 4 | Graph unification + refresh cadence | **CLOSED 2026-07-08** (corpus extension) + cadence rule below | scripts/embed.py, scripts/build_wikilink_graph.py |
 | 5 | scheduler_memory + .agent_bus retire-or-revive | **CLOSED 2026-07-08** — both RETIRED | archive/retired-2026-07-08/ + [[Areas/PHAROS/Agent Bus — Design Record (Retired Runtime)|design record]] |
-| 6 | MCP/API surface for the vault | SPEC — decision taken, wiring deferred | [[governance/EMERAULD-OS-SPEC — MCP Surface|MCP Surface spec]] |
+| 6 | MCP/API surface for the vault | **CLOSED 2026-07-08** (server registered + live-verified, exit criterion met; local scope, global after 1 clean week) | [[governance/EMERAULD-OS-SPEC — MCP Surface|MCP Surface spec]] |
 | 7 | Cron monitoring/alerting | **CLOSED 2026-07-08** (durable logs + FAILURES.md + health-check reads it) | scripts/scheduled/*.sh |
 | 8 | Bases verification dependency | DOCUMENTED below | this doc |
 | 9 | Shared watch-vault-react primitive | SPEC (folded into gap 2) | Event Triggers spec |
@@ -60,7 +60,7 @@ The autonomous layer already running: martin's crontab → `scripts/scheduled/{m
 
 **Stage 1 — prove the closed loop (done 2026-07-08).** Cron pauses lifted at overhaul close; first post-overhaul morning run must show a sane stale scan. Success metric: no FAILURES.md entries and no re-saturation for 7 days.
 
-**Stage 2 — MCP surface (1 session).** Wire the vendored `obsidian-second-brain/integrations/obsidian-mcp-server/` per the MCP spec. Exit: another Claude surface reads/writes a vault note through MCP with the linking rules enforced.
+**Stage 2 — MCP surface. DONE 2026-07-08.** Vendored server wired per the MCP spec; raw-lane write guard added and verified; exit criterion met by a headless MCP-only second surface (RELAY-20260708-001). Remaining follow-through: promote registration local → global after ~1 week of clean use.
 
 **Stage 3 — event triggers (1-2 sessions).** Implement the chosen option from the Event Triggers spec (recommended: systemd path-unit watcher over Inbox/ driving a headless routing pass). Exit: a file dropped in Inbox/ gets routed to the correct PARA folder with schema frontmatter within minutes, no human in the loop.
 
