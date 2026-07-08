@@ -35,11 +35,76 @@ def load_meta(path: Path) -> dict:
     return meta if isinstance(meta, dict) else {}
 
 
+def check_note(path: Path, hard: bool) -> bool:
+    """Print one GATE line for a task note; return True if it passes."""
+    meta = load_meta(path)
+    state = str(meta.get("governance_state", "")).strip()
+    scope = str(meta.get("hephaistos_scope", "")).strip()
+    verdict = str(meta.get("qk_verdict", "")).strip()
+
+    ok = state in {"cleared", "routed"} and scope == "defined" and verdict == "cleared"
+    label = "PASS" if ok else ("REFUSED (hard gate)" if hard else "WARN (soft gate)")
+    print(
+        f"GATE {label}: {path.name} | governance_state={state or '∅'} "
+        f"hephaistos_scope={scope or '∅'} qk_verdict={verdict or '∅'}"
+    )
+    return ok
+
+
+def audit_all() -> int:
+    """Daily drift audit (invoked by nightly.sh): check every governed-task note.
+
+    A note is audited only if frontmatter type == governed-task (the README and
+    other governance docs are excluded). Notes legitimately pre-clearance
+    (intake/scoped states) are reported as PASS-pending, not WARN — the drift
+    signal is a task whose state ADVANCED without both clearance artifacts.
+    Exit 1 if any violation is found (soft: caller surfaces, never blocks).
+    """
+    violations = 0
+    for path in sorted(TASKS.glob("*.md")):
+        meta = load_meta(path)
+        if str(meta.get("type", "")).strip() != "governed-task":
+            continue
+        state = str(meta.get("governance_state", "")).strip()
+        scope = str(meta.get("hephaistos_scope", "")).strip()
+        verdict = str(meta.get("qk_verdict", "")).strip()
+        relay = str(meta.get("relay_id", "")).strip()
+        if state in {"cleared", "routed", "done"}:
+            ok = scope == "defined" and verdict == "cleared"
+            if state in {"routed", "done"} and relay in {"", "None", "null"}:
+                ok = False
+            label = "PASS" if ok else "WARN (soft gate)"
+            if not ok:
+                violations += 1
+        else:
+            label = "PASS (pre-clearance state)"
+        print(
+            f"GATE {label}: {path.name} | governance_state={state or '∅'} "
+            f"hephaistos_scope={scope or '∅'} qk_verdict={verdict or '∅'} relay_id={relay or '∅'}"
+        )
+    print(f"audit-all: {violations} violation(s)")
+    return 1 if violations else 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Governance gate for governed tasks")
-    parser.add_argument("task", help="task note path, or task id to find under governance/tasks/")
+    parser.add_argument(
+        "task",
+        nargs="?",
+        help="task note path, or task id to find under governance/tasks/",
+    )
     parser.add_argument("--hard", action="store_true", help="refuse (exit 1) instead of warning")
+    parser.add_argument(
+        "--audit-all",
+        action="store_true",
+        help="audit every governed-task note under governance/tasks/ (daily drift check)",
+    )
     args = parser.parse_args()
+
+    if args.audit_all:
+        return audit_all()
+    if not args.task:
+        parser.error("task is required unless --audit-all is given")
 
     path = Path(args.task)
     if not path.exists():

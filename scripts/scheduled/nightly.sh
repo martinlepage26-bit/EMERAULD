@@ -17,6 +17,16 @@ cd "$VAULT" || exit 1
 # archive any register over its line threshold (session-state 600, agent registers 300).
 /home/martin/.venvs/emerauld/bin/python3 "$VAULT/scripts/archive_register.py" >> "$LOG" 2>&1
 
+# Daily governance drift audit (governed task argus-remediations-20260708, Argus F1):
+# soft check of every governed-task note; violations surface to FAILURES.md.
+# Output/exit captured in its own variables (never $STATUS, never grepped from $LOG).
+GATE_OUT=$(/home/martin/.venvs/emerauld/bin/python3 "$VAULT/scripts/governance_gate.py" --audit-all 2>&1)
+GATE_RC=$?
+printf '%s\n' "$GATE_OUT" >> "$LOG"
+if [ $GATE_RC -ne 0 ] || printf '%s' "$GATE_OUT" | grep -qE 'WARN|REFUSED|ERROR'; then
+  echo "- $TODAY $(date +%H:%M) governance audit-all flagged violations (exit $GATE_RC) — see Logs/scheduled/nightly-$TODAY.log" >> "$LOGDIR/FAILURES.md"
+fi
+
 /home/martin/.local/bin/claude --dangerously-skip-permissions -p "
 Read _CLAUDE.md and CLAUDE.md at the vault root first — follow their rules exactly.
 

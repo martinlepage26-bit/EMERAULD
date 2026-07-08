@@ -38,12 +38,19 @@ ORPHANS=$(echo "$GRAPH_METRICS" | awk '{print $1}')
 UNRESOLVED=$(echo "$GRAPH_METRICS" | awk '{print $2}')
 
 # 3. Register line counts
+# (pipefail scoped to each $( ) subshell — task #2 QK condition 1: PIPESTATUS read
+# after a command-substitution assignment reflects the assignment, not the inner
+# pipe, so it would mask failures as 0; subshell pipefail + $? is the tested form.)
 SS_LINES=$( [ -f session-state.md ] && wc -l < session-state.md || echo "unavailable" )
-AGENT_LINES=$(cat memory/agents/*.md 2>/dev/null | wc -l || echo "unavailable")
+AGENT_LINES=$(set -o pipefail; cat memory/agents/*.md 2>/dev/null | wc -l); RC=$?
+[ "$RC" -eq 0 ] || AGENT_LINES="unavailable"
 
-# 4. Contradiction callouts, open vs resolved — FILE counts, raw lanes excluded (QK condition 4)
-OPEN_FLAGS=$(grep -rl '> \[!warning\] Contradiction detected' --include='*.md' --exclude-dir='raw sources' --exclude-dir=raw --exclude-dir=.git --exclude-dir=.trash --exclude-dir=node_modules . 2>/dev/null | wc -l || echo "unavailable")
-RESOLVED_FLAGS=$(grep -rl '> \[!success\] Contradiction resolved' --include='*.md' --exclude-dir='raw sources' --exclude-dir=raw --exclude-dir=.git --exclude-dir=.trash --exclude-dir=node_modules . 2>/dev/null | wc -l || echo "unavailable")
+# 4. Contradiction callouts, open vs resolved — FILE counts, raw lanes excluded (task #1 QK condition 4).
+# grep exit 1 = legitimate zero matches, not a failure; only exit >=2 degrades (task #2 QK condition 1).
+OPEN_FLAGS=$(set -o pipefail; grep -rl '> \[!warning\] Contradiction detected' --include='*.md' --exclude-dir='raw sources' --exclude-dir=raw --exclude-dir=.git --exclude-dir=.trash --exclude-dir=node_modules . 2>/dev/null | wc -l); RC=$?
+[ "$RC" -le 1 ] || OPEN_FLAGS="unavailable"
+RESOLVED_FLAGS=$(set -o pipefail; grep -rl '> \[!success\] Contradiction resolved' --include='*.md' --exclude-dir='raw sources' --exclude-dir=raw --exclude-dir=.git --exclude-dir=.trash --exclude-dir=node_modules . 2>/dev/null | wc -l); RC=$?
+[ "$RC" -le 1 ] || RESOLVED_FLAGS="unavailable"
 
 # 5. Unresolved-link delta vs previous weekly review (bash-side parse, QK condition 3)
 PREV_UNRESOLVED=""
