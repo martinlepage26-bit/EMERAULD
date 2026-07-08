@@ -1,8 +1,8 @@
 ---
 type: hephaistos-scope-packet
-title: HEPHAISTOS → Queen Keyport Scope Packet: Argus Drift-Audit on multi-agent-orchestration
+title: 'HEPHAISTOS → Queen Keyport Scope Packet: Argus Drift-Audit on multi-agent-orchestration'
 aliases:
-- HEPHAISTOS → Queen Keyport Scope Packet: Argus Drift-Audit on multi-agent-orchestration
+- 'HEPHAISTOS → Queen Keyport Scope Packet: Argus Drift-Audit on multi-agent-orchestration'
 - wiki/argus-drift-audit-scope-multi-agent-orchestration
 status: active
 created: '2026-07-03'

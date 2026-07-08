@@ -1,0 +1,14 @@
+# Body-word noise tags produced by the retired auto_tagger.py TF-IDF fallback.
+# One tag per line; lines starting with # are comments.
+# Extend during Phase 4 dry-run review as more noise words surface.
+added
+gives
+drafts
+section
+node
+outline
+abstract
+words
+discussion
+conclusion
+article

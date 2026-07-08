@@ -1,8 +1,8 @@
 ---
 type: hephaistos-scope-packet
-title: HEPHAISTOS → Queen Keyport Scope Packet: Security Audit Phases 2-6
+title: 'HEPHAISTOS → Queen Keyport Scope Packet: Security Audit Phases 2-6'
 aliases:
-- HEPHAISTOS → Queen Keyport Scope Packet: Security Audit Phases 2-6
+- 'HEPHAISTOS → Queen Keyport Scope Packet: Security Audit Phases 2-6'
 - wiki/hephaistos-scope-security-audit-phases-2-6
 status: active
 created: '2026-07-03'

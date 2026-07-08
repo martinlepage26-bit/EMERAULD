@@ -28,7 +28,12 @@ from lightrag_config import VAULT_ROOT
 
 STORE_DIR = VAULT_ROOT / ".graph_store"
 VECTOR_PATHS_FILE = VAULT_ROOT / ".vector_store" / "paths.json"
-CORPUS_DIRS = ["wiki", "maps", "projects"]
+CORPUS_DIRS = [
+    "wiki", "maps", "projects", "graph",
+    "Areas", "Resources", "Inbox", "artifacts", "governance", "memory",
+    "archive", "hephaistos", "PEER-REVIEW", "Publications",
+]
+EXCLUDED_PARTS = {"node_modules", ".git", ".trash", ".obsidian"}
 WIKILINK_RE = re.compile(r"(?<!!)\[\[([^\]\n]+)\]\]")
 
 
@@ -89,6 +94,7 @@ def load_corpus(use_vector_paths: bool = True) -> list[Path]:
         for d in CORPUS_DIRS
         for p in (VAULT_ROOT / d).rglob("*.md")
         if (VAULT_ROOT / d).exists()
+        and not (set(p.relative_to(VAULT_ROOT).parts) & EXCLUDED_PARTS)
     )
 
 
