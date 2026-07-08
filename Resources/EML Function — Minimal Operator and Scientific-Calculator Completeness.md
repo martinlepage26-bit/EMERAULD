@@ -6,7 +6,6 @@ aliases:
 - Exp-Minus-Log
 - eml(x,y)
 - single binary operator
-- wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness
 tags:
 - reference
 - mathematics
@@ -14,7 +13,7 @@ tags:
 - symbolic-regression
 - epistemics
 - generative-minimalism
-- wiki
+- resources
 - eml-function-minimal-operator-and-scientific-calculator-completeness-md
 - calculator
 - trees
@@ -25,12 +24,11 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness.md
+vault_area: Resources
+canonical_path: Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness.md
 backlink_count: 9
 backlinks:
-- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
-  Phenomenon]]'
+- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Home]]'
 - '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'

@@ -4,13 +4,12 @@ title: EU AI Act and Law 25 — Regulatory Pressure Window
 aliases:
 - EU AI Act and Law 25 — Regulatory Pressure Window
 - EU AI Act + Law 25
-- wiki/EU AI Act and Law 25 — Regulatory Pressure Window
 tags:
 - regulation
 - ai-governance
 - law
 - compliance
-- wiki
+- areas
 - eu-ai-act-and-law-25-regulatory-pressure-window-md
 - window
 - arbitrage
@@ -21,13 +20,12 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/EU AI Act and Law 25 — Regulatory Pressure Window.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window.md
 backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
-- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
-  (2026-06-22)]]'
+- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

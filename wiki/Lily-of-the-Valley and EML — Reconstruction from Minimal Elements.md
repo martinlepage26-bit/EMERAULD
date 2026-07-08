@@ -30,7 +30,7 @@ canonical_path: wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal 
 backlink_count: 13
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
+- '[[Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
 - '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
   Phenomenon]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'

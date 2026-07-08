@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/External Data Refresh Calendar — Phase 1 Build]]'
+- '[[Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build]]'
 - '[[Areas/PHAROS/External Data Registry — Phase 1 Build]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[wiki/Governance Controls and Mechanisms]]'

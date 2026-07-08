@@ -31,7 +31,7 @@ canonical_path: wiki/Martin Lepage — Authored Skills.md
 backlink_count: 23
 backlinks:
 - '[[Resources/Epistemic Governance — Canonical Reference]]'
-- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'

@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
+- '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legal and Institutional Cases]]'

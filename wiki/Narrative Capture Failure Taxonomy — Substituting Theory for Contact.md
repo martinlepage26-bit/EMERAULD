@@ -36,7 +36,7 @@ backlinks:
   (2026)]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
+- '[[Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

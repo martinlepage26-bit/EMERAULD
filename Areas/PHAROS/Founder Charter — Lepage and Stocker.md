@@ -3,9 +3,8 @@ type: wiki
 title: Founder Charter — Lepage and Stocker
 aliases:
 - Founder Charter — Lepage and Stocker
-- wiki/Founder Charter — Lepage and Stocker
 tags:
-- wiki
+- areas
 - founder-charter-lepage-and-stocker-md
 - cgto
 - reserved
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Founder Charter — Lepage and Stocker.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Founder Charter — Lepage and Stocker.md
 backlink_count: 18
 backlinks:
 - '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'

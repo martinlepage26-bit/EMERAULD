@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'

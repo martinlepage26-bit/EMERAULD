@@ -1,13 +1,10 @@
 ---
 type: wiki
-title: EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
-  (2026-05-07)
+title: EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)
 aliases:
 - EMERGENT HELIX session
 - HELIX truth-claim stress test
 - Vaisseau de Thésée emergent run 2026-05-07
-- wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
-  (2026-05-07)
 tags:
 - helix
 - governance
@@ -16,7 +13,7 @@ tags:
 - booby-trap
 - epistemic-discipline
 - session-analysis
-- wiki
+- areas
 - emergent-helix-session-truth-claims-ingestion-and-booby-trap-diagnostics-2026-05-07-md
 - ingestion
 - booby
@@ -26,9 +23,8 @@ tags:
 status: active
 created: '2026-05-12'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap
-  Diagnostics (2026-05-07).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07).md
 backlink_count: 8
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

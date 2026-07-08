@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
-- '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
+- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

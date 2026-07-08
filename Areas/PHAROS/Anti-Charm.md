@@ -24,7 +24,7 @@ canonical_path: Areas/PHAROS/Anti-Charm.md
 backlink_count: 7
 backlinks:
 - '[[Resources/Epistemic Governance — Canonical Reference]]'
-- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Inner Mind Eye]]'

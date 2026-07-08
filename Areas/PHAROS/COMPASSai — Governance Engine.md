@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
-- '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
+- '[[Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'

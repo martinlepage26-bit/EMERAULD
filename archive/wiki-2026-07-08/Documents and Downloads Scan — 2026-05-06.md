@@ -4,7 +4,6 @@ title: Documents and Downloads Scan — 2026-05-06
 aliases:
 - Documents and Downloads scan 2026-05-06
 - C drive Documents and Downloads text intake
-- wiki/Documents and Downloads Scan — 2026-05-06
 tags:
 - intake
 - documents
@@ -13,7 +12,7 @@ tags:
 - vault-maintenance
 - provenance
 - intake-index
-- wiki
+- archive
 - documents-and-downloads-scan-2026-05-06-md
 - prompt
 - matrix
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Documents and Downloads Scan — 2026-05-06.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06.md
 backlink_count: 6
 backlinks:
 - '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'

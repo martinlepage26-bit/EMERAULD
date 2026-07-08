@@ -28,7 +28,7 @@ canonical_path: wiki/GSD — Get Shit Done Context Engineering System.md
 backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/LightRAG — Graph-Based RAG System]]'

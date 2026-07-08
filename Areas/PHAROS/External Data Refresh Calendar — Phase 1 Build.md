@@ -3,10 +3,9 @@ type: governance-procedures
 title: External Data Refresh Calendar (Phase 1 Build)
 aliases:
 - External Data Refresh Calendar — Phase 1 Build
-- wiki/External Data Refresh Calendar — Phase 1 Build
 tags:
 - governance-procedures
-- wiki
+- areas
 - external-data-refresh-calendar-phase-1-build-md
 - quarterly
 - manual
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-04-27'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/External Data Refresh Calendar — Phase 1 Build.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build.md
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'

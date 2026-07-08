@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'

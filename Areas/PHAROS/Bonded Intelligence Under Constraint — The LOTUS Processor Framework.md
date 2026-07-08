@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[wiki/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
+- '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'

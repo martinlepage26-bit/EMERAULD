@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
+- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'

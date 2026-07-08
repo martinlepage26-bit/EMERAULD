@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[wiki/Home]]'
 - '[[wiki/La fréquence brisée du verbe — Roman]]'
 - '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'

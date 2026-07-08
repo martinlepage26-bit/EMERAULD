@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
-- '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[wiki/GSD — Get-Shit-Done Claude Code System]]'
 - '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[wiki/Governed Self-Improvement — Method Slide Asset]]'

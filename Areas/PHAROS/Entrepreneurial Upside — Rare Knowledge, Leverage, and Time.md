@@ -18,8 +18,8 @@ tags:
 status: active
 created: '2026-07-03'
 updated: '2026-07-03'
-vault_area: wiki
-canonical_path: wiki/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time.md
 backlink_count: 1
 backlinks:
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

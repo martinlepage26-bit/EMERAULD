@@ -5,7 +5,6 @@ aliases:
 - Evidence-to-Publication Bridge
 - PHAROS evidence bridge
 - product-to-manuscript routing
-- wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing
 tags:
 - pharos
 - scholarly
@@ -13,7 +12,7 @@ tags:
 - publication
 - governance
 - architecture
-- wiki
+- areas
 - evidence-to-publication-bridge-pharos-product-to-manuscript-routing-md
 - manuscript
 - cluster
@@ -22,9 +21,8 @@ tags:
 status: active
 created: '2026-06-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript
-  Routing.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing.md
 backlink_count: 6
 backlinks:
 - '[[.graph_store/graph_report]]'

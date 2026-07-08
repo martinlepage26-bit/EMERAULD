@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
 - '[[Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
+- '[[Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
 - '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
   Phenomenon]]'
 - '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'

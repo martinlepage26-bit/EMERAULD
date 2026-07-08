@@ -42,7 +42,7 @@ backlinks:
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
-- '[[wiki/Framing Processes and Social Movements — Benford & Snow 2000]]'
+- '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'

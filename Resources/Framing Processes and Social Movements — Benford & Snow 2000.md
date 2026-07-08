@@ -4,7 +4,6 @@ title: Framing Processes and Social Movements — Benford & Snow 2000
 aliases:
 - Benford & Snow 2000 Framing
 - Collective action frames review (Annual Review of Sociology)
-- wiki/Framing Processes and Social Movements — Benford & Snow 2000
 tags:
 - reference
 - sociology
@@ -12,7 +11,7 @@ tags:
 - framing
 - collective-action
 - media
-- wiki
+- resources
 - framing-processes-and-social-movements-benford-snow-2000-md
 - movements
 - processes
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Framing Processes and Social Movements — Benford & Snow 2000.md
+vault_area: Resources
+canonical_path: Resources/Framing Processes and Social Movements — Benford & Snow 2000.md
 backlink_count: 6
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

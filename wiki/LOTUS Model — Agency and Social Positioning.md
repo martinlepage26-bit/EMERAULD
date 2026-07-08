@@ -26,7 +26,7 @@ backlinks:
   Explanation)]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[wiki/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
+- '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'

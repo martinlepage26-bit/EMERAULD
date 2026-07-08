@@ -47,7 +47,7 @@ backlinks:
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
-- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon]]'
+- '[[Resources/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[wiki/GSD — Get-Shit-Done Claude Code System]]'

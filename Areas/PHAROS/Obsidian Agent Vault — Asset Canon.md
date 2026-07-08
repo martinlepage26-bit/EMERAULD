@@ -24,7 +24,7 @@ canonical_path: Areas/PHAROS/Obsidian Agent Vault — Asset Canon.md
 backlink_count: 11
 backlinks:
 - '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
-- '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[wiki/Governed Self-Improvement — Method Slide Asset]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Setup Guide]]'

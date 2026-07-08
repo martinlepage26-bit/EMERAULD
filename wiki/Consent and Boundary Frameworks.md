@@ -37,7 +37,7 @@ backlinks:
 - '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governess Agatha GPT — ChatGPT Product Specification]]'

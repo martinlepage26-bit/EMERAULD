@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
 - '[[archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
-- '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
+- '[[Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
 - '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'

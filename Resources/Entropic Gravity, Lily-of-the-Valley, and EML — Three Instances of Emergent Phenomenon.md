@@ -1,14 +1,11 @@
 ---
 type: wiki
-title: Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
-  Phenomenon
+title: Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon
 aliases:
 - gravity-from-entropy
 - triple-layer synthesis
 - emergent phenomenon structure
 - generative rules
-- wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
-  Phenomenon
 tags:
 - philosophy
 - physics
@@ -17,7 +14,7 @@ tags:
 - emergent-systems
 - relative-entropy
 - reconstruction
-- wiki
+- resources
 - entropic-gravity-lily-of-the-valley-and-eml-three-instances-of-emergent-phenomenon-md
 - gravity
 - entropy
@@ -28,9 +25,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances
-  of Emergent Phenomenon.md
+vault_area: Resources
+canonical_path: Resources/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon.md
 backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'

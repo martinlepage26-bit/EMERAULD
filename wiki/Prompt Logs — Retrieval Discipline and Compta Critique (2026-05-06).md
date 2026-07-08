@@ -26,7 +26,7 @@ canonical_path: wiki/Prompt Logs — Retrieval Discipline and Compta Critique (2
 backlink_count: 6
 backlinks:
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[wiki/Documents and Downloads Scan — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

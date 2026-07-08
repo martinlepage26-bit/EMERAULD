@@ -3,7 +3,6 @@ type: wiki
 title: Epistemic AI Purple Teaming
 aliases:
 - Epistemic AI Purple Teaming
-- wiki/Epistemic AI Purple Teaming
 tags:
 - ai-governance
 - epistemics
@@ -12,7 +11,7 @@ tags:
 - evidence
 - belief-formation
 - pharos
-- wiki
+- areas
 - epistemic-ai-purple-teaming-md
 - purple
 - teaming
@@ -23,8 +22,8 @@ tags:
 status: recovered
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Epistemic AI Purple Teaming.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Epistemic AI Purple Teaming.md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'

@@ -3,9 +3,8 @@ type: wiki
 title: Embedding Before Rupture — Relational AI and Institutional Power
 aliases:
 - Embedding Before Rupture — Relational AI and Institutional Power
-- wiki/Embedding Before Rupture — Relational AI and Institutional Power
 tags:
-- wiki
+- areas
 - ai
 - embedding-before-rupture-relational-ai-and-institutional-power-md
 - embedding
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Embedding Before Rupture — Relational AI and Institutional Power.md
+vault_area: Areas
+canonical_path: Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md
 backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
@@ -28,8 +27,7 @@ backlinks:
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
-  Projection]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'

@@ -3,9 +3,8 @@ type: wiki
 title: Fluency, Interruption, and Institutional Accountability
 aliases:
 - Fluency, Interruption, and Institutional Accountability
-- wiki/Fluency, Interruption, and Institutional Accountability
 tags:
-- wiki
+- areas
 - fluency-interruption-and-institutional-accountability-md
 - interruption
 - fluency
@@ -16,14 +15,13 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Fluency, Interruption, and Institutional Accountability.md
+vault_area: Areas
+canonical_path: Areas/Writing/Fluency, Interruption, and Institutional Accountability.md
 backlink_count: 56
 backlinks:
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[Areas/PHAROS/Architectural AI Governance — Willis and PBSAI]]'
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
@@ -49,8 +47,7 @@ backlinks:
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
-- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
-  2024]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
@@ -71,8 +68,7 @@ backlinks:
 - '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
 - '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
 - '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
-  Glitch]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
 - '[[wiki/The Weather Beneath the Walls — Novel]]'
 - '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'

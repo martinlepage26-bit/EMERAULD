@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/PHAROS Company Registration and Security Incidents.md
 backlink_count: 16
 backlinks:
-- '[[wiki/Founder Charter — Lepage and Stocker]]'
+- '[[Areas/PHAROS/Founder Charter — Lepage and Stocker]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legal and Institutional Cases]]'

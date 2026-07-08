@@ -25,7 +25,7 @@ canonical_path: wiki/Glitching the Sacred.md
 backlink_count: 11
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
+- '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Master Project Tracker — 2026]]'

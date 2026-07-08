@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
   (2026-06-22)]]'
-- '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
+- '[[Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
 - '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'

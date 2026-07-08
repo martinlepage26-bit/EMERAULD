@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[Resources/Epistemic Governance — Canonical Reference]]'
-- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'

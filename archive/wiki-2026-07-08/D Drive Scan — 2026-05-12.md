@@ -22,7 +22,7 @@ backlink_count: 11
 backlinks:
 - '[[archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
 - '[[wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]]'
-- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
+- '[[Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'

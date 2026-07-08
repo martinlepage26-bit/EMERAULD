@@ -21,7 +21,7 @@ canonical_path: archive/wiki-2026-07-08/Governance Controls — Phase 1 Completi
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/External Data Refresh Calendar — Phase 1 Build]]'
+- '[[Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'

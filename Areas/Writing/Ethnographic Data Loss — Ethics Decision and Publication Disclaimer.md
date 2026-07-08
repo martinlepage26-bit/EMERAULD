@@ -5,7 +5,6 @@ aliases:
 - data loss disclaimer
 - fieldwork data loss
 - ethics ruling lost data
-- wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer
 tags:
 - research-ethics
 - fieldwork
@@ -14,7 +13,7 @@ tags:
 - buffy
 - queer-ritual
 - governance
-- wiki
+- areas
 - ethnographic-data-loss-ethics-decision-and-publication-disclaimer-md
 - contemporaneous
 - queer
@@ -23,19 +22,17 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer.md
+vault_area: Areas
+canonical_path: Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer.md
 backlink_count: 9
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Glitching the Sacred]]'
-- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
-  vs Reclaiming)]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
-  Glitch]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[projects/Glitching the Sacred — Fisher King Project State]]'
 ---

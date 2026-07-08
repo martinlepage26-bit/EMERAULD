@@ -360,6 +360,41 @@
     "source_path": "Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill.md"
   },
   {
+    "source": "Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)",
+    "target": "manifestation-rules",
+    "source_path": "Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md"
+  },
+  {
+    "source": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)",
+    "target": "../assets/elemental-agents/positioning-memo",
+    "source_path": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24).md"
+  },
+  {
+    "source": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)",
+    "target": "../assets/elemental-agents/sales-page-outline",
+    "source_path": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24).md"
+  },
+  {
+    "source": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)",
+    "target": "../assets/elemental-agents/audience-expansion",
+    "source_path": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24).md"
+  },
+  {
+    "source": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)",
+    "target": "../assets/elemental-agents/positioning-memo",
+    "source_path": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24).md"
+  },
+  {
+    "source": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)",
+    "target": "../assets/elemental-agents/sales-page-outline",
+    "source_path": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24).md"
+  },
+  {
+    "source": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)",
+    "target": "../assets/elemental-agents/audience-expansion",
+    "source_path": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24).md"
+  },
+  {
     "source": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
     "target": "2014 - report",
     "source_path": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI.md"
@@ -373,6 +408,11 @@
     "source": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
     "target": "2026 - audit_or_assessment_2",
     "source_path": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI.md"
+  },
+  {
+    "source": "Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build",
+    "target": "EXTERNAL DATA REGISTRY (Phase 1 Build)",
+    "source_path": "Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build.md"
   },
   {
     "source": "Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning",
@@ -2175,9 +2215,69 @@
     "source_path": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation.md"
   },
   {
+    "source": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power",
+    "target": "2027 - audit_or_assessment [2",
+    "source_path": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md"
+  },
+  {
+    "source": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power",
+    "target": "2027 - audit_or_assessment [3",
+    "source_path": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md"
+  },
+  {
+    "source": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power",
+    "target": "2027 - audit_or_assessment",
+    "source_path": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md"
+  },
+  {
+    "source": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power",
+    "target": "2027 - audit_or_assessment_1",
+    "source_path": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md"
+  },
+  {
+    "source": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power",
+    "target": "2027 - audit_or_assessment_2",
+    "source_path": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md"
+  },
+  {
+    "source": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power",
+    "target": "Abstract (5)",
+    "source_path": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md"
+  },
+  {
+    "source": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power",
+    "target": "Apocalypse as Constraint Stack",
+    "source_path": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md"
+  },
+  {
+    "source": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power",
+    "target": "EmbeddingBeforeRuptureHUM",
+    "source_path": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md"
+  },
+  {
+    "source": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power",
+    "target": "Embedding Before Rupture Relational AI, Binding Go",
+    "source_path": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md"
+  },
+  {
     "source": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline",
     "target": "2026-04-18_ethics-poetics-praxis-ai-governance-manifesto",
     "source_path": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline.md"
+  },
+  {
+    "source": "Areas/Writing/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine",
+    "target": "2007 - notes_or_journal",
+    "source_path": "Areas/Writing/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md"
+  },
+  {
+    "source": "Areas/Writing/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine",
+    "target": "lepage_hair.pdf",
+    "source_path": "Areas/Writing/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md"
+  },
+  {
+    "source": "Areas/Writing/Fluency, Interruption, and Institutional Accountability",
+    "target": "2025 - journal_article_1.pdf - 2025 - journal_article_1.pdf.pdf - 2025 - journal_article_1.pdf - 202",
+    "source_path": "Areas/Writing/Fluency, Interruption, and Institutional Accountability.md"
   },
   {
     "source": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
@@ -5820,6 +5920,11 @@
     "source_path": "Resources/Disease — Lady Gaga — Lyrics.md"
   },
   {
+    "source": "Resources/Framing Processes and Social Movements — Benford & Snow 2000",
+    "target": "Framing Processes and Social Movements An Overview and Assessment",
+    "source_path": "Resources/Framing Processes and Social Movements — Benford & Snow 2000.md"
+  },
+  {
     "source": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)",
     "target": "2018 - religions",
     "source_path": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender).md"
@@ -7948,111 +8053,6 @@
     "source": "EMERAULD_OS_ARCHITECTURE.MD MOC",
     "target": "EMERAULD_OS_ARCHITECTURE",
     "source_path": "wiki/EMERAULD_OS_ARCHITECTURE.MD MOC.md"
-  },
-  {
-    "source": "Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)",
-    "target": "manifestation-rules",
-    "source_path": "wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md"
-  },
-  {
-    "source": "Elemental Agents — Productization Plan (2026-05-24)",
-    "target": "../assets/elemental-agents/positioning-memo",
-    "source_path": "wiki/Elemental Agents — Productization Plan (2026-05-24).md"
-  },
-  {
-    "source": "Elemental Agents — Productization Plan (2026-05-24)",
-    "target": "../assets/elemental-agents/sales-page-outline",
-    "source_path": "wiki/Elemental Agents — Productization Plan (2026-05-24).md"
-  },
-  {
-    "source": "Elemental Agents — Productization Plan (2026-05-24)",
-    "target": "../assets/elemental-agents/audience-expansion",
-    "source_path": "wiki/Elemental Agents — Productization Plan (2026-05-24).md"
-  },
-  {
-    "source": "Elemental Agents — Productization Plan (2026-05-24)",
-    "target": "../assets/elemental-agents/positioning-memo",
-    "source_path": "wiki/Elemental Agents — Productization Plan (2026-05-24).md"
-  },
-  {
-    "source": "Elemental Agents — Productization Plan (2026-05-24)",
-    "target": "../assets/elemental-agents/sales-page-outline",
-    "source_path": "wiki/Elemental Agents — Productization Plan (2026-05-24).md"
-  },
-  {
-    "source": "Elemental Agents — Productization Plan (2026-05-24)",
-    "target": "../assets/elemental-agents/audience-expansion",
-    "source_path": "wiki/Elemental Agents — Productization Plan (2026-05-24).md"
-  },
-  {
-    "source": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "target": "2027 - audit_or_assessment [2",
-    "source_path": "wiki/Embedding Before Rupture — Relational AI and Institutional Power.md"
-  },
-  {
-    "source": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "target": "2027 - audit_or_assessment [3",
-    "source_path": "wiki/Embedding Before Rupture — Relational AI and Institutional Power.md"
-  },
-  {
-    "source": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "target": "2027 - audit_or_assessment",
-    "source_path": "wiki/Embedding Before Rupture — Relational AI and Institutional Power.md"
-  },
-  {
-    "source": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "target": "2027 - audit_or_assessment_1",
-    "source_path": "wiki/Embedding Before Rupture — Relational AI and Institutional Power.md"
-  },
-  {
-    "source": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "target": "2027 - audit_or_assessment_2",
-    "source_path": "wiki/Embedding Before Rupture — Relational AI and Institutional Power.md"
-  },
-  {
-    "source": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "target": "Abstract (5)",
-    "source_path": "wiki/Embedding Before Rupture — Relational AI and Institutional Power.md"
-  },
-  {
-    "source": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "target": "Apocalypse as Constraint Stack",
-    "source_path": "wiki/Embedding Before Rupture — Relational AI and Institutional Power.md"
-  },
-  {
-    "source": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "target": "EmbeddingBeforeRuptureHUM",
-    "source_path": "wiki/Embedding Before Rupture — Relational AI and Institutional Power.md"
-  },
-  {
-    "source": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "target": "Embedding Before Rupture Relational AI, Binding Go",
-    "source_path": "wiki/Embedding Before Rupture — Relational AI and Institutional Power.md"
-  },
-  {
-    "source": "Every Hair a Battle Scar — Buffy's Hair as Narrative Engine",
-    "target": "2007 - notes_or_journal",
-    "source_path": "wiki/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md"
-  },
-  {
-    "source": "Every Hair a Battle Scar — Buffy's Hair as Narrative Engine",
-    "target": "lepage_hair.pdf",
-    "source_path": "wiki/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md"
-  },
-  {
-    "source": "External Data Refresh Calendar — Phase 1 Build",
-    "target": "EXTERNAL DATA REGISTRY (Phase 1 Build)",
-    "source_path": "wiki/External Data Refresh Calendar — Phase 1 Build.md"
-  },
-  {
-    "source": "Fluency, Interruption, and Institutional Accountability",
-    "target": "2025 - journal_article_1.pdf - 2025 - journal_article_1.pdf.pdf - 2025 - journal_article_1.pdf - 202",
-    "source_path": "wiki/Fluency, Interruption, and Institutional Accountability.md"
-  },
-  {
-    "source": "Framing Processes and Social Movements — Benford & Snow 2000",
-    "target": "Framing Processes and Social Movements An Overview and Assessment",
-    "source_path": "wiki/Framing Processes and Social Movements — Benford & Snow 2000.md"
   },
   {
     "source": "GRAPHIFY-OUT MOC",

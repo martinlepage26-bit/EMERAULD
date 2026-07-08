@@ -39,7 +39,7 @@ backlinks:
 - '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
   (2026-05-12)]]'
 - '[[Resources/Epistemic Governance — Canonical Reference]]'
-- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'

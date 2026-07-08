@@ -5,7 +5,6 @@ aliases:
 - DR_SORT_OWNERSHIP_AND_EXTRACTION_DECISION
 - Dr. Sort extraction decision
 - LOTUS ownership decision
-- wiki/Dr. Sort and LOTUS Ownership Decision — March 2026
 tags:
 - project-decision
 - lotus
@@ -13,7 +12,7 @@ tags:
 - agency-repo
 - pharos-residue
 - active-constraints
-- wiki
+- areas
 - dr-sort-and-lotus-ownership-decision-march-2026-md
 - sort
 - agency
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-05-03'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Dr. Sort and LOTUS Ownership Decision — March 2026.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026.md
 backlink_count: 18
 backlinks:
 - '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'

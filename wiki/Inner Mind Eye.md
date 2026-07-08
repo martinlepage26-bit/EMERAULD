@@ -24,7 +24,7 @@ backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/Anti-Charm]]'
 - '[[Resources/Epistemic Governance — Canonical Reference]]'
-- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université

@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
+- '[[Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'

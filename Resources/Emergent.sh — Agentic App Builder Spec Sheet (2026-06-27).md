@@ -6,7 +6,6 @@ aliases:
 - Emergent
 - Emergent AI
 - Emergent app builder
-- wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)
 tags:
 - ai-tools
 - app-builder
@@ -14,7 +13,7 @@ tags:
 - external-platform
 - software-development
 - tool-spec
-- wiki
+- resources
 - emergent-sh-agentic-app-builder-spec-sheet-2026-06-27-md
 - emergent
 - export
@@ -25,8 +24,8 @@ tags:
 status: active
 created: '2026-06-27'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27).md
+vault_area: Resources
+canonical_path: Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27).md
 backlink_count: 6
 backlinks:
 - '[[.graph_store/graph_report]]'
@@ -40,8 +39,7 @@ source_urls:
 - https://emergent.sh/faq
 - https://emergent.sh/pricing
 - https://emergent.sh/enterprise
-evidence_boundary: Official product pages only; no hands-on build, code audit, contract
-  review, or security test performed.
+evidence_boundary: Official product pages only; no hands-on build, code audit, contract review, or security test performed.
 ---
 
 # Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)

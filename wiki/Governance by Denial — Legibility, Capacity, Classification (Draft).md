@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
   Explanation)]]'
-- '[[wiki/Framing Processes and Social Movements — Benford & Snow 2000]]'
+- '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'

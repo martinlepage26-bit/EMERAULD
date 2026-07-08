@@ -28,7 +28,7 @@ backlink_count: 9
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/session-state/session-state-002]]'

@@ -29,7 +29,7 @@ backlink_count: 13
 backlinks:
 - '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
-- '[[wiki/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
+- '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[memory/daily/2026-06-22]]'

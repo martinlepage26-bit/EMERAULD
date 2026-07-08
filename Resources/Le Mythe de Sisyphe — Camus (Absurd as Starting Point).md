@@ -27,7 +27,7 @@ backlink_count: 7
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

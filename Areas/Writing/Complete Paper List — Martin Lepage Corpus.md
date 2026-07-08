@@ -26,7 +26,7 @@ backlinks:
 - '[[Areas/Writing/CODEX Writing Projects Manifest]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
+- '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[wiki/Glitching the Sacred]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'

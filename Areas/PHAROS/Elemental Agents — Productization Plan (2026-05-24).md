@@ -5,7 +5,6 @@ aliases:
 - Elemental Agents Launch
 - Elemental Agents Commercial Plan
 - Elemental Agents Productization
-- wiki/Elemental Agents — Productization Plan (2026-05-24)
 tags:
 - product
 - commercialization
@@ -14,7 +13,7 @@ tags:
 - framework
 - launch
 - audience-strategy
-- wiki
+- areas
 - elemental-agents-productization-plan-2026-05-24-md
 - elemental
 - agents
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-05-24'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Elemental Agents — Productization Plan (2026-05-24).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24).md
 backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'

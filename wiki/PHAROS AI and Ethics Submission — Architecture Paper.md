@@ -23,7 +23,7 @@ canonical_path: wiki/PHAROS AI and Ethics Submission — Architecture Paper.md
 backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
-- '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
+- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'

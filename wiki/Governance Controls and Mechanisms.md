@@ -43,10 +43,10 @@ backlinks:
 - '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
   (2026-05-12)]]'
 - '[[Resources/Epistemic Governance — Canonical Reference]]'
-- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
-- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'

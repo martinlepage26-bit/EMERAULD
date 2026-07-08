@@ -31,7 +31,7 @@ canonical_path: wiki/Governed Revision Loop — Responsible Self-Improving Agent
 backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
-- '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'

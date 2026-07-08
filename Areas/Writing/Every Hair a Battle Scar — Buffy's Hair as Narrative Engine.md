@@ -3,9 +3,8 @@ type: wiki
 title: Every Hair a Battle Scar — Buffy's Hair as Narrative Engine
 aliases:
 - Every Hair a Battle Scar — Buffy's Hair as Narrative Engine
-- wiki/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine
 tags:
-- wiki
+- areas
 - ai
 - every-hair-a-battle-scar-buffy-s-hair-as-narrative-engine-md
 - hair
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md
+vault_area: Areas
+canonical_path: Areas/Writing/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md
 backlink_count: 17
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'

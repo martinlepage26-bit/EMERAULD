@@ -28,7 +28,7 @@ backlinks:
 - '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
+- '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'

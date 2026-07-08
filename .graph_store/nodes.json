@@ -969,6 +969,78 @@
     "backlinks": 71
   },
   {
+    "id": "Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026",
+    "title": "Dr. Sort and LOTUS Ownership Decision — March 2026",
+    "path": "Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "DR_SORT_OWNERSHIP_AND_EXTRACTION_DECISION",
+      "Dr. Sort extraction decision",
+      "LOTUS ownership decision"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 8,
+    "backlinks": 42
+  },
+  {
+    "id": "Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)",
+    "title": "EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)",
+    "path": "Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "EMERGENT HELIX session",
+      "HELIX truth-claim stress test",
+      "Vaisseau de Thésée emergent run 2026-05-07"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 11,
+    "backlinks": 13
+  },
+  {
+    "id": "Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window",
+    "title": "EU AI Act and Law 25 — Regulatory Pressure Window",
+    "path": "Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "EU AI Act + Law 25",
+      "EU AI Act and Law 25 — Regulatory Pressure Window"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 6,
+    "backlinks": 15
+  },
+  {
+    "id": "Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)",
+    "title": "Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)",
+    "path": "Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 9,
+    "backlinks": 12
+  },
+  {
+    "id": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)",
+    "title": "Elemental Agents — Productization Plan (2026-05-24)",
+    "path": "Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Elemental Agents Commercial Plan",
+      "Elemental Agents Launch",
+      "Elemental Agents Productization"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 8,
+    "backlinks": 18
+  },
+  {
     "id": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
     "title": "Emotional Alliance vs. Evidentiary Discipline in AI",
     "path": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI.md",
@@ -982,6 +1054,79 @@
     "backlinks": 71
   },
   {
+    "id": "Areas/PHAROS/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
+    "title": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
+    "path": "Areas/PHAROS/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Entrepreneurial Upside",
+      "Entrepreneurship Heuristic",
+      "Rare Knowledge, Leverage, and Time"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 5,
+    "backlinks": 8
+  },
+  {
+    "id": "Areas/PHAROS/Epistemic AI Purple Teaming",
+    "title": "Epistemic AI Purple Teaming",
+    "path": "Areas/PHAROS/Epistemic AI Purple Teaming.md",
+    "type": "wiki",
+    "status": "recovered",
+    "aliases": [
+      "Epistemic AI Purple Teaming"
+    ],
+    "outlinks": 0,
+    "unique_outlinks": 0,
+    "backlinks": 6
+  },
+  {
+    "id": "Areas/PHAROS/Epistemic Operator — Operational Specification",
+    "title": "Epistemic Operator — Operational Specification",
+    "path": "Areas/PHAROS/Epistemic Operator — Operational Specification.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "OODA operator",
+      "PHAROS operator",
+      "epistemic operator",
+      "operator skill",
+      "voice operator"
+    ],
+    "outlinks": 24,
+    "unique_outlinks": 15,
+    "backlinks": 13
+  },
+  {
+    "id": "Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "title": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "path": "Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Evidence-to-Publication Bridge",
+      "PHAROS evidence bridge",
+      "product-to-manuscript routing"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 11,
+    "backlinks": 8
+  },
+  {
+    "id": "Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build",
+    "title": "External Data Refresh Calendar — Phase 1 Build",
+    "path": "Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build.md",
+    "type": "governance-procedures",
+    "status": "active",
+    "aliases": [
+      "External Data Refresh Calendar — Phase 1 Build"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 5,
+    "backlinks": 4
+  },
+  {
     "id": "Areas/PHAROS/External Data Registry — Phase 1 Build",
     "title": "External Data Registry — Phase 1 Build",
     "path": "Areas/PHAROS/External Data Registry — Phase 1 Build.md",
@@ -993,6 +1138,19 @@
     "outlinks": 7,
     "unique_outlinks": 5,
     "backlinks": 83
+  },
+  {
+    "id": "Areas/PHAROS/Founder Charter — Lepage and Stocker",
+    "title": "Founder Charter — Lepage and Stocker",
+    "path": "Areas/PHAROS/Founder Charter — Lepage and Stocker.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Founder Charter — Lepage and Stocker"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 6,
+    "backlinks": 31
   },
   {
     "id": "Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning",
@@ -2026,6 +2184,19 @@
     "backlinks": 13
   },
   {
+    "id": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power",
+    "title": "Embedding Before Rupture — Relational AI and Institutional Power",
+    "path": "Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Embedding Before Rupture — Relational AI and Institutional Power"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 9,
+    "backlinks": 18
+  },
+  {
     "id": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline",
     "title": "Ethics Poetics and Praxis — Braided Discipline",
     "path": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline.md",
@@ -2039,6 +2210,34 @@
     "outlinks": 12,
     "unique_outlinks": 8,
     "backlinks": 13
+  },
+  {
+    "id": "Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer",
+    "title": "Ethnographic Data Loss — Ethics Decision and Publication Disclaimer",
+    "path": "Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "data loss disclaimer",
+      "ethics ruling lost data",
+      "fieldwork data loss"
+    ],
+    "outlinks": 22,
+    "unique_outlinks": 9,
+    "backlinks": 16
+  },
+  {
+    "id": "Areas/Writing/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine",
+    "title": "Every Hair a Battle Scar — Buffy's Hair as Narrative Engine",
+    "path": "Areas/Writing/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Every Hair a Battle Scar — Buffy's Hair as Narrative Engine"
+    ],
+    "outlinks": 25,
+    "unique_outlinks": 16,
+    "backlinks": 21
   },
   {
     "id": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
@@ -2065,6 +2264,19 @@
     "outlinks": 3,
     "unique_outlinks": 2,
     "backlinks": 5
+  },
+  {
+    "id": "Areas/Writing/Fluency, Interruption, and Institutional Accountability",
+    "title": "Fluency, Interruption, and Institutional Accountability",
+    "path": "Areas/Writing/Fluency, Interruption, and Institutional Accountability.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Fluency, Interruption, and Institutional Accountability"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 13,
+    "backlinks": 106
   },
   {
     "id": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
@@ -2795,21 +3007,6 @@
     "backlinks": 35
   },
   {
-    "id": "Documents and Downloads Scan — 2026-05-06",
-    "title": "Documents and Downloads Scan — 2026-05-06",
-    "path": "wiki/Documents and Downloads Scan — 2026-05-06.md",
-    "type": "intake-index",
-    "status": "active",
-    "aliases": [
-      "C drive Documents and Downloads text intake",
-      "Documents and Downloads scan 2026-05-06",
-      "wiki/Documents and Downloads Scan — 2026-05-06"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 7,
-    "backlinks": 7
-  },
-  {
     "id": "Dr. Sort Corpus Map — March 2026",
     "title": "Dr. Sort Corpus Map — March 2026",
     "path": "wiki/Dr. Sort Corpus Map — March 2026.md",
@@ -2825,22 +3022,6 @@
     "outlinks": 41,
     "unique_outlinks": 25,
     "backlinks": 34
-  },
-  {
-    "id": "Dr. Sort and LOTUS Ownership Decision — March 2026",
-    "title": "Dr. Sort and LOTUS Ownership Decision — March 2026",
-    "path": "wiki/Dr. Sort and LOTUS Ownership Decision — March 2026.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "DR_SORT_OWNERSHIP_AND_EXTRACTION_DECISION",
-      "Dr. Sort extraction decision",
-      "LOTUS ownership decision",
-      "wiki/Dr. Sort and LOTUS Ownership Decision — March 2026"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 8,
-    "backlinks": 42
   },
   {
     "id": "EMERAULD",
@@ -2919,239 +3100,6 @@
     "backlinks": 0
   },
   {
-    "id": "EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)",
-    "title": "EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)",
-    "path": "wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "EMERGENT HELIX session",
-      "HELIX truth-claim stress test",
-      "Vaisseau de Thésée emergent run 2026-05-07",
-      "wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 11,
-    "backlinks": 13
-  },
-  {
-    "id": "EML Function — Minimal Operator and Scientific-Calculator Completeness",
-    "title": "EML Function — Minimal Operator and Scientific-Calculator Completeness",
-    "path": "wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "EML function",
-      "Exp-Minus-Log",
-      "eml(x,y)",
-      "single binary operator",
-      "wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 5,
-    "backlinks": 19
-  },
-  {
-    "id": "EU AI Act and Law 25 — Regulatory Pressure Window",
-    "title": "EU AI Act and Law 25 — Regulatory Pressure Window",
-    "path": "wiki/EU AI Act and Law 25 — Regulatory Pressure Window.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "EU AI Act + Law 25",
-      "EU AI Act and Law 25 — Regulatory Pressure Window",
-      "wiki/EU AI Act and Law 25 — Regulatory Pressure Window"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 6,
-    "backlinks": 15
-  },
-  {
-    "id": "Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)",
-    "title": "Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)",
-    "path": "wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)",
-      "wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 9,
-    "backlinks": 12
-  },
-  {
-    "id": "Elemental Agents — Productization Plan (2026-05-24)",
-    "title": "Elemental Agents — Productization Plan (2026-05-24)",
-    "path": "wiki/Elemental Agents — Productization Plan (2026-05-24).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Elemental Agents Commercial Plan",
-      "Elemental Agents Launch",
-      "Elemental Agents Productization",
-      "wiki/Elemental Agents — Productization Plan (2026-05-24)"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 8,
-    "backlinks": 18
-  },
-  {
-    "id": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "title": "Embedding Before Rupture — Relational AI and Institutional Power",
-    "path": "wiki/Embedding Before Rupture — Relational AI and Institutional Power.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Embedding Before Rupture — Relational AI and Institutional Power",
-      "wiki/Embedding Before Rupture — Relational AI and Institutional Power"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 9,
-    "backlinks": 18
-  },
-  {
-    "id": "Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)",
-    "title": "Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)",
-    "path": "wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27).md",
-    "type": "tool-spec",
-    "status": "active",
-    "aliases": [
-      "Emergent",
-      "Emergent AI",
-      "Emergent app builder",
-      "emergent.sh",
-      "wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 5,
-    "backlinks": 4
-  },
-  {
-    "id": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
-    "title": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
-    "path": "wiki/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Entrepreneurial Upside",
-      "Entrepreneurship Heuristic",
-      "Rare Knowledge, Leverage, and Time"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 5,
-    "backlinks": 8
-  },
-  {
-    "id": "Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon",
-    "title": "Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon",
-    "path": "wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "emergent phenomenon structure",
-      "generative rules",
-      "gravity-from-entropy",
-      "triple-layer synthesis",
-      "wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent"
-    ],
-    "outlinks": 17,
-    "unique_outlinks": 8,
-    "backlinks": 10
-  },
-  {
-    "id": "Epistemic AI Purple Teaming",
-    "title": "Epistemic AI Purple Teaming",
-    "path": "wiki/Epistemic AI Purple Teaming.md",
-    "type": "wiki",
-    "status": "recovered",
-    "aliases": [
-      "Epistemic AI Purple Teaming",
-      "wiki/Epistemic AI Purple Teaming"
-    ],
-    "outlinks": 0,
-    "unique_outlinks": 0,
-    "backlinks": 6
-  },
-  {
-    "id": "Epistemic Operator — Operational Specification",
-    "title": "Epistemic Operator — Operational Specification",
-    "path": "wiki/Epistemic Operator — Operational Specification.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "OODA operator",
-      "PHAROS operator",
-      "epistemic operator",
-      "operator skill",
-      "voice operator",
-      "wiki/Epistemic Operator — Operational Specification"
-    ],
-    "outlinks": 24,
-    "unique_outlinks": 15,
-    "backlinks": 13
-  },
-  {
-    "id": "Ethnographic Data Loss — Ethics Decision and Publication Disclaimer",
-    "title": "Ethnographic Data Loss — Ethics Decision and Publication Disclaimer",
-    "path": "wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "data loss disclaimer",
-      "ethics ruling lost data",
-      "fieldwork data loss",
-      "wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer"
-    ],
-    "outlinks": 22,
-    "unique_outlinks": 9,
-    "backlinks": 16
-  },
-  {
-    "id": "Every Hair a Battle Scar — Buffy's Hair as Narrative Engine",
-    "title": "Every Hair a Battle Scar — Buffy's Hair as Narrative Engine",
-    "path": "wiki/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Every Hair a Battle Scar — Buffy's Hair as Narrative Engine",
-      "wiki/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine"
-    ],
-    "outlinks": 25,
-    "unique_outlinks": 16,
-    "backlinks": 21
-  },
-  {
-    "id": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
-    "title": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
-    "path": "wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Evidence-to-Publication Bridge",
-      "PHAROS evidence bridge",
-      "product-to-manuscript routing",
-      "wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 11,
-    "backlinks": 8
-  },
-  {
-    "id": "External Data Refresh Calendar — Phase 1 Build",
-    "title": "External Data Refresh Calendar — Phase 1 Build",
-    "path": "wiki/External Data Refresh Calendar — Phase 1 Build.md",
-    "type": "governance-procedures",
-    "status": "active",
-    "aliases": [
-      "External Data Refresh Calendar — Phase 1 Build",
-      "wiki/External Data Refresh Calendar — Phase 1 Build"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 5,
-    "backlinks": 4
-  },
-  {
     "id": "Fisher King Hub — Project Recovery Map",
     "title": "Fisher King Hub — Project Recovery Map",
     "path": "wiki/Fisher King Hub — Project Recovery Map.md",
@@ -3182,20 +3130,6 @@
     "backlinks": 43
   },
   {
-    "id": "Fluency, Interruption, and Institutional Accountability",
-    "title": "Fluency, Interruption, and Institutional Accountability",
-    "path": "wiki/Fluency, Interruption, and Institutional Accountability.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Fluency, Interruption, and Institutional Accountability",
-      "wiki/Fluency, Interruption, and Institutional Accountability"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 13,
-    "backlinks": 106
-  },
-  {
     "id": "For Her Alone to Wield — Cover Letter (2026-05-16)",
     "title": "For Her Alone to Wield — Cover Letter (2026-05-16)",
     "path": "wiki/For Her Alone to Wield — Cover Letter (2026-05-16).md",
@@ -3223,35 +3157,6 @@
     "outlinks": 11,
     "unique_outlinks": 6,
     "backlinks": 5
-  },
-  {
-    "id": "Founder Charter — Lepage and Stocker",
-    "title": "Founder Charter — Lepage and Stocker",
-    "path": "wiki/Founder Charter — Lepage and Stocker.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Founder Charter — Lepage and Stocker",
-      "wiki/Founder Charter — Lepage and Stocker"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 6,
-    "backlinks": 31
-  },
-  {
-    "id": "Framing Processes and Social Movements — Benford & Snow 2000",
-    "title": "Framing Processes and Social Movements — Benford & Snow 2000",
-    "path": "wiki/Framing Processes and Social Movements — Benford & Snow 2000.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Benford & Snow 2000 Framing",
-      "Collective action frames review (Annual Review of Sociology)",
-      "wiki/Framing Processes and Social Movements — Benford & Snow 2000"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 4,
-    "backlinks": 8
   },
   {
     "id": "GRAPHIFY-OUT MOC",
@@ -6883,6 +6788,54 @@
     "backlinks": 12
   },
   {
+    "id": "Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness",
+    "title": "EML Function — Minimal Operator and Scientific-Calculator Completeness",
+    "path": "Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "EML function",
+      "Exp-Minus-Log",
+      "eml(x,y)",
+      "single binary operator"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 5,
+    "backlinks": 19
+  },
+  {
+    "id": "Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)",
+    "title": "Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)",
+    "path": "Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27).md",
+    "type": "tool-spec",
+    "status": "active",
+    "aliases": [
+      "Emergent",
+      "Emergent AI",
+      "Emergent app builder",
+      "emergent.sh"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 5,
+    "backlinks": 4
+  },
+  {
+    "id": "Resources/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon",
+    "title": "Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon",
+    "path": "Resources/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "emergent phenomenon structure",
+      "generative rules",
+      "gravity-from-entropy",
+      "triple-layer synthesis"
+    ],
+    "outlinks": 17,
+    "unique_outlinks": 8,
+    "backlinks": 10
+  },
+  {
     "id": "Resources/Epistemic Governance — Canonical Reference",
     "title": "Epistemic Governance — Canonical Reference",
     "path": "Resources/Epistemic Governance — Canonical Reference.md",
@@ -6911,6 +6864,20 @@
     "outlinks": 65,
     "unique_outlinks": 60,
     "backlinks": 311
+  },
+  {
+    "id": "Resources/Framing Processes and Social Movements — Benford & Snow 2000",
+    "title": "Framing Processes and Social Movements — Benford & Snow 2000",
+    "path": "Resources/Framing Processes and Social Movements — Benford & Snow 2000.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Benford & Snow 2000 Framing",
+      "Collective action frames review (Annual Review of Sociology)"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 4,
+    "backlinks": 8
   },
   {
     "id": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)",
@@ -9643,6 +9610,20 @@
     "outlinks": 23,
     "unique_outlinks": 22,
     "backlinks": 9
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06",
+    "title": "Documents and Downloads Scan — 2026-05-06",
+    "path": "archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06.md",
+    "type": "intake-index",
+    "status": "active",
+    "aliases": [
+      "C drive Documents and Downloads text intake",
+      "Documents and Downloads scan 2026-05-06"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 7,
+    "backlinks": 7
   },
   {
     "id": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",

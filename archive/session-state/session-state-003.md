@@ -483,7 +483,7 @@ morning agent 2026-06-27 — daily note created, stale scan clean (all project-t
 
 **Trigger:** Operator request to produce a spec sheet for `emergent.sh`.
 
-**Work completed:** Created [[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]] from official emergent.sh homepage, FAQ, pricing, and enterprise pages. The note captures platform positioning, capability matrix, pricing tiers, PHAROS/EMERAULD use boundary, production acceptance checklist, governance rules, and open questions. Linked it from [[wiki/AI Infrastructure Stack]], [[Areas/Personal/Personal and Projects MOC]], and [[_vault/VAULT ADDITIONS TRACKER]].
+**Work completed:** Created [[Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]] from official emergent.sh homepage, FAQ, pricing, and enterprise pages. The note captures platform positioning, capability matrix, pricing tiers, PHAROS/EMERAULD use boundary, production acceptance checklist, governance rules, and open questions. Linked it from [[wiki/AI Infrastructure Stack]], [[Areas/Personal/Personal and Projects MOC]], and [[_vault/VAULT ADDITIONS TRACKER]].
 
 **Boundary:** Official-source-only spec sheet; no hands-on emergent.sh build, generated-code review, security audit, legal review, or enterprise contract review performed.
 

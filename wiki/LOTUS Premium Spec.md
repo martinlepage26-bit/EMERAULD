@@ -32,7 +32,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[wiki/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
+- '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
 - '[[wiki/LOTUS Model and Agency]]'

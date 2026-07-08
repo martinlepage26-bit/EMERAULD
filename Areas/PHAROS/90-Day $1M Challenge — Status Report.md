@@ -22,7 +22,7 @@ canonical_path: Areas/PHAROS/90-Day $1M Challenge — Status Report.md
 backlink_count: 18
 backlinks:
 - '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
-- '[[wiki/Founder Charter — Lepage and Stocker]]'
+- '[[Areas/PHAROS/Founder Charter — Lepage and Stocker]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[wiki/Home]]'

@@ -7,7 +7,6 @@ aliases:
 - OODA operator
 - voice operator
 - PHAROS operator
-- wiki/Epistemic Operator — Operational Specification
 tags:
 - skill
 - governance
@@ -18,7 +17,7 @@ tags:
 - pharos
 - claude-code
 - skill-corpus
-- wiki
+- areas
 - epistemic-operator-operational-specification-md
 - friction
 - analytical
@@ -27,8 +26,8 @@ tags:
 status: active
 created: '2026-05-24'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Epistemic Operator — Operational Specification.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Epistemic Operator — Operational Specification.md
 backlink_count: 8
 backlinks:
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'

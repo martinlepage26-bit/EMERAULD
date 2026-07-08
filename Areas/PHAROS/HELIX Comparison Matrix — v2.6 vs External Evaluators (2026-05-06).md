@@ -26,7 +26,7 @@ backlink_count: 10
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[wiki/Documents and Downloads Scan — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
 - '[[wiki/HELIX Test Run — Claude Code Agents as Subject (2026)]]'

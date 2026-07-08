@@ -34,7 +34,7 @@ backlinks:
 - '[[Resources/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
-- '[[wiki/Framing Processes and Social Movements — Benford & Snow 2000]]'
+- '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'

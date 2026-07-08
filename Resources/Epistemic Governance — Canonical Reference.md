@@ -35,7 +35,7 @@ backlink_count: 8
 backlinks:
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
-- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

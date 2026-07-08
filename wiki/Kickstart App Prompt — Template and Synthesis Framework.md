@@ -24,7 +24,7 @@ vault_area: wiki
 canonical_path: wiki/Kickstart App Prompt — Template and Synthesis Framework.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
+- '[[Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
 - '[[wiki/Home]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
