@@ -1,19 +1,5 @@
 [
   {
-    "id": "2026 - Mauss - The Gift",
-    "title": "2026 - Mauss - The Gift",
-    "path": "wiki/2026 - Mauss - The Gift.md",
-    "type": "wiki",
-    "status": "recovered",
-    "aliases": [
-      "Mauss - The Gift",
-      "wiki/2026 - Mauss - The Gift"
-    ],
-    "outlinks": 0,
-    "unique_outlinks": 0,
-    "backlinks": 4
-  },
-  {
     "id": "AI Governance Failure Cases",
     "title": "AI Governance Failure Cases",
     "path": "wiki/AI Governance Failure Cases.md",
@@ -4571,6 +4557,58 @@
     "backlinks": 467
   },
   {
+    "id": "Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper",
+    "title": "Queering Neo-Pagan Magic — 2006 Paper",
+    "path": "Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Queering Neo-Pagan Magic — 2006 Paper"
+    ],
+    "outlinks": 28,
+    "unique_outlinks": 22,
+    "backlinks": 39
+  },
+  {
+    "id": "Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version",
+    "title": "Queering Neo-Pagan Magic — 2025 Revised Version",
+    "path": "Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Queering Neo-Pagan Magic — 2025 Revised Version"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 16,
+    "backlinks": 22
+  },
+  {
+    "id": "Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper",
+    "title": "Queering Neo-Pagan Magic — 2026 Paper",
+    "path": "Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Queering Neo-Pagan Magic — 2026 Paper"
+    ],
+    "outlinks": 34,
+    "unique_outlinks": 23,
+    "backlinks": 49
+  },
+  {
+    "id": "Areas/Writing/Queering Neo-Pagan Magic — FINAL FINAL PAPER",
+    "title": "Queering Neo-Pagan Magic — FINAL FINAL PAPER",
+    "path": "Areas/Writing/Queering Neo-Pagan Magic — FINAL FINAL PAPER.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Queering Neo-Pagan Magic: Identity, Power, and the Uses of Magic"
+    ],
+    "outlinks": 0,
+    "unique_outlinks": 0,
+    "backlinks": 6
+  },
+  {
     "id": "Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic",
     "title": "Queering Neo-Pagan Magic — Identity Power and the Uses of Magic",
     "path": "Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic.md",
@@ -4582,6 +4620,19 @@
     "outlinks": 25,
     "unique_outlinks": 12,
     "backlinks": 35
+  },
+  {
+    "id": "Areas/Writing/Queering Neo-Pagan Magic — MRW Submission (2026)",
+    "title": "Queering Neo-Pagan Magic — MRW Submission (2026)",
+    "path": "Areas/Writing/Queering Neo-Pagan Magic — MRW Submission (2026).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Queering Neo-Pagan Magic — MRW Submission (2026)"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 17,
+    "backlinks": 7
   },
   {
     "id": "Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)",
@@ -5643,35 +5694,6 @@
     "outlinks": 37,
     "unique_outlinks": 35,
     "backlinks": 43
-  },
-  {
-    "id": "For Her Alone to Wield — Cover Letter (2026-05-16)",
-    "title": "For Her Alone to Wield — Cover Letter (2026-05-16)",
-    "path": "wiki/For Her Alone to Wield — Cover Letter (2026-05-16).md",
-    "type": "wiki",
-    "status": "draft",
-    "aliases": [
-      "Slayage cover letter For Her Alone to Wield",
-      "wiki/For Her Alone to Wield — Cover Letter (2026-05-16)"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 3,
-    "backlinks": 5
-  },
-  {
-    "id": "For Her Alone to Wield — HENRY Draft (2026-05-16)",
-    "title": "For Her Alone to Wield — HENRY Draft (2026-05-16)",
-    "path": "wiki/For Her Alone to Wield — HENRY Draft (2026-05-16).md",
-    "type": "wiki",
-    "status": "draft",
-    "aliases": [
-      "HENRY draft For Her Alone to Wield",
-      "Slayage submission draft 2026-05-16",
-      "wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 6,
-    "backlinks": 5
   },
   {
     "id": "GRAPHIFY-OUT MOC",
@@ -6864,76 +6886,6 @@
     "outlinks": 39,
     "unique_outlinks": 38,
     "backlinks": 389
-  },
-  {
-    "id": "Queering Neo-Pagan Magic — 2006 Paper",
-    "title": "Queering Neo-Pagan Magic — 2006 Paper",
-    "path": "wiki/Queering Neo-Pagan Magic — 2006 Paper.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Queering Neo-Pagan Magic — 2006 Paper",
-      "wiki/Queering Neo-Pagan Magic — 2006 Paper"
-    ],
-    "outlinks": 28,
-    "unique_outlinks": 22,
-    "backlinks": 39
-  },
-  {
-    "id": "Queering Neo-Pagan Magic — 2025 Revised Version",
-    "title": "Queering Neo-Pagan Magic — 2025 Revised Version",
-    "path": "wiki/Queering Neo-Pagan Magic — 2025 Revised Version.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Queering Neo-Pagan Magic — 2025 Revised Version",
-      "wiki/Queering Neo-Pagan Magic — 2025 Revised Version"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 16,
-    "backlinks": 22
-  },
-  {
-    "id": "Queering Neo-Pagan Magic — 2026 Paper",
-    "title": "Queering Neo-Pagan Magic — 2026 Paper",
-    "path": "wiki/Queering Neo-Pagan Magic — 2026 Paper.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Queering Neo-Pagan Magic — 2026 Paper",
-      "wiki/Queering Neo-Pagan Magic — 2026 Paper"
-    ],
-    "outlinks": 34,
-    "unique_outlinks": 23,
-    "backlinks": 49
-  },
-  {
-    "id": "Queering Neo-Pagan Magic — FINAL FINAL PAPER",
-    "title": "Queering Neo-Pagan Magic — FINAL FINAL PAPER",
-    "path": "wiki/Queering Neo-Pagan Magic — FINAL FINAL PAPER.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Queering Neo-Pagan Magic: Identity, Power, and the Uses of Magic",
-      "wiki/Queering Neo-Pagan Magic — FINAL FINAL PAPER"
-    ],
-    "outlinks": 0,
-    "unique_outlinks": 0,
-    "backlinks": 6
-  },
-  {
-    "id": "Queering Neo-Pagan Magic — MRW Submission (2026)",
-    "title": "Queering Neo-Pagan Magic — MRW Submission (2026)",
-    "path": "wiki/Queering Neo-Pagan Magic — MRW Submission (2026).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Queering Neo-Pagan Magic — MRW Submission (2026)",
-      "wiki/Queering Neo-Pagan Magic — MRW Submission (2026)"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 17,
-    "backlinks": 7
   },
   {
     "id": "RAW MOC",
@@ -8942,6 +8894,19 @@
     "backlinks": 2
   },
   {
+    "id": "archive/wiki-2026-07-08/2026 - Mauss - The Gift",
+    "title": "2026 - Mauss - The Gift",
+    "path": "archive/wiki-2026-07-08/2026 - Mauss - The Gift.md",
+    "type": "wiki",
+    "status": "recovered",
+    "aliases": [
+      "Mauss - The Gift"
+    ],
+    "outlinks": 0,
+    "unique_outlinks": 0,
+    "backlinks": 4
+  },
+  {
     "id": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
     "title": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
     "path": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10).md",
@@ -9234,6 +9199,33 @@
     "outlinks": 7,
     "unique_outlinks": 7,
     "backlinks": 7
+  },
+  {
+    "id": "archive/wiki-2026-07-08/For Her Alone to Wield — Cover Letter (2026-05-16)",
+    "title": "For Her Alone to Wield — Cover Letter (2026-05-16)",
+    "path": "archive/wiki-2026-07-08/For Her Alone to Wield — Cover Letter (2026-05-16).md",
+    "type": "wiki",
+    "status": "draft",
+    "aliases": [
+      "Slayage cover letter For Her Alone to Wield"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 3,
+    "backlinks": 5
+  },
+  {
+    "id": "archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16)",
+    "title": "For Her Alone to Wield — HENRY Draft (2026-05-16)",
+    "path": "archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16).md",
+    "type": "wiki",
+    "status": "draft",
+    "aliases": [
+      "HENRY draft For Her Alone to Wield",
+      "Slayage submission draft 2026-05-16"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 6,
+    "backlinks": 5
   },
   {
     "id": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",

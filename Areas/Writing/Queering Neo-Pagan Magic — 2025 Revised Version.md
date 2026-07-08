@@ -3,9 +3,8 @@ type: wiki
 title: Queering Neo-Pagan Magic — 2025 Revised Version
 aliases:
 - Queering Neo-Pagan Magic — 2025 Revised Version
-- wiki/Queering Neo-Pagan Magic — 2025 Revised Version
 tags:
-- wiki
+- areas
 - pagan
 - magic
 - queer
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Queering Neo-Pagan Magic — 2025 Revised Version.md
+vault_area: Areas
+canonical_path: Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version.md
 backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
@@ -26,10 +25,10 @@ backlinks:
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
-- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
-- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'

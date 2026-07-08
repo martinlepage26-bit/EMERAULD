@@ -21,7 +21,7 @@ canonical_path: Areas/Writing/For Her Alone to Wield — Version Genealogy.md
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
-- '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
+- '[[archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

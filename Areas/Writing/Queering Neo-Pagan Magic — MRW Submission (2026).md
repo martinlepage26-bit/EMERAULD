@@ -3,9 +3,8 @@ type: wiki
 title: Queering Neo-Pagan Magic — MRW Submission (2026)
 aliases:
 - Queering Neo-Pagan Magic — MRW Submission (2026)
-- wiki/Queering Neo-Pagan Magic — MRW Submission (2026)
 tags:
-- wiki
+- areas
 - queering-neo-pagan-magic-mrw-submission-2026-md
 - magic
 - pagan
@@ -16,12 +15,12 @@ tags:
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Queering Neo-Pagan Magic — MRW Submission (2026).md
+vault_area: Areas
+canonical_path: Areas/Writing/Queering Neo-Pagan Magic — MRW Submission (2026).md
 backlink_count: 3
 backlinks:
 - '[[Areas/Writing/Pagan Magic — Version Genealogy]]'
-- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

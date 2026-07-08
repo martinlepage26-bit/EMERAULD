@@ -43,6 +43,15 @@ Total exceeds the report's ~310 estimate: classifiers read full note content and
 - Per batch: unresolved must not rise; git commit per batch (surgical rollback); final `para_migrate.py --verify-only` must report 0 stale path-form links.
 - Consolidation rows (`action=consolidate`, 8 files) handled separately in Phase 2c — see [[wiki/WIKI-ROUTING-REPORT|routing report]] §6.
 
+## Phase 2c consolidation verdict (revised on content inspection)
+
+The routing report's §6 "consolidate 5 Queering versions into one canonical + one genealogy" was NOT executed as written. Content inspection showed the six Queering Neo-Pagan Magic notes have been curated since June into an intentional version genealogy: each carries explicit cross-references and distinct-role statements ("Source overlap note: … They are not duplicates — consult both"). Destructive merging would have destroyed curated structure and violated the standing full-length-preservation writing rule. Executed instead:
+
+- Queering Neo-Pagan Magic ×5 remaining files → Areas/Writing/ (cluster kept together with the sixth, already moved).
+- For Her Alone to Wield: Cover Letter + HENRY Draft → archive/wiki-2026-07-08/ (dated post-submission process artifacts, per report); main paper + Version Genealogy live in Areas/Writing/.
+- Mauss pair: canonical [[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)|The Gift — Mauss]] stays in Resources/ and now links the recovered 1,293-line reading-notes file, archived unmerged.
+- Second Self pair: canonical + Public Voice Examples → Areas/PHAROS/; the recovered duplicate (duplicate_of marker) → archive/wiki-2026-07-08/.
+
 ## Known pre-existing stem collisions (not worsened by moves)
 
 - `CSV_DIAGNOSTIC_REPORT.md` also exists under artifacts/2026-04-19-pharos-migration-pr4/docs/.

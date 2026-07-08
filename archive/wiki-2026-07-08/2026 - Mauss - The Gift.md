@@ -3,9 +3,8 @@ type: wiki
 title: Mauss - The Gift
 aliases:
 - Mauss - The Gift
-- wiki/2026 - Mauss - The Gift
 tags:
-- wiki
+- archive
 - 2026-mauss-the-gift-md
 - unpacked
 - recursotrue
@@ -16,8 +15,8 @@ tags:
 status: recovered
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/2026 - Mauss - The Gift.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/2026 - Mauss - The Gift.md
 backlink_count: 1
 backlinks:
 - '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'

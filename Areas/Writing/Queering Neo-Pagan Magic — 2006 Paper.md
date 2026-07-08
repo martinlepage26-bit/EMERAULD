@@ -3,9 +3,8 @@ type: wiki
 title: Queering Neo-Pagan Magic — 2006 Paper
 aliases:
 - Queering Neo-Pagan Magic — 2006 Paper
-- wiki/Queering Neo-Pagan Magic — 2006 Paper
 tags:
-- wiki
+- areas
 - pagan
 - magic
 - queer
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Queering Neo-Pagan Magic — 2006 Paper.md
+vault_area: Areas
+canonical_path: Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper.md
 backlink_count: 24
 backlinks:
 - '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
@@ -29,12 +28,11 @@ backlinks:
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
-- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
-- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
-- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
-  vs Reclaiming)]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'

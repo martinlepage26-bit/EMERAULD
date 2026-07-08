@@ -4,7 +4,6 @@ title: For Her Alone to Wield — HENRY Draft (2026-05-16)
 aliases:
 - HENRY draft For Her Alone to Wield
 - Slayage submission draft 2026-05-16
-- wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)
 tags:
 - buffy
 - slayage
@@ -13,7 +12,7 @@ tags:
 - infrastructure
 - power
 - henry
-- wiki
+- archive
 - for-her-alone-to-wield-henry-draft-2026-05-16-md
 - slayer
 - redistribution
@@ -23,11 +22,11 @@ tags:
 status: draft
 created: '2026-05-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/For Her Alone to Wield — HENRY Draft (2026-05-16).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16).md
 backlink_count: 5
 backlinks:
-- '[[wiki/For Her Alone to Wield — Cover Letter (2026-05-16)]]'
+- '[[archive/wiki-2026-07-08/For Her Alone to Wield — Cover Letter (2026-05-16)]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

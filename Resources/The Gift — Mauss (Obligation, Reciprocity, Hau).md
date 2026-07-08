@@ -51,4 +51,5 @@ Mauss is part of the Mauss/Weber/Godbout synthesis referenced in [[Voodoo Doll a
 
 ## Sources
 - Raw (converted): `raw sources/D_LIBRARY_ingest_2026-04-26/converted/Mauss - The Gift.pdf.md`
+- Full recovered reading notes (1,293 lines, preserved unmerged per length-preservation rule): [[archive/wiki-2026-07-08/2026 - Mauss - The Gift|2026 - Mauss - The Gift]] — archived 2026-07-08 as part of the PARA migration duplicate-cluster pass; this note remains the canonical reference.
 

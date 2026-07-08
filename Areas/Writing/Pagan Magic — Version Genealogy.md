@@ -22,8 +22,8 @@ backlink_count: 7
 backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
-- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

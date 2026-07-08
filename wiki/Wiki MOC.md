@@ -15,7 +15,7 @@ tags:
 
 ## Recovered Orphans (2026-07-01)
 
-- [[wiki/2026 - Mauss - The Gift]]
+- [[archive/wiki-2026-07-08/2026 - Mauss - The Gift]]
 - [[archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT]]
 - [[wiki/Home]]
 - [[wiki/VAULT ADDITIONS TRACKER]]

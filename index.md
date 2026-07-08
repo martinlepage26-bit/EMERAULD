@@ -25,7 +25,7 @@ backlinks:
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
-> For future Claude: Master catalog of all EMERAULD vault sections. Read this first when navigating the vault — it is cheaper and faster than listing directories. Regenerate with `/obsidian-init`. Vault has 575+ wiki notes; this index lists hubs, MOCs, and structural files, not every individual note. Use [[Areas/PHAROS/Governance and PHAROS MOC]], [[Areas/Writing/Research and Papers MOC]], and [[Areas/Personal/Personal and Projects MOC]] as topic entry points. Use `vsearch.py` for semantic search across all 575+ wiki notes.
+> For future Claude: Master catalog of all EMERAULD vault sections. Read this first when navigating the vault — it is cheaper and faster than listing directories. Regenerate with `/obsidian-init`. Since the 2026-07-08 PARA migration, durable notes live under `Areas/{PHAROS,Writing,Personal,Lavoie}/` and `Resources/`; `wiki/` retains vault-machinery notes, skill mirrors (wiki/skills/), and ~100 residual notes (manifest: [[_vault/PARA-MIGRATION-MANIFEST-2026-07-08|PARA Migration Manifest]]). Use [[Areas/PHAROS/Governance and PHAROS MOC]], [[Areas/Writing/Research and Papers MOC]], and [[Areas/Personal/Personal and Projects MOC]] as topic entry points. Use `vsearch.py` for semantic search across the full corpus.
 
 # EMERAULD Vault Index
 

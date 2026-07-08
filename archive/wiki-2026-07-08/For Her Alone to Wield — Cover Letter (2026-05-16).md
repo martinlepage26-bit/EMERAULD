@@ -3,13 +3,12 @@ type: wiki
 title: For Her Alone to Wield — Cover Letter (2026-05-16)
 aliases:
 - Slayage cover letter For Her Alone to Wield
-- wiki/For Her Alone to Wield — Cover Letter (2026-05-16)
 tags:
 - buffy
 - slayage
 - cover-letter
 - submission
-- wiki
+- archive
 - for-her-alone-to-wield-cover-letter-2026-05-16-md
 - redistribution
 - wield
@@ -19,11 +18,11 @@ tags:
 status: draft
 created: '2026-05-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/For Her Alone to Wield — Cover Letter (2026-05-16).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/For Her Alone to Wield — Cover Letter (2026-05-16).md
 backlink_count: 5
 backlinks:
-- '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
+- '[[archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

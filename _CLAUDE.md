@@ -48,14 +48,20 @@ Every note Claude writes must be self-contained for future Claude:
 
 **Vault root:** `/home/martin/EMERAULD`
 
-**Primary note directory:** `wiki/` — all durable, linked knowledge notes go here (not vault root)
+**Primary note routing (PARA, since 2026-07-08 migration):** new durable notes go to the matching `Areas/` subfolder or `Resources/`; only vault-machinery and genuinely unroutable notes go to `wiki/`.
 
 **Directory map:**
 ```
-wiki/          ← main notes (all new notes default here)
+Areas/PHAROS/  ← PHAROS business, products, governance architecture, agents/skills (largest area)
+Areas/Writing/ ← manuscripts, papers, queer/pagan studies, novels, version genealogies
+Areas/Personal/← personal life, legal, health, home
+Areas/Lavoie/  ← Groupe Lavoie client engagement
+Resources/     ← annotated sources, reference stacks, external tool specs, frameworks
+Inbox/         ← captures awaiting routing (status: inbox)
+wiki/          ← vault-machinery notes, skill-corpus mirrors (wiki/skills/), hubs, residual legacy (~100 top-level)
 maps/          ← MOCs and topic indexes (7+ page topics)
-projects/      ← per-project state files
-resources/     ← reference docs, checklists, access notes
+projects/      ← per-project state files (top level) + mirrored working dirs (subfolders)
+resources/     ← (lowercase, legacy) small reference docs; new reference material goes to Resources/
 raw/           ← verified source files after hard-move (immutable)
 raw sources/   ← unsynthesized captures, preserve as-is, NEVER overwrite or delete
 templates/     ← note templates
@@ -63,10 +69,11 @@ assets/        ← deliverables, slides, PDFs
 artifacts/     ← generated outputs and reports
 governance/    ← governance docs and protocols
 memory/        ← daily logs (memory/daily/) and client files (memory/clients/)
-archive/       ← archived registers
+archive/       ← archived registers + archive/wiki-2026-07-08/ (migrated dated ops notes)
 ```
+485 wiki notes were routed into this layout on 2026-07-08 — manifest at `_vault/PARA-MIGRATION-MANIFEST-2026-07-08.md`.
 
-**When obsidian-second-brain says "save to vault root":** save to `wiki/` instead.
+**When obsidian-second-brain says "save to vault root":** route per the PARA map above (never vault root).
 **When obsidian-second-brain says "save to raw/":** save to `raw sources/` (EMERAULD's intake lane).
 **Do not create new top-level directories** without updating `CLAUDE.md`.
 

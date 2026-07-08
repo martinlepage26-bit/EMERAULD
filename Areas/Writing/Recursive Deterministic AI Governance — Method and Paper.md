@@ -92,7 +92,7 @@ backlinks:
 - '[[Areas/PHAROS/Phase 1 Governance Formation Sequence]]'
 - '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
-- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
 - '[[Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
 - '[[Areas/PHAROS/RECURSO — Final Audit and Ethical Review]]'

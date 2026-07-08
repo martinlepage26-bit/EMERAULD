@@ -13,7 +13,7 @@ tags:
 - gift
 - mauss
 - color-purple
-status: draft
+status: executed
 created: '2026-06-29'
 updated: '2026-06-26'
 vault_area: wiki
@@ -26,6 +26,9 @@ backlinks:
 ---
 
 # Wiki Routing Report — 2026-06-29
+
+> [!success] Executed 2026-07-08
+> The full migration ran as Phase 2 of the vault overhaul: 493 manifest rows (485 moves + 8 cluster actions), 25 gated batches, links repaired per batch. Final row set, distribution, and the revised (non-destructive) consolidation verdict live in [[_vault/PARA-MIGRATION-MANIFEST-2026-07-08|PARA Migration Manifest 2026-07-08]]. This report is retained as the routing rationale record.
 
 Scope: 564 notes in `wiki/`. Sampled ~90 files across alphabetical range + full title scan + backlink analysis. No files were moved. Human decides what actually moves.
 

@@ -42,5 +42,5 @@ backlinks:
 | Unprocessed raw input | `raw/` or `Inbox/` |
 | Finished project artifacts | `archive/` |
 
-## Legacy wiki/
-The `wiki/` folder is the pre-2026-06-29 flat dump. It is **not being migrated** — it remains as-is and is treated as a legacy resource. New reference notes go here in `Resources/`, not into `wiki/`. Over time, frequently-linked wiki notes can be moved here on demand.
+## Legacy wiki/ — migration executed 2026-07-08
+The `wiki/` folder was the pre-2026-06-29 flat dump. The full PARA migration ran on 2026-07-08: 485 notes routed to `Areas/PHAROS/`, `Areas/Writing/`, `Areas/Personal/`, `Areas/Lavoie/`, `Resources/`, and `archive/wiki-2026-07-08/` (manifest: [[_vault/PARA-MIGRATION-MANIFEST-2026-07-08|PARA Migration Manifest]]). What remains in `wiki/` is intentional: vault-machinery notes, skill-corpus mirrors (`wiki/skills/`), hubs, and ~100 notes with no clear home. New reference notes go here in `Resources/`, not into `wiki/`.

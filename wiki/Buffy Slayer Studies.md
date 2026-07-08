@@ -27,7 +27,7 @@ canonical_path: wiki/Buffy Slayer Studies.md
 backlink_count: 15
 backlinks:
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
+- '[[archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'

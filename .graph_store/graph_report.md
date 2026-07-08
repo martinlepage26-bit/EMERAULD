@@ -1,6 +1,6 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:37:46Z
+Built: 2026-07-08T05:40:41Z
 Corpus: wiki/**/*.md
 
 ## Summary
@@ -306,7 +306,7 @@ Corpus: wiki/**/*.md
 
 ## Components
 
-- Component 1: 1360 notes; seed [[2026 - Mauss - The Gift]]
+- Component 1: 1360 notes; seed [[AI Governance Failure Cases]]
 - Component 2: 3 notes; seed [[graph/nodes/unmapped/embed_py]]
 - Component 3: 3 notes; seed [[graph/nodes/unmapped/ingest_py]]
 - Component 4: 3 notes; seed [[graph/nodes/unmapped/raw_intake_dataset]]
