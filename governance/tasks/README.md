@@ -27,10 +27,14 @@ canonical_path: governance/tasks/README.md
 | `hephaistos_scope` | HEPHAISTOS session/agent | `defined` once the scope packet section exists in the note |
 | `qk_verdict` | Queen Keyport session/agent | `cleared` or `refused` (+ conditions in the note body) |
 | `relay_id` | executing (Hermes-routed) session | RELAY-LEDGER entry id, written AT DISPATCH TIME |
+| `{field}_stamp` / `{field}_stamped_at` / `{field}_section_sha` | `scripts/gate_stamp.py` only | HMAC-SHA256 stage stamp binding the field value + its section text, chained to the prior stage (task #3). Never hand-written; `stamped_at` always quoted |
+| `stamp_key_id` | `scripts/gate_stamp.py` | First 8 hex chars of the stamping key's hash (rotation legibility) |
+| `stamp_status` | executor, once | `grandfathered` = note predates the stamp mechanism (tasks #1-#2); visibly labeled, never silently passed |
 
 ## Rules
 
-1. Execution requires `governance_state: cleared` — checked by `scripts/governance_gate.py` (soft mode warns; `--hard` refuses). Tighten to hard after the first clean month (QK-Gate pattern, piloted on pharos-suite).
+1. Execution requires `governance_state: cleared` — checked by `scripts/governance_gate.py` (soft mode warns; `--hard` refuses; invoked nightly via `--audit-all` since task #2). Tighten to hard after the first clean month (QK-Gate pattern, piloted on pharos-suite).
+1b. Stage transitions are stamped with `scripts/gate_stamp.py` (task #3): HMAC over the stage's section text, chained in order — stamp after writing your section, and know the boundary: stamps are tamper-EVIDENCE against non-key-hunting drift (the RELAY-20260703-014 class), not proof of dispatch isolation. Full honesty section: [[governance/tasks/gate-authenticity-20260708|task #3 scope packet]].
 2. The executing session writes the RELAY-LEDGER entry at true dispatch time, never backfilled ([[Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger|why this matters]]).
 3. Hephaistos/Queen Keyport disagreement → operator Branch arbitration, recorded in the task note ([[Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)|worked example]]).
 4. Argus audits this folder + the ledger on its existing cadence; a task at `done` without `relay_id`, or executed work with no task note, is drift.

@@ -105,6 +105,11 @@ def is_editable_markdown(path: Path) -> bool:
         return False
     if rel_parts[0] in PROTECTED_DIRS:
         return False
+    if rel_parts[:2] == ("governance", "tasks"):
+        # Governed-task notes carry HMAC stage stamps (gate_stamp.py); bulk frontmatter
+        # rewriting has no enrichment value there and risks invalidating stamps
+        # (task #3 QK condition 3 — defense in depth alongside quoted stamp fields).
+        return False
     if any(part in SKIP_PARTS for part in rel_parts):
         return False
     return True

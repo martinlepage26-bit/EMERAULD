@@ -15,6 +15,7 @@ created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: governance
 canonical_path: governance/tasks/weekly-os-health-20260708.md
+stamp_status: grandfathered
 ---
 
 # Governed Task — Weekly OS-Health Section

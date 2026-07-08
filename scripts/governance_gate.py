@@ -17,6 +17,9 @@ from pathlib import Path
 
 import yaml
 
+sys.path.insert(0, str(Path(__file__).parent))
+import gate_stamp  # HMAC stage-stamp verification (governed task gate-authenticity-20260708)
+
 ROOT = Path(__file__).resolve().parents[1]
 TASKS = ROOT / "governance" / "tasks"
 
@@ -36,7 +39,13 @@ def load_meta(path: Path) -> dict:
 
 
 def check_note(path: Path, hard: bool) -> bool:
-    """Print one GATE line for a task note; return True if it passes."""
+    """Print one GATE line for a task note; return True if it passes.
+
+    The pass/fail boolean (and --hard's exit) gates on the original three-field
+    check only; stamp verification is ADDITIVE — surfaced on the printed line and
+    in audit-all's violation count, never absorbed into --hard's boolean in this
+    rollout (soft-then-hard precedent, governance/tasks/README.md rule 1).
+    """
     meta = load_meta(path)
     state = str(meta.get("governance_state", "")).strip()
     scope = str(meta.get("hephaistos_scope", "")).strip()
@@ -44,9 +53,10 @@ def check_note(path: Path, hard: bool) -> bool:
 
     ok = state in {"cleared", "routed"} and scope == "defined" and verdict == "cleared"
     label = "PASS" if ok else ("REFUSED (hard gate)" if hard else "WARN (soft gate)")
+    stamp_seg, _stamp_violations = gate_stamp.summarize(path)
     print(
         f"GATE {label}: {path.name} | governance_state={state or '∅'} "
-        f"hephaistos_scope={scope or '∅'} qk_verdict={verdict or '∅'}"
+        f"hephaistos_scope={scope or '∅'} qk_verdict={verdict or '∅'} | {stamp_seg}"
     )
     return ok
 
@@ -61,6 +71,7 @@ def audit_all() -> int:
     Exit 1 if any violation is found (soft: caller surfaces, never blocks).
     """
     violations = 0
+    key_unavailable = False
     for path in sorted(TASKS.glob("*.md")):
         meta = load_meta(path)
         if str(meta.get("type", "")).strip() != "governed-task":
@@ -73,14 +84,28 @@ def audit_all() -> int:
             ok = scope == "defined" and verdict == "cleared"
             if state in {"routed", "done"} and relay in {"", "None", "null"}:
                 ok = False
-            label = "PASS" if ok else "WARN (soft gate)"
-            if not ok:
-                violations += 1
         else:
-            label = "PASS (pre-clearance state)"
+            ok = True
+        stamp_seg, stamp_violations = gate_stamp.summarize(path)
+        if stamp_violations:
+            ok = False
+            if any(v.startswith("KEY_UNAVAILABLE") for v in stamp_violations):
+                key_unavailable = True
+        if state in {"cleared", "routed", "done"}:
+            label = "PASS" if ok else "WARN (soft gate)"
+        else:
+            label = "PASS (pre-clearance state)" if ok else "WARN (soft gate)"
+        if not ok:
+            violations += 1
         print(
             f"GATE {label}: {path.name} | governance_state={state or '∅'} "
-            f"hephaistos_scope={scope or '∅'} qk_verdict={verdict or '∅'} relay_id={relay or '∅'}"
+            f"hephaistos_scope={scope or '∅'} qk_verdict={verdict or '∅'} relay_id={relay or '∅'} | {stamp_seg}"
+        )
+    if key_unavailable:
+        print(
+            "audit-all: KEY_UNAVAILABLE — one infrastructure fault (stamp key file missing/"
+            "unreadable/wrong-mode), NOT independent forgeries; restore "
+            "~/.agents/hephaistos/keys/gate-hmac.key before hunting a forger"
         )
     print(f"audit-all: {violations} violation(s)")
     return 1 if violations else 0

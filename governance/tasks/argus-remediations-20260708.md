@@ -15,6 +15,7 @@ created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: governance
 canonical_path: governance/tasks/argus-remediations-20260708.md
+stamp_status: grandfathered
 ---
 
 # Governed Task — Argus Audit Remediations
