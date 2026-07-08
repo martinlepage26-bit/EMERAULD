@@ -50,7 +50,7 @@ backlinks:
   Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[wiki/Personal and Projects MOC]]'

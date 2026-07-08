@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
 - '[[wiki/MCP and Runtime Integration MOC]]'
-- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Stacklight-owner-explainer]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

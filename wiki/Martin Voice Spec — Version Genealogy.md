@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Martin Voice Spec — Stage Map]]'
 - '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
-- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/Version Genealogy System]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'

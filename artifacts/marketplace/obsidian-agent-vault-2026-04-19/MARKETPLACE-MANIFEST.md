@@ -21,7 +21,7 @@ canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLAC
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Obsidian Agent Vault — Asset Canon]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 ---
 

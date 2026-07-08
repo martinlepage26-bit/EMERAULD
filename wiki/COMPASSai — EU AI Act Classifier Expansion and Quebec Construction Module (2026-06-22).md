@@ -28,7 +28,7 @@ canonical_path: wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Con
   Module (2026-06-22).md
 backlink_count: 7
 backlinks:
-- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Railway — COMPASSai Production Deployment Platform]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'

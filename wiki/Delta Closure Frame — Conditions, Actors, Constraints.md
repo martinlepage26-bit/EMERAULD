@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/PHAROS Evidentiary Gap Closure Bundle]]'
+- '[[Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'

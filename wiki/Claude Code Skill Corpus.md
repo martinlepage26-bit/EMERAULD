@@ -44,7 +44,7 @@ backlinks:
 - '[[wiki/Obsidian Agent Vault — Setup Guide]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
-- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'

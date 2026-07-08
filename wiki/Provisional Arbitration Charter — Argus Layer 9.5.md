@@ -25,7 +25,7 @@ vault_area: wiki
 canonical_path: wiki/Provisional Arbitration Charter — Argus Layer 9.5.md
 backlink_count: 21
 backlinks:
-- '[[wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
+- '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
@@ -33,13 +33,13 @@ backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
-- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

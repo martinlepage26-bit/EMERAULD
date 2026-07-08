@@ -5,7 +5,6 @@ aliases:
 - PHAROS Origin
 - Origin and Doctrine
 - To Seed Something Into the World
-- wiki/PHAROS — Origin and Doctrine
 tags:
 - pharos
 - origin
@@ -13,7 +12,7 @@ tags:
 - personal
 - foundation
 - governance
-- wiki
+- areas
 - pharos-origin-and-doctrine-md
 - disabled
 - love
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS — Origin and Doctrine.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS — Origin and Doctrine.md
 backlink_count: 18
 backlinks:
 - '[[wiki/Authority Without Power-Over]]'
@@ -37,7 +36,7 @@ backlinks:
 - '[[wiki/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
-- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'

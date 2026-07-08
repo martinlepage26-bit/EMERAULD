@@ -5,14 +5,13 @@ aliases:
 - PHAROS strategy
 - keep-stop analysis
 - fix-finish plan
-- wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)
 tags:
 - strategy
 - pharos
 - commercial
 - governance
 - execution
-- wiki
+- areas
 - pharos-strategic-analysis-keep-stop-fix-finish-2026-04-18-md
 - argus
 - obsidian
@@ -23,15 +22,15 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18).md
 backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governed Self-Improvement — Method Slide Asset]]'
-- '[[wiki/Obsidian Agent Vault — Asset Canon]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
-- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'

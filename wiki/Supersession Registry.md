@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/Supersession Registry.md
 backlink_count: 6
 backlinks:
-- '[[wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
+- '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

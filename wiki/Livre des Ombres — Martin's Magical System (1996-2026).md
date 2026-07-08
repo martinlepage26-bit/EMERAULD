@@ -26,7 +26,7 @@ canonical_path: wiki/Livre des Ombres — Martin's Magical System (1996-2026).md
 backlink_count: 8
 backlinks:
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
-- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'

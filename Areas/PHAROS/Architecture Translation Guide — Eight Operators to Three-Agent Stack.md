@@ -5,13 +5,12 @@ aliases:
 - Eight Operators migration
 - operator to agent translation
 - Architecture Translation Guide
-- wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack
 tags:
 - governance
 - deprecation
 - architecture
 - migration-guide
-- wiki
+- areas
 - architecture-translation-guide-eight-operators-to-three-agent-stack-md
 - hephaistos
 - argus
@@ -22,9 +21,8 @@ tags:
 status: active
 created: '2026-04-27'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Architecture Translation Guide — Eight Operators to Three-Agent
-  Stack.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack.md
 backlink_count: 14
 backlinks:
 - '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
@@ -33,10 +31,9 @@ backlinks:
 - '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
-- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
-  (2026-04-18)]]'
+- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
-- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/Supersession Registry]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory]]'

@@ -6,7 +6,6 @@ aliases:
 - Identity Kernel
 - Agent Merge Manifest
 - Martin Executive Proxy
-- wiki/Second Self System — Identity Kernel and Agent Routing Architecture
 tags:
 - agent-architecture
 - second-self
@@ -14,7 +13,7 @@ tags:
 - governance
 - identity
 - pharos
-- wiki
+- areas
 - second-self-system-identity-kernel-and-agent-routing-architecture-md
 - organ
 - helper
@@ -25,17 +24,16 @@ tags:
 status: active
 created: '2026-04-29'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Second Self System — Identity Kernel and Agent Routing Architecture.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture.md
 backlink_count: 30
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
-- '[[wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
+- '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
-  (2026-05-07)]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
@@ -48,7 +46,7 @@ backlinks:
 - '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
-- '[[wiki/Second Self System — Public Voice Examples]]'
+- '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
 - '[[wiki/Trismégiste — Operator State]]'
 - '[[wiki/Trismégiste — Personal AI Assistant]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

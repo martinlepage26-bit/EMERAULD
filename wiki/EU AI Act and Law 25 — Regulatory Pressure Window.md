@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
 - '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
   (2026-06-22)]]'
-- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'

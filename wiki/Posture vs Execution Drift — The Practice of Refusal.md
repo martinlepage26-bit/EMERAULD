@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
-- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Rest and Consolidation Guide — Martin]]'
 - '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'

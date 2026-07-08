@@ -22,7 +22,7 @@ canonical_path: wiki/Personal and Projects MOC.md
 backlink_count: 68
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Agent Distillation Pipeline]]'
+- '[[Areas/PHAROS/Agent Distillation Pipeline]]'
 - '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
 - '[[wiki/Brutal Isms — Grant Revision Package (2026-05-12)]]'
@@ -44,7 +44,7 @@ backlinks:
 - '[[wiki/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
 - '[[wiki/Fisher King Hub — Project Recovery Map]]'
-- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[wiki/Home]]'
@@ -58,7 +58,7 @@ backlinks:
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
-- '[[wiki/Obsidian Agent Vault — Asset Canon]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[wiki/Obsidian Agent Vault — Launch Kit]]'
 - '[[wiki/Obsidian Agent Vault — Setup Guide]]'
 - '[[wiki/Obsidian Second Brain Product]]'

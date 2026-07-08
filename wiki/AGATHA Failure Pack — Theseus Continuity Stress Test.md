@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
-- '[[wiki/PHAROS Licensing Prospectus]]'
+- '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'

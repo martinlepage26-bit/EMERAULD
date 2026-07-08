@@ -26,7 +26,7 @@ backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
-- '[[wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
+- '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[wiki/Writing and Novels MOC]]'

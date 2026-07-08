@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[wiki/PHAROS Licensing Prospectus]]'
+- '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[wiki/Pagan and Queer Ritual Studies MOC]]'

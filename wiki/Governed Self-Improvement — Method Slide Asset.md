@@ -26,9 +26,9 @@ canonical_path: wiki/Governed Self-Improvement — Method Slide Asset.md
 backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Obsidian Agent Vault — Asset Canon]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[wiki/Obsidian Second Brain Product]]'
-- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 ---
 
 # Governed Self-Improvement — Method Slide Asset

@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-ex
 backlink_count: 2
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
+- '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
 source_url: https://complogyx.com/
 date: '2026-05-05'
 scraped: '2026-05-05'

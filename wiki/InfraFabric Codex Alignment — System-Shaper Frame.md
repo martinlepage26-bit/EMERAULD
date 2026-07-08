@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/MCP and Runtime Integration MOC]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/Personal and Projects MOC]]'
-- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[session-state]]'

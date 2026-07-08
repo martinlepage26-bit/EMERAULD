@@ -5,14 +5,13 @@ aliases:
 - distillation
 - agent distillation
 - student models
-- wiki/Agent Distillation Pipeline
 tags:
 - infrastructure
 - ai
 - distillation
 - agents
 - ml
-- wiki
+- areas
 - agent-distillation-pipeline-md
 - runner
 - configs
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Agent Distillation Pipeline.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Agent Distillation Pipeline.md
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'

@@ -46,7 +46,7 @@ backlinks:
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'
+- '[[Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'
 - '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'

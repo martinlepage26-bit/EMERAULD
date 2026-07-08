@@ -28,7 +28,7 @@ canonical_path: wiki/OUTLIERS — Five Notes That Break the Architecture.md
 backlink_count: 10
 backlinks:
 - '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
-- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'

@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legal and Institutional Cases]]'
-- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'

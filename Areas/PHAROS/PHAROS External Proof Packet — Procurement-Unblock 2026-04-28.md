@@ -3,7 +3,6 @@ type: proof-packet
 title: PHAROS External Proof Packet — Procurement-Unblock 2026-04-28
 aliases:
 - PHAROS External Proof Packet
-- wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28
 tags:
 - pharos
 - commercial
@@ -11,7 +10,7 @@ tags:
 - proof-packet
 - hermes
 - public-surface
-- wiki
+- areas
 - pharos-external-proof-packet-procurement-unblock-2026-04-28-md
 - executive
 - sprint
@@ -21,8 +20,8 @@ tags:
 status: draft-ready
 created: '2026-04-28'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28.md
 backlink_count: 24
 backlinks:
 - '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
@@ -31,7 +30,7 @@ backlinks:
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
+- '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
 - '[[wiki/PHAROS SURFACE]]'

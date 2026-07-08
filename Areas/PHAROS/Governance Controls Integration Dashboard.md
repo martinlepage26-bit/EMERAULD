@@ -3,10 +3,9 @@ type: governance-dashboard
 title: Governance Controls Integration Dashboard
 aliases:
 - GOVERNANCE CONTROLS INTEGRATION DASHBOARD
-- wiki/Governance Controls Integration Dashboard
 tags:
 - governance-dashboard
-- wiki
+- areas
 - governance-controls-integration-dashboard-md
 - control
 - external
@@ -17,12 +16,12 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governance Controls Integration Dashboard.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Governance Controls Integration Dashboard.md
 backlink_count: 21
 backlinks:
 - '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
-- '[[wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
+- '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/External Data Refresh Calendar — Phase 1 Build]]'

@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
 - '[[wiki/Research and Papers MOC]]'

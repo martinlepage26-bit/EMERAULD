@@ -4,14 +4,13 @@ title: Obsidian Agent Vault — Asset Canon
 aliases:
 - Obsidian Agent Vault Asset Inventory
 - Obsidian Agent Vault Asset Canon
-- wiki/Obsidian Agent Vault — Asset Canon
 tags:
 - product
 - obsidian
 - assets
 - commercialization
 - canon
-- wiki
+- areas
 - obsidian-agent-vault-asset-canon-md
 - marketplace
 - asset
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Obsidian Agent Vault — Asset Canon.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Obsidian Agent Vault — Asset Canon.md
 backlink_count: 11
 backlinks:
 - '[[wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'

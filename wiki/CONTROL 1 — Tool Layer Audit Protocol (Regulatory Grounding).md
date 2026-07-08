@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
 - '[[wiki/Governance Controls — Incident Response (Control Failure Procedures)]]'

@@ -22,7 +22,7 @@ vault_area: wiki
 canonical_path: wiki/90-Day $1M Challenge — Status Report.md
 backlink_count: 18
 backlinks:
-- '[[wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
+- '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
 - '[[wiki/Founder Charter — Lepage and Stocker]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
-- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'

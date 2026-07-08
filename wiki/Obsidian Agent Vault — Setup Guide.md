@@ -22,7 +22,7 @@ canonical_path: wiki/Obsidian Agent Vault — Setup Guide.md
 backlink_count: 7
 backlinks:
 - '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
-- '[[wiki/Obsidian Agent Vault — Asset Canon]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[wiki/Obsidian Agent Vault — Launch Kit]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[wiki/Personal and Projects MOC]]'

@@ -563,22 +563,6 @@
     "backlinks": 31
   },
   {
-    "id": "Agent Distillation Pipeline",
-    "title": "Agent Distillation Pipeline",
-    "path": "wiki/Agent Distillation Pipeline.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "agent distillation",
-      "distillation",
-      "student models",
-      "wiki/Agent Distillation Pipeline"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 2,
-    "backlinks": 6
-  },
-  {
     "id": "Agent Ecosystem Audit — 2026-04-23",
     "title": "Agent Ecosystem Audit — 2026-04-23",
     "path": "wiki/Agent Ecosystem Audit — 2026-04-23.md",
@@ -795,22 +779,6 @@
     "backlinks": 9
   },
   {
-    "id": "Architecture Translation Guide — Eight Operators to Three-Agent Stack",
-    "title": "Architecture Translation Guide — Eight Operators to Three-Agent Stack",
-    "path": "wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack.md",
-    "type": "migration-guide",
-    "status": "active",
-    "aliases": [
-      "Architecture Translation Guide",
-      "Eight Operators migration",
-      "operator to agent translation",
-      "wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 8,
-    "backlinks": 18
-  },
-  {
     "id": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
     "title": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
     "path": "wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS.md",
@@ -853,6 +821,84 @@
     "backlinks": 0
   },
   {
+    "id": "Areas/PHAROS/Agent Distillation Pipeline",
+    "title": "Agent Distillation Pipeline",
+    "path": "Areas/PHAROS/Agent Distillation Pipeline.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "agent distillation",
+      "distillation",
+      "student models"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 2,
+    "backlinks": 6
+  },
+  {
+    "id": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack",
+    "title": "Architecture Translation Guide — Eight Operators to Three-Agent Stack",
+    "path": "Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack.md",
+    "type": "migration-guide",
+    "status": "active",
+    "aliases": [
+      "Architecture Translation Guide",
+      "Eight Operators migration",
+      "operator to agent translation"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 8,
+    "backlinks": 18
+  },
+  {
+    "id": "Areas/PHAROS/AurorA — COMPASSai Input Module",
+    "title": "AurorA — COMPASSai Input Module",
+    "path": "Areas/PHAROS/AurorA — COMPASSai Input Module.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AurorA",
+      "Aurora input module"
+    ],
+    "outlinks": 29,
+    "unique_outlinks": 15,
+    "backlinks": 47
+  },
+  {
+    "id": "Areas/PHAROS/COMPASSai — Governance Engine",
+    "title": "COMPASSai — Governance Engine",
+    "path": "Areas/PHAROS/COMPASSai — Governance Engine.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "COMPASS AI",
+      "COMPASSai",
+      "governance engine"
+    ],
+    "outlinks": 40,
+    "unique_outlinks": 21,
+    "backlinks": 57
+  },
+  {
+    "id": "Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS",
+    "title": "ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS",
+    "path": "Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Act self-assessment",
+      "ComplyScan",
+      "ComplyScan — Bilingual Law 25 / AI Act Compliance SaaS",
+      "ComplyScan — Bilingual Law 25 AI Act Compliance SaaS",
+      "Law 25 compliance SaaS",
+      "bilingual Law 25",
+      "bilingual compliance tool"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 7,
+    "backlinks": 16
+  },
+  {
     "id": "Areas/PHAROS/Control Protocols MOC",
     "title": "Control Protocols MOC",
     "path": "Areas/PHAROS/Control Protocols MOC.md",
@@ -879,6 +925,34 @@
     "backlinks": 71
   },
   {
+    "id": "Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning",
+    "title": "GAIA — Earth-Calendar App and Evidence-Aware Positioning",
+    "path": "Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Earth-calendar app",
+      "GAIA",
+      "GAIA app"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 11,
+    "backlinks": 27
+  },
+  {
+    "id": "Areas/PHAROS/Governance Controls Integration Dashboard",
+    "title": "Governance Controls Integration Dashboard",
+    "path": "Areas/PHAROS/Governance Controls Integration Dashboard.md",
+    "type": "governance-dashboard",
+    "status": "active",
+    "aliases": [
+      "GOVERNANCE CONTROLS INTEGRATION DASHBOARD"
+    ],
+    "outlinks": 20,
+    "unique_outlinks": 9,
+    "backlinks": 23
+  },
+  {
     "id": "Areas/PHAROS/Governance and PHAROS MOC",
     "title": "Governance and PHAROS MOC",
     "path": "Areas/PHAROS/Governance and PHAROS MOC.md",
@@ -890,6 +964,20 @@
     "outlinks": 394,
     "unique_outlinks": 348,
     "backlinks": 659
+  },
+  {
+    "id": "Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)",
+    "title": "HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)",
+    "path": "Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HELIX comparison matrix",
+      "HELIX v2.6 external evaluators"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 4,
+    "backlinks": 16
   },
   {
     "id": "Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
@@ -975,6 +1063,47 @@
     "backlinks": 197
   },
   {
+    "id": "Areas/PHAROS/Obsidian Agent Vault — Asset Canon",
+    "title": "Obsidian Agent Vault — Asset Canon",
+    "path": "Areas/PHAROS/Obsidian Agent Vault — Asset Canon.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Obsidian Agent Vault Asset Canon",
+      "Obsidian Agent Vault Asset Inventory"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 7,
+    "backlinks": 17
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS",
+    "title": "PHAROS",
+    "path": "Areas/PHAROS/PHAROS.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 13,
+    "backlinks": 40
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)",
+    "title": "PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)",
+    "path": "Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Commercial Launch 8-Stream",
+      "PHAROS Launch 2026-05-01"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 8,
+    "backlinks": 34
+  },
+  {
     "id": "Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft",
     "title": "PHAROS AI Ethics Submission — Springer Draft",
     "path": "Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft.md",
@@ -1016,6 +1145,32 @@
     "backlinks": 84
   },
   {
+    "id": "Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle",
+    "title": "PHAROS Evidentiary Gap Closure Bundle",
+    "path": "Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS Evidentiary Gap Closure Bundle"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 6,
+    "backlinks": 30
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28",
+    "title": "PHAROS External Proof Packet — Procurement-Unblock 2026-04-28",
+    "path": "Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28.md",
+    "type": "proof-packet",
+    "status": "draft-ready",
+    "aliases": [
+      "PHAROS External Proof Packet"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 10,
+    "backlinks": 33
+  },
+  {
     "id": "Areas/PHAROS/PHAROS Invention Disclosure",
     "title": "PHAROS Invention Disclosure",
     "path": "Areas/PHAROS/PHAROS Invention Disclosure.md",
@@ -1027,6 +1182,19 @@
     "outlinks": 21,
     "unique_outlinks": 13,
     "backlinks": 117
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS Licensing Prospectus",
+    "title": "PHAROS Licensing Prospectus",
+    "path": "Areas/PHAROS/PHAROS Licensing Prospectus.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS Licensing Prospectus"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 9,
+    "backlinks": 34
   },
   {
     "id": "Areas/PHAROS/PHAROS Method — Technical Reference",
@@ -1098,6 +1266,98 @@
     "outlinks": 57,
     "unique_outlinks": 51,
     "backlinks": 63
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
+    "title": "PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
+    "path": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS strategy",
+      "fix-finish plan",
+      "keep-stop analysis"
+    ],
+    "outlinks": 27,
+    "unique_outlinks": 21,
+    "backlinks": 24
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS — Origin and Doctrine",
+    "title": "PHAROS — Origin and Doctrine",
+    "path": "Areas/PHAROS/PHAROS — Origin and Doctrine.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Origin and Doctrine",
+      "PHAROS Origin",
+      "To Seed Something Into the World"
+    ],
+    "outlinks": 17,
+    "unique_outlinks": 13,
+    "backlinks": 30
+  },
+  {
+    "id": "Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca",
+    "title": "PHAROS-AI Webservice — pharos-ai.ca",
+    "path": "Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS public site",
+      "PHAROS webservice",
+      "PHAROS-AI Webservice — Product Stack",
+      "pharos-ai.ca"
+    ],
+    "outlinks": 17,
+    "unique_outlinks": 11,
+    "backlinks": 40
+  },
+  {
+    "id": "Areas/PHAROS/ROOK — Session Boundary Model",
+    "title": "ROOK — Session Boundary Model",
+    "path": "Areas/PHAROS/ROOK — Session Boundary Model.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "ROOK",
+      "execution boundary",
+      "session harness"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 5,
+    "backlinks": 27
+  },
+  {
+    "id": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
+    "title": "Second Self System — Identity Kernel and Agent Routing Architecture",
+    "path": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Agent Merge Manifest",
+      "Identity Kernel",
+      "Martin Executive Proxy",
+      "Second Self System"
+    ],
+    "outlinks": 30,
+    "unique_outlinks": 20,
+    "backlinks": 55
+  },
+  {
+    "id": "Areas/PHAROS/Second Self System — Public Voice Examples",
+    "title": "Second Self System — Public Voice Examples",
+    "path": "Areas/PHAROS/Second Self System — Public Voice Examples.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Public Voice Specimens",
+      "Second Self Voice Profile",
+      "Voice Examples"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 4,
+    "backlinks": 13
   },
   {
     "id": "Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)",
@@ -1236,21 +1496,6 @@
     "outlinks": 15,
     "unique_outlinks": 11,
     "backlinks": 29
-  },
-  {
-    "id": "AurorA — COMPASSai Input Module",
-    "title": "AurorA — COMPASSai Input Module",
-    "path": "wiki/AurorA — COMPASSai Input Module.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AurorA",
-      "Aurora input module",
-      "wiki/AurorA — COMPASSai Input Module"
-    ],
-    "outlinks": 29,
-    "unique_outlinks": 15,
-    "backlinks": 44
   },
   {
     "id": "Authority After Legitimacy — Disenchantment and Queer Political Theory",
@@ -1604,22 +1849,6 @@
     "backlinks": 15
   },
   {
-    "id": "COMPASSai — Governance Engine",
-    "title": "COMPASSai — Governance Engine",
-    "path": "wiki/COMPASSai — Governance Engine.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "COMPASS AI",
-      "COMPASSai",
-      "governance engine",
-      "wiki/COMPASSai — Governance Engine"
-    ],
-    "outlinks": 40,
-    "unique_outlinks": 21,
-    "backlinks": 55
-  },
-  {
     "id": "CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
     "title": "CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
     "path": "wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding).md",
@@ -1968,26 +2197,6 @@
     "outlinks": 15,
     "unique_outlinks": 15,
     "backlinks": 54
-  },
-  {
-    "id": "ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS",
-    "title": "ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS",
-    "path": "wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Act self-assessment",
-      "ComplyScan",
-      "ComplyScan — Bilingual Law 25 / AI Act Compliance SaaS",
-      "ComplyScan — Bilingual Law 25 AI Act Compliance SaaS",
-      "Law 25 compliance SaaS",
-      "bilingual Law 25",
-      "bilingual compliance tool",
-      "wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 7,
-    "backlinks": 16
   },
   {
     "id": "Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems",
@@ -2988,22 +3197,6 @@
     "backlinks": 8
   },
   {
-    "id": "GAIA — Earth-Calendar App and Evidence-Aware Positioning",
-    "title": "GAIA — Earth-Calendar App and Evidence-Aware Positioning",
-    "path": "wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Earth-calendar app",
-      "GAIA",
-      "GAIA app",
-      "wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 11,
-    "backlinks": 25
-  },
-  {
     "id": "GRAPHIFY-OUT MOC",
     "title": "GRAPHIFY-OUT MOC",
     "path": "wiki/GRAPHIFY-OUT MOC.md",
@@ -3090,20 +3283,6 @@
     "outlinks": 13,
     "unique_outlinks": 6,
     "backlinks": 14
-  },
-  {
-    "id": "Governance Controls Integration Dashboard",
-    "title": "Governance Controls Integration Dashboard",
-    "path": "wiki/Governance Controls Integration Dashboard.md",
-    "type": "governance-dashboard",
-    "status": "active",
-    "aliases": [
-      "GOVERNANCE CONTROLS INTEGRATION DASHBOARD",
-      "wiki/Governance Controls Integration Dashboard"
-    ],
-    "outlinks": 20,
-    "unique_outlinks": 9,
-    "backlinks": 23
   },
   {
     "id": "Governance Controls and Mechanisms",
@@ -3338,21 +3517,6 @@
     "outlinks": 6,
     "unique_outlinks": 5,
     "backlinks": 13
-  },
-  {
-    "id": "HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)",
-    "title": "HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)",
-    "path": "wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HELIX comparison matrix",
-      "HELIX v2.6 external evaluators",
-      "wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 4,
-    "backlinks": 16
   },
   {
     "id": "HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build",
@@ -5008,21 +5172,6 @@
     "backlinks": 12
   },
   {
-    "id": "Obsidian Agent Vault — Asset Canon",
-    "title": "Obsidian Agent Vault — Asset Canon",
-    "path": "wiki/Obsidian Agent Vault — Asset Canon.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Obsidian Agent Vault Asset Canon",
-      "Obsidian Agent Vault Asset Inventory",
-      "wiki/Obsidian Agent Vault — Asset Canon"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 7,
-    "backlinks": 17
-  },
-  {
     "id": "Obsidian Agent Vault — Launch Kit",
     "title": "Obsidian Agent Vault — Launch Kit",
     "path": "wiki/Obsidian Agent Vault — Launch Kit.md",
@@ -5795,35 +5944,6 @@
     "backlinks": 8
   },
   {
-    "id": "PHAROS",
-    "title": "PHAROS",
-    "path": "wiki/PHAROS.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS",
-      "wiki/PHAROS"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 13,
-    "backlinks": 0
-  },
-  {
-    "id": "PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)",
-    "title": "PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)",
-    "path": "wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Commercial Launch 8-Stream",
-      "PHAROS Launch 2026-05-01",
-      "wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 8,
-    "backlinks": 34
-  },
-  {
     "id": "PHAROS AI Governance Service — Offer Architecture and Outreach Templates",
     "title": "PHAROS AI Governance Service — Offer Architecture and Outreach Templates",
     "path": "wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates.md",
@@ -5913,34 +6033,6 @@
     "backlinks": 23
   },
   {
-    "id": "PHAROS Evidentiary Gap Closure Bundle",
-    "title": "PHAROS Evidentiary Gap Closure Bundle",
-    "path": "wiki/PHAROS Evidentiary Gap Closure Bundle.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS Evidentiary Gap Closure Bundle",
-      "wiki/PHAROS Evidentiary Gap Closure Bundle"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 6,
-    "backlinks": 30
-  },
-  {
-    "id": "PHAROS External Proof Packet — Procurement-Unblock 2026-04-28",
-    "title": "PHAROS External Proof Packet — Procurement-Unblock 2026-04-28",
-    "path": "wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28.md",
-    "type": "proof-packet",
-    "status": "draft-ready",
-    "aliases": [
-      "PHAROS External Proof Packet",
-      "wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 10,
-    "backlinks": 33
-  },
-  {
     "id": "PHAROS Final Voice Operator — GPT Creator",
     "title": "PHAROS Final Voice Operator — GPT Creator",
     "path": "wiki/PHAROS Final Voice Operator — GPT Creator.md",
@@ -5985,20 +6077,6 @@
     "outlinks": 15,
     "unique_outlinks": 8,
     "backlinks": 14
-  },
-  {
-    "id": "PHAROS Licensing Prospectus",
-    "title": "PHAROS Licensing Prospectus",
-    "path": "wiki/PHAROS Licensing Prospectus.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS Licensing Prospectus",
-      "wiki/PHAROS Licensing Prospectus"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 9,
-    "backlinks": 34
   },
   {
     "id": "PHAROS LinkedIn April 2026 Publishing Routine",
@@ -6118,22 +6196,6 @@
     "backlinks": 12
   },
   {
-    "id": "PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
-    "title": "PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
-    "path": "wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS strategy",
-      "fix-finish plan",
-      "keep-stop analysis",
-      "wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)"
-    ],
-    "outlinks": 27,
-    "unique_outlinks": 21,
-    "backlinks": 24
-  },
-  {
     "id": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
     "title": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
     "path": "wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26).md",
@@ -6162,39 +6224,6 @@
     "outlinks": 14,
     "unique_outlinks": 11,
     "backlinks": 19
-  },
-  {
-    "id": "PHAROS — Origin and Doctrine",
-    "title": "PHAROS — Origin and Doctrine",
-    "path": "wiki/PHAROS — Origin and Doctrine.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Origin and Doctrine",
-      "PHAROS Origin",
-      "To Seed Something Into the World",
-      "wiki/PHAROS — Origin and Doctrine"
-    ],
-    "outlinks": 17,
-    "unique_outlinks": 13,
-    "backlinks": 30
-  },
-  {
-    "id": "PHAROS-AI Webservice — pharos-ai.ca",
-    "title": "PHAROS-AI Webservice — pharos-ai.ca",
-    "path": "wiki/PHAROS-AI Webservice — pharos-ai.ca.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS public site",
-      "PHAROS webservice",
-      "PHAROS-AI Webservice — Product Stack",
-      "pharos-ai.ca",
-      "wiki/PHAROS-AI Webservice — pharos-ai.ca"
-    ],
-    "outlinks": 17,
-    "unique_outlinks": 11,
-    "backlinks": 40
   },
   {
     "id": "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
@@ -7053,22 +7082,6 @@
     "backlinks": 19
   },
   {
-    "id": "ROOK — Session Boundary Model",
-    "title": "ROOK — Session Boundary Model",
-    "path": "wiki/ROOK — Session Boundary Model.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "ROOK",
-      "execution boundary",
-      "session harness",
-      "wiki/ROOK — Session Boundary Model"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 5,
-    "backlinks": 27
-  },
-  {
     "id": "Railway — COMPASSai Production Deployment Platform",
     "title": "Railway — COMPASSai Production Deployment Platform",
     "path": "wiki/Railway — COMPASSai Production Deployment Platform.md",
@@ -7633,39 +7646,6 @@
     "outlinks": 31,
     "unique_outlinks": 19,
     "backlinks": 3
-  },
-  {
-    "id": "Second Self System — Identity Kernel and Agent Routing Architecture",
-    "title": "Second Self System — Identity Kernel and Agent Routing Architecture",
-    "path": "wiki/Second Self System — Identity Kernel and Agent Routing Architecture.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Agent Merge Manifest",
-      "Identity Kernel",
-      "Martin Executive Proxy",
-      "Second Self System",
-      "wiki/Second Self System — Identity Kernel and Agent Routing Architecture"
-    ],
-    "outlinks": 30,
-    "unique_outlinks": 20,
-    "backlinks": 55
-  },
-  {
-    "id": "Second Self System — Public Voice Examples",
-    "title": "Second Self System — Public Voice Examples",
-    "path": "wiki/Second Self System — Public Voice Examples.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Public Voice Specimens",
-      "Second Self Voice Profile",
-      "Voice Examples",
-      "wiki/Second Self System — Public Voice Examples"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 4,
-    "backlinks": 13
   },
   {
     "id": "Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)",
@@ -12344,7 +12324,7 @@
     "aliases": [],
     "outlinks": 3,
     "unique_outlinks": 3,
-    "backlinks": 3
+    "backlinks": 0
   },
   {
     "id": "graph/nodes/unmapped/auto_tagger_py",
@@ -12410,7 +12390,7 @@
     "aliases": [],
     "outlinks": 2,
     "unique_outlinks": 2,
-    "backlinks": 2
+    "backlinks": 0
   },
   {
     "id": "graph/nodes/unmapped/content_to_market_pipeline_workflow",
@@ -12501,7 +12481,7 @@
     "aliases": [],
     "outlinks": 2,
     "unique_outlinks": 2,
-    "backlinks": 2
+    "backlinks": 0
   },
   {
     "id": "graph/nodes/unmapped/graph_store_system",
@@ -12739,7 +12719,7 @@
     "aliases": [],
     "outlinks": 3,
     "unique_outlinks": 3,
-    "backlinks": 40
+    "backlinks": 0
   },
   {
     "id": "graph/nodes/unmapped/pharos_newlook",

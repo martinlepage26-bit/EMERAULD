@@ -4,14 +4,13 @@ title: AurorA — COMPASSai Input Module
 aliases:
 - AurorA
 - Aurora input module
-- wiki/AurorA — COMPASSai Input Module
 tags:
 - pharos
 - product
 - compassai
 - client-facing
 - aurora
-- wiki
+- areas
 - aurora-compassai-input-module-md
 - aurorai
 - engine
@@ -20,20 +19,19 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AurorA — COMPASSai Input Module.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AurorA — COMPASSai Input Module.md
 backlink_count: 22
 backlinks:
 - '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
-- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
-  (2026-06-22)]]'
-- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
+- '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
-- '[[wiki/PHAROS]]'
+- '[[Areas/PHAROS/PHAROS]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'

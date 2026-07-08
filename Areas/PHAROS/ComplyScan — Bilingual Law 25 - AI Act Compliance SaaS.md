@@ -9,7 +9,6 @@ aliases:
 - bilingual Law 25
 - ComplyScan — Bilingual Law 25 AI Act Compliance SaaS
 - ComplyScan — Bilingual Law 25 / AI Act Compliance SaaS
-- wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS
 tags:
 - product
 - saas
@@ -20,7 +19,7 @@ tags:
 - micro-saas
 - market-opportunity
 - blink
-- wiki
+- areas
 - complyscan-bilingual-law-25-ai-act-compliance-saas-md
 - complyscan
 - solo
@@ -29,8 +28,8 @@ tags:
 status: active
 created: '2026-04-23'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS.md
 backlink_count: 9
 backlinks:
 - '[[wiki/AI Governance Public Statement and Market Impact Pack]]'

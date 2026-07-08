@@ -4,14 +4,13 @@ title: PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)
 aliases:
 - PHAROS Launch 2026-05-01
 - Commercial Launch 8-Stream
-- wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)
 tags:
 - pharos
 - launch
 - deployment
 - commercialization
 - 2026-q2
-- wiki
+- areas
 - pharos-ai-commercial-launch-8-stream-deploy-2026-05-01-md
 - calendly
 - landing
@@ -22,8 +21,8 @@ tags:
 status: active
 created: 2026-05-01T15:45
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01).md
 backlink_count: 18
 backlinks:
 - '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'

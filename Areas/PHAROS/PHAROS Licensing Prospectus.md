@@ -3,9 +3,8 @@ type: wiki
 title: PHAROS Licensing Prospectus
 aliases:
 - PHAROS Licensing Prospectus
-- wiki/PHAROS Licensing Prospectus
 tags:
-- wiki
+- areas
 - pharos
 - pharos-licensing-prospectus-md
 - enterprise
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Licensing Prospectus.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Licensing Prospectus.md
 backlink_count: 22
 backlinks:
 - '[[wiki/90-Day $1M Challenge — Status Report]]'

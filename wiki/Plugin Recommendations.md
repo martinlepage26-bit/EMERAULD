@@ -23,7 +23,7 @@ backlinks:
 - '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'
 - '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
-- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[wiki/Home]]'
 - '[[wiki/LightRAG — Graph-Based RAG System]]'
 - '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'

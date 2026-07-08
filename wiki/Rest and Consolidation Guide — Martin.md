@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
-- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'

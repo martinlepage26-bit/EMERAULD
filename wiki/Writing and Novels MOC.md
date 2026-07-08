@@ -66,7 +66,7 @@ backlinks:
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[wiki/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'

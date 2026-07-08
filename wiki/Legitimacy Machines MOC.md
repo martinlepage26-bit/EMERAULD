@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/PHAROS]]'
+- '[[Areas/PHAROS/PHAROS]]'
 - '[[wiki/PHAROS Method — Core Framework]]'
 - '[[wiki/PHAROS Product Stack]]'
 - '[[wiki/Pagan and Queer Ritual Studies MOC]]'

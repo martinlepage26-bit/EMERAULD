@@ -4,14 +4,13 @@ title: HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)
 aliases:
 - HELIX comparison matrix
 - HELIX v2.6 external evaluators
-- wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)
 tags:
 - helix
 - comparison
 - evaluation
 - evidence-discipline
 - ai-infrastructure
-- wiki
+- areas
 - helix-comparison-matrix-v2-6-vs-external-evaluators-2026-05-06-md
 - garak
 - pyrit
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06).md
 backlink_count: 10
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

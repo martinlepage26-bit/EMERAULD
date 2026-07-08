@@ -43,7 +43,7 @@ backlinks:
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
-- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
 - '[[wiki/The Returning Light — Monograph]]'
 - '[[wiki/The Wheel and the Watcher]]'

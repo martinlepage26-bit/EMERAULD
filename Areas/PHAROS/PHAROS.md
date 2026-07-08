@@ -3,13 +3,12 @@ type: wiki
 title: PHAROS
 aliases:
 - PHAROS
-- wiki/PHAROS
 tags:
 - pharos
 - governance
 - product
 - method
-- wiki
+- areas
 - pharos-md
 - publication
 - compassai
@@ -19,14 +18,14 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS.md
 backlink_count: 23
 backlinks:
 - '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
 - '[[wiki/APEX Papers — Research Archive Map]]'
-- '[[wiki/AurorA — COMPASSai Input Module]]'
-- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
+- '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

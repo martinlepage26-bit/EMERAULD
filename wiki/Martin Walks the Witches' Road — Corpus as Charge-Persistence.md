@@ -48,7 +48,7 @@ backlinks:
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[wiki/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Recursive Governance Theory]]'

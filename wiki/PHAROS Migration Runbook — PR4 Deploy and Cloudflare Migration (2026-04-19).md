@@ -24,7 +24,7 @@ canonical_path: wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migr
 backlink_count: 13
 backlinks:
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
-- '[[wiki/PHAROS-AI Webservice — pharos-ai.ca]]'
+- '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'

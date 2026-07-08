@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
+- '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
 - '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
 - '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'

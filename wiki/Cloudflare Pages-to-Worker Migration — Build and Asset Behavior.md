@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)]]'
-- '[[wiki/PHAROS-AI Webservice — pharos-ai.ca]]'
+- '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-04-21]]'

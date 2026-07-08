@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/MCP and Runtime Integration MOC]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
 - '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
-- '[[wiki/PHAROS]]'
+- '[[Areas/PHAROS/PHAROS]]'
 - '[[wiki/PHAROS Product Stack]]'
 - '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'

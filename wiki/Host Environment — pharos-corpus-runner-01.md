@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/Host Environment — pharos-corpus-runner-01.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Agent Distillation Pipeline]]'
+- '[[Areas/PHAROS/Agent Distillation Pipeline]]'
 - '[[wiki/CLAUDEX — AI Dialogue Archive]]'
 - '[[wiki/VoiceBridge Foundation]]'
 ---

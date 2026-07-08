@@ -49,7 +49,7 @@ backlinks:
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
-- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/September 2024 Retrospective — Version Genealogy]]'
 - '[[wiki/Trismégiste]]'
 - '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'

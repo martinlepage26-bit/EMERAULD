@@ -21,8 +21,8 @@ canonical_path: Areas/PHAROS/PHAROS Runbook SOP.md
 backlink_count: 29
 backlinks:
 - '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
-- '[[wiki/AurorA — COMPASSai Input Module]]'
-- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
+- '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[wiki/PHAROS Company Registration and Security Incidents]]'
-- '[[wiki/PHAROS Evidentiary Gap Closure Bundle]]'
+- '[[Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'

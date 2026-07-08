@@ -1,6 +1,6 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:36:47Z
+Built: 2026-07-08T05:37:15Z
 Corpus: wiki/**/*.md
 
 ## Summary
@@ -11,26 +11,26 @@ Corpus: wiki/**/*.md
 - Unresolved wikilinks: 3193
 - Connected components: 46
 - Largest component: 1361
-- Zero-backlink notes: 64
+- Zero-backlink notes: 67
 - One-backlink notes: 165
-- Two-backlink notes: 369
+- Two-backlink notes: 367
 
 ## Backlink Histogram
 
-- 0: 64
+- 0: 67
 - 1: 165
 - 101+: 28
 - 11-20: 199
-- 2: 369
+- 2: 367
 - 21-50: 151
-- 3-4: 168
+- 3-4: 167
 - 5-6: 68
 - 51-100: 43
 - 7-10: 160
 
 ## Low-Backlink Notes
 
-### Zero backlink (64)
+### Zero backlink (67)
 - [[ASSETS MOC]]
 - [[Agent Ecosystem Audit — 2026-04-23]]
 - [[Areas/PHAROS/AREA]]
@@ -44,7 +44,6 @@ Corpus: wiki/**/*.md
 - [[MEMORY MOC]]
 - [[Möbius Protocol — AI Self-Polygraph Template]]
 - [[PEER-REVIEW MOC]]
-- [[PHAROS]]
 - [[PUBLICATIONS MOC]]
 - [[RAW MOC]]
 - [[RESOURCES MOC]]
@@ -52,14 +51,18 @@ Corpus: wiki/**/*.md
 - [[SOURCE_OF_TRUTH.MD MOC]]
 - [[TEMPLATES MOC]]
 - [[Wiki MOC]]
+- [[graph/nodes/unmapped/aurora_product]]
 - [[graph/nodes/unmapped/auto_tagger_py]]
+- [[graph/nodes/unmapped/compassai]]
 - [[graph/nodes/unmapped/content_to_market_pipeline_workflow]]
 - [[graph/nodes/unmapped/emerauld_intake_rule_workflow]]
+- [[graph/nodes/unmapped/gaia_product]]
 - [[graph/nodes/unmapped/helix_product]]
 - [[graph/nodes/unmapped/israel_lavoie]]
 - [[graph/nodes/unmapped/lightrag_config_py]]
 - [[graph/nodes/unmapped/pa_mcp_server]]
 - [[graph/nodes/unmapped/pa_trismegiste_bundle]]
+- [[graph/nodes/unmapped/pharos]]
 - [[graph/nodes/unmapped/philosopher_right_arm]]
 - [[graph/nodes/unmapped/power_analyst_right_arm]]
 - [[graph/nodes/unmapped/raw_intake_dataset]]
@@ -199,7 +202,7 @@ Corpus: wiki/**/*.md
 - [[hephaistos/personal-assistant-agents/offer-pricing-architect/references/evolution]]
 - ... 65 more
 
-### Two backlink (369)
+### Two backlink (367)
 - [[Agent Logs Hub]]
 - [[CSV_DIAGNOSTIC_REPORT]]
 - [[Daily Dashboard]]
@@ -300,7 +303,7 @@ Corpus: wiki/**/*.md
 - [[bridges/Bridge - 2013 - 23 ISSN 1528-0268 print]]
 - [[bridges/Bridge - 2013 - auditorassessment 2]]
 - [[bridges/Bridge - 2013 - auditorassessment 3]]
-- ... 269 more
+- ... 267 more
 
 ## Components
 

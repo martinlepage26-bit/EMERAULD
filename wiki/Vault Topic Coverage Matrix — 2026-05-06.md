@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
-- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines MOC]]'

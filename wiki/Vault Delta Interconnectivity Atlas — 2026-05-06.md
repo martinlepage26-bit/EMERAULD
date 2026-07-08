@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
-- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'

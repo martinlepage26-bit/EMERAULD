@@ -23,7 +23,7 @@ backlink_count: 21
 backlinks:
 - '[[wiki/Breath of the Astral Year — Version Genealogy]]'
 - '[[wiki/CODEX Writing Projects Manifest]]'
-- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'

@@ -5,13 +5,12 @@ aliases:
 - ROOK
 - session harness
 - execution boundary
-- wiki/ROOK — Session Boundary Model
 tags:
 - infrastructure
 - agents
 - hephaistos
 - session-management
-- wiki
+- areas
 - rook-session-boundary-model-md
 - rook
 - headroom
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/ROOK — Session Boundary Model.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/ROOK — Session Boundary Model.md
 backlink_count: 19
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

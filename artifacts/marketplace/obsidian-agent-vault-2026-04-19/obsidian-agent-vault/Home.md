@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Obsidian Agent Vault — Launch Kit]]'
 - '[[wiki/Obsidian Agent Vault — Setup Guide]]'
-- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Plugin Recommendations]]'

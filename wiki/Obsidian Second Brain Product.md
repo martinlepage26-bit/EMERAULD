@@ -39,7 +39,7 @@ backlinks:
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
-- '[[wiki/Obsidian Agent Vault — Asset Canon]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'

@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Legal Classification — CAE Code Strategy]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
-- '[[wiki/PHAROS-AI Webservice — pharos-ai.ca]]'
+- '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/TPS-TVQ PHAROS]]'

@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
 - '[[wiki/Governance Controls — Incident Response (Control Failure Procedures)]]'

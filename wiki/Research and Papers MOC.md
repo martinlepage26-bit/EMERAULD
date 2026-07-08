@@ -99,7 +99,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[wiki/Pagan Magic — Version Genealogy]]'
 - '[[wiki/Pagan and Queer Ritual Studies MOC]]'

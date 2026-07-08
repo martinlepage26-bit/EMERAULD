@@ -5,14 +5,13 @@ aliases:
 - GAIA
 - GAIA app
 - Earth-calendar app
-- wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning
 tags:
 - product
 - spiritual-tech
 - evidence-aware
 - calendar
 - pharos-adjacent
-- wiki
+- areas
 - gaia-earth-calendar-app-and-evidence-aware-positioning-md
 - gaia
 - elemental
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-05-04'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning.md
 backlink_count: 14
 backlinks:
 - '[[wiki/2026-06-29 - idea-discovery]]'

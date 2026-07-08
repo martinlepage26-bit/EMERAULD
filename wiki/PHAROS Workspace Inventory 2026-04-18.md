@@ -28,7 +28,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Rest and Consolidation Guide — Martin]]'
 - '[[memory/daily/2026-06-22]]'

@@ -3,9 +3,8 @@ type: wiki
 title: PHAROS Evidentiary Gap Closure Bundle
 aliases:
 - PHAROS Evidentiary Gap Closure Bundle
-- wiki/PHAROS Evidentiary Gap Closure Bundle
 tags:
-- wiki
+- areas
 - pharos
 - pharos-evidentiary-gap-closure-bundle-md
 - produced
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Evidentiary Gap Closure Bundle.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle.md
 backlink_count: 19
 backlinks:
 - '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'

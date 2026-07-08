@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
-- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'

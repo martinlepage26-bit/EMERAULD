@@ -22,13 +22,13 @@ vault_area: wiki
 canonical_path: wiki/Research Hub.md
 backlink_count: 11
 backlinks:
-- '[[wiki/AurorA — COMPASSai Input Module]]'
-- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
+- '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
-- '[[wiki/PHAROS]]'
+- '[[Areas/PHAROS/PHAROS]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
