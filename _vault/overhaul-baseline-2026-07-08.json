@@ -1,0 +1,194 @@
+{
+ "total_editable_md": 1494,
+ "no_frontmatter_count": 41,
+ "no_frontmatter_files": [
+  "ARGUS.md",
+  "Areas/governanceframework/README.md",
+  "CLAUDE.md",
+  "DATA-MANIFEST-2026-06-26.md",
+  "HEPHAISTOS.md",
+  "HERMES.md",
+  "Logs/helix-sessions/gemini-2026-07-03-run2/02_THESEUS_ARCHIVE.md",
+  "Logs/helix-sessions/gemini-2026-07-03-run2/05_AURYN_ARCHIVE.md",
+  "Logs/helix-sessions/gemini-2026-07-03-run2/08_HOPF_ARCHIVE.md",
+  "Logs/helix-sessions/gemini-2026-07-03-run2/COMBINED_PHASE1.md",
+  "Logs/helix-sessions/gemini-2026-07-03/02_THESEUS_ARCHIVE.md",
+  "Logs/helix-sessions/gemini-2026-07-03/03_AURYN_ARCHIVE.md",
+  "Logs/helix-sessions/gemini-2026-07-03/05_AURYN_ARCHIVE.md",
+  "Logs/helix-sessions/gemini-2026-07-03/08_HOPF_ARCHIVE.md",
+  "Logs/helix-sessions/gemini-2026-07-03/COMBINED_PHASE1_2.md",
+  "Logs/helix-sessions/gemini-2026-07-03/session-log.md",
+  "MIGRATION-MANIFEST-2026-06-15.md",
+  "MIGRATION-MANIFEST-2026-06-21.md",
+  "PHAROS-AI CHANGE TRACKER.md",
+  "QUEEN-KEYPORT.md",
+  "TASKS.md",
+  "council-orchestration-mapping.md",
+  "council-risk-flag-multi-agent-orchestration.md",
+  "projects/genealogie-lepage-deschenes/README.md",
+  "projects/genealogie-lepage-deschenes/arbre/dossier-fiabilisation-2026-07-05.md",
+  "projects/genealogie-lepage-deschenes/journal-recherche.md",
+  "projects/jade/.pytest_cache/README.md",
+  "projects/jade/README.md",
+  "projects/patent-workbench/CLAUDE_TASK.md",
+  "projects/patent-workbench/README.md",
+  "projects/products/pharos-governance-tools/AI_Source_Integrity_Field_Guide.md",
+  "projects/products/pharos-governance-tools/GUMROAD_HALLUCINATION_SCORECARD.md",
+  "projects/products/pharos-governance-tools/GUMROAD_SOURCE_INTEGRITY_GUIDE.md",
+  "projects/products/pharos-governance-tools/Hallucination_Risk_Scorecard_Methodology.md",
+  "projects/products/pharos-governance-tools/README.md",
+  "projects/security-audit-skill/martin-governance/run-1/architecture.md",
+  "projects/security-audit-skill/multi-agent-orchestration/run-1/FINDINGS-DETAIL.md",
+  "projects/security-audit-skill/multi-agent-orchestration/run-1/REPORT.md",
+  "projects/security-audit-skill/multi-agent-orchestration/run-1/architecture.md",
+  "projects/security-audit-skill/multi-agent-orchestration/run-1/phase2-hunt-findings.md",
+  "projects/security-audit-skill/multi-agent-orchestration/run-1/phase3-validation.md"
+ ],
+ "yaml_parse_failures": [
+  [
+   "wiki/argus-drift-audit-scope-multi-agent-orchestration.md",
+   "mapping values are not allowed here"
+  ],
+  [
+   "wiki/hephaistos-scope-security-audit-phases-2-6.md",
+   "mapping values are not allowed here"
+  ]
+ ],
+ "type_histogram_top": [
+  [
+   "wiki",
+   459
+  ],
+  [
+   "skill",
+   264
+  ],
+  [
+   "note",
+   63
+  ],
+  [
+   "artifact",
+   61
+  ],
+  [
+   "governance-doc",
+   49
+  ],
+  [
+   "peer-review-doc",
+   45
+  ],
+  [
+   "raw-source",
+   41
+  ],
+  [
+   "map",
+   38
+  ],
+  [
+   "bridge-note",
+   32
+  ],
+  [
+   "version-genealogy",
+   24
+  ],
+  [
+   "daily-log",
+   23
+  ],
+  [
+   "moc",
+   22
+  ],
+  [
+   "skill-spec",
+   21
+  ],
+  [
+   "project",
+   20
+  ],
+  [
+   "source-note",
+   20
+  ],
+  [
+   "Product",
+   18
+  ],
+  [
+   "memory-register",
+   17
+  ],
+  [
+   "Tool",
+   17
+  ],
+  [
+   "archive-record",
+   16
+  ],
+  [
+   "Workflow",
+   9
+  ],
+  [
+   "index",
+   8
+  ],
+  [
+   "graph-index",
+   8
+  ],
+  [
+   "memory-daily",
+   8
+  ],
+  [
+   "System",
+   8
+  ],
+  [
+   "agent-instructions",
+   7
+  ]
+ ],
+ "color_tag_occurrences": 1353,
+ "filename_echo_tag_occurrences": 731,
+ "created_gt_updated_count": 30,
+ "created_gt_updated_files": [
+  "Areas/PHAROS/AREA.md",
+  "Areas/Personal/AREA.md",
+  "Areas/Writing/AREA.md",
+  "Inbox/README.md",
+  "Logs/2026-06-29.md",
+  "PEER-REVIEW/00_PROJECT_CONTROL/PROJECT_BRIEF.md",
+  "Resources/ROUTING.md",
+  "archive/consolidation-records/HOME-ROOT-REORG-2026-07-01-MANIFEST.md",
+  "artifacts/emerge-pattern-report-2026-06-29.md",
+  "index.md",
+  "memory/agents/Vibe.md",
+  "memory/daily/2026-06-27.md",
+  "memory/daily/2026-06-28.md",
+  "memory/daily/2026-06-29.md",
+  "memory/daily/2026-06-30.md",
+  "memory/daily/2026-07-01.md",
+  "projects/DOMAIN.md",
+  "wiki/2026-06-29 - idea-discovery.md",
+  "wiki/Architecture - EMERAULD Scripts - Intake Pipeline.md",
+  "wiki/Architecture - EMERAULD Scripts - Key Decisions.md",
+  "wiki/Architecture - EMERAULD Scripts - Knowledge Layers.md",
+  "wiki/Architecture - EMERAULD Scripts - Overview.md",
+  "wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27).md",
+  "wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30).md",
+  "wiki/Stacklight-owner-explainer.md",
+  "wiki/Vault Health — 2026-06-28.md",
+  "wiki/WIKI-ROUTING-REPORT.md",
+  "wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27).md",
+  "wiki/if.switchboard — InfraFabric Product Center.md",
+  "wiki/lightrag_config — EMERAULD Shared Config Module.md"
+ ]
+}

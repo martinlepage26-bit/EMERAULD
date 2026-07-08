@@ -50,6 +50,26 @@
     "source_path": "projects/Glitching the Sacred — Fisher King Project State.md"
   },
   {
+    "source": "projects/Second Brain — Fisher King Project State",
+    "target": "artifacts/marketplace/promo/gumroad-listing",
+    "source_path": "projects/Second Brain — Fisher King Project State.md"
+  },
+  {
+    "source": "projects/Second Brain — Fisher King Project State",
+    "target": "artifacts/marketplace/promo/social-posts",
+    "source_path": "projects/Second Brain — Fisher King Project State.md"
+  },
+  {
+    "source": "projects/Second Brain — Fisher King Project State",
+    "target": "artifacts/marketplace/promo/gumroad-listing",
+    "source_path": "projects/Second Brain — Fisher King Project State.md"
+  },
+  {
+    "source": "projects/Second Brain — Fisher King Project State",
+    "target": "artifacts/marketplace/promo/social-posts",
+    "source_path": "projects/Second Brain — Fisher King Project State.md"
+  },
+  {
     "source": "projects/Second Self — Fisher King Project State",
     "target": "Second Self System — Adversarial Review",
     "source_path": "projects/Second Self — Fisher King Project State.md"
@@ -58,6 +78,116 @@
     "source": "projects/Second Self — Fisher King Project State",
     "target": "Second Self System — Adversarial Review",
     "source_path": "projects/Second Self — Fisher King Project State.md"
+  },
+  {
+    "source": "projects/patent-workbench/CLAUDE_TASK",
+    "target": "path",
+    "source_path": "projects/patent-workbench/CLAUDE_TASK.md"
+  },
+  {
+    "source": "projects/patent-workbench/CLAUDE_TASK",
+    "target": "path",
+    "source_path": "projects/patent-workbench/CLAUDE_TASK.md"
+  },
+  {
+    "source": "projects/patent-workbench/CLAUDE_TASK",
+    "target": "d1_databases",
+    "source_path": "projects/patent-workbench/CLAUDE_TASK.md"
+  },
+  {
+    "source": "projects/patent-workbench/CLAUDE_TASK",
+    "target": "path",
+    "source_path": "projects/patent-workbench/CLAUDE_TASK.md"
+  },
+  {
+    "source": "projects/patent-workbench/CLAUDE_TASK",
+    "target": "path",
+    "source_path": "projects/patent-workbench/CLAUDE_TASK.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/code-splitting/SKILL",
+    "target": "'loader', 'component'",
+    "source_path": "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/code-splitting/SKILL.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/code-splitting/SKILL",
+    "target": "'loader', 'component'",
+    "source_path": "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/code-splitting/SKILL.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/callsites/readme",
+    "target": "Class",
+    "source_path": "projects/patent-workbench/node_modules/callsites/readme.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/detect-node-es/Readme",
+    "target": "Class",
+    "source_path": "projects/patent-workbench/node_modules/detect-node-es/Readme.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/fast-glob/README",
+    "target": "options",
+    "source_path": "projects/patent-workbench/node_modules/fast-glob/README.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/fast-glob/README",
+    "target": ":digit:",
+    "source_path": "projects/patent-workbench/node_modules/fast-glob/README.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/fast-glob/README",
+    "target": ":digit:",
+    "source_path": "projects/patent-workbench/node_modules/fast-glob/README.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/internmap/README",
+    "target": "978307200000, \"red\"",
+    "source_path": "projects/patent-workbench/node_modules/internmap/README.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/minimatch/README",
+    "target": ":alpha:",
+    "source_path": "projects/patent-workbench/node_modules/minimatch/README.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/minimatch/README",
+    "target": ":alpha:",
+    "source_path": "projects/patent-workbench/node_modules/minimatch/README.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/minimatch/README",
+    "target": "=e=",
+    "source_path": "projects/patent-workbench/node_modules/minimatch/README.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/minimatch/README",
+    "target": ".ch.",
+    "source_path": "projects/patent-workbench/node_modules/minimatch/README.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/picomatch/README",
+    "target": ":word:",
+    "source_path": "projects/patent-workbench/node_modules/picomatch/README.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/seroval/README",
+    "target": "'hello', 'world'",
+    "source_path": "projects/patent-workbench/node_modules/seroval/README.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/tinyglobby/node_modules/picomatch/README",
+    "target": ":word:",
+    "source_path": "projects/patent-workbench/node_modules/tinyglobby/node_modules/picomatch/README.md"
+  },
+  {
+    "source": "projects/patent-workbench/node_modules/vite/node_modules/picomatch/README",
+    "target": ":word:",
+    "source_path": "projects/patent-workbench/node_modules/vite/node_modules/picomatch/README.md"
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "wiki/Scripto — Scriptorium Lineage and Governance Position",
+    "source_path": "wiki/2026-06-29 - idea-discovery.md"
   },
   {
     "source": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
@@ -210,6 +340,96 @@
     "source_path": "wiki/APEX Papers — Research Archive Map.md"
   },
   {
+    "source": "ASSETS MOC",
+    "target": "assets/breath-of-the-astral-year-cover-spec",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/breath-of-the-astral-year-kdp-format-spec",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/audience-expansion",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/positioning-memo",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/sales-page-outline",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/source-completions/agents/05-quality-auditor",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/source-completions/examples/03-bug-triage-and-fix",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/source-completions/examples/05-post-incident-retrospective",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/source-completions/validation/02-operational-content-check",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/ttrpg-repack/BRAND-DECISION",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/ttrpg-repack/manuscript/01-the-doctrine",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/ttrpg-repack/manuscript/02-operations",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/ttrpg-repack/manuscript/03-audit",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/ttrpg-repack/manuscript/_archive_00-introduction-v0.2-long-form",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/ttrpg-repack/manuscript/_audit_dimension-F-2026-05-24",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/ttrpg-repack/manuscript/charge-and-circle-publish-ready",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/elemental-agents/ttrpg-repack/reddit-drafts/reddit-r-rpgdesign-post",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
+    "source": "ASSETS MOC",
+    "target": "assets/manuscripts/queering-neo-pagan-magic-mrw-2026/_archive_superseded_2026-05-31/source_uploads/Lepage--Queering Pagan Magic--MRW revision",
+    "source_path": "wiki/ASSETS MOC.md"
+  },
+  {
     "source": "Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
     "target": "Addiction by Design Machine Gambling in Las Vegas",
     "source_path": "wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone).md"
@@ -233,16 +453,6 @@
     "source": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
     "target": "The U.S. Department of Labor’s Artificial Intelligence Literacy Framework",
     "source_path": "wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution.md"
-  },
-  {
-    "source": "Agent Session Phenomenology",
-    "target": "README",
-    "source_path": "wiki/Agent Session Phenomenology.md"
-  },
-  {
-    "source": "Agent Session Phenomenology",
-    "target": "Readme",
-    "source_path": "wiki/Agent Session Phenomenology.md"
   },
   {
     "source": "Agent Session Phenomenology",
@@ -270,6 +480,21 @@
     "source_path": "wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption.md"
   },
   {
+    "source": "Architecture - EMERAULD Scripts - Knowledge Layers",
+    "target": "wikilink",
+    "source_path": "wiki/Architecture - EMERAULD Scripts - Knowledge Layers.md"
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Overview",
+    "target": "...",
+    "source_path": "wiki/Architecture - EMERAULD Scripts - Overview.md"
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Overview",
+    "target": "Architecture - EMERAULD Scripts - Maintenance",
+    "source_path": "wiki/Architecture - EMERAULD Scripts - Overview.md"
+  },
+  {
     "source": "Ask Vault — EMERAULD Vault Briefing Skill",
     "target": "PROJECT",
     "source_path": "wiki/Ask Vault — EMERAULD Vault Briefing Skill.md"
@@ -292,11 +517,6 @@
   {
     "source": "Ask Vault — EMERAULD Vault Briefing Skill",
     "target": "ecosystem",
-    "source_path": "wiki/Ask Vault — EMERAULD Vault Briefing Skill.md"
-  },
-  {
-    "source": "Ask Vault — EMERAULD Vault Briefing Skill",
-    "target": "SKILL",
     "source_path": "wiki/Ask Vault — EMERAULD Vault Briefing Skill.md"
   },
   {
@@ -440,19 +660,14 @@
     "source_path": "wiki/CLAUDEX — AI Dialogue Archive.md"
   },
   {
-    "source": "CLI-Anything — Agent Harness for Tool Integration",
-    "target": "README",
-    "source_path": "wiki/CLI-Anything — Agent Harness for Tool Integration.md"
+    "source": "CLIENT ACCOUNTS",
+    "target": "memory/clients/Lavoie Construct",
+    "source_path": "wiki/CLIENT ACCOUNTS.md"
   },
   {
-    "source": "CLI-Anything — Agent Harness for Tool Integration",
-    "target": "readme",
-    "source_path": "wiki/CLI-Anything — Agent Harness for Tool Integration.md"
-  },
-  {
-    "source": "CLI-Anything — Agent Harness for Tool Integration",
-    "target": "HISTORY",
-    "source_path": "wiki/CLI-Anything — Agent Harness for Tool Integration.md"
+    "source": "CLIENT ACCOUNTS",
+    "target": "memory/clients/Lavoie Construct",
+    "source_path": "wiki/CLIENT ACCOUNTS.md"
   },
   {
     "source": "CLIENT ACCOUNTS",
@@ -551,16 +766,6 @@
   },
   {
     "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "target": "README",
-    "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
-  },
-  {
-    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "target": "THREAT_MODEL",
-    "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
-  },
-  {
-    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
     "target": "MockPool",
     "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
   },
@@ -600,21 +805,6 @@
     "source_path": "wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
   },
   {
-    "source": "Claude Code Skill Corpus",
-    "target": "README",
-    "source_path": "wiki/Claude Code Skill Corpus.md"
-  },
-  {
-    "source": "Cloudflare Pages-to-Worker Migration — Build and Asset Behavior",
-    "target": "README",
-    "source_path": "wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior.md"
-  },
-  {
-    "source": "Codex Skill Corpus Sync — 2026-04-20",
-    "target": "HISTORY",
-    "source_path": "wiki/Codex Skill Corpus Sync — 2026-04-20.md"
-  },
-  {
     "source": "Codex Skills Inventory — Complete Registry (241 Skills)",
     "target": "2026-05-05_safety-botpress",
     "source_path": "wiki/Codex Skills Inventory — Complete Registry (241 Skills).md"
@@ -648,6 +838,26 @@
     "source": "Consent, Fraud, and Boundary Protocols",
     "target": "PPTC 054 E Adult Simplified Renewal Passport Application for Eligible Canadians Applying in Canada o",
     "source_path": "wiki/Consent, Fraud, and Boundary Protocols.md"
+  },
+  {
+    "source": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "target": "Areas/Lavoie/AREA",
+    "source_path": "wiki/Contremaître — Groupe Lavoie Field-Operations Platform.md"
+  },
+  {
+    "source": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "target": "Areas/Lavoie/AREA",
+    "source_path": "wiki/Contremaître — Groupe Lavoie Field-Operations Platform.md"
+  },
+  {
+    "source": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "target": "Areas/Lavoie/AREA",
+    "source_path": "wiki/Contremaître — Groupe Lavoie Field-Operations Platform.md"
+  },
+  {
+    "source": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "target": "Areas/Lavoie/AREA",
+    "source_path": "wiki/Contremaître — Groupe Lavoie Field-Operations Platform.md"
   },
   {
     "source": "Control Protocols MOC",
@@ -722,11 +932,6 @@
   {
     "source": "Control Protocols MOC",
     "target": "01-feature-request-implementation",
-    "source_path": "wiki/Control Protocols MOC.md"
-  },
-  {
-    "source": "Control Protocols MOC",
-    "target": "README",
     "source_path": "wiki/Control Protocols MOC.md"
   },
   {
@@ -915,11 +1120,6 @@
     "source_path": "wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01.md"
   },
   {
-    "source": "Diamond-Eyes — Aesthetic Refinement Skill",
-    "target": "HISTORY",
-    "source_path": "wiki/Diamond-Eyes — Aesthetic Refinement Skill.md"
-  },
-  {
     "source": "Disease — Lady Gaga — Lyrics",
     "target": "gaga gisease lyrics",
     "source_path": "wiki/Disease — Lady Gaga — Lyrics.md"
@@ -991,18 +1191,13 @@
   },
   {
     "source": "EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard",
-    "target": "AGENTS",
-    "source_path": "wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard.md"
-  },
-  {
-    "source": "EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard",
     "target": "2026-05-09_emerauld-agents-perplexity-hermes-instructions",
     "source_path": "wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard.md"
   },
   {
-    "source": "Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)",
-    "target": "README",
-    "source_path": "wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md"
+    "source": "EMERAULD_OS_ARCHITECTURE.MD MOC",
+    "target": "EMERAULD_OS_ARCHITECTURE",
+    "source_path": "wiki/EMERAULD_OS_ARCHITECTURE.MD MOC.md"
   },
   {
     "source": "Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)",
@@ -1165,9 +1360,24 @@
     "source_path": "wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning.md"
   },
   {
-    "source": "GSD — Get Shit Done Context Engineering System",
-    "target": "README",
-    "source_path": "wiki/GSD — Get Shit Done Context Engineering System.md"
+    "source": "GRAPHIFY-OUT MOC",
+    "target": "graphify-out/2026-06-30/GRAPH_REPORT",
+    "source_path": "wiki/GRAPHIFY-OUT MOC.md"
+  },
+  {
+    "source": "GRAPHIFY-OUT MOC",
+    "target": "graphify-out/2026-07-01/GRAPH_REPORT",
+    "source_path": "wiki/GRAPHIFY-OUT MOC.md"
+  },
+  {
+    "source": "GRAPHIFY-OUT MOC",
+    "target": "graphify-out/GRAPH_REPORT",
+    "source_path": "wiki/GRAPHIFY-OUT MOC.md"
+  },
+  {
+    "source": "GRAPHIFY-OUT MOC",
+    "target": "graphify-out/converted/pharos-inventory-2026-04-18_b9b1ffde",
+    "source_path": "wiki/GRAPHIFY-OUT MOC.md"
   },
   {
     "source": "GSD — Get Shit Done Context Engineering System",
@@ -1178,11 +1388,6 @@
     "source": "Global Publication Search — PHAROS Method and Variants",
     "target": "PHAROS AI governance service business",
     "source_path": "wiki/Global Publication Search — PHAROS Method and Variants.md"
-  },
-  {
-    "source": "Governance Controls and Mechanisms",
-    "target": "README",
-    "source_path": "wiki/Governance Controls and Mechanisms.md"
   },
   {
     "source": "Governance Controls — Phase 1 Completion Checklist",
@@ -2166,11 +2371,6 @@
   },
   {
     "source": "Governance and PHAROS MOC",
-    "target": "SKILL",
-    "source_path": "wiki/Governance and PHAROS MOC.md"
-  },
-  {
-    "source": "Governance and PHAROS MOC",
     "target": "user_ethical_ground",
     "source_path": "wiki/Governance and PHAROS MOC.md"
   },
@@ -2451,11 +2651,6 @@
   },
   {
     "source": "Governance and PHAROS MOC",
-    "target": "AGENTS",
-    "source_path": "wiki/Governance and PHAROS MOC.md"
-  },
-  {
-    "source": "Governance and PHAROS MOC",
     "target": "HEPHAISTOS-STATUS",
     "source_path": "wiki/Governance and PHAROS MOC.md"
   },
@@ -2476,27 +2671,12 @@
   },
   {
     "source": "Governance and PHAROS MOC",
-    "target": "THREAT_MODEL",
-    "source_path": "wiki/Governance and PHAROS MOC.md"
-  },
-  {
-    "source": "Governance and PHAROS MOC",
-    "target": "HISTORY",
-    "source_path": "wiki/Governance and PHAROS MOC.md"
-  },
-  {
-    "source": "Governance and PHAROS MOC",
     "target": "RefreshAccessTokenFailedError",
     "source_path": "wiki/Governance and PHAROS MOC.md"
   },
   {
     "source": "Governance and PHAROS MOC",
     "target": "AccessTokenMissingError",
-    "source_path": "wiki/Governance and PHAROS MOC.md"
-  },
-  {
-    "source": "Governance and PHAROS MOC",
-    "target": "CHANGELOG",
     "source_path": "wiki/Governance and PHAROS MOC.md"
   },
   {
@@ -2547,11 +2727,6 @@
   {
     "source": "Governance and PHAROS MOC",
     "target": "community-posts",
-    "source_path": "wiki/Governance and PHAROS MOC.md"
-  },
-  {
-    "source": "Governance and PHAROS MOC",
-    "target": "README",
     "source_path": "wiki/Governance and PHAROS MOC.md"
   },
   {
@@ -2865,6 +3040,11 @@
     "source_path": "wiki/Governed Revision Loop — Responsible Self-Improving Agents.md"
   },
   {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "Three-Agent Architecture",
+    "source_path": "wiki/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03).md"
+  },
+  {
     "source": "HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06",
     "target": "2026-05-05_artificial-intelligence",
     "source_path": "wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06.md"
@@ -3006,11 +3186,6 @@
   },
   {
     "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "README",
-    "source_path": "wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md"
-  },
-  {
-    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
     "target": "2026-04-30_helix-shipping-instructions-runbook",
     "source_path": "wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md"
   },
@@ -3100,6 +3275,16 @@
     "source_path": "wiki/HELIX — Value Proposition and Buyer Profile.md"
   },
   {
+    "source": "HEPHAISTOS MOC",
+    "target": "hephaistos/agents/GADGET Frontier Scout External Integration Agent",
+    "source_path": "wiki/HEPHAISTOS MOC.md"
+  },
+  {
+    "source": "HEPHAISTOS MOC",
+    "target": "hephaistos/agents/Trismegiste Personal AI Assistant",
+    "source_path": "wiki/HEPHAISTOS MOC.md"
+  },
+  {
     "source": "Hermes Dashboard — Professional Governance Tool",
     "target": "memory/clients/Progression",
     "source_path": "wiki/Hermes Dashboard — Professional Governance Tool.md"
@@ -3112,16 +3297,6 @@
   {
     "source": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "target": "Dr_Sort_masterlist_2026-03-08",
-    "source_path": "wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md"
-  },
-  {
-    "source": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "target": "History",
-    "source_path": "wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md"
-  },
-  {
-    "source": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "target": "HISTORY",
     "source_path": "wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md"
   },
   {
@@ -3162,6 +3337,66 @@
   {
     "source": "Home",
     "target": "Dr. Sort Filename Normalization — 2026-05-06",
+    "source_path": "wiki/Home.md"
+  },
+  {
+    "source": "Home",
+    "target": "wiki/EMERAULD_OS_ARCHITECTURE.MD MOC",
+    "source_path": "wiki/Home.md"
+  },
+  {
+    "source": "Home",
+    "target": "wiki/PEER-REVIEW MOC",
+    "source_path": "wiki/Home.md"
+  },
+  {
+    "source": "Home",
+    "target": "wiki/PUBLICATIONS MOC",
+    "source_path": "wiki/Home.md"
+  },
+  {
+    "source": "Home",
+    "target": "wiki/SOURCE_OF_TRUTH.MD MOC",
+    "source_path": "wiki/Home.md"
+  },
+  {
+    "source": "Home",
+    "target": "wiki/ASSETS MOC",
+    "source_path": "wiki/Home.md"
+  },
+  {
+    "source": "Home",
+    "target": "wiki/GRAPHIFY-OUT MOC",
+    "source_path": "wiki/Home.md"
+  },
+  {
+    "source": "Home",
+    "target": "wiki/HEPHAISTOS MOC",
+    "source_path": "wiki/Home.md"
+  },
+  {
+    "source": "Home",
+    "target": "wiki/MEMORY MOC",
+    "source_path": "wiki/Home.md"
+  },
+  {
+    "source": "Home",
+    "target": "wiki/RAW MOC",
+    "source_path": "wiki/Home.md"
+  },
+  {
+    "source": "Home",
+    "target": "wiki/RESOURCES MOC",
+    "source_path": "wiki/Home.md"
+  },
+  {
+    "source": "Home",
+    "target": "wiki/TEMPLATES MOC",
+    "source_path": "wiki/Home.md"
+  },
+  {
+    "source": "Home",
+    "target": "wiki/Wiki MOC",
     "source_path": "wiki/Home.md"
   },
   {
@@ -3213,6 +3448,11 @@
     "source": "Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
     "target": "Submission guidelines SYNTHESE",
     "source_path": "wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md"
+  },
+  {
+    "source": "InfraFabric Architecture",
+    "target": "if.switchboard — InfraFabric Product Center\\",
+    "source_path": "wiki/InfraFabric Architecture.md"
   },
   {
     "source": "InfraFabric Architecture",
@@ -3285,11 +3525,6 @@
     "source_path": "wiki/InfraFabric MCP Stack — Remote Bundles.md"
   },
   {
-    "source": "InfraFabric MCP Stack — Remote Bundles",
-    "target": "HISTORY",
-    "source_path": "wiki/InfraFabric MCP Stack — Remote Bundles.md"
-  },
-  {
     "source": "Intelligence Definitions and AI Bias — 1956 Lecture",
     "target": "MOd  3- Artificail Consciouness",
     "source_path": "wiki/Intelligence Definitions and AI Bias — 1956 Lecture.md"
@@ -3353,6 +3588,16 @@
     "source": "Learning Together for Responsible AI — ISED Public Awareness WG 2022",
     "target": "2023 - B Resource Links v2.0.2 - report",
     "source_path": "wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022.md"
+  },
+  {
+    "source": "LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "target": "Areas/Lavoie/AREA",
+    "source_path": "wiki/LegiPro Canada-QC — Compliance Evidence Service Plan.md"
+  },
+  {
+    "source": "LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "target": "Areas/Lavoie/AREA",
+    "source_path": "wiki/LegiPro Canada-QC — Compliance Evidence Service Plan.md"
   },
   {
     "source": "Legitimacy Machines Altars of Control — Full Book Architecture",
@@ -3505,11 +3750,6 @@
     "source_path": "wiki/LightRAG — Graph-Based RAG System.md"
   },
   {
-    "source": "LightRAG — Graph-Based RAG System",
-    "target": "README",
-    "source_path": "wiki/LightRAG — Graph-Based RAG System.md"
-  },
-  {
     "source": "Literary References — Craft Guide",
     "target": "2013 - journal_article_1.pdf - 2013 - journal_article_1.pdf.pdf - 2013 - journal_article_1.pdf - 201",
     "source_path": "wiki/Literary References — Craft Guide.md"
@@ -3558,6 +3798,31 @@
     "source": "Loop Papers and Recursive Governance",
     "target": "Martin Lepage Work Profile and InfraFabric Mapping",
     "source_path": "wiki/Loop Papers and Recursive Governance.md"
+  },
+  {
+    "source": "MEMORY MOC",
+    "target": "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_alayaflow-alayacare",
+    "source_path": "wiki/MEMORY MOC.md"
+  },
+  {
+    "source": "MEMORY MOC",
+    "target": "memory/daily/2026-06-27",
+    "source_path": "wiki/MEMORY MOC.md"
+  },
+  {
+    "source": "MEMORY MOC",
+    "target": "memory/daily/2026-06-28",
+    "source_path": "wiki/MEMORY MOC.md"
+  },
+  {
+    "source": "MEMORY MOC",
+    "target": "memory/daily/2026-06-30",
+    "source_path": "wiki/MEMORY MOC.md"
+  },
+  {
+    "source": "MEMORY MOC",
+    "target": "memory/daily/2026-07-01",
+    "source_path": "wiki/MEMORY MOC.md"
   },
   {
     "source": "Magic After Legitimacy — Charmed and the Governance of Female Power",
@@ -3777,11 +4042,6 @@
   {
     "source": "Manuscript Pipeline MOC",
     "target": "2026 - ISSN 2666-6596 ScienceDirect.com b",
-    "source_path": "wiki/Manuscript Pipeline MOC.md"
-  },
-  {
-    "source": "Manuscript Pipeline MOC",
-    "target": "README",
     "source_path": "wiki/Manuscript Pipeline MOC.md"
   },
   {
@@ -4171,11 +4431,6 @@
   },
   {
     "source": "Martin Lepage — Professional Profile",
-    "target": "HISTORY",
-    "source_path": "wiki/Martin Lepage — Professional Profile.md"
-  },
-  {
-    "source": "Martin Lepage — Professional Profile",
     "target": "2015 - correspondence",
     "source_path": "wiki/Martin Lepage — Professional Profile.md"
   },
@@ -4248,11 +4503,6 @@
     "source": "Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
     "target": "Paul Ricoeur, culture scienceshumaines",
     "source_path": "wiki/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010).md"
-  },
-  {
-    "source": "Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "target": "Readme",
-    "source_path": "wiki/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone.md"
   },
   {
     "source": "Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
@@ -4581,11 +4831,6 @@
   },
   {
     "source": "Obsidian Agent Vault Launch — Commercial Skill",
-    "target": "CHANGELOG",
-    "source_path": "wiki/Obsidian Agent Vault Launch — Commercial Skill.md"
-  },
-  {
-    "source": "Obsidian Agent Vault Launch — Commercial Skill",
     "target": "CLAUDE",
     "source_path": "wiki/Obsidian Agent Vault Launch — Commercial Skill.md"
   },
@@ -4602,11 +4847,6 @@
   {
     "source": "Obsidian Agent Vault — Launch Kit",
     "target": "MARKETPLACE-LISTING",
-    "source_path": "wiki/Obsidian Agent Vault — Launch Kit.md"
-  },
-  {
-    "source": "Obsidian Agent Vault — Launch Kit",
-    "target": "README",
     "source_path": "wiki/Obsidian Agent Vault — Launch Kit.md"
   },
   {
@@ -4661,11 +4901,6 @@
   },
   {
     "source": "Operator-Check Skill — Burnout Cascade Interrupt",
-    "target": "HISTORY",
-    "source_path": "wiki/Operator-Check Skill — Burnout Cascade Interrupt.md"
-  },
-  {
-    "source": "Operator-Check Skill — Burnout Cascade Interrupt",
     "target": "api-lifecycle",
     "source_path": "wiki/Operator-Check Skill — Burnout Cascade Interrupt.md"
   },
@@ -4702,6 +4937,11 @@
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "target": ".trash/Weekly Review",
+    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "EMERAULD_OS_ARCHITECTURE",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
@@ -4941,7 +5181,7 @@
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "_CLAUDE",
+    "target": "SOURCE_OF_TRUTH",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
@@ -4972,6 +5212,11 @@
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN",
+    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/consolidation-records/HOME-ROOT-REORG-2026-07-01-MANIFEST",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
@@ -5076,6 +5321,26 @@
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graphify-out/2026-06-30/GRAPH_REPORT",
+    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graphify-out/2026-07-01/GRAPH_REPORT",
+    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graphify-out/GRAPH_REPORT",
+    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "graphify-out/converted/pharos-inventory-2026-04-18_b9b1ffde",
+    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "target": "hephaistos/agents/GADGET Frontier Scout External Integration Agent",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
@@ -5092,6 +5357,21 @@
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "target": "memory/daily/2026-06-27",
+    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "memory/daily/2026-06-28",
+    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "memory/daily/2026-06-30",
+    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "memory/daily/2026-07-01",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {
@@ -5131,8 +5411,238 @@
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "templates/OS_Record_Template",
+    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "target": "templates/Weekly Review Template",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/00_PROJECT_CONTROL/CLAIM_REGISTER",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/00_PROJECT_CONTROL/JOURNAL_GUIDELINES",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/00_PROJECT_CONTROL/MODEL_HANDOFF_LOG",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/00_PROJECT_CONTROL/PROJECT_BRIEF",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/00_PROJECT_CONTROL/SECTION_PLAN",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/00_PROJECT_CONTROL/STYLE_RULES",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/01_RAW_MATERIALS/MATERIALS_INVENTORY",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/01_RAW_MATERIALS/README",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/01_RAW_MATERIALS/UNCERTAINTY_REGISTER",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/02_SOURCE_FIELD/ADJACENT_LITERATURES",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/02_SOURCE_FIELD/CANONICAL_WORKS",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/02_SOURCE_FIELD/REFERENCE_TREE",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/02_SOURCE_FIELD/SOURCE_GAPS",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/02_SOURCE_FIELD/SOURCE_MATRIX",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/ABSTRACT_REVISED_AFTER_BODY",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/ABSTRACT_V1",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/OUTLINE_REVIEW",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/OUTLINE_V1",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/04_RESEARCH_BUNDLE/CITATION_CANDIDATES",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/04_RESEARCH_BUNDLE/CLAIM_TO_SOURCE_MAP",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/04_RESEARCH_BUNDLE/DEEP_RESEARCH",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/04_RESEARCH_BUNDLE/METHOD_AND_CORPUS_NOTES",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/04_RESEARCH_BUNDLE/PAGE_NUMBER_TRACKER",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/05_SECTION_DRAFTS/01_BACKGROUND_CONTEXT",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/05_SECTION_DRAFTS/02_LITERATURE_REVIEW",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/05_SECTION_DRAFTS/03_CONCEPTUAL_FRAMEWORK",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/05_SECTION_DRAFTS/04_ANALYSIS_FINDINGS",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/05_SECTION_DRAFTS/05_DISCUSSION",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/05_SECTION_DRAFTS/06_CONCLUSION",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/05_SECTION_DRAFTS/07_INTRODUCTION",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/05_SECTION_DRAFTS/08_ABSTRACT_FINAL",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/06_VALIDATION/CITATION_AUDIT",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/06_VALIDATION/CLAIM_AUDIT",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/06_VALIDATION/FINAL_RISK_REGISTER",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/06_VALIDATION/JOURNAL_CONFORMITY_AUDIT",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/06_VALIDATION/PEER_REVIEW_STRESS_TEST",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/06_VALIDATION/REFERENCE_LIST_AUDIT",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/07_FINAL_OUTPUTS/ABSTRACT_FINAL",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/07_FINAL_OUTPUTS/AUTHOR_BIO",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/07_FINAL_OUTPUTS/COVER_LETTER",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/07_FINAL_OUTPUTS/KEYWORDS",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/07_FINAL_OUTPUTS/SUBMISSION_CHECKLIST",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/NODE_INSTRUCTIONS",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/PROJECT_INSTRUCTION",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
+  },
+  {
+    "source": "PEER-REVIEW MOC",
+    "target": "PEER-REVIEW/README",
+    "source_path": "wiki/PEER-REVIEW MOC.md"
   },
   {
     "source": "PERPLEXITY-COMPUTER",
@@ -5226,16 +5736,6 @@
   },
   {
     "source": "PHAROS Final Voice Operator — GPT Creator",
-    "target": "README",
-    "source_path": "wiki/PHAROS Final Voice Operator — GPT Creator.md"
-  },
-  {
-    "source": "PHAROS Final Voice Operator — GPT Creator",
-    "target": "readme",
-    "source_path": "wiki/PHAROS Final Voice Operator — GPT Creator.md"
-  },
-  {
-    "source": "PHAROS Final Voice Operator — GPT Creator",
     "target": "1) Website Style Card",
     "source_path": "wiki/PHAROS Final Voice Operator — GPT Creator.md"
   },
@@ -5321,21 +5821,6 @@
   },
   {
     "source": "PHAROS Runbook SOP",
-    "target": "CHANGELOG",
-    "source_path": "wiki/PHAROS Runbook SOP.md"
-  },
-  {
-    "source": "PHAROS Runbook SOP",
-    "target": "README",
-    "source_path": "wiki/PHAROS Runbook SOP.md"
-  },
-  {
-    "source": "PHAROS Runbook SOP",
-    "target": "HISTORY",
-    "source_path": "wiki/PHAROS Runbook SOP.md"
-  },
-  {
-    "source": "PHAROS Runbook SOP",
     "target": "2013 - audit_or_assessment",
     "source_path": "wiki/PHAROS Runbook SOP.md"
   },
@@ -5382,11 +5867,6 @@
   {
     "source": "PHAROS Workspace Inventory 2026-04-18",
     "target": "PHAROS-SUITE",
-    "source_path": "wiki/PHAROS Workspace Inventory 2026-04-18.md"
-  },
-  {
-    "source": "PHAROS Workspace Inventory 2026-04-18",
-    "target": "README",
     "source_path": "wiki/PHAROS Workspace Inventory 2026-04-18.md"
   },
   {
@@ -5503,6 +5983,16 @@
     "source": "PROTOCOLS — Debate and Red-Team Runbook",
     "target": "IF-2086 - Debate Structure and Triple Red-Team Optimization Whitepaper (v1.2)",
     "source_path": "wiki/PROTOCOLS — Debate and Red-Team Runbook.md"
+  },
+  {
+    "source": "PUBLICATIONS MOC",
+    "target": "Publications/BOOKS/essay_identity_enforceable",
+    "source_path": "wiki/PUBLICATIONS MOC.md"
+  },
+  {
+    "source": "PUBLICATIONS MOC",
+    "target": "Publications/Papers and Chapters/Rivard2026/Pourquoi rêver encore-@nalyses-REWRITE",
+    "source_path": "wiki/PUBLICATIONS MOC.md"
   },
   {
     "source": "Pagan and Queer Ritual Studies MOC",
@@ -5707,11 +6197,6 @@
   {
     "source": "Pagan and Queer Ritual Studies MOC",
     "target": "Chapitre",
-    "source_path": "wiki/Pagan and Queer Ritual Studies MOC.md"
-  },
-  {
-    "source": "Pagan and Queer Ritual Studies MOC",
-    "target": "HISTORY",
     "source_path": "wiki/Pagan and Queer Ritual Studies MOC.md"
   },
   {
@@ -5955,6 +6440,16 @@
     "source_path": "wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming).md"
   },
   {
+    "source": "Quiet Compliance Workbench — Standing Tone Rule",
+    "target": "Areas/Lavoie/AREA",
+    "source_path": "wiki/Quiet Compliance Workbench — Standing Tone Rule.md"
+  },
+  {
+    "source": "Quiet Compliance Workbench — Standing Tone Rule",
+    "target": "Areas/Lavoie/AREA",
+    "source_path": "wiki/Quiet Compliance Workbench — Standing Tone Rule.md"
+  },
+  {
     "source": "RAG-Anything — Multimodal RAG Framework",
     "target": "2025 - PowerPoint Presentation",
     "source_path": "wiki/RAG-Anything — Multimodal RAG Framework.md"
@@ -5965,9 +6460,44 @@
     "source_path": "wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md"
   },
   {
+    "source": "RAW MOC",
+    "target": "raw/Clippings/AI Recruiting Has an Accessibility Problem",
+    "source_path": "wiki/RAW MOC.md"
+  },
+  {
+    "source": "RAW MOC",
+    "target": "raw/D-drive-scan-2026-05-12/MANIFEST",
+    "source_path": "wiki/RAW MOC.md"
+  },
+  {
+    "source": "RAW MOC",
+    "target": "raw/D-drive-scan-2026-05-12/elemental-agents/README",
+    "source_path": "wiki/RAW MOC.md"
+  },
+  {
+    "source": "RAW MOC",
+    "target": "raw/D-drive-scan-2026-05-12/elemental-agents/combinations/README",
+    "source_path": "wiki/RAW MOC.md"
+  },
+  {
+    "source": "RAW MOC",
+    "target": "raw/Desktop-Downloads-scan-2026-05-12/MANIFEST",
+    "source_path": "wiki/RAW MOC.md"
+  },
+  {
+    "source": "RAW MOC",
+    "target": "raw/README",
+    "source_path": "wiki/RAW MOC.md"
+  },
+  {
     "source": "RECURSO — Recursive Governance Test Archive",
     "target": "MASTER TRACKER (recreated from MASTER PACK 4).csv",
     "source_path": "wiki/RECURSO — Recursive Governance Test Archive.md"
+  },
+  {
+    "source": "RESOURCES MOC",
+    "target": "resources/mtl-01-access",
+    "source_path": "wiki/RESOURCES MOC.md"
   },
   {
     "source": "Reboot — Performance, Gender, and Computing of Identity",
@@ -6057,26 +6587,6 @@
   {
     "source": "Reddit Data API — Access Terms and Rate Limits",
     "target": "CREDENTIALS",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "README",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "readme",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "CHANGELOG",
-    "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
-  },
-  {
-    "source": "Reddit Data API — Access Terms and Rate Limits",
-    "target": "HISTORY",
     "source_path": "wiki/Reddit Data API — Access Terms and Rate Limits.md"
   },
   {
@@ -8066,11 +8576,6 @@
   },
   {
     "source": "Research and Papers MOC",
-    "target": "AGENTS",
-    "source_path": "wiki/Research and Papers MOC.md"
-  },
-  {
-    "source": "Research and Papers MOC",
     "target": "undici-vs-builtin-fetch",
     "source_path": "wiki/Research and Papers MOC.md"
   },
@@ -8136,47 +8641,7 @@
   },
   {
     "source": "Research and Papers MOC",
-    "target": "license",
-    "source_path": "wiki/Research and Papers MOC.md"
-  },
-  {
-    "source": "Research and Papers MOC",
-    "target": "SECURITY",
-    "source_path": "wiki/Research and Papers MOC.md"
-  },
-  {
-    "source": "Research and Papers MOC",
-    "target": "Readme",
-    "source_path": "wiki/Research and Papers MOC.md"
-  },
-  {
-    "source": "Research and Papers MOC",
-    "target": "History",
-    "source_path": "wiki/Research and Papers MOC.md"
-  },
-  {
-    "source": "Research and Papers MOC",
     "target": "changelog",
-    "source_path": "wiki/Research and Papers MOC.md"
-  },
-  {
-    "source": "Research and Papers MOC",
-    "target": "HISTORY",
-    "source_path": "wiki/Research and Papers MOC.md"
-  },
-  {
-    "source": "Research and Papers MOC",
-    "target": "readme",
-    "source_path": "wiki/Research and Papers MOC.md"
-  },
-  {
-    "source": "Research and Papers MOC",
-    "target": "LICENSE",
-    "source_path": "wiki/Research and Papers MOC.md"
-  },
-  {
-    "source": "Research and Papers MOC",
-    "target": "CHANGELOG",
     "source_path": "wiki/Research and Papers MOC.md"
   },
   {
@@ -8261,11 +8726,6 @@
   },
   {
     "source": "Research and Papers MOC",
-    "target": "README",
-    "source_path": "wiki/Research and Papers MOC.md"
-  },
-  {
-    "source": "Research and Papers MOC",
     "target": "RUN-ORDER",
     "source_path": "wiki/Research and Papers MOC.md"
   },
@@ -8282,11 +8742,6 @@
   {
     "source": "Research and Papers MOC",
     "target": "Building Your First AI Agent with OpenAI_____",
-    "source_path": "wiki/Research and Papers MOC.md"
-  },
-  {
-    "source": "Research and Papers MOC",
-    "target": "AGENTS",
     "source_path": "wiki/Research and Papers MOC.md"
   },
   {
@@ -8312,11 +8767,6 @@
   {
     "source": "Research and Papers MOC",
     "target": "gadget.agent",
-    "source_path": "wiki/Research and Papers MOC.md"
-  },
-  {
-    "source": "Research and Papers MOC",
-    "target": "SKILL",
     "source_path": "wiki/Research and Papers MOC.md"
   },
   {
@@ -8553,6 +9003,11 @@
     "source": "SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
     "target": "drsortoriginalfilename 2025 - journalarticle3.docx - 2025 - journalarticle3.do",
     "source_path": "wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy.md"
+  },
+  {
+    "source": "SOURCE_OF_TRUTH.MD MOC",
+    "target": "SOURCE_OF_TRUTH",
+    "source_path": "wiki/SOURCE_OF_TRUTH.MD MOC.md"
   },
   {
     "source": "SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
@@ -8851,32 +9306,12 @@
   },
   {
     "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "LICENSE",
-    "source_path": "wiki/Second Self System Identity Kernel and Agent Routing Architecture.md"
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "license",
-    "source_path": "wiki/Second Self System Identity Kernel and Agent Routing Architecture.md"
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
     "target": "ecosystem",
     "source_path": "wiki/Second Self System Identity Kernel and Agent Routing Architecture.md"
   },
   {
     "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "target": "Second Self System — Adversarial Review",
-    "source_path": "wiki/Second Self System — Identity Kernel and Agent Routing Architecture.md"
-  },
-  {
-    "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
-    "target": "LICENSE",
-    "source_path": "wiki/Second Self System — Identity Kernel and Agent Routing Architecture.md"
-  },
-  {
-    "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
-    "target": "license",
     "source_path": "wiki/Second Self System — Identity Kernel and Agent Routing Architecture.md"
   },
   {
@@ -8972,11 +9407,6 @@
   {
     "source": "Skill Corpus — Complete Live Index (260 Active Skills)",
     "target": "skills/web-scraping",
-    "source_path": "wiki/Skill Corpus — Complete Live Index (260 Active Skills).md"
-  },
-  {
-    "source": "Skill Corpus — Complete Live Index (260 Active Skills)",
-    "target": "README",
     "source_path": "wiki/Skill Corpus — Complete Live Index (260 Active Skills).md"
   },
   {
@@ -9085,16 +9515,6 @@
     "source_path": "wiki/Smallest Building Block — Relation as Rule.md"
   },
   {
-    "source": "Smallest Building Block — Relation as Rule",
-    "target": "README",
-    "source_path": "wiki/Smallest Building Block — Relation as Rule.md"
-  },
-  {
-    "source": "Social Compass Paper — Ritual Authority and Régime de Preuve",
-    "target": "HISTORY",
-    "source_path": "wiki/Social Compass Paper — Ritual Authority and Régime de Preuve.md"
-  },
-  {
     "source": "Social Compass Paper — Ritual Authority and Régime de Preuve",
     "target": "2017 - legal_or_contract.pdf - 2017 - legal_or_contract.pdf.pdf - 2017 - legal_or_contract.pdf - 201",
     "source_path": "wiki/Social Compass Paper — Ritual Authority and Régime de Preuve.md"
@@ -9113,6 +9533,11 @@
     "source": "Social Stratification, Intersectionality, and the Why Be King Manuscript",
     "target": "‘It's All a Giant Web' Syncretism, Agency and (Re)connection in a Contempo rar",
     "source_path": "wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript.md"
+  },
+  {
+    "source": "Stacklight-owner-explainer",
+    "target": "governance/governance-index",
+    "source_path": "wiki/Stacklight-owner-explainer.md"
   },
   {
     "source": "Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)",
@@ -9140,14 +9565,19 @@
     "source_path": "wiki/Supersession Registry.md"
   },
   {
+    "source": "TEMPLATES MOC",
+    "target": "templates/OS_Record_Template",
+    "source_path": "wiki/TEMPLATES MOC.md"
+  },
+  {
+    "source": "TEMPLATES MOC",
+    "target": "templates/Weekly Review Template",
+    "source_path": "wiki/TEMPLATES MOC.md"
+  },
+  {
     "source": "The Ballad of the Witches' Road — Analysis",
     "target": "Recovered analysis Ballad Witches Road",
     "source_path": "wiki/The Ballad of the Witches' Road — Analysis.md"
-  },
-  {
-    "source": "The Blind Leading the Automated — AI Governance Failure Case Study",
-    "target": "History",
-    "source_path": "wiki/The Blind Leading the Automated — AI Governance Failure Case Study.md"
   },
   {
     "source": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
@@ -9480,9 +9910,19 @@
     "source_path": "wiki/Vault Deep Linking Pass — 2026-05-06.md"
   },
   {
+    "source": "Vault Health — 2026-07-05",
+    "target": "wikilink",
+    "source_path": "wiki/Vault Health — 2026-07-05.md"
+  },
+  {
     "source": "WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter",
     "target": "Welcome to this course on ethical and societal asp",
     "source_path": "wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter.md"
+  },
+  {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "memory/agents/Vibe",
+    "source_path": "wiki/Weekly Review — 2026-06-26.md"
   },
   {
     "source": "Weekly Review — 2026-06-26",
@@ -9582,11 +10022,6 @@
   {
     "source": "Workspace Cleanup Ledger — 2026-05-31",
     "target": "Agents",
-    "source_path": "wiki/Workspace Cleanup Ledger — 2026-05-31.md"
-  },
-  {
-    "source": "Workspace Cleanup Ledger — 2026-05-31",
-    "target": "AGENTS",
     "source_path": "wiki/Workspace Cleanup Ledger — 2026-05-31.md"
   },
   {
@@ -10471,26 +10906,6 @@
   },
   {
     "source": "Writing and Novels MOC",
-    "target": "HISTORY",
-    "source_path": "wiki/Writing and Novels MOC.md"
-  },
-  {
-    "source": "Writing and Novels MOC",
-    "target": "CHANGELOG",
-    "source_path": "wiki/Writing and Novels MOC.md"
-  },
-  {
-    "source": "Writing and Novels MOC",
-    "target": "Readme",
-    "source_path": "wiki/Writing and Novels MOC.md"
-  },
-  {
-    "source": "Writing and Novels MOC",
-    "target": "readme",
-    "source_path": "wiki/Writing and Novels MOC.md"
-  },
-  {
-    "source": "Writing and Novels MOC",
     "target": "hashnode-iter22-graph-vs-folders",
     "source_path": "wiki/Writing and Novels MOC.md"
   },
@@ -10547,11 +10962,6 @@
   {
     "source": "Writing and Novels MOC",
     "target": "CREDENTIALS",
-    "source_path": "wiki/Writing and Novels MOC.md"
-  },
-  {
-    "source": "Writing and Novels MOC",
-    "target": "README",
     "source_path": "wiki/Writing and Novels MOC.md"
   },
   {
@@ -11227,11 +11637,6 @@
   {
     "source": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
     "target": "40_Archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template",
-    "source_path": "wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06.md"
-  },
-  {
-    "source": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
-    "target": "AGENTS",
     "source_path": "wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06.md"
   },
   {
@@ -16648,16 +17053,6 @@
     "source": "claude-mem — Persistent Memory Compression for Claude Code",
     "target": "changelog",
     "source_path": "wiki/claude-mem — Persistent Memory Compression for Claude Code.md"
-  },
-  {
-    "source": "claude-mem — Persistent Memory Compression for Claude Code",
-    "target": "README",
-    "source_path": "wiki/claude-mem — Persistent Memory Compression for Claude Code.md"
-  },
-  {
-    "source": "claude-peers-mcp — Claude Peer Network",
-    "target": "README",
-    "source_path": "wiki/claude-peers-mcp — Claude Peer Network.md"
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",

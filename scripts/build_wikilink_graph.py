@@ -53,7 +53,10 @@ def strip_frontmatter(text: str) -> tuple[dict[str, Any], str]:
         if not line.strip():
             continue
         if line.startswith(("  - ", "- ")) and current_key:
-            meta.setdefault(current_key, []).append(line.split("-", 1)[1].strip().strip("\"'"))
+            existing = meta.get(current_key)
+            if not isinstance(existing, list):
+                meta[current_key] = [existing] if existing not in (None, "") else []
+            meta[current_key].append(line.split("-", 1)[1].strip().strip("\"'"))
             continue
         if ":" not in line:
             continue

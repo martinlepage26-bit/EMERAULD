@@ -1,5 +1,80 @@
 [
   {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "Academic Paper Pipeline",
+    "count": 1
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "Complete Paper List — Martin Lepage Corpus",
+    "count": 1
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "count": 1
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "GAIA — Earth-Calendar App and Evidence-Aware Positioning",
+    "count": 1
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "HELIX — Value Proposition and Buyer Profile",
+    "count": 2
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "Obsidian Agent Vault — Launch Kit",
+    "count": 2
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "Obsidian Second Brain Product",
+    "count": 1
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "PHAROS Scholarly Publication Track",
+    "count": 1
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)",
+    "count": 2
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "projects/Echo — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "projects/GAIA — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "projects/HELIX — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "projects/Papers — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "2026-06-29 - idea-discovery",
+    "target": "projects/Second Brain — Fisher King Project State",
+    "count": 1
+  },
+  {
     "source": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
     "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
@@ -166,6 +241,11 @@
   },
   {
     "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "count": 1
+  },
+  {
+    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
     "target": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
     "count": 1
   },
@@ -207,7 +287,7 @@
   {
     "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
     "target": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "count": 3
+    "count": 4
   },
   {
     "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
@@ -972,7 +1052,7 @@
   {
     "source": "AI Infrastructure Stack",
     "target": "Governance and PHAROS MOC",
-    "count": 2
+    "count": 3
   },
   {
     "source": "AI Infrastructure Stack",
@@ -992,7 +1072,7 @@
   {
     "source": "AI Infrastructure Stack",
     "target": "HEPHAISTOS Agent Architecture",
-    "count": 2
+    "count": 3
   },
   {
     "source": "AI Infrastructure Stack",
@@ -1012,7 +1092,12 @@
   {
     "source": "AI Infrastructure Stack",
     "target": "InfraFabric MCP Stack — Remote Bundles",
-    "count": 1
+    "count": 2
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
+    "count": 3
   },
   {
     "source": "AI Infrastructure Stack",
@@ -1052,7 +1137,7 @@
   {
     "source": "AI Infrastructure Stack",
     "target": "Personal and Projects MOC",
-    "count": 1
+    "count": 2
   },
   {
     "source": "AI Infrastructure Stack",
@@ -1092,6 +1177,11 @@
   {
     "source": "AI Infrastructure Stack",
     "target": "Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "Stacklight-owner-explainer",
     "count": 1
   },
   {
@@ -1147,6 +1237,11 @@
   {
     "source": "AI Infrastructure Stack",
     "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "if.switchboard — InfraFabric Product Center",
     "count": 1
   },
   {
@@ -2425,6 +2520,16 @@
     "count": 2
   },
   {
+    "source": "Agent Session Phenomenology",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
+    "source": "Agent Session Phenomenology",
+    "target": "projects/patent-workbench/node_modules/commander/Readme",
+    "count": 1
+  },
+  {
     "source": "Alchemy of the Wound — Novel",
     "target": "Alchemy of the Wound — Version Genealogy",
     "count": 1
@@ -2690,6 +2795,106 @@
     "count": 2
   },
   {
+    "source": "Architecture - EMERAULD Scripts - Intake Pipeline",
+    "target": "Architecture - EMERAULD Scripts - Key Decisions",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Intake Pipeline",
+    "target": "Architecture - EMERAULD Scripts - Knowledge Layers",
+    "count": 2
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Intake Pipeline",
+    "target": "Architecture - EMERAULD Scripts - Overview",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Intake Pipeline",
+    "target": "EMERAULD",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Key Decisions",
+    "target": "Architecture - EMERAULD Scripts - Intake Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Key Decisions",
+    "target": "Architecture - EMERAULD Scripts - Knowledge Layers",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Key Decisions",
+    "target": "Architecture - EMERAULD Scripts - Overview",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Key Decisions",
+    "target": "EMERAULD",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Knowledge Layers",
+    "target": "Architecture - EMERAULD Scripts - Key Decisions",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Knowledge Layers",
+    "target": "Architecture - EMERAULD Scripts - Overview",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Knowledge Layers",
+    "target": "EMERAULD",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Knowledge Layers",
+    "target": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Knowledge Layers",
+    "target": "lightrag_config — EMERAULD Shared Config Module",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Overview",
+    "target": "Architecture - EMERAULD Scripts - Intake Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Overview",
+    "target": "Architecture - EMERAULD Scripts - Key Decisions",
+    "count": 2
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Overview",
+    "target": "Architecture - EMERAULD Scripts - Knowledge Layers",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Overview",
+    "target": "EMERAULD",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Overview",
+    "target": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Overview",
+    "target": "lightrag_config — EMERAULD Shared Config Module",
+    "count": 1
+  },
+  {
+    "source": "Architecture - EMERAULD Scripts - Overview",
+    "target": "session-state",
+    "count": 1
+  },
+  {
     "source": "Architecture Translation Guide — Eight Operators to Three-Agent Stack",
     "target": "Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
@@ -2868,6 +3073,11 @@
     "source": "Ask Vault — EMERAULD Vault Briefing Skill",
     "target": "Trismégiste — Personal AI Assistant",
     "count": 2
+  },
+  {
+    "source": "Ask Vault — EMERAULD Vault Briefing Skill",
+    "target": "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/SKILL",
+    "count": 1
   },
   {
     "source": "AurorA — COMPASSai Input Module",
@@ -4155,6 +4365,21 @@
     "count": 1
   },
   {
+    "source": "CLI-Anything — Agent Harness for Tool Integration",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
+    "source": "CLI-Anything — Agent Harness for Tool Integration",
+    "target": "projects/patent-workbench/node_modules/@alloc/quick-lru/readme",
+    "count": 1
+  },
+  {
+    "source": "CLI-Anything — Agent Harness for Tool Integration",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
+    "count": 1
+  },
+  {
     "source": "CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
     "target": "Codex Handoff — PHAROS AI Design Review (2026-05-01)",
     "count": 1
@@ -5040,6 +5265,16 @@
     "count": 1
   },
   {
+    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
+    "source": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "target": "projects/patent-workbench/node_modules/resolve/.github/THREAT_MODEL",
+    "count": 1
+  },
+  {
     "source": "Chrome Extension Monetization - Policy and Product Options",
     "target": "Obsidian Second Brain Product",
     "count": 2
@@ -5145,6 +5380,11 @@
     "count": 1
   },
   {
+    "source": "Claude Code Skill Corpus",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
     "source": "Client Logo Strategy — Monogram Pivot and SMB Branding Lessons",
     "target": "Awesome Design Resources — Curated UI-UX Reference List",
     "count": 1
@@ -5173,6 +5413,11 @@
     "source": "Cloudflare Pages-to-Worker Migration — Build and Asset Behavior",
     "target": "PHAROS-AI Webservice — pharos-ai.ca",
     "count": 3
+  },
+  {
+    "source": "Cloudflare Pages-to-Worker Migration — Build and Asset Behavior",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
   },
   {
     "source": "Codex Handoff — PHAROS AI Design Review (2026-05-01)",
@@ -5268,6 +5513,11 @@
     "source": "Codex Skill Corpus Sync — 2026-04-20",
     "target": "claude-peers-mcp — Claude Peer Network",
     "count": 5
+  },
+  {
+    "source": "Codex Skill Corpus Sync — 2026-04-20",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
+    "count": 1
   },
   {
     "source": "Codex Skills Inventory — Complete Registry (241 Skills)",
@@ -5785,6 +6035,31 @@
     "count": 1
   },
   {
+    "source": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "target": "CLIENT ACCOUNTS",
+    "count": 2
+  },
+  {
+    "source": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "target": "LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "count": 3
+  },
+  {
+    "source": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "target": "Master Project Tracker — 2026",
+    "count": 2
+  },
+  {
+    "source": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "target": "Personal and Projects MOC",
+    "count": 2
+  },
+  {
+    "source": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "target": "Quiet Compliance Workbench — Standing Tone Rule",
+    "count": 1
+  },
+  {
     "source": "Control Protocols MOC",
     "target": "Argus",
     "count": 1
@@ -5952,6 +6227,11 @@
   {
     "source": "Control Protocols MOC",
     "target": "memory",
+    "count": 1
+  },
+  {
+    "source": "Control Protocols MOC",
+    "target": "projects/genealogie-lepage-deschenes/README",
     "count": 1
   },
   {
@@ -6657,6 +6937,11 @@
   {
     "source": "Diamond-Eyes — Aesthetic Refinement Skill",
     "target": "Skill Ecosystem — Professional Capability Registry",
+    "count": 1
+  },
+  {
+    "source": "Diamond-Eyes — Aesthetic Refinement Skill",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
     "count": 1
   },
   {
@@ -7641,6 +7926,11 @@
   },
   {
     "source": "EMERAULD",
+    "target": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD",
     "target": "Home",
     "count": 1
   },
@@ -7662,6 +7952,21 @@
   {
     "source": "EMERAULD",
     "target": "PHAROS AI Lineage — Source of Truth",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD",
+    "target": "Vault Health — 2026-06-28",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD",
+    "target": "Vault Health — 2026-07-05",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD",
+    "target": "WIKI-ROUTING-REPORT",
     "count": 1
   },
   {
@@ -8076,6 +8381,11 @@
   },
   {
     "source": "EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard",
+    "target": "projects/patent-workbench/node_modules/recharts/AGENTS",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard",
     "target": "session-state",
     "count": 1
   },
@@ -8097,6 +8407,11 @@
   {
     "source": "EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)",
     "target": "Governance Stress-Test Protocols — Index",
+    "count": 1
+  },
+  {
+    "source": "EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)",
+    "target": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
     "count": 1
   },
   {
@@ -8222,6 +8537,11 @@
   {
     "source": "Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)",
     "target": "Trismégiste — Personal AI Assistant",
+    "count": 1
+  },
+  {
+    "source": "Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)",
+    "target": "projects/genealogie-lepage-deschenes/README",
     "count": 1
   },
   {
@@ -8392,6 +8712,31 @@
   {
     "source": "Emotional Alliance vs. Evidentiary Discipline in AI",
     "target": "The Lost-Loop Pattern — Avoidance Through System-Building",
+    "count": 1
+  },
+  {
+    "source": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
+    "target": "90-Day $1M Challenge — Status Report",
+    "count": 2
+  },
+  {
+    "source": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
+    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "count": 2
+  },
+  {
+    "source": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
+    "target": "PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)",
+    "count": 2
+  },
+  {
+    "source": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
+    "target": "PHAROS Commercial Strategy",
+    "count": 2
+  },
+  {
+    "source": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
+    "target": "Service Offer Prompts — GPT-Assisted Revenue Design Templates",
     "count": 1
   },
   {
@@ -10385,6 +10730,11 @@
     "count": 1
   },
   {
+    "source": "GSD — Get Shit Done Context Engineering System",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
     "source": "GSD — Get-Shit-Done Claude Code System",
     "target": "InfraFabric Architecture",
     "count": 1
@@ -10810,6 +11160,11 @@
     "count": 1
   },
   {
+    "source": "Governance Controls and Mechanisms",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
     "source": "Governance Controls — Baseline Assessment (2026-04-26)",
     "target": "CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)",
     "count": 1
@@ -11016,6 +11371,16 @@
   },
   {
     "source": "Governance Stress-Test Protocols — Index",
+    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "count": 1
+  },
+  {
+    "source": "Governance Stress-Test Protocols — Index",
+    "target": "Argus",
+    "count": 1
+  },
+  {
+    "source": "Governance Stress-Test Protocols — Index",
     "target": "Codex RIA Run — The Web as X (First Operationalization 2026-04-25)",
     "count": 1
   },
@@ -11066,6 +11431,11 @@
   },
   {
     "source": "Governance Stress-Test Protocols — Index",
+    "target": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "count": 1
+  },
+  {
+    "source": "Governance Stress-Test Protocols — Index",
     "target": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
     "count": 1
   },
@@ -11092,6 +11462,11 @@
   {
     "source": "Governance Stress-Test Protocols — Index",
     "target": "PROTOCOLS — Debate and Red-Team Runbook",
+    "count": 1
+  },
+  {
+    "source": "Governance Stress-Test Protocols — Index",
+    "target": "RIA-CODEX — System Audit Protocol",
     "count": 1
   },
   {
@@ -12281,6 +12656,11 @@
   },
   {
     "source": "Governance and PHAROS MOC",
+    "target": "Stacklight-owner-explainer",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
     "target": "Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)",
     "count": 1
   },
@@ -12426,6 +12806,41 @@
   },
   {
     "source": "Governance and PHAROS MOC",
+    "target": "multi-agent-orchestration Skill — Governance Case File",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
+    "target": "projects/patent-workbench/node_modules/@babel/parser/CHANGELOG",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
+    "target": "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/SKILL",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
+    "target": "projects/patent-workbench/node_modules/recharts/AGENTS",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
+    "target": "projects/patent-workbench/node_modules/resolve/.github/THREAT_MODEL",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
     "target": "skills/gadget",
     "count": 1
   },
@@ -12517,6 +12932,11 @@
   {
     "source": "Governance by Denial",
     "target": "Responsible AI Evaluation — Patient Readmission Model",
+    "count": 1
+  },
+  {
+    "source": "Governance by Denial",
+    "target": "Triangulation Exercise — Hidden Invariant Behind Institutional Procedure",
     "count": 1
   },
   {
@@ -12766,6 +13186,11 @@
   },
   {
     "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "target": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "count": 1
+  },
+  {
+    "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
     "target": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
     "count": 1
   },
@@ -12857,6 +13282,71 @@
   {
     "source": "HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build",
     "target": "HELIX — Value Proposition and Buyer Profile",
+    "count": 2
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "count": 3
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)",
+    "count": 2
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "Governance Stress-Test Protocols — Index",
+    "count": 2
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)",
+    "count": 1
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 2
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
+    "count": 2
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "RECURSO — Recursive Governance Test Archive",
+    "count": 1
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "RIA-CODEX — System Audit Protocol",
+    "count": 1
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "count": 2
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "Reflexive Inhabitation Audit — Prompt",
+    "count": 2
+  },
+  {
+    "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "target": "archive/CO-EQUAL-AUTHORITY-DECISION",
     "count": 2
   },
   {
@@ -13035,6 +13525,11 @@
     "count": 2
   },
   {
+    "source": "HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
     "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
     "target": "CLIENT ACCOUNTS",
     "count": 2
@@ -13112,6 +13607,11 @@
   {
     "source": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
     "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
+    "target": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
     "count": 1
   },
   {
@@ -14287,6 +14787,16 @@
   {
     "source": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "target": "Why Be King Im Already a Queen — Book Project",
+    "count": 1
+  },
+  {
+    "source": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
+    "count": 1
+  },
+  {
+    "source": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "target": "projects/patent-workbench/node_modules/thenify/History",
     "count": 1
   },
   {
@@ -15791,6 +16301,11 @@
   },
   {
     "source": "InfraFabric MCP Stack — Remote Bundles",
+    "target": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
+    "count": 3
+  },
+  {
+    "source": "InfraFabric MCP Stack — Remote Bundles",
     "target": "MCP and Runtime Integration MOC",
     "count": 2
   },
@@ -15806,6 +16321,11 @@
   },
   {
     "source": "InfraFabric MCP Stack — Remote Bundles",
+    "target": "Stacklight-owner-explainer",
+    "count": 2
+  },
+  {
+    "source": "InfraFabric MCP Stack — Remote Bundles",
     "target": "claude-peers-mcp — Claude Peer Network",
     "count": 2
   },
@@ -15813,6 +16333,36 @@
     "source": "InfraFabric MCP Stack — Remote Bundles",
     "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "count": 1
+  },
+  {
+    "source": "InfraFabric MCP Stack — Remote Bundles",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
+    "count": 1
+  },
+  {
+    "source": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
+    "target": "AI Infrastructure Stack",
+    "count": 2
+  },
+  {
+    "source": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
+    "target": "InfraFabric Architecture",
+    "count": 1
+  },
+  {
+    "source": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
+    "target": "InfraFabric MCP Stack — Remote Bundles",
+    "count": 3
+  },
+  {
+    "source": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
+    "target": "Stacklight-owner-explainer",
+    "count": 2
+  },
+  {
+    "source": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
+    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 4
   },
   {
     "source": "Inner Goddess Wicca Gender — Version Genealogy",
@@ -16720,6 +17270,21 @@
     "count": 2
   },
   {
+    "source": "LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "target": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "count": 3
+  },
+  {
+    "source": "LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "target": "Master Project Tracker — 2026",
+    "count": 1
+  },
+  {
+    "source": "LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "target": "Quiet Compliance Workbench — Standing Tone Rule",
+    "count": 1
+  },
+  {
     "source": "Legitimacy Machines Altars of Control — Full Book Architecture",
     "target": "Authority Without Power-Over",
     "count": 1
@@ -17365,6 +17930,11 @@
     "count": 1
   },
   {
+    "source": "LightRAG — Graph-Based RAG System",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
     "source": "Lily-of-the-Valley and EML — Reconstruction from Minimal Elements",
     "target": "AI Identity and Phenomenology",
     "count": 1
@@ -17981,6 +18551,11 @@
   },
   {
     "source": "MCP and Runtime Integration MOC",
+    "target": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
+    "count": 1
+  },
+  {
+    "source": "MCP and Runtime Integration MOC",
     "target": "Legitimacy Machines MOC",
     "count": 1
   },
@@ -18407,6 +18982,11 @@
   {
     "source": "Manuscript Pipeline MOC",
     "target": "projects/Papers — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "Manuscript Pipeline MOC",
+    "target": "projects/genealogie-lepage-deschenes/README",
     "count": 1
   },
   {
@@ -19305,6 +19885,11 @@
     "count": 2
   },
   {
+    "source": "Martin Lepage — Professional Profile",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
+    "count": 1
+  },
+  {
     "source": "Martin Lepage — Skills by Life Domain",
     "target": "Ask Vault — EMERAULD Vault Briefing Skill",
     "count": 1
@@ -19796,6 +20381,11 @@
   },
   {
     "source": "Master Project Tracker — 2026",
+    "target": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "count": 1
+  },
+  {
+    "source": "Master Project Tracker — 2026",
     "target": "Crossing Under Watch — Troll's Toll and Digital Ritual Passage",
     "count": 2
   },
@@ -19836,6 +20426,11 @@
   },
   {
     "source": "Master Project Tracker — 2026",
+    "target": "LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "count": 1
+  },
+  {
+    "source": "Master Project Tracker — 2026",
     "target": "Legitimacy Machines — Book Skeleton and Architecture",
     "count": 2
   },
@@ -19843,6 +20438,11 @@
     "source": "Master Project Tracker — 2026",
     "target": "Loop Hinge Candidate — This Paper May Not Exist",
     "count": 1
+  },
+  {
+    "source": "Master Project Tracker — 2026",
+    "target": "Martin Lepage — Authored Skills",
+    "count": 3
   },
   {
     "source": "Master Project Tracker — 2026",
@@ -20780,6 +21380,11 @@
     "count": 1
   },
   {
+    "source": "Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "target": "projects/patent-workbench/node_modules/commander/Readme",
+    "count": 1
+  },
+  {
     "source": "Möbius Protocol — AI Self-Polygraph Template",
     "target": "Agent Session Phenomenology",
     "count": 1
@@ -21640,6 +22245,11 @@
     "count": 2
   },
   {
+    "source": "Obsidian Agent Vault Launch — Commercial Skill",
+    "target": "projects/patent-workbench/node_modules/@babel/parser/CHANGELOG",
+    "count": 1
+  },
+  {
     "source": "Obsidian Agent Vault — Asset Canon",
     "target": "Governed Self-Improvement — Method Slide Asset",
     "count": 2
@@ -21667,6 +22277,11 @@
   {
     "source": "Obsidian Agent Vault — Asset Canon",
     "target": "Personal and Projects MOC",
+    "count": 1
+  },
+  {
+    "source": "Obsidian Agent Vault — Launch Kit",
+    "target": "2026-06-29 - idea-discovery",
     "count": 1
   },
   {
@@ -21722,6 +22337,11 @@
   {
     "source": "Obsidian Agent Vault — Launch Kit",
     "target": "Trust Advantage Analysis — Sales and AI Governance",
+    "count": 1
+  },
+  {
+    "source": "Obsidian Agent Vault — Launch Kit",
+    "target": "projects/genealogie-lepage-deschenes/README",
     "count": 1
   },
   {
@@ -22062,6 +22682,11 @@
   {
     "source": "Operator-Check Skill — Burnout Cascade Interrupt",
     "target": "The Lost-Loop Pattern — Avoidance Through System-Building",
+    "count": 1
+  },
+  {
+    "source": "Operator-Check Skill — Burnout Cascade Interrupt",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
     "count": 1
   },
   {
@@ -22766,6 +23391,11 @@
   },
   {
     "source": "PHAROS Commercial Strategy",
+    "target": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Commercial Strategy",
     "target": "Fluency and Interruption Theory",
     "count": 1
   },
@@ -23148,6 +23778,16 @@
     "source": "PHAROS Final Voice Operator — GPT Creator",
     "target": "PHAROS Cross-AI Strategy Matrix",
     "count": 2
+  },
+  {
+    "source": "PHAROS Final Voice Operator — GPT Creator",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Final Voice Operator — GPT Creator",
+    "target": "projects/patent-workbench/node_modules/@alloc/quick-lru/readme",
+    "count": 1
   },
   {
     "source": "PHAROS Invention Disclosure",
@@ -23830,6 +24470,21 @@
     "count": 2
   },
   {
+    "source": "PHAROS Runbook SOP",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Runbook SOP",
+    "target": "projects/patent-workbench/node_modules/@babel/parser/CHANGELOG",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Runbook SOP",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
+    "count": 1
+  },
+  {
     "source": "PHAROS SURFACE",
     "target": "Codex Handoff — PHAROS AI Design Review (2026-05-01)",
     "count": 1
@@ -24413,6 +25068,11 @@
     "source": "PHAROS Workspace Inventory 2026-04-18",
     "target": "Rest and Consolidation Guide — Martin",
     "count": 2
+  },
+  {
+    "source": "PHAROS Workspace Inventory 2026-04-18",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
   },
   {
     "source": "PHAROS — Origin and Doctrine",
@@ -25050,6 +25710,11 @@
     "count": 1
   },
   {
+    "source": "Pagan and Queer Ritual Studies MOC",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
+    "count": 1
+  },
+  {
     "source": "Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
     "target": "Martin Lepage Professional Identity",
     "count": 1
@@ -25566,6 +26231,11 @@
   },
   {
     "source": "Personal and Projects MOC",
+    "target": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "count": 1
+  },
+  {
+    "source": "Personal and Projects MOC",
     "target": "D Drive Scan — 2026-05-12",
     "count": 1
   },
@@ -25737,6 +26407,11 @@
   {
     "source": "Personal and Projects MOC",
     "target": "Legal and Institutional Cases",
+    "count": 1
+  },
+  {
+    "source": "Personal and Projects MOC",
+    "target": "LegiPro Canada-QC — Compliance Evidence Service Plan",
     "count": 1
   },
   {
@@ -25937,6 +26612,11 @@
   {
     "source": "Personal and Projects MOC",
     "target": "Projects Hub",
+    "count": 1
+  },
+  {
+    "source": "Personal and Projects MOC",
+    "target": "Quiet Compliance Workbench — Standing Tone Rule",
     "count": 1
   },
   {
@@ -28160,6 +28840,16 @@
     "count": 1
   },
   {
+    "source": "Quiet Compliance Workbench — Standing Tone Rule",
+    "target": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "count": 3
+  },
+  {
+    "source": "Quiet Compliance Workbench — Standing Tone Rule",
+    "target": "LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "count": 3
+  },
+  {
     "source": "RAG-Anything — Multimodal RAG Framework",
     "target": "EMERAULD",
     "count": 2
@@ -28411,6 +29101,11 @@
   },
   {
     "source": "RIA-CODEX — System Audit Protocol",
+    "target": "Governance Stress-Test Protocols — Index",
+    "count": 1
+  },
+  {
+    "source": "RIA-CODEX — System Audit Protocol",
     "target": "Governance and PHAROS MOC",
     "count": 2
   },
@@ -28427,6 +29122,11 @@
   {
     "source": "RIA-CODEX — System Audit Protocol",
     "target": "Recursive Governance Theory",
+    "count": 1
+  },
+  {
+    "source": "RIA-CODEX — System Audit Protocol",
+    "target": "Reflexive Inhabitation Audit — Prompt",
     "count": 1
   },
   {
@@ -28817,7 +29517,7 @@
   {
     "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
     "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 1
+    "count": 2
   },
   {
     "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
@@ -28827,6 +29527,16 @@
   {
     "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
     "target": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "target": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "count": 1
+  },
+  {
+    "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "target": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
     "count": 1
   },
   {
@@ -29200,6 +29910,26 @@
     "count": 2
   },
   {
+    "source": "Reddit Data API — Access Terms and Rate Limits",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
+    "source": "Reddit Data API — Access Terms and Rate Limits",
+    "target": "projects/patent-workbench/node_modules/@alloc/quick-lru/readme",
+    "count": 1
+  },
+  {
+    "source": "Reddit Data API — Access Terms and Rate Limits",
+    "target": "projects/patent-workbench/node_modules/@babel/parser/CHANGELOG",
+    "count": 1
+  },
+  {
+    "source": "Reddit Data API — Access Terms and Rate Limits",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
+    "count": 1
+  },
+  {
     "source": "Reflexive Inhabitation Audit — Prompt",
     "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
@@ -29221,12 +29951,27 @@
   },
   {
     "source": "Reflexive Inhabitation Audit — Prompt",
+    "target": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "count": 1
+  },
+  {
+    "source": "Reflexive Inhabitation Audit — Prompt",
+    "target": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
+    "count": 1
+  },
+  {
+    "source": "Reflexive Inhabitation Audit — Prompt",
     "target": "Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
     "count": 1
   },
   {
     "source": "Reflexive Inhabitation Audit — Prompt",
     "target": "Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 1
+  },
+  {
+    "source": "Reflexive Inhabitation Audit — Prompt",
+    "target": "RIA-CODEX — System Audit Protocol",
     "count": 1
   },
   {
@@ -30650,6 +31395,61 @@
     "count": 1
   },
   {
+    "source": "Research and Papers MOC",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "projects/patent-workbench/node_modules/@alloc/quick-lru/readme",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "projects/patent-workbench/node_modules/@babel/parser/CHANGELOG",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "projects/patent-workbench/node_modules/@blinkdotnew/ui/node_modules/tailwind-merge/LICENSE",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/SKILL",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "projects/patent-workbench/node_modules/commander/Readme",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "projects/patent-workbench/node_modules/date-fns/SECURITY",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "projects/patent-workbench/node_modules/ms/license",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "projects/patent-workbench/node_modules/recharts/AGENTS",
+    "count": 2
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "projects/patent-workbench/node_modules/thenify/History",
+    "count": 1
+  },
+  {
     "source": "Responsible AI Evaluation — Patient Readmission Model",
     "target": "CDPDJ Complaint — Lepage v Calian and Novartis",
     "count": 1
@@ -31615,6 +32415,16 @@
     "count": 1
   },
   {
+    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "projects/patent-workbench/node_modules/@blinkdotnew/ui/node_modules/tailwind-merge/LICENSE",
+    "count": 1
+  },
+  {
+    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "projects/patent-workbench/node_modules/ms/license",
+    "count": 1
+  },
+  {
     "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "target": "AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 2
@@ -31707,6 +32517,16 @@
   {
     "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "target": "memory",
+    "count": 1
+  },
+  {
+    "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
+    "target": "projects/patent-workbench/node_modules/@blinkdotnew/ui/node_modules/tailwind-merge/LICENSE",
+    "count": 1
+  },
+  {
+    "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
+    "target": "projects/patent-workbench/node_modules/ms/license",
     "count": 1
   },
   {
@@ -32162,6 +32982,11 @@
   {
     "source": "Skill Corpus — Complete Live Index (260 Active Skills)",
     "target": "Skill Map — Canonical Routed Skills (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "Skill Corpus — Complete Live Index (260 Active Skills)",
+    "target": "projects/genealogie-lepage-deschenes/README",
     "count": 1
   },
   {
@@ -35515,6 +36340,11 @@
     "count": 1
   },
   {
+    "source": "Smallest Building Block — Relation as Rule",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
     "source": "Social Compass Paper — Ritual Authority and Régime de Preuve",
     "target": "Emotional Alliance vs. Evidentiary Discipline in AI",
     "count": 3
@@ -35542,6 +36372,11 @@
   {
     "source": "Social Compass Paper — Ritual Authority and Régime de Preuve",
     "target": "bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve",
+    "count": 1
+  },
+  {
+    "source": "Social Compass Paper — Ritual Authority and Régime de Preuve",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
     "count": 1
   },
   {
@@ -36210,6 +37045,41 @@
     "count": 1
   },
   {
+    "source": "Stacklight-owner-explainer",
+    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "count": 1
+  },
+  {
+    "source": "Stacklight-owner-explainer",
+    "target": "AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)",
+    "count": 1
+  },
+  {
+    "source": "Stacklight-owner-explainer",
+    "target": "AI Infrastructure Stack",
+    "count": 1
+  },
+  {
+    "source": "Stacklight-owner-explainer",
+    "target": "EMERAULD",
+    "count": 1
+  },
+  {
+    "source": "Stacklight-owner-explainer",
+    "target": "InfraFabric Architecture",
+    "count": 1
+  },
+  {
+    "source": "Stacklight-owner-explainer",
+    "target": "InfraFabric MCP Stack — Remote Bundles",
+    "count": 1
+  },
+  {
+    "source": "Stacklight-owner-explainer",
+    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 1
+  },
+  {
     "source": "Still Running — Willow, Anya, and Queer Ritual Infrastructure",
     "target": "Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
     "count": 1
@@ -36653,6 +37523,11 @@
     "source": "The Blind Leading the Automated — AI Governance Failure Case Study",
     "target": "PHAROS Cross-AI Strategy Matrix",
     "count": 2
+  },
+  {
+    "source": "The Blind Leading the Automated — AI Governance Failure Case Study",
+    "target": "projects/patent-workbench/node_modules/thenify/History",
+    "count": 1
   },
   {
     "source": "The Broken Frequency of the Word — Novel",
@@ -37772,6 +38647,41 @@
   {
     "source": "Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)",
     "target": "The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017",
+    "count": 1
+  },
+  {
+    "source": "Triangulation Exercise — Hidden Invariant Behind Institutional Procedure",
+    "target": "Anti-Charm",
+    "count": 1
+  },
+  {
+    "source": "Triangulation Exercise — Hidden Invariant Behind Institutional Procedure",
+    "target": "Authority Without Power-Over",
+    "count": 1
+  },
+  {
+    "source": "Triangulation Exercise — Hidden Invariant Behind Institutional Procedure",
+    "target": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
+    "count": 1
+  },
+  {
+    "source": "Triangulation Exercise — Hidden Invariant Behind Institutional Procedure",
+    "target": "Epistemic Operator — Operational Specification",
+    "count": 1
+  },
+  {
+    "source": "Triangulation Exercise — Hidden Invariant Behind Institutional Procedure",
+    "target": "Evidence Discipline and Epistemics",
+    "count": 1
+  },
+  {
+    "source": "Triangulation Exercise — Hidden Invariant Behind Institutional Procedure",
+    "target": "Governance by Denial",
+    "count": 1
+  },
+  {
+    "source": "Triangulation Exercise — Hidden Invariant Behind Institutional Procedure",
+    "target": "Trust Advantage Analysis — Sales and AI Governance",
     "count": 1
   },
   {
@@ -38938,6 +39848,41 @@
     "source": "Vault Graph Hygiene — Content Title Normalization Skill",
     "target": "VAULT ADDITIONS TRACKER",
     "count": 1
+  },
+  {
+    "source": "Vault Health — 2026-06-28",
+    "target": "EMERAULD",
+    "count": 2
+  },
+  {
+    "source": "Vault Health — 2026-06-28",
+    "target": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
+    "count": 1
+  },
+  {
+    "source": "Vault Health — 2026-06-28",
+    "target": "MCP and Runtime Integration MOC",
+    "count": 2
+  },
+  {
+    "source": "Vault Health — 2026-06-28",
+    "target": "Vault Health — 2026-07-05",
+    "count": 1
+  },
+  {
+    "source": "Vault Health — 2026-07-05",
+    "target": "Control Protocols MOC",
+    "count": 2
+  },
+  {
+    "source": "Vault Health — 2026-07-05",
+    "target": "EMERAULD",
+    "count": 2
+  },
+  {
+    "source": "Vault Health — 2026-07-05",
+    "target": "MCP and Runtime Integration MOC",
+    "count": 2
   },
   {
     "source": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
@@ -40155,6 +41100,36 @@
     "count": 1
   },
   {
+    "source": "Wiki MOC",
+    "target": "2026 - Mauss - The Gift",
+    "count": 1
+  },
+  {
+    "source": "Wiki MOC",
+    "target": "CSV_DIAGNOSTIC_REPORT",
+    "count": 1
+  },
+  {
+    "source": "Wiki MOC",
+    "target": "Home",
+    "count": 1
+  },
+  {
+    "source": "Wiki MOC",
+    "target": "VAULT ADDITIONS TRACKER",
+    "count": 1
+  },
+  {
+    "source": "Wiki MOC",
+    "target": "memory",
+    "count": 1
+  },
+  {
+    "source": "Wiki MOC",
+    "target": "session-state",
+    "count": 1
+  },
+  {
     "source": "Workflows Hub",
     "target": "Master Project Tracker — 2026",
     "count": 1
@@ -40172,6 +41147,11 @@
   {
     "source": "Workflows Hub",
     "target": "session-state",
+    "count": 1
+  },
+  {
+    "source": "Workspace Cleanup Ledger — 2026-05-31",
+    "target": "projects/patent-workbench/node_modules/recharts/AGENTS",
     "count": 1
   },
   {
@@ -40680,6 +41660,41 @@
     "count": 1
   },
   {
+    "source": "Writing and Novels MOC",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
+    "source": "Writing and Novels MOC",
+    "target": "projects/patent-workbench/node_modules/@alloc/quick-lru/readme",
+    "count": 1
+  },
+  {
+    "source": "Writing and Novels MOC",
+    "target": "projects/patent-workbench/node_modules/@babel/parser/CHANGELOG",
+    "count": 1
+  },
+  {
+    "source": "Writing and Novels MOC",
+    "target": "projects/patent-workbench/node_modules/commander/Readme",
+    "count": 1
+  },
+  {
+    "source": "Writing and Novels MOC",
+    "target": "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
+    "count": 1
+  },
+  {
+    "source": "adr/0001-skill-acquisition-strategy",
+    "target": "argus-drift-audit-scope-multi-agent-orchestration",
+    "count": 1
+  },
+  {
+    "source": "adr/0001-skill-acquisition-strategy",
+    "target": "hephaistos-scope-security-audit-phases-2-6",
+    "count": 1
+  },
+  {
     "source": "archive/CO-EQUAL-AUTHORITY-DECISION",
     "target": "Governance and PHAROS MOC",
     "count": 1
@@ -40732,6 +41747,11 @@
   {
     "source": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
     "target": "genealogy/Martin Voice Spec — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
+    "target": "projects/patent-workbench/node_modules/recharts/AGENTS",
     "count": 1
   },
   {
@@ -40937,6 +41957,26 @@
   {
     "source": "archive/web-scraping",
     "target": "Skill Map — Canonical Routed Skills (2026-05-06)",
+    "count": 1
+  },
+  {
+    "source": "argus-drift-audit-scope-multi-agent-orchestration",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "argus-drift-audit-scope-multi-agent-orchestration",
+    "target": "adr/0001-skill-acquisition-strategy",
+    "count": 2
+  },
+  {
+    "source": "argus-drift-audit-scope-multi-agent-orchestration",
+    "target": "hephaistos-scope-security-audit-phases-2-6",
+    "count": 1
+  },
+  {
+    "source": "argus-drift-audit-scope-multi-agent-orchestration",
+    "target": "security-audit-plan",
     "count": 1
   },
   {
@@ -41185,6 +42225,11 @@
     "count": 2
   },
   {
+    "source": "claude-mem — Persistent Memory Compression for Claude Code",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
+  },
+  {
     "source": "claude-peers-mcp — Claude Peer Network",
     "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 2
@@ -41203,6 +42248,11 @@
     "source": "claude-peers-mcp — Claude Peer Network",
     "target": "ROOK — Session Boundary Model",
     "count": 2
+  },
+  {
+    "source": "claude-peers-mcp — Claude Peer Network",
+    "target": "projects/genealogie-lepage-deschenes/README",
+    "count": 1
   },
   {
     "source": "genealogy/Martin Voice Spec — Stage Map",
@@ -41260,6 +42310,36 @@
     "count": 1
   },
   {
+    "source": "hephaistos-scope-security-audit-phases-2-6",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "hephaistos-scope-security-audit-phases-2-6",
+    "target": "VAULT ADDITIONS TRACKER",
+    "count": 1
+  },
+  {
+    "source": "hephaistos-scope-security-audit-phases-2-6",
+    "target": "adr/0001-skill-acquisition-strategy",
+    "count": 1
+  },
+  {
+    "source": "hephaistos-scope-security-audit-phases-2-6",
+    "target": "argus-drift-audit-scope-multi-agent-orchestration",
+    "count": 1
+  },
+  {
+    "source": "hephaistos-scope-security-audit-phases-2-6",
+    "target": "multi-agent-orchestration Skill — Governance Case File",
+    "count": 1
+  },
+  {
+    "source": "hephaistos-scope-security-audit-phases-2-6",
+    "target": "security-audit-plan",
+    "count": 2
+  },
+  {
     "source": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "target": "InfraFabric Architecture",
     "count": 3
@@ -41268,6 +42348,66 @@
     "source": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "target": "InfraFabric MCP Stack — Remote Bundles",
     "count": 3
+  },
+  {
+    "source": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "target": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
+    "count": 2
+  },
+  {
+    "source": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "target": "Stacklight-owner-explainer",
+    "count": 2
+  },
+  {
+    "source": "if.switchboard — InfraFabric Product Center",
+    "target": "AI Infrastructure Stack",
+    "count": 2
+  },
+  {
+    "source": "if.switchboard — InfraFabric Product Center",
+    "target": "InfraFabric Architecture",
+    "count": 3
+  },
+  {
+    "source": "if.switchboard — InfraFabric Product Center",
+    "target": "InfraFabric MCP Stack — Remote Bundles",
+    "count": 1
+  },
+  {
+    "source": "if.switchboard — InfraFabric Product Center",
+    "target": "ROOK — Session Boundary Model",
+    "count": 1
+  },
+  {
+    "source": "if.switchboard — InfraFabric Product Center",
+    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 3
+  },
+  {
+    "source": "lightrag_config — EMERAULD Shared Config Module",
+    "target": "Architecture - EMERAULD Scripts - Intake Pipeline",
+    "count": 1
+  },
+  {
+    "source": "lightrag_config — EMERAULD Shared Config Module",
+    "target": "Architecture - EMERAULD Scripts - Key Decisions",
+    "count": 2
+  },
+  {
+    "source": "lightrag_config — EMERAULD Shared Config Module",
+    "target": "Architecture - EMERAULD Scripts - Knowledge Layers",
+    "count": 1
+  },
+  {
+    "source": "lightrag_config — EMERAULD Shared Config Module",
+    "target": "Architecture - EMERAULD Scripts - Overview",
+    "count": 2
+  },
+  {
+    "source": "lightrag_config — EMERAULD Shared Config Module",
+    "target": "EMERAULD",
+    "count": 1
   },
   {
     "source": "maps/Novel Corpus Map",
@@ -41858,6 +42998,46 @@
     "source": "memory",
     "target": "Trismégiste — Personal AI Assistant",
     "count": 1
+  },
+  {
+    "source": "multi-agent-orchestration Skill — Governance Case File",
+    "target": "Argus",
+    "count": 3
+  },
+  {
+    "source": "multi-agent-orchestration Skill — Governance Case File",
+    "target": "Governance and PHAROS MOC",
+    "count": 2
+  },
+  {
+    "source": "multi-agent-orchestration Skill — Governance Case File",
+    "target": "HEPHAISTOS Agent Architecture",
+    "count": 2
+  },
+  {
+    "source": "multi-agent-orchestration Skill — Governance Case File",
+    "target": "Master Project Tracker — 2026",
+    "count": 2
+  },
+  {
+    "source": "multi-agent-orchestration Skill — Governance Case File",
+    "target": "adr/0001-skill-acquisition-strategy",
+    "count": 3
+  },
+  {
+    "source": "multi-agent-orchestration Skill — Governance Case File",
+    "target": "argus-drift-audit-scope-multi-agent-orchestration",
+    "count": 2
+  },
+  {
+    "source": "multi-agent-orchestration Skill — Governance Case File",
+    "target": "hephaistos-scope-security-audit-phases-2-6",
+    "count": 2
+  },
+  {
+    "source": "multi-agent-orchestration Skill — Governance Case File",
+    "target": "security-audit-plan",
+    "count": 2
   },
   {
     "source": "projects/AurorA — Fisher King Project State",
@@ -42585,6 +43765,11 @@
     "count": 1
   },
   {
+    "source": "security-audit-plan",
+    "target": "hephaistos-scope-security-audit-phases-2-6",
+    "count": 1
+  },
+  {
     "source": "session-state",
     "target": "EMERAULD",
     "count": 1
@@ -43036,7 +44221,7 @@
   },
   {
     "source": "skills/database-schema-designer",
-    "target": "skills/architecture",
+    "target": "projects/security-audit-skill/martin-governance/run-1/architecture",
     "count": 1
   },
   {
@@ -44746,7 +45931,7 @@
   },
   {
     "source": "skills/research-engineer",
-    "target": "skills/architecture",
+    "target": "projects/security-audit-skill/martin-governance/run-1/architecture",
     "count": 1
   },
   {
