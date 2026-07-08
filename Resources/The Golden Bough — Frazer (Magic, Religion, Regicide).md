@@ -13,28 +13,31 @@ tags:
 - kingship
 - folklore
 - resources
-- the-golden-bough-frazer-magic-religion-regicide-md
 - bough
 - frazer
 - golden
-- color-violet
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/The Golden Bough — Frazer (Magic, Religion, Regicide).md
-backlink_count: 10
+backlink_count: 13
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
-- '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
+- '[[Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
+- '[[Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)]]'
 - '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # The Golden Bough — Frazer (Magic, Religion, Regicide)

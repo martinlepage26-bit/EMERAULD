@@ -3,7 +3,6 @@ type: governance-doc
 title: Co-Equal Authority Decision — Hephaistos / Queen Keyport
 aliases:
 - Co-Equal Authority Decision — Hephaistos / Queen Keyport
-- governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION
 tags:
 - governance
 - ai
@@ -14,17 +13,20 @@ tags:
 - directive
 - wave
 - scope
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance
 canonical_path: governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
+- '[[Areas/PHAROS/HELIX Full Protocol Session — Martin''s Governance Synthesis, Gemini Target (2026-07-03)]]'
 - '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
-- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
-  (2026-04-18)]]'
+- '[[archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[governance/governance-index]]'
 - '[[governance/hephaistos/CLAUDE]]'
 - '[[governance/hephaistos/COUNTER-AUDIT-IMPLEMENTATION]]'

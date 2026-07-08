@@ -16,32 +16,31 @@ tags:
 - constraints
 - doctrine
 - areas
-- delta-closure-frame-conditions-actors-constraints-md
 - delta
 - condition
 - movement
 - actors
 - labor
-- color-purple
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints.md
 backlink_count: 12
 backlinks:
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
-- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 ---
 
 # Delta Closure Frame — Conditions, Actors, Constraints

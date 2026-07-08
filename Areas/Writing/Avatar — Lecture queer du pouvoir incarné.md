@@ -1,38 +1,41 @@
 ---
 type: wiki
 title: Avatar — Lecture queer du pouvoir incarné
-aliases:
-- Avatar — Lecture queer du pouvoir incarné
 tags:
 - areas
 - queer
-- avatar-lecture-queer-du-pouvoir-incarn-md
 - tlok
 - avatar
 - korra
 - chapter
 - atla
-- color-red
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Avatar — Lecture queer du pouvoir incarné.md
-backlink_count: 14
+backlink_count: 18
 backlinks:
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
-- '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
+- '[[Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
 - '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
-- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Home]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-PRODUCTION-MANIFEST]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

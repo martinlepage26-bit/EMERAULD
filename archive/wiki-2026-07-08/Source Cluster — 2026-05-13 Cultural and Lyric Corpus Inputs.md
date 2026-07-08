@@ -1,8 +1,6 @@
 ---
 type: source-cluster
 title: Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs
-aliases:
-- Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs
 tags:
 - cluster
 - source-notes
@@ -11,13 +9,12 @@ tags:
 - trismegiste
 - source-cluster
 - archive
-- source-cluster-2026-05-13-cultural-and-lyric-corpus-inputs-md
 - lyrics
 - keep
 - gisease
 - inputs
 - sources
-- color-lime
+- wiki-2026-07-08
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
@@ -25,12 +22,12 @@ vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs.md
 backlink_count: 10
 backlinks:
+- '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
-- '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/The Ballad of the Witches'' Road — Source Note]]'

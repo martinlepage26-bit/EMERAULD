@@ -1,60 +1,63 @@
 ---
 type: wiki
 title: Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology
-aliases:
-- Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology
 tags:
 - areas
-- beyond-fluency-stuttering-autoethnography-and-unstable-epistemology-md
 - fluency
 - stuttering
 - vignette
 - compulsory
 - disability
-- color-teal
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology.md
-backlink_count: 39
+backlink_count: 43
 backlinks:
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Home]]'
-- '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
-- '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
-- '[[wiki/Legal and Institutional Cases]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
-- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
-- '[[wiki/Queer Theory Foundations]]'
-- '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
+- '[[Areas/PHAROS/Strategic Storytelling in the AI Economy]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
+- '[[Areas/Writing/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
+- '[[Areas/Writing/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
 - '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
-- '[[Areas/PHAROS/Strategic Storytelling in the AI Economy]]'
 - '[[Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 - '[[memory]]'
 - '[[projects/Stuttering Machines — Fisher King Project State]]'

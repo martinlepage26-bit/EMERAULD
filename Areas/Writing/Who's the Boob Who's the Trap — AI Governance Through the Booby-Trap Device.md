@@ -12,23 +12,27 @@ tags:
 - accountability
 - governance-mechanisms
 - areas
-- who-s-the-boob-who-s-the-trap-ai-governance-through-the-booby-trap-device-md
 - trap
 - booby
 - bureaucratic
 - civilizational
 - device
-- color-purple
+- wiki
+- writing
 status: in-progress
+domain: writing
 created: '2026-05-03'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device.md
-backlink_count: 9
+backlink_count: 12
 backlinks:
-- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
+- '[[Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
 - '[[memory/daily/2026-06-22]]'
 - '[[memory/daily/2026-06-23]]'
 - '[[memory/daily/2026-06-24]]'

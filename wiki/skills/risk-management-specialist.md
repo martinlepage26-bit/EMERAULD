@@ -1,9 +1,6 @@
 ---
 type: skill
 title: risk-management-specialist
-aliases:
-- skills/risk-management-specialist
-- wiki/skills/risk-management-specialist
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - management
 - risk
 - package
-- color-purple
 status: active
+domain: Governance and Authority
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: risk-management-specialist
-domain: Governance and Authority
 codex_path: /home/cerebrhoe/.codex/skills/risk-management-specialist/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

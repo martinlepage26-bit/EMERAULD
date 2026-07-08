@@ -1,9 +1,6 @@
 ---
 type: note
 title: Method
-aliases:
-- personal-assistant-agents/offer-pricing-architect/references/method
-- hephaistos/personal-assistant-agents/offer-pricing-architect/references/method
 tags:
 - note
 - agents
@@ -15,8 +12,8 @@ tags:
 - deliverables
 - pricing
 - contradiction
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

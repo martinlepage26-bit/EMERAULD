@@ -6,13 +6,12 @@ aliases:
 tags:
 - governance-procedures
 - archive
-- governance-controls-phase-1-completion-checklist-md
 - refresh
 - phase
 - calendar
 - registry
 - deprecation
-- color-purple
+- wiki-2026-07-08
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
@@ -22,8 +21,8 @@ backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 phase: Phase 1 Infrastructure
 completion-target: '2026-05-10'

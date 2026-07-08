@@ -11,55 +11,59 @@ tags:
 - hermes
 - operator-view
 - areas
-- hermes-dashboard-professional-governance-tool-md
 - dashboard
 - softinfo
 - activity
 - lanes
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Hermes Dashboard — Professional Governance Tool.md
-backlink_count: 37
+backlink_count: 41
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
-- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
-- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal]]'
-- '[[wiki/Research Hub]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Research Hub]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/elemental-agents/positioning-memo]]'
 - '[[memory]]'
 - '[[memory/agents/Events]]'
+- '[[memory/agents/Grok]]'
 - '[[memory/agents/Vibe]]'
 - '[[memory/clients/ExterminationDG]]'
 - '[[memory/clients/Lavoie Construct]]'
 - '[[memory/clients/Sante-France]]'
 - '[[memory/daily/2026-04-24]]'
 - '[[memory/daily/2026-04-28]]'
-- '[[raw/00_Inbox/Raw/2026-04-25 — Stop coding, clean, package, send]]'
-- '[[session-state]]'
 - '[[templates/Invoice Template Pharos-AI]]'
 ---
 

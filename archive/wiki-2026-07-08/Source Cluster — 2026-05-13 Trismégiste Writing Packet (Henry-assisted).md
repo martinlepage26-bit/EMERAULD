@@ -1,8 +1,6 @@
 ---
 type: writing-packet
 title: Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)
-aliases:
-- Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)
 tags:
 - writing
 - henry
@@ -11,13 +9,12 @@ tags:
 - '2026-05-13'
 - writing-packet
 - archive
-- source-cluster-2026-05-13-trism-giste-writing-packet-henry-assisted-md
 - cluster
 - cultural
 - lyric
 - memo
 - mixing
-- color-purple
+- wiki-2026-07-08
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
@@ -25,12 +22,12 @@ vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted).md
 backlink_count: 26
 backlinks:
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
-- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
 - '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note]]'

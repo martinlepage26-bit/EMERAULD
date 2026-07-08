@@ -13,26 +13,29 @@ tags:
 - policy
 - report
 - resources
-- learning-together-for-responsible-ai-ised-public-awareness-wg-2022-md
 - literacy
 - nist
 - competencies
 - public
-- color-red
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022.md
-backlink_count: 7
+backlink_count: 10
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Learning Together for Responsible AI — ISED Public Awareness WG 2022

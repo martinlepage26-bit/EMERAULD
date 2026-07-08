@@ -1,9 +1,6 @@
 ---
 type: bridge-note
 title: Bridge - 2009 - legalorcontract 2
-aliases:
-- Bridge - 2009 - legalorcontract 2
-- wiki/bridges/Bridge - 2009 - legalorcontract 2
 tags:
 - bridge
 - legal
@@ -14,15 +11,13 @@ tags:
 - papers
 - pharos
 - governance
-- color-teal
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/bridges/Bridge - 2009 - legalorcontract 2.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 ---

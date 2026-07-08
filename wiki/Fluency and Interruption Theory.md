@@ -3,7 +3,6 @@ type: map
 title: Fluency and Interruption Theory
 aliases:
 - TOPIC — Fluency and Interruption Theory
-- wiki/Fluency and Interruption Theory
 tags:
 - index
 - map
@@ -13,11 +12,9 @@ tags:
 - governance
 - theory
 - wiki
-- fluency-and-interruption-theory-md
 - fluent
 - authority
 - institutional
-- color-violet
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
@@ -26,41 +23,39 @@ canonical_path: wiki/Fluency and Interruption Theory.md
 backlink_count: 36
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
-- '[[Areas/Writing/Glitching the Sacred]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[wiki/LOTUS Model and Agency]]'
-- '[[Resources/Le Mythe de Sisyphe — Camus (Absurd as Starting Point)]]'
-- '[[wiki/Legal and Institutional Cases]]'
 - '[[Areas/PHAROS/Machine Limitation]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
-- '[[Areas/Writing/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
-  2024]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
-- '[[wiki/Queer Theory Foundations]]'
-- '[[Resources/Recursive Governance Theory]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
+- '[[Areas/Writing/Glitching the Sacred]]'
+- '[[Areas/Writing/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Le Mythe de Sisyphe — Camus (Absurd as Starting Point)]]'
+- '[[Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[memory/daily/2026-05-02]]'
 - '[[projects/Stuttering Machines — Fisher King Project State]]'
 ---

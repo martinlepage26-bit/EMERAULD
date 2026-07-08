@@ -1,34 +1,36 @@
 ---
 type: wiki
 title: SYSTEM CHECK
-aliases:
-- SYSTEM CHECK
 tags:
 - archive
-- system-check-md
 - linux
 - remote
 - governess
 - suite
 - location
-- color-orange
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/SYSTEM CHECK.md
-backlink_count: 11
+backlink_count: 15
 backlinks:
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
-- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
-- '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-04-28]]'
 ---
 

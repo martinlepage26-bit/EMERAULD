@@ -13,18 +13,19 @@ tags:
 - ai-governance
 - source-sweep
 - areas
-- helix-potential-clients-source-sweep-2026-05-06-md
 - humania
 - botpress
 - insurance
 - compliance
-- color-pink
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06.md
-backlink_count: 11
+backlink_count: 15
 backlinks:
 - '[[Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
@@ -32,6 +33,10 @@ backlinks:
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/helix-prospects-2026-q2]]'
 - '[[memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_humania-assurance-transforms-compliance-operations-with-koïo]]'
 - '[[memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_wisedocs-medical-record-reviews-summaries-insights-for-claim]]'

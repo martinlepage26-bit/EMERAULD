@@ -1,9 +1,6 @@
 ---
 type: bridge-note
 title: Bridge — Mandrake
-aliases:
-- Bridge — Mandrake
-- wiki/bridges/Bridge — Mandrake
 tags:
 - bridge
 - bridge-note
@@ -12,16 +9,13 @@ tags:
 - mandrake
 - machines
 - legitimacy
-- color-teal
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/bridges/Bridge — Mandrake.md
-backlink_count: 4
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
-- '[[.trash/Mandrake]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 ---

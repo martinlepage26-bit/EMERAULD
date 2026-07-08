@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: 'Enterprise AI: Private, Secure, Customizable | Cohere'
-aliases:
-- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_enterprise-ai-private-secure-customizable-cohere
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - learn
 - blog
 - north
-- color-green
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

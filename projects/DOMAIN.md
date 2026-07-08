@@ -1,20 +1,15 @@
 ---
 type: domain
 title: Domain — Projects
-aliases:
-- projects/DOMAIN
 tags:
-- domain
 - projects
-- domain-md
 - blocked
 - archived
 - project
 - yyyy
-- color-green
 status: active
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: projects
 canonical_path: projects/DOMAIN.md
 backlink_count: 2

@@ -1,9 +1,6 @@
 ---
 type: skill
 title: pharos-repurposer
-aliases:
-- skills/pharos-repurposer
-- wiki/skills/pharos-repurposer
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - repurpose
 - brief
 - alert
-- color-orange
 status: active
+domain: AI LLM and Tools
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: pharos-repurposer
-domain: AI LLM and Tools
 codex_path: /home/cerebrhoe/.codex/skills/pharos-repurposer/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

@@ -3,7 +3,6 @@ type: governance-doc
 title: 'Phase 2 Integration Roadmap: Observability & Incident Response'
 aliases:
 - 'Phase 2 Integration Roadmap: Observability & Incident Response'
-- governance/hephaistos/PHASE-2-INTEGRATION-ROADMAP
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - observability
 - phase
 - incident
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

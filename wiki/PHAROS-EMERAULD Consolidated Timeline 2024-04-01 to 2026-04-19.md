@@ -5,7 +5,6 @@ aliases:
 - PHAROS / EMERAULD Umbrella Timeline
 - Umbrella Project History
 - PHAROS Timeline
-- wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19
 tags:
 - pharos
 - emerauld
@@ -13,27 +12,29 @@ tags:
 - history
 - program
 - wiki
-- pharos-emerauld-consolidated-timeline-2024-04-01-to-2026-04-19-md
 - september
 - retrospective
 - march
 - dates
 - direct
-- color-green
 status: active
 created: '2026-04-19'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
+- '[[wiki/Home]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory]]'
 ---
 

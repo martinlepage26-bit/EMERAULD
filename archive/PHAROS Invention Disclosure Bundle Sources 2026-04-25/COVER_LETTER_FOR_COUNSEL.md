@@ -1,8 +1,6 @@
 ---
 type: archive-record
 title: PHAROS Invention Disclosure — V12 Evidence Bundle
-aliases:
-- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/COVER_LETTER_FOR_COUNSEL
 tags:
 - archive
 - pharos
@@ -13,8 +11,8 @@ tags:
 - disclosure
 - bundle
 - inventor
-- color-green
 status: archived
+priority: low
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: archive

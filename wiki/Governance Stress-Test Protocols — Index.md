@@ -5,7 +5,6 @@ aliases:
 - governance protocols
 - stress-test protocols
 - AI governance tests
-- wiki/Governance Stress-Test Protocols — Index
 tags:
 - index
 - map
@@ -13,41 +12,39 @@ tags:
 - stress-test
 - governance
 - wiki
-- governance-stress-test-protocols-index-md
 - helix
 - tests
 - bius
 - epistemic
-- color-purple
 status: active
 created: '2026-04-18'
 updated: '2026-07-03'
 vault_area: wiki
 canonical_path: wiki/Governance Stress-Test Protocols — Index.md
-backlink_count: 19
+backlink_count: 22
 backlinks:
 - '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
-  (2026-05-07)]]'
-- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
-  (2026-05-12)]]'
-- '[[Resources/Epistemic Governance — Canonical Reference]]'
+- '[[Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
+- '[[Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control
-  Surface (2026-05-11)]]'
+- '[[Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)]]'
 - '[[Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'
-- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[Areas/PHAROS/HELIX Full Protocol Session — Martin''s Governance Synthesis, Gemini Target (2026-07-03)]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[Areas/PHAROS/RIA-CODEX — System Audit Protocol]]'
 - '[[Areas/Writing/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/Governance Stress-Test Protocols Index]]'
 - '[[archive/session-state/session-state-001]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[memory/daily/2026-07-03]]'
 ---
 
 # Governance Stress-Test Protocols — Index

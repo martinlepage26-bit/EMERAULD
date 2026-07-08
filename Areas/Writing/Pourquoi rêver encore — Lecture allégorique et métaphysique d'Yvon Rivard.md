@@ -1,41 +1,44 @@
 ---
 type: wiki
 title: Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard
-aliases:
-- Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard
 tags:
 - areas
-- pourquoi-r-ver-encore-lecture-all-gorique-et-m-taphysique-d-yvon-rivard-md
 - essay
 - rivard
 - spiritual
 - transfiguration
 - situated
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard.md
-backlink_count: 17
+backlink_count: 21
 backlinks:
-- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[Areas/Writing/Pourquoi Rever Encore — Version Genealogy]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Novel and Creative Corpus]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard

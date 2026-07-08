@@ -4,7 +4,6 @@ title: Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)
 aliases:
 - Codex Claude collaboration protocol
 - EMERAULD vault graph collaboration protocol
-- wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)
 tags:
 - emerauld
 - collaboration
@@ -15,26 +14,28 @@ tags:
 - protocol
 - graph
 - wiki
-- codex-claude-collaboration-protocol-emerauld-vault-2026-05-25-md
 - tooling
 - session
 - deepening
-- color-orange
 status: active
 created: '2026-05-25'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25).md
-backlink_count: 8
+backlink_count: 12
 backlinks:
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)

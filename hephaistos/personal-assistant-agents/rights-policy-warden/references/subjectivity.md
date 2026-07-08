@@ -1,9 +1,6 @@
 ---
 type: note
 title: Subjectivity
-aliases:
-- personal-assistant-agents/rights-policy-warden/references/subjectivity
-- hephaistos/personal-assistant-agents/rights-policy-warden/references/subjectivity
 tags:
 - note
 - agents
@@ -15,8 +12,8 @@ tags:
 - license
 - heart
 - marketplace
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

@@ -5,7 +5,6 @@ aliases:
 - Research and Scholarly Work domain
 - Research skills domain
 - Scholarly skills hub
-- wiki/Skill Domain — Research and Scholarly Work
 tags:
 - skills
 - domain
@@ -15,29 +14,31 @@ tags:
 - methodology
 - academic
 - wiki
-- skill-domain-research-and-scholarly-work-md
 - scientific
 - peer
 - scholarly
 - literature
 - prep
-- color-blue
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Skill Domain — Research and Scholarly Work.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
-- '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
-- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Skill Domain — Research and Scholarly Work

@@ -13,25 +13,30 @@ tags:
 - accountability
 - personal-case
 - areas
-- service-canada-ei-delay-letter-housing-risk-escalation-2026-05-10-md
 - housing
 - delay
 - letter
 - escalation
 - despite
-- color-red
+- wiki
+- personal
 status: active
+domain: personal
 created: '2026-05-12'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Personal/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10).md
-backlink_count: 5
+backlink_count: 9
 backlinks:
-- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
-- '[[wiki/Legal and Institutional Cases]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
+- '[[wiki/Legal and Institutional Cases]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 source:
 - raw/Desktop-Downloads-scan-2026-05-12/downloads/Service Canada me laisse sans assurance-emploi depuis janvier _ je risque maintenant de perdre mon logement.pdf
 ---

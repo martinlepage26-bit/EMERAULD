@@ -1,8 +1,6 @@
 ---
 type: memo
 title: Elemental Agents — Audience Expansion Analysis
-aliases:
-- assets/elemental-agents/audience-expansion
 tags:
 - memo
 - assets
@@ -12,7 +10,6 @@ tags:
 - channel
 - methodology
 - effort
-- color-orange
 status: draft
 created: '2026-05-24'
 updated: '2026-06-26'
@@ -20,7 +17,7 @@ vault_area: assets
 canonical_path: assets/elemental-agents/audience-expansion.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/ASSETS MOC]]'
 audience: operator
 parent: positioning-memo.md
 ---

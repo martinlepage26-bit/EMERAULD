@@ -1,50 +1,53 @@
 ---
 type: wiki
 title: Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca
-aliases:
-- Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca
 tags:
 - areas
 - wicca
 - pagan
 - ritual
 - queer
-- queer-neo-pagan-spiritualities-and-the-question-of-authenticity-in-wicca-md
 - authenticity
 - digital
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md
-backlink_count: 26
+backlink_count: 30
 backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
-- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
-- '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
-- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
+- '[[Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
+- '[[wiki/Home]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
+- '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

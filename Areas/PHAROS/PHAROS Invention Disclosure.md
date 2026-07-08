@@ -1,49 +1,32 @@
 ---
 type: wiki
 title: PHAROS Invention Disclosure
-aliases:
-- PHAROS Invention Disclosure
 tags:
 - areas
 - pharos
-- pharos-invention-disclosure-md
 - counsel
 - disclosure
 - rollup
 - filing
 - promotion
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Invention Disclosure.md
-backlink_count: 59
+backlink_count: 63
 backlinks:
 - '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
-- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/PHAROS/Architectural AI Governance — Willis and PBSAI]]'
-- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
-- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
-- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
-- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
-- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
-- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/PHAROS/Founder Charter — Lepage and Stocker]]'
 - '[[Areas/PHAROS/Global Publication Search — PHAROS Method and Variants]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Writing/Governance by Denial]]'
 - '[[Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers]]'
-- '[[wiki/Home]]'
-- '[[wiki/LOTUS Model and Agency]]'
-- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper]]'
@@ -53,29 +36,48 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
 - '[[Areas/PHAROS/RECURSO — Final Audit and Ethical Review]]'
-- '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
-- '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
+- '[[Areas/Writing/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
+- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[Areas/Writing/Governance by Denial]]'
+- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
-- '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/The Returning Light — Monograph]]'
 - '[[Areas/Writing/The Wheel and the Watcher]]'
 - '[[Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
+- '[[Resources/Recursive Governance Theory]]'
+- '[[wiki/September 2024 Research Retrospective]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'
 - '[[projects/PHAROS — Fisher King Project State]]'

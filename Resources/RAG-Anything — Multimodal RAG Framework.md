@@ -15,23 +15,27 @@ tags:
 - knowledge-graph
 - python
 - resources
-- rag-anything-multimodal-rag-framework-md
 - raganything
 - lightrag
 - mineru
 - anything
-- color-orange
+- wiki
 status: active
+domain: reference
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/RAG-Anything — Multimodal RAG Framework.md
-backlink_count: 4
+backlink_count: 8
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/LightRAG — Graph-Based RAG System]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/LightRAG — Graph-Based RAG System]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # RAG-Anything — Multimodal RAG Framework

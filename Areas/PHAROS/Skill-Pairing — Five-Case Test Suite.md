@@ -13,33 +13,38 @@ tags:
 - governance
 - behavioral-compliance
 - areas
-- skill-pairing-five-case-test-suite-md
 - pairing
 - skill
 - pair
 - stage
 - handoff
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-20'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Skill-Pairing — Five-Case Test Suite.md
-backlink_count: 14
+backlink_count: 18
 backlinks:
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
+- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
-- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/skills/skill-architect]]'
 ---
 

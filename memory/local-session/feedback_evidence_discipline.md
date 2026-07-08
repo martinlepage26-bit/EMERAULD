@@ -1,8 +1,6 @@
 ---
 type: feedback
 title: feedback_evidence_discipline
-aliases:
-- memory/local-session/feedback_evidence_discipline
 tags:
 - feedback
 - memory
@@ -12,7 +10,6 @@ tags:
 - comparative
 - inference
 - wholeness
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -24,8 +21,7 @@ backlinks:
 - '[[Areas/Writing/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 name: Evidence discipline self-correction
-description: Documented pattern correction — maintain analytical depth but fix source-grounding,
-  citation rigor, contradiction detection, inference labeling, and comparative restraint
+description: Documented pattern correction — maintain analytical depth but fix source-grounding, citation rigor, contradiction detection, inference labeling, and comparative restraint
 originSessionId: 6f0171ff-85eb-4008-83b9-b1aca34e4366
 ---
 

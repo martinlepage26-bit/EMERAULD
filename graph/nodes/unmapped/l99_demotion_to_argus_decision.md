@@ -1,11 +1,23 @@
 ---
-id: l99_demotion_to_argus_decision
 type: Decision
-canonical_name: "L99 Demotion to Argus"
-aliases: []
+title: L99 Demotion to Argus
+tags:
+- decision
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/l99_demotion_to_argus_decision.md
+backlink_count: 1
+backlinks:
+- '[[governance/governance-index]]'
+id: l99_demotion_to_argus_decision
+canonical_name: L99 Demotion to Argus
 confidence: high
-sources: ['governance/hephaistos/AGENTS.md']
+sources:
+- governance/hephaistos/AGENTS.md
 created_from: graphify_pass
 ---
 

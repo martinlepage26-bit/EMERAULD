@@ -1,10 +1,7 @@
 ---
 type: readme
 title: Figma MCP Server on Cloudflare Workers
-aliases:
-- cloudflare/figma-mcp-server/README
 tags:
-- readme
 - cloudflare
 - figma-mcp-server
 - figma
@@ -12,7 +9,6 @@ tags:
 - workers
 - server
 - vars
-- color-orange
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

@@ -1,11 +1,23 @@
 ---
-id: graphify_tool
 type: Tool
-canonical_name: "graphify"
-aliases: []
+title: graphify
+tags:
+- tool
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/graphify_tool.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/graphify_out_system]]'
+id: graphify_tool
+canonical_name: graphify
 confidence: high
-sources: ['graphify-out/']
+sources:
+- graphify-out/
 created_from: graphify_pass
 ---
 

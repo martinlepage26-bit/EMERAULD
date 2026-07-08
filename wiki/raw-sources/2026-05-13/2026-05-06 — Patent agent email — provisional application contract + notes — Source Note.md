@@ -1,12 +1,6 @@
 ---
 type: source-note
-title: 2026-05-06 — Patent agent email — provisional application contract + notes
-  — Source Note
-aliases:
-- raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application
-  contract + notes — Source Note
-- wiki/raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application
-  contract + notes — Source Note
+title: 2026-05-06 — Patent agent email — provisional application contract + notes — Source Note
 tags:
 - raw-source
 - ingest
@@ -20,20 +14,17 @@ tags:
 - cluster
 - email
 - application
-- color-lime
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
 vault_area: wiki
-canonical_path: wiki/raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional
-  application contract + notes — Source Note.md
+canonical_path: wiki/raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note.md
 backlink_count: 3
 backlinks:
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/IP and Manuscript Brief — 2026-05-14]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
-source_raw_path: raw/00_Inbox/Raw/2026-05-06 — Patent agent email — provisional application
-  contract + notes.md
+source_raw_path: raw/00_Inbox/Raw/2026-05-06 — Patent agent email — provisional application contract + notes.md
 source_report: raw/intake-report-20260513.json
 ---
 

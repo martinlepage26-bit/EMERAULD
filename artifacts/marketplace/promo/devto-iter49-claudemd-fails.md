@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Why Your CLAUDE.md Fails at Scale (and What to Replace It With)
-aliases:
-- artifacts/marketplace/promo/devto-iter49-claudemd-fails
 tags:
 - artifact
 - ai
@@ -13,7 +11,6 @@ tags:
 - constraints
 - attention
 - project
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

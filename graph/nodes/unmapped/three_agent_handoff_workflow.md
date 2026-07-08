@@ -1,11 +1,23 @@
 ---
-id: three_agent_handoff_workflow
 type: Workflow
-canonical_name: "Three-Agent Handoff Workflow"
-aliases: []
+title: Three-Agent Handoff Workflow
+tags:
+- workflow
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/three_agent_handoff_workflow.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: three_agent_handoff_workflow
+canonical_name: Three-Agent Handoff Workflow
 confidence: high
-sources: ['governance/hephaistos/THREE-AGENT-ARCHITECTURE.md']
+sources:
+- governance/hephaistos/THREE-AGENT-ARCHITECTURE.md
 created_from: graphify_pass
 ---
 

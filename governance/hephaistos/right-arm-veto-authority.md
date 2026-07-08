@@ -3,7 +3,6 @@ type: governance-doc
 title: Right-Arm Veto Authority
 aliases:
 - Right-Arm Veto Authority
-- governance/hephaistos/right-arm-veto-authority
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - queen
 - analyst
 - breach
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

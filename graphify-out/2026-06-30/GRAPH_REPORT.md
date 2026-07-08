@@ -1,8 +1,6 @@
 ---
 type: note
 title: Graph Report - /home/martin/EMERAULD  (2026-06-30)
-aliases:
-- graphify-out/2026-06-30/GRAPH_REPORT
 tags:
 - note
 - graphify-out
@@ -12,15 +10,14 @@ tags:
 - cohesion
 - kingmalek
 - nodes
-- color-pink
 status: active
 created: '2026-06-30'
-updated: '2026-06-26'
+updated: '2026-06-30'
 vault_area: graphify-out
 canonical_path: graphify-out/2026-06-30/GRAPH_REPORT.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/GRAPHIFY-OUT MOC]]'
 ---
 
 # Graph Report - /home/martin/EMERAULD  (2026-06-30)

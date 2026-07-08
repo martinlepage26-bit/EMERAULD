@@ -11,13 +11,13 @@ tags:
 - second-self
 - provenance-artifact
 - archive
-- second-self-system-identity-kernel-and-agent-routing-architecture-md
 - organ
 - merge
 - helper
 - voice
 - kernel
-- color-orange
+- wiki
+- wiki-2026-07-08
 status: recovered
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -25,10 +25,10 @@ vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture.md
 backlink_count: 4
 backlinks:
-- '[[.graph_store/graph_report]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/agents/Grok]]'
 canonical_note: '[[Second Self System — Identity Kernel and Agent Routing Architecture]]'
 source_file: Second Self System — Identity Kernel and Agent Routing Architecture.md
 format: md

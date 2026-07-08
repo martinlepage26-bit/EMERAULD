@@ -1,9 +1,6 @@
 ---
 type: skill-spec
 title: 'Skill: Synthesis'
-aliases:
-- personal-assistant-agents/trismegiste/vault/skills/skill-synthesis
-- hephaistos/personal-assistant-agents/trismegiste/vault/skills/skill-synthesis
 tags:
 - skill
 - agents
@@ -16,8 +13,8 @@ tags:
 - title
 - synthesized
 - facts
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
@@ -26,8 +23,7 @@ backlink_count: 1
 backlinks:
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 name: synthesis
-trigger: Use this skill when asked to process, convert, or synthesize a raw note into
-  wiki format.
+trigger: Use this skill when asked to process, convert, or synthesize a raw note into wiki format.
 ---
 
 # Skill: Synthesis

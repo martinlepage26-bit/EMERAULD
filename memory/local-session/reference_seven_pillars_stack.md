@@ -1,8 +1,6 @@
 ---
 type: reference
 title: reference_seven_pillars_stack
-aliases:
-- memory/local-session/reference_seven_pillars_stack
 tags:
 - reference
 - memory
@@ -12,7 +10,6 @@ tags:
 - pillars
 - reviewing
 - users
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -20,12 +17,11 @@ vault_area: memory
 canonical_path: memory/local-session/reference_seven_pillars_stack.md
 backlink_count: 3
 backlinks:
-- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 name: Seven Pillars of Full-Stack Architecture
-description: Martin's canonical seven-pillar framework for full-stack architecture
-  — must inform all stack-related work and recommendations
+description: Martin's canonical seven-pillar framework for full-stack architecture — must inform all stack-related work and recommendations
 originSessionId: 17c66af4-27ef-4b85-ac0e-8bb64a66fd53
 ---
 

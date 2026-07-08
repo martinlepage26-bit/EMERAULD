@@ -1,11 +1,23 @@
 ---
-id: jade
 type: Person
-canonical_name: "Jade"
-aliases: []
+title: Jade
+tags:
+- person
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/jade.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: jade
+canonical_name: Jade
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

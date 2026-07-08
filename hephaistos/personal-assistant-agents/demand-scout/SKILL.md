@@ -1,11 +1,7 @@
 ---
 type: skill-spec
 title: Demand Scout
-aliases:
-- personal-assistant-agents/demand-scout/SKILL
-- hephaistos/personal-assistant-agents/demand-scout/SKILL
 tags:
-- skill
 - agents
 - skill-spec
 - personal-assistant-agents
@@ -16,21 +12,23 @@ tags:
 - references
 - scout
 - ranking
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/demand-scout/SKILL.md
-backlink_count: 1
+backlink_count: 3
 backlinks:
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[graph/nodes/unmapped/content_to_market_pipeline_workflow]]'
+- '[[graph/nodes/unmapped/revenue_support_optimizer]]'
 name: demand-scout
-description: Use when the assistant needs to read marketplace demand, competitor patterns,
-  and channel fit for owned content candidates.
+description: Use when the assistant needs to read marketplace demand, competitor patterns, and channel fit for owned content candidates.
 entity_type: Tool
 entity_id: demand_scout
-entity_aliases: ['demand-scout']
+entity_aliases:
+- demand-scout
 entity_confidence: high
 ---
 

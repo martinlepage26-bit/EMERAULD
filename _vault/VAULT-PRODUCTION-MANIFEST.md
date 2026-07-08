@@ -3,17 +3,14 @@ type: vault-manifest
 title: EMERAULD Vault — Production Manifest
 aliases:
 - EMERAULD Vault — Production Manifest
-- _vault/VAULT-PRODUCTION-MANIFEST
 tags:
 - vault
 - vault-manifest
-- vault-production-manifest-md
 - topic
 - semantic
 - daily
 - linking
 - mocs
-- color-teal
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -21,8 +18,8 @@ vault_area: _vault
 canonical_path: _vault/VAULT-PRODUCTION-MANIFEST.md
 backlink_count: 2
 backlinks:
-- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 ---
 
 # EMERAULD Vault — Production Manifest

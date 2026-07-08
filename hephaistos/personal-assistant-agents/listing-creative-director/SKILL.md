@@ -1,11 +1,7 @@
 ---
 type: skill-spec
 title: Listing Creative Director
-aliases:
-- personal-assistant-agents/listing-creative-director/SKILL
-- hephaistos/personal-assistant-agents/listing-creative-director/SKILL
 tags:
-- skill
 - agents
 - skill-spec
 - personal-assistant-agents
@@ -16,21 +12,23 @@ tags:
 - marketplace
 - faqs
 - references
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/listing-creative-director/SKILL.md
-backlink_count: 1
+backlink_count: 3
 backlinks:
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[graph/nodes/unmapped/content_to_market_pipeline_workflow]]'
+- '[[graph/nodes/unmapped/revenue_support_optimizer]]'
 name: listing-creative-director
-description: Use when an approved offer needs marketplace-facing titles, copy, keywords,
-  thumbnails, previews, or merchandising assets.
+description: Use when an approved offer needs marketplace-facing titles, copy, keywords, thumbnails, previews, or merchandising assets.
 entity_type: Tool
 entity_id: listing_creative_director
-entity_aliases: ['listing-creative-director']
+entity_aliases:
+- listing-creative-director
 entity_confidence: high
 ---
 

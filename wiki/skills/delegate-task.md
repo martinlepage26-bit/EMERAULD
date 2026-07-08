@@ -1,9 +1,6 @@
 ---
 type: skill
 title: delegate-task
-aliases:
-- skills/delegate-task
-- wiki/skills/delegate-task
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - devops
 - extensive
 - openspace
-- color-orange
 status: active
+domain: Agent Architecture and Development
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
 skill_id: delegate-task
-domain: Agent Architecture and Development
 codex_path: /home/cerebrhoe/.codex/skills/delegate-task/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

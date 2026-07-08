@@ -3,7 +3,6 @@ type: client-memory
 title: PHAROS Outreach — Q2 2026
 aliases:
 - PHAROS Outreach — Q2 2026
-- memory/clients/outreach-2026-q2
 tags:
 - client
 - pharos
@@ -15,7 +14,6 @@ tags:
 - beneva
 - reply
 - mgmt
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

@@ -5,28 +5,32 @@ aliases:
 - VAULT-CLUSTER-DISCOVERY-2026-05-01
 tags:
 - archive
-- vault-cluster-discovery-and-linking-opportunities-2026-05-01-md
 - topic
 - consent
 - authority
 - fluency
 - papers
-- color-teal
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01.md
-backlink_count: 13
+backlink_count: 17
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
+- '[[wiki/Home]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Events]]'
 - '[[memory/agents/Journal]]'

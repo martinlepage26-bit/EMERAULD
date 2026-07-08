@@ -14,30 +14,32 @@ tags:
 - archives
 - black-box
 - resources
-- the-data-gaze-beer-capitalism-power-perception-md
 - beer
-- article
 - journal
 - rationality
 - nissenbaum
-- color-blue
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/The Data Gaze — Beer (Capitalism, Power, Perception).md
-backlink_count: 10
+backlink_count: 13
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
 - '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
 - '[[Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # The Data Gaze — Beer (Capitalism, Power, Perception)

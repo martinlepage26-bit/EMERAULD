@@ -1,47 +1,50 @@
 ---
 type: wiki
 title: Agent Session Phenomenology
-aliases:
-- Agent Session Phenomenology
 tags:
 - areas
 - agents
-- agent-session-phenomenology-md
 - perimeter
 - center
 - contradiction
 - collapse
 - collapses
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Agent Session Phenomenology.md
-backlink_count: 26
+backlink_count: 30
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration]]'
-- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)]]'
-- '[[wiki/Home]]'
-- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
-- '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
 - '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Home]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
+- '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)]]'
+- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory/agents/Events]]'

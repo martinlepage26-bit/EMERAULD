@@ -13,25 +13,28 @@ tags:
 - state
 - institutions
 - resources
-- l-esprit-du-don-godbout-caill-1992-md
 - godbout
 - obligation
 - mauss
 - caill
-- color-pink
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/L’esprit du don — Godbout & Caillé (1992).md
-backlink_count: 6
+backlink_count: 9
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Care, Ethics, and Governance]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # L’esprit du don — Godbout & Caillé (1992)

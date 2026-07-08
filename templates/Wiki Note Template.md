@@ -3,21 +3,18 @@ type: wiki-note
 title: '{{title}}'
 aliases:
 - None
-- templates/Wiki Note Template
 tags:
 - wiki
 - wiki-note
 - templates
-- wiki-note-template-md
 - relevance
 - hubs
 - connections
 - practical
 - sentence
-- color-teal
 status: active
 created: '{{date}}'
-updated: '2026-06-26'
+updated: '{{date}}'
 vault_area: templates
 canonical_path: templates/Wiki Note Template.md
 backlink_count: 1

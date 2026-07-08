@@ -7,11 +7,19 @@ tags:
 - register
 - overhaul
 - para-migration
+- vault
 status: active
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: _vault
 canonical_path: _vault/PARA-MIGRATION-MANIFEST-2026-07-08.md
+backlink_count: 5
+backlinks:
+- '[[Logs/2026-07-08]]'
+- '[[Resources/ROUTING]]'
+- '[[wiki/WIKI-ROUTING-REPORT]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[index]]'
 ---
 
 # PARA Migration Manifest — 2026-07-08

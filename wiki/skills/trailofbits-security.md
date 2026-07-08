@@ -1,9 +1,6 @@
 ---
 type: skill
 title: trailofbits-security
-aliases:
-- skills/trailofbits-security
-- wiki/skills/trailofbits-security
 tags:
 - skill
 - wiki
@@ -11,8 +8,8 @@ tags:
 - trailofbits
 - security
 - codex
-- color-red
 status: active
+domain: Security and Compliance
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -22,7 +19,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Security and Compliance]]'
 skill_id: trailofbits-security
-domain: Security and Compliance
 codex_path: /home/cerebrhoe/.codex/skills/trailofbits-security/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

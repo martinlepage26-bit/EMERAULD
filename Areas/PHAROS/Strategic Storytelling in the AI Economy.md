@@ -11,29 +11,34 @@ tags:
 - ai-economy
 - narrative
 - areas
-- strategic-storytelling-in-the-ai-economy-md
 - storytelling
 - strategic
 - consulting
 - cross
 - seam
-- color-teal
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-24'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Strategic Storytelling in the AI Economy.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Strategic Storytelling in the AI Economy

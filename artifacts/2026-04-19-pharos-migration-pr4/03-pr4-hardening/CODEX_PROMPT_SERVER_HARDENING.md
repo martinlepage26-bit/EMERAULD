@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: CODEX PROMPT — server.py HARDENING
-aliases:
-- artifacts/2026-04-19-pharos-migration-pr4/03-pr4-hardening/CODEX_PROMPT_SERVER_HARDENING
 tags:
 - artifact
 - pharos
@@ -13,7 +11,6 @@ tags:
 - server
 - dnspython
 - startup
-- color-green
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

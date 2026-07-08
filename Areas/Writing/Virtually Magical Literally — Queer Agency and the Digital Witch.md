@@ -1,36 +1,39 @@
 ---
 type: wiki
 title: Virtually Magical Literally — Queer Agency and the Digital Witch
-aliases:
-- Virtually Magical Literally — Queer Agency and the Digital Witch
 tags:
 - areas
 - magic
 - queer
-- virtually-magical-literally-queer-agency-and-the-digital-witch-md
 - digital
 - wicca
 - compass
 - agency
-- color-teal
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch.md
-backlink_count: 12
+backlink_count: 16
 backlinks:
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Home]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

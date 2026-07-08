@@ -14,22 +14,27 @@ tags:
 - writing-system
 - version-genealogy
 - areas
-- paper-builder-source-bundle-and-henry-origin-md
 - voice
 - builder
 - spec
 - bundle
-- color-orange
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-05-03'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin.md
-backlink_count: 3
+backlink_count: 7
 backlinks:
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # PAPER BUILDER — Source Bundle and HENRY Origin

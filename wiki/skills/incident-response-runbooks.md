@@ -1,9 +1,6 @@
 ---
 type: skill
 title: incident-response-runbooks
-aliases:
-- skills/incident-response-runbooks
-- wiki/skills/incident-response-runbooks
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - mortems
 - chaos
 - integrations
-- color-teal
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

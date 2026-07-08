@@ -13,36 +13,41 @@ tags:
 - archive
 - song-corpus
 - areas
-- the-ballad-of-the-witches-road-analysis-md
 - ballad
 - road
 - song
 - witches
-- color-blue
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/The Ballad of the Witches' Road — Analysis.md
-backlink_count: 17
+backlink_count: 21
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
 - '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[Areas/Writing/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
-- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
+- '[[Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # The Ballad of the Witches' Road — Analysis

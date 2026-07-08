@@ -3,7 +3,6 @@ type: governance-doc
 title: Phase 7 Deployment Readiness Checklist
 aliases:
 - Phase 7 Deployment Readiness Checklist
-- governance/hephaistos/DEPLOYMENT-CHECKLIST
 tags:
 - governance
 - ai
@@ -14,16 +13,16 @@ tags:
 - exists
 - hermes
 - gate
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance
 canonical_path: governance/hephaistos/DEPLOYMENT-CHECKLIST.md
 backlink_count: 4
 backlinks:
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 ---

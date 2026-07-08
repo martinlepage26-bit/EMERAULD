@@ -1,3 +1,20 @@
+---
+type: log
+title: 08_HOPF_ARCHIVE
+tags:
+- log
+- logs
+- helix-sessions
+status: active
+created: '2026-07-03'
+updated: '2026-07-08'
+vault_area: Logs
+canonical_path: Logs/helix-sessions/gemini-2026-07-03-run2/08_HOPF_ARCHIVE.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 ================================================================================
 DOCUMENT 08 — PHASE 3: HOPF
 Archive File — Session Record

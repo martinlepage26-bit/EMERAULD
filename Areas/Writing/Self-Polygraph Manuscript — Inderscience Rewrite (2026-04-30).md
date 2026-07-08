@@ -16,23 +16,28 @@ tags:
 - ijaighr
 - paper-pipeline
 - areas
-- self-polygraph-manuscript-inderscience-rewrite-2026-04-30-md
 - polygraph
 - self
 - perturbation
-- color-orange
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-04-30'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30).md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)

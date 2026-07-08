@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: PHAROS Suite — Operational Runbook
-aliases:
-- artifacts/2026-04-19-pharos-migration-pr4/docs/PHAROS_OPERATIONAL_RUNBOOK
 tags:
 - artifact
 - pharos
@@ -13,7 +11,6 @@ tags:
 - keyword
 - topology
 - scripts
-- color-orange
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

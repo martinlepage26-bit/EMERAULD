@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: Security Audit Report — `multi-agent-orchestration` skill package
+tags:
+- project-mirror
+- projects
+- security-audit-skill
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/security-audit-skill/multi-agent-orchestration/run-1/REPORT.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Security Audit Report — `multi-agent-orchestration` skill package
 
 **Target:** `/home/martin/.agents/skills/multi-agent-orchestration/` (7 files, 100K)

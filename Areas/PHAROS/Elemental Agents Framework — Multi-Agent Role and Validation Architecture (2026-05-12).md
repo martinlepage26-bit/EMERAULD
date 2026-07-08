@@ -1,38 +1,39 @@
 ---
 type: wiki
 title: Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)
-aliases:
-- Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)
 tags:
 - areas
 - agents
-- elemental-agents-framework-multi-agent-role-and-validation-architecture-2026-05-12-md
 - validation
 - manifestation
 - combination
 - combinations
 - elemental
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-12'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md
-backlink_count: 13
+backlink_count: 15
 backlinks:
-- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[archive/wiki-2026-07-08/D Drive Scan — 2026-05-12]]'
 - '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/D Drive Scan — 2026-05-12]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/elemental-agents/audience-expansion]]'
 - '[[assets/elemental-agents/sales-page-outline]]'
 - '[[assets/elemental-agents/ttrpg-repack/BRAND-DECISION]]'
-- '[[raw/D-drive-scan-2026-05-12/elemental-agents/README]]'
-- '[[raw/D-drive-scan-2026-05-12/elemental-agents/combinations/manifestation-rules]]'
 ---
 
 # Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)

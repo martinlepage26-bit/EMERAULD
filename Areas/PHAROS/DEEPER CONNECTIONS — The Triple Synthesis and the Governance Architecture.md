@@ -11,30 +11,35 @@ tags:
 - epistemology
 - philosophical-architecture
 - areas
-- deeper-connections-the-triple-synthesis-and-the-governance-architecture-md
 - consent
 - disturbance
 - minimal
 - gravity
 - entropic
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture.md
-backlink_count: 11
+backlink_count: 15
 backlinks:
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[archive/session-state/session-state-001]]'
 - '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
-- '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

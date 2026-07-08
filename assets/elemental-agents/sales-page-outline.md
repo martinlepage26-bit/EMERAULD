@@ -1,10 +1,7 @@
 ---
 type: sales-page-outline
 title: Elemental Agents — Sales Page Outline
-aliases:
-- assets/elemental-agents/sales-page-outline
 tags:
-- sales-page-outline
 - assets
 - elemental-agents
 - agent
@@ -12,7 +9,6 @@ tags:
 - framework
 - script
 - show
-- color-orange
 status: draft
 created: '2026-05-24'
 updated: '2026-06-26'
@@ -20,7 +16,7 @@ vault_area: assets
 canonical_path: assets/elemental-agents/sales-page-outline.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/ASSETS MOC]]'
 target_surface: gumroad + github README
 voice_rules_from: Obsidian Agent Vault Launch — Commercial Skill (v2)
 ---

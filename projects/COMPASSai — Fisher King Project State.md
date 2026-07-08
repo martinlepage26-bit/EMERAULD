@@ -1,8 +1,6 @@
 ---
 type: project
 title: COMPASSai — Fisher King Project State
-aliases:
-- projects/COMPASSai — Fisher King Project State
 tags:
 - project
 - fisher-king
@@ -10,13 +8,12 @@ tags:
 - pharos
 - governance-engine
 - projects
-- compassai-fisher-king-project-state-md
 - engine
 - module
 - saas
 - suite
-- color-purple
 status: in-progress
+priority: high
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: projects
@@ -27,9 +24,9 @@ backlinks:
 - '[[wiki/Healing the Fisher King Project Note Templates]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Projects Hub]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/daily/2026-06-22]]'
-- '[[session-state]]'
 ---
 
 # COMPASSai — Fisher King Project State

@@ -1,29 +1,26 @@
 ---
 type: version-genealogy
 title: Neo-Shamanism Gender Narratives — Version Genealogy
-aliases:
-- Neo-Shamanism Gender Narratives — Version Genealogy
 tags:
 - version-genealogy
 - areas
-- neo-shamanism-gender-narratives-version-genealogy-md
 - shamanism
 - narratives
 - gender
 - montreal
-- words
-- color-pink
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
 ---
 
 # Neo-Shamanism Gender Narratives — Version Genealogy

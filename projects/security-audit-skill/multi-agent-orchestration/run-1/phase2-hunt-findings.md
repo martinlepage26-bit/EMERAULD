@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: Phase 2 — Hunt Findings (raw, pre-validation)
+tags:
+- project-mirror
+- projects
+- security-audit-skill
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/security-audit-skill/multi-agent-orchestration/run-1/phase2-hunt-findings.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Phase 2 — Hunt Findings (raw, pre-validation)
 
 **Method note:** Per Queen Keyport's approve-with-constraints ruling and the lightweight

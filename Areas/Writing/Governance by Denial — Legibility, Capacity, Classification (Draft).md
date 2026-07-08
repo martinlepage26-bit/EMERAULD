@@ -13,33 +13,37 @@ tags:
 - capacity
 - audit
 - areas
-- governance-by-denial-legibility-capacity-classification-draft-md
 - hollowing
 - impunity
 - signaling
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft).md
-backlink_count: 15
+backlink_count: 18
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
-- '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
+- '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
+- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
 - '[[Resources/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)]]'
 - '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[Resources/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Governance by Denial — Legibility, Capacity, Classification (Draft)

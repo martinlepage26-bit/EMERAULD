@@ -6,7 +6,6 @@ aliases:
 - graph-hygiene
 - title normalization skill
 - wrapper cleanup skill
-- wiki/Vault Graph Hygiene — Content Title Normalization Skill
 tags:
 - skills
 - vault
@@ -14,28 +13,30 @@ tags:
 - normalization
 - backlinks
 - wiki
-- vault-graph-hygiene-content-title-normalization-skill-md
 - hygiene
 - graph
 - generator
 - aliases
 - wrapper
-- color-teal
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Vault Graph Hygiene — Content Title Normalization Skill.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/Anti-Charm]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Trace Investigator]]'
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[Areas/PHAROS/Trace Investigator]]'
 - '[[wiki/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Vault Graph Hygiene — Content Title Normalization Skill

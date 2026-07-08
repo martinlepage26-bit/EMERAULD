@@ -1,31 +1,28 @@
 ---
 type: version-genealogy
 title: Pagan Magic — Version Genealogy
-aliases:
-- Pagan Magic — Version Genealogy
 tags:
 - pagan
 - magic
 - version-genealogy
 - areas
-- pagan-magic-version-genealogy-md
-- words
 - queering
 - neopagan
-- color-violet
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Pagan Magic — Version Genealogy.md
 backlink_count: 7
 backlinks:
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

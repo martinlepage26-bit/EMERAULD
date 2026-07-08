@@ -1,9 +1,6 @@
 ---
 type: skill
 title: gsd-list-phase-assumptions
-aliases:
-- skills/gsd-list-phase-assumptions
-- wiki/skills/gsd-list-phase-assumptions
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - phase
 - codex
 - approach
-- color-orange
 status: active
+domain: GSD Workflow
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 skill_id: gsd-list-phase-assumptions
-domain: GSD Workflow
 codex_path: /home/cerebrhoe/.codex/skills/gsd-list-phase-assumptions/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

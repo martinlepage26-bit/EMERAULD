@@ -1,43 +1,46 @@
 ---
 type: wiki
 title: The Broken Frequency of the Word — Novel
-aliases:
-- The Broken Frequency of the Word — Novel
 tags:
 - areas
 - novel
-- the-broken-frequency-of-the-word-novel-md
 - frequency
 - grief
 - matisse
 - broken
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/The Broken Frequency of the Word — Novel.md
-backlink_count: 20
+backlink_count: 24
 backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/Writing/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
 - '[[Areas/Writing/Le sang qui porte ton nom — Novel]]'
-- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/The Returning Light — Monograph]]'
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

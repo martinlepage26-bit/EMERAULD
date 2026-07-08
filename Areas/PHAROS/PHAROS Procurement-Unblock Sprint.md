@@ -1,69 +1,72 @@
 ---
 type: wiki
 title: PHAROS Procurement-Unblock Sprint
-aliases:
-- PHAROS Procurement-Unblock Sprint
 tags:
 - areas
 - pharos
-- pharos-procurement-unblock-sprint-md
 - introductions
 - stalled
 - warm
 - deal
 - sprint
-- color-red
+- wiki
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Procurement-Unblock Sprint.md
-backlink_count: 57
+backlink_count: 60
 backlinks:
 - '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
 - '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
-- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
-- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
-- '[[wiki/Home]]'
-- '[[Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
-- '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Company Registration and Security Incidents]]'
 - '[[Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle]]'
 - '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy]]'
-- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
 - '[[Areas/PHAROS/PHAROS Runbook SOP]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
-- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
-- '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
-- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
 - '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
 - '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
+- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
+- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
+- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/elemental-agents/audience-expansion]]'
 - '[[assets/elemental-agents/positioning-memo]]'
 - '[[assets/elemental-agents/sales-page-outline]]'
@@ -75,8 +78,6 @@ backlinks:
 - '[[memory]]'
 - '[[memory/clients/Progression]]'
 - '[[projects/PHAROS — Fisher King Project State]]'
-- '[[raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X]]'
-- '[[session-state]]'
 ---
 
 # PHAROS Procurement-Unblock Sprint

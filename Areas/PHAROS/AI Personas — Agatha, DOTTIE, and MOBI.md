@@ -1,53 +1,56 @@
 ---
 type: wiki
 title: AI Personas — Agatha, DOTTIE, and MOBI
-aliases:
-- AI Personas — Agatha, DOTTIE, and MOBI
 tags:
 - areas
 - ai
-- ai-personas-agatha-dottie-and-mobi-md
 - agatha
 - dottie
 - mobi
 - instructions
 - lexicon
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI.md
-backlink_count: 28
+backlink_count: 32
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification]]'
-- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
-- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
-- '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
-- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
+- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
+- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
 - '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Home]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'
-- '[[session-state]]'
-- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # AI Personas — Agatha, DOTTIE, and MOBI

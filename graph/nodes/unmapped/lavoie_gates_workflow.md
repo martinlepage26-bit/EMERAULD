@@ -1,11 +1,23 @@
 ---
-id: lavoie_gates_workflow
 type: Workflow
-canonical_name: "Lavoie A1-A5 Client Gates"
-aliases: []
+title: Lavoie A1-A5 Client Gates
+tags:
+- workflow
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/lavoie_gates_workflow.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/guillaume_lavoie]]'
+id: lavoie_gates_workflow
+canonical_name: Lavoie A1-A5 Client Gates
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

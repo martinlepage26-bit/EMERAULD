@@ -1,11 +1,23 @@
 ---
-id: archive_register_py
 type: Tool
-canonical_name: "archive_register.py"
-aliases: []
+title: archive_register.py
+tags:
+- tool
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/archive_register_py.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/session_state_registers_dataset]]'
+id: archive_register_py
+canonical_name: archive_register.py
 confidence: high
-sources: ['scripts/archive_register.py']
+sources:
+- scripts/archive_register.py
 created_from: graphify_pass
 ---
 

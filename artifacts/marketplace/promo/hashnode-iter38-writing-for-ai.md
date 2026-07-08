@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Writing Notes for AI, Not for Humans — The Structural Differences That Matter
-aliases:
-- artifacts/marketplace/promo/hashnode-iter38-writing-for-ai
 tags:
 - artifact
 - ai
@@ -13,7 +11,6 @@ tags:
 - wrote
 - middleware
 - gateway
-- color-red
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

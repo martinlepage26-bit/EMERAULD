@@ -18,26 +18,29 @@ tags:
 - mauss
 - levi-strauss
 - resources
-- les-th-ories-de-la-magie-dans-les-traditions-anthropologiques-anglaise-et-fran-aise-keck-2002-methodos-md
 - methodos
 - finance
 - magie
 - rationalit
 - consulter
-- color-violet
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md
-backlink_count: 7
+backlink_count: 10
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_beneva-choisit-loutil-de-souscription-de-global-iqx-beneva]]'
 ---
 

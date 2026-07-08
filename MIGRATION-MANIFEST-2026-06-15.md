@@ -1,3 +1,18 @@
+---
+type: note
+title: Migration MANIFEST
+tags:
+- note
+status: active
+created: '2026-06-15'
+updated: '2026-07-08'
+vault_area: MIGRATION-MANIFEST-2026-06-15.md
+canonical_path: MIGRATION-MANIFEST-2026-06-15.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Migration MANIFEST
 # Generated: 2026-06-15T00:00:00Z
 # Updated: 2026-06-15 (pass 2 — apps reorganization + cleanup)

@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Home | Prodago
-aliases:
-- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-prodago
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - regulations
 - laws
 - platform
-- color-purple
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

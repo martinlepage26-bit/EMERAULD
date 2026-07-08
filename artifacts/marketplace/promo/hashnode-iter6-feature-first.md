@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: 'Inside an AI-native Obsidian vault: the architecture of persistent agent memory'
-aliases:
-- artifacts/marketplace/promo/hashnode-iter6-feature-first
 tags:
 - obsidian
 - ai
@@ -17,7 +15,6 @@ tags:
 - traversal
 - zone
 - agent
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -28,8 +25,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 - '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
-subtitle: How I designed a knowledge graph that gives AI coding agents reliable, traversable
-  context — and why flat note dumps don't work.
+subtitle: How I designed a knowledge graph that gives AI coding agents reliable, traversable context — and why flat note dumps don't work.
 published: false
 canonical_url: null
 cover_image: null

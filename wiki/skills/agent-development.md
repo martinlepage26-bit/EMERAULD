@@ -1,9 +1,6 @@
 ---
 type: skill
 title: agent-development
-aliases:
-- skills/agent-development
-- wiki/skills/agent-development
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - agents
 - loops
 - agent
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

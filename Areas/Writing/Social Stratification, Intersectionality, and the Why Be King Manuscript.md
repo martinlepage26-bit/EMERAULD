@@ -1,39 +1,42 @@
 ---
 type: wiki
 title: Social Stratification, Intersectionality, and the Why Be King Manuscript
-aliases:
-- Social Stratification, Intersectionality, and the Why Be King Manuscript
 tags:
 - areas
 - manuscript
-- social-stratification-intersectionality-and-the-why-be-king-manuscript-md
 - intersectionality
 - stratification
 - pagan
 - magic
 - anthias
-- color-orange
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript.md
-backlink_count: 14
+backlink_count: 18
 backlinks:
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
-- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Novel and Creative Corpus]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Home]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Social Stratification, Intersectionality, and the Why Be King Manuscript

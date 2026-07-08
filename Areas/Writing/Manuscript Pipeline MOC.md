@@ -11,51 +11,52 @@ tags:
 - peer-review
 - moc
 - areas
-- manuscript-pipeline-moc-md
 - lepages
 - readme
 - inderscience
 - society
-- color-orange
+- writing
 status: active
+domain: writing
+priority: high
 created: '2026-05-14'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Manuscript Pipeline MOC.md
-backlink_count: 59
+backlink_count: 58
 backlinks:
-- '[[Areas/Writing/AREA]]'
-- '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
-- '[[Areas/Writing/Glitching the Sacred]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
-- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
-- '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[Areas/PHAROS/PHAROS]]'
 - '[[Areas/PHAROS/PHAROS Method — Core Framework]]'
 - '[[Areas/PHAROS/PHAROS Product Stack]]'
-- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
+- '[[Areas/Writing/AREA]]'
+- '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
+- '[[Areas/Writing/Glitching the Sacred]]'
+- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Per-Paper Project Structure — Folder and File Architecture]]'
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
-- '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Skill Domain — Governance and Method]]'
-- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
-- '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Research Hub]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/editorial_log]]'
+- '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/services/README]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_decision_log]]'
 - '[[hephaistos/personal-assistant-agents/content-inventory-cartographer/references/method]]'
@@ -81,7 +82,6 @@ backlinks:
 - '[[memory/local-session/feedback_deploy_cloudflare]]'
 - '[[memory/local-session/feedback_deploy_workflow]]'
 - '[[projects/Papers — Fisher King Project State]]'
-- '[[raw/D-drive-scan-2026-05-12/elemental-agents/validation/01-structure-check]]'
 - '[[templates/Wiki Note]]'
 ---
 

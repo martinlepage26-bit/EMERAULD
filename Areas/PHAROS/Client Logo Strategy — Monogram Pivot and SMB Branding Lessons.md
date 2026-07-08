@@ -13,27 +13,32 @@ tags:
 - lessons
 - smb
 - areas
-- client-logo-strategy-monogram-pivot-and-smb-branding-lessons-md
 - monogram
 - logo
 - shield
 - dark
 - wordmark
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-05'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons.md
-backlink_count: 7
+backlink_count: 11
 backlinks:
-- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Client Logo Strategy — Monogram Pivot and SMB Branding Lessons

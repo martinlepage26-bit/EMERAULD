@@ -5,7 +5,6 @@ aliases:
 - MASTER PACK vs HEPHAISTOS tracker
 - normalized tracker
 - archive rebuild tracker
-- wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS
 tags:
 - hephaistos
 - archive
@@ -14,26 +13,28 @@ tags:
 - reconciliation
 - governance
 - wiki
-- archive-rebuild-normalized-tracker-master-pack-and-hephaistos-md
 - normalized
 - rebuilt
 - pack
 - untitled
-- color-purple
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS.md
-backlink_count: 7
+backlink_count: 11
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS

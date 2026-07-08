@@ -1,19 +1,15 @@
 ---
 type: memory-register
 title: Antigravity
-title_override: Antigravity (agy)
 aliases:
-- Antigravity
 - Antigravity (agy)
 - agy
-- memory/agents/Antigravity
 - Antigravity CLI
 - Antigravity council seat
 tags:
 - memory
 - agents
 - memory-register
-- antigravity
 - agy
 - council
 - cli
@@ -23,6 +19,13 @@ created: '2026-07-02'
 updated: '2026-07-02'
 vault_area: memory
 canonical_path: memory/agents/Antigravity.md
+backlink_count: 4
+backlinks:
+- '[[Resources/glossary]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[memory/agents/Gemini]]'
+- '[[memory/daily/2026-07-02]]'
+title_override: Antigravity (agy)
 register: agents
 agent: Antigravity (agy)
 ---

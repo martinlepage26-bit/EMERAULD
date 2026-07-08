@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: 'GAP — PR #4 server.py spec alignment'
-aliases:
-- artifacts/2026-04-19-pharos-migration-pr4/_manifest/GAP-pr4-server-spec-alignment
 tags:
 - artifact
 - pharos
@@ -13,7 +11,6 @@ tags:
 - logger
 - healthy
 - bundle
-- color-green
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

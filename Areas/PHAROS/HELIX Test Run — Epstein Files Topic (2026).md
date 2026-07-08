@@ -6,24 +6,30 @@ aliases:
 - HELIX Epstein Files Run
 tags:
 - areas
-- helix-test-run-epstein-files-topic-2026-md
 - helix
 - epstein
 - test
 - ruling
 - trap
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-31'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026).md
-backlink_count: 4
+backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
+- '[[memory/agents/Grok]]'
 ---
 
 > [!warning] Deprecated Desktop Prototype

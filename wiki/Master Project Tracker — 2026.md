@@ -1,60 +1,59 @@
 ---
 type: project-state
 title: Master Project Tracker — 2026
-aliases:
-- Master Project Tracker — 2026
-- wiki/Master Project Tracker — 2026
 tags:
 - project
 - tracker
 - project-state
 - wiki
-- master-project-tracker-2026-md
 - fisher
 - king
 - glitching
 - machines
-- color-purple
 status: active
 created: '2026-06-21'
 updated: '2026-07-06'
 vault_area: wiki
 canonical_path: wiki/Master Project Tracker — 2026.md
-backlink_count: 42
+backlink_count: 48
 backlinks:
-- '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
-- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[wiki/Agent Logs Hub]]'
-- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
-- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform]]'
+- '[[Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan]]'
+- '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
-- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
-- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
-- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Resources/Plugin Recommendations]]'
+- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
+- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
+- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
+- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
-- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
+- '[[wiki/Home]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[Resources/Plugin Recommendations]]'
 - '[[Welcome]]'
 - '[[wiki/Workflows Hub]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
 - '[[index]]'
 - '[[memory]]'
 - '[[memory/agents/Blockers]]'
@@ -62,6 +61,8 @@ backlinks:
 - '[[memory/agents/Learning]]'
 - '[[memory/daily/2026-05-02]]'
 - '[[memory/daily/2026-05-07]]'
+- '[[memory/daily/2026-07-03]]'
+- '[[memory/daily/2026-07-06]]'
 - '[[projects/Magie sanguine — Fisher King Project State]]'
 - '[[projects/Stuttering Machines — Fisher King Project State]]'
 ---

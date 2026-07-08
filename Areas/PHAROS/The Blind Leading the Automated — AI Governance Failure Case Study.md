@@ -14,26 +14,30 @@ tags:
 - case-study
 - autoethnography
 - areas
-- the-blind-leading-the-automated-ai-governance-failure-case-study-md
 - accumulation
 - unindexable
 - lineage
 - failure
 - narrowed
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[projects/COMPASSai — Fisher King Project State]]'
 ---

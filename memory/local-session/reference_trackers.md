@@ -1,9 +1,6 @@
 ---
 type: memory-register
 title: reference_trackers
-aliases:
-- reference_trackers
-- memory/local-session/reference_trackers
 tags:
 - memory
 - tracker
@@ -13,7 +10,6 @@ tags:
 - users
 - subtracker
 - trackers
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

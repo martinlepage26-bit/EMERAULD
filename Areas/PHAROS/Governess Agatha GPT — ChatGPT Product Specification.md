@@ -14,24 +14,28 @@ tags:
 - scholarly
 - chatgpt-product
 - areas
-- governess-agatha-gpt-chatgpt-product-specification-md
 - governess
 - scholar
 - consent
 - anchoring
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Governess Agatha GPT — ChatGPT Product Specification

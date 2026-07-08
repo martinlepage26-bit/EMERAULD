@@ -1,35 +1,37 @@
 ---
 type: wiki
 title: 5-1 Rule — Locked Spec Hardening (Argus Stress Test)
-aliases:
-- 5-1 Rule — Locked Spec Hardening (Argus Stress Test)
 tags:
 - areas
 - argus
-- 5-1-rule-locked-spec-hardening-argus-stress-test-md
 - payment
 - gameable
 - testimonial
 - paid
 - lois
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md
-backlink_count: 10
+backlink_count: 13
 backlinks:
-- '[[.github/agents/argus.agent]]'
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # 5-1 Rule — Locked Spec Hardening (Argus Stress Test)

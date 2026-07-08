@@ -1,11 +1,23 @@
 ---
-id: query_py
 type: Tool
-canonical_name: "query.py"
-aliases: []
+title: query.py
+tags:
+- tool
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/query_py.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/lightrag_kg_system]]'
+id: query_py
+canonical_name: query.py
 confidence: high
-sources: ['scripts/query.py']
+sources:
+- scripts/query.py
 created_from: graphify_pass
 ---
 

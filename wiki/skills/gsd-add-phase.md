@@ -1,9 +1,6 @@
 ---
 type: skill
 title: gsd-add-phase
-aliases:
-- skills/gsd-add-phase
-- wiki/skills/gsd-add-phase
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - milestone
 - codex
 - roadmap
-- color-orange
 status: active
+domain: GSD Workflow
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 skill_id: gsd-add-phase
-domain: GSD Workflow
 codex_path: /home/cerebrhoe/.codex/skills/gsd-add-phase/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

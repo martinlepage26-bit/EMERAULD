@@ -6,27 +6,31 @@ aliases:
 tags:
 - areas
 - client
-- client-accounts-md
 - clients
 - accounts
 - lavoie
 - reprioritized
-- color-green
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-07-05'
 vault_area: Areas
 canonical_path: Areas/PHAROS/CLIENT ACCOUNTS.md
-backlink_count: 16
+backlink_count: 22
 backlinks:
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform]]'
 - '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
 - '[[memory/clients/ExterminationDG]]'
 - '[[memory/clients/Lavoie]]'
 - '[[memory/clients/Lavoie Construct]]'
@@ -34,6 +38,9 @@ backlinks:
 - '[[memory/clients/helix-prospects-2026-q2]]'
 - '[[memory/daily/2026-04-24]]'
 - '[[memory/daily/2026-05-05]]'
+- '[[memory/daily/2026-07-05]]'
+- '[[memory/daily/2026-07-06]]'
+- '[[memory/daily/2026-07-07]]'
 - '[[templates/Invoice Template Pharos-AI]]'
 ---
 

@@ -12,32 +12,37 @@ tags:
 - workflow
 - meta-prompting
 - areas
-- gsd-get-shit-done-context-engineering-system-md
 - phase
 - discuss
 - planning
 - milestone
 - plans
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/GSD — Get Shit Done Context Engineering System.md
-backlink_count: 16
+backlink_count: 20
 backlinks:
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
-- '[[wiki/LightRAG — Graph-Based RAG System]]'
-- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Resources/RAG-Anything — Multimodal RAG Framework]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/LightRAG — Graph-Based RAG System]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[Resources/RAG-Anything — Multimodal RAG Framework]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Events]]'
 - '[[memory/agents/Journal]]'

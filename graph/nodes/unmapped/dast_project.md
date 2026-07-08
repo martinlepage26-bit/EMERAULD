@@ -1,11 +1,23 @@
 ---
-id: dast_project
 type: Product
-canonical_name: "DAST"
-aliases: []
+title: DAST
+tags:
+- product
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/dast_project.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/martin_lepage]]'
+id: dast_project
+canonical_name: DAST
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

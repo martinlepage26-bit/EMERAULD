@@ -14,28 +14,32 @@ tags:
 - recursive-systems
 - product-concept
 - areas
-- rage-recursive-artifact-governance-engine-proposal-2026-05-11-md
 - rage
 - score
 - proposal
 - recursive
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-12'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md
-backlink_count: 9
+backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[raw/Desktop-Downloads-scan-2026-05-12/downloads/RAGE-dep-report]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 source:
 - raw/Desktop-Downloads-scan-2026-05-12/downloads/RAGE-dep-report.md
 ---

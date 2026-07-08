@@ -16,28 +16,33 @@ tags:
 - symbol
 - governance-frame
 - areas
-- smallest-building-block-relation-as-rule-md
 - relation
 - lily
 - calculator
 - valley
 - completeness
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-30'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Smallest Building Block — Relation as Rule.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
+- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Smallest Building Block — Relation as Rule

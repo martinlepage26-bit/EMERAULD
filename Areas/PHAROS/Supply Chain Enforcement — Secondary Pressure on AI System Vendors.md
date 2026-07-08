@@ -17,19 +17,19 @@ tags:
 - outreach
 - arbitrage
 - areas
-- supply-chain-enforcement-secondary-pressure-on-ai-system-vendors-md
 - vendor
 - questionnaire
 - vendors
 - diligence
 - customers
-- color-red
+- wiki
 status: active
+domain: pharos
 created: 2026-05-01T18:00
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
@@ -38,6 +38,10 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

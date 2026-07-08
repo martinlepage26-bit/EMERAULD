@@ -3,19 +3,17 @@ type: governance-doc
 title: BOWIE — Consolidation Operator
 aliases:
 - BOWIE — Consolidation Operator
-- governance/hephaistos/BOWIE
 tags:
 - governance
 - ai
 - hephaistos
 - governance-doc
-- bowie
 - consolidation
 - 'true'
 - archive
 - apply
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

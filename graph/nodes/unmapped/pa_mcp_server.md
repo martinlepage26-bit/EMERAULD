@@ -1,11 +1,25 @@
 ---
-id: pa_mcp_server
 type: Tool
-canonical_name: "Personal-Assistant-Agents MCP Server"
-aliases: ['personal-assistant-agents/mcp-server']
+title: Personal-Assistant-Agents MCP Server
+aliases:
+- personal-assistant-agents/mcp-server
+tags:
+- tool
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/pa_mcp_server.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: pa_mcp_server
+canonical_name: Personal-Assistant-Agents MCP Server
 confidence: high
-sources: ['hephaistos/personal-assistant-agents/mcp-server/']
+sources:
+- hephaistos/personal-assistant-agents/mcp-server/
 created_from: graphify_pass
 ---
 

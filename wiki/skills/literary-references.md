@@ -1,9 +1,6 @@
 ---
 type: skill
 title: literary-references
-aliases:
-- skills/literary-references
-- wiki/skills/literary-references
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - references
 - allusions
 - avoiding
-- color-purple
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

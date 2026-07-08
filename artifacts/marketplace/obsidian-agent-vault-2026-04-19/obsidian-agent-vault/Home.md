@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Home
-aliases:
-- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home
 tags:
 - artifact
 - agents
@@ -13,48 +11,46 @@ tags:
 - setup
 - templates
 - scripts
-- color-orange
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'
 vault_area: artifacts
 canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home.md
-backlink_count: 43
+backlink_count: 42
 backlinks:
-- '[[CLAUDE]]'
-- '[[archive/wiki-2026-07-08/D Drive Scan — 2026-05-12]]'
-- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06]]'
-- '[[wiki/EMERAULD]]'
-- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
-- '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Setup Guide]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
-- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Resources/Plugin Recommendations]]'
-- '[[archive/wiki-2026-07-08/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)]]'
+- '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
-  and Computational Memory Architectures]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
-- '[[Welcome]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/EMERAULD]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[Resources/Plugin Recommendations]]'
+- '[[Welcome]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-PRODUCTION-MANIFEST]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/D Drive Scan — 2026-05-12]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_concept]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_moc]]'
@@ -64,7 +60,6 @@ backlinks:
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Journal]]'
 - '[[memory/daily/2026-05-02]]'
-- '[[session-state]]'
 ---
 
 # Home

@@ -1,8 +1,6 @@
 ---
 type: note
 title: Drive G — Ranked Deletion Shortlist
-aliases:
-- tmp/drive-audit-2026-04-18/deletion-shortlist
 tags:
 - note
 - tmp
@@ -12,7 +10,6 @@ tags:
 - gdoc
 - negligible
 - drive
-- color-green
 status: temporary
 created: '2026-04-18'
 updated: '2026-06-26'

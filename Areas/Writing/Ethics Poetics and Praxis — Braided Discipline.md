@@ -13,23 +13,28 @@ tags:
 - professional-identity
 - governance
 - areas
-- ethics-poetics-and-praxis-braided-discipline-md
 - poietics
 - making
-- color-pink
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Ethics Poetics and Praxis — Braided Discipline.md
-backlink_count: 6
+backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
 - '[[Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Ethics Poetics and Praxis — Braided Discipline

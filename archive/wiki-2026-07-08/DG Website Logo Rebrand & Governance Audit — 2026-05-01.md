@@ -13,24 +13,28 @@ tags:
 - branding
 - external-systems
 - archive
-- dg-website-logo-rebrand-governance-audit-2026-05-01-md
 - shieldlogo
 - logo
 - revert
 - asset
 - header
-- color-purple
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons]]'
-- '[[archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/ExterminationDG]]'
 ---
 

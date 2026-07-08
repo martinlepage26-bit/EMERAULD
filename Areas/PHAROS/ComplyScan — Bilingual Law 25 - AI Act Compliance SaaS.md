@@ -20,25 +20,30 @@ tags:
 - market-opportunity
 - blink
 - areas
-- complyscan-bilingual-law-25-ai-act-compliance-saas-md
 - complyscan
 - solo
 - regulation
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-23'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
-- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/Sante-France]]'
 - '[[memory/daily/2026-04-23]]'
 ---

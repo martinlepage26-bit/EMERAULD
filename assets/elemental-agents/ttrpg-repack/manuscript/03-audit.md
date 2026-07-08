@@ -1,8 +1,6 @@
 ---
 type: publication-draft
 title: Audit
-aliases:
-- assets/elemental-agents/ttrpg-repack/manuscript/03-audit
 tags:
 - publication
 - agents
@@ -15,7 +13,6 @@ tags:
 - script
 - modifier
 - fire
-- color-orange
 status: draft-v0.1
 created: '2026-05-24'
 updated: '2026-06-26'
@@ -23,14 +20,12 @@ vault_area: assets
 canonical_path: assets/elemental-agents/ttrpg-repack/manuscript/03-audit.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/ASSETS MOC]]'
 chapter: 3
 word_target: ~3700
 voice_lock: established (matches chapters 01 and 02)
-audience: governance practitioners — primary; ritual practitioners and TTRPG designers
-  — halo readings
-position_in_book: chapter 3 of 3 (Doctrine → Operations → Audit). Final chapter; closes
-  the framework.
+audience: governance practitioners — primary; ritual practitioners and TTRPG designers — halo readings
+position_in_book: chapter 3 of 3 (Doctrine → Operations → Audit). Final chapter; closes the framework.
 ---
 
 # 3 · Audit

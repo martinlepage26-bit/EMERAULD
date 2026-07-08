@@ -15,32 +15,36 @@ tags:
 - negotiation
 - uqam
 - areas
-- les-f-es-dansent-sur-le-mont-royal-lepage-gauthier-anthropologica-md
 - disenchantment
 - report
 - negotiated
-- color-blue
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica).md
-backlink_count: 14
+backlink_count: 17
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)

@@ -6,7 +6,6 @@ aliases:
 - Percephal Diagnostic
 - Percephal Structure
 - Healing Protocol
-- wiki/Healing the Fisher King — Percephal Diagnostic Protocol
 tags:
 - method
 - project-recovery
@@ -14,24 +13,26 @@ tags:
 - percephal
 - vault-governance
 - wiki
-- healing-the-fisher-king-percephal-diagnostic-protocol-md
 - healing
 - fisher
 - perceval
 - land
-- color-purple
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Healing the Fisher King — Percephal Diagnostic Protocol.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
-- '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[wiki/Projects Hub]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Healing the Fisher King — Percephal Diagnostic Protocol

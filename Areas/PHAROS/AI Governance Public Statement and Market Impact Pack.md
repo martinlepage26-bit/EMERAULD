@@ -1,8 +1,6 @@
 ---
 type: note
 title: AI Governance Public Statement and Market Impact Pack
-aliases:
-- AI Governance Public Statement and Market Impact Pack
 tags:
 - ai-governance
 - pharos
@@ -11,13 +9,12 @@ tags:
 - compliance
 - note
 - areas
-- ai-governance-public-statement-and-market-impact-pack-md
 - public
 - loose
 - root
 - governance
-- color-purple
 status: active
+domain: pharos
 created: '2026-04-28'
 updated: '2026-06-26'
 vault_area: Areas
@@ -25,29 +22,29 @@ canonical_path: Areas/PHAROS/AI Governance Public Statement and Market Impact Pa
 backlink_count: 25
 backlinks:
 - '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
-- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
-- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
 - '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Home]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[memory/daily/2026-04-28]]'
 ---
 

@@ -11,19 +11,19 @@ tags:
 - commercialization
 - canon
 - areas
-- obsidian-agent-vault-asset-canon-md
 - marketplace
 - asset
 - setup
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Obsidian Agent Vault — Asset Canon.md
-backlink_count: 11
+backlink_count: 15
 backlinks:
-- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
 - '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[Areas/PHAROS/Governed Self-Improvement — Method Slide Asset]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
@@ -31,7 +31,12 @@ backlinks:
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-MANIFEST]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/elemental-agents/positioning-memo]]'
 - '[[projects/Second Brain — Fisher King Project State]]'
 ---

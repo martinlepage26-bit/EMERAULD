@@ -1,19 +1,14 @@
 ---
 type: skill
 title: publisher
-aliases:
-- skills/publisher
-- wiki/skills/publisher
 tags:
 - skill
 - wiki
 - skills
-- publisher
 - idioms
 - refine
 - shaping
 - novelist
-- color-teal
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -22,8 +17,8 @@ canonical_path: wiki/skills/publisher.md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — Writing and Humanization]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Skill Domain — Writing and Humanization]]'
 - '[[wiki/skills/literary-references]]'
 - '[[wiki/skills/novelist]]'
 - '[[wiki/skills/writing-skills]]'

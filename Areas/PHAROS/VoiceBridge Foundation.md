@@ -11,22 +11,26 @@ tags:
 - disability
 - voicebridge
 - areas
-- voicebridge-foundation-md
 - pilot
 - incorporation
 - referral
 - partners
-- color-teal
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/VoiceBridge Foundation.md
-backlink_count: 3
+backlink_count: 6
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Host Environment — pharos-corpus-runner-01]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # VoiceBridge Foundation

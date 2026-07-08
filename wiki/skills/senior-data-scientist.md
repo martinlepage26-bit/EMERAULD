@@ -1,9 +1,6 @@
 ---
 type: skill
 title: senior-data-scientist
-aliases:
-- skills/senior-data-scientist
-- wiki/skills/senior-data-scientist
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - scientist
 - exploratory
 - senior
-- color-blue
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -22,8 +18,8 @@ canonical_path: wiki/skills/senior-data-scientist.md
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[wiki/skills/exploratory-data-analysis]]'
 - '[[wiki/skills/statistical-analysis]]'
 skill_id: senior-data-scientist

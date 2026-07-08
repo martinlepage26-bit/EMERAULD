@@ -3,7 +3,6 @@ type: governance-doc
 title: STATUS — Self-Audit Against Co-Equal Authority Spec
 aliases:
 - STATUS — Self-Audit Against Co-Equal Authority Spec
-- governance/hephaistos/STATUS
 tags:
 - governance
 - ai
@@ -13,8 +12,8 @@ tags:
 - keyport
 - conflict
 - queen
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

@@ -1,37 +1,40 @@
 ---
 type: wiki
 title: Responsible AI Evaluation — Patient Readmission Model
-aliases:
-- Responsible AI Evaluation — Patient Readmission Model
 tags:
 - areas
 - ai
-- responsible-ai-evaluation-patient-readmission-model-md
 - readmission
 - spanish
 - recall
 - fairness
 - clinical
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model.md
-backlink_count: 13
+backlink_count: 17
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Writing/Governance by Denial]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Writing/Governance by Denial]]'
-- '[[Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/September 2024 Research Retrospective]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

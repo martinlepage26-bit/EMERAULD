@@ -13,25 +13,30 @@ tags:
 - language
 - materialization
 - areas
-- relational-presence-and-gendered-ai-naming-essence-and-materialized-projection-md
 - relational
 - trap
 - presence
 - essence
 - booby
-- color-pink
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
-- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[Areas/Writing/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection

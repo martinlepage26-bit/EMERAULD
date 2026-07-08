@@ -1,19 +1,16 @@
 ---
 type: project-state
 title: Workspace Cleanup Ledger — 2026-05-31
-aliases:
-- Workspace Cleanup Ledger — 2026-05-31
 tags:
 - project
 - project-state
 - archive
-- workspace-cleanup-ledger-2026-05-31-md
 - uploads
 - workspaces
 - martin
 - queering
 - removed
-- color-green
+- wiki-2026-07-08
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'

@@ -3,7 +3,6 @@ type: map
 title: Authority, Legitimacy, and Post-Sovereignty
 aliases:
 - TOPIC — Authority, Legitimacy, and Post-Sovereignty
-- wiki/Authority, Legitimacy, and Post-Sovereignty
 tags:
 - index
 - map
@@ -13,11 +12,9 @@ tags:
 - governance
 - power
 - wiki
-- authority-legitimacy-and-post-sovereignty-md
 - ritual
 - consent
 - queer
-- color-purple
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
@@ -25,51 +22,50 @@ vault_area: wiki
 canonical_path: wiki/Authority, Legitimacy, and Post-Sovereignty.md
 backlink_count: 44
 backlinks:
-- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
-- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
+- '[[Areas/PHAROS/Authority Without Power-Over]]'
+- '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
-- '[[Areas/PHAROS/Authority Without Power-Over]]'
-- '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
-- '[[wiki/Fluency and Interruption Theory]]'
+- '[[Areas/Writing/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
-- '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
-- '[[wiki/Home]]'
-- '[[wiki/Legal and Institutional Cases]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Novel and Creative Corpus]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
-- '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[Resources/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming]]'
-- '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
+- '[[Areas/Writing/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
+- '[[Resources/Recursive Governance Theory]]'
+- '[[Resources/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 ---
 
 # Authority, Legitimacy, and Post-Sovereignty

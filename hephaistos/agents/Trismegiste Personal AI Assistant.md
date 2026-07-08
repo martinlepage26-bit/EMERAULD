@@ -3,7 +3,6 @@ type: agent-spec
 title: Trismégiste — Personal AI Assistant
 aliases:
 - Trismégiste — Personal AI Assistant
-- hephaistos/agents/Trismegiste Personal AI Assistant
 tags:
 - agent
 - personal-ai
@@ -18,15 +17,15 @@ tags:
 - emerauld
 - second
 - brain
-- color-orange
 status: recovered
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/agents/Trismegiste Personal AI Assistant.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/HEPHAISTOS MOC]]'
 source_file: Trismégiste — Personal AI Assistant.md
 format: md
 ---

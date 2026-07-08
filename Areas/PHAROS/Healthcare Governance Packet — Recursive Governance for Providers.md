@@ -7,45 +7,50 @@ tags:
 - areas
 - recursion
 - governance
-- healthcare-governance-packet-recursive-governance-for-providers-md
 - healthcare
 - pass
 - discharge
 - blocked
 - clinical
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers.md
-backlink_count: 26
+backlink_count: 30
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
-- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study]]'
-- '[[Areas/Writing/Healthcare Packet — Version Genealogy]]'
-- '[[wiki/Home]]'
-- '[[wiki/LOTUS Model and Agency]]'
 - '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
+- '[[Areas/Writing/Healthcare Packet — Version Genealogy]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[wiki/September 2024 Research Retrospective]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
-- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

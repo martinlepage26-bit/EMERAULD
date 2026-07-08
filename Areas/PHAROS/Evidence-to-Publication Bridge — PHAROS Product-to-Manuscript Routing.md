@@ -13,24 +13,27 @@ tags:
 - governance
 - architecture
 - areas
-- evidence-to-publication-bridge-pharos-product-to-manuscript-routing-md
 - manuscript
 - cluster
 - bridge
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-06-26'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing.md
-backlink_count: 6
+backlink_count: 9
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
-- '[[Areas/Writing/AREA]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
+- '[[Areas/Writing/AREA]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing

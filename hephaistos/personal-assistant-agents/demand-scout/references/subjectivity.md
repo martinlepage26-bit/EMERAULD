@@ -1,9 +1,6 @@
 ---
 type: note
 title: Subjectivity
-aliases:
-- personal-assistant-agents/demand-scout/references/subjectivity
-- hephaistos/personal-assistant-agents/demand-scout/references/subjectivity
 tags:
 - note
 - agents
@@ -13,10 +10,9 @@ tags:
 - demand
 - heart
 - opportunities
-- subjectivity
 - channel
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

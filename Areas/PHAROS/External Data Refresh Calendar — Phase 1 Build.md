@@ -1,19 +1,17 @@
 ---
 type: governance-procedures
 title: External Data Refresh Calendar (Phase 1 Build)
-aliases:
-- External Data Refresh Calendar — Phase 1 Build
 tags:
 - governance-procedures
 - areas
-- external-data-refresh-calendar-phase-1-build-md
 - quarterly
 - manual
 - annual
 - check
 - weekly
-- color-purple
+- pharos
 status: active
+domain: pharos
 created: '2026-04-27'
 updated: '2026-06-26'
 vault_area: Areas
@@ -24,7 +22,7 @@ backlinks:
 - '[[Areas/PHAROS/External Data Registry — Phase 1 Build]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
 phase: Phase 1 Infrastructure
 ---
 

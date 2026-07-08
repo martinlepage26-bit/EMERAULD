@@ -11,23 +11,27 @@ tags:
 - governance
 - method
 - areas
-- governed-self-improvement-method-slide-asset-md
 - obsidian
 - asset
 - slide
 - deck
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Governed Self-Improvement — Method Slide Asset.md
-backlink_count: 4
+backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Governed Self-Improvement — Method Slide Asset

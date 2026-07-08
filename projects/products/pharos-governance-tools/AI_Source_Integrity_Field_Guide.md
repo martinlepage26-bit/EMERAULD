@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: AI SOURCE INTEGRITY FIELD GUIDE
+tags:
+- project-mirror
+- projects
+- products
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/products/pharos-governance-tools/AI_Source_Integrity_Field_Guide.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # AI SOURCE INTEGRITY FIELD GUIDE
 **PHAROS AI — v1.0**  
 **Because "the AI said so" is not a citation.**  

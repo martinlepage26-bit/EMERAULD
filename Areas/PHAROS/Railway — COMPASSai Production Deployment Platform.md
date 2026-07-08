@@ -12,22 +12,26 @@ tags:
 - infrastructure
 - railway
 - areas
-- railway-compassai-production-deployment-platform-md
 - classifier
 - construction
 - deployed
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-06-22'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Railway — COMPASSai Production Deployment Platform.md
-backlink_count: 4
+backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Railway — COMPASSai Production Deployment Platform

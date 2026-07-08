@@ -3,33 +3,32 @@ type: synthesis
 title: Idea Discovery — 2026-06-29
 aliases:
 - idea-discovery-2026-06-29
-- 2026-06-29 - idea-discovery
 tags:
 - thinking
 - idea-discovery
 - synthesis
 - areas
-- 2026-06-29-idea-discovery-md
 - echo
 - momentum
 - project
 - pull
 - launch
-- color-lime
+- pharos
 status: active
+domain: pharos
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: Areas
 canonical_path: Areas/PHAROS/2026-06-29 - idea-discovery.md
 backlink_count: 7
 backlinks:
-- '[[Logs/2026-06-29]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
+- '[[Logs/2026-06-29]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[index]]'
 - '[[memory/agents/Learning]]'
 - '[[memory/daily/2026-06-29]]'
-- '[[session-state]]'
 source_notes:
 - '[[projects/Second Brain — Fisher King Project State]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'

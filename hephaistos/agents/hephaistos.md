@@ -3,37 +3,31 @@ type: agent-spec
 title: Hephaistos — Tier 0 Forging Agent
 aliases:
 - Hephaistos — Tier 0 Forging Agent
-- hephaistos/agents/hephaistos
 tags:
 - agents
 - ai
-- hephaistos
 - agent-spec
 - agent
 - scientific
 - task
 - owner
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/agents/hephaistos.md
-backlink_count: 6
+backlink_count: 5
 backlinks:
-- '[[.github/agents/hephaistos.agent]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/global/HEPHAISTOS-STATUS]]'
 - '[[governance/hephaistos/hephaistos-to-queen-keyport]]'
 name: hephaistos
-description: Tier 0 forging and scope-definition agent in Martin's three-agent architecture.
-  Use for task shaping, artifact design, skill composition, and scope handoff into
-  Queen Keyport governance and Hermes routing.
+description: Tier 0 forging and scope-definition agent in Martin's three-agent architecture. Use for task shaping, artifact design, skill composition, and scope handoff into Queen Keyport governance and Hermes routing.
 model: sonnet
-tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite,
-  TaskCreate, TaskUpdate, TaskGet, TaskList
+tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
 skills:
 - architecture
 - ai-agents-architect

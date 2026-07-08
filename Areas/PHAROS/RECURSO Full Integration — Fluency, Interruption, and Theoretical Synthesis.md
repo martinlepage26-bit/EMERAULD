@@ -1,37 +1,40 @@
 ---
 type: wiki
 title: RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis
-aliases:
-- RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis
 tags:
 - areas
 - recurso
-- recurso-full-integration-fluency-interruption-and-theoretical-synthesis-md
 - upstream
 - classification
 - fluency
 - accountability
 - interruption
-- color-teal
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis.md
-backlink_count: 12
+backlink_count: 16
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
-- '[[wiki/Fluency and Interruption Theory]]'
-- '[[Areas/Writing/Governance by Denial]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
+- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[Areas/Writing/Governance by Denial]]'
+- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Home]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis

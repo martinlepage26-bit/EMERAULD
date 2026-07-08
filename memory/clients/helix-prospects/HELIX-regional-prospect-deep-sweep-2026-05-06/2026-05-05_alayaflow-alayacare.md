@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: AlayaFlow - AlayaCare
-aliases:
-- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_alayaflow-alayacare
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - care
 - errors
 - agents
-- color-pink
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -20,7 +17,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_alayaflow-alayacare.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/MEMORY MOC]]'
 source_url: https://alayacare.com/alayaflow/
 date: '2026-05-05'
 scraped: '2026-05-05'

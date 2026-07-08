@@ -1,9 +1,6 @@
 ---
 type: skill
 title: loki-mode
-aliases:
-- skills/loki-mode
-- wiki/skills/loki-mode
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - devops
 - mode
 - orchestrates
-- color-orange
 status: active
+domain: Creative and Writing
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 skill_id: loki-mode
-domain: Creative and Writing
 codex_path: /home/cerebrhoe/.codex/skills/loki-mode/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

@@ -12,14 +12,14 @@ tags:
 - papers
 - pipeline
 - areas
-- academic-paper-pipeline-md
 - society
 - submission
 - compass
 - springer
 - paper
-- color-purple
+- writing
 status: active
+domain: writing
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
@@ -27,41 +27,41 @@ canonical_path: Areas/Writing/Academic Paper Pipeline.md
 backlink_count: 39
 backlinks:
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/IP and Manuscript Brief — 2026-05-14]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
-- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
 - '[[Areas/Writing/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/Writing/Glitching the Sacred]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[Areas/PHAROS/IP and Manuscript Brief — 2026-05-14]]'
 - '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
-- '[[wiki/Novel and Creative Corpus]]'
-- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
-- '[[Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
 - '[[Areas/Writing/Per-Paper Project Structure — Folder and File Architecture]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
-- '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
-- '[[wiki/Skill Domain — Research and Scholarly Work]]'
-- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
-- '[[Resources/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
-- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
 - '[[Areas/Writing/Version Genealogy System]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Research Hub]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
+- '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
+- '[[Resources/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
 - '[[memory/daily/2026-05-10]]'
 - '[[projects/Glitching the Sacred — Fisher King Project State]]'
 - '[[projects/Papers — Fisher King Project State]]'

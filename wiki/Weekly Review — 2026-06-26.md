@@ -4,34 +4,40 @@ title: Weekly Review — 2026-06-26
 aliases:
 - Weekly Review 2026-06-26
 - weekly-review-2026-06-26
-- wiki/Weekly Review — 2026-06-26
 tags:
 - review
 - weekly
 - wiki
-- weekly-review-2026-06-26-md
 - compassai
 - classifier
 - tmux
 - publication
 - railway
-- color-teal
 status: active
 created: '2026-06-26'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Weekly Review — 2026-06-26.md
-backlink_count: 9
+backlink_count: 18
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[wiki/Workflows Hub]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-06-26]]'
 - '[[memory/daily/2026-06-28]]'
 - '[[memory/daily/2026-06-29]]'
 - '[[memory/daily/2026-06-30]]'
 - '[[memory/daily/2026-07-01]]'
-- '[[session-state]]'
+- '[[memory/daily/2026-07-02]]'
+- '[[memory/daily/2026-07-03]]'
+- '[[memory/daily/2026-07-04]]'
+- '[[memory/daily/2026-07-05]]'
+- '[[memory/daily/2026-07-06]]'
+- '[[memory/daily/2026-07-07]]'
 ---
 
 # Weekly Review — 2026-06-26

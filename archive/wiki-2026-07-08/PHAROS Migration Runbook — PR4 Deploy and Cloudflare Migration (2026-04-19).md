@@ -7,25 +7,27 @@ aliases:
 - PHAROS Migration 2026-04-19
 tags:
 - archive
-- pharos-migration-runbook-pr4-deploy-and-cloudflare-migration-2026-04-19-md
 - migration
 - cloudflare
 - openrouter
 - pushed
 - govern
-- color-orange
+- wiki
+- wiki-2026-07-08
 status: archived
+priority: low
 created: '2026-04-19'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19).md
 backlink_count: 13
 backlinks:
-- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/01-deploy-config/migration-govern-to-pharos]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/02-pipeline-triage/martin_decision_brief]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/03-pr4-hardening/CODEX_PROMPT_SERVER_HARDENING]]'
@@ -33,7 +35,6 @@ backlinks:
 - '[[artifacts/2026-04-19-pharos-migration-pr4/docs/CODEX_PROMPT_SERVER_HARDENING]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/docs/martin_decision_brief]]'
 - '[[cloudflare/figma-mcp-server/README]]'
-- '[[session-state]]'
 ---
 
 # PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)

@@ -14,27 +14,33 @@ tags:
 - epistemic-discipline
 - session-analysis
 - areas
-- emergent-helix-session-truth-claims-ingestion-and-booby-trap-diagnostics-2026-05-07-md
 - ingestion
 - booby
 - diagnostics
 - invariant
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-12'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07).md
-backlink_count: 8
+backlink_count: 13
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
+- '[[Areas/PHAROS/HELIX Full Protocol Session — Martin''s Governance Synthesis, Gemini Target (2026-07-03)]]'
 - '[[Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 source:
 - raw sources/EMERGENT HELIX Session — Vaisseau de Thésée.md
 ---

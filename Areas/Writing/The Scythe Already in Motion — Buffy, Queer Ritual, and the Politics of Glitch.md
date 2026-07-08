@@ -1,45 +1,34 @@
 ---
 type: wiki
 title: The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch
-aliases:
-- The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch
 tags:
 - areas
 - ritual
 - queer
-- the-scythe-already-in-motion-buffy-queer-ritual-and-the-politics-of-glitch-md
 - grief
 - fragments
 - magical
 - glitch
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch.md
-backlink_count: 37
+backlink_count: 41
 backlinks:
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
-- '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
-- '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[Areas/Writing/Glitching the Sacred]]'
-- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
@@ -47,14 +36,28 @@ backlinks:
 - '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
-- '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
-- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[Areas/Writing/The Ballad of the Witches'' Road — Analysis]]'
 - '[[Areas/Writing/The Familiars of Hollywood — Queerness, Whiteness, and Representation]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[archive/session-state/session-state-001]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
-- '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 - '[[projects/Glitching the Sacred — Fisher King Project State]]'
 ---

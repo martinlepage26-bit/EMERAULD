@@ -14,31 +14,35 @@ tags:
 - commercial
 - meta
 - areas
-- posture-vs-execution-drift-the-practice-of-refusal-md
 - strategic
 - finish
 - refuse
 - lost
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal.md
-backlink_count: 13
+backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
-- '[[wiki/Fisher King Hub — Project Recovery Map]]'
-- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note]]'
 ---
 

@@ -13,25 +13,29 @@ tags:
 - outreach
 - first-customer
 - archive
-- pharos-stuck-deal-diagnostic-minimum-viable-offer-2026-05-26-md
 - deal
 - sprint
 - stuck
 - procurement
 - diagnostic
-- color-orange
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-26'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26).md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)

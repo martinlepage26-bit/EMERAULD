@@ -1,42 +1,45 @@
 ---
 type: wiki
 title: Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis
-aliases:
-- Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis
 tags:
 - areas
 - magic
 - ritual
 - queer
-- sociology-of-modern-magic-song-corpus-and-queer-ritual-synthesis-md
 - song
 - pagan
 - enchantment
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis.md
-backlink_count: 18
+backlink_count: 22
 backlinks:
-- '[[Resources/Disease — Lady Gaga — Lyrics]]'
-- '[[wiki/Home]]'
+- '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
-- '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
-- '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/Home]]'
+- '[[Resources/Disease — Lady Gaga — Lyrics]]'
+- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
+- '[[Resources/The Ballad of the Witches'' Road — Lyrics]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

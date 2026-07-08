@@ -1,30 +1,28 @@
 ---
 type: version-genealogy
 title: September 2024 Retrospective — Version Genealogy
-aliases:
-- September 2024 Retrospective — Version Genealogy
 tags:
 - version-genealogy
 - areas
-- september-2024-retrospective-version-genealogy-md
 - september
 - retrospective
 - version
 - flowchart
 - mermaid
-- color-orange
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/September 2024 Retrospective — Version Genealogy.md
 backlink_count: 6
 backlinks:
+- '[[Areas/Writing/Version Genealogy System]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[wiki/September 2024 Research Retrospective]]'
-- '[[Areas/Writing/Version Genealogy System]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---
 

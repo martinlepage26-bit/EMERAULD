@@ -1,9 +1,6 @@
 ---
 type: skill
 title: agent-memory-systems
-aliases:
-- skills/agent-memory-systems
-- wiki/skills/agent-memory-systems
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - cornerstone
 - term
 - million
-- color-green
 status: active
+domain: Agent Architecture and Development
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: agent-memory-systems
-domain: Agent Architecture and Development
 codex_path: /home/cerebrhoe/.codex/skills/agent-memory-systems/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

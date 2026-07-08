@@ -1,19 +1,15 @@
 ---
 type: skill
 title: screenshot
-aliases:
-- skills/screenshot
-- wiki/skills/screenshot
 tags:
 - skill
 - wiki
 - skills
-- screenshot
 - pixel
 - region
 - unavailable
-- color-orange
 status: active
+domain: AI LLM and Tools
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +19,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: screenshot
-domain: AI LLM and Tools
 codex_path: /home/cerebrhoe/.codex/skills/screenshot/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

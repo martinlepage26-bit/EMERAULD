@@ -12,34 +12,37 @@ tags:
 - regulation
 - frameworks
 - resources
-- ai-governance-reference-stack-annotated-library-operational-2026-03-11-md
 - annotated
 - roadmaps
 - operational
-- color-orange
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11).md
-backlink_count: 16
+backlink_count: 19
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
-- '[[Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[wiki/Research Hub]]'
+- '[[Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)]]'
 - '[[Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
-- '[[wiki/Research Hub]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
-- '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)

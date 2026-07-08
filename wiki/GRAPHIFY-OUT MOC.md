@@ -7,7 +7,17 @@ tags:
 - graph
 - report
 - recovered
-- color-teal
+- moc
+- wiki
+status: active
+priority: high
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: wiki
+canonical_path: wiki/GRAPHIFY-OUT MOC.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Home]]'
 ---
 
 # graphify-out MOC

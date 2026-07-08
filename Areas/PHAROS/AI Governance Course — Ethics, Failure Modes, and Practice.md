@@ -1,30 +1,33 @@
 ---
 type: wiki
 title: AI Governance Course — Ethics, Failure Modes, and Practice
-aliases:
-- AI Governance Course — Ethics, Failure Modes, and Practice
 tags:
 - areas
 - governance
 - ai
-- ai-governance-course-ethics-failure-modes-and-practice-md
 - course
 - brake
 - ethics
 - spots
 - blind
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
+- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_trusted-ai-crim]]'
 ---
 

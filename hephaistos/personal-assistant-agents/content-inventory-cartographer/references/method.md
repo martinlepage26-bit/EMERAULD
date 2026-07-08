@@ -1,9 +1,6 @@
 ---
 type: note
 title: Method
-aliases:
-- personal-assistant-agents/content-inventory-cartographer/references/method
-- hephaistos/personal-assistant-agents/content-inventory-cartographer/references/method
 tags:
 - note
 - agents
@@ -15,8 +12,8 @@ tags:
 - inventory
 - contradiction
 - assets
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
@@ -25,10 +22,10 @@ backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/BOWIE]]'

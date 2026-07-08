@@ -1,28 +1,26 @@
 ---
 type: session-state
 title: EMERAULD Session State
-aliases:
-- archive/session-state/session-state-001
 tags:
 - session-state
 - archive
-- added
 - library
 - pharos
 - updated
 - github
-- color-orange
 status: archived
+priority: low
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/session-state/session-state-001.md
-backlink_count: 5
+backlink_count: 6
 backlinks:
-- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[session-state]]'
 agent: Trismégiste
 ---

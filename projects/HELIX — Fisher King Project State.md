@@ -1,8 +1,6 @@
 ---
 type: project
 title: HELIX — Fisher King Project State
-aliases:
-- projects/HELIX — Fisher King Project State
 tags:
 - project
 - fisher-king
@@ -10,13 +8,12 @@ tags:
 - pharos
 - product
 - projects
-- helix-fisher-king-project-state-md
 - buyer
 - backend
 - sale
 - prospect
-- color-purple
 status: in-progress
+priority: high
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: projects

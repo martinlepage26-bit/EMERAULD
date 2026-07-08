@@ -14,29 +14,33 @@ tags:
 - epistemics
 - generative-minimalism
 - resources
-- eml-function-minimal-operator-and-scientific-calculator-completeness-md
 - calculator
 - trees
 - functions
 - trigonometric
 - elementary
-- color-orange
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
-- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Home]]'
+- '[[Resources/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # EML Function — Minimal Operator and Scientific-Calculator Completeness

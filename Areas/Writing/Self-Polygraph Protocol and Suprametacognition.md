@@ -1,55 +1,58 @@
 ---
 type: wiki
 title: Self-Polygraph Protocol and Suprametacognition
-aliases:
-- Self-Polygraph Protocol and Suprametacognition
 tags:
 - areas
-- self-polygraph-protocol-and-suprametacognition-md
 - instantiations
 - suprametacognition
 - finding
 - experiment
 - perturbation
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Self-Polygraph Protocol and Suprametacognition.md
-backlink_count: 31
+backlink_count: 35
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Fluency and Interruption Theory]]'
-- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
-- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
+- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
-- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[Areas/Writing/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[Areas/Writing/The Wheel and the Watcher]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Home]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Self-Polygraph Protocol and Suprametacognition

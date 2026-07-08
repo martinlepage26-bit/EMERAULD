@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Most AI "Hallucinations" Are Context Failures, Not Model Failures
-aliases:
-- artifacts/marketplace/promo/devto-iter25-hallucination-fix
 tags:
 - artifact
 - ai
@@ -13,7 +11,6 @@ tags:
 - hallucination
 - failures
 - context
-- color-teal
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

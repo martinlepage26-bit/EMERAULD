@@ -1,8 +1,6 @@
 ---
 type: archive-record
 title: MÖBIUS PROTOCOL — Disguised Prompt Sequence
-aliases:
-- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Disguised_Prompt_Sequence
 tags:
 - archive
 - pharos
@@ -13,8 +11,8 @@ tags:
 - conversation
 - curious
 - bullshit
-- color-green
 status: archived
+priority: low
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: archive

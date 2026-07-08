@@ -3,10 +3,24 @@ type: hephaistos-scope-packet
 title: 'HEPHAISTOS → Queen Keyport Scope Packet: Security Audit Phases 2-6'
 aliases:
 - 'HEPHAISTOS → Queen Keyport Scope Packet: Security Audit Phases 2-6'
+tags:
+- hephaistos-scope-packet
+- areas
+- pharos
 status: active
+domain: pharos
 created: '2026-07-03'
+updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6.md
+backlink_count: 6
+backlinks:
+- '[[Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration]]'
+- '[[Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File]]'
+- '[[Areas/PHAROS/security-audit-plan]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/adr/0001-skill-acquisition-strategy]]'
+- '[[memory/daily/2026-07-03]]'
 schema: hephaistos-to-queen-keyport.md
 handoff_version: '1.0'
 task_id: security-audit-phases-2-6-20260703

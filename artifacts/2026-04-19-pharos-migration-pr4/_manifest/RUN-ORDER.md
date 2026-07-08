@@ -1,8 +1,6 @@
 ---
 type: runbook
 title: 'RUN ORDER — L99 PHAROS Migration + PR #4'
-aliases:
-- artifacts/2026-04-19-pharos-migration-pr4/_manifest/RUN-ORDER
 tags:
 - runbook
 - artifacts
@@ -12,7 +10,6 @@ tags:
 - hardening
 - deploy
 - railway
-- color-green
 status: active
 created: '2026-04-19'
 updated: '2026-06-26'

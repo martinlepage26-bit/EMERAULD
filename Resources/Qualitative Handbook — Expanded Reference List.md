@@ -15,33 +15,37 @@ tags:
 - ritual
 - queer-theory
 - resources
-- qualitative-handbook-expanded-reference-list-md
 - inductive
 - qualitative
 - queer
-- color-teal
+- wiki
 status: active
+domain: reference
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Qualitative Handbook — Expanded Reference List.md
-backlink_count: 16
+backlink_count: 20
 backlinks:
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/MASTER PACK — D Drive Archive Map]]'
-- '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
-- '[[wiki/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
-- '[[Resources/The Golden Bough — Frazer (Magic, Religion, Regicide)]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
+- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[Resources/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord)]]'
+- '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
+- '[[Resources/The Golden Bough — Frazer (Magic, Religion, Regicide)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/skills/qualitative]]'
 ---
 

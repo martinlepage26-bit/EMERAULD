@@ -1,8 +1,6 @@
 ---
 type: wiki
 title: Epistemic AI Purple Teaming
-aliases:
-- Epistemic AI Purple Teaming
 tags:
 - ai-governance
 - epistemics
@@ -12,14 +10,14 @@ tags:
 - belief-formation
 - pharos
 - areas
-- epistemic-ai-purple-teaming-md
 - purple
 - teaming
 - epistemic
 - blue
 - belief
-- color-purple
+- wiki
 status: recovered
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
@@ -27,10 +25,10 @@ canonical_path: Areas/PHAROS/Epistemic AI Purple Teaming.md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 source_file: Epistemic AI Purple Teaming.txt
 format: txt

@@ -1,9 +1,6 @@
 ---
 type: skill
 title: figma-code-connect-components
-aliases:
-- skills/figma-code-connect-components
-- wiki/skills/figma-code-connect-components
 tags:
 - skill
 - wiki
@@ -13,8 +10,8 @@ tags:
 - code
 - components
 - component
-- color-orange
 status: active
+domain: Design and UX
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Design and UX]]'
 skill_id: figma-code-connect-components
-domain: Design and UX
 codex_path: /home/cerebrhoe/.codex/skills/figma-code-connect-components/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

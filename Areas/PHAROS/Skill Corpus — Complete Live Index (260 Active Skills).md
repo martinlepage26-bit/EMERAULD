@@ -1,8 +1,6 @@
 ---
 type: wiki
 title: Skill Corpus — Complete Live Index (260 Active Skills)
-aliases:
-- Skill Corpus — Complete Live Index (260 Active Skills)
 tags:
 - codex
 - skills
@@ -10,43 +8,48 @@ tags:
 - live-index
 - capabilities
 - areas
-- skill-corpus-complete-live-index-260-active-skills-md
 - figma
 - backups
 - skill
 - phase
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills).md
-backlink_count: 229
+backlink_count: 233
 backlinks:
+- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
+- '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 - '[[wiki/Skill Domain — Design and UX]]'
 - '[[wiki/Skill Domain — Development and Testing]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
-- '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[wiki/Skill Domain — Security and Compliance]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/brief-to-tasks]]'
 - '[[wiki/archive/diamond-eyes]]'
 - '[[wiki/archive/doc]]'
 - '[[wiki/archive/repo-logo-generator]]'
 - '[[wiki/archive/ux-researcher-designer]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/skills/agent-creator]]'
 - '[[wiki/skills/agent-manager-skill]]'
 - '[[wiki/skills/agent-memory-mcp]]'

@@ -1,9 +1,6 @@
 ---
 type: skill
 title: reference-list-builder
-aliases:
-- skills/reference-list-builder
-- wiki/skills/reference-list-builder
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - bibliogr
 - builder
 - bibliographies
-- color-orange
 status: active
+domain: Creative and Writing
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 skill_id: reference-list-builder
-domain: Creative and Writing
 codex_path: /home/cerebrhoe/.codex/skills/reference-list-builder/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

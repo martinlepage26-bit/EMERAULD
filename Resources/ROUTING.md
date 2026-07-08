@@ -1,20 +1,17 @@
 ---
 type: routing-note
 title: Resources — What Goes Here
-aliases:
-- Resources/ROUTING
 tags:
 - routing-note
 - resources
-- routing-md
 - processed
 - cheatsheet
 - evergreen
 - annotated
-- color-orange
 status: active
+domain: reference
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: Resources
 canonical_path: Resources/ROUTING.md
 backlink_count: 1

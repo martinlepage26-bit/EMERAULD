@@ -14,27 +14,30 @@ tags:
 - genre
 - discourse-analysis
 - resources
-- narrative-identity-and-academic-storytelling-hyland-2018-ilcea-md
 - ilcea
 - acknowledgements
 - genres
 - webpages
 - legibility
-- color-blue
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA).md
-backlink_count: 7
+backlink_count: 10
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)

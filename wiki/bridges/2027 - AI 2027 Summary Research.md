@@ -3,7 +3,6 @@ type: bridge-note
 title: AI 2027 Summary Research
 aliases:
 - AI 2027 Summary Research
-- wiki/bridges/2027 - AI 2027 Summary Research
 tags:
 - bridge
 - ai
@@ -15,20 +14,17 @@ tags:
 - training
 - xgpt
 - romeo
-- color-teal
 status: recovered
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/bridges/2027 - AI 2027 Summary Research.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 year: 2027
-source_file: 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf
-  - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt
+source_file: 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt
 format: txt
 ---
 

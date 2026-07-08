@@ -6,62 +6,67 @@ aliases:
 tags:
 - areas
 - ai
-- emotional-alliance-vs-evidentiary-discipline-in-ai-md
 - emotional
 - alliance
 - pattern
 - user
 - wrong
-- color-blue
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI.md
-backlink_count: 43
+backlink_count: 47
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts]]'
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
-- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/PHAROS/Anti-Charm]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
 - '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
-- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
-- '[[wiki/Home]]'
-- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
-- '[[Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
 - '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture]]'
 - '[[Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
-- '[[Resources/Recursive Governance Theory]]'
+- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
+- '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
-- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
-- '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
-- '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
-- '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
-- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[Areas/Writing/Version Genealogy System]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Home]]'
+- '[[Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
+- '[[Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
+- '[[Resources/Recursive Governance Theory]]'
+- '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/agents/Learning]]'
 ---
 

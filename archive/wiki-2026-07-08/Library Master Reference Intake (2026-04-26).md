@@ -12,26 +12,32 @@ tags:
 - master-reference
 - library
 - archive
-- library-master-reference-intake-2026-04-26-md
 - unreadable
 - converted
 - ingest
-- article
-- color-lime
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26).md
-backlink_count: 7
+backlink_count: 14
 backlinks:
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
+- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 - '[[archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
 - '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'
-- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
-- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
-- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
-- '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 D Library Master Reference Intake (2026-04-26)

@@ -1,32 +1,35 @@
 ---
 type: wiki
 title: Loop Hinge Candidate — This Paper May Not Exist
-aliases:
-- Loop Hinge Candidate — This Paper May Not Exist
 tags:
 - areas
 - paper
-- loop-hinge-candidate-this-paper-may-not-exist-md
 - hinge
 - loop
 - seed
 - method
-- color-lime
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Home]]'
-- '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
 - '[[Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Loop Hinge Candidate — This Paper May Not Exist

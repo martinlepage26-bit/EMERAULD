@@ -1,8 +1,6 @@
 ---
 type: project
 title: LOTUS — Fisher King Project State
-aliases:
-- projects/LOTUS — Fisher King Project State
 tags:
 - project
 - fisher-king
@@ -10,12 +8,11 @@ tags:
 - method
 - agency
 - projects
-- lotus-fisher-king-project-state-md
 - mobile
 - shadow
 - worked
-- color-purple
 status: in-progress
+priority: high
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: projects

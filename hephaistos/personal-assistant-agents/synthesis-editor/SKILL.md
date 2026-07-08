@@ -1,11 +1,7 @@
 ---
 type: skill-spec
 title: Synthesis Editor
-aliases:
-- personal-assistant-agents/synthesis-editor/SKILL
-- hephaistos/personal-assistant-agents/synthesis-editor/SKILL
 tags:
-- skill
 - agents
 - skill-spec
 - personal-assistant-agents
@@ -16,21 +12,22 @@ tags:
 - brief
 - read
 - durable
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/synthesis-editor/SKILL.md
-backlink_count: 1
+backlink_count: 2
 backlinks:
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[graph/nodes/unmapped/vault_maintenance_pipeline_workflow]]'
 name: synthesis-editor
-description: Use when raw material should become a durable wiki note, editorial brief,
-  or structured content packet without losing source trace.
+description: Use when raw material should become a durable wiki note, editorial brief, or structured content packet without losing source trace.
 entity_type: Tool
 entity_id: synthesis_editor
-entity_aliases: ['synthesis-editor']
+entity_aliases:
+- synthesis-editor
 entity_confidence: high
 ---
 

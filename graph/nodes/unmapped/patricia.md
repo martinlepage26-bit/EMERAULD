@@ -1,11 +1,23 @@
 ---
-id: patricia
 type: Person
-canonical_name: "Patricia"
-aliases: []
+title: Patricia
+tags:
+- person
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/patricia.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/martin_lepage]]'
+id: patricia
+canonical_name: Patricia
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

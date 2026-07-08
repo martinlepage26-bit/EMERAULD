@@ -11,28 +11,30 @@ tags:
 - eval
 - agent-architecture
 - areas
-- trism-giste-eval-v2-argus-closure-and-redesign-2026-05-05-md
 - trism
 - giste
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-05'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md
-backlink_count: 11
+backlink_count: 12
 backlinks:
-- '[[.github/agents/argus.agent]]'
-- '[[.trash/2026-05-05_botpress-enterprise]]'
 - '[[Areas/PHAROS/Argus]]'
-- '[[CLAUDE]]'
-- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/Trismégiste]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)

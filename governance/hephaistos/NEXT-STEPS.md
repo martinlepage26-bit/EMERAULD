@@ -3,7 +3,6 @@ type: governance-doc
 title: HEPHAISTOS Forging Integration — Next Steps
 aliases:
 - HEPHAISTOS Forging Integration — Next Steps
-- governance/hephaistos/NEXT-STEPS
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - skills
 - consolidation
 - weeks
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

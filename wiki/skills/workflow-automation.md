@@ -1,9 +1,6 @@
 ---
 type: skill
 title: workflow-automation
-aliases:
-- skills/workflow-automation
-- wiki/skills/workflow-automation
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - hiccup
 - angry
 - inngest
-- color-orange
 status: active
+domain: Development and Testing
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: workflow-automation
-domain: Development and Testing
 codex_path: /home/cerebrhoe/.codex/skills/workflow-automation/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

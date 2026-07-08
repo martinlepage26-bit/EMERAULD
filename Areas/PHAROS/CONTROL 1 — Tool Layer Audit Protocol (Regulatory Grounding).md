@@ -7,14 +7,14 @@ aliases:
 tags:
 - governance-control
 - areas
-- control-1-tool-layer-audit-protocol-regulatory-grounding-md
 - tool
 - plugin
 - audit
 - governance
 - cascade
-- color-purple
+- pharos
 status: active
+domain: pharos
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Areas
@@ -26,23 +26,23 @@ backlinks:
 - '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
-- '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance Controls — Incident Response (Control Failure Procedures)]]'
 - '[[Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap]]'
-- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
-- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
-- '[[Resources/Plugin Recommendations]]'
 - '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
+- '[[Resources/Plugin Recommendations]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'
 tier: critical

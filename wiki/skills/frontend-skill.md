@@ -1,9 +1,6 @@
 ---
 type: skill
 title: frontend-skill
-aliases:
-- skills/frontend-skill
-- wiki/skills/frontend-skill
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - cohesive
 - tasteful
 - visually
-- color-orange
 status: active
+domain: Design and UX
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Design and UX]]'
 skill_id: frontend-skill
-domain: Design and UX
 codex_path: /home/cerebrhoe/.codex/skills/frontend-skill/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

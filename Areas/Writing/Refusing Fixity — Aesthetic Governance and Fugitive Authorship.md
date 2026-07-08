@@ -1,45 +1,38 @@
 ---
 type: wiki
 title: Refusing Fixity — Aesthetic Governance and Fugitive Authorship
-aliases:
-- Refusing Fixity — Aesthetic Governance and Fugitive Authorship
 tags:
 - areas
 - governance
-- refusing-fixity-aesthetic-governance-and-fugitive-authorship-md
 - aesthetic
 - authorship
 - fugitive
 - experiment
 - dead
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship.md
-backlink_count: 29
+backlink_count: 33
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[Areas/PHAROS/Authority Without Power-Over]]'
+- '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
-- '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
-- '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[Areas/Writing/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Novel and Creative Corpus]]'
-- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
-- '[[wiki/Queer Theory Foundations]]'
+- '[[Areas/Writing/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
@@ -48,6 +41,16 @@ backlinks:
 - '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

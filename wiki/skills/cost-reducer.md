@@ -1,9 +1,6 @@
 ---
 type: skill
 title: cost-reducer
-aliases:
-- skills/cost-reducer
-- wiki/skills/cost-reducer
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - cost
 - miscellaneous
 - codex
-- color-orange
 status: active
+domain: Specialized and Miscellaneous
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: cost-reducer
-domain: Specialized and Miscellaneous
 codex_path: /home/cerebrhoe/.codex/skills/cost-reducer/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

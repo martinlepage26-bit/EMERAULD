@@ -14,28 +14,33 @@ tags:
 - product-surface
 - desktop-intake
 - areas
-- helix-3-0-desktop-build-snapshot-recursive-governor-and-law-25-control-surface-2026-05-11-md
 - governor
 - desktop
 - probe
 - termination
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-05-12'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11).md
-backlink_count: 9
+backlink_count: 14
 backlinks:
-- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
+- '[[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
+- '[[Areas/PHAROS/HELIX Full Protocol Session — Martin''s Governance Synthesis, Gemini Target (2026-07-03)]]'
 - '[[Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 source:
 - raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/HelixProbe.tsx
 - raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/probe.ts

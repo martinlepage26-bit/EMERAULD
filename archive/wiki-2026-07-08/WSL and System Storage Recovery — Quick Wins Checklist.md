@@ -7,25 +7,28 @@ aliases:
 - vhdx compaction
 tags:
 - archive
-- wsl-and-system-storage-recovery-quick-wins-checklist-md
 - cache
 - vhdx
 - venvs
 - compaction
 - lightrag
-- color-orange
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist.md
-backlink_count: 5
+backlink_count: 8
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # WSL and System Storage Recovery — Quick Wins Checklist

@@ -1,9 +1,6 @@
 ---
 type: skill
 title: database-schema-designer
-aliases:
-- skills/database-schema-designer
-- wiki/skills/database-schema-designer
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - indexing
 - modeling
 - designer
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -22,8 +18,8 @@ canonical_path: wiki/skills/database-schema-designer.md
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: database-schema-designer
 scope: forging
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md

@@ -1,19 +1,16 @@
 ---
 type: version-genealogy
 title: First Method Paper — Version Genealogy
-aliases:
-- First Method Paper — Version Genealogy
 tags:
 - paper
 - version-genealogy
 - areas
-- first-method-paper-version-genealogy-md
 - method
 - hinge
 - version
-- abstract
-- color-violet
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
@@ -22,9 +19,9 @@ backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
 ---
 
 # First Method Paper — Version Genealogy

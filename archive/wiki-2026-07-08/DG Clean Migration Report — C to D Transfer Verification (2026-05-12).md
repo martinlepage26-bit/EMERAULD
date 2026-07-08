@@ -1,31 +1,32 @@
 ---
 type: wiki
 title: DG Clean Migration Report — C to D Transfer Verification (2026-05-12)
-aliases:
-- DG Clean Migration Report — C to D Transfer Verification (2026-05-12)
 tags:
 - archive
-- dg-clean-migration-report-c-to-d-transfer-verification-2026-05-12-md
 - migration
 - count
 - mismatch
 - report
 - drive
-- color-purple
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-12'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12).md
-backlink_count: 7
+backlink_count: 10
 backlinks:
-- '[[archive/wiki-2026-07-08/D Drive Scan — 2026-05-12]]'
-- '[[archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[raw/D-drive-scan-2026-05-12/dg-migration/MIGRATION_REPORT]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/D Drive Scan — 2026-05-12]]'
+- '[[archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # DG Clean Migration Report — C to D Transfer Verification (2026-05-12)

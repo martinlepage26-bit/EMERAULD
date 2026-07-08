@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: PHAROS Topology Layer v3
-aliases:
-- artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/pharos_topology_layer_v3
 tags:
 - artifact
 - pharos
@@ -14,7 +12,6 @@ tags:
 - auryn
 - theseus
 - recursion
-- color-green
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Complogyx — Sovereign AI Compliance
-aliases:
-- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_complogyx-sovereign-ai-compliance
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - federal
 - gapped
 - ontario
-- color-lime
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

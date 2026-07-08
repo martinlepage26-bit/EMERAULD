@@ -7,55 +7,61 @@ tags:
 - areas
 - governance
 - ai
-- trust-advantage-analysis-sales-and-ai-governance-md
 - buyers
 - trust
 - sellers
 - linkedin
 - career
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance.md
-backlink_count: 44
+backlink_count: 48
 backlinks:
-- '[[.trash/Sprint Tool Strategy]]'
 - '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
 - '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet]]'
-- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
-- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
-- '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14]]'
-- '[[Areas/Writing/Governance by Denial]]'
 - '[[Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06]]'
-- '[[wiki/Home]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
-- '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
-- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
-- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
 - '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[Areas/PHAROS/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
+- '[[Areas/Writing/Governance by Denial]]'
 - '[[Areas/Writing/Trust Advantage — Version Genealogy]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/elemental-agents/audience-expansion]]'
 - '[[assets/elemental-agents/positioning-memo]]'
 - '[[maps/PHAROS Method Map]]'
@@ -64,7 +70,6 @@ backlinks:
 - '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_company]]'
 - '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_paula-parhon-biography-desjardins]]'
 - '[[projects/PHAROS — Fisher King Project State]]'
-- '[[session-state]]'
 ---
 
 # Trust Advantage Analysis — Sales and AI Governance

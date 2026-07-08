@@ -1,36 +1,37 @@
 ---
 type: wiki
 title: D Drive Scan — 2026-05-12
-aliases:
-- D Drive Scan — 2026-05-12
 tags:
 - archive
 - intake
-- d-drive-scan-2026-05-12-md
 - migration
 - schizophrenia
 - neuroimaging
 - elemental
 - promoted
-- color-lime
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-12'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/D Drive Scan — 2026-05-12.md
-backlink_count: 11
+backlink_count: 14
 backlinks:
-- '[[archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
-- '[[wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]]'
 - '[[Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]]'
+- '[[wiki/Home]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Events]]'
 - '[[memory/daily/2026-05-13]]'
-- '[[raw/D-drive-scan-2026-05-12/MANIFEST]]'
 ---
 
 # D Drive Scan — 2026-05-12

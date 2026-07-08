@@ -5,7 +5,6 @@ aliases:
 - ask-vault
 - EMERAULD vault briefing skill
 - vault query skill
-- wiki/Ask Vault — EMERAULD Vault Briefing Skill
 tags:
 - skill
 - codex
@@ -15,33 +14,33 @@ tags:
 - trismegiste
 - obsidian
 - wiki
-- ask-vault-emerauld-vault-briefing-skill-md
 - briefing
 - apps
-- color-orange
 status: active
 created: '2026-04-23'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Ask Vault — EMERAULD Vault Briefing Skill.md
-backlink_count: 22
+backlink_count: 24
 backlinks:
-- '[[.planning/PROJECT]]'
-- '[[.planning/phases/01-lightrag-script-runtime-hardening/01-REVIEW]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
-- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/AGENT-NAMING-STUDY]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[governance/hephaistos/CLAUDE-REVIEW-CHECKLIST]]'
 - '[[hephaistos/personal-assistant-agents/metadata-link-warden/references/ecosystem]]'
 - '[[hephaistos/personal-assistant-agents/raw-archivist/SKILL]]'

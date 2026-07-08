@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: '[Concept Name]'
-aliases:
-- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_concept
 tags:
 - artifact
 - agents
@@ -13,7 +11,6 @@ tags:
 - refinements
 - evolving
 - recurs
-- color-violet
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

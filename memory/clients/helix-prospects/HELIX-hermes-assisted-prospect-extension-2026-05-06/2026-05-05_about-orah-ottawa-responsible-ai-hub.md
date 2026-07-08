@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: About ORAH - Ottawa Responsible AI Hub
-aliases:
-- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_about-orah-ottawa-responsible-ai-hub
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - responsible
 - advocacy
 - responsibleaiottawa
-- color-green
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

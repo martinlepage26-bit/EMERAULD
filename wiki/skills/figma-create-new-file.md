@@ -1,9 +1,6 @@
 ---
 type: skill
 title: figma-create-new-file
-aliases:
-- skills/figma-create-new-file
-- wiki/skills/figma-create-new-file
 tags:
 - skill
 - wiki
@@ -13,8 +10,8 @@ tags:
 - create
 - whoami
 - editortype
-- color-orange
 status: active
+domain: Design and UX
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Design and UX]]'
 skill_id: figma-create-new-file
-domain: Design and UX
 codex_path: /home/cerebrhoe/.codex/skills/figma-create-new-file/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

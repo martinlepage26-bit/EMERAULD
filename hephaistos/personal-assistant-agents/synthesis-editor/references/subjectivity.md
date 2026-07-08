@@ -1,9 +1,6 @@
 ---
 type: note
 title: Subjectivity
-aliases:
-- personal-assistant-agents/synthesis-editor/references/subjectivity
-- hephaistos/personal-assistant-agents/synthesis-editor/references/subjectivity
 tags:
 - note
 - agents
@@ -12,11 +9,10 @@ tags:
 - hephaistos
 - reusable
 - heart
-- subjectivity
 - durable
 - dumping
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

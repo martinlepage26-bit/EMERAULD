@@ -1,8 +1,6 @@
 ---
 type: note
 title: AGATHA Failure Pack — Theseus Continuity Stress Test
-aliases:
-- AGATHA Failure Pack — Theseus Continuity Stress Test
 tags:
 - agatha
 - stress-test
@@ -12,37 +10,40 @@ tags:
 - failure
 - note
 - areas
-- agatha-failure-pack-theseus-continuity-stress-test-md
 - stress
 - auryn
 - hopf
-- color-purple
+- pharos
 status: active
+domain: pharos
 created: '2026-04-28'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test.md
-backlink_count: 19
+backlink_count: 22
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HELIX Full Protocol Session — Martin''s Governance Synthesis, Gemini Target (2026-07-03)]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
-- '[[wiki/Home]]'
-- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
-- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
-- '[[Resources/Recursive Governance Theory]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Home]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[memory/daily/2026-04-28]]'
+- '[[memory/daily/2026-07-03]]'
 ---
 
 # AGATHA Failure Pack — Theseus Continuity Stress Test

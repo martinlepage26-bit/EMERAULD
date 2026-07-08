@@ -1,22 +1,17 @@
 ---
 type: readme
 title: Personal Assistant Agents
-aliases:
-- personal-assistant-agents/README
-- hephaistos/personal-assistant-agents/README
 tags:
-- readme
 - agents
 - personal-assistant-agents
-- readme-md
 - hephaistos
 - marketplace
 - cartographer
 - warden
 - demand
 - director
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

@@ -9,12 +9,12 @@ tags:
 - cover-letter
 - submission
 - archive
-- for-her-alone-to-wield-cover-letter-2026-05-16-md
 - redistribution
 - wield
 - slayer
 - alone
-- color-red
+- wiki
+- wiki-2026-07-08
 status: draft
 created: '2026-05-16'
 updated: '2026-06-26'
@@ -22,11 +22,11 @@ vault_area: archive
 canonical_path: archive/wiki-2026-07-08/For Her Alone to Wield — Cover Letter (2026-05-16).md
 backlink_count: 5
 backlinks:
-- '[[archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Home]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 ---
 
 # For Her Alone to Wield — Cover Letter (2026-05-16)

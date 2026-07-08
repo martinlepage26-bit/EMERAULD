@@ -19,16 +19,17 @@ tags:
 - toronto
 - ottawa
 - areas
-- helix-hermes-assisted-prospect-extension-canada-regulated-ai-routes-2026-05-06-md
 - prospect
 - extension
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06]]'
@@ -36,6 +37,10 @@ backlinks:
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/helix-prospects-2026-q2]]'
 - '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_about-orah-ottawa-responsible-ai-hub]]'
 - '[[projects/HELIX — Fisher King Project State]]'

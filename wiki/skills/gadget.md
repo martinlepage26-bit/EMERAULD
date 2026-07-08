@@ -1,19 +1,15 @@
 ---
 type: skill
 title: gadget
-aliases:
-- skills/gadget
-- wiki/skills/gadget
 tags:
 - skill
 - wiki
 - skills
-- gadget
 - scout
 - frontier
 - entrypoint
-- color-orange
 status: active
+domain: AI LLM and Tools
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -25,7 +21,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[governance/hephaistos/GADGET]]'
 skill_id: gadget
-domain: AI LLM and Tools
 codex_path: /home/cerebrhoe/.codex/skills/gadget/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

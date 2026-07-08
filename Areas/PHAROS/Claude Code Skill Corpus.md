@@ -1,62 +1,65 @@
 ---
 type: wiki
 title: Claude Code Skill Corpus
-aliases:
-- Claude Code Skill Corpus
 tags:
 - areas
 - skill
-- claude-code-skill-corpus-md
 - anything
 - mubu
 - novita
 - skills
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Claude Code Skill Corpus.md
-backlink_count: 40
+backlink_count: 44
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
-- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
-- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
-- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Setup Guide]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
+- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
+- '[[wiki/Home]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
-- '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
-- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
-- '[[Areas/PHAROS/Obsidian Agent Vault — Setup Guide]]'
-- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
-- '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
 - '[[Resources/Reddit Data API — Access Terms and Rate Limits]]'
-- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
-- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)]]'
+- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/agents/Journal]]'
 - '[[wiki/skills/observability-governance]]'
 ---

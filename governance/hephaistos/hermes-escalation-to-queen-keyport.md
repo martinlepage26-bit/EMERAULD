@@ -3,7 +3,6 @@ type: governance-doc
 title: Hermes → Queen Keyport Escalation Schema
 aliases:
 - Hermes → Queen Keyport Escalation Schema
-- governance/hephaistos/hermes-escalation-to-queen-keyport
 tags:
 - governance
 - ai
@@ -15,16 +14,14 @@ tags:
 - keyport
 - queen
 - halted
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance
 canonical_path: governance/hephaistos/hermes-escalation-to-queen-keyport.md
-backlink_count: 6
+backlink_count: 4
 backlinks:
-- '[[.github/agents/hermes.agent]]'
-- '[[.github/agents/queen-keyport.agent]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/HEPHAISTOS]]'

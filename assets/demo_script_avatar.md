@@ -1,19 +1,15 @@
 ---
 type: asset
 title: Obsidian Agent Vault — Demo Script (Avatar Version)
-aliases:
-- assets/demo_script_avatar
 tags:
 - asset
 - agents
 - assets
-- demo-script-avatar-md
 - agent
 - nine
 - knows
 - minutes
 - obsidian
-- color-orange
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

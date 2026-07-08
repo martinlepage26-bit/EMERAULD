@@ -1,20 +1,16 @@
 ---
 type: inbox-routing
 title: Inbox — Routing Rules
-aliases:
-- Inbox/README
 tags:
 - inbox-routing
 - inbox
-- readme-md
 - destination
 - clips
 - templates
 - drops
-- color-purple
 status: active
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: Inbox
 canonical_path: Inbox/README.md
 backlink_count: 1

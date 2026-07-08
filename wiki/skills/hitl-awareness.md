@@ -1,9 +1,6 @@
 ---
 type: skill
 title: hitl-awareness
-aliases:
-- skills/hitl-awareness
-- wiki/skills/hitl-awareness
 tags:
 - skill
 - wiki
@@ -13,21 +10,20 @@ tags:
 - intervene
 - biased
 - codex
-- color-red
 status: active
+domain: Agent Architecture and Development
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/skills/hitl-awareness.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
-- '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
 skill_id: hitl-awareness
-domain: Agent Architecture and Development
 codex_path: /home/cerebrhoe/.codex/skills/hitl-awareness/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

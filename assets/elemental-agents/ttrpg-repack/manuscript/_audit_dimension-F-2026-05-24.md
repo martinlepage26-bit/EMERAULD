@@ -1,8 +1,6 @@
 ---
 type: audit-report
 title: Charge & Circle Manuscript Audit — Dimension F (Epistemic Governance)
-aliases:
-- assets/elemental-agents/ttrpg-repack/manuscript/_audit_dimension-F-2026-05-24
 tags:
 - audit-report
 - assets
@@ -12,7 +10,6 @@ tags:
 - clause
 - khaibit
 - framework
-- color-orange
 status: complete-but-not-actioned
 created: '2026-05-24'
 updated: '2026-06-26'
@@ -20,25 +17,13 @@ vault_area: assets
 canonical_path: assets/elemental-agents/ttrpg-repack/manuscript/_audit_dimension-F-2026-05-24.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/ASSETS MOC]]'
 auditor: Trismégiste (operator-disciplined audit)
 target: Charge & Circle manuscript v0.1 (chapters 01-03)
 standard: Epistemic Governance — Canonical Reference (Dimension F)
-finding_severity: substantive — manuscript requires Brain-level remediation, not surface
-  edits
-operator_decision_2026-05-24: '"no rewrite, publish as is" — audit findings preserved
-  as record of process; not actioned. Publish-ready compile at `charge-and-circle-publish-ready.md`
-  in this folder. Subsequent reframes during 2026-05-24 evening: (a) fiction reading
-  (briefly held) then (b) REFRAME ENTIRELY EXCLUSIVELY to governance framework with
-  elemental magic as surface vocabulary. Under the final EXCLUSIVE governance reading,
-  the audit''s §10 tier-discipline findings RE-APPLY (fiction reframe dissolved them;
-  the governance-exclusive reframe reinstates them). §4 rhetorical anti-patterns and
-  §7 AI-Governance-subsection criteria apply directly. The audit''s recommended Brain-level
-  rewrite would address these findings — but the publish-as-is directive remains in
-  force, so the findings remain preserved-as-record rather than actioned. The product
-  publishes with the §10 failures the audit identified, under the governance framing.
-  This is the operator''s chosen tradeoff: avoid the Lost-Loop pattern of perpetual
-  refinement, accept the manuscript''s current discipline floor.'
+finding_severity: substantive — manuscript requires Brain-level remediation, not surface edits
+operator_decision_2026-05-24: '"no rewrite, publish as is" — audit findings preserved as record of process; not actioned. Publish-ready compile at `charge-and-circle-publish-ready.md` in this folder. Subsequent reframes during 2026-05-24 evening: (a) fiction reading (briefly held) then (b) REFRAME ENTIRELY EXCLUSIVELY to governance framework with elemental magic as surface vocabulary. Under the final EXCLUSIVE governance reading, the audit''s §10 tier-discipline findings RE-APPLY (fiction reframe dissolved them; the governance-exclusive reframe reinstates them). §4 rhetorical anti-patterns and §7 AI-Governance-subsection criteria apply directly. The audit''s recommended Brain-level rewrite would address these findings — but the publish-as-is directive remains in force, so the findings remain preserved-as-record rather than actioned. The product publishes with the §10 failures the audit identified, under the governance framing. This is the operator''s chosen tradeoff: avoid the Lost-Loop
+  pattern of perpetual refinement, accept the manuscript''s current discipline floor.'
 ---
 
 # Charge & Circle Manuscript Audit — Dimension F (Epistemic Governance)

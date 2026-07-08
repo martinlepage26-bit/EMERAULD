@@ -1,11 +1,23 @@
 ---
-id: build_wikilink_graph_py
 type: Tool
-canonical_name: "build_wikilink_graph.py"
-aliases: []
+title: build_wikilink_graph.py
+tags:
+- tool
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/build_wikilink_graph_py.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/graph_store_system]]'
+id: build_wikilink_graph_py
+canonical_name: build_wikilink_graph.py
 confidence: high
-sources: ['scripts/build_wikilink_graph.py']
+sources:
+- scripts/build_wikilink_graph.py
 created_from: graphify_pass
 ---
 

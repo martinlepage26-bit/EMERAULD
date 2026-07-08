@@ -11,25 +11,28 @@ tags:
 - metadata
 - cleanup
 - archive
-- d-library-genealogy-flags-and-cleanup-leads-2026-04-26-md
 - unreadable
 - flags
 - rename
-- color-purple
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26).md
-backlink_count: 7
+backlink_count: 10
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # D Library — Genealogy Flags and Cleanup Leads (2026-04-26)

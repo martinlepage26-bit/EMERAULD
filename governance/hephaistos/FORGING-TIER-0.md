@@ -3,7 +3,6 @@ type: governance-doc
 title: 'Tier 0 — Forging: The Foundational Authority Layer'
 aliases:
 - 'Tier 0 — Forging: The Foundational Authority Layer'
-- governance/hephaistos/FORGING-TIER-0
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - scope
 - constraints
 - authority
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

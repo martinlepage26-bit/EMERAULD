@@ -1,20 +1,14 @@
 ---
 type: wiki
 title: memory
-aliases:
-- memory
-- wiki/memory
 tags:
-- memory
 - vault
 - continuity
 - wiki
-- memory-md
 - bare
 - spot
 - landing
 - mirror
-- color-green
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -22,7 +16,7 @@ vault_area: wiki
 canonical_path: wiki/memory.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/Wiki MOC]]'
 ---
 
 # memory

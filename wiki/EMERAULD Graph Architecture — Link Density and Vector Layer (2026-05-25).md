@@ -5,7 +5,6 @@ aliases:
 - EMERAULD graph architecture
 - EMERAULD retrieval layers
 - EMERAULD link density
-- wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)
 tags:
 - emerauld
 - graph
@@ -16,32 +15,34 @@ tags:
 - tooling
 - architecture
 - wiki
-- emerauld-graph-architecture-link-density-and-vector-layer-2026-05-25-md
 - store
 - backlink
 - vector
-- color-teal
 status: active
 created: '2026-05-25'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25).md
-backlink_count: 14
+backlink_count: 18
 backlinks:
 - '[[wiki/Architecture - EMERAULD Scripts - Knowledge Layers]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Overview]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
 - '[[wiki/EMERAULD]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[wiki/Vault Health — 2026-06-28]]'
-- '[[archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-06-28]]'
-- '[[session-state]]'
 ---
 
 # EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)

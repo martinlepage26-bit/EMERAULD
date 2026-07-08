@@ -1,18 +1,13 @@
 ---
 type: vault-doc
 title: Welcome — EMERAULD
-aliases:
-- Welcome
 tags:
 - vault
 - vault-doc
-- welcome-md
 - perplexity
 - computer
-- welcome
 - entry
 - emerauld
-- color-lime
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

@@ -14,32 +14,36 @@ tags:
 - l99
 - artifacts
 - archive
-- l99-pharos-migration-artifacts-2026-04-19-md
 - dnspython
 - compassai
 - unaffected
 - aurora
 - deploy
-- color-purple
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-04-19'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19.md
-backlink_count: 15
+backlink_count: 19
 backlinks:
-- '[[archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT]]'
 - '[[Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)]]'
-- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
-- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)]]'
+- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-04-28]]'
 - '[[projects/AurorA — Fisher King Project State]]'
 - '[[projects/COMPASSai — Fisher King Project State]]'

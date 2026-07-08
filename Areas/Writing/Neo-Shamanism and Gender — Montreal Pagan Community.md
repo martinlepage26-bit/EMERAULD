@@ -1,33 +1,30 @@
 ---
 type: wiki
 title: Neo-Shamanism and Gender — Montreal Pagan Community
-aliases:
-- Neo-Shamanism and Gender — Montreal Pagan Community
 tags:
 - areas
 - pagan
-- neo-shamanism-and-gender-montreal-pagan-community-md
 - shamanism
 - gender
 - shamanic
 - appropriation
-- color-pink
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community.md
-backlink_count: 24
+backlink_count: 28
 backlinks:
-- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
-- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
@@ -41,7 +38,13 @@ backlinks:
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

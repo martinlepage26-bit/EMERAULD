@@ -16,13 +16,13 @@ tags:
 - architecture
 - note
 - areas
-- structural-analogy-governance-systemic-parallels-between-biological-epistemic-and-computational-memory-architectures-md
 - biological
 - computational
 - phenotype
 - epistemic
-- color-green
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
@@ -31,16 +31,16 @@ backlink_count: 12
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/LOTUS Model and Agency]]'
 - '[[Areas/Writing/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 ---
 
 # Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures

@@ -1,11 +1,23 @@
 ---
-id: pharos_suite_repo
 type: System
-canonical_name: "pharos-suite repo"
-aliases: []
+title: pharos-suite repo
+tags:
+- system
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/pharos_suite_repo.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/pharos]]'
+id: pharos_suite_repo
+canonical_name: pharos-suite repo
 confidence: high
-sources: ['governance/hephaistos/AGENTS.md']
+sources:
+- governance/hephaistos/AGENTS.md
 created_from: graphify_pass
 ---
 

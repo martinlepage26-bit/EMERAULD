@@ -1,41 +1,44 @@
 ---
 type: wiki
 title: Every Hair a Battle Scar — Buffy's Hair as Narrative Engine
-aliases:
-- Every Hair a Battle Scar — Buffy's Hair as Narrative Engine
 tags:
 - areas
 - ai
-- every-hair-a-battle-scar-buffy-s-hair-as-narrative-engine-md
 - hair
 - season
 - buffy
 - comics
 - transmedia
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md
-backlink_count: 17
+backlink_count: 21
 backlinks:
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
-- '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
+- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
-- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[Areas/Writing/The Ballad of the Witches'' Road — Analysis]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Home]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

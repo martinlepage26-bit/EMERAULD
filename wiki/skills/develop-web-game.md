@@ -1,9 +1,6 @@
 ---
 type: skill
 title: develop-web-game
-aliases:
-- skills/develop-web-game
-- wiki/skills/develop-web-game
 tags:
 - skill
 - wiki
@@ -13,8 +10,8 @@ tags:
 - iterating
 - console
 - codex
-- color-orange
 status: active
+domain: Development and Testing
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: develop-web-game
-domain: Development and Testing
 codex_path: /home/cerebrhoe/.codex/skills/develop-web-game/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

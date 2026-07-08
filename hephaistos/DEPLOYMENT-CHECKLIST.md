@@ -3,20 +3,18 @@ type: governance-doc
 title: Phase 7 Deployment Readiness Checklist
 aliases:
 - Phase 7 Deployment Readiness Checklist
-- hephaistos/DEPLOYMENT-CHECKLIST
 tags:
 - governance
 - ai
 - hephaistos
 - governance-doc
-- deployment-checklist-md
 - veto
 - bias
 - exists
 - hermes
 - gate
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

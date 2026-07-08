@@ -14,26 +14,31 @@ tags:
 - queer-ritual
 - governance
 - areas
-- ethnographic-data-loss-ethics-decision-and-publication-disclaimer-md
 - contemporaneous
 - queer
 - vignettes
-- color-blue
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/Writing/Glitching the Sacred]]'
 - '[[Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
+- '[[Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/Glitching the Sacred — Fisher King Project State]]'
 ---
 

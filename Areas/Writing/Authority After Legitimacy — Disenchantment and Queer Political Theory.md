@@ -1,58 +1,61 @@
 ---
 type: wiki
 title: Authority After Legitimacy — Disenchantment and Queer Political Theory
-aliases:
-- Authority After Legitimacy — Disenchantment and Queer Political Theory
 tags:
 - areas
 - queer
-- authority-after-legitimacy-disenchantment-and-queer-political-theory-md
 - authority
 - bean
 - legitimacy
 - glitch
 - polity
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory.md
-backlink_count: 33
+backlink_count: 37
 backlinks:
 - '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
+- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
+- '[[Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
+- '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/Home]]'
-- '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
-- '[[Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
-- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Theory Foundations]]'
 - '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
 - '[[Resources/Qualitative Handbook — Expanded Reference List]]'
-- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Queer Theory Foundations]]'
-- '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
-- '[[Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[Resources/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
-- '[[Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
-- '[[session-state]]'
 ---
 
 # Authority After Legitimacy — Disenchantment and Queer Political Theory

@@ -14,26 +14,30 @@ tags:
 - governance
 - labels
 - resources
-- the-gift-mauss-obligation-reciprocity-hau-md
 - gift
 - mauss
 - obligations
-- color-purple
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/The Gift — Mauss (Obligation, Reciprocity, Hau).md
-backlink_count: 8
+backlink_count: 12
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[Resources/L’esprit du don — Godbout & Caillé (1992)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[Resources/L’esprit du don — Godbout & Caillé (1992)]]'
+- '[[_vault/PARA-MIGRATION-MANIFEST-2026-07-08]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # The Gift — Mauss (Obligation, Reciprocity, Hau)

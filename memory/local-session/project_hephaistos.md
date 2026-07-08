@@ -1,8 +1,6 @@
 ---
 type: project
 title: project_hephaistos
-aliases:
-- memory/local-session/project_hephaistos
 tags:
 - project
 - memory
@@ -12,15 +10,13 @@ tags:
 - hephaistos
 - binding
 - mind
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: memory
 canonical_path: memory/local-session/project_hephaistos.md
-backlink_count: 9
+backlink_count: 8
 backlinks:
-- '[[.github/agents/hephaistos.agent]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
@@ -30,9 +26,7 @@ backlinks:
 - '[[memory/local-session/project_forging_integration]]'
 - '[[memory/local-session/three_agent_system]]'
 name: HEPHAISTOS agent architecture build
-description: A governance-engineering agent architecture at /home/cerebrhoe/hephaistos/
-  with 9 binding principles, canonical skills at .codex/skills/, and completed principle
-  alignment as of 2026-04-10
+description: A governance-engineering agent architecture at /home/cerebrhoe/hephaistos/ with 9 binding principles, canonical skills at .codex/skills/, and completed principle alignment as of 2026-04-10
 originSessionId: d120c79c-4e5b-4b6c-b29c-d841a6580859
 ---
 

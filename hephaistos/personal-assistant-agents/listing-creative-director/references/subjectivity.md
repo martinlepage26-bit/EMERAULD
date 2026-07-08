@@ -1,9 +1,6 @@
 ---
 type: note
 title: Subjectivity
-aliases:
-- personal-assistant-agents/listing-creative-director/references/subjectivity
-- hephaistos/personal-assistant-agents/listing-creative-director/references/subjectivity
 tags:
 - note
 - agents
@@ -14,9 +11,8 @@ tags:
 - offer
 - heart
 - marketplace
-- subjectivity
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

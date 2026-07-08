@@ -1,8 +1,6 @@
 ---
 type: action-map
 title: Documents Root Intake — Hermes Action Map 2026-04-28
-aliases:
-- Documents Root Intake — Hermes Action Map 2026-04-28
 tags:
 - vault-intake
 - action-map
@@ -11,12 +9,11 @@ tags:
 - routing
 - raw-sources
 - archive
-- documents-root-intake-hermes-action-map-2026-04-28-md
 - packet
 - proof
 - public
 - theseus
-- color-lime
+- wiki-2026-07-08
 status: active
 created: '2026-04-28'
 updated: '2026-06-26'
@@ -25,22 +22,22 @@ canonical_path: archive/wiki-2026-07-08/Documents Root Intake — Hermes Action 
 backlink_count: 19
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
-- '[[wiki/Home]]'
-- '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS SURFACE]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[memory]]'
 - '[[memory/daily/2026-04-28]]'
 ---

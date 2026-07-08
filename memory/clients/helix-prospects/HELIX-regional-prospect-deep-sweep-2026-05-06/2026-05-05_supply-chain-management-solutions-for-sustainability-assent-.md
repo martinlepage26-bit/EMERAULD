@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Supply Chain Management Solutions for Sustainability - Assent | Assent
-aliases:
-- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_supply-chain-management-solutions-for-sustainability-assent-
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - platform
 - sustainability
 - supply
-- color-lime
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

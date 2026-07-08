@@ -17,27 +17,31 @@ tags:
 - authenticity
 - religion
 - areas
-- why-be-king-im-already-a-queen-lepage-2017-phd-thesis-uqam-md
 - uqam
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md
-backlink_count: 11
+backlink_count: 14
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
-- '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
+- '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)

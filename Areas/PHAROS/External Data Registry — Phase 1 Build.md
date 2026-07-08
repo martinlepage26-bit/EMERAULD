@@ -1,30 +1,29 @@
 ---
 type: governance-registry
 title: External Data Registry — Sources and Refresh Schedule
-aliases:
-- External Data Registry — Phase 1 Build
 tags:
 - governance-registry
 - areas
-- external-data-registry-phase-1-build-md
 - refresh
 - date
 - quarterly
 - clipping
 - frequency
-- color-purple
+- pharos
 status: in-progress
+domain: pharos
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/External Data Registry — Phase 1 Build.md
-backlink_count: 16
+backlink_count: 22
 backlinks:
 - '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[memory/daily/2026-06-22]]'
 - '[[memory/daily/2026-06-23]]'
 - '[[memory/daily/2026-06-24]]'
@@ -35,7 +34,12 @@ backlinks:
 - '[[memory/daily/2026-06-29]]'
 - '[[memory/daily/2026-06-30]]'
 - '[[memory/daily/2026-07-01]]'
-- '[[session-state]]'
+- '[[memory/daily/2026-07-02]]'
+- '[[memory/daily/2026-07-03]]'
+- '[[memory/daily/2026-07-04]]'
+- '[[memory/daily/2026-07-05]]'
+- '[[memory/daily/2026-07-06]]'
+- '[[memory/daily/2026-07-07]]'
 phase: Phase 1 Infrastructure
 ---
 

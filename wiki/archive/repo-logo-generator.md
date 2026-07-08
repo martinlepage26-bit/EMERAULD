@@ -1,9 +1,6 @@
 ---
 type: skill
 title: repo-logo-generator
-aliases:
-- archive/repo-logo-generator
-- wiki/archive/repo-logo-generator
 tags:
 - skill
 - wiki
@@ -13,19 +10,17 @@ tags:
 - generator
 - colored
 - programmatic
-- color-green
 status: active
+domain: Creative and Writing
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/archive/repo-logo-generator.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 skill_id: repo-logo-generator
-domain: Creative and Writing
 codex_path: /home/cerebrhoe/.codex/skills/repo-logo-generator/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

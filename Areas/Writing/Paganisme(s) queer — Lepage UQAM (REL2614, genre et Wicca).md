@@ -14,22 +14,26 @@ tags:
 - uqam
 - teaching
 - areas
-- paganisme-s-queer-lepage-uqam-rel2614-genre-et-wicca-md
 - paganisme
 - binarity
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca).md
-backlink_count: 5
+backlink_count: 8
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)

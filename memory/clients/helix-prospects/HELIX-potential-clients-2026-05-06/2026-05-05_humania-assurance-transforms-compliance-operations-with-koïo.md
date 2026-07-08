@@ -1,9 +1,6 @@
 ---
 type: raw-source
-title: Humania Assurance Transforms Compliance Operations with Koïos Intelligence
-  | Humania assurance
-aliases:
-- memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_humania-assurance-transforms-compliance-operations-with-koïo
+title: Humania Assurance Transforms Compliance Operations with Koïos Intelligence | Humania assurance
 tags:
 - raw-source
 - memory
@@ -13,7 +10,6 @@ tags:
 - olivo
 - assurance
 - intelligence
-- color-pink
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

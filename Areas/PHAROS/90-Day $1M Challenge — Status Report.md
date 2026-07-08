@@ -1,43 +1,42 @@
 ---
 type: project-state
 title: 90-Day $1M Challenge — Status Report
-aliases:
-- 90-Day $1M Challenge — Status Report
 tags:
 - project
 - project-state
 - areas
-- 90-day-1m-challenge-status-report-md
 - days
 - revenue
 - phase
 - technical
 - report
-- color-teal
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/90-Day $1M Challenge — Status Report.md
-backlink_count: 18
+backlink_count: 19
 backlinks:
 - '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
+- '[[Areas/PHAROS/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time]]'
 - '[[Areas/PHAROS/Founder Charter — Lepage and Stocker]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric Architecture]]'
 - '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

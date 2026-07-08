@@ -3,7 +3,6 @@ type: governance-doc
 title: STATUS — Self-Audit Against Co-Equal Authority Spec
 aliases:
 - STATUS — Self-Audit Against Co-Equal Authority Spec
-- governance/global/HEPHAISTOS-STATUS
 tags:
 - governance
 - ai
@@ -14,15 +13,14 @@ tags:
 - keyport
 - queen
 - conflict
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance
 canonical_path: governance/global/HEPHAISTOS-STATUS.md
-backlink_count: 10
+backlink_count: 9
 backlinks:
-- '[[.github/agents/hephaistos.agent]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[_vault/ARCHITECTURE-STATUS-MARKING-CHECKLIST]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'

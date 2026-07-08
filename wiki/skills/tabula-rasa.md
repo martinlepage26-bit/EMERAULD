@@ -1,9 +1,6 @@
 ---
 type: skill
 title: tabula-rasa
-aliases:
-- skills/tabula-rasa
-- wiki/skills/tabula-rasa
 tags:
 - skill
 - wiki
@@ -13,19 +10,18 @@ tags:
 - inherited
 - assumptions
 - overfit
-- color-orange
 status: active
+domain: Vault and Knowledge Graph
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/skills/tabula-rasa.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: tabula-rasa
-domain: Vault and Knowledge Graph
 codex_path: /home/cerebrhoe/.codex/skills/tabula-rasa/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

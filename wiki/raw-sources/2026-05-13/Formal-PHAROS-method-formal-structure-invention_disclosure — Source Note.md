@@ -1,11 +1,6 @@
 ---
 type: source-note
 title: Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note
-aliases:
-- raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure
-  — Source Note
-- wiki/raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure
-  — Source Note
 tags:
 - raw-source
 - ingest
@@ -19,16 +14,13 @@ tags:
 - invention
 - disclosure
 - verified
-- color-lime
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
 vault_area: wiki
-canonical_path: wiki/raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure
-  — Source Note.md
-backlink_count: 3
+canonical_path: wiki/raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note.md
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
 source_raw_path: raw/00_Inbox/Raw/Formal-PHAROS-method-formal-structure-invention_disclosure.txt

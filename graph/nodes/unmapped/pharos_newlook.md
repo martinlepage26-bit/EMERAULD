@@ -1,11 +1,23 @@
 ---
-id: pharos_newlook
 type: Product
-canonical_name: "PHAROS-NEWLOOK"
-aliases: []
+title: PHAROS-NEWLOOK
+tags:
+- product
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/pharos_newlook.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/martin_lepage]]'
+id: pharos_newlook
+canonical_name: PHAROS-NEWLOOK
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

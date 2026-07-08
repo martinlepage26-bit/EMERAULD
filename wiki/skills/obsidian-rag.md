@@ -1,9 +1,6 @@
 ---
 type: skill
 title: obsidian-rag
-aliases:
-- skills/obsidian-rag
-- wiki/skills/obsidian-rag
 tags:
 - skill
 - wiki
@@ -11,8 +8,8 @@ tags:
 - obsidian
 - codex
 - graph
-- color-orange
 status: active
+domain: Vault and Knowledge Graph
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -22,7 +19,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: obsidian-rag
-domain: Vault and Knowledge Graph
 codex_path: /home/cerebrhoe/.codex/skills/obsidian-rag/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

@@ -1,28 +1,31 @@
 ---
 type: wiki
 title: CODEX Writing Projects Manifest
-aliases:
-- CODEX Writing Projects Manifest
 tags:
 - areas
-- codex-writing-projects-manifest-md
 - whos
 - publications
 - grouped
 - downloads
 - folders
-- color-orange
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/CODEX Writing Projects Manifest.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
-- '[[wiki/Home]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
+- '[[wiki/Home]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

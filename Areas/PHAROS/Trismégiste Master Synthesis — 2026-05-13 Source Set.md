@@ -1,8 +1,6 @@
 ---
 type: synthesis-master
 title: Trismégiste Master Synthesis — 2026-05-13 Source Set
-aliases:
-- Trismégiste Master Synthesis — 2026-05-13 Source Set
 tags:
 - trismegiste
 - henry
@@ -11,22 +9,22 @@ tags:
 - '2026-05-13'
 - synthesis-master
 - areas
-- trism-giste-master-synthesis-2026-05-13-source-set-md
 - cluster
 - memo
 - anchors
 - inferred
 - verified
-- color-purple
+- pharos
 status: active
+domain: pharos
 created: '2026-05-13'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set.md
 backlink_count: 5
 backlinks:
-- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/method]]'

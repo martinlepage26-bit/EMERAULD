@@ -1,8 +1,6 @@
 ---
 type: project
 title: decision_compass_deployment_phasing
-aliases:
-- memory/local-session/decision_compass_deployment_phasing
 tags:
 - project
 - memory
@@ -12,7 +10,6 @@ tags:
 - saas
 - cost
 - aurora
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

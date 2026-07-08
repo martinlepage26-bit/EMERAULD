@@ -13,33 +13,36 @@ tags:
 - governance
 - ai-governance
 - areas
-- pharos-final-voice-operator-gpt-creator-md
 - dottie
 - mobius
 - authorship
 - distinguish
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator.md
-backlink_count: 17
+backlink_count: 20
 backlinks:
-- '[[.github/agents/gadget.agent]]'
 - '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
-- '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'
 - '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
 - '[[templates/Recursive Governance Packet Header]]'

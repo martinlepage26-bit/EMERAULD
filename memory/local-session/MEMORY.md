@@ -3,9 +3,7 @@ type: memory-register
 title: Memory index
 aliases:
 - Memory index
-- memory/local-session/MEMORY
 tags:
-- memory
 - memory-register
 - local-session
 - feedback
@@ -13,7 +11,6 @@ tags:
 - pillars
 - deploy
 - cloudflare
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

@@ -1,9 +1,6 @@
 ---
 type: skill
 title: test-detect
-aliases:
-- skills/test-detect
-- wiki/skills/test-detect
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - declaring
 - prove
 - hooks
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

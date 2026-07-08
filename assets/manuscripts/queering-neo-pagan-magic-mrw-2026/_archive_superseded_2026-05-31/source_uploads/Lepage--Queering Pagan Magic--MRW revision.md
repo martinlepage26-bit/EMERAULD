@@ -1,9 +1,6 @@
 ---
 type: publication-draft
 title: 'Queering Neo-Pagan Magic: Identity, Power, and the Uses of Magic'
-aliases:
-- assets/manuscripts/queering-neo-pagan-magic-mrw-2026/_archive_superseded_2026-05-31/source_uploads/Lepage--Queering
-  Pagan Magic--MRW revision
 tags:
 - publication
 - pagan
@@ -17,16 +14,14 @@ tags:
 - practitioners
 - bailey
 - belief
-- color-violet
 status: draft
 created: '2026-05-31'
 updated: '2026-06-26'
 vault_area: assets
-canonical_path: assets/manuscripts/queering-neo-pagan-magic-mrw-2026/_archive_superseded_2026-05-31/source_uploads/Lepage--Queering
-  Pagan Magic--MRW revision.md
+canonical_path: assets/manuscripts/queering-neo-pagan-magic-mrw-2026/_archive_superseded_2026-05-31/source_uploads/Lepage--Queering Pagan Magic--MRW revision.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/ASSETS MOC]]'
 ---
 
 # Queering Neo-Pagan Magic: Identity, Power, and the Uses of Magic

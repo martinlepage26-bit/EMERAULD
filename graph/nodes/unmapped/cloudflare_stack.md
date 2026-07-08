@@ -1,11 +1,24 @@
 ---
-id: cloudflare_stack
 type: System
-canonical_name: "Cloudflare Workers/D1/R2/Pages"
-aliases: []
+title: Cloudflare Workers/D1/R2/Pages
+tags:
+- system
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/cloudflare_stack.md
+backlink_count: 2
+backlinks:
+- '[[graph/nodes/unmapped/aurora_product]]'
+- '[[graph/nodes/unmapped/pharos]]'
+id: cloudflare_stack
+canonical_name: Cloudflare Workers/D1/R2/Pages
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

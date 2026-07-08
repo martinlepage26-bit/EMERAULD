@@ -1,9 +1,6 @@
 ---
 type: skill
 title: chatgpt-apps
-aliases:
-- skills/chatgpt-apps
-- wiki/skills/chatgpt-apps
 tags:
 - skill
 - wiki
@@ -13,19 +10,17 @@ tags:
 - scaffold
 - troubleshoot
 - widget
-- color-orange
 status: active
+domain: AI LLM and Tools
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/skills/chatgpt-apps.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: chatgpt-apps
-domain: AI LLM and Tools
 codex_path: /home/cerebrhoe/.codex/skills/chatgpt-apps/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

@@ -3,7 +3,6 @@ type: agent-instructions
 title: HEPHAISTOS Project Claude Entry
 aliases:
 - HEPHAISTOS Project Claude Entry
-- governance/hephaistos/CLAUDE
 tags:
 - agents
 - governance
@@ -15,8 +14,8 @@ tags:
 - task
 - refusals
 - hermes
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-07-03'
 vault_area: governance

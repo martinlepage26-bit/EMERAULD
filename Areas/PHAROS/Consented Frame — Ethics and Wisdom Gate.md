@@ -13,27 +13,31 @@ tags:
 - care
 - pharos
 - areas
-- consented-frame-ethics-and-wisdom-gate-md
 - consented
 - diamond
 - wise
 - eyes
-- color-pink
+- wiki
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Consented Frame — Ethics and Wisdom Gate.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/Anti-Charm]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
+- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Consented Frame — Ethics and Wisdom Gate

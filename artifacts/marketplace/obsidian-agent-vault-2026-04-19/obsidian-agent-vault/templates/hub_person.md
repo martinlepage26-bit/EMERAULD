@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: '[Person Name]'
-aliases:
-- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_person
 tags:
 - artifact
 - agents
@@ -13,7 +11,6 @@ tags:
 - interactions
 - maker
 - async
-- color-orange
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

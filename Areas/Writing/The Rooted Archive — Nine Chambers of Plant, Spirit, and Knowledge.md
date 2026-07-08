@@ -14,30 +14,35 @@ tags:
 - bilingual
 - writing-project
 - areas
-- the-rooted-archive-nine-chambers-of-plant-spirit-and-knowledge-md
 - plant
 - nine
 - folklore
 - chamber
-- color-green
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md
-backlink_count: 16
+backlink_count: 20
 backlinks:
-- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
-- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[Areas/Writing/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-06-22]]'
 - '[[memory/daily/2026-06-23]]'
 - '[[memory/daily/2026-06-24]]'

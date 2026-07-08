@@ -2,24 +2,20 @@
 type: template
 title: Admissibility Delta Block - {{title}}
 aliases:
-- Admissibility Delta Block
 - Bulk Rewrite Governance Gate
-- templates/Admissibility Delta Block
 tags:
 - template
 - recursive-governance
 - admissibility
 - change-control
 - templates
-- admissibility-delta-block-md
 - rollback
 - affected
 - excerpt
 - command
-- color-purple
 status: active
 created: '{{date}}'
-updated: '2026-06-26'
+updated: '{{date}}'
 vault_area: templates
 canonical_path: templates/Admissibility Delta Block.md
 backlink_count: 1

@@ -1,9 +1,6 @@
 ---
 type: note
 title: Method
-aliases:
-- personal-assistant-agents/intake-triager/references/method
-- hephaistos/personal-assistant-agents/intake-triager/references/method
 tags:
 - note
 - agents
@@ -16,8 +13,8 @@ tags:
 - requests
 - lanes
 - route
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

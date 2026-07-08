@@ -1,44 +1,46 @@
 ---
 type: wiki
 title: PHAROS Evidentiary Gap Closure Bundle
-aliases:
-- PHAROS Evidentiary Gap Closure Bundle
 tags:
 - areas
 - pharos
-- pharos-evidentiary-gap-closure-bundle-md
 - produced
 - bundle
 - normalized
 - disclosure
 - existing
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle.md
-backlink_count: 19
+backlink_count: 23
 backlinks:
-- '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
+- '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
 - '[[Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[wiki/Legal and Institutional Cases]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[Areas/PHAROS/PHAROS Runbook SOP]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Phase 1 Governance Formation Sequence]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legal and Institutional Cases]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/COVER_LETTER_FOR_COUNSEL]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # PHAROS Evidentiary Gap Closure Bundle

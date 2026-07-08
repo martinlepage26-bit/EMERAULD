@@ -11,25 +11,29 @@ tags:
 - infrafabric
 - raw-sources
 - archive
-- prompt-logs-retrieval-discipline-and-compta-critique-2026-05-06-md
 - downloads
 - prompt
 - logs
 - boring
-- color-lime
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06).md
-backlink_count: 6
+backlink_count: 10
 backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)

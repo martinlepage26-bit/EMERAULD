@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Client Challenge
-aliases:
-- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_client-challenge
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - couldn
 - please
 - settings
-- color-lime
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

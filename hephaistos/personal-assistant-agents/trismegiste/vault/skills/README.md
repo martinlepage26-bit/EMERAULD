@@ -1,9 +1,6 @@
 ---
 type: skill-spec
 title: skills/
-aliases:
-- personal-assistant-agents/trismegiste/vault/skills/README
-- hephaistos/personal-assistant-agents/trismegiste/vault/skills/README
 tags:
 - skill
 - agents
@@ -15,8 +12,8 @@ tags:
 - step
 - contain
 - weekly
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

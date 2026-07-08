@@ -3,7 +3,6 @@ type: governance-doc
 title: HEPHAISTOS Forging Capability — Audit and Integration Report
 aliases:
 - HEPHAISTOS Forging Capability — Audit and Integration Report
-- governance/hephaistos/FORGING-AUDIT
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - skills
 - scientific
 - writing
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

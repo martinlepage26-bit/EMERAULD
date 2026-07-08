@@ -1,42 +1,45 @@
 ---
 type: wiki
 title: Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics
-aliases:
-- Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics
 tags:
 - areas
-- inductive-literary-discourse-analysis-witchcraft-in-song-lyrics-md
 - magic
 - inductive
 - song
 - ritual
 - pagan
-- color-blue
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics.md
-backlink_count: 19
+backlink_count: 23
 backlinks:
-- '[[Resources/Disease — Lady Gaga — Lyrics]]'
-- '[[wiki/Home]]'
-- '[[Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
-- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
-- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
-- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
-- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
-- '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
+- '[[Areas/Writing/The Ballad of the Witches'' Road — Analysis]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/Home]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[Resources/Disease — Lady Gaga — Lyrics]]'
+- '[[Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
+- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
+- '[[Resources/The Ballad of the Witches'' Road — Lyrics]]'
 - '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

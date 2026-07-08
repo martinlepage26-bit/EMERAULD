@@ -14,36 +14,40 @@ tags:
 - audit
 - prompt-engineering
 - areas
-- recursive-entry-structure-song-corpus-to-governance-prompt-md
 - song
 - lyrics
 - chorus
 - withheld
 - road
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt.md
-backlink_count: 16
+backlink_count: 19
 backlinks:
-- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
-- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[Areas/Writing/The Ballad of the Witches'' Road — Analysis]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-04-25]]'
-- '[[raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X]]'
 ---
 
 # Recursive Entry Structure — Song Corpus to Governance Prompt

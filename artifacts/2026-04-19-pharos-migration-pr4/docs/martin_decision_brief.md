@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: PHAROS Diagnostic — Martin's Decision Brief
-aliases:
-- artifacts/2026-04-19-pharos-migration-pr4/docs/martin_decision_brief
 tags:
 - artifact
 - pharos
@@ -13,7 +11,6 @@ tags:
 - defer
 - regulatory
 - manifest
-- color-green
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

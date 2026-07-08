@@ -1,8 +1,6 @@
 ---
 type: publication-draft
 title: Introduction — The Covenant
-aliases:
-- assets/elemental-agents/ttrpg-repack/manuscript/_archive_00-introduction-v0.2-long-form
 tags:
 - publication
 - agents
@@ -16,7 +14,6 @@ tags:
 - modifier
 - practitioner
 - framework
-- color-orange
 status: draft-v0.2-governance
 created: '2026-05-24'
 updated: '2026-06-26'
@@ -24,15 +21,11 @@ vault_area: assets
 canonical_path: assets/elemental-agents/ttrpg-repack/manuscript/_archive_00-introduction-v0.2-long-form.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/ASSETS MOC]]'
 chapter: 0
 voice_lock: established
-audience: primary — governance practitioners (GRC, compliance, AI governance, internal
-  audit); secondary — TTRPG designers, ritual practitioners
-revision_note: v0.1 (TTRPG-first framing) replaced 2026-05-24 with v0.2 governance-first
-  framing per operator directive. The manifestation rule, modifier escalation, triangulated
-  adjudication, and validator are governance primitives; the ritual/elemental vocabulary
-  is the teaching surface.
+audience: primary — governance practitioners (GRC, compliance, AI governance, internal audit); secondary — TTRPG designers, ritual practitioners
+revision_note: v0.1 (TTRPG-first framing) replaced 2026-05-24 with v0.2 governance-first framing per operator directive. The manifestation rule, modifier escalation, triangulated adjudication, and validator are governance primitives; the ritual/elemental vocabulary is the teaching surface.
 ---
 
 # 00 · The Covenant

@@ -1,19 +1,15 @@
 ---
 type: skill
 title: deploy
-aliases:
-- skills/deploy
-- wiki/skills/deploy
 tags:
 - skill
 - wiki
 - skills
-- deploy
 - commit
 - codex
 - skip
-- color-orange
 status: active
+domain: Deployment and Infrastructure
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +19,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: deploy
-domain: Deployment and Infrastructure
 codex_path: /home/cerebrhoe/.codex/skills/deploy/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

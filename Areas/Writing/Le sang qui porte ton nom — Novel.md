@@ -1,41 +1,44 @@
 ---
 type: wiki
 title: Le sang qui porte ton nom — Novel
-aliases:
-- Le sang qui porte ton nom — Novel
 tags:
 - areas
 - novel
-- le-sang-qui-porte-ton-nom-novel-md
 - ulrich
 - justin
 - elle
 - light
-- color-red
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Le sang qui porte ton nom — Novel.md
-backlink_count: 18
+backlink_count: 22
 backlinks:
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[Areas/Writing/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
-- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[Areas/Writing/The Returning Light — Monograph]]'
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

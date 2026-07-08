@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: How to Write AI Skill Guides That Replace Prompt Engineering
-aliases:
-- artifacts/marketplace/promo/hashnode-iter34-skill-guides
 tags:
 - artifact
 - ai
@@ -14,16 +12,13 @@ tags:
 - guides
 - guide
 - invoke
-- color-teal
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: artifacts
 canonical_path: artifacts/marketplace/promo/hashnode-iter34-skill-guides.md
-backlink_count: 28
+backlink_count: 26
 backlinks:
-- '[[.trash/Building Your First AI Agent with OpenAI_____]]'
-- '[[.trash/Responses API Fundamentals]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/README]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/archive_guide]]'

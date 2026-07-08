@@ -3,8 +3,6 @@ type: wiki
 title: CO-EQUAL-AUTHORITY-DECISION
 aliases:
 - CO-EQUAL-AUTHORITY-DECISION.md
-- CO-EQUAL-AUTHORITY-DECISION
-- wiki/archive/CO-EQUAL-AUTHORITY-DECISION
 tags:
 - governance
 - authority
@@ -14,7 +12,6 @@ tags:
 - equal
 - decision
 - cleanly
-- color-purple
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

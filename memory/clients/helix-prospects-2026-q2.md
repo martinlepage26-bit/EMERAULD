@@ -3,7 +3,6 @@ type: client-memory
 title: HELIX Prospects — Q2 2026
 aliases:
 - HELIX Prospects — Q2 2026
-- memory/clients/helix-prospects-2026-q2
 tags:
 - client
 - helix
@@ -15,7 +14,6 @@ tags:
 - captured
 - retry
 - browser
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

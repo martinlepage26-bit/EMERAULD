@@ -11,25 +11,30 @@ tags:
 - etymology
 - writing-projects
 - areas
-- publisher-assessment-literary-idioms-and-phrase-origin-book-md
 - nautical
 - phrase
 - shakespeare
 - aesop
 - sporting
-- color-orange
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Publisher Assessment — Literary Idioms and Phrase-Origin Book.md
-backlink_count: 11
+backlink_count: 15
 backlinks:
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[Resources/Literary References in Common English — Allusion and Idiom Guide]]'
 - '[[Resources/Literary References — Craft Guide]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-06-22]]'
 - '[[memory/daily/2026-06-23]]'
 - '[[memory/daily/2026-06-24]]'

@@ -12,28 +12,30 @@ tags:
 - tooling
 - moc
 - areas
-- mcp-and-runtime-integration-moc-md
 - infrafabric
 - claude
 - commoditization
 - shaper
-- color-teal
+- pharos
 status: active
+domain: pharos
+priority: high
 created: '2026-05-14'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/MCP and Runtime Integration MOC.md
-backlink_count: 13
+backlink_count: 14
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
+- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
-- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[wiki/Vault Health — 2026-06-28]]'
+- '[[wiki/Vault Health — 2026-07-05]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[index]]'
 - '[[memory/daily/2026-06-23]]'

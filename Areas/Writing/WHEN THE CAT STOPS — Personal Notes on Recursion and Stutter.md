@@ -1,40 +1,43 @@
 ---
 type: wiki
 title: WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter
-aliases:
-- WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter
 tags:
 - areas
 - recursion
-- when-the-cat-stops-personal-notes-on-recursion-and-stutter-md
 - stutter
 - incursion
 - governing
 - stops
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter.md
-backlink_count: 17
+backlink_count: 21
 backlinks:
-- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[wiki/Care, Ethics, and Governance]]'
 - '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

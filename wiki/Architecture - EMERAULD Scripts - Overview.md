@@ -4,7 +4,6 @@ title: Architecture - EMERAULD Scripts - Overview
 aliases:
 - EMERAULD Scripts Architecture
 - scripts/ architecture
-- wiki/Architecture - EMERAULD Scripts - Overview
 tags:
 - architecture
 - emerauld
@@ -14,14 +13,12 @@ tags:
 - knowledge-graph
 - architecture-overview
 - wiki
-- architecture-emerauld-scripts-overview-md
 - config
 - graph
 - wikilink
-- color-orange
 status: active
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: wiki
 canonical_path: wiki/Architecture - EMERAULD Scripts - Overview.md
 backlink_count: 9
@@ -30,11 +27,11 @@ backlinks:
 - '[[wiki/Architecture - EMERAULD Scripts - Key Decisions]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Knowledge Layers]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[index]]'
 - '[[wiki/lightrag_config — EMERAULD Shared Config Module]]'
 - '[[memory/agents/Events]]'
 - '[[memory/daily/2026-06-29]]'
-- '[[session-state]]'
 scanned-commit: 96e6487
 local-path: /home/martin/EMERAULD/scripts
 ---

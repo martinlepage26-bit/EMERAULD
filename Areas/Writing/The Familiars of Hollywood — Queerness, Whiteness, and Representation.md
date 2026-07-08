@@ -1,37 +1,40 @@
 ---
 type: wiki
 title: The Familiars of Hollywood — Queerness, Whiteness, and Representation
-aliases:
-- The Familiars of Hollywood — Queerness, Whiteness, and Representation
 tags:
 - areas
 - queer
-- the-familiars-of-hollywood-queerness-whiteness-and-representation-md
 - whiteness
 - colin
 - hollywood
 - guillermo
 - inclusion
-- color-red
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/The Familiars of Hollywood — Queerness, Whiteness, and Representation.md
-backlink_count: 13
+backlink_count: 17
 backlinks:
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/Writing/Le sang qui porte ton nom — Novel]]'
 - '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
-- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

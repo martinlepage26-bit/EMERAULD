@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Why AI Code Review Keeps Flagging the Wrong Things (and How to Fix It)
-aliases:
-- artifacts/marketplace/promo/devto-iter41-code-review
 tags:
 - artifact
 - ai
@@ -13,7 +11,6 @@ tags:
 - rejected
 - debt
 - suggest
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

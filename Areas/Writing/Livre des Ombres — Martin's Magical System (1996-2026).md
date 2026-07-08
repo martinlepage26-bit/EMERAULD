@@ -11,26 +11,31 @@ tags:
 - spiritual-system
 - elemental
 - areas
-- livre-des-ombres-martin-s-magical-system-1996-2026-md
 - magical
 - terre
 - gaia
 - earth
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Livre des Ombres — Martin's Magical System (1996-2026).md
-backlink_count: 8
+backlink_count: 12
 backlinks:
-- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[Areas/Personal/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/GAIA — Fisher King Project State]]'
 ---
 

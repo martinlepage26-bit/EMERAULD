@@ -13,33 +13,38 @@ tags:
 - hephaistos
 - review-process
 - areas
-- protocols-debate-and-red-team-runbook-md
 - lane
 - protocols
 - delta
 - redteam
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook.md
-backlink_count: 15
+backlink_count: 19
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Fluency and Interruption Theory]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
+- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
-- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Resources/Red Team Handbook — Offensive Security Reference]]'
 - '[[wiki/archive/red-team]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[hephaistos/agents/hephaistos]]'
 ---
 

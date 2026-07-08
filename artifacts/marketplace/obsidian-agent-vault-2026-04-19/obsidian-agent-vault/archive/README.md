@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: archive/
-aliases:
-- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/archive/README
 tags:
 - artifact
 - agents
@@ -13,7 +11,6 @@ tags:
 - superseded
 - periodically
 - originals
-- color-green
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

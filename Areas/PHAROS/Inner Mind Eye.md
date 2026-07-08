@@ -1,35 +1,38 @@
 ---
 type: wiki
 title: Inner Mind Eye
-aliases:
-- Inner Mind Eye
 tags:
 - ethics
 - equity
 - governance
 - care
 - areas
-- inner-mind-eye-md
 - mind
 - inner
 - complement
-- color-violet
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Inner Mind Eye.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/Anti-Charm]]'
-- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Philosopher]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/archive/Ethical Ground Values]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Inner Mind Eye

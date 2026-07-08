@@ -4,8 +4,6 @@ title: Ethical Ground Values
 aliases:
 - Ethical Ground
 - Seven Ethical Ground values
-- Ethical Ground Values
-- wiki/archive/Ethical Ground Values
 tags:
 - governance
 - ethics
@@ -17,17 +15,19 @@ tags:
 - ethical
 - negotiables
 - values
-- color-green
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/archive/Ethical Ground Values.md
-backlink_count: 4
+backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Inner Mind Eye]]'
 - '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[governance/governance-index]]'
 ---
 

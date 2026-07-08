@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Better Data Management | ThinkData Works
-aliases:
-- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_better-data-management-thinkdata-works
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - solutions
 - works
 - customer
-- color-blue
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

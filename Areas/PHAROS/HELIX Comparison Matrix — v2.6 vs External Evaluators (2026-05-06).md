@@ -11,29 +11,35 @@ tags:
 - evidence-discipline
 - ai-infrastructure
 - areas
-- helix-comparison-matrix-v2-6-vs-external-evaluators-2026-05-06-md
 - garak
 - pyrit
 - promptfoo
 - matrix
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06).md
-backlink_count: 10
+backlink_count: 15
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
+- '[[Areas/PHAROS/HELIX Full Protocol Session — Martin''s Governance Synthesis, Gemini Target (2026-07-03)]]'
 - '[[Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
 - '[[Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026)]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)

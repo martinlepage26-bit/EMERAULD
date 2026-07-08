@@ -3,7 +3,6 @@ type: architecture-module
 title: Architecture - EMERAULD Scripts - Knowledge Layers
 aliases:
 - EMERAULD knowledge retrieval layers
-- wiki/Architecture - EMERAULD Scripts - Knowledge Layers
 tags:
 - architecture
 - emerauld
@@ -13,16 +12,14 @@ tags:
 - scripts
 - architecture-module
 - wiki
-- architecture-emerauld-scripts-knowledge-layers-md
 - graph
 - venvs
 - store
 - query
 - json
-- color-teal
 status: active
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: wiki
 canonical_path: wiki/Architecture - EMERAULD Scripts - Knowledge Layers.md
 backlink_count: 8
@@ -31,10 +28,10 @@ backlinks:
 - '[[wiki/Architecture - EMERAULD Scripts - Key Decisions]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Overview]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[index]]'
 - '[[wiki/lightrag_config — EMERAULD Shared Config Module]]'
 - '[[memory/daily/2026-06-29]]'
-- '[[session-state]]'
 scanned-commit: 96e6487
 ---
 

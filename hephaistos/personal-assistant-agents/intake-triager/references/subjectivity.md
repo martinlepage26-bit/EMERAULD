@@ -1,9 +1,6 @@
 ---
 type: note
 title: Subjectivity
-aliases:
-- personal-assistant-agents/intake-triager/references/subjectivity
-- hephaistos/personal-assistant-agents/intake-triager/references/subjectivity
 tags:
 - note
 - agents
@@ -14,10 +11,9 @@ tags:
 - rights
 - heart
 - lanes
-- subjectivity
 - hidden
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

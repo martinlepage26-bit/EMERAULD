@@ -3,22 +3,19 @@ type: adr
 title: Architecture - EMERAULD Scripts - Key Decisions
 aliases:
 - EMERAULD scripts ADRs
-- wiki/Architecture - EMERAULD Scripts - Key Decisions
 tags:
 - architecture
 - adr
 - emerauld
 - scripts
 - wiki
-- architecture-emerauld-scripts-key-decisions-md
 - lightrag
 - evidenced
 - embed
 - config
-- color-orange
 status: active
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: wiki
 canonical_path: wiki/Architecture - EMERAULD Scripts - Key Decisions.md
 backlink_count: 9
@@ -27,11 +24,11 @@ backlinks:
 - '[[wiki/Architecture - EMERAULD Scripts - Knowledge Layers]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Overview]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[index]]'
 - '[[wiki/lightrag_config — EMERAULD Shared Config Module]]'
 - '[[memory/agents/Events]]'
 - '[[memory/daily/2026-06-29]]'
-- '[[session-state]]'
 scanned-commit: 96e6487
 ---
 

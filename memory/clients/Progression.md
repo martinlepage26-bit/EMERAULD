@@ -4,7 +4,6 @@ title: Progression
 aliases:
 - Progression client
 - Progression diagnostic target
-- memory/clients/Progression
 tags:
 - client
 - prospect
@@ -12,10 +11,8 @@ tags:
 - active
 - memory
 - clients
-- progression
 - diagnostic
 - payment
-- color-green
 status: active
 created: '2026-04-19'
 updated: '2026-06-26'

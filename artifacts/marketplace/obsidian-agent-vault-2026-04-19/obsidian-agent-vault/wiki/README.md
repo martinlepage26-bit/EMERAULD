@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: wiki/
-aliases:
-- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/README
 tags:
 - artifact
 - agents
@@ -13,7 +11,6 @@ tags:
 - periodically
 - dump
 - needing
-- color-orange
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

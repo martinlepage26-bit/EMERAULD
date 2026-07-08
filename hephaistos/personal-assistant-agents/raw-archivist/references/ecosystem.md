@@ -1,9 +1,6 @@
 ---
 type: note
 title: Ecosystem
-aliases:
-- personal-assistant-agents/raw-archivist/references/ecosystem
-- hephaistos/personal-assistant-agents/raw-archivist/references/ecosystem
 tags:
 - note
 - agents
@@ -16,8 +13,8 @@ tags:
 - archivist
 - rights
 - commercialization
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

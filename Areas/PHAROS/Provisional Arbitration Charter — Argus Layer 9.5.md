@@ -1,8 +1,6 @@
 ---
 type: note
 title: Provisional Arbitration Charter — Argus Layer 9.5
-aliases:
-- Provisional Arbitration Charter — Argus Layer 9.5
 tags:
 - pharos
 - governance
@@ -11,13 +9,12 @@ tags:
 - authority-chain
 - note
 - areas
-- provisional-arbitration-charter-argus-layer-9-5-md
 - charter
 - provisional
 - connects
 - apex
-- color-purple
 status: active
+domain: pharos
 created: '2026-04-28'
 updated: '2026-06-26'
 vault_area: Areas
@@ -28,22 +25,22 @@ backlinks:
 - '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Home]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[memory/daily/2026-04-28]]'
 ---
 

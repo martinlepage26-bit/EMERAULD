@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Paula Parhon - Biography | Desjardins
-aliases:
-- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_paula-parhon-biography-desjardins
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - director
 - paula
 - browser
-- color-lime
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

@@ -2,7 +2,6 @@
 type: wiki
 title: Authority Without Power-Over
 aliases:
-- Authority Without Power-Over
 - Binding Principle
 - Stewardship not dominion
 tags:
@@ -12,31 +11,37 @@ tags:
 - stewardship
 - hephaistos
 - areas
-- authority-without-power-over-md
 - principle
 - consent
 - counterpart
 - coercion
-- color-red
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-02'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Authority Without Power-Over.md
-backlink_count: 12
+backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[Areas/PHAROS/Machine Limitation]]'
+- '[[Areas/PHAROS/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure]]'
+- '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
-- '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
-- '[[Areas/PHAROS/Machine Limitation]]'
-- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Authority Without Power-Over

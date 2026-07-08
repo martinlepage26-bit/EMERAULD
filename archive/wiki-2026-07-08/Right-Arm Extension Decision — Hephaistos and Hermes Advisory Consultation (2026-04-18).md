@@ -14,27 +14,29 @@ tags:
 - binding-decision
 - architecture
 - archive
-- right-arm-extension-decision-hephaistos-and-hermes-advisory-consultation-2026-04-18-md
 - arms
 - consultation
 - implications
 - analyst
-- color-purple
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18).md
-backlink_count: 8
+backlink_count: 10
 backlinks:
-- '[[.github/agents/hephaistos.agent]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION]]'
-- '[[raw/Clippings/Agent Architecture Patterns and Decision Framework]]'
 ---
 
 # Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)

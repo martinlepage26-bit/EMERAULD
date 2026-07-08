@@ -3,7 +3,6 @@ type: governance-doc
 title: Continuous Ethical Monitoring
 aliases:
 - Continuous Ethical Monitoring
-- governance/hephaistos/continuous-ethical-monitoring
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - queen
 - monitoring
 - wisdom
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

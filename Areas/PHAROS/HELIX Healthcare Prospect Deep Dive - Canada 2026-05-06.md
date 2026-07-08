@@ -17,27 +17,31 @@ tags:
 - law25
 - pipeda
 - areas
-- helix-healthcare-prospect-deep-dive-canada-2026-05-06-md
 - news
 - muhc
 - airudi
 - infoway
-- color-pink
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06.md
-backlink_count: 8
+backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/helix-prospects-2026-q2]]'
 - '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_artificial-intelligence]]'
 - '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_artificial-intelligence-at-rbc]]'
-- '[[raw/Clippings/AI is speeding into healthcare. Who should regulate it]]'
 ---
 
 # HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06

@@ -18,23 +18,27 @@ tags:
 - ricoeur
 - giorgi
 - resources
-- phenomenology-hermeneutics-heuristics-robinson-1996-seminar-critique-md
 - robinson
 - heuristic
 - seminar
-- color-blue
+- wiki
 status: active
+domain: reference
 created: '2026-04-20'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
-- '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique

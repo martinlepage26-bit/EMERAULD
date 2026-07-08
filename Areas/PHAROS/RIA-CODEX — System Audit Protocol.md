@@ -13,30 +13,40 @@ tags:
 - systems-thinking
 - hidden-mechanisms
 - areas
-- ria-codex-system-audit-protocol-md
 - divergence
 - mechanism
 - repeats
 - repeating
 - protocol
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-26'
 updated: '2026-07-03'
 vault_area: Areas
 canonical_path: Areas/PHAROS/RIA-CODEX — System Audit Protocol.md
-backlink_count: 10
+backlink_count: 19
 backlinks:
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HELIX Full Protocol Session — Martin''s Governance Synthesis, Gemini Target (2026-07-03)]]'
+- '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[maps/PHAROS Method Map]]'
+- '[[memory/daily/2026-07-03]]'
+- '[[memory/daily/2026-07-04]]'
+- '[[memory/daily/2026-07-05]]'
+- '[[memory/daily/2026-07-06]]'
+- '[[memory/daily/2026-07-07]]'
 source: RIA-CODEX.txt
 ---
 

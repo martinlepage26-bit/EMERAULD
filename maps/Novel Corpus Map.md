@@ -1,8 +1,6 @@
 ---
 type: map
 title: Novel Corpus Map
-aliases:
-- maps/Novel Corpus Map
 tags:
 - index
 - map
@@ -10,21 +8,18 @@ tags:
 - creative-writing
 - hex-adecimal
 - maps
-- novel-corpus-map-md
 - novel
 - adecimal
 - press
 - alchemy
 - frequency
-- color-purple
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: maps
 canonical_path: maps/Novel Corpus Map.md
-backlink_count: 2
+backlink_count: 1
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 ---
 

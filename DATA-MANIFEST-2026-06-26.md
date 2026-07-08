@@ -1,3 +1,18 @@
+---
+type: note
+title: DATA MANIFEST — `/home/martin`
+tags:
+- note
+status: active
+created: '2026-06-26'
+updated: '2026-07-08'
+vault_area: DATA-MANIFEST-2026-06-26.md
+canonical_path: DATA-MANIFEST-2026-06-26.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # DATA MANIFEST — `/home/martin`
 # Generated: 2026-06-26T00:00:00Z (operator scan)
 # Scope: Full home directory inventory

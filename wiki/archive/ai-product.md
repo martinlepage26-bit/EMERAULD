@@ -1,9 +1,6 @@
 ---
 type: skill
 title: ai-product
-aliases:
-- archive/ai-product
-- wiki/archive/ai-product
 tags:
 - skill
 - wiki
@@ -13,17 +10,15 @@ tags:
 - runbooks
 - scaling
 - versioning
-- color-green
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/archive/ai-product.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 skill_id: ai-product
 scope: forging
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md

@@ -1,30 +1,28 @@
 ---
 type: version-genealogy
 title: Healthcare Packet — Version Genealogy
-aliases:
-- Healthcare Packet — Version Genealogy
 tags:
 - version-genealogy
 - areas
-- healthcare-packet-version-genealogy-md
 - providers
 - healthcare
 - packet
 - circulation
 - limited
-- color-pink
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Healthcare Packet — Version Genealogy.md
 backlink_count: 5
 backlinks:
-- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers]]'
-- '[[wiki/Home]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
 ---
 
 # Healthcare Packet — Version Genealogy

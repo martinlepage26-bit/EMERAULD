@@ -1,28 +1,26 @@
 ---
 type: wiki
 title: Queering Neo-Pagan Magic — 2006 Paper
-aliases:
-- Queering Neo-Pagan Magic — 2006 Paper
 tags:
 - areas
 - pagan
 - magic
 - queer
 - paper
-- queering-neo-pagan-magic-2006-paper-md
 - queering
 - practitioners
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper.md
-backlink_count: 24
+backlink_count: 28
 backlinks:
-- '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
+- '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
@@ -32,17 +30,22 @@ backlinks:
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
-- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
+- '[[Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
-- '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

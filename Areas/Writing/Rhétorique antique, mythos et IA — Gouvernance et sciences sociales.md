@@ -14,28 +14,33 @@ tags:
 - persuasion
 - epistemics
 - areas
-- rh-torique-antique-mythos-et-ia-gouvernance-et-sciences-sociales-md
 - rhetorical
 - mythos
 - telos
 - kairos
 - fluency
-- color-pink
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
-- '[[wiki/Fluency and Interruption Theory]]'
-- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[Areas/PHAROS/Machine Limitation]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
-- '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Rhétorique antique, mythos et IA — Gouvernance et sciences sociales

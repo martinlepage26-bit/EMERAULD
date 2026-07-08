@@ -3,17 +3,14 @@ type: vault-audit
 title: Architecture Status Marking — Week 2 Audit
 aliases:
 - Architecture Status Marking — Week 2 Audit
-- _vault/ARCHITECTURE-STATUS-MARKING-CHECKLIST
 tags:
 - vault
 - vault-audit
-- architecture-status-marking-checklist-md
 - tier
 - marking
 - marked
 - status
 - deprecated
-- color-purple
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

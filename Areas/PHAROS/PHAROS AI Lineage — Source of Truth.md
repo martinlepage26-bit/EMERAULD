@@ -11,45 +11,49 @@ tags:
 - ai-governance
 - architecture
 - areas
-- pharos-ai-lineage-source-of-truth-md
 - dottie
 - cross
 - chatgpt
 - masterskill
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS AI Lineage — Source of Truth.md
-backlink_count: 27
+backlink_count: 31
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
-- '[[archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/EMERAULD]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Host Environment — pharos-corpus-runner-01]]'
-- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
-- '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[Areas/PHAROS/PHAROS]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
-- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/PHAROS/PHAROS Method — Core Framework]]'
 - '[[Areas/PHAROS/PHAROS Product Stack]]'
-- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[wiki/EMERAULD]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-04-28]]'
 ---
 

@@ -1,44 +1,36 @@
 ---
 type: wiki
 title: Queering Neo-Pagan Magic — 2026 Paper
-aliases:
-- Queering Neo-Pagan Magic — 2026 Paper
 tags:
 - areas
 - pagan
 - magic
 - queer
 - paper
-- queering-neo-pagan-magic-2026-paper-md
 - illegitimacy
 - tactical
 - nomadic
 - epistemological
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper.md
-backlink_count: 34
+backlink_count: 38
 backlinks:
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
+- '[[Areas/Writing/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
-- '[[Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
-- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
-- '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version]]'
@@ -49,12 +41,23 @@ backlinks:
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Home]]'
+- '[[Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
+- '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

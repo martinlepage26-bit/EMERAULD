@@ -11,25 +11,30 @@ tags:
 - trace
 - analysis
 - areas
-- trace-investigator-md
 - investigator
 - mixed
 - softens
 - appendices
-- color-blue
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Trace Investigator.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
-- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Vault Graph Hygiene — Content Title Normalization Skill]]'
 - '[[wiki/archive/red-team]]'
 - '[[wiki/archive/triangulation]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/skills/fully-rounded-power-analyst]]'
 - '[[wiki/skills/recursive-governance-method]]'
 ---

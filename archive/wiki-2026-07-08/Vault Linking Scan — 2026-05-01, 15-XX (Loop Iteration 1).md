@@ -7,23 +7,27 @@ aliases:
 tags:
 - archive
 - intake
-- vault-linking-scan-2026-05-01-15-xx-loop-iteration-1-md
 - legitimacy
 - iteration
 - cluster
 - authority
 - deeper
-- color-teal
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1).md
-backlink_count: 3
+backlink_count: 7
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)

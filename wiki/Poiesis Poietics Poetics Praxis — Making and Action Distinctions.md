@@ -7,7 +7,6 @@ aliases:
 - Poietics vs poetics
 - Poiesis poietics poetics praxis
 - TOPIC — Poiesis Poietics Poetics Praxis — Making and Action Distinctions
-- wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions
 tags:
 - vocabulary
 - poietics
@@ -16,28 +15,29 @@ tags:
 - ethics
 - governance
 - wiki
-- poiesis-poietics-poetics-praxis-making-and-action-distinctions-md
 - poiesis
 - making
-- color-red
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions.md
-backlink_count: 10
+backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
 - '[[Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
-- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
-  Phenomenon]]'
 - '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
+- '[[Resources/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Poiesis Poietics Poetics Praxis — Making and Action Distinctions

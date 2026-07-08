@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: docs/migration-govern-to-pharos.md
-aliases:
-- artifacts/2026-04-19-pharos-migration-pr4/01-deploy-config/migration-govern-to-pharos
 tags:
 - artifact
 - pharos
@@ -14,7 +12,6 @@ tags:
 - railway
 - migration
 - wrangler
-- color-purple
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

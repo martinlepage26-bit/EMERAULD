@@ -14,24 +14,29 @@ tags:
 - engineering-history
 - witches-road
 - areas
-- dr-sort-codebase-version-genealogy-three-iterations-of-failed-automation-md
 - sort
 - lotus
 - milestone
 - codebases
 - march
-- color-green
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-05-03'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation.md
-backlink_count: 6
+backlink_count: 10
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
-- '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/Dr. Sort — Fisher King Project State]]'
 - '[[projects/LOTUS — Fisher King Project State]]'
 ---

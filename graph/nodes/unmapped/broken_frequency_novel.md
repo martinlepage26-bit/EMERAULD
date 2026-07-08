@@ -1,11 +1,26 @@
 ---
-id: broken_frequency_novel
 type: Product
-canonical_name: "The Broken Frequency of the Word"
-aliases: []
+title: The Broken Frequency of the Word
+tags:
+- product
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/broken_frequency_novel.md
+backlink_count: 4
+backlinks:
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[graph/nodes/unmapped/martin_lepage]]'
+id: broken_frequency_novel
+canonical_name: The Broken Frequency of the Word
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

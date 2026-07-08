@@ -4,10 +4,15 @@ title: RAW-FRONTMATTER-MANIFEST-2026-07-08
 tags:
 - register
 - raw-override
+- vault
 status: active
 created: '2026-07-08'
+updated: '2026-07-08'
 vault_area: _vault
 canonical_path: _vault/RAW-FRONTMATTER-MANIFEST-2026-07-08.md
+backlink_count: 1
+backlinks:
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Raw-Lane Frontmatter Manifest — 2026-07-08

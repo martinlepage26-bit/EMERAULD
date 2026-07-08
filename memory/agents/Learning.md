@@ -1,9 +1,6 @@
 ---
 type: memory-register
 title: Learning
-aliases:
-- Learning
-- memory/agents/Learning
 tags:
 - memory
 - agents
@@ -13,20 +10,22 @@ tags:
 - inbound
 - claude
 - auto
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: memory
 canonical_path: memory/agents/Learning.md
-backlink_count: 7
+backlink_count: 10
 backlinks:
-- '[[.planning/REQUIREMENTS]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[index]]'
+- '[[memory/agents/Antigravity]]'
 - '[[memory/agents/Blockers]]'
 - '[[memory/agents/Decisions]]'
+- '[[memory/agents/Gemini]]'
+- '[[memory/agents/Grok]]'
 - '[[memory/agents/Journal]]'
+- '[[memory/agents/Kimi]]'
 - '[[memory/agents/Vibe]]'
 ---
 

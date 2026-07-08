@@ -1,3 +1,21 @@
+---
+type: project-mirror
+title: 'Architecture Summary: HEPHAISTOS Multi-Agent Governance Framework'
+tags:
+- project-mirror
+- projects
+- security-audit-skill
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/security-audit-skill/martin-governance/run-1/architecture.md
+backlink_count: 2
+backlinks:
+- '[[wiki/skills/database-schema-designer]]'
+- '[[wiki/skills/research-engineer]]'
+---
+
 # Architecture Summary: HEPHAISTOS Multi-Agent Governance Framework
 
 **Audit target:** `/home/martin` governance documentation and operational context  

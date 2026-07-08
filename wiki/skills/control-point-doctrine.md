@@ -1,9 +1,6 @@
 ---
 type: skill
 title: control-point-doctrine
-aliases:
-- skills/control-point-doctrine
-- wiki/skills/control-point-doctrine
 tags:
 - skill
 - wiki
@@ -13,8 +10,8 @@ tags:
 - leverage
 - asse
 - turn
-- color-purple
 status: active
+domain: Governance and Authority
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: control-point-doctrine
-domain: Governance and Authority
 codex_path: /home/cerebrhoe/.codex/skills/control-point-doctrine/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

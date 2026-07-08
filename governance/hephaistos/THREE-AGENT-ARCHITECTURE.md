@@ -3,7 +3,6 @@ type: governance-doc
 title: 'Three-Agent Architecture: HEPHAISTOS, Queen Keyport, Hermes'
 aliases:
 - 'Three-Agent Architecture: HEPHAISTOS, Queen Keyport, Hermes'
-- governance/hephaistos/THREE-AGENT-ARCHITECTURE
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - tier
 - keyport
 - queen
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

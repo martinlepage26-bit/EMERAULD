@@ -1,9 +1,6 @@
 ---
 type: note
 title: Method
-aliases:
-- personal-assistant-agents/raw-archivist/references/method
-- hephaistos/personal-assistant-agents/raw-archivist/references/method
 tags:
 - note
 - agents
@@ -16,8 +13,8 @@ tags:
 - preserve
 - unclear
 - trace
-- color-lime
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

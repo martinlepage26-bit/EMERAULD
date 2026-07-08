@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Obsidian Agent Vault — Promo Pack
-aliases:
-- artifacts/marketplace/promo/README
 tags:
 - artifact
 - agents
@@ -13,7 +11,6 @@ tags:
 - post
 - obsidianmd
 - sideproject
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

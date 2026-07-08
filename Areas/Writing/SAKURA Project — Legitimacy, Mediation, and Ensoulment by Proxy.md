@@ -1,41 +1,44 @@
 ---
 type: wiki
 title: SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy
-aliases:
-- SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy
 tags:
 - areas
-- sakura-project-legitimacy-mediation-and-ensoulment-by-proxy-md
 - sakura
 - mediation
 - legitimacy
 - bottle
 - charging
-- color-lime
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy.md
-backlink_count: 17
+backlink_count: 21
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
-- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
 - '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
-- '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
-- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy

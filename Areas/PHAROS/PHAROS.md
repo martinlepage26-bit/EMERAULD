@@ -1,50 +1,55 @@
 ---
 type: wiki
 title: PHAROS
-aliases:
-- PHAROS
 tags:
-- pharos
 - governance
 - product
 - method
 - areas
-- pharos-md
 - publication
 - compassai
 - track
 - scholarly
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS.md
-backlink_count: 23
+backlink_count: 31
 backlinks:
-- '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
 - '[[wiki/APEX Papers — Research Archive Map]]'
+- '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/MASTER PACK — D Drive Archive Map]]'
-- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
-- '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/Home]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
+- '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
 - '[[wiki/Research Hub]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
+- '[[graph/nodes/unmapped/cloudflare_stack]]'
+- '[[graph/nodes/unmapped/martin_lepage]]'
+- '[[graph/nodes/unmapped/pharos_suite_repo]]'
 - '[[maps/PHAROS Method Map]]'
+- '[[memory/agents/Grok]]'
 - '[[memory/agents/Vibe]]'
-- '[[session-state]]'
 ---
 
 # PHAROS

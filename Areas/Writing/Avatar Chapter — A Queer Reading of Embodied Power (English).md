@@ -1,33 +1,36 @@
 ---
 type: wiki
 title: Avatar Chapter — A Queer Reading of Embodied Power (English)
-aliases:
-- Avatar Chapter — A Queer Reading of Embodied Power (English)
 tags:
 - areas
 - queer
-- avatar-chapter-a-queer-reading-of-embodied-power-english-md
 - chapter
 - avatar
 - tlok
 - atla
-- color-red
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English).md
-backlink_count: 11
+backlink_count: 15
 backlinks:
-- '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
-- '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Home]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 - '[[memory]]'
 ---

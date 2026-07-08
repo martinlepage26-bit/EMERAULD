@@ -14,23 +14,27 @@ tags:
 - governess
 - lotus
 - archive
-- portfolio-restructuring-review-march-2026-md
 - ownership
 - sort
 - caller
-- color-purple
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-03'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026.md
-backlink_count: 13
+backlink_count: 17
 backlinks:
-- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
-- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
 - '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
 - '[[wiki/LOTUS Model and Agency]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-06-22]]'
 - '[[memory/daily/2026-06-23]]'
 - '[[memory/daily/2026-06-24]]'

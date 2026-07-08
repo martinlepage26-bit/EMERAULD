@@ -6,36 +6,37 @@ aliases:
 - unresolved projects
 - isolated references
 - pre-governance work
-- wiki/OUTLIERS — Five Notes That Break the Architecture
 tags:
 - meta-analysis
 - vault-coherence
 - governance-gap
 - abandoned-initiatives
 - wiki
-- outliers-five-notes-that-break-the-architecture-md
 - outlier
 - outliers
 - reddit
 - backlinks
 - plugin
-- color-purple
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/OUTLIERS — Five Notes That Break the Architecture.md
-backlink_count: 10
+backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Resources/Plugin Recommendations]]'
 - '[[Resources/Reddit Data API — Access Terms and Rate Limits]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

@@ -1,11 +1,23 @@
 ---
-id: wave2_gate_decision
 type: Decision
-canonical_name: "Wave 2 Gate Decision"
-aliases: []
+title: Wave 2 Gate Decision
+tags:
+- decision
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/wave2_gate_decision.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: wave2_gate_decision
+canonical_name: Wave 2 Gate Decision
 confidence: high
-sources: ['governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md']
+sources:
+- governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md
 created_from: graphify_pass
 ---
 

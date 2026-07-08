@@ -13,27 +13,31 @@ tags:
 - ai-society
 - manuscript-tracking
 - archive
-- ai-society-manuscript-springer-in-review-notification-2026-05-10-md
 - square
 - preprint
 - screening
 - manuscript
-- color-orange
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-12'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10).md
-backlink_count: 8
+backlink_count: 12
 backlinks:
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 source:
 - raw sources/2026-05-10 — Springer Nature In Review notification — AI Society manuscript.md
 ---

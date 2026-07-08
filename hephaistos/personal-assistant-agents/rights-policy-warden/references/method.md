@@ -1,9 +1,6 @@
 ---
 type: note
 title: Method
-aliases:
-- personal-assistant-agents/rights-policy-warden/references/method
-- hephaistos/personal-assistant-agents/rights-policy-warden/references/method
 tags:
 - note
 - agents
@@ -15,8 +12,8 @@ tags:
 - contradiction
 - ownership
 - policy
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

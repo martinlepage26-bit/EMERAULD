@@ -1,9 +1,6 @@
 ---
 type: skill
 title: render-deploy
-aliases:
-- skills/render-deploy
-- wiki/skills/render-deploy
 tags:
 - skill
 - wiki
@@ -13,8 +10,8 @@ tags:
 - blueprints
 - deeplinks
 - codebases
-- color-orange
 status: active
+domain: Deployment and Infrastructure
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: render-deploy
-domain: Deployment and Infrastructure
 codex_path: /home/cerebrhoe/.codex/skills/render-deploy/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

@@ -1,36 +1,29 @@
 ---
 type: wiki
 title: PHAROS Runbook SOP
-aliases:
-- PHAROS Runbook SOP
 tags:
 - areas
 - pharos
-- pharos-runbook-sop-md
 - disposition
 - step
 - thresholds
 - claims
 - rights
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Runbook SOP.md
-backlink_count: 29
+backlink_count: 33
 backlinks:
 - '[[Areas/PHAROS/Architectural AI Governance — Willis and PBSAI]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[Areas/PHAROS/PHAROS Company Registration and Security Incidents]]'
@@ -41,12 +34,21 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/RECURSO — Final Audit and Ethical Review]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
-- '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Home]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[projects/AurorA — Fisher King Project State]]'
 ---

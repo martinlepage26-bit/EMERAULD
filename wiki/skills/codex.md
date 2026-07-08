@@ -1,30 +1,24 @@
 ---
 type: skill
 title: codex
-aliases:
-- skills/codex
-- wiki/skills/codex
 tags:
 - skill
 - wiki
 - skills
-- codex
 - package
 - development
 - pretending
-- color-orange
 status: active
+domain: Agent Architecture and Development
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/skills/codex.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 skill_id: codex
-domain: Agent Architecture and Development
 codex_path: /home/cerebrhoe/.codex/skills/codex/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

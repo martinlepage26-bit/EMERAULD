@@ -1,53 +1,56 @@
 ---
 type: wiki
 title: Recursive Continuity Without Memory — AI Identity Across Sessions
-aliases:
-- Recursive Continuity Without Memory — AI Identity Across Sessions
 tags:
 - areas
 - recursion
 - ai
-- recursive-continuity-without-memory-ai-identity-across-sessions-md
 - prior
 - outputs
 - frame
 - stage
 - perturbation
-- color-green
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions.md
-backlink_count: 30
+backlink_count: 34
 backlinks:
-- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Identity and Phenomenology]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
-- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Writing/Governance by Denial]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Home]]'
-- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
-- '[[Areas/Writing/Le sang qui porte ton nom — Novel]]'
-- '[[wiki/LightRAG — Graph-Based RAG System]]'
-- '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
-- '[[Areas/Writing/Loop Papers and Recursive Governance]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
-- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
-- '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
+- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[Areas/Writing/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[Areas/Writing/Governance by Denial]]'
+- '[[Areas/Writing/Le sang qui porte ton nom — Novel]]'
+- '[[Areas/Writing/Loop Papers and Recursive Governance]]'
+- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/The Returning Light — Monograph]]'
 - '[[Areas/Writing/The Wheel and the Watcher]]'
+- '[[wiki/Home]]'
+- '[[wiki/LightRAG — Graph-Based RAG System]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
+- '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
+- '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
-- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Events]]'
 - '[[memory/agents/Journal]]'

@@ -6,14 +6,14 @@ aliases:
 tags:
 - governance-procedures
 - areas
-- governance-controls-monitoring-plan-automation-roadmap-md
 - manual
 - automation
 - check
 - alert
 - hash
-- color-purple
+- pharos
 status: active
+domain: pharos
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Areas
@@ -22,11 +22,11 @@ backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/External Data Registry — Phase 1 Build]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
+- '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 tier: critical
 phase: Phase 2 (Automation)
 ---

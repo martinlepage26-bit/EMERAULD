@@ -3,7 +3,6 @@ type: governance-doc
 title: Bias Testing Protocol
 aliases:
 - Bias Testing Protocol
-- governance/hephaistos/bias-testing-protocol
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - block
 - category
 - exempt
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

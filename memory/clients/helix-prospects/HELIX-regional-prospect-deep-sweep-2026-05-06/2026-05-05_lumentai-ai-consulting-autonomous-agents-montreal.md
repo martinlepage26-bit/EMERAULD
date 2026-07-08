@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: LumentAI — AI Consulting & Autonomous Agents | Montreal
-aliases:
-- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_lumentai-ai-consulting-autonomous-agents-montreal
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - montreal
 - firm
 - deliver
-- color-orange
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

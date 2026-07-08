@@ -1,11 +1,7 @@
 ---
 type: readme
 title: wiki/
-aliases:
-- personal-assistant-agents/trismegiste/vault/wiki/README
-- hephaistos/personal-assistant-agents/trismegiste/vault/wiki/README
 tags:
-- readme
 - agents
 - trismegiste
 - personal-assistant-agents
@@ -15,8 +11,8 @@ tags:
 - prompted
 - prefix
 - backlink
-- color-teal
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

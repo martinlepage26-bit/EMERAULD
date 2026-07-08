@@ -1,34 +1,36 @@
 ---
 type: wiki
 title: OpenAI Governance Framework — Comparison with PHAROS
-aliases:
-- OpenAI Governance Framework — Comparison with PHAROS
 tags:
 - areas
 - pharos
 - governance
 - ai
-- openai-governance-framework-comparison-with-pharos-md
 - openai
 - preparedness
 - mission
 - pentagon
 - safety
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Home]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

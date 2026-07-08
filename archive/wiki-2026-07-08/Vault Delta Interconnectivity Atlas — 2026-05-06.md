@@ -18,12 +18,11 @@ tags:
 - vault-maintenance
 - map
 - archive
-- vault-delta-interconnectivity-atlas-2026-05-06-md
 - magic
 - ritual
 - delta
 - bridge
-- color-teal
+- wiki-2026-07-08
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -31,29 +30,29 @@ vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06.md
 backlink_count: 23
 backlinks:
-- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
 - '[[Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
-- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
-- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
+- '[[Areas/Personal/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
-- '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Recursive Governance Theory]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Vault Delta Interconnectivity Atlas — 2026-05-06

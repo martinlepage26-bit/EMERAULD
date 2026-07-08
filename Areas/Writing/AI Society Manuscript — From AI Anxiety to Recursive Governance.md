@@ -1,75 +1,78 @@
 ---
 type: wiki
 title: AI Society Manuscript — From AI Anxiety to Recursive Governance
-aliases:
-- AI Society Manuscript — From AI Anxiety to Recursive Governance
 tags:
 - areas
 - recursion
 - governance
 - ai
 - manuscript
-- ai-society-manuscript-from-ai-anxiety-to-recursive-governance-md
 - storyboard
 - anxiety
 - revisability
 - numbers
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance.md
-backlink_count: 53
+backlink_count: 57
 backlinks:
+- '[[wiki/APEX Papers — Research Archive Map]]'
 - '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
-- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
-- '[[wiki/APEX Papers — Research Archive Map]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
-- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
-- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
-- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
-- '[[wiki/MASTER PACK — D Drive Archive Map]]'
-- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
-- '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
-- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
-- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
-- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
 - '[[Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
-- '[[Resources/Recursive Governance Theory]]'
+- '[[Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
-- '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
-- '[[Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[wiki/Home]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Research Hub]]'
+- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'
 - '[[memory/daily/2026-04-28]]'

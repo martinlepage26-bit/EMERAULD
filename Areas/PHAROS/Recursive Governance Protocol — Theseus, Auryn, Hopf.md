@@ -1,45 +1,39 @@
 ---
 type: wiki
 title: Recursive Governance Protocol — Theseus, Auryn, Hopf
-aliases:
-- Recursive Governance Protocol — Theseus, Auryn, Hopf
 tags:
 - areas
 - recursion
 - governance
-- recursive-governance-protocol-theseus-auryn-hopf-md
 - hopf
 - auryn
 - phase
 - root
 - intake
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md
-backlink_count: 34
+backlink_count: 40
 backlinks:
-- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Infrastructure Stack]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration]]'
-- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
-- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)]]'
+- '[[Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)]]'
 - '[[Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[Areas/PHAROS/HELIX Full Protocol Session — Martin''s Governance Synthesis, Gemini Target (2026-07-03)]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
-- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
@@ -48,12 +42,23 @@ backlinks:
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
 - '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
-- '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
 - '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Home]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
+- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

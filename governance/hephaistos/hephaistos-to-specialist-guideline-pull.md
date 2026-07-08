@@ -3,7 +3,6 @@ type: governance-doc
 title: HEPHAISTOS ⇢ Specialist Guideline-Pull Schema
 aliases:
 - HEPHAISTOS ⇢ Specialist Guideline-Pull Schema
-- governance/hephaistos/hephaistos-to-specialist-guideline-pull
 tags:
 - governance
 - ai
@@ -13,15 +12,14 @@ tags:
 - gadget
 - specialist
 - pull
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance
 canonical_path: governance/hephaistos/hephaistos-to-specialist-guideline-pull.md
-backlink_count: 6
+backlink_count: 5
 backlinks:
-- '[[.github/agents/hephaistos.agent]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/global/HEPHAISTOS-STATUS]]'

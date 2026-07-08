@@ -1,43 +1,46 @@
 ---
 type: wiki
 title: Möbius Protocol — AI Self-Polygraph Template
-aliases:
-- Möbius Protocol — AI Self-Polygraph Template
 tags:
 - areas
 - ai
-- m-bius-protocol-ai-self-polygraph-template-md
 - bius
 - protocol
 - polygraph
 - self
 - mobius
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template.md
-backlink_count: 18
+backlink_count: 22
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
-- '[[Areas/Writing/Loop Papers and Recursive Governance]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Loop Papers and Recursive Governance]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Home]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Möbius Protocol — AI Self-Polygraph Template

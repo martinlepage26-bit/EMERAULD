@@ -1,8 +1,6 @@
 ---
 type: project
 title: Dr. Sort — Fisher King Project State
-aliases:
-- projects/Dr. Sort — Fisher King Project State
 tags:
 - project
 - fisher-king
@@ -10,13 +8,11 @@ tags:
 - archive-automation
 - lotus
 - projects
-- dr-sort-fisher-king-project-state-md
 - sort
 - revive
 - automation
 - dormant
 - codebases
-- color-green
 status: on-ice
 created: '2026-05-07'
 updated: '2026-06-26'

@@ -1,3 +1,18 @@
+---
+type: note
+title: Migration MANIFEST
+tags:
+- note
+status: active
+created: '2026-06-21'
+updated: '2026-07-08'
+vault_area: MIGRATION-MANIFEST-2026-06-21.md
+canonical_path: MIGRATION-MANIFEST-2026-06-21.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Migration MANIFEST
 # Generated: 2026-06-21T09:09:48Z
 # Operator: clean-migrate (loop — /tmux-ai-council assess + /clean-migrate)

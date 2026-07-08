@@ -1,36 +1,39 @@
 ---
 type: wiki
 title: Embedding Before Rupture — Relational AI and Institutional Power
-aliases:
-- Embedding Before Rupture — Relational AI and Institutional Power
 tags:
 - areas
 - ai
-- embedding-before-rupture-relational-ai-and-institutional-power-md
 - embedding
 - rupture
 - relational
 - institutional
 - bowker
-- color-red
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md
-backlink_count: 11
+backlink_count: 15
 backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
 - '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
-- '[[wiki/AI Identity and Phenomenology]]'
+- '[[Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Embedding Before Rupture — Relational AI and Institutional Power

@@ -1,9 +1,6 @@
 ---
 type: skill
 title: ma-arts-letters
-aliases:
-- skills/ma-arts-letters
-- wiki/skills/ma-arts-letters
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - arts
 - codex
 - creative
-- color-orange
 status: active
+domain: Creative and Writing
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 skill_id: ma-arts-letters
-domain: Creative and Writing
 codex_path: /home/cerebrhoe/.codex/skills/ma-arts-letters/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

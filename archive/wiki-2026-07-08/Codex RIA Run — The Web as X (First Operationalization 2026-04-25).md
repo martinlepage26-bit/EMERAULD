@@ -16,29 +16,33 @@ tags:
 - trust
 - codex
 - archive
-- codex-ria-run-the-web-as-x-first-operationalization-2026-04-25-md
 - instrument
 - prompt
 - finding
 - song
 - interpretively
-- color-orange
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25).md
-backlink_count: 10
+backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]'
 ---
 

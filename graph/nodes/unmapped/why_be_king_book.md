@@ -1,11 +1,23 @@
 ---
-id: why_be_king_book
 type: Product
-canonical_name: "Why Be King?"
-aliases: []
+title: Why Be King?
+tags:
+- product
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/why_be_king_book.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/martin_lepage]]'
+id: why_be_king_book
+canonical_name: Why Be King?
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

@@ -12,33 +12,38 @@ tags:
 - calendar
 - pharos-adjacent
 - areas
-- gaia-earth-calendar-app-and-evidence-aware-positioning-md
 - gaia
 - elemental
 - spiritual
 - astrology
-- color-red
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning.md
-backlink_count: 14
+backlink_count: 18
 backlinks:
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
-- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/Host Environment — pharos-corpus-runner-01]]'
-- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[Areas/Personal/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/GAIA — Fisher King Project State]]'
-- '[[session-state]]'
 ---
 
 # GAIA — Earth-Calendar App and Evidence-Aware Positioning

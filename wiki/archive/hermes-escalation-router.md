@@ -1,9 +1,6 @@
 ---
 type: skill
 title: hermes-escalation-router
-aliases:
-- archive/hermes-escalation-router
-- wiki/archive/hermes-escalation-router
 tags:
 - skill
 - wiki
@@ -13,17 +10,15 @@ tags:
 - hermes
 - router
 - retained
-- color-green
 status: dropped
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/archive/hermes-escalation-router.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 skill_id: hermes-escalation-router
 scope: routing
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md

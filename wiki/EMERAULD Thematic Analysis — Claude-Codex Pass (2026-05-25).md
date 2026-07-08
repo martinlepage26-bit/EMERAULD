@@ -5,7 +5,6 @@ aliases:
 - Thematic Analysis 2026-05-25
 - EMERAULD codebook
 - vault theme map
-- wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)
 tags:
 - vault-health
 - thematic-analysis
@@ -16,29 +15,30 @@ tags:
 - authority
 - recursion
 - wiki
-- emerauld-thematic-analysis-claude-codex-pass-2026-05-25-md
 - choke
 - legitimacy
 - anchor
-- color-orange
 status: active
 created: '2026-05-25'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25).md
-backlink_count: 10
+backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
-- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
+- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)

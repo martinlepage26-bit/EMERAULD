@@ -14,11 +14,26 @@ tags:
 - queen-keyport
 - argus
 - pending-status
+- wiki
+- areas
+- pharos
 status: active
+domain: pharos
 created: '2026-07-03'
 updated: '2026-07-03'
 vault_area: Areas
 canonical_path: Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File.md
+backlink_count: 9
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[memory/daily/2026-07-03]]'
+- '[[memory/daily/2026-07-04]]'
+- '[[memory/daily/2026-07-05]]'
+- '[[memory/daily/2026-07-06]]'
+- '[[memory/daily/2026-07-07]]'
 ---
 
 # multi-agent-orchestration Skill — Governance Case File

@@ -1,34 +1,37 @@
 ---
 type: wiki
 title: IF.EMOTION — Empathetic AI Architecture
-aliases:
-- IF.EMOTION — Empathetic AI Architecture
 tags:
 - areas
 - ai
-- if-emotion-empathetic-ai-architecture-md
 - emotion
 - sergio
 - guardian
 - congo
 - empathetic
-- color-blue
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/IF.EMOTION — Empathetic AI Architecture.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric Architecture]]'
-- '[[wiki/LOTUS Model and Agency]]'
 - '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # IF.EMOTION — Empathetic AI Architecture

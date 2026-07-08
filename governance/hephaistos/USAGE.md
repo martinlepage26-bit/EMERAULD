@@ -3,7 +3,6 @@ type: governance-doc
 title: HEPHAISTOS — Operator Guide
 aliases:
 - HEPHAISTOS — Operator Guide
-- governance/hephaistos/USAGE
 tags:
 - governance
 - ai
@@ -13,8 +12,8 @@ tags:
 - skills
 - platform
 - tier
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

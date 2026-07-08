@@ -13,24 +13,28 @@ tags:
 - financial-institutions
 - sales
 - areas
-- pharos-outreach-pack-q2-2026-tier-1-quebec-targets-md
 - desjardins
 - bank
 - contact
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets.md
-backlink_count: 6
+backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets

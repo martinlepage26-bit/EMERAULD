@@ -1,9 +1,6 @@
 ---
 type: note
 title: 'Hub: Projects'
-aliases:
-- personal-assistant-agents/trismegiste/vault/wiki/hub-projects
-- hephaistos/personal-assistant-agents/trismegiste/vault/wiki/hub-projects
 tags:
 - hub
 - projects
@@ -15,8 +12,8 @@ tags:
 - freely
 - paused
 - overview
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

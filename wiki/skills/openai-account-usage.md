@@ -1,9 +1,6 @@
 ---
 type: skill
 title: openai-account-usage
-aliases:
-- skills/openai-account-usage
-- wiki/skills/openai-account-usage
 tags:
 - skill
 - wiki
@@ -13,8 +10,8 @@ tags:
 - account
 - openrouter
 - keys
-- color-orange
 status: active
+domain: AI LLM and Tools
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: openai-account-usage
-domain: AI LLM and Tools
 codex_path: /home/cerebrhoe/.codex/skills/openai-account-usage/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

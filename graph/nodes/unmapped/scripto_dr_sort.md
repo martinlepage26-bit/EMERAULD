@@ -1,11 +1,23 @@
 ---
-id: scripto_dr_sort
 type: Product
-canonical_name: "SCRIPTO / DR. SORT"
-aliases: []
+title: SCRIPTO / DR. SORT
+tags:
+- product
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/scripto_dr_sort.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/martin_lepage]]'
+id: scripto_dr_sort
+canonical_name: SCRIPTO / DR. SORT
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

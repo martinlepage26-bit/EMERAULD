@@ -1,9 +1,6 @@
 ---
 type: skill
 title: brand-identity-system
-aliases:
-- skills/brand-identity-system
-- wiki/skills/brand-identity-system
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - analyzer
 - translate
 - identity
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

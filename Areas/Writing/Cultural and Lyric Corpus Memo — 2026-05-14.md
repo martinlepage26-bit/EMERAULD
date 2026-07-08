@@ -1,8 +1,6 @@
 ---
 type: wiki
 title: Cultural and Lyric Corpus Memo — 2026-05-14
-aliases:
-- Cultural and Lyric Corpus Memo — 2026-05-14
 tags:
 - memo
 - cultural
@@ -11,22 +9,26 @@ tags:
 - ritual
 - '2026-05-14'
 - areas
-- cultural-and-lyric-corpus-memo-2026-05-14-md
 - rardin
 - oratoire
 - regime
-- color-blue
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-05-14'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14.md
-backlink_count: 4
+backlink_count: 7
 backlinks:
-- '[[.graph_store/graph_report]]'
-- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Cultural and Lyric Corpus Memo — 2026-05-14

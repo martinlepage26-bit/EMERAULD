@@ -11,32 +11,36 @@ tags:
 - multi-agent
 - prompt-forging
 - areas
-- pharos-cross-ai-strategy-matrix-md
 - prompt
 - supported
 - cross
 - dottie
 - gemini
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Cross-AI Strategy Matrix.md
-backlink_count: 12
+backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
-- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # PHAROS Cross-AI Strategy Matrix

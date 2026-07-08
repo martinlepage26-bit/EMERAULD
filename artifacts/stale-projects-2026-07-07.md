@@ -1,13 +1,20 @@
 ---
 type: artifact
-aliases: []
+title: Stale Projects Scan — 2026-07-07
 tags:
 - artifact
 - stale-scan
 - morning-agent
+- artifacts
 status: active
 created: '2026-07-07'
 updated: '2026-07-07'
+vault_area: artifacts
+canonical_path: artifacts/stale-projects-2026-07-07.md
+backlink_count: 2
+backlinks:
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/daily/2026-07-07]]'
 ---
 
 # Stale Projects Scan — 2026-07-07

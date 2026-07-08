@@ -1,8 +1,6 @@
 ---
 type: project
 title: Glitching the Sacred — Fisher King Project State
-aliases:
-- projects/Glitching the Sacred — Fisher King Project State
 tags:
 - project
 - fisher-king
@@ -10,14 +8,13 @@ tags:
 - ritual
 - queer-theory
 - projects
-- glitching-the-sacred-fisher-king-project-state-md
 - disclaimer
 - glitching
 - coinage
 - near
 - sacred
-- color-violet
 status: in-progress
+priority: high
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: projects

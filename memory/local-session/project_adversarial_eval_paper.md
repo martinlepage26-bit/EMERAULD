@@ -1,9 +1,6 @@
 ---
 type: memory-register
 title: project_adversarial_eval_paper
-aliases:
-- project_adversarial_eval_paper
-- memory/local-session/project_adversarial_eval_paper
 tags:
 - memory
 - paper
@@ -14,7 +11,6 @@ tags:
 - adversarial
 - locked
 - multi
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

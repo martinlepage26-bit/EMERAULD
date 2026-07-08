@@ -3,7 +3,6 @@ type: governance-doc
 title: Phase 7 — PHAROS-SUITE Remediation & Hardening — Final Status Report
 aliases:
 - Phase 7 — PHAROS-SUITE Remediation & Hardening — Final Status Report
-- governance/hephaistos/INTEGRATION-PROGRESS
 tags:
 - governance
 - pharos
@@ -15,8 +14,8 @@ tags:
 - analyst
 - bias
 - veto
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

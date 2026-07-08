@@ -1,30 +1,28 @@
 ---
 type: version-genealogy
 title: Magic After Legitimacy Charmed — Version Genealogy
-aliases:
-- Magic After Legitimacy Charmed — Version Genealogy
 tags:
 - magic
 - version-genealogy
 - areas
-- magic-after-legitimacy-charmed-version-genealogy-md
 - charmed
 - sisterhood
 - legitimacy
 - witchcraft
-- color-violet
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
 ---
 
 # Magic After Legitimacy Charmed — Version Genealogy

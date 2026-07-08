@@ -5,7 +5,6 @@ aliases:
 - LightRAG
 - graph-based RAG
 - HKUDS LightRAG
-- wiki/LightRAG — Graph-Based RAG System
 tags:
 - ai-tooling
 - retrieval
@@ -13,32 +12,33 @@ tags:
 - rag
 - infrastructure
 - wiki
-- lightrag-graph-based-rag-system-md
 - lightrag
 - reranker
 - wizard
 - storage
 - backend
-- color-orange
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/LightRAG — Graph-Based RAG System.md
-backlink_count: 14
+backlink_count: 17
 backlinks:
-- '[[.planning/ROADMAP]]'
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
 - '[[Areas/PHAROS/GSD — Get Shit Done Context Engineering System]]'
 - '[[Areas/PHAROS/GSD — Get-Shit-Done Claude Code System]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Resources/RAG-Anything — Multimodal RAG Framework]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[hephaistos/personal-assistant-agents/trismegiste/README]]'
 - '[[memory/daily/2026-04-24]]'
 ---

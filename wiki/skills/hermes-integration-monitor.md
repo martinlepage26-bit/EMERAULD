@@ -1,9 +1,6 @@
 ---
 type: skill
 title: hermes-integration-monitor
-aliases:
-- skills/hermes-integration-monitor
-- wiki/skills/hermes-integration-monitor
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - runbooks
 - integrations
 - baseline
-- color-teal
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

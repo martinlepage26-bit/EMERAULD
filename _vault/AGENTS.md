@@ -3,31 +3,26 @@ type: agent-instructions
 title: Memory Context
 aliases:
 - Memory Context
-- _vault/AGENTS
 tags:
-- agents
 - agent-instructions
 - vault
-- agents-md
 - perplexity
 - computer
 - hermes
 - softinfo
 - tracker
-- color-orange
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: _vault
 canonical_path: _vault/AGENTS.md
-backlink_count: 8
+backlink_count: 7
 backlinks:
-- '[[CLAUDE]]'
-- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31]]'
 - '[[governance/governance-index]]'
 - '[[governance/hephaistos/HEPHAISTOS]]'
 ---

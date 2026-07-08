@@ -3,7 +3,6 @@ type: client
 title: Lavoie
 aliases:
 - Lavoie prospect
-- memory/clients/Lavoie
 tags:
 - client
 - prospect
@@ -12,10 +11,8 @@ tags:
 - superseded
 - memory
 - clients
-- lavoie
 - retrievable
 - finish
-- color-green
 status: superseded
 created: '2026-04-19'
 updated: '2026-06-26'

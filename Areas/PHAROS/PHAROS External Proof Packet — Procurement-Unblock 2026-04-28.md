@@ -11,13 +11,12 @@ tags:
 - hermes
 - public-surface
 - areas
-- pharos-external-proof-packet-procurement-unblock-2026-04-28-md
 - executive
 - sprint
 - enterprise
 - packet
-- color-purple
 status: draft-ready
+domain: pharos
 created: '2026-04-28'
 updated: '2026-06-26'
 vault_area: Areas
@@ -26,22 +25,22 @@ backlink_count: 24
 backlinks:
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
 - '[[Areas/PHAROS/PHAROS SURFACE]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
 - '[[Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
 - '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Home]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[hephaistos/personal-assistant-agents/listing-creative-director/references/method]]'
 - '[[hephaistos/personal-assistant-agents/offer-pricing-architect/references/method]]'
 - '[[memory]]'

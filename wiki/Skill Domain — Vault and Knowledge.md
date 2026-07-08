@@ -5,7 +5,6 @@ aliases:
 - Vault and Knowledge domain
 - Vault skills domain
 - Knowledge graph skills hub
-- wiki/Skill Domain — Vault and Knowledge
 tags:
 - skills
 - domain
@@ -16,25 +15,27 @@ tags:
 - emerauld
 - obsidian
 - wiki
-- skill-domain-vault-and-knowledge-md
 - notion
 - graph
 - hygiene
 - knowledge
 - search
-- color-teal
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Skill Domain — Vault and Knowledge.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
-- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Skill Domain — Vault and Knowledge

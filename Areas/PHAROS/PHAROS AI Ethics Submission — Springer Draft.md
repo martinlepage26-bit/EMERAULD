@@ -1,59 +1,61 @@
 ---
 type: wiki
 title: PHAROS AI Ethics Submission — Springer Draft
-aliases:
-- PHAROS AI Ethics Submission — Springer Draft
 tags:
 - areas
 - pharos
 - ai
 - submission
-- pharos-ai-ethics-submission-springer-draft-md
 - ethical
 - essay
 - virtue
 - rebuttal
 - consequentialism
-- color-pink
+- wiki
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft.md
-backlink_count: 34
+backlink_count: 38
 backlinks:
-- '[[Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts]]'
 - '[[wiki/AI Governance Failure Cases]]'
+- '[[Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts]]'
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
-- '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Writing/Governance by Denial]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
-- '[[wiki/Mental illness, addiction, and AI psychosis]]'
 - '[[Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'
-- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
-- '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Research Hub]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
+- '[[Areas/Writing/Governance by Denial]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Home]]'
+- '[[wiki/Mental illness, addiction, and AI psychosis]]'
+- '[[wiki/Research Hub]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[projects/Papers — Fisher King Project State]]'
 ---

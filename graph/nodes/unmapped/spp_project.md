@@ -1,11 +1,23 @@
 ---
-id: spp_project
 type: Product
-canonical_name: "Self-Polygraph Protocol"
-aliases: []
+title: Self-Polygraph Protocol
+tags:
+- product
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/spp_project.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/martin_lepage]]'
+id: spp_project
+canonical_name: Self-Polygraph Protocol
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

@@ -1,11 +1,6 @@
 ---
 type: source-note
 title: 2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note
-aliases:
-- raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X
-  — Source Note
-- wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live
-  X — Source Note
 tags:
 - raw-source
 - ingest
@@ -19,20 +14,16 @@ tags:
 - cluster
 - bacbec
 - needs
-- color-lime
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
 vault_area: wiki
-canonical_path: wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit
-  needs a live X — Source Note.md
-backlink_count: 3
+canonical_path: wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note.md
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
-source_raw_path: raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs
-  a live X.md
+source_raw_path: raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X.md
 source_report: raw/intake-report-20260513.json
 ---
 

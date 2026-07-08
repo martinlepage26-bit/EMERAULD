@@ -1,8 +1,6 @@
 ---
 type: project
 title: Second Brain — Fisher King Project State
-aliases:
-- projects/Second Brain — Fisher King Project State
 tags:
 - project
 - fisher-king
@@ -10,13 +8,12 @@ tags:
 - obsidian
 - emerauld
 - projects
-- second-brain-fisher-king-project-state-md
 - gumroad
 - product
 - brain
 - promo
-- color-orange
 status: in-progress
+priority: high
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: projects
@@ -29,9 +26,9 @@ backlinks:
 - '[[Logs/2026-06-29]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Projects Hub]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/daily/2026-06-29]]'
-- '[[session-state]]'
 ---
 
 # Second Brain — Fisher King Project State

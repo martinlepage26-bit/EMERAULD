@@ -1,11 +1,23 @@
 ---
-id: ingest_py
 type: Tool
-canonical_name: "ingest.py"
-aliases: []
+title: ingest.py
+tags:
+- tool
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/ingest_py.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/lightrag_kg_system]]'
+id: ingest_py
+canonical_name: ingest.py
 confidence: high
-sources: ['scripts/ingest.py']
+sources:
+- scripts/ingest.py
 created_from: graphify_pass
 ---
 

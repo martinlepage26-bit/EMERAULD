@@ -1,11 +1,23 @@
 ---
-id: resolve_orphans_py
 type: Tool
-canonical_name: "resolve_orphans.py"
-aliases: []
+title: resolve_orphans.py
+tags:
+- tool
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/resolve_orphans_py.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/wiki_corpus_dataset]]'
+id: resolve_orphans_py
+canonical_name: resolve_orphans.py
 confidence: high
-sources: ['scripts/resolve_orphans.py']
+sources:
+- scripts/resolve_orphans.py
 created_from: graphify_pass
 ---
 

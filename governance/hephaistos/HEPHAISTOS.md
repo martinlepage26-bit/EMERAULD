@@ -3,67 +3,24 @@ type: governance-doc
 title: AGENT HEPHAISTOS — Identity, Authority, and Forging Architecture
 aliases:
 - AGENT HEPHAISTOS — Identity, Authority, and Forging Architecture
-- governance/hephaistos/HEPHAISTOS
 tags:
 - governance
 - ai
 - agents
-- hephaistos
 - governance-doc
 - forging
 - keyport
 - queen
 - scope
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-07-03'
 vault_area: governance
 canonical_path: governance/hephaistos/HEPHAISTOS.md
-backlink_count: 42
+backlink_count: 1
 backlinks:
-- '[[.github/agents/hephaistos.agent]]'
-- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
-- '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
-- '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
-- '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
-- '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
-- '[[archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
-- '[[Areas/PHAROS/GSD — Get Shit Done Context Engineering System]]'
-- '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
-- '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
-- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
-- '[[wiki/LightRAG — Graph-Based RAG System]]'
-- '[[wiki/MASTER PACK — D Drive Archive Map]]'
-- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
-- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
-- '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
-- '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
-- '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
-- '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
-- '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
-- '[[Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split]]'
-- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
-- '[[Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study]]'
-- '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
-- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
-- '[[governance/governance-index]]'
-- '[[governance/hephaistos/AGENTS]]'
-- '[[governance/hephaistos/AGENT_AUDIT_2026-04-23]]'
-- '[[governance/hephaistos/FORGING-TIER-0]]'
-- '[[governance/hephaistos/L99-DEMOTION-TO-ARGUS]]'
-- '[[governance/hephaistos/NEXT-STEPS]]'
-- '[[governance/hephaistos/hermes-escalation-to-queen-keyport]]'
-- '[[governance/hephaistos/hq-disagreement-test-case]]'
-- '[[governance/hephaistos/operator-to-gadget]]'
-- '[[hephaistos/hq-disagreement-test-case]]'
-- '[[hephaistos/personal-assistant-agents/listing-creative-director/references/ecosystem]]'
-- '[[hephaistos/personal-assistant-agents/marketplace-dispatcher/SKILL]]'
-- '[[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/ecosystem]]'
 ---
 
 # AGENT HEPHAISTOS — Identity, Authority, and Forging Architecture

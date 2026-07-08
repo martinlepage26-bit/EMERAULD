@@ -1,9 +1,6 @@
 ---
 type: skill
 title: deep-research-notebooklm
-aliases:
-- skills/deep-research-notebooklm
-- wiki/skills/deep-research-notebooklm
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - proposal
 - discovery
 - routed
-- color-blue
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

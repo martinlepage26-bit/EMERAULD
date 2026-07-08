@@ -12,23 +12,28 @@ tags:
 - host
 - server
 - areas
-- host-environment-pharos-corpus-runner-01-md
 - apps
 - mobile
 - pane
 - voicebridge
 - martinlepage
-- color-teal
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Host Environment — pharos-corpus-runner-01.md
-backlink_count: 3
+backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/Agent Distillation Pipeline]]'
-- '[[archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive]]'
 - '[[Areas/PHAROS/VoiceBridge Foundation]]'
+- '[[archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Host Environment — pharos-corpus-runner-01

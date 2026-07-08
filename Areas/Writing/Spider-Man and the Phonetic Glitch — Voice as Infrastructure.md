@@ -1,43 +1,46 @@
 ---
 type: wiki
 title: Spider-Man and the Phonetic Glitch — Voice as Infrastructure
-aliases:
-- Spider-Man and the Phonetic Glitch — Voice as Infrastructure
 tags:
 - areas
-- spider-man-and-the-phonetic-glitch-voice-as-infrastructure-md
 - spider
 - phonetic
 - nephew
 - dubbing
 - dubbed
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure.md
-backlink_count: 20
+backlink_count: 24
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
-- '[[wiki/Fluency and Interruption Theory]]'
+- '[[Areas/Writing/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[Areas/Writing/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
 - '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
 - '[[Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Home]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

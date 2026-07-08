@@ -3,9 +3,7 @@ type: agent-instructions
 title: InfraFabric Remote-Client Overlay
 aliases:
 - InfraFabric Remote-Client Overlay
-- governance/global/AGENTS
 tags:
-- agents
 - governance
 - client
 - agent-instructions
@@ -15,8 +13,8 @@ tags:
 - argus
 - agentname
 - trigger
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-07-06'
 vault_area: governance

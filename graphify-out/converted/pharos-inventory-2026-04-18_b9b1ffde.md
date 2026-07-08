@@ -1,8 +1,6 @@
 ---
 type: note
 title: pharos-inventory-2026-04-18_b9b1ffde
-aliases:
-- graphify-out/converted/pharos-inventory-2026-04-18_b9b1ffde
 tags:
 - note
 - graphify-out
@@ -12,7 +10,6 @@ tags:
 - documents
 - reference
 - cleanup
-- color-teal
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
@@ -20,7 +17,7 @@ vault_area: graphify-out
 canonical_path: graphify-out/converted/pharos-inventory-2026-04-18_b9b1ffde.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/GRAPHIFY-OUT MOC]]'
 ---
 
 <!-- converted from pharos-inventory-2026-04-18.xlsx -->

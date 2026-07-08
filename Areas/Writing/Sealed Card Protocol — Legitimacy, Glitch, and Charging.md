@@ -1,60 +1,49 @@
 ---
 type: wiki
 title: Sealed Card Protocol — Legitimacy, Glitch, and Charging
-aliases:
-- Sealed Card Protocol — Legitimacy, Glitch, and Charging
 tags:
 - areas
-- sealed-card-protocol-legitimacy-glitch-and-charging-md
 - charging
 - mediation
 - sealed
 - legitimacy
 - ritual
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging.md
-backlink_count: 53
+backlink_count: 57
 backlinks:
-- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/RIA-CODEX — System Audit Protocol]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[Areas/Writing/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[Areas/Writing/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/Writing/Glitching the Sacred]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
-- '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
-- '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
-- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
-- '[[Areas/PHAROS/RIA-CODEX — System Audit Protocol]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
@@ -63,15 +52,29 @@ backlinks:
 - '[[Areas/Writing/Sealed Card Protocol — Version Genealogy]]'
 - '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
-- '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
-- '[[archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
 - '[[Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming]]'
 - '[[Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
+- '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Sealed Card Protocol — Legitimacy, Glitch, and Charging

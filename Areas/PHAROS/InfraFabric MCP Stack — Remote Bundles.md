@@ -16,38 +16,42 @@ tags:
 - tooling
 - remote
 - areas
-- infrafabric-mcp-stack-remote-bundles-md
 - blackboard
 - openspace
 - hosted
 - stacklight
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles.md
-backlink_count: 19
+backlink_count: 22
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[CLAUDE]]'
-- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Stacklight-owner-explainer]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[Areas/PHAROS/claude-peers-mcp — Claude Peer Network]]'
 - '[[Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'
 - '[[Areas/PHAROS/if.switchboard — InfraFabric Product Center]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-06-27]]'
 - '[[memory/daily/2026-06-30]]'
 - '[[memory/daily/2026-07-01]]'
-- '[[session-state]]'
 ---
 
 # InfraFabric MCP Stack — Remote Bundles

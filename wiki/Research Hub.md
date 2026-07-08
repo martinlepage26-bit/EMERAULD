@@ -1,38 +1,34 @@
 ---
 type: hub
 title: Research Hub
-aliases:
-- Research Hub
-- wiki/Research Hub
 tags:
 - hub
 - research
 - wiki
-- research-hub-md
 - manuscript
 - publication
 - compassai
 - track
 - intersecting
-- color-blue
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Research Hub.md
-backlink_count: 11
+backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
-- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/PHAROS/PHAROS]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[index]]'
+- '[[memory/agents/Grok]]'
 ---
 
 # Research Hub

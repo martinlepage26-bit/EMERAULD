@@ -1,45 +1,47 @@
 ---
 type: wiki
 title: PHAROS Licensing Prospectus
-aliases:
-- PHAROS Licensing Prospectus
 tags:
 - areas
 - pharos
-- pharos-licensing-prospectus-md
 - enterprise
 - deal
 - prospectus
 - revenue
 - segment
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Licensing Prospectus.md
-backlink_count: 22
+backlink_count: 26
 backlinks:
 - '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
-- '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS]]'
 - '[[Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy]]'
-- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Master Project Tracker — 2026]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'
 ---

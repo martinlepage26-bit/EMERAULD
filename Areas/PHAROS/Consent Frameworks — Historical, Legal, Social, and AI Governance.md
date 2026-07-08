@@ -15,30 +15,35 @@ tags:
 - ai-ethics
 - power-dynamics
 - areas
-- consent-frameworks-historical-legal-social-and-ai-governance-md
 - consent
 - agreement
 - informed
 - enlightenment
 - criminal
-- color-pink
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance.md
-backlink_count: 11
+backlink_count: 15
 backlinks:
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-05-02]]'
 source: Consent is a multifaceted concept t.txt
 ---

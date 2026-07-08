@@ -1,9 +1,6 @@
 ---
 type: skill
 title: memory-search
-aliases:
-- skills/memory-search
-- wiki/skills/memory-search
 tags:
 - skill
 - wiki
@@ -13,8 +10,8 @@ tags:
 - previous
 - memory
 - conversation
-- color-green
 status: active
+domain: AI LLM and Tools
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -25,7 +22,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: memory-search
-domain: AI LLM and Tools
 codex_path: /home/cerebrhoe/.codex/skills/memory-search/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

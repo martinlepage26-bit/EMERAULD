@@ -1,11 +1,7 @@
 ---
 type: skill-spec
 title: Graph and Retrieval Cartographer
-aliases:
-- personal-assistant-agents/graph-retrieval-cartographer/SKILL
-- hephaistos/personal-assistant-agents/graph-retrieval-cartographer/SKILL
 tags:
-- skill
 - agents
 - skill-spec
 - personal-assistant-agents
@@ -16,21 +12,23 @@ tags:
 - cartographer
 - graph
 - cluster
-- color-teal
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/graph-retrieval-cartographer/SKILL.md
-backlink_count: 1
+backlink_count: 3
 backlinks:
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[graph/nodes/unmapped/content_to_market_pipeline_workflow]]'
+- '[[graph/nodes/unmapped/vault_maintenance_pipeline_workflow]]'
 name: graph-retrieval-cartographer
-description: Use when the vault needs hub structure, topic maps, or evidence packets
-  so humans and sub-agents can retrieve context quickly.
+description: Use when the vault needs hub structure, topic maps, or evidence packets so humans and sub-agents can retrieve context quickly.
 entity_type: Tool
 entity_id: graph_retrieval_cartographer
-entity_aliases: ['graph-retrieval-cartographer']
+entity_aliases:
+- graph-retrieval-cartographer
 entity_confidence: high
 ---
 

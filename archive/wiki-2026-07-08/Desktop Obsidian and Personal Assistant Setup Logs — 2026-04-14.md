@@ -13,24 +13,28 @@ tags:
 - desktop-intake
 - vault-product
 - archive
-- desktop-obsidian-and-personal-assistant-setup-logs-2026-04-14-md
 - assistant
 - desktop
 - personal
 - windows
-- color-orange
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14

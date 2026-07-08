@@ -11,35 +11,38 @@ tags:
 - ritual
 - moc
 - areas
-- legitimacy-machines-moc-md
 - machines
 - fundamentals
 - linking
-- color-teal
+- writing
 status: active
+domain: writing
+priority: high
 created: '2026-05-14'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Legitimacy Machines MOC.md
 backlink_count: 32
 backlinks:
-- '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/EMERAULD]]'
-- '[[Areas/Writing/Glitching the Sacred]]'
-- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
-- '[[Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy]]'
-- '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[wiki/Martin Lepage — Skills by Life Domain]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/PHAROS/PHAROS]]'
 - '[[Areas/PHAROS/PHAROS Method — Core Framework]]'
 - '[[Areas/PHAROS/PHAROS Product Stack]]'
+- '[[Areas/Writing/Glitching the Sacred]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
+- '[[Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Version Genealogy System]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/EMERAULD]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Novel and Creative Corpus]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'
 - '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
@@ -47,8 +50,6 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Session Summary — 2026-05-01]]'
 - '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
-- '[[Areas/Writing/Version Genealogy System]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/bridges/Bridge — Agents vs. Chatbots Fundamentals]]'
 - '[[wiki/bridges/Bridge — Malformed JSON Prefix]]'
 - '[[wiki/bridges/Bridge — Mandrake]]'

@@ -15,24 +15,28 @@ tags:
 - critique
 - chatgpt-product
 - areas
-- henry-gpt-peer-reviewer-chatgpt-product-specification-md
 - reviewer
 - harsh
 - creator
 - supportive
-- color-pink
+- wiki
 status: active
+domain: pharos
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Henry GPT — Peer Reviewer ChatGPT Product Specification

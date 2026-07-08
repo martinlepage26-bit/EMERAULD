@@ -11,14 +11,14 @@ tags:
 - architecture
 - migration-guide
 - areas
-- architecture-translation-guide-eight-operators-to-three-agent-stack-md
 - hephaistos
 - argus
 - keyport
 - coherence
 - queen
-- color-orange
+- pharos
 status: active
+domain: pharos
 created: '2026-04-27'
 updated: '2026-06-26'
 vault_area: Areas
@@ -26,18 +26,18 @@ canonical_path: Areas/PHAROS/Architecture Translation Guide — Eight Operators 
 backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist]]'
-- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
-- '[[archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Supersession Registry]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[memory]]'
-- '[[session-state]]'
 - '[[wiki/skills/architecture]]'
 deprecated_predecessor:
 - - Agatha Unified Skill System — Eight Sovereign Operators

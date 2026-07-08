@@ -1,9 +1,6 @@
 ---
 type: index
 title: Orphan Index — Runtime And Agents — 2026-05-06
-aliases:
-- archive/Orphan Index — Runtime And Agents — 2026-05-06
-- wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06
 tags:
 - orphan-index
 - graph-repair
@@ -16,7 +13,6 @@ tags:
 - personal
 - references
 - hephaistos
-- color-orange
 status: generated
 created: '2026-05-06'
 updated: '2026-06-26'

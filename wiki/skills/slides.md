@@ -1,19 +1,14 @@
 ---
 type: skill
 title: slides
-aliases:
-- skills/slides
-- wiki/skills/slides
 tags:
 - skill
 - wiki
 - skills
 - decks
 - slide
-- slides
 - visualization
 - edit
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

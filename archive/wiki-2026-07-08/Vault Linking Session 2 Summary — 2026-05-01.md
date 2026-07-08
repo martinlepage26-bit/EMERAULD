@@ -5,25 +5,29 @@ aliases:
 - VAULT-LINKING-SESSION-2-SUMMARY-2026-05-01
 tags:
 - archive
-- vault-linking-session-2-summary-2026-05-01-md
 - papers
 - cluster
 - topic
 - care
 - quick
-- color-teal
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Vault Linking Session 2 Summary — 2026-05-01.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Vault Linking Session 2 Summary — 2026-05-01

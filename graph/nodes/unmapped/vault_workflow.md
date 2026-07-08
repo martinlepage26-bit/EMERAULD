@@ -1,11 +1,23 @@
 ---
-id: vault_workflow
 type: Workflow
-canonical_name: "EMERAULD Vault Workflow"
-aliases: []
+title: EMERAULD Vault Workflow
+tags:
+- workflow
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/vault_workflow.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: vault_workflow
+canonical_name: EMERAULD Vault Workflow
 confidence: high
-sources: ['EMERAULD/CLAUDE.md']
+sources:
+- EMERAULD/CLAUDE.md
 created_from: graphify_pass
 ---
 

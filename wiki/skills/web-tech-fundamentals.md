@@ -1,9 +1,6 @@
 ---
 type: skill
 title: web-tech-fundamentals
-aliases:
-- skills/web-tech-fundamentals
-- wiki/skills/web-tech-fundamentals
 tags:
 - skill
 - wiki
@@ -13,8 +10,8 @@ tags:
 - typescript
 - technologies
 - fundamentals
-- color-orange
 status: active
+domain: Design and UX
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Design and UX]]'
 skill_id: web-tech-fundamentals
-domain: Design and UX
 codex_path: /home/cerebrhoe/.codex/skills/web-tech-fundamentals/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

@@ -1,8 +1,6 @@
 ---
 type: asset
 title: 'Example: Bug Triage and Fix'
-aliases:
-- assets/elemental-agents/source-completions/examples/03-bug-triage-and-fix
 tags:
 - asset
 - agents
@@ -13,7 +11,6 @@ tags:
 - intermittent
 - localize
 - checkout
-- color-orange
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -21,7 +18,7 @@ vault_area: assets
 canonical_path: assets/elemental-agents/source-completions/examples/03-bug-triage-and-fix.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/ASSETS MOC]]'
 ---
 
 # Example: Bug Triage and Fix

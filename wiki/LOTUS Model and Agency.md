@@ -3,7 +3,6 @@ type: map
 title: LOTUS Model and Agency
 aliases:
 - TOPIC — LOTUS Model and Agency
-- wiki/LOTUS Model and Agency
 tags:
 - index
 - map
@@ -13,11 +12,9 @@ tags:
 - social-positioning
 - governance
 - wiki
-- lotus-model-and-agency-md
 - sort
 - computation
 - effective
-- color-purple
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
@@ -26,21 +23,19 @@ canonical_path: wiki/LOTUS Model and Agency.md
 backlink_count: 17
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/LOTUS Premium Spec]]'
+- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
+- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Home]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
-  and Computational Memory Architectures]]'
+- '[[archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[projects/Dr. Sort — Fisher King Project State]]'
 - '[[projects/LOTUS — Fisher King Project State]]'

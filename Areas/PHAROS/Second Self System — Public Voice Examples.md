@@ -12,25 +12,30 @@ tags:
 - writing
 - governance
 - areas
-- second-self-system-public-voice-examples-md
 - specimen
 - voice
 - supplied
 - stacked
 - knows
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-29'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Second Self System — Public Voice Examples.md
-backlink_count: 7
+backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
 - '[[projects/Second Self — Fisher King Project State]]'
 source: operator-supplied examples

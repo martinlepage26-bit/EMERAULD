@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: 'The Synthesis Habit: Turning Raw Captures Into AI-Usable Knowledge'
-aliases:
-- artifacts/marketplace/promo/hashnode-iter26-synthesis-habit
 tags:
 - artifact
 - ai
@@ -14,7 +12,6 @@ tags:
 - habit
 - synthesis
 - processed
-- color-lime
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

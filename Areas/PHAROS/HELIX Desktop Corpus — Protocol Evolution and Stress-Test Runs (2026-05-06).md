@@ -13,31 +13,28 @@ tags:
 - evidence-discipline
 - desktop-intake
 - areas
-- helix-desktop-corpus-protocol-evolution-and-stress-test-runs-2026-05-06-md
 - desktop
 - epstein
 - test
 - stress
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06).md
-backlink_count: 29
+backlink_count: 35
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)]]'
 - '[[Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
+- '[[Areas/PHAROS/HELIX Full Protocol Session — Martin''s Governance Synthesis, Gemini Target (2026-07-03)]]'
 - '[[Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
 - '[[Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026)]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
@@ -46,15 +43,24 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
-- '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/Research Hub]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
+- '[[memory/agents/Grok]]'
 - '[[memory/agents/Vibe]]'
-- '[[session-state]]'
 ---
 
 > [!warning] Deprecated Desktop Prototype

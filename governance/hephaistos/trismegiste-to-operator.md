@@ -3,7 +3,6 @@ type: governance-doc
 title: Trismégiste → Operator Delivery Schema
 aliases:
 - Trismégiste → Operator Delivery Schema
-- governance/hephaistos/trismegiste-to-operator
 tags:
 - governance
 - ai
@@ -15,15 +14,14 @@ tags:
 - giste
 - json
 - pattern
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance
 canonical_path: governance/hephaistos/trismegiste-to-operator.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[CLAUDE]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 entity_type: Workflow

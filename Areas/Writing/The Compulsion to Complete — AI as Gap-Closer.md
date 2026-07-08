@@ -1,52 +1,55 @@
 ---
 type: wiki
 title: The Compulsion to Complete — AI as Gap-Closer
-aliases:
-- The Compulsion to Complete — AI as Gap-Closer
 tags:
 - areas
 - ai
-- the-compulsion-to-complete-ai-as-gap-closer-md
 - pressed
 - openness
 - compulsion
 - unresolvedness
 - self
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/The Compulsion to Complete — AI as Gap-Closer.md
-backlink_count: 28
+backlink_count: 32
 backlinks:
 - '[[Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts]]'
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
-- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
-- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
-- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Fluency and Interruption Theory]]'
-- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
+- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
-- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
-- '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Home]]'
+- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
-- '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/local-session/feedback_evidence_discipline]]'
 ---
 

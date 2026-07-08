@@ -11,25 +11,30 @@ tags:
 - springer
 - pipeline
 - areas
-- publishing-strategy-springer-trilogy-and-parallel-tracks-md
 - paper
 - venue
 - ethics
 - society
-- color-pink
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-04-27'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks.md
-backlink_count: 6
+backlink_count: 10
 backlinks:
-- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/Writing/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Publishing Strategy — Springer Trilogy and Parallel Tracks

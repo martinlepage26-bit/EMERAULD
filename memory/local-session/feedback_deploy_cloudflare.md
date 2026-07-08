@@ -1,9 +1,6 @@
 ---
 type: memory-register
 title: feedback_deploy_cloudflare
-aliases:
-- feedback_deploy_cloudflare
-- memory/local-session/feedback_deploy_cloudflare
 tags:
 - memory
 - memory-register
@@ -13,7 +10,6 @@ tags:
 - perso
 - site
 - cloudflare
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: CIBC’s Trustworthy AI Commitment
-aliases:
-- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_cibcs-trustworthy-ai-commitment
 tags:
 - raw-source
 - memory
@@ -11,7 +9,6 @@ tags:
 - trustworthy
 - emerging
 - transformative
-- color-lime
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

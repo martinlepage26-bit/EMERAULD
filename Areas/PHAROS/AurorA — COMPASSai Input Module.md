@@ -11,40 +11,45 @@ tags:
 - client-facing
 - aurora
 - areas
-- aurora-compassai-input-module-md
 - aurorai
 - engine
 - spelling
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AurorA — COMPASSai Input Module.md
-backlink_count: 22
+backlink_count: 27
 backlinks:
-- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
-- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[Areas/PHAROS/PHAROS]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
 - '[[Areas/PHAROS/Railway — COMPASSai Production Deployment Platform]]'
-- '[[wiki/Research Hub]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/Research Hub]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
+- '[[memory/agents/Grok]]'
 - '[[memory/agents/Vibe]]'
 - '[[memory/daily/2026-06-22]]'
 - '[[projects/AurorA — Fisher King Project State]]'
 - '[[projects/COMPASSai — Fisher King Project State]]'
-- '[[session-state]]'
 ---
 
 # AurorA — COMPASSai Input Module

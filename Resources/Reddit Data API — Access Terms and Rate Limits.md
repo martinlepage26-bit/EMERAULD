@@ -13,25 +13,29 @@ tags:
 - oauth
 - tooling
 - resources
-- reddit-data-api-access-terms-and-rate-limits-md
 - deletion
 - rate
 - ingestion
-- color-teal
+- wiki
 status: active
+domain: reference
 created: '2026-04-20'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Reddit Data API — Access Terms and Rate Limits.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
-- '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
 - '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_koïos-intelligence]]'
 - '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_solace-platform-solace]]'
 ---

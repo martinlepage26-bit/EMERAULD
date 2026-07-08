@@ -1,54 +1,57 @@
 ---
 type: wiki
 title: For Her Alone to Wield — Buffy Power as Infrastructure
-aliases:
-- For Her Alone to Wield — Buffy Power as Infrastructure
 tags:
 - areas
-- for-her-alone-to-wield-buffy-power-as-infrastructure-md
 - slayer
 - redistribution
 - buffy
 - enclosure
 - scythe
-- color-red
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure.md
-backlink_count: 31
+backlink_count: 35
 backlinks:
-- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
-- '[[archive/wiki-2026-07-08/For Her Alone to Wield — Cover Letter (2026-05-16)]]'
-- '[[archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
+- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[Areas/Writing/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
-- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
 - '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
-- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[Areas/Writing/The Ballad of the Witches'' Road — Analysis]]'
 - '[[Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
 - '[[Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
-- '[[archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
+- '[[wiki/September 2024 Research Retrospective]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/For Her Alone to Wield — Cover Letter (2026-05-16)]]'
+- '[[archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

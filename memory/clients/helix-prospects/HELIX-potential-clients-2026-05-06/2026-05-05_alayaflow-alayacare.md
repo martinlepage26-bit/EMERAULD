@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: AlayaFlow - AlayaCare
-aliases:
-- memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_alayaflow-alayacare
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - alayacare
 - care
 - automate
-- color-pink
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

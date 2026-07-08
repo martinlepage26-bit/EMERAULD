@@ -1,11 +1,23 @@
 ---
-id: rdaig_manuscript
 type: Product
-canonical_name: "RDAIG"
-aliases: []
+title: RDAIG
+tags:
+- product
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/rdaig_manuscript.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: rdaig_manuscript
+canonical_name: RDAIG
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

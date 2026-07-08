@@ -13,21 +13,25 @@ tags:
 - calian
 - post-mortem
 - archive
-- agatha-grant-post-mortem-first-assessment-md
 - mortem
 - employment
-- color-teal
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment.md
-backlink_count: 4
+backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Agatha Grant Post-Mortem — First Assessment

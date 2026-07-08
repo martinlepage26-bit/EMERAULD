@@ -14,45 +14,49 @@ tags:
 - pagan-studies
 - media-studies
 - areas
-- martin-lepage-publications-annotated-bibliography-and-verification-leads-md
 - dissertation
 - thesis
 - lepage
 - martin
 - paywalled
-- color-teal
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads.md
-backlink_count: 25
+backlink_count: 28
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Buffy Slayer Studies]]'
-- '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
-- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
-- '[[Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
-- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
+- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
+- '[[Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
 - '[[Areas/Writing/Per-Paper Project Structure — Folder and File Architecture]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Martin Lepage Publications — Annotated Bibliography and Verification Leads

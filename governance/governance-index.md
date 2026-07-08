@@ -1,21 +1,18 @@
 ---
 type: wiki
 title: Governance Index
-aliases:
-- governance/governance-index
 tags:
 - governance
 - architecture
 - three-agent-stack
 - wiki
-- governance-index-md
 - keyport
 - queen
 - binding
 - authority
 - integration
-- color-purple
 status: active
+domain: governance
 created: '2026-05-05'
 updated: '2026-06-26'
 vault_area: governance

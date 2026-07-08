@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Wisedocs | Medical Record Reviews, Summaries, Insights for Claims
-aliases:
-- memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_wisedocs-medical-record-reviews-summaries-insights-for-claim
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - carriers
 - claims
 - reviews
-- color-green
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

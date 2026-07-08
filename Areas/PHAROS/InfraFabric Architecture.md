@@ -1,41 +1,36 @@
 ---
 type: wiki
 title: InfraFabric Architecture
-aliases:
-- InfraFabric Architecture
 tags:
 - areas
-- infrafabric-architecture-md
 - canon
 - explainer
 - infrafabric
 - switchboard
 - blackboard
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/InfraFabric Architecture.md
-backlink_count: 48
+backlink_count: 52
 backlinks:
-- '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[wiki/AI Infrastructure Stack]]'
+- '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'
 - '[[Areas/PHAROS/Architectural AI Governance — Willis and PBSAI]]'
 - '[[Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration]]'
-- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/PHAROS/Founder Charter — Lepage and Stocker]]'
 - '[[Areas/PHAROS/GSD — Get-Shit-Done Claude Code System]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/IF.EMOTION — Empathetic AI Architecture]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
@@ -43,29 +38,37 @@ backlinks:
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
 - '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
-- '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
-- '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/PHAROS/Stacklight-owner-explainer]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
-- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture]]'
 - '[[Areas/PHAROS/claude-peers-mcp — Claude Peer Network]]'
 - '[[Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'
 - '[[Areas/PHAROS/if.switchboard — InfraFabric Product Center]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory/daily/2026-06-27]]'
 - '[[memory/daily/2026-06-30]]'
-- '[[session-state]]'
 - '[[wiki/skills/architecture]]'
 ---
 

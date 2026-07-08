@@ -3,7 +3,6 @@ type: governance-doc
 title: HEPHAISTOS — Orchestration Operations
 aliases:
 - HEPHAISTOS — Orchestration Operations
-- governance/hephaistos/ORCHESTRATION_OPERATIONS
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - conflict
 - analyst
 - forging
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

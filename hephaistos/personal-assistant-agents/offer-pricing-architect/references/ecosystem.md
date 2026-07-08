@@ -1,9 +1,6 @@
 ---
 type: note
 title: Ecosystem
-aliases:
-- personal-assistant-agents/offer-pricing-architect/references/ecosystem
-- hephaistos/personal-assistant-agents/offer-pricing-architect/references/ecosystem
 tags:
 - note
 - agents
@@ -15,8 +12,8 @@ tags:
 - marketplace
 - pricing
 - architect
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

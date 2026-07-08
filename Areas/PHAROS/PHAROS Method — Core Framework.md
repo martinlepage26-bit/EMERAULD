@@ -2,7 +2,6 @@
 type: wiki
 title: PHAROS Method — Core Framework
 aliases:
-- PHAROS Method — Core Framework
 - PHAROS method
 tags:
 - pharos
@@ -10,21 +9,25 @@ tags:
 - method
 - framework
 - areas
-- pharos-method-core-framework-md
 - facing
 - product
 - resolver
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Method — Core Framework.md
-backlink_count: 3
+backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # PHAROS Method — Core Framework

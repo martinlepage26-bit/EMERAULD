@@ -3,52 +3,24 @@ type: governance-doc
 title: AGENT HERMES — Routing Authority and Integration Architecture
 aliases:
 - AGENT HERMES — Routing Authority and Integration Architecture
-- governance/hephaistos/HERMES
 tags:
 - governance
 - ai
 - agents
-- hermes
 - hephaistos
 - governance-doc
 - keyport
 - queen
 - conflict
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-07-03'
 vault_area: governance
 canonical_path: governance/hephaistos/HERMES.md
-backlink_count: 27
+backlink_count: 1
 backlinks:
-- '[[.github/agents/hermes.agent]]'
-- '[[archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
-- '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
-- '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
-- '[[governance/hephaistos/GOVERNANCE-INFRASTRUCTURE-MANIFEST]]'
-- '[[governance/hephaistos/PHASE-2-INTEGRATION-ROADMAP]]'
-- '[[governance/hephaistos/SKILL-MAP]]'
-- '[[governance/hephaistos/SPECIALIST-GUIDELINE-AUTHORITY]]'
-- '[[hephaistos/agents/hermes]]'
-- '[[hephaistos/personal-assistant-agents/content-inventory-cartographer/references/subjectivity]]'
-- '[[hephaistos/personal-assistant-agents/demand-scout/references/subjectivity]]'
-- '[[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/subjectivity]]'
-- '[[hephaistos/personal-assistant-agents/intake-triager/references/subjectivity]]'
-- '[[hephaistos/personal-assistant-agents/listing-creative-director/references/subjectivity]]'
-- '[[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/subjectivity]]'
-- '[[hephaistos/personal-assistant-agents/metadata-link-warden/references/subjectivity]]'
-- '[[hephaistos/personal-assistant-agents/offer-pricing-architect/references/subjectivity]]'
-- '[[hephaistos/personal-assistant-agents/raw-archivist/references/subjectivity]]'
-- '[[hephaistos/personal-assistant-agents/revenue-support-optimizer/references/subjectivity]]'
-- '[[hephaistos/personal-assistant-agents/rights-policy-warden/references/subjectivity]]'
-- '[[hephaistos/personal-assistant-agents/synthesis-editor/references/subjectivity]]'
-- '[[memory/local-session/MEMORY]]'
-- '[[memory/local-session/three_agent_system]]'
-- '[[memory/local-session/user_ethical_ground]]'
-- '[[raw/D-drive-scan-2026-05-12/elemental-agents/combinations/dual-combinations]]'
-- '[[raw/D-drive-scan-2026-05-12/elemental-agents/combinations/triple-combinations]]'
 ---
 
 # AGENT HERMES — Routing Authority and Integration Architecture

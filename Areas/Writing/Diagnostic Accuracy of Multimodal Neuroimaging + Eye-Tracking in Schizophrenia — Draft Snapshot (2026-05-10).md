@@ -1,30 +1,33 @@
 ---
 type: wiki
 title: Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)
-aliases:
-- Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)
 tags:
 - areas
-- diagnostic-accuracy-of-multimodal-neuroimaging-eye-tracking-in-schizophrenia-draft-snapshot-2026-05-10-md
 - neuroimaging
 - multimodal
 - schizophrenia
 - tracking
 - accuracy
-- color-lime
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-05-10'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10).md
-backlink_count: 6
+backlink_count: 10
 backlinks:
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[archive/wiki-2026-07-08/D Drive Scan — 2026-05-12]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)

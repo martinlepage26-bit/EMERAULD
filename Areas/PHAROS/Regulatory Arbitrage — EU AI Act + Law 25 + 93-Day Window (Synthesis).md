@@ -15,30 +15,34 @@ tags:
 - market-opportunity
 - synthesis
 - areas
-- regulatory-arbitrage-eu-ai-act-law-25-93-day-window-synthesis-md
 - procurement
 - enforcement
 - annex
 - applies
 - overlap
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: 2026-05-01T16:30
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis).md
-backlink_count: 10
+backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
-- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
+- '[[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
+- '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
 - '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
-- '[[Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
-- '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
-- '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)

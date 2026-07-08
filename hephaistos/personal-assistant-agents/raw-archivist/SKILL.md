@@ -1,11 +1,7 @@
 ---
 type: skill-spec
 title: Raw Archivist
-aliases:
-- personal-assistant-agents/raw-archivist/SKILL
-- hephaistos/personal-assistant-agents/raw-archivist/SKILL
 tags:
-- skill
 - agents
 - raw
 - skill-spec
@@ -17,21 +13,22 @@ tags:
 - references
 - asset
 - incoming
-- color-lime
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/raw-archivist/SKILL.md
-backlink_count: 1
+backlink_count: 2
 backlinks:
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[graph/nodes/unmapped/vault_maintenance_pipeline_workflow]]'
 name: raw-archivist
-description: Use when source material needs to be preserved with stable filenames,
-  provenance, and commercial trace before editing or selling.
+description: Use when source material needs to be preserved with stable filenames, provenance, and commercial trace before editing or selling.
 entity_type: Tool
 entity_id: raw_archivist
-entity_aliases: ['raw-archivist']
+entity_aliases:
+- raw-archivist
 entity_confidence: high
 ---
 

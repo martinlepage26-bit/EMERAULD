@@ -1,12 +1,6 @@
 ---
 type: source-note
-title: 24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source
-  Note
-aliases:
-- raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling
-  Today) — Source Note
-- wiki/raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start
-  Selling Today) — Source Note
+title: 24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note
 tags:
 - raw-source
 - ingest
@@ -20,20 +14,16 @@ tags:
 - selling
 - products
 - sell
-- color-lime
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
 vault_area: wiki
-canonical_path: wiki/raw-sources/2026-05-13/24 Profitable Digital Products to Sell
-  in 2026 (Start Selling Today) — Source Note.md
-backlink_count: 3
+canonical_path: wiki/raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note.md
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
-source_raw_path: raw/Clippings/24 Profitable Digital Products to Sell in 2026 (Start
-  Selling Today).md
+source_raw_path: raw/Clippings/24 Profitable Digital Products to Sell in 2026 (Start Selling Today).md
 source_report: raw/intake-report-20260513.json
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: What breaks when your Obsidian vault passes 100 notes (and how to fix it)
-aliases:
-- artifacts/marketplace/promo/hashnode-iter14-scaling
 tags:
 - obsidian
 - ai
@@ -17,7 +15,6 @@ tags:
 - symptom
 - auth
 - myproject
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -28,8 +25,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 - '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
-subtitle: The scaling problems nobody warns you about — and the structural changes
-  that solved them for a 212-note AI-agent vault.
+subtitle: The scaling problems nobody warns you about — and the structural changes that solved them for a 212-note AI-agent vault.
 published: false
 ---
 

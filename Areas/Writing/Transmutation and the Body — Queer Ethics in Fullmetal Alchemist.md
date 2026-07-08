@@ -1,33 +1,36 @@
 ---
 type: wiki
 title: Transmutation and the Body — Queer Ethics in Fullmetal Alchemist
-aliases:
-- Transmutation and the Body — Queer Ethics in Fullmetal Alchemist
 tags:
 - areas
 - queer
-- transmutation-and-the-body-queer-ethics-in-fullmetal-alchemist-md
 - alchemy
 - exchange
 - manga
 - fullmetal
 - alchemist
-- color-pink
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Home]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

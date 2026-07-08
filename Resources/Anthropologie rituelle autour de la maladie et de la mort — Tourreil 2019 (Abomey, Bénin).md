@@ -14,25 +14,28 @@ tags:
 - vaudou
 - benin
 - resources
-- anthropologie-rituelle-autour-de-la-maladie-et-de-la-mort-tourreil-2019-abomey-b-nin-md
 - tourreil
 - abomey
 - haitian
 - voodoo
-- color-violet
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin).md
-backlink_count: 6
+backlink_count: 9
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)

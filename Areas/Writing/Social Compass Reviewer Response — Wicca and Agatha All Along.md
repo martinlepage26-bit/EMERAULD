@@ -1,33 +1,36 @@
 ---
 type: wiki
 title: Social Compass Reviewer Response — Wicca and Agatha All Along
-aliases:
-- Social Compass Reviewer Response — Wicca and Agatha All Along
 tags:
 - areas
 - compassai
 - wicca
 - peer-review
-- social-compass-reviewer-response-wicca-and-agatha-all-along-md
 - compass
 - response
 - reviewers
 - editorial
 - gime
-- color-pink
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along.md
-backlink_count: 7
+backlink_count: 11
 backlinks:
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
-- '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
-- '[[wiki/Home]]'
-- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[Areas/Writing/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Home]]'
+- '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

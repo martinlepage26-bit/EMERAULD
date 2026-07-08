@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: Journal de recherche — Arbre familial Lepage / Deschênes
+tags:
+- project-mirror
+- projects
+- genealogie-lepage-deschenes
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/genealogie-lepage-deschenes/journal-recherche.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Journal de recherche — Arbre familial Lepage / Deschênes
 
 Propositus : Martin Lepage. Fichier tenu selon la méthode recommandée dans

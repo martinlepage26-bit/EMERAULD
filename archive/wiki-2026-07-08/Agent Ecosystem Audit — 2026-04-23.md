@@ -1,29 +1,31 @@
 ---
 type: wiki
 title: Agent Ecosystem Audit — 2026-04-23
-aliases:
-- Agent Ecosystem Audit — 2026-04-23
 tags:
 - agents
 - audit
 - governance
 - ecosystem
 - archive
-- agent-ecosystem-audit-2026-04-23-md
 - wrapper
 - agent
 - hephaistos
-- color-orange
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23.md
-backlink_count: 3
+backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Agent Ecosystem Audit — 2026-04-23

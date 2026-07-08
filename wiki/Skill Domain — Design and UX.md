@@ -6,7 +6,6 @@ aliases:
 - Design skills domain
 - UX skills hub
 - Frontend design hub
-- wiki/Skill Domain — Design and UX
 tags:
 - skills
 - domain
@@ -17,24 +16,26 @@ tags:
 - frontend
 - ui
 - wiki
-- skill-domain-design-and-ux-md
 - component
 - development
-- color-orange
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Skill Domain — Design and UX.md
-backlink_count: 7
+backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Development and Testing]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Skill Domain — Design and UX

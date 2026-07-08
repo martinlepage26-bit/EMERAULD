@@ -1,3 +1,20 @@
+---
+type: log
+title: 03_AURYN_ARCHIVE
+tags:
+- log
+- logs
+- helix-sessions
+status: active
+created: '2026-07-03'
+updated: '2026-07-08'
+vault_area: Logs
+canonical_path: Logs/helix-sessions/gemini-2026-07-03/03_AURYN_ARCHIVE.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 ================================================================================
 DOCUMENT 03 — PHASE 2: AURYN
 Archive File — Session Record

@@ -1,11 +1,25 @@
 ---
-id: pa_trismegiste_bundle
 type: Tool
-canonical_name: "Personal-Assistant-Agents Trismégiste Bundle"
-aliases: ['personal-assistant-agents/trismegiste']
+title: Personal-Assistant-Agents Trismégiste Bundle
+aliases:
+- personal-assistant-agents/trismegiste
+tags:
+- tool
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/pa_trismegiste_bundle.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: pa_trismegiste_bundle
+canonical_name: Personal-Assistant-Agents Trismégiste Bundle
 confidence: high
-sources: ['hephaistos/personal-assistant-agents/trismegiste/']
+sources:
+- hephaistos/personal-assistant-agents/trismegiste/
 created_from: graphify_pass
 ---
 

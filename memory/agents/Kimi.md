@@ -1,19 +1,15 @@
 ---
 type: memory-register
 title: Kimi
-title_override: Kimi (Moonshot AI)
 aliases:
-- Kimi
 - Kimi (Moonshot AI)
 - Moonshot Kimi
-- memory/agents/Kimi
 - Kimi CLI
 - Kimi council seat
 tags:
 - memory
 - agents
 - memory-register
-- kimi
 - moonshot
 - council
 - cli
@@ -22,6 +18,13 @@ created: '2026-07-01'
 updated: '2026-07-01'
 vault_area: memory
 canonical_path: memory/agents/Kimi.md
+backlink_count: 4
+backlinks:
+- '[[memory/agents/Antigravity]]'
+- '[[memory/agents/Gemini]]'
+- '[[memory/agents/Grok]]'
+- '[[memory/daily/2026-07-02]]'
+title_override: Kimi (Moonshot AI)
 register: agents
 agent: Kimi (Moonshot AI)
 ---

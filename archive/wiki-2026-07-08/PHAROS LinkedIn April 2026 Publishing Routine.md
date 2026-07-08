@@ -1,8 +1,6 @@
 ---
 type: note
 title: PHAROS LinkedIn April 2026 Publishing Routine
-aliases:
-- PHAROS LinkedIn April 2026 Publishing Routine
 tags:
 - pharos
 - publishing
@@ -11,11 +9,10 @@ tags:
 - operations
 - note
 - archive
-- pharos-linkedin-april-2026-publishing-routine-md
 - april
 - posts
 - routine
-- color-teal
+- wiki-2026-07-08
 status: active
 created: '2026-04-28'
 updated: '2026-06-26'
@@ -24,8 +21,6 @@ canonical_path: archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Ro
 backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
@@ -39,6 +34,8 @@ backlinks:
 - '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[memory/daily/2026-04-28]]'
 ---
 

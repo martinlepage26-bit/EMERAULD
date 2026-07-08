@@ -1,11 +1,23 @@
 ---
-id: graphify_out_system
 type: System
-canonical_name: "graphify-out"
-aliases: []
+title: graphify-out
+tags:
+- system
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/graphify_out_system.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/graphify_tool]]'
+id: graphify_out_system
+canonical_name: graphify-out
 confidence: high
-sources: ['EMERAULD_OS_ARCHITECTURE.md']
+sources:
+- EMERAULD_OS_ARCHITECTURE.md
 created_from: graphify_pass
 ---
 

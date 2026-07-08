@@ -2,49 +2,52 @@
 type: wiki
 title: EMERAULD
 aliases:
-- EMERAULD
 - EMERAULD Second Brain — Project Context
 - EMERAULD Persistence Stack
 - EMERAULD — External Brain Vault
-- wiki/EMERAULD
 tags:
-- emerauld
 - vault
 - context
 - memory
 - project
 - wiki
-- emerauld-md
 - brain
 - second
 - rerouting
 - periodic
-- color-green
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/EMERAULD.md
-backlink_count: 29
+backlink_count: 38
 backlinks:
 - '[[wiki/Architecture - EMERAULD Scripts - Intake Pipeline]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Key Decisions]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Knowledge Layers]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Overview]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/Fisher King Hub — Project Recovery Map]]'
-- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
-- '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
-- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
+- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
+- '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
 - '[[wiki/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/Vault Health — 2026-06-28]]'
+- '[[wiki/Vault Health — 2026-07-05]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
+- '[[_vault/RAW-FRONTMATTER-MANIFEST-2026-07-08]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[artifacts/emerge-pattern-report-2026-06-29]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
+- '[[graph/nodes/unmapped/martin_lepage]]'
 - '[[wiki/lightrag_config — EMERAULD Shared Config Module]]'
 - '[[wiki/memory]]'
 - '[[memory/daily/2026-06-22]]'
@@ -54,6 +57,7 @@ backlinks:
 - '[[memory/daily/2026-06-26]]'
 - '[[memory/daily/2026-06-27]]'
 - '[[memory/daily/2026-06-28]]'
+- '[[memory/daily/2026-07-05]]'
 - '[[wiki/session-state]]'
 - '[[wiki/trismegiste-state]]'
 ---

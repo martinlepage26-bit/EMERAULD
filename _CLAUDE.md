@@ -3,18 +3,14 @@ type: agent-instructions
 title: EMERAULD Vault — Second Brain Operating Rules
 aliases:
 - EMERAULD Vault — Second Brain Operating Rules
-- _CLAUDE
 tags:
 - agents
 - ai
 - agent-instructions
-- claude-md
 - lavoie
-- section
 - save
 - yyyy
 - emerauld
-- color-orange
 status: active
 created: '2026-06-26'
 updated: '2026-06-26'

@@ -1,8 +1,6 @@
 ---
 type: workflow
 title: Weekly vault review job
-aliases:
-- resources/Lazy Obsidian Method/Weekly vault review job
 tags:
 - review
 - weekly
@@ -13,7 +11,6 @@ tags:
 - gaps
 - areas
 - focus
-- color-green
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'

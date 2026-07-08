@@ -1,19 +1,15 @@
 ---
 type: memory-register
 title: Gemini
-title_override: Gemini (Google)
 aliases:
-- Gemini
 - Gemini (Google)
 - Google Gemini
-- memory/agents/Gemini
 - Gemini CLI
 - Gemini council seat
 tags:
 - memory
 - agents
 - memory-register
-- gemini
 - google
 - council
 - cli
@@ -23,6 +19,13 @@ created: '2026-07-02'
 updated: '2026-07-02'
 vault_area: memory
 canonical_path: memory/agents/Gemini.md
+backlink_count: 4
+backlinks:
+- '[[Resources/glossary]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[memory/agents/Antigravity]]'
+- '[[memory/daily/2026-07-02]]'
+title_override: Gemini (Google)
 register: agents
 agent: Gemini (Google)
 ---

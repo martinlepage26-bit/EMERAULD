@@ -1,9 +1,6 @@
 ---
 type: source-note
 title: Alchimie et Histoire des Sciences — Source Note
-aliases:
-- raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note
-- wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note
 tags:
 - raw-source
 - ingest
@@ -17,16 +14,13 @@ tags:
 - cluster
 - sciences
 - lyric
-- color-lime
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
 vault_area: wiki
-canonical_path: wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source
-  Note.md
-backlink_count: 3
+canonical_path: wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note.md
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'
 source_raw_path: raw/Clippings/Alchimie et Histoire des Sciences.md

@@ -5,7 +5,6 @@ aliases:
 - Codex skill registry
 - Codex inventory
 - Complete skills catalog
-- wiki/Codex Skills Inventory — Complete Registry (241 Skills)
 tags:
 - codex
 - skills
@@ -14,27 +13,29 @@ tags:
 - undocumented
 - catalog
 - wiki
-- codex-skills-inventory-complete-registry-241-skills-md
 - documented
 - figma
 - tier
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Codex Skills Inventory — Complete Registry (241 Skills).md
-backlink_count: 10
+backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
-- '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[Areas/PHAROS/Trace Investigator]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 - '[[wiki/Vault Graph Hygiene — Content Title Normalization Skill]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_safety-botpress]]'
 ---
 

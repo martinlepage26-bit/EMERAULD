@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Artificial Intelligence at RBC
-aliases:
-- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_artificial-intelligence-at-rbc
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - innovation
 - trading
 - impact
-- color-teal
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

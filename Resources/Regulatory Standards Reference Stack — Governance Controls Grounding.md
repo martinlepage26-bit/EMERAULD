@@ -29,28 +29,32 @@ tags:
 - cobit
 - itil
 - resources
-- regulatory-standards-reference-stack-governance-controls-grounding-md
 - control
 - grounding
 - grounds
 - controls
-- color-purple
+- wiki
 status: active
+domain: reference
 created: '2026-05-02'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Regulatory Standards Reference Stack — Governance Controls Grounding.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
-- '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Regulatory Standards Reference Stack — Governance Controls Grounding

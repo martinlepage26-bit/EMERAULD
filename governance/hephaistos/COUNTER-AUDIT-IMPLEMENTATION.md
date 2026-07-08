@@ -3,7 +3,6 @@ type: governance-doc
 title: COMPASSai Governance Veto Enforcement — Implementation Summary
 aliases:
 - COMPASSai Governance Veto Enforcement — Implementation Summary
-- governance/hephaistos/COUNTER-AUDIT-IMPLEMENTATION
 tags:
 - governance
 - compassai
@@ -14,8 +13,8 @@ tags:
 - philosopher
 - cleared
 - vetocheck
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

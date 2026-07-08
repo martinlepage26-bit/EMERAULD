@@ -3,7 +3,6 @@ type: map
 title: Media Studies and Pop Culture Analysis
 aliases:
 - TOPIC — Media Studies
-- wiki/Media Studies and Pop Culture Analysis
 tags:
 - index
 - map
@@ -12,13 +11,11 @@ tags:
 - pop-culture
 - queer-theory
 - wiki
-- media-studies-and-pop-culture-analysis-md
 - lyrics
 - queer
 - media
 - buffy
 - ritual
-- color-blue
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
@@ -27,38 +24,38 @@ canonical_path: wiki/Media Studies and Pop Culture Analysis.md
 backlink_count: 33
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
 - '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
-- '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
-- '[[wiki/Buffy Slayer Studies]]'
-- '[[Resources/Disease — Lady Gaga — Lyrics]]'
-- '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
-- '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Novel and Creative Corpus]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
+- '[[Areas/Writing/The Ballad of the Witches'' Road — Analysis]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Disease — Lady Gaga — Lyrics]]'
+- '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
+- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
 - '[[Resources/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
+- '[[Resources/The Ballad of the Witches'' Road — Lyrics]]'
+- '[[archive/session-state/session-state-001]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'
-- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
-- '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
 - '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
-- '[[archive/session-state/session-state-001]]'
 ---
 
 # Media Studies and Pop Culture Analysis

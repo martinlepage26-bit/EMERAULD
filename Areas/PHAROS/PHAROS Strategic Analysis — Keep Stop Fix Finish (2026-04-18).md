@@ -12,36 +12,39 @@ tags:
 - governance
 - execution
 - areas
-- pharos-strategic-analysis-keep-stop-fix-finish-2026-04-18-md
 - argus
 - obsidian
 - progression
 - trackers
 - strategic
-- color-blue
+- wiki
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18).md
-backlink_count: 16
+backlink_count: 19
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governed Self-Improvement — Method Slide Asset]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
-- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal]]'
 - '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
-- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[hephaistos/personal-assistant-agents/rights-policy-warden/references/ecosystem]]'
 - '[[memory]]'
 - '[[memory/clients/Lavoie]]'
 - '[[memory/clients/Progression]]'
 - '[[memory/daily/2026-04-19]]'
-- '[[raw/00_Inbox/Raw/2026-04-25 — Stop coding, clean, package, send]]'
 ---
 
 # PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)

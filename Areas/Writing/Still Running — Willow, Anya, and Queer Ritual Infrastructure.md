@@ -1,42 +1,45 @@
 ---
 type: wiki
 title: Still Running — Willow, Anya, and Queer Ritual Infrastructure
-aliases:
-- Still Running — Willow, Anya, and Queer Ritual Infrastructure
 tags:
 - areas
 - ritual
 - queer
-- still-running-willow-anya-and-queer-ritual-infrastructure-md
 - anya
 - glitch
 - willow
 - grief
-- color-teal
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure.md
-backlink_count: 19
+backlink_count: 23
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
-- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[Areas/Writing/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[Areas/Writing/Glitching the Sacred]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Home]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 - '[[projects/Glitching the Sacred — Fisher King Project State]]'
 ---

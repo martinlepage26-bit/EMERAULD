@@ -7,25 +7,30 @@ aliases:
 - Structuralisme scientifique
 tags:
 - areas
-- math-matiques-comme-grammaire-profonde-des-relations-essai-philosophique-md
 - math
 - matiques
 - trie
 - niveaux
 - mais
-- color-blue
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-05-31'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Mathématiques comme grammaire profonde des relations — Essai philosophique.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
+- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Mathématiques comme grammaire profonde des relations — Essai philosophique

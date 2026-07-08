@@ -1,33 +1,30 @@
 ---
 type: wiki
 title: Queering Neo-Pagan Magic — Identity Power and the Uses of Magic
-aliases:
-- Queering Neo-Pagan Magic — Identity Power and the Uses of Magic
 tags:
 - areas
 - pagan
 - magic
 - queer
-- queering-neo-pagan-magic-identity-power-and-the-uses-of-magic-md
 - queering
 - paper
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic.md
-backlink_count: 22
+backlink_count: 26
 backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
-- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version]]'
@@ -39,7 +36,13 @@ backlinks:
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/Home]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

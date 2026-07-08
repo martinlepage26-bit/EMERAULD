@@ -1,9 +1,6 @@
 ---
 type: artifact
-title: The one Obsidian note that stopped Claude from re-proposing ideas I'd already
-  rejected
-aliases:
-- artifacts/marketplace/promo/devto-iter13-decision-log-deepdive
+title: The one Obsidian note that stopped Claude from re-proposing ideas I'd already rejected
 tags:
 - ai
 - obsidian
@@ -17,7 +14,6 @@ tags:
 - rejected
 - decision
 - alternatives
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -30,8 +26,7 @@ backlinks:
 - '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
 published: false
 canonical_url: null
-description: A deep dive into the Decision Log note type — the single highest-leverage
-  addition to any AI-assisted development workflow.
+description: A deep dive into the Decision Log note type — the single highest-leverage addition to any AI-assisted development workflow.
 ---
 
 # The one Obsidian note that stopped Claude from re-proposing ideas I'd already rejected

@@ -1,18 +1,15 @@
 ---
 type: governance-update
 title: HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)
-aliases:
-- HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)
 tags:
 - governance-update
 - archive
-- hephaistos-co-equal-authority-cleanup-wave-1-and-2-2026-04-18-md
 - tier
 - equal
 - forging
 - scope
 - wave
-- color-purple
+- wiki-2026-07-08
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
@@ -21,26 +18,26 @@ canonical_path: archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup �
 backlink_count: 24
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
-- '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
-- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]'
-- '[[wiki/Supersession Registry]]'
 - '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
 - '[[Areas/PHAROS/claude-peers-mcp — Claude Peer Network]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Supersession Registry]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 - '[[memory/agents/Blockers]]'
 - '[[memory/agents/Decisions]]'

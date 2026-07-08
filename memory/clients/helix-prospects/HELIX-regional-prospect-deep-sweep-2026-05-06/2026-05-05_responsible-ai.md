@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Responsible AI
-aliases:
-- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_responsible-ai
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - sustainability
 - shareholder
 - dividend
-- color-green
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

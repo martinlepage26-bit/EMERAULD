@@ -11,13 +11,13 @@ tags:
 - backlinks
 - retrieval
 - archive
-- vault-deep-linking-pass-2026-05-06-md
 - orphan
 - inbound
 - loose
 - anchored
 - relinking
-- color-teal
+- wiki
+- wiki-2026-07-08
 status: complete
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -26,14 +26,14 @@ canonical_path: archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06.m
 backlink_count: 10
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
+- '[[wiki/Home]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/archive/Governance Stress-Test Protocols Index]]'
 - '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[wiki/archive/Governance Stress-Test Protocols Index]]'
 - '[[projects/Second Brain — Fisher King Project State]]'
 ---
 

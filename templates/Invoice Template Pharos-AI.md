@@ -2,22 +2,18 @@
 type: template
 title: Invoice Template Pharos-AI
 aliases:
-- Invoice Template Pharos-AI
 - Facture Template Pharos-AI
 - Pharos-AI Invoice
-- templates/Invoice Template Pharos-AI
 tags:
 - template
 - pharos-ai
 - invoice
 - billing
 - templates
-- invoice-template-pharos-ai-md
 - navy
 - client
 - cream
 - gold
-- color-orange
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'

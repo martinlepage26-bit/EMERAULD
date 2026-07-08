@@ -12,35 +12,39 @@ tags:
 - policy
 - institutional-accountability
 - areas
-- ai-governance-manifesto-upstream-institutional-practice-md
 - poetics
 - praxis
 - manifesto
 - governance
 - harms
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice.md
-backlink_count: 15
+backlink_count: 19
 backlinks:
 - '[[Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
-- '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
+- '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
+- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
-- '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # AI Governance Manifesto — Upstream Institutional Practice

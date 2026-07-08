@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: Fiabilisation Lepage / Deschênes — dossier de session
+tags:
+- project-mirror
+- projects
+- genealogie-lepage-deschenes
+status: active
+created: '2026-07-05'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/genealogie-lepage-deschenes/arbre/dossier-fiabilisation-2026-07-05.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Fiabilisation Lepage / Deschênes — dossier de session
 
 **Date** 2026-07-05 · **Propositus** Martin Lepage · **Méthode** trace-investigator (audit des niveaux de certitude) → family-tree (données corrigées + plan résiduel), rendu gothique-victorien sous frontend-design.

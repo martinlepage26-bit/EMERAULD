@@ -3,17 +3,30 @@ type: wiki
 title: 'Scoped Plan: Security Audit Phases 2-6'
 aliases:
 - 'Scoped Plan: Security Audit Phases 2-6'
-- security-audit-plan
 tags:
 - security-audit
 - governance
 - council
 - scoped-plan
+- wiki
+- areas
+- pharos
 status: active
+domain: pharos
 created: '2026-07-03'
 updated: '2026-07-03'
 vault_area: Areas
 canonical_path: Areas/PHAROS/security-audit-plan.md
+backlink_count: 8
+backlinks:
+- '[[Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration]]'
+- '[[Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6]]'
+- '[[Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/daily/2026-07-04]]'
+- '[[memory/daily/2026-07-05]]'
+- '[[memory/daily/2026-07-06]]'
+- '[[memory/daily/2026-07-07]]'
 ---
 
 # Scoped Plan: Security Audit Phases 2-6

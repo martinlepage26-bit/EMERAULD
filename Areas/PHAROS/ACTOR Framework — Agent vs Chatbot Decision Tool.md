@@ -10,25 +10,29 @@ tags:
 - consulting
 - tool
 - areas
-- actor-framework-agent-vs-chatbot-decision-tool-md
 - chatbot
 - actor
 - ladder
 - scoping
 - dimension
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-14'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool.md
-backlink_count: 5
+backlink_count: 8
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # ACTOR Framework — Agent vs Chatbot Decision Tool

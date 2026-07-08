@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Home | Blue J
-aliases:
-- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-blue-j
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - firm
 - partner
 - firms
-- color-lime
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -20,8 +17,8 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-blue-j.md
 backlink_count: 2
 backlinks:
-- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
 source_url: https://www.bluej.com/
 date: '2026-05-05'
 scraped: '2026-05-05'

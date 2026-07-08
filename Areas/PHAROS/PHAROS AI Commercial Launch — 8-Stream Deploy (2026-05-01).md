@@ -11,34 +11,38 @@ tags:
 - commercialization
 - 2026-q2
 - areas
-- pharos-ai-commercial-launch-8-stream-deploy-2026-05-01-md
 - calendly
 - landing
 - articles
 - french
 - outreach
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: 2026-05-01T15:45
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01).md
-backlink_count: 18
+backlink_count: 22
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
-- '[[archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
-- '[[archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
 - '[[Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
-- '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
-- '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
 - '[[Areas/PHAROS/PHAROS Product Stack]]'
 - '[[Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
-- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
+- '[[archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
+- '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'
 - '[[memory/daily/2026-05-01]]'

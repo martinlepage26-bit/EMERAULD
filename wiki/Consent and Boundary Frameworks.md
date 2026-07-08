@@ -3,7 +3,6 @@ type: map
 title: Consent and Boundary Frameworks
 aliases:
 - TOPIC — Consent and Boundary Frameworks
-- wiki/Consent and Boundary Frameworks
 tags:
 - index
 - map
@@ -14,10 +13,8 @@ tags:
 - governance
 - ethics
 - wiki
-- consent-and-boundary-frameworks-md
 - answerability
 - authority
-- color-purple
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
@@ -26,37 +23,36 @@ canonical_path: wiki/Consent and Boundary Frameworks.md
 backlink_count: 32
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
-- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[wiki/Care, Ethics, and Governance]]'
 - '[[Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification]]'
 - '[[Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/Inner Mind Eye]]'
 - '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
-- '[[wiki/Legal and Institutional Cases]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
+- '[[Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 - '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-05-02]]'
 ---
 

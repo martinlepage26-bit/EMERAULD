@@ -18,25 +18,30 @@ tags:
 - claude-code
 - skill-corpus
 - areas
-- epistemic-operator-operational-specification-md
 - friction
 - analytical
 - gate
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-05-24'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Epistemic Operator — Operational Specification.md
-backlink_count: 8
+backlink_count: 13
 backlinks:
+- '[[Areas/PHAROS/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure]]'
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
-- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/elemental-agents/ttrpg-repack/manuscript/_audit_dimension-F-2026-05-24]]'
 source_path: /mnt/skills/user/operator/SKILL.md (operator's working reference)
 canonical_pair: Epistemic Governance — Canonical Reference

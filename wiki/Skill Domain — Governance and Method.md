@@ -5,7 +5,6 @@ aliases:
 - Governance and Method domain
 - Governance skills domain
 - Method skills hub
-- wiki/Skill Domain — Governance and Method
 tags:
 - skills
 - domain
@@ -15,29 +14,31 @@ tags:
 - pharos
 - audit
 - wiki
-- skill-domain-governance-and-method-md
 - authored
 - skill
-- color-purple
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Skill Domain — Governance and Method.md
-backlink_count: 12
+backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
-- '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
 - '[[wiki/Skill Domain — Security and Compliance]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
-- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Skill Domain — Governance and Method

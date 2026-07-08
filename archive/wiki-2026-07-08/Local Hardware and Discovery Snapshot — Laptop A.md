@@ -1,8 +1,6 @@
 ---
 type: note
 title: Local Hardware and Discovery Snapshot — Laptop A
-aliases:
-- Local Hardware and Discovery Snapshot — Laptop A
 tags:
 - hardware
 - discovery
@@ -11,11 +9,10 @@ tags:
 - wsl
 - note
 - archive
-- local-hardware-and-discovery-snapshot-laptop-a-md
 - laptop
 - loose
 - envuserprofiledesktopcompact
-- color-red
+- wiki-2026-07-08
 status: active
 created: '2026-04-28'
 updated: '2026-06-26'
@@ -24,18 +21,18 @@ canonical_path: archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot �
 backlink_count: 15
 backlinks:
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'
+- '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
+- '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 - '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[wiki/Home]]'
-- '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
-- '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[archive/session-state/session-state-001]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 - '[[memory/daily/2026-04-28]]'
 ---

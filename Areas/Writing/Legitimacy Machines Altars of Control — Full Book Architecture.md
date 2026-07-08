@@ -1,34 +1,37 @@
 ---
 type: wiki
 title: Legitimacy Machines Altars of Control — Full Book Architecture
-aliases:
-- Legitimacy Machines Altars of Control — Full Book Architecture
 tags:
 - areas
-- legitimacy-machines-altars-of-control-full-book-architecture-md
 - chapter
 - machines
 - covered
 - substack
 - legitimacy
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture.md
-backlink_count: 11
+backlink_count: 15
 backlinks:
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Home]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

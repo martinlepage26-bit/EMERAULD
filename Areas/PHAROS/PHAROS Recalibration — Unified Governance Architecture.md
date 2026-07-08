@@ -1,56 +1,58 @@
 ---
 type: wiki
 title: PHAROS Recalibration — Unified Governance Architecture
-aliases:
-- PHAROS Recalibration — Unified Governance Architecture
 tags:
 - areas
 - pharos
 - governance
-- pharos-recalibration-unified-governance-architecture-md
 - runner
 - dataset
 - stage
 - recalibration
 - claim
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture.md
-backlink_count: 31
+backlink_count: 35
 backlinks:
 - '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
 - '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
 - '[[Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
-- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
-- '[[Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
-- '[[Resources/Awesome Design Resources — Curated UI-UX Reference List]]'
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
-- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/PHAROS/Global Publication Search — PHAROS Method and Variants]]'
 - '[[Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
-- '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
-- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS]]'
 - '[[Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
-- '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
-- '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
 - '[[Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
-- '[[Resources/Recursive Governance Theory]]'
+- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[Areas/Writing/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
+- '[[wiki/Home]]'
+- '[[Resources/Awesome Design Resources — Curated UI-UX Reference List]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
+- '[[Resources/Recursive Governance Theory]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

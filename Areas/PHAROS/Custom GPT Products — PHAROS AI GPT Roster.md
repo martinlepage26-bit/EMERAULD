@@ -13,27 +13,31 @@ tags:
 - digital-products
 - chatgpt
 - areas
-- custom-gpt-products-pharos-ai-gpt-roster-md
 - mobi
 - personas
 - dottie
 - agatha
-- color-teal
+- wiki
 status: active
+domain: pharos
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification]]'
 - '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
-- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/PHAROS/PHAROS Product Stack]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Custom GPT Products — PHAROS AI GPT Roster

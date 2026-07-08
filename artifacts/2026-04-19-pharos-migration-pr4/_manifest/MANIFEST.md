@@ -1,10 +1,7 @@
 ---
 type: manifest
 title: 'L99 — PHAROS Migration + PR #4 Hardening — Artifact Manifest'
-aliases:
-- artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST
 tags:
-- manifest
 - artifacts
 - 2026-04-19-pharos-migration-pr4
 - backend
@@ -12,7 +9,6 @@ tags:
 - hardening
 - dnspython
 - dockerfile
-- color-orange
 status: ready
 created: '2026-04-19'
 updated: '2026-06-26'

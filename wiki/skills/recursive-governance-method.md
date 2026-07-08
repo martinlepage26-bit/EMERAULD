@@ -1,9 +1,6 @@
 ---
 type: skill
 title: recursive-governance-method
-aliases:
-- skills/recursive-governance-method
-- wiki/skills/recursive-governance-method
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - mixed
 - archives
 - manuscripts
-- color-green
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -21,10 +17,10 @@ vault_area: wiki
 canonical_path: wiki/skills/recursive-governance-method.md
 backlink_count: 14
 backlinks:
-- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — Governance and Method]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
 - '[[wiki/archive/inner-mind-eye]]'
 - '[[wiki/archive/red-team]]'
 - '[[wiki/archive/triangulation]]'

@@ -3,7 +3,6 @@ type: map
 title: Legal and Institutional Cases
 aliases:
 - TOPIC — Legal and Institutional Cases
-- wiki/Legal and Institutional Cases
 tags:
 - index
 - map
@@ -13,11 +12,9 @@ tags:
 - human-rights
 - governance
 - wiki
-- legal-and-institutional-cases-md
 - complaint
 - stuttering
 - consent
-- color-purple
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
@@ -26,24 +23,22 @@ canonical_path: wiki/Legal and Institutional Cases.md
 backlink_count: 18
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
-  (2026)]]'
+- '[[Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
-- '[[wiki/LOTUS Model and Agency]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
-  2024]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Personal/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
 - '[[Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[memory/daily/2026-05-02]]'
 ---
 

@@ -1,11 +1,24 @@
 ---
-id: vector_store_system
 type: System
-canonical_name: ".vector_store"
-aliases: []
+title: .vector_store
+tags:
+- system
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/vector_store_system.md
+backlink_count: 2
+backlinks:
+- '[[graph/nodes/unmapped/embed_py]]'
+- '[[graph/nodes/unmapped/vsearch_py]]'
+id: vector_store_system
+canonical_name: .vector_store
 confidence: high
-sources: ['EMERAULD/CLAUDE.md']
+sources:
+- EMERAULD/CLAUDE.md
 created_from: graphify_pass
 ---
 

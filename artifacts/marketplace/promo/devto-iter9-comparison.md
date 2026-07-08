@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: I tried 4 approaches to AI agent memory. Here's what actually worked.
-aliases:
-- artifacts/marketplace/promo/devto-iter9-comparison
 tags:
 - ai
 - obsidian
@@ -16,7 +14,6 @@ tags:
 - agent
 - retrieved
 - approach
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -29,8 +26,7 @@ backlinks:
 - '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
 published: false
 canonical_url: null
-description: Long context files, RAG, embeddings, knowledge graphs — I ran all four
-  on a real 6-month project. Only one held up past 100 notes.
+description: Long context files, RAG, embeddings, knowledge graphs — I ran all four on a real 6-month project. Only one held up past 100 notes.
 ---
 
 # I tried 4 approaches to AI agent memory. Here's what actually worked.

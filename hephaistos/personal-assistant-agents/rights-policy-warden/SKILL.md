@@ -1,11 +1,7 @@
 ---
 type: skill-spec
 title: Rights and Policy Warden
-aliases:
-- personal-assistant-agents/rights-policy-warden/SKILL
-- hephaistos/personal-assistant-agents/rights-policy-warden/SKILL
 tags:
-- skill
 - agents
 - skill-spec
 - personal-assistant-agents
@@ -16,21 +12,22 @@ tags:
 - warden
 - references
 - license
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/rights-policy-warden/SKILL.md
-backlink_count: 1
+backlink_count: 2
 backlinks:
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[graph/nodes/unmapped/content_to_market_pipeline_workflow]]'
 name: rights-policy-warden
-description: Use when owned content needs rights, licensing, usage limits, and marketplace-policy
-  fit checked before packaging or dispatch.
+description: Use when owned content needs rights, licensing, usage limits, and marketplace-policy fit checked before packaging or dispatch.
 entity_type: Tool
 entity_id: rights_policy_warden
-entity_aliases: ['rights-policy-warden']
+entity_aliases:
+- rights-policy-warden
 entity_confidence: high
 ---
 

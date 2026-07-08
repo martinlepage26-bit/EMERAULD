@@ -1,38 +1,40 @@
 ---
 type: wiki
 title: Plugin Recommendations
-aliases:
-- Plugin Recommendations
 tags:
 - resources
-- plugin-recommendations-md
 - plugins
 - obsidian
 - templater
 - install
 - plugin
-- color-purple
+- wiki
 status: active
+domain: reference
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Plugin Recommendations.md
-backlink_count: 14
+backlink_count: 18
 backlinks:
-- '[[Resources/Awesome Design Resources — Curated UI-UX Reference List]]'
 - '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
-- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
-- '[[wiki/Home]]'
-- '[[wiki/LightRAG — Graph-Based RAG System]]'
 - '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Setup Guide]]'
+- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/LightRAG — Graph-Based RAG System]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[Resources/Awesome Design Resources — Curated UI-UX Reference List]]'
+- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[Resources/RAG-Anything — Multimodal RAG Framework]]'
 - '[[archive/session-state/session-state-001]]'
-- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Plugin Recommendations

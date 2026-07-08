@@ -1,39 +1,38 @@
 ---
 type: wiki
 title: September 2024 Research Retrospective
-aliases:
-- September 2024 Research Retrospective
-- wiki/September 2024 Research Retrospective
 tags:
 - wiki
-- september-2024-research-retrospective-md
 - vigil
 - doxypep
 - retrospective
 - clinical
 - september
-- color-blue
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/September 2024 Research Retrospective.md
-backlink_count: 14
+backlink_count: 18
 backlinks:
-- '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 - '[[wiki/Home]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model]]'
-- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # September 2024 Research Retrospective

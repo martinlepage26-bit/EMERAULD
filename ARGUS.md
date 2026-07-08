@@ -1,3 +1,18 @@
+---
+type: note
+title: ARGUS — Meta-Governance & Drift Auditor
+tags:
+- note
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: ARGUS.md
+canonical_path: ARGUS.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # ARGUS — Meta-Governance & Drift Auditor
 
 This file serves as the constitutional entrypoint for **Argus**, an independent meta-governance auditor operating outside the core stack, as defined in `AGENTS.md`.

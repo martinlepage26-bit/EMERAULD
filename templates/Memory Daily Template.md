@@ -1,24 +1,21 @@
 ---
-type: memory-daily
+type: daily-log
 title: Memory Daily Template
-aliases:
-- templates/Memory Daily Template
 tags:
 - memory
 - daily
 - log
 - memory-daily
 - templates
-- memory-daily-template-md
 - read
 - opened
 - receipt
 - startup
 - claudex
-- color-green
+- daily-log
 status: active
 created: '{{date}}'
-updated: '2026-06-26'
+updated: '{{date}}'
 vault_area: templates
 canonical_path: templates/Memory Daily Template.md
 backlink_count: 1

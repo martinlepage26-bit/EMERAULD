@@ -1,10 +1,7 @@
 ---
 type: area
 title: Area — Writing
-aliases:
-- Areas/Writing/AREA
 tags:
-- area
 - areas
 - writing
 - compulsory
@@ -12,10 +9,10 @@ tags:
 - journal
 - peer
 - pipeline
-- color-pink
 status: active
+domain: writing
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: Areas
 canonical_path: Areas/Writing/AREA.md
 backlink_count: 1

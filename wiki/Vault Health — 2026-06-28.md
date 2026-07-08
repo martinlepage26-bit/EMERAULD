@@ -1,28 +1,29 @@
 ---
 type: wiki
 title: Vault Health — 2026-06-28
-aliases:
-- wiki/Vault Health — 2026-06-28
 tags:
 - health
 - vault
 - wiki
-- vault-health-2026-06-28-md
 - bulk
 - wikilinks
 - mocs
 - zero
 - maps
-- color-teal
 status: active
 created: '2026-06-28'
-updated: '2026-06-26'
+updated: '2026-06-28'
 vault_area: wiki
 canonical_path: wiki/Vault Health — 2026-06-28.md
-backlink_count: 3
+backlink_count: 8
 backlinks:
 - '[[wiki/EMERAULD]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-06-28]]'
 ---
 

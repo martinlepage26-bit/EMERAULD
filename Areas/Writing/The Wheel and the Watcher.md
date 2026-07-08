@@ -1,38 +1,41 @@
 ---
 type: wiki
 title: The Wheel and the Watcher
-aliases:
-- The Wheel and the Watcher
 tags:
 - areas
-- the-wheel-and-the-watcher-md
 - buddhist
 - watcher
 - suprametacognition
 - samsara
 - process
-- color-orange
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/The Wheel and the Watcher.md
-backlink_count: 15
+backlink_count: 19
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
-- '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
 - '[[Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
+- '[[wiki/Home]]'
+- '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/Papers — Fisher King Project State]]'
 ---
 

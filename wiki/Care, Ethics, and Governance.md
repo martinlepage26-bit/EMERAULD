@@ -3,7 +3,6 @@ type: map
 title: Care, Ethics, and Governance
 aliases:
 - TOPIC — Care, Ethics, and Governance
-- wiki/Care, Ethics, and Governance
 tags:
 - index
 - map
@@ -13,12 +12,10 @@ tags:
 - governance
 - hephaistos
 - wiki
-- care-ethics-and-governance-md
 - answerability
 - gift
 - failure
 - institutional
-- color-pink
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
@@ -26,34 +23,33 @@ vault_area: wiki
 canonical_path: wiki/Care, Ethics, and Governance.md
 backlink_count: 27
 backlinks:
-- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/Inner Mind Eye]]'
 - '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
-- '[[wiki/LOTUS Model and Agency]]'
-- '[[Resources/L’esprit du don — Godbout & Caillé (1992)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Novel and Creative Corpus]]'
-- '[[Resources/Recursive Governance Theory]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
-  — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/L’esprit du don — Godbout & Caillé (1992)]]'
+- '[[Resources/Recursive Governance Theory]]'
+- '[[Resources/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
 - '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Session 2 Summary — 2026-05-01]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Care, Ethics, and Governance

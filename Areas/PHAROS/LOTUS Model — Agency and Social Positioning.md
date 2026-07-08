@@ -1,48 +1,51 @@
 ---
 type: wiki
 title: LOTUS Model — Agency and Social Positioning
-aliases:
-- LOTUS Model — Agency and Social Positioning
 tags:
 - areas
-- lotus-model-agency-and-social-positioning-md
 - lotus
 - agency
 - vector
 - vectorized
 - scaffolds
-- color-pink
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/LOTUS Model — Agency and Social Positioning.md
-backlink_count: 25
+backlink_count: 29
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
-- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
-- '[[wiki/LOTUS Model and Agency]]'
 - '[[Areas/PHAROS/LOTUS Premium Spec]]'
+- '[[Areas/Writing/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
-- '[[archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026]]'
-- '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
-- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
+- '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
+- '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/LOTUS — Fisher King Project State]]'
 ---
 

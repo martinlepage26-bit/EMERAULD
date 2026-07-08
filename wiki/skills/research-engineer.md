@@ -1,9 +1,6 @@
 ---
 type: skill
 title: research-engineer
-aliases:
-- skills/research-engineer
-- wiki/skills/research-engineer
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - exploratory
 - pipelines
 - versioning
-- color-blue
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -22,8 +18,8 @@ canonical_path: wiki/skills/research-engineer.md
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 skill_id: research-engineer
 scope: research
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md

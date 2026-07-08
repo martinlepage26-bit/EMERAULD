@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: AiDA | Caseware
-aliases:
-- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aida-caseware
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - caseware
 - accounting
 - guidance
-- color-red
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -20,8 +17,8 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aida-caseware.md
 backlink_count: 2
 backlinks:
-- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
 source_url: https://www.caseware.com/products/aida
 date: '2026-05-05'
 scraped: '2026-05-05'

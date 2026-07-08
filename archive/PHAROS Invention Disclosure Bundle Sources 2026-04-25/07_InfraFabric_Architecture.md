@@ -1,8 +1,6 @@
 ---
 type: archive-record
 title: InfraFabric Architecture
-aliases:
-- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture
 tags:
 - archive
 - pharos
@@ -13,8 +11,8 @@ tags:
 - current
 - infrafabric
 - switchboard
-- color-green
 status: archived
+priority: low
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: archive

@@ -1,8 +1,6 @@
 ---
 type: workflow
 title: Daily ingest job
-aliases:
-- resources/Lazy Obsidian Method/Daily ingest job
 tags:
 - review
 - daily
@@ -13,7 +11,6 @@ tags:
 - create
 - possible
 - promotions
-- color-orange
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'

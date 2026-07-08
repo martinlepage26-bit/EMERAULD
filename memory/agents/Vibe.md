@@ -2,31 +2,32 @@
 type: memory-register
 title: Vibe
 aliases:
-- Vibe
 - Vibe (Mistral)
 - Mistral Vibe
-- memory/agents/Vibe
 - Mistral CLI
 - Mistral council seat
 tags:
 - memory
 - agents
 - memory-register
-- vibe
 - mistral
 - council
 - cli
 - session
 - antigravity
-- color-green
 status: active
 created: '2026-07-01'
-updated: '2026-06-26'
+updated: '2026-07-01'
 vault_area: memory
 canonical_path: memory/agents/Vibe.md
-backlink_count: 1
+backlink_count: 6
 backlinks:
 - '[[wiki/Weekly Review — 2026-06-26]]'
+- '[[memory/agents/Antigravity]]'
+- '[[memory/agents/Gemini]]'
+- '[[memory/agents/Grok]]'
+- '[[memory/agents/Kimi]]'
+- '[[memory/daily/2026-07-02]]'
 title_override: Vibe (Mistral)
 register: agents
 agent: Vibe (Mistral)

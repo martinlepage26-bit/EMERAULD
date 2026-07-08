@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Deploying LLMs Safely with Botpress | Botpress Resources
-aliases:
-- memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_deploying-llms-safely-with-botpress-botpress-resources
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - llms
 - enterprise
 - extensive
-- color-red
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

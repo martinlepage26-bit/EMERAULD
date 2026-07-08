@@ -7,14 +7,14 @@ aliases:
 tags:
 - governance-control
 - areas
-- control-3-architecture-deprecation-protocol-regulatory-grounding-md
 - architecture
 - deprecated
 - effective
 - supersession
 - eight
-- color-purple
+- pharos
 status: active
+domain: pharos
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Areas
@@ -24,23 +24,23 @@ backlinks:
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
-- '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance Controls — Incident Response (Control Failure Procedures)]]'
 - '[[Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap]]'
-- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[wiki/Supersession Registry]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'
 tier: critical

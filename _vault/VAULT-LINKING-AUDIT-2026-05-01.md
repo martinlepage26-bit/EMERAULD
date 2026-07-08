@@ -3,17 +3,14 @@ type: vault-audit
 title: EMERAULD Vault Linking Audit — 2026-05-01
 aliases:
 - EMERAULD Vault Linking Audit — 2026-05-01
-- _vault/VAULT-LINKING-AUDIT-2026-05-01
 tags:
 - vault
 - vault-audit
-- vault-linking-audit-2026-05-01-md
 - fluency
 - impact
 - governance
 - method
 - bridges
-- color-teal
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
@@ -22,12 +19,11 @@ canonical_path: _vault/VAULT-LINKING-AUDIT-2026-05-01.md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
-  (2026-04-18)]]'
 - '[[Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 ---
 
 # EMERAULD Vault Linking Audit — 2026-05-01

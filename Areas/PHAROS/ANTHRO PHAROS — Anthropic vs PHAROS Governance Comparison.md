@@ -1,39 +1,41 @@
 ---
 type: wiki
 title: ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison
-aliases:
-- ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison
 tags:
 - areas
 - pharos
 - governance
-- anthro-pharos-anthropic-vs-pharos-governance-comparison-md
 - anthropic
 - anthro
 - training
 - centralized
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison.md
-backlink_count: 15
+backlink_count: 19
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
 - '[[Areas/PHAROS/Architectural AI Governance — Willis and PBSAI]]'
-- '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/PHAROS/Global Publication Search — PHAROS Method and Variants]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
-- '[[wiki/Home]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
-- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

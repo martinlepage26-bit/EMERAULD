@@ -1,9 +1,6 @@
 ---
 type: memory-register
 title: Blockers
-aliases:
-- Blockers
-- memory/agents/Blockers
 tags:
 - memory
 - agents
@@ -13,19 +10,20 @@ tags:
 - lightrag
 - probable
 - tracker
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: memory
 canonical_path: memory/agents/Blockers.md
-backlink_count: 7
+backlink_count: 9
 backlinks:
-- '[[.agent_bus/README]]'
-- '[[.planning/STATE]]'
 - '[[index]]'
+- '[[memory/agents/Antigravity]]'
 - '[[memory/agents/Decisions]]'
+- '[[memory/agents/Gemini]]'
+- '[[memory/agents/Grok]]'
 - '[[memory/agents/Journal]]'
+- '[[memory/agents/Kimi]]'
 - '[[memory/agents/Learning]]'
 - '[[memory/agents/Vibe]]'
 ---

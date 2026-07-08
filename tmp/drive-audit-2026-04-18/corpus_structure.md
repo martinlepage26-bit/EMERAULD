@@ -1,8 +1,6 @@
 ---
 type: note
 title: Canonical Paper Corpus Structure
-aliases:
-- tmp/drive-audit-2026-04-18/corpus_structure
 tags:
 - note
 - paper
@@ -12,7 +10,6 @@ tags:
 - manuscript
 - archive
 - anxiety
-- color-orange
 status: temporary
 created: '2026-04-18'
 updated: '2026-06-26'

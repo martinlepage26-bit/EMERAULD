@@ -7,25 +7,29 @@ aliases:
 - App Revenue Ideas
 tags:
 - areas
-- app-ideas-hybrid-gaming-entertainment-social-fitness-music-2026-md
 - music
 - fitness
 - dating
 - entertainment
 - social
-- color-pink
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-31'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026).md
-backlink_count: 5
+backlink_count: 8
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)

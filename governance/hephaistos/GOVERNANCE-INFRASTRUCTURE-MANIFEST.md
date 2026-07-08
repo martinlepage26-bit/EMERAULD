@@ -3,7 +3,6 @@ type: governance-doc
 title: Governance Infrastructure Manifest
 aliases:
 - Governance Infrastructure Manifest
-- governance/hephaistos/GOVERNANCE-INFRASTRUCTURE-MANIFEST
 tags:
 - governance
 - ai
@@ -13,8 +12,8 @@ tags:
 - entrypoints
 - agentname
 - bowie
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

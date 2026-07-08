@@ -1,9 +1,6 @@
 ---
 type: bridge-note
 title: Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve
-aliases:
-- Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve
-- wiki/bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve
 tags:
 - bridge
 - compassai
@@ -16,16 +13,13 @@ tags:
 - preuve
 - compass
 - social
-- color-teal
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: wiki
-canonical_path: wiki/bridges/Bridge - Social Compass Paper Ritual Authority and Rgime
-  de Preuve.md
-backlink_count: 3
+canonical_path: wiki/bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve.md
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 ---

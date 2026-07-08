@@ -2,7 +2,6 @@
 type: wiki
 title: LOTUS Premium Spec
 aliases:
-- LOTUS Premium Spec
 - Dr. Sort Premium Vision
 - LOTUS application spec
 - LOTUS Dr. Sort product roadmap
@@ -15,28 +14,33 @@ tags:
 - content-aware-classification
 - premium-feature-set
 - areas
-- lotus-premium-spec-md
 - sort
 - spec
 - ownership
 - march
-- color-red
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-03'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/LOTUS Premium Spec.md
-backlink_count: 11
+backlink_count: 15
 backlinks:
-- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
-- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
-- '[[wiki/LOTUS Model and Agency]]'
 - '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/Dr. Sort — Fisher King Project State]]'
 - '[[projects/LOTUS — Fisher King Project State]]'
 ---

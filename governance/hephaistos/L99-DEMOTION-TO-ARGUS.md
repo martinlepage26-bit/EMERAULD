@@ -3,7 +3,6 @@ type: governance-doc
 title: L99 Demotion to Argus Review Criterion — Decision Spec
 aliases:
 - L99 Demotion to Argus Review Criterion — Decision Spec
-- governance/hephaistos/L99-DEMOTION-TO-ARGUS
 tags:
 - governance
 - ai
@@ -14,15 +13,14 @@ tags:
 - binding
 - demotion
 - placement
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance
 canonical_path: governance/hephaistos/L99-DEMOTION-TO-ARGUS.md
-backlink_count: 5
+backlink_count: 4
 backlinks:
-- '[[.github/agents/argus.agent]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/HEPHAISTOS]]'

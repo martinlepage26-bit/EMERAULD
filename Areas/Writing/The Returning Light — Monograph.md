@@ -1,46 +1,49 @@
 ---
 type: wiki
 title: The Returning Light — Monograph
-aliases:
-- The Returning Light — Monograph
 tags:
 - areas
 - monograph
-- the-returning-light-monograph-md
 - light
 - returning
 - novel
 - poetic
-- color-teal
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/The Returning Light — Monograph.md
-backlink_count: 23
+backlink_count: 27
 backlinks:
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[Areas/Writing/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
 - '[[Areas/Writing/Le sang qui porte ton nom — Novel]]'
-- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/Novel and Creative Corpus]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
 - '[[Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
-- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

@@ -6,13 +6,12 @@ aliases:
 tags:
 - governance-checkpoint
 - archive
-- governance-controls-phase-1-progress-checkpoint-2026-04-26-md
 - phase
 - registry
 - refresh
 - automation
 - supersession
-- color-purple
+- wiki-2026-07-08
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
@@ -21,9 +20,9 @@ canonical_path: archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress
 backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 phase: Phase 1 Infrastructure
 completion: 35%
 ---

@@ -1,25 +1,28 @@
 ---
 type: area
 title: Area — Lavoie
-aliases:
-- Areas/Lavoie/AREA
 tags:
-- area
 - areas
 - lavoie
 - pending
 - jade
 - guillaume
 - zones
-- color-green
 status: active
+domain: lavoie
 created: '2026-06-29'
 updated: '2026-07-06'
 vault_area: Areas
 canonical_path: Areas/Lavoie/AREA.md
-backlink_count: 1
+backlink_count: 7
 backlinks:
+- '[[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform]]'
+- '[[Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan]]'
+- '[[Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule]]'
+- '[[Logs/2026-07-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[index]]'
+- '[[memory/daily/2026-07-06]]'
 ---
 
 # Area — Lavoie

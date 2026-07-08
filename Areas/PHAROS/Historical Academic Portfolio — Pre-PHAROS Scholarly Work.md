@@ -1,25 +1,24 @@
 ---
 type: wiki
 title: Historical Academic Portfolio — Pre-PHAROS Scholarly Work
-aliases:
-- Historical Academic Portfolio — Pre-PHAROS Scholarly Work
 tags:
 - areas
 - pharos
-- historical-academic-portfolio-pre-pharos-scholarly-work-md
 - queer
 - avatar
 - pagan
 - versions
 - legitimacy
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md
-backlink_count: 65
+backlink_count: 69
 backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
@@ -30,34 +29,24 @@ backlinks:
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[Areas/Writing/Circle Remains Open — Version Genealogy]]'
-- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[Areas/Writing/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[Areas/Writing/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
-- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy]]'
 - '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
-- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
-- '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy]]'
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
-- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[Areas/Writing/Pagan Magic — Version Genealogy]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Pourquoi Rever Encore — Version Genealogy]]'
-- '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
+- '[[Areas/Writing/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
 - '[[Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
 - '[[Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version]]'
@@ -68,7 +57,6 @@ backlinks:
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
-- '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 - '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[Areas/Writing/Spider-Man — Version Genealogy]]'
@@ -79,12 +67,26 @@ backlinks:
 - '[[Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
 - '[[Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy]]'
 - '[[Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming]]'
-- '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
+- '[[Areas/Writing/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
 - '[[Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[Areas/Writing/Wicca 2.0 — Version Genealogy]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/September 2024 Research Retrospective]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Historical Academic Portfolio — Pre-PHAROS Scholarly Work

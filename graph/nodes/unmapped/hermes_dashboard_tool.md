@@ -1,11 +1,23 @@
 ---
-id: hermes_dashboard_tool
 type: System
-canonical_name: "Hermes Dashboard — Professional Governance Tool"
-aliases: []
+title: Hermes Dashboard — Professional Governance Tool
+tags:
+- system
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/hermes_dashboard_tool.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: hermes_dashboard_tool
+canonical_name: Hermes Dashboard — Professional Governance Tool
 confidence: high
-sources: ['memory/clients/Lavoie Construct.md']
+sources:
+- memory/clients/Lavoie Construct.md
 created_from: graphify_pass
 ---
 

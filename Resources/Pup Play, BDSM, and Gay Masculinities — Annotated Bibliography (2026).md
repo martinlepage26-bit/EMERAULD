@@ -15,24 +15,27 @@ tags:
 - sexuality
 - kink
 - resources
-- pup-play-bdsm-and-gay-masculinities-annotated-bibliography-2026-md
 - play
 - threads
 - masculinity
 - sexual
 - masculinities
-- color-teal
+- wiki
 status: active
+domain: reference
 created: '2026-05-31'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026).md
-backlink_count: 4
+backlink_count: 7
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)

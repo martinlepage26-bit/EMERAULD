@@ -1,9 +1,6 @@
 ---
 type: memory-register
 title: Events
-aliases:
-- Events
-- memory/agents/Events
 tags:
 - memory
 - agents
@@ -13,20 +10,22 @@ tags:
 - event
 - scan
 - emerauld
-- color-orange
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: memory
 canonical_path: memory/agents/Events.md
-backlink_count: 8
+backlink_count: 11
 backlinks:
-- '[[.planning/phases/01-lightrag-script-runtime-hardening/01-REVIEW-FIX]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[index]]'
+- '[[memory/agents/Antigravity]]'
 - '[[memory/agents/Blockers]]'
 - '[[memory/agents/Decisions]]'
+- '[[memory/agents/Gemini]]'
+- '[[memory/agents/Grok]]'
 - '[[memory/agents/Journal]]'
+- '[[memory/agents/Kimi]]'
 - '[[memory/agents/Learning]]'
 - '[[memory/agents/Vibe]]'
 ---

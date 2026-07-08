@@ -11,24 +11,29 @@ tags:
 - governance
 - method
 - areas
-- conceptual-vocabulary-praxis-politics-strategy-form-systems-md
 - praxis
 - poetics
 - grid
 - form
 - expression
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md
-backlink_count: 4
+backlink_count: 8
 backlinks:
 - '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems

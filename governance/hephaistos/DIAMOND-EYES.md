@@ -3,7 +3,6 @@ type: governance-doc
 title: 'Diamond-Eyes: Operating Principle for All Agents'
 aliases:
 - 'Diamond-Eyes: Operating Principle for All Agents'
-- governance/hephaistos/DIAMOND-EYES
 tags:
 - governance
 - ai
@@ -15,8 +14,8 @@ tags:
 - diamond
 - flourishing
 - correct
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Medium Article + ProductHunt Copy — Obsidian Agent Vault
-aliases:
-- artifacts/marketplace/promo/medium-producthunt
 tags:
 - artifact
 - agents
@@ -13,7 +11,6 @@ tags:
 - claude
 - start
 - obsidian
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

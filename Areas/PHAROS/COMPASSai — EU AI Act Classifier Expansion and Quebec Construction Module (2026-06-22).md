@@ -15,24 +15,29 @@ tags:
 - governance-software
 - classifier
 - areas
-- compassai-eu-ai-act-classifier-expansion-and-quebec-construction-module-2026-06-22-md
 - gpai
 - regulatory
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-06-22'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md
-backlink_count: 7
+backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Railway — COMPASSai Production Deployment Platform]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
+- '[[memory/agents/Gemini]]'
 - '[[memory/daily/2026-06-22]]'
-- '[[session-state]]'
 ---
 
 # COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)

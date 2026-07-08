@@ -2,9 +2,7 @@
 type: client
 title: Lavoie Construct
 aliases:
-- Lavoie Construct
 - Lavoie Excavation
-- memory/clients/Lavoie Construct
 tags:
 - client
 - hermes
@@ -16,27 +14,33 @@ tags:
 - lavoie
 - reprioritized
 - priority
-- color-green
 status: active
+priority: dispatch
 created: '2026-04-24'
 updated: '2026-06-26'
 vault_area: memory
 canonical_path: memory/clients/Lavoie Construct.md
-backlink_count: 8
+backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/CLIENT ACCOUNTS]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[memory]]'
 - '[[memory/clients/Lavoie]]'
 - '[[memory/daily/2026-05-10]]'
 - '[[templates/Invoice Template Pharos-AI]]'
-priority: dispatch
 payment_status: not documented
 entity_type: Client
 entity_id: groupe_lavoie_client
-entity_aliases: ['Lavoie Construct', 'SOS Plomberie', 'Excavations Lavoie', 'GVI', 'Clôtures Israel Concept', 'Lavoie']
+entity_aliases:
+- Lavoie Construct
+- SOS Plomberie
+- Excavations Lavoie
+- GVI
+- Clôtures Israel Concept
+- Lavoie
 entity_confidence: high
 ---
 

@@ -1,9 +1,6 @@
 ---
 type: skill
 title: gsd-add-todo
-aliases:
-- skills/gsd-add-todo
-- wiki/skills/gsd-add-todo
 tags:
 - skill
 - wiki
@@ -11,8 +8,8 @@ tags:
 - todo
 - codex
 - conversation
-- color-orange
 status: active
+domain: GSD Workflow
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -22,7 +19,6 @@ backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 skill_id: gsd-add-todo
-domain: GSD Workflow
 codex_path: /home/cerebrhoe/.codex/skills/gsd-add-todo/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

@@ -1,9 +1,6 @@
 ---
 type: skill
 title: gsd-reapply-patches
-aliases:
-- skills/gsd-reapply-patches
-- wiki/skills/gsd-reapply-patches
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - patches
 - modifications
 - codex
-- color-orange
 status: active
+domain: GSD Workflow
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 skill_id: gsd-reapply-patches
-domain: GSD Workflow
 codex_path: /home/cerebrhoe/.codex/skills/gsd-reapply-patches/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

@@ -4,7 +4,6 @@ title: lightrag_config — EMERAULD Shared Config Module
 aliases:
 - lightrag_config
 - lightrag_config.py
-- wiki/lightrag_config — EMERAULD Shared Config Module
 tags:
 - architecture
 - emerauld
@@ -12,21 +11,23 @@ tags:
 - vector-search
 - lightrag
 - wiki
-- lightrag-config-emerauld-shared-config-module-md
 - root
 - func
 - embedding
-- color-orange
 status: active
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: wiki
 canonical_path: wiki/lightrag_config — EMERAULD Shared Config Module.md
-backlink_count: 3
+backlink_count: 7
 backlinks:
 - '[[wiki/Architecture - EMERAULD Scripts - Knowledge Layers]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Overview]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 > For future Claude: `lightrag_config.py` is the single shared configuration module for all [[EMERAULD]] scripts. It provides vault root resolution, the local embedding model, the LLM function, and the `make_rag()` factory. Load this note before modifying any script in `scripts/` — every significant change to the vault's retrieval stack starts here.

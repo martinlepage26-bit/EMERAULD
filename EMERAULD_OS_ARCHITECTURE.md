@@ -1,25 +1,25 @@
 ---
 type: note
 title: EMERAULD Operating System
-aliases:
-- EMERAULD_OS_ARCHITECTURE
 tags:
 - note
-- emerauld-os-architecture-md
 - graph
 - bases
 - native
 - conveyor
 - belt
-- color-teal
 status: active
 created: '2026-06-26'
 updated: '2026-06-26'
 vault_area: EMERAULD_OS_ARCHITECTURE.md
 canonical_path: EMERAULD_OS_ARCHITECTURE.md
-backlink_count: 1
+backlink_count: 5
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/EMERAULD_OS_ARCHITECTURE.MD MOC]]'
+- '[[_vault/OVERHAUL-BASELINE-2026-07-08]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[graph/graph-map]]'
+- '[[graph/graph-schema]]'
 ---
 
 # EMERAULD Operating System

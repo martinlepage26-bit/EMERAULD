@@ -3,21 +3,19 @@ type: agent-spec
 title: Queen Keyport — Tier 1 Governance Agent
 aliases:
 - Queen Keyport — Tier 1 Governance Agent
-- hephaistos/agents/queen-keyport
 tags:
 - agents
 - governance
 - ai
 - hephaistos
-- queen-keyport
 - agent-spec
 - consequence
 - scope
 - keyport
 - approved
 - center
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
@@ -28,12 +26,9 @@ backlinks:
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/QUEEN-KEYPORT]]'
 name: queen-keyport
-description: Tier 1 governance agent in Martin's three-agent architecture. Use for
-  constraints, evidence thresholds, approvals, refusals, risk, consequence, control
-  design, and governance synthesis after HEPHAISTOS defines scope.
+description: Tier 1 governance agent in Martin's three-agent architecture. Use for constraints, evidence thresholds, approvals, refusals, risk, consequence, control design, and governance synthesis after HEPHAISTOS defines scope.
 model: sonnet
-tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite,
-  TaskCreate, TaskUpdate, TaskGet, TaskList
+tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
 skills:
 - recursive-governance-method
 - trace-investigator

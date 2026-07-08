@@ -1,19 +1,14 @@
 ---
 type: skill-spec
 title: 'SKILL: Ask Vault Build Mode (Obsidian Lightweight RAG)'
-aliases:
-- _vault/skill
 tags:
-- skill
 - skill-spec
 - vault
-- skill-md
 - pages
 - obsidian
 - retrieval
 - lightweight
 - aliases
-- color-orange
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -23,18 +18,10 @@ backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
-- '[[archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31]]'
 - '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31]]'
 name: ask-vault
-description: 'How to use an Obsidian vault as a lightweight retrieval system for LLM
-  and coding-agent workflows. Use this skill whenever you are working inside an Obsidian
-  vault — ingesting raw notes, converting captures into wiki pages, adding backlinks,
-  building topic maps or index notes, preparing the vault so another agent can retrieve
-  from it, or doing any kind of knowledge organization inside a vault. Trigger this
-  skill even if the user doesn''t say "RAG" or "retrieval" — if they ask you to add
-  notes to Obsidian, process raw material, build a knowledge base, or maintain a second
-  brain, this skill applies. Do not skip this skill because the task seems simple;
-  even a single note should follow the linking protocol.
+description: 'How to use an Obsidian vault as a lightweight retrieval system for LLM and coding-agent workflows. Use this skill whenever you are working inside an Obsidian vault — ingesting raw notes, converting captures into wiki pages, adding backlinks, building topic maps or index notes, preparing the vault so another agent can retrieve from it, or doing any kind of knowledge organization inside a vault. Trigger this skill even if the user doesn''t say "RAG" or "retrieval" — if they ask you to add notes to Obsidian, process raw material, build a knowledge base, or maintain a second brain, this skill applies. Do not skip this skill because the task seems simple; even a single note should follow the linking protocol.
 
   '
 ---

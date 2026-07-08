@@ -15,46 +15,51 @@ tags:
 - second-brain
 - wsl
 - areas
-- trism-giste-personal-ai-assistant-md
 - trism
 - giste
 - emerauld
 - finance
 - session
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Trismégiste — Personal AI Assistant.md
-backlink_count: 34
+backlink_count: 38
 backlinks:
-- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
-- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
-- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
-- '[[Resources/Epistemic Governance — Canonical Reference]]'
+- '[[Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
-- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
-- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
-- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
-- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 - '[[Areas/PHAROS/Trismégiste]]'
 - '[[Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
 - '[[Areas/PHAROS/Trismégiste — Operator State]]'
+- '[[Areas/Personal/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
+- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/memory]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Events]]'

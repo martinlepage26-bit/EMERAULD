@@ -6,7 +6,6 @@ aliases:
 - LOTUS theoretical genealogy
 - PhD-to-PHAROS lineage
 - Theoretical lineage of LOTUS
-- wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS
 tags:
 - lotus
 - theoretical-genealogy
@@ -19,35 +18,37 @@ tags:
 - authenticity
 - governmentality
 - wiki
-- master-bibliography-theoretical-genealogy-of-lotus-md
 - theoretical
 - lines
 - queer
-- color-teal
 status: active
 created: '2026-05-03'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS.md
-backlink_count: 18
+backlink_count: 22
 backlinks:
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
-- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
-- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
-- '[[wiki/LOTUS Model and Agency]]'
 - '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
 - '[[Areas/PHAROS/LOTUS Premium Spec]]'
-- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/LOTUS — Fisher King Project State]]'
 ---
 

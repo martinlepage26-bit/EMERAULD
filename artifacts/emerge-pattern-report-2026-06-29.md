@@ -1,36 +1,31 @@
 ---
 type: pattern-report
 title: Pattern Report — EMERAULD Vault — 2026-06-29
-aliases:
-- emerge-pattern-report-2026-06-29
-- artifacts/emerge-pattern-report-2026-06-29
 tags:
 - pattern-report
 - emerge
 - vault-analysis
 - obsidian-emerge
 - artifacts
-- emerge-pattern-report-2026-06-29-md
 - june
 - lavoie
 - suggested
 - pattern
 - compassai
-- color-blue
 status: active
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: artifacts
 canonical_path: artifacts/emerge-pattern-report-2026-06-29.md
 backlink_count: 7
 backlinks:
 - '[[Logs/2026-06-29]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[index]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Learning]]'
 - '[[memory/daily/2026-06-29]]'
-- '[[session-state]]'
 period: 2026-05-30 to 2026-06-29
 sources:
 - memory/daily/2026-06-22 to 2026-06-29

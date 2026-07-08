@@ -15,25 +15,28 @@ tags:
 - feedback
 - vegas
 - resources
-- addiction-by-design-sch-ll-2012-machine-gambling-and-the-zone-md
 - zone
 - therapeutics
-- color-orange
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone).md
-backlink_count: 8
+backlink_count: 11
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Mental illness, addiction, and AI psychosis]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)

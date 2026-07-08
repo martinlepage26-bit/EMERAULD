@@ -1,28 +1,22 @@
 ---
 type: hub
 title: Workflows Hub
-aliases:
-- Workflows Hub
-- wiki/Workflows Hub
 tags:
 - hub
 - workflows
 - wiki
-- workflows-hub-md
 - template
 - templates
 - weekly
 - jobs
 - tracker
-- color-lime
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Workflows Hub.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 ---

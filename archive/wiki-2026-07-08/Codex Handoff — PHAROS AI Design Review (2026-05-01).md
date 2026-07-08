@@ -11,13 +11,13 @@ tags:
 - handoff
 - '2026-05-01'
 - archive
-- codex-handoff-pharos-ai-design-review-2026-05-01-md
 - color
 - articles
 - pages
 - subtle
 - print
-- color-orange
+- wiki
+- wiki-2026-07-08
 status: deployed-pending-custom-domain-verification
 created: 2026-05-01T16:10
 updated: '2026-06-26'
@@ -26,14 +26,14 @@ canonical_path: archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Revie
 backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
-- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
-- '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
-- '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS SURFACE]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
+- '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'
 - '[[memory/daily/2026-05-01]]'

@@ -1,21 +1,17 @@
 ---
 type: wiki
 title: Wiki Note
-aliases:
-- templates/Wiki Note
 tags:
 - wiki
 - templates
-- wiki-note-md
 - ideas
 - projects
 - contextual
 - inline
 - ongoing
-- color-lime
 status: active
 created: '{{date}}'
-updated: '2026-06-26'
+updated: '{{date}}'
 vault_area: templates
 canonical_path: templates/Wiki Note.md
 backlink_count: 3

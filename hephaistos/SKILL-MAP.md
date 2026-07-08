@@ -1,19 +1,16 @@
 ---
 type: skill-spec
 title: HEPHAISTOS Skill Map — Registry and Classification (Pointer)
-aliases:
-- hephaistos/SKILL-MAP
 tags:
 - skill
 - ai
 - hephaistos
 - skill-spec
-- skill-map-md
 - invocable
 - strictly
 - newer
-- color-lime
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

@@ -1,3 +1,31 @@
+---
+type: note
+title: Memory
+tags:
+- note
+status: active
+created: '2026-06-21'
+updated: '2026-07-08'
+vault_area: CLAUDE.md
+canonical_path: CLAUDE.md
+backlink_count: 14
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
+- '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home]]'
+- '[[governance/global/AGENTS]]'
+- '[[governance/governance-index]]'
+- '[[governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION]]'
+- '[[governance/hephaistos/trismegiste-to-operator]]'
+- '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
+- '[[index]]'
+---
+
 # Memory
 
 ## Me

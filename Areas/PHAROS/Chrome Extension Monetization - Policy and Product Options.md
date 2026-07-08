@@ -12,23 +12,27 @@ tags:
 - product
 - policy
 - areas
-- chrome-extension-monetization-policy-and-product-options-md
 - paid
 - payment
 - affiliate
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-23'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Chrome Extension Monetization - Policy and Product Options.md
-backlink_count: 5
+backlink_count: 8
 backlinks:
-- '[[.graph_store/graph_report]]'
-- '[[wiki/Home]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Home]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Chrome Extension Monetization - Policy and Product Options

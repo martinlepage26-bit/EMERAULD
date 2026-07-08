@@ -1,9 +1,6 @@
 ---
 type: skill
 title: skills-dedup
-aliases:
-- skills/skills-dedup
-- wiki/skills/skills-dedup
 tags:
 - skill
 - wiki
@@ -11,19 +8,18 @@ tags:
 - dedup
 - deleti
 - codex
-- color-orange
 status: active
+domain: Vault and Knowledge Graph
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/skills/skills-dedup.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
 skill_id: skills-dedup
-domain: Vault and Knowledge Graph
 codex_path: /home/cerebrhoe/.codex/skills/skills-dedup/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

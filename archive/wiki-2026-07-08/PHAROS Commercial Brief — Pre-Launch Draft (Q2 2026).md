@@ -11,27 +11,28 @@ tags:
 - version-genealogy
 - compliance
 - archive
-- pharos-commercial-brief-pre-launch-draft-q2-2026-md
 - launch
 - days
 - inspector
 - deployed
 - brief
-- color-lime
+- wiki
+- wiki-2026-07-08
 status: archived-draft
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026).md
-backlink_count: 7
+backlink_count: 8
 backlinks:
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[Areas/PHAROS/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)

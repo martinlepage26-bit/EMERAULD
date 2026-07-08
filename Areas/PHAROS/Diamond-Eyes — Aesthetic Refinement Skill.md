@@ -6,64 +6,68 @@ aliases:
 tags:
 - areas
 - skill
-- diamond-eyes-aesthetic-refinement-skill-md
 - diamond
 - eyes
 - refinement
 - beauty
 - aesthetic
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill.md
-backlink_count: 47
+backlink_count: 50
 backlinks:
-- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Infrastructure Stack]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/PHAROS/Anti-Charm]]'
-- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
-- '[[wiki/Care, Ethics, and Governance]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
-- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[Areas/PHAROS/Consented Frame — Ethics and Wisdom Gate]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[Areas/PHAROS/Inner Mind Eye]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
+- '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Home]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
-- '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
-- '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
-- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/inner-mind-eye]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[governance/governance-index]]'
 - '[[memory/daily/2026-04-25]]'
-- '[[raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X]]'
 - '[[wiki/skills/brand-identity-system]]'
 - '[[wiki/skills/novelist]]'
 - '[[wiki/skills/writing-skills]]'

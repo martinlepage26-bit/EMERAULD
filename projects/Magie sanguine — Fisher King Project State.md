@@ -1,20 +1,16 @@
 ---
 type: project
 title: Magie sanguine — Fisher King Project State
-aliases:
-- projects/Magie sanguine — Fisher King Project State
 tags:
 - project
 - fisher-king
 - writing
 - archive-recovery
 - projects
-- magie-sanguine-fisher-king-project-state-md
 - sanguine
 - drive
 - magie
 - dormant
-- color-green
 status: on-ice
 created: '2026-05-07'
 updated: '2026-06-26'

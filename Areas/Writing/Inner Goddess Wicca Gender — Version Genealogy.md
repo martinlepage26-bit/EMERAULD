@@ -1,30 +1,28 @@
 ---
 type: version-genealogy
 title: Inner Goddess Wicca Gender — Version Genealogy
-aliases:
-- Inner Goddess Wicca Gender — Version Genealogy
 tags:
 - wicca
 - version-genealogy
 - areas
-- inner-goddess-wicca-gender-version-genealogy-md
 - goddess
 - inner
 - ritualities
 - normativity
 - wiccan
-- color-teal
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Home]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
 ---
 
 # Inner Goddess Wicca Gender — Version Genealogy

@@ -12,37 +12,42 @@ tags:
 - epistemics
 - model-behavior
 - areas
-- narrative-capture-failure-taxonomy-substituting-theory-for-contact-md
 - capture
 - imagined
 - failure
 - volkswagen
 - model
-- color-violet
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact.md
-backlink_count: 18
+backlink_count: 22
 backlinks:
-- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Governance Failure Cases]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
-- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
+- '[[Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
-- '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[Areas/PHAROS/RIA-CODEX — System Audit Protocol]]'
 - '[[Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/agents/Learning]]'
 ---
 

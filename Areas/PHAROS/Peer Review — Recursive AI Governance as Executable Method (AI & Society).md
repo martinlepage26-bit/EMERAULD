@@ -13,25 +13,29 @@ tags:
 - ai-governance
 - ai-society
 - areas
-- peer-review-recursive-ai-governance-as-executable-method-ai-society-md
 - society
 - internalization
 - editorial
 - contribution
 - paper
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society).md
-backlink_count: 6
+backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/skills/peer-review-workflow]]'
 ---
 

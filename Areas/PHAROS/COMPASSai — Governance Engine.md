@@ -11,44 +11,49 @@ tags:
 - governance-software
 - compassai
 - areas
-- compassai-governance-engine-md
 - classifier
 - module
 - aurora
 - construction
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/COMPASSai — Governance Engine.md
-backlink_count: 25
+backlink_count: 30
 backlinks:
-- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
-- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
-- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
-- '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/PHAROS]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'
 - '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
 - '[[Areas/PHAROS/Railway — COMPASSai Production Deployment Platform]]'
-- '[[wiki/Research Hub]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Research Hub]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
+- '[[memory/agents/Grok]]'
 - '[[memory/agents/Vibe]]'
 - '[[memory/daily/2026-06-22]]'
 - '[[projects/AurorA — Fisher King Project State]]'
 - '[[projects/COMPASSai — Fisher King Project State]]'
-- '[[session-state]]'
 ---
 
 # COMPASSai — Governance Engine

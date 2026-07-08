@@ -13,35 +13,40 @@ tags:
 - recursive-validation
 - frame-capture
 - areas
-- ai-iterative-loop-frame-capture-and-recursive-validation-failure-md
 - output
 - economics
 - coherent
 - frame
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md
-backlink_count: 16
+backlink_count: 20
 backlinks:
 - '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
-- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Machine Limitation]]'
 - '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal]]'
 - '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
-- '[[Areas/Writing/The Compulsion to Complete — AI as Gap-Closer]]'
-- '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[Areas/Writing/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # AI Iterative Loop — Frame Capture and Recursive Validation Failure

@@ -14,29 +14,34 @@ tags:
 - launch
 - audience-strategy
 - areas
-- elemental-agents-productization-plan-2026-05-24-md
 - elemental
 - agents
 - upsell
 - assets
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-24'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24).md
-backlink_count: 10
+backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
-- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/elemental-agents/ttrpg-repack/BRAND-DECISION]]'
-- '[[session-state]]'
 ---
 
 # Elemental Agents — Productization Plan (2026-05-24)

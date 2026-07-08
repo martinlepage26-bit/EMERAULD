@@ -13,27 +13,32 @@ tags:
 - ai-governance
 - audit
 - areas
-- stacklight-owner-explainer-md
 - proof
 - product
 - receipt
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-30'
-updated: '2026-06-26'
+updated: '2026-06-30'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Stacklight-owner-explainer.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-06-30]]'
 - '[[memory/daily/2026-07-01]]'
-- '[[session-state]]'
 source_path: /home/martin/governanceframework/README.md
 ---
 

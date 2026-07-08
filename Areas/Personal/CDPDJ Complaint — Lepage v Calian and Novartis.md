@@ -1,52 +1,55 @@
 ---
 type: wiki
 title: CDPDJ Complaint — Lepage v Calian and Novartis
-aliases:
-- CDPDJ Complaint — Lepage v Calian and Novartis
 tags:
 - areas
 - ai
 - legal
-- cdpdj-complaint-lepage-v-calian-and-novartis-md
 - termination
 - employer
 - calian
 - novartis
 - employment
-- color-purple
+- wiki
+- personal
 status: active
+domain: personal
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis.md
-backlink_count: 26
+backlink_count: 30
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
-- '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
-- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
-- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[Areas/Writing/Governance by Denial]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
+- '[[Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Writing/Governance by Denial]]'
 - '[[wiki/Home]]'
-- '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
-- '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model]]'
+- '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/September 2024 Research Retrospective]]'
-- '[[Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # CDPDJ Complaint — Lepage v Calian and Novartis

@@ -5,7 +5,6 @@ aliases:
 - Witches' Road corpus doctrine
 - charge-persistence recomposition
 - cartographer and traveler
-- wiki/Martin Walks the Witches' Road — Corpus as Charge-Persistence
 tags:
 - corpus
 - methodology
@@ -14,50 +13,52 @@ tags:
 - charge-persistence
 - recomposition
 - wiki
-- martin-walks-the-witches-road-corpus-as-charge-persistence-md
 - charge
 - road
 - witches
 - sort
 - agency
-- color-purple
 status: active
 created: '2026-05-05'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Martin Walks the Witches' Road — Corpus as Charge-Persistence.md
-backlink_count: 32
+backlink_count: 36
 backlinks:
-- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
+- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
-- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
-- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
-- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
 - '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[Areas/Writing/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
-- '[[Resources/Literary References in Common English — Allusion and Idiom Guide]]'
 - '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
-- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[Areas/Writing/The Ballad of the Witches'' Road — Analysis]]'
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[Resources/Literary References in Common English — Allusion and Idiom Guide]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/elemental-agents/ttrpg-repack/BRAND-DECISION]]'
 - '[[assets/elemental-agents/ttrpg-repack/manuscript/_audit_dimension-F-2026-05-24]]'
 ---

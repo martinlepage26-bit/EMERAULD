@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Marketplace Manifest
-aliases:
-- artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-MANIFEST
 tags:
 - artifact
 - agents
@@ -12,7 +10,6 @@ tags:
 - readme
 - obsidian
 - templates
-- color-orange
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

@@ -7,23 +7,28 @@ aliases:
 - AI Governance Freelance Offer
 tags:
 - areas
-- pharos-ai-governance-service-offer-architecture-and-outreach-templates-md
 - offer
 - businesses
 - revenue
 - consultants
 - agencies
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-31'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates.md
-backlink_count: 3
+backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # PHAROS AI Governance Service — Offer Architecture and Outreach Templates

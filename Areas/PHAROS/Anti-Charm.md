@@ -1,35 +1,39 @@
 ---
 type: wiki
 title: Anti-Charm
-aliases:
-- Anti-Charm
 tags:
 - ethics
 - governance
 - clarity
 - analysis
 - areas
-- anti-charm-md
 - charm
 - anti
 - validates
 - care
 - discipline
-- color-pink
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Anti-Charm.md
-backlink_count: 7
+backlink_count: 12
 backlinks:
-- '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Inner Mind Eye]]'
-- '[[wiki/Philosopher]]'
+- '[[Areas/PHAROS/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure]]'
 - '[[Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
+- '[[wiki/Philosopher]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Anti-Charm

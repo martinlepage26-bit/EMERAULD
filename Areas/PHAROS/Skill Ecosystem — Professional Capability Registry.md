@@ -12,44 +12,45 @@ tags:
 - personal-skills
 - professional-development
 - areas
-- skill-ecosystem-professional-capability-registry-md
 - skill
 - authored
 - archive
 - burnout
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Skill Ecosystem — Professional Capability Registry.md
-backlink_count: 238
+backlink_count: 242
 backlinks:
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
+- '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Trace Investigator]]'
+- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
-- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 - '[[wiki/Skill Domain — Design and UX]]'
 - '[[wiki/Skill Domain — Development and Testing]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
-- '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[wiki/Skill Domain — Security and Compliance]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
-- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
-- '[[Areas/PHAROS/Trace Investigator]]'
 - '[[wiki/Vault Graph Hygiene — Content Title Normalization Skill]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/brief-to-tasks]]'
@@ -58,6 +59,10 @@ backlinks:
 - '[[wiki/archive/repo-logo-generator]]'
 - '[[archive/session-state/session-state-002]]'
 - '[[wiki/archive/ux-researcher-designer]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/skills/agent-creator]]'
 - '[[wiki/skills/agent-manager-skill]]'
 - '[[wiki/skills/agent-memory-mcp]]'

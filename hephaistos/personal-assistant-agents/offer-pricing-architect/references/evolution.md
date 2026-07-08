@@ -1,9 +1,6 @@
 ---
 type: note
 title: Evolution
-aliases:
-- personal-assistant-agents/offer-pricing-architect/references/evolution
-- hephaistos/personal-assistant-agents/offer-pricing-architect/references/evolution
 tags:
 - note
 - agents
@@ -15,8 +12,8 @@ tags:
 - confirm
 - heuristics
 - revision
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

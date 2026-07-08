@@ -1,9 +1,6 @@
 ---
 type: memory-register
 title: Journal
-aliases:
-- Journal
-- memory/agents/Journal
 tags:
 - memory
 - agents
@@ -12,17 +9,20 @@ tags:
 - claude
 - entries
 - welcome
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: memory
 canonical_path: memory/agents/Journal.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[index]]'
+- '[[memory/agents/Antigravity]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Events]]'
+- '[[memory/agents/Gemini]]'
+- '[[memory/agents/Grok]]'
+- '[[memory/agents/Kimi]]'
 - '[[memory/agents/Learning]]'
 - '[[memory/agents/Vibe]]'
 ---

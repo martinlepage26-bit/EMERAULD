@@ -12,14 +12,13 @@ tags:
 - scholarly
 - journal
 - areas
-- pharos-scholarly-publication-track-md
 - springer
 - society
 - publication
 - track
 - governance
-- color-purple
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
@@ -27,51 +26,51 @@ canonical_path: Areas/PHAROS/PHAROS Scholarly Publication Track.md
 backlink_count: 46
 backlinks:
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
-- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
-- '[[archive/wiki-2026-07-08/For Her Alone to Wield — Cover Letter (2026-05-16)]]'
-- '[[archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
-- '[[wiki/Home]]'
-- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
-- '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[Areas/PHAROS/PHAROS]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Method — Core Framework]]'
 - '[[Areas/PHAROS/PHAROS Product Stack]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
-- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
 - '[[Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
-- '[[Areas/Writing/Per-Paper Project Structure — Folder and File Architecture]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
+- '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Per-Paper Project Structure — Folder and File Architecture]]'
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
-- '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Version Genealogy System]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Research Hub]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/For Her Alone to Wield — Cover Letter (2026-05-16)]]'
+- '[[archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[memory]]'
 - '[[memory/agents/Vibe]]'
 - '[[memory/daily/2026-05-10]]'
 - '[[projects/Papers — Fisher King Project State]]'
-- '[[session-state]]'
 ---
 
 # PHAROS Scholarly Publication Track

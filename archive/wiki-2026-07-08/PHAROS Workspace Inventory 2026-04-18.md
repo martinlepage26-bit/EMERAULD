@@ -1,8 +1,6 @@
 ---
 type: wiki
 title: PHAROS Workspace Inventory 2026-04-18
-aliases:
-- PHAROS Workspace Inventory 2026-04-18
 tags:
 - project-management
 - inventory
@@ -10,26 +8,30 @@ tags:
 - shipping
 - workspace
 - archive
-- pharos-workspace-inventory-2026-04-18-md
 - ship
 - autoresearchclaw
 - root
 - secrets
-- color-purple
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18.md
-backlink_count: 13
+backlink_count: 17
 backlinks:
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-06-22]]'
 - '[[memory/daily/2026-06-23]]'
 - '[[memory/daily/2026-06-24]]'

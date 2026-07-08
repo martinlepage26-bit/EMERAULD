@@ -12,26 +12,30 @@ tags:
 - spiritual-system
 - early-writing
 - areas
-- book-of-beliefs-and-theories-martin-s-magical-system-2000s-md
 - demon
 - heart
 - demons
 - demonic
 - particle
-- color-violet
+- wiki
 status: active
+domain: personal
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s).md
-backlink_count: 6
+backlink_count: 10
 backlinks:
-- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[Areas/Writing/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Book of Beliefs and Theories — Martin's Magical System (2000s)

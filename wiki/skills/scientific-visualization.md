@@ -1,9 +1,6 @@
 ---
 type: skill
 title: scientific-visualization
-aliases:
-- skills/scientific-visualization
-- wiki/skills/scientific-visualization
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - overclaim
 - explanations
 - slides
-- color-blue
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -22,8 +18,8 @@ canonical_path: wiki/skills/scientific-visualization.md
 backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[wiki/skills/slides]]'
 skill_id: scientific-visualization
 scope: output

@@ -1,40 +1,43 @@
 ---
 type: wiki
 title: The Palace Under Root — Allegory and the Keyport Novel
-aliases:
-- The Palace Under Root — Allegory and the Keyport Novel
 tags:
 - areas
 - novel
-- the-palace-under-root-allegory-and-the-keyport-novel-md
 - court
 - crystal
 - palace
 - misclassification
-- color-green
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel.md
-backlink_count: 17
+backlink_count: 21
 backlinks:
-- '[[Areas/Writing/Alchemy of the Wound — Novel]]'
-- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/Writing/Alchemy of the Wound — Novel]]'
+- '[[Areas/Writing/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Le sang qui porte ton nom — Novel]]'
 - '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[Areas/Writing/The Returning Light — Monograph]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Home]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

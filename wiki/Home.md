@@ -3,25 +3,23 @@ type: moc
 title: Home — EMERAULD
 aliases:
 - Home — EMERAULD
-- wiki/Home
 tags:
 - moc
 - wiki
-- home-md
 - genealogy
 - version
 - novel
 - queer
 - magic
-- color-purple
 status: active
+priority: high
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Home.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/Wiki MOC]]'
 ---
 
 # Home — EMERAULD

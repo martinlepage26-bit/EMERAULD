@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: How I Built an AI Second Brain Without RAG
-aliases:
-- artifacts/marketplace/promo/hashnode-iter18-no-rag
 tags:
 - artifact
 - ai
@@ -13,7 +11,6 @@ tags:
 - native
 - vector
 - retrieval
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

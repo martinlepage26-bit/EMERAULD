@@ -4,34 +4,34 @@ title: Recursive Governance Memo — EMERAULD Control Packet (2026-05-12)
 aliases:
 - Recursive Governance Memo 2026-05-12
 - EMERAULD Control Packet Memo
-- wiki/Recursive Governance Memo — EMERAULD Control Packet (2026-05-12)
 tags:
 - recursive-governance
 - control-design
 - evidence-hierarchy
 - workflow-governance
 - wiki
-- recursive-governance-memo-emerauld-control-packet-2026-05-12-md
 - store
 - perplexity
 - bulk
 - control
 - json
-- color-purple
 status: active
 created: '2026-05-12'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Recursive Governance Memo — EMERAULD Control Packet (2026-05-12).md
-backlink_count: 8
+backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/agents/Decisions]]'
-- '[[raw/Clippings/AI Agent Operations and Governance Manager]]'
 - '[[templates/Recursive Governance Packet Header]]'
 ---
 

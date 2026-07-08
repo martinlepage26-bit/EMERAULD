@@ -1,8 +1,6 @@
 ---
 type: handoff
 title: CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle
-aliases:
-- CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle
 tags:
 - handoff
 - codex
@@ -10,13 +8,13 @@ tags:
 - keystone
 - vault
 - archive
-- codex-handoff-2026-05-03-trism-giste-keystone-cycle-md
 - trism
 - giste
 - operator
 - session
-- color-orange
+- wiki-2026-07-08
 status: active
+priority: high
 created: '2026-05-03'
 updated: '2026-06-26'
 vault_area: archive
@@ -25,15 +23,14 @@ backlink_count: 6
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Trismégiste]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 from: Trismégiste (Claude Code, EMERAULD vault agent)
 to: Codex
 session_close: '2026-05-03'
 operator: Martin Lepage, PhD
-priority: high
 ---
 
 # CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle

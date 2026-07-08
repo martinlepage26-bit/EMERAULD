@@ -7,25 +7,29 @@ aliases:
 - Literature Idioms Reference
 tags:
 - resources
-- literary-references-in-common-english-allusion-and-idiom-guide-md
 - idioms
 - literary
 - craft
 - secularized
 - pill
-- color-green
+- wiki
 status: active
+domain: reference
 created: '2026-05-31'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Literary References in Common English — Allusion and Idiom Guide.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
-- '[[Resources/Literary References — Craft Guide]]'
 - '[[Areas/Writing/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[Resources/Literary References — Craft Guide]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Literary References in Common English — Allusion and Idiom Guide

@@ -1,9 +1,6 @@
 ---
 type: skill
 title: agent-creator
-aliases:
-- skills/agent-creator
-- wiki/skills/agent-creator
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - agentify
 - agent
 - codex
-- color-orange
 status: active
+domain: Agent Architecture and Development
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
 skill_id: agent-creator
-domain: Agent Architecture and Development
 codex_path: /home/cerebrhoe/.codex/skills/agent-creator/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

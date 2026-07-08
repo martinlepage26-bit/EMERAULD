@@ -14,30 +14,33 @@ tags:
 - data-mining
 - disparate-impact
 - resources
-- big-data-s-disparate-impact-barocas-selbst-2016-title-vii-data-mining-md
 - disparate
 - datas
 - impact
 - mining
 - proxies
-- color-blue
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining).md
-backlink_count: 10
+backlink_count: 13
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[Resources/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Resources/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)]]'
 - '[[Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
 - '[[Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)

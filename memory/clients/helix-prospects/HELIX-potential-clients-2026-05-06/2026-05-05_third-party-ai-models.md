@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Third-party AI models
-aliases:
-- memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_third-party-ai-models
 tags:
 - raw-source
 - memory
@@ -12,16 +10,14 @@ tags:
 - models
 - bedrock
 - amazon
-- color-green
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_third-party-ai-models.md
-backlink_count: 2
+backlink_count: 1
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[raw/Clippings/Reddit Data API Wiki]]'
 source_url: https://docs.coveo.com/en/pb7d0331/
 date: '2026-05-05'
 scraped: '2026-05-05'

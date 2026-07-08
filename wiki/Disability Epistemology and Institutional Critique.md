@@ -3,7 +3,6 @@ type: map
 title: Disability Epistemology and Institutional Critique
 aliases:
 - TOPIC — Disability Epistemology and Institutional Critique
-- wiki/Disability Epistemology and Institutional Critique
 tags:
 - index
 - map
@@ -14,45 +13,42 @@ tags:
 - institutional
 - governance
 - wiki
-- disability-epistemology-and-institutional-critique-md
 - fluency
 - disabled
 - glitch
-- color-purple
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Disability Epistemology and Institutional Critique.md
-backlink_count: 27
+backlink_count: 26
 backlinks:
-- '[[Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[Areas/PHAROS/Machine Limitation]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
+- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
+- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Legal and Institutional Cases]]'
-- '[[Areas/PHAROS/Machine Limitation]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
-- '[[Areas/Writing/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[memory]]'
 - '[[memory/agents/Events]]'
 - '[[memory/agents/Journal]]'
 - '[[memory/daily/2026-05-02]]'
-- '[[raw/Clippings/AI Recruiting Has an Accessibility Problem]]'
 ---
 
 # Disability Epistemology and Institutional Critique

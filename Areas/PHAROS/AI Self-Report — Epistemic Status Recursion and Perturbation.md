@@ -13,33 +13,38 @@ tags:
 - self-polygraph
 - governance
 - areas
-- ai-self-report-epistemic-status-recursion-and-perturbation-md
 - self
 - polygraph
 - continuity
 - apparent
-- color-teal
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation.md
-backlink_count: 14
+backlink_count: 18
 backlinks:
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[Areas/PHAROS/Machine Limitation]]'
-- '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
-- '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
-- '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
+- '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # AI Self-Report — Epistemic Status Recursion and Perturbation

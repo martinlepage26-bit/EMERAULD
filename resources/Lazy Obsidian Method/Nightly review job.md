@@ -1,8 +1,6 @@
 ---
 type: workflow
 title: Nightly review job
-aliases:
-- resources/Lazy Obsidian Method/Nightly review job
 tags:
 - review
 - nightly
@@ -13,7 +11,6 @@ tags:
 - refresh
 - logs
 - priority
-- color-lime
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'

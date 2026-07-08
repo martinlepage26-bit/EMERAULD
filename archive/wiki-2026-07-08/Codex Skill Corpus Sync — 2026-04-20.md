@@ -12,30 +12,34 @@ tags:
 - infrastructure
 - peer-channel
 - archive
-- codex-skill-corpus-sync-2026-04-20-md
 - claude
 - channel
 - peer
 - sync
-- color-orange
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-04-20'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20.md
-backlink_count: 12
+backlink_count: 16
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[Areas/PHAROS/Consented Frame — Ethics and Wisdom Gate]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/agents/Journal]]'
 ---
 

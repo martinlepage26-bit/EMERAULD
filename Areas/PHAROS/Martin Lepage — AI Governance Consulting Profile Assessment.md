@@ -1,38 +1,41 @@
 ---
 type: wiki
 title: Martin Lepage — AI Governance Consulting Profile Assessment
-aliases:
-- Martin Lepage — AI Governance Consulting Profile Assessment
 tags:
 - areas
 - governance
 - ai
-- martin-lepage-ai-governance-consulting-profile-assessment-md
 - clinical
 - lepage
 - profile
 - consulting
 - martin
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment.md
-backlink_count: 12
+backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/Strategic Storytelling in the AI Economy]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[Areas/PHAROS/Strategic Storytelling in the AI Economy]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/agents/Decisions]]'
-- '[[session-state]]'
 ---
 
 # Martin Lepage — AI Governance Consulting Profile Assessment

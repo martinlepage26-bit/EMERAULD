@@ -15,24 +15,27 @@ tags:
 - methodology
 - categories
 - resources
-- magic-between-europe-and-india-f-rek-hor-k-2021-mantras-spells-prayers-md
 - mantras
 - european
 - worldly
-- color-violet
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers).md
-backlink_count: 6
+backlink_count: 9
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)

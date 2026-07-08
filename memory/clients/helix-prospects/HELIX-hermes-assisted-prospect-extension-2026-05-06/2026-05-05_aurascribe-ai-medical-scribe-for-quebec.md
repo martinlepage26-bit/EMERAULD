@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: AuraScribe | AI Medical Scribe for Quebec
-aliases:
-- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aurascribe-ai-medical-scribe-for-quebec
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - residency
 - aurascribe
 - secure
-- color-green
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

@@ -1,31 +1,34 @@
 ---
 type: wiki
 title: Prologue I Saw Willow Rise — Legitimacy Machines Opening
-aliases:
-- Prologue I Saw Willow Rise — Legitimacy Machines Opening
 tags:
 - areas
-- prologue-i-saw-willow-rise-legitimacy-machines-opening-md
 - prologue
 - willow
 - dream
 - ritual
 - machines
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Why Your AI Agent Needs a Knowledge Graph, Not a Folder Structure
-aliases:
-- artifacts/marketplace/promo/hashnode-iter22-graph-vs-folders
 tags:
 - artifact
 - ai
@@ -14,7 +12,6 @@ tags:
 - authentication
 - oauth
 - graph
-- color-teal
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

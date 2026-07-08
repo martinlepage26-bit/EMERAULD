@@ -3,7 +3,6 @@ type: governance-doc
 title: QUEEN-KEYPORT_OPERATIONS — Decision Model, Workflow, and Controls
 aliases:
 - QUEEN-KEYPORT_OPERATIONS — Decision Model, Workflow, and Controls
-- governance/hephaistos/QUEEN-KEYPORT_OPERATIONS
 tags:
 - governance
 - ai
@@ -15,8 +14,8 @@ tags:
 - scope
 - approve
 - constraints
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

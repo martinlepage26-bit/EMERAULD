@@ -13,36 +13,40 @@ tags:
 - accountability
 - auditing
 - areas
-- ai-ethics-literature-contestable-governance-artifacts-md
 - contestable
 - attractive
 - ethics
 - manifesto
 - literature
-- color-pink
+- wiki
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts.md
-backlink_count: 16
+backlink_count: 20
 backlinks:
 - '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
 - '[[Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
-- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
+- '[[Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Resources/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
-- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # AI Ethics Literature — Contestable Governance Artifacts

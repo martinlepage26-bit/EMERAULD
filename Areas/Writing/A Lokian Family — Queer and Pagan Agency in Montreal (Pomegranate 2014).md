@@ -13,23 +13,24 @@ tags:
 - ethnography
 - montreal
 - areas
-- a-lokian-family-queer-and-pagan-agency-in-montreal-pomegranate-2014-md
 - pagan
 - lokian
 - trickster
-- color-teal
+- wiki
+- writing
 status: stub
+domain: writing
 created: '2026-05-05'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014).md
 backlink_count: 6
 backlinks:
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

@@ -1,16 +1,20 @@
 ---
 type: artifact
-aliases:
-- stale-projects-2026-07-05
+title: Stale Project-Scope Notes — 2026-07-05
 tags:
 - memory
 - stale-scan
 - artifact
+- artifacts
 status: active
 created: '2026-07-05'
 updated: '2026-07-05'
 vault_area: artifacts
 canonical_path: artifacts/stale-projects-2026-07-05.md
+backlink_count: 2
+backlinks:
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/daily/2026-07-05]]'
 ---
 
 # Stale Project-Scope Notes — 2026-07-05

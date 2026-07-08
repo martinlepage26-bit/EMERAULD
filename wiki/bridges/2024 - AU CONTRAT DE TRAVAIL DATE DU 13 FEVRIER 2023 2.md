@@ -3,7 +3,6 @@ type: bridge-note
 title: AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023
 aliases:
 - AU CONTRAT DE TRAVAIL DATÉ DU 13 FÉVRIER 2023
-- wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2
 tags:
 - bridge
 - ai
@@ -15,21 +14,17 @@ tags:
 - actuel
 - suit
 - libelle
-- color-teal
 status: recovered
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: wiki
-canonical_path: wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023
-  2.md
-backlink_count: 3
+canonical_path: wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2.md
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 year: 2024
-source_file: 2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf
-  - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt
+source_file: 2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt
 format: txt
 ---
 

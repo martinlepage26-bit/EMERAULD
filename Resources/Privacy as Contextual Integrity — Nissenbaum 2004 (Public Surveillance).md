@@ -12,30 +12,33 @@ tags:
 - surveillance
 - contextual-integrity
 - resources
-- privacy-as-contextual-integrity-nissenbaum-2004-public-surveillance-md
 - contextual
 - norms
 - integrity
 - flows
-- color-purple
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance).md
-backlink_count: 11
+backlink_count: 14
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[Resources/Reddit Data API — Access Terms and Rate Limits]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)]]'
+- '[[Resources/Reddit Data API — Access Terms and Rate Limits]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[Resources/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)

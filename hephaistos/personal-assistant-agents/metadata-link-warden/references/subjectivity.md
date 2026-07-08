@@ -1,9 +1,6 @@
 ---
 type: note
 title: Subjectivity
-aliases:
-- personal-assistant-agents/metadata-link-warden/references/subjectivity
-- hephaistos/personal-assistant-agents/metadata-link-warden/references/subjectivity
 tags:
 - note
 - agents
@@ -15,8 +12,8 @@ tags:
 - heart
 - markers
 - backlinks
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

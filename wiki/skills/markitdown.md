@@ -1,20 +1,16 @@
 ---
 type: skill
 title: markitdown
-aliases:
-- skills/markitdown
-- wiki/skills/markitdown
 tags:
 - skill
 - wiki
 - skills
-- markitdown
 - convert
 - webpage
 - excel
 - epub
-- color-teal
 status: active
+domain: AI LLM and Tools
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: markitdown
-domain: AI LLM and Tools
 codex_path: /home/cerebrhoe/.codex/skills/markitdown/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

@@ -7,25 +7,31 @@ aliases:
 - Freelance Offer Prompts
 tags:
 - areas
-- service-offer-prompts-gpt-assisted-revenue-design-templates-md
 - offer
 - prompt
 - verbosity
 - outreach
 - revenue
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-31'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates.md
-backlink_count: 5
+backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
+- '[[Areas/PHAROS/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time]]'
 - '[[Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Service Offer Prompts — GPT-Assisted Revenue Design Templates

@@ -15,25 +15,27 @@ tags:
 - critical-race
 - critical-whiteness
 - resources
-- how-french-canadians-became-white-folks-scott-2016-race-in-quebec-md
 - racial
-- article
 - white
-- color-red
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec).md
-backlink_count: 7
+backlink_count: 10
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Queer Theory Foundations]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # How French Canadians became White Folks — Scott 2016 (Race in Quebec)

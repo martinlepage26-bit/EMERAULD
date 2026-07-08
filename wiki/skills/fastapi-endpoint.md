@@ -1,9 +1,6 @@
 ---
 type: skill
 title: fastapi-endpoint
-aliases:
-- skills/fastapi-endpoint
-- wiki/skills/fastapi-endpoint
 tags:
 - skill
 - wiki
@@ -13,8 +10,8 @@ tags:
 - sqlalchemy
 - pydantic
 - pagination
-- color-teal
 status: active
+domain: Deployment and Infrastructure
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: fastapi-endpoint
-domain: Deployment and Infrastructure
 codex_path: /home/cerebrhoe/.codex/skills/fastapi-endpoint/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

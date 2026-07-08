@@ -1,27 +1,24 @@
 ---
 type: hub
 title: Personal OS
-aliases:
-- Personal OS
 tags:
 - hub
 - os
 - areas
-- personal-os-md
 - lazy
 - priorities
 - today
 - operating
 - obsidian
-- color-purple
+- personal
 status: active
+domain: personal
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Personal/Personal OS.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
 ---

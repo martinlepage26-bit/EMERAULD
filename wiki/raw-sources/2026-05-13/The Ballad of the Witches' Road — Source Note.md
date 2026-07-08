@@ -1,9 +1,6 @@
 ---
 type: source-note
 title: The Ballad of the Witches' Road — Source Note
-aliases:
-- raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note
-- wiki/raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note
 tags:
 - raw-source
 - ingest
@@ -17,16 +14,13 @@ tags:
 - studios
 - marvel
 - ballad
-- color-lime
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
 vault_area: wiki
-canonical_path: wiki/raw-sources/2026-05-13/The Ballad of the Witches' Road — Source
-  Note.md
-backlink_count: 3
+canonical_path: wiki/raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note.md
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'
 source_raw_path: raw/Clippings/The Ballad of the Witches' Road.md

@@ -16,14 +16,24 @@ tags:
 - procedure
 - epistemic-resistance
 - pharos
+- wiki
+- areas
 status: active
+domain: pharos
 created: '2026-07-03'
 updated: '2026-07-03'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure.md
-backlink_count: 1
+backlink_count: 8
 backlinks:
+- '[[Areas/Writing/Governance by Denial]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[memory/daily/2026-07-03]]'
+- '[[memory/daily/2026-07-04]]'
+- '[[memory/daily/2026-07-05]]'
+- '[[memory/daily/2026-07-06]]'
+- '[[memory/daily/2026-07-07]]'
 ---
 
 # Triangulation Exercise — Hidden Invariant Behind Institutional Procedure

@@ -3,7 +3,6 @@ type: map
 title: AI Governance Failure Cases
 aliases:
 - TOPIC — AI Governance Failure Cases
-- wiki/AI Governance Failure Cases
 tags:
 - index
 - map
@@ -12,13 +11,11 @@ tags:
 - failure-cases
 - case-studies
 - wiki
-- ai-governance-failure-cases-md
 - failure
 - cases
 - modes
 - governance
 - teaching
-- color-purple
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
@@ -27,20 +24,19 @@ canonical_path: wiki/AI Governance Failure Cases.md
 backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
-- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
-  (2026)]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
+- '[[Areas/Writing/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Legal and Institutional Cases]]'
-- '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
-- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/Governance Stress-Test Protocols Index]]'
 - '[[archive/session-state/session-state-001]]'

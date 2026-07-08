@@ -3,7 +3,6 @@ type: governance-doc
 title: Claude Review Checklist
 aliases:
 - Claude Review Checklist
-- governance/hephaistos/CLAUDE-REVIEW-CHECKLIST
 tags:
 - governance
 - ai
@@ -14,16 +13,16 @@ tags:
 - docs
 - requested
 - snippets
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance
 canonical_path: governance/hephaistos/CLAUDE-REVIEW-CHECKLIST.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
 - '[[governance/governance-index]]'
 ---

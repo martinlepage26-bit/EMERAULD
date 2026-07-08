@@ -1,8 +1,6 @@
 ---
 type: note
 title: PHAROS — Operational Context
-aliases:
-- Areas/PHAROS/company
 tags:
 - note
 - areas
@@ -12,14 +10,18 @@ tags:
 - cloudflare
 - suite
 - martinlepage
-- color-orange
 status: active
+domain: pharos
 created: '2026-06-26'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/company.md
-backlink_count: 1
+backlink_count: 5
 backlinks:
+- '[[memory/agents/Antigravity]]'
+- '[[memory/agents/Gemini]]'
+- '[[memory/agents/Grok]]'
+- '[[memory/agents/Kimi]]'
 - '[[memory/agents/Vibe]]'
 ---
 

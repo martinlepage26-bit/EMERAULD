@@ -1,9 +1,6 @@
 ---
 type: audit
 title: Skill Corpus Dedup Audit — 2026-05-06
-aliases:
-- Skill Corpus Dedup Audit — 2026-05-06
-- wiki/Skill Corpus Dedup Audit — 2026-05-06
 tags:
 - skills
 - dedup
@@ -11,12 +8,10 @@ tags:
 - claude
 - audit
 - wiki
-- skill-corpus-dedup-audit-2026-05-06-md
 - subsumed
 - workspace
 - directories
 - retired
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -24,10 +19,10 @@ vault_area: wiki
 canonical_path: wiki/Skill Corpus Dedup Audit — 2026-05-06.md
 backlink_count: 4
 backlinks:
-- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
-- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 source_roots:
   codex: /home/cerebrhoe/.codex/skills
   claude: /home/cerebrhoe/.claude/skills

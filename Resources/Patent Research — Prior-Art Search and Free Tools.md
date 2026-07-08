@@ -14,23 +14,27 @@ tags:
 - ai-governance
 - pharos
 - resources
-- patent-research-prior-art-search-and-free-tools-md
 - patent
 - espacenet
 - patentscope
-- color-blue
+- wiki
 status: active
+domain: reference
 created: '2026-05-08'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Patent Research — Prior-Art Search and Free Tools.md
-backlink_count: 6
+backlink_count: 10
 backlinks:
-- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aida-caseware]]'
 ---
 

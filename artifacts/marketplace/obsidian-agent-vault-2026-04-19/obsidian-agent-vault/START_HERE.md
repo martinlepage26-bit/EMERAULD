@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: START HERE
-aliases:
-- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/START_HERE
 tags:
 - artifact
 - agents
@@ -13,7 +11,6 @@ tags:
 - rename
 - runtime
 - guide
-- color-orange
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

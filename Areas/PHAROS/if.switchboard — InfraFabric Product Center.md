@@ -11,20 +11,25 @@ tags:
 - governance
 - mcp
 - areas
-- if-switchboard-infrafabric-product-center-md
 - blackboard
 - coordination
 - reachability
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-27'
-updated: '2026-06-26'
+updated: '2026-06-27'
 vault_area: Areas
 canonical_path: Areas/PHAROS/if.switchboard — InfraFabric Product Center.md
-backlink_count: 2
+backlink_count: 6
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # if.switchboard — InfraFabric Product Center

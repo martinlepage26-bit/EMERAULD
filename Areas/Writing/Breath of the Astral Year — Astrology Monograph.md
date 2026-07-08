@@ -1,44 +1,47 @@
 ---
 type: wiki
 title: Breath of the Astral Year — Astrology Monograph
-aliases:
-- Breath of the Astral Year — Astrology Monograph
 tags:
 - areas
 - monograph
-- breath-of-the-astral-year-astrology-monograph-md
 - astrology
 - zodiacal
 - competences
 - civic
 - grammar
-- color-teal
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Breath of the Astral Year — Astrology Monograph.md
-backlink_count: 21
+backlink_count: 25
 backlinks:
+- '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Breath of the Astral Year — Version Genealogy]]'
 - '[[Areas/Writing/CODEX Writing Projects Manifest]]'
-- '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Home]]'
-- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
-- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Novel and Creative Corpus]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
 - '[[Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Novel and Creative Corpus]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 - '[[projects/GAIA — Fisher King Project State]]'
 ---

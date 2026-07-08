@@ -13,29 +13,31 @@ tags:
 - globalization
 - postcolonial
 - resources
-- paper-planes-m-i-a-lyrics-md
 - wanna
 - take
 - planes
 - song
-- color-blue
+- wiki
 status: active
+domain: reference
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Paper Planes — M.I.A. — Lyrics.md
-backlink_count: 10
+backlink_count: 12
 backlinks:
-- '[[Resources/Disease — Lady Gaga — Lyrics]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[Resources/Disease — Lady Gaga — Lyrics]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-blue-j]]'
 - '[[memory/daily/2026-04-25]]'
-- '[[raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X]]'
-- '[[raw/Clippings/MIA PAPERS PLANES lyrics]]'
 ---
 
 # Paper Planes — M.I.A. — Lyrics

@@ -1,3 +1,30 @@
+---
+type: note
+title: QUEEN KEYPORT — Governance & Constraints
+tags:
+- note
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: QUEEN-KEYPORT.md
+canonical_path: QUEEN-KEYPORT.md
+backlink_count: 13
+backlinks:
+- '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
+- '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
+- '[[governance/hephaistos/FORGING-TIER-0-QUICKSTART]]'
+- '[[governance/hephaistos/HEPHAISTOS_OPERATIONS]]'
+- '[[governance/hephaistos/ORCHESTRATION_OPERATIONS]]'
+- '[[governance/hephaistos/THREE-AGENT-ARCHITECTURE]]'
+- '[[governance/hephaistos/USAGE]]'
+- '[[governance/hephaistos/continuous-ethical-monitoring]]'
+- '[[governance/hephaistos/ethics-escalation-criteria]]'
+- '[[hephaistos/agents/queen-keyport]]'
+- '[[memory/local-session/feedback_objectivity_subjectivity]]'
+- '[[memory/local-session/project_hephaistos]]'
+---
+
 # QUEEN KEYPORT — Governance & Constraints
 
 This file serves as the canonical entrypoint for **Queen Keyport**, the governance layer of the core three-agent architecture.

@@ -1,32 +1,30 @@
 ---
 type: version-genealogy
 title: Voodoo Doll as Archival Problem — Version Genealogy
-aliases:
-- Voodoo Doll as Archival Problem — Version Genealogy
 tags:
 - version-genealogy
 - areas
-- voodoo-doll-as-archival-problem-version-genealogy-md
 - voodoo
 - doll
 - colonial
 - archival
 - manuscript
-- color-orange
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy.md
 backlink_count: 7
 backlinks:
+- '[[Areas/Writing/Version Genealogy System]]'
+- '[[Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/Home]]'
 - '[[Resources/L’esprit du don — Godbout & Caillé (1992)]]'
 - '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[Resources/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
-- '[[Areas/Writing/Version Genealogy System]]'
-- '[[Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # Voodoo Doll as Archival Problem — Version Genealogy

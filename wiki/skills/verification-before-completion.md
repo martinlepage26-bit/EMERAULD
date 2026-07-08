@@ -1,9 +1,6 @@
 ---
 type: skill
 title: verification-before-completion
-aliases:
-- skills/verification-before-completion
-- wiki/skills/verification-before-completion
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - completion
 - committing
 - assertions
-- color-orange
 status: active
+domain: Governance and Authority
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -21,10 +18,9 @@ canonical_path: wiki/skills/verification-before-completion.md
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — Governance and Method]]'
 - '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: verification-before-completion
-domain: Governance and Authority
 codex_path: /home/cerebrhoe/.codex/skills/verification-before-completion/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

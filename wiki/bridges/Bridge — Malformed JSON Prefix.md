@@ -1,9 +1,6 @@
 ---
 type: bridge-note
 title: Bridge — Malformed JSON Prefix
-aliases:
-- Bridge — Malformed JSON Prefix
-- wiki/bridges/Bridge — Malformed JSON Prefix
 tags:
 - bridge
 - bridge-note
@@ -14,15 +11,13 @@ tags:
 - malformed
 - prefix
 - json
-- color-teal
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/bridges/Bridge — Malformed JSON Prefix.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 ---

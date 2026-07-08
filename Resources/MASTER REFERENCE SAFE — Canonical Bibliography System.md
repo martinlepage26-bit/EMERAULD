@@ -12,26 +12,30 @@ tags:
 - knowledge-infrastructure
 - research
 - resources
-- master-reference-safe-canonical-bibliography-system-md
 - master
 - library
 - safe
-- color-purple
+- wiki
 status: active
+domain: reference
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/MASTER REFERENCE SAFE — Canonical Bibliography System.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
-- '[[Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)]]'
-- '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'
-- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11)]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # MASTER REFERENCE SAFE — Canonical Bibliography System

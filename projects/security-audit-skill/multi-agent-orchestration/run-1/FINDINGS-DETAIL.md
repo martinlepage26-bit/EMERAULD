@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: Findings Detail — MEDIUM and above
+tags:
+- project-mirror
+- projects
+- security-audit-skill
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/security-audit-skill/multi-agent-orchestration/run-1/FINDINGS-DETAIL.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Findings Detail — MEDIUM and above
 
 Only one finding meets the MEDIUM+ threshold. Per the skill's format, this section

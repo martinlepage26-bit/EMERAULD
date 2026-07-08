@@ -1,3 +1,18 @@
+---
+type: note
+title: 'Council Governance Flag: `multi-agent-orchestration` Skill'
+tags:
+- note
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: council-risk-flag-multi-agent-orchestration.md
+canonical_path: council-risk-flag-multi-agent-orchestration.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Council Governance Flag: `multi-agent-orchestration` Skill
 
 ## Flag Raised By

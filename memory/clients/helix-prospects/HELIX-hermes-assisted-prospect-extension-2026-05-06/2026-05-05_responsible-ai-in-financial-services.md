@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Responsible AI in Financial Services
-aliases:
-- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_responsible-ai-in-financial-services
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - website
 - download
 - bank
-- color-teal
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

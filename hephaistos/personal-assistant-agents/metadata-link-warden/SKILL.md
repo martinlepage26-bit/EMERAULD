@@ -1,11 +1,7 @@
 ---
 type: skill-spec
 title: Metadata and Link Warden
-aliases:
-- personal-assistant-agents/metadata-link-warden/SKILL
-- hephaistos/personal-assistant-agents/metadata-link-warden/SKILL
 tags:
-- skill
 - agents
 - skill-spec
 - personal-assistant-agents
@@ -16,21 +12,22 @@ tags:
 - references
 - fields
 - markers
-- color-red
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/metadata-link-warden/SKILL.md
-backlink_count: 1
+backlink_count: 2
 backlinks:
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[graph/nodes/unmapped/vault_maintenance_pipeline_workflow]]'
 name: metadata-link-warden
-description: Use when notes need frontmatter, source fields, rights flags, status
-  markers, and backlinks normalized so the vault stays coherent.
+description: Use when notes need frontmatter, source fields, rights flags, status markers, and backlinks normalized so the vault stays coherent.
 entity_type: Tool
 entity_id: metadata_link_warden
-entity_aliases: ['metadata-link-warden']
+entity_aliases:
+- metadata-link-warden
 entity_confidence: high
 ---
 

@@ -1,10 +1,7 @@
 ---
 type: area
 title: Area — PHAROS
-aliases:
-- Areas/PHAROS/AREA
 tags:
-- area
 - areas
 - pharos
 - responsibility
@@ -12,10 +9,10 @@ tags:
 - deadline
 - projects
 - finances
-- color-purple
 status: active
+domain: pharos
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AREA.md
 backlink_count: 1

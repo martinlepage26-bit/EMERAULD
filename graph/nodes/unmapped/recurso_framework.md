@@ -1,11 +1,24 @@
 ---
-id: recurso_framework
 type: Product
-canonical_name: "RECURSO / RECURSOTRUE"
-aliases: []
+title: RECURSO / RECURSOTRUE
+tags:
+- product
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/recurso_framework.md
+backlink_count: 2
+backlinks:
+- '[[graph/nodes/unmapped/hexa_project]]'
+- '[[graph/nodes/unmapped/martin_lepage]]'
+id: recurso_framework
+canonical_name: RECURSO / RECURSOTRUE
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

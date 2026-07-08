@@ -1,50 +1,36 @@
 ---
 type: wiki
 title: RECURSO — Final Audit and Ethical Review
-aliases:
-- RECURSO — Final Audit and Ethical Review
 tags:
 - areas
 - recurso
-- recurso-final-audit-and-ethical-review-md
 - utilitarian
 - shadowmaster
 - virtue
 - deontological
 - ethical
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/RECURSO — Final Audit and Ethical Review.md
-backlink_count: 50
+backlink_count: 54
 backlinks:
-- '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
-- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
-- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
-- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
-- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
-- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
-- '[[wiki/Home]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper]]'
@@ -60,14 +46,31 @@ backlinks:
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
-- '[[Resources/Red Team Handbook — Offensive Security Reference]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
 - '[[Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Red Team Handbook — Offensive Security Reference]]'
+- '[[wiki/September 2024 Research Retrospective]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'
 ---

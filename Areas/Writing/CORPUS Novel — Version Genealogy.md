@@ -1,30 +1,28 @@
 ---
 type: version-genealogy
 title: CORPUS Novel — Version Genealogy
-aliases:
-- CORPUS Novel — Version Genealogy
 tags:
 - novel
 - version-genealogy
 - areas
-- corpus-novel-version-genealogy-md
 - isbn
 - auteur
 - monograph
 - elsewhere
-- color-teal
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/CORPUS Novel — Version Genealogy.md
 backlink_count: 6
 backlinks:
-- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
-- '[[wiki/Home]]'
-- '[[wiki/Novel and Creative Corpus]]'
+- '[[Areas/Writing/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Novel and Creative Corpus]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

@@ -1,11 +1,7 @@
 ---
 type: skill-spec
 title: Offer and Pricing Architect
-aliases:
-- personal-assistant-agents/offer-pricing-architect/SKILL
-- hephaistos/personal-assistant-agents/offer-pricing-architect/SKILL
 tags:
-- skill
 - agents
 - skill-spec
 - personal-assistant-agents
@@ -16,21 +12,23 @@ tags:
 - demand
 - references
 - pricing
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/offer-pricing-architect/SKILL.md
-backlink_count: 1
+backlink_count: 3
 backlinks:
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[graph/nodes/unmapped/content_to_market_pipeline_workflow]]'
+- '[[graph/nodes/unmapped/revenue_support_optimizer]]'
 name: offer-pricing-architect
-description: Use when safe, owned content needs to become a sellable offer, bundle,
-  tier, or pricing ladder matched to marketplace reality.
+description: Use when safe, owned content needs to become a sellable offer, bundle, tier, or pricing ladder matched to marketplace reality.
 entity_type: Tool
 entity_id: offer_pricing_architect
-entity_aliases: ['offer-pricing-architect']
+entity_aliases:
+- offer-pricing-architect
 entity_confidence: high
 ---
 

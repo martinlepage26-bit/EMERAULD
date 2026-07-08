@@ -5,7 +5,6 @@ aliases:
 - Security and Compliance domain
 - Security skills domain
 - Compliance skills hub
-- wiki/Skill Domain — Security and Compliance
 tags:
 - skills
 - domain
@@ -16,26 +15,28 @@ tags:
 - red-team
 - threat-model
 - wiki
-- skill-domain-security-and-compliance-md
 - sentry
 - hacking
 - threat
 - bits
-- color-red
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Skill Domain — Security and Compliance.md
-backlink_count: 7
+backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window]]'
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Skill Domain — Security and Compliance

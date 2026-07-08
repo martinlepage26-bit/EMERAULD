@@ -1,8 +1,6 @@
 ---
 type: resource
 title: Lazy Obsidian Method
-aliases:
-- resources/Lazy Obsidian Method/Index
 tags:
 - workflow
 - obsidian
@@ -14,7 +12,6 @@ tags:
 - messy
 - inactive
 - process
-- color-orange
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'

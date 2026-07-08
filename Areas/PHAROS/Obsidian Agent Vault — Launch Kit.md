@@ -13,23 +13,21 @@ tags:
 - commercialization
 - agent-memory
 - areas
-- obsidian-agent-vault-launch-kit-md
 - launch
 - demo
 - ladder
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-14'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Obsidian Agent Vault — Launch Kit.md
-backlink_count: 35
+backlink_count: 39
 backlinks:
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
-- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
-- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
-- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
 - '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[Areas/PHAROS/GSD — Get-Shit-Done Claude Code System]]'
 - '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
@@ -40,15 +38,24 @@ backlinks:
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/skill]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-LISTING]]'
 - '[[artifacts/marketplace/promo/README]]'
 - '[[artifacts/marketplace/promo/gumroad-listing]]'
 - '[[artifacts/marketplace/promo/social-posts]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/demo_script_avatar]]'
 - '[[assets/elemental-agents/audience-expansion]]'
 - '[[assets/elemental-agents/positioning-memo]]'
@@ -58,8 +65,6 @@ backlinks:
 - '[[memory/agents/Decisions]]'
 - '[[memory/daily/2026-06-29]]'
 - '[[projects/Second Brain — Fisher King Project State]]'
-- '[[session-state]]'
-- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # Obsidian Agent Vault — Launch Kit

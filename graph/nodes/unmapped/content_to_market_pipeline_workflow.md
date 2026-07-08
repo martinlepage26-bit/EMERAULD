@@ -1,11 +1,23 @@
 ---
-id: content_to_market_pipeline_workflow
 type: Workflow
-canonical_name: "Content-to-Market Pipeline"
-aliases: []
+title: Content-to-Market Pipeline
+tags:
+- workflow
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/content_to_market_pipeline_workflow.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: content_to_market_pipeline_workflow
+canonical_name: Content-to-Market Pipeline
 confidence: high
-sources: ['hephaistos/personal-assistant-agents/README.md']
+sources:
+- hephaistos/personal-assistant-agents/README.md
 created_from: graphify_pass
 ---
 

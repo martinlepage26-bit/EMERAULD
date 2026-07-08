@@ -1,8 +1,6 @@
 ---
 type: archive-record
 title: Möbius Protocol — AI Self-Polygraph Template
-aliases:
-- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template
 tags:
 - archive
 - pharos
@@ -14,8 +12,8 @@ tags:
 - polygraph
 - self
 - mobius
-- color-purple
 status: archived
+priority: low
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: archive

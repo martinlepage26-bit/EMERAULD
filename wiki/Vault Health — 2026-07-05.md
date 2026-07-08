@@ -1,9 +1,24 @@
 ---
 type: wiki
-tags: [health, vault]
+title: Vault Health — 2026-07-05
+tags:
+- health
+- vault
+- wiki
 status: active
-created: 2026-07-05
-updated: 2026-07-05
+created: '2026-07-05'
+updated: '2026-07-05'
+vault_area: wiki
+canonical_path: wiki/Vault Health — 2026-07-05.md
+backlink_count: 7
+backlinks:
+- '[[wiki/EMERAULD]]'
+- '[[wiki/Vault Health — 2026-06-28]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[memory/daily/2026-07-05]]'
+- '[[memory/daily/2026-07-06]]'
+- '[[memory/daily/2026-07-07]]'
 ---
 
 > For future Claude: vault health report for 2026-07-05. Load to understand structural debt and what needs attention.

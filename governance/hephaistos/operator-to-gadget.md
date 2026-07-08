@@ -3,7 +3,6 @@ type: governance-doc
 title: Operator → Gadget Handoff Schema
 aliases:
 - Operator → Gadget Handoff Schema
-- governance/hephaistos/operator-to-gadget
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - scout
 - credential
 - launch
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

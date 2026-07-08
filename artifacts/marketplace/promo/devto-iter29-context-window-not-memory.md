@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: The Context Window Is Not Your Memory
-aliases:
-- artifacts/marketplace/promo/devto-iter29-context-window-not-memory
 tags:
 - artifact
 - artifacts
@@ -12,7 +10,6 @@ tags:
 - memory
 - context
 - loading
-- color-green
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

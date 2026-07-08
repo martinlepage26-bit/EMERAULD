@@ -2,7 +2,6 @@
 type: wiki
 title: Martin Voice Spec — Version Genealogy
 aliases:
-- Martin Voice Spec — Version Genealogy
 - Voice Spec Genealogy
 - Unified Martin Voice Spec
 tags:
@@ -14,29 +13,34 @@ tags:
 - hephaistos
 - operator-continuity
 - areas
-- martin-voice-spec-version-genealogy-md
 - voice
 - spec
 - martin
 - constitution
-- color-orange
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-05-02'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Martin Voice Spec — Version Genealogy.md
-backlink_count: 10
+backlink_count: 14
 backlinks:
 - '[[wiki/APEX Papers — Research Archive Map]]'
+- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
+- '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[wiki/Home]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
-- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
-- '[[Areas/Writing/Version Genealogy System]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'
-- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # Martin Voice Spec — Version Genealogy

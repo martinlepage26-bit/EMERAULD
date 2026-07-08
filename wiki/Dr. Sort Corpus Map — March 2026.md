@@ -6,7 +6,6 @@ aliases:
 - Autopoietic genealogy
 - Corpus topology March 2026
 - Dr. Sort corpus snapshot
-- wiki/Dr. Sort Corpus Map — March 2026
 tags:
 - dr-sort
 - lotus
@@ -16,33 +15,35 @@ tags:
 - classification
 - recursive-self-mapping
 - wiki
-- dr-sort-corpus-map-march-2026-md
 - sort
 - novel
 - bibliography
-- color-purple
 status: active
 created: '2026-05-03'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Dr. Sort Corpus Map — March 2026.md
-backlink_count: 16
+backlink_count: 20
 backlinks:
-- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
-- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
-- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
 - '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/LOTUS Model and Agency]]'
 - '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
 - '[[Areas/PHAROS/LOTUS Premium Spec]]'
-- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/Dr. Sort — Fisher King Project State]]'
 ---
 

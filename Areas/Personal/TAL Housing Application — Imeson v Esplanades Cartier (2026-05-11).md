@@ -13,24 +13,29 @@ tags:
 - institutional-accountability
 - personal-case
 - areas
-- tal-housing-application-imeson-v-esplanades-cartier-2026-05-11-md
 - damages
 - lease
 - theft
 - rent
-- color-red
+- wiki
+- personal
 status: active
+domain: personal
 created: '2026-05-12'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11).md
-backlink_count: 5
+backlink_count: 9
 backlinks:
-- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
-- '[[wiki/Legal and Institutional Cases]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Personal/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
+- '[[wiki/Legal and Institutional Cases]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 source:
 - raw/Desktop-Downloads-scan-2026-05-12/downloads/Imeson_TAL_Application.docx
 - raw/Desktop-Downloads-scan-2026-05-12/downloads/Imeson_TAL_Application_Updated.docx

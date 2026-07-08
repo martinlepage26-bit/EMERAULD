@@ -1,8 +1,6 @@
 ---
 type: project
 title: Second Self — Fisher King Project State
-aliases:
-- projects/Second Self — Fisher King Project State
 tags:
 - project
 - fisher-king
@@ -10,14 +8,13 @@ tags:
 - agent-architecture
 - identity
 - projects
-- second-self-fisher-king-project-state-md
 - examples
 - voice
 - public
 - second
 - self
-- color-orange
 status: in-progress
+priority: high
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: projects

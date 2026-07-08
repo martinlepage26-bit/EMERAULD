@@ -11,35 +11,40 @@ tags:
 - hephaistos
 - session-management
 - areas
-- rook-session-boundary-model-md
 - rook
 - headroom
 - debug
 - rooms
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/ROOK — Session Boundary Model.md
-backlink_count: 19
+backlink_count: 23
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'
-- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
-- '[[Resources/Plugin Recommendations]]'
 - '[[Areas/PHAROS/Trismégiste — Operator State]]'
 - '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
 - '[[Areas/PHAROS/claude-peers-mcp — Claude Peer Network]]'
-- '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 - '[[Areas/PHAROS/if.switchboard — InfraFabric Product Center]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[Resources/Plugin Recommendations]]'
+- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
+- '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Events]]'
 - '[[memory/agents/Journal]]'

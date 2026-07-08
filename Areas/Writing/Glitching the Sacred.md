@@ -1,8 +1,6 @@
 ---
 type: wiki
 title: Glitching the Sacred
-aliases:
-- Glitching the Sacred
 tags:
 - paper
 - cultural-studies
@@ -11,12 +9,13 @@ tags:
 - queer-theory
 - near-ready
 - areas
-- glitching-the-sacred-md
 - coinage
 - disclaimer
 - queer
-- color-violet
+- wiki
+- writing
 status: near-ready
+domain: writing
 created: '2026-05-02'
 updated: '2026-06-26'
 vault_area: Areas
@@ -27,12 +26,12 @@ backlinks:
 - '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/Master Project Tracker — 2026]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[projects/Glitching the Sacred — Fisher King Project State]]'
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: skill-spec
 title: HEPHAISTOS Skill Map — Registry and Classification
-aliases:
-- governance/hephaistos/SKILL-MAP
 tags:
 - skill
 - governance
@@ -14,8 +12,8 @@ tags:
 - philosopher
 - trigger
 - secondary
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

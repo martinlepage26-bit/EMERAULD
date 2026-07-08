@@ -1,3 +1,50 @@
+---
+type: area-note
+title: Stacklight Governance Framework
+tags:
+- area-note
+- areas
+- governanceframework
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: Areas
+canonical_path: Areas/governanceframework/README.md
+backlink_count: 31
+backlinks:
+- '[[Areas/PHAROS/Agent Session Phenomenology]]'
+- '[[Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration]]'
+- '[[Areas/PHAROS/Claude Code Skill Corpus]]'
+- '[[Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
+- '[[Areas/PHAROS/GSD — Get Shit Done Context Engineering System]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[Areas/PHAROS/PHAROS Runbook SOP]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[Areas/PHAROS/claude-peers-mcp — Claude Peer Network]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/LightRAG — Graph-Based RAG System]]'
+- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[Resources/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/START_HERE]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+- '[[memory/agents/Blockers]]'
+- '[[memory/agents/Learning]]'
+- '[[templates/Raw Capture Template]]'
+---
+
 # Stacklight Governance Framework
 
 This note explains where Martin sits in the white-label proof-desk and governance structure, where to find reference material, how to verify that things are working, and how to keep the governance model simple enough for clients and auditors to understand.

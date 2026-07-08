@@ -1,30 +1,33 @@
 ---
 type: wiki
 title: La fréquence brisée du verbe — Roman
-aliases:
-- La fréquence brisée du verbe — Roman
 tags:
 - areas
 - novel
-- la-fr-quence-bris-e-du-verbe-roman-md
 - silence
 - frequency
 - death
 - broken
-- color-teal
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/La fréquence brisée du verbe — Roman.md
-backlink_count: 7
+backlink_count: 11
 backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Home]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

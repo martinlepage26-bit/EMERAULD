@@ -3,7 +3,6 @@ type: governance-doc
 title: Specialist Guideline Authority — Binding vs. Advisory
 aliases:
 - Specialist Guideline Authority — Binding vs. Advisory
-- governance/hephaistos/SPECIALIST-GUIDELINE-AUTHORITY
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - advisory
 - binding
 - element
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

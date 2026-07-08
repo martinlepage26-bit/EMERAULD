@@ -1,9 +1,6 @@
 ---
 type: bridge-note
 title: Bridge - Dr. Sort Filename Normalization 2026-05-06
-aliases:
-- Bridge - Dr. Sort Filename Normalization 2026-05-06
-- wiki/bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06
 tags:
 - bridge
 - bridge-note
@@ -14,7 +11,6 @@ tags:
 - filename
 - papers
 - pharos
-- color-teal
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

@@ -1,9 +1,6 @@
 ---
 type: artifact
-title: 'The Active Constraints Note: The One File That Stops AI from Violating Your
-  Project Rules'
-aliases:
-- artifacts/marketplace/promo/hashnode-iter46-active-constraints
+title: 'The Active Constraints Note: The One File That Stops AI from Violating Your Project Rules'
 tags:
 - artifact
 - ai
@@ -14,7 +11,6 @@ tags:
 - entries
 - locked
 - doesn
-- color-purple
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

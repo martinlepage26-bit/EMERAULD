@@ -1,26 +1,25 @@
 ---
 type: routing-report
 title: Wiki Routing Report — 2026-06-29
-aliases:
-- wiki/WIKI-ROUTING-REPORT
 tags:
 - routing-report
 - wiki
-- wiki-routing-report-md
 - areas
 - writing
 - pharos
 - gift
 - mauss
-- color-purple
 status: executed
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: wiki
 canonical_path: wiki/WIKI-ROUTING-REPORT.md
-backlink_count: 3
+backlink_count: 6
 backlinks:
 - '[[wiki/EMERAULD]]'
+- '[[Logs/2026-07-08]]'
+- '[[_vault/OVERHAUL-BASELINE-2026-07-08]]'
+- '[[_vault/PARA-MIGRATION-MANIFEST-2026-07-08]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/daily/2026-06-29]]'
 ---

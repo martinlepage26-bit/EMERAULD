@@ -1,29 +1,27 @@
 ---
 type: version-genealogy
 title: Reboot Performance Gender Identity — Version Genealogy
-aliases:
-- Reboot Performance Gender Identity — Version Genealogy
 tags:
 - version-genealogy
 - areas
-- reboot-performance-gender-identity-version-genealogy-md
 - reboot
 - computing
 - gender
 - performance
 - identitymt
-- color-violet
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Reboot Performance Gender Identity — Version Genealogy.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
 ---
 
 # Reboot Performance Gender Identity — Version Genealogy

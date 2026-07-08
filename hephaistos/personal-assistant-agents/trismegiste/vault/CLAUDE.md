@@ -3,8 +3,6 @@ type: agent-instructions
 title: CLAUDE.md — Personal Assistant Boot Context
 aliases:
 - CLAUDE.md — Personal Assistant Boot Context
-- personal-assistant-agents/trismegiste/vault/CLAUDE
-- hephaistos/personal-assistant-agents/trismegiste/vault/CLAUDE
 tags:
 - agents
 - trismegiste
@@ -16,8 +14,8 @@ tags:
 - read
 - naive
 - unprocessed
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

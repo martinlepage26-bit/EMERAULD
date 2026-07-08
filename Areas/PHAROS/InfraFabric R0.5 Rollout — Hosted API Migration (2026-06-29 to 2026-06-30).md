@@ -13,25 +13,30 @@ tags:
 - migration
 - infrastructure
 - areas
-- infrafabric-r0-5-rollout-hosted-api-migration-2026-06-29-to-2026-06-30-md
 - stacklight
 - sheet
 - tunneled
-- color-teal
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-07-01'
-updated: '2026-06-26'
+updated: '2026-07-01'
 vault_area: Areas
 canonical_path: Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30).md
-backlink_count: 7
+backlink_count: 11
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-07-01]]'
-- '[[session-state]]'
 ---
 
 # InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)

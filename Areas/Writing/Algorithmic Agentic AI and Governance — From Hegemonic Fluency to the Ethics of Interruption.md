@@ -1,49 +1,52 @@
 ---
 type: wiki
 title: Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption
-aliases:
-- Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption
 tags:
 - areas
 - governance
 - ai
 - agents
-- algorithmic-agentic-ai-and-governance-from-hegemonic-fluency-to-the-ethics-of-interruption-md
 - fluency
 - interruption
 - algorithmic
 - workplace
 - audible
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption.md
-backlink_count: 22
+backlink_count: 26
 backlinks:
+- '[[wiki/APEX Papers — Research Archive Map]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
-- '[[wiki/APEX Papers — Research Archive Map]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
-- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
-- '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
-- '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[projects/Stuttering Machines — Fisher King Project State]]'
-- '[[session-state]]'
 ---
 
 # Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption

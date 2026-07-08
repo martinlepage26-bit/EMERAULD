@@ -1,41 +1,44 @@
 ---
 type: wiki
 title: Harrowfield Clinic — AI Governance Failure Case Study
-aliases:
-- Harrowfield Clinic — AI Governance Failure Case Study
 tags:
 - areas
 - governance
 - ai
-- harrowfield-clinic-ai-governance-failure-case-study-md
 - carebot
 - diagai
 - disabled
 - november
 - jira
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study.md
-backlink_count: 16
+backlink_count: 20
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
+- '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
+- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
+- '[[Areas/Writing/Governance by Denial]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
-- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/Writing/Governance by Denial]]'
 - '[[wiki/Home]]'
-- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
-- '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
-- '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

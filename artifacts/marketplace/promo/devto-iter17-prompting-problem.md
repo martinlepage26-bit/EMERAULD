@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Why Better Prompts Aren't the Fix (And What Actually Is)
-aliases:
-- artifacts/marketplace/promo/devto-iter17-prompting-problem
 tags:
 - artifact
 - artifacts
@@ -12,7 +10,6 @@ tags:
 - mediocre
 - rejected
 - context
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

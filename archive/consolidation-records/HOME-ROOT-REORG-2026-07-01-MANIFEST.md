@@ -1,8 +1,6 @@
 ---
 type: archive
 title: Home Root Reorg MANIFEST
-aliases:
-- archive/consolidation-records/HOME-ROOT-REORG-2026-07-01-MANIFEST
 tags:
 - archive
 - consolidation-records
@@ -11,10 +9,10 @@ tags:
 - logo
 - claudex
 - dictation
-- color-green
 status: archived
+priority: low
 created: '2026-07-01'
-updated: '2026-06-26'
+updated: '2026-07-01'
 vault_area: archive
 canonical_path: archive/consolidation-records/HOME-ROOT-REORG-2026-07-01-MANIFEST.md
 backlink_count: 1

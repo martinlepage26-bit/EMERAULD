@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: How TD helps advance AI innovation
-aliases:
-- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_how-td-helps-advance-ai-innovation
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - innovation
 - talent
 - cohere
-- color-lime
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -20,8 +17,8 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_how-td-helps-advance-ai-innovation.md
 backlink_count: 2
 backlinks:
-- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 source_url: https://stories.td.com/ca/en/article/td-ai-innovation
 date: '2026-05-05'
 scraped: '2026-05-05'

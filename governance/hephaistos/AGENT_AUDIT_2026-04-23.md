@@ -3,7 +3,6 @@ type: governance-doc
 title: Agent Ecosystem Audit — 2026-04-23
 aliases:
 - Agent Ecosystem Audit — 2026-04-23
-- governance/hephaistos/AGENT_AUDIT_2026-04-23
 tags:
 - governance
 - ai
@@ -13,17 +12,17 @@ tags:
 - gadget
 - argus
 - henry
-- color-orange
 status: active
+domain: governance
 created: '2026-04-23'
 updated: '2026-06-26'
 vault_area: governance
 canonical_path: governance/hephaistos/AGENT_AUDIT_2026-04-23.md
 backlink_count: 4
 backlinks:
-- '[[archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23]]'
 - '[[governance/hephaistos/HEPHAISTOS]]'
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: publication-draft
 title: The Doctrine
-aliases:
-- assets/elemental-agents/ttrpg-repack/manuscript/01-the-doctrine
 tags:
 - publication
 - agents
@@ -15,7 +13,6 @@ tags:
 - modifier
 - covenant
 - framework
-- color-orange
 status: draft-v0.1
 created: '2026-05-24'
 updated: '2026-06-26'
@@ -23,14 +20,12 @@ vault_area: assets
 canonical_path: assets/elemental-agents/ttrpg-repack/manuscript/01-the-doctrine.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/ASSETS MOC]]'
 chapter: 1
 word_target: ~3500
 voice_lock: established
-audience: governance practitioners (GRC, compliance, AI governance, internal audit)
-  — primary; ritual practitioners and TTRPG designers — halo readings
-position_in_book: chapter 1 of 3 (Doctrine → Operations → Audit). The full 165-operation
-  catalogue ships separately as a companion reference.
+audience: governance practitioners (GRC, compliance, AI governance, internal audit) — primary; ritual practitioners and TTRPG designers — halo readings
+position_in_book: chapter 1 of 3 (Doctrine → Operations → Audit). The full 165-operation catalogue ships separately as a companion reference.
 ---
 
 # 1 · The Doctrine

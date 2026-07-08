@@ -14,24 +14,29 @@ tags:
 - quebec
 - case-study
 - areas
-- ai-hallucinated-arbitration-decision-centre-de-sante-osman-v-sante-quebec-2026-md
 - arbitrator
 - authorities
 - sante
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-28'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026).md
-backlink_count: 6
+backlink_count: 10
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Legal and Institutional Cases]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 source: raw sources/2026-04-28_montreal-arbitrator-ai-hallucinated-cases.md
 ---
 

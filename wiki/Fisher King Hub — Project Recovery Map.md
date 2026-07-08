@@ -5,7 +5,6 @@ aliases:
 - Fisher King Hub
 - Project Recovery Map
 - Percephal Map
-- wiki/Fisher King Hub — Project Recovery Map
 tags:
 - hub
 - fisher-king
@@ -14,25 +13,27 @@ tags:
 - recovery
 - vault-governance
 - wiki
-- fisher-king-hub-project-recovery-map-md
 - fisher
 - king
 - tier
 - project
-- color-purple
 status: active
 created: '2026-05-16'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Fisher King Hub — Project Recovery Map.md
-backlink_count: 6
+backlink_count: 10
 backlinks:
-- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[wiki/Projects Hub]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[index]]'
-- '[[session-state]]'
 ---
 
 # Fisher King Hub — Project Recovery Map

@@ -3,7 +3,6 @@ type: governance-doc
 title: Wave 2 Cleanup Tasks
 aliases:
 - Wave 2 Cleanup Tasks
-- governance/hephaistos/WAVE2-CLEANUP
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - pairings
 - equal
 - scope
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

@@ -14,28 +14,32 @@ tags:
 - ai-identity
 - posthumanism
 - resources
-- the-goddess-and-her-icon-zarkadakis-2024-ai-body-mind-md
 - mind
 - zarkadakis
 - ensoulment
 - icon
 - citation
-- color-violet
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind).md
-backlink_count: 8
+backlink_count: 12
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)

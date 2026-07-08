@@ -1,9 +1,6 @@
 ---
 type: memory-register
 title: feedback_aurorai_spelling
-aliases:
-- feedback_aurorai_spelling
-- memory/local-session/feedback_aurorai_spelling
 tags:
 - memory
 - aurora
@@ -14,7 +11,6 @@ tags:
 - capital
 - spelling
 - ffbc
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

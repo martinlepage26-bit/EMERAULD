@@ -3,21 +3,17 @@ type: index
 title: EMERAULD Vault Index
 aliases:
 - vault-index
-- index
 tags:
-- index
 - vault-doc
 - ai-first-true
-- index-md
 - projects
 - fisher
 - king
 - bases
 - progress
-- color-purple
 status: active
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: index.md
 canonical_path: index.md
 backlink_count: 1

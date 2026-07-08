@@ -5,41 +5,41 @@ aliases:
 - Business Memory
 - Live Memory
 - Memory Dashboard
-- memory
 tags:
-- memory
 - business
 - dashboard
 - active
 - memory-dashboard
-- memory-md
 - client
 - clients
 - daily
-- color-green
 status: active
 created: '2026-04-19'
 updated: '2026-06-26'
 vault_area: memory.md
 canonical_path: memory.md
-backlink_count: 37
+backlink_count: 40
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
-- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Home]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/D-drive-dedup-report-2026-04-21]]'
 - '[[index]]'
 - '[[wiki/memory]]'
@@ -59,7 +59,6 @@ backlinks:
 - '[[memory/daily/2026-05-11]]'
 - '[[projects/PHAROS — Fisher King Project State]]'
 - '[[projects/Second Brain — Fisher King Project State]]'
-- '[[raw/00_Inbox/Raw/2026-04-25 — Stop coding, clean, package, send]]'
 - '[[templates/Memory Daily Template]]'
 ---
 

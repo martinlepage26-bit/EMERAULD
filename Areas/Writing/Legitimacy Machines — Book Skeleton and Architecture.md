@@ -1,52 +1,55 @@
 ---
 type: wiki
 title: Legitimacy Machines — Book Skeleton and Architecture
-aliases:
-- Legitimacy Machines — Book Skeleton and Architecture
 tags:
 - areas
-- legitimacy-machines-book-skeleton-and-architecture-md
 - enclosure
 - legitimacy
 - machines
 - chapter
 - skeleton
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture.md
-backlink_count: 31
+backlink_count: 35
 backlinks:
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
 - '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[Areas/Writing/CODEX Writing Projects Manifest]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
-- '[[Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/Writing/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
-- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
-- '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
+- '[[Areas/Writing/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 - '[[maps/Queer Media and Ritual Map]]'
 - '[[memory]]'

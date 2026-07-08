@@ -1,11 +1,23 @@
 ---
-id: martin_govern_ai_site
 type: Product
-canonical_name: "martin.govern-ai.ca"
-aliases: []
+title: martin.govern-ai.ca
+tags:
+- product
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/martin_govern_ai_site.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/martin_lepage]]'
+id: martin_govern_ai_site
+canonical_name: martin.govern-ai.ca
 confidence: high
-sources: ['root CLAUDE.md']
+sources:
+- root CLAUDE.md
 created_from: graphify_pass
 ---
 

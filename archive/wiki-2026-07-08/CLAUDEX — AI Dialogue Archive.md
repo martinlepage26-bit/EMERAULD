@@ -11,23 +11,27 @@ tags:
 - dialogue
 - claude
 - codex
-- claudex-ai-dialogue-archive-md
 - claudex
 - debate
 - magnifica
 - humanitas
 - runner
-- color-green
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive.md
-backlink_count: 3
+backlink_count: 7
 backlinks:
-- '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'
 - '[[Areas/PHAROS/Host Environment — pharos-corpus-runner-01]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
+- '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # CLAUDEX — AI Dialogue Archive

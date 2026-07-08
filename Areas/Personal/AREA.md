@@ -1,19 +1,16 @@
 ---
 type: area
 title: Area — Personal
-aliases:
-- Areas/Personal/AREA
 tags:
-- area
 - areas
 - personal
 - finances
 - reflections
 - responsibilities
-- color-violet
 status: active
+domain: personal
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: Areas
 canonical_path: Areas/Personal/AREA.md
 backlink_count: 1

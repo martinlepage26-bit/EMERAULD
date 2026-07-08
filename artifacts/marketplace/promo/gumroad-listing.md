@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Gumroad Listing — Obsidian Agent Vault
-aliases:
-- artifacts/marketplace/promo/gumroad-listing
 tags:
 - artifact
 - agents
@@ -13,7 +11,6 @@ tags:
 - session
 - cursor
 - project
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

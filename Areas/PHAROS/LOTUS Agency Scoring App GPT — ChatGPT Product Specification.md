@@ -15,22 +15,26 @@ tags:
 - orchestration
 - chatgpt-product
 - areas
-- lotus-agency-scoring-app-gpt-chatgpt-product-specification-md
 - simulation
 - symbolic
 - reflective
-- color-pink
+- wiki
 status: active
+domain: pharos
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification.md
-backlink_count: 4
+backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # LOTUS Agency Scoring App GPT — ChatGPT Product Specification

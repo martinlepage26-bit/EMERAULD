@@ -1,11 +1,23 @@
 ---
-id: post_launch_learning_loop_workflow
 type: Workflow
-canonical_name: "Post-Launch Learning Loop"
-aliases: []
+title: Post-Launch Learning Loop
+tags:
+- workflow
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/post_launch_learning_loop_workflow.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/revenue_support_optimizer]]'
+id: post_launch_learning_loop_workflow
+canonical_name: Post-Launch Learning Loop
 confidence: high
-sources: ['hephaistos/personal-assistant-agents/README.md']
+sources:
+- hephaistos/personal-assistant-agents/README.md
 created_from: graphify_pass
 ---
 

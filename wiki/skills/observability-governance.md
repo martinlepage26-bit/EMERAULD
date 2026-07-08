@@ -1,9 +1,6 @@
 ---
 type: skill
 title: observability-governance
-aliases:
-- skills/observability-governance
-- wiki/skills/observability-governance
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - chains
 - observability
 - hephaistos
-- color-purple
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

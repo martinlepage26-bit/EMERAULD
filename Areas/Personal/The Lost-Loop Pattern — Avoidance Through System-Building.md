@@ -12,42 +12,46 @@ tags:
 - avoidance
 - executive-function
 - areas
-- the-lost-loop-pattern-avoidance-through-system-building-md
 - loop
 - lost
 - hard
 - iterative
 - overwhelm
-- color-orange
+- wiki
+- personal
 status: active
+domain: personal
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building.md
-backlink_count: 22
+backlink_count: 25
 backlinks:
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
-- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
-- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
-- '[[wiki/Fisher King Hub — Project Recovery Map]]'
-- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
-- '[[archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14]]'
 - '[[Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal]]'
-- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[Areas/Writing/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note]]'
-- '[[raw/00_Inbox/Raw/2026-04-25 — The lost-loop pattern]]'
 ---
 
 # The Lost-Loop Pattern — Avoidance Through System-Building

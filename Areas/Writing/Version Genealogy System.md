@@ -11,13 +11,13 @@ tags:
 - versions
 - manuscript-history
 - areas
-- version-genealogy-system-md
 - version
 - genealogies
 - paper
 - novel
-- color-orange
+- writing
 status: active
+domain: writing
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
@@ -25,21 +25,21 @@ canonical_path: Areas/Writing/Version Genealogy System.md
 backlink_count: 18
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[wiki/Martin Voice Spec — Stage Map]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
-- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
-- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 - '[[Areas/Writing/Wicca 2.0 — Version Genealogy]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 - '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/skills/genealogy-loupe]]'
 ---

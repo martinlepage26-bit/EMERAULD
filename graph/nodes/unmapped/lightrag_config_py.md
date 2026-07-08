@@ -1,11 +1,23 @@
 ---
-id: lightrag_config_py
 type: Tool
-canonical_name: "lightrag_config.py"
-aliases: []
+title: lightrag_config.py
+tags:
+- tool
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/lightrag_config_py.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: lightrag_config_py
+canonical_name: lightrag_config.py
 confidence: high
-sources: ['scripts/lightrag_config.py']
+sources:
+- scripts/lightrag_config.py
 created_from: graphify_pass
 ---
 

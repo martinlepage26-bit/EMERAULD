@@ -12,49 +12,34 @@ tags:
 - wicca
 - sociology
 - areas
-- queer-sociology-of-magic-and-ritual-md
 - queer
 - magic
 - pagan
-- color-violet
+- writing
 status: active
+domain: writing
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Queer Sociology of Magic and Ritual.md
 backlink_count: 56
 backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
-- '[[Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
-- '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/Writing/Glitching the Sacred]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
-- '[[Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
 - '[[Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
-- '[[Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)]]'
-- '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
-- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
 - '[[Areas/Writing/Pourquoi Rever Encore — Version Genealogy]]'
-- '[[Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
 - '[[Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
-- '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
@@ -63,23 +48,38 @@ backlinks:
 - '[[Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
-- '[[Resources/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
-- '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[Areas/Writing/Version Genealogy System]]'
-- '[[Resources/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography]]'
 - '[[Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[Areas/Writing/Wicca 2.0 — Version Genealogy]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Home]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
+- '[[Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
+- '[[Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
+- '[[Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)]]'
+- '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
+- '[[Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
+- '[[Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
+- '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
+- '[[Resources/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
+- '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[Resources/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 ---
 
 # Queer Sociology of Magic and Ritual

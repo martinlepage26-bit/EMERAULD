@@ -1,9 +1,6 @@
 ---
 type: skill
 title: agent-management
-aliases:
-- skills/agent-management
-- wiki/skills/agent-management
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - versioning
 - observability
 - readiness
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

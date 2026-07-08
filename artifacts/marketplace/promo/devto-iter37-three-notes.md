@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: The 3 Notes Every AI-Assisted Project Needs Before the First Session
-aliases:
-- artifacts/marketplace/promo/devto-iter37-three-notes
 tags:
 - artifact
 - ai
@@ -13,7 +11,6 @@ tags:
 - project
 - minutes
 - guides
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

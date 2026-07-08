@@ -13,28 +13,31 @@ tags:
 - feminist-theory
 - governance
 - resources
-- mapping-the-margins-crenshaw-1991-intersectionality-and-violence-md
 - crenshaw
 - margins
 - axis
 - color
-- color-purple
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence).md
-backlink_count: 9
+backlink_count: 12
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
-- '[[wiki/Queer Theory Foundations]]'
-- '[[Resources/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
 - '[[Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
+- '[[Resources/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)

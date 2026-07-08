@@ -1,21 +1,19 @@
 ---
 type: version-genealogy
 title: Social Compass Reviewer Responses — Version Genealogy
-aliases:
-- Social Compass Reviewer Responses — Version Genealogy
 tags:
 - compassai
 - peer-review
 - version-genealogy
 - areas
-- social-compass-reviewer-responses-version-genealogy-md
 - socialcompass
 - reviewers
 - response
 - highlighted
 - version
-- color-pink
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
@@ -23,9 +21,9 @@ canonical_path: Areas/Writing/Social Compass Reviewer Responses — Version Gene
 backlink_count: 4
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
 ---
 
 # Social Compass Reviewer Responses — Version Genealogy

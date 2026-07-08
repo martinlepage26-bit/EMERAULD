@@ -1,8 +1,6 @@
 ---
 type: skill-spec
 title: Ariun - Link Guide
-aliases:
-- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/link_guide
 tags:
 - skill
 - agents
@@ -14,7 +12,6 @@ tags:
 - target
 - find
 - check
-- color-orange
 status: active
 created: '2026-04-19'
 updated: '2026-06-26'

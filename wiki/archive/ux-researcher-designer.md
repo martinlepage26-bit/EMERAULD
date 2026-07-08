@@ -1,9 +1,6 @@
 ---
 type: skill
 title: ux-researcher-designer
-aliases:
-- archive/ux-researcher-designer
-- wiki/archive/ux-researcher-designer
 tags:
 - skill
 - wiki
@@ -13,19 +10,17 @@ tags:
 - journey
 - persona
 - usability
-- color-orange
 status: active
+domain: Research and Analysis
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/archive/ux-researcher-designer.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 skill_id: ux-researcher-designer
-domain: Research and Analysis
 codex_path: /home/cerebrhoe/.codex/skills/ux-researcher-designer/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

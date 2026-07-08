@@ -1,3 +1,18 @@
+---
+type: note
+title: PHAROS-AI Change Tracker
+tags:
+- note
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: PHAROS-AI CHANGE TRACKER.md
+canonical_path: PHAROS-AI CHANGE TRACKER.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # PHAROS-AI Change Tracker
 
 ## 2026-06-17

@@ -10,35 +10,40 @@ tags:
 - claude
 - operator-pattern
 - areas
-- operator-check-skill-burnout-cascade-interrupt-md
 - flattery
 - cascade
 - command
 - flattering
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt.md
-backlink_count: 17
+backlink_count: 21
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Legal and Institutional Cases]]'
-- '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/Mental illness, addiction, and AI psychosis]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Mental illness, addiction, and AI psychosis]]'
+- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-04-21]]'
 ---
 

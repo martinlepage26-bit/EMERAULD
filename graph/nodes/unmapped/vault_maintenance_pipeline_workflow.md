@@ -1,11 +1,23 @@
 ---
-id: vault_maintenance_pipeline_workflow
 type: Workflow
-canonical_name: "Vault Maintenance Pipeline"
-aliases: []
+title: Vault Maintenance Pipeline
+tags:
+- workflow
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/vault_maintenance_pipeline_workflow.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: vault_maintenance_pipeline_workflow
+canonical_name: Vault Maintenance Pipeline
 confidence: high
-sources: ['hephaistos/personal-assistant-agents/README.md']
+sources:
+- hephaistos/personal-assistant-agents/README.md
 created_from: graphify_pass
 ---
 

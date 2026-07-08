@@ -1,11 +1,23 @@
 ---
-id: coequal_conflict_resolution_workflow
 type: Workflow
-canonical_name: "Co-Equal Conflict Resolution"
-aliases: []
+title: Co-Equal Conflict Resolution
+tags:
+- workflow
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/coequal_conflict_resolution_workflow.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/martin_lepage]]'
+id: coequal_conflict_resolution_workflow
+canonical_name: Co-Equal Conflict Resolution
 confidence: high
-sources: ['governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md']
+sources:
+- governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md
 created_from: graphify_pass
 ---
 

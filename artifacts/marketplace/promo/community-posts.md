@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Community Posts — Obsidian Agent Vault
-aliases:
-- artifacts/marketplace/promo/community-posts
 tags:
 - artifact
 - agents
@@ -13,7 +11,6 @@ tags:
 - pharosml
 - kvbhdo
 - obsidian
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

@@ -1,9 +1,6 @@
 ---
 type: skill
 title: gsd-milestone-summary
-aliases:
-- skills/gsd-milestone-summary
-- wiki/skills/gsd-milestone-summary
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - onboarding
 - codex
 - comprehensive
-- color-orange
 status: active
+domain: GSD Workflow
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 skill_id: gsd-milestone-summary
-domain: GSD Workflow
 codex_path: /home/cerebrhoe/.codex/skills/gsd-milestone-summary/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

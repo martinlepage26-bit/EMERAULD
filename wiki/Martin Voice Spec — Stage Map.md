@@ -2,9 +2,7 @@
 type: wiki
 title: Martin Voice Spec — Stage Map
 aliases:
-- Martin Voice Spec — Stage Map
 - Voice Spec Stage Map
-- wiki/Martin Voice Spec — Stage Map
 tags:
 - voice-spec
 - stage-map
@@ -12,28 +10,30 @@ tags:
 - hermes
 - operator-continuity
 - wiki
-- martin-voice-spec-stage-map-md
 - stage
 - spec
 - genealogy
 - voice
 - charm
-- color-orange
 status: active
 created: '2026-05-02'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Martin Voice Spec — Stage Map.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
-- '[[wiki/Home]]'
+- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
-- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Home]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
-- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # Martin Voice Spec — Stage Map

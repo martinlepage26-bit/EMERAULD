@@ -13,42 +13,43 @@ tags:
 - epistemics
 - deprecated
 - areas
-- agatha-unified-skill-system-eight-sovereign-operators-md
 - eight
 - operators
 - authority
 - skill
-- color-orange
+- wiki
+- pharos
 status: deprecated
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators.md
 backlink_count: 25
 backlinks:
-- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Infrastructure Stack]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
+- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/Writing/Version Genealogy System]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
-- '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
-- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/Supersession Registry]]'
-- '[[Areas/Writing/Version Genealogy System]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[wiki/skills/philosopher]]'
 deprecation_effective_date: '2026-03-01'

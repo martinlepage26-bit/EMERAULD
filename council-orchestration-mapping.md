@@ -1,3 +1,18 @@
+---
+type: note
+title: Council Orchestration Mapping
+tags:
+- note
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: council-orchestration-mapping.md
+canonical_path: council-orchestration-mapping.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Council Orchestration Mapping
 
 ## Test Objective

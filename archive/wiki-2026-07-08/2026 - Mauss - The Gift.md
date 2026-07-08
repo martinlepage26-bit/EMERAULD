@@ -5,21 +5,24 @@ aliases:
 - Mauss - The Gift
 tags:
 - archive
-- 2026-mauss-the-gift-md
 - unpacked
 - recursotrue
 - recurso
 - pack
 - kingmalek
-- color-purple
+- wiki
+- wiki-2026-07-08
 status: recovered
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/2026 - Mauss - The Gift.md
-backlink_count: 1
+backlink_count: 4
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
+- '[[wiki/Wiki MOC]]'
+- '[[archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
 year: 2026
 source_file: D-drive-dedup-manifest-2026-04-21.csv
 format: csv

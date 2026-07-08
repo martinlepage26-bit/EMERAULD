@@ -1,8 +1,6 @@
 ---
 type: feedback
 title: feedback_objectivity_subjectivity
-aliases:
-- memory/local-session/feedback_objectivity_subjectivity
 tags:
 - feedback
 - memory
@@ -12,7 +10,6 @@ tags:
 - perspective
 - declaring
 - subjectivity
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -24,9 +21,7 @@ backlinks:
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 - '[[governance/hephaistos/QUEEN-KEYPORT]]'
 name: Objectivity as naming the limits of subjectivity
-description: The most ethical positioning is not enacted charm — it is acknowledging
-  that human objectivity means naming the limits of their subjectivity. Applies to
-  all system outputs, governance decisions, and care-claims.
+description: The most ethical positioning is not enacted charm — it is acknowledging that human objectivity means naming the limits of their subjectivity. Applies to all system outputs, governance decisions, and care-claims.
 originSessionId: d120c79c-4e5b-4b6c-b29c-d841a6580859
 ---
 

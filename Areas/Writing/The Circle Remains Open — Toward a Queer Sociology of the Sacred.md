@@ -1,37 +1,33 @@
 ---
 type: wiki
 title: The Circle Remains Open — Toward a Queer Sociology of the Sacred
-aliases:
-- The Circle Remains Open — Toward a Queer Sociology of the Sacred
 tags:
 - areas
 - ai
 - queer
-- the-circle-remains-open-toward-a-queer-sociology-of-the-sacred-md
 - pagan
 - sacred
 - circle
 - magic
-- color-red
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md
-backlink_count: 23
+backlink_count: 27
 backlinks:
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[Areas/Writing/Brutal Isms — Art Grant Proposal]]'
 - '[[Areas/Writing/Circle Remains Open — Version Genealogy]]'
-- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
-- '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
@@ -41,6 +37,13 @@ backlinks:
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---

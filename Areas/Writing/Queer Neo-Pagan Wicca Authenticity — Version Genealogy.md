@@ -1,30 +1,28 @@
 ---
 type: version-genealogy
 title: Queer Neo-Pagan Wicca Authenticity — Version Genealogy
-aliases:
-- Queer Neo-Pagan Wicca Authenticity — Version Genealogy
 tags:
 - wicca
 - pagan
 - queer
 - version-genealogy
 - areas
-- queer-neo-pagan-wicca-authenticity-version-genealogy-md
 - spiritualities
 - authenticity
-- color-violet
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
 ---
 
 # Queer Neo-Pagan Wicca Authenticity — Version Genealogy

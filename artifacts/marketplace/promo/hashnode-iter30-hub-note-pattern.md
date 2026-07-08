@@ -1,9 +1,6 @@
 ---
 type: artifact
-title: 'The Hub Note Pattern: The Single Most Impactful Structure in an AI-Readable
-  Vault'
-aliases:
-- artifacts/marketplace/promo/hashnode-iter30-hub-note-pattern
+title: 'The Hub Note Pattern: The Single Most Impactful Structure in an AI-Readable Vault'
 tags:
 - artifact
 - ai
@@ -14,7 +11,6 @@ tags:
 - rejected
 - project
 - minutes
-- color-teal
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

@@ -4,7 +4,6 @@ title: Charge & Circle — Four-Pivot Decision Map (2026-05-24)
 aliases:
 - Charge and Circle four-pivot decision map
 - Charge Circle reframe history 2026-05-24
-- wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)
 tags:
 - charge-and-circle
 - elemental-agents
@@ -13,24 +12,26 @@ tags:
 - reframe
 - publishing
 - wiki
-- charge-circle-four-pivot-decision-map-2026-05-24-md
 - pivot
 - charge
 - ttrpg
 - survived
 - publish
-- color-orange
 status: active
 created: '2026-05-25'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24).md
-backlink_count: 4
+backlink_count: 8
 backlinks:
-- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Charge & Circle — Four-Pivot Decision Map (2026-05-24)

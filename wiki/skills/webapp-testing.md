@@ -1,9 +1,6 @@
 ---
 type: skill
 title: webapp-testing
-aliases:
-- skills/webapp-testing
-- wiki/skills/webapp-testing
 tags:
 - skill
 - wiki
@@ -11,8 +8,8 @@ tags:
 - webapp
 - testing
 - codex
-- color-teal
 status: active
+domain: Development and Testing
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -22,7 +19,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: webapp-testing
-domain: Development and Testing
 codex_path: /home/cerebrhoe/.codex/skills/webapp-testing/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

@@ -14,26 +14,24 @@ tags:
 - software-development
 - tool-spec
 - resources
-- emergent-sh-agentic-app-builder-spec-sheet-2026-06-27-md
 - emergent
 - export
 - enterprise
 - mobile
 - official
-- color-orange
 status: active
+domain: reference
 created: '2026-06-27'
-updated: '2026-06-26'
+updated: '2026-06-27'
 vault_area: Resources
 canonical_path: Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27).md
-backlink_count: 6
+backlink_count: 5
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[memory/daily/2026-06-27]]'
-- '[[session-state]]'
 source_urls:
 - https://emergent.sh/
 - https://emergent.sh/faq

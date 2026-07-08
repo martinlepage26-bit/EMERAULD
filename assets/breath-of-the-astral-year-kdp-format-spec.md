@@ -1,18 +1,14 @@
 ---
 type: asset
 title: KDP Formatting Spec — Breath of the Astral Year
-aliases:
-- assets/breath-of-the-astral-year-kdp-format-spec
 tags:
 - asset
 - assets
-- breath-of-the-astral-year-kdp-format-spec-md
 - garamond
 - chapter
 - centered
 - recto
 - georgia
-- color-teal
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -20,7 +16,7 @@ vault_area: assets
 canonical_path: assets/breath-of-the-astral-year-kdp-format-spec.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/ASSETS MOC]]'
 ---
 
 # KDP Formatting Spec — Breath of the Astral Year

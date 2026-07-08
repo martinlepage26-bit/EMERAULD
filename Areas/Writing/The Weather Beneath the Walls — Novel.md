@@ -7,38 +7,43 @@ aliases:
 tags:
 - areas
 - novel
-- the-weather-beneath-the-walls-novel-md
 - etienne
 - clinic
 - claire
 - town
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/The Weather Beneath the Walls — Novel.md
-backlink_count: 20
+backlink_count: 24
 backlinks:
-- '[[Areas/Writing/Alchemy of the Wound — Novel]]'
-- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/Writing/Alchemy of the Wound — Novel]]'
+- '[[Areas/Writing/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
 - '[[Areas/Writing/Le sang qui porte ton nom — Novel]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/The Returning Light — Monograph]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Novel and Creative Corpus]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

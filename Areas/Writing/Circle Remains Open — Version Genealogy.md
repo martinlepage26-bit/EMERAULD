@@ -1,31 +1,28 @@
 ---
 type: version-genealogy
 title: Circle Remains Open — Version Genealogy
-aliases:
-- Circle Remains Open — Version Genealogy
 tags:
 - ai
 - version-genealogy
 - areas
-- circle-remains-open-version-genealogy-md
 - jaar
-- article
 - circleremainsopenjaar
 - pagecirclejaar
 - title
-- color-lime
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Circle Remains Open — Version Genealogy.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Home]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Novel and Creative Corpus]]'
 ---
 
 # Circle Remains Open — Version Genealogy

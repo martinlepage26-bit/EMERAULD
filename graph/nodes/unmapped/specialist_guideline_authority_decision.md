@@ -1,11 +1,23 @@
 ---
-id: specialist_guideline_authority_decision
 type: Decision
-canonical_name: "Specialist Guideline Authority — Binding vs Advisory Split"
-aliases: []
+title: Specialist Guideline Authority — Binding vs Advisory Split
+tags:
+- decision
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/specialist_guideline_authority_decision.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: specialist_guideline_authority_decision
+canonical_name: Specialist Guideline Authority — Binding vs Advisory Split
 confidence: high
-sources: ['governance/hephaistos/AGENTS.md']
+sources:
+- governance/hephaistos/AGENTS.md
 created_from: graphify_pass
 ---
 

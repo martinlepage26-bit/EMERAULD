@@ -1,3 +1,20 @@
+---
+type: log
+title: 02_THESEUS_ARCHIVE
+tags:
+- log
+- logs
+- helix-sessions
+status: active
+created: '2026-07-03'
+updated: '2026-07-08'
+vault_area: Logs
+canonical_path: Logs/helix-sessions/gemini-2026-07-03/02_THESEUS_ARCHIVE.md
+backlink_count: 1
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+---
+
 ================================================================================
 DOCUMENT 02 — PHASE 1: SHIP OF THESEUS
 Archive File — Session Record

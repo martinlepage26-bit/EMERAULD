@@ -1,9 +1,6 @@
 ---
 type: skill
 title: statistical-analysis
-aliases:
-- skills/statistical-analysis
-- wiki/skills/statistical-analysis
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - quantification
 - defensibility
 - hypothesis
-- color-blue
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -22,8 +18,8 @@ canonical_path: wiki/skills/statistical-analysis.md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[wiki/skills/exploratory-data-analysis]]'
 - '[[wiki/skills/scientific-visualization]]'
 - '[[wiki/skills/senior-data-scientist]]'

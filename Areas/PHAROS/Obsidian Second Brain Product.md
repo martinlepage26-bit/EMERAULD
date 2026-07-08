@@ -12,36 +12,36 @@ tags:
 - product
 - commercial
 - areas
-- obsidian-second-brain-product-md
 - demo
 - sanitized
 - heygen
 - launch
-- color-orange
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Obsidian Second Brain Product.md
 backlink_count: 21
 backlinks:
-- '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[Areas/PHAROS/Chrome Extension Monetization - Policy and Product Options]]'
-- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
-- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
-- '[[wiki/EMERAULD]]'
 - '[[Areas/PHAROS/Governed Self-Improvement — Method Slide Asset]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/EMERAULD]]'
+- '[[wiki/Home]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Resources/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/SANITIZATION-REPORT]]'
 - '[[memory]]'

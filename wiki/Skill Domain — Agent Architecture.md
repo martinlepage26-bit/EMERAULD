@@ -5,7 +5,6 @@ aliases:
 - Agent Architecture domain
 - Agent development domain
 - Multi-agent skills hub
-- wiki/Skill Domain — Agent Architecture
 tags:
 - skills
 - domain
@@ -16,25 +15,27 @@ tags:
 - hitl
 - orchestration
 - wiki
-- skill-domain-agent-architecture-md
 - agent
 - skill
 - designs
-- color-orange
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Skill Domain — Agent Architecture.md
-backlink_count: 7
+backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/Skill Domain — Design and UX]]'
 - '[[wiki/Skill Domain — Security and Compliance]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Skill Domain — Agent Architecture

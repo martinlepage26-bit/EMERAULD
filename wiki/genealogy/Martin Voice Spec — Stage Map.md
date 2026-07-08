@@ -6,7 +6,6 @@ aliases:
 - Voice Spec Stage Map
 - Voice Lineage Map
 - Martin Voice Lineage Map
-- wiki/genealogy/Martin Voice Spec — Stage Map
 tags:
 - voice
 - map
@@ -20,7 +19,6 @@ tags:
 - containment
 - spec
 - constitution
-- color-purple
 status: active
 created: '2026-04-29'
 updated: '2026-06-26'

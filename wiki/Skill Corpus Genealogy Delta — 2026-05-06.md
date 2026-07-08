@@ -1,9 +1,6 @@
 ---
 type: genealogy-delta
 title: Skill Corpus Genealogy Delta — 2026-05-06
-aliases:
-- Skill Corpus Genealogy Delta — 2026-05-06
-- wiki/Skill Corpus Genealogy Delta — 2026-05-06
 tags:
 - skills
 - genealogy
@@ -15,11 +12,9 @@ tags:
 - drift
 - genealogy-delta
 - wiki
-- skill-corpus-genealogy-delta-2026-05-06-md
 - retired
 - skill
 - folders
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -28,12 +23,12 @@ canonical_path: wiki/Skill Corpus Genealogy Delta — 2026-05-06.md
 backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints]]'
-- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
-- '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Version Genealogy System]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 source_roots:
   codex: /home/cerebrhoe/.codex/skills
   claude: /home/cerebrhoe/.claude/skills

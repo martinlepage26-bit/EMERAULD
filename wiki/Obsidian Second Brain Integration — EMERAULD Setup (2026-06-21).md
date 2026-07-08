@@ -4,30 +4,30 @@ title: Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)
 aliases:
 - obsidian-second-brain
 - obsidian skills integration
-- wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)
 tags:
 - infrastructure
 - vault
 - claude-code
 - obsidian
 - wiki
-- obsidian-second-brain-integration-emerauld-setup-2026-06-21-md
 - commands
 - installed
 - brain
 - emerauld
-- color-orange
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21).md
-backlink_count: 5
+backlink_count: 8
 backlinks:
-- '[[.graph_store/graph_report]]'
-- '[[wiki/EMERAULD]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
+- '[[wiki/EMERAULD]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-06-23]]'
 ---
 

@@ -1,9 +1,6 @@
 ---
 type: genealogy
 title: PHAROS Skill Corpus Change Genealogy — 2026-05-06
-aliases:
-- PHAROS Skill Corpus Change Genealogy — 2026-05-06
-- wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06
 tags:
 - pharos
 - skills
@@ -14,11 +11,9 @@ tags:
 - routing
 - provenance
 - wiki
-- pharos-skill-corpus-change-genealogy-2026-05-06-md
 - skill
 - retired
 - meaning
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -28,13 +23,13 @@ backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
-- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Version Genealogy System]]'
+- '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[memory/local-session/project_forging_integration]]'
 - '[[memory/local-session/project_hephaistos]]'
 source_roots:

@@ -1,18 +1,13 @@
 ---
 type: artifact
 title: Very Long Narrative — Section-by-Section GPT Rewrite Prompts (2026-04-21)
-aliases:
-- assets/Very Long Narrative — Peer Review and GPT Rewrite Prompts 2026-04-21
 tags:
 - artifact
 - assets
-- very-long-narrative-peer-review-and-gpt-rewrite-prompts-2026-04-21-md
 - prompt
 - todo
-- section
 - rewritten
 - author
-- color-purple
 status: active
 created: '2026-04-21'
 updated: '2026-06-26'
@@ -21,14 +16,10 @@ canonical_path: assets/Very Long Narrative — Peer Review and GPT Rewrite Promp
 backlink_count: 1
 backlinks:
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
-about: 'Section-by-section GPT rewrite-prompt pack for the Apr 21 2026 Google Doc
-  rewrite of "Recursive AI Governance as Executable Method: The Very Long Narrative."
-  One prompt per section.'
+about: 'Section-by-section GPT rewrite-prompt pack for the Apr 21 2026 Google Doc rewrite of "Recursive AI Governance as Executable Method: The Very Long Narrative." One prompt per section.'
 source-doc-id: 1T4Y75b4VcYKYhBfPKMW6Fh33DvRRDStwxxCzUfUXzeU
 source-doc-url: https://docs.google.com/document/d/1T4Y75b4VcYKYhBfPKMW6Fh33DvRRDStwxxCzUfUXzeU/edit
-related: '[[Recursive AI Governance as Executable Method — The Very Long Narrative]],
-  [[Recursive AI Governance Very Long Narrative — Version Genealogy]], [[First Method
-  Paper — Recursive AI Governance as Executable Method]]'
+related: '[[Recursive AI Governance as Executable Method — The Very Long Narrative]], [[Recursive AI Governance Very Long Narrative — Version Genealogy]], [[First Method Paper — Recursive AI Governance as Executable Method]]'
 ---
 
 # Very Long Narrative — Section-by-Section GPT Rewrite Prompts (2026-04-21)

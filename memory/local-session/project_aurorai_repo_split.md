@@ -1,9 +1,6 @@
 ---
 type: memory-register
 title: project_aurorai_repo_split
-aliases:
-- project_aurorai_repo_split
-- memory/local-session/project_aurorai_repo_split
 tags:
 - memory
 - aurora
@@ -14,7 +11,6 @@ tags:
 - aurorai
 - repos
 - module
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

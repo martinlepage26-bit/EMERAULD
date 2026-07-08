@@ -1,11 +1,25 @@
 ---
-id: revenue_support_optimizer
 type: Tool
-canonical_name: "Revenue and Support Optimizer"
-aliases: ['revenue-support-optimizer']
+title: Revenue and Support Optimizer
+aliases:
+- revenue-support-optimizer
+tags:
+- tool
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/revenue_support_optimizer.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/post_launch_learning_loop_workflow]]'
+id: revenue_support_optimizer
+canonical_name: Revenue and Support Optimizer
 confidence: high
-sources: ['hephaistos/personal-assistant-agents/README.md']
+sources:
+- hephaistos/personal-assistant-agents/README.md
 created_from: graphify_pass
 ---
 

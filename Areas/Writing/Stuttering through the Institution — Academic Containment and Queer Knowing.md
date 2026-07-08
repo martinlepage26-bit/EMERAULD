@@ -1,43 +1,45 @@
 ---
 type: wiki
 title: Stuttering through the Institution — Academic Containment and Queer Knowing
-aliases:
-- Stuttering through the Institution — Academic Containment and Queer Knowing
 tags:
 - areas
 - ai
 - queer
-- stuttering-through-the-institution-academic-containment-and-queer-knowing-md
 - fluency
 - autoethnography
 - stutter
 - essay
 - stuttering
-- color-teal
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing.md
-backlink_count: 17
+backlink_count: 20
 backlinks:
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
-- '[[raw/Clippings/AI Recruiting Has an Accessibility Problem]]'
 ---
 
 # Stuttering through the Institution — Academic Containment and Queer Knowing

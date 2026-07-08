@@ -13,28 +13,33 @@ tags:
 - claude-code
 - infrastructure
 - areas
-- claude-peers-mcp-claude-peer-network-md
 - peers
 - claude
 - server
 - message
 - infrafabric
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/claude-peers-mcp — Claude Peer Network.md
-backlink_count: 11
+backlink_count: 15
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/agents/Blockers]]'
 - '[[memory/agents/Journal]]'
 - '[[memory/agents/Learning]]'

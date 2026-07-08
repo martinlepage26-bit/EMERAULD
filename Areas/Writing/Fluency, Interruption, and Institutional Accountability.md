@@ -1,79 +1,82 @@
 ---
 type: wiki
 title: Fluency, Interruption, and Institutional Accountability
-aliases:
-- Fluency, Interruption, and Institutional Accountability
 tags:
 - areas
-- fluency-interruption-and-institutional-accountability-md
 - interruption
 - fluency
 - algorithmic
 - labor
 - accountability
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Fluency, Interruption, and Institutional Accountability.md
-backlink_count: 56
+backlink_count: 60
 backlinks:
-- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
-- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[Areas/PHAROS/Architectural AI Governance — Willis and PBSAI]]'
-- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Fluency and Interruption Theory]]'
-- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers]]'
-- '[[wiki/Home]]'
-- '[[wiki/LOTUS Model and Agency]]'
-- '[[Resources/Le Mythe de Sisyphe — Camus (Absurd as Starting Point)]]'
-- '[[wiki/Legal and Institutional Cases]]'
-- '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
-- '[[Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook]]'
-- '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
-- '[[Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
+- '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[Areas/Personal/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
+- '[[Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
+- '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
+- '[[Areas/Writing/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
-- '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
-- '[[wiki/September 2024 Research Retrospective]]'
-- '[[Areas/Personal/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
 - '[[Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
 - '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
-- '[[Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
-- '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
+- '[[Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
-- '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Le Mythe de Sisyphe — Camus (Absurd as Starting Point)]]'
+- '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
+- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
+- '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
+- '[[Resources/Recursive Governance Theory]]'
+- '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[wiki/September 2024 Research Retrospective]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-05-02]]'
 ---
 

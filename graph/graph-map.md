@@ -1,8 +1,21 @@
 ---
 type: graph-index
 title: Graph Map
+tags:
+- graph-index
+- graph
 status: active
 created: '2026-07-02'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/graph-map.md
+backlink_count: 5
+backlinks:
+- '[[EMERAULD_OS_ARCHITECTURE]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[graph/graph-schema]]'
+- '[[graph/indexes/node-index]]'
+- '[[memory/daily/2026-07-02]]'
 ---
 
 # Graph Map — EMERAULD Curated Ontology Layer

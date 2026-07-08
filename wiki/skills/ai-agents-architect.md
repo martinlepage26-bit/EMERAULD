@@ -1,9 +1,6 @@
 ---
 type: skill
 title: ai-agents-architect
-aliases:
-- skills/ai-agents-architect
-- wiki/skills/ai-agents-architect
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - hephaistos
 - agent
 - forging
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

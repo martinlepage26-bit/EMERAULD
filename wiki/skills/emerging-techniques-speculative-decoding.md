@@ -1,9 +1,6 @@
 ---
 type: skill
 title: emerging-techniques-speculative-decoding
-aliases:
-- skills/emerging-techniques-speculative-decoding
-- wiki/skills/emerging-techniques-speculative-decoding
 tags:
 - skill
 - wiki
@@ -13,8 +10,8 @@ tags:
 - speculative
 - emerging
 - lookahead
-- color-teal
 status: active
+domain: Specialized and Miscellaneous
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: emerging-techniques-speculative-decoding
-domain: Specialized and Miscellaneous
 codex_path: /home/cerebrhoe/.codex/skills/emerging-techniques-speculative-decoding/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

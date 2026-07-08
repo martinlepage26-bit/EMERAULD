@@ -1,53 +1,56 @@
 ---
 type: wiki
 title: Loop Papers and Recursive Governance
-aliases:
-- Loop Papers and Recursive Governance
 tags:
 - areas
 - recursion
 - governance
 - paper
-- loop-papers-and-recursive-governance-md
 - recursive
 - return
 - excluded
 - simpl
 - multiplication
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Loop Papers and Recursive Governance.md
-backlink_count: 30
+backlink_count: 34
 backlinks:
-- '[[Areas/Writing/Brutal Isms — Art Grant Proposal]]'
-- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/Phase 1 Governance Formation Sequence]]'
 - '[[Areas/PHAROS/RECURSO — Final Audit and Ethical Review]]'
 - '[[Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
 - '[[Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
-- '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
-- '[[Resources/Recursive Governance Theory]]'
+- '[[Areas/Writing/Brutal Isms — Art Grant Proposal]]'
+- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
+- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[Areas/Writing/The Returning Light — Monograph]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
+- '[[Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
+- '[[wiki/Home]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Journal]]'

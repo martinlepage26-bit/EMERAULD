@@ -14,24 +14,29 @@ tags:
 - burnout
 - capacity
 - areas
-- skill-domain-operator-wellbeing-md
 - cascade
 - interrupt
 - hitl
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Skill Domain — Operator Wellbeing.md
-backlink_count: 6
+backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
-- '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Skill Domain — Operator Wellbeing

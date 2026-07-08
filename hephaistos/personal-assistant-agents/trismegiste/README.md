@@ -1,11 +1,7 @@
 ---
 type: readme
 title: Personal Assistant — WSL Setup
-aliases:
-- personal-assistant-agents/trismegiste/README
-- hephaistos/personal-assistant-agents/trismegiste/README
 tags:
-- readme
 - agents
 - trismegiste
 - personal-assistant-agents
@@ -15,8 +11,8 @@ tags:
 - watcher
 - assistant
 - curl
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

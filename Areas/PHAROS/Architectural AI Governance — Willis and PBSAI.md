@@ -1,38 +1,41 @@
 ---
 type: wiki
 title: Architectural AI Governance — Willis and PBSAI
-aliases:
-- Architectural AI Governance — Willis and PBSAI
 tags:
 - areas
 - governance
 - ai
-- architectural-ai-governance-willis-and-pbsai-md
 - execution
 - probabilistic
 - willis
 - qilis
 - semantic
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Architectural AI Governance — Willis and PBSAI.md
-backlink_count: 13
+backlink_count: 17
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
-- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
-- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[wiki/LOTUS Model and Agency]]'
 - '[[Areas/PHAROS/Machine Limitation]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
+- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
 - '[[Resources/Red Team Handbook — Offensive Security Reference]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

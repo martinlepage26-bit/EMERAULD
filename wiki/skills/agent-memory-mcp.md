@@ -1,9 +1,6 @@
 ---
 type: skill
 title: agent-memory-mcp
-aliases:
-- skills/agent-memory-mcp
-- wiki/skills/agent-memory-mcp
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - searchable
 - hybrid
 - codex
-- color-orange
 status: active
+domain: Agent Architecture and Development
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -25,7 +22,6 @@ backlinks:
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: agent-memory-mcp
-domain: Agent Architecture and Development
 codex_path: /home/cerebrhoe/.codex/skills/agent-memory-mcp/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

@@ -1,8 +1,6 @@
 ---
 type: map
 title: Queer Media and Ritual Map
-aliases:
-- maps/Queer Media and Ritual Map
 tags:
 - index
 - map
@@ -11,12 +9,10 @@ tags:
 - ritual
 - witchcraft
 - maps
-- queer-media-and-ritual-map-md
 - queer
 - legitimacy
 - machines
 - pagan
-- color-violet
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
@@ -24,12 +20,11 @@ vault_area: maps
 canonical_path: maps/Queer Media and Ritual Map.md
 backlink_count: 6
 backlinks:
-- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
-  Activism Switzerland)]]'
+- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
 - '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 ---
 

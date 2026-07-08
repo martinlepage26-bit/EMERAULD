@@ -3,7 +3,6 @@ type: map
 title: Novel and Creative Corpus
 aliases:
 - TOPIC — Novel and Creative Corpus
-- wiki/Novel and Creative Corpus
 tags:
 - index
 - map
@@ -12,12 +11,10 @@ tags:
 - creative
 - writing
 - wiki
-- novel-and-creative-corpus-md
 - novel
 - imprint
 - legitimacy
 - press
-- color-purple
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
@@ -27,28 +24,27 @@ backlink_count: 23
 backlinks:
 - '[[Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
 - '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
-- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/Writing/CORPUS Novel — Version Genealogy]]'
-- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[Areas/Writing/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
 - '[[Areas/Writing/Le sang qui porte ton nom — Novel]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/Martin Lepage — Skills by Life Domain]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Pourquoi Rever Encore — Version Genealogy]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Skill Domain — Writing and Humanization]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Skill Domain — Writing and Humanization]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 ---
 
 # Novel and Creative Corpus

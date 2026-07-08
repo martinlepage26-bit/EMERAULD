@@ -1,55 +1,58 @@
 ---
 type: wiki
 title: Complete Paper List — Martin Lepage Corpus
-aliases:
-- Complete Paper List — Martin Lepage Corpus
 tags:
 - areas
 - paper
-- complete-paper-list-martin-lepage-corpus-md
 - near
 - submission
 - studies
 - blocking
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Complete Paper List — Martin Lepage Corpus.md
-backlink_count: 33
+backlink_count: 37
 backlinks:
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
-- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
-- '[[Areas/Writing/Glitching the Sacred]]'
-- '[[wiki/Home]]'
-- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
-- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
-- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
-- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
-- '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/CODEX Writing Projects Manifest]]'
+- '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
+- '[[Areas/Writing/Glitching the Sacred]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
-- '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
-- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Home]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Research Hub]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
+- '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/Glitching the Sacred — Fisher King Project State]]'
 - '[[projects/Papers — Fisher King Project State]]'
 ---

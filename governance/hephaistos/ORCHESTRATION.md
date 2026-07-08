@@ -3,7 +3,6 @@ type: governance-doc
 title: HEPHAISTOS — Orchestration Guide
 aliases:
 - HEPHAISTOS — Orchestration Guide
-- governance/hephaistos/ORCHESTRATION
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - conflict
 - equal
 - hermes
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-07-03'
 vault_area: governance

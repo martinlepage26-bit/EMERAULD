@@ -3,7 +3,6 @@ type: map
 title: Martin Lepage Professional Identity
 aliases:
 - TOPIC — Martin Lepage Professional Identity
-- wiki/Martin Lepage Professional Identity
 tags:
 - index
 - map
@@ -13,13 +12,11 @@ tags:
 - identity
 - biography
 - wiki
-- martin-lepage-professional-identity-md
 - martin
 - lepage
 - positioning
 - uqam
 - consulting
-- color-teal
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
@@ -27,39 +24,39 @@ vault_area: wiki
 canonical_path: wiki/Martin Lepage Professional Identity.md
 backlink_count: 33
 backlinks:
-- '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'
-- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
-- '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
-- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
-- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Martin Lepage — Skills by Life Domain]]'
-- '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
-- '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/Strategic Storytelling in the AI Economy]]'
+- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Sealed Card Protocol — Version Genealogy]]'
-- '[[Areas/PHAROS/Strategic Storytelling in the AI Economy]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
-- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 ---
 
 # Martin Lepage Professional Identity

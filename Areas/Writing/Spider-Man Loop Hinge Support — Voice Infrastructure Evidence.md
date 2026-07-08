@@ -1,29 +1,32 @@
 ---
 type: wiki
 title: Spider-Man Loop Hinge Support — Voice Infrastructure Evidence
-aliases:
-- Spider-Man Loop Hinge Support — Voice Infrastructure Evidence
 tags:
 - areas
-- spider-man-loop-hinge-support-voice-infrastructure-evidence-md
 - spider
 - phonetic
 - hinge
 - voice
 - mask
-- color-pink
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
-- '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Home]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Spider-Man Loop Hinge Support — Voice Infrastructure Evidence

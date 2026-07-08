@@ -1,19 +1,18 @@
 ---
 type: archive
 title: Agatha All Along Social Compass — Version Genealogy
-aliases:
-- Agatha All Along Social Compass — Version Genealogy
 tags:
 - archive
 - areas
-- agatha-all-along-social-compass-version-genealogy-md
 - socialcompass
 - agathav
 - agatha
 - aaareviewers
 - compass
-- color-pink
+- writing
 status: archived
+domain: writing
+priority: low
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: Areas
@@ -22,15 +21,15 @@ backlink_count: 13
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[wiki/Home]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[Areas/Writing/Social Compass Reviewer Responses — Version Genealogy]]'
-- '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[Resources/The Ballad of the Witches'' Road — Lyrics]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[maps/Queer Media and Ritual Map]]'
 archived_reason: Project complete (paper submitted to Social Compass)

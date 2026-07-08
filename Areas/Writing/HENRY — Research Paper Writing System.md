@@ -13,47 +13,51 @@ tags:
 - voice
 - workflow
 - areas
-- henry-research-paper-writing-system-md
 - henry
 - paper
 - bundle
 - spec
-- color-blue
+- wiki
 status: active
+domain: writing
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/HENRY — Research Paper Writing System.md
-backlink_count: 28
+backlink_count: 32
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[Areas/Writing/AREA]]'
-- '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
-- '[[Resources/Literary References — Craft Guide]]'
-- '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
-- '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
-- '[[Areas/Writing/Per-Paper Project Structure — Folder and File Architecture]]'
+- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/AREA]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin]]'
+- '[[Areas/Writing/Per-Paper Project Structure — Folder and File Architecture]]'
 - '[[Areas/Writing/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[Resources/Literary References — Craft Guide]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
 - '[[memory/agents/Events]]'
 - '[[memory/agents/Journal]]'
 - '[[memory/agents/Learning]]'
 - '[[projects/Papers — Fisher King Project State]]'
-- '[[session-state]]'
-- '[[Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # HENRY — Research Paper Writing System

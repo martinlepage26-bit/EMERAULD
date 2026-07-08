@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Social Media Copy — Obsidian Agent Vault
-aliases:
-- artifacts/marketplace/promo/social-posts
 tags:
 - artifact
 - agents
@@ -13,7 +11,6 @@ tags:
 - pharosml
 - kvbhdo
 - loader
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

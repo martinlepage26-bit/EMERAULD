@@ -14,12 +14,13 @@ tags:
 - montreal
 - stub
 - areas
-- masculinit-s-et-ritualit-s-la-magie-chez-les-radical-faeries-md
 - faeries
 - radical
 - queer
-- color-violet
+- wiki
+- writing
 status: stub
+domain: writing
 created: '2026-05-05'
 updated: '2026-06-26'
 vault_area: Areas
@@ -28,13 +29,13 @@ backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # Masculinités et ritualités — La magie chez les Radical Faeries

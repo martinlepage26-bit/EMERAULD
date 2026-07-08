@@ -1,8 +1,6 @@
 ---
 type: project
 title: GAIA — Fisher King Project State
-aliases:
-- projects/GAIA — Fisher King Project State
 tags:
 - project
 - fisher-king
@@ -10,13 +8,12 @@ tags:
 - spiritual-tech
 - product
 - projects
-- gaia-fisher-king-project-state-md
 - launch
 - birth
 - soft
 - weave
-- color-teal
 status: in-progress
+priority: high
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: projects

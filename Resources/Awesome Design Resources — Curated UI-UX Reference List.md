@@ -15,24 +15,28 @@ tags:
 - color
 - tools
 - frontend
-- awesome-design-resources-curated-ui-ux-reference-list-md
 - awesome
 - colors
 - palettes
 - icons
-- color-orange
+- wiki
 status: active
+domain: reference
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Awesome Design Resources — Curated UI-UX Reference List.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Awesome Design Resources — Curated UI-UX Reference List

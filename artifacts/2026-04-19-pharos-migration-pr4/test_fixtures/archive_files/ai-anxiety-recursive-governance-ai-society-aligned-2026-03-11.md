@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: From AI Anxiety to Recursive Governance
-aliases:
-- artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/ai-anxiety-recursive-governance-ai-society-aligned-2026-03-11
 tags:
 - artifact
 - pharos
@@ -17,7 +15,6 @@ tags:
 - revisability
 - inspectable
 - operative
-- color-purple
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

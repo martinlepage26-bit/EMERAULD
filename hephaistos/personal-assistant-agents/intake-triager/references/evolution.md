@@ -1,9 +1,6 @@
 ---
 type: note
 title: Evolution
-aliases:
-- personal-assistant-agents/intake-triager/references/evolution
-- hephaistos/personal-assistant-agents/intake-triager/references/evolution
 tags:
 - note
 - agents
@@ -16,8 +13,8 @@ tags:
 - ambiguity
 - finisher
 - revision
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

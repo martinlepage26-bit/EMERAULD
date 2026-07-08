@@ -15,28 +15,32 @@ tags:
 - drift
 - evaluation
 - areas
-- governed-revision-loop-responsible-self-improving-agents-md
 - acceptance
 - governed
 - obsidian
 - edits
 - post
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-04-20'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents.md
-backlink_count: 12
+backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
-- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/elemental-agents/positioning-memo]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Events]]'

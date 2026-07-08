@@ -12,26 +12,29 @@ tags:
 - lucidity
 - interruption
 - resources
-- le-mythe-de-sisyphe-camus-absurd-as-starting-point-md
 - sisyphe
 - mythe
 - sisyphean
 - camus
-- color-lime
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Le Mythe de Sisyphe — Camus (Absurd as Starting Point).md
-backlink_count: 7
+backlink_count: 10
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Fluency and Interruption Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Le Mythe de Sisyphe — Camus (Absurd as Starting Point)

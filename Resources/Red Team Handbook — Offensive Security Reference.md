@@ -12,14 +12,14 @@ tags:
 - reference
 - tooling
 - resources
-- red-team-handbook-offensive-security-reference-md
 - exploitation
 - handbook
 - recon
 - redteam
 - offensive
-- color-red
+- wiki
 status: reference
+domain: reference
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Resources
@@ -28,8 +28,8 @@ backlink_count: 4
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[wiki/archive/red-team]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # Red Team Handbook — Offensive Security Reference

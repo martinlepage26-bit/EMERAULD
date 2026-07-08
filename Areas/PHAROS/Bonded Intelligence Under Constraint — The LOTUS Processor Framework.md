@@ -1,46 +1,49 @@
 ---
 type: wiki
 title: Bonded Intelligence Under Constraint — The LOTUS Processor Framework
-aliases:
-- Bonded Intelligence Under Constraint — The LOTUS Processor Framework
 tags:
 - areas
 - ai
-- bonded-intelligence-under-constraint-the-lotus-processor-framework-md
 - lotus
 - agency
 - processor
 - intelligence
 - constraint
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework.md
-backlink_count: 22
+backlink_count: 26
 backlinks:
-- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
-- '[[wiki/LOTUS Model and Agency]]'
 - '[[Areas/PHAROS/LOTUS Premium Spec]]'
-- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[Resources/Recursive Governance Theory]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
+- '[[Areas/Personal/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/LOTUS — Fisher King Project State]]'
 ---
 

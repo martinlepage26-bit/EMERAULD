@@ -12,11 +12,25 @@ tags:
 - quebec
 - governance
 - product
+- wiki
+- areas
 status: active
+domain: lavoie
 created: '2026-07-06'
 updated: '2026-07-06'
 vault_area: Areas
 canonical_path: Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan.md
+backlink_count: 9
+backlinks:
+- '[[Areas/Lavoie/AREA]]'
+- '[[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform]]'
+- '[[Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Logs/2026-07-06]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/daily/2026-07-06]]'
+- '[[memory/daily/2026-07-07]]'
 ---
 
 # LegiPro Canada-QC — Compliance Evidence Service Plan

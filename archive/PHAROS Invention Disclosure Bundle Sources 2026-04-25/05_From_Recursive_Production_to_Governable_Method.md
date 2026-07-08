@@ -1,9 +1,6 @@
 ---
 type: archive-record
-title: 'From Recursive Production to Governable Method: A Comprehensive Account of
-  the PHAROS Research Program'
-aliases:
-- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05_From_Recursive_Production_to_Governable_Method
+title: 'From Recursive Production to Governable Method: A Comprehensive Account of the PHAROS Research Program'
 tags:
 - archive
 - pharos
@@ -16,8 +13,8 @@ tags:
 - method
 - recursive
 - mediated
-- color-purple
 status: archived
+priority: low
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: archive

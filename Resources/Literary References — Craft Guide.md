@@ -14,25 +14,29 @@ tags:
 - henry
 - skill
 - resources
-- literary-references-craft-guide-md
 - literary
 - reference
 - pandora
 - phrase
-- color-purple
+- wiki
 status: active
+domain: reference
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Literary References — Craft Guide.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[Resources/Literary References in Common English — Allusion and Idiom Guide]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[governance/hephaistos/HENRY]]'
 - '[[wiki/skills/literary-references]]'
 ---

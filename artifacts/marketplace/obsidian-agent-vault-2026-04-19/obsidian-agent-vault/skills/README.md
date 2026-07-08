@@ -1,8 +1,6 @@
 ---
 type: skill-spec
 title: skills/
-aliases:
-- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/README
 tags:
 - skill
 - agents
@@ -13,7 +11,6 @@ tags:
 - synthesis
 - instructions
 - teaches
-- color-orange
 status: active
 created: '2026-04-19'
 updated: '2026-06-26'

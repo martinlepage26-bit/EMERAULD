@@ -1,20 +1,15 @@
 ---
 type: wiki
 title: VAULT ADDITIONS TRACKER
-aliases:
-- VAULT ADDITIONS TRACKER
-- wiki/VAULT ADDITIONS TRACKER
 tags:
 - tracker
 - vault
 - continuity
 - wiki
-- vault-additions-tracker-md
 - additions
 - graph
 - perplexity
 - computer
-- color-teal
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -22,7 +17,7 @@ vault_area: wiki
 canonical_path: wiki/VAULT ADDITIONS TRACKER.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/Wiki MOC]]'
 ---
 
 # VAULT ADDITIONS TRACKER

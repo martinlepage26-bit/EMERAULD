@@ -2,7 +2,6 @@
 type: wiki
 title: Machine Limitation
 aliases:
-- Machine Limitation
 - Binding Principle
 - Model-reality gap
 tags:
@@ -12,30 +11,35 @@ tags:
 - epistemics
 - hephaistos
 - areas
-- machine-limitation-md
 - principle
 - machine
 - limitation
 - willis
 - pbsai
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-02'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Machine Limitation.md
-backlink_count: 10
+backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
+- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
+- '[[Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Mental illness, addiction, and AI psychosis]]'
-- '[[Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
-- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Machine Limitation

@@ -14,39 +14,47 @@ tags:
 - proof-regime
 - communitas
 - areas
-- reflexive-inhabitation-audit-prompt-md
 - song
 - divergence
 - blank
 - thesis
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Reflexive Inhabitation Audit — Prompt.md
-backlink_count: 21
+backlink_count: 28
 backlinks:
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HELIX Full Protocol Session — Martin''s Governance Synthesis, Gemini Target (2026-07-03)]]'
+- '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
+- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
+- '[[Areas/PHAROS/RIA-CODEX — System Audit Protocol]]'
+- '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
+- '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 - '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
-- '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
-- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
-- '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
-- '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
-- '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
-- '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
-- '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]'
 ---
 

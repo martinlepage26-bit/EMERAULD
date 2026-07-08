@@ -3,7 +3,6 @@ type: map
 title: AI Identity and Phenomenology
 aliases:
 - TOPIC — AI Identity and Phenomenology
-- wiki/AI Identity and Phenomenology
 tags:
 - index
 - map
@@ -13,13 +12,11 @@ tags:
 - consciousness
 - governance
 - wiki
-- ai-identity-and-phenomenology-md
 - identity
 - self
 - continuity
 - sakura
 - memory
-- color-purple
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
@@ -28,19 +25,18 @@ canonical_path: wiki/AI Identity and Phenomenology.md
 backlink_count: 15
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Home]]'
 - '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
-- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
-- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
-  and Computational Memory Architectures]]'
 - '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

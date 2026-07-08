@@ -12,26 +12,29 @@ tags:
 - ethics
 - communication
 - areas
-- sales-objection-handling-diagnosing-fog-without-coercion-md
 - objections
 - objection
 - investment
 - budget
-- color-pink
+- wiki
 status: active
+domain: pharos
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion.md
-backlink_count: 7
+backlink_count: 10
 backlinks:
-- '[[.trash/Design Your Agent Architecture]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Sales Objection Handling — Diagnosing Fog Without Coercion

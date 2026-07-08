@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: THE HALLUCINATION RISK SCORECARD — METHODOLOGY
+tags:
+- project-mirror
+- projects
+- products
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/products/pharos-governance-tools/Hallucination_Risk_Scorecard_Methodology.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # THE HALLUCINATION RISK SCORECARD — METHODOLOGY
 **PHAROS AI v1.0 | 15-Page Practitioner Reference**  
 **Interactive Excel + PDF bundle**

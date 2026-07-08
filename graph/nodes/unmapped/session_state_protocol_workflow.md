@@ -1,11 +1,23 @@
 ---
-id: session_state_protocol_workflow
 type: Workflow
-canonical_name: "Session-State Protocol"
-aliases: []
+title: Session-State Protocol
+tags:
+- workflow
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/session_state_protocol_workflow.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: session_state_protocol_workflow
+canonical_name: Session-State Protocol
 confidence: high
-sources: ['EMERAULD/CLAUDE.md']
+sources:
+- EMERAULD/CLAUDE.md
 created_from: graphify_pass
 ---
 

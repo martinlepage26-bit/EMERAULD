@@ -12,25 +12,29 @@ tags:
 - pharos
 - governance
 - areas
-- ai-paper-prompt-pharos-recursive-workflow-case-study-md
 - chronology
 - prompt
 - paper
 - workflow
 - cross
-- color-blue
+- wiki
 status: active
+domain: pharos
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study.md
-backlink_count: 6
+backlink_count: 10
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[tmp/drive-audit-2026-04-18/summary]]'
 ---
 

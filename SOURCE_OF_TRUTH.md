@@ -1,25 +1,22 @@
 ---
 type: note
 title: SOURCE_OF_TRUTH.md
-aliases:
-- SOURCE_OF_TRUTH
 tags:
 - note
-- source-of-truth-md
 - tmux
 - lavoie
 - github
 - trackers
 - became
-- color-orange
 status: active
 created: '2026-06-26'
 updated: '2026-06-26'
 vault_area: SOURCE_OF_TRUTH.md
 canonical_path: SOURCE_OF_TRUTH.md
-backlink_count: 1
+backlink_count: 2
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/SOURCE_OF_TRUTH.MD MOC]]'
+- '[[graph/graph-map]]'
 ---
 
 # SOURCE_OF_TRUTH.md

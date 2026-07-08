@@ -1,11 +1,6 @@
 ---
 type: source-note
 title: 2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note
-aliases:
-- raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source
-  Note
-- wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker
-  — Source Note
 tags:
 - raw-source
 - ingest
@@ -19,13 +14,11 @@ tags:
 - blocker
 - cluster
 - dfda
-- color-lime
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
 vault_area: wiki
-canonical_path: wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I
-  am the blocker — Source Note.md
+canonical_path: wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note.md
 backlink_count: 3
 backlinks:
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'

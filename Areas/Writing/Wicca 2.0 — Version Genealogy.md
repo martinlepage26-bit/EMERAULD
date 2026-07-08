@@ -1,28 +1,26 @@
 ---
 type: version-genealogy
 title: Wicca 2.0 — Version Genealogy
-aliases:
-- Wicca 2.0 — Version Genealogy
 tags:
 - wicca
 - version-genealogy
 - areas
-- wicca-2-0-version-genealogy-md
 - letter
 - refwicca
 - pagewicca
 - letterwicca
-- color-violet
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Wicca 2.0 — Version Genealogy.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

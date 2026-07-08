@@ -1,9 +1,6 @@
 ---
 type: note
 title: Evolution
-aliases:
-- personal-assistant-agents/raw-archivist/references/evolution
-- hephaistos/personal-assistant-agents/raw-archivist/references/evolution
 tags:
 - note
 - agents
@@ -16,8 +13,8 @@ tags:
 - remain
 - revision
 - sellability
-- color-lime
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

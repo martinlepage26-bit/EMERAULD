@@ -1,21 +1,28 @@
 ---
 type: wiki
-title: "ADR-0001: Skill Acquisition and Governance Strategy"
+title: 'ADR-0001: Skill Acquisition and Governance Strategy'
 aliases:
-- "ADR-0001: Skill Acquisition and Governance Strategy"
+- 'ADR-0001: Skill Acquisition and Governance Strategy'
 - ADR-0001
-- wiki/adr/0001-skill-acquisition-strategy
 tags:
 - adr
 - governance
 - skills
 - council
 - superseded
+- wiki
 status: archived
+priority: low
 created: '2026-07-03'
 updated: '2026-07-03'
 vault_area: wiki
 canonical_path: wiki/adr/0001-skill-acquisition-strategy.md
+backlink_count: 4
+backlinks:
+- '[[Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration]]'
+- '[[Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6]]'
+- '[[Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # ADR-0001: Skill Acquisition and Governance Strategy

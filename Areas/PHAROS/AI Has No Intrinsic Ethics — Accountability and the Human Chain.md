@@ -11,28 +11,32 @@ tags:
 - public-statement
 - pharos
 - areas
-- ai-has-no-intrinsic-ethics-accountability-and-the-human-chain-md
 - atrophy
 - decay
 - attended
 - fringe
 - representation
-- color-pink
+- wiki
 status: active
+domain: pharos
 created: '2026-05-04'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
+- '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # AI Has No Intrinsic Ethics — Accountability and the Human Chain

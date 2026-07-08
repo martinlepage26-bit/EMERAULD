@@ -3,9 +3,7 @@ type: agent-instructions
 title: HEPHAISTOS — Agent Orchestration Layer
 aliases:
 - HEPHAISTOS — Agent Orchestration Layer
-- governance/hephaistos/AGENTS
 tags:
-- agents
 - governance
 - ai
 - hephaistos
@@ -14,8 +12,8 @@ tags:
 - queen
 - argus
 - operator
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-07-06'
 vault_area: governance

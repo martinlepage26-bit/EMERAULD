@@ -14,50 +14,54 @@ tags:
 - identity
 - pharos
 - areas
-- second-self-system-identity-kernel-and-agent-routing-architecture-md
 - organ
 - helper
 - merge
 - voice
 - public
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-04-29'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture.md
-backlink_count: 30
+backlink_count: 34
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
-- '[[wiki/Home]]'
-- '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
-- '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
 - '[[Areas/PHAROS/Trismégiste — Operator State]]'
 - '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 - '[[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/ecosystem]]'
 - '[[memory]]'
 - '[[memory/daily/2026-04-29]]'
 - '[[projects/Second Self — Fisher King Project State]]'
-- '[[session-state]]'
 source: raw sources/2026-04-29_second-self-system-identity-routing-architecture.md
 ---
 

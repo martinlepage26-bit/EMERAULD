@@ -1,35 +1,37 @@
 ---
 type: wiki
 title: PHAROS Legal Classification — CAE Code Strategy
-aliases:
-- PHAROS Legal Classification — CAE Code Strategy
 tags:
 - areas
 - pharos
 - legal
-- pharos-legal-classification-cae-code-strategy-md
 - services
 - supervision
 - administrative
 - cabinet
 - technical
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy.md
-backlink_count: 10
+backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Legal and Institutional Cases]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Company Registration and Security Incidents]]'
 - '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

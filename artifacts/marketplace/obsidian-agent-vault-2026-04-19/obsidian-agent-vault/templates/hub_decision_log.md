@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Decision Log - [Project or Domain]
-aliases:
-- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_decision_log
 tags:
 - artifact
 - ai
@@ -14,7 +12,6 @@ tags:
 - reversibility
 - deserve
 - involved
-- color-orange
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

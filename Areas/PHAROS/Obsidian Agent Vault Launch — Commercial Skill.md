@@ -13,24 +13,29 @@ tags:
 - launch
 - agent-memory
 - areas
-- obsidian-agent-vault-launch-commercial-skill-md
 - claude
 - retrieval
 - agent
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/elemental-agents/positioning-memo]]'
 - '[[assets/elemental-agents/sales-page-outline]]'
 - '[[hephaistos/personal-assistant-agents/trismegiste/vault/CLAUDE]]'

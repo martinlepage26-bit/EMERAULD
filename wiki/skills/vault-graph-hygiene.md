@@ -1,9 +1,6 @@
 ---
 type: skill
 title: vault-graph-hygiene
-aliases:
-- skills/vault-graph-hygiene
-- wiki/skills/vault-graph-hygiene
 tags:
 - skill
 - wiki
@@ -13,19 +10,17 @@ tags:
 - titles
 - rename
 - normalizes
-- color-teal
 status: active
+domain: Vault and Knowledge Graph
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/skills/vault-graph-hygiene.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: vault-graph-hygiene
-domain: Vault and Knowledge Graph
 codex_path: /home/cerebrhoe/.codex/skills/vault-graph-hygiene/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

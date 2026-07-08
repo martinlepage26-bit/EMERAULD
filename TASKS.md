@@ -1,3 +1,18 @@
+---
+type: note
+title: Tasks
+tags:
+- note
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: TASKS.md
+canonical_path: TASKS.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Tasks
 
 ## Active

@@ -1,8 +1,6 @@
 ---
 type: wiki
 title: Operator Continuity Memo — 2026-05-14
-aliases:
-- Operator Continuity Memo — 2026-05-14
 tags:
 - memo
 - operator
@@ -10,24 +8,27 @@ tags:
 - clients
 - '2026-05-14'
 - archive
-- operator-continuity-memo-2026-05-14-md
 - exterminationdg
 - lost
 - france
 - immediate
 - client
-- color-orange
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-14'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14.md
-backlink_count: 4
+backlink_count: 7
 backlinks:
-- '[[.graph_store/graph_report]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Operator Continuity Memo — 2026-05-14

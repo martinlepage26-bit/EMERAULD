@@ -1,8 +1,6 @@
 ---
 type: source-cluster-map
 title: Source Cluster Map — 2026-05-13 Raw Sources
-aliases:
-- Source Cluster Map — 2026-05-13 Raw Sources
 tags:
 - cluster-map
 - source-notes
@@ -11,13 +9,12 @@ tags:
 - trismegiste
 - source-cluster-map
 - archive
-- source-cluster-map-2026-05-13-raw-sources-md
 - cluster
 - trism
 - giste
 - clusters
 - source
-- color-lime
+- wiki-2026-07-08
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
@@ -26,14 +23,14 @@ canonical_path: archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw So
 backlink_count: 29
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
-- '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note]]'

@@ -1,8 +1,6 @@
 ---
 type: session-state
 title: session-state-002
-aliases:
-- archive/session-state/session-state-002
 tags:
 - session-state
 - archive
@@ -11,14 +9,15 @@ tags:
 - shipped
 - phase
 - circle
-- color-orange
 status: archived
+priority: low
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/session-state/session-state-002.md
-backlink_count: 1
+backlink_count: 2
 backlinks:
+- '[[archive/session-state/session-state-003]]'
 - '[[session-state]]'
 agent: Trismégiste
 archive: session-state-001

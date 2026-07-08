@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Auth Migration - Firebase to Supabase
-aliases:
-- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/_example_wiki_note
 tags:
 - artifact
 - agents
@@ -13,7 +11,6 @@ tags:
 - rollover
 - supabase
 - migration
-- color-green
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

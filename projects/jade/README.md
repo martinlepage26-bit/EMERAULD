@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: Jade
+tags:
+- project-mirror
+- projects
+- jade
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/jade/README.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Jade
 
 A bounded, local-first AI assistant. It runs on this machine through Ollama, routes only a small read-only command set, and stores session memory locally.

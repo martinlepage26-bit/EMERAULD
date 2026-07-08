@@ -1,9 +1,6 @@
 ---
 type: skill
 title: codex-review
-aliases:
-- skills/codex-review
-- wiki/skills/codex-review
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - hooks
 - correctness
 - break
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

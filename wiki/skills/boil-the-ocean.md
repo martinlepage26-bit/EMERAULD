@@ -1,9 +1,6 @@
 ---
 type: skill
 title: boil-the-ocean
-aliases:
-- skills/boil-the-ocean
-- wiki/skills/boil-the-ocean
 tags:
 - skill
 - wiki
@@ -13,19 +10,18 @@ tags:
 - softening
 - refactors
 - workaround
-- color-orange
 status: active
+domain: Specialized and Miscellaneous
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/skills/boil-the-ocean.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: boil-the-ocean
-domain: Specialized and Miscellaneous
 codex_path: /home/cerebrhoe/.codex/skills/boil-the-ocean/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

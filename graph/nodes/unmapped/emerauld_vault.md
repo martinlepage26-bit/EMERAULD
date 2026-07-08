@@ -1,11 +1,26 @@
 ---
-id: emerauld_vault
 type: System
-canonical_name: "EMERAULD"
-aliases: ['EMERAULD vault', 'BRAINiaC (former name)']
+title: EMERAULD
+aliases:
+- EMERAULD vault
+- BRAINiaC (former name)
+tags:
+- system
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/emerauld_vault.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: emerauld_vault
+canonical_name: EMERAULD
 confidence: high
-sources: ['EMERAULD/CLAUDE.md']
+sources:
+- EMERAULD/CLAUDE.md
 created_from: graphify_pass
 ---
 

@@ -2,13 +2,11 @@
 type: client
 title: ExterminationDG
 aliases:
-- ExterminationDG
 - Extermination DG
 - ExterminationGD
 - Extermination GD
 - DG (Extermination) — Client Engagement
 - DG client
-- memory/clients/ExterminationDG
 tags:
 - client
 - hermes
@@ -16,32 +14,27 @@ tags:
 - memory
 - clients
 - site
-- exterminationdg
 - facture
 - competitor
-- color-green
 status: pre-launch
 created: '2026-04-24'
 updated: '2026-06-26'
 vault_area: memory
 canonical_path: memory/clients/ExterminationDG.md
-backlink_count: 12
+backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/CLIENT ACCOUNTS]]'
-- '[[archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
-- '[[archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14]]'
 - '[[memory]]'
 - '[[memory/clients/helix-prospects-2026-q2]]'
 - '[[memory/daily/2026-05-05]]'
-- '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source
-  Note]]'
-- '[[raw/00_Inbox/Raw/2026-04-25 — DG waiting on client picks]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note]]'
 - '[[templates/Invoice Template Pharos-AI]]'
-payment_status: Contract signed 2026-05-08; $2,000 balance payment arriving 2026-05-15;
-  $500 advance already applied
+payment_status: Contract signed 2026-05-08; $2,000 balance payment arriving 2026-05-15; $500 advance already applied
 ---
 
 # ExterminationDG

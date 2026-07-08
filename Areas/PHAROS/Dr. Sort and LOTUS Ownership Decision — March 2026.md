@@ -13,30 +13,35 @@ tags:
 - pharos-residue
 - active-constraints
 - areas
-- dr-sort-and-lotus-ownership-decision-march-2026-md
 - sort
 - agency
 - march
 - restructuring
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-03'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026.md
-backlink_count: 18
+backlink_count: 22
 backlinks:
-- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
-- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
-- '[[wiki/LOTUS Model and Agency]]'
 - '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
 - '[[Areas/PHAROS/LOTUS Premium Spec]]'
+- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-06-22]]'
 - '[[memory/daily/2026-06-23]]'
 - '[[memory/daily/2026-06-24]]'

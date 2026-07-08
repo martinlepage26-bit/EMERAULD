@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: Gumroad Product Fields — The Hallucination Risk Scorecard
+tags:
+- project-mirror
+- projects
+- products
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/products/pharos-governance-tools/GUMROAD_HALLUCINATION_SCORECARD.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Gumroad Product Fields — The Hallucination Risk Scorecard
 
 ## Product Name (Gumroad)

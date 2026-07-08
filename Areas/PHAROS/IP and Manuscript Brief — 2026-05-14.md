@@ -1,8 +1,6 @@
 ---
 type: wiki
 title: IP and Manuscript Brief — 2026-05-14
-aliases:
-- IP and Manuscript Brief — 2026-05-14
 tags:
 - memo
 - pharos
@@ -11,23 +9,26 @@ tags:
 - manuscript
 - '2026-05-14'
 - areas
-- ip-and-manuscript-brief-2026-05-14-md
 - provisional
 - swain
 - draft
 - reply
-- color-orange
+- wiki
 status: active
+domain: pharos
 created: '2026-05-14'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/IP and Manuscript Brief — 2026-05-14.md
-backlink_count: 4
+backlink_count: 7
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # IP and Manuscript Brief — 2026-05-14

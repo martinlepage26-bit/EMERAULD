@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: How to Architect AI Agent Memory That Survives Context Window Limits
-aliases:
-- artifacts/marketplace/promo/devto-iter33-architecture-guide
 tags:
 - artifact
 - ai
@@ -14,7 +12,6 @@ tags:
 - project
 - alternatives
 - zone
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

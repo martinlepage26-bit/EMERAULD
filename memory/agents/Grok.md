@@ -1,19 +1,15 @@
 ---
 type: memory-register
 title: Grok
-title_override: Grok (xAI)
 aliases:
-- Grok
 - Grok (xAI)
 - xAI Grok
-- memory/agents/Grok
 - Grok CLI
 - Grok council seat
 tags:
 - memory
 - agents
 - memory-register
-- grok
 - xai
 - council
 - cli
@@ -23,6 +19,13 @@ created: '2026-07-01'
 updated: '2026-07-01'
 vault_area: memory
 canonical_path: memory/agents/Grok.md
+backlink_count: 4
+backlinks:
+- '[[memory/agents/Antigravity]]'
+- '[[memory/agents/Gemini]]'
+- '[[memory/agents/Kimi]]'
+- '[[memory/daily/2026-07-02]]'
+title_override: Grok (xAI)
 register: agents
 agent: Grok (xAI)
 ---

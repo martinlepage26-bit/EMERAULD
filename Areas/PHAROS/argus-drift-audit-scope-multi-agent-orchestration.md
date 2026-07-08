@@ -3,10 +3,23 @@ type: hephaistos-scope-packet
 title: 'HEPHAISTOS → Queen Keyport Scope Packet: Argus Drift-Audit on multi-agent-orchestration'
 aliases:
 - 'HEPHAISTOS → Queen Keyport Scope Packet: Argus Drift-Audit on multi-agent-orchestration'
+tags:
+- hephaistos-scope-packet
+- areas
+- pharos
 status: active
+domain: pharos
 created: '2026-07-03'
+updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration.md
+backlink_count: 5
+backlinks:
+- '[[Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6]]'
+- '[[Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/adr/0001-skill-acquisition-strategy]]'
+- '[[memory/daily/2026-07-03]]'
 schema: hephaistos-to-queen-keyport.md
 handoff_version: '1.0'
 task_id: argus-drift-audit-mao-20260703

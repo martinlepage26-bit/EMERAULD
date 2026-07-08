@@ -14,26 +14,29 @@ tags:
 - disinformation
 - media
 - resources
-- transparency-against-democracy-paquin-2025-sweden-democrats-trust-md
 - elite
 - denial
 - paquin
-- color-purple
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust).md
-backlink_count: 8
+backlink_count: 11
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)

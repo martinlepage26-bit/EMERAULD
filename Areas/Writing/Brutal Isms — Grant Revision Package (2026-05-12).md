@@ -13,23 +13,28 @@ tags:
 - revision
 - portfolio
 - areas
-- brutal-isms-grant-revision-package-2026-05-12-md
 - brutal
 - isms
 - exhibition
 - downloads
-- color-lime
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-05-12'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12).md
-backlink_count: 4
+backlink_count: 8
 backlinks:
 - '[[Areas/Writing/Brutal Isms — Art Grant Proposal]]'
-- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 source:
 - raw/Desktop-Downloads-scan-2026-05-12/downloads/brutal-isms-grant-with-answers_henry-final-one.docx
 - raw/Desktop-Downloads-scan-2026-05-12/downloads/brutal-isms-longform-revised.pdf

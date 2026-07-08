@@ -14,18 +14,19 @@ tags:
 - platform-strategy
 - open-weights
 - areas
-- ai-platform-dependence-anthropic-openclaw-and-commoditization-pressure-md
 - moat
 - provider
 - platform
 - subscription
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure.md
-backlink_count: 6
+backlink_count: 10
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
@@ -33,6 +34,10 @@ backlinks:
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure

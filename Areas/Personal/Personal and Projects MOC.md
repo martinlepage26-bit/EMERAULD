@@ -1,36 +1,71 @@
 ---
 type: moc
 title: Personal and Projects MOC
-aliases:
-- Personal and Projects MOC
 tags:
 - moc
 - areas
-- personal-and-projects-moc-md
 - agent
 - obsidian
 - code
 - emerauld
 - claude
-- color-orange
+- personal
 status: active
+domain: personal
+priority: high
 created: '2026-06-21'
 updated: '2026-07-06'
 vault_area: Areas
 canonical_path: Areas/Personal/Personal and Projects MOC.md
-backlink_count: 68
+backlink_count: 70
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
+- '[[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform]]'
 - '[[Areas/PHAROS/Agent Distillation Pipeline]]'
-- '[[Resources/Awesome Design Resources — Curated UI-UX Reference List]]'
-- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
-- '[[Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12)]]'
-- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
-- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/PHAROS/Chrome Extension Monetization - Policy and Product Options]]'
 - '[[Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons]]'
-- '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
 - '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
+- '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
+- '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Setup Guide]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/VoiceBridge Foundation]]'
+- '[[Areas/Personal/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
+- '[[Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
+- '[[Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12)]]'
+- '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[Resources/Awesome Design Resources — Curated UI-UX Reference List]]'
+- '[[Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
+- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[Welcome]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[archive/wiki-2026-07-08/D Drive Scan — 2026-05-12]]'
 - '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'
 - '[[archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
@@ -38,46 +73,12 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
 - '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
-- '[[Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
-- '[[Resources/Epistemic Governance — Canonical Reference]]'
-- '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
-- '[[wiki/Fisher King Hub — Project Recovery Map]]'
-- '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
-- '[[wiki/Home]]'
-- '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
-- '[[wiki/Legal and Institutional Cases]]'
-- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
-- '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
-- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Martin Lepage — Skills by Life Domain]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
-- '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
-- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
-- '[[Areas/PHAROS/Obsidian Agent Vault — Setup Guide]]'
-- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
-- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
-- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
-- '[[Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
-- '[[Areas/PHAROS/VoiceBridge Foundation]]'
-- '[[Welcome]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[archive/session-state/session-state-001]]'
-- '[[archive/session-state/session-state-002]]'
 - '[[index]]'
 - '[[memory]]'
 - '[[memory/agents/Decisions]]'
@@ -85,8 +86,8 @@ backlinks:
 - '[[memory/daily/2026-05-02]]'
 - '[[memory/daily/2026-05-07]]'
 - '[[memory/daily/2026-06-27]]'
+- '[[memory/daily/2026-07-06]]'
 - '[[projects/GAIA — Fisher King Project State]]'
-- '[[session-state]]'
 - '[[templates/Invoice Template Pharos-AI]]'
 ---
 

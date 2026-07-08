@@ -1,9 +1,6 @@
 ---
 type: source-note
 title: MIA PAPERS planes lyrics — Source Note
-aliases:
-- raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note
-- wiki/raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note
 tags:
 - raw-source
 - ingest
@@ -17,15 +14,13 @@ tags:
 - lyrics
 - ybhaagbyyhjigeaayfhgemgyqabgwgb
 - egoae
-- color-lime
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'
 source_raw_path: raw/Clippings/MIA PAPERS PLANES lyrics.md

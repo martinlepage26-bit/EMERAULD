@@ -1,9 +1,6 @@
 ---
 type: skill
 title: agent-tool-builder
-aliases:
-- skills/agent-tool-builder
-- wiki/skills/agent-tool-builder
 tags:
 - skill
 - wiki
@@ -12,19 +9,17 @@ tags:
 - builder
 - hallucinates
 - schema
-- color-orange
 status: active
+domain: Agent Architecture and Development
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/skills/agent-tool-builder.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 skill_id: agent-tool-builder
-domain: Agent Architecture and Development
 codex_path: /home/cerebrhoe/.codex/skills/agent-tool-builder/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

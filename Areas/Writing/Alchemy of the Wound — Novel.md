@@ -1,40 +1,33 @@
 ---
 type: wiki
 title: Alchemy of the Wound — Novel
-aliases:
-- Alchemy of the Wound — Novel
 tags:
 - areas
 - novel
-- alchemy-of-the-wound-novel-md
 - wound
 - seam
 - alchemy
 - marty
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Alchemy of the Wound — Novel.md
-backlink_count: 26
+backlink_count: 30
 backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/Writing/Alchemy of the Wound — Version Genealogy]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/Writing/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Home]]'
 - '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
 - '[[Areas/Writing/Le sang qui porte ton nom — Novel]]'
-- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
@@ -44,6 +37,16 @@ backlinks:
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
 - '[[Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Home]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

@@ -3,7 +3,6 @@ type: governance-doc
 title: Hephaistos / Queen Keyport Disagreement Test Case
 aliases:
 - Hephaistos / Queen Keyport Disagreement Test Case
-- governance/hephaistos/hq-disagreement-test-case
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - conflict
 - arbitration
 - keyport
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

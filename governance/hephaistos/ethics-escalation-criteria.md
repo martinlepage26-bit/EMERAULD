@@ -3,7 +3,6 @@ type: governance-doc
 title: Ethics Escalation Criteria
 aliases:
 - Ethics Escalation Criteria
-- governance/hephaistos/ethics-escalation-criteria
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - finding
 - redesign
 - mitigation
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

@@ -1,11 +1,7 @@
 ---
 type: skill-spec
 title: Marketplace Dispatcher
-aliases:
-- personal-assistant-agents/marketplace-dispatcher/SKILL
-- hephaistos/personal-assistant-agents/marketplace-dispatcher/SKILL
 tags:
-- skill
 - agents
 - skill-spec
 - personal-assistant-agents
@@ -16,21 +12,23 @@ tags:
 - offer
 - references
 - dispatcher
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/marketplace-dispatcher/SKILL.md
-backlink_count: 1
+backlink_count: 3
 backlinks:
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[graph/nodes/unmapped/content_to_market_pipeline_workflow]]'
+- '[[graph/nodes/unmapped/revenue_support_optimizer]]'
 name: marketplace-dispatcher
-description: Use when a finished offer and listing packet need marketplace-specific
-  routing, submission packets, launch sequencing, or platform adaptation.
+description: Use when a finished offer and listing packet need marketplace-specific routing, submission packets, launch sequencing, or platform adaptation.
 entity_type: Tool
 entity_id: marketplace_dispatcher
-entity_aliases: ['marketplace-dispatcher']
+entity_aliases:
+- marketplace-dispatcher
 entity_confidence: high
 ---
 

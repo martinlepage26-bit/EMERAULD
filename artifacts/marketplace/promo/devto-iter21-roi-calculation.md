@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: The Real Cost of Rebuilding AI Context (And How to Stop Paying It)
-aliases:
-- artifacts/marketplace/promo/devto-iter21-roi-calculation
 tags:
 - artifact
 - ai
@@ -13,7 +11,6 @@ tags:
 - session
 - minutes
 - sessions
-- color-orange
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

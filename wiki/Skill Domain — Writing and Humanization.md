@@ -5,7 +5,6 @@ aliases:
 - Writing and Humanization domain
 - Writing skills domain
 - Humanization skills hub
-- wiki/Skill Domain — Writing and Humanization
 tags:
 - skills
 - domain
@@ -16,24 +15,26 @@ tags:
 - fiction
 - documentation
 - wiki
-- skill-domain-writing-and-humanization-md
 - voice
 - authored
-- color-pink
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Skill Domain — Writing and Humanization.md
-backlink_count: 7
+backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
-- '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Skill Domain — Writing and Humanization

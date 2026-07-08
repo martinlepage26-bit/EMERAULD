@@ -3,7 +3,6 @@ type: map
 title: AI Infrastructure Stack
 aliases:
 - TOPIC — AI Infrastructure Stack
-- wiki/AI Infrastructure Stack
 tags:
 - index
 - map
@@ -14,13 +13,11 @@ tags:
 - rag
 - agents
 - wiki
-- ai-infrastructure-stack-md
 - infrafabric
 - blackboard
 - hosted
 - rollout
 - skill
-- color-orange
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
@@ -29,50 +26,49 @@ canonical_path: wiki/AI Infrastructure Stack.md
 backlink_count: 52
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
-- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
-- '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
-- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
-- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06]]'
-- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
-  (2026-05-07)]]'
-- '[[Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
+- '[[Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'
-- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Resources/Recursive Governance Theory]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
+- '[[Areas/PHAROS/Stacklight-owner-explainer]]'
+- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
+- '[[Areas/PHAROS/if.switchboard — InfraFabric Product Center]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Recursive Governance Theory]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 - '[[wiki/Skill Domain — Design and UX]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
-- '[[Areas/PHAROS/Stacklight-owner-explainer]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
-  and Computational Memory Architectures]]'
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[Areas/PHAROS/if.switchboard — InfraFabric Product Center]]'
 - '[[memory]]'
 - '[[memory/agents/Blockers]]'
 - '[[memory/agents/Decisions]]'
@@ -81,7 +77,6 @@ backlinks:
 - '[[memory/daily/2026-06-27]]'
 - '[[memory/daily/2026-06-30]]'
 - '[[memory/daily/2026-07-01]]'
-- '[[session-state]]'
 ---
 
 # AI Infrastructure Stack

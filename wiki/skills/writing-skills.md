@@ -1,9 +1,6 @@
 ---
 type: skill
 title: writing-skills
-aliases:
-- skills/writing-skills
-- wiki/skills/writing-skills
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - purpose
 - tone
 - craft
-- color-purple
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -22,8 +18,8 @@ canonical_path: wiki/skills/writing-skills.md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — Writing and Humanization]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Skill Domain — Writing and Humanization]]'
 - '[[wiki/skills/literary-references]]'
 - '[[wiki/skills/naming-analyzer]]'
 - '[[wiki/skills/publisher]]'

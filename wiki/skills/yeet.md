@@ -1,19 +1,15 @@
 ---
 type: skill
 title: yeet
-aliases:
-- skills/yeet
-- wiki/skills/yeet
 tags:
 - skill
 - wiki
 - skills
-- yeet
 - github
 - miscellaneous
 - codex
-- color-orange
 status: active
+domain: Specialized and Miscellaneous
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +19,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: yeet
-domain: Specialized and Miscellaneous
 codex_path: /home/cerebrhoe/.codex/skills/yeet/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

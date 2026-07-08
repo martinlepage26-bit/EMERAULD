@@ -13,32 +13,37 @@ tags:
 - claude-code
 - persistence
 - areas
-- claude-mem-persistent-memory-compression-for-claude-code-md
 - claude
 - corpora
 - session
 - lightrag
 - plugin
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code.md
-backlink_count: 12
+backlink_count: 16
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[wiki/EMERAULD]]'
 - '[[Areas/PHAROS/GSD — Get Shit Done Context Engineering System]]'
 - '[[Areas/PHAROS/GSD — Get-Shit-Done Claude Code System]]'
-- '[[wiki/LightRAG — Graph-Based RAG System]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/EMERAULD]]'
+- '[[wiki/LightRAG — Graph-Based RAG System]]'
 - '[[Resources/RAG-Anything — Multimodal RAG Framework]]'
 - '[[Resources/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 version-history-added: '2026-04-16'
 ---
 

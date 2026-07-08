@@ -1,32 +1,26 @@
 ---
 type: hub
 title: Projects Hub
-aliases:
-- Projects Hub
-- wiki/Projects Hub
 tags:
 - hub
 - projects
 - wiki
-- projects-hub-md
 - fisher
 - king
 - project
 - recovery
 - second
-- color-orange
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Projects Hub.md
-backlink_count: 5
+backlink_count: 4
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[index]]'
-- '[[session-state]]'
 ---
 
 # Projects Hub

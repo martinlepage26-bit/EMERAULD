@@ -3,30 +3,27 @@ type: governance-doc
 title: 'HENRY: Research Paper Authoring Agent'
 aliases:
 - 'HENRY: Research Paper Authoring Agent'
-- governance/hephaistos/HENRY
 tags:
 - governance
 - ai
 - agents
 - hephaistos
-- henry
 - paper
 - governance-doc
 - claim
 - methods
 - results
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance
 canonical_path: governance/hephaistos/HENRY.md
-backlink_count: 7
+backlink_count: 6
 backlinks:
-- '[[.github/agents/henry.agent]]'
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
-- '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
 - '[[governance/governance-index]]'
 - '[[governance/hephaistos/operator-to-henry]]'

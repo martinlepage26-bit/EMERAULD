@@ -4,18 +4,16 @@ title: Decision Index
 aliases:
 - decisions
 - decision-records
-- governance/decision-index
 tags:
 - decisions
 - governance
 - wiki
-- decision-index-md
 - compass
 - phasing
 - saas
 - decision
-- color-purple
 status: active
+domain: governance
 created: '2026-05-05'
 updated: '2026-06-26'
 vault_area: governance

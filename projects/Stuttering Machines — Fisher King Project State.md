@@ -1,8 +1,6 @@
 ---
 type: project
 title: Stuttering Machines — Fisher King Project State
-aliases:
-- projects/Stuttering Machines — Fisher King Project State
 tags:
 - project
 - fisher-king
@@ -10,13 +8,12 @@ tags:
 - ai-governance
 - disability
 - projects
-- stuttering-machines-fisher-king-project-state-md
 - fluency
 - machines
 - interruption
 - standalone
-- color-purple
 status: in-progress
+priority: high
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: projects

@@ -17,35 +17,40 @@ tags:
 - codex
 - meta-workflow
 - areas
-- skill-development-workflow-tdd-dual-layer-and-eval-iterate-md
 - skill
 - iterate
 - brain
 - axis
 - eval
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-30'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate.md
-backlink_count: 16
+backlink_count: 20
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/PHAROS/Anti-Charm]]'
-- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/Vault Graph Hygiene — Content Title Normalization Skill]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/skills/skill-architect]]'
 ---
 

@@ -18,23 +18,28 @@ tags:
 - voice-spec
 - quebec-english
 - areas
-- voice11-elevenlabs-tts-pipeline-md
 - mlen
 - render
 - english
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
-- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # voice11 — ElevenLabs TTS Pipeline

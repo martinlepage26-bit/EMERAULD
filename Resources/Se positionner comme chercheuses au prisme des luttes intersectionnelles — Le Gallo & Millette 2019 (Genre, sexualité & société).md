@@ -16,28 +16,30 @@ tags:
 - speech
 - power
 - resources
-- se-positionner-comme-chercheuses-au-prisme-des-luttes-intersectionnelles-le-gallo-millette-2019-genre-sexualit-soci-t-md
 - parler
 - dissertation
 - pour
 - thesis
 - captation
-- color-blue
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société).md
-backlink_count: 8
+backlink_count: 10
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Care, Ethics, and Governance]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Queer Theory Foundations]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[raw/Clippings/Alchimie et Histoire des Sciences]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)

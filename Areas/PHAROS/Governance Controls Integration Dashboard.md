@@ -6,14 +6,14 @@ aliases:
 tags:
 - governance-dashboard
 - areas
-- governance-controls-integration-dashboard-md
 - control
 - external
 - approval
 - controls
 - tool
-- color-purple
+- pharos
 status: active
+domain: pharos
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Areas
@@ -23,22 +23,22 @@ backlinks:
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
-- '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance Controls — Incident Response (Control Failure Procedures)]]'
 - '[[Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap]]'
-- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Resources/Plugin Recommendations]]'
-- '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Supersession Registry]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'
 tier: critical

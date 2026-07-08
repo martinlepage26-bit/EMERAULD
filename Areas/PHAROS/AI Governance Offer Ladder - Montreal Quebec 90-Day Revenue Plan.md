@@ -14,34 +14,35 @@ tags:
 - revenue
 - commercial-map
 - areas
-- ai-governance-offer-ladder-montreal-quebec-90-day-revenue-plan-md
 - weeks
 - offer
 - privacy
 - pack
-- color-purple
+- pharos
 status: active
+domain: pharos
 created: '2026-05-11'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan.md
-backlink_count: 15
+backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
 - '[[Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[Areas/PHAROS/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
 - '[[Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
 - '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[Areas/PHAROS/TPS-TVQ PHAROS]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
 - '[[memory/daily/2026-05-11]]'
-- '[[session-state]]'
 ---
 
 # AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan

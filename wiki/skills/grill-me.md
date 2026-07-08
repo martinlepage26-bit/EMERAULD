@@ -1,9 +1,6 @@
 ---
 type: skill
 title: grill-me
-aliases:
-- skills/grill-me
-- wiki/skills/grill-me
 tags:
 - skill
 - wiki
@@ -12,19 +9,18 @@ tags:
 - relentlessly
 - grilled
 - reaching
-- color-orange
 status: active
+domain: Research and Analysis
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/skills/grill-me.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 skill_id: grill-me
-domain: Research and Analysis
 codex_path: /home/cerebrhoe/.codex/skills/grill-me/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

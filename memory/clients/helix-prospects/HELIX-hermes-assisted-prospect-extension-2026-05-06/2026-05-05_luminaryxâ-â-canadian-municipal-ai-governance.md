@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: LUMINARYX™ — Canadian Municipal AI Governance
-aliases:
-- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_luminaryxâ-â-canadian-municipal-ai-governance
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - municipal
 - municipality
 - canadian
-- color-purple
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

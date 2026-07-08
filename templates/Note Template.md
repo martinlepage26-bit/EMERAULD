@@ -1,18 +1,14 @@
 ---
 type: template
 title: '{{title}}'
-aliases:
-- templates/Note Template
 tags:
 - template
 - templates
-- note-template-md
 - inline
 - concepts
 - ideas
 - projects
 - paragraph
-- color-teal
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'

@@ -1,8 +1,6 @@
 ---
 type: publication-draft
 title: Operations
-aliases:
-- assets/elemental-agents/ttrpg-repack/manuscript/02-operations
 tags:
 - publication
 - agents
@@ -15,7 +13,6 @@ tags:
 - fire
 - effect
 - role
-- color-orange
 status: draft-v0.1
 created: '2026-05-24'
 updated: '2026-06-26'
@@ -23,14 +20,12 @@ vault_area: assets
 canonical_path: assets/elemental-agents/ttrpg-repack/manuscript/02-operations.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/ASSETS MOC]]'
 chapter: 2
 word_target: ~3700
 voice_lock: established (matches chapter 01)
-audience: governance practitioners — primary; ritual practitioners and TTRPG designers
-  — halo readings
-position_in_book: chapter 2 of 3 (Doctrine → Operations → Audit). Companion file `operations-catalogue.md`
-  ships separately with the full 165 entries.
+audience: governance practitioners — primary; ritual practitioners and TTRPG designers — halo readings
+position_in_book: chapter 2 of 3 (Doctrine → Operations → Audit). Companion file `operations-catalogue.md` ships separately with the full 165 entries.
 ---
 
 # 2 · Operations

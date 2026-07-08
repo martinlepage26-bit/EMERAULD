@@ -1,9 +1,6 @@
 ---
 type: skill
 title: helix-operator
-aliases:
-- skills/helix-operator
-- wiki/skills/helix-operator
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - stress
 - interrogate
 - deepseek
-- color-blue
 status: active
+domain: Specialized and Miscellaneous
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 skill_id: helix-operator
-domain: Specialized and Miscellaneous
 codex_path: /home/cerebrhoe/.codex/skills/helix-operator/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

@@ -15,24 +15,28 @@ tags:
 - relative-entropy
 - reconstruction
 - resources
-- entropic-gravity-lily-of-the-valley-and-eml-three-instances-of-emergent-phenomenon-md
 - gravity
 - entropy
 - flower
 - scent
 - quantum
-- color-orange
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon.md
-backlink_count: 4
+backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 source: third layer of the EML-LILY.txt (2026-04-26)
 ---
 

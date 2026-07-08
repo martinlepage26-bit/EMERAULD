@@ -1,76 +1,79 @@
 ---
 type: wiki
 title: Social Compass Paper — Ritual Authority and Régime de Preuve
-aliases:
-- Social Compass Paper — Ritual Authority and Régime de Preuve
 tags:
 - areas
 - compassai
 - ritual
 - paper
-- social-compass-paper-ritual-authority-and-r-gime-de-preuve-md
 - proof
 - sensory
 - oppositional
 - authority
 - experience
-- color-pink
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve.md
-backlink_count: 52
+backlink_count: 56
 backlinks:
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
+- '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
-- '[[Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
 - '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[Areas/Writing/CODEX Writing Projects Manifest]]'
-- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
-- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
+- '[[Areas/Writing/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
-- '[[Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
 - '[[Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
-- '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
-- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
-- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
-- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
-- '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
-- '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
-- '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/The Familiars of Hollywood — Queerness, Whiteness, and Representation]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
-- '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[Areas/Writing/The Returning Light — Monograph]]'
 - '[[Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
 - '[[Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
+- '[[Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
+- '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
+- '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
+- '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[wiki/bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve]]'
 - '[[maps/Queer Media and Ritual Map]]'
 - '[[memory]]'

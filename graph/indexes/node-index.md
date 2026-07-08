@@ -1,8 +1,18 @@
 ---
 type: graph-index
 title: Node Index
+tags:
+- graph-index
+- graph
+- indexes
 status: active
 created: '2026-07-02'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/indexes/node-index.md
+backlink_count: 1
+backlinks:
+- '[[graph/graph-map]]'
 ---
 
 # Node Index

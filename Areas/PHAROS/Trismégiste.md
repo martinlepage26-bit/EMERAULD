@@ -10,28 +10,36 @@ tags:
 - continuity
 - personal-assistant
 - areas
-- trism-giste-md
 - trism
 - giste
 - assistant
 - eval
 - personal
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Trismégiste.md
-backlink_count: 8
+backlink_count: 15
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
-- '[[wiki/Home]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
 - '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
+- '[[Areas/Writing/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Home]]'
+- '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[governance/governance-index]]'
+- '[[graph/nodes/unmapped/session_state_protocol_workflow]]'
+- '[[graph/nodes/unmapped/session_state_registers_dataset]]'
+- '[[graph/nodes/unmapped/vault_workflow]]'
+- '[[graph/nodes/unmapped/wiki_corpus_dataset]]'
 ---
 
 # Trismégiste

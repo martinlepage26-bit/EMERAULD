@@ -12,12 +12,12 @@ tags:
 - theoretical-resource
 - halberstam
 - resources
-- halberstam-the-queer-art-of-failure-2011-md
 - khaibit
 - bibliography
 - queer
-- color-teal
+- wiki
 status: stub
+domain: reference
 created: '2026-05-05'
 updated: '2026-06-26'
 vault_area: Resources
@@ -25,12 +25,12 @@ canonical_path: Resources/Halberstam — The Queer Art of Failure (2011).md
 backlink_count: 7
 backlinks:
 - '[[Areas/Writing/AREA]]'
-- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/Queer Theory Foundations]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # Halberstam — The Queer Art of Failure (2011)

@@ -15,25 +15,28 @@ tags:
 - media-studies
 - call-for-papers
 - resources
-- sorcellerie-2-0-obadia-servais-social-compass-proposal-md
 - sorcellerie
 - digital
 - compass
 - sociabilities
-- color-pink
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal).md
-backlink_count: 6
+backlink_count: 9
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)

@@ -1,9 +1,6 @@
 ---
 type: skill
 title: gsd-pr-branch
-aliases:
-- skills/gsd-pr-branch
-- wiki/skills/gsd-pr-branch
 tags:
 - skill
 - wiki
@@ -12,8 +9,8 @@ tags:
 - filtering
 - commits
 - codex
-- color-orange
 status: active
+domain: GSD Workflow
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -23,7 +20,6 @@ backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 skill_id: gsd-pr-branch
-domain: GSD Workflow
 codex_path: /home/cerebrhoe/.codex/skills/gsd-pr-branch/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

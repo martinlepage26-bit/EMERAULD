@@ -1,11 +1,23 @@
 ---
-id: power_analyst_right_arm
 type: Tool
-canonical_name: "Power-Analyst (right-arm)"
-aliases: []
+title: Power-Analyst (right-arm)
+tags:
+- tool
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/power_analyst_right_arm.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: power_analyst_right_arm
+canonical_name: Power-Analyst (right-arm)
 confidence: high
-sources: ['governance/hephaistos/right-arm-veto-authority.md']
+sources:
+- governance/hephaistos/right-arm-veto-authority.md
 created_from: graphify_pass
 ---
 

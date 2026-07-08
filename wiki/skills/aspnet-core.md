@@ -1,9 +1,6 @@
 ---
 type: skill
 title: aspnet-core
-aliases:
-- skills/aspnet-core
-- wiki/skills/aspnet-core
 tags:
 - skill
 - wiki
@@ -13,19 +10,17 @@ tags:
 - blazor
 - razor
 - signalr
-- color-teal
 status: active
+domain: Deployment and Infrastructure
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/skills/aspnet-core.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: aspnet-core
-domain: Deployment and Infrastructure
 codex_path: /home/cerebrhoe/.codex/skills/aspnet-core/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

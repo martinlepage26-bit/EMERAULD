@@ -3,49 +3,52 @@ type: vault-tracker
 title: Vault Additions Tracker
 aliases:
 - Vault Additions Tracker
-- _vault/VAULT ADDITIONS TRACKER
 tags:
 - vault
 - tracker
 - vault-tracker
-- vault-additions-tracker-md
-- added
 - updated
 - helix
 - linked
 - created
-- color-orange
 status: active
 created: '2026-06-21'
 updated: '2026-07-03'
 vault_area: _vault
 canonical_path: _vault/VAULT ADDITIONS TRACKER.md
-backlink_count: 37
+backlink_count: 49
 backlinks:
 - '[[wiki/Agent Logs Hub]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6]]'
 - '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
-- '[[archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT]]'
 - '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Vault Graph Hygiene — Content Title Normalization Skill]]'
+- '[[wiki/Workflows Hub]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT]]'
 - '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06]]'
-- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
-- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
-- '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Vault Graph Hygiene — Content Title Normalization Skill]]'
 - '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
-- '[[wiki/Workflows Hub]]'
-- '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[index]]'
 - '[[memory/agents/Blockers]]'
 - '[[memory/agents/Decisions]]'
+- '[[memory/agents/Grok]]'
 - '[[memory/agents/Learning]]'
 - '[[memory/daily/2026-05-13]]'
 - '[[memory/daily/2026-06-22]]'
@@ -58,7 +61,12 @@ backlinks:
 - '[[memory/daily/2026-06-29]]'
 - '[[memory/daily/2026-06-30]]'
 - '[[memory/daily/2026-07-01]]'
-- '[[session-state]]'
+- '[[memory/daily/2026-07-02]]'
+- '[[memory/daily/2026-07-03]]'
+- '[[memory/daily/2026-07-04]]'
+- '[[memory/daily/2026-07-05]]'
+- '[[memory/daily/2026-07-06]]'
+- '[[memory/daily/2026-07-07]]'
 ---
 
 # Vault Additions Tracker
@@ -389,3 +397,4 @@ Latest notes and resources added to the EMERAULD vault.
 - 2026-07-08 | Phase 1 foundation scripts | enrich_frontmatter_backlinks.py rewritten (dynamic date, updated-preservation + git backfill, created>updated repair, --strip-noise-tags with [[scripts/tag_blocklist|tag_blocklist]], alias dedup, type normalization for Bases, add-only domain/priority, raw/dot-dir/node_modules exclusions, --dry-run); CORPUS_DIRS extended to PARA dirs in embed.py + build_wikilink_graph.py; new scripts para_migrate.py / prepend_frontmatter_raw.py / audit_vault.py; auto_tagger.py + color_tagger.py retired to scripts/retired/; 2 YAML-broken scope packets repaired (unquoted colons).
 - 2026-07-08 | [[_vault/PARA-MIGRATION-MANIFEST-2026-07-08|PARA Migration Manifest 2026-07-08]] + [[Logs/2026-07-08|Dev Log 2026-07-08]] | Phase 2 full PARA migration executed: 485 moves in 25 gated batches + 8 cluster moves (Areas/PHAROS 215, Areas/Writing ~150, Resources 66, archive/wiki-2026-07-08 61, Areas/Personal 8, Areas/Lavoie 3); unresolved-link count stable at 3,193 throughout; Queering/For-Her-Alone/Mauss/Second-Self clusters resolved non-destructively (verdict in manifest); structural docs updated (_CLAUDE.md §1 PARA map, Resources/ROUTING, index preamble, log.md Today, routing report marked executed).
 - 2026-07-08 | [[_vault/RAW-FRONTMATTER-MANIFEST-2026-07-08|Raw-Lane Frontmatter Manifest]] | Phase 3 operator-approved raw override executed: 157 legacy raw-lane files (raw sources/ + raw/) received minimal prepended frontmatter; bodies byte-identical (per-file sha256 assertions + git numstat 1,727 additions / 0 deletions); 670 files already carrying frontmatter untouched; raw lanes remain excluded from all enrichment churn.
+- 2026-07-08 | Phase 4 unified frontmatter pass | enrich --strip-noise-tags over 1,502 editable files at final post-migration paths: 41→0 missing frontmatter, 30→0 impossible created>updated, color-* 1,353→0, filename-echo 731→0, type normalization (Daily.base now sees 32/32 daily logs), backlink_count/backlinks arrays recomputed vault-wide, path-variant aliases stripped, domain/priority added where inferable. updated: PRESERVED (1,290 files keep 2026-06-26; no re-saturation).

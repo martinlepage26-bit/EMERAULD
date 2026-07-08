@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: Généalogie Lepage / Deschênes — dossier de travail
+tags:
+- project-mirror
+- projects
+- genealogie-lepage-deschenes
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/genealogie-lepage-deschenes/README.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Généalogie Lepage / Deschênes — dossier de travail
 
 Ce dossier centralise le travail de fiabilisation de l'arbre familial de Martin Lepage

@@ -1,9 +1,6 @@
 ---
 type: source-note
 title: 2026-04-25 — DG waiting on client picks — Source Note
-aliases:
-- raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note
-- wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note
 tags:
 - raw-source
 - ingest
@@ -17,13 +14,11 @@ tags:
 - client
 - cluster
 - ecfeaf
-- color-lime
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
 vault_area: wiki
-canonical_path: wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks
-  — Source Note.md
+canonical_path: wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note.md
 backlink_count: 3
 backlinks:
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'

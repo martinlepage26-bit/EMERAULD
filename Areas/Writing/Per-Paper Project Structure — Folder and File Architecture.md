@@ -7,25 +7,28 @@ aliases:
 - Scholarly Article Folder Structure
 tags:
 - areas
-- per-paper-project-structure-folder-and-file-architecture-md
 - journal
-- abstract
 - citation
-- outline
 - paper
-- color-violet
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-05-31'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Per-Paper Project Structure — Folder and File Architecture.md
-backlink_count: 5
+backlink_count: 9
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Per-Paper Project Structure — Folder and File Architecture

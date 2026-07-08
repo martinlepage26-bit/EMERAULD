@@ -1,11 +1,24 @@
 ---
-id: wiki_corpus_dataset
 type: Dataset
-canonical_name: "wiki/ corpus"
-aliases: []
+title: wiki/ corpus
+tags:
+- dataset
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/wiki_corpus_dataset.md
+backlink_count: 2
+backlinks:
+- '[[graph/nodes/unmapped/enrich_frontmatter_backlinks_py]]'
+- '[[graph/nodes/unmapped/resolve_orphans_py]]'
+id: wiki_corpus_dataset
+canonical_name: wiki/ corpus
 confidence: high
-sources: ['EMERAULD/CLAUDE.md']
+sources:
+- EMERAULD/CLAUDE.md
 created_from: graphify_pass
 ---
 

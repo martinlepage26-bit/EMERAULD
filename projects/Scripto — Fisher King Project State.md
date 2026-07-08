@@ -1,8 +1,6 @@
 ---
 type: project
 title: Scripto — Fisher King Project State
-aliases:
-- projects/Scripto — Fisher King Project State
 tags:
 - project
 - fisher-king
@@ -10,12 +8,11 @@ tags:
 - scriptorium
 - writing
 - projects
-- scripto-fisher-king-project-state-md
 - astro
 - premium
 - site
-- color-orange
 status: in-progress
+priority: high
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: projects

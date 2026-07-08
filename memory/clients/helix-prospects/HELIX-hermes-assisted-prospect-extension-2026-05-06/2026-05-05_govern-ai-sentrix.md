@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Govern-AI | Sentrix
-aliases:
-- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_govern-ai-sentrix
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - organizations
 - risks
 - requirements
-- color-purple
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

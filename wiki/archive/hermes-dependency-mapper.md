@@ -1,9 +1,6 @@
 ---
 type: skill
 title: hermes-dependency-mapper
-aliases:
-- archive/hermes-dependency-mapper
-- wiki/archive/hermes-dependency-mapper
 tags:
 - skill
 - wiki
@@ -13,17 +10,15 @@ tags:
 - mapper
 - hermes
 - retained
-- color-green
 status: dropped
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/archive/hermes-dependency-mapper.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 skill_id: hermes-dependency-mapper
 scope: routing
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md

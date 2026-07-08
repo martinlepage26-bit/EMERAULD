@@ -5,7 +5,6 @@ aliases:
 - MASTERxMASTERxMASTER
 - skill corpus
 - MASTER PACK skills
-- wiki/MASTERxMASTERxMASTER — Skill Corpus Map
 tags:
 - index
 - map
@@ -14,13 +13,11 @@ tags:
 - governance
 - hephaistos
 - wiki
-- masterxmasterxmaster-skill-corpus-map-md
 - const
 - skill
 - letters
 - pack
 - masterxmasterxmaster
-- color-purple
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
@@ -28,23 +25,23 @@ vault_area: wiki
 canonical_path: wiki/MASTERxMASTERxMASTER — Skill Corpus Map.md
 backlink_count: 17
 backlinks:
-- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[wiki/APEX Papers — Research Archive Map]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/MASTER PACK — D Drive Archive Map]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
-- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
-- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
 ---
 
 # MASTERxMASTERxMASTER — Skill Corpus Map

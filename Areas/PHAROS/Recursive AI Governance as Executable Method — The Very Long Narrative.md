@@ -1,35 +1,38 @@
 ---
 type: wiki
 title: Recursive AI Governance as Executable Method — The Very Long Narrative
-aliases:
-- Recursive AI Governance as Executable Method — The Very Long Narrative
 tags:
 - areas
 - recursion
 - governance
 - ai
-- recursive-ai-governance-as-executable-method-the-very-long-narrative-md
 - method
 - recursive
 - governability
 - executable
 - protocolization
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Home]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

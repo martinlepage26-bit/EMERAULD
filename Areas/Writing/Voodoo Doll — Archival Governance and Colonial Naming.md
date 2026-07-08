@@ -1,37 +1,40 @@
 ---
 type: wiki
 title: Voodoo Doll — Archival Governance and Colonial Naming
-aliases:
-- Voodoo Doll — Archival Governance and Colonial Naming
 tags:
 - areas
 - governance
-- voodoo-doll-archival-governance-and-colonial-naming-md
 - voodoo
 - doll
 - archival
 - colonial
 - vodou
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming.md
-backlink_count: 12
+backlink_count: 16
 backlinks:
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Governance by Denial]]'
-- '[[wiki/Home]]'
-- '[[Resources/L’esprit du don — Godbout & Caillé (1992)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Home]]'
+- '[[Resources/L’esprit du don — Godbout & Caillé (1992)]]'
+- '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[Resources/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Voodoo Doll — Archival Governance and Colonial Naming

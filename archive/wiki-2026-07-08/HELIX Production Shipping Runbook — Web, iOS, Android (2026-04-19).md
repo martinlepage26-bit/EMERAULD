@@ -17,22 +17,26 @@ tags:
 - mobile
 - web
 - archive
-- helix-production-shipping-runbook-web-ios-android-2026-04-19-md
 - android
 - shipping
-- color-teal
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-04-30'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md
-backlink_count: 6
+backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/HELIX — Fisher King Project State]]'
 ---
 

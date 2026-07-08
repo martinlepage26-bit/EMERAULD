@@ -1,39 +1,42 @@
 ---
 type: wiki
 title: Crossing Under Watch — Troll's Toll and Digital Ritual Passage
-aliases:
-- Crossing Under Watch — Troll's Toll and Digital Ritual Passage
 tags:
 - areas
 - ritual
-- crossing-under-watch-troll-s-toll-and-digital-ritual-passage-md
 - toll
 - troll
 - captioning
 - tolls
 - crossing
-- color-teal
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Crossing Under Watch — Troll's Toll and Digital Ritual Passage.md
-backlink_count: 15
+backlink_count: 19
 backlinks:
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[wiki/Home]]'
-- '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

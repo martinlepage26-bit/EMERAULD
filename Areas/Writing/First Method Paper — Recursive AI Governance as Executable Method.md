@@ -1,43 +1,33 @@
 ---
 type: wiki
 title: First Method Paper — Recursive AI Governance as Executable Method
-aliases:
-- First Method Paper — Recursive AI Governance as Executable Method
 tags:
 - areas
 - recursion
 - governance
 - ai
 - paper
-- first-method-paper-recursive-ai-governance-as-executable-method-md
 - method
 - laboratory
 - order
 - wheels
 - stage
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method.md
-backlink_count: 45
+backlink_count: 49
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
-- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[Areas/Writing/First Method Paper — Version Genealogy]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
-- '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
-- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
-- '[[Areas/Writing/Loop Papers and Recursive Governance]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
@@ -45,12 +35,14 @@ backlinks:
 - '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
 - '[[Areas/PHAROS/Phase 1 Governance Formation Sequence]]'
-- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
-- '[[Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
 - '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
-- '[[Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy]]'
 - '[[Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
-- '[[Resources/Recursive Governance Theory]]'
+- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
+- '[[Areas/Writing/First Method Paper — Version Genealogy]]'
+- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[Areas/Writing/Loop Papers and Recursive Governance]]'
+- '[[Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
+- '[[Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
@@ -58,12 +50,23 @@ backlinks:
 - '[[Areas/Writing/Spider-Man — Version Genealogy]]'
 - '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
 - '[[Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Home]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Journal]]'

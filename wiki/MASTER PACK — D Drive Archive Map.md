@@ -4,7 +4,6 @@ title: MASTER PACK — D Drive Archive Map
 aliases:
 - MASTER PACK
 - D drive archive
-- wiki/MASTER PACK — D Drive Archive Map
 tags:
 - index
 - map
@@ -13,13 +12,11 @@ tags:
 - papers
 - skills
 - wiki
-- master-pack-d-drive-archive-map-md
 - apex
 - common
 - masterxmasterxmaster
 - recursive
 - recurso
-- color-purple
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
@@ -28,11 +25,11 @@ canonical_path: wiki/MASTER PACK — D Drive Archive Map.md
 backlink_count: 6
 backlinks:
 - '[[wiki/APEX Papers — Research Archive Map]]'
+- '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
 - '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
-- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 ---
 
 # MASTER PACK — D Drive Archive Map

@@ -15,11 +15,26 @@ tags:
 - fieldops
 - cloudflare
 - fastapi
+- wiki
+- areas
 status: active
+domain: lavoie
 created: '2026-07-06'
 updated: '2026-07-06'
 vault_area: Areas
 canonical_path: Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform.md
+backlink_count: 10
+backlinks:
+- '[[Areas/Lavoie/AREA]]'
+- '[[Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan]]'
+- '[[Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Logs/2026-07-06]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[memory/daily/2026-07-06]]'
+- '[[memory/daily/2026-07-07]]'
 ---
 
 # Contremaître — Groupe Lavoie Field-Operations Platform

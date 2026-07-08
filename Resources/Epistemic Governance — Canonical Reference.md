@@ -20,26 +20,30 @@ tags:
 - dimension-f
 - audit
 - resources
-- epistemic-governance-canonical-reference-md
 - analytical
 - epistemic
 - brain
 - dimension
-- color-purple
+- wiki
 status: active
+domain: reference
 created: '2026-05-24'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Epistemic Governance — Canonical Reference.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
+- '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
-- '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[assets/elemental-agents/ttrpg-repack/manuscript/_audit_dimension-F-2026-05-24]]'
 source_path: /mnt/skills/user/skill-architect/references/epistemic-governance.md
 canonical_pair: Epistemic Operator — Operational Specification

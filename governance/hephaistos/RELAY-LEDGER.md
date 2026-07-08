@@ -3,7 +3,6 @@ type: governance-doc
 title: RELAY LEDGER — Handoff Protocol and Audit Record
 aliases:
 - RELAY LEDGER — Handoff Protocol and Audit Record
-- governance/hephaistos/RELAY-LEDGER
 tags:
 - governance
 - ai
@@ -14,8 +13,8 @@ tags:
 - ledger
 - operator
 - entry
-- color-purple
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: governance

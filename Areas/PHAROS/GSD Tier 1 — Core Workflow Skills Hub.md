@@ -12,29 +12,34 @@ tags:
 - documentation
 - hub
 - areas
-- gsd-tier-1-core-workflow-skills-hub-md
 - milestone
 - phase
 - skill
 - domain
 - tier
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub.md
-backlink_count: 9
+backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
 - '[[Areas/PHAROS/GSD — Get Shit Done Context Engineering System]]'
-- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
-- '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # GSD Tier 1 — Core Workflow Skills Hub

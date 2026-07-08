@@ -1,8 +1,6 @@
 ---
 type: checklist
 title: Lazy Obsidian Method - Implementation Checklist
-aliases:
-- resources/Lazy Obsidian Method/Lazy Obsidian Method - Implementation Checklist
 tags:
 - setup
 - workflow
@@ -14,13 +12,11 @@ tags:
 - configure
 - phase
 - template
-- color-orange
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: resources
-canonical_path: resources/Lazy Obsidian Method/Lazy Obsidian Method - Implementation
-  Checklist.md
+canonical_path: resources/Lazy Obsidian Method/Lazy Obsidian Method - Implementation Checklist.md
 backlink_count: 1
 backlinks:
 - '[[resources/Lazy Obsidian Method/Index]]'

@@ -1,8 +1,6 @@
 ---
 type: wiki
 title: Skill Map — Canonical Routed Skills (2026-05-06)
-aliases:
-- Skill Map — Canonical Routed Skills (2026-05-06)
 tags:
 - skills
 - registry
@@ -10,24 +8,25 @@ tags:
 - hephaistos
 - governance
 - areas
-- skill-map-canonical-routed-skills-2026-05-06-md
 - scientific
 - skill
 - humanize
 - scope
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06).md
-backlink_count: 62
+backlink_count: 66
 backlinks:
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/archive/agent-evaluation]]'
 - '[[wiki/archive/ai-product]]'
 - '[[wiki/archive/first-principles]]'
@@ -39,6 +38,10 @@ backlinks:
 - '[[wiki/archive/red-team]]'
 - '[[wiki/archive/triangulation]]'
 - '[[wiki/archive/web-scraping]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[governance/hephaistos/DEPLOYMENT-CHECKLIST]]'
 - '[[governance/hephaistos/FORGING-AUDIT]]'
 - '[[hephaistos/DEPLOYMENT-CHECKLIST]]'

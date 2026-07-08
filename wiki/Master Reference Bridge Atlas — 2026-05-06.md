@@ -5,7 +5,6 @@ aliases:
 - Master reference bridge atlas
 - Bibliography brain bridge
 - Reference-list interconnectivity map
-- wiki/Master Reference Bridge Atlas — 2026-05-06
 tags:
 - bibliography
 - bridge
@@ -19,10 +18,8 @@ tags:
 - infrastructure
 - map
 - wiki
-- master-reference-bridge-atlas-2026-05-06-md
 - magic
 - bibliographiques
-- color-purple
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -30,17 +27,17 @@ vault_area: wiki
 canonical_path: wiki/Master Reference Bridge Atlas — 2026-05-06.md
 backlink_count: 12
 backlinks:
-- '[[wiki/Home]]'
-- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
-- '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Martin Lepage — Skills by Life Domain]]'
-- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
+- '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

@@ -13,37 +13,40 @@ tags:
 - foundation
 - governance
 - areas
-- pharos-origin-and-doctrine-md
 - disabled
 - love
 - lived
-- section
 - objectivity
-- color-pink
+- wiki
 status: active
+domain: pharos
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS — Origin and Doctrine.md
-backlink_count: 18
+backlink_count: 22
 backlinks:
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
-- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
 - '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
-- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
-- '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-04-25]]'
 written_in: 58 minutes (07:00 — 07:58)
 ---

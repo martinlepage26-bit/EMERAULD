@@ -14,22 +14,20 @@ tags:
 - governance
 - commercial
 - areas
-- helix-value-proposition-and-buyer-profile-md
 - personally
 - ruling
 - backend
 - consulting
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-05-05'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX — Value Proposition and Buyer Profile.md
-backlink_count: 29
+backlink_count: 32
 backlinks:
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
-- '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
-- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
@@ -48,11 +46,16 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS Method — Core Framework]]'
 - '[[Areas/PHAROS/PHAROS Product Stack]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[_CLAUDE]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/helix-prospects-2026-q2]]'
 - '[[memory/local-session/decision_compass_deployment_phasing]]'
 - '[[projects/HELIX — Fisher King Project State]]'

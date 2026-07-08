@@ -1,8 +1,6 @@
 ---
 type: project
 title: project_forging_integration
-aliases:
-- memory/local-session/project_forging_integration
 tags:
 - project
 - memory
@@ -12,7 +10,6 @@ tags:
 - phase
 - eyes
 - keyport
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -25,8 +22,7 @@ backlinks:
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 - '[[memory/local-session/project_hephaistos]]'
 name: HEPHAISTOS Forging Integration — Complete
-description: 39-skill Forging integration complete as of 2026-04-09; all phases done,
-  Tier 0 primary authority confirmed, system operational
+description: 39-skill Forging integration complete as of 2026-04-09; all phases done, Tier 0 primary authority confirmed, system operational
 originSessionId: 279e2b19-1eeb-4d40-a5fe-01256a77d3c5
 ---
 

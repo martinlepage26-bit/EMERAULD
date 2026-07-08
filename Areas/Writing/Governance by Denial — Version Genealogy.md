@@ -1,20 +1,18 @@
 ---
 type: version-genealogy
 title: Governance by Denial — Version Genealogy
-aliases:
-- Governance by Denial — Version Genealogy
 tags:
 - governance
 - version-genealogy
 - areas
-- governance-by-denial-version-genealogy-md
 - denial
 - revised
 - working
 - draft
 - identical
-- color-purple
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
@@ -23,10 +21,10 @@ backlink_count: 6
 backlinks:
 - '[[Areas/Writing/Governance by Denial]]'
 - '[[Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
-- '[[wiki/Home]]'
-- '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Novel and Creative Corpus]]'
 ---
 
 # Governance by Denial — Version Genealogy

@@ -1,9 +1,6 @@
 ---
 type: skill
 title: trace-investigator
-aliases:
-- skills/trace-investigator
-- wiki/skills/trace-investigator
 tags:
 - skill
 - wiki
@@ -13,20 +10,18 @@ tags:
 - widened
 - softened
 - appendices
-- color-orange
 status: active
+domain: Specialized and Miscellaneous
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/skills/trace-investigator.md
-backlink_count: 4
+backlink_count: 3
 backlinks:
-- '[[.graph_store/graph_report]]'
-- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: trace-investigator
-domain: Specialized and Miscellaneous
 codex_path: /home/cerebrhoe/.codex/skills/trace-investigator/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

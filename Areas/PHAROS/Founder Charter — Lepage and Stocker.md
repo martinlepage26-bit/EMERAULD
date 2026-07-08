@@ -1,41 +1,44 @@
 ---
 type: wiki
 title: Founder Charter — Lepage and Stocker
-aliases:
-- Founder Charter — Lepage and Stocker
 tags:
 - areas
-- founder-charter-lepage-and-stocker-md
 - cgto
 - reserved
 - charter
 - founder
 - owns
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Founder Charter — Lepage and Stocker.md
-backlink_count: 18
+backlink_count: 22
 backlinks:
 - '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric Architecture]]'
-- '[[wiki/Legal and Institutional Cases]]'
-- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
 - '[[Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
-- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN]]'
+- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

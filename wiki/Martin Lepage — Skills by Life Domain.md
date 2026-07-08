@@ -5,7 +5,6 @@ aliases:
 - Skills by domain
 - Life domain skill map
 - Studies work art map
-- wiki/Martin Lepage — Skills by Life Domain
 tags:
 - skills
 - studies
@@ -14,30 +13,32 @@ tags:
 - professional-experience
 - martin-lepage
 - wiki
-- martin-lepage-skills-by-life-domain-md
 - composition
 - lepage
 - ring
 - artistic
 - authored
-- color-green
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Martin Lepage — Skills by Life Domain.md
-backlink_count: 10
+backlink_count: 14
 backlinks:
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Martin Lepage — Skills by Life Domain

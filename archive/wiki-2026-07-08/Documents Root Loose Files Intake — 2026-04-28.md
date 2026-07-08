@@ -1,8 +1,6 @@
 ---
 type: index
 title: Documents Root Loose Files Intake — 2026-04-28
-aliases:
-- Documents Root Loose Files Intake — 2026-04-28
 tags:
 - vault-intake
 - raw-sources
@@ -11,13 +9,12 @@ tags:
 - pharos
 - index
 - archive
-- documents-root-loose-files-intake-2026-04-28-md
 - tracker
 - protocols
 - theseus
 - snapshots
 - market
-- color-lime
+- wiki-2026-07-08
 status: active
 created: '2026-04-28'
 updated: '2026-06-26'
@@ -25,37 +22,37 @@ vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28.md
 backlink_count: 33
 backlinks:
-- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
-- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
-- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
-- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
 - '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Phase 1 Governance Formation Sequence]]'
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
-- '[[Resources/Recursive Governance Theory]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
-- '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
-- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 - '[[memory/daily/2026-04-28]]'
 ---

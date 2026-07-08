@@ -1,39 +1,42 @@
 ---
 type: wiki
 title: Narrative and Method Integration — Creative Articulations of Governance
-aliases:
-- Narrative and Method Integration — Creative Articulations of Governance
 tags:
 - areas
 - governance
-- narrative-and-method-integration-creative-articulations-of-governance-md
 - novel
 - narrative
 - palace
 - wound
 - seam
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance.md
-backlink_count: 14
+backlink_count: 18
 backlinks:
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
-- '[[wiki/Care, Ethics, and Governance]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Home]]'
-- '[[Resources/Literary References — Craft Guide]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Philosopher]]'
-- '[[Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
+- '[[Resources/Literary References — Craft Guide]]'
 - '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Narrative and Method Integration — Creative Articulations of Governance

@@ -16,25 +16,29 @@ tags:
 - governance
 - synthesis
 - areas
-- pharos-launch-fluency-evidence-and-mid-funnel-trust-synthesis-md
 - launch
 - funnel
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: 2026-05-01T16:25
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis).md
-backlink_count: 8
+backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window]]'
-- '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
-- '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
+- '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 > **Cluster connections:** Cleanest commercial-positioning synthesis from the 2026-05-01 launch arc. The fluency/interruption distinction it operationalizes derives from [[Fluency, Interruption, and Institutional Accountability]] and ultimately from the *le silence* threshold of the [[Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard|Pourquoi rêver encore]] essay; methodological substrate at [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]]. Indexed in [[PHAROS Commercial Strategy]] (Launch Operations) and [[Martin Lepage Professional Identity]] (Professional Positioning). Companion: [[PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]], [[Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]], [[PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]].

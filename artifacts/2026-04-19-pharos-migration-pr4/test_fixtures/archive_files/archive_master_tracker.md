@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Archive Master Tracker
-aliases:
-- artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/archive_master_tracker
 tags:
 - artifact
 - pharos
@@ -13,7 +11,6 @@ tags:
 - specs
 - manuscripts
 - entries
-- color-green
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

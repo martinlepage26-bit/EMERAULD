@@ -1,23 +1,19 @@
 ---
 type: raw-capture
 title: '{{title}}'
-aliases:
-- templates/Raw Capture Template
 tags:
 - inbox
 - raw
 - raw-capture
 - templates
-- raw-capture-template-md
 - para
 - suggested
 - destination
 - topics
 - quick
-- color-lime
 status: unprocessed
 created: '{{date}}'
-updated: '2026-06-26'
+updated: '{{date}}'
 vault_area: templates
 canonical_path: templates/Raw Capture Template.md
 backlink_count: 1

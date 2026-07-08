@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Our SaaS Technology Platform | Assent
-aliases:
-- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_our-saas-technology-platform-assent
 tags:
 - raw-source
 - memory
@@ -12,7 +10,6 @@ tags:
 - platform
 - discover
 - saas
-- color-green
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

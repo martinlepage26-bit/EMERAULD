@@ -1,9 +1,6 @@
 ---
 type: skill
 title: web-artifacts-builder
-aliases:
-- skills/web-artifacts-builder
-- wiki/skills/web-artifacts-builder
 tags:
 - skill
 - wiki
@@ -13,8 +10,8 @@ tags:
 - builder
 - elaborate
 - tailwind
-- color-orange
 status: active
+domain: Specialized and Miscellaneous
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
@@ -24,7 +21,6 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: web-artifacts-builder
-domain: Specialized and Miscellaneous
 codex_path: /home/cerebrhoe/.codex/skills/web-artifacts-builder/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---

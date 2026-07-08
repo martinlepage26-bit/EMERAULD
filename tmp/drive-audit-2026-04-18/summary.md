@@ -1,8 +1,6 @@
 ---
 type: note
 title: Drive Audit Summary
-aliases:
-- tmp/drive-audit-2026-04-18/summary
 tags:
 - note
 - tmp
@@ -12,7 +10,6 @@ tags:
 - letter
 - cover
 - proposal
-- color-purple
 status: temporary
 created: '2026-04-18'
 updated: '2026-06-26'

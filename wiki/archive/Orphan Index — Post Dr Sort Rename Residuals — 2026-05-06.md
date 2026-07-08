@@ -1,9 +1,6 @@
 ---
 type: orphan-index
 title: Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06
-aliases:
-- archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06
-- wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06
 tags:
 - orphan-index
 - wiki
@@ -13,7 +10,6 @@ tags:
 - rename
 - sort
 - converted
-- color-purple
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'

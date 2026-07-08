@@ -5,24 +5,28 @@ aliases:
 - VAULT-LINKING-SESSION-SUMMARY-2026-05-01
 tags:
 - archive
-- vault-linking-session-summary-2026-05-01-md
 - topic
 - disability
 - enhanced
 - papers
 - epistemology
-- color-teal
+- wiki
+- wiki-2026-07-08
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
 vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Vault Linking Session Summary — 2026-05-01.md
-backlink_count: 4
+backlink_count: 8
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Vault Linking Session Summary — 2026-05-01

@@ -3,7 +3,6 @@ type: architecture-module
 title: Architecture - EMERAULD Scripts - Intake Pipeline
 aliases:
 - EMERAULD intake pipeline
-- wiki/Architecture - EMERAULD Scripts - Intake Pipeline
 tags:
 - architecture
 - emerauld
@@ -12,15 +11,13 @@ tags:
 - raw-sources
 - architecture-module
 - wiki
-- architecture-emerauld-scripts-intake-pipeline-md
 - hardmove
 - immutable
 - library
 - hardcoded
-- color-lime
 status: active
 created: '2026-06-29'
-updated: '2026-06-26'
+updated: '2026-06-29'
 vault_area: wiki
 canonical_path: wiki/Architecture - EMERAULD Scripts - Intake Pipeline.md
 backlink_count: 8
@@ -28,11 +25,11 @@ backlinks:
 - '[[wiki/Architecture - EMERAULD Scripts - Key Decisions]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Overview]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
 - '[[index]]'
 - '[[wiki/lightrag_config — EMERAULD Shared Config Module]]'
 - '[[memory/agents/Events]]'
 - '[[memory/daily/2026-06-29]]'
-- '[[session-state]]'
 scanned-commit: 96e6487
 ---
 

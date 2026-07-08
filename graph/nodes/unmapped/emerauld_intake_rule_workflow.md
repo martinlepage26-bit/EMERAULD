@@ -1,11 +1,23 @@
 ---
-id: emerauld_intake_rule_workflow
 type: Workflow
-canonical_name: "EMERAULD Intake Rule (2026-05-12)"
-aliases: []
+title: EMERAULD Intake Rule (2026-05-12)
+tags:
+- workflow
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/emerauld_intake_rule_workflow.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+id: emerauld_intake_rule_workflow
+canonical_name: EMERAULD Intake Rule (2026-05-12)
 confidence: high
-sources: ['governance/hephaistos/AGENTS.md']
+sources:
+- governance/hephaistos/AGENTS.md
 created_from: graphify_pass
 ---
 

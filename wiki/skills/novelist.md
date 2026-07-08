@@ -1,9 +1,6 @@
 ---
 type: skill
 title: novelist
-aliases:
-- skills/novelist
-- wiki/skills/novelist
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - typically
 - eyes
 - scene
-- color-purple
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -21,10 +17,10 @@ vault_area: wiki
 canonical_path: wiki/skills/novelist.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — Writing and Humanization]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Skill Domain — Writing and Humanization]]'
 - '[[wiki/skills/publisher]]'
 skill_id: novelist
 scope: output

@@ -16,32 +16,34 @@ tags:
 - troubleshooting
 - app-development
 - resources
-- chatgpt-apps-sdk-planning-metadata-deployment-and-operations-md
 - apps
 - golden
 - connector
 - chatgpt
 - prompts
-- color-blue
+- wiki
 status: active
+domain: reference
 created: '2026-04-23'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md
-backlink_count: 12
+backlink_count: 14
 backlinks:
-- '[[.trash/ACTOR Framework Worksheet]]'
-- '[[Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
-- '[[Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Home]]'
+- '[[Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_how-td-helps-advance-ai-innovation]]'
 - '[[memory/local-session/reference_seven_pillars_stack]]'
-- '[[raw/Clippings/AI Agent Operations and Governance Manager]]'
 ---
 
 # ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations

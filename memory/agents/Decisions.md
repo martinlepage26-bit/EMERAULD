@@ -1,9 +1,6 @@
 ---
 type: memory-register
 title: Decisions
-aliases:
-- Decisions
-- memory/agents/Decisions
 tags:
 - memory
 - agents
@@ -12,19 +9,22 @@ tags:
 - expected
 - topic
 - events
-- color-green
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: memory
 canonical_path: memory/agents/Decisions.md
-backlink_count: 7
+backlink_count: 11
 backlinks:
 - '[[Logs/2026-06-29]]'
 - '[[index]]'
+- '[[memory/agents/Antigravity]]'
 - '[[memory/agents/Blockers]]'
 - '[[memory/agents/Events]]'
+- '[[memory/agents/Gemini]]'
+- '[[memory/agents/Grok]]'
 - '[[memory/agents/Journal]]'
+- '[[memory/agents/Kimi]]'
 - '[[memory/agents/Learning]]'
 - '[[memory/agents/Vibe]]'
 ---

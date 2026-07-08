@@ -1,24 +1,22 @@
 ---
 type: wiki
 title: PHAROS Product Stack
-aliases:
-- PHAROS Product Stack
 tags:
 - pharos
 - product
 - commercial
 - governance
 - areas
-- pharos-product-stack-md
 - label
 - lineage
-- color-purple
+- wiki
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Product Stack.md
-backlink_count: 13
+backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
@@ -26,10 +24,14 @@ backlinks:
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
+- '[[Areas/PHAROS/PHAROS Method — Core Framework]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[Areas/PHAROS/PHAROS Method — Core Framework]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[projects/AurorA — Fisher King Project State]]'
 - '[[projects/COMPASSai — Fisher King Project State]]'
 - '[[projects/HELIX — Fisher King Project State]]'

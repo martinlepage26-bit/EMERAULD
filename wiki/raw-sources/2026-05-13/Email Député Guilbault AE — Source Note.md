@@ -1,9 +1,6 @@
 ---
 type: source-note
 title: Email Député Guilbault AE — Source Note
-aliases:
-- raw-sources/2026-05-13/Email Député Guilbault AE — Source Note
-- wiki/raw-sources/2026-05-13/Email Député Guilbault AE — Source Note
 tags:
 - raw-source
 - ingest
@@ -17,15 +14,13 @@ tags:
 - complet
 - structur
 - envoyer
-- color-lime
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/raw-sources/2026-05-13/Email Député Guilbault AE — Source Note.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[.graph_store/graph_report]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
 source_raw_path: raw/00_Inbox/Raw/Email Député Guilbault AE.txt

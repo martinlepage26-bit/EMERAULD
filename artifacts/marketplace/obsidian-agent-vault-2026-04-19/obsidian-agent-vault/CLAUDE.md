@@ -1,9 +1,6 @@
 ---
 type: agent-instructions
 title: CLAUDE
-aliases:
-- CLAUDE
-- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE
 tags:
 - agents
 - agent-instructions
@@ -14,7 +11,6 @@ tags:
 - monthly
 - users
 - aurora
-- color-orange
 status: active
 created: '2026-04-19'
 updated: '2026-06-26'

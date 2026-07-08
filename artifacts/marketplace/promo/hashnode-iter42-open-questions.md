@@ -1,9 +1,6 @@
 ---
 type: artifact
-title: 'The Open Questions Protocol: How to Stop AI from Filling In What It Doesn''t
-  Know'
-aliases:
-- artifacts/marketplace/promo/hashnode-iter42-open-questions
+title: 'The Open Questions Protocol: How to Stop AI from Filling In What It Doesn''t Know'
 tags:
 - artifact
 - ai
@@ -14,7 +11,6 @@ tags:
 - questions
 - resolved
 - blocked
-- color-purple
 status: preserved
 created: '2026-06-21'
 updated: '2026-06-26'

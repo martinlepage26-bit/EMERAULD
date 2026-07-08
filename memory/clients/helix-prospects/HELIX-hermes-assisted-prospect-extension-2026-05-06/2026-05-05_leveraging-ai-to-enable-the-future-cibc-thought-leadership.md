@@ -1,8 +1,6 @@
 ---
 type: raw-source
 title: Leveraging AI to Enable the Future | CIBC Thought Leadership
-aliases:
-- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_leveraging-ai-to-enable-the-future-cibc-thought-leadership
 tags:
 - raw-source
 - memory
@@ -11,7 +9,6 @@ tags:
 - advancements
 - bank
 - talent
-- color-lime
 status: unsynthesized
 created: '2026-05-06'
 updated: '2026-06-26'

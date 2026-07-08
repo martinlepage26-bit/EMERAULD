@@ -1,37 +1,38 @@
 ---
 type: wiki
 title: Master Bibliography — Références bibliographiques 2025
-aliases:
-- Master Bibliography — Références bibliographiques 2025
 tags:
 - resources
 - bibliography
-- master-bibliography-r-f-rences-bibliographiques-2025-md
 - wicca
 - pagan
 - cowan
 - studies
-- color-teal
+- wiki
 status: active
+domain: reference
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Master Bibliography — Références bibliographiques 2025.md
-backlink_count: 13
+backlink_count: 16
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Master Bibliography — Références bibliographiques 2025

@@ -1,11 +1,23 @@
 ---
-id: session_state_registers_dataset
 type: Dataset
-canonical_name: "session-state.md + memory/agents/ registers"
-aliases: []
+title: session-state.md + memory/agents/ registers
+tags:
+- dataset
+- graph
+- nodes
 status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/nodes/unmapped/session_state_registers_dataset.md
+backlink_count: 1
+backlinks:
+- '[[graph/nodes/unmapped/archive_register_py]]'
+id: session_state_registers_dataset
+canonical_name: session-state.md + memory/agents/ registers
 confidence: high
-sources: ['EMERAULD/CLAUDE.md']
+sources:
+- EMERAULD/CLAUDE.md
 created_from: graphify_pass
 ---
 

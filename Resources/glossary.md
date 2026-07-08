@@ -1,26 +1,29 @@
 ---
 type: note
 title: Glossary — PHAROS / Martin Lepage
-aliases:
-- Resources/glossary
 tags:
 - note
 - resources
-- glossary-md
 - apps
 - council
 - lavoie
 - suite
 - tmux
-- color-orange
 status: active
+domain: reference
 created: '2026-06-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/glossary.md
-backlink_count: 1
+backlink_count: 7
 backlinks:
+- '[[archive/session-state/session-state-003]]'
+- '[[memory/agents/Antigravity]]'
+- '[[memory/agents/Gemini]]'
+- '[[memory/agents/Grok]]'
+- '[[memory/agents/Kimi]]'
 - '[[memory/agents/Vibe]]'
+- '[[memory/daily/2026-07-02]]'
 ---
 
 # Glossary — PHAROS / Martin Lepage

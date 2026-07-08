@@ -1,8 +1,6 @@
 ---
 type: artifact
 title: Govern Deterministic Runner — Specification
-aliases:
-- artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/govern_deterministic_runner_spec
 tags:
 - artifact
 - pharos
@@ -15,7 +13,6 @@ tags:
 - exposes
 - auryn
 - hopf
-- color-purple
 status: preserved
 created: '2026-04-19'
 updated: '2026-06-26'

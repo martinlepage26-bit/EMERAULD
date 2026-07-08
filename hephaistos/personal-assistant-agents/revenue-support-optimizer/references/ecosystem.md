@@ -1,9 +1,6 @@
 ---
 type: note
 title: Ecosystem
-aliases:
-- personal-assistant-agents/revenue-support-optimizer/references/ecosystem
-- hephaistos/personal-assistant-agents/revenue-support-optimizer/references/ecosystem
 tags:
 - note
 - agents
@@ -15,8 +12,8 @@ tags:
 - marketplace
 - revenue
 - pricing
-- color-orange
 status: active
+domain: governance
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos

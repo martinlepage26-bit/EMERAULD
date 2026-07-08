@@ -12,28 +12,34 @@ tags:
 - context-management
 - codex
 - areas
-- gsd-get-shit-done-claude-code-system-md
 - shit
 - claude
 - done
 - codebase
 - initialize
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/GSD — Get-Shit-Done Claude Code System.md
-backlink_count: 8
+backlink_count: 13
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
+- '[[memory/agents/Gemini]]'
 ---
 
 # GSD — Get-Shit-Done Claude Code System

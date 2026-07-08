@@ -13,45 +13,45 @@ tags:
 - governance
 - media
 - areas
-- ritual-magic-and-institutional-authority-md
 - queer
 - legitimacy
-- color-violet
+- writing
 status: active
+domain: writing
 created: '2026-05-01'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Ritual, Magic, and Institutional Authority.md
 backlink_count: 28
 backlinks:
-- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
-- '[[Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
-- '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
-- '[[Areas/Writing/Glitching the Sacred]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Home]]'
-- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
-- '[[Resources/L’esprit du don — Godbout & Caillé (1992)]]'
-- '[[Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[Areas/Personal/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[Areas/Writing/Glitching the Sacred]]'
+- '[[Areas/Writing/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
+- '[[Resources/L’esprit du don — Godbout & Caillé (1992)]]'
+- '[[Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
 - '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[Resources/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
-- '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[Resources/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Session 2 Summary — 2026-05-01]]'
 - '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
-- '[[Resources/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Ritual, Magic, and Institutional Authority

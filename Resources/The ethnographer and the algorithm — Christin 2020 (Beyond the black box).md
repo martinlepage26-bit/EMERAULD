@@ -15,24 +15,27 @@ tags:
 - audits
 - accountability
 - resources
-- the-ethnographer-and-the-algorithm-christin-2020-beyond-the-black-box-md
 - algorithmic
 - christin
 - black
-- color-teal
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/The ethnographer and the algorithm — Christin 2020 (Beyond the black box).md
-backlink_count: 6
+backlink_count: 9
 backlinks:
-- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # The ethnographer and the algorithm — Christin 2020 (Beyond the black box)

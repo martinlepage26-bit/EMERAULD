@@ -1,33 +1,36 @@
 ---
 type: wiki
 title: CLI-Anything — Agent Harness for Tool Integration
-aliases:
-- CLI-Anything — Agent Harness for Tool Integration
 tags:
 - areas
 - agents
-- cli-anything-agent-harness-for-tool-integration-md
 - wraps
 - harness
 - mubu
 - mutate
 - anything
-- color-orange
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration.md
-backlink_count: 8
+backlink_count: 12
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[wiki/Home]]'
+- '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # CLI-Anything — Agent Harness for Tool Integration

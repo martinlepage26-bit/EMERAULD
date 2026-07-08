@@ -1,28 +1,25 @@
 ---
 type: wiki
 title: PHAROS AI and Ethics Submission — Architecture Paper
-aliases:
-- PHAROS AI and Ethics Submission — Architecture Paper
 tags:
 - areas
 - pharos
 - ai
 - paper
 - submission
-- pharos-ai-and-ethics-submission-architecture-paper-md
 - aiandethics
 - constant
 - tighten
-- color-pink
+- wiki
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper.md
-backlink_count: 12
+backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
-- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
@@ -30,7 +27,12 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/RECURSO — Final Audit and Ethical Review]]'
+- '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[Resources/Recursive Governance Theory]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[governance/hephaistos/research-ethics-gate]]'
 - '[[maps/PHAROS Method Map]]'
 ---

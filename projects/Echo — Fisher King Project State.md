@@ -1,8 +1,6 @@
 ---
 type: project
 title: Echo — Fisher King Project State
-aliases:
-- projects/Echo — Fisher King Project State
 tags:
 - project
 - fisher-king
@@ -10,13 +8,12 @@ tags:
 - voice
 - implementation-surface
 - projects
-- echo-fisher-king-project-state-md
 - site
 - profile
 - implementation
 - martin
-- color-orange
 status: in-progress
+priority: high
 created: '2026-05-07'
 updated: '2026-06-26'
 vault_area: projects

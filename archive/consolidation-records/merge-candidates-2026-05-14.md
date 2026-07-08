@@ -1,8 +1,6 @@
 ---
 type: archive-record
 title: Merge Candidates
-aliases:
-- archive/consolidation-records/merge-candidates-2026-05-14
 tags:
 - archive
 - archive-record
@@ -12,8 +10,8 @@ tags:
 - count
 - keep
 - modules
-- color-orange
 status: archived
+priority: low
 created: '2026-05-14'
 updated: '2026-06-26'
 vault_area: archive

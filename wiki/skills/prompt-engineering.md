@@ -1,9 +1,6 @@
 ---
 type: skill
 title: prompt-engineering
-aliases:
-- skills/prompt-engineering
-- wiki/skills/prompt-engineering
 tags:
 - skill
 - wiki
@@ -13,7 +10,6 @@ tags:
 - steering
 - engineering
 - shot
-- color-orange
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
@@ -22,8 +18,8 @@ canonical_path: wiki/skills/prompt-engineering.md
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — Writing and Humanization]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Skill Domain — Writing and Humanization]]'
 skill_id: prompt-engineering
 scope: output
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md

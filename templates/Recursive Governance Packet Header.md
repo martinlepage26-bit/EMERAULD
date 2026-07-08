@@ -2,25 +2,21 @@
 type: template
 title: Recursive Governance Packet Header - {{title}}
 aliases:
-- Recursive Governance Packet Header
 - Artifact Class Pinning Template
-- templates/Recursive Governance Packet Header
 tags:
 - template
 - recursive-governance
 - evidence-hierarchy
 - control
 - templates
-- recursive-governance-packet-header-md
 - factual
 - packet
 - claims
 - class
 - bearing
-- color-purple
 status: active
 created: '{{date}}'
-updated: '2026-06-26'
+updated: '{{date}}'
 vault_area: templates
 canonical_path: templates/Recursive Governance Packet Header.md
 backlink_count: 3

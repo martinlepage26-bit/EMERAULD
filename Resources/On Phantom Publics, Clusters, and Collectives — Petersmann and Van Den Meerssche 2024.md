@@ -16,31 +16,35 @@ tags:
 - borders
 - fugitivity
 - resources
-- on-phantom-publics-clusters-and-collectives-petersmann-and-van-den-meerssche-2024-md
 - subject
 - petersmann
 - meerssche
-- color-purple
+- wiki
 status: active
+domain: reference
 created: '2026-04-26'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024.md
-backlink_count: 13
+backlink_count: 17
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Queer Theory Foundations]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024

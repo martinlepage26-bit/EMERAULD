@@ -12,28 +12,30 @@ tags:
 - power-dynamics
 - desire
 - resources
-- disease-lady-gaga-lyrics-md
 - cure
 - disease
 - antidote
 - poison
-- color-red
+- wiki
 status: active
+domain: reference
 created: '2026-04-25'
 updated: '2026-06-26'
 vault_area: Resources
 canonical_path: Resources/Disease — Lady Gaga — Lyrics.md
-backlink_count: 9
+backlink_count: 11
 backlinks:
-- '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
 - '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-04-25]]'
-- '[[raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X]]'
-- '[[raw/Clippings/gaga gisease lyrics]]'
 ---
 
 # Disease — Lady Gaga — Lyrics

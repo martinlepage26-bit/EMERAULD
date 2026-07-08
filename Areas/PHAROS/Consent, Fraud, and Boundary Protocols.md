@@ -1,40 +1,43 @@
 ---
 type: wiki
 title: Consent, Fraud, and Boundary Protocols
-aliases:
-- Consent, Fraud, and Boundary Protocols
 tags:
 - areas
-- consent-fraud-and-boundary-protocols-md
 - fraud
 - consent
 - sexual
 - legal
 - emotional
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Consent, Fraud, and Boundary Protocols.md
-backlink_count: 17
+backlink_count: 21
 backlinks:
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
-- '[[wiki/Consent and Boundary Frameworks]]'
-- '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
+- '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legal and Institutional Cases]]'
-- '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[memory/daily/2026-05-02]]'
 ---
 

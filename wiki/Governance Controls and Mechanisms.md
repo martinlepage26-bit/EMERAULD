@@ -3,7 +3,6 @@ type: map
 title: Governance Controls and Mechanisms
 aliases:
 - TOPIC — Governance Controls and Mechanisms
-- wiki/Governance Controls and Mechanisms
 tags:
 - index
 - map
@@ -14,12 +13,10 @@ tags:
 - monitoring
 - incident-response
 - wiki
-- governance-controls-and-mechanisms-md
 - controls
 - control
 - grounding
 - governance
-- color-purple
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
@@ -29,46 +26,43 @@ backlink_count: 39
 backlinks:
 - '[[Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice]]'
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
-- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
-- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
 - '[[Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints]]'
 - '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
-- '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
-  (2026-05-12)]]'
-- '[[Resources/Epistemic Governance — Canonical Reference]]'
+- '[[Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
-- '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
-- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Home]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[Areas/PHAROS/Machine Limitation]]'
-- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
+- '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
+- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[Resources/Epistemic Governance — Canonical Reference]]'
+- '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
-- '[[Areas/Writing/Research and Papers MOC]]'
-- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
-  and Computational Memory Architectures]]'
-- '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
-- '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
 ---
 
 # Governance Controls and Mechanisms

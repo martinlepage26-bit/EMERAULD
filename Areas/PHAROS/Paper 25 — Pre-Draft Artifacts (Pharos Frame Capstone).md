@@ -13,25 +13,29 @@ tags:
 - governance
 - synthesis
 - areas
-- paper-25-pre-draft-artifacts-pharos-frame-capstone-md
 - frame
 - integrative
 - apex
 - ethics
 - paper
-- color-lime
+- wiki
 status: active
+domain: pharos
 created: '2026-04-19'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone).md
-backlink_count: 5
+backlink_count: 9
 backlinks:
-- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
-- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[archive/session-state/session-state-001]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)

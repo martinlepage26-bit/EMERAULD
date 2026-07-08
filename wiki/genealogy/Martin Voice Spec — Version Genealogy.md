@@ -6,7 +6,6 @@ aliases:
 - Martin Voice Spec Version Genealogy
 - Voice Spec Operators
 - Martin Voice Operators
-- wiki/genealogy/Martin Voice Spec — Version Genealogy
 tags:
 - voice
 - genealogy
@@ -19,7 +18,6 @@ tags:
 - spec
 - aigov
 - official
-- color-purple
 status: active
 created: '2026-04-29'
 updated: '2026-06-26'

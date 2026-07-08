@@ -1,19 +1,17 @@
 ---
 type: version-genealogy
 title: Alchemy of the Wound — Version Genealogy
-aliases:
-- Alchemy of the Wound — Version Genealogy
 tags:
 - version-genealogy
 - areas
-- alchemy-of-the-wound-version-genealogy-md
 - thriller
 - alchemy
 - wound
 - novel
 - subtitle
-- color-lime
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
@@ -21,11 +19,11 @@ canonical_path: Areas/Writing/Alchemy of the Wound — Version Genealogy.md
 backlink_count: 7
 backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
+- '[[Areas/Writing/Version Genealogy System]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Home]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[Areas/Writing/Version Genealogy System]]'
-- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

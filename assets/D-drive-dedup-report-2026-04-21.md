@@ -1,18 +1,14 @@
 ---
 type: report
 title: 'D: Drive Deduplication Report — 2026-04-21'
-aliases:
-- assets/D-drive-dedup-report-2026-04-21
 tags:
 - report
 - assets
-- d-drive-dedup-report-2026-04-21-md
 - library
 - groups
 - spotlight
 - drive
 - mine
-- color-purple
 status: manifest-only / no-deletion-executed
 created: '2026-04-21'
 updated: '2026-06-26'

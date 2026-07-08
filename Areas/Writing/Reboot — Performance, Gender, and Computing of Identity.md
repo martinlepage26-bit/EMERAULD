@@ -1,40 +1,43 @@
 ---
 type: wiki
 title: Reboot — Performance, Gender, and Computing of Identity
-aliases:
-- Reboot — Performance, Gender, and Computing of Identity
 tags:
 - areas
-- reboot-performance-gender-and-computing-of-identity-md
 - reboot
 - sprites
 - mainframe
 - eating
 - metaphor
-- color-purple
+- wiki
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Reboot — Performance, Gender, and Computing of Identity.md
-backlink_count: 17
+backlink_count: 21
 backlinks:
-- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Home]]'
-- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
+- '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
+- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/Writing/Reboot Performance Gender Identity — Version Genealogy]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
-- '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Home]]'
+- '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
+- '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

@@ -1,29 +1,27 @@
 ---
 type: version-genealogy
 title: Spider-Man — Version Genealogy
-aliases:
-- Spider-Man — Version Genealogy
 tags:
 - version-genealogy
 - areas
-- spider-man-version-genealogy-md
 - spider
 - editorial
 - hinge
 - dubbed
 - conversation
-- color-green
+- writing
 status: active
+domain: writing
 created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Spider-Man — Version Genealogy.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Home]]'
 - '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
+- '[[wiki/Home]]'
 ---
 
 # Spider-Man — Version Genealogy

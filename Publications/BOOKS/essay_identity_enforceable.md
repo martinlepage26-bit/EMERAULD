@@ -1,8 +1,6 @@
 ---
 type: publication-draft
 title: Identity Is What Becomes Enforceable
-aliases:
-- Publications/BOOKS/essay_identity_enforceable
 tags:
 - publication
 - publication-draft
@@ -13,7 +11,6 @@ tags:
 - rivard
 - carnival
 - zombie
-- color-orange
 status: draft
 created: '2026-06-21'
 updated: '2026-06-26'
@@ -21,7 +18,7 @@ vault_area: Publications
 canonical_path: Publications/BOOKS/essay_identity_enforceable.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/PUBLICATIONS MOC]]'
 ---
 
 # Identity Is What Becomes Enforceable

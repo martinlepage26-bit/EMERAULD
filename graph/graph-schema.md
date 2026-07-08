@@ -1,8 +1,17 @@
 ---
 type: graph-index
 title: Graph Schema
+tags:
+- graph-index
+- graph
 status: active
 created: '2026-07-02'
+updated: '2026-07-08'
+vault_area: graph
+canonical_path: graph/graph-schema.md
+backlink_count: 1
+backlinks:
+- '[[graph/indexes/node-index]]'
 ---
 
 # Graph Schema — EMERAULD Curated Ontology Layer

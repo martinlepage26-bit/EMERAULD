@@ -2,7 +2,6 @@
 type: wiki
 title: EU AI Act and Law 25 — Regulatory Pressure Window
 aliases:
-- EU AI Act and Law 25 — Regulatory Pressure Window
 - EU AI Act + Law 25
 tags:
 - regulation
@@ -10,30 +9,35 @@ tags:
 - law
 - compliance
 - areas
-- eu-ai-act-and-law-25-regulatory-pressure-window-md
 - window
 - arbitrage
 - regulatory
 - pressure
 - commercial
-- color-purple
+- wiki
+- pharos
 status: active
+domain: pharos
 created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window.md
-backlink_count: 10
+backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
-- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
+- '[[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
-- '[[session-state]]'
+- '[[archive/session-state/session-state-003]]'
+- '[[artifacts/stale-projects-2026-07-04]]'
+- '[[artifacts/stale-projects-2026-07-05]]'
+- '[[artifacts/stale-projects-2026-07-06]]'
+- '[[artifacts/stale-projects-2026-07-07]]'
 ---
 
 # EU AI Act and Law 25 — Regulatory Pressure Window
