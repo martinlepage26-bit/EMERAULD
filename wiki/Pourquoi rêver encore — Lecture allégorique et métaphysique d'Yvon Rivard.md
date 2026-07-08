@@ -33,11 +33,11 @@ backlinks:
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[wiki/Pourquoi Rever Encore — Version Genealogy]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
 - '[[wiki/The Broken Frequency of the Word — Novel]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

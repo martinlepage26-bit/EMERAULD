@@ -25,7 +25,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
-- '[[wiki/Skill Domain — Operator Wellbeing]]'
+- '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
 skill_id: hitl-awareness
 domain: Agent Architecture and Development
 codex_path: /home/cerebrhoe/.codex/skills/hitl-awareness/SKILL.md

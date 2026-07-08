@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/GSD — Get Shit Done Context Engineering System]]'
 - '[[wiki/GSD — Get-Shit-Done Claude Code System]]'
 - '[[wiki/LightRAG — Graph-Based RAG System]]'
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[wiki/Personal and Projects MOC]]'

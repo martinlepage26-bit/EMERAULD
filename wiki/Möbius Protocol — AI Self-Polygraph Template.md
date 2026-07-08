@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 ---
 

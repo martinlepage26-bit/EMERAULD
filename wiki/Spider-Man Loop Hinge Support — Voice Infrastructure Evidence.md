@@ -22,7 +22,7 @@ backlink_count: 5
 backlinks:
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Home]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # Reboot Performance Gender Identity — Version Genealogy

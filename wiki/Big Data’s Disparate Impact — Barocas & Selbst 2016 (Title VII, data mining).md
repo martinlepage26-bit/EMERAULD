@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
   2024]]'
 - '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

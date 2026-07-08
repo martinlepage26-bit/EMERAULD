@@ -3,11 +3,10 @@ type: moc
 title: Research and Papers MOC
 aliases:
 - Research and Papers MOC
-- wiki/Research and Papers MOC
 tags:
 - moc
 - paper
-- wiki
+- areas
 - research-and-papers-moc-md
 - lepage
 - dissertation
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Research and Papers MOC.md
+vault_area: Areas
+canonical_path: Areas/Writing/Research and Papers MOC.md
 backlink_count: 232
 backlinks:
 - '[[.github/agents/gadget.agent]]'
@@ -34,28 +33,24 @@ backlinks:
 - '[[wiki/2026-06-29 - idea-discovery]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Agatha All Along Social Compass — Version Genealogy]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[Areas/Writing/AREA]]'
 - '[[wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
 - '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
-  Explanation)]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[wiki/Circle Remains Open — Version Genealogy]]'
 - '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
 - '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[wiki/D Drive Scan — 2026-05-12]]'
 - '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
-- '[[wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia
-  — Draft Snapshot (2026-05-10)]]'
+- '[[wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
-  Phenomenon]]'
+- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon]]'
 - '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
@@ -73,10 +68,10 @@ backlinks:
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/Magic After Legitimacy Charmed — Version Genealogy]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
@@ -86,23 +81,21 @@ backlinks:
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[wiki/Neo-Shamanism Gender Narratives — Version Genealogy]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
-- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
-  2024]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[wiki/Pagan Magic — Version Genealogy]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
@@ -116,18 +109,16 @@ backlinks:
 - '[[wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
 - '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
 - '[[wiki/Queer Neo-Pagan Wicca Authenticity — Version Genealogy]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
 - '[[wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
 - '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
 - '[[wiki/Reboot Performance Gender Identity — Version Genealogy]]'
 - '[[wiki/Recursive Governance Theory]]'
-- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
-  Projection]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
 - '[[wiki/Research Hub]]'
-- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
-  — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
+- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
 - '[[wiki/Sealed Card Protocol — Version Genealogy]]'
 - '[[wiki/September 2024 Retrospective — Version Genealogy]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
@@ -205,8 +196,7 @@ backlinks:
 - '[[wiki/bridges/Bridge - 2013 - auditorassessment 3]]'
 - '[[wiki/bridges/Bridge - 2015 - policyorguidance 3]]'
 - '[[wiki/bridges/Bridge - 2015 - policyorguidance 4]]'
-- '[[wiki/bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf -
-  2020 - Mar - 2020 - Martin Lepage - Simp]]'
+- '[[wiki/bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf - 2020 - Mar - 2020 - Martin Lepage - Simp]]'
 - '[[wiki/bridges/Bridge - CORPUS ou le gnie de linsistance 1]]'
 - '[[wiki/bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06]]'
 - '[[wiki/bridges/Bridge - FIRST DRAFT]]'

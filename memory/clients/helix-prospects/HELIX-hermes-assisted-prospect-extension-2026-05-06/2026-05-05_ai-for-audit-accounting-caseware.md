@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_ai-for-audit-accounting-caseware.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://www.caseware.com/us/platform/ai
 date: '2026-05-05'
 scraped: '2026-05-05'

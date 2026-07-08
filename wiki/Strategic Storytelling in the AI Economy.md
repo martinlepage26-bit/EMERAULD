@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
 - '[[session-state]]'

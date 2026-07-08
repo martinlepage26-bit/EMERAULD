@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/APEX Papers — Research Archive Map.md
 backlink_count: 11
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
@@ -36,7 +36,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
 - '[[tmp/drive-audit-2026-04-18/corpus_structure]]'
 ---

@@ -20,8 +20,8 @@ vault_area: wiki
 canonical_path: wiki/September 2024 Research Retrospective.md
 backlink_count: 14
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
-- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[wiki/Consent, Fraud, and Boundary Protocols]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
@@ -29,9 +29,9 @@ backlinks:
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Personal and Projects MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
 - '[[wiki/September 2024 Retrospective — Version Genealogy]]'
 ---

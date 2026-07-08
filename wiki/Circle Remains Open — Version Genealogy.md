@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # Circle Remains Open — Version Genealogy

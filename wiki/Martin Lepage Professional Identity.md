@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/Martin Lepage Professional Identity.md
 backlink_count: 33
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
@@ -47,12 +47,12 @@ backlinks:
 - '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
 - '[[wiki/Personal and Projects MOC]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sealed Card Protocol — Version Genealogy]]'
 - '[[wiki/Strategic Storytelling in the AI Economy]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

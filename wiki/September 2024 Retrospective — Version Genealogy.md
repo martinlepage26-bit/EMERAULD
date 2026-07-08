@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---
 

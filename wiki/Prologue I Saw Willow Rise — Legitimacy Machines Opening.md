@@ -24,9 +24,9 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

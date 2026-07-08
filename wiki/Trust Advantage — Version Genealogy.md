@@ -21,11 +21,11 @@ vault_area: wiki
 canonical_path: wiki/Trust Advantage — Version Genealogy.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Home]]'
 - '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # Trust Advantage — Version Genealogy

@@ -3,9 +3,8 @@ type: wiki
 title: Obsidian Agent Vault — Setup Guide
 aliases:
 - Obsidian Agent Vault — Setup Guide
-- wiki/Obsidian Agent Vault — Setup Guide
 tags:
-- wiki
+- areas
 - agents
 - obsidian-agent-vault-setup-guide-md
 - obsidian
@@ -17,13 +16,13 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Obsidian Agent Vault — Setup Guide.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Obsidian Agent Vault — Setup Guide.md
 backlink_count: 7
 backlinks:
 - '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
-- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[Welcome]]'

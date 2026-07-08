@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/The Broken Frequency of the Word — Novel]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

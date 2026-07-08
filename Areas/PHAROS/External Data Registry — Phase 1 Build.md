@@ -3,10 +3,9 @@ type: governance-registry
 title: External Data Registry — Sources and Refresh Schedule
 aliases:
 - External Data Registry — Phase 1 Build
-- wiki/External Data Registry — Phase 1 Build
 tags:
 - governance-registry
-- wiki
+- areas
 - external-data-registry-phase-1-build-md
 - refresh
 - date
@@ -17,8 +16,8 @@ tags:
 status: in-progress
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/External Data Registry — Phase 1 Build.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/External Data Registry — Phase 1 Build.md
 backlink_count: 16
 backlinks:
 - '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'

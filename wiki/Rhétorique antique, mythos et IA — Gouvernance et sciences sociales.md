@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Machine Limitation]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[wiki/Recursive Governance Theory]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

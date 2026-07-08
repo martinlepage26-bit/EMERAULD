@@ -22,7 +22,7 @@ canonical_path: wiki/Governance Controls — Monitoring Plan & Automation Roadma
 backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/External Data Registry — Phase 1 Build]]'
+- '[[Areas/PHAROS/External Data Registry — Phase 1 Build]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'

@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/The Returning Light — Monograph]]'
 - '[[wiki/The Weather Beneath the Walls — Novel]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

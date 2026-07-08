@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure.md
 backlink_count: 19
 backlinks:
-- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'

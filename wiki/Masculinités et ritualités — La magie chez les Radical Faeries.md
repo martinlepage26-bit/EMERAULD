@@ -28,11 +28,11 @@ canonical_path: wiki/Masculinités et ritualités — La magie chez les Radical 
 backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

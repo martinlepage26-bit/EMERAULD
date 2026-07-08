@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---
 

@@ -22,7 +22,7 @@ vault_area: wiki
 canonical_path: wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/HENRY — Research Paper Writing System]]'
 - '[[wiki/Per-Paper Project Structure — Folder and File Architecture]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

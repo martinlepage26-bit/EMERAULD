@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_the-technology.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://www.mindbridge.ai/technology/
 date: '2026-05-05'
 scraped: '2026-05-05'

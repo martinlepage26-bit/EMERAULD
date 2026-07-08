@@ -25,7 +25,7 @@ canonical_path: wiki/Cultural and Lyric Corpus Memo — 2026-05-14.md
 backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

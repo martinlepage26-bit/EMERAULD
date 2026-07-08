@@ -24,7 +24,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/COMPASSai — Governance Engine.md
 backlink_count: 25
 backlinks:
-- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
@@ -41,7 +41,7 @@ backlinks:
 - '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'
 - '[[wiki/Railway — COMPASSai Production Deployment Platform]]'
 - '[[wiki/Research Hub]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/agents/Vibe]]'

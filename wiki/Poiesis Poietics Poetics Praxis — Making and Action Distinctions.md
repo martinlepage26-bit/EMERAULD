@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---
 

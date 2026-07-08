@@ -1,6 +1,6 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:37:15Z
+Built: 2026-07-08T05:37:16Z
 Corpus: wiki/**/*.md
 
 ## Summary
@@ -351,27 +351,27 @@ Corpus: wiki/**/*.md
 - `hermes.agent`: 5
 - `argus.agent`: 5
 - `Martin Lepage, PhD — External Review Profile (Offline-Ready)`: 5
-- `wikilinks`: 5
-- `﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch`: 5
 - `“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal`: 5
 - `Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members`: 5
-- `readme`: 5
-- `EXTERNAL DATA REGISTRY (Phase 1 Build)`: 5
+- `﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch`: 5
 - `Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research`: 5
+- `readme`: 5
+- `wikilinks`: 5
+- `EXTERNAL DATA REGISTRY (Phase 1 Build)`: 5
 - `ARCHITECTURE-STATUS-MARKING-CHECKLIST`: 4
 - `GAIA Positioning Statement — Evidence-Aware Version`: 4
 - `Governance by Denial — Revised Working Draft`: 4
 - `skill`: 4
 - `Complete Paper List — Martin Lepage`: 4
 - `Dr_Sort_masterlist_2026-03-08`: 4
+- `Readme`: 4
+- `Welcome to this course on ethical and societal asp`: 4
 - `_vault/VAULT ADDITIONS TRACKER`: 4
 - `Session State — Project Name`: 4
 - `Project Hub`: 4
-- `Welcome to this course on ethical and societal asp`: 4
 - `EMERAULD_OS_ARCHITECTURE`: 4
 - `Dr. Sort Filename Normalization — 2026-05-06`: 4
 - `path`: 4
-- `Readme`: 4
 - `BOWIE-DUE`: 3
 - `Recursive Governance Packet Header`: 3
 - `if.whitepapers.bible (v4.23)`: 3

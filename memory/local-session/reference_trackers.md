@@ -21,7 +21,7 @@ vault_area: memory
 canonical_path: memory/local-session/reference_trackers.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 ---
 

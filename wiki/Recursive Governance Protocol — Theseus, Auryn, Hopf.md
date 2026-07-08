@@ -51,7 +51,7 @@ backlinks:
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Skill-Pairing — Five-Case Test Suite]]'
 - '[[wiki/Slayer Recursion Protocol — README and Repositioning]]'

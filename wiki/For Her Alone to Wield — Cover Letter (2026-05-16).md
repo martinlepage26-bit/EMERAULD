@@ -25,7 +25,7 @@ backlink_count: 5
 backlinks:
 - '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[wiki/Home]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

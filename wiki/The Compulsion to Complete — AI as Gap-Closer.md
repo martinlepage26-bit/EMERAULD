@@ -23,7 +23,7 @@ backlink_count: 28
 backlinks:
 - '[[wiki/AI Ethics Literature — Contestable Governance Artifacts]]'
 - '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
-- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
   (2026)]]'
 - '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
@@ -40,7 +40,7 @@ backlinks:
 - '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'

@@ -22,7 +22,7 @@ backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
-- '[[wiki/Skill Domain — Operator Wellbeing]]'
+- '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
 skill_id: verification-before-completion
 domain: Governance and Authority
 codex_path: /home/cerebrhoe/.codex/skills/verification-before-completion/SKILL.md

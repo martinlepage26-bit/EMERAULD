@@ -3,11 +3,10 @@ type: moc
 title: Writing and Novels MOC
 aliases:
 - Writing and Novels MOC
-- wiki/Writing and Novels MOC
 tags:
 - moc
 - novel
-- wiki
+- areas
 - writing-and-novels-moc-md
 - genealogy
 - lepage
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Writing and Novels MOC.md
+vault_area: Areas
+canonical_path: Areas/Writing/Writing and Novels MOC.md
 backlink_count: 100
 backlinks:
 - '[[.agent_bus/README]]'
@@ -67,21 +66,20 @@ backlinks:
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
 - '[[wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
 - '[[wiki/Qualitative Handbook — Expanded Reference List]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
 - '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
-- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
-  — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
+- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
 - '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'

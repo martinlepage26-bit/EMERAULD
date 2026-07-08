@@ -26,8 +26,8 @@ canonical_path: wiki/Publishing Strategy — Springer Trilogy and Parallel Track
 backlink_count: 6
 backlinks:
 - '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
-- '[[wiki/Academic Paper Pipeline]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

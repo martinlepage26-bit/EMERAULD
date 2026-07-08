@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
-- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
 - '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'

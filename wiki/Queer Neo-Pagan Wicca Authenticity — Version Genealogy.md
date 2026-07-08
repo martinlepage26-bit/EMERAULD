@@ -22,10 +22,10 @@ canonical_path: wiki/Queer Neo-Pagan Wicca Authenticity — Version Genealogy.md
 backlink_count: 5
 backlinks:
 - '[[wiki/Home]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # Queer Neo-Pagan Wicca Authenticity — Version Genealogy

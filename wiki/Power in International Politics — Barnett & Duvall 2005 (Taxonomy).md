@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

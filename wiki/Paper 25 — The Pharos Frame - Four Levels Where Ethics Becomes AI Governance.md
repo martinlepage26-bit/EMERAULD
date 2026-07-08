@@ -32,7 +32,7 @@ canonical_path: wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Be
   AI Governance.md
 backlink_count: 16
 backlinks:
-- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[wiki/Argus]]'
 - '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
   Explanation)]]'

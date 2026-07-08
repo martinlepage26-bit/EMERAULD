@@ -43,10 +43,10 @@ backlinks:
 - '[[wiki/LOTUS Premium Spec]]'
 - '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[projects/LOTUS — Fisher King Project State]]'
 ---

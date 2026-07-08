@@ -21,7 +21,7 @@ canonical_path: tmp/drive-audit-2026-04-18/corpus_structure.md
 backlink_count: 2
 backlinks:
 - '[[wiki/APEX Papers — Research Archive Map]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 ---
 
 # Canonical Paper Corpus Structure

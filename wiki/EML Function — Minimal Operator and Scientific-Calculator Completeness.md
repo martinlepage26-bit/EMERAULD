@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
 - '[[wiki/Recursive Governance Theory]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

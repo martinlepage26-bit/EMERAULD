@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
 - '[[wiki/Unnatural Selection Jurassic Park — Version Genealogy]]'

@@ -26,16 +26,16 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
 - '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
 - '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
   vs Reclaiming)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
@@ -44,7 +44,7 @@ backlinks:
 - '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Why Be King Im Already a Queen — Book Project]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

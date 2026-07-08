@@ -23,10 +23,10 @@ vault_area: wiki
 canonical_path: wiki/Social Compass Reviewer Responses — Version Genealogy.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Home]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # Social Compass Reviewer Responses — Version Genealogy

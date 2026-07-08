@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Ritual Machine Lab — Legitimacy Machines Introduction.md
 backlink_count: 27
 backlinks:
-- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
@@ -35,17 +35,17 @@ backlinks:
 - '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
 - '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

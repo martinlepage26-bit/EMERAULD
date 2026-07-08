@@ -22,7 +22,7 @@ backlink_count: 2
 backlinks:
 - '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et
   française — Keck 2002 (Methodos)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://www.beneva.ca/fr/salle-presse/beneva-choisit-outil-souscription-global-iqx
 date: '2026-05-05'
 scraped: '2026-05-05'

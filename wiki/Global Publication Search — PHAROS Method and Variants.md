@@ -21,13 +21,13 @@ vault_area: wiki
 canonical_path: wiki/Global Publication Search — PHAROS Method and Variants.md
 backlink_count: 8
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[wiki/PHAROS SURFACE]]'
 - '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

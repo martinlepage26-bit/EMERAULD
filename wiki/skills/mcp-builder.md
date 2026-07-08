@@ -20,9 +20,9 @@ vault_area: wiki
 canonical_path: wiki/skills/mcp-builder.md
 backlink_count: 3
 backlinks:
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: mcp-builder
 domain: AI LLM and Tools
 codex_path: /home/cerebrhoe/.codex/skills/mcp-builder/SKILL.md

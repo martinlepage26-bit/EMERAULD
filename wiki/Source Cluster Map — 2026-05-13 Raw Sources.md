@@ -28,9 +28,9 @@ backlink_count: 29
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Legitimacy Machines MOC]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Personal and Projects MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

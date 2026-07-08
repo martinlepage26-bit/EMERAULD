@@ -27,12 +27,12 @@ vault_area: wiki
 canonical_path: wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice.md
 backlink_count: 8
 backlinks:
-- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Legitimacy Machines MOC]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Phase 1 Governance Formation Sequence]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 ---

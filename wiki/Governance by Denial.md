@@ -70,7 +70,7 @@ backlinks:
   vs Reclaiming)]]'
 - '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
 - '[[wiki/Recursive Governance Theory]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
 - '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'

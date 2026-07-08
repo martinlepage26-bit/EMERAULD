@@ -131,7 +131,7 @@ Do not add minor implementation choices — only decisions that change future me
 - Decision: Selected by idea-discovery ranking as #1 next action (31 backlinks, all prerequisites complete, 90-minute action). Executed in full: listing copy finalized, clean zip built (28K, SHA256: 887c44f308a431fe7cb1ef8e6293c6f1b27940faf997985b97d7f2bfcfc7cc6c), social posts ready.
 - Why now: EMERAULD 2026-06-29 session produced Obsidian OS scaffold, architecture notes, and pattern report — making the vault the strongest demo object it has ever been. All prerequisites done; only the manual gumroad.com product creation remains.
 - Impact expected: First commercial listing for a PHAROS-adjacent product. $49 template pack. Revenue + proof-of-concept signal for the PHAROS product surface.
-- Links: [[artifacts/marketplace/promo/gumroad-listing]] [[artifacts/marketplace/promo/social-posts]] [[projects/Second Brain — Fisher King Project State]] [[wiki/Obsidian Agent Vault — Launch Kit]]
+- Links: [[artifacts/marketplace/promo/gumroad-listing]] [[artifacts/marketplace/promo/social-posts]] [[projects/Second Brain — Fisher King Project State]] [[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]
 
 ## Related
 

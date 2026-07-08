@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Fluency, Interruption, and Institutional Accountability.md
 backlink_count: 56
 backlinks:
-- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
   of Interruption]]'
@@ -60,7 +60,7 @@ backlinks:
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[wiki/September 2024 Research Retrospective]]'

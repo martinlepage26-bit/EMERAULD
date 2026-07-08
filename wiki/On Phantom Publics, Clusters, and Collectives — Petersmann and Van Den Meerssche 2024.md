@@ -33,7 +33,7 @@ canonical_path: wiki/On Phantom Publics, Clusters, and Collectives — Petersman
 backlink_count: 13
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency and Interruption Theory]]'
@@ -42,7 +42,7 @@ backlinks:
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Recursive Governance Theory]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
 - '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
 ---

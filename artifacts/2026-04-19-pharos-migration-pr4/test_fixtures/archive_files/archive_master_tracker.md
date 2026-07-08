@@ -21,7 +21,7 @@ vault_area: artifacts
 canonical_path: artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/archive_master_tracker.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 ---
 

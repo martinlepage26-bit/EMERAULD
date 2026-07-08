@@ -30,11 +30,11 @@ canonical_path: wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)
 backlink_count: 8
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

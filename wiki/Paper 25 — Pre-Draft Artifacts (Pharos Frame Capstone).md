@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone).md
 backlink_count: 5
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'

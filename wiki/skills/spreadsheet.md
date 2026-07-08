@@ -22,7 +22,7 @@ canonical_path: wiki/skills/spreadsheet.md
 backlink_count: 2
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: spreadsheet
 domain: AI LLM and Tools
 codex_path: /home/cerebrhoe/.codex/skills/spreadsheet/SKILL.md

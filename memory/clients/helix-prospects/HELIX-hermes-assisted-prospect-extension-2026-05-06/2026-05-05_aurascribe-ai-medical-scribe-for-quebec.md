@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-ex
 backlink_count: 2
 backlinks:
 - '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://aurascribe.ca/compliance?lang=en
 date: '2026-05-05'
 scraped: '2026-05-05'

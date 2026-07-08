@@ -22,7 +22,7 @@ canonical_path: wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and t
   of Glitch.md
 backlink_count: 37
 backlinks:
-- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[wiki/Buffy Slayer Studies]]'
@@ -42,10 +42,10 @@ backlinks:
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'

@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Rest and Consolidation Guide — Martin]]'
 - '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
-- '[[wiki/Skill Domain — Operator Wellbeing]]'
+- '[[Areas/PHAROS/Skill Domain — Operator Wellbeing]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-04-21]]'

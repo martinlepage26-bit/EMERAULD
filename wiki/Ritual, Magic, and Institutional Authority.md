@@ -40,10 +40,10 @@ backlinks:
 - '[[wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
 - '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
@@ -52,7 +52,7 @@ backlinks:
 - '[[wiki/Vault Linking Session 2 Summary — 2026-05-01]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

@@ -3,7 +3,6 @@ type: moc
 title: Manuscript Pipeline MOC
 aliases:
 - Manuscript Cluster MOC
-- wiki/Manuscript Pipeline MOC
 tags:
 - manuscript
 - publication
@@ -11,7 +10,7 @@ tags:
 - pharos
 - peer-review
 - moc
-- wiki
+- areas
 - manuscript-pipeline-moc-md
 - lepages
 - readme
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-05-14'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Manuscript Pipeline MOC.md
+vault_area: Areas
+canonical_path: Areas/Writing/Manuscript Pipeline MOC.md
 backlink_count: 59
 backlinks:
 - '[[Areas/Writing/AREA]]'
@@ -35,18 +34,18 @@ backlinks:
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Legitimacy Machines MOC]]'
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[Areas/PHAROS/PHAROS]]'
 - '[[wiki/PHAROS Method — Core Framework]]'
 - '[[wiki/PHAROS Product Stack]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
 - '[[wiki/Per-Paper Project Structure — Folder and File Architecture]]'
 - '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[wiki/Research Hub]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
@@ -55,7 +54,7 @@ backlinks:
 - '[[wiki/Version Genealogy System]]'
 - '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/editorial_log]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/services/README]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_decision_log]]'

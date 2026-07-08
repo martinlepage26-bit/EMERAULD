@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[wiki/Home]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # For Her Alone to Wield — Version Genealogy

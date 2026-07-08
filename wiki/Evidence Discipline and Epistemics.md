@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
 - '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
   (2026)]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Anti-Charm]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
@@ -72,7 +72,7 @@ backlinks:
 - '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
 - '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
 - '[[wiki/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)]]'
-- '[[wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
 - '[[wiki/RIA-CODEX — System Audit Protocol]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'

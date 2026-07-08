@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-swee
 backlink_count: 2
 backlinks:
 - '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 source_url: https://solace.com/products/platform/
 date: '2026-05-05'
 scraped: '2026-05-05'

@@ -20,7 +20,7 @@ vault_area: tmp
 canonical_path: tmp/drive-audit-2026-04-18/deletion-shortlist.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[assets/D-drive-dedup-report-2026-04-21]]'
 ---
 

@@ -21,11 +21,11 @@ vault_area: wiki
 canonical_path: wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript.md
 backlink_count: 8
 backlinks:
-- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[maps/Queer Media and Ritual Map]]'

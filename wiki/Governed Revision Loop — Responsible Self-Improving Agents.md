@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
-- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
 - '[[archive/session-state/session-state-001]]'

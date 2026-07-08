@@ -40,9 +40,9 @@ backlinks:
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Research and Papers MOC]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[projects/Dr. Sort — Fisher King Project State]]'
 ---
 

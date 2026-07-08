@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Literary References in Common English — Allusion and Idiom Guide]]'
 - '[[wiki/Literary References — Craft Guide]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/daily/2026-06-22]]'
 - '[[memory/daily/2026-06-23]]'

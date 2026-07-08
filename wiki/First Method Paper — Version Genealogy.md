@@ -21,11 +21,11 @@ vault_area: wiki
 canonical_path: wiki/First Method Paper — Version Genealogy.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
-- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Home]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # First Method Paper — Version Genealogy

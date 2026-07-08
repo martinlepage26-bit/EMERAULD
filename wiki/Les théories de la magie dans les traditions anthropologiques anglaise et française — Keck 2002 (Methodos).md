@@ -39,8 +39,8 @@ backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_beneva-choisit-loutil-de-souscription-de-global-iqx-beneva]]'
 ---

@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/OpenAI Governance Framework — Comparison with PHAROS]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 ---

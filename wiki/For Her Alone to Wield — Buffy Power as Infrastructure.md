@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'

@@ -39,17 +39,17 @@ backlinks:
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
   2024]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
 - '[[wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
   — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
 - '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
 - '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

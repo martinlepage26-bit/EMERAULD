@@ -21,7 +21,7 @@ canonical_path: wiki/skills/pharos-repurposer.md
 backlink_count: 2
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: pharos-repurposer
 domain: AI LLM and Tools
 codex_path: /home/cerebrhoe/.codex/skills/pharos-repurposer/SKILL.md

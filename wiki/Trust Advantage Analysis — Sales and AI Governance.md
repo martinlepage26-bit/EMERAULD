@@ -41,7 +41,7 @@ backlinks:
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'

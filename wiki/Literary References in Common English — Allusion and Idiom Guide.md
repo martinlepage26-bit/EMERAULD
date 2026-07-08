@@ -24,7 +24,7 @@ backlink_count: 5
 backlinks:
 - '[[wiki/Literary References — Craft Guide]]'
 - '[[wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

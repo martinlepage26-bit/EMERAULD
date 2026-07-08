@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/Governance Controls — Baseline Assessment (2026-04-26).md
 backlink_count: 6
 backlinks:
-- '[[wiki/External Data Registry — Phase 1 Build]]'
+- '[[Areas/PHAROS/External Data Registry — Phase 1 Build]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
 - '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'

@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Governance by Denial]]'
 - '[[wiki/Home]]'
 - '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/Version Genealogy System]]'

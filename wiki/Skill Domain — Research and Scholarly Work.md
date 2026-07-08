@@ -30,10 +30,10 @@ canonical_path: wiki/Skill Domain — Research and Scholarly Work.md
 backlink_count: 9
 backlinks:
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/Research and Papers MOC]]'
-- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
+- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'

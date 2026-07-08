@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
 - '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[wiki/Plugin Recommendations]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'

@@ -35,12 +35,12 @@ backlinks:
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[wiki/Personal and Projects MOC]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

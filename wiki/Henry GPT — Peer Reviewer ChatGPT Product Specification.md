@@ -31,7 +31,7 @@ backlink_count: 5
 backlinks:
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/HENRY — Research Paper Writing System]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

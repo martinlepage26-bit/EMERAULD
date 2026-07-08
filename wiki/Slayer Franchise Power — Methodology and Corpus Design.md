@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[wiki/For Her Alone to Wield — Version Genealogy]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Slayer Recursion Protocol — README and Repositioning]]'
 ---
 

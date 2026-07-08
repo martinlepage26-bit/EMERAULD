@@ -23,7 +23,7 @@ backlink_count: 5
 backlinks:
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Home]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---

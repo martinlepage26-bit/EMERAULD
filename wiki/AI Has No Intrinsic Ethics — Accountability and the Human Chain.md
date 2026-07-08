@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[wiki/Recursive Governance Theory]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

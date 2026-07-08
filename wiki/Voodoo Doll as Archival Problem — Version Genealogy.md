@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
 - '[[wiki/Version Genealogy System]]'
 - '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # Voodoo Doll as Archival Problem — Version Genealogy

@@ -22,7 +22,7 @@ backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[governance/hephaistos/GADGET]]'
 skill_id: gadget
 domain: AI LLM and Tools

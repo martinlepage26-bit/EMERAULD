@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-0
 backlink_count: 2
 backlinks:
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://botpress.com/docs/studio/guides/advanced/safety/introduction
 date: '2026-05-05'
 scraped: '2026-05-05'

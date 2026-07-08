@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
   Projection]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---

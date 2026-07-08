@@ -23,7 +23,7 @@ canonical_path: governance/hephaistos/CLAUDE-REVIEW-CHECKLIST.md
 backlink_count: 4
 backlinks:
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
 - '[[governance/governance-index]]'
 ---

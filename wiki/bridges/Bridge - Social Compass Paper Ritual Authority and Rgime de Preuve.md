@@ -26,7 +26,7 @@ canonical_path: wiki/bridges/Bridge - Social Compass Paper Ritual Authority and 
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
+- '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 ---
 

@@ -21,21 +21,21 @@ canonical_path: wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by
 backlink_count: 17
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Alchemy of the Wound — Novel]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Slayer Recursion Protocol — README and Repositioning]]'
 - '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---
 

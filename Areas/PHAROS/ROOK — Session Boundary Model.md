@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[wiki/Plugin Recommendations]]'
 - '[[wiki/Trismégiste — Operator State]]'

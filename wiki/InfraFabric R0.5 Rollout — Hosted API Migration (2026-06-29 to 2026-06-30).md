@@ -29,7 +29,7 @@ backlink_count: 7
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'
 - '[[memory/daily/2026-07-01]]'

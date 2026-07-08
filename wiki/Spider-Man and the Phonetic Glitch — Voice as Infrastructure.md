@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/La fréquence brisée du verbe — Roman]]'
 - '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
 - '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

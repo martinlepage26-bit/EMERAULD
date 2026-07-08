@@ -30,14 +30,14 @@ backlink_count: 11
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
 - '[[wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

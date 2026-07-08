@@ -21,17 +21,17 @@ canonical_path: wiki/Master Bibliography — Références bibliographiques 2025.
 backlink_count: 13
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Qualitative Handbook — Expanded Reference List]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---
 

@@ -24,7 +24,7 @@ canonical_path: hephaistos/personal-assistant-agents/content-inventory-cartograp
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 ---
 

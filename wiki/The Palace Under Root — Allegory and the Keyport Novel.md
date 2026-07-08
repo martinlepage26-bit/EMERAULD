@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Returning Light — Monograph]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

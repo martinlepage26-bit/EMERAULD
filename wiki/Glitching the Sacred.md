@@ -24,13 +24,13 @@ vault_area: wiki
 canonical_path: wiki/Glitching the Sacred.md
 backlink_count: 11
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[wiki/Legitimacy Machines MOC]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

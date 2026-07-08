@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # Neo-Shamanism Gender Narratives — Version Genealogy

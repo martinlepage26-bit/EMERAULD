@@ -21,7 +21,7 @@ canonical_path: Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Schola
 backlink_count: 65
 backlinks:
 - '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Agatha All Along Social Compass — Version Genealogy]]'
 - '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'
@@ -55,7 +55,7 @@ backlinks:
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[wiki/Pagan Magic — Version Genealogy]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Pourquoi Rever Encore — Version Genealogy]]'
 - '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
 - '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
@@ -66,7 +66,7 @@ backlinks:
 - '[[wiki/Reboot Performance Gender Identity — Version Genealogy]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
@@ -83,7 +83,7 @@ backlinks:
 - '[[wiki/Why Be King Im Already a Queen — Book Project]]'
 - '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[wiki/Wicca 2.0 — Version Genealogy]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---
 

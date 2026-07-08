@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/PHAROS SURFACE]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'

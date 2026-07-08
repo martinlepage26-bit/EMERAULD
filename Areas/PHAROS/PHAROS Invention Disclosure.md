@@ -21,7 +21,7 @@ canonical_path: Areas/PHAROS/PHAROS Invention Disclosure.md
 backlink_count: 59
 backlinks:
 - '[[wiki/90-Day $1M Challenge — Status Report]]'
-- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
 - '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'
@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
-- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
 - '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/Founder Charter — Lepage and Stocker]]'
@@ -65,7 +65,7 @@ backlinks:
 - '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[wiki/September 2024 Research Retrospective]]'
-- '[[wiki/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
+- '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
 - '[[wiki/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/The Returning Light — Monograph]]'

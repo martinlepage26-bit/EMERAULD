@@ -31,7 +31,7 @@ backlink_count: 5
 backlinks:
 - '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

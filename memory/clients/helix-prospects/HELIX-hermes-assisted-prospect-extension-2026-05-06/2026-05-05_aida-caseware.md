@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-ex
 backlink_count: 2
 backlinks:
 - '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://www.caseware.com/products/aida
 date: '2026-05-05'
 scraped: '2026-05-05'

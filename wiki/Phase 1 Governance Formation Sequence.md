@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/Phase 1 Governance Formation Sequence.md
 backlink_count: 19
 backlinks:
-- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Alchemy of the Wound — Novel]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
@@ -30,14 +30,14 @@ backlinks:
 - '[[wiki/PHAROS Legal Classification — CAE Code Strategy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[wiki/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[wiki/Recursive Governance Theory]]'
-- '[[wiki/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
+- '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
 - '[[wiki/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
   Glitch]]'
 - '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[maps/PHAROS Method Map]]'

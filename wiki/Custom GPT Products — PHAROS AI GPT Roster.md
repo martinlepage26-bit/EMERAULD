@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Governess Agatha GPT — ChatGPT Product Specification]]'
 - '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/PHAROS Product Stack]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

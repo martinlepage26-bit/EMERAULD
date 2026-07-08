@@ -26,7 +26,7 @@ backlink_count: 5
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[wiki/EMERAULD]]'
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/daily/2026-06-23]]'
 ---

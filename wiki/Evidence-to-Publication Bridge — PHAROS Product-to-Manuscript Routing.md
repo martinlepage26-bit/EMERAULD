@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/2026-06-29 - idea-discovery]]'
 - '[[Areas/Writing/AREA]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

@@ -54,7 +54,7 @@ backlinks:
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[wiki/Personal and Projects MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'

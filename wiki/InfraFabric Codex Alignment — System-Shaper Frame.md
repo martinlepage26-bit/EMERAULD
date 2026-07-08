@@ -32,7 +32,7 @@ backlink_count: 9
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/InfraFabric Architecture]]'
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'

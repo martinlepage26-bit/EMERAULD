@@ -20,7 +20,7 @@ canonical_path: wiki/skills/ingest.md
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: ingest
 domain: AI LLM and Tools

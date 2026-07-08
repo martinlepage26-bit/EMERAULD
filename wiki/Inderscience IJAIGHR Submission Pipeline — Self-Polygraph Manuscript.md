@@ -27,9 +27,9 @@ vault_area: wiki
 canonical_path: wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

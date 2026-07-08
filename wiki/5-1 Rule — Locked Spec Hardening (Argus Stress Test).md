@@ -26,7 +26,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
-- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'

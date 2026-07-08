@@ -23,7 +23,7 @@ canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/06
 backlink_count: 2
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 ---
 
 # Codex Governance Case Study: The Blind Leading the Automated

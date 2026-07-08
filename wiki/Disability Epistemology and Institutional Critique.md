@@ -27,7 +27,7 @@ canonical_path: wiki/Disability Epistemology and Institutional Critique.md
 backlink_count: 27
 backlinks:
 - '[[wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
 - '[[wiki/Authority Without Power-Over]]'
 - '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
@@ -42,7 +42,7 @@ backlinks:
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

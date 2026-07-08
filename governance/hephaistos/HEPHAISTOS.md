@@ -48,7 +48,7 @@ backlinks:
 - '[[wiki/September 2024 Retrospective — Version Genealogy]]'
 - '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
 - '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
 - '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
 - '[[governance/governance-index]]'

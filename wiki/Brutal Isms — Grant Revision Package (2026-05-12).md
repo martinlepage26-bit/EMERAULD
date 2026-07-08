@@ -29,7 +29,7 @@ backlink_count: 4
 backlinks:
 - '[[wiki/Brutal Isms — Art Grant Proposal]]'
 - '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 source:
 - raw/Desktop-Downloads-scan-2026-05-12/downloads/brutal-isms-grant-with-answers_henry-final-one.docx

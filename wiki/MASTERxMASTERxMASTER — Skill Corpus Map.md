@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/MASTERxMASTERxMASTER — Skill Corpus Map.md
 backlink_count: 17
 backlinks:
-- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[wiki/APEX Papers — Research Archive Map]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[wiki/Claude Code Skill Corpus]]'

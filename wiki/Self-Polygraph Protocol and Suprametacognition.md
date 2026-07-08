@@ -43,7 +43,7 @@ backlinks:
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'

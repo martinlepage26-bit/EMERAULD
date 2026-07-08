@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Qualitative Handbook — Expanded Reference List]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles

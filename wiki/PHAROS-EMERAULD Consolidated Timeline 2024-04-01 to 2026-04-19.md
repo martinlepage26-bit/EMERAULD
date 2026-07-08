@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[wiki/Personal and Projects MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/September 2024 Retrospective — Version Genealogy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory]]'

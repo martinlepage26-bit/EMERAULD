@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_responsible-ai-in-financial-services.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 source_url: https://stories.td.com/ca/en/media/responsible-ai-in-financial-services
 date: '2026-05-05'
 scraped: '2026-05-05'

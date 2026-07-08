@@ -25,7 +25,7 @@ canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05
 backlink_count: 2
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 ---
 
 # From Recursive Production to Governable Method: A Comprehensive Account of the PHAROS Research Program

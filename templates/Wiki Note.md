@@ -21,7 +21,7 @@ canonical_path: templates/Wiki Note.md
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 ---
 

@@ -8,7 +8,6 @@ aliases:
 - Egyptian triad to LOTUS
 - Osirian recursive method
 - Hermetic substrate of EMERAULD
-- wiki/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone
 tags:
 - keystone
 - ma-thesis
@@ -21,7 +20,7 @@ tags:
 - methodological-genealogy
 - rivard
 - trismegiste
-- wiki
+- areas
 - mythocritique-to-pharos-the-2010-master-s-thesis-as-methodological-keystone-md
 - double
 - ombre
@@ -30,9 +29,8 @@ tags:
 status: active
 created: '2026-05-03'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological
-  Keystone.md
+vault_area: Areas
+canonical_path: Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone.md
 backlink_count: 118
 backlinks:
 - '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
@@ -43,8 +41,7 @@ backlinks:
 - '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[wiki/Alchemy of the Wound — Novel]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
@@ -62,7 +59,7 @@ backlinks:
 - '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
-- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/Founder Charter — Lepage and Stocker]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
@@ -90,8 +87,7 @@ backlinks:
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[wiki/Novel and Creative Corpus]]'
@@ -113,7 +109,7 @@ backlinks:
 - '[[wiki/Pourquoi Rever Encore — Version Genealogy]]'
 - '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
 - '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
@@ -121,13 +117,13 @@ backlinks:
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
 - '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
-- '[[wiki/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[wiki/Sealed Card Protocol — Version Genealogy]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
@@ -145,14 +141,13 @@ backlinks:
 - '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/The Returning Light — Monograph]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
-  Glitch]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
 - '[[wiki/The Weather Beneath the Walls — Novel]]'
 - '[[wiki/Trismégiste — Personal AI Assistant]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Why Be King Im Already a Queen — Book Project]]'
 - '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 - '[[projects/LOTUS — Fisher King Project State]]'

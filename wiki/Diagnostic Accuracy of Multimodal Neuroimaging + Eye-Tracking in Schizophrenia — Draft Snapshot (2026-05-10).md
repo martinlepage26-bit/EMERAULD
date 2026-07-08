@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[wiki/D Drive Scan — 2026-05-12]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

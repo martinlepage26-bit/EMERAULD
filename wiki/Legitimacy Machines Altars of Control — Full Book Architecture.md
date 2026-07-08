@@ -27,9 +27,9 @@ backlinks:
 - '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

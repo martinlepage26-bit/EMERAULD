@@ -48,7 +48,7 @@ backlinks:
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Research Hub]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'

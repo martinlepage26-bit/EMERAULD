@@ -22,7 +22,7 @@ vault_area: governance
 canonical_path: governance/hephaistos/COUNTER-AUDIT-IMPLEMENTATION.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION]]'
 ---

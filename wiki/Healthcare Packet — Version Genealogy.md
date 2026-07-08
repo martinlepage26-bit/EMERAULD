@@ -21,11 +21,11 @@ vault_area: wiki
 canonical_path: wiki/Healthcare Packet — Version Genealogy.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
 - '[[wiki/Home]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # Healthcare Packet — Version Genealogy

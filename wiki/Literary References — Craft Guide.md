@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[governance/hephaistos/HENRY]]'
 - '[[wiki/skills/literary-references]]'

@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Authority Without Ethics — The Love Witch.md
 backlink_count: 27
 backlinks:
-- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Care, Ethics, and Governance]]'
@@ -33,13 +33,13 @@ backlinks:
 - '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[wiki/Magic After Legitimacy Charmed — Version Genealogy]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
   Projection]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

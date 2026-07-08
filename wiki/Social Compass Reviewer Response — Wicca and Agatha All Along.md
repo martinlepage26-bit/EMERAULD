@@ -27,8 +27,8 @@ backlinks:
 - '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[wiki/Home]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

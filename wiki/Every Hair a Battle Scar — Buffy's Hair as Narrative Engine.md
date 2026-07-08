@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'

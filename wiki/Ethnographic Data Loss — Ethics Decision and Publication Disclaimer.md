@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Glitching the Sacred]]'
 - '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
   vs Reclaiming)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
   Glitch]]'

@@ -47,7 +47,7 @@ backlinks:
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[wiki/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Personal and Projects MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/September 2024 Retrospective — Version Genealogy]]'

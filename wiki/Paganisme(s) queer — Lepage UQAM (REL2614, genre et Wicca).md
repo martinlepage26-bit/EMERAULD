@@ -28,8 +28,8 @@ backlink_count: 5
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

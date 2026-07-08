@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[memory/agents/Blockers]]'
 - '[[memory/agents/Journal]]'

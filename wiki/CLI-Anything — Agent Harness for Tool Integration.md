@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Claude Code Skill Corpus]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
-- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/SYSTEM CHECK]]'
 ---

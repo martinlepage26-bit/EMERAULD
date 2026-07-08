@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # Governance by Denial — Version Genealogy

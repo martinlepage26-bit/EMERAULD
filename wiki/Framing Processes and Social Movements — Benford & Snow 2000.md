@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

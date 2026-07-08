@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-swee
 backlink_count: 2
 backlinks:
 - '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://cohere.com/
 date: '2026-05-05'
 scraped: '2026-05-05'

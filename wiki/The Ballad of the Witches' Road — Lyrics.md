@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/The Ballad of the Witches' Road — Lyrics.md
 backlink_count: 15
 backlinks:
-- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Paper Planes — M.I.A. — Lyrics]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'

@@ -28,7 +28,7 @@ canonical_path: wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study.md
 backlink_count: 6
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
 - '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'

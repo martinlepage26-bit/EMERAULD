@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
 - '[[wiki/Legitimacy Machines MOC]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/PHAROS Method — Core Framework]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[projects/AurorA — Fisher King Project State]]'

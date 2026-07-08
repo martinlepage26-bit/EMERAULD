@@ -22,11 +22,11 @@ canonical_path: wiki/RDAIG Method Editorial Consolidation — 2026.md
 backlink_count: 7
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

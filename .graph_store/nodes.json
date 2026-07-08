@@ -358,20 +358,6 @@
     "backlinks": 23
   },
   {
-    "id": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
-    "title": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
-    "path": "wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Society Manuscript — From AI Anxiety to Recursive Governance",
-      "wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance"
-    ],
-    "outlinks": 20,
-    "unique_outlinks": 15,
-    "backlinks": 79
-  },
-  {
     "id": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
     "title": "AI Society Manuscript — Springer In Review Notification (2026-05-10)",
     "path": "wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10).md",
@@ -459,20 +445,6 @@
     "backlinks": 0
   },
   {
-    "id": "Academic Paper Pipeline",
-    "title": "Academic Paper Pipeline",
-    "path": "wiki/Academic Paper Pipeline.md",
-    "type": "map",
-    "status": "active",
-    "aliases": [
-      "TOPIC — Academic Paper Pipeline",
-      "wiki/Academic Paper Pipeline"
-    ],
-    "outlinks": 54,
-    "unique_outlinks": 51,
-    "backlinks": 121
-  },
-  {
     "id": "Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
     "title": "Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
     "path": "wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone).md",
@@ -500,21 +472,6 @@
     "outlinks": 8,
     "unique_outlinks": 8,
     "backlinks": 14
-  },
-  {
-    "id": "Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
-    "title": "Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
-    "path": "wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes.md",
-    "type": "academic-paper",
-    "status": "active",
-    "aliases": [
-      "Agatha Social Compass",
-      "SOCO paper",
-      "wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes"
-    ],
-    "outlinks": 30,
-    "unique_outlinks": 22,
-    "backlinks": 95
   },
   {
     "id": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
@@ -925,6 +882,19 @@
     "backlinks": 71
   },
   {
+    "id": "Areas/PHAROS/External Data Registry — Phase 1 Build",
+    "title": "External Data Registry — Phase 1 Build",
+    "path": "Areas/PHAROS/External Data Registry — Phase 1 Build.md",
+    "type": "governance-registry",
+    "status": "in-progress",
+    "aliases": [
+      "External Data Registry — Phase 1 Build"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 5,
+    "backlinks": 83
+  },
+  {
     "id": "Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning",
     "title": "GAIA — Earth-Calendar App and Evidence-Aware Positioning",
     "path": "Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning.md",
@@ -1050,6 +1020,20 @@
     "backlinks": 119
   },
   {
+    "id": "Areas/PHAROS/MCP and Runtime Integration MOC",
+    "title": "MCP and Runtime Integration MOC",
+    "path": "Areas/PHAROS/MCP and Runtime Integration MOC.md",
+    "type": "moc",
+    "status": "active",
+    "aliases": [
+      "MCP Runtime MOC",
+      "Runtime Integration MOC"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 23,
+    "backlinks": 15
+  },
+  {
     "id": "Areas/PHAROS/Martin Lepage — Professional Profile",
     "title": "Martin Lepage — Professional Profile",
     "path": "Areas/PHAROS/Martin Lepage — Professional Profile.md",
@@ -1075,6 +1059,34 @@
     "outlinks": 11,
     "unique_outlinks": 7,
     "backlinks": 17
+  },
+  {
+    "id": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
+    "title": "Obsidian Agent Vault — Launch Kit",
+    "path": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Agent Vault Launch Kit",
+      "Obsidian Agent Vault",
+      "vault memory layer"
+    ],
+    "outlinks": 27,
+    "unique_outlinks": 16,
+    "backlinks": 55
+  },
+  {
+    "id": "Areas/PHAROS/Obsidian Agent Vault — Setup Guide",
+    "title": "Obsidian Agent Vault — Setup Guide",
+    "path": "Areas/PHAROS/Obsidian Agent Vault — Setup Guide.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Obsidian Agent Vault — Setup Guide"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 6,
+    "backlinks": 13
   },
   {
     "id": "Areas/PHAROS/PHAROS",
@@ -1314,6 +1326,21 @@
     "backlinks": 40
   },
   {
+    "id": "Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)",
+    "title": "RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)",
+    "path": "Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "RAGE proposal",
+      "Recursive Artifact Governance Engine",
+      "artifact graph governance engine"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 8,
+    "backlinks": 11
+  },
+  {
     "id": "Areas/PHAROS/ROOK — Session Boundary Model",
     "title": "ROOK — Session Boundary Model",
     "path": "Areas/PHAROS/ROOK — Session Boundary Model.md",
@@ -1373,6 +1400,36 @@
     "backlinks": 236
   },
   {
+    "id": "Areas/PHAROS/Skill Domain — AI and LLM Tools",
+    "title": "Skill Domain — AI and LLM Tools",
+    "path": "Areas/PHAROS/Skill Domain — AI and LLM Tools.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI and LLM Tools domain",
+      "AI tools skills domain",
+      "LLM integration hub"
+    ],
+    "outlinks": 32,
+    "unique_outlinks": 31,
+    "backlinks": 11
+  },
+  {
+    "id": "Areas/PHAROS/Skill Domain — Operator Wellbeing",
+    "title": "Skill Domain — Operator Wellbeing",
+    "path": "Areas/PHAROS/Skill Domain — Operator Wellbeing.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Burnout interrupt hub",
+      "Operator Wellbeing domain",
+      "Wellbeing skills domain"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 7,
+    "backlinks": 9
+  },
+  {
     "id": "Areas/PHAROS/Skill Ecosystem — Professional Capability Registry",
     "title": "Skill Ecosystem — Professional Capability Registry",
     "path": "Areas/PHAROS/Skill Ecosystem — Professional Capability Registry.md",
@@ -1427,6 +1484,19 @@
     "backlinks": 0
   },
   {
+    "id": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "title": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
+    "path": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Society Manuscript — From AI Anxiety to Recursive Governance"
+    ],
+    "outlinks": 20,
+    "unique_outlinks": 15,
+    "backlinks": 79
+  },
+  {
     "id": "Areas/Writing/AREA",
     "title": "AREA",
     "path": "Areas/Writing/AREA.md",
@@ -1438,6 +1508,173 @@
     "outlinks": 6,
     "unique_outlinks": 6,
     "backlinks": 0
+  },
+  {
+    "id": "Areas/Writing/Academic Paper Pipeline",
+    "title": "Academic Paper Pipeline",
+    "path": "Areas/Writing/Academic Paper Pipeline.md",
+    "type": "map",
+    "status": "active",
+    "aliases": [
+      "TOPIC — Academic Paper Pipeline"
+    ],
+    "outlinks": 54,
+    "unique_outlinks": 51,
+    "backlinks": 121
+  },
+  {
+    "id": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
+    "title": "Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
+    "path": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes.md",
+    "type": "academic-paper",
+    "status": "active",
+    "aliases": [
+      "Agatha Social Compass",
+      "SOCO paper"
+    ],
+    "outlinks": 30,
+    "unique_outlinks": 22,
+    "backlinks": 95
+  },
+  {
+    "id": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
+    "title": "First Method Paper — Recursive AI Governance as Executable Method",
+    "path": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "First Method Paper — Recursive AI Governance as Executable Method"
+    ],
+    "outlinks": 27,
+    "unique_outlinks": 18,
+    "backlinks": 68
+  },
+  {
+    "id": "Areas/Writing/Manuscript Pipeline MOC",
+    "title": "Manuscript Pipeline MOC",
+    "path": "Areas/Writing/Manuscript Pipeline MOC.md",
+    "type": "moc",
+    "status": "active",
+    "aliases": [
+      "Manuscript Cluster MOC"
+    ],
+    "outlinks": 50,
+    "unique_outlinks": 50,
+    "backlinks": 58
+  },
+  {
+    "id": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
+    "title": "Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
+    "path": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Lecture mythocritique d'une quête spirituelle",
+      "Lepage 2010 master's thesis",
+      "MA thesis on Rivard",
+      "Mort et Naissance MA thesis",
+      "Université Laval MA thesis"
+    ],
+    "outlinks": 32,
+    "unique_outlinks": 23,
+    "backlinks": 69
+  },
+  {
+    "id": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "title": "Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "path": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Egyptian triad to LOTUS",
+      "Hermetic substrate of EMERAULD",
+      "Mythocritique to PHAROS",
+      "Osirian recursive method",
+      "Pourquoi rêver encore — keystone",
+      "The Keystone — MA thesis as methodological substrate"
+    ],
+    "outlinks": 86,
+    "unique_outlinks": 52,
+    "backlinks": 136
+  },
+  {
+    "id": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "title": "Pagan and Queer Ritual Studies MOC",
+    "path": "Areas/Writing/Pagan and Queer Ritual Studies MOC.md",
+    "type": "moc",
+    "status": "active",
+    "aliases": [
+      "Pagan Ritual Studies MOC",
+      "Queer Pagan Cluster MOC"
+    ],
+    "outlinks": 74,
+    "unique_outlinks": 73,
+    "backlinks": 63
+  },
+  {
+    "id": "Areas/Writing/Queer Sociology of Magic and Ritual",
+    "title": "Queer Sociology of Magic and Ritual",
+    "path": "Areas/Writing/Queer Sociology of Magic and Ritual.md",
+    "type": "map",
+    "status": "active",
+    "aliases": [
+      "TOPIC — Queer Sociology of Magic and Ritual"
+    ],
+    "outlinks": 61,
+    "unique_outlinks": 57,
+    "backlinks": 467
+  },
+  {
+    "id": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
+    "title": "Recursive Deterministic AI Governance — Method and Paper",
+    "path": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Recursive Deterministic AI Governance — Method and Paper"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 10,
+    "backlinks": 186
+  },
+  {
+    "id": "Areas/Writing/Research and Papers MOC",
+    "title": "Research and Papers MOC",
+    "path": "Areas/Writing/Research and Papers MOC.md",
+    "type": "moc",
+    "status": "active",
+    "aliases": [
+      "Research and Papers MOC"
+    ],
+    "outlinks": 309,
+    "unique_outlinks": 270,
+    "backlinks": 722
+  },
+  {
+    "id": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
+    "title": "Social Compass Paper — Ritual Authority and Régime de Preuve",
+    "path": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Social Compass Paper — Ritual Authority and Régime de Preuve"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 6,
+    "backlinks": 93
+  },
+  {
+    "id": "Areas/Writing/Writing and Novels MOC",
+    "title": "Writing and Novels MOC",
+    "path": "Areas/Writing/Writing and Novels MOC.md",
+    "type": "moc",
+    "status": "active",
+    "aliases": [
+      "Writing and Novels MOC"
+    ],
+    "outlinks": 122,
+    "unique_outlinks": 109,
+    "backlinks": 217
   },
   {
     "id": "Areas/governanceframework/README",
@@ -3025,34 +3262,6 @@
     "backlinks": 4
   },
   {
-    "id": "External Data Registry — Phase 1 Build",
-    "title": "External Data Registry — Phase 1 Build",
-    "path": "wiki/External Data Registry — Phase 1 Build.md",
-    "type": "governance-registry",
-    "status": "in-progress",
-    "aliases": [
-      "External Data Registry — Phase 1 Build",
-      "wiki/External Data Registry — Phase 1 Build"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 5,
-    "backlinks": 83
-  },
-  {
-    "id": "First Method Paper — Recursive AI Governance as Executable Method",
-    "title": "First Method Paper — Recursive AI Governance as Executable Method",
-    "path": "wiki/First Method Paper — Recursive AI Governance as Executable Method.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "First Method Paper — Recursive AI Governance as Executable Method",
-      "wiki/First Method Paper — Recursive AI Governance as Executable Method"
-    ],
-    "outlinks": 27,
-    "unique_outlinks": 18,
-    "backlinks": 68
-  },
-  {
     "id": "First Method Paper — Version Genealogy",
     "title": "First Method Paper — Version Genealogy",
     "path": "wiki/First Method Paper — Version Genealogy.md",
@@ -4610,21 +4819,6 @@
     "backlinks": 25
   },
   {
-    "id": "MCP and Runtime Integration MOC",
-    "title": "MCP and Runtime Integration MOC",
-    "path": "wiki/MCP and Runtime Integration MOC.md",
-    "type": "moc",
-    "status": "active",
-    "aliases": [
-      "MCP Runtime MOC",
-      "Runtime Integration MOC",
-      "wiki/MCP and Runtime Integration MOC"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 23,
-    "backlinks": 15
-  },
-  {
     "id": "MEMORY MOC",
     "title": "MEMORY MOC",
     "path": "wiki/MEMORY MOC.md",
@@ -4693,20 +4887,6 @@
     "outlinks": 7,
     "unique_outlinks": 4,
     "backlinks": 9
-  },
-  {
-    "id": "Manuscript Pipeline MOC",
-    "title": "Manuscript Pipeline MOC",
-    "path": "wiki/Manuscript Pipeline MOC.md",
-    "type": "moc",
-    "status": "active",
-    "aliases": [
-      "Manuscript Cluster MOC",
-      "wiki/Manuscript Pipeline MOC"
-    ],
-    "outlinks": 50,
-    "unique_outlinks": 50,
-    "backlinks": 58
   },
   {
     "id": "Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
@@ -4969,43 +5149,6 @@
     "backlinks": 9
   },
   {
-    "id": "Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
-    "title": "Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
-    "path": "wiki/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Lecture mythocritique d'une quête spirituelle",
-      "Lepage 2010 master's thesis",
-      "MA thesis on Rivard",
-      "Mort et Naissance MA thesis",
-      "Université Laval MA thesis",
-      "wiki/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université"
-    ],
-    "outlinks": 32,
-    "unique_outlinks": 23,
-    "backlinks": 69
-  },
-  {
-    "id": "Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "title": "Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "path": "wiki/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Egyptian triad to LOTUS",
-      "Hermetic substrate of EMERAULD",
-      "Mythocritique to PHAROS",
-      "Osirian recursive method",
-      "Pourquoi rêver encore — keystone",
-      "The Keystone — MA thesis as methodological substrate",
-      "wiki/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone"
-    ],
-    "outlinks": 86,
-    "unique_outlinks": 52,
-    "backlinks": 136
-  },
-  {
     "id": "Möbius Protocol — AI Self-Polygraph Template",
     "title": "Möbius Protocol — AI Self-Polygraph Template",
     "path": "wiki/Möbius Protocol — AI Self-Polygraph Template.md",
@@ -5170,36 +5313,6 @@
     "outlinks": 23,
     "unique_outlinks": 11,
     "backlinks": 12
-  },
-  {
-    "id": "Obsidian Agent Vault — Launch Kit",
-    "title": "Obsidian Agent Vault — Launch Kit",
-    "path": "wiki/Obsidian Agent Vault — Launch Kit.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Agent Vault Launch Kit",
-      "Obsidian Agent Vault",
-      "vault memory layer",
-      "wiki/Obsidian Agent Vault — Launch Kit"
-    ],
-    "outlinks": 27,
-    "unique_outlinks": 16,
-    "backlinks": 55
-  },
-  {
-    "id": "Obsidian Agent Vault — Setup Guide",
-    "title": "Obsidian Agent Vault — Setup Guide",
-    "path": "wiki/Obsidian Agent Vault — Setup Guide.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Obsidian Agent Vault — Setup Guide",
-      "wiki/Obsidian Agent Vault — Setup Guide"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 6,
-    "backlinks": 13
   },
   {
     "id": "Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)",
@@ -6284,21 +6397,6 @@
     "backlinks": 6
   },
   {
-    "id": "Pagan and Queer Ritual Studies MOC",
-    "title": "Pagan and Queer Ritual Studies MOC",
-    "path": "wiki/Pagan and Queer Ritual Studies MOC.md",
-    "type": "moc",
-    "status": "active",
-    "aliases": [
-      "Pagan Ritual Studies MOC",
-      "Queer Pagan Cluster MOC",
-      "wiki/Pagan and Queer Ritual Studies MOC"
-    ],
-    "outlinks": 74,
-    "unique_outlinks": 73,
-    "backlinks": 63
-  },
-  {
     "id": "Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
     "title": "Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
     "path": "wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca).md",
@@ -6811,20 +6909,6 @@
     "backlinks": 10
   },
   {
-    "id": "Queer Sociology of Magic and Ritual",
-    "title": "Queer Sociology of Magic and Ritual",
-    "path": "wiki/Queer Sociology of Magic and Ritual.md",
-    "type": "map",
-    "status": "active",
-    "aliases": [
-      "TOPIC — Queer Sociology of Magic and Ritual",
-      "wiki/Queer Sociology of Magic and Ritual"
-    ],
-    "outlinks": 61,
-    "unique_outlinks": 57,
-    "backlinks": 467
-  },
-  {
     "id": "Queer Theory Foundations",
     "title": "Queer Theory Foundations",
     "path": "wiki/Queer Theory Foundations.md",
@@ -6966,22 +7050,6 @@
     ],
     "outlinks": 14,
     "unique_outlinks": 5,
-    "backlinks": 11
-  },
-  {
-    "id": "RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)",
-    "title": "RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)",
-    "path": "wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "RAGE proposal",
-      "Recursive Artifact Governance Engine",
-      "artifact graph governance engine",
-      "wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 8,
     "backlinks": 11
   },
   {
@@ -7166,20 +7234,6 @@
     "outlinks": 19,
     "unique_outlinks": 9,
     "backlinks": 45
-  },
-  {
-    "id": "Recursive Deterministic AI Governance — Method and Paper",
-    "title": "Recursive Deterministic AI Governance — Method and Paper",
-    "path": "wiki/Recursive Deterministic AI Governance — Method and Paper.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Recursive Deterministic AI Governance — Method and Paper",
-      "wiki/Recursive Deterministic AI Governance — Method and Paper"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 10,
-    "backlinks": 186
   },
   {
     "id": "Recursive Entry Structure — Song Corpus to Governance Prompt",
@@ -7374,20 +7428,6 @@
     "outlinks": 16,
     "unique_outlinks": 15,
     "backlinks": 16
-  },
-  {
-    "id": "Research and Papers MOC",
-    "title": "Research and Papers MOC",
-    "path": "wiki/Research and Papers MOC.md",
-    "type": "moc",
-    "status": "active",
-    "aliases": [
-      "Research and Papers MOC",
-      "wiki/Research and Papers MOC"
-    ],
-    "outlinks": 309,
-    "unique_outlinks": 270,
-    "backlinks": 722
   },
   {
     "id": "Resources/ROUTING",
@@ -7783,22 +7823,6 @@
     "backlinks": 26
   },
   {
-    "id": "Skill Domain — AI and LLM Tools",
-    "title": "Skill Domain — AI and LLM Tools",
-    "path": "wiki/Skill Domain — AI and LLM Tools.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI and LLM Tools domain",
-      "AI tools skills domain",
-      "LLM integration hub",
-      "wiki/Skill Domain — AI and LLM Tools"
-    ],
-    "outlinks": 32,
-    "unique_outlinks": 31,
-    "backlinks": 11
-  },
-  {
     "id": "Skill Domain — Agent Architecture",
     "title": "Skill Domain — Agent Architecture",
     "path": "wiki/Skill Domain — Agent Architecture.md",
@@ -7880,22 +7904,6 @@
     "outlinks": 40,
     "unique_outlinks": 26,
     "backlinks": 24
-  },
-  {
-    "id": "Skill Domain — Operator Wellbeing",
-    "title": "Skill Domain — Operator Wellbeing",
-    "path": "wiki/Skill Domain — Operator Wellbeing.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Burnout interrupt hub",
-      "Operator Wellbeing domain",
-      "Wellbeing skills domain",
-      "wiki/Skill Domain — Operator Wellbeing"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 7,
-    "backlinks": 9
   },
   {
     "id": "Skill Domain — Research and Scholarly Work",
@@ -8039,20 +8047,6 @@
     "outlinks": 29,
     "unique_outlinks": 16,
     "backlinks": 13
-  },
-  {
-    "id": "Social Compass Paper — Ritual Authority and Régime de Preuve",
-    "title": "Social Compass Paper — Ritual Authority and Régime de Preuve",
-    "path": "wiki/Social Compass Paper — Ritual Authority and Régime de Preuve.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Social Compass Paper — Ritual Authority and Régime de Preuve",
-      "wiki/Social Compass Paper — Ritual Authority and Régime de Preuve"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 6,
-    "backlinks": 93
   },
   {
     "id": "Social Compass Reviewer Response — Wicca and Agatha All Along",
@@ -9391,20 +9385,6 @@
     "outlinks": 1,
     "unique_outlinks": 1,
     "backlinks": 3
-  },
-  {
-    "id": "Writing and Novels MOC",
-    "title": "Writing and Novels MOC",
-    "path": "wiki/Writing and Novels MOC.md",
-    "type": "moc",
-    "status": "active",
-    "aliases": [
-      "Writing and Novels MOC",
-      "wiki/Writing and Novels MOC"
-    ],
-    "outlinks": 122,
-    "unique_outlinks": 109,
-    "backlinks": 217
   },
   {
     "id": "adr/0001-skill-acquisition-strategy",

@@ -40,7 +40,7 @@ backlinks:
 - '[[wiki/The Returning Light — Monograph]]'
 - '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
 - '[[wiki/The Weather Beneath the Walls — Novel]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[maps/Novel Corpus Map]]'
 ---

@@ -30,10 +30,10 @@ canonical_path: wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass propos
 backlink_count: 6
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

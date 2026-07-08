@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
 - '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Master Project Tracker — 2026]]'
@@ -43,12 +43,12 @@ backlinks:
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 ---
 

@@ -5,7 +5,6 @@ aliases:
 - RAGE proposal
 - Recursive Artifact Governance Engine
 - artifact graph governance engine
-- wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)
 tags:
 - governance
 - architecture
@@ -14,7 +13,7 @@ tags:
 - audit
 - recursive-systems
 - product-concept
-- wiki
+- areas
 - rage-recursive-artifact-governance-engine-proposal-2026-05-11-md
 - rage
 - score
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-05-12'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md
 backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'

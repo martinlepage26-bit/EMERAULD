@@ -3,7 +3,6 @@ type: map
 title: Academic Paper Pipeline
 aliases:
 - TOPIC — Academic Paper Pipeline
-- wiki/Academic Paper Pipeline
 tags:
 - index
 - map
@@ -12,7 +11,7 @@ tags:
 - publishing
 - papers
 - pipeline
-- wiki
+- areas
 - academic-paper-pipeline-md
 - society
 - submission
@@ -23,16 +22,15 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Academic Paper Pipeline.md
+vault_area: Areas
+canonical_path: Areas/Writing/Academic Paper Pipeline.md
 backlink_count: 39
 backlinks:
 - '[[wiki/2026-06-29 - idea-discovery]]'
 - '[[wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
 - '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
-- '[[wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia
-  — Draft Snapshot (2026-05-10)]]'
+- '[[wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
@@ -41,13 +39,13 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/IP and Manuscript Brief — 2026-05-14]]'
 - '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
 - '[[wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
 - '[[wiki/Per-Paper Project Structure — Folder and File Architecture]]'
@@ -55,7 +53,7 @@ backlinks:
 - '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
 - '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[wiki/Research Hub]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'

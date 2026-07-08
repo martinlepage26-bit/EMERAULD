@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-blue-j]]'

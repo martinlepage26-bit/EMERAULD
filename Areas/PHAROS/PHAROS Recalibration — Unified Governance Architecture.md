@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'
 - '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
-- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Global Publication Search — PHAROS Method and Variants]]'
 - '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

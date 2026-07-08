@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # Narrative and Method Integration — Creative Articulations of Governance

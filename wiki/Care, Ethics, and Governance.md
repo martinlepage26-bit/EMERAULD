@@ -45,7 +45,7 @@ backlinks:
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Recursive Governance Theory]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
   — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'

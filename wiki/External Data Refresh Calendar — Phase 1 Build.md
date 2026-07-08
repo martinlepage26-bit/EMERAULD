@@ -22,7 +22,7 @@ canonical_path: wiki/External Data Refresh Calendar — Phase 1 Build.md
 backlink_count: 5
 backlinks:
 - '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
-- '[[wiki/External Data Registry — Phase 1 Build]]'
+- '[[Areas/PHAROS/External Data Registry — Phase 1 Build]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'

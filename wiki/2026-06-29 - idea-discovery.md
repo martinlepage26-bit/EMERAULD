@@ -25,7 +25,7 @@ canonical_path: wiki/2026-06-29 - idea-discovery.md
 backlink_count: 7
 backlinks:
 - '[[Logs/2026-06-29]]'
-- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[index]]'
 - '[[memory/agents/Learning]]'
@@ -34,7 +34,7 @@ backlinks:
 source_notes:
 - '[[projects/Second Brain — Fisher King Project State]]'
 - '[[wiki/Obsidian Second Brain Product]]'
-- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[projects/HELIX — Fisher King Project State]]'
 - '[[wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
 - '[[projects/GAIA — Fisher King Project State]]'
@@ -114,7 +114,7 @@ A candidate scores high when all three align. Candidates that have high pull and
 
 ### 4. Create the P0 paper queue and run HENRY on one paper
 
-**Source notes:** [[projects/Papers — Fisher King Project State]], [[Areas/PHAROS/PHAROS Scholarly Publication Track]], [[wiki/Academic Paper Pipeline]], [[wiki/Research and Papers MOC]]
+**Source notes:** [[projects/Papers — Fisher King Project State]], [[Areas/PHAROS/PHAROS Scholarly Publication Track]], [[Areas/Writing/Academic Paper Pipeline]], [[Areas/Writing/Research and Papers MOC]]
 
 **Ranking:**
 - Pull: strong — Papers project has 11 backlinks; linked from MOCs, daily notes Jun 22–26, and the publication track

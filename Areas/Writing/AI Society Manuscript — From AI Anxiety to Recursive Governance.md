@@ -3,9 +3,8 @@ type: wiki
 title: AI Society Manuscript — From AI Anxiety to Recursive Governance
 aliases:
 - AI Society Manuscript — From AI Anxiety to Recursive Governance
-- wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance
 tags:
-- wiki
+- areas
 - recursion
 - governance
 - ai
@@ -19,8 +18,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance.md
+vault_area: Areas
+canonical_path: Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance.md
 backlink_count: 53
 backlinks:
 - '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
@@ -29,7 +28,7 @@ backlinks:
 - '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
 - '[[wiki/APEX Papers — Research Archive Map]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/CODEX Writing Projects Manifest]]'
@@ -46,7 +45,7 @@ backlinks:
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
@@ -64,7 +63,7 @@ backlinks:
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[wiki/Research Hub]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

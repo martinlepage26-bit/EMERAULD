@@ -26,7 +26,7 @@ canonical_path: wiki/Fluency and Interruption Theory.md
 backlink_count: 36
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
   of Interruption]]'

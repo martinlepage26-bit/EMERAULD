@@ -32,8 +32,8 @@ canonical_path: wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliog
 backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

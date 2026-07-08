@@ -23,7 +23,7 @@ backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: claude-api
 domain: AI LLM and Tools
 codex_path: /home/cerebrhoe/.codex/skills/claude-api/SKILL.md

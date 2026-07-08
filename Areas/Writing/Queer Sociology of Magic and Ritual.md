@@ -3,7 +3,6 @@ type: map
 title: Queer Sociology of Magic and Ritual
 aliases:
 - TOPIC — Queer Sociology of Magic and Ritual
-- wiki/Queer Sociology of Magic and Ritual
 tags:
 - index
 - map
@@ -12,7 +11,7 @@ tags:
 - ritual
 - wicca
 - sociology
-- wiki
+- areas
 - queer-sociology-of-magic-and-ritual-md
 - queer
 - magic
@@ -21,25 +20,22 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Queer Sociology of Magic and Ritual.md
+vault_area: Areas
+canonical_path: Areas/Writing/Queer Sociology of Magic and Ritual.md
 backlink_count: 56
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Agatha All Along Social Compass — Version Genealogy]]'
-- '[[wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019
-  (Abomey, Bénin)]]'
+- '[[wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Glitching the Sacred]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
-- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
-  Activism Switzerland)]]'
+- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
 - '[[wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
-- '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et
-  française — Keck 2002 (Methodos)]]'
+- '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)]]'
 - '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
@@ -48,12 +44,11 @@ backlinks:
 - '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
 - '[[wiki/Pourquoi Rever Encore — Version Genealogy]]'
 - '[[wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
@@ -65,9 +60,8 @@ backlinks:
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
 - '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
-- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
-  vs Reclaiming)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
 - '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
@@ -83,7 +77,7 @@ backlinks:
 - '[[wiki/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography]]'
 - '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[wiki/Wicca 2.0 — Version Genealogy]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

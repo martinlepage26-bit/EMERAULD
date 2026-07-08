@@ -24,7 +24,7 @@ backlink_count: 3
 backlinks:
 - '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
   (2026-04-18)]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 ---
 

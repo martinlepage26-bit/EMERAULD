@@ -25,22 +25,22 @@ vault_area: wiki
 canonical_path: wiki/Version Genealogy System.md
 backlink_count: 18
 backlinks:
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines MOC]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
 - '[[wiki/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/September 2024 Retrospective — Version Genealogy]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 - '[[wiki/Wicca 2.0 — Version Genealogy]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/skills/genealogy-loupe]]'
 ---

@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/Plugin Recommendations]]'
 - '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[maps/PHAROS Method Map]]'
 ---

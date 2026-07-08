@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[maps/PHAROS Method Map]]'
 ---

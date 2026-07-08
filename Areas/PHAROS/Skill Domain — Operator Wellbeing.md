@@ -5,7 +5,6 @@ aliases:
 - Operator Wellbeing domain
 - Wellbeing skills domain
 - Burnout interrupt hub
-- wiki/Skill Domain — Operator Wellbeing
 tags:
 - skills
 - domain
@@ -14,7 +13,7 @@ tags:
 - operator
 - burnout
 - capacity
-- wiki
+- areas
 - skill-domain-operator-wellbeing-md
 - cascade
 - interrupt
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Skill Domain — Operator Wellbeing.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Skill Domain — Operator Wellbeing.md
 backlink_count: 6
 backlinks:
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'

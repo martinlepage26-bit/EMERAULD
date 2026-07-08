@@ -21,7 +21,7 @@ canonical_path: wiki/The Wheel and the Watcher.md
 backlink_count: 15
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'

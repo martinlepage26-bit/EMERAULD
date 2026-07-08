@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
-- '[[wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 source:
 - raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/HelixProbe.tsx

@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Paper Planes — M.I.A. — Lyrics]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-04-25]]'

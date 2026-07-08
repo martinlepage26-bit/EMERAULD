@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/The Returning Light — Monograph]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 - '[[maps/Novel Corpus Map]]'
 ---

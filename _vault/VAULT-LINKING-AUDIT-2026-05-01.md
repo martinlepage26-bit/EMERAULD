@@ -22,7 +22,7 @@ canonical_path: _vault/VAULT-LINKING-AUDIT-2026-05-01.md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
   (2026-04-18)]]'
 - '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'

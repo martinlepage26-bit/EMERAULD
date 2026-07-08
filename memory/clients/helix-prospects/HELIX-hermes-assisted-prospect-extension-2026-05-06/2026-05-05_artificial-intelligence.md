@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-ex
 backlink_count: 2
 backlinks:
 - '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://www.cibc.com/en/about-cibc/future-banking/ai.html
 date: '2026-05-05'
 scraped: '2026-05-05'

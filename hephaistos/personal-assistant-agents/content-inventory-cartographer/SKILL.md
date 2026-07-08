@@ -26,7 +26,7 @@ backlink_count: 7
 backlinks:
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/HEPHAISTOS]]'
 - '[[hephaistos/agents/argus]]'

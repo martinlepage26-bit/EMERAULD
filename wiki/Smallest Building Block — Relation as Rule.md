@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Recursive Governance Theory]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

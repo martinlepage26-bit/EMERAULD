@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 ---
 
 # Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems

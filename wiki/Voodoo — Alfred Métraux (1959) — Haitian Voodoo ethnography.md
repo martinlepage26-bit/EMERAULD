@@ -32,8 +32,8 @@ backlinks:
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou
   haitien à Montréal-Nord)]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

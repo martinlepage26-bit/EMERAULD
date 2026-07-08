@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_our-saas-technology-platform-assent.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 source_url: https://www.assent.com/capabilities/platform/
 date: '2026-05-05'
 scraped: '2026-05-05'

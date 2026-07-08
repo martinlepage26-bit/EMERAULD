@@ -28,7 +28,7 @@ canonical_path: wiki/The Ballad of the Witches' Road — Analysis.md
 backlink_count: 17
 backlinks:
 - '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
-- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'

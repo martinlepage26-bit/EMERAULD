@@ -25,7 +25,7 @@ canonical_path: wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle.md
 backlink_count: 6
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Trismégiste]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'

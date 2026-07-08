@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

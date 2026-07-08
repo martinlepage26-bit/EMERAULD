@@ -26,8 +26,8 @@ canonical_path: wiki/AI Governance Public Statement and Market Impact Pack.md
 backlink_count: 25
 backlinks:
 - '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
-- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
@@ -43,7 +43,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
 - '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'

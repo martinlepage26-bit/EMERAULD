@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/D Drive Scan — 2026-05-12]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/GAP-pr4-server-spec-alignment]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/docs/PHAROS_OPERATIONAL_RUNBOOK]]'
 ---

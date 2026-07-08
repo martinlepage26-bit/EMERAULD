@@ -22,7 +22,7 @@ vault_area: artifacts
 canonical_path: artifacts/marketplace/promo/hashnode-iter22-graph-vs-folders.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 - '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
 ---

@@ -21,7 +21,7 @@ vault_area: archive
 canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/ERRATA.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 ---
 
 # PHAROS Invention Disclosure V12 — Errata

@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

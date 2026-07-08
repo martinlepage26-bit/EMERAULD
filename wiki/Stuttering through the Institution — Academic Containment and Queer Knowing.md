@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[maps/Queer Media and Ritual Map]]'
 - '[[raw/Clippings/AI Recruiting Has an Accessibility Problem]]'

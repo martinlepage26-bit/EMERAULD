@@ -4,7 +4,6 @@ title: MCP and Runtime Integration MOC
 aliases:
 - MCP Runtime MOC
 - Runtime Integration MOC
-- wiki/MCP and Runtime Integration MOC
 tags:
 - mcp
 - runtime
@@ -12,7 +11,7 @@ tags:
 - integration
 - tooling
 - moc
-- wiki
+- areas
 - mcp-and-runtime-integration-moc-md
 - infrafabric
 - claude
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-05-14'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/MCP and Runtime Integration MOC.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/MCP and Runtime Integration MOC.md
 backlink_count: 13
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
@@ -31,9 +30,9 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[wiki/Legitimacy Machines MOC]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
-- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[wiki/Vault Health — 2026-06-28]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[index]]'

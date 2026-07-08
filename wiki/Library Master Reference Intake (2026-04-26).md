@@ -30,8 +30,8 @@ backlinks:
 - '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
 - '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
-- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---
 

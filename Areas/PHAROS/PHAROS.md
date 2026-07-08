@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'

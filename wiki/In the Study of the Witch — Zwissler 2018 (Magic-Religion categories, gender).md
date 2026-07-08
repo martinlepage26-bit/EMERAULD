@@ -30,9 +30,9 @@ backlink_count: 5
 backlinks:
 - '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et
   française — Keck 2002 (Methodos)]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 ---
 

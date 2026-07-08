@@ -1,15 +1,12 @@
 ---
 type: wiki
-title: Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)
+title: Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)
 aliases:
 - MA thesis on Rivard
 - Mort et Naissance MA thesis
 - Lecture mythocritique d'une quête spirituelle
 - Lepage 2010 master's thesis
 - Université Laval MA thesis
-- wiki/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)
 tags:
 - ma-thesis
 - primary-source
@@ -19,7 +16,7 @@ tags:
 - hermetic
 - universit-laval
 - '2010'
-- wiki
+- areas
 - mort-et-naissance-et-l-ombre-et-le-double-ma-thesis-on-yvon-rivard-universit-laval-2010-md
 - thesis
 - quest
@@ -29,9 +26,8 @@ tags:
 status: active
 created: '2026-05-03'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon
-  Rivard (Université Laval, 2010).md
+vault_area: Areas
+canonical_path: Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010).md
 backlink_count: 63
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
@@ -45,7 +41,7 @@ backlinks:
 - '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
 - '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
-- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)]]'
@@ -72,16 +68,16 @@ backlinks:
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Pourquoi Rever Encore — Version Genealogy]]'
 - '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
 - '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
-- '[[wiki/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
@@ -95,7 +91,7 @@ backlinks:
 - '[[wiki/Trismégiste — Personal AI Assistant]]'
 - '[[wiki/Why Be King Im Already a Queen — Book Project]]'
 - '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 ---
 

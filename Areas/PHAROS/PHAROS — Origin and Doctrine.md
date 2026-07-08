@@ -38,11 +38,11 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
 - '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-04-25]]'
 written_in: 58 minutes (07:00 — 07:58)

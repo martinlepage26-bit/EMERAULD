@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
 - '[[wiki/Version Genealogy System]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
 # Unnatural Selection Jurassic Park — Version Genealogy

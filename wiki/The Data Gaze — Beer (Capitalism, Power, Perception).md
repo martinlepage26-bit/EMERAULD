@@ -37,7 +37,7 @@ backlinks:
   2024]]'
 - '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
 - '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

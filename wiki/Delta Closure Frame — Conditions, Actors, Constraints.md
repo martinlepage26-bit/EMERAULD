@@ -37,7 +37,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
-- '[[wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'

@@ -21,7 +21,7 @@ vault_area: artifacts
 canonical_path: artifacts/marketplace/promo/devto-iter49-claudemd-fails.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 - '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
 ---

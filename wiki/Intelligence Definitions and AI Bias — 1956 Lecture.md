@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

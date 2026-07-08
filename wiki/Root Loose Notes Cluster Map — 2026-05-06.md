@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
 ---

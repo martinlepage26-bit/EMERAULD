@@ -21,7 +21,7 @@ vault_area: archive
 canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/editorial_log.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 ---
 
 # Editorial Log — PHAROS Evidence Bundle V12 Revision

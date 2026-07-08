@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-ex
 backlink_count: 2
 backlinks:
 - '[[wiki/Paper Planes — M.I.A. — Lyrics]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://www.bluej.com/
 date: '2026-05-05'
 scraped: '2026-05-05'

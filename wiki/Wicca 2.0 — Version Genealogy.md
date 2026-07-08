@@ -22,8 +22,8 @@ canonical_path: wiki/Wicca 2.0 — Version Genealogy.md
 backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

@@ -41,7 +41,7 @@ backlinks:
   Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'

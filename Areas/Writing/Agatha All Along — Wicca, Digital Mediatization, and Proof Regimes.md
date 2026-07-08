@@ -4,10 +4,9 @@ title: Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes
 aliases:
 - Agatha Social Compass
 - SOCO paper
-- wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes
 tags:
 - academic-paper
-- wiki
+- areas
 - agatha-all-along-wicca-digital-mediatization-and-proof-regimes-md
 - proof
 - agatha
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes.md
+vault_area: Areas
+canonical_path: Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes.md
 backlink_count: 55
 backlinks:
 - '[[wiki/Agatha All Along Social Compass — Version Genealogy]]'
@@ -32,7 +31,7 @@ backlinks:
 - '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
-- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
@@ -49,13 +48,13 @@ backlinks:
 - '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
 - '[[wiki/Qualitative Handbook — Expanded Reference List]]'
 - '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
-- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
 - '[[wiki/September 2024 Research Retrospective]]'

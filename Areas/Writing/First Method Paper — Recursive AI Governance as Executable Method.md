@@ -3,9 +3,8 @@ type: wiki
 title: First Method Paper — Recursive AI Governance as Executable Method
 aliases:
 - First Method Paper — Recursive AI Governance as Executable Method
-- wiki/First Method Paper — Recursive AI Governance as Executable Method
 tags:
-- wiki
+- areas
 - recursion
 - governance
 - ai
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/First Method Paper — Recursive AI Governance as Executable Method.md
+vault_area: Areas
+canonical_path: Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method.md
 backlink_count: 45
 backlinks:
 - '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
@@ -52,7 +51,7 @@ backlinks:
 - '[[wiki/Recursive AI Governance Very Long Narrative — Version Genealogy]]'
 - '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
 - '[[wiki/Recursive Governance Theory]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'

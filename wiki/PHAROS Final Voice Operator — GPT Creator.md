@@ -30,7 +30,7 @@ backlinks:
 - '[[.github/agents/gadget.agent]]'
 - '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
 - '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
-- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

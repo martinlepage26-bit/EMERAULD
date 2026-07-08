@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/skills/agent-memory-mcp.md
 backlink_count: 4
 backlinks:
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'

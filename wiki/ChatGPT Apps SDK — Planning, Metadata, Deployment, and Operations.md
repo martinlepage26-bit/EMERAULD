@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
 - '[[wiki/Home]]'
-- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_how-td-helps-advance-ai-innovation]]'
 - '[[memory/local-session/reference_seven_pillars_stack]]'

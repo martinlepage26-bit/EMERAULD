@@ -29,7 +29,7 @@ canonical_path: wiki/Reflexive Inhabitation Audit — Prompt.md
 backlink_count: 21
 backlinks:
 - '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
-- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[wiki/Desktop Text Intake — 2026-05-06]]'
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
@@ -43,7 +43,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'

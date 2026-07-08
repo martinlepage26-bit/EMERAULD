@@ -19,7 +19,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_leveraging-ai-to-enable-the-future-cibc-thought-leadership.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://thoughtleadership.cibc.com/article/leveraging-ai-to-enable-the-future/
 date: '2026-05-05'
 scraped: '2026-05-05'

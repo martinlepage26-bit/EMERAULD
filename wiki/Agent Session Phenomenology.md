@@ -40,7 +40,7 @@ backlinks:
 - '[[wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
 - '[[wiki/Trismégiste — Personal AI Assistant]]'
-- '[[wiki/Writing and Novels MOC]]'
+- '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'

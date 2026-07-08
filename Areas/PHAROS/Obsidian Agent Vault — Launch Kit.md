@@ -5,7 +5,6 @@ aliases:
 - Obsidian Agent Vault
 - Agent Vault Launch Kit
 - vault memory layer
-- wiki/Obsidian Agent Vault — Launch Kit
 tags:
 - product
 - obsidian
@@ -13,7 +12,7 @@ tags:
 - claude-code
 - commercialization
 - agent-memory
-- wiki
+- areas
 - obsidian-agent-vault-launch-kit-md
 - launch
 - demo
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-04-14'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Obsidian Agent Vault — Launch Kit.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Obsidian Agent Vault — Launch Kit.md
 backlink_count: 35
 backlinks:
 - '[[wiki/2026-06-29 - idea-discovery]]'
@@ -37,7 +36,7 @@ backlinks:
 - '[[wiki/Governed Self-Improvement — Method Slide Asset]]'
 - '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
-- '[[wiki/Obsidian Agent Vault — Setup Guide]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Setup Guide]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'

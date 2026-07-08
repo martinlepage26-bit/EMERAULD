@@ -34,7 +34,7 @@ canonical_path: wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Ins
 backlink_count: 4
 backlinks:
 - '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
 - '[[archive/session-state/session-state-001]]'
 source: third layer of the EML-LILY.txt (2026-04-26)

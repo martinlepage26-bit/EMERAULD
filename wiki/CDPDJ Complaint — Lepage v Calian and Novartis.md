@@ -42,7 +42,7 @@ backlinks:
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'

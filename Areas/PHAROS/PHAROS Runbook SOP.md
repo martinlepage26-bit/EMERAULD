@@ -43,7 +43,7 @@ backlinks:
 - '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/RECURSO — Final Audit and Ethical Review]]'
-- '[[wiki/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'

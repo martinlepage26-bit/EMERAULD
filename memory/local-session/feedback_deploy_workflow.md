@@ -21,7 +21,7 @@ vault_area: memory
 canonical_path: memory/local-session/feedback_deploy_workflow.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 ---
 

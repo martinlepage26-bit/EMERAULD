@@ -22,7 +22,7 @@ backlink_count: 4
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Legitimacy Machines MOC]]'
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 

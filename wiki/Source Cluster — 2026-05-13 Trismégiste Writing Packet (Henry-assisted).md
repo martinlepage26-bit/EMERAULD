@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted).md
 backlink_count: 26
 backlinks:
-- '[[wiki/Research and Papers MOC]]'
+- '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[wiki/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'

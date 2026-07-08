@@ -22,7 +22,7 @@ canonical_path: artifacts/marketplace/promo/social-posts.md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/daily/2026-06-29]]'
