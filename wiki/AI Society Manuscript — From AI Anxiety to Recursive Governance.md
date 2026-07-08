@@ -1,3 +1,83 @@
+---
+type: wiki
+title: AI Society Manuscript — From AI Anxiety to Recursive Governance
+aliases:
+- AI Society Manuscript — From AI Anxiety to Recursive Governance
+- wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance
+tags:
+- wiki
+- recursion
+- governance
+- ai
+- manuscript
+- ai-society-manuscript-from-ai-anxiety-to-recursive-governance-md
+- storyboard
+- anxiety
+- revisability
+- numbers
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance.md
+backlink_count: 53
+backlinks:
+- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
+- '[[wiki/APEX Papers — Research Archive Map]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/AurorA — COMPASSai Input Module]]'
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/CODEX Writing Projects Manifest]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
+- '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
+- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'
+- '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
+- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/Research Hub]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
+- '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory]]'
+- '[[memory/daily/2026-04-28]]'
+- '[[memory/daily/2026-05-10]]'
+- '[[projects/Papers — Fisher King Project State]]'
+---
+
 # AI Society Manuscript — From AI Anxiety to Recursive Governance
 
 ## Summary

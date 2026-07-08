@@ -1,3 +1,32 @@
+---
+type: wiki
+title: 'Queering Neo-Pagan Magic: Identity, Power, and the Uses of Magic'
+aliases:
+- 'Queering Neo-Pagan Magic: Identity, Power, and the Uses of Magic'
+- wiki/Queering Neo-Pagan Magic — FINAL FINAL PAPER
+tags:
+- wiki
+- pagan
+- magic
+- queer
+- paper
+- queering-neo-pagan-magic-final-final-paper-md
+- practitioners
+- bailey
+- belief
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Queering Neo-Pagan Magic — FINAL FINAL PAPER.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+---
+
 # Queering Neo-Pagan Magic: Identity, Power, and the Uses of Magic
 
 **Abstract**

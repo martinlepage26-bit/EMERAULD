@@ -1,3 +1,40 @@
+---
+type: wiki
+title: Embedding Before Rupture — Relational AI and Institutional Power
+aliases:
+- Embedding Before Rupture — Relational AI and Institutional Power
+- wiki/Embedding Before Rupture — Relational AI and Institutional Power
+tags:
+- wiki
+- ai
+- embedding-before-rupture-relational-ai-and-institutional-power-md
+- embedding
+- rupture
+- relational
+- institutional
+- bowker
+- color-red
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Embedding Before Rupture — Relational AI and Institutional Power.md
+backlink_count: 11
+backlinks:
+- '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
+  Projection]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
+---
+
 # Embedding Before Rupture — Relational AI and Institutional Power
 
 ## Summary

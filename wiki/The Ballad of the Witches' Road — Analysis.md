@@ -1,10 +1,50 @@
 ---
 type: wiki
-aliases: ["Ballad of the Witches' Road analysis", "Witches' Road ballad analysis"]
-tags: [agatha-all-along, music, media-studies, witchcraft, enchantment, archive, song-corpus]
+title: The Ballad of the Witches' Road — Analysis
+aliases:
+- Ballad of the Witches' Road analysis
+- Witches' Road ballad analysis
+- wiki/The Ballad of the Witches' Road — Analysis
+tags:
+- agatha-all-along
+- music
+- media-studies
+- witchcraft
+- enchantment
+- archive
+- song-corpus
+- wiki
+- the-ballad-of-the-witches-road-analysis-md
+- ballad
+- road
+- song
+- witches
+- color-blue
 status: active
-created: 2026-04-25
-updated: 2026-04-25
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Ballad of the Witches' Road — Analysis.md
+backlink_count: 17
+backlinks:
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/Slayer Recursion Protocol — README and Repositioning]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
+  Glitch]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # The Ballad of the Witches' Road — Analysis

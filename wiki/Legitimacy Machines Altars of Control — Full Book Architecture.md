@@ -1,3 +1,38 @@
+---
+type: wiki
+title: Legitimacy Machines Altars of Control — Full Book Architecture
+aliases:
+- Legitimacy Machines Altars of Control — Full Book Architecture
+- wiki/Legitimacy Machines Altars of Control — Full Book Architecture
+tags:
+- wiki
+- legitimacy-machines-altars-of-control-full-book-architecture-md
+- chapter
+- machines
+- covered
+- substack
+- legitimacy
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Legitimacy Machines Altars of Control — Full Book Architecture.md
+backlink_count: 11
+backlinks:
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Legitimacy Machines Altars of Control — Full Book Architecture
 
 ## Summary

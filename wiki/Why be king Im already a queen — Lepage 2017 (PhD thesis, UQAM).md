@@ -1,12 +1,44 @@
 ---
 type: wiki
+title: Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)
 aliases:
-  - "\"Why be king? I'm already a queen!\" — Lepage 2017"
-  - "Performances rituelles et négociations queer — Lepage 2017"
-tags: [reference, thesis, neo-paganism, wicca, reclaiming, queer, montreal, ritual, performance, authenticity, religion]
+- '"Why be king? I''m already a queen!" — Lepage 2017'
+- Performances rituelles et négociations queer — Lepage 2017
+- wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)
+tags:
+- reference
+- thesis
+- neo-paganism
+- wicca
+- reclaiming
+- queer
+- montreal
+- ritual
+- performance
+- authenticity
+- religion
+- wiki
+- why-be-king-im-already-a-queen-lepage-2017-phd-thesis-uqam-md
+- uqam
+- color-violet
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md
+backlink_count: 11
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
+- '[[wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)

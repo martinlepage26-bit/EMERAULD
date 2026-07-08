@@ -1,3 +1,53 @@
+---
+type: wiki
+title: Alchemy of the Wound — Novel
+aliases:
+- Alchemy of the Wound — Novel
+- wiki/Alchemy of the Wound — Novel
+tags:
+- wiki
+- novel
+- alchemy-of-the-wound-novel-md
+- wound
+- seam
+- alchemy
+- marty
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Alchemy of the Wound — Novel.md
+backlink_count: 26
+backlinks:
+- '[[wiki/Alchemy of the Wound — Version Genealogy]]'
+- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[wiki/Le sang qui porte ton nom — Novel]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
+- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[wiki/The Returning Light — Monograph]]'
+- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Novel Corpus Map]]'
+---
+
 # Alchemy of the Wound — Novel
 
 ## Summary

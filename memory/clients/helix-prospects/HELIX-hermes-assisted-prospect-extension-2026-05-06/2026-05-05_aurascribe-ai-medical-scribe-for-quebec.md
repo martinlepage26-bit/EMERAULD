@@ -1,11 +1,31 @@
 ---
 type: raw-source
-source_url: https://aurascribe.ca/compliance?lang=en
 title: AuraScribe | AI Medical Scribe for Quebec
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aurascribe-ai-medical-scribe-for-quebec
+tags:
+- raw-source
+- memory
+- clients
+- audio
+- encryption
+- residency
+- aurascribe
+- secure
+- color-green
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aurascribe-ai-medical-scribe-for-quebec.md
+backlink_count: 2
+backlinks:
+- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[wiki/Research and Papers MOC]]'
+source_url: https://aurascribe.ca/compliance?lang=en
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # AuraScribe | AI Medical Scribe for Quebec

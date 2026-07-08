@@ -1,3 +1,33 @@
+---
+type: version-genealogy
+title: Magic After Legitimacy Charmed — Version Genealogy
+aliases:
+- Magic After Legitimacy Charmed — Version Genealogy
+- wiki/Magic After Legitimacy Charmed — Version Genealogy
+tags:
+- magic
+- version-genealogy
+- wiki
+- magic-after-legitimacy-charmed-version-genealogy-md
+- charmed
+- sisterhood
+- legitimacy
+- witchcraft
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Magic After Legitimacy Charmed — Version Genealogy.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # Magic After Legitimacy Charmed — Version Genealogy
 
 See also [[Legitimacy Machines MOC]].

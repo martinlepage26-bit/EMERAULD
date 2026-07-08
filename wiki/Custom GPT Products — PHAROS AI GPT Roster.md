@@ -1,13 +1,40 @@
 ---
 type: wiki
+title: Custom GPT Products — PHAROS AI GPT Roster
 aliases:
-  - GPT Roster
-  - PHAROS AI GPT Products
-  - Custom GPT Digital Products List
-tags: [gpt, products, pharos, openai, digital-products, chatgpt]
+- GPT Roster
+- PHAROS AI GPT Products
+- Custom GPT Digital Products List
+- wiki/Custom GPT Products — PHAROS AI GPT Roster
+tags:
+- gpt
+- products
+- pharos
+- openai
+- digital-products
+- chatgpt
+- wiki
+- custom-gpt-products-pharos-ai-gpt-roster-md
+- mobi
+- personas
+- dottie
+- agatha
+- color-teal
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Custom GPT Products — PHAROS AI GPT Roster.md
+backlink_count: 8
+backlinks:
+- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governess Agatha GPT — ChatGPT Product Specification]]'
+- '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
+- '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/PHAROS Product Stack]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Custom GPT Products — PHAROS AI GPT Roster

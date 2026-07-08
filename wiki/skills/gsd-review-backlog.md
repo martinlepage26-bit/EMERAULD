@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "gsd-review-backlog"
-domain: "GSD Workflow"
+title: gsd-review-backlog
+aliases:
+- skills/gsd-review-backlog
+- wiki/skills/gsd-review-backlog
+tags:
+- skill
+- wiki
+- skills
+- backlog
+- milestone
+- promote
+- codex
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/gsd-review-backlog/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/gsd-review-backlog.md
+backlink_count: 2
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+skill_id: gsd-review-backlog
+domain: GSD Workflow
+codex_path: /home/cerebrhoe/.codex/skills/gsd-review-backlog/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

@@ -1,3 +1,34 @@
+---
+type: memory-register
+title: Decisions
+aliases:
+- Decisions
+- memory/agents/Decisions
+tags:
+- memory
+- agents
+- memory-register
+- impact
+- expected
+- topic
+- events
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/agents/Decisions.md
+backlink_count: 7
+backlinks:
+- '[[Logs/2026-06-29]]'
+- '[[index]]'
+- '[[memory/agents/Blockers]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/agents/Learning]]'
+- '[[memory/agents/Vibe]]'
+---
+
 # Decisions
 
 Structural decisions made across sessions. Both Claude and Codex read and write this register.
@@ -75,6 +106,32 @@ Do not add minor implementation choices — only decisions that change future me
 - Mechanism: `scripts/verify_and_hardmove_to_raw.py` now supports `--dry-run`, `--preserve-relative-to`, and a global manifest path.
 - Impact expected: Future scans can preview moves, preserve source layout, and report verified vs rejected artifacts without degrading provenance.
 - Links: [[Events]] [[session-state]] [[D Drive Scan — 2026-05-12]] [[Desktop and Downloads Scan — 2026-05-12]]
+
+---
+
+## 2026-06-21 — Retire numeric taxonomy; adopt flat PARA structure (BACKFILL)
+- Decision: Retire the `00_–90_` numeric folder taxonomy. Adopt flat PARA structure: `projects/`, `wiki/`, `archive/`, `resources/`, `raw/`, `memory/`. No more numbered prefixes.
+- Why: The taxonomy was adding friction without adding retrieval value. Obsidian search and the vector store made it redundant. Flat structure is navigable by any agent without knowing a number map.
+- Impact: Largest single structural pass in vault history. 879 notes migrated. All CLAUDE.md paths updated to current host. Vector store and graph store rebuilt.
+- Links: [[session-state]] [[memory/daily/2026-06-22]]
+
+## 2026-06-21 — Send HELIX outreach to Humania or Koios (BACKFILL — unexecuted as of 2026-06-29)
+- Decision: Council decided to send one HELIX outreach message to a named buyer (Humania or Koios). HELIX regulatory arbitrage window (EU AI Act, August 2 2026) is the forcing function.
+- Current state: Decision logged 2026-06-21; as of 2026-06-29 (8 days later) the send has not occurred. See [[arise-pattern-report-2026-06-29]] Pattern 3.
+- Impact: 34-day window remaining as of 2026-06-29. The decision exists; execution does not.
+- Links: [[projects/HELIX — Fisher King Project State]] [[artifacts/emerge-pattern-report-2026-06-29]]
+
+## 2026-06-22 — Ship COMPASSai EU AI Act + Quebec Construction Classifier to Railway production (BACKFILL)
+- Decision: Deliver the classifier to Railway production (commit 9bb696b). This is the only shipped external artifact in the June window.
+- Why: Active client delivery; EU AI Act + Law 25 compliance classifier as proof-of-concept for COMPASSai governance engine.
+- Impact: COMPASSai now has a production deployment. Creates evidentiary basis for at least one paper (Evidence-to-Publication Bridge).
+- Links: [[projects/COMPASSai — Fisher King Project State]] [[memory/daily/2026-06-22]]
+
+## 2026-06-29 — Execute Gumroad listing for Obsidian Agent Vault
+- Decision: Selected by idea-discovery ranking as #1 next action (31 backlinks, all prerequisites complete, 90-minute action). Executed in full: listing copy finalized, clean zip built (28K, SHA256: 887c44f308a431fe7cb1ef8e6293c6f1b27940faf997985b97d7f2bfcfc7cc6c), social posts ready.
+- Why now: EMERAULD 2026-06-29 session produced Obsidian OS scaffold, architecture notes, and pattern report — making the vault the strongest demo object it has ever been. All prerequisites done; only the manual gumroad.com product creation remains.
+- Impact expected: First commercial listing for a PHAROS-adjacent product. $49 template pack. Revenue + proof-of-concept signal for the PHAROS product surface.
+- Links: [[artifacts/marketplace/promo/gumroad-listing]] [[artifacts/marketplace/promo/social-posts]] [[projects/Second Brain — Fisher King Project State]] [[wiki/Obsidian Agent Vault — Launch Kit]]
 
 ## Related
 

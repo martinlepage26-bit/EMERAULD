@@ -1,10 +1,42 @@
 ---
 type: wiki
-aliases: ["Nissenbaum — Contextual Integrity", "Privacy as Contextual Integrity (2004)"]
-tags: [reference, privacy, governance, law, surveillance, contextual-integrity]
+title: Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)
+aliases:
+- Nissenbaum — Contextual Integrity
+- Privacy as Contextual Integrity (2004)
+- wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)
+tags:
+- reference
+- privacy
+- governance
+- law
+- surveillance
+- contextual-integrity
+- wiki
+- privacy-as-contextual-integrity-nissenbaum-2004-public-surveillance-md
+- contextual
+- norms
+- integrity
+- flows
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance).md
+backlink_count: 11
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
+- '[[wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)

@@ -1,11 +1,31 @@
 ---
 type: raw-source
-source_url: https://complogyx.com/
 title: Complogyx — Sovereign AI Compliance
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_complogyx-sovereign-ai-compliance
+tags:
+- raw-source
+- memory
+- clients
+- complogyx
+- defence
+- federal
+- gapped
+- ontario
+- color-lime
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_complogyx-sovereign-ai-compliance.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
+source_url: https://complogyx.com/
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Complogyx — Sovereign AI Compliance

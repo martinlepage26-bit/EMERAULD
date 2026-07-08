@@ -1,3 +1,30 @@
+---
+type: memory-register
+title: feedback_deploy_cloudflare
+aliases:
+- feedback_deploy_cloudflare
+- memory/local-session/feedback_deploy_cloudflare
+tags:
+- memory
+- memory-register
+- local-session
+- commit
+- deploy
+- perso
+- site
+- cloudflare
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/feedback_deploy_cloudflare.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+---
+
 See also [[Manuscript Pipeline MOC]].
 ---
 name: deploy_cloudflare_first

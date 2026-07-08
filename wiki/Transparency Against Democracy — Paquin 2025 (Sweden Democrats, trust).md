@@ -1,10 +1,41 @@
 ---
 type: wiki
-aliases: ["Paquin 2025 transparency", "Transparency Against Democracy (Politics and Governance 2025)"]
-tags: [reference, democracy, transparency, populism, trust, scandals, disinformation, media]
+title: Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)
+aliases:
+- Paquin 2025 transparency
+- Transparency Against Democracy (Politics and Governance 2025)
+- wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)
+tags:
+- reference
+- democracy
+- transparency
+- populism
+- trust
+- scandals
+- disinformation
+- media
+- wiki
+- transparency-against-democracy-paquin-2025-sweden-democrats-trust-md
+- elite
+- denial
+- paquin
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats,
+  trust).md
+backlink_count: 8
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)

@@ -1,3 +1,35 @@
+---
+type: wiki
+title: PHAROS Scholarly Essay — Institutional Deployment Architecture
+aliases:
+- PHAROS Scholarly Essay — Institutional Deployment Architecture
+- wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture
+tags:
+- wiki
+- pharos
+- pharos-scholarly-essay-institutional-deployment-architecture-md
+- essay
+- ethics
+- logical
+- draft
+- criteria
+- color-lime
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture.md
+backlink_count: 7
+backlinks:
+- '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'
+- '[[wiki/RECURSO — Final Audit and Ethical Review]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # PHAROS Scholarly Essay — Institutional Deployment Architecture
 
 See also [[RECURSO — Final Audit and Ethical Review]].

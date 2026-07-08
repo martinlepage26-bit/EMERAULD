@@ -1,15 +1,51 @@
 ---
 type: wiki
-aliases: ["HELIX3.0 snapshot", "HELIX v2.6 desktop build", "HELIX recursive governor build"]
-tags: [helix, pharos, law25, governance, recursion, product-surface, desktop-intake]
+title: HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface
+  (2026-05-11)
+aliases:
+- HELIX3.0 snapshot
+- HELIX v2.6 desktop build
+- HELIX recursive governor build
+- wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface
+  (2026-05-11)
+tags:
+- helix
+- pharos
+- law25
+- governance
+- recursion
+- product-surface
+- desktop-intake
+- wiki
+- helix-3-0-desktop-build-snapshot-recursive-governor-and-law-25-control-surface-2026-05-11-md
+- governor
+- desktop
+- probe
+- termination
+- color-purple
 status: active
-created: 2026-05-12
-updated: 2026-05-13
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law
+  25 Control Surface (2026-05-11).md
+backlink_count: 9
+backlinks:
+- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
+  (2026-06-22)]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
+- '[[wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 source:
-  - raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/HelixProbe.tsx
-  - raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/probe.ts
-  - raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/Governor.ts
-  - raw/Desktop-Downloads-scan-2026-05-12/downloads/helix_probe_v_2_5_multilingual.jsx
+- raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/HelixProbe.tsx
+- raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/probe.ts
+- raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/Governor.ts
+- raw/Desktop-Downloads-scan-2026-05-12/downloads/helix_probe_v_2_5_multilingual.jsx
 ---
 
 # HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)

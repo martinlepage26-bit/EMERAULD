@@ -1,10 +1,36 @@
 ---
 type: wiki
-aliases: [Publishing Strategy, Submission Strategy 2026]
-tags: [publishing, strategy, papers, springer, pipeline]
+title: Publishing Strategy — Springer Trilogy and Parallel Tracks
+aliases:
+- Publishing Strategy
+- Submission Strategy 2026
+- wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks
+tags:
+- publishing
+- strategy
+- papers
+- springer
+- pipeline
+- wiki
+- publishing-strategy-springer-trilogy-and-parallel-tracks-md
+- paper
+- venue
+- ethics
+- society
+- color-pink
 status: active
-created: 2026-04-27
-updated: 2026-05-10
+created: '2026-04-27'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks.md
+backlink_count: 6
+backlinks:
+- '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Publishing Strategy — Springer Trilogy and Parallel Tracks

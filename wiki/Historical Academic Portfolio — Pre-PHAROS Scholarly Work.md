@@ -1,3 +1,94 @@
+---
+type: wiki
+title: Historical Academic Portfolio — Pre-PHAROS Scholarly Work
+aliases:
+- Historical Academic Portfolio — Pre-PHAROS Scholarly Work
+- wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work
+tags:
+- wiki
+- pharos
+- historical-academic-portfolio-pre-pharos-scholarly-work-md
+- queer
+- avatar
+- pagan
+- versions
+- legitimacy
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md
+backlink_count: 65
+backlinks:
+- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Agatha All Along Social Compass — Version Genealogy]]'
+- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
+- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[wiki/Circle Remains Open — Version Genealogy]]'
+- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/For Her Alone to Wield — Version Genealogy]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inner Goddess Wicca Gender — Version Genealogy]]'
+- '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Magic After Legitimacy Charmed — Version Genealogy]]'
+- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Neo-Shamanism Gender Narratives — Version Genealogy]]'
+- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Pagan Magic — Version Genealogy]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Pourquoi Rever Encore — Version Genealogy]]'
+- '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
+- '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
+- '[[wiki/Queer Neo-Pagan Wicca Authenticity — Version Genealogy]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
+- '[[wiki/Reboot Performance Gender Identity — Version Genealogy]]'
+- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[wiki/Spider-Man — Version Genealogy]]'
+- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation]]'
+- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[wiki/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
+- '[[wiki/Voodoo Doll as Archival Problem — Version Genealogy]]'
+- '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'
+- '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
+- '[[wiki/Why Be King Im Already a Queen — Book Project]]'
+- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[wiki/Wicca 2.0 — Version Genealogy]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[archive/session-state/session-state-001]]'
+---
+
 # Historical Academic Portfolio — Pre-PHAROS Scholarly Work
 
 ## Summary

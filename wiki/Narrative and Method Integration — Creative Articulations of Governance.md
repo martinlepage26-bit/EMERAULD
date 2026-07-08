@@ -1,3 +1,43 @@
+---
+type: wiki
+title: Narrative and Method Integration — Creative Articulations of Governance
+aliases:
+- Narrative and Method Integration — Creative Articulations of Governance
+- wiki/Narrative and Method Integration — Creative Articulations of Governance
+tags:
+- wiki
+- governance
+- narrative-and-method-integration-creative-articulations-of-governance-md
+- novel
+- narrative
+- palace
+- wound
+- seam
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Narrative and Method Integration — Creative Articulations of
+  Governance.md
+backlink_count: 14
+backlinks:
+- '[[wiki/Authority Without Power-Over]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/Literary References — Craft Guide]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Philosopher]]'
+- '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # Narrative and Method Integration — Creative Articulations of Governance
 
 > **Methodological substrate:** The narrative-method integration the operator practices today is itself a recomposition of an older methodological move. Per the [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone|keystone]], the [[Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)|2010 MA thesis]] read Yvon Rivard's first two novels as *textes-rites* (ritual texts) — fictions that operate as governance instruments at the spiritual level. The PHAROS-era novels ([[Alchemy of the Wound — Novel]], [[The Returning Light — Monograph]], [[Le sang qui porte ton nom — Novel]], [[CORPUS ou le génie de l'insistance — Novel]], [[The Broken Frequency of the Word — Novel]], [[The Weather Beneath the Walls — Novel]], [[The Palace Under Root — Allegory and the Keyport Novel]]) are the operator's own *textes-rites* in that lineage. This hub is the bridge between method-as-formal-spec and method-as-narrative-form. See also [[Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard]] for the recent essay revisitation of the substrate. Indexed in [[Novel and Creative Corpus]] and [[Writing and Novels MOC]].

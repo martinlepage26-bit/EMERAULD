@@ -1,3 +1,30 @@
+---
+type: project-planning
+title: Project State
+aliases:
+- .planning/STATE
+tags:
+- planning
+- project-planning
+- state-md
+- runtime
+- bootstrap
+- lightrag
+- plans
+- script
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .planning
+canonical_path: .planning/STATE.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[memory/agents/Blockers]]'
+---
+
 # Project State
 
 ## Project Reference

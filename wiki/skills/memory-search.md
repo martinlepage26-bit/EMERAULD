@@ -1,10 +1,32 @@
 ---
 type: skill
-skill_id: "memory-search"
-domain: "AI LLM and Tools"
+title: memory-search
+aliases:
+- skills/memory-search
+- wiki/skills/memory-search
+tags:
+- skill
+- wiki
+- skills
+- search
+- recall
+- previous
+- memory
+- conversation
+- color-green
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/memory-search/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/memory-search.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[wiki/Skill Domain — Vault and Knowledge]]'
+skill_id: memory-search
+domain: AI LLM and Tools
+codex_path: /home/cerebrhoe/.codex/skills/memory-search/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

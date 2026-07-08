@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "gsd-code-review"
-domain: "GSD Workflow"
+title: gsd-code-review
+aliases:
+- skills/gsd-code-review
+- wiki/skills/gsd-code-review
+tags:
+- skill
+- wiki
+- skills
+- code
+- bugs
+- codex
+- problems
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/gsd-code-review/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/gsd-code-review.md
+backlink_count: 2
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+skill_id: gsd-code-review
+domain: GSD Workflow
+codex_path: /home/cerebrhoe/.codex/skills/gsd-code-review/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

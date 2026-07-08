@@ -1,10 +1,53 @@
 ---
 type: wiki
-aliases: [pharos-ai.ca, PHAROS webservice, PHAROS public site, "PHAROS-AI Webservice — Product Stack"]
-tags: [pharos, webservice, deployment, cloudflare]
+title: PHAROS-AI Webservice — pharos-ai.ca
+aliases:
+- pharos-ai.ca
+- PHAROS webservice
+- PHAROS public site
+- PHAROS-AI Webservice — Product Stack
+- wiki/PHAROS-AI Webservice — pharos-ai.ca
+tags:
+- pharos
+- webservice
+- deployment
+- cloudflare
+- wiki
+- pharos-ai-webservice-pharos-ai-ca-md
+- pages
+- public
+- govern
+- color-teal
 status: active
-created: 2026-04-18
-updated: 2026-04-28
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS-AI Webservice — pharos-ai.ca.md
+backlink_count: 23
+backlinks:
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/AurorA — COMPASSai Input Module]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior]]'
+- '[[wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
+- '[[wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
+- '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
+- '[[wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
+- '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)]]'
+- '[[wiki/Railway — COMPASSai Production Deployment Platform]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]'
+- '[[memory/daily/2026-05-01]]'
+- '[[projects/AurorA — Fisher King Project State]]'
+- '[[projects/COMPASSai — Fisher King Project State]]'
 ---
 
 # PHAROS-AI Webservice — pharos-ai.ca

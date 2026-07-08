@@ -1,10 +1,38 @@
 ---
 type: wiki
-aliases: ["Book of Beliefs", "Martin's Early Beliefs", "2000s magical theories"]
-tags: [personal, magic, beliefs, spiritual-system, early-writing]
+title: Book of Beliefs and Theories — Martin's Magical System (2000s)
+aliases:
+- Book of Beliefs
+- Martin's Early Beliefs
+- 2000s magical theories
+- wiki/Book of Beliefs and Theories — Martin's Magical System (2000s)
+tags:
+- personal
+- magic
+- beliefs
+- spiritual-system
+- early-writing
+- wiki
+- book-of-beliefs-and-theories-martin-s-magical-system-2000s-md
+- demon
+- heart
+- demons
+- demonic
+- particle
+- color-violet
 status: active
-created: 2026-05-04
-updated: 2026-05-06
+created: '2026-05-04'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Book of Beliefs and Theories — Martin's Magical System (2000s).md
+backlink_count: 6
+backlinks:
+- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Book of Beliefs and Theories — Martin's Magical System (2000s)

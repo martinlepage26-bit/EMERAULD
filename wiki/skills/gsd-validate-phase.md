@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "gsd-validate-phase"
-domain: "GSD Workflow"
+title: gsd-validate-phase
+aliases:
+- skills/gsd-validate-phase
+- wiki/skills/gsd-validate-phase
+tags:
+- skill
+- wiki
+- skills
+- validate
+- nyquist
+- phase
+- retroactively
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/gsd-validate-phase/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/gsd-validate-phase.md
+backlink_count: 2
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+skill_id: gsd-validate-phase
+domain: GSD Workflow
+codex_path: /home/cerebrhoe/.codex/skills/gsd-validate-phase/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

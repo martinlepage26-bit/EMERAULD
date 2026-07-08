@@ -1,3 +1,80 @@
+---
+type: wiki
+title: Sealed Card Protocol — Legitimacy, Glitch, and Charging
+aliases:
+- Sealed Card Protocol — Legitimacy, Glitch, and Charging
+- wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging
+tags:
+- wiki
+- sealed-card-protocol-legitimacy-glitch-and-charging-md
+- charging
+- mediation
+- sealed
+- legitimacy
+- ritual
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging.md
+backlink_count: 53
+backlinks:
+- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/Glitching the Sacred]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
+- '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/RIA-CODEX — System Audit Protocol]]'
+- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
+- '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
+- '[[wiki/Sealed Card Protocol — Version Genealogy]]'
+- '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
+- '[[wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
+- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'
+- '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+---
+
 # Sealed Card Protocol — Legitimacy, Glitch, and Charging
 
 ## Summary

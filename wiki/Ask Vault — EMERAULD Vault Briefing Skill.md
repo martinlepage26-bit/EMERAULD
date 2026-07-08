@@ -1,10 +1,53 @@
 ---
 type: wiki
-aliases: [ask-vault, EMERAULD vault briefing skill, vault query skill]
-tags: [skill, codex, emerauld, retrieval, second-brain, trismegiste, obsidian]
+title: Ask Vault — EMERAULD Vault Briefing Skill
+aliases:
+- ask-vault
+- EMERAULD vault briefing skill
+- vault query skill
+- wiki/Ask Vault — EMERAULD Vault Briefing Skill
+tags:
+- skill
+- codex
+- emerauld
+- retrieval
+- second-brain
+- trismegiste
+- obsidian
+- wiki
+- ask-vault-emerauld-vault-briefing-skill-md
+- briefing
+- apps
+- color-orange
 status: active
-created: 2026-04-23
-updated: 2026-04-23
+created: '2026-04-23'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Ask Vault — EMERAULD Vault Briefing Skill.md
+backlink_count: 22
+backlinks:
+- '[[.planning/PROJECT]]'
+- '[[.planning/phases/01-lightrag-script-runtime-hardening/01-REVIEW]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Claude Code Skill Corpus]]'
+- '[[wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[wiki/Skill Domain — Vault and Knowledge]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/AGENT-NAMING-STUDY]]'
+- '[[governance/hephaistos/CLAUDE-REVIEW-CHECKLIST]]'
+- '[[hephaistos/personal-assistant-agents/metadata-link-warden/references/ecosystem]]'
+- '[[hephaistos/personal-assistant-agents/raw-archivist/SKILL]]'
+- '[[hephaistos/personal-assistant-agents/synthesis-editor/SKILL]]'
+- '[[hephaistos/personal-assistant-agents/synthesis-editor/references/ecosystem]]'
+- '[[projects/Second Brain — Fisher King Project State]]'
 ---
 
 # Ask Vault — EMERAULD Vault Briefing Skill

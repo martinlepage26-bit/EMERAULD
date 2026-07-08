@@ -1,3 +1,65 @@
+---
+type: wiki
+title: Recursive Governance Protocol — Theseus, Auryn, Hopf
+aliases:
+- Recursive Governance Protocol — Theseus, Auryn, Hopf
+- wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf
+tags:
+- wiki
+- recursion
+- governance
+- recursive-governance-protocol-theseus-auryn-hopf-md
+- hopf
+- auryn
+- phase
+- root
+- intake
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md
+backlink_count: 34
+backlinks:
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/CLI-Anything — Agent Harness for Tool Integration]]'
+- '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
+  (2026-05-07)]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
+- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control
+  Surface (2026-05-11)]]'
+- '[[wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Home]]'
+- '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
+- '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'
+- '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
+- '[[wiki/PHAROS Licensing Prospectus]]'
+- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[wiki/ROOK — Session Boundary Model]]'
+- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Skill-Pairing — Five-Case Test Suite]]'
+- '[[wiki/Slayer Recursion Protocol — README and Repositioning]]'
+- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # Recursive Governance Protocol — Theseus, Auryn, Hopf
 
 ## Summary
@@ -142,7 +204,7 @@ Rule: if insertion points cannot be grounded in the session record, use the bare
 
 - Has this protocol been formally cross-referenced with the Möbius Protocol formalized in March 2025 (Invention Disclosure v12)?
 - Is the Hopf vectorization move connected to the +0.0628 evidence-hardening constant in the PHAROS architecture paper?
-- What session results exist from prior HELIX runs? Are populated archive files stored anywhere?
+- What session results exist from prior HELIX runs? Are populated archive files stored anywhere? — **Partially answered 2026-07-03**: see [[HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)]] for a full run plus a 3-way comparison against [[HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]] and [[AGATHA Failure Pack — Theseus Continuity Stress Test]]. Confirms this note's Failure Mode Dictionary already covers AGATHA's failure signature ("closure reflex") as of the 2026-04-28 intake date — no separate revision history exists anywhere in the vault connecting specific run failures to specific protocol changes.
 
 ## Sources
 

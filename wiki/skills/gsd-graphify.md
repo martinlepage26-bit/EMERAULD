@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "gsd-graphify"
-domain: "GSD Workflow"
+title: gsd-graphify
+aliases:
+- skills/gsd-graphify
+- wiki/skills/gsd-graphify
+tags:
+- skill
+- wiki
+- skills
+- graphify
+- graphs
+- inspect
+- codex
+- color-teal
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/gsd-graphify/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/gsd-graphify.md
+backlink_count: 2
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+skill_id: gsd-graphify
+domain: GSD Workflow
+codex_path: /home/cerebrhoe/.codex/skills/gsd-graphify/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

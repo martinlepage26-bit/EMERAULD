@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: ["Paper B Peer Review", "Recursive AI Governance peer review", "AI & Society Paper B review"]
-tags: [academic, peer-review, Paper-B, pharos, ai-governance, AI-Society]
+title: Peer Review — Recursive AI Governance as Executable Method (AI & Society)
+aliases:
+- Paper B Peer Review
+- Recursive AI Governance peer review
+- AI & Society Paper B review
+- wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society)
+tags:
+- academic
+- peer-review
+- paper-b
+- pharos
+- ai-governance
+- ai-society
+- wiki
+- peer-review-recursive-ai-governance-as-executable-method-ai-society-md
+- society
+- internalization
+- editorial
+- contribution
+- paper
+- color-purple
 status: active
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Peer Review — Recursive AI Governance as Executable Method (AI
+  & Society).md
+backlink_count: 6
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/skills/peer-review-workflow]]'
 ---
 
 # Peer Review — Recursive AI Governance as Executable Method (AI & Society)

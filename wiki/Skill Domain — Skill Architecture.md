@@ -1,13 +1,40 @@
 ---
 type: wiki
+title: Skill Domain — Skill Architecture
 aliases:
-  - Skill Architecture domain
-  - Skill building domain
-  - Skill composition hub
-tags: [skills, domain, hub, skill-architecture, meta, composition, agatha]
+- Skill Architecture domain
+- Skill building domain
+- Skill composition hub
+- wiki/Skill Domain — Skill Architecture
+tags:
+- skills
+- domain
+- hub
+- skill-architecture
+- meta
+- composition
+- agatha
+- wiki
+- skill-domain-skill-architecture-md
+- skill
+- dual
+- authored
+- color-orange
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Skill Domain — Skill Architecture.md
+backlink_count: 8
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+- '[[wiki/Skill Domain — Design and UX]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+- '[[wiki/Skill Domain — Vault and Knowledge]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Skill Domain — Skill Architecture

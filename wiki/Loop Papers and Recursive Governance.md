@@ -1,3 +1,61 @@
+---
+type: wiki
+title: Loop Papers and Recursive Governance
+aliases:
+- Loop Papers and Recursive Governance
+- wiki/Loop Papers and Recursive Governance
+tags:
+- wiki
+- recursion
+- governance
+- paper
+- loop-papers-and-recursive-governance-md
+- recursive
+- return
+- excluded
+- simpl
+- multiplication
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Loop Papers and Recursive Governance.md
+backlink_count: 30
+backlinks:
+- '[[wiki/Brutal Isms — Art Grant Proposal]]'
+- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[wiki/Emotional Alliance vs. Evidentiary Discipline in AI]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Phase 1 Governance Formation Sequence]]'
+- '[[wiki/RECURSO — Final Audit and Ethical Review]]'
+- '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
+- '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
+- '[[wiki/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
+- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[wiki/The Returning Light — Monograph]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
+  Glitch]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/daily/2026-05-02]]'
+---
+
 # Loop Papers and Recursive Governance
 
 ## Summary

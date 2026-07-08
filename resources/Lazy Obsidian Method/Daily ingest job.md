@@ -1,10 +1,27 @@
 ---
-title: Daily ingest job
-created: 2026-04-25
 type: workflow
+title: Daily ingest job
+aliases:
+- resources/Lazy Obsidian Method/Daily ingest job
 tags:
-  - review
-  - daily
+- review
+- daily
+- workflow
+- resources
+- lazy-obsidian-method
+- ingest
+- create
+- possible
+- promotions
+- color-orange
+status: active
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: resources
+canonical_path: resources/Lazy Obsidian Method/Daily ingest job.md
+backlink_count: 1
+backlinks:
+- '[[resources/Lazy Obsidian Method/Index]]'
 ---
 
 # Daily ingest job

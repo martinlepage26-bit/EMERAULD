@@ -1,10 +1,48 @@
 ---
 type: map
+title: AI Identity and Phenomenology
 aliases:
-  - TOPIC — AI Identity and Phenomenology
-tags: [index, map, topic, AI-identity, phenomenology, consciousness, governance]
-created: 2026-04-18
-updated: 2026-04-29
+- TOPIC — AI Identity and Phenomenology
+- wiki/AI Identity and Phenomenology
+tags:
+- index
+- map
+- topic
+- ai-identity
+- phenomenology
+- consciousness
+- governance
+- wiki
+- ai-identity-and-phenomenology-md
+- identity
+- self
+- continuity
+- sakura
+- memory
+- color-purple
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI Identity and Phenomenology.md
+backlink_count: 15
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Home]]'
+- '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
+  and Computational Memory Architectures]]'
+- '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # AI Identity and Phenomenology

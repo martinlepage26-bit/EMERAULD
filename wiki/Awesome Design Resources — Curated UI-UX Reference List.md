@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: [awesome-design, design resources, UI-UX toolkit, "Awesome Design Resources — Curated UI/UX Reference List"]
-tags: [design, resources, ui, ux, typography, color, tools, frontend]
+title: Awesome Design Resources — Curated UI-UX Reference List
+aliases:
+- awesome-design
+- design resources
+- UI-UX toolkit
+- Awesome Design Resources — Curated UI/UX Reference List
+- wiki/Awesome Design Resources — Curated UI-UX Reference List
+tags:
+- design
+- resources
+- ui
+- ux
+- typography
+- color
+- tools
+- frontend
+- wiki
+- awesome-design-resources-curated-ui-ux-reference-list-md
+- awesome
+- colors
+- palettes
+- icons
+- color-orange
 status: active
-created: 2026-04-16
-updated: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Awesome Design Resources — Curated UI-UX Reference List.md
+backlink_count: 5
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # Awesome Design Resources — Curated UI-UX Reference List

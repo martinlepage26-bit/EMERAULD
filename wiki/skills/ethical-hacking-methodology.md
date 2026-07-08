@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "ethical-hacking-methodology"
-domain: "Security and Compliance"
+title: ethical-hacking-methodology
+aliases:
+- skills/ethical-hacking-methodology
+- wiki/skills/ethical-hacking-methodology
+tags:
+- skill
+- wiki
+- skills
+- hacking
+- penetration
+- ethical
+- methodology
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/ethical-hacking-methodology/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/ethical-hacking-methodology.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Security and Compliance]]'
+skill_id: ethical-hacking-methodology
+domain: Security and Compliance
+codex_path: /home/cerebrhoe/.codex/skills/ethical-hacking-methodology/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

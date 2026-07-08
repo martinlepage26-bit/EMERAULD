@@ -1,14 +1,40 @@
 ---
 type: wiki
+title: Skill Domain — Development and Testing
 aliases:
-  - Development and Testing domain
-  - Development skills domain
-  - Testing skills hub
-  - Software development hub
-tags: [skills, domain, hub, development, testing, tdd, debugging, github, ci-cd]
+- Development and Testing domain
+- Development skills domain
+- Testing skills hub
+- Software development hub
+- wiki/Skill Domain — Development and Testing
+tags:
+- skills
+- domain
+- hub
+- development
+- testing
+- tdd
+- debugging
+- github
+- ci-cd
+- wiki
+- skill-domain-development-and-testing-md
+- automation
+- color-orange
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Skill Domain — Development and Testing.md
+backlink_count: 7
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Skill Domain — Deployment and Infrastructure]]'
+- '[[wiki/Skill Domain — Design and UX]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Skill Domain — Development and Testing

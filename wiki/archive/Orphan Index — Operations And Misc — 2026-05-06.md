@@ -1,9 +1,31 @@
 ---
 type: index
-tags: [orphan-index, graph-repair, generated]
+title: Orphan Index — Operations And Misc — 2026-05-06
+aliases:
+- archive/Orphan Index — Operations And Misc — 2026-05-06
+- wiki/archive/Orphan Index — Operations And Misc — 2026-05-06
+tags:
+- orphan-index
+- graph-repair
+- generated
+- index
+- wiki
+- archive
+- memory
+- local
+- feedback
+- session
+- daily
+- color-green
 status: generated
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/archive/Orphan Index — Operations And Misc — 2026-05-06.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # Orphan Index — Operations And Misc — 2026-05-06

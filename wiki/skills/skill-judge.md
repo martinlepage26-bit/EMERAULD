@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "skill-judge"
-domain: "Vault and Knowledge Graph"
+title: skill-judge
+aliases:
+- skills/skill-judge
+- wiki/skills/skill-judge
+tags:
+- skill
+- wiki
+- skills
+- judge
+- package
+- pretending
+- productivity
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/skill-judge/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/skill-judge.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Skill Architecture]]'
+skill_id: skill-judge
+domain: Vault and Knowledge Graph
+codex_path: /home/cerebrhoe/.codex/skills/skill-judge/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

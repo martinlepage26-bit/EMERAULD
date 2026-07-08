@@ -1,3 +1,87 @@
+---
+type: wiki
+title: PHAROS Invention Disclosure
+aliases:
+- PHAROS Invention Disclosure
+- wiki/PHAROS Invention Disclosure
+tags:
+- wiki
+- pharos
+- pharos-invention-disclosure-md
+- counsel
+- disclosure
+- rollup
+- filing
+- promotion
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Invention Disclosure.md
+backlink_count: 59
+backlinks:
+- '[[wiki/90-Day $1M Challenge — Status Report]]'
+- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
+- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/Founder Charter — Lepage and Stocker]]'
+- '[[wiki/Global Publication Search — PHAROS Method and Variants]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance by Denial]]'
+- '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
+- '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/OpenAI Governance Framework — Comparison with PHAROS]]'
+- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
+- '[[wiki/PHAROS Evidentiary Gap Closure Bundle]]'
+- '[[wiki/PHAROS Licensing Prospectus]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/PHAROS Recalibration — Unified Governance Architecture]]'
+- '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
+- '[[wiki/RECURSO — Final Audit and Ethical Review]]'
+- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
+- '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
+- '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[wiki/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
+- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[wiki/The Returning Light — Monograph]]'
+- '[[wiki/The Wheel and the Watcher]]'
+- '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory]]'
+- '[[projects/PHAROS — Fisher King Project State]]'
+---
+
 # PHAROS Invention Disclosure
 
 ## Summary

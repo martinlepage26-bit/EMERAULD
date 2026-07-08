@@ -1,10 +1,52 @@
 ---
 type: wiki
-aliases: [AurorA, Aurora input module]
-tags: [pharos, product, compassai, client-facing, aurora]
+title: AurorA — COMPASSai Input Module
+aliases:
+- AurorA
+- Aurora input module
+- wiki/AurorA — COMPASSai Input Module
+tags:
+- pharos
+- product
+- compassai
+- client-facing
+- aurora
+- wiki
+- aurora-compassai-input-module-md
+- aurorai
+- engine
+- spelling
+- color-purple
 status: active
-created: 2026-04-18
-updated: 2026-05-07
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AurorA — COMPASSai Input Module.md
+backlink_count: 22
+backlinks:
+- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
+  (2026-06-22)]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[wiki/PHAROS]]'
+- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'
+- '[[wiki/Railway — COMPASSai Production Deployment Platform]]'
+- '[[wiki/Research Hub]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Weekly Review — 2026-06-26]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/agents/Vibe]]'
+- '[[memory/daily/2026-06-22]]'
+- '[[projects/AurorA — Fisher King Project State]]'
+- '[[projects/COMPASSai — Fisher King Project State]]'
+- '[[session-state]]'
 ---
 
 # AurorA — COMPASSai Input Module

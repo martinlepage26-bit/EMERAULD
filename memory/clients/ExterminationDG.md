@@ -15,9 +15,14 @@ tags:
 - active
 - memory
 - clients
+- site
+- exterminationdg
+- facture
+- competitor
+- color-green
 status: pre-launch
 created: '2026-04-24'
-updated: '2026-06-30'
+updated: '2026-06-26'
 vault_area: memory
 canonical_path: memory/clients/ExterminationDG.md
 backlink_count: 12
@@ -31,10 +36,12 @@ backlinks:
 - '[[memory]]'
 - '[[memory/clients/helix-prospects-2026-q2]]'
 - '[[memory/daily/2026-05-05]]'
-- '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source
+  Note]]'
 - '[[raw/00_Inbox/Raw/2026-04-25 — DG waiting on client picks]]'
 - '[[templates/Invoice Template Pharos-AI]]'
-payment_status: Contract signed 2026-05-08; $2,000 balance payment arriving 2026-05-15; $500 advance already applied
+payment_status: Contract signed 2026-05-08; $2,000 balance payment arriving 2026-05-15;
+  $500 advance already applied
 ---
 
 # ExterminationDG

@@ -1,7 +1,46 @@
 ---
+type: wiki
+title: The Weather Beneath the Walls — Novel
 aliases:
-  - Weather Beneath the Walls — Novel
-  - Weather Beneath the Walls
+- Weather Beneath the Walls — Novel
+- Weather Beneath the Walls
+- wiki/The Weather Beneath the Walls — Novel
+tags:
+- wiki
+- novel
+- the-weather-beneath-the-walls-novel-md
+- etienne
+- clinic
+- claire
+- town
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Weather Beneath the Walls — Novel.md
+backlink_count: 20
+backlinks:
+- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[wiki/Le sang qui porte ton nom — Novel]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[wiki/The Returning Light — Monograph]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[maps/Novel Corpus Map]]'
 ---
 
 # The Weather Beneath the Walls — Novel

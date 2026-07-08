@@ -1,10 +1,61 @@
 ---
 type: map
-aliases: ["Vault interconnectivity atlas", "Delta interconnectivity atlas", "Full interconnectivity pass"]
-tags: [coverage, deltas, interconnectivity, genealogy, theme, function, failure, logic, rhetoric, vault-maintenance]
+title: Vault Delta Interconnectivity Atlas — 2026-05-06
+aliases:
+- Vault interconnectivity atlas
+- Delta interconnectivity atlas
+- Full interconnectivity pass
+- wiki/Vault Delta Interconnectivity Atlas — 2026-05-06
+tags:
+- coverage
+- deltas
+- interconnectivity
+- genealogy
+- theme
+- function
+- failure
+- logic
+- rhetoric
+- vault-maintenance
+- map
+- wiki
+- vault-delta-interconnectivity-atlas-2026-05-06-md
+- magic
+- ritual
+- delta
+- bridge
+- color-teal
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Vault Delta Interconnectivity Atlas — 2026-05-06.md
+backlink_count: 23
+backlinks:
+- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
+- '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
+  and Computational Memory Architectures]]'
+- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Vault Delta Interconnectivity Atlas — 2026-05-06

@@ -1,10 +1,50 @@
 ---
 type: wiki
-aliases: ["recursive entry prompt", "legitimacy inhabitation protocol", "song structure governance"]
-tags: [governance, recursion, methodology, music, proof-regime, audit, prompt-engineering]
+title: Recursive Entry Structure — Song Corpus to Governance Prompt
+aliases:
+- recursive entry prompt
+- legitimacy inhabitation protocol
+- song structure governance
+- wiki/Recursive Entry Structure — Song Corpus to Governance Prompt
+tags:
+- governance
+- recursion
+- methodology
+- music
+- proof-regime
+- audit
+- prompt-engineering
+- wiki
+- recursive-entry-structure-song-corpus-to-governance-prompt-md
+- song
+- lyrics
+- chorus
+- withheld
+- road
+- color-purple
 status: active
-created: 2026-04-25
-updated: 2026-04-25
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Recursive Entry Structure — Song Corpus to Governance Prompt.md
+backlink_count: 16
+backlinks:
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-25]]'
+- '[[raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X]]'
 ---
 
 # Recursive Entry Structure — Song Corpus to Governance Prompt

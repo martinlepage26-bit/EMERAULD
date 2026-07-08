@@ -1,3 +1,42 @@
+---
+type: wiki
+title: Avatar — Lecture queer du pouvoir incarné
+aliases:
+- Avatar — Lecture queer du pouvoir incarné
+- wiki/Avatar — Lecture queer du pouvoir incarné
+tags:
+- wiki
+- queer
+- avatar-lecture-queer-du-pouvoir-incarn-md
+- tlok
+- avatar
+- korra
+- chapter
+- atla
+- color-red
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Avatar — Lecture queer du pouvoir incarné.md
+backlink_count: 14
+backlinks:
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT-PRODUCTION-MANIFEST]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Avatar — Lecture queer du pouvoir incarné
 
 See also [[Pagan and Queer Ritual Studies MOC]].

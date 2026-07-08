@@ -1,10 +1,67 @@
 ---
 type: wiki
-aliases: [Hermes Dashboard, governance dashboard]
-tags: [pharos, product, governance-tool, hermes, operator-view]
+title: Hermes Dashboard — Professional Governance Tool
+aliases:
+- Hermes Dashboard
+- governance dashboard
+- wiki/Hermes Dashboard — Professional Governance Tool
+tags:
+- pharos
+- product
+- governance-tool
+- hermes
+- operator-view
+- wiki
+- hermes-dashboard-professional-governance-tool-md
+- dashboard
+- softinfo
+- activity
+- lanes
+- color-purple
 status: active
-created: 2026-04-18
-updated: 2026-05-09
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Hermes Dashboard — Professional Governance Tool.md
+backlink_count: 37
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/AurorA — COMPASSai Input Module]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
+- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/PHAROS-AI Webservice — pharos-ai.ca]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
+- '[[wiki/Research Hub]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Weekly Review — 2026-06-26]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[assets/elemental-agents/positioning-memo]]'
+- '[[memory]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Vibe]]'
+- '[[memory/clients/ExterminationDG]]'
+- '[[memory/clients/Lavoie Construct]]'
+- '[[memory/clients/Sante-France]]'
+- '[[memory/daily/2026-04-24]]'
+- '[[memory/daily/2026-04-28]]'
+- '[[raw/00_Inbox/Raw/2026-04-25 — Stop coding, clean, package, send]]'
+- '[[session-state]]'
+- '[[templates/Invoice Template Pharos-AI]]'
 ---
 
 # Hermes Dashboard — Professional Governance Tool

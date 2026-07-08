@@ -1,19 +1,50 @@
 ---
+type: agent-spec
+title: Henry — Writing, Research & Editorial Agent
+aliases:
+- Henry — Writing, Research & Editorial Agent
+- .github/agents/henry.agent
+tags:
+- agents
+- henry
+- agent-spec
+- github
+- responses
+- drafts
+- submission
+- submissions
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .github
+canonical_path: .github/agents/henry.agent.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/HENRY]]'
 name: henry
-description: "Writing, research, and editorial agent: drafts prose, prepares reviewer responses, and shapes publication-ready artifacts."
-applyTo: ".github/agents/**"
+description: 'Writing, research, and editorial agent: drafts prose, prepares reviewer
+  responses, and shapes publication-ready artifacts.'
+applyTo: .github/agents/**
 model: sonnet
-tools: Read, Write, Edit, Glob, Grep, semantic_search, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
+tools: Read, Write, Edit, Glob, Grep, semantic_search, Agent, Skill, TodoWrite, TaskCreate,
+  TaskUpdate, TaskGet, TaskList
 allow_auto_create: false
 skills:
-  - scientific-writing
-  - peer-reviewed-paper-writer
-  - publisher
-  - novelist
-  - writing-skills
-  - prompt-engineer
-  - peer-review
-  - humanize
+- scientific-writing
+- peer-reviewed-paper-writer
+- publisher
+- novelist
+- writing-skills
+- prompt-engineer
+- peer-review
+- humanize
+entity_type: Team
+entity_id: henry
+entity_aliases: []
+entity_confidence: high
 ---
 
 # Henry — Writing, Research & Editorial Agent

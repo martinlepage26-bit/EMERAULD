@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "playwright-interactive"
-domain: "AI LLM and Tools"
+title: playwright-interactive
+aliases:
+- skills/playwright-interactive
+- wiki/skills/playwright-interactive
+tags:
+- skill
+- wiki
+- skills
+- playwright
+- interactive
+- repl
+- electron
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/playwright-interactive/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/playwright-interactive.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — AI and LLM Tools]]'
+skill_id: playwright-interactive
+domain: AI LLM and Tools
+codex_path: /home/cerebrhoe/.codex/skills/playwright-interactive/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

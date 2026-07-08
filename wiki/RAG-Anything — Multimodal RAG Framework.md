@@ -1,10 +1,38 @@
 ---
 type: wiki
-aliases: [RAG-Anything, multimodal RAG, HKUDS RAG-Anything, raganything]
-tags: [ai-tooling, retrieval, rag, multimodal, infrastructure, knowledge-graph, python]
+title: RAG-Anything — Multimodal RAG Framework
+aliases:
+- RAG-Anything
+- multimodal RAG
+- HKUDS RAG-Anything
+- raganything
+- wiki/RAG-Anything — Multimodal RAG Framework
+tags:
+- ai-tooling
+- retrieval
+- rag
+- multimodal
+- infrastructure
+- knowledge-graph
+- python
+- wiki
+- rag-anything-multimodal-rag-framework-md
+- raganything
+- lightrag
+- mineru
+- anything
+- color-orange
 status: active
-created: 2026-04-16
-updated: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/RAG-Anything — Multimodal RAG Framework.md
+backlink_count: 4
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/LightRAG — Graph-Based RAG System]]'
+- '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[wiki/Personal and Projects MOC]]'
 ---
 
 # RAG-Anything — Multimodal RAG Framework

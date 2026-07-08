@@ -1,3 +1,25 @@
+---
+type: discarded-note
+title: Mapping OpenAI Tools to Agent Architecture
+aliases:
+- .trash/Building Your First AI Agent with OpenAI______
+tags:
+- archive
+- ai
+- agents
+- discarded-note
+- trash
+- building-your-first-ai-agent-with-openai-md
+status: discarded
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .trash
+canonical_path: .trash/Building Your First AI Agent with OpenAI______.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # Mapping OpenAI Tools to Agent Architecture
 # Introduction
 

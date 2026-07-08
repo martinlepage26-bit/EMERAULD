@@ -1,10 +1,41 @@
 ---
 type: wiki
-aliases: ["Métraux — Voodoo", "Haitian Voodoo (Métraux)"]
-tags: [reference, voodoo, ritual, haitian_religion, ethnography, possession, magic]
+title: Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography
+aliases:
+- Métraux — Voodoo
+- Haitian Voodoo (Métraux)
+- wiki/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography
+tags:
+- reference
+- voodoo
+- ritual
+- haitian-religion
+- ethnography
+- possession
+- magic
+- wiki
+- voodoo-alfred-m-traux-1959-haitian-voodoo-ethnography-md
+- traux
+- alfred
+- doll
+- color-teal
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography.md
+backlink_count: 8
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019
+  (Abomey, Bénin)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou
+  haitien à Montréal-Nord)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography

@@ -1,11 +1,31 @@
 ---
 type: raw-source
-source_url: https://www.crim.ca/en/ia-de-confiance/
 title: Trusted AI - CRIM
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_trusted-ai-crim
+tags:
+- raw-source
+- memory
+- clients
+- trusted
+- crim
+- white
+- integrating
+- stage
+- color-green
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_trusted-ai-crim.md
+backlink_count: 2
+backlinks:
+- '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+source_url: https://www.crim.ca/en/ia-de-confiance/
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Trusted AI - CRIM

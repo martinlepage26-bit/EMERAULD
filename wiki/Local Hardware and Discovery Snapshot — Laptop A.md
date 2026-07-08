@@ -1,8 +1,44 @@
 ---
 type: note
-tags: [hardware, discovery, local-system, pharos, wsl]
-created: 2026-04-28
-updated: 2026-04-28
+title: Local Hardware and Discovery Snapshot — Laptop A
+aliases:
+- Local Hardware and Discovery Snapshot — Laptop A
+- wiki/Local Hardware and Discovery Snapshot — Laptop A
+tags:
+- hardware
+- discovery
+- local-system
+- pharos
+- wsl
+- note
+- wiki
+- local-hardware-and-discovery-snapshot-laptop-a-md
+- laptop
+- loose
+- envuserprofiledesktopcompact
+- color-red
+status: active
+created: '2026-04-28'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Local Hardware and Discovery Snapshot — Laptop A.md
+backlink_count: 15
+backlinks:
+- '[[wiki/Agent Session Phenomenology]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Home]]'
+- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/SYSTEM CHECK]]'
+- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
+- '[[memory/daily/2026-04-28]]'
 ---
 
 # Local Hardware and Discovery Snapshot — Laptop A

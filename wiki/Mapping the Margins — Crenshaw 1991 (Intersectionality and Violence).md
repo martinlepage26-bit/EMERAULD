@@ -1,10 +1,42 @@
 ---
 type: wiki
-aliases: ["Mapping the Margins", "Crenshaw 1991 Intersectionality"]
-tags: [reference, intersectionality, gender, race, violence, feminist_theory, governance]
+title: Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)
+aliases:
+- Mapping the Margins
+- Crenshaw 1991 Intersectionality
+- wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)
+tags:
+- reference
+- intersectionality
+- gender
+- race
+- violence
+- feminist-theory
+- governance
+- wiki
+- mapping-the-margins-crenshaw-1991-intersectionality-and-violence-md
+- crenshaw
+- margins
+- axis
+- color
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence).md
+backlink_count: 9
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
+  — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
+- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 ---
 
 # Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)

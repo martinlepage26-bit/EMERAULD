@@ -1,14 +1,41 @@
 ---
-title: "Papers — Fisher King Project State"
-created: "2026-05-07"
 type: project
-status: active
+title: Papers — Fisher King Project State
+aliases:
+- projects/Papers — Fisher King Project State
 tags:
-  - project
-  - fisher-king
-  - papers
-  - publications
-  - pharos
+- project
+- fisher-king
+- papers
+- publications
+- pharos
+- projects
+- papers-fisher-king-project-state-md
+- paper
+- submission
+- queue
+- track
+- publication
+- color-orange
+status: in-progress
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: projects
+canonical_path: projects/Papers — Fisher King Project State.md
+backlink_count: 12
+backlinks:
+- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King Project Note Templates]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Projects Hub]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[memory/daily/2026-06-22]]'
+- '[[memory/daily/2026-06-23]]'
+- '[[memory/daily/2026-06-24]]'
+- '[[memory/daily/2026-06-25]]'
+- '[[memory/daily/2026-06-26]]'
 ---
 
 # Papers — Fisher King Project State

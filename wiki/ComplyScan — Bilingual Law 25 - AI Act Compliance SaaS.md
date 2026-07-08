@@ -1,10 +1,47 @@
 ---
 type: wiki
-aliases: [ComplyScan, Law 25 compliance SaaS, bilingual compliance tool, AI Act self-assessment, bilingual Law 25, ComplyScan — Bilingual Law 25 AI Act Compliance SaaS, "ComplyScan — Bilingual Law 25 / AI Act Compliance SaaS"]
-tags: [product, saas, compliance, law-25, ai-act, bilingual, micro-saas, market-opportunity, blink]
+title: ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS
+aliases:
+- ComplyScan
+- Law 25 compliance SaaS
+- bilingual compliance tool
+- AI Act self-assessment
+- bilingual Law 25
+- ComplyScan — Bilingual Law 25 AI Act Compliance SaaS
+- ComplyScan — Bilingual Law 25 / AI Act Compliance SaaS
+- wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS
+tags:
+- product
+- saas
+- compliance
+- law-25
+- ai-act
+- bilingual
+- micro-saas
+- market-opportunity
+- blink
+- wiki
+- complyscan-bilingual-law-25-ai-act-compliance-saas-md
+- complyscan
+- solo
+- regulation
+- color-purple
 status: active
-created: 2026-04-23
-updated: 2026-04-23
+created: '2026-04-23'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS.md
+backlink_count: 9
+backlinks:
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/clients/Sante-France]]'
+- '[[memory/daily/2026-04-23]]'
 ---
 
 # ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS

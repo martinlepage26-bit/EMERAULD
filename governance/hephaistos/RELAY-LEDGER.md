@@ -1,3 +1,32 @@
+---
+type: governance-doc
+title: RELAY LEDGER — Handoff Protocol and Audit Record
+aliases:
+- RELAY LEDGER — Handoff Protocol and Audit Record
+- governance/hephaistos/RELAY-LEDGER
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- relay
+- arbitration
+- ledger
+- operator
+- entry
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/RELAY-LEDGER.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/ORCHESTRATION]]'
+---
+
 # RELAY LEDGER — Handoff Protocol and Audit Record
 
 **Status:** Active. Canonicalized 2026-04-26.  

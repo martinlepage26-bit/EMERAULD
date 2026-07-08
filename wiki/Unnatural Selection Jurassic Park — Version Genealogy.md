@@ -1,3 +1,32 @@
+---
+type: version-genealogy
+title: Unnatural Selection Jurassic Park — Version Genealogy
+aliases:
+- Unnatural Selection Jurassic Park — Version Genealogy
+- wiki/Unnatural Selection Jurassic Park — Version Genealogy
+tags:
+- version-genealogy
+- wiki
+- unnatural-selection-jurassic-park-version-genealogy-md
+- commons
+- unnatural
+- jurassic
+- park
+- posthuman
+- color-pink
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Unnatural Selection Jurassic Park — Version Genealogy.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Home]]'
+- '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # Unnatural Selection Jurassic Park — Version Genealogy
 
 ## Summary

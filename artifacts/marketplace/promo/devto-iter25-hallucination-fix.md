@@ -1,3 +1,31 @@
+---
+type: artifact
+title: Most AI "Hallucinations" Are Context Failures, Not Model Failures
+aliases:
+- artifacts/marketplace/promo/devto-iter25-hallucination-fix
+tags:
+- artifact
+- ai
+- artifacts
+- marketplace
+- model
+- errors
+- hallucination
+- failures
+- context
+- color-teal
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/devto-iter25-hallucination-fix.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # Most AI "Hallucinations" Are Context Failures, Not Model Failures
 
 *Dev.to — Iteration 25 — Cycle 6 — 2026-04-20*

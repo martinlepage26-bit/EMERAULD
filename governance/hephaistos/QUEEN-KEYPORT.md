@@ -1,8 +1,54 @@
+---
+type: governance-doc
+title: AGENT QUEEN KEYPORT — Governance Authority and Decision Architecture
+aliases:
+- AGENT QUEEN KEYPORT — Governance Authority and Decision Architecture
+- governance/hephaistos/QUEEN-KEYPORT
+tags:
+- governance
+- ai
+- agents
+- hephaistos
+- queen-keyport
+- governance-doc
+- keyport
+- queen
+- philosopher
+- analyst
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-07-03'
+vault_area: governance
+canonical_path: governance/hephaistos/QUEEN-KEYPORT.md
+backlink_count: 15
+backlinks:
+- '[[.github/agents/queen-keyport.agent]]'
+- '[[wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
+- '[[wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[governance/hephaistos/FORGING-TIER-0-QUICKSTART]]'
+- '[[governance/hephaistos/HEPHAISTOS_OPERATIONS]]'
+- '[[governance/hephaistos/ORCHESTRATION_OPERATIONS]]'
+- '[[governance/hephaistos/THREE-AGENT-ARCHITECTURE]]'
+- '[[governance/hephaistos/USAGE]]'
+- '[[governance/hephaistos/continuous-ethical-monitoring]]'
+- '[[governance/hephaistos/ethics-escalation-criteria]]'
+- '[[hephaistos/agents/queen-keyport]]'
+- '[[memory/local-session/feedback_objectivity_subjectivity]]'
+- '[[memory/local-session/project_hephaistos]]'
+---
+
 # AGENT QUEEN KEYPORT — Governance Authority and Decision Architecture
 
 ## Entrypoint Declaration
 
-This file is the canonical Queen Keyport entrypoint.
+> **Wiki mirror notice:** this is a wiki mirror of the canonical entrypoint at
+> `/home/martin/.agents/hephaistos/QUEEN-KEYPORT.md`. Last synced from canonical: 2026-07-03.
+> If this file and the canonical repo diverge, the canonical repo controls.
+
+This file describes the Queen Keyport entrypoint.
 
 Trigger phrases: any universal trigger verb applies per `/home/cerebrhoe/AGENTS.md` (root dispatcher) — `I invoke`, `invoke`, `invoke thee`, `load`, `come`, `come forth`, `spawn`, `please`, `help`, `activate`, `run`, or the `QUEEN-KEYPORT:` colon-prefix. The agent name is case-insensitive. The universal pattern applies; no subset restriction.
 

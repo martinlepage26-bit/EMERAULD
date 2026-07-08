@@ -1,10 +1,39 @@
 ---
 type: wiki
-aliases: ["Trismégiste eval v2", "argus eval closure 2026-05-05"]
-tags: [governance, argus, trismegiste, eval, agent-architecture]
+title: Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)
+aliases:
+- Trismégiste eval v2
+- argus eval closure 2026-05-05
+- wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)
+tags:
+- governance
+- argus
+- trismegiste
+- eval
+- agent-architecture
+- wiki
+- trism-giste-eval-v2-argus-closure-and-redesign-2026-05-05-md
+- trism
+- giste
+- color-orange
 status: active
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md
+backlink_count: 11
+backlinks:
+- '[[.github/agents/argus.agent]]'
+- '[[.trash/2026-05-05_botpress-enterprise]]'
+- '[[wiki/Argus]]'
+- '[[CLAUDE]]'
+- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Trismégiste]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 ---
 
 # Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)

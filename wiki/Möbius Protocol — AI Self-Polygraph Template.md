@@ -1,3 +1,46 @@
+---
+type: wiki
+title: Möbius Protocol — AI Self-Polygraph Template
+aliases:
+- Möbius Protocol — AI Self-Polygraph Template
+- wiki/Möbius Protocol — AI Self-Polygraph Template
+tags:
+- wiki
+- ai
+- m-bius-protocol-ai-self-polygraph-template-md
+- bius
+- protocol
+- polygraph
+- self
+- mobius
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Möbius Protocol — AI Self-Polygraph Template.md
+backlink_count: 18
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Agent Session Phenomenology]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[wiki/Loop Papers and Recursive Governance]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+---
+
 # Möbius Protocol — AI Self-Polygraph Template
 
 ## Summary

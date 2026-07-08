@@ -1,14 +1,35 @@
 ---
 type: wiki
-aliases: [Conceptual Vocabulary — Praxis Politics Strategy Form Systems]
+title: Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems
 aliases:
-  - Praxis politics strategy form systems
-  - Concept selection grid
-  - Term-selection discipline
-tags: [epistemics, vocabulary, governance, method]
+- Praxis politics strategy form systems
+- Concept selection grid
+- Term-selection discipline
+- wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems
+tags:
+- epistemics
+- vocabulary
+- governance
+- method
+- wiki
+- conceptual-vocabulary-praxis-politics-strategy-form-systems-md
+- praxis
+- poetics
+- grid
+- form
+- expression
+- color-orange
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
+- '[[wiki/Research and Papers MOC]]'
 ---
 
 # Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems

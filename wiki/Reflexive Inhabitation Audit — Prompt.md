@@ -1,10 +1,56 @@
 ---
 type: wiki
-aliases: ["RIA prompt", "reflexive inhabitation audit", "regime de pouvoir helix communitas"]
-tags: [governance, methodology, prompt, audit, helix, proof-regime, communitas]
+title: Reflexive Inhabitation Audit — Prompt
+aliases:
+- RIA prompt
+- reflexive inhabitation audit
+- regime de pouvoir helix communitas
+- wiki/Reflexive Inhabitation Audit — Prompt
+tags:
+- governance
+- methodology
+- prompt
+- audit
+- helix
+- proof-regime
+- communitas
+- wiki
+- reflexive-inhabitation-audit-prompt-md
+- song
+- divergence
+- blank
+- thesis
+- color-purple
 status: active
-created: 2026-04-25
-updated: 2026-04-25
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Reflexive Inhabitation Audit — Prompt.md
+backlink_count: 21
+backlinks:
+- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
+  (2026-05-07)]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'
+- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a
+  live X — Source Note]]'
 ---
 
 # Reflexive Inhabitation Audit — Prompt
@@ -101,8 +147,13 @@ Entry: SYN/ACK/ACK — three statements converge, passage granted. Mechanism nam
 
 Full run documented in [[Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]].
 
+## Embedding History
+
+Embedded inside a live HELIX run the day after its standalone debut: see the "RIA embed (2:50 PM)" row of [[HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'s Session Arc table. Not embedded in the later [[HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)]] run — checked directly, that run's own comparison section confirms this is an available-but-unused instrument for that session, not evidence RIA was deprecated as HELIX formalized (this note was itself updated 2026-06-26, a week prior, with no deprecation notice).
+
 ## Related
 
+- [[RIA-CODEX — System Audit Protocol]] — sibling instrument created the very next day (2026-04-26), generalizing this prompt's same three-statement convergence/divergence structure from a single LLM conversation into a systems-level audit method, explicitly positioned as complementary to Argus's own audit protocol
 - [[Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]] — first live operationalization
 - [[Recursive Entry Structure — Song Corpus to Governance Prompt]]
 - [[Recursive Governance Protocol — Theseus, Auryn, Hopf]]

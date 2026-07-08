@@ -1,3 +1,30 @@
+---
+type: raw-source
+title: Observability Sentinel
+aliases:
+- raw/D-drive-scan-2026-05-12/elemental-agents/agents/08-observability-sentinel
+tags:
+- raw
+- agents
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- signal
+- confidence
+- signals
+- pair
+- rating
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/elemental-agents/agents/08-observability-sentinel.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+---
+
 # Observability Sentinel
 
 See also [[Control Protocols MOC]].

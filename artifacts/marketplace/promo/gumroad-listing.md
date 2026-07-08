@@ -1,3 +1,34 @@
+---
+type: artifact
+title: Gumroad Listing — Obsidian Agent Vault
+aliases:
+- artifacts/marketplace/promo/gumroad-listing
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- agent
+- obsidian
+- session
+- cursor
+- project
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/gumroad-listing.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/daily/2026-06-29]]'
+- '[[projects/Second Brain — Fisher King Project State]]'
+---
+
 # Gumroad Listing — Obsidian Agent Vault
 
 ---

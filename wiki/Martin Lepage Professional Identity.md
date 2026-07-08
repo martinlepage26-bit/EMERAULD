@@ -1,10 +1,65 @@
 ---
 type: map
+title: Martin Lepage Professional Identity
 aliases:
-  - TOPIC — Martin Lepage Professional Identity
-tags: [index, map, topic, Martin-Lepage, professional, identity, biography]
-created: 2026-04-18
-updated: 2026-05-06
+- TOPIC — Martin Lepage Professional Identity
+- wiki/Martin Lepage Professional Identity
+tags:
+- index
+- map
+- topic
+- martin-lepage
+- professional
+- identity
+- biography
+- wiki
+- martin-lepage-professional-identity-md
+- martin
+- lepage
+- positioning
+- uqam
+- consulting
+- color-teal
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Martin Lepage Professional Identity.md
+backlink_count: 33
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Sealed Card Protocol — Version Genealogy]]'
+- '[[wiki/Strategic Storytelling in the AI Economy]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
+- '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # Martin Lepage Professional Identity

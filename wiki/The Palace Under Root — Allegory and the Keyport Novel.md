@@ -1,3 +1,44 @@
+---
+type: wiki
+title: The Palace Under Root — Allegory and the Keyport Novel
+aliases:
+- The Palace Under Root — Allegory and the Keyport Novel
+- wiki/The Palace Under Root — Allegory and the Keyport Novel
+tags:
+- wiki
+- novel
+- the-palace-under-root-allegory-and-the-keyport-novel-md
+- court
+- crystal
+- palace
+- misclassification
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Palace Under Root — Allegory and the Keyport Novel.md
+backlink_count: 17
+backlinks:
+- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/Le sang qui porte ton nom — Novel]]'
+- '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[wiki/The Returning Light — Monograph]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Novel Corpus Map]]'
+---
+
 # The Palace Under Root — Allegory and the Keyport Novel
 
 ## Summary

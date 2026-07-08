@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: ["logo pivot", "monogram strategy", "SMB branding", "client logo lessons"]
-tags: [design, branding, client-work, lessons, SMB]
+title: Client Logo Strategy — Monogram Pivot and SMB Branding Lessons
+aliases:
+- logo pivot
+- monogram strategy
+- SMB branding
+- client logo lessons
+- wiki/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons
+tags:
+- design
+- branding
+- client-work
+- lessons
+- smb
+- wiki
+- client-logo-strategy-monogram-pivot-and-smb-branding-lessons-md
+- monogram
+- logo
+- shield
+- dark
+- wordmark
+- color-orange
 status: active
-created: 2026-05-05
-updated: 2026-05-06
+created: '2026-05-05'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons.md
+backlink_count: 7
+backlinks:
+- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Client Logo Strategy — Monogram Pivot and SMB Branding Lessons

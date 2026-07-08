@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: [Obsidian Agent Vault Asset Inventory, Obsidian Agent Vault Asset Canon]
-tags: [product, obsidian, assets, commercialization, canon]
+title: Obsidian Agent Vault — Asset Canon
+aliases:
+- Obsidian Agent Vault Asset Inventory
+- Obsidian Agent Vault Asset Canon
+- wiki/Obsidian Agent Vault — Asset Canon
+tags:
+- product
+- obsidian
+- assets
+- commercialization
+- canon
+- wiki
+- obsidian-agent-vault-asset-canon-md
+- marketplace
+- asset
+- setup
+- color-orange
 status: active
-created: 2026-04-18
-updated: 2026-04-19
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Obsidian Agent Vault — Asset Canon.md
+backlink_count: 11
+backlinks:
+- '[[wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[wiki/Governed Self-Improvement — Method Slide Asset]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/Obsidian Agent Vault — Setup Guide]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-MANIFEST]]'
+- '[[assets/elemental-agents/positioning-memo]]'
+- '[[projects/Second Brain — Fisher King Project State]]'
 ---
 
 # Obsidian Agent Vault — Asset Canon

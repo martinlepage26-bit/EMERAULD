@@ -1,11 +1,32 @@
 ---
-title: Lazy Obsidian Method
-created: 2026-04-25
 type: resource
+title: Lazy Obsidian Method
+aliases:
+- resources/Lazy Obsidian Method/Index
 tags:
-  - workflow
-  - obsidian
-  - para
+- workflow
+- obsidian
+- para
+- resource
+- resources
+- lazy-obsidian-method
+- lazy
+- messy
+- inactive
+- process
+- color-orange
+status: active
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: resources
+canonical_path: resources/Lazy Obsidian Method/Index.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Personal OS]]'
+- '[[resources/Lazy Obsidian Method/Daily ingest job]]'
+- '[[resources/Lazy Obsidian Method/Lazy Obsidian Method - Implementation Checklist]]'
+- '[[resources/Lazy Obsidian Method/Weekly vault review job]]'
 ---
 
 # Lazy Obsidian Method

@@ -1,3 +1,30 @@
+---
+type: artifact
+title: Sanitization Report
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/SANITIZATION-REPORT
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- obsidian
+- scaffold
+- sanitization
+- buyer
+- color-orange
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/SANITIZATION-REPORT.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # Sanitization Report
 
 Build: `obsidian-agent-vault-2026-04-19`

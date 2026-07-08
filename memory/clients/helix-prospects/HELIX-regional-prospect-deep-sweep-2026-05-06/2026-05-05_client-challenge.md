@@ -1,11 +1,30 @@
 ---
 type: raw-source
-source_url: https://www.beneva.ca/fr/salle-presse/beneva-choisit-outil-souscription-global-iqx
 title: Client Challenge
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: news
+aliases:
+- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_client-challenge
+tags:
+- raw-source
+- memory
+- clients
+- browser
+- disable
+- couldn
+- please
+- settings
+- color-lime
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_client-challenge.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Manuscript Pipeline MOC]]'
+source_url: https://www.beneva.ca/fr/salle-presse/beneva-choisit-outil-souscription-global-iqx
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: news
 ---
 
 # Client Challenge

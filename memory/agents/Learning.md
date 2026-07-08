@@ -1,3 +1,35 @@
+---
+type: memory-register
+title: Learning
+aliases:
+- Learning
+- memory/agents/Learning
+tags:
+- memory
+- agents
+- memory-register
+- topic
+- observation
+- inbound
+- claude
+- auto
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/agents/Learning.md
+backlink_count: 7
+backlinks:
+- '[[.planning/REQUIREMENTS]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[index]]'
+- '[[memory/agents/Blockers]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/agents/Vibe]]'
+---
+
 # Learning
 
 Reusable lessons that change future method. Both Claude and Codex write here.
@@ -37,6 +69,24 @@ Only add entries that are non-obvious and likely to prevent future error.
 - What changes: Paper-to-TOPIC linking is a two-edit operation, not one. Edit the paper's Summary AND edit the TOPIC page's relevant section. The CLAUDE.md "Bidirectional Awareness" rule names this; the empirical confirmation here is that one direction does nothing for the other direction's discoverability metrics.
 - New rule: When closing linking gaps, run an inverse-index pre/post check. If a paper's inbound count did not increase, the symmetric edit was missed.
 - Links: [[Decisions]] [[Journal]] [[Master Project Tracker — 2026]] [[VAULT ADDITIONS TRACKER]]
+
+## 2026-06-29 — Vault-as-project is a named failure mode, not a neutral state
+- Observation: `/obsidian-emerge` (30-day window) found that 7 of 8 recent vault days were maintenance operations (graph repair, frontmatter normalization, architecture docs) rather than external-facing output (code shipped, outreach sent, listing published). The vault became the primary work object while PHAROS launch sat at 8+ weeks stalled.
+- What changes: When daily notes show >3 consecutive maintenance-heavy days with no external action, treat this as a "lost loop" signal — the vault is consuming attention that should be going to output.
+- New rule: At each idea-discovery run, check whether the top candidate requires an external action (send, publish, call). If yes and it has been queued for more than 7 days, escalate it to blocker status in the project note immediately.
+- Links: [[artifacts/emerge-pattern-report-2026-06-29]] [[wiki/2026-06-29 - idea-discovery]] [[Decisions]] [[memory/daily/2026-06-29]]
+
+## 2026-06-29 — Three products blocked on one email is a systemic signal, not a coincidence
+- Observation: Emerge analysis found HELIX, GAIA, and AurorA all at "ready" status but all blocked on the same action class: initiating external contact. The vault had evidence of readiness for all three; none had an outreach sent.
+- What changes: When multiple products are simultaneously blocked on the same action class, it indicates operator-level friction with that action, not product-level unreadiness. The fix is taking the action, not doing more preparation.
+- New rule: If 2+ products share the identical blocker type (e.g., "send outreach"), treat this as a behavioral blocker and surface it immediately — do not route the session toward more vault work.
+- Links: [[artifacts/emerge-pattern-report-2026-06-29]] [[projects/HELIX — Fisher King Project State]] [[Decisions]] [[memory/daily/2026-06-29]]
+
+## 2026-06-29 — Obsidian Bases .base format is JSON, not YAML or Markdown
+- Observation: `Projects Dashboard.base` must be valid JSON using the Obsidian Bases schema (type, views, filter, groupBy, sort, columns). It is not a Markdown file and is not frontmatter-driven.
+- What changes: When creating or editing `.base` files, write raw JSON — not YAML, not Markdown callouts. Obsidian interprets the file format by extension.
+- New rule: Always validate `.base` JSON before writing; malformed JSON silently breaks the Bases view in Obsidian.
+- Links: [[memory/daily/2026-06-29]] [[session-state]] [[Events]]
 
 ## Related
 

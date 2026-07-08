@@ -1,6 +1,30 @@
 ---
 type: orphan-index
-date: 2026-05-06
+title: Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06
+aliases:
+- archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06
+- wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06
+tags:
+- orphan-index
+- wiki
+- archive
+- unreadable
+- residual
+- rename
+- sort
+- converted
+- color-purple
+status: active
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Home]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+date: '2026-05-06'
 scope: post-dr-sort-rename residual graph repair
 ---
 

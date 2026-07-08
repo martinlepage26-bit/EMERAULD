@@ -1,3 +1,32 @@
+---
+type: artifact
+title: 'The Synthesis Habit: Turning Raw Captures Into AI-Usable Knowledge'
+aliases:
+- artifacts/marketplace/promo/hashnode-iter26-synthesis-habit
+tags:
+- artifact
+- ai
+- raw
+- artifacts
+- marketplace
+- synthesized
+- capture
+- habit
+- synthesis
+- processed
+- color-lime
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/hashnode-iter26-synthesis-habit.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # The Synthesis Habit: Turning Raw Captures Into AI-Usable Knowledge
 
 *Hashnode — Iteration 26 — Cycle 6 — 2026-04-20*

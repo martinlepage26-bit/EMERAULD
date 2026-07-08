@@ -1,3 +1,42 @@
+---
+type: wiki
+title: The Wheel and the Watcher
+aliases:
+- The Wheel and the Watcher
+- wiki/The Wheel and the Watcher
+tags:
+- wiki
+- the-wheel-and-the-watcher-md
+- buddhist
+- watcher
+- suprametacognition
+- samsara
+- process
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Wheel and the Watcher.md
+backlink_count: 15
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/PHAROS Invention Disclosure]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
+- '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
+- '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
+- '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
+- '[[projects/Papers — Fisher King Project State]]'
+---
+
 # The Wheel and the Watcher
 
 ## Summary

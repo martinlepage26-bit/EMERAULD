@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "gsd-quick"
-domain: "GSD Workflow"
+title: gsd-quick
+aliases:
+- skills/gsd-quick
+- wiki/skills/gsd-quick
+tags:
+- skill
+- wiki
+- skills
+- quick
+- atomic
+- guarantees
+- commits
+- color-lime
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/gsd-quick/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/gsd-quick.md
+backlink_count: 2
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+skill_id: gsd-quick
+domain: GSD Workflow
+codex_path: /home/cerebrhoe/.codex/skills/gsd-quick/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

@@ -1,3 +1,35 @@
+---
+type: wiki
+title: Obsidian Agent Vault — Setup Guide
+aliases:
+- Obsidian Agent Vault — Setup Guide
+- wiki/Obsidian Agent Vault — Setup Guide
+tags:
+- wiki
+- agents
+- obsidian-agent-vault-setup-guide-md
+- obsidian
+- guide
+- setup
+- launch
+- agent
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Obsidian Agent Vault — Setup Guide.md
+backlink_count: 7
+backlinks:
+- '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[wiki/Obsidian Agent Vault — Asset Canon]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[Welcome]]'
+- '[[projects/Second Brain — Fisher King Project State]]'
+---
+
 # Obsidian Agent Vault — Setup Guide
 
 ## Summary

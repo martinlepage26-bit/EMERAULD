@@ -1,24 +1,112 @@
 ---
 type: map
+title: HEPHAISTOS Agent Architecture
 aliases:
-  - TOPIC — HEPHAISTOS Agent Architecture
-  - HEPHAISTOS
-  - Hephaistos — Forging and Scope Authority
-  - Queen Keyport
-  - QUEEN-KEYPORT
-  - Queen Keyport — Governance and Controls
-  - Hermes
-  - HERMES
-  - Hermes — Routing and Integration
-  - Argus
-  - Codex
-  - Gadget — Frontier Scout and External Systems
-  - Fully-Rounded-Power-Analyst
-  - Philosopher
-tags: [index, map, topic, hephaistos, agents, governance-stack]
+- TOPIC — HEPHAISTOS Agent Architecture
+- HEPHAISTOS
+- Hephaistos — Forging and Scope Authority
+- Queen Keyport
+- QUEEN-KEYPORT
+- Queen Keyport — Governance and Controls
+- Hermes
+- HERMES
+- Hermes — Routing and Integration
+- Argus
+- Codex
+- Gadget — Frontier Scout and External Systems
+- Fully-Rounded-Power-Analyst
+- Philosopher
+- wiki/HEPHAISTOS Agent Architecture
+tags:
+- index
+- map
+- topic
+- hephaistos
+- agents
+- governance-stack
+- wiki
+- hephaistos-agent-architecture-md
+- agent
+- identity
+- trism
+- giste
+- color-orange
 status: active
-created: 2026-04-18
-updated: 2026-05-06
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HEPHAISTOS Agent Architecture.md
+backlink_count: 66
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/Agent Ecosystem Audit — 2026-04-23]]'
+- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
+- '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
+- '[[wiki/Authority Without Power-Over]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
+- '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
+  (2026-05-07)]]'
+- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
+  (2026-05-12)]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/Machine Limitation]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
+- '[[wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
+  (2026-04-18)]]'
+- '[[wiki/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Supersession Registry]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/archive/CO-EQUAL-AUTHORITY-DECISION]]'
+- '[[wiki/archive/Ethical Ground Values]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[governance/governance-index]]'
+- '[[memory]]'
+- '[[memory/agents/Blockers]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/agents/Learning]]'
+- '[[memory/daily/2026-05-07]]'
+- '[[projects/Second Self — Fisher King Project State]]'
+- '[[wiki/skills/ai-agents-architect]]'
+- '[[wiki/skills/architecture]]'
+- '[[wiki/skills/observability-governance]]'
 ---
 
 # HEPHAISTOS Agent Architecture

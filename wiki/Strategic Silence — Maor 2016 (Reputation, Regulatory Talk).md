@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: ["Strategic Silence (Maor)", "Maor 2016 strategic silence"]
-tags: [reference, governance, reputation, communication, accountability, regulation, media]
+title: Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)
+aliases:
+- Strategic Silence (Maor)
+- Maor 2016 strategic silence
+- wiki/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)
+tags:
+- reference
+- governance
+- reputation
+- communication
+- accountability
+- regulation
+- media
+- wiki
+- strategic-silence-maor-2016-reputation-regulatory-talk-md
+- sage
+- silence
+- maor
+- strategic
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk).md
+backlink_count: 8
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)

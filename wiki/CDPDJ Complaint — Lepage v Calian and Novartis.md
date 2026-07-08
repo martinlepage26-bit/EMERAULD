@@ -1,3 +1,56 @@
+---
+type: wiki
+title: CDPDJ Complaint — Lepage v Calian and Novartis
+aliases:
+- CDPDJ Complaint — Lepage v Calian and Novartis
+- wiki/CDPDJ Complaint — Lepage v Calian and Novartis
+tags:
+- wiki
+- ai
+- legal
+- cdpdj-complaint-lepage-v-calian-and-novartis-md
+- termination
+- employer
+- calian
+- novartis
+- employment
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/CDPDJ Complaint — Lepage v Calian and Novartis.md
+backlink_count: 26
+backlinks:
+- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
+- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance by Denial]]'
+- '[[wiki/Home]]'
+- '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
+  Glitch]]'
+- '[[session-state]]'
+---
+
 # CDPDJ Complaint — Lepage v Calian and Novartis
 
 ## Summary

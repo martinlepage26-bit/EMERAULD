@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "gsd-map-codebase"
-domain: "GSD Workflow"
+title: gsd-map-codebase
+aliases:
+- skills/gsd-map-codebase
+- wiki/skills/gsd-map-codebase
+tags:
+- skill
+- wiki
+- skills
+- codebase
+- mapper
+- codex
+- analyze
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/gsd-map-codebase/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/gsd-map-codebase.md
+backlink_count: 2
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+skill_id: gsd-map-codebase
+domain: GSD Workflow
+codex_path: /home/cerebrhoe/.codex/skills/gsd-map-codebase/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

@@ -1,8 +1,80 @@
+---
+type: governance-doc
+title: AGENT HEPHAISTOS — Identity, Authority, and Forging Architecture
+aliases:
+- AGENT HEPHAISTOS — Identity, Authority, and Forging Architecture
+- governance/hephaistos/HEPHAISTOS
+tags:
+- governance
+- ai
+- agents
+- hephaistos
+- governance-doc
+- forging
+- keyport
+- queen
+- scope
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-07-03'
+vault_area: governance
+canonical_path: governance/hephaistos/HEPHAISTOS.md
+backlink_count: 42
+backlinks:
+- '[[.github/agents/hephaistos.agent]]'
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
+- '[[wiki/GSD — Get Shit Done Context Engineering System]]'
+- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
+- '[[wiki/LightRAG — Graph-Based RAG System]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
+- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split]]'
+- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
+- '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[governance/governance-index]]'
+- '[[governance/hephaistos/AGENTS]]'
+- '[[governance/hephaistos/AGENT_AUDIT_2026-04-23]]'
+- '[[governance/hephaistos/FORGING-TIER-0]]'
+- '[[governance/hephaistos/L99-DEMOTION-TO-ARGUS]]'
+- '[[governance/hephaistos/NEXT-STEPS]]'
+- '[[governance/hephaistos/hermes-escalation-to-queen-keyport]]'
+- '[[governance/hephaistos/hq-disagreement-test-case]]'
+- '[[governance/hephaistos/operator-to-gadget]]'
+- '[[hephaistos/hq-disagreement-test-case]]'
+- '[[hephaistos/personal-assistant-agents/listing-creative-director/references/ecosystem]]'
+- '[[hephaistos/personal-assistant-agents/marketplace-dispatcher/SKILL]]'
+- '[[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/ecosystem]]'
+---
+
 # AGENT HEPHAISTOS — Identity, Authority, and Forging Architecture
 
 ## Entrypoint Declaration
 
-This file is the canonical HEPHAISTOS entrypoint.
+> **Wiki mirror notice:** this is a wiki mirror of the canonical entrypoint at
+> `/home/martin/.agents/hephaistos/HEPHAISTOS.md`. Last synced from canonical: 2026-07-03.
+> If this file and the canonical repo diverge, the canonical repo controls.
+
+This file describes the HEPHAISTOS entrypoint.
 
 Trigger phrases: any universal trigger verb applies per `/home/cerebrhoe/AGENTS.md` (root dispatcher) — `I invoke`, `invoke`, `invoke thee`, `load`, `come`, `come forth`, `spawn`, `please`, `help`, `activate`, `run`, or the `HEPHAISTOS:` colon-prefix. The agent name is case-insensitive. The universal pattern applies; no subset restriction.
 

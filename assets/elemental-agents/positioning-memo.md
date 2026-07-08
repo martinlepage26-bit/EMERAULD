@@ -1,7 +1,26 @@
 ---
 type: memo
+title: Elemental Agents — Positioning Memo
+aliases:
+- assets/elemental-agents/positioning-memo
+tags:
+- memo
+- assets
+- elemental-agents
+- elemental
+- agents
+- validator
+- buyer
+- upsell
+- color-orange
 status: draft
-created: 2026-05-24
+created: '2026-05-24'
+updated: '2026-06-26'
+vault_area: assets
+canonical_path: assets/elemental-agents/positioning-memo.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 audience: operator
 ---
 

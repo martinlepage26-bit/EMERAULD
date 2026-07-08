@@ -1,12 +1,35 @@
 ---
 type: wiki
+title: ACTOR Framework — Agent vs Chatbot Decision Tool
 aliases:
-  - ACTOR framework
-  - agent vs chatbot decision
-tags: [ai-agents, decision-framework, consulting, tool]
+- ACTOR framework
+- agent vs chatbot decision
+- wiki/ACTOR Framework — Agent vs Chatbot Decision Tool
+tags:
+- ai-agents
+- decision-framework
+- consulting
+- tool
+- wiki
+- actor-framework-agent-vs-chatbot-decision-tool-md
+- chatbot
+- actor
+- ladder
+- scoping
+- dimension
+- color-orange
 status: active
-created: 2026-05-14
-updated: 2026-05-14
+created: '2026-05-14'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/ACTOR Framework — Agent vs Chatbot Decision Tool.md
+backlink_count: 5
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
 ---
 
 # ACTOR Framework — Agent vs Chatbot Decision Tool

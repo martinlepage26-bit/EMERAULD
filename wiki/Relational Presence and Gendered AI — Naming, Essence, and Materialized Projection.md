@@ -1,10 +1,39 @@
 ---
 type: wiki
-aliases: ["Relational Presence and Gendered AI", "Gendered AI Naming", "AI Relational Presence"]
-tags: [AI-theory, gender, relational-AI, posthumanism, language, materialization]
+title: Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection
+aliases:
+- Relational Presence and Gendered AI
+- Gendered AI Naming
+- AI Relational Presence
+- wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection
+tags:
+- ai-theory
+- gender
+- relational-ai
+- posthumanism
+- language
+- materialization
+- wiki
+- relational-presence-and-gendered-ai-naming-essence-and-materialized-projection-md
+- relational
+- trap
+- presence
+- essence
+- booby
+- color-pink
 status: active
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
+  Projection.md
+backlink_count: 5
+backlinks:
+- '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
+- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection

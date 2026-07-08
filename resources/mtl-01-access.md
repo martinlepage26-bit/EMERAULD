@@ -1,3 +1,28 @@
+---
+type: resource
+title: Martin GCE to mtl-01 Access
+aliases:
+- resources/mtl-01-access
+tags:
+- resource
+- resources
+- mtl-01-access-md
+- codexresume
+- tmux
+- docs
+- detach
+- ctrl
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: resources
+canonical_path: resources/mtl-01-access.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Martin GCE to mtl-01 Access
 
 Installed on `martin@pharos-corpus-runner-01`.

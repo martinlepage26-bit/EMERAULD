@@ -1,3 +1,28 @@
+---
+type: asset
+title: Book Cover Spec — Breath of the Astral Year
+aliases:
+- assets/breath-of-the-astral-year-cover-spec
+tags:
+- asset
+- assets
+- breath-of-the-astral-year-cover-spec-md
+- georgia
+- cover
+- serif
+- opacity
+- regular
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: assets
+canonical_path: assets/breath-of-the-astral-year-cover-spec.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Book Cover Spec — Breath of the Astral Year
 **Publisher:** HEX/ADECIMAL Press  
 **Author:** Martin Lepage, PhD  

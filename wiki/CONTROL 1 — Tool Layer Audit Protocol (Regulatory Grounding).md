@@ -1,13 +1,57 @@
 ---
 type: governance-control
-status: active
+title: CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)
 aliases:
-  - CONTROL 1 — Tool Layer Audit Protocol
-  - CONTROL 1
-created: 2026-04-26
-updated: 2026-04-28
+- CONTROL 1 — Tool Layer Audit Protocol
+- CONTROL 1
+- wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)
+tags:
+- governance-control
+- wiki
+- control-1-tool-layer-audit-protocol-regulatory-grounding-md
+- tool
+- plugin
+- audit
+- governance
+- cascade
+- color-purple
+status: active
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding).md
+backlink_count: 24
+backlinks:
+- '[[wiki/Argus]]'
+- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[wiki/Governance Controls — Incident Response (Control Failure Procedures)]]'
+- '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
+- '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Plugin Recommendations]]'
+- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory]]'
 tier: critical
-regulatory-anchors: [COBIT, SOC 2 Type II, ISO 27001, NIST SP 800-53]
+regulatory-anchors:
+- COBIT
+- SOC 2 Type II
+- ISO 27001
+- NIST SP 800-53
 ---
 
 # CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)

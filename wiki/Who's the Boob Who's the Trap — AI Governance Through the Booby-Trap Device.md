@@ -1,13 +1,43 @@
 ---
 type: wiki
+title: Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device
 aliases:
-  - Booby-Trap Device
-  - Who's the Boob Who's the Trap
-  - Boob and Trap book
-tags: [ai-governance, book-project, historical-materialism, accountability, governance-mechanisms]
+- Booby-Trap Device
+- Who's the Boob Who's the Trap
+- Boob and Trap book
+- wiki/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device
+tags:
+- ai-governance
+- book-project
+- historical-materialism
+- accountability
+- governance-mechanisms
+- wiki
+- who-s-the-boob-who-s-the-trap-ai-governance-through-the-booby-trap-device-md
+- trap
+- booby
+- bureaucratic
+- civilizational
+- device
+- color-purple
 status: in-progress
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap
+  Device.md
+backlink_count: 9
+backlinks:
+- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
+  Projection]]'
+- '[[memory/daily/2026-06-22]]'
+- '[[memory/daily/2026-06-23]]'
+- '[[memory/daily/2026-06-24]]'
+- '[[memory/daily/2026-06-25]]'
+- '[[memory/daily/2026-06-26]]'
+- '[[projects/Stuttering Machines — Fisher King Project State]]'
 ---
 
 # Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device

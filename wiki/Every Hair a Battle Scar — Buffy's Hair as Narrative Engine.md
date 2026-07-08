@@ -1,3 +1,45 @@
+---
+type: wiki
+title: Every Hair a Battle Scar — Buffy's Hair as Narrative Engine
+aliases:
+- Every Hair a Battle Scar — Buffy's Hair as Narrative Engine
+- wiki/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine
+tags:
+- wiki
+- ai
+- every-hair-a-battle-scar-buffy-s-hair-as-narrative-engine-md
+- hair
+- season
+- buffy
+- comics
+- transmedia
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md
+backlink_count: 17
+backlinks:
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/For Her Alone to Wield — Version Genealogy]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
+- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Every Hair a Battle Scar — Buffy's Hair as Narrative Engine
 
 ## Summary

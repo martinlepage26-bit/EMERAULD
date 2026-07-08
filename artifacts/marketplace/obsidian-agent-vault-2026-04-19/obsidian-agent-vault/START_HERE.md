@@ -1,3 +1,31 @@
+---
+type: artifact
+title: START HERE
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/START_HERE
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- finished
+- optional
+- rename
+- runtime
+- guide
+- color-orange
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/START_HERE.md
+backlink_count: 3
+backlinks:
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/README]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/scripts/README]]'
+---
+
 # START HERE
 
 Use this file first. The vault works when your agent knows where context lives and where finished knowledge belongs.

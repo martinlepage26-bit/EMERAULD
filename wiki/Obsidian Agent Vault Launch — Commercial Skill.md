@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: [obsidian-agent-vault-launch, vault launch skill, agent vault commercialization skill]
-tags: [skill, claude-code, obsidian, commercial, launch, agent-memory]
+title: Obsidian Agent Vault Launch — Commercial Skill
+aliases:
+- obsidian-agent-vault-launch
+- vault launch skill
+- agent vault commercialization skill
+- wiki/Obsidian Agent Vault Launch — Commercial Skill
+tags:
+- skill
+- claude-code
+- obsidian
+- commercial
+- launch
+- agent-memory
+- wiki
+- obsidian-agent-vault-launch-commercial-skill-md
+- claude
+- retrieval
+- agent
+- color-orange
 status: active
-created: 2026-04-16
-updated: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Obsidian Agent Vault Launch — Commercial Skill.md
+backlink_count: 9
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[assets/elemental-agents/positioning-memo]]'
+- '[[assets/elemental-agents/sales-page-outline]]'
+- '[[hephaistos/personal-assistant-agents/trismegiste/vault/CLAUDE]]'
 ---
 
 # Obsidian Agent Vault Launch — Commercial Skill

@@ -1,16 +1,34 @@
 ---
 type: wiki
+title: Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)
 aliases:
-  - obsidian-second-brain
-  - obsidian skills integration
+- obsidian-second-brain
+- obsidian skills integration
+- wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)
 tags:
-  - infrastructure
-  - vault
-  - claude-code
-  - obsidian
+- infrastructure
+- vault
+- claude-code
+- obsidian
+- wiki
+- obsidian-second-brain-integration-emerauld-setup-2026-06-21-md
+- commands
+- installed
+- brain
+- emerauld
+- color-orange
 status: active
-created: 2026-06-21
-updated: 2026-06-21
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21).md
+backlink_count: 5
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/EMERAULD]]'
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/daily/2026-06-23]]'
 ---
 
 > For future Claude: This note documents the three-repo Obsidian stack integrated into EMERAULD on 2026-06-21. It enables self-rewriting notes, 45 new slash commands, and format-literate writes via kepano's skills. Load this note when diagnosing vault tooling, adding new commands, or explaining the skill stack to a fresh session.

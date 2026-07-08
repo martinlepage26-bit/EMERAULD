@@ -1,12 +1,41 @@
 ---
 type: wiki
+title: Philosopher
 aliases:
-  - Philosopher
-  - Philosophical Foundations
-tags: [philosophy, methodology, governance, analysis]
+- Philosopher
+- Philosophical Foundations
+- wiki/Philosopher
+tags:
+- philosophy
+- methodology
+- governance
+- analysis
+- wiki
+- philosopher-md
+- philosopher
+- courtier
+- articulations
+- allegorical
+- oriented
+- color-purple
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Philosopher.md
+backlink_count: 10
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Anti-Charm]]'
+- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
+  Phenomenon]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/archive/Ethical Ground Values]]'
+- '[[governance/governance-index]]'
+- '[[session-state]]'
 ---
 
 # Philosopher

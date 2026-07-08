@@ -1,3 +1,31 @@
+---
+type: governance-doc
+title: Phase 7 Deployment Readiness Checklist
+aliases:
+- Phase 7 Deployment Readiness Checklist
+- hephaistos/DEPLOYMENT-CHECKLIST
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- deployment-checklist-md
+- veto
+- bias
+- exists
+- hermes
+- gate
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: hephaistos
+canonical_path: hephaistos/DEPLOYMENT-CHECKLIST.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
 # Phase 7 Deployment Readiness Checklist
 
 **Date:** 2026-04-05 | **Last updated:** 2026-04-18 (skill subsumption + slides registry pass)

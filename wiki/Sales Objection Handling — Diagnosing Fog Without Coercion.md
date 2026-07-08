@@ -1,10 +1,38 @@
 ---
 type: wiki
-aliases: ["Sales Objection Handling", "Ethical Objection Handling", "COME BACKs"]
-tags: [sales, pharos, business-development, ethics, communication]
+title: Sales Objection Handling — Diagnosing Fog Without Coercion
+aliases:
+- Sales Objection Handling
+- Ethical Objection Handling
+- COME BACKs
+- wiki/Sales Objection Handling — Diagnosing Fog Without Coercion
+tags:
+- sales
+- pharos
+- business-development
+- ethics
+- communication
+- wiki
+- sales-objection-handling-diagnosing-fog-without-coercion-md
+- objections
+- objection
+- investment
+- budget
+- color-pink
 status: active
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Sales Objection Handling — Diagnosing Fog Without Coercion.md
+backlink_count: 7
+backlinks:
+- '[[.trash/Design Your Agent Architecture]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Sales Objection Handling — Diagnosing Fog Without Coercion

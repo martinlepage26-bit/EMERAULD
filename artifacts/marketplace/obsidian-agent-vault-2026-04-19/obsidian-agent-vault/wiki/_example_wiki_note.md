@@ -1,3 +1,29 @@
+---
+type: artifact
+title: Auth Migration - Firebase to Supabase
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/_example_wiki_note
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- firebase
+- auth
+- rollover
+- supabase
+- migration
+- color-green
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/_example_wiki_note.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # Auth Migration - Firebase to Supabase
 
 > Delete this file after you've seen how wiki notes work.

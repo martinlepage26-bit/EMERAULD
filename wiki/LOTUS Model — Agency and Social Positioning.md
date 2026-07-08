@@ -1,3 +1,55 @@
+---
+type: wiki
+title: LOTUS Model — Agency and Social Positioning
+aliases:
+- LOTUS Model — Agency and Social Positioning
+- wiki/LOTUS Model — Agency and Social Positioning
+tags:
+- wiki
+- lotus-model-agency-and-social-positioning-md
+- lotus
+- agency
+- vector
+- vectorized
+- scaffolds
+- color-pink
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/LOTUS Model — Agency and Social Positioning.md
+backlink_count: 25
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
+  Explanation)]]'
+- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
+- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/LOTUS Premium Spec]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
+  2024]]'
+- '[[wiki/Portfolio Restructuring Review — March 2026]]'
+- '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[projects/LOTUS — Fisher King Project State]]'
+---
+
 # LOTUS Model — Agency and Social Positioning
 
 ## Summary

@@ -1,6 +1,71 @@
 ---
+type: wiki
+title: Trust Advantage Analysis — Sales and AI Governance
 aliases:
-  - Trust Advantage Analysis
+- Trust Advantage Analysis
+- wiki/Trust Advantage Analysis — Sales and AI Governance
+tags:
+- wiki
+- governance
+- ai
+- trust-advantage-analysis-sales-and-ai-governance-md
+- buyers
+- trust
+- sellers
+- linkedin
+- career
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Trust Advantage Analysis — Sales and AI Governance.md
+backlink_count: 44
+backlinks:
+- '[[.trash/Sprint Tool Strategy]]'
+- '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
+- '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/AI Governance Sprint — One-Page Sellable Packet]]'
+- '[[wiki/CODEX Writing Projects Manifest]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[wiki/Governance by Denial]]'
+- '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
+- '[[wiki/PHAROS Procurement-Unblock Sprint]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
+- '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[wiki/Trust Advantage — Version Genealogy]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[assets/elemental-agents/audience-expansion]]'
+- '[[assets/elemental-agents/positioning-memo]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory]]'
+- '[[memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_deploying-llms-safely-with-botpress-botpress-resources]]'
+- '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_company]]'
+- '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_paula-parhon-biography-desjardins]]'
+- '[[projects/PHAROS — Fisher King Project State]]'
+- '[[session-state]]'
 ---
 
 # Trust Advantage Analysis — Sales and AI Governance

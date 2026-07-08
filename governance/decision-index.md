@@ -1,10 +1,29 @@
 ---
 type: wiki
-aliases: [decisions, decision-records]
-tags: [decisions, governance]
+title: Decision Index
+aliases:
+- decisions
+- decision-records
+- governance/decision-index
+tags:
+- decisions
+- governance
+- wiki
+- decision-index-md
+- compass
+- phasing
+- saas
+- decision
+- color-purple
 status: active
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/decision-index.md
+backlink_count: 2
+backlinks:
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[governance/governance-index]]'
 ---
 
 # Decision Index

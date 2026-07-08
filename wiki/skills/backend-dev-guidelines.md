@@ -1,10 +1,32 @@
 ---
 type: skill
-skill_id: "backend-dev-guidelines"
-domain: "Deployment and Infrastructure"
+title: backend-dev-guidelines
+aliases:
+- skills/backend-dev-guidelines
+- wiki/skills/backend-dev-guidelines
+tags:
+- skill
+- wiki
+- skills
+- express
+- backend
+- controllers
+- unifiedconfig
+- controlle
+- color-purple
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/backend-dev-guidelines/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/backend-dev-guidelines.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Deployment and Infrastructure]]'
+skill_id: backend-dev-guidelines
+domain: Deployment and Infrastructure
+codex_path: /home/cerebrhoe/.codex/skills/backend-dev-guidelines/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

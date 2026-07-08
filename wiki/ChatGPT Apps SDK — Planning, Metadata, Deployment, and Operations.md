@@ -1,10 +1,48 @@
 ---
 type: wiki
-aliases: [ChatGPT Apps SDK planning guide, Apps SDK deployment guide, Apps SDK metadata guide]
-tags: [openai, chatgpt-apps, apps-sdk, mcp, metadata, deployment, security, troubleshooting, app-development]
+title: ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations
+aliases:
+- ChatGPT Apps SDK planning guide
+- Apps SDK deployment guide
+- Apps SDK metadata guide
+- wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations
+tags:
+- openai
+- chatgpt-apps
+- apps-sdk
+- mcp
+- metadata
+- deployment
+- security
+- troubleshooting
+- app-development
+- wiki
+- chatgpt-apps-sdk-planning-metadata-deployment-and-operations-md
+- apps
+- golden
+- connector
+- chatgpt
+- prompts
+- color-blue
 status: active
-created: 2026-04-23
-updated: 2026-04-23
+created: '2026-04-23'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md
+backlink_count: 12
+backlinks:
+- '[[.trash/ACTOR Framework Worksheet]]'
+- '[[wiki/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
+- '[[wiki/Home]]'
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_how-td-helps-advance-ai-innovation]]'
+- '[[memory/local-session/reference_seven_pillars_stack]]'
+- '[[raw/Clippings/AI Agent Operations and Governance Manager]]'
 ---
 
 # ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations

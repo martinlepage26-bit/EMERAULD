@@ -1,3 +1,76 @@
+---
+type: wiki
+title: First Method Paper — Recursive AI Governance as Executable Method
+aliases:
+- First Method Paper — Recursive AI Governance as Executable Method
+- wiki/First Method Paper — Recursive AI Governance as Executable Method
+tags:
+- wiki
+- recursion
+- governance
+- ai
+- paper
+- first-method-paper-recursive-ai-governance-as-executable-method-md
+- method
+- laboratory
+- order
+- wheels
+- stage
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/First Method Paper — Recursive AI Governance as Executable Method.md
+backlink_count: 45
+backlinks:
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/First Method Paper — Version Genealogy]]'
+- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[wiki/Loop Papers and Recursive Governance]]'
+- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[wiki/PHAROS Licensing Prospectus]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
+- '[[wiki/Phase 1 Governance Formation Sequence]]'
+- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
+- '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'
+- '[[wiki/Recursive AI Governance Very Long Narrative — Version Genealogy]]'
+- '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
+- '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
+- '[[wiki/Spider-Man — Version Genealogy]]'
+- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/daily/2026-05-02]]'
+---
+
 # First Method Paper — Recursive AI Governance as Executable Method
 
 ## Summary

@@ -1,10 +1,65 @@
 ---
 type: wiki
-aliases: [Second Self System, Identity Kernel, Agent Merge Manifest, Martin Executive Proxy]
-tags: [agent-architecture, second-self, orchestration, governance, identity, pharos]
+title: Second Self System — Identity Kernel and Agent Routing Architecture
+aliases:
+- Second Self System
+- Identity Kernel
+- Agent Merge Manifest
+- Martin Executive Proxy
+- wiki/Second Self System — Identity Kernel and Agent Routing Architecture
+tags:
+- agent-architecture
+- second-self
+- orchestration
+- governance
+- identity
+- pharos
+- wiki
+- second-self-system-identity-kernel-and-agent-routing-architecture-md
+- organ
+- helper
+- merge
+- voice
+- public
+- color-orange
 status: active
-created: 2026-04-29
-updated: 2026-04-29
+created: '2026-04-29'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Second Self System — Identity Kernel and Agent Routing Architecture.md
+backlink_count: 30
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
+  (2026-05-07)]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Public Voice Examples]]'
+- '[[wiki/Trismégiste — Operator State]]'
+- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'
+- '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
+- '[[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/ecosystem]]'
+- '[[memory]]'
+- '[[memory/daily/2026-04-29]]'
+- '[[projects/Second Self — Fisher King Project State]]'
+- '[[session-state]]'
 source: raw sources/2026-04-29_second-self-system-identity-routing-architecture.md
 ---
 

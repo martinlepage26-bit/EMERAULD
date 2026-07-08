@@ -1,3 +1,41 @@
+---
+type: wiki
+title: Responsible AI Evaluation — Patient Readmission Model
+aliases:
+- Responsible AI Evaluation — Patient Readmission Model
+- wiki/Responsible AI Evaluation — Patient Readmission Model
+tags:
+- wiki
+- ai
+- responsible-ai-evaluation-patient-readmission-model-md
+- readmission
+- spanish
+- recall
+- fairness
+- clinical
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Responsible AI Evaluation — Patient Readmission Model.md
+backlink_count: 13
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance by Denial]]'
+- '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # Responsible AI Evaluation — Patient Readmission Model
 
 ## Summary

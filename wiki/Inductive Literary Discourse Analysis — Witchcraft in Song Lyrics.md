@@ -1,3 +1,47 @@
+---
+type: wiki
+title: Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics
+aliases:
+- Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics
+- wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics
+tags:
+- wiki
+- inductive-literary-discourse-analysis-witchcraft-in-song-lyrics-md
+- magic
+- inductive
+- song
+- ritual
+- pagan
+- color-blue
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics.md
+backlink_count: 19
+backlinks:
+- '[[wiki/Disease — Lady Gaga — Lyrics]]'
+- '[[wiki/Home]]'
+- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
+  Activism Switzerland)]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Paper Planes — M.I.A. — Lyrics]]'
+- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
+- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics
 
 See also [[Pagan and Queer Ritual Studies MOC]].

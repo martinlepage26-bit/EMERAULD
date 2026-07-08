@@ -1,13 +1,40 @@
 ---
 type: wiki
+title: Skill Domain — Vault and Knowledge
 aliases:
-  - Vault and Knowledge domain
-  - Vault skills domain
-  - Knowledge graph skills hub
-tags: [skills, domain, hub, vault, knowledge-graph, memory, emerauld, obsidian]
+- Vault and Knowledge domain
+- Vault skills domain
+- Knowledge graph skills hub
+- wiki/Skill Domain — Vault and Knowledge
+tags:
+- skills
+- domain
+- hub
+- vault
+- knowledge-graph
+- memory
+- emerauld
+- obsidian
+- wiki
+- skill-domain-vault-and-knowledge-md
+- notion
+- graph
+- hygiene
+- knowledge
+- search
+- color-teal
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Skill Domain — Vault and Knowledge.md
+backlink_count: 5
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Skill Domain — Vault and Knowledge

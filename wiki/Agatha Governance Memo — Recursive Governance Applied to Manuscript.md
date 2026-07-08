@@ -1,8 +1,34 @@
 ---
 type: governance-artifact
+title: Agatha Governance Memo — Recursive Governance Applied to Manuscript
+aliases:
+- Agatha Governance Memo — Recursive Governance Applied to Manuscript
+- wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript
+tags:
+- governance-artifact
+- wiki
+- agatha-governance-memo-recursive-governance-applied-to-manuscript-md
+- manuscript
+- memo
+- assistance
+- disclosure
+- version
+- color-purple
 status: active
-created: 2026-04-25
-updated: 2026-04-25
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[maps/Queer Media and Ritual Map]]'
 ---
 
 # Agatha Governance Memo — Recursive Governance Applied to Manuscript

@@ -1,10 +1,59 @@
 ---
 type: map
+title: Care, Ethics, and Governance
 aliases:
-  - TOPIC — Care, Ethics, and Governance
-tags: [index, map, topic, ethics, care, governance, hephaistos]
-created: 2026-05-01
-updated: 2026-05-06
+- TOPIC — Care, Ethics, and Governance
+- wiki/Care, Ethics, and Governance
+tags:
+- index
+- map
+- topic
+- ethics
+- care
+- governance
+- hephaistos
+- wiki
+- care-ethics-and-governance-md
+- answerability
+- gift
+- failure
+- institutional
+- color-pink
+status: active
+created: '2026-05-01'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Care, Ethics, and Governance.md
+backlink_count: 27
+backlinks:
+- '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[wiki/Authority Without Power-Over]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governess Agatha GPT — ChatGPT Product Specification]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inner Mind Eye]]'
+- '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
+  — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
+- '[[wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Linking Session 2 Summary — 2026-05-01]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Care, Ethics, and Governance

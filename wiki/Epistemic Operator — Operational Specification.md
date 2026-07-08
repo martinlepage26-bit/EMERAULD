@@ -1,10 +1,44 @@
 ---
 type: wiki
-aliases: [epistemic operator, operator skill, OODA operator, voice operator, PHAROS operator]
-tags: [skill, governance, epistemics, ooda, voice, operator, pharos, claude-code, skill-corpus]
+title: Epistemic Operator — Operational Specification
+aliases:
+- epistemic operator
+- operator skill
+- OODA operator
+- voice operator
+- PHAROS operator
+- wiki/Epistemic Operator — Operational Specification
+tags:
+- skill
+- governance
+- epistemics
+- ooda
+- voice
+- operator
+- pharos
+- claude-code
+- skill-corpus
+- wiki
+- epistemic-operator-operational-specification-md
+- friction
+- analytical
+- gate
+- color-orange
 status: active
-created: 2026-05-24
-updated: 2026-05-24
+created: '2026-05-24'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Epistemic Operator — Operational Specification.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[assets/elemental-agents/ttrpg-repack/manuscript/_audit_dimension-F-2026-05-24]]'
 source_path: /mnt/skills/user/operator/SKILL.md (operator's working reference)
 canonical_pair: Epistemic Governance — Canonical Reference
 ---

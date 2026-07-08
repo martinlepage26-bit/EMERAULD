@@ -1,3 +1,30 @@
+---
+type: raw-source
+title: Requirements Architect
+aliases:
+- raw/D-drive-scan-2026-05-12/elemental-agents/agents/03-requirements-architect
+tags:
+- raw
+- agents
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- requirements
+- angle
+- requirement
+- testable
+- acceptance
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/elemental-agents/agents/03-requirements-architect.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+---
+
 # Requirements Architect
 
 See also [[Control Protocols MOC]].

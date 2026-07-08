@@ -1,3 +1,31 @@
+---
+type: artifact
+title: PHAROS Topology Layer v3
+aliases:
+- artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/pharos_topology_layer_v3
+tags:
+- artifact
+- pharos
+- archive
+- artifacts
+- 2026-04-19-pharos-migration-pr4
+- topology
+- hopf
+- auryn
+- theseus
+- recursion
+- color-green
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/pharos_topology_layer_v3.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # PHAROS Topology Layer v3
 
 See also [[Governance and PHAROS MOC]].

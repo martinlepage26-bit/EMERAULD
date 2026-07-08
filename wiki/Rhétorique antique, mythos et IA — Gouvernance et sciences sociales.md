@@ -1,10 +1,42 @@
 ---
 type: wiki
-aliases: [Rhet-AI, rhetorique IA, rhetorical AI, mythos AI governance]
-tags: [rhetoric, ai-governance, francophone, theory, persuasion, epistemics]
+title: Rhétorique antique, mythos et IA — Gouvernance et sciences sociales
+aliases:
+- Rhet-AI
+- rhetorique IA
+- rhetorical AI
+- mythos AI governance
+- wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales
+tags:
+- rhetoric
+- ai-governance
+- francophone
+- theory
+- persuasion
+- epistemics
+- wiki
+- rh-torique-antique-mythos-et-ia-gouvernance-et-sciences-sociales-md
+- rhetorical
+- mythos
+- telos
+- kairos
+- fluency
+- color-pink
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Emotional Alliance vs. Evidentiary Discipline in AI]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
+- '[[wiki/Machine Limitation]]'
+- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Rhétorique antique, mythos et IA — Gouvernance et sciences sociales

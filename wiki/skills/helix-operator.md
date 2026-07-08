@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "helix-operator"
-domain: "Specialized and Miscellaneous"
+title: helix-operator
+aliases:
+- skills/helix-operator
+- wiki/skills/helix-operator
+tags:
+- skill
+- wiki
+- skills
+- helix
+- stress
+- interrogate
+- deepseek
+- color-blue
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/helix-operator/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/helix-operator.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+skill_id: helix-operator
+domain: Specialized and Miscellaneous
+codex_path: /home/cerebrhoe/.codex/skills/helix-operator/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

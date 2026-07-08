@@ -1,10 +1,97 @@
 ---
 type: map
+title: Recursive Governance Theory
 aliases:
-  - TOPIC — Recursive Governance Theory
-tags: [index, map, topic, governance, pharos, recursive]
-created: 2026-04-18
-updated: 2026-05-06
+- TOPIC — Recursive Governance Theory
+- wiki/Recursive Governance Theory
+tags:
+- index
+- map
+- topic
+- governance
+- pharos
+- recursive
+- wiki
+- recursive-governance-theory-md
+- method
+- discipline
+- color-purple
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Recursive Governance Theory.md
+backlink_count: 66
+backlinks:
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
+  of Interruption]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
+- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
+- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governess Agatha GPT — ChatGPT Product Specification]]'
+- '[[wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Loop Papers and Recursive Governance]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Machine Limitation]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Philosopher]]'
+- '[[wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[wiki/RIA-CODEX — System Audit Protocol]]'
+- '[[wiki/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
+- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
+  and Computational Memory Architectures]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/agents/Learning]]'
+- '[[memory/daily/2026-05-02]]'
+- '[[session-state]]'
 ---
 
 # Recursive Governance Theory

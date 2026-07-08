@@ -1,10 +1,41 @@
 ---
 type: wiki
-aliases: [Idiom Craft Guide, Literary Allusion Guide, Henry Craft Reference]
-tags: [writing, craft, literary-references, idioms, allusion, henry, skill]
+title: Literary References — Craft Guide
+aliases:
+- Idiom Craft Guide
+- Literary Allusion Guide
+- Henry Craft Reference
+- wiki/Literary References — Craft Guide
+tags:
+- writing
+- craft
+- literary-references
+- idioms
+- allusion
+- henry
+- skill
+- wiki
+- literary-references-craft-guide-md
+- literary
+- reference
+- pandora
+- phrase
+- color-purple
 status: active
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Literary References — Craft Guide.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Literary References in Common English — Allusion and Idiom Guide]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[governance/hephaistos/HENRY]]'
+- '[[wiki/skills/literary-references]]'
 ---
 
 # Literary References — Craft Guide

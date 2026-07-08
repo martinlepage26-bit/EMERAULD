@@ -1,10 +1,44 @@
 ---
 type: wiki
-aliases: ["Difference re-entered as rule", "Relation as primitive", "Interface primitive", "DRT7-EML-Lily synthesis"]
-tags: [theory, recursion, primitive, interface, biology, mathematics, symbol, governance-frame]
+title: Smallest Building Block — Relation as Rule
+aliases:
+- Difference re-entered as rule
+- Relation as primitive
+- Interface primitive
+- DRT7-EML-Lily synthesis
+- wiki/Smallest Building Block — Relation as Rule
+tags:
+- theory
+- recursion
+- primitive
+- interface
+- biology
+- mathematics
+- symbol
+- governance-frame
+- wiki
+- smallest-building-block-relation-as-rule-md
+- relation
+- lily
+- calculator
+- valley
+- completeness
+- color-purple
 status: active
-created: 2026-04-30
-updated: 2026-04-30
+created: '2026-04-30'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Smallest Building Block — Relation as Rule.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 # Smallest Building Block — Relation as Rule

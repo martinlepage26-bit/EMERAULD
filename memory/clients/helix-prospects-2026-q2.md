@@ -1,3 +1,31 @@
+---
+type: client-memory
+title: HELIX Prospects — Q2 2026
+aliases:
+- HELIX Prospects — Q2 2026
+- memory/clients/helix-prospects-2026-q2
+tags:
+- client
+- helix
+- client-memory
+- memory
+- clients
+- toronto
+- ottawa
+- captured
+- retry
+- browser
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects-2026-q2.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+---
+
 # HELIX Prospects — Q2 2026
 
 **Prepared:** 2026-05-06  

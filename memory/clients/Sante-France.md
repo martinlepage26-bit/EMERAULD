@@ -1,12 +1,39 @@
 ---
 type: client
+title: Sante-France
 aliases:
-  - Sante-France
-tags: [client, hermes, active]
+- Sante-France
+- memory/clients/Sante-France
+tags:
+- client
+- hermes
+- active
+- memory
+- clients
+- quebec
+- regulatory
+- france
+- iness
+- color-green
 status: in progress
+created: '2026-04-24'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/Sante-France.md
+backlink_count: 10
+backlinks:
+- '[[wiki/CLIENT ACCOUNTS]]'
+- '[[wiki/Operator Continuity Memo — 2026-05-14]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
+- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker
+  — Source Note]]'
+- '[[raw/00_Inbox/Raw/2026-04-25 — Santé-France Phase 0 — I am the blocker]]'
+- '[[templates/Invoice Template Pharos-AI]]'
 payment_status: not documented
-created: 2026-04-24
-updated: 2026-04-24
 ---
 
 # Sante-France

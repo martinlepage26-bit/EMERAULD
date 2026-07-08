@@ -1,12 +1,36 @@
 ---
 type: wiki
+title: Mental illness, addiction, and AI psychosis
 aliases:
-  - Mental illness, addiction, and AI psychosis
-  - AI psychosis
-tags: [ai, harm, addiction, mental-health, governance]
+- Mental illness, addiction, and AI psychosis
+- AI psychosis
+- wiki/Mental illness, addiction, and AI psychosis
+tags:
+- ai
+- harm
+- addiction
+- mental-health
+- governance
+- wiki
+- mental-illness-addiction-and-ai-psychosis-md
+- sutton
+- cichocka
+- conspiracy
+- gambling
+- color-purple
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Mental illness, addiction, and AI psychosis.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Mental illness, addiction, and AI psychosis

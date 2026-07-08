@@ -1,40 +1,81 @@
 ---
+type: agent-spec
+title: Hephaistos — Tier 0 Forging Agent
+aliases:
+- Hephaistos — Tier 0 Forging Agent
+- .github/agents/hephaistos.agent
+tags:
+- agents
+- ai
+- hephaistos
+- agent-spec
+- github
+- tradeoffs
+- small
+- proposals
+- goals
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .github
+canonical_path: .github/agents/hephaistos.agent.md
+backlink_count: 10
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
+  (2026-04-18)]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/global/HEPHAISTOS-STATUS]]'
+- '[[governance/hephaistos/HEPHAISTOS]]'
+- '[[governance/hephaistos/HEPHAISTOS_OPERATIONS]]'
+- '[[governance/hephaistos/hephaistos-to-queen-keyport]]'
+- '[[governance/hephaistos/hephaistos-to-specialist-guideline-pull]]'
+- '[[hephaistos/agents/hephaistos]]'
+- '[[memory/local-session/project_hephaistos]]'
 name: hephaistos
-description: "Tier‑0 forging and scope‑definition agent: define what exists, select artifacts, and produce initial scaffolds. Use when scoping projects, choosing stacks, or generating minimal prototypes."
-applyTo: ".github/agents/**"
+description: 'Tier‑0 forging and scope‑definition agent: define what exists, select
+  artifacts, and produce initial scaffolds. Use when scoping projects, choosing stacks,
+  or generating minimal prototypes.'
+applyTo: .github/agents/**
 model: sonnet
-tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
+tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite,
+  TaskCreate, TaskUpdate, TaskGet, TaskList
 allow_auto_create: false
 skills:
-  - architecture
-  - ai-agents-architect
-  - agent-development
-  - ai-product
-  - database-schema-designer
-  - research-grants
-  - philosopher
-  - fully-rounded-power-analyst
-  - recursive-governance-method
-  - trace-investigator
-  - humanize
-  - red-team
-  - qualitative
-  - senior-data-scientist
-  - agent-evaluation
-  - peer-reviewed-paper-writer
-  - publisher
-  - novelist
-  - scientific-brainstorming
-  - scientific-writing
-  - scientific-visualization
-  - writing-skills
-  - naming-analyzer
-  - prompt-engineer
-  - brand-identity-system
-  - skill-architect
-  - skill-pairing
-  - speech
-  - triangulation
+- architecture
+- ai-agents-architect
+- agent-development
+- ai-product
+- database-schema-designer
+- research-grants
+- philosopher
+- fully-rounded-power-analyst
+- recursive-governance-method
+- trace-investigator
+- humanize
+- red-team
+- qualitative
+- senior-data-scientist
+- agent-evaluation
+- peer-reviewed-paper-writer
+- publisher
+- novelist
+- scientific-brainstorming
+- scientific-writing
+- scientific-visualization
+- writing-skills
+- naming-analyzer
+- prompt-engineer
+- brand-identity-system
+- skill-architect
+- skill-pairing
+- speech
+- triangulation
+entity_type: Team
+entity_id: hephaistos
+entity_aliases: []
+entity_confidence: high
 ---
 
 # Hephaistos — Tier 0 Forging Agent

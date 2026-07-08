@@ -1,3 +1,44 @@
+---
+type: wiki
+title: Social Stratification, Intersectionality, and the Why Be King Manuscript
+aliases:
+- Social Stratification, Intersectionality, and the Why Be King Manuscript
+- wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript
+tags:
+- wiki
+- manuscript
+- social-stratification-intersectionality-and-the-why-be-king-manuscript-md
+- intersectionality
+- stratification
+- pagan
+- magic
+- anthias
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Social Stratification, Intersectionality, and the Why Be King
+  Manuscript.md
+backlink_count: 14
+backlinks:
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # Social Stratification, Intersectionality, and the Why Be King Manuscript
 
 ## Summary

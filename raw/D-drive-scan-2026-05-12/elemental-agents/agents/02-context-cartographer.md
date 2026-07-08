@@ -1,3 +1,30 @@
+---
+type: raw-source
+title: Context Cartographer
+aliases:
+- raw/D-drive-scan-2026-05-12/elemental-agents/agents/02-context-cartographer
+tags:
+- raw
+- agents
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- docs
+- pair
+- existing
+- rework
+- spots
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/elemental-agents/agents/02-context-cartographer.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+---
+
 # Context Cartographer
 
 See also [[Control Protocols MOC]].

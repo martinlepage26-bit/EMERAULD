@@ -1,3 +1,29 @@
+---
+type: archive-record
+title: PHAROS Invention Disclosure V12 — Errata
+aliases:
+- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/ERRATA
+tags:
+- archive
+- pharos
+- archive-record
+- pharos-invention-disclosure-bundle-sources-2026-04-25
+- passes
+- counsel
+- redesign
+- inventor
+- bundle
+- color-green
+status: archived
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/ERRATA.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+---
+
 # PHAROS Invention Disclosure V12 — Errata
 
 See also [[Research and Papers MOC]].

@@ -1,10 +1,44 @@
 ---
 type: wiki
-aliases: ["Codex work alignment", "System-shaper frame", "InfraFabric meet-the-operator", "Operator-side InfraFabric mapping"]
-tags: [theory, doctrine, alignment, infrafabric, codex, mcp, operator-state, system-shaping]
+title: InfraFabric Codex Alignment — System-Shaper Frame
+aliases:
+- Codex work alignment
+- System-shaper frame
+- InfraFabric meet-the-operator
+- Operator-side InfraFabric mapping
+- wiki/InfraFabric Codex Alignment — System-Shaper Frame
+tags:
+- theory
+- doctrine
+- alignment
+- infrafabric
+- codex
+- mcp
+- operator-state
+- system-shaping
+- wiki
+- infrafabric-codex-alignment-system-shaper-frame-md
+- shaper
+- operator
+- dashboard
+- behavior
+- color-orange
 status: active
-created: 2026-04-30
-updated: 2026-04-30
+created: '2026-04-30'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/InfraFabric Codex Alignment — System-Shaper Frame.md
+backlink_count: 9
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/InfraFabric Architecture]]'
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[session-state]]'
 ---
 
 # InfraFabric Codex Alignment — System-Shaper Frame

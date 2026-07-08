@@ -1,3 +1,37 @@
+---
+type: wiki
+title: Governance Typology — Recursive AI Governance Taxonomy
+aliases:
+- Governance Typology — Recursive AI Governance Taxonomy
+- wiki/Governance Typology — Recursive AI Governance Taxonomy
+tags:
+- wiki
+- recursion
+- governance
+- ai
+- governance-typology-recursive-ai-governance-taxonomy-md
+- typology
+- executable
+- recursive
+- positions
+- order
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Governance Typology — Recursive AI Governance Taxonomy.md
+backlink_count: 7
+backlinks:
+- '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # Governance Typology — Recursive AI Governance Taxonomy
 
 ## Summary

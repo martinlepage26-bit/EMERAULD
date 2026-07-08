@@ -1,3 +1,29 @@
+---
+type: asset
+title: Operational Content Check
+aliases:
+- assets/elemental-agents/source-completions/validation/02-operational-content-check
+tags:
+- asset
+- agents
+- assets
+- elemental-agents
+- combinations
+- sample
+- manifestation
+- sampled
+- delivery
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: assets
+canonical_path: assets/elemental-agents/source-completions/validation/02-operational-content-check.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Operational Content Check
 
 See also [[Control Protocols MOC]].

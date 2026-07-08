@@ -1,3 +1,30 @@
+---
+type: raw-source
+title: Implementation Engineer
+aliases:
+- raw/D-drive-scan-2026-05-12/elemental-agents/agents/04-implementation-engineer
+tags:
+- raw
+- agents
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- angle
+- edits
+- pair
+- commands
+- requirement
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/elemental-agents/agents/04-implementation-engineer.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+---
+
 # Implementation Engineer
 
 See also [[Control Protocols MOC]].

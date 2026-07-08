@@ -1,9 +1,36 @@
 ---
 type: skill
+title: observability-governance
+aliases:
+- skills/observability-governance
+- wiki/skills/observability-governance
+tags:
+- skill
+- wiki
+- skills
+- checkpoints
+- inspectable
+- chains
+- observability
+- hephaistos
+- color-purple
+status: active
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/observability-governance.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/archive/agent-evaluation]]'
+- '[[wiki/archive/ai-product]]'
+- '[[wiki/archive/free-tool-strategy]]'
+- '[[wiki/skills/agent-management]]'
+- '[[wiki/skills/hermes-integration-monitor]]'
+- '[[wiki/skills/incident-response-runbooks]]'
 skill_id: observability-governance
 scope: routing
-status: active
-created: 2026-05-06
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md
 ---
 

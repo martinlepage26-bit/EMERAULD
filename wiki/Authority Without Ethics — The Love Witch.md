@@ -1,3 +1,56 @@
+---
+type: wiki
+title: Authority Without Ethics — The Love Witch
+aliases:
+- Authority Without Ethics — The Love Witch
+- wiki/Authority Without Ethics — The Love Witch
+tags:
+- wiki
+- authority-without-ethics-the-love-witch-md
+- elaine
+- film
+- ethical
+- love
+- witch
+- color-pink
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Authority Without Ethics — The Love Witch.md
+backlink_count: 27
+backlinks:
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
+  Activism Switzerland)]]'
+- '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
+- '[[wiki/Magic After Legitimacy Charmed — Version Genealogy]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
+  Projection]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Authority Without Ethics — The Love Witch
 
 ## Summary

@@ -1,3 +1,32 @@
+---
+type: governance-doc
+title: 'Tier 0 — Forging: The Foundational Authority Layer'
+aliases:
+- 'Tier 0 — Forging: The Foundational Authority Layer'
+- governance/hephaistos/FORGING-TIER-0
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- tier
+- forging
+- scope
+- constraints
+- authority
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/FORGING-TIER-0.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/HEPHAISTOS]]'
+---
+
 > **HISTORICAL DOCUMENT — Pre-Wave-1 Architecture (superseded 2026-04-17)**
 > Contains Tier 0/Tier 1/Tier 2 hierarchy language that does not reflect the current co-equal authority model.
 > Binding authority: `CO-EQUAL-AUTHORITY-DECISION.md`, `AGENTS.md`, `HEPHAISTOS.md`, `QUEEN-KEYPORT.md`, `ORCHESTRATION.md`.

@@ -1,14 +1,38 @@
 ---
-title: "Dr. Sort — Fisher King Project State"
-created: "2026-05-07"
 type: project
-status: dormant
+title: Dr. Sort — Fisher King Project State
+aliases:
+- projects/Dr. Sort — Fisher King Project State
 tags:
-  - project
-  - fisher-king
-  - dr-sort
-  - archive-automation
-  - lotus
+- project
+- fisher-king
+- dr-sort
+- archive-automation
+- lotus
+- projects
+- dr-sort-fisher-king-project-state-md
+- sort
+- revive
+- automation
+- dormant
+- codebases
+- color-green
+status: on-ice
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: projects
+canonical_path: projects/Dr. Sort — Fisher King Project State.md
+backlink_count: 9
+backlinks:
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King Project Note Templates]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Projects Hub]]'
+- '[[memory/daily/2026-06-22]]'
+- '[[memory/daily/2026-06-23]]'
+- '[[memory/daily/2026-06-24]]'
+- '[[memory/daily/2026-06-25]]'
+- '[[memory/daily/2026-06-26]]'
 ---
 
 # Dr. Sort — Fisher King Project State

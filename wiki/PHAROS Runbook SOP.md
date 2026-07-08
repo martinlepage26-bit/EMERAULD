@@ -1,3 +1,57 @@
+---
+type: wiki
+title: PHAROS Runbook SOP
+aliases:
+- PHAROS Runbook SOP
+- wiki/PHAROS Runbook SOP
+tags:
+- wiki
+- pharos
+- pharos-runbook-sop-md
+- disposition
+- step
+- thresholds
+- claims
+- rights
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Runbook SOP.md
+backlink_count: 29
+backlinks:
+- '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
+- '[[wiki/AurorA — COMPASSai Input Module]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
+- '[[wiki/PHAROS Company Registration and Security Incidents]]'
+- '[[wiki/PHAROS Evidentiary Gap Closure Bundle]]'
+- '[[wiki/PHAROS Invention Disclosure]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/PHAROS Procurement-Unblock Sprint]]'
+- '[[wiki/PHAROS Recalibration — Unified Governance Architecture]]'
+- '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/RECURSO — Final Audit and Ethical Review]]'
+- '[[wiki/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[projects/AurorA — Fisher King Project State]]'
+---
+
 # PHAROS Runbook SOP
 
 ## Summary

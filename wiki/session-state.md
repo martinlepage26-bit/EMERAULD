@@ -1,10 +1,30 @@
 ---
 type: wiki
-aliases: [session-state, session-state.md]
-tags: [session-state, continuity, vault]
+title: session-state
+aliases:
+- session-state
+- session-state.md
+- wiki/session-state
+tags:
+- session-state
+- continuity
+- vault
+- wiki
+- session-state-md
+- session
+- resolves
+- trism
+- giste
+- assistant
+- color-teal
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/session-state.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 ---
 
 # session-state

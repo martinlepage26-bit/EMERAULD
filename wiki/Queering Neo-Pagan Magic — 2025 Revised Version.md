@@ -1,3 +1,44 @@
+---
+type: wiki
+title: Queering Neo-Pagan Magic — 2025 Revised Version
+aliases:
+- Queering Neo-Pagan Magic — 2025 Revised Version
+- wiki/Queering Neo-Pagan Magic — 2025 Revised Version
+tags:
+- wiki
+- pagan
+- magic
+- queer
+- queering-neo-pagan-magic-2025-revised-version-md
+- queering
+- practitioners
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Queering Neo-Pagan Magic — 2025 Revised Version.md
+backlink_count: 17
+backlinks:
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
+- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Queering Neo-Pagan Magic — 2025 Revised Version
 
 ## Summary

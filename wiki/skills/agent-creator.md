@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "agent-creator"
-domain: "Agent Architecture and Development"
+title: agent-creator
+aliases:
+- skills/agent-creator
+- wiki/skills/agent-creator
+tags:
+- skill
+- wiki
+- skills
+- creator
+- agentify
+- agent
+- codex
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/agent-creator/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/agent-creator.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+- '[[wiki/Skill Domain — Skill Architecture]]'
+skill_id: agent-creator
+domain: Agent Architecture and Development
+codex_path: /home/cerebrhoe/.codex/skills/agent-creator/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

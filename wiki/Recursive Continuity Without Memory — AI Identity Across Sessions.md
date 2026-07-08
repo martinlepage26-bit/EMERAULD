@@ -1,3 +1,59 @@
+---
+type: wiki
+title: Recursive Continuity Without Memory — AI Identity Across Sessions
+aliases:
+- Recursive Continuity Without Memory — AI Identity Across Sessions
+- wiki/Recursive Continuity Without Memory — AI Identity Across Sessions
+tags:
+- wiki
+- recursion
+- ai
+- recursive-continuity-without-memory-ai-identity-across-sessions-md
+- prior
+- outputs
+- frame
+- stage
+- perturbation
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Recursive Continuity Without Memory — AI Identity Across Sessions.md
+backlink_count: 30
+backlinks:
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
+- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance by Denial]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Home]]'
+- '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
+- '[[wiki/Le sang qui porte ton nom — Novel]]'
+- '[[wiki/LightRAG — Graph-Based RAG System]]'
+- '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
+- '[[wiki/Loop Papers and Recursive Governance]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'
+- '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
+- '[[wiki/The Returning Light — Monograph]]'
+- '[[wiki/The Wheel and the Watcher]]'
+- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
+- '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Journal]]'
+---
+
 # Recursive Continuity Without Memory — AI Identity Across Sessions
 
 ## Summary

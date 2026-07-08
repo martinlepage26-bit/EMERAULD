@@ -1,10 +1,48 @@
 ---
 type: map
+title: Version Genealogy System
 aliases:
-  - TOPIC — Version Genealogy System
-tags: [index, map, topic, genealogy, versions, manuscript-history]
-created: 2026-04-18
-updated: 2026-04-18
+- TOPIC — Version Genealogy System
+- wiki/Version Genealogy System
+tags:
+- index
+- map
+- topic
+- genealogy
+- versions
+- manuscript-history
+- wiki
+- version-genealogy-system-md
+- version
+- genealogies
+- paper
+- novel
+- color-orange
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Version Genealogy System.md
+backlink_count: 18
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
+- '[[wiki/Wicca 2.0 — Version Genealogy]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/skills/genealogy-loupe]]'
 ---
 
 # Version Genealogy System

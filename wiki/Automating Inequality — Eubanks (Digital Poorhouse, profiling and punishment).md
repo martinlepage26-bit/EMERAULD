@@ -1,10 +1,44 @@
 ---
 type: wiki
-aliases: ["Automating Inequality (Eubanks)", "Digital Poorhouse (Eubanks)"]
-tags: [reference, ai-governance, social-justice, poverty, surveillance, automation, discrimination, welfare]
+title: Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)
+aliases:
+- Automating Inequality (Eubanks)
+- Digital Poorhouse (Eubanks)
+- wiki/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)
+tags:
+- reference
+- ai-governance
+- social-justice
+- poverty
+- surveillance
+- automation
+- discrimination
+- welfare
+- wiki
+- automating-inequality-eubanks-digital-poorhouse-profiling-and-punishment-md
+- tech
+- police
+- tools
+- poorhouse
+- mining
+- color-teal
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Automating Inequality — Eubanks (Digital Poorhouse, profiling
+  and punishment).md
+backlink_count: 9
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)

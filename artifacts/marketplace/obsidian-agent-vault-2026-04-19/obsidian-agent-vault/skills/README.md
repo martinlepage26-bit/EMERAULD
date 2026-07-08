@@ -1,3 +1,29 @@
+---
+type: skill-spec
+title: skills/
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/README
+tags:
+- skill
+- agents
+- skill-spec
+- artifacts
+- marketplace
+- guide
+- synthesis
+- instructions
+- teaches
+- color-orange
+status: active
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/README.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # skills/
 
 **Purpose:** Reusable agent instructions. Each file here teaches the agent how to do one thing well.

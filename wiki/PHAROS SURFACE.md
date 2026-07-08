@@ -1,3 +1,36 @@
+---
+type: wiki
+title: PHAROS Surface
+aliases:
+- PHAROS Surface
+- wiki/PHAROS SURFACE
+tags:
+- wiki
+- pharos
+- pharos-surface-md
+- documents
+- pages
+- tracker
+- tracked
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS SURFACE.md
+backlink_count: 9
+backlinks:
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Global Publication Search — PHAROS Method and Variants]]'
+- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # PHAROS Surface
 
 See also [[contributing]].

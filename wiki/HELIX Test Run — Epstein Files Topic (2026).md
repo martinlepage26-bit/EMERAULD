@@ -1,10 +1,30 @@
 ---
 type: wiki
-aliases: ["HELIX Epstein Test", "HELIX Epstein Files Run"]
-tags: []
+title: HELIX Test Run — Epstein Files Topic (2026)
+aliases:
+- HELIX Epstein Test
+- HELIX Epstein Files Run
+- wiki/HELIX Test Run — Epstein Files Topic (2026)
+tags:
+- wiki
+- helix-test-run-epstein-files-topic-2026-md
+- helix
+- epstein
+- test
+- ruling
+- trap
+- color-purple
 status: active
-created: 2026-05-31
-updated: 2026-05-31
+created: '2026-05-31'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HELIX Test Run — Epstein Files Topic (2026).md
+backlink_count: 4
+backlinks:
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 > [!warning] Deprecated Desktop Prototype

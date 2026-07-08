@@ -1,9 +1,33 @@
 ---
 type: skill
+title: hermes-integration-monitor
+aliases:
+- skills/hermes-integration-monitor
+- wiki/skills/hermes-integration-monitor
+tags:
+- skill
+- wiki
+- skills
+- monitor
+- deviation
+- runbooks
+- integrations
+- baseline
+- color-teal
+status: active
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/hermes-integration-monitor.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/archive/hermes-dependency-mapper]]'
+- '[[wiki/archive/hermes-escalation-router]]'
+- '[[wiki/skills/incident-response-runbooks]]'
 skill_id: hermes-integration-monitor
 scope: routing
-status: active
-created: 2026-05-06
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md
 ---
 

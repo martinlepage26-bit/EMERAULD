@@ -1,10 +1,43 @@
 ---
 type: wiki
-aliases: [Cross-AI Strategy, Cross-AI Matrix]
-tags: [pharos, strategy, ai-governance, multi-agent, prompt-forging]
+title: PHAROS Cross-AI Strategy Matrix
+aliases:
+- Cross-AI Strategy
+- Cross-AI Matrix
+- wiki/PHAROS Cross-AI Strategy Matrix
+tags:
+- pharos
+- strategy
+- ai-governance
+- multi-agent
+- prompt-forging
+- wiki
+- pharos-cross-ai-strategy-matrix-md
+- prompt
+- supported
+- cross
+- dottie
+- gemini
+- color-orange
 status: active
-created: 2026-04-16
-updated: 2026-04-29
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Cross-AI Strategy Matrix.md
+backlink_count: 12
+backlinks:
+- '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # PHAROS Cross-AI Strategy Matrix

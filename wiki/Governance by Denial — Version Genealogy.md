@@ -1,3 +1,35 @@
+---
+type: version-genealogy
+title: Governance by Denial — Version Genealogy
+aliases:
+- Governance by Denial — Version Genealogy
+- wiki/Governance by Denial — Version Genealogy
+tags:
+- governance
+- version-genealogy
+- wiki
+- governance-by-denial-version-genealogy-md
+- denial
+- revised
+- working
+- draft
+- identical
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Governance by Denial — Version Genealogy.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Governance by Denial]]'
+- '[[wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
+- '[[wiki/Home]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # Governance by Denial — Version Genealogy
 
 ## Summary

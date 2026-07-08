@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: ["Disease lyrics", "Lady Gaga Disease lyrics"]
-tags: [music, lyrics, lady-gaga, pop, power-dynamics, desire]
+title: Disease — Lady Gaga — Lyrics
+aliases:
+- Disease lyrics
+- Lady Gaga Disease lyrics
+- wiki/Disease — Lady Gaga — Lyrics
+tags:
+- music
+- lyrics
+- lady-gaga
+- pop
+- power-dynamics
+- desire
+- wiki
+- disease-lady-gaga-lyrics-md
+- cure
+- disease
+- antidote
+- poison
+- color-red
 status: active
-created: 2026-04-25
-updated: 2026-04-25
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Disease — Lady Gaga — Lyrics.md
+backlink_count: 9
+backlinks:
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Paper Planes — M.I.A. — Lyrics]]'
+- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-25]]'
+- '[[raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X]]'
+- '[[raw/Clippings/gaga gisease lyrics]]'
 ---
 
 # Disease — Lady Gaga — Lyrics

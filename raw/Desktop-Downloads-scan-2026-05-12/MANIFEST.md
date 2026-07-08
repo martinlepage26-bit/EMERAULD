@@ -1,3 +1,29 @@
+---
+type: raw-source
+title: Desktop-Downloads Scan Raw Pack — 2026-05-12
+aliases:
+- raw/Desktop-Downloads-scan-2026-05-12/MANIFEST
+tags:
+- raw
+- intake
+- raw-source
+- desktop-downloads-scan-2026-05-12
+- downloads
+- helixprobe
+- coll
+- imeson
+- desktop
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Desktop-Downloads-scan-2026-05-12/MANIFEST.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Desktop-Downloads Scan Raw Pack — 2026-05-12
 
 See also [[Control Protocols MOC]].

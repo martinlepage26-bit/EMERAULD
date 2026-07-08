@@ -1,14 +1,38 @@
 ---
 type: wiki
+title: Patent Research — Prior-Art Search and Free Tools
 aliases:
-  - Patent search workflow
-  - Prior art search
-  - AI governance patent search
-  - Free patent prior-art tools
-tags: [patents, prior-art, search, research, ai-governance, pharos]
+- Patent search workflow
+- Prior art search
+- AI governance patent search
+- Free patent prior-art tools
+- wiki/Patent Research — Prior-Art Search and Free Tools
+tags:
+- patents
+- prior-art
+- search
+- research
+- ai-governance
+- pharos
+- wiki
+- patent-research-prior-art-search-and-free-tools-md
+- patent
+- espacenet
+- patentscope
+- color-blue
 status: active
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Patent Research — Prior-Art Search and Free Tools.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/PHAROS Invention Disclosure]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aida-caseware]]'
 ---
 
 # Patent Research — Prior-Art Search and Free Tools

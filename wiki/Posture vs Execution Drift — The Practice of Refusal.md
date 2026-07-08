@@ -1,10 +1,47 @@
 ---
 type: wiki
-aliases: ["posture drift", "practice of refusal", "strategy slogan"]
-tags: [strategy, execution, practice, posture, pharos, commercial, meta]
+title: Posture vs Execution Drift — The Practice of Refusal
+aliases:
+- posture drift
+- practice of refusal
+- strategy slogan
+- wiki/Posture vs Execution Drift — The Practice of Refusal
+tags:
+- strategy
+- execution
+- practice
+- posture
+- pharos
+- commercial
+- meta
+- wiki
+- posture-vs-execution-drift-the-practice-of-refusal-md
+- strategic
+- finish
+- refuse
+- lost
+- color-orange
 status: active
-created: 2026-04-25
-updated: 2026-04-25
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Posture vs Execution Drift — The Practice of Refusal.md
+backlink_count: 13
+backlinks:
+- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Rest and Consolidation Guide — Martin]]'
+- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send —
+  Source Note]]'
 ---
 
 # Posture vs Execution Drift — The Practice of Refusal

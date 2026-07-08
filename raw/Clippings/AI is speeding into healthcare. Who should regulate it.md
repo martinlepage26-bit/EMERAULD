@@ -1,14 +1,39 @@
 ---
-title: "AI is speeding into healthcare. Who should regulate it?"
-source: "https://news.harvard.edu/gazette/story/2026/01/ai-is-speeding-into-healthcare-who-should-regulate-it/"
-author:
-  - "[[Alvin Powell]]"
-published: 2026-01-12
-created: 2026-04-28
-description: "Medical ethicist details need to balance thoughtful limits while avoiding unnecessary hurdles as industry groups issue guidelines."
+type: raw-source
+title: AI is speeding into healthcare. Who should regulate it?
+aliases:
+- raw/Clippings/AI is speeding into healthcare. Who should regulate it
 tags:
-  - clippings
+- clippings
+- raw-source
+- raw
+- hospital
+- medical
+- hospitals
+- regulation
+- healthcare
+- color-pink
+status: preserved
+created: '2026-04-28'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Clippings/AI is speeding into healthcare. Who should regulate
+  it.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[wiki/raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate
+  it? — Source Note]]'
+source: https://news.harvard.edu/gazette/story/2026/01/ai-is-speeding-into-healthcare-who-should-regulate-it/
+author:
+- '[[Alvin Powell]]'
+published: '2026-01-12'
+description: Medical ethicist details need to balance thoughtful limits while avoiding
+  unnecessary hurdles as industry groups issue guidelines.
 ---
+
 AI is moving quickly into healthcare, bringing potential benefits but also possible pitfalls such as bias that drives unequal care and burnout of physicians and other healthcare workers. It remains undecided how it should be regulated in the U.S.
 
 In September, the hospital-accrediting [Joint Commission](https://www.jointcommission.org/en-us) and the [Coalition for Health AI](https://www.chai.org/) issued [recommendations](https://www.jointcommission.org/en-us/knowledge-library/news/2025-09-jc-and-chai-release-initial-guidance-to-support-responsible-ai-adoption) for implementing artificial intelligence in medical care, with the burden for compliance falling largely on individual facilities.

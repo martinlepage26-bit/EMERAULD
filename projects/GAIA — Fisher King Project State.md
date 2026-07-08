@@ -1,14 +1,33 @@
 ---
-title: "GAIA — Fisher King Project State"
-created: "2026-06-21"
 type: project
-status: active
+title: GAIA — Fisher King Project State
+aliases:
+- projects/GAIA — Fisher King Project State
 tags:
-  - project
-  - fisher-king
-  - gaia
-  - spiritual-tech
-  - product
+- project
+- fisher-king
+- gaia
+- spiritual-tech
+- product
+- projects
+- gaia-fisher-king-project-state-md
+- launch
+- birth
+- soft
+- weave
+- color-teal
+status: in-progress
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: projects
+canonical_path: projects/GAIA — Fisher King Project State.md
+backlink_count: 5
+backlinks:
+- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King Project Note Templates]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Projects Hub]]'
 ---
 
 # GAIA — Fisher King Project State

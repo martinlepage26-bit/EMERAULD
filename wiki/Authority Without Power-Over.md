@@ -1,13 +1,44 @@
 ---
 type: wiki
+title: Authority Without Power-Over
 aliases:
-  - Authority Without Power-Over
-  - Binding Principle #6
-  - Stewardship not dominion
-tags: [governance, binding-principle, authority, stewardship, hephaistos]
+- Authority Without Power-Over
+- Binding Principle
+- Stewardship not dominion
+- wiki/Authority Without Power-Over
+tags:
+- governance
+- binding-principle
+- authority
+- stewardship
+- hephaistos
+- wiki
+- authority-without-power-over-md
+- principle
+- consent
+- counterpart
+- coercion
+- color-red
 status: active
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Authority Without Power-Over.md
+backlink_count: 12
+backlinks:
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[wiki/Machine Limitation]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
+  Projection]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Authority Without Power-Over

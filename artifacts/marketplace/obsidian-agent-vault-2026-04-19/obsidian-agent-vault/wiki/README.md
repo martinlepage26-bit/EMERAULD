@@ -1,3 +1,29 @@
+---
+type: artifact
+title: wiki/
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/README
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- creating
+- codes
+- periodically
+- dump
+- needing
+- color-orange
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/README.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # wiki/
 
 **Purpose:** Linked, durable knowledge. This is the agent's primary retrieval layer.

@@ -1,13 +1,39 @@
 ---
+type: wiki
 title: Second Self System — Identity Kernel and Agent Routing Architecture
 aliases:
-  - Second Self System Identity Kernel and Agent Routing Architecture (recovery artifact)
-canonical_note: "[[Second Self System — Identity Kernel and Agent Routing Architecture]]"
+- Second Self System Identity Kernel and Agent Routing Architecture (recovery artifact)
+- wiki/Second Self System Identity Kernel and Agent Routing Architecture
+tags:
+- agent-architecture
+- adversarial-review
+- argus
+- governance
+- second-self
+- provenance-artifact
+- wiki
+- second-self-system-identity-kernel-and-agent-routing-architecture-md
+- organ
+- merge
+- helper
+- voice
+- kernel
+- color-orange
+status: recovered
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Second Self System Identity Kernel and Agent Routing Architecture.md
+backlink_count: 4
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+canonical_note: '[[Second Self System — Identity Kernel and Agent Routing Architecture]]'
 source_file: Second Self System — Identity Kernel and Agent Routing Architecture.md
 format: md
-status: recovered
-duplicate_of: "[[Second Self System — Identity Kernel and Agent Routing Architecture]]"
-tags: [agent-architecture, adversarial-review, argus, governance, second-self, provenance-artifact]
+duplicate_of: '[[Second Self System — Identity Kernel and Agent Routing Architecture]]'
 ---
 
 # Second Self System — Identity Kernel (Recovered Artifact)

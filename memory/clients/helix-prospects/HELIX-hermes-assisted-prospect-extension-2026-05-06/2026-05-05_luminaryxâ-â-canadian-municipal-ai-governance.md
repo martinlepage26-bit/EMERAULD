@@ -1,11 +1,30 @@
 ---
 type: raw-source
-source_url: https://luminaryx.ca/
-title: LUMINARYXâ¢ â Canadian Municipal AI Governance
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+title: LUMINARYX™ — Canadian Municipal AI Governance
+aliases:
+- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_luminaryxâ-â-canadian-municipal-ai-governance
+tags:
+- raw-source
+- memory
+- clients
+- luminaryx
+- municipalities
+- municipal
+- municipality
+- canadian
+- color-purple
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_luminaryxâ-â-canadian-municipal-ai-governance.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+source_url: https://luminaryx.ca/
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # LUMINARYXâ¢ â Canadian Municipal AI Governance

@@ -1,10 +1,33 @@
 ---
 type: governance-assessment
-aliases: [GOVERNANCE CONTROLS — BASELINE ASSESSMENT (2026-04-26)]
+title: Governance Controls — Baseline Assessment (2026-04-26)
+aliases:
+- GOVERNANCE CONTROLS — BASELINE ASSESSMENT (2026-04-26)
+- wiki/Governance Controls — Baseline Assessment (2026-04-26)
+tags:
+- governance-assessment
+- wiki
+- governance-controls-baseline-assessment-2026-04-26-md
+- external
+- refresh
+- deprecation
+- control
+- current
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
-assessment-date: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Governance Controls — Baseline Assessment (2026-04-26).md
+backlink_count: 6
+backlinks:
+- '[[wiki/External Data Registry — Phase 1 Build]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
+- '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+assessment-date: '2026-04-26'
 baseline-version: 1
 ---
 

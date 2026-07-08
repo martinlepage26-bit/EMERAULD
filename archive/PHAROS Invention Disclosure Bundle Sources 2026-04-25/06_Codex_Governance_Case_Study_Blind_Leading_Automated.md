@@ -1,3 +1,31 @@
+---
+type: archive-record
+title: 'Codex Governance Case Study: The Blind Leading the Automated'
+aliases:
+- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/06_Codex_Governance_Case_Study_Blind_Leading_Automated
+tags:
+- archive
+- pharos
+- governance
+- archive-record
+- pharos-invention-disclosure-bundle-sources-2026-04-25
+- delegation
+- prompts
+- chatgpt
+- instructions
+- codex
+- color-orange
+status: archived
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/06_Codex_Governance_Case_Study_Blind_Leading_Automated.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+---
+
 # Codex Governance Case Study: The Blind Leading the Automated
 
 See also [[if.infrafabric A Miniseries in Seven Parts]].

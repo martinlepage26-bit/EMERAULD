@@ -1,10 +1,38 @@
 ---
 type: wiki
-aliases: ["A Lokian Family", "Lokian Family paper", "Pomegranate 2014"]
-tags: [queer-theory, pagan-studies, kinship, agency, ethnography, montreal]
+title: A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)
+aliases:
+- A Lokian Family
+- Lokian Family paper
+- Pomegranate 2014
+- wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)
+tags:
+- queer-theory
+- pagan-studies
+- kinship
+- agency
+- ethnography
+- montreal
+- wiki
+- a-lokian-family-queer-and-pagan-agency-in-montreal-pomegranate-2014-md
+- pagan
+- lokian
+- trickster
+- color-teal
 status: stub
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate
+  2014).md
+backlink_count: 6
+backlinks:
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)

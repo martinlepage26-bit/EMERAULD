@@ -1,29 +1,66 @@
 ---
+type: agent-spec
+title: Queen Keyport — Tier 1 Governance Agent
+aliases:
+- Queen Keyport — Tier 1 Governance Agent
+- .github/agents/queen-keyport.agent
+tags:
+- agents
+- governance
+- queen-keyport
+- agent-spec
+- github
+- keyport
+- queen
+- approve
+- conditional
+- owner
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .github
+canonical_path: .github/agents/queen-keyport.agent.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/QUEEN-KEYPORT]]'
+- '[[governance/hephaistos/hephaistos-to-queen-keyport]]'
+- '[[governance/hephaistos/hermes-escalation-to-queen-keyport]]'
+- '[[governance/hephaistos/queen-keyport-to-hermes]]'
 name: queen_keyport
-description: "Tier‑1 governance agent: set constraints, evidence thresholds, and approval boundaries. Use to decide refusals, auditability, and promotion criteria for artifacts."
-applyTo: ".github/agents/**"
+description: 'Tier‑1 governance agent: set constraints, evidence thresholds, and approval
+  boundaries. Use to decide refusals, auditability, and promotion criteria for artifacts.'
+applyTo: .github/agents/**
 model: sonnet
-tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
+tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite,
+  TaskCreate, TaskUpdate, TaskGet, TaskList
 allow_auto_create: false
 enforce_hooks: true
 approval_roles:
-  - owner
-  - legal
-  - security
+- owner
+- legal
+- security
 evidence_levels:
-  minimal: "internal draft with provenance, not public"
-  standard: "sufficient citations, provenance, tests, and audit trail"
-  high: "external-facing claims, regulated or legal impact — full disclosure and third-party review"
+  minimal: internal draft with provenance, not public
+  standard: sufficient citations, provenance, tests, and audit trail
+  high: external-facing claims, regulated or legal impact — full disclosure and third-party
+    review
 skills:
-  - recursive-governance-method
-  - philosopher
-  - fully-rounded-power-analyst
-  - trace-investigator
-  - red-team
-  - humanize
-  - inner-mind-eye
-  - skill-architect
-  - argus
+- recursive-governance-method
+- philosopher
+- fully-rounded-power-analyst
+- trace-investigator
+- red-team
+- humanize
+- inner-mind-eye
+- skill-architect
+- argus
+entity_type: Team
+entity_id: queen_keyport
+entity_aliases: []
+entity_confidence: high
 ---
 
 # Queen Keyport — Tier 1 Governance Agent

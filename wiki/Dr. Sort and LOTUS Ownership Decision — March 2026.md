@@ -1,13 +1,50 @@
 ---
 type: wiki
+title: Dr. Sort and LOTUS Ownership Decision — March 2026
 aliases:
-  - DR_SORT_OWNERSHIP_AND_EXTRACTION_DECISION
-  - Dr. Sort extraction decision
-  - LOTUS ownership decision
-tags: [project-decision, LOTUS, dr-sort, agency-repo, pharos-residue, active-constraints]
+- DR_SORT_OWNERSHIP_AND_EXTRACTION_DECISION
+- Dr. Sort extraction decision
+- LOTUS ownership decision
+- wiki/Dr. Sort and LOTUS Ownership Decision — March 2026
+tags:
+- project-decision
+- lotus
+- dr-sort
+- agency-repo
+- pharos-residue
+- active-constraints
+- wiki
+- dr-sort-and-lotus-ownership-decision-march-2026-md
+- sort
+- agency
+- march
+- restructuring
+- color-orange
 status: active
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Dr. Sort and LOTUS Ownership Decision — March 2026.md
+backlink_count: 18
+backlinks:
+- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[wiki/LOTUS Premium Spec]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Portfolio Restructuring Review — March 2026]]'
+- '[[memory/daily/2026-06-22]]'
+- '[[memory/daily/2026-06-23]]'
+- '[[memory/daily/2026-06-24]]'
+- '[[memory/daily/2026-06-25]]'
+- '[[memory/daily/2026-06-26]]'
+- '[[memory/daily/2026-06-27]]'
+- '[[projects/Dr. Sort — Fisher King Project State]]'
 ---
 
 # Dr. Sort and LOTUS Ownership Decision — March 2026

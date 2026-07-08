@@ -1,3 +1,48 @@
+---
+type: wiki
+title: Phase 1 Governance Formation Sequence
+aliases:
+- Phase 1 Governance Formation Sequence
+- wiki/Phase 1 Governance Formation Sequence
+tags:
+- wiki
+- governance
+- phase-1-governance-formation-sequence-md
+- charge
+- closure
+- recursive
+- phase
+- laboratory
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Phase 1 Governance Formation Sequence.md
+backlink_count: 19
+backlinks:
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/PHAROS Legal Classification — CAE Code Strategy]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
+- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
+  Glitch]]'
+- '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # Phase 1 Governance Formation Sequence
 
 ## Summary

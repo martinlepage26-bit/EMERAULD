@@ -1,3 +1,32 @@
+---
+type: version-genealogy
+title: Wicca 2.0 — Version Genealogy
+aliases:
+- Wicca 2.0 — Version Genealogy
+- wiki/Wicca 2.0 — Version Genealogy
+tags:
+- wicca
+- version-genealogy
+- wiki
+- wicca-2-0-version-genealogy-md
+- letter
+- refwicca
+- pagewicca
+- letterwicca
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Wicca 2.0 — Version Genealogy.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Home]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+---
+
 # Wicca 2.0 — Version Genealogy
 
 ## Summary

@@ -1,10 +1,70 @@
 ---
 type: wiki
-aliases: [Trismégiste, EMERAULD agent, second brain agent, "EMERAULD Second Brain — Project Context", "EMERAULD Persistence Stack", EMERAULD]
-tags: [agent, personal-ai, brainiax, second-brain, wsl]
+title: Trismégiste — Personal AI Assistant
+aliases:
+- Trismégiste
+- EMERAULD agent
+- second brain agent
+- EMERAULD Second Brain — Project Context
+- EMERAULD Persistence Stack
+- EMERAULD
+- wiki/Trismégiste — Personal AI Assistant
+tags:
+- agent
+- personal-ai
+- brainiax
+- second-brain
+- wsl
+- wiki
+- trism-giste-personal-ai-assistant-md
+- trism
+- giste
+- emerauld
+- finance
+- session
+- color-orange
 status: active
-created: 2026-04-18
-updated: 2026-04-28
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Trismégiste — Personal AI Assistant.md
+backlink_count: 34
+backlinks:
+- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
+- '[[wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
+  (2026-05-12)]]'
+- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
+- '[[wiki/Trismégiste]]'
+- '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
+- '[[wiki/Trismégiste — Operator State]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE]]'
+- '[[wiki/memory]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/agents/Learning]]'
+- '[[projects/Second Self — Fisher King Project State]]'
+- '[[wiki/session-state]]'
+- '[[wiki/trismegiste-state]]'
 ---
 
 # Trismégiste — Personal AI Assistant

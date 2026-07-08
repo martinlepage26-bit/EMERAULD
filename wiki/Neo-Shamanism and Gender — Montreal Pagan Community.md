@@ -1,3 +1,51 @@
+---
+type: wiki
+title: Neo-Shamanism and Gender — Montreal Pagan Community
+aliases:
+- Neo-Shamanism and Gender — Montreal Pagan Community
+- wiki/Neo-Shamanism and Gender — Montreal Pagan Community
+tags:
+- wiki
+- pagan
+- neo-shamanism-and-gender-montreal-pagan-community-md
+- shamanism
+- gender
+- shamanic
+- appropriation
+- color-pink
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Neo-Shamanism and Gender — Montreal Pagan Community.md
+backlink_count: 24
+backlinks:
+- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
+- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Neo-Shamanism and Gender — Montreal Pagan Community
 
 ## Summary

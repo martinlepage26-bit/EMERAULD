@@ -1,10 +1,34 @@
 ---
 type: wiki
-aliases: []
-tags: [memo, pharos, ip, patent, manuscript, 2026-05-14]
+title: IP and Manuscript Brief — 2026-05-14
+aliases:
+- IP and Manuscript Brief — 2026-05-14
+- wiki/IP and Manuscript Brief — 2026-05-14
+tags:
+- memo
+- pharos
+- ip
+- patent
+- manuscript
+- '2026-05-14'
+- wiki
+- ip-and-manuscript-brief-2026-05-14-md
+- provisional
+- swain
+- draft
+- reply
+- color-orange
 status: active
-created: 2026-05-14
-updated: 2026-05-14
+created: '2026-05-14'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/IP and Manuscript Brief — 2026-05-14.md
+backlink_count: 4
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Operator Continuity Memo — 2026-05-14]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # IP and Manuscript Brief — 2026-05-14

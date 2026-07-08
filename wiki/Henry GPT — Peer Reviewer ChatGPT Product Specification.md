@@ -1,13 +1,39 @@
 ---
 type: wiki
+title: Henry GPT — Peer Reviewer ChatGPT Product Specification
 aliases:
-  - Henry GPT
-  - Henry Peer Reviewer GPT
-  - Henry ChatGPT Product
-tags: [gpt, henry, pharos, peer-review, manuscript, scholarly, critique, chatgpt-product]
+- Henry GPT
+- Henry Peer Reviewer GPT
+- Henry ChatGPT Product
+- wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification
+tags:
+- gpt
+- henry
+- pharos
+- peer-review
+- manuscript
+- scholarly
+- critique
+- chatgpt-product
+- wiki
+- henry-gpt-peer-reviewer-chatgpt-product-specification-md
+- reviewer
+- harsh
+- creator
+- supportive
+- color-pink
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 # Henry GPT — Peer Reviewer ChatGPT Product Specification

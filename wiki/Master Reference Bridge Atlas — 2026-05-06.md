@@ -1,10 +1,47 @@
 ---
 type: map
-aliases: ["Master reference bridge atlas", "Bibliography brain bridge", "Reference-list interconnectivity map"]
-tags: [bibliography, bridge, references, research, governance, ritual, queer, media, methods, infrastructure]
+title: Master Reference Bridge Atlas — 2026-05-06
+aliases:
+- Master reference bridge atlas
+- Bibliography brain bridge
+- Reference-list interconnectivity map
+- wiki/Master Reference Bridge Atlas — 2026-05-06
+tags:
+- bibliography
+- bridge
+- references
+- research
+- governance
+- ritual
+- queer
+- media
+- methods
+- infrastructure
+- map
+- wiki
+- master-reference-bridge-atlas-2026-05-06-md
+- magic
+- bibliographiques
+- color-purple
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Master Reference Bridge Atlas — 2026-05-06.md
+backlink_count: 12
+backlinks:
+- '[[wiki/Home]]'
+- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Master Reference Bridge Atlas — 2026-05-06

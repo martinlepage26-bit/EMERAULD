@@ -1,10 +1,33 @@
 ---
 type: wiki
-aliases: ["Hybrid App Ideas 2026", "Money-Making App Ideas", "App Revenue Ideas"]
-tags: []
+title: App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)
+aliases:
+- Hybrid App Ideas 2026
+- Money-Making App Ideas
+- App Revenue Ideas
+- wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)
+tags:
+- wiki
+- app-ideas-hybrid-gaming-entertainment-social-fitness-music-2026-md
+- music
+- fitness
+- dating
+- entertainment
+- social
+- color-pink
 status: active
-created: 2026-05-31
-updated: 2026-05-31
+created: '2026-05-31'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music
+  (2026).md
+backlink_count: 5
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 # App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)

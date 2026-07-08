@@ -1,3 +1,35 @@
+---
+type: wiki
+title: Prologue I Saw Willow Rise — Legitimacy Machines Opening
+aliases:
+- Prologue I Saw Willow Rise — Legitimacy Machines Opening
+- wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening
+tags:
+- wiki
+- prologue-i-saw-willow-rise-legitimacy-machines-opening-md
+- prologue
+- willow
+- dream
+- ritual
+- machines
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md
+backlink_count: 8
+backlinks:
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Prologue I Saw Willow Rise — Legitimacy Machines Opening
 
 ## Summary

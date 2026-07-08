@@ -1,3 +1,30 @@
+---
+type: raw-source
+title: 'Example: Release Readiness'
+aliases:
+- raw/D-drive-scan-2026-05-12/elemental-agents/examples/06-release-readiness
+tags:
+- raw
+- agents
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- delivery
+- steward
+- declare
+- ship
+- auditor
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/elemental-agents/examples/06-release-readiness.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+---
+
 # Example: Release Readiness
 
 See also [[Control Protocols MOC]].

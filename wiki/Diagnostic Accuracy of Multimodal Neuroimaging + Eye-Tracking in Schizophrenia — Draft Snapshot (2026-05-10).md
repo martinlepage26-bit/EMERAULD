@@ -1,3 +1,37 @@
+---
+type: wiki
+title: Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia
+  — Draft Snapshot (2026-05-10)
+aliases:
+- Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia —
+  Draft Snapshot (2026-05-10)
+- wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia
+  — Draft Snapshot (2026-05-10)
+tags:
+- wiki
+- diagnostic-accuracy-of-multimodal-neuroimaging-eye-tracking-in-schizophrenia-draft-snapshot-2026-05-10-md
+- neuroimaging
+- multimodal
+- schizophrenia
+- tracking
+- accuracy
+- color-lime
+status: active
+created: '2026-05-10'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking
+  in Schizophrenia — Draft Snapshot (2026-05-10).md
+backlink_count: 6
+backlinks:
+- '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[wiki/D Drive Scan — 2026-05-12]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
+---
+
 # Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)
 
 ## Summary

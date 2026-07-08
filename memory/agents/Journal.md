@@ -1,3 +1,32 @@
+---
+type: memory-register
+title: Journal
+aliases:
+- Journal
+- memory/agents/Journal
+tags:
+- memory
+- agents
+- memory-register
+- tracker
+- claude
+- entries
+- welcome
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/agents/Journal.md
+backlink_count: 5
+backlinks:
+- '[[index]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Learning]]'
+- '[[memory/agents/Vibe]]'
+---
+
 # Journal
 
 Session log. Both Claude and Codex append here at session close.

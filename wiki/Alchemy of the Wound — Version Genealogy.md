@@ -1,3 +1,35 @@
+---
+type: version-genealogy
+title: Alchemy of the Wound — Version Genealogy
+aliases:
+- Alchemy of the Wound — Version Genealogy
+- wiki/Alchemy of the Wound — Version Genealogy
+tags:
+- version-genealogy
+- wiki
+- alchemy-of-the-wound-version-genealogy-md
+- thriller
+- alchemy
+- wound
+- novel
+- subtitle
+- color-lime
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Alchemy of the Wound — Version Genealogy.md
+backlink_count: 7
+backlinks:
+- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Home]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Novel Corpus Map]]'
+---
+
 # Alchemy of the Wound — Version Genealogy
 
 ## Summary

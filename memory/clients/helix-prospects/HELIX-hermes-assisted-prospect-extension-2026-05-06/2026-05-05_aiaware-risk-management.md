@@ -1,11 +1,30 @@
 ---
 type: raw-source
-source_url: https://www.risksolutions.ai/
 title: AiAware | risk management
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aiaware-risk-management
+tags:
+- raw-source
+- memory
+- clients
+- sector
+- aiaware
+- risk
+- contact
+- risksolutions
+- color-red
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aiaware-risk-management.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+source_url: https://www.risksolutions.ai/
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # AiAware | risk management

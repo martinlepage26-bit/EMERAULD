@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "linear"
-domain: "Vault and Knowledge Graph"
+title: linear
+aliases:
+- skills/linear
+- wiki/skills/linear
+tags:
+- skill
+- wiki
+- skills
+- linear
+- tickets
+- codex
+- manage
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/linear/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/linear.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Vault and Knowledge]]'
+skill_id: linear
+domain: Vault and Knowledge Graph
+codex_path: /home/cerebrhoe/.codex/skills/linear/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

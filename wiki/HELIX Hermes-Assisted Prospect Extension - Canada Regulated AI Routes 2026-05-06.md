@@ -1,10 +1,46 @@
 ---
 type: wiki
-aliases: ["HELIX Hermes-assisted prospect extension", "HELIX regulated AI routes", "HELIX Canada prospect extension"]
-tags: [helix, hermes, prospects, clients, commercial, ai-governance, regulated-ai, routing, montreal, quebec, toronto, ottawa]
+title: HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06
+aliases:
+- HELIX Hermes-assisted prospect extension
+- HELIX regulated AI routes
+- HELIX Canada prospect extension
+- wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06
+tags:
+- helix
+- hermes
+- prospects
+- clients
+- commercial
+- ai-governance
+- regulated-ai
+- routing
+- montreal
+- quebec
+- toronto
+- ottawa
+- wiki
+- helix-hermes-assisted-prospect-extension-canada-regulated-ai-routes-2026-05-06-md
+- prospect
+- extension
+- color-purple
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI
+  Routes 2026-05-06.md
+backlink_count: 9
+backlinks:
+- '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
+- '[[wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
+- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/clients/helix-prospects-2026-q2]]'
+- '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_about-orah-ottawa-responsible-ai-hub]]'
+- '[[projects/HELIX — Fisher King Project State]]'
 ---
 
 # HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06

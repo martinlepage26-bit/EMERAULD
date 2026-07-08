@@ -1,12 +1,38 @@
 ---
 type: wiki
+title: AI Recruiting Has an Accessibility Problem — Lepage (2026)
 aliases:
-  - AI recruiting and stuttering
-  - AI-mediated hiring accessibility
-tags: [disability, accessibility, ai-governance, stuttering, recruiting, lepage, writing]
+- AI recruiting and stuttering
+- AI-mediated hiring accessibility
+- wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)
+tags:
+- disability
+- accessibility
+- ai-governance
+- stuttering
+- recruiting
+- lepage
+- writing
+- wiki
+- ai-recruiting-has-an-accessibility-problem-lepage-2026-md
+- accommodation
+- containment
+- mediated
+- color-purple
 status: active
-created: 2026-05-14
-updated: 2026-05-14
+created: '2026-05-14'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026).md
+backlink_count: 7
+backlinks:
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
 ---
 
 # AI Recruiting Has an Accessibility Problem — Lepage (2026)

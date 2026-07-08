@@ -1,3 +1,63 @@
+---
+type: wiki
+title: Authority After Legitimacy — Disenchantment and Queer Political Theory
+aliases:
+- Authority After Legitimacy — Disenchantment and Queer Political Theory
+- wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory
+tags:
+- wiki
+- queer
+- authority-after-legitimacy-disenchantment-and-queer-political-theory-md
+- authority
+- bean
+- legitimacy
+- glitch
+- polity
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Authority After Legitimacy — Disenchantment and Queer Political
+  Theory.md
+backlink_count: 33
+backlinks:
+- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
+- '[[wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
+  vs Reclaiming)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
+- '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[maps/Queer Media and Ritual Map]]'
+- '[[session-state]]'
+---
+
 # Authority After Legitimacy — Disenchantment and Queer Political Theory
 
 See also [[Pagan and Queer Ritual Studies MOC]].

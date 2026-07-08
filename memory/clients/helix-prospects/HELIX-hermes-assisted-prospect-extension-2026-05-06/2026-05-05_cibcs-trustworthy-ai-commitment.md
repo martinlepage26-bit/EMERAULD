@@ -1,11 +1,29 @@
 ---
 type: raw-source
-source_url: https://www.cibc.com/en/about-cibc/future-banking/innovation/emerging-tech/our-ai-commitment.html
 title: CIBC’s Trustworthy AI Commitment
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_cibcs-trustworthy-ai-commitment
+tags:
+- raw-source
+- memory
+- clients
+- cibc
+- trustworthy
+- emerging
+- transformative
+- color-lime
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_cibcs-trustworthy-ai-commitment.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+source_url: https://www.cibc.com/en/about-cibc/future-banking/innovation/emerging-tech/our-ai-commitment.html
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # CIBC’s Trustworthy AI Commitment

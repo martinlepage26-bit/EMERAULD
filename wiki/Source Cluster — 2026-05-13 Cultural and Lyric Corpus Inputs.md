@@ -1,9 +1,41 @@
 ---
 type: source-cluster
-tags: [cluster, source-notes, 2026-05-13, henry, trismegiste]
+title: Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs
+aliases:
+- Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs
+- wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs
+tags:
+- cluster
+- source-notes
+- '2026-05-13'
+- henry
+- trismegiste
+- source-cluster
+- wiki
+- source-cluster-2026-05-13-cultural-and-lyric-corpus-inputs-md
+- lyrics
+- keep
+- gisease
+- inputs
+- sources
+- color-lime
 status: active
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs.md
+backlink_count: 10
+backlinks:
+- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
+- '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/The Ballad of the Witches'' Road — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/gaga gisease lyrics — Source Note]]'
 cluster_id: cultural
 ---
 

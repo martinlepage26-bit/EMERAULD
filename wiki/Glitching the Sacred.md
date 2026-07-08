@@ -1,11 +1,40 @@
 ---
 type: wiki
+title: Glitching the Sacred
 aliases:
-  - Glitching the Sacred
-tags: [paper, cultural-studies, glitch, ritual, queer-theory, near-ready]
+- Glitching the Sacred
+- wiki/Glitching the Sacred
+tags:
+- paper
+- cultural-studies
+- glitch
+- ritual
+- queer-theory
+- near-ready
+- wiki
+- glitching-the-sacred-md
+- coinage
+- disclaimer
+- queer
+- color-violet
 status: near-ready
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Glitching the Sacred.md
+backlink_count: 11
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[projects/Glitching the Sacred — Fisher King Project State]]'
 ---
 
 # Glitching the Sacred

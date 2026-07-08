@@ -1,12 +1,46 @@
 ---
 type: governance-risk
-status: active
+title: OPEN RISKS — Three Governance Blindspots Requiring Recursive Control
 aliases:
-  - OPEN RISKS
-  - Open Risks
-  - Open Risks — Three Governance Blindspots Requiring Recursive Control
-created: 2026-04-26
-updated: 2026-04-28
+- OPEN RISKS
+- Open Risks
+- Open Risks — Three Governance Blindspots Requiring Recursive Control
+- wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control
+tags:
+- governance-risk
+- wiki
+- open-risks-three-governance-blindspots-requiring-recursive-control-md
+- deprecation
+- control
+- tool
+- external
+- supersession
+- color-purple
+status: active
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive
+  Control.md
+backlink_count: 17
+backlinks:
+- '[[.trash/Building Your First AI Agent with OpenAI__________]]'
+- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[wiki/Governance Controls — Incident Response (Control Failure Procedures)]]'
+- '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
 risk-level: high
 review-cycle: major-turn
 ---

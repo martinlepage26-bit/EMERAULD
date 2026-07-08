@@ -1,10 +1,39 @@
 ---
 type: wiki
-aliases: ["Self-Polygraph rewrite", "Recursive AI Self-Report as an Evidentiary Problem", "AI & Society rewrite for Inderscience"]
-tags: [manuscript, theory, source, ai-governance, self-report, evidence-discipline, inderscience, ijaighr, paper-pipeline]
+title: Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)
+aliases:
+- Self-Polygraph rewrite
+- Recursive AI Self-Report as an Evidentiary Problem
+- AI & Society rewrite for Inderscience
+- wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)
+tags:
+- manuscript
+- theory
+- source
+- ai-governance
+- self-report
+- evidence-discipline
+- inderscience
+- ijaighr
+- paper-pipeline
+- wiki
+- self-polygraph-manuscript-inderscience-rewrite-2026-04-30-md
+- polygraph
+- self
+- perturbation
+- color-orange
 status: active
-created: 2026-04-30
-updated: 2026-04-30
+created: '2026-04-30'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30).md
+backlink_count: 5
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)

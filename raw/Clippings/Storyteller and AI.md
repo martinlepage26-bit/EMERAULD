@@ -1,3 +1,30 @@
+---
+type: raw-source
+title: Storyteller and AI
+aliases:
+- raw/Clippings/Storyteller and AI
+tags:
+- raw
+- ai
+- raw-source
+- clippings
+- storyteller
+- paying
+- comms
+- customers
+- roles
+- color-lime
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Clippings/Storyteller and AI.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Rest and Consolidation Guide — Martin]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 This skill is paying a quarter of a million dollars in tech right now, and it is not engineering.
 
 Two months ago, The Wall Street Journal published an article about how companies are desperately seeking storytellers. This month, Business Insider reported that Netflix is paying up to $775K for writers, OpenAI is paying $400K, and Anthropic tripled its comms team last year.

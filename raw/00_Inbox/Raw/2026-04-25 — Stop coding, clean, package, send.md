@@ -1,9 +1,30 @@
 ---
 type: raw-capture
-created: 2026-04-25
+title: Stop coding, clean, package, send
+aliases:
+- raw/00_Inbox/Raw/2026-04-25 — Stop coding, clean, package, send
+tags:
+- inbox
+- raw
+- strategy
+- posture
+- raw-capture
+- 00-inbox
+- wrote
+- stop
+- commercializing
+- send
+- color-lime
 status: synthesized
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/00_Inbox/Raw/2026-04-25 — Stop coding, clean, package, send.md
+backlink_count: 1
+backlinks:
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send —
+  Source Note]]'
 synthesized_into: wiki/Posture vs Execution Drift — The Practice of Refusal.md
-tags: [inbox, raw, strategy, posture]
 ---
 
 # Stop coding, clean, package, send

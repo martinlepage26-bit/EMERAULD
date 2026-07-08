@@ -1,13 +1,42 @@
 ---
 type: wiki
-aliases: [3D Relinking Campaign (2026-05-06), "Argus Audit — Phase 3A/3B/3C/3D Relinking Campaign (2026-05-06)"]
+title: Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)
 aliases:
-  - Phase 3 Audit Complete
-  - Argus Coherence Verification
-tags: [audit, governance, vault-linking, coherence, authority-mapping, deployment-readiness]
+- Phase 3 Audit Complete
+- Argus Coherence Verification
+- wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)
+tags:
+- audit
+- governance
+- vault-linking
+- coherence
+- authority-mapping
+- deployment-readiness
+- wiki
+- argus-audit-phase-3a-3b-3c-3d-relinking-campaign-2026-05-06-md
+- disability
+- phase
+- consent
+- topic
+- papers
+- color-teal
 status: complete
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06).md
+backlink_count: 10
+backlinks:
+- '[[wiki/Argus]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
 ---
 
 # Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)

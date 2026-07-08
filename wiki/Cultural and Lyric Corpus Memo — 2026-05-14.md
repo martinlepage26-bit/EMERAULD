@@ -1,10 +1,33 @@
 ---
 type: wiki
-aliases: []
-tags: [memo, cultural, lyric, alchemy, ritual, 2026-05-14]
+title: Cultural and Lyric Corpus Memo — 2026-05-14
+aliases:
+- Cultural and Lyric Corpus Memo — 2026-05-14
+- wiki/Cultural and Lyric Corpus Memo — 2026-05-14
+tags:
+- memo
+- cultural
+- lyric
+- alchemy
+- ritual
+- '2026-05-14'
+- wiki
+- cultural-and-lyric-corpus-memo-2026-05-14-md
+- rardin
+- oratoire
+- regime
+- color-blue
 status: active
-created: 2026-05-14
-updated: 2026-05-14
+created: '2026-05-14'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Cultural and Lyric Corpus Memo — 2026-05-14.md
+backlink_count: 4
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Cultural and Lyric Corpus Memo — 2026-05-14

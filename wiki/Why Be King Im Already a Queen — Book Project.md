@@ -1,3 +1,48 @@
+---
+type: wiki
+title: Why Be King Im Already a Queen — Book Project
+aliases:
+- Why Be King Im Already a Queen — Book Project
+- wiki/Why Be King Im Already a Queen — Book Project
+tags:
+- wiki
+- why-be-king-im-already-a-queen-book-project-md
+- dissertation
+- thesis
+- lepage
+- martin
+- performances
+- color-pink
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Why Be King Im Already a Queen — Book Project.md
+backlink_count: 20
+backlinks:
+- '[[wiki/Brutal Isms — Art Grant Proposal]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Novel Corpus Map]]'
+---
+
 # Why Be King Im Already a Queen — Book Project
 
 ## Summary

@@ -1,3 +1,56 @@
+---
+type: wiki
+title: AI Personas — Agatha, DOTTIE, and MOBI
+aliases:
+- AI Personas — Agatha, DOTTIE, and MOBI
+- wiki/AI Personas — Agatha, DOTTIE, and MOBI
+tags:
+- wiki
+- ai
+- ai-personas-agatha-dottie-and-mobi-md
+- agatha
+- dottie
+- mobi
+- instructions
+- lexicon
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI Personas — Agatha, DOTTIE, and MOBI.md
+backlink_count: 28
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governess Agatha GPT — ChatGPT Product Specification]]'
+- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
+- '[[wiki/Home]]'
+- '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
+- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Public Voice Examples]]'
+- '[[wiki/Slayer Recursion Protocol — README and Repositioning]]'
+- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'
+- '[[session-state]]'
+- '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'
+---
+
 # AI Personas — Agatha, DOTTIE, and MOBI
 
 ## Summary

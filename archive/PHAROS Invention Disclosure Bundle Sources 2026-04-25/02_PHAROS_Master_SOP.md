@@ -1,3 +1,30 @@
+---
+type: archive-record
+title: PHAROS Master Standard Operating Procedure (SOP)
+aliases:
+- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/02_PHAROS_Master_SOP
+tags:
+- archive
+- pharos
+- archive-record
+- pharos-invention-disclosure-bundle-sources-2026-04-25
+- engagement
+- client
+- principal
+- appendix
+- regulatory
+- color-purple
+status: archived
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/02_PHAROS_Master_SOP.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[raw/D-drive-scan-2026-05-12/elemental-agents/agents/01-prime-coordinator]]'
+---
+
 # PHAROS Master Standard Operating Procedure (SOP)
 
 See also [[01-prime-coordinator]].

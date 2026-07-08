@@ -1,10 +1,49 @@
 ---
 type: wiki
-aliases: [ROOK, session harness, execution boundary]
-tags: [infrastructure, agents, hephaistos, session-management]
+title: ROOK — Session Boundary Model
+aliases:
+- ROOK
+- session harness
+- execution boundary
+- wiki/ROOK — Session Boundary Model
+tags:
+- infrastructure
+- agents
+- hephaistos
+- session-management
+- wiki
+- rook-session-boundary-model-md
+- rook
+- headroom
+- debug
+- rooms
+- color-orange
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/ROOK — Session Boundary Model.md
+backlink_count: 19
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/Agent Session Phenomenology]]'
+- '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Plugin Recommendations]]'
+- '[[wiki/Trismégiste — Operator State]]'
+- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[wiki/claude-peers-mcp — Claude Peer Network]]'
+- '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
+- '[[wiki/if.switchboard — InfraFabric Product Center]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Journal]]'
 ---
 
 # ROOK — Session Boundary Model

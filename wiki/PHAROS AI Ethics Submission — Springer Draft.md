@@ -1,3 +1,64 @@
+---
+type: wiki
+title: PHAROS AI Ethics Submission — Springer Draft
+aliases:
+- PHAROS AI Ethics Submission — Springer Draft
+- wiki/PHAROS AI Ethics Submission — Springer Draft
+tags:
+- wiki
+- pharos
+- ai
+- submission
+- pharos-ai-ethics-submission-springer-draft-md
+- ethical
+- essay
+- virtue
+- rebuttal
+- consequentialism
+- color-pink
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS AI Ethics Submission — Springer Draft.md
+backlink_count: 34
+backlinks:
+- '[[wiki/AI Ethics Literature — Contestable Governance Artifacts]]'
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/AurorA — COMPASSai Input Module]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance by Denial]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[wiki/Mental illness, addiction, and AI psychosis]]'
+- '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
+- '[[wiki/PHAROS Invention Disclosure]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/PHAROS-AI Webservice — pharos-ai.ca]]'
+- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research Hub]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[projects/Papers — Fisher King Project State]]'
+---
+
 # PHAROS AI Ethics Submission — Springer Draft
 
 See also [[MASTER TRACKER (recreated from MASTER PACK 4)]].

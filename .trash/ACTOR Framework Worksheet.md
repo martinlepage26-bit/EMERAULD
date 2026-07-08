@@ -1,3 +1,24 @@
+---
+type: discarded-note
+title: ACTOR Framework Worksheet
+aliases:
+- .trash/ACTOR Framework Worksheet
+tags:
+- archive
+- discarded-note
+- trash
+- actor-framework-worksheet-md
+status: discarded
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .trash
+canonical_path: .trash/ACTOR Framework Worksheet.md
+backlink_count: 2
+backlinks:
+- '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[wiki/Research and Papers MOC]]'
+---
+
 Praxis AI - Agent vs. Chatbot Decision Analysis Instructions 
 
 Use this worksheet to systematically analyze whether your client scenario requires an AI agent or chatbot solution. Complete each section thoroughly, providing specific examples from your client's business context. Client: Innovate Logistics Use Case: Customer Service System Analyst: _________________________ Date: _________________________ A - Autonomy Requirements Question: Does the system need to operate independently without constant human oversight? Analysis Prompts: - Can the system handle inquiries during after-hours and peak seasons without human intervention? - Are there scenarios where immediate action is required without waiting for human approval? - How often do current customer inquiries require real-time decision-making? Your Analysis: _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ None Autonomy Score: ☐ Low (Human oversight required) ☐ Medium (Some independence) ☐ High (Full autonomy needed)

@@ -1,13 +1,35 @@
 ---
-title: "Alchimie et Histoire des Sciences"
-source:
-author:
-  - "Lucien Gérardin"
-published:
-created: 2026-05-12
-description: "ChatGPT conversation with 6 messages"
+type: raw-source
+title: Alchimie et Histoire des Sciences
+aliases:
+- raw/Clippings/Alchimie et Histoire des Sciences
 tags:
-  - clippings
+- clippings
+- raw-source
+- raw
+- dans
+- grecs
+- alchimistes
+- peut
+- alchimie
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Clippings/Alchimie et Histoire des Sciences.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
+  — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note]]'
+source: null
+author:
+- Lucien Gérardin
+published: null
+description: ChatGPT conversation with 6 messages
 ---
 
 ALCHIMIE

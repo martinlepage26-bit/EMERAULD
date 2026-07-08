@@ -1,9 +1,31 @@
 ---
 type: skill
+title: red-team
+aliases:
+- archive/red-team
+- wiki/archive/red-team
+tags:
+- skill
+- wiki
+- archive
+- offensive
+- handbook
+- debate
+- investigator
+- engagement
+- color-green
+status: active
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/archive/red-team.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
 skill_id: red-team
 scope: governance
-status: active
-created: 2026-05-06
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md
 ---
 

@@ -1,3 +1,31 @@
+---
+type: artifact
+title: How I Built an AI Second Brain Without RAG
+aliases:
+- artifacts/marketplace/promo/hashnode-iter18-no-rag
+tags:
+- artifact
+- ai
+- artifacts
+- marketplace
+- similarity
+- session
+- native
+- vector
+- retrieval
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/hashnode-iter18-no-rag.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # How I Built an AI Second Brain Without RAG
 
 *Hashnode — Iteration 18 — Cycle 4 — 2026-04-20*

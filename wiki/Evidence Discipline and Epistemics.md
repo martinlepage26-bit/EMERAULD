@@ -1,10 +1,92 @@
 ---
 type: map
+title: Evidence Discipline and Epistemics
 aliases:
-  - TOPIC — Evidence Discipline and Epistemics
-tags: [index, map, topic, epistemics, evidence, governance]
-created: 2026-04-18
-updated: 2026-05-06
+- TOPIC — Evidence Discipline and Epistemics
+- wiki/Evidence Discipline and Epistemics
+tags:
+- index
+- map
+- topic
+- epistemics
+- evidence
+- governance
+- wiki
+- evidence-discipline-and-epistemics-md
+- discipline
+- fluency
+- epistemic
+- praxis
+- color-purple
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Evidence Discipline and Epistemics.md
+backlink_count: 57
+backlinks:
+- '[[wiki/AI Ethics Literature — Contestable Governance Artifacts]]'
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
+- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
+  (2026)]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Anti-Charm]]'
+- '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
+- '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Documents and Downloads Scan — 2026-05-06]]'
+- '[[wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
+- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
+  (2026-05-12)]]'
+- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
+  Phenomenon]]'
+- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[wiki/Inner Mind Eye]]'
+- '[[wiki/Machine Limitation]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
+- '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
+  2024]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
+- '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
+- '[[wiki/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)]]'
+- '[[wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[wiki/RIA-CODEX — System Audit Protocol]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
+  and Computational Memory Architectures]]'
+- '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Evidence Discipline and Epistemics

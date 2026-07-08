@@ -1,10 +1,50 @@
 ---
 type: note
-aliases: ["Structural Analogy and Governance", "Memory Architectures Parallels", "Biological Epistemic Computational Memory"]
-tags: [memory, governance, epistemics, ai, biology, computation, analogy, architecture]
+title: Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
+  and Computational Memory Architectures
+aliases:
+- Structural Analogy and Governance
+- Memory Architectures Parallels
+- Biological Epistemic Computational Memory
+- wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
+  and Computational Memory Architectures
+tags:
+- memory
+- governance
+- epistemics
+- ai
+- biology
+- computation
+- analogy
+- architecture
+- note
+- wiki
+- structural-analogy-governance-systemic-parallels-between-biological-epistemic-and-computational-memory-architectures-md
+- biological
+- computational
+- phenotype
+- epistemic
+- color-green
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Structural Analogy & Governance Systemic Parallels Between Biological,
+  Epistemic, and Computational Memory Architectures.md
+backlink_count: 12
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
 ---
 
 # Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures

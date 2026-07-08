@@ -1,11 +1,31 @@
 ---
 type: raw-source
-source_url: https://cohere.com/
-title: Enterprise AI: Private, Secure, Customizable | Cohere
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+title: 'Enterprise AI: Private, Secure, Customizable | Cohere'
+aliases:
+- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_enterprise-ai-private-secure-customizable-cohere
+tags:
+- raw-source
+- memory
+- clients
+- solutions
+- cohere
+- learn
+- blog
+- north
+- color-green
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_enterprise-ai-private-secure-customizable-cohere.md
+backlink_count: 2
+backlinks:
+- '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
+- '[[wiki/Research and Papers MOC]]'
+source_url: https://cohere.com/
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Enterprise AI: Private, Secure, Customizable | Cohere

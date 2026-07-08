@@ -1,12 +1,31 @@
 ---
 type: wiki
+title: PHAROS Method — Core Framework
 aliases:
-  - PHAROS Method — Core Framework
-  - PHAROS method
-tags: [pharos, governance, method, framework]
+- PHAROS Method — Core Framework
+- PHAROS method
+- wiki/PHAROS Method — Core Framework
+tags:
+- pharos
+- governance
+- method
+- framework
+- wiki
+- pharos-method-core-framework-md
+- facing
+- product
+- resolver
+- color-orange
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Method — Core Framework.md
+backlink_count: 3
+backlinks:
+- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
 ---
 
 # PHAROS Method — Core Framework

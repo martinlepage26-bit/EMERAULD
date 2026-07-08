@@ -1,11 +1,31 @@
 ---
 type: raw-source
-source_url: https://docs.coveo.com/en/pb7d0331/
 title: Third-party AI models
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_third-party-ai-models
+tags:
+- raw-source
+- memory
+- clients
+- llama
+- coveo
+- models
+- bedrock
+- amazon
+- color-green
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_third-party-ai-models.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[raw/Clippings/Reddit Data API Wiki]]'
+source_url: https://docs.coveo.com/en/pb7d0331/
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Third-party AI models

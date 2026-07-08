@@ -1,3 +1,34 @@
+---
+type: version-genealogy
+title: Social Compass Reviewer Responses — Version Genealogy
+aliases:
+- Social Compass Reviewer Responses — Version Genealogy
+- wiki/Social Compass Reviewer Responses — Version Genealogy
+tags:
+- compassai
+- peer-review
+- version-genealogy
+- wiki
+- social-compass-reviewer-responses-version-genealogy-md
+- socialcompass
+- reviewers
+- response
+- highlighted
+- version
+- color-pink
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Social Compass Reviewer Responses — Version Genealogy.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Home]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # Social Compass Reviewer Responses — Version Genealogy
 
 ## Summary

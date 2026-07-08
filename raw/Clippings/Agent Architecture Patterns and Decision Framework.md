@@ -1,3 +1,31 @@
+---
+type: raw-source
+title: Introduction
+aliases:
+- raw/Clippings/Agent Architecture Patterns and Decision Framework
+tags:
+- raw
+- agents
+- raw-source
+- clippings
+- chatbots
+- architectural
+- predetermined
+- interactions
+- sophisticated
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Clippings/Agent Architecture Patterns and Decision Framework.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
+  (2026-04-18)]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # Introduction
 
 As a Praxis AI Associate Consultant working with other clients, you've witnessed the dramatic difference between reactive chatbots and proactive agents. Now you need a systematic framework for making these architectural decisions across different client scenarios.

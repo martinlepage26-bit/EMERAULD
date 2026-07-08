@@ -1,13 +1,41 @@
 ---
 type: wiki
+title: Codex Skills Inventory — Complete Registry (241 Skills)
 aliases:
-  - Codex skill registry
-  - Codex inventory
-  - Complete skills catalog
-tags: [codex, skills, inventory, capabilities, undocumented, catalog]
+- Codex skill registry
+- Codex inventory
+- Complete skills catalog
+- wiki/Codex Skills Inventory — Complete Registry (241 Skills)
+tags:
+- codex
+- skills
+- inventory
+- capabilities
+- undocumented
+- catalog
+- wiki
+- codex-skills-inventory-complete-registry-241-skills-md
+- documented
+- figma
+- tier
+- color-orange
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Codex Skills Inventory — Complete Registry (241 Skills).md
+backlink_count: 10
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Trace Investigator]]'
+- '[[wiki/Vault Graph Hygiene — Content Title Normalization Skill]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_safety-botpress]]'
 ---
 
 # Codex Skills Inventory — Complete Registry (241 Skills)

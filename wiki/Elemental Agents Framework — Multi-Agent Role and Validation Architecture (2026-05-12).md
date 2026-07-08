@@ -1,3 +1,42 @@
+---
+type: wiki
+title: Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)
+aliases:
+- Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)
+- wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)
+tags:
+- wiki
+- agents
+- elemental-agents-framework-multi-agent-role-and-validation-architecture-2026-05-12-md
+- validation
+- manifestation
+- combination
+- combinations
+- elemental
+- color-orange
+status: active
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Elemental Agents Framework — Multi-Agent Role and Validation
+  Architecture (2026-05-12).md
+backlink_count: 13
+backlinks:
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/D Drive Scan — 2026-05-12]]'
+- '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[assets/elemental-agents/audience-expansion]]'
+- '[[assets/elemental-agents/sales-page-outline]]'
+- '[[assets/elemental-agents/ttrpg-repack/BRAND-DECISION]]'
+- '[[raw/D-drive-scan-2026-05-12/elemental-agents/README]]'
+- '[[raw/D-drive-scan-2026-05-12/elemental-agents/combinations/manifestation-rules]]'
+---
+
 # Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)
 
 ## Summary

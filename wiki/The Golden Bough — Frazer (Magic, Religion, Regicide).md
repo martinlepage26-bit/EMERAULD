@@ -1,10 +1,42 @@
 ---
 type: wiki
-aliases: ["Frazer — The Golden Bough", "The Golden Bough (Abridged)"]
-tags: [reference, religion, anthropology, magic, ritual, kingship, folklore]
+title: The Golden Bough — Frazer (Magic, Religion, Regicide)
+aliases:
+- Frazer — The Golden Bough
+- The Golden Bough (Abridged)
+- wiki/The Golden Bough — Frazer (Magic, Religion, Regicide)
+tags:
+- reference
+- religion
+- anthropology
+- magic
+- ritual
+- kingship
+- folklore
+- wiki
+- the-golden-bough-frazer-magic-religion-regicide-md
+- bough
+- frazer
+- golden
+- color-violet
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Golden Bough — Frazer (Magic, Religion, Regicide).md
+backlink_count: 10
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
+- '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et
+  française — Keck 2002 (Methodos)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # The Golden Bough — Frazer (Magic, Religion, Regicide)

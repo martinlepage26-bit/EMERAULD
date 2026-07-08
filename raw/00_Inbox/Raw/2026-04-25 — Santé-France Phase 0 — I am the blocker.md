@@ -1,9 +1,32 @@
 ---
 type: raw-capture
-created: 2026-04-25
+title: Santé-France Phase 0 — I am the blocker
+aliases:
+- raw/00_Inbox/Raw/2026-04-25 — Santé-France Phase 0 — I am the blocker
+tags:
+- inbox
+- raw
+- client
+- sante-france
+- decision
+- raw-capture
+- 00-inbox
+- haven
+- awaiting
+- blocking
+- france
+- phase
+- color-lime
 status: synthesized
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/00_Inbox/Raw/2026-04-25 — Santé-France Phase 0 — I am the blocker.md
+backlink_count: 1
+backlinks:
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker
+  — Source Note]]'
 synthesized_into: memory/clients/Sante-France.md
-tags: [inbox, raw, client, sante-france, decision]
 ---
 
 # Santé-France Phase 0 — I am the blocker

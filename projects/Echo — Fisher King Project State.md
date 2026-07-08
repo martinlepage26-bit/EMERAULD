@@ -1,14 +1,38 @@
 ---
-title: "Echo — Fisher King Project State"
-created: "2026-05-07"
 type: project
-status: active
+title: Echo — Fisher King Project State
+aliases:
+- projects/Echo — Fisher King Project State
 tags:
-  - project
-  - fisher-king
-  - echo
-  - voice
-  - implementation-surface
+- project
+- fisher-king
+- echo
+- voice
+- implementation-surface
+- projects
+- echo-fisher-king-project-state-md
+- site
+- profile
+- implementation
+- martin
+- color-orange
+status: in-progress
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: projects
+canonical_path: projects/Echo — Fisher King Project State.md
+backlink_count: 10
+backlinks:
+- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King Project Note Templates]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Projects Hub]]'
+- '[[memory/daily/2026-06-22]]'
+- '[[memory/daily/2026-06-23]]'
+- '[[memory/daily/2026-06-24]]'
+- '[[memory/daily/2026-06-25]]'
+- '[[memory/daily/2026-06-26]]'
 ---
 
 # Echo — Fisher King Project State

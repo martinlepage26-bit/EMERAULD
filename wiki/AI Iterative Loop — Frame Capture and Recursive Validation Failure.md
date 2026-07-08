@@ -1,13 +1,48 @@
 ---
 type: wiki
+title: AI Iterative Loop — Frame Capture and Recursive Validation Failure
 aliases:
-  - Loop frame capture
-  - Recursive validation failure
-  - AI loop epistemic limits
-tags: [AI-epistemics, machine-limitation, governance, loop, recursive-validation, frame-capture]
+- Loop frame capture
+- Recursive validation failure
+- AI loop epistemic limits
+- wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure
+tags:
+- ai-epistemics
+- machine-limitation
+- governance
+- loop
+- recursive-validation
+- frame-capture
+- wiki
+- ai-iterative-loop-frame-capture-and-recursive-validation-failure-md
+- output
+- economics
+- coherent
+- frame
+- color-purple
 status: active
-created: 2026-04-25
-updated: 2026-04-25
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md
+backlink_count: 16
+backlinks:
+- '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Machine Limitation]]'
+- '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
+- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
+- '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
+- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # AI Iterative Loop — Frame Capture and Recursive Validation Failure

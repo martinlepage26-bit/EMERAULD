@@ -1,11 +1,43 @@
 ---
 type: wiki
-aliases: ["gravity-from-entropy", "triple-layer synthesis", "emergent phenomenon structure", "generative rules"]
-tags: [philosophy, physics, mathematics, epistemology, emergent systems, relative entropy, reconstruction]
+title: Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
+  Phenomenon
+aliases:
+- gravity-from-entropy
+- triple-layer synthesis
+- emergent phenomenon structure
+- generative rules
+- wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
+  Phenomenon
+tags:
+- philosophy
+- physics
+- mathematics
+- epistemology
+- emergent-systems
+- relative-entropy
+- reconstruction
+- wiki
+- entropic-gravity-lily-of-the-valley-and-eml-three-instances-of-emergent-phenomenon-md
+- gravity
+- entropy
+- flower
+- scent
+- quantum
+- color-orange
 status: active
-created: 2026-04-26
-updated: 2026-04-26
-source: "third layer of the EML-LILY.txt (2026-04-26)"
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances
+  of Emergent Phenomenon.md
+backlink_count: 4
+backlinks:
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[archive/session-state/session-state-001]]'
+source: third layer of the EML-LILY.txt (2026-04-26)
 ---
 
 # Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon

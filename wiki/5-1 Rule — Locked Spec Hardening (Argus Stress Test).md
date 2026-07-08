@@ -1,3 +1,38 @@
+---
+type: wiki
+title: 5-1 Rule — Locked Spec Hardening (Argus Stress Test)
+aliases:
+- 5-1 Rule — Locked Spec Hardening (Argus Stress Test)
+- wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)
+tags:
+- wiki
+- argus
+- 5-1-rule-locked-spec-hardening-argus-stress-test-md
+- payment
+- gameable
+- testimonial
+- paid
+- lois
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md
+backlink_count: 10
+backlinks:
+- '[[.github/agents/argus.agent]]'
+- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/PHAROS Procurement-Unblock Sprint]]'
+- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+---
+
 # 5-1 Rule — Locked Spec Hardening (Argus Stress Test)
 
 See also [[Obsidian Agent Vault — Launch Kit]].

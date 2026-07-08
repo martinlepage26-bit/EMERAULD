@@ -1,3 +1,30 @@
+---
+type: agent-instructions
+title: CLAUDE
+aliases:
+- CLAUDE
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE
+tags:
+- agents
+- agent-instructions
+- artifacts
+- marketplace
+- tracker
+- softinfo
+- monthly
+- users
+- aurora
+- color-orange
+status: active
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 ● Caelir - Context Guide
 
   ▎ This file gives the agent its standing map before work begins.

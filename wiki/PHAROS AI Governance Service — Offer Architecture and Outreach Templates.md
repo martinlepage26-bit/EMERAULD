@@ -1,10 +1,31 @@
 ---
 type: wiki
-aliases: ["PHAROS Service Offer Architecture", "AI Trust Sprint Offer", "AI Governance Freelance Offer"]
-tags: []
+title: PHAROS AI Governance Service — Offer Architecture and Outreach Templates
+aliases:
+- PHAROS Service Offer Architecture
+- AI Trust Sprint Offer
+- AI Governance Freelance Offer
+- wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates
+tags:
+- wiki
+- pharos-ai-governance-service-offer-architecture-and-outreach-templates-md
+- offer
+- businesses
+- revenue
+- consultants
+- agencies
+- color-purple
 status: active
-created: 2026-05-31
-updated: 2026-05-31
+created: '2026-05-31'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS AI Governance Service — Offer Architecture and Outreach
+  Templates.md
+backlink_count: 3
+backlinks:
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # PHAROS AI Governance Service — Offer Architecture and Outreach Templates

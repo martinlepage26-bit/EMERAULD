@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "delegate-task"
-domain: "Agent Architecture and Development"
+title: delegate-task
+aliases:
+- skills/delegate-task
+- wiki/skills/delegate-task
+tags:
+- skill
+- wiki
+- skills
+- delegate
+- devops
+- extensive
+- openspace
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/delegate-task/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/delegate-task.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+- '[[wiki/Skill Domain — Skill Architecture]]'
+skill_id: delegate-task
+domain: Agent Architecture and Development
+codex_path: /home/cerebrhoe/.codex/skills/delegate-task/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

@@ -1,11 +1,33 @@
 ---
 type: governance-procedures
-aliases: [GOVERNANCE CONTROLS — Phase 1 COMPLETION CHECKLIST]
+title: Governance Controls — Phase 1 Completion Checklist
+aliases:
+- GOVERNANCE CONTROLS — Phase 1 COMPLETION CHECKLIST
+- wiki/Governance Controls — Phase 1 Completion Checklist
+tags:
+- governance-procedures
+- wiki
+- governance-controls-phase-1-completion-checklist-md
+- refresh
+- phase
+- calendar
+- registry
+- deprecation
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Governance Controls — Phase 1 Completion Checklist.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/External Data Refresh Calendar — Phase 1 Build]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 phase: Phase 1 Infrastructure
-completion-target: 2026-05-10
+completion-target: '2026-05-10'
 ---
 
 # Governance Controls — Phase 1 Completion Checklist

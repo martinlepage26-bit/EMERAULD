@@ -1,14 +1,40 @@
 ---
 type: wiki
+title: Skill Domain — Design and UX
 aliases:
-  - Design and UX domain
-  - Design skills domain
-  - UX skills hub
-  - Frontend design hub
-tags: [skills, domain, hub, design, ux, figma, frontend, ui]
+- Design and UX domain
+- Design skills domain
+- UX skills hub
+- Frontend design hub
+- wiki/Skill Domain — Design and UX
+tags:
+- skills
+- domain
+- hub
+- design
+- ux
+- figma
+- frontend
+- ui
+- wiki
+- skill-domain-design-and-ux-md
+- component
+- development
+- color-orange
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Skill Domain — Design and UX.md
+backlink_count: 7
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+- '[[wiki/Skill Domain — Development and Testing]]'
+- '[[wiki/Skill Domain — Skill Architecture]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Skill Domain — Design and UX

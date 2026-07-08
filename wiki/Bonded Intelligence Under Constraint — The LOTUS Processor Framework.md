@@ -1,3 +1,52 @@
+---
+type: wiki
+title: Bonded Intelligence Under Constraint — The LOTUS Processor Framework
+aliases:
+- Bonded Intelligence Under Constraint — The LOTUS Processor Framework
+- wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework
+tags:
+- wiki
+- ai
+- bonded-intelligence-under-constraint-the-lotus-processor-framework-md
+- lotus
+- agency
+- processor
+- intelligence
+- constraint
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework.md
+backlink_count: 22
+backlinks:
+- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/LOTUS Premium Spec]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
+  and Computational Memory Architectures]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[projects/LOTUS — Fisher King Project State]]'
+---
+
 # Bonded Intelligence Under Constraint — The LOTUS Processor Framework
 
 ## Summary

@@ -1,13 +1,36 @@
 ---
 type: wiki
+title: Ethics Poetics and Praxis — Braided Discipline
 aliases:
-  - Ethics, poetics, and praxis
-  - Braided discipline
-  - Ethics poetics praxis manifesto
-tags: [ethics, poetics, praxis, philosophy, professional-identity, governance]
+- Ethics, poetics, and praxis
+- Braided discipline
+- Ethics poetics praxis manifesto
+- wiki/Ethics Poetics and Praxis — Braided Discipline
+tags:
+- ethics
+- poetics
+- praxis
+- philosophy
+- professional-identity
+- governance
+- wiki
+- ethics-poetics-and-praxis-braided-discipline-md
+- poietics
+- making
+- color-pink
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Ethics Poetics and Praxis — Braided Discipline.md
+backlink_count: 6
+backlinks:
+- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
 ---
 
 # Ethics Poetics and Praxis — Braided Discipline

@@ -1,3 +1,56 @@
+---
+type: wiki
+title: Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca
+aliases:
+- Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca
+- wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca
+tags:
+- wiki
+- wicca
+- pagan
+- ritual
+- queer
+- queer-neo-pagan-spiritualities-and-the-question-of-authenticity-in-wicca-md
+- authenticity
+- digital
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity
+  in Wicca.md
+backlink_count: 26
+backlinks:
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
+- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
+  vs Reclaiming)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca
 
 ## Summary

@@ -1,3 +1,32 @@
+---
+type: version-genealogy
+title: Reboot Performance Gender Identity — Version Genealogy
+aliases:
+- Reboot Performance Gender Identity — Version Genealogy
+- wiki/Reboot Performance Gender Identity — Version Genealogy
+tags:
+- version-genealogy
+- wiki
+- reboot-performance-gender-identity-version-genealogy-md
+- reboot
+- computing
+- gender
+- performance
+- identitymt
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Reboot Performance Gender Identity — Version Genealogy.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Home]]'
+- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # Reboot Performance Gender Identity — Version Genealogy
 
 ## Summary

@@ -1,10 +1,78 @@
 ---
 type: map
+title: PHAROS Scholarly Publication Track
 aliases:
-  - TOPIC — PHAROS Scholarly Publication Track
-tags: [index, map, topic, pharos, publications, scholarly, journal]
-created: 2026-04-18
-updated: 2026-05-10
+- TOPIC — PHAROS Scholarly Publication Track
+- wiki/PHAROS Scholarly Publication Track
+tags:
+- index
+- map
+- topic
+- pharos
+- publications
+- scholarly
+- journal
+- wiki
+- pharos-scholarly-publication-track-md
+- springer
+- society
+- publication
+- track
+- governance
+- color-purple
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Scholarly Publication Track.md
+backlink_count: 46
+backlinks:
+- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/AurorA — COMPASSai Input Module]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
+- '[[wiki/For Her Alone to Wield — Cover Letter (2026-05-16)]]'
+- '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/Home]]'
+- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/PHAROS]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Method — Core Framework]]'
+- '[[wiki/PHAROS Product Stack]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
+- '[[wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
+- '[[wiki/Per-Paper Project Structure — Folder and File Architecture]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research Hub]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Weekly Review — 2026-06-26]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory]]'
+- '[[memory/agents/Vibe]]'
+- '[[memory/daily/2026-05-10]]'
+- '[[projects/Papers — Fisher King Project State]]'
+- '[[session-state]]'
 ---
 
 # PHAROS Scholarly Publication Track
@@ -61,7 +129,7 @@ This is the publication branch of the PHAROS graph. It formalizes the method's p
 
 ## Evidence-to-Publication Bridge
 
-This is the cluster that should replace loose "PHAROS evidence" sprawl. It links implemented or testable governance surfaces to the manuscript claims they can actually support:
+This is the cluster that should replace loose "PHAROS evidence" sprawl. It links implemented or testable governance surfaces to the manuscript claims they can actually support. See [[Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]] for the dedicated routing-rule reference.
 
 - [[RECURSO — Final Audit and Ethical Review]] — ethical audit substrate for the "Deploy: No. Not yet" claim and the SHADOWMASTER failure mode.
 - [[RECURSO — Recursive Governance Test Archive]] — older recursive test bed and empirical archive behind the governance-on-governance claims.

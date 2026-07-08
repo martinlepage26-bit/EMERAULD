@@ -1,3 +1,33 @@
+---
+type: version-genealogy
+title: Sealed Card Protocol — Version Genealogy
+aliases:
+- Sealed Card Protocol — Version Genealogy
+- wiki/Sealed Card Protocol — Version Genealogy
+tags:
+- version-genealogy
+- wiki
+- sealed-card-protocol-version-genealogy-md
+- sealed
+- card
+- words
+- charging
+- 'true'
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Sealed Card Protocol — Version Genealogy.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Home]]'
+- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[archive/session-state/session-state-001]]'
+---
+
 # Sealed Card Protocol — Version Genealogy
 
 ## Summary

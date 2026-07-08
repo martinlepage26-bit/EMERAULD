@@ -1,13 +1,39 @@
 ---
 type: wiki
+title: Martin Lepage — Adjacent Skill Ring
 aliases:
-  - Adjacent skills
-  - Central support ring
-  - Supporting skill ring
-tags: [skills, adjacent, central, infrastructure, martin-lepage]
+- Adjacent skills
+- Central support ring
+- Supporting skill ring
+- wiki/Martin Lepage — Adjacent Skill Ring
+tags:
+- skills
+- adjacent
+- central
+- infrastructure
+- martin-lepage
+- wiki
+- martin-lepage-adjacent-skill-ring-md
+- skill
+- authored
+- composition
+- ring
+- corpus
+- color-orange
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Martin Lepage — Adjacent Skill Ring.md
+backlink_count: 7
+backlinks:
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[session-state]]'
 ---
 
 # Martin Lepage — Adjacent Skill Ring

@@ -1,13 +1,38 @@
 ---
 type: wiki
+title: Skill Domain — Operator Wellbeing
 aliases:
-  - Operator Wellbeing domain
-  - Wellbeing skills domain
-  - Burnout interrupt hub
-tags: [skills, domain, hub, wellbeing, operator, burnout, capacity]
+- Operator Wellbeing domain
+- Wellbeing skills domain
+- Burnout interrupt hub
+- wiki/Skill Domain — Operator Wellbeing
+tags:
+- skills
+- domain
+- hub
+- wellbeing
+- operator
+- burnout
+- capacity
+- wiki
+- skill-domain-operator-wellbeing-md
+- cascade
+- interrupt
+- hitl
+- color-purple
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Skill Domain — Operator Wellbeing.md
+backlink_count: 6
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Skill Domain — Operator Wellbeing

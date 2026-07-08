@@ -1,12 +1,49 @@
 ---
 type: wiki
+title: PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)
 aliases:
-  - PHAROS Launch 2026-05-01
-  - Commercial Launch 8-Stream
-tags: [pharos, launch, deployment, commercialization, 2026-q2]
+- PHAROS Launch 2026-05-01
+- Commercial Launch 8-Stream
+- wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)
+tags:
+- pharos
+- launch
+- deployment
+- commercialization
+- 2026-q2
+- wiki
+- pharos-ai-commercial-launch-8-stream-deploy-2026-05-01-md
+- calendly
+- landing
+- articles
+- french
+- outreach
+- color-orange
 status: active
 created: 2026-05-01T15:45
-updated: 2026-05-01T16:00
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01).md
+backlink_count: 18
+backlinks:
+- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
+- '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
+- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
+- '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
+- '[[wiki/PHAROS Product Stack]]'
+- '[[wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory]]'
+- '[[memory/daily/2026-05-01]]'
+- '[[projects/PHAROS — Fisher King Project State]]'
 ---
 
 # PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)

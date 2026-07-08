@@ -1,13 +1,56 @@
 ---
 type: governance-control
-status: active
+title: CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)
 aliases:
-  - Architecture Deprecation Protocol
-  - CONTROL 3
-created: 2026-04-26
-updated: 2026-04-28
+- Architecture Deprecation Protocol
+- CONTROL 3
+- wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)
+tags:
+- governance-control
+- wiki
+- control-3-architecture-deprecation-protocol-regulatory-grounding-md
+- architecture
+- deprecated
+- effective
+- supersession
+- eight
+- color-purple
+status: active
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md
+backlink_count: 22
+backlinks:
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[wiki/Governance Controls — Incident Response (Control Failure Procedures)]]'
+- '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
+- '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+- '[[wiki/Supersession Registry]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory]]'
 tier: critical
-regulatory-anchors: [ISO 15489, ITIL Change Management, NIST SP 800-53, SOX, HIPAA]
+regulatory-anchors:
+- ISO 15489
+- ITIL Change Management
+- NIST SP 800-53
+- SOX
+- HIPAA
 ---
 
 # CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)

@@ -1,10 +1,34 @@
 ---
 type: wiki
-aliases: ["Grammaire profonde des relations", "Mathématiques et sciences", "Structuralisme scientifique"]
-tags: []
+title: Mathématiques comme grammaire profonde des relations — Essai philosophique
+aliases:
+- Grammaire profonde des relations
+- Mathématiques et sciences
+- Structuralisme scientifique
+- wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique
+tags:
+- wiki
+- math-matiques-comme-grammaire-profonde-des-relations-essai-philosophique-md
+- math
+- matiques
+- trie
+- niveaux
+- mais
+- color-blue
 status: active
-created: 2026-05-31
-updated: 2026-05-31
+created: '2026-05-31'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Mathématiques comme grammaire profonde des relations — Essai
+  philosophique.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
+  and Computational Memory Architectures]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 # Mathématiques comme grammaire profonde des relations — Essai philosophique

@@ -1,3 +1,86 @@
+---
+type: wiki
+title: Fluency, Interruption, and Institutional Accountability
+aliases:
+- Fluency, Interruption, and Institutional Accountability
+- wiki/Fluency, Interruption, and Institutional Accountability
+tags:
+- wiki
+- fluency-interruption-and-institutional-accountability-md
+- interruption
+- fluency
+- algorithmic
+- labor
+- accountability
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Fluency, Interruption, and Institutional Accountability.md
+backlink_count: 56
+backlinks:
+- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
+  of Interruption]]'
+- '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
+- '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Le Mythe de Sisyphe — Camus (Absurd as Starting Point)]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
+  2024]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
+- '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
+- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
+- '[[wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
+- '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
+- '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
+- '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
+- '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
+  Glitch]]'
+- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-05-02]]'
+---
+
 # Fluency, Interruption, and Institutional Accountability
 
 ## Summary

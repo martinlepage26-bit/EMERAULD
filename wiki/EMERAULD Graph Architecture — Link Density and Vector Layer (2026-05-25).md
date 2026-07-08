@@ -1,13 +1,47 @@
 ---
 type: wiki
+title: EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)
 aliases:
-  - EMERAULD graph architecture
-  - EMERAULD retrieval layers
-  - EMERAULD link density
-tags: [emerauld, graph, retrieval, vectors, lightrag, agent-bus, tooling, architecture]
+- EMERAULD graph architecture
+- EMERAULD retrieval layers
+- EMERAULD link density
+- wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)
+tags:
+- emerauld
+- graph
+- retrieval
+- vectors
+- lightrag
+- agent-bus
+- tooling
+- architecture
+- wiki
+- emerauld-graph-architecture-link-density-and-vector-layer-2026-05-25-md
+- store
+- backlink
+- vector
+- color-teal
 status: active
-created: 2026-05-25
-updated: 2026-06-26
+created: '2026-05-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25).md
+backlink_count: 14
+backlinks:
+- '[[wiki/Architecture - EMERAULD Scripts - Knowledge Layers]]'
+- '[[wiki/Architecture - EMERAULD Scripts - Overview]]'
+- '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
+- '[[wiki/EMERAULD]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[wiki/Vault Health — 2026-06-28]]'
+- '[[wiki/WSL and System Storage Recovery — Quick Wins Checklist]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/daily/2026-06-28]]'
+- '[[session-state]]'
 ---
 
 # EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)
@@ -72,6 +106,9 @@ This note is the tooling-side companion to [[EMERAULD Workspace Instructions - P
 - Zero-backlink notes: **0**
 - One-backlink notes: **20**
 - Two-backlink notes: **261**
+
+> [!warning] Contradiction detected
+> The snapshot above (8,980 edges / 20 one-backlink / 261 two-backlink) reflects the graph state **after the council pass but before the backlink enrichment pass** run later on 2026-06-26. The final `.graph_store/summary.json` as of end-of-day shows **9,028 edges / 6 one-backlink / 260 two-backlink** because `scripts/enrich_frontmatter_backlinks.py` added 102 generated inbound links via the Orphan Index and the graph was rebuilt. Trust `.graph_store/summary.json` for current state.
 
 2026-06-26 graph pass: tmux council loop requested Antigravity, Vibe, and Claude to use `/obsidian-second-brain`; the local skill directory was empty, so the pass used generated `.graph_store` artifacts and direct wikilink verification. The main structural repair was reframing PHAROS from a monolithic MOC cluster into an evidence-to-publication bridge: [[HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]], [[COMPASSai — Governance Engine]], [[AurorA — COMPASSai Input Module]], and [[Hermes Dashboard — Professional Governance Tool]] now route into manuscript and audit notes. Bare `[[PHAROS]]` alias resolution was corrected so it points to [[PHAROS]] rather than [[PHAROS Method — Technical Reference]]; method-specific links should use [[PHAROS Method — Technical Reference]] or the `PHAROS Method` alias. Follow-up zero-orphan enforcement cleared every wiki note and collapsed the generated graph into one connected component.
 

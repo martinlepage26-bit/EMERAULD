@@ -1,12 +1,38 @@
 ---
 type: wiki
+title: Governess Agatha GPT — ChatGPT Product Specification
 aliases:
-  - Governess Agatha GPT
-  - Agatha GPT Product
-tags: [gpt, agatha, pharos, writing, research, governance, scholarly, chatgpt-product]
+- Governess Agatha GPT
+- Agatha GPT Product
+- wiki/Governess Agatha GPT — ChatGPT Product Specification
+tags:
+- gpt
+- agatha
+- pharos
+- writing
+- research
+- governance
+- scholarly
+- chatgpt-product
+- wiki
+- governess-agatha-gpt-chatgpt-product-specification-md
+- governess
+- scholar
+- consent
+- anchoring
+- color-purple
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Governess Agatha GPT — ChatGPT Product Specification.md
+backlink_count: 5
+backlinks:
+- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Governess Agatha GPT — ChatGPT Product Specification

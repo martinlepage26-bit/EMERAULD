@@ -1,3 +1,28 @@
+---
+type: skill-spec
+title: HEPHAISTOS Skill Map — Registry and Classification (Pointer)
+aliases:
+- hephaistos/SKILL-MAP
+tags:
+- skill
+- ai
+- hephaistos
+- skill-spec
+- skill-map-md
+- invocable
+- strictly
+- newer
+- color-lime
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: hephaistos
+canonical_path: hephaistos/SKILL-MAP.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
 # HEPHAISTOS Skill Map — Registry and Classification (Pointer)
 
 This path is retained for backlink stability.

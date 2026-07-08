@@ -1,8 +1,26 @@
 ---
 type: raw-lane-policy
+title: /raw Intake Lane
+aliases:
+- raw/README
+tags:
+- raw-lane-policy
+- raw
+- readme-md
+- scan
+- label
+- softinfo
+- verified
+- users
+- color-lime
 status: active
-created: 2026-05-12
-updated: 2026-05-12
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/README.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 ---
 
 # /raw Intake Lane

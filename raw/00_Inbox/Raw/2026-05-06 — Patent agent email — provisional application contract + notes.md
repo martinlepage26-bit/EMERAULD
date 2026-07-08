@@ -1,3 +1,35 @@
+---
+type: raw-source
+title: 2026-05-06 — Patent agent email — provisional application contract + notes
+aliases:
+- raw/00_Inbox/Raw/2026-05-06 — Patent agent email — provisional application contract
+  + notes
+tags:
+- raw
+- ai
+- agents
+- raw-source
+- 00-inbox
+- patent
+- provisional
+- pour
+- vous
+- contract
+- color-lime
+status: preserved
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/00_Inbox/Raw/2026-05-06 — Patent agent email — provisional application
+  contract + notes.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[wiki/raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application
+  contract + notes — Source Note]]'
+---
+
 # 2026-05-06 — Patent agent email — provisional application contract + notes
 
 Source: email received 2026-05-06 from Philip Swain, PhD (Patent Agent).

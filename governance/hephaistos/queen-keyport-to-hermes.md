@@ -1,3 +1,41 @@
+---
+type: governance-doc
+title: Queen Keyport → Hermes Handoff Schema
+aliases:
+- Queen Keyport → Hermes Handoff Schema
+- governance/hephaistos/queen-keyport-to-hermes
+tags:
+- governance
+- ai
+- hermes
+- hephaistos
+- queen-keyport
+- governance-doc
+- veto
+- keyport
+- arbitration
+- approve
+- queen
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/queen-keyport-to-hermes.md
+backlink_count: 6
+backlinks:
+- '[[.github/agents/hermes.agent]]'
+- '[[.github/agents/queen-keyport.agent]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/ORCHESTRATION]]'
+- '[[governance/hephaistos/hephaistos-to-queen-keyport]]'
+entity_type: Workflow
+entity_id: qk_to_hermes_handoff_workflow
+entity_aliases: []
+entity_confidence: high
+---
+
 # Queen Keyport → Hermes Handoff Schema
 
 ## Purpose

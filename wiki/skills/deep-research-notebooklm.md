@@ -1,9 +1,31 @@
 ---
 type: skill
+title: deep-research-notebooklm
+aliases:
+- skills/deep-research-notebooklm
+- wiki/skills/deep-research-notebooklm
+tags:
+- skill
+- wiki
+- skills
+- notebooklm
+- centered
+- proposal
+- discovery
+- routed
+- color-blue
+status: active
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/deep-research-notebooklm.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/skills/literature-review]]'
 skill_id: deep-research-notebooklm
 scope: research
-status: active
-created: 2026-05-06
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md
 ---
 

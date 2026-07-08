@@ -1,3 +1,32 @@
+---
+type: memory-register
+title: Memory index
+aliases:
+- Memory index
+- memory/local-session/MEMORY
+tags:
+- memory
+- memory-register
+- local-session
+- feedback
+- aurorai
+- pillars
+- deploy
+- cloudflare
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/MEMORY.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+- '[[governance/hephaistos/HERMES]]'
+---
+
 # Memory index
 
 ## Decisions

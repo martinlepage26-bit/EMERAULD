@@ -1,0 +1,56 @@
+---
+type: note
+title: Ecosystem
+aliases:
+- personal-assistant-agents/rights-policy-warden/references/ecosystem
+- hephaistos/personal-assistant-agents/rights-policy-warden/references/ecosystem
+tags:
+- note
+- agents
+- personal-assistant-agents
+- rights-policy-warden
+- hephaistos
+- warden
+- overlaps
+- rights
+- dispatcher
+- marketplace
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: hephaistos
+canonical_path: hephaistos/personal-assistant-agents/rights-policy-warden/references/ecosystem.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
+# Ecosystem
+
+## Placement
+Rights and Policy Warden sits below the human operator and the personal-assistant orchestrator, and alongside the other bounded vault and commercialization specialists.
+
+## Upstream Authorities
+- human operator: final authority on risk tolerance and external legal consultation
+- raw-archivist and content-inventory-cartographer: provide source trace and candidate assets
+
+## Sibling Overlaps And Non-Overlaps
+- overlaps with metadata-link-warden on rights markers, but rights-policy-warden determines the actual status
+- overlaps with marketplace-dispatcher on platform constraints, but rights-policy-warden decides safety before routing
+
+## Downstream Handoffs
+- offer-pricing-architect for safe product packaging
+- listing-creative-director for compliant sales language
+- marketplace-dispatcher for safe channel routing
+
+## Promotion Boundaries
+Stop and escalate when:
+- the task would require pretend legal certainty where the evidence is partial or approve blocked content for launch
+- the evidence base is too partial to support an honest result
+- the real blocker belongs to a different surface of the stack
+
+## Related
+
+- [[Research and Papers MOC]]
+- [[PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]

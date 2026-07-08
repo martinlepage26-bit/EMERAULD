@@ -1,0 +1,55 @@
+---
+type: note
+title: Ecosystem
+aliases:
+- personal-assistant-agents/listing-creative-director/references/ecosystem
+- hephaistos/personal-assistant-agents/listing-creative-director/references/ecosystem
+tags:
+- note
+- agents
+- personal-assistant-agents
+- listing-creative-director
+- hephaistos
+- overlaps
+- director
+- offer
+- listing
+- creative
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: hephaistos
+canonical_path: hephaistos/personal-assistant-agents/listing-creative-director/references/ecosystem.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
+# Ecosystem
+
+## Placement
+Listing Creative Director sits below the human operator and the personal-assistant orchestrator, and alongside the other bounded vault and commercialization specialists.
+
+## Upstream Authorities
+- human operator: final authority on voice, claims, and public representation
+- offer-pricing-architect and rights-policy-warden: provide the safe offer boundary
+
+## Sibling Overlaps And Non-Overlaps
+- overlaps with offer-pricing-architect on positioning, but listing-creative-director works after the commercial skeleton exists
+- overlaps with marketplace-dispatcher on platform adaptation, but listing-creative-director creates the merchanting packet rather than the submission route
+
+## Downstream Handoffs
+- marketplace-dispatcher for platform-specific launch packets
+- revenue-support-optimizer for post-launch copy and preview iteration
+
+## Promotion Boundaries
+Stop and escalate when:
+- the task would require change the offer, hide restrictions, or imply ownership or results the operator cannot prove
+- the evidence base is too partial to support an honest result
+- the real blocker belongs to a different surface of the stack
+
+## Related
+
+- [[Governance and PHAROS MOC]]
+- [[HEPHAISTOS]]

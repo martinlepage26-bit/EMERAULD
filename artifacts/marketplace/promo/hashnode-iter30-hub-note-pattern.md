@@ -1,3 +1,32 @@
+---
+type: artifact
+title: 'The Hub Note Pattern: The Single Most Impactful Structure in an AI-Readable
+  Vault'
+aliases:
+- artifacts/marketplace/promo/hashnode-iter30-hub-note-pattern
+tags:
+- artifact
+- ai
+- artifacts
+- marketplace
+- things
+- session
+- rejected
+- project
+- minutes
+- color-teal
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/hashnode-iter30-hub-note-pattern.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # The Hub Note Pattern: The Single Most Impactful Structure in an AI-Readable Vault
 
 *Hashnode — Iteration 30 — Cycle 7 — 2026-04-20*

@@ -1,3 +1,31 @@
+---
+type: artifact
+title: PHAROS Suite — Operational Runbook
+aliases:
+- artifacts/2026-04-19-pharos-migration-pr4/docs/PHAROS_OPERATIONAL_RUNBOOK
+tags:
+- artifact
+- pharos
+- artifacts
+- 2026-04-19-pharos-migration-pr4
+- manifest
+- backend
+- keyword
+- topology
+- scripts
+- color-orange
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/2026-04-19-pharos-migration-pr4/docs/PHAROS_OPERATIONAL_RUNBOOK.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]'
+---
+
 # PHAROS Suite — Operational Runbook
 
 **Generated:** 2026-04-19  

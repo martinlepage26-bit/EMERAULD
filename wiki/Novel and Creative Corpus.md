@@ -1,10 +1,54 @@
 ---
 type: map
+title: Novel and Creative Corpus
 aliases:
-  - TOPIC — Novel and Creative Corpus
-tags: [index, map, topic, novels, creative, writing]
-created: 2026-04-18
-updated: 2026-04-18
+- TOPIC — Novel and Creative Corpus
+- wiki/Novel and Creative Corpus
+tags:
+- index
+- map
+- topic
+- novels
+- creative
+- writing
+- wiki
+- novel-and-creative-corpus-md
+- novel
+- imprint
+- legitimacy
+- press
+- color-purple
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Novel and Creative Corpus.md
+backlink_count: 23
+backlinks:
+- '[[wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
+- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[wiki/CORPUS Novel — Version Genealogy]]'
+- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[wiki/Le sang qui porte ton nom — Novel]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Pourquoi Rever Encore — Version Genealogy]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Skill Domain — Writing and Humanization]]'
+- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
 ---
 
 # Novel and Creative Corpus

@@ -1,3 +1,29 @@
+---
+type: artifact
+title: '[Project Name]'
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_project
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- happening
+- regularly
+- paused
+- date
+- project
+- color-orange
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_project.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # [Project Name]
 
 **Status:** [Active / Paused / Complete]

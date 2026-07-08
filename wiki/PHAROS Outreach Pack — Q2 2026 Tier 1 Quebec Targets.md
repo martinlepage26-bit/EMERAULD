@@ -1,10 +1,37 @@
 ---
 type: wiki
-aliases: ["PHAROS Outreach Pack v1", "Quebec Tier 1 outreach", "Desjardins BNC Beneva outreach"]
-tags: [pharos, commercial, outreach, quebec, financial-institutions, sales]
+title: PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets
+aliases:
+- PHAROS Outreach Pack v1
+- Quebec Tier 1 outreach
+- Desjardins BNC Beneva outreach
+- wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets
+tags:
+- pharos
+- commercial
+- outreach
+- quebec
+- financial-institutions
+- sales
+- wiki
+- pharos-outreach-pack-q2-2026-tier-1-quebec-targets-md
+- desjardins
+- bank
+- contact
+- color-purple
 status: active
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
+- '[[wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
+- '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 # PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets

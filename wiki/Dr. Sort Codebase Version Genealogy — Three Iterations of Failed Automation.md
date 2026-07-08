@@ -1,14 +1,41 @@
 ---
 type: wiki
+title: Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation
 aliases:
-  - Dr. Sort version genealogy
-  - Dr. Sort codebase iterations
-  - Dr. Sort three codebases
-  - Dr. Sort engineering history
-tags: [dr-sort, version-genealogy, failed-automation, codebase-iterations, engineering-history, witches-road]
+- Dr. Sort version genealogy
+- Dr. Sort codebase iterations
+- Dr. Sort three codebases
+- Dr. Sort engineering history
+- wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation
+tags:
+- dr-sort
+- version-genealogy
+- failed-automation
+- codebase-iterations
+- engineering-history
+- witches-road
+- wiki
+- dr-sort-codebase-version-genealogy-three-iterations-of-failed-automation-md
+- sort
+- lotus
+- milestone
+- codebases
+- march
+- color-green
 status: active
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed
+  Automation.md
+backlink_count: 6
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[projects/Dr. Sort — Fisher King Project State]]'
+- '[[projects/LOTUS — Fisher King Project State]]'
 ---
 
 # Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation

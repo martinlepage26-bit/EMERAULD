@@ -1,11 +1,47 @@
 ---
 type: wiki
-aliases: ["consent philosophy", "informed consent", "governance consent", "consent and power"]
-tags: [governance, philosophy, legal theory, social theory, history of ideas, ai-ethics, power dynamics]
+title: Consent Frameworks — Historical, Legal, Social, and AI Governance
+aliases:
+- consent philosophy
+- informed consent
+- governance consent
+- consent and power
+- wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance
+tags:
+- governance
+- philosophy
+- legal-theory
+- social-theory
+- history-of-ideas
+- ai-ethics
+- power-dynamics
+- wiki
+- consent-frameworks-historical-legal-social-and-ai-governance-md
+- consent
+- agreement
+- informed
+- enlightenment
+- criminal
+- color-pink
 status: active
-created: 2026-04-26
-updated: 2026-04-26
-source: "Consent is a multifaceted concept t.txt"
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance.md
+backlink_count: 11
+backlinks:
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-05-02]]'
+source: Consent is a multifaceted concept t.txt
 ---
 
 # Consent Frameworks — Historical, Legal, Social, and AI Governance

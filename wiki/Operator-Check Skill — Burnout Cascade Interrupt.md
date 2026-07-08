@@ -1,10 +1,46 @@
 ---
 type: wiki
-aliases: [operator-check]
-tags: [skill, burnout, governance, claude, operator-pattern]
+title: Operator-Check Skill — Burnout Cascade Interrupt
+aliases:
+- operator-check
+- wiki/Operator-Check Skill — Burnout Cascade Interrupt
+tags:
+- skill
+- burnout
+- governance
+- claude
+- operator-pattern
+- wiki
+- operator-check-skill-burnout-cascade-interrupt-md
+- flattery
+- cascade
+- command
+- flattering
+- color-purple
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Operator-Check Skill — Burnout Cascade Interrupt.md
+backlink_count: 17
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/Agent Session Phenomenology]]'
+- '[[wiki/Emotional Alliance vs. Evidentiary Discipline in AI]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Mental illness, addiction, and AI psychosis]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Rest and Consolidation Guide — Martin]]'
+- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[wiki/Skill Domain — Operator Wellbeing]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-21]]'
 ---
 
 # Operator-Check Skill — Burnout Cascade Interrupt

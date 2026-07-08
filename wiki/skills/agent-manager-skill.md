@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "agent-manager-skill"
-domain: "Agent Architecture and Development"
+title: agent-manager-skill
+aliases:
+- skills/agent-manager-skill
+- wiki/skills/agent-manager-skill
+tags:
+- skill
+- wiki
+- skills
+- assign
+- agents
+- manager
+- monitor
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/agent-manager-skill/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/agent-manager-skill.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+skill_id: agent-manager-skill
+domain: Agent Architecture and Development
+codex_path: /home/cerebrhoe/.codex/skills/agent-manager-skill/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

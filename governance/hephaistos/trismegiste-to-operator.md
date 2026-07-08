@@ -1,3 +1,37 @@
+---
+type: governance-doc
+title: Trismégiste → Operator Delivery Schema
+aliases:
+- Trismégiste → Operator Delivery Schema
+- governance/hephaistos/trismegiste-to-operator
+tags:
+- governance
+- ai
+- hephaistos
+- trismegiste
+- governance-doc
+- delivery
+- trism
+- giste
+- json
+- pattern
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/trismegiste-to-operator.md
+backlink_count: 3
+backlinks:
+- '[[CLAUDE]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+entity_type: Workflow
+entity_id: trismegiste_to_operator_delivery_workflow
+entity_aliases: []
+entity_confidence: high
+---
+
 # Trismégiste → Operator Delivery Schema
 
 ## Purpose

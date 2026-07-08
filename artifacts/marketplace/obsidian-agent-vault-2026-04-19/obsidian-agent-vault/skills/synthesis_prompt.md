@@ -1,3 +1,32 @@
+---
+type: skill-spec
+title: Ilyris - Synthesis Guide
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/synthesis_prompt
+tags:
+- skill
+- agents
+- skill-spec
+- artifacts
+- marketplace
+- synthesize
+- update
+- editorialize
+- exists
+- lighter
+- color-orange
+status: active
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/synthesis_prompt.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # Ilyris - Synthesis Guide
 
 ## Purpose

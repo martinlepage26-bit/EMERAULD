@@ -1,10 +1,54 @@
 ---
 type: wiki
-aliases: ["lost-loop", "avoidance through system-building"]
-tags: [meta, pattern, self, behavioral, avoidance, executive-function]
+title: The Lost-Loop Pattern — Avoidance Through System-Building
+aliases:
+- lost-loop
+- avoidance through system-building
+- wiki/The Lost-Loop Pattern — Avoidance Through System-Building
+tags:
+- meta
+- pattern
+- self
+- behavioral
+- avoidance
+- executive-function
+- wiki
+- the-lost-loop-pattern-avoidance-through-system-building-md
+- loop
+- lost
+- hard
+- iterative
+- overwhelm
+- color-orange
 status: active
-created: 2026-04-25
-updated: 2026-04-25
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Lost-Loop Pattern — Avoidance Through System-Building.md
+backlink_count: 22
+backlinks:
+- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[wiki/Emotional Alliance vs. Evidentiary Discipline in AI]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
+- '[[wiki/Operator Continuity Memo — 2026-05-14]]'
+- '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
+- '[[wiki/Rest and Consolidation Guide — Martin]]'
+- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note]]'
+- '[[raw/00_Inbox/Raw/2026-04-25 — The lost-loop pattern]]'
 ---
 
 # The Lost-Loop Pattern — Avoidance Through System-Building

@@ -1,3 +1,30 @@
+---
+type: memory-register
+title: feedback_deploy_workflow
+aliases:
+- feedback_deploy_workflow
+- memory/local-session/feedback_deploy_workflow
+tags:
+- memory
+- memory-register
+- local-session
+- commit
+- deploy
+- pages
+- cloudflare
+- push
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/feedback_deploy_workflow.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+---
+
 See also [[Manuscript Pipeline MOC]].
 ---
 name: Always commit, build, and deploy to Cloudflare Pages

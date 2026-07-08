@@ -1,3 +1,31 @@
+---
+type: raw-source
+title: Prime Coordinator
+aliases:
+- raw/D-drive-scan-2026-05-12/elemental-agents/agents/01-prime-coordinator
+tags:
+- raw
+- agents
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- angle
+- acceptance
+- assignment
+- completion
+- pair
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/elemental-agents/agents/01-prime-coordinator.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/02_PHAROS_Master_SOP]]'
+---
+
 # Prime Coordinator
 
 See also [[02_PHAROS_Master_SOP]].

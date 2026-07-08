@@ -1,10 +1,104 @@
 ---
 type: wiki
-aliases: [RDAIG, Recursive Deterministic AI Governance, Recursive Governance Method, PHAROS pipeline, PHAROS Method, "PHAROS Method — Recursive Governance", "Recursive Governance Method — Skill Corpus Entry"]
-tags: [pharos, governance, method, reference]
+title: PHAROS Method — Technical Reference
+aliases:
+- RDAIG
+- Recursive Deterministic AI Governance
+- Recursive Governance Method
+- PHAROS pipeline
+- PHAROS Method
+- PHAROS Method — Recursive Governance
+- Recursive Governance Method — Skill Corpus Entry
+- wiki/PHAROS Method — Technical Reference
+tags:
+- pharos
+- governance
+- method
+- reference
+- wiki
+- pharos-method-technical-reference-md
+- promotion
+- recalibration
+- patent
+- unified
+- color-purple
 status: active
-created: 2026-04-16
-updated: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Method — Technical Reference.md
+backlink_count: 67
+backlinks:
+- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[wiki/AI Governance Sprint — One-Page Sellable Packet]]'
+- '[[wiki/APEX Papers — Research Archive Map]]'
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
+- '[[wiki/AurorA — COMPASSai Input Module]]'
+- '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'
+- '[[wiki/CLAUDEX — AI Dialogue Archive]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
+  Explanation)]]'
+- '[[wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
+- '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
+  Phenomenon]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[wiki/GSD — Get-Shit-Done Claude Code System]]'
+- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/PHAROS]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/PHAROS Method — Core Framework]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/PHAROS-AI Webservice — pharos-ai.ca]]'
+- '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
+- '[[wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
+- '[[wiki/RIA-CODEX — System Audit Protocol]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Red Team Handbook — Offensive Security Reference]]'
+- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
+- '[[wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
+- '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory]]'
+- '[[projects/PHAROS — Fisher King Project State]]'
+- '[[session-state]]'
 ---
 
 # PHAROS Method — Technical Reference

@@ -1,3 +1,49 @@
+---
+type: wiki
+title: Breath of the Astral Year — Astrology Monograph
+aliases:
+- Breath of the Astral Year — Astrology Monograph
+- wiki/Breath of the Astral Year — Astrology Monograph
+tags:
+- wiki
+- monograph
+- breath-of-the-astral-year-astrology-monograph-md
+- astrology
+- zodiacal
+- competences
+- civic
+- grammar
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Breath of the Astral Year — Astrology Monograph.md
+backlink_count: 21
+backlinks:
+- '[[wiki/Breath of the Astral Year — Version Genealogy]]'
+- '[[wiki/CODEX Writing Projects Manifest]]'
+- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/Novel Corpus Map]]'
+- '[[projects/GAIA — Fisher King Project State]]'
+---
+
 # Breath of the Astral Year — Astrology Monograph
 
 ## Summary

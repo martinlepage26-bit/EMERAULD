@@ -1,9 +1,29 @@
 ---
+type: wiki
 title: Mauss - The Gift
+aliases:
+- Mauss - The Gift
+- wiki/2026 - Mauss - The Gift
+tags:
+- wiki
+- 2026-mauss-the-gift-md
+- unpacked
+- recursotrue
+- recurso
+- pack
+- kingmalek
+- color-purple
+status: recovered
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/2026 - Mauss - The Gift.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 year: 2026
 source_file: D-drive-dedup-manifest-2026-04-21.csv
 format: csv
-status: recovered
 ---
 
 # Mauss - The Gift

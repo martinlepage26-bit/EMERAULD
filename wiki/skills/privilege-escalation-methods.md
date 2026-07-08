@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "privilege-escalation-methods"
-domain: "Security and Compliance"
+title: privilege-escalation-methods
+aliases:
+- skills/privilege-escalation-methods
+- wiki/skills/privilege-escalation-methods
+tags:
+- skill
+- wiki
+- skills
+- privilege
+- methods
+- escalation
+- package
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/privilege-escalation-methods/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/privilege-escalation-methods.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Security and Compliance]]'
+skill_id: privilege-escalation-methods
+domain: Security and Compliance
+codex_path: /home/cerebrhoe/.codex/skills/privilege-escalation-methods/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

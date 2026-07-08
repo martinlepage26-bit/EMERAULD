@@ -1,3 +1,26 @@
+---
+type: discarded-note
+title: 'Activity: Design Your Tool Strategy'
+aliases:
+- .trash/Building Your First AI Agent with OpenAI__________
+tags:
+- archive
+- ai
+- agents
+- discarded-note
+- trash
+- building-your-first-ai-agent-with-openai-md
+status: discarded
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .trash
+canonical_path: .trash/Building Your First AI Agent with OpenAI__________.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+---
+
 # Activity: Design Your Tool Strategy
 # Overview
 

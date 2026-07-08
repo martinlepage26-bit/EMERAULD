@@ -1,9 +1,30 @@
 ---
 type: governance-checkpoint
-aliases: [GOVERNANCE CONTROLS — Phase 1 PROGRESS CHECKPOINT]
+title: Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)
+aliases:
+- GOVERNANCE CONTROLS — Phase 1 PROGRESS CHECKPOINT
+- wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)
+tags:
+- governance-checkpoint
+- wiki
+- governance-controls-phase-1-progress-checkpoint-2026-04-26-md
+- phase
+- registry
+- refresh
+- automation
+- supersession
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md
+backlink_count: 4
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
+- '[[wiki/Governance and PHAROS MOC]]'
 phase: Phase 1 Infrastructure
 completion: 35%
 ---

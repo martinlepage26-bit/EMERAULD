@@ -1,13 +1,36 @@
 ---
 type: wiki
+title: PAPER BUILDER — Source Bundle and HENRY Origin
 aliases:
-  - PAPER BUILDER Source Bundle
-  - HENRY Origin Bundle
-  - ubuntu disk bundle
-tags: [henry, paper-builder, voice-spec, genealogy, build-artifact, writing-system, version-genealogy]
+- PAPER BUILDER Source Bundle
+- HENRY Origin Bundle
+- ubuntu disk bundle
+- wiki/PAPER BUILDER — Source Bundle and HENRY Origin
+tags:
+- henry
+- paper-builder
+- voice-spec
+- genealogy
+- build-artifact
+- writing-system
+- version-genealogy
+- wiki
+- paper-builder-source-bundle-and-henry-origin-md
+- voice
+- builder
+- spec
+- bundle
+- color-orange
 status: active
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PAPER BUILDER — Source Bundle and HENRY Origin.md
+backlink_count: 3
+backlinks:
+- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Personal and Projects MOC]]'
 ---
 
 # PAPER BUILDER — Source Bundle and HENRY Origin

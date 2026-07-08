@@ -1,12 +1,34 @@
 ---
 type: client
+title: Lavoie
 aliases:
-  - Lavoie prospect
-tags: [client, prospect, pharos, tentative, superseded]
+- Lavoie prospect
+- memory/clients/Lavoie
+tags:
+- client
+- prospect
+- pharos
+- tentative
+- superseded
+- memory
+- clients
+- lavoie
+- retrievable
+- finish
+- color-green
 status: superseded
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/Lavoie.md
+backlink_count: 5
+backlinks:
+- '[[wiki/CLIENT ACCOUNTS]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory]]'
+- '[[memory/clients/Lavoie Construct]]'
+- '[[memory/daily/2026-04-19]]'
 payment_status: not documented
-created: 2026-04-19
-updated: 2026-04-19
 ---
 
 # Lavoie

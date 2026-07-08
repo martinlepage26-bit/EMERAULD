@@ -1,9 +1,36 @@
 ---
-name: Three-Agent System Architecture
-description: HEPHAISTOS (Forge/Tier 0), Queen Keyport (Governor/Tier 1), Hermes (Connector/Routing); bound by 9 principles, validated through Diamond-Eyes, with canonical skills at .codex/skills/
 type: project
+title: three_agent_system
+aliases:
+- memory/local-session/three_agent_system
+tags:
+- project
+- memory
+- local-session
+- hermes
+- tier
+- keyport
+- skills
+- queen
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/three_agent_system.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+- '[[governance/hephaistos/HERMES]]'
+- '[[memory/local-session/project_hephaistos]]'
+name: Three-Agent System Architecture
+description: HEPHAISTOS (Forge/Tier 0), Queen Keyport (Governor/Tier 1), Hermes (Connector/Routing);
+  bound by 9 principles, validated through Diamond-Eyes, with canonical skills at
+  .codex/skills/
 originSessionId: d120c79c-4e5b-4b6c-b29c-d841a6580859
 ---
+
 ## Core Structure
 
 **Three agents, each with a primary tier and shared right-arms:**

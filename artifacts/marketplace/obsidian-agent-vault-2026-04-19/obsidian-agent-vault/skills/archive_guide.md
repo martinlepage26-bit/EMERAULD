@@ -1,3 +1,32 @@
+---
+type: skill-spec
+title: Mnara - Archive Guide
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/archive_guide
+tags:
+- skill
+- agents
+- archive
+- skill-spec
+- artifacts
+- marketplace
+- sensitive
+- deleting
+- processed
+- deletion
+- color-orange
+status: active
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/archive_guide.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # Mnara - Archive Guide
 
 ## Purpose

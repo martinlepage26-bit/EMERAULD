@@ -1,10 +1,36 @@
 ---
 type: wiki
-aliases: ["Paganisme(s) queer", "Religion et sexualité (REL2614) — Paganisme(s) queer"]
-tags: [reference, paganism, wicca, queer, gender, ritual, uqam, teaching]
+title: Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)
+aliases:
+- Paganisme(s) queer
+- Religion et sexualité (REL2614) — Paganisme(s) queer
+- wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)
+tags:
+- reference
+- paganism
+- wicca
+- queer
+- gender
+- ritual
+- uqam
+- teaching
+- wiki
+- paganisme-s-queer-lepage-uqam-rel2614-genre-et-wicca-md
+- paganisme
+- binarity
+- color-violet
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca).md
+backlink_count: 5
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)

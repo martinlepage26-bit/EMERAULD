@@ -1,10 +1,35 @@
 ---
 type: wiki
-aliases: []
-tags: [memo, governance, platform, signals, pharos, 2026-05-14]
+title: Governance and Platform Signals Memo — 2026-05-14
+aliases:
+- Governance and Platform Signals Memo — 2026-05-14
+- wiki/Governance and Platform Signals Memo — 2026-05-14
+tags:
+- memo
+- governance
+- platform
+- signals
+- pharos
+- '2026-05-14'
+- wiki
+- governance-and-platform-signals-memo-2026-05-14-md
+- healthcare
+- signal
+- cohen
+- synthesized
+- reddit
+- color-purple
 status: active
-created: 2026-05-14
-updated: 2026-05-14
+created: '2026-05-14'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Governance and Platform Signals Memo — 2026-05-14.md
+backlink_count: 4
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Governance and Platform Signals Memo — 2026-05-14

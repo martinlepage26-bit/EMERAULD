@@ -1,3 +1,33 @@
+---
+type: governance-doc
+title: Ethics Escalation Criteria
+aliases:
+- Ethics Escalation Criteria
+- governance/hephaistos/ethics-escalation-criteria
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- keyport
+- queen
+- finding
+- redesign
+- mitigation
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/ethics-escalation-criteria.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/QUEEN-KEYPORT]]'
+- '[[governance/hephaistos/hermes-escalation-to-queen-keyport]]'
+---
+
 # Ethics Escalation Criteria
 
 ## Purpose

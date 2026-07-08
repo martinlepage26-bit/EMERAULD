@@ -1,26 +1,56 @@
 ---
+type: agent-spec
+title: Gadget — Frontier Tooling, Build & Launch Agent
+aliases:
+- Gadget — Frontier Tooling, Build & Launch Agent
+- .github/agents/gadget.agent
+tags:
+- agents
+- gadget
+- agent-spec
+- github
+- release
+- terminal
+- checksums
+- networked
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .github
+canonical_path: .github/agents/gadget.agent.md
+backlink_count: 3
+backlinks:
+- '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 name: gadget
-description: "Frontier tooling and build agent: assist with scaffolding, builds, packaging, and launch tasks for prototypes and demos."
-applyTo: ".github/agents/**"
+description: 'Frontier tooling and build agent: assist with scaffolding, builds, packaging,
+  and launch tasks for prototypes and demos.'
+applyTo: .github/agents/**
 model: sonnet
-tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList, run_in_terminal
+tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite,
+  TaskCreate, TaskUpdate, TaskGet, TaskList, run_in_terminal
 allow_auto_create: false
 allow_run_in_terminal: true
 run_approval_required: true
 run_approval_roles:
-  - owner
-allow_auto_create: false
+- owner
 skills:
-  - agent-management
-  - free-tool-strategy
-  - ai-product
-  - codex-review
-  - test-detect
-  - hermes-dependency-mapper
-  - packaging
-  - release-notes
-  - secret-detection
-  - ci-config
+- agent-management
+- free-tool-strategy
+- ai-product
+- codex-review
+- test-detect
+- hermes-dependency-mapper
+- packaging
+- release-notes
+- secret-detection
+- ci-config
+entity_type: Team
+entity_id: gadget
+entity_aliases: []
+entity_confidence: high
 ---
 
 # Gadget — Frontier Tooling, Build & Launch Agent

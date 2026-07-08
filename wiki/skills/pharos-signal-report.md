@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "pharos-signal-report"
-domain: "AI LLM and Tools"
+title: pharos-signal-report
+aliases:
+- skills/pharos-signal-report
+- wiki/skills/pharos-signal-report
+tags:
+- skill
+- wiki
+- skills
+- signal
+- digest
+- report
+- exclusive
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/pharos-signal-report/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/pharos-signal-report.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — AI and LLM Tools]]'
+skill_id: pharos-signal-report
+domain: AI LLM and Tools
+codex_path: /home/cerebrhoe/.codex/skills/pharos-signal-report/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

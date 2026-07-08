@@ -1,3 +1,29 @@
+---
+type: archive-record
+title: PHAROS Evidence Bundle V12 — Revision Summary
+aliases:
+- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/REVISION_SUMMARY
+tags:
+- archive
+- pharos
+- archive-record
+- pharos-invention-disclosure-bundle-sources-2026-04-25
+- deduplication
+- recursive
+- standardization
+- passes
+- redesign
+- color-green
+status: archived
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/REVISION_SUMMARY.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+---
+
 # PHAROS Evidence Bundle V12 — Revision Summary
 
 See also [[Governance and PHAROS MOC]].

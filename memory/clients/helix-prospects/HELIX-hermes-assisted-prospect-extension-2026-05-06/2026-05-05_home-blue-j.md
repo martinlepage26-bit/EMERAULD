@@ -1,11 +1,31 @@
 ---
 type: raw-source
-source_url: https://www.bluej.com/
 title: Home | Blue J
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-blue-j
+tags:
+- raw-source
+- memory
+- clients
+- blue
+- trial
+- firm
+- partner
+- firms
+- color-lime
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-blue-j.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Paper Planes — M.I.A. — Lyrics]]'
+- '[[wiki/Research and Papers MOC]]'
+source_url: https://www.bluej.com/
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Home | Blue J

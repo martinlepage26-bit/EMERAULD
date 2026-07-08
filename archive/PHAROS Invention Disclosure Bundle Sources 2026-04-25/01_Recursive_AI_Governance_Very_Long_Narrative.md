@@ -1,3 +1,31 @@
+---
+type: archive-record
+title: 'Recursive AI Governance as Executable Method: The Very Long Narrative'
+aliases:
+- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/01_Recursive_AI_Governance_Very_Long_Narrative
+tags:
+- archive
+- pharos
+- recursion
+- governance
+- ai
+- archive-record
+- pharos-invention-disclosure-bundle-sources-2026-04-25
+- arxiv
+- recursive
+- preprint
+- method
+- color-purple
+status: archived
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/01_Recursive_AI_Governance_Very_Long_Narrative.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+---
+
 # Recursive AI Governance as Executable Method: The Very Long Narrative
 
 See also [[Governance and PHAROS MOC]].

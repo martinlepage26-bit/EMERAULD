@@ -1,3 +1,33 @@
+---
+type: version-genealogy
+title: For Her Alone to Wield — Version Genealogy
+aliases:
+- For Her Alone to Wield — Version Genealogy
+- wiki/For Her Alone to Wield — Version Genealogy
+tags:
+- version-genealogy
+- wiki
+- for-her-alone-to-wield-version-genealogy-md
+- buffy
+- buyffy
+- bibliography
+- reinserted
+- markers
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/For Her Alone to Wield — Version Genealogy.md
+backlink_count: 5
+backlinks:
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
+- '[[wiki/Home]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # For Her Alone to Wield — Version Genealogy
 
 ## Summary

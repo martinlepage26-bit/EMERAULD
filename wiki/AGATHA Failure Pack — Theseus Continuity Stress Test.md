@@ -1,8 +1,50 @@
 ---
 type: note
-tags: [agatha, stress-test, helix, Theseus, recursive-governance, failure]
-created: 2026-04-28
-updated: 2026-04-28
+title: AGATHA Failure Pack — Theseus Continuity Stress Test
+aliases:
+- AGATHA Failure Pack — Theseus Continuity Stress Test
+- wiki/AGATHA Failure Pack — Theseus Continuity Stress Test
+tags:
+- agatha
+- stress-test
+- helix
+- theseus
+- recursive-governance
+- failure
+- note
+- wiki
+- agatha-failure-pack-theseus-continuity-stress-test-md
+- stress
+- auryn
+- hopf
+- color-purple
+status: active
+created: '2026-04-28'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AGATHA Failure Pack — Theseus Continuity Stress Test.md
+backlink_count: 19
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[wiki/Home]]'
+- '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
+- '[[wiki/PHAROS Licensing Prospectus]]'
+- '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
+  Projection]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-28]]'
 ---
 
 # AGATHA Failure Pack — Theseus Continuity Stress Test
@@ -36,6 +78,7 @@ This packet fills an evidence gap named in [[Recursive Governance Protocol — T
 - [[Recursive Governance Theory]] — continuity and governing-relation theory.
 - [[AI Governance Failure Cases]] — useful as a micro-failure of recursive validation if used pedagogically.
 - [[HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]] — live HELIX counterpart to the failed/partial root traces.
+- [[HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)]] — later full-protocol run whose Anti-Charm citation-refusal step (post-protocol follow-up) targets the same failure signature named here ("preserve its own governing frame by restating it"). Checked against [[Recursive Governance Protocol — Theseus, Auryn, Hopf]]: this failure signature is already the dictionary's named "closure reflex" mode, dated no later than the AGATHA files themselves (2026-04-28) — no evidence AGATHA's failure caused the July run's citation-refusal step; retracted as a causal claim.
 - [[RECURSO — Recursive Governance Test Archive]] — older archive home for Theseus and Möbius stress-test runs.
 - [[Narrative Capture Failure Taxonomy — Substituting Theory for Contact]] and [[AI Iterative Loop — Frame Capture and Recursive Validation Failure]] — taxonomy route for the failure mode.
 - [[Emotional Alliance vs. Evidentiary Discipline in AI]] — anti-charm and exactness discipline.

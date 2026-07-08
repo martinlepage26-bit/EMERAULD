@@ -1,7 +1,65 @@
 ---
 type: session-state
+title: session-state
+aliases:
+- session-state
+tags:
+- session-state
+- session-state-md
+- backlink
+- tmux
+- graph
+- emerauld
+- added
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: session-state.md
+canonical_path: session-state.md
+backlink_count: 40
+backlinks:
+- '[[wiki/Agent Logs Hub]]'
+- '[[wiki/Architecture - EMERAULD Scripts - Overview]]'
+- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
+- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[wiki/Weekly Review — 2026-06-26]]'
+- '[[wiki/Workflows Hub]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]'
+- '[[assets/D-drive-dedup-report-2026-04-21]]'
+- '[[index]]'
+- '[[memory]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Learning]]'
+- '[[memory/agents/Vibe]]'
+- '[[memory/daily/2026-04-19]]'
+- '[[memory/daily/2026-04-20]]'
+- '[[memory/daily/2026-04-21]]'
+- '[[memory/daily/2026-04-22]]'
+- '[[memory/daily/2026-04-23]]'
+- '[[memory/daily/2026-05-02]]'
+- '[[memory/daily/2026-05-05]]'
+- '[[memory/daily/2026-05-13]]'
+- '[[memory/daily/2026-06-22]]'
+- '[[memory/daily/2026-06-23]]'
+- '[[memory/daily/2026-06-24]]'
+- '[[memory/daily/2026-06-25]]'
+- '[[memory/daily/2026-06-26]]'
+- '[[memory/daily/2026-06-27]]'
+- '[[memory/daily/2026-06-28]]'
+- '[[memory/daily/2026-06-29]]'
+- '[[memory/daily/2026-06-30]]'
+- '[[memory/daily/2026-07-01]]'
+- '[[raw/README]]'
 register: session-state
-updated: 2026-06-21T00:00-0400
 agent: Trismégiste
 archive: session-state-002
 ---
@@ -375,3 +433,179 @@ nightly pass 2026-06-25 — phases 1-4 complete, 0 reconciled (no wiki notes car
 **Codex zero-orphan verification (2026-06-26):** Alias-aware recursive scan of `/home/martin/EMERAULD/wiki/**/*.md` verified **886 wiki notes, 0 zero-inbound orphans**. Regenerated `.graph_store`: **904 nodes, 8,980 directed edges, 16,082 link mentions, 1 connected component, 0 zero-backlink notes, 3,286 unresolved links**.
 
 **Morning agent (2026-06-26):** Health-check run — stale scan (7 wiki project notes, 8 Fisher King state files unchanged), overdue sweep (2 tasks in External Data Registry, 5th consecutive flag), daily note created at `memory/daily/2026-06-26.md`.
+
+---
+
+## Session Note — 2026-06-26 — Frontmatter Normalization Pass
+
+**Trigger:** Operator request — "work on EMERAULD, fill each md file with the appropriate frontmatter."
+
+**Work completed:**
+- Added or completed frontmatter for 581 editable Markdown files across wiki notes, MOCs, bridge notes, governance docs, agent specs, memory registers, templates, artifacts, assets, archive records, raw intake files, and the untracked `PEER-REVIEW/` paper workspace.
+- Preserved existing frontmatter fields where present; added missing `type` plus conservative `aliases` or `title`, `tags`, `status`, `created`, and `updated` fields based on path, title, existing H1, filename dates, and git/file dates.
+- Repaired 11 malformed pre-existing YAML blocks by quoting colon-bearing values, template placeholders, and one mojibake raw-source title in frontmatter only.
+- Left `raw sources/` untouched by design per vault rule; 157 legacy Markdown files there still lack frontmatter and remain protected provenance material.
+
+**Verification:**
+- Editable Markdown scope checked: 1,395 files, 0 missing frontmatter/type, 0 PyYAML parse errors.
+- `raw sources/` git diff: 0 files.
+
+**Open:** None for editable-scope frontmatter. Full legacy `raw sources/` frontmatter would require an explicit operator override of the preserve-only lane rule.
+
+---
+
+## Session Note — 2026-06-26 — Backlink Metadata and Frontmatter Enrichment Pass
+
+**Trigger:** Operator request — "Work EMERAULD, add backlinks and enrich frontmatter for ALL MD FILES".
+
+**Work completed:**
+- Added `scripts/enrich_frontmatter_backlinks.py`, a deterministic vault maintenance script for all editable Markdown files outside the protected `raw sources/` provenance lane.
+- Enriched frontmatter across 1,395 editable Markdown files with complete `title`, `aliases`, `tags`, `status`, `created`, `updated`, `vault_area`, `canonical_path`, `backlink_count`, and `backlinks` fields while preserving existing meaningful metadata.
+- Added generated inbound links for 102 previously no-inbound editable files through [[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]], using canonical path wikilinks to avoid `Home.md` / `README.md` ambiguity.
+- Rebuilt `.graph_store` with `scripts/build_wikilink_graph.py`, then reran the enrichment pass so [[.graph_store/graph_report]] also retained frontmatter.
+
+**Verification:**
+- Editable Markdown audit: 1,395 files, 0 YAML parse errors, 0 missing enriched keys, 0 zero-inbound editable files, 0 backlink metadata mismatches.
+- Protected `raw sources/` diff: 0 files.
+- Curated graph rebuild: 904 nodes, 9,028 directed edges, 16,132 link mentions, 1 connected component, 0 zero-backlink notes, 6 one-backlink notes, 260 two-backlink notes.
+
+**Boundary:** `raw sources/` remains intentionally unmodified under the EMERAULD provenance rule; full raw-source frontmatter would require explicit override.
+
+---
+
+nightly pass 2026-06-26 — phases 1-4 complete, 1 reconciled (EMERAULD Graph Architecture edge count 8,980→9,028 contradiction flagged with callout), 1 synthesized (Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing), 1 orphan linked (Weekly Review — 2026-06-26 → Workflows Hub).
+
+morning agent 2026-06-27 — daily note created, stale scan clean (all project-tagged wiki notes updated 2026-06-26 by nightly pass), 2 overdue tasks in External Data Registry persist (6th consecutive flag).
+
+---
+
+## Session Note — 2026-06-27 — emergent.sh Spec Sheet
+
+**Trigger:** Operator request to produce a spec sheet for `emergent.sh`.
+
+**Work completed:** Created [[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]] from official emergent.sh homepage, FAQ, pricing, and enterprise pages. The note captures platform positioning, capability matrix, pricing tiers, PHAROS/EMERAULD use boundary, production acceptance checklist, governance rules, and open questions. Linked it from [[wiki/AI Infrastructure Stack]], [[wiki/Personal and Projects MOC]], and [[_vault/VAULT ADDITIONS TRACKER]].
+
+**Boundary:** Official-source-only spec sheet; no hands-on emergent.sh build, generated-code review, security audit, legal review, or enterprise contract review performed.
+
+---
+
+## Session Note — 2026-06-27 — if.blackboard Spec Sheet Correction
+
+**Trigger:** Operator corrected the requested target: "NO a spec sheet for if.blackboard".
+
+**Work completed:** Created [[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]], linked it from [[wiki/AI Infrastructure Stack]], [[wiki/InfraFabric Architecture]], [[wiki/InfraFabric MCP Stack — Remote Bundles]], [[wiki/Personal and Projects MOC]], and [[_vault/VAULT ADDITIONS TRACKER]], and prepared a download copy in `/home/martin/Downloads/if-blackboard-spec-sheet-2026-06-27.md`.
+
+**Boundary:** The sheet separates local InfraFabric canon from current liveness. Local sources support `if.blackboard` as a preview, active-internal, append-only task/session/signal coordination evidence surface. A 2026-06-27 unauthenticated endpoint check found historical `/llm/blackboard/**`, `/llm/signals/**`, and registry mirror URLs redirecting to the InfraFabric sign-in page, so public no-login reviewability is not claimed as current.
+
+---
+
+nightly pass 2026-06-27 — phases 1-4 complete, 0 reconciled, 1 synthesized (if.switchboard — InfraFabric Product Center), 0 orphans linked. Frontmatter fix: Emergent.sh updated field corrected from 2026-06-26 to 2026-06-27.
+
+morning agent 2026-06-28 — daily note created, stale scan clean (all project-tagged wiki notes and Fisher King state files updated 2026-06-26), 5 overdue tasks flagged (2 in External Data Registry persist — 7th consecutive flag; 3 in Weekly Review 2026-06-26).
+
+nightly pass 2026-06-28 — phases 1-4 complete, 1 reconciled (Vault Health — 2026-06-28 "6 orphans" vs EMERAULD Graph Architecture / zero-orphan enforcement "0 orphans" — flagged with callout, reconciled as zero-outbound linking-rule orphan vs zero-inbound graph-store orphan), 0 synthesized (only 1 wiki note touched today, no shared-concept consensus to promote), 1 orphan linked (Vault Health — 2026-06-28 → EMERAULD; prior sole inbound was the VAULT ADDITIONS TRACKER log).
+
+morning agent 2026-06-29 — daily note created, stale scan clean (all project-tagged wiki notes and Fisher King state files within 7-day window), 5 overdue tasks flagged (2 in External Data Registry persist — 8th consecutive flag; 3 in Weekly Review 2026-06-26). Session-state at 494 lines.
+
+---
+
+## Session Note — 2026-06-29 — Obsidian OS Build + Pattern Emergence + Gumroad Execution
+
+**Trigger:** Multi-task operator session: obsidian-os-ai skill creation → PARA scaffold build → wiki routing review → /obsidian-emerge → /obsidian-architect → /idea-discovery → Gumroad listing execution.
+
+**Work completed:**
+
+**Obsidian OS scaffold (PARA structure):**
+- Created `obsidian-os-ai` skill at `/home/martin/.claude/skills/obsidian-os-ai/SKILL.md` — defines 4-pillar PARA framework, trigger vocabulary, Bases view patterns.
+- Created `Inbox/README.md` — routing decision tree; captures go to Inbox with `status: inbox` before routing.
+- Created `Areas/PHAROS/AREA.md`, `Areas/Lavoie/AREA.md`, `Areas/Writing/AREA.md`, `Areas/Personal/AREA.md` — area scope boundaries, contact tables, active works inventories.
+- Created `Resources/ROUTING.md` — declares `wiki/` as frozen legacy; new reference notes route to `Resources/`.
+- Created `projects/DOMAIN.md` — canonical status vocabulary: draft → in-progress → blocked → on-ice → complete → archived; YAML schema for project notes; agent rules.
+- Created `Projects Dashboard.base` — Obsidian Bases view; kanban (6 status columns in pipeline order) + table (sorted by status then priority).
+- Batch-updated all 15 Fisher King project files: 13 `status: active` → `status: in-progress`; 2 `status: dormant` → `status: on-ice` (Magie sanguine, Dr. Sort).
+
+**Wiki routing audit:**
+- Fork agent audited all 569 `wiki/` notes; produced `wiki/WIKI-ROUTING-REPORT.md` — 569 notes reviewed, routing recommendations, top-20 priority moves identified.
+
+**Emerge pattern report:**
+- `/obsidian-emerge` across last 30 days: 8 daily notes, 4 registers, 15 project files, session-state, 10 vault-wide vector queries.
+- 9 structural patterns surfaced (see [[artifacts/emerge-pattern-report-2026-06-29]]): vault-as-project (7 of 8 days were maintenance), PHAROS launch gap (8+ weeks untracked), 3 products blocked on 1 email (HELIX/GAIA/AurorA all ready, all blocked on initiating external contact), COMPASSai/HELIX priority drift, External Data Registry orphan tasks, unused wellbeing skills, two conflated Lavoie entities, writing archaeologized, registers 6 weeks stale.
+
+**Architecture documentation:**
+- Built `scripts/architect_scan.py` from scratch (read-only codebase scanner, emits JSON with name/kind/languages/modules/dependencies/entry_points/signals/git).
+- Ran scan on `EMERAULD/scripts/` (commit 96e6487).
+- Produced 4 architecture notes: [[Architecture - EMERAULD Scripts - Overview]] (Mermaid module map, 8 core + 12 support modules), [[Architecture - EMERAULD Scripts - Knowledge Layers]] (3-layer retrieval: vector/LightRAG/wikilink), [[Architecture - EMERAULD Scripts - Intake Pipeline]] (raw sources → raw/ → wiki/ flow), [[Architecture - EMERAULD Scripts - Key Decisions]] (6 ADRs). Sentinel-wrapped (`<!-- @generated:start/end -->`) for refresh safety.
+- Surfaced known bug: `verify_and_hardmove_to_raw.py` still uses hardcoded `/mnt/c/users/softinfo/documents/emerauld` (old WSL machine path); all other scripts use `lightrag_config.resolve_vault_root()`. Bug documented, not fixed (out of scope).
+
+**Idea discovery:**
+- `/idea-discovery` scan: 5 ranked candidates from project Open Questions + vault pull/momentum signals.
+- Heuristic: Pull (evidence of external demand) → Momentum (prerequisites done today) → Recency.
+- Created [[wiki/2026-06-29 - idea-discovery]]: #1 Gumroad listing (31 backlinks, all prerequisites done), #2 HELIX outreach (34-day regulatory window), #3 GAIA soft launch (v1.6 built), #4 Papers P0 queue, #5 ECHO disambiguation.
+
+**Gumroad listing execution:**
+- User selected #1: Gumroad listing for [[Obsidian Agent Vault — Launch Kit]].
+- Confirmed listing copy complete at `artifacts/marketplace/promo/gumroad-listing.md` (title, summary, full description, $49/$299/$2,500 tiers, tags, license note).
+- Built clean zip `assets/obsidian-agent-vault-2026-06-29.zip` (28K, 37 files, `__pycache__` stripped; SHA256: 887c44f308a431fe7cb1ef8e6293c6f1b27940faf997985b97d7f2bfcfc7cc6c).
+- Created social posts at `artifacts/marketplace/promo/social-posts` (10-tweet thread, 3 standalone posts, LinkedIn post; URL placeholder to replace after publish).
+- Updated [[projects/Second Brain — Fisher King Project State]]: Gumroad blocker replaced with "manual browser action required."
+- Updated `_CLAUDE.md` Section 12 active context: Gumroad listing at priority #1, zip path updated.
+
+**One action remaining:** Open gumroad.com, create product, paste listing copy from `artifacts/marketplace/promo/gumroad-listing.md`, upload `assets/obsidian-agent-vault-2026-06-29.zip`, publish. Estimated: 90 minutes.
+
+**Open items:**
+- Gumroad browser action (manual, remaining)
+- Graphify subfolder selection (BLOCKED: 2,527 files / 7.1M words too large; `wiki/` suggested as best subfolder)
+- HELIX outreach (34-day window; decision exists since 2026-06-21, unexecuted)
+- GAIA soft launch (v1.6 built; name 10 people, send TestFlight/APK)
+- Lavoie entity disambiguation note (Lavoie Construct ≠ Groupe Lavoie)
+- Agent registers backfill (Blockers/Decisions/Learning/Events/Journal stop at ~May 13)
+
+nightly pass 2026-06-29 — phases 1-4 complete, 2 reconciled (Architecture - Knowledge Layers: vector store count 896→910 and graph store 901/8672→908/9067 flagged with contradiction callouts), 1 synthesized (lightrag_config — EMERAULD Shared Config Module), 2 orphans linked (WIKI-ROUTING-REPORT → EMERAULD.md; 2026-06-29 - idea-discovery → Obsidian Agent Vault — Launch Kit).
+
+nightly pass 2026-06-30 — phases 1-4 complete, 1 reconciled (Stacklight-owner-explainer durable-authority claim vs InfraFabric MCP Stack / if.blackboard spec SSH access pattern, flagged with contradiction callout), 0 synthesized (only 1 wiki note touched today, no shared-concept consensus to promote), 1 orphan linked (Stacklight-owner-explainer → AI Infrastructure Stack + Governance and PHAROS MOC).
+
+2026-06-30 — Morning agent ran: daily note created, stale scan (none), overdue scan (5 items unchanged), session-state updated.
+
+---
+
+## Session Note — 2026-07-01 — Stacklight-owner-explainer Contradiction Resolved
+
+**Trigger:** Operator directive — "resolve the Stacklight-owner-explainer contradiction" (flagged by the 2026-06-30 nightly pass).
+
+**Investigation:** Read the note's cited source (`/home/martin/governanceframework/README.md`) and traced the actual Stacklight repo (`/home/martin/apps/stacklight`) for corroborating infra evidence, specifically `documentation/agents/5009-if-blackboard-postgres-authority-runbook-2026-06-29.md` and `5011-...-mtl03-fresh-session-handover-2026-06-30.md`. Confirmed this machine is `mtl-03` per the handover's host-role table.
+
+**Verdict:** Not a real contradiction — a timeline gap. `if.blackboard` migrated off SSH-tunneled Proxmox-270 script/JSONL mutation to a hosted HTTPS API (`https://api.infrafabric.io`, PostgreSQL on `mtl-02`, table `if_blackboard.r05_events`) in the **R0.5 rollout on 2026-06-29** — one day before the Stacklight note was created and two days after [[InfraFabric MCP Stack — Remote Bundles]] and [[if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]] were last updated. Direct SSH/script/DB mutation now fails closed by design; it is not an alternate durable path. The Stacklight note's claim was correct and current all along.
+
+**Notes updated (4):** [[Stacklight-owner-explainer]] (warning callout → resolved), [[if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]] (superseded-access-pattern callout, Identity table split historical/current, Operating Contract + Open Questions updated, 2 new sources), [[InfraFabric MCP Stack — Remote Bundles]] (if_blackboard entry rewritten, SSH safety rule scoped, new open question on if_context's unchecked migration status), [[AI Infrastructure Stack]] (both summary lines corrected). VAULT ADDITIONS TRACKER entry written.
+
+**Secondary finding (kept for later):** Stacklight-the-product's own data store is MongoDB (`stacklight_selfhost`, local) — separate from `if.blackboard`'s Postgres authority. Stacklight's backend implements the published `api.infrafabric.io/blackboard/api.html` contract as a spec; it does not store product data there.
+
+**Open (at time of first pass):** whether `if_context` (the other SSH-tunneled MCP server in the bundle) also migrated off SSH in R0.5 was not checked — flagged as a new open question on [[InfraFabric MCP Stack — Remote Bundles]].
+
+**Follow-up same session — if_context question closed:** Operator asked to go check it. Confirmed via the mtl-03 handover doc's "Hosted if_context API / MCP Repair" section: yes, `if_context` also migrated, repaired 2026-06-30 by session `/rook-410`. Root cause of the pre-repair outage was mtl-03's Codex config pointing `if_context` at the private mtl-01 URL `10.10.10.170:18890` — the exact address class the vault's SSH safety rule warns against, so the rule is validated by a real incident, not just caution. Current state: hosted API at `https://api.infrafabric.io/v1/context/*`, Postgres table `if_context.r05_events` in the same `mtl-02` `if_blackboard` database, `authority_class=hosted_context_r05_api` verified on mtl-01 and mtl-03. Updated [[InfraFabric MCP Stack — Remote Bundles]] again (if_context entry rewritten, SSH safety rule broadened, open question closed) and VAULT ADDITIONS TRACKER. **New distinct open item surfaced (not part of this contradiction):** mtl-03's own `if-cli` binary is drifted — points to an older `if_cli.py` with no `blackboard` command — so CLI parity is not yet claimed on this host even though the underlying API migration for both if_blackboard and if_context is complete. Not yet repaired as of the 2026-06-30 handover.
+
+2026-07-01 — Morning agent ran: daily note created, stale scan (none), overdue scan (5 items unchanged, 10th consecutive flag), session-state updated.
+
+nightly pass 2026-07-01 — phases 1-4 complete, 1 reconciled ([[AI Infrastructure Stack]] still described `if_context` as SSH-dependent after [[InfraFabric MCP Stack — Remote Bundles]] established the same-day migration; flagged with contradiction callout and corrected bullet + snapshot table row; also fixed InfraFabric MCP Stack's own stale top-summary/Key-Ideas SSH language), 1 synthesized ([[InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]] — referenced by all 4 notes touched today without a dedicated note), 1 orphan linked (`memory/agents/Vibe.md`, created today with 0 inbound links, → [[Weekly Review — 2026-06-26]]).
+
+Morning agent ran on 2026-07-02: daily note created at `memory/daily/2026-07-02.md`, stale-project scan clean (0 of 426 wiki/type=wiki project-tagged or status-active notes fall before the 7-day cutoff), overdue task sweep found the same 5 unique items unchanged (11th consecutive flag for the two [[External Data Registry — Phase 1 Build]] items), session-state updated.
+
+nightly pass 2026-07-02 — phases 1-4 complete, 0 reconciled (no wiki/ notes carry updated: 2026-07-02 — a health-check-plus-graphify day, not a wiki synthesis day), 0 synthesized (no shared-concept triggers, since no wiki/ notes were touched today), 1 orphan-pair linked ([[memory/agents/Antigravity]] and [[memory/agents/Gemini]], both created today at 01:22-01:28 UTC by a `/graphify` pass and linked only to each other — healed by wikilinking both from their existing plain-text rows in the [[Resources/glossary|glossary.md]] AI CLI Council table). Also noted for continuity: the same graphify pass built a new curated ontology layer at `graph/` (88 nodes, 109 edges, business/operations scope) — additive to `wiki/`, `.graph_store/`, and `graphify-out/`; left untouched by this pass as it is a self-contained subsystem with its own navigation, outside the wiki/ linking-rule scope.
+
+Morning agent ran on 2026-07-03: daily note created at `memory/daily/2026-07-03.md`, stale-project scan clean (0 of 429 wiki/type=wiki project-tagged or status-active notes fall before the 7-day cutoff), overdue task sweep found the same 5 unique items unchanged (12th consecutive flag for the two [[External Data Registry — Phase 1 Build]] items), session-state updated.
+
+nightly pass 2026-07-03 — phases 1-4 complete, 3 reconciled ([[Master Project Tracker — 2026]] 26-vs-27 authored-skill count drift vs [[Martin Lepage — Authored Skills]], verified by count; Argus drift-audit packet's "Relay Ledger never instantiated" Open Risk vs live ~/.agents/hephaistos/ledgers/RELAY-LEDGER.md carrying RELAY-20260703 entries; security-audit packet's stale "not yet executed" status vs same-day Phases 2-6 closure with 1 confirmed Medium finding), 1 synthesized ([[multi-agent-orchestration Skill — Governance Case File]] — referenced by both scope packets, the ADR-0001 draft, and the scoped plan without a dedicated note; linked from [[Governance and PHAROS MOC]]), 4 orphans linked ([[Triangulation Exercise — Hidden Invariant Behind Institutional Procedure]] ← [[Governance by Denial]]; [[Entrepreneurial Upside — Rare Knowledge, Leverage, and Time]] ← [[PHAROS Commercial Strategy]]; wiki/adr/0001-skill-acquisition-strategy.md and wiki/security-audit-plan.md given frontmatter + title aliases so existing title-form incoming links resolve).
+
+Morning agent ran on 2026-07-04: daily note created at `memory/daily/2026-07-04.md`, stale-project scan flagged 426 of 432 wiki/type=wiki project-tagged or status-active notes (all sharing `updated: 2026-06-26` — the vault-wide bulk touch crossed the 7-day cutoff overnight; full list at artifacts/stale-projects-2026-07-04.md; 6 notes updated 2026-07-03 remain in-window), overdue task sweep found the same 5 unique items unchanged (13th consecutive flag for the two [[External Data Registry — Phase 1 Build]] items), session-state updated. Session-state at 597 lines pre-append — next session-close write should expect to archive first.
+
+Morning agent ran on 2026-07-05: daily note created at `memory/daily/2026-07-05.md`, stale-project scan flagged 422 of 429 wiki/type=wiki project-tagged or status-active notes (all sharing `updated: 2026-06-26` — same saturated bulk-touch signal as 2026-07-04; full list at artifacts/stale-projects-2026-07-05.md; 6 notes updated 2026-07-03 plus 1 new note [[CLIENT ACCOUNTS]] updated 2026-07-05 remain in-window), overdue task sweep found the same 5 unique items unchanged (14th consecutive flag for the two [[External Data Registry — Phase 1 Build]] items), session-state updated. Session-state crosses the 600-line threshold with this append — next session-close write MUST archive session-state first per protocol.
+
+nightly pass 2026-07-05 — phases 1-4 complete, 1 reconciled ([[CLIENT ACCOUNTS]], updated today, conflates Lavoie Construct with Groupe Lavoie as a single PHAROS engagement gated on A1–A5, contradicting `_CLAUDE.md` §12's "different entity / do not conflate" directive; the [[memory/clients/Lavoie Construct]] note's `entity_aliases` reinforce the conflation, so it is a standing ambiguity — flagged with a `> [!warning] Contradiction detected` callout, resolution deferred to operator), 1 synthesized→0 net (the only two wiki notes touched today, [[Vault Health — 2026-07-05]] and [[CLIENT ACCOUNTS]], share no undocumented concept, so no new note was warranted), 1 orphan linked ([[Vault Health — 2026-07-05]], created today, had an inbound link only from the append-only VAULT ADDITIONS TRACKER register — healed with an inline link from the [[EMERAULD]] hub Summary, which also corrected a now-stale "most recent report" pointer, plus a forward-chain link from [[Vault Health — 2026-06-28]]). Note: session-state remains past the 600-line archive threshold; this was an add/update-only pass per directive, so no archive was run — the next session-close write must archive session-state first per protocol.
+
+Morning agent ran on 2026-07-06: daily note created at `memory/daily/2026-07-06.md`, stale-project scan flagged 425 of 433 wiki/type=wiki project-tagged or status-active notes (all sharing `updated: 2026-06-26` — same saturated bulk-touch signal as 2026-07-04 and 2026-07-05; full list at artifacts/stale-projects-2026-07-06.md; 6 notes updated 2026-07-03 plus [[CLIENT ACCOUNTS]] and [[Vault Health — 2026-07-05]] updated 2026-07-05 remain in-window), overdue task sweep found the same 5 unique items unchanged (15th consecutive flag for the two [[External Data Registry — Phase 1 Build]] items), session-state updated. Session-state was already past the 600-line threshold (603 pre-append) — this was an add/update-only run per directive, no archive performed; the next session-close write MUST archive session-state first per protocol.
+
+nightly pass 2026-07-06 — phases 1-4 complete, 1 reconciled (active production delivery in [[Contremaître — Groupe Lavoie Field-Operations Platform]] vs the standing "on ice / gated on A1–A5" engagement framing in [[CLIENT ACCOUNTS]] and the Areas/Lavoie/AREA header — flagged with a contradiction callout in the newer note, two-workstream split proposed, resolution deferred to operator), 1 synthesized ([[Quiet Compliance Workbench — Standing Tone Rule]] — the rook-509 tone rule referenced by both new Lavoie notes plus the area file without a dedicated note; linked from Contremaître, LegiPro, and the Personal and Projects MOC Clients row), 0 orphans linked (all five files created today — Contremaître, LegiPro, Daily Log, Logs/2026-07-06, stale-projects artifact — already carried inbound links). Session-state remains past the 600-line archive threshold; add/update-only pass per directive, no archive run — the next session-close write MUST archive session-state first per protocol.
+
+Morning agent ran on 2026-07-07: daily note created at `memory/daily/2026-07-07.md`, stale-project scan flagged 424 of 435 wiki/type=wiki project-tagged or status-active notes (all sharing `updated: 2026-06-26` — same saturated bulk-touch signal as 2026-07-04 through 2026-07-06; full list at artifacts/stale-projects-2026-07-07.md; eleven notes remain in-window: six updated 2026-07-03, two updated 2026-07-05, three updated 2026-07-06), overdue task sweep found the same 5 unique items unchanged (16th consecutive flag for the two [[External Data Registry — Phase 1 Build]] items), session-state updated. Session-state was at 607 lines pre-append — add/update-only run per directive, no archive performed; the next session-close write MUST archive session-state first per protocol.
+
+nightly pass 2026-07-07 — phases 1-4 complete, 0 reconciled (no wiki/ notes carry updated: 2026-07-07 — a maintenance-only day; the only files touched today were the morning-agent daily log, the stale-projects artifact, session-state, and the tracker), 0 synthesized (no wiki/ notes touched today, so no shared-concept triggers), 0 orphans linked (both files created today — the daily log and artifacts/stale-projects-2026-07-07 — already carry inbound wikilinks beyond the append-only tracker: each links to the other). End-of-day summary appended to memory/daily/2026-07-07.md. Session-state remains past the 600-line archive threshold; add/update-only pass per directive, no archive run — the next session-close write MUST archive session-state first per protocol.

@@ -1,3 +1,57 @@
+---
+type: artifact
+title: How to Write AI Skill Guides That Replace Prompt Engineering
+aliases:
+- artifacts/marketplace/promo/hashnode-iter34-skill-guides
+tags:
+- artifact
+- ai
+- skill
+- artifacts
+- marketplace
+- iter
+- devto
+- guides
+- guide
+- invoke
+- color-teal
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/hashnode-iter34-skill-guides.md
+backlink_count: 28
+backlinks:
+- '[[.trash/Building Your First AI Agent with OpenAI_____]]'
+- '[[.trash/Responses API Fundamentals]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/README]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/archive_guide]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/link_guide]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/synthesis_prompt]]'
+- '[[artifacts/marketplace/promo/community-posts]]'
+- '[[artifacts/marketplace/promo/devto-iter13-decision-log-deepdive]]'
+- '[[artifacts/marketplace/promo/devto-iter17-prompting-problem]]'
+- '[[artifacts/marketplace/promo/devto-iter21-roi-calculation]]'
+- '[[artifacts/marketplace/promo/devto-iter25-hallucination-fix]]'
+- '[[artifacts/marketplace/promo/devto-iter29-context-window-not-memory]]'
+- '[[artifacts/marketplace/promo/devto-iter33-architecture-guide]]'
+- '[[artifacts/marketplace/promo/devto-iter37-three-notes]]'
+- '[[artifacts/marketplace/promo/devto-iter41-code-review]]'
+- '[[artifacts/marketplace/promo/devto-iter49-claudemd-fails]]'
+- '[[artifacts/marketplace/promo/devto-iter9-comparison]]'
+- '[[artifacts/marketplace/promo/hashnode-iter14-scaling]]'
+- '[[artifacts/marketplace/promo/hashnode-iter18-no-rag]]'
+- '[[artifacts/marketplace/promo/hashnode-iter22-graph-vs-folders]]'
+- '[[artifacts/marketplace/promo/hashnode-iter26-synthesis-habit]]'
+- '[[artifacts/marketplace/promo/hashnode-iter30-hub-note-pattern]]'
+- '[[artifacts/marketplace/promo/hashnode-iter38-writing-for-ai]]'
+- '[[artifacts/marketplace/promo/hashnode-iter42-open-questions]]'
+- '[[artifacts/marketplace/promo/hashnode-iter46-active-constraints]]'
+- '[[artifacts/marketplace/promo/hashnode-iter6-feature-first]]'
+- '[[artifacts/marketplace/promo/medium-producthunt]]'
+---
+
 # How to Write AI Skill Guides That Replace Prompt Engineering
 
 **Platform:** Hashnode  

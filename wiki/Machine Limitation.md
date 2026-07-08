@@ -1,13 +1,44 @@
 ---
 type: wiki
+title: Machine Limitation
 aliases:
-  - Machine Limitation
-  - Binding Principle #8
-  - Model-reality gap
-tags: [governance, binding-principle, ai-limitation, epistemics, hephaistos]
+- Machine Limitation
+- Binding Principle
+- Model-reality gap
+- wiki/Machine Limitation
+tags:
+- governance
+- binding-principle
+- ai-limitation
+- epistemics
+- hephaistos
+- wiki
+- machine-limitation-md
+- principle
+- machine
+- limitation
+- willis
+- pbsai
+- color-purple
 status: active
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Machine Limitation.md
+backlink_count: 10
+backlinks:
+- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[wiki/Authority Without Power-Over]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Mental illness, addiction, and AI psychosis]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
+  Projection]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
+  and Computational Memory Architectures]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Machine Limitation

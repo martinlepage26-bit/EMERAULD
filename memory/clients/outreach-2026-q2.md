@@ -1,3 +1,31 @@
+---
+type: client-memory
+title: PHAROS Outreach — Q2 2026
+aliases:
+- PHAROS Outreach — Q2 2026
+- memory/clients/outreach-2026-q2
+tags:
+- client
+- pharos
+- client-memory
+- memory
+- clients
+- email
+- desjardins
+- beneva
+- reply
+- mgmt
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/outreach-2026-q2.md
+backlink_count: 1
+backlinks:
+- '[[memory/clients/helix-prospects-2026-q2]]'
+---
+
 # PHAROS Outreach — Q2 2026
 
 **Prepared:** 2026-05-01  

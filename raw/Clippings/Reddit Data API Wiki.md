@@ -1,16 +1,38 @@
 ---
-title: "Reddit Data API Wiki"
-source: "https://support.reddithelp.com/hc/en-us/articles/16160319875092-Reddit-Data-API-Wiki"
-author:
-published: 2026-03-02
-created: 2026-04-20
-description: "Please note: Some of the information in our legacy API documentation and support resources may be out of date. Always consult our..."
+type: raw-source
+title: Reddit Data API Wiki
+aliases:
+- raw/Clippings/Reddit Data API Wiki
 tags:
-  - clippings
+- clippings
+- raw-source
+- raw
+- reddit
+- redditinc
+- terms
+- oauth
+- policies
+- color-lime
 status: synthesized
+created: '2026-04-20'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Clippings/Reddit Data API Wiki.md
+backlink_count: 4
+backlinks:
+- '[[.trash/Responses API Fundamentals__]]'
+- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_third-party-ai-models]]'
+- '[[wiki/raw-sources/2026-05-13/Reddit Data API Wiki — Source Note]]'
+source: https://support.reddithelp.com/hc/en-us/articles/16160319875092-Reddit-Data-API-Wiki
+author: null
+published: '2026-03-02'
+description: 'Please note: Some of the information in our legacy API documentation
+  and support resources may be out of date. Always consult our...'
 synthesized_to:
-  - "[[Reddit Data API — Access Terms and Rate Limits]]"
+- '[[Reddit Data API — Access Terms and Rate Limits]]'
 ---
+
 ***Please note**: Some of the information in our legacy API documentation and support resources may be out of date. Always consult our* [*Developer Terms*](https://www.redditinc.com/policies/developer-terms) *and* [*Data API Terms*](https://www.redditinc.com/policies/data-api-terms) *for rules of use, terms, and conditions. Information linked from this page is for technical support guidance only.*
 
 *Join* [*r/redditdev*](https://reddit.com/r/redditdev) *for updates from the Reddit team.*  

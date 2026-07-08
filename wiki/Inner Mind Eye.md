@@ -1,11 +1,37 @@
 ---
 type: wiki
+title: Inner Mind Eye
 aliases:
-  - Inner Mind Eye
-tags: [ethics, equity, governance, care]
+- Inner Mind Eye
+- wiki/Inner Mind Eye
+tags:
+- ethics
+- equity
+- governance
+- care
+- wiki
+- inner-mind-eye-md
+- mind
+- inner
+- complement
+- color-violet
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Inner Mind Eye.md
+backlink_count: 9
+backlinks:
+- '[[wiki/Anti-Charm]]'
+- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Philosopher]]'
+- '[[wiki/archive/Ethical Ground Values]]'
 ---
 
 # Inner Mind Eye

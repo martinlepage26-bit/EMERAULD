@@ -1,9 +1,34 @@
 ---
+type: bridge-note
 title: 02/11/2021 15:11 Consulter des données fiscales - Revenu Québec
-year: 2021
-source_file: 2021 - Revenu Quebec - ocr_needed_1.pdf - 2021 - Revenu Quebec - ocr_needed_1.pdf.pdf - 2021 - Revenu Quebec - ocr_neede__d90d559c876d.ocr.txt
-format: txt
+aliases:
+- 02/11/2021 15:11 Consulter des données fiscales - Revenu Québec
+- wiki/bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec
+tags:
+- bridge
+- bridge-note
+- wiki
+- bridges
+- montant
+- prestations
+- inclus
+- ligne
+- votre
+- color-teal
 status: recovered
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/bridges/2021 - 02112021 1511 Consulter des donnees fiscales -
+  Revenu Quebec.md
+backlink_count: 2
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+year: 2021
+source_file: 2021 - Revenu Quebec - ocr_needed_1.pdf - 2021 - Revenu Quebec - ocr_needed_1.pdf.pdf
+  - 2021 - Revenu Quebec - ocr_neede__d90d559c876d.ocr.txt
+format: txt
 ---
 
 # 02/11/2021 15:11 Consulter des données fiscales - Revenu Québec

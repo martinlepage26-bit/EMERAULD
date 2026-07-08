@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: ["Queer Religiosities (Wilcox)", "Wilcox — Queer Religiosities"]
-tags: [reference, queer-theory, transgender, religion, textbook, bibliography, methods]
+title: Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)
+aliases:
+- Queer Religiosities (Wilcox)
+- Wilcox — Queer Religiosities
+- wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)
+tags:
+- reference
+- queer-theory
+- transgender
+- religion
+- textbook
+- bibliography
+- methods
+- wiki
+- queer-religiosities-wilcox-queer-and-transgender-studies-in-religion-md
+- queer
+- pagan
+- sociology
+- color-violet
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in
+  Religion).md
+backlink_count: 8
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)

@@ -1,11 +1,31 @@
 ---
 type: raw-source
-source_url: https://koiosintelligence.ca/
 title: Koïos Intelligence
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_koïos-intelligence
+tags:
+- raw-source
+- memory
+- clients
+- koiosintelligence
+- news
+- univesta
+- insurance
+- koios
+- color-lime
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_koïos-intelligence.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
+source_url: https://koiosintelligence.ca/
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Koïos Intelligence

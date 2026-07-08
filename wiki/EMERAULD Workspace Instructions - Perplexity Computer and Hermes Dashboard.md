@@ -1,16 +1,48 @@
 ---
 type: wiki
+title: EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard
 aliases:
-  - EMERAULD AGENTS instructions
-  - Perplexity Computer workspace seat
-  - Hermes Dashboard design system rules
-tags: [emerauld, agents, coordination, hermes-dashboard, perplexity-computer]
+- EMERAULD AGENTS instructions
+- Perplexity Computer workspace seat
+- Hermes Dashboard design system rules
+- wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard
+tags:
+- emerauld
+- agents
+- coordination
+- hermes-dashboard
+- perplexity-computer
+- wiki
+- emerauld-workspace-instructions-perplexity-computer-and-hermes-dashboard-md
+- computer
+- perplexity
+- dashboard
+- hermes
+- seat
+- color-orange
 status: active
-created: 2026-05-09
-updated: 2026-05-09
+created: '2026-05-09'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes
+  Dashboard.md
+backlink_count: 12
+backlinks:
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/Home]]'
+- '[[wiki/Recursive Governance Memo — EMERAULD Control Packet (2026-05-12)]]'
+- '[[Welcome]]'
+- '[[_vault/AGENTS]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[memory/agents/Blockers]]'
+- '[[memory/agents/Events]]'
+- '[[session-state]]'
 source:
-  - AGENTS.md
-  - raw sources/2026-05-09_emerauld-agents-perplexity-hermes-instructions.md
+- AGENTS.md
+- raw sources/2026-05-09_emerauld-agents-perplexity-hermes-instructions.md
 ---
 
 # EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard

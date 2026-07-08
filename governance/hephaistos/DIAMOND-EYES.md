@@ -1,3 +1,32 @@
+---
+type: governance-doc
+title: 'Diamond-Eyes: Operating Principle for All Agents'
+aliases:
+- 'Diamond-Eyes: Operating Principle for All Agents'
+- governance/hephaistos/DIAMOND-EYES
+tags:
+- governance
+- ai
+- agents
+- hephaistos
+- governance-doc
+- wise
+- eyes
+- diamond
+- flourishing
+- correct
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/DIAMOND-EYES.md
+backlink_count: 2
+backlinks:
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[memory/local-session/principle_diamond_eyes]]'
+---
+
 # Diamond-Eyes: Operating Principle for All Agents
 
 **Status:** Active  

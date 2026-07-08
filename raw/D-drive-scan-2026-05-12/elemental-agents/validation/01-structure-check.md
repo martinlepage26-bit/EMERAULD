@@ -1,3 +1,29 @@
+---
+type: raw-source
+title: Structure Check
+aliases:
+- raw/D-drive-scan-2026-05-12/elemental-agents/validation/01-structure-check
+tags:
+- raw
+- agents
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- maxdepth
+- elemental
+- find
+- readme
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/elemental-agents/validation/01-structure-check.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Manuscript Pipeline MOC]]'
+---
+
 # Structure Check
 
 See also [[Manuscript Pipeline MOC]].

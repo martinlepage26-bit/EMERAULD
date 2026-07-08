@@ -1,3 +1,31 @@
+---
+type: memory-register
+title: feedback_aurorai_spelling
+aliases:
+- feedback_aurorai_spelling
+- memory/local-session/feedback_aurorai_spelling
+tags:
+- memory
+- aurora
+- ai
+- memory-register
+- local-session
+- aurorai
+- capital
+- spelling
+- ffbc
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/feedback_aurorai_spelling.md
+backlink_count: 2
+backlinks:
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+- '[[memory/local-session/project_aurorai_repo_split]]'
+---
+
 See also [[project_aurorai_repo_split]].
 ---
 name: AurorA spelling

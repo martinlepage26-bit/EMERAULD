@@ -1,3 +1,66 @@
+---
+type: wiki
+title: The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch
+aliases:
+- The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch
+- wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch
+tags:
+- wiki
+- ritual
+- queer
+- the-scythe-already-in-motion-buffy-queer-ritual-and-the-politics-of-glitch-md
+- grief
+- fragments
+- magical
+- glitch
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics
+  of Glitch.md
+backlink_count: 37
+backlinks:
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/For Her Alone to Wield — Version Genealogy]]'
+- '[[wiki/Glitching the Sacred]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
+- '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
+- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/Queer Media and Ritual Map]]'
+- '[[projects/Glitching the Sacred — Fisher King Project State]]'
+---
+
 # The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch
 
 ## Summary

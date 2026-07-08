@@ -1,8 +1,64 @@
 ---
 type: index
-tags: [vault-intake, raw-sources, documents-root, provenance, pharos]
-created: 2026-04-28
-updated: 2026-04-28
+title: Documents Root Loose Files Intake — 2026-04-28
+aliases:
+- Documents Root Loose Files Intake — 2026-04-28
+- wiki/Documents Root Loose Files Intake — 2026-04-28
+tags:
+- vault-intake
+- raw-sources
+- documents-root
+- provenance
+- pharos
+- index
+- wiki
+- documents-root-loose-files-intake-2026-04-28-md
+- tracker
+- protocols
+- theseus
+- snapshots
+- market
+- color-lime
+status: active
+created: '2026-04-28'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Documents Root Loose Files Intake — 2026-04-28.md
+backlink_count: 33
+backlinks:
+- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/PHAROS Licensing Prospectus]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Phase 1 Governance Formation Sequence]]'
+- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/SYSTEM CHECK]]'
+- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
+- '[[memory/daily/2026-04-28]]'
 ---
 
 # Documents Root Loose Files Intake — 2026-04-28

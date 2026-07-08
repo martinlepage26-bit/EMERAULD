@@ -1,3 +1,36 @@
+---
+type: governance-doc
+title: Right-Arm Veto Authority
+aliases:
+- Right-Arm Veto Authority
+- governance/hephaistos/right-arm-veto-authority
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- veto
+- keyport
+- queen
+- analyst
+- breach
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/right-arm-veto-authority.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION]]'
+entity_type: Workflow
+entity_id: right_arm_veto_procedure_workflow
+entity_aliases: []
+entity_confidence: high
+---
+
 # Right-Arm Veto Authority
 
 ## Purpose

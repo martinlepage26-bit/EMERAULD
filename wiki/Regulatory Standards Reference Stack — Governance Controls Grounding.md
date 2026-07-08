@@ -1,23 +1,57 @@
 ---
 type: wiki
+title: Regulatory Standards Reference Stack — Governance Controls Grounding
 aliases:
-  - GDPR Article 5 — Principles
-  - GDPR Article 5 — Accuracy Principle Explained
-  - HIPAA 45 CFR § 164 — Security and Privacy
-  - FINRA Rule 4530 — Books and Records
-  - ISO 15489 Records Management
-  - ISO 15489 Records Management Standard
-  - ISO 27001:2022 Information Security Management
-  - ISO 9001 Document Control and Obsolescence Prevention
-  - NIST SP 800-53 — CA-7 Continuous Monitoring
-  - NIST SP 800-53...
-  - NIST SP 800-53 CM-3 Change Control and Authorization
-  - COBIT DSS Domain Audit Framework
-  - ITIL Change Management Process
-tags: [reference, regulatory, standards, governance-controls, compliance, nist, GDPR, HIPAA, ISO, FINRA, COBIT, ITIL]
+- GDPR Article 5 — Principles
+- GDPR Article 5 — Accuracy Principle Explained
+- HIPAA 45 CFR § 164 — Security and Privacy
+- FINRA Rule 4530 — Books and Records
+- ISO 15489 Records Management
+- ISO 15489 Records Management Standard
+- ISO 27001:2022 Information Security Management
+- ISO 9001 Document Control and Obsolescence Prevention
+- NIST SP 800-53 — CA-7 Continuous Monitoring
+- NIST SP 800-53...
+- NIST SP 800-53 CM-3 Change Control and Authorization
+- COBIT DSS Domain Audit Framework
+- ITIL Change Management Process
+- wiki/Regulatory Standards Reference Stack — Governance Controls Grounding
+tags:
+- reference
+- regulatory
+- standards
+- governance-controls
+- compliance
+- nist
+- gdpr
+- hipaa
+- iso
+- finra
+- cobit
+- itil
+- wiki
+- regulatory-standards-reference-stack-governance-controls-grounding-md
+- control
+- grounding
+- grounds
+- controls
+- color-purple
 status: active
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Regulatory Standards Reference Stack — Governance Controls Grounding.md
+backlink_count: 9
+backlinks:
+- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Regulatory Standards Reference Stack — Governance Controls Grounding

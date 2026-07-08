@@ -1,13 +1,40 @@
 ---
 type: wiki
+title: Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)
 aliases:
-  - Pup Play Bibliography
-  - BDSM Gay Masculinities Literature Review
-  - Puppy Play Annotated Bibliography
-tags: [bibliography, pup-play, BDSM, leather, gay-masculinities, queer-theory, sexuality, kink]
+- Pup Play Bibliography
+- BDSM Gay Masculinities Literature Review
+- Puppy Play Annotated Bibliography
+- wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)
+tags:
+- bibliography
+- pup-play
+- bdsm
+- leather
+- gay-masculinities
+- queer-theory
+- sexuality
+- kink
+- wiki
+- pup-play-bdsm-and-gay-masculinities-annotated-bibliography-2026-md
+- play
+- threads
+- masculinity
+- sexual
+- masculinities
+- color-teal
 status: active
-created: 2026-05-31
-updated: 2026-05-31
+created: '2026-05-31'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography
+  (2026).md
+backlink_count: 4
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)

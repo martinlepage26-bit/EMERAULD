@@ -1,10 +1,57 @@
 ---
 type: wiki
-aliases: [PHAROS AI Lineage, PHAROS Lineage, AI Lineage Source of Truth]
-tags: [pharos, lineage, ai-governance, architecture]
+title: PHAROS AI Lineage — Source of Truth
+aliases:
+- PHAROS AI Lineage
+- PHAROS Lineage
+- AI Lineage Source of Truth
+- wiki/PHAROS AI Lineage — Source of Truth
+tags:
+- pharos
+- lineage
+- ai-governance
+- architecture
+- wiki
+- pharos-ai-lineage-source-of-truth-md
+- dottie
+- cross
+- chatgpt
+- masterskill
+- color-purple
 status: active
-created: 2026-04-16
-updated: 2026-04-28
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS AI Lineage — Source of Truth.md
+backlink_count: 27
+backlinks:
+- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[wiki/CLAUDEX — AI Dialogue Archive]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/EMERAULD]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Host Environment — pharos-corpus-runner-01]]'
+- '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/PHAROS]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[wiki/PHAROS Method — Core Framework]]'
+- '[[wiki/PHAROS Product Stack]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-28]]'
 ---
 
 # PHAROS AI Lineage — Source of Truth

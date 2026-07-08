@@ -1,3 +1,30 @@
+---
+type: artifact
+title: The Context Window Is Not Your Memory
+aliases:
+- artifacts/marketplace/promo/devto-iter29-context-window-not-memory
+tags:
+- artifact
+- artifacts
+- marketplace
+- window
+- loaded
+- memory
+- context
+- loading
+- color-green
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/devto-iter29-context-window-not-memory.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # The Context Window Is Not Your Memory
 
 *Dev.to — Iteration 29 — Cycle 7 — 2026-04-20*

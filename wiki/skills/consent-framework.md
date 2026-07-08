@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "consent-framework"
-domain: "Governance and Authority"
+title: consent-framework
+aliases:
+- skills/consent-framework
+- wiki/skills/consent-framework
+tags:
+- skill
+- wiki
+- skills
+- consent
+- codex
+- framework
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/consent-framework/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/consent-framework.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+skill_id: consent-framework
+domain: Governance and Authority
+codex_path: /home/cerebrhoe/.codex/skills/consent-framework/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

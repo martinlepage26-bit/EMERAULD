@@ -1,13 +1,61 @@
 ---
 type: wiki
+title: Martin Lepage Publications — Annotated Bibliography and Verification Leads
 aliases:
-  - Martin Lepage annotated bibliography
-  - Martin Lepage publication corpus
-  - UQAM publication bibliography
-tags: [bibliography, Martin-Lepage, publications, uqam, queer-studies, pagan-studies, media-studies]
+- Martin Lepage annotated bibliography
+- Martin Lepage publication corpus
+- UQAM publication bibliography
+- wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads
+tags:
+- bibliography
+- martin-lepage
+- publications
+- uqam
+- queer-studies
+- pagan-studies
+- media-studies
+- wiki
+- martin-lepage-publications-annotated-bibliography-and-verification-leads-md
+- dissertation
+- thesis
+- lepage
+- martin
+- paywalled
+- color-teal
 status: active
-created: 2026-04-18
-updated: 2026-05-06
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Martin Lepage Publications — Annotated Bibliography and Verification
+  Leads.md
+backlink_count: 25
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
+- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
+- '[[wiki/Per-Paper Project Structure — Folder and File Architecture]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Martin Lepage Publications — Annotated Bibliography and Verification Leads

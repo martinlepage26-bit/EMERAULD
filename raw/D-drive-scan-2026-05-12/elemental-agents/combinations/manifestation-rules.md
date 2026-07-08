@@ -1,3 +1,33 @@
+---
+type: raw-source
+title: Manifestation Rules
+aliases:
+- raw/D-drive-scan-2026-05-12/elemental-agents/combinations/manifestation-rules
+tags:
+- raw
+- agents
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- akasha
+- circulation
+- manifestation
+- fire
+- energetic
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/elemental-agents/combinations/manifestation-rules.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
+  (2026-05-12)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[assets/elemental-agents/source-completions/validation/02-operational-content-check]]'
+---
+
 # Manifestation Rules
 
 ## Assignment logic

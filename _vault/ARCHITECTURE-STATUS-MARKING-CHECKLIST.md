@@ -1,3 +1,32 @@
+---
+type: vault-audit
+title: Architecture Status Marking — Week 2 Audit
+aliases:
+- Architecture Status Marking — Week 2 Audit
+- _vault/ARCHITECTURE-STATUS-MARKING-CHECKLIST
+tags:
+- vault
+- vault-audit
+- architecture-status-marking-checklist-md
+- tier
+- marking
+- marked
+- status
+- deprecated
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: _vault
+canonical_path: _vault/ARCHITECTURE-STATUS-MARKING-CHECKLIST.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
+- '[[governance/global/HEPHAISTOS-STATUS]]'
+---
+
 # Architecture Status Marking — Week 2 Audit
 
 See also [[Control Protocols MOC]].

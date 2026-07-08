@@ -1,10 +1,43 @@
 ---
 type: wiki
-aliases: [Blind Leading Automated, ChatGPT Codex Governance Failure, PHAROS SPA Case Study]
-tags: [pharos, governance-failure, codex, delegation, ai-governance, case-study, autoethnography]
+title: The Blind Leading the Automated — AI Governance Failure Case Study
+aliases:
+- Blind Leading Automated
+- ChatGPT Codex Governance Failure
+- PHAROS SPA Case Study
+- wiki/The Blind Leading the Automated — AI Governance Failure Case Study
+tags:
+- pharos
+- governance-failure
+- codex
+- delegation
+- ai-governance
+- case-study
+- autoethnography
+- wiki
+- the-blind-leading-the-automated-ai-governance-failure-case-study-md
+- accumulation
+- unindexable
+- lineage
+- failure
+- narrowed
+- color-purple
 status: active
-created: 2026-04-16
-updated: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Blind Leading the Automated — AI Governance Failure Case
+  Study.md
+backlink_count: 8
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[projects/COMPASSai — Fisher King Project State]]'
 ---
 
 # The Blind Leading the Automated — AI Governance Failure Case Study

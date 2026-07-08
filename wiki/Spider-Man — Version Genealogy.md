@@ -1,3 +1,32 @@
+---
+type: version-genealogy
+title: Spider-Man — Version Genealogy
+aliases:
+- Spider-Man — Version Genealogy
+- wiki/Spider-Man — Version Genealogy
+tags:
+- version-genealogy
+- wiki
+- spider-man-version-genealogy-md
+- spider
+- editorial
+- hinge
+- dubbed
+- conversation
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Spider-Man — Version Genealogy.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Home]]'
+- '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # Spider-Man — Version Genealogy
 
 ## Summary

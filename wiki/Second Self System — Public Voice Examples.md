@@ -1,10 +1,39 @@
 ---
 type: wiki
-aliases: [Public Voice Specimens, Voice Examples, Second Self Voice Profile]
-tags: [second-self, public-voice, style, writing, governance]
+title: Second Self System — Public Voice Examples
+aliases:
+- Public Voice Specimens
+- Voice Examples
+- Second Self Voice Profile
+- wiki/Second Self System — Public Voice Examples
+tags:
+- second-self
+- public-voice
+- style
+- writing
+- governance
+- wiki
+- second-self-system-public-voice-examples-md
+- specimen
+- voice
+- supplied
+- stacked
+- knows
+- color-orange
 status: active
-created: 2026-04-29
-updated: 2026-04-29
+created: '2026-04-29'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Second Self System — Public Voice Examples.md
+backlink_count: 7
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
+- '[[projects/Second Self — Fisher King Project State]]'
 source: operator-supplied examples
 ---
 

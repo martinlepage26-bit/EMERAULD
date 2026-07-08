@@ -1,10 +1,34 @@
 ---
 type: wiki
-aliases: []
-tags: [library, docsort, triage, cleanup, reference]
+title: D Library — Review Unreadable Cleanup (2026-05-04)
+aliases:
+- D Library — Review Unreadable Cleanup (2026-05-04)
+- wiki/D Library — Review Unreadable Cleanup (2026-05-04)
+tags:
+- library
+- docsort
+- triage
+- cleanup
+- reference
+- wiki
+- d-library-review-unreadable-cleanup-2026-05-04-md
+- mine
+- filename
+- files
+- color-purple
 status: active
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/D Library — Review Unreadable Cleanup (2026-05-04).md
+backlink_count: 6
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # D Library — Review Unreadable Cleanup (2026-05-04)

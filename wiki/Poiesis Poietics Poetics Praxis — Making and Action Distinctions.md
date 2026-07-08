@@ -1,15 +1,43 @@
 ---
 type: wiki
+title: Poiesis Poietics Poetics Praxis — Making and Action Distinctions
 aliases:
-  - Poietics
-  - Poiesis
-  - Poietics vs poetics
-  - Poiesis poietics poetics praxis
-  - TOPIC — Poiesis Poietics Poetics Praxis — Making and Action Distinctions
-tags: [vocabulary, poietics, poetics, praxis, ethics, governance]
+- Poietics
+- Poiesis
+- Poietics vs poetics
+- Poiesis poietics poetics praxis
+- TOPIC — Poiesis Poietics Poetics Praxis — Making and Action Distinctions
+- wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions
+tags:
+- vocabulary
+- poietics
+- poetics
+- praxis
+- ethics
+- governance
+- wiki
+- poiesis-poietics-poetics-praxis-making-and-action-distinctions-md
+- poiesis
+- making
+- color-red
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions.md
+backlink_count: 10
+backlinks:
+- '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
+- '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
+- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
+  Phenomenon]]'
+- '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Poiesis Poietics Poetics Praxis — Making and Action Distinctions

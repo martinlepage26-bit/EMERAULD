@@ -1,3 +1,33 @@
+---
+type: wiki
+title: Slayer Recursion Protocol — README and Repositioning
+aliases:
+- Slayer Recursion Protocol — README and Repositioning
+- wiki/Slayer Recursion Protocol — README and Repositioning
+tags:
+- wiki
+- recursion
+- slayer-recursion-protocol-readme-and-repositioning-md
+- slayer
+- readme
+- ubuntu
+- buffy
+- readmes
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Slayer Recursion Protocol — README and Repositioning.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Home]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Slayer Recursion Protocol — README and Repositioning
 
 ## Summary

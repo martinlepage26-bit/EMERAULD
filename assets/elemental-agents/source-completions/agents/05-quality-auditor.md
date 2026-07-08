@@ -1,3 +1,29 @@
+---
+type: asset
+title: Quality Auditor
+aliases:
+- assets/elemental-agents/source-completions/agents/05-quality-auditor
+tags:
+- asset
+- agents
+- assets
+- elemental-agents
+- verdict
+- severity
+- pair
+- angle
+- quality
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: assets
+canonical_path: assets/elemental-agents/source-completions/agents/05-quality-auditor.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Quality Auditor
 
 See also [[Control Protocols MOC]].

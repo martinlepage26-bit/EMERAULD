@@ -1,10 +1,60 @@
 ---
 type: wiki
-aliases: [HENRY, paper writing, research assistant, peer review]
-tags: [research, writing, academic, voice, workflow]
+title: HENRY — Research Paper Writing System
+aliases:
+- HENRY
+- paper writing
+- research assistant
+- peer review
+- wiki/HENRY — Research Paper Writing System
+tags:
+- research
+- writing
+- academic
+- voice
+- workflow
+- wiki
+- henry-research-paper-writing-system-md
+- henry
+- paper
+- bundle
+- spec
+- color-blue
 status: active
-created: 2026-04-18
-updated: 2026-04-23
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HENRY — Research Paper Writing System.md
+backlink_count: 28
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/AREA]]'
+- '[[wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
+- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
+- '[[wiki/Literary References — Craft Guide]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
+- '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[wiki/Per-Paper Project Structure — Folder and File Architecture]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
+- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/agents/Learning]]'
+- '[[projects/Papers — Fisher King Project State]]'
+- '[[session-state]]'
+- '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # HENRY — Research Paper Writing System

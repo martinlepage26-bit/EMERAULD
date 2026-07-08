@@ -1,3 +1,49 @@
+---
+type: wiki
+title: Magic After Legitimacy — Charmed and the Governance of Female Power
+aliases:
+- Magic After Legitimacy — Charmed and the Governance of Female Power
+- wiki/Magic After Legitimacy — Charmed and the Governance of Female Power
+tags:
+- wiki
+- governance
+- magic
+- magic-after-legitimacy-charmed-and-the-governance-of-female-power-md
+- jester
+- femininity
+- charmed
+- journalarticle
+- legitimacy
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Magic After Legitimacy — Charmed and the Governance of Female
+  Power.md
+backlink_count: 19
+backlinks:
+- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Magic After Legitimacy Charmed — Version Genealogy]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Magic After Legitimacy — Charmed and the Governance of Female Power
 
 ## Summary

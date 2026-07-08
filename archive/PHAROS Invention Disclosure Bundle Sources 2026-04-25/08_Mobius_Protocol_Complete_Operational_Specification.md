@@ -1,3 +1,29 @@
+---
+type: archive-record
+title: The Möbius Protocol
+aliases:
+- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Complete_Operational_Specification
+tags:
+- archive
+- pharos
+- archive-record
+- pharos-invention-disclosure-bundle-sources-2026-04-25
+- reinjection
+- observe
+- prompts
+- watch
+- responses
+- color-green
+status: archived
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Complete_Operational_Specification.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # The Möbius Protocol
 
 ## Complete Operational Specification

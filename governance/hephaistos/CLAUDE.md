@@ -1,4 +1,36 @@
+---
+type: agent-instructions
+title: HEPHAISTOS Project Claude Entry
+aliases:
+- HEPHAISTOS Project Claude Entry
+- governance/hephaistos/CLAUDE
+tags:
+- agents
+- governance
+- ai
+- hephaistos
+- agent-instructions
+- mainly
+- scope
+- task
+- refusals
+- hermes
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-07-03'
+vault_area: governance
+canonical_path: governance/hephaistos/CLAUDE.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
 # HEPHAISTOS Project Claude Entry
+
+> **Wiki mirror notice:** this is a wiki mirror of the canonical copy at
+> `/home/martin/.agents/hephaistos/CLAUDE.md`. Last synced from canonical: 2026-07-03.
+> If this file and the canonical repo diverge, the canonical repo controls.
 
 This repository implements a three-agent control architecture:
 

@@ -1,6 +1,74 @@
 ---
+type: wiki
+title: Diamond-Eyes — Aesthetic Refinement Skill
 aliases:
-  - Diamond-Eyes
+- Diamond-Eyes
+- wiki/Diamond-Eyes — Aesthetic Refinement Skill
+tags:
+- wiki
+- skill
+- diamond-eyes-aesthetic-refinement-skill-md
+- diamond
+- eyes
+- refinement
+- beauty
+- aesthetic
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Diamond-Eyes — Aesthetic Refinement Skill.md
+backlink_count: 47
+backlinks:
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Anti-Charm]]'
+- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Claude Code Skill Corpus]]'
+- '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
+- '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[wiki/Consented Frame — Ethics and Wisdom Gate]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[wiki/Inner Mind Eye]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Skill-Pairing — Five-Case Test Suite]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/archive/inner-mind-eye]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[governance/governance-index]]'
+- '[[memory/daily/2026-04-25]]'
+- '[[raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X]]'
+- '[[wiki/skills/brand-identity-system]]'
+- '[[wiki/skills/novelist]]'
+- '[[wiki/skills/writing-skills]]'
 ---
 
 # Diamond-Eyes — Aesthetic Refinement Skill

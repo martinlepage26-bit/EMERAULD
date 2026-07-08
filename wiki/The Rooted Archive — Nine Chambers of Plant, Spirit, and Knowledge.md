@@ -1,10 +1,49 @@
 ---
 type: wiki
-aliases: ["The Rooted Archive", "L'Herbier des présences", "Nine Chambers curriculum"]
-tags: [manuscript, ethnobotany, botanical, ritual, curriculum, bilingual, writing-project]
+title: The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge
+aliases:
+- The Rooted Archive
+- L'Herbier des présences
+- Nine Chambers curriculum
+- wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge
+tags:
+- manuscript
+- ethnobotany
+- botanical
+- ritual
+- curriculum
+- bilingual
+- writing-project
+- wiki
+- the-rooted-archive-nine-chambers-of-plant-spirit-and-knowledge-md
+- plant
+- nine
+- folklore
+- chamber
+- color-green
 status: active
-created: 2026-05-04
-updated: 2026-05-06
+created: '2026-05-04'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md
+backlink_count: 16
+backlinks:
+- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-06-22]]'
+- '[[memory/daily/2026-06-23]]'
+- '[[memory/daily/2026-06-24]]'
+- '[[memory/daily/2026-06-25]]'
+- '[[memory/daily/2026-06-26]]'
 ---
 
 # The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge

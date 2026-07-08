@@ -1,3 +1,46 @@
+---
+type: wiki
+title: Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis
+aliases:
+- Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis
+- wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis
+tags:
+- wiki
+- magic
+- ritual
+- queer
+- sociology-of-modern-magic-song-corpus-and-queer-ritual-synthesis-md
+- song
+- pagan
+- enchantment
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis.md
+backlink_count: 18
+backlinks:
+- '[[wiki/Disease — Lady Gaga — Lyrics]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Paper Planes — M.I.A. — Lyrics]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
+- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis
 
 See also [[Pagan and Queer Ritual Studies MOC]].

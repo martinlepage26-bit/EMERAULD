@@ -1,10 +1,43 @@
 ---
 type: wiki
-aliases: [Elemental Agents Launch, Elemental Agents Commercial Plan, Elemental Agents Productization]
-tags: [product, commercialization, multi-agent, claude-code, framework, launch, audience-strategy]
+title: Elemental Agents — Productization Plan (2026-05-24)
+aliases:
+- Elemental Agents Launch
+- Elemental Agents Commercial Plan
+- Elemental Agents Productization
+- wiki/Elemental Agents — Productization Plan (2026-05-24)
+tags:
+- product
+- commercialization
+- multi-agent
+- claude-code
+- framework
+- launch
+- audience-strategy
+- wiki
+- elemental-agents-productization-plan-2026-05-24-md
+- elemental
+- agents
+- upsell
+- assets
+- color-orange
 status: active
-created: 2026-05-24
-updated: 2026-05-24
+created: '2026-05-24'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Elemental Agents — Productization Plan (2026-05-24).md
+backlink_count: 10
+backlinks:
+- '[[wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[assets/elemental-agents/ttrpg-repack/BRAND-DECISION]]'
+- '[[session-state]]'
 ---
 
 # Elemental Agents — Productization Plan (2026-05-24)

@@ -1,15 +1,46 @@
 ---
 type: wiki
+title: EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
+  (2026-05-07)
 aliases:
-  - EMERGENT HELIX session
-  - HELIX truth-claim stress test
-  - Vaisseau de Thésée emergent run 2026-05-07
-tags: [helix, governance, stress-test, recursion, booby-trap, epistemic-discipline, session-analysis]
+- EMERGENT HELIX session
+- HELIX truth-claim stress test
+- Vaisseau de Thésée emergent run 2026-05-07
+- wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
+  (2026-05-07)
+tags:
+- helix
+- governance
+- stress-test
+- recursion
+- booby-trap
+- epistemic-discipline
+- session-analysis
+- wiki
+- emergent-helix-session-truth-claims-ingestion-and-booby-trap-diagnostics-2026-05-07-md
+- ingestion
+- booby
+- diagnostics
+- invariant
+- color-purple
 status: active
-created: 2026-05-12
-updated: 2026-05-12
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap
+  Diagnostics (2026-05-07).md
+backlink_count: 8
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
+- '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 source:
-  - raw sources/EMERGENT HELIX Session — Vaisseau de Thésée.md
+- raw sources/EMERGENT HELIX Session — Vaisseau de Thésée.md
 ---
 
 # EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)
@@ -61,6 +92,7 @@ This makes the session a compact probe of anti-charm doctrine and consistency un
 
 ## Related
 
+- [[HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)]] — cited there as evidence that anti-charm-adjacent concepts were already active in the HELIX family by this date, refining (not contradicting) that note's claim that the specific *term* "Anti-Charm" was imported from the separate Hephaistos constitutional framework only in the July run
 - [[Recursive Governance Protocol — Theseus, Auryn, Hopf]]
 - [[Governance Stress-Test Protocols — Index]]
 - [[HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]

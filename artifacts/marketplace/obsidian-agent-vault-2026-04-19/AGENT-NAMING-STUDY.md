@@ -1,3 +1,31 @@
+---
+type: artifact
+title: Agent Naming Study
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/AGENT-NAMING-STUDY
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- collisions
+- collision
+- guide
+- astra
+- names
+- color-orange
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/AGENT-NAMING-STUDY.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # Agent Naming Study
 
 Build: `obsidian-agent-vault-2026-04-19`

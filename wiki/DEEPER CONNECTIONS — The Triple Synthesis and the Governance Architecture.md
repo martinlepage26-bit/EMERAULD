@@ -1,10 +1,43 @@
 ---
 type: wiki
-aliases: ["governance-consent-eml synthesis", "three-language and three-layer bridge", "evidence discipline convergence"]
-tags: [synthesis, governance theory, epistemology, philosophical architecture]
+title: DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture
+aliases:
+- governance-consent-eml synthesis
+- three-language and three-layer bridge
+- evidence discipline convergence
+- wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture
+tags:
+- synthesis
+- governance-theory
+- epistemology
+- philosophical-architecture
+- wiki
+- deeper-connections-the-triple-synthesis-and-the-governance-architecture-md
+- consent
+- disturbance
+- minimal
+- gravity
+- entropic
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance
+  Architecture.md
+backlink_count: 11
+backlinks:
+- '[[wiki/Authority Without Power-Over]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
 ---
 
 # DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture

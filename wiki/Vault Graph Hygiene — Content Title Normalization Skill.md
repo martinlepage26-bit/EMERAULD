@@ -1,14 +1,41 @@
 ---
 type: wiki
+title: Vault Graph Hygiene — Content Title Normalization Skill
 aliases:
-  - vault-graph-hygiene
-  - graph-hygiene
-  - title normalization skill
-  - wrapper cleanup skill
-tags: [skills, vault, graph-hygiene, normalization, backlinks]
+- vault-graph-hygiene
+- graph-hygiene
+- title normalization skill
+- wrapper cleanup skill
+- wiki/Vault Graph Hygiene — Content Title Normalization Skill
+tags:
+- skills
+- vault
+- graph-hygiene
+- normalization
+- backlinks
+- wiki
+- vault-graph-hygiene-content-title-normalization-skill-md
+- hygiene
+- graph
+- generator
+- aliases
+- wrapper
+- color-teal
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Vault Graph Hygiene — Content Title Normalization Skill.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Anti-Charm]]'
+- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Skill Domain — Vault and Knowledge]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Trace Investigator]]'
+- '[[wiki/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Vault Graph Hygiene — Content Title Normalization Skill

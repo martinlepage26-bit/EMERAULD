@@ -1,9 +1,33 @@
 ---
+type: project
+title: decision_compass_deployment_phasing
+aliases:
+- memory/local-session/decision_compass_deployment_phasing
+tags:
+- project
+- memory
+- local-session
+- cloudflare
+- lavoie
+- saas
+- cost
+- aurora
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/decision_compass_deployment_phasing.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 name: COMPASSai deployment phasing
 description: Launch on Cloudflare free tier; migrate to custom Canadian hosting post-Lavoie
-type: project
 originSessionId: a383712c-ac27-4ec4-8eca-8c862212be3f
 ---
+
 ## Decision
 
 **COMPASSai/AurorA deployment phased approach.**

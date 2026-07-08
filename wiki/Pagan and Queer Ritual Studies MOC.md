@@ -1,12 +1,97 @@
 ---
 type: moc
+title: Pagan and Queer Ritual Studies MOC
 aliases:
-  - Pagan Ritual Studies MOC
-  - Queer Pagan Cluster MOC
-tags: [pagan, queer-theory, ritual, wicca, montreal]
+- Pagan Ritual Studies MOC
+- Queer Pagan Cluster MOC
+- wiki/Pagan and Queer Ritual Studies MOC
+tags:
+- pagan
+- queer-theory
+- ritual
+- wicca
+- montreal
+- moc
+- wiki
+- pagan-and-queer-ritual-studies-moc-md
+- queer
+- lepage
+- magic
+- color-violet
 status: active
-created: 2026-05-14
-updated: 2026-05-14
+created: '2026-05-14'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Pagan and Queer Ritual Studies MOC.md
+backlink_count: 64
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[Areas/Writing/AREA]]'
+- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
+- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Glitching the Sacred]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
+  Activism Switzerland)]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
+- '[[wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
+- '[[wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
+- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
+- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
+  — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
+- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[wiki/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
+- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
+- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
+  Glitch]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
+- '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
+- '[[wiki/Why Be King Im Already a Queen — Book Project]]'
+- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[index]]'
+- '[[maps/Queer Media and Ritual Map]]'
 ---
 
 # Pagan and Queer Ritual Studies MOC

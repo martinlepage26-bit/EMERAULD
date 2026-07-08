@@ -1,9 +1,31 @@
 ---
 type: skill
+title: agent-evaluation
+aliases:
+- archive/agent-evaluation
+- wiki/archive/agent-evaluation
+tags:
+- skill
+- wiki
+- archive
+- rubrics
+- vibes
+- evaluate
+- observability
+- agent
+- color-orange
+status: active
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/archive/agent-evaluation.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
 skill_id: agent-evaluation
 scope: output
-status: active
-created: 2026-05-06
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md
 ---
 

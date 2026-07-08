@@ -1,3 +1,33 @@
+---
+type: governance-doc
+title: QUEEN-KEYPORT_OPERATIONS — Decision Model, Workflow, and Controls
+aliases:
+- QUEEN-KEYPORT_OPERATIONS — Decision Model, Workflow, and Controls
+- governance/hephaistos/QUEEN-KEYPORT_OPERATIONS
+tags:
+- governance
+- ai
+- hephaistos
+- queen-keyport
+- governance-doc
+- keyport
+- queen
+- scope
+- approve
+- constraints
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/QUEEN-KEYPORT_OPERATIONS.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/ORCHESTRATION]]'
+---
+
 # QUEEN-KEYPORT_OPERATIONS — Decision Model, Workflow, and Controls
 
 Operational detail for the Queen Keyport governance authority. Governed by the identity

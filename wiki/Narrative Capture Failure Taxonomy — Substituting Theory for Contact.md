@@ -1,13 +1,52 @@
 ---
 type: wiki
+title: Narrative Capture Failure Taxonomy — Substituting Theory for Contact
 aliases:
-  - Narrative capture failure taxonomy
-  - Substitution of theory for contact
-  - Memory leak frame capture unsupported assertion
-tags: [ai-governance, failure-taxonomy, narrative-capture, epistemics, model-behavior]
+- Narrative capture failure taxonomy
+- Substitution of theory for contact
+- Memory leak frame capture unsupported assertion
+- wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact
+tags:
+- ai-governance
+- failure-taxonomy
+- narrative-capture
+- epistemics
+- model-behavior
+- wiki
+- narrative-capture-failure-taxonomy-substituting-theory-for-contact-md
+- capture
+- imagined
+- failure
+- volkswagen
+- model
+- color-violet
 status: active
-created: 2026-04-18
-updated: 2026-04-28
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Narrative Capture Failure Taxonomy — Substituting Theory for
+  Contact.md
+backlink_count: 18
+backlinks:
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[wiki/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
+- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
+  (2026)]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
+- '[[wiki/Emotional Alliance vs. Evidentiary Discipline in AI]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
+- '[[wiki/RIA-CODEX — System Audit Protocol]]'
+- '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
+- '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/agents/Learning]]'
 ---
 
 # Narrative Capture Failure Taxonomy — Substituting Theory for Contact

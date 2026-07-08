@@ -1,3 +1,31 @@
+---
+type: artifact
+title: 'GAP — PR #4 server.py spec alignment'
+aliases:
+- artifacts/2026-04-19-pharos-migration-pr4/_manifest/GAP-pr4-server-spec-alignment
+tags:
+- artifact
+- pharos
+- artifacts
+- 2026-04-19-pharos-migration-pr4
+- dnspython
+- lifespan
+- logger
+- healthy
+- bundle
+- color-green
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/2026-04-19-pharos-migration-pr4/_manifest/GAP-pr4-server-spec-alignment.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Writing and Novels MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]'
+---
+
 # GAP — PR #4 server.py spec alignment
 
 **Surfaced:** 2026-04-19 (Track A/B closeout)

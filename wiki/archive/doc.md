@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "doc"
-domain: "Specialized and Miscellaneous"
+title: doc
+aliases:
+- archive/doc
+- wiki/archive/doc
+tags:
+- skill
+- wiki
+- archive
+- miscellaneous
+- bundled
+- involves
+- layout
+- color-green
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/doc/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/archive/doc.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+skill_id: doc
+domain: Specialized and Miscellaneous
+codex_path: /home/cerebrhoe/.codex/skills/doc/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

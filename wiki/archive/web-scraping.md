@@ -1,9 +1,31 @@
 ---
 type: skill
+title: web-scraping
+aliases:
+- archive/web-scraping
+- wiki/archive/web-scraping
+tags:
+- skill
+- wiki
+- archive
+- scrape
+- choosing
+- scraping
+- static
+- heavy
+- color-teal
+status: active
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/archive/web-scraping.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
 skill_id: web-scraping
 scope: intake
-status: active
-created: 2026-05-06
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md
 ---
 

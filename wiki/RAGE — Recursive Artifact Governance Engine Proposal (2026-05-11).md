@@ -1,12 +1,44 @@
 ---
 type: wiki
-aliases: ["RAGE proposal", "Recursive Artifact Governance Engine", "artifact graph governance engine"]
-tags: [governance, architecture, observability, graph, audit, recursive-systems, product-concept]
+title: RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)
+aliases:
+- RAGE proposal
+- Recursive Artifact Governance Engine
+- artifact graph governance engine
+- wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)
+tags:
+- governance
+- architecture
+- observability
+- graph
+- audit
+- recursive-systems
+- product-concept
+- wiki
+- rage-recursive-artifact-governance-engine-proposal-2026-05-11-md
+- rage
+- score
+- proposal
+- recursive
+- color-purple
 status: active
-created: 2026-05-12
-updated: 2026-05-13
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md
+backlink_count: 9
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[raw/Desktop-Downloads-scan-2026-05-12/downloads/RAGE-dep-report]]'
+- '[[session-state]]'
 source:
-  - raw/Desktop-Downloads-scan-2026-05-12/downloads/RAGE-dep-report.md
+- raw/Desktop-Downloads-scan-2026-05-12/downloads/RAGE-dep-report.md
 ---
 
 # RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)

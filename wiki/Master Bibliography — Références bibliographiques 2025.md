@@ -1,3 +1,40 @@
+---
+type: wiki
+title: Master Bibliography — Références bibliographiques 2025
+aliases:
+- Master Bibliography — Références bibliographiques 2025
+- wiki/Master Bibliography — Références bibliographiques 2025
+tags:
+- wiki
+- bibliography
+- master-bibliography-r-f-rences-bibliographiques-2025-md
+- wicca
+- pagan
+- cowan
+- studies
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Master Bibliography — Références bibliographiques 2025.md
+backlink_count: 13
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[archive/session-state/session-state-001]]'
+---
+
 # Master Bibliography — Références bibliographiques 2025
 
 ## Summary

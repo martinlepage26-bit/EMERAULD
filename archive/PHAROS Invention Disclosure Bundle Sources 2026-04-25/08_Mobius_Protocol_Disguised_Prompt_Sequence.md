@@ -1,3 +1,29 @@
+---
+type: archive-record
+title: MÖBIUS PROTOCOL — Disguised Prompt Sequence
+aliases:
+- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Disguised_Prompt_Sequence
+tags:
+- archive
+- pharos
+- archive-record
+- pharos-invention-disclosure-bundle-sources-2026-04-25
+- prompt
+- sentence
+- conversation
+- curious
+- bullshit
+- color-green
+status: archived
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Disguised_Prompt_Sequence.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # MÖBIUS PROTOCOL — Disguised Prompt Sequence
 
 # These look like a curious user thinking out loud.

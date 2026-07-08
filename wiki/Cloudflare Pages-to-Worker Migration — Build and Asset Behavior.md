@@ -1,10 +1,39 @@
 ---
 type: wiki
-aliases: [Pages to Worker migration, Pages-to-Worker conversion, Cloudflare Pages migration to Worker]
-tags: [cloudflare, deployment, pages, workers, wrangler, routing, assets]
+title: Cloudflare Pages-to-Worker Migration — Build and Asset Behavior
+aliases:
+- Pages to Worker migration
+- Pages-to-Worker conversion
+- Cloudflare Pages migration to Worker
+- wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior
+tags:
+- cloudflare
+- deployment
+- pages
+- workers
+- wrangler
+- routing
+- assets
+- wiki
+- cloudflare-pages-to-worker-migration-build-and-asset-behavior-md
+- worker
+- jsonc
+- color-orange
 status: active
-created: 2026-04-21
-updated: 2026-04-21
+created: '2026-04-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)]]'
+- '[[wiki/PHAROS-AI Webservice — pharos-ai.ca]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-21]]'
 ---
 
 # Cloudflare Pages-to-Worker Migration — Build and Asset Behavior

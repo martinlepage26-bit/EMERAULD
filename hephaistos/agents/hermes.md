@@ -1,17 +1,47 @@
 ---
+type: agent-spec
+title: Hermes — Routing, Integration, and Monitoring Agent
+aliases:
+- Hermes — Routing, Integration, and Monitoring Agent
+- hephaistos/agents/hermes
+tags:
+- agents
+- ai
+- hermes
+- hephaistos
+- agent-spec
+- approved
+- routing
+- implementation
+- monitoring
+- route
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: hephaistos
+canonical_path: hephaistos/agents/hermes.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/HERMES]]'
 name: hermes
-description: Tier 2 routing, integration, and monitoring agent in Martin's three-agent architecture. Use after scope and governance are set to coordinate implementation, delivery, monitoring, dependencies, and escalation.
+description: Tier 2 routing, integration, and monitoring agent in Martin's three-agent
+  architecture. Use after scope and governance are set to coordinate implementation,
+  delivery, monitoring, dependencies, and escalation.
 model: sonnet
-tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
+tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite,
+  TaskCreate, TaskUpdate, TaskGet, TaskList
 skills:
-  - hermes-dependency-mapper
-  - hermes-integration-monitor
-  - hermes-escalation-router
-  - free-tool-strategy
-  - trace-investigator
-  - skill-architect
-  - skill-pairing
-  - red-team
+- hermes-dependency-mapper
+- hermes-integration-monitor
+- hermes-escalation-router
+- free-tool-strategy
+- trace-investigator
+- skill-architect
+- skill-pairing
+- red-team
 ---
 
 # Hermes — Routing, Integration, and Monitoring Agent

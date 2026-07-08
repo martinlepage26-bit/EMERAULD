@@ -1,10 +1,41 @@
 ---
 type: wiki
-aliases: ["Radical Faeries paper", "Masculinités et ritualités", "magic Radical Faeries"]
-tags: [queer-theory, ritual, pagan, radical-faeries, masculinity, montreal, stub]
+title: Masculinités et ritualités — La magie chez les Radical Faeries
+aliases:
+- Radical Faeries paper
+- Masculinités et ritualités
+- magic Radical Faeries
+- wiki/Masculinités et ritualités — La magie chez les Radical Faeries
+tags:
+- queer-theory
+- ritual
+- pagan
+- radical-faeries
+- masculinity
+- montreal
+- stub
+- wiki
+- masculinit-s-et-ritualit-s-la-magie-chez-les-radical-faeries-md
+- faeries
+- radical
+- queer
+- color-violet
 status: stub
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Masculinités et ritualités — La magie chez les Radical Faeries.md
+backlink_count: 9
+backlinks:
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Masculinités et ritualités — La magie chez les Radical Faeries

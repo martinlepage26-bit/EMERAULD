@@ -1,3 +1,31 @@
+---
+type: publication-draft
+title: Pourquoi rêver encore ? Lecture allégorique et métaphysique de l'œuvre initiale
+  d'Yvon Rivard
+aliases:
+- Publications/Papers and Chapters/Rivard2026/Pourquoi rêver encore-@nalyses-REWRITE
+tags:
+- publication
+- paper
+- publication-draft
+- publications
+- papers-and-chapters
+- mais
+- dans
+- comme
+- devient
+- sujet
+- color-lime
+status: draft
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: Publications
+canonical_path: Publications/Papers and Chapters/Rivard2026/Pourquoi rêver encore-@nalyses-REWRITE.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Pourquoi rêver encore ? Lecture allégorique et métaphysique de l'œuvre initiale d'Yvon Rivard
 
 ---

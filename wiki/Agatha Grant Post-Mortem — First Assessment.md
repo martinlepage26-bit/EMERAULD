@@ -1,10 +1,34 @@
 ---
 type: wiki
-aliases: [1stAgatha post-mortem, Agatha grant, WHEELS OF WILL grant]
-tags: [agatha, grant, art, pagan, calian, post-mortem]
+title: Agatha Grant Post-Mortem — First Assessment
+aliases:
+- 1stAgatha post-mortem
+- Agatha grant
+- WHEELS OF WILL grant
+- wiki/Agatha Grant Post-Mortem — First Assessment
+tags:
+- agatha
+- grant
+- art
+- pagan
+- calian
+- post-mortem
+- wiki
+- agatha-grant-post-mortem-first-assessment-md
+- mortem
+- employment
+- color-teal
 status: active
-created: 2026-04-16
-updated: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Agatha Grant Post-Mortem — First Assessment.md
+backlink_count: 4
+backlinks:
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # Agatha Grant Post-Mortem — First Assessment

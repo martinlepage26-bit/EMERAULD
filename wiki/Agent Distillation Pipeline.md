@@ -1,10 +1,33 @@
 ---
 type: wiki
-aliases: ["distillation", "agent distillation", "student models"]
-tags: [infrastructure, ai, distillation, agents, ml]
+title: Agent Distillation Pipeline
+aliases:
+- distillation
+- agent distillation
+- student models
+- wiki/Agent Distillation Pipeline
+tags:
+- infrastructure
+- ai
+- distillation
+- agents
+- ml
+- wiki
+- agent-distillation-pipeline-md
+- runner
+- configs
+- host
+- color-orange
 status: active
-created: 2026-06-21
-updated: 2026-06-21
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Agent Distillation Pipeline.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Host Environment — pharos-corpus-runner-01]]'
 ---
 
 # Agent Distillation Pipeline

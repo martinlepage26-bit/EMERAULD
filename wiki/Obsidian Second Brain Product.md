@@ -1,10 +1,52 @@
 ---
 type: map
+title: Obsidian Second Brain Product
 aliases:
-  - TOPIC — Obsidian Second Brain Product
-tags: [index, map, topic, obsidian, second-brain, product, commercial]
-created: 2026-04-18
-updated: 2026-05-06
+- TOPIC — Obsidian Second Brain Product
+- wiki/Obsidian Second Brain Product
+tags:
+- index
+- map
+- topic
+- obsidian
+- second-brain
+- product
+- commercial
+- wiki
+- obsidian-second-brain-product-md
+- demo
+- sanitized
+- heygen
+- launch
+- color-orange
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Obsidian Second Brain Product.md
+backlink_count: 21
+backlinks:
+- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Chrome Extension Monetization - Policy and Product Options]]'
+- '[[wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[wiki/EMERAULD]]'
+- '[[wiki/Governed Self-Improvement — Method Slide Asset]]'
+- '[[wiki/Home]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Obsidian Agent Vault — Asset Canon]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/SANITIZATION-REPORT]]'
+- '[[memory]]'
+- '[[projects/Second Brain — Fisher King Project State]]'
 ---
 
 # Obsidian Second Brain Product

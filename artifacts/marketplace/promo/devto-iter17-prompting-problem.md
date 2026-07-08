@@ -1,3 +1,30 @@
+---
+type: artifact
+title: Why Better Prompts Aren't the Fix (And What Actually Is)
+aliases:
+- artifacts/marketplace/promo/devto-iter17-prompting-problem
+tags:
+- artifact
+- artifacts
+- marketplace
+- prompt
+- session
+- mediocre
+- rejected
+- context
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/devto-iter17-prompting-problem.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # Why Better Prompts Aren't the Fix (And What Actually Is)
 
 *Dev.to — Iteration 17 — Cycle 4 — 2026-04-20*

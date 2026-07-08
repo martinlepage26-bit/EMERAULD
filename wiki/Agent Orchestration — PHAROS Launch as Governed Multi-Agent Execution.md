@@ -1,13 +1,47 @@
 ---
 type: wiki
+title: Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution
 aliases:
-  - Multi-Agent Launch Coordination
-  - Governed Agent Orchestration
-  - Hephaistos–Queen Keyport–Hermes in Practice
-tags: [pharos, governance, orchestration, multi-agent, hephaistos, queen-keyport, hermes, codex, henry]
+- Multi-Agent Launch Coordination
+- Governed Agent Orchestration
+- Hephaistos–Queen Keyport–Hermes in Practice
+- wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution
+tags:
+- pharos
+- governance
+- orchestration
+- multi-agent
+- hephaistos
+- queen-keyport
+- hermes
+- codex
+- henry
+- wiki
+- agent-orchestration-pharos-launch-as-governed-multi-agent-execution-md
+- keyport
+- queen
+- hreflang
+- launch
+- french
+- color-orange
 status: active
 created: 2026-05-01T17:45
-updated: 2026-05-01T17:45
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution.md
+backlink_count: 11
+backlinks:
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
+- '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[wiki/skills/agent-development]]'
 ---
 
 > **Cluster connections:** Cleanest live operational case for the deployed three-agent stack. Indexed in [[HEPHAISTOS Agent Architecture]] and [[PHAROS Commercial Strategy]]. The three-agent-as-Hermetic-Egyptian-theogony substrate is documented in [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]]: HEPHAISTOS (Ptah/forger), Queen Keyport (Council/judge per [[Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)|MA pp. 17–19]]), Hermes (Hermès/messenger). Companion launch artifacts: [[PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]], [[PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]], [[PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]].

@@ -1,10 +1,46 @@
 ---
 type: map
+title: Buffy Slayer Studies
 aliases:
-  - TOPIC — Buffy Slayer Studies
-tags: [index, map, topic, Buffy, slayer-studies, queer-theory, media]
-created: 2026-04-18
-updated: 2026-04-18
+- TOPIC — Buffy Slayer Studies
+- wiki/Buffy Slayer Studies
+tags:
+- index
+- map
+- topic
+- buffy
+- slayer-studies
+- queer-theory
+- media
+- wiki
+- buffy-slayer-studies-md
+- slayer
+- queer
+- ritual
+- glitch
+- color-purple
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Buffy Slayer Studies.md
+backlink_count: 15
+backlinks:
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
+- '[[wiki/For Her Alone to Wield — Version Genealogy]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
+- '[[wiki/Writing and Novels MOC]]'
 ---
 
 # Buffy Slayer Studies

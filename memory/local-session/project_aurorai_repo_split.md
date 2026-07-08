@@ -1,3 +1,32 @@
+---
+type: memory-register
+title: project_aurorai_repo_split
+aliases:
+- project_aurorai_repo_split
+- memory/local-session/project_aurorai_repo_split
+tags:
+- memory
+- aurora
+- ai
+- memory-register
+- local-session
+- suite
+- aurorai
+- repos
+- module
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/project_aurorai_repo_split.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+- '[[memory/local-session/feedback_aurorai_spelling]]'
+---
+
 See also [[Control Protocols MOC]].
 See also [[feedback_aurorai_spelling]].
 ---

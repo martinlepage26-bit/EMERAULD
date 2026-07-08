@@ -1,10 +1,55 @@
 ---
 type: wiki
-aliases: [Paper 25, The Pharos Frame, Pharos Frame paper, capstone paper, Paper 25 — The Pharos Frame (Draft 2026-04-23), "Paper 25 — The Pharos Frame: Four Levels Where Ethics Becomes AI Governance"]
-tags: [pharos, paper-25, capstone, governance, ready-for-submission, the-pharos-frame, four-levels]
+title: Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance
+aliases:
+- Paper 25
+- The Pharos Frame
+- Pharos Frame paper
+- capstone paper
+- Paper 25 — The Pharos Frame (Draft 2026-04-23)
+- 'Paper 25 — The Pharos Frame: Four Levels Where Ethics Becomes AI Governance'
+- wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance
+tags:
+- pharos
+- paper-25
+- capstone
+- governance
+- ready-for-submission
+- the-pharos-frame
+- four-levels
+- wiki
+- paper-25-the-pharos-frame-four-levels-where-ethics-becomes-ai-governance-md
+- mechanism
+- frame
+- conditions
+- phase
+- color-purple
 status: ready-for-submission
-created: 2026-04-23
-updated: 2026-04-26
+created: '2026-04-23'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes
+  AI Governance.md
+backlink_count: 16
+backlinks:
+- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[wiki/Argus]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
+  Explanation)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
+- '[[wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
+- '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
+- '[[wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
+- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
+  vs Reclaiming)]]'
+- '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-23]]'
+- '[[projects/Stuttering Machines — Fisher King Project State]]'
 ---
 
 # Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance

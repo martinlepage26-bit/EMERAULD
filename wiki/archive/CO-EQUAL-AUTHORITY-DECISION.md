@@ -1,10 +1,28 @@
 ---
 type: wiki
-aliases: [CO-EQUAL-AUTHORITY-DECISION.md, CO-EQUAL-AUTHORITY-DECISION]
-tags: [governance, authority, hephaistos]
+title: CO-EQUAL-AUTHORITY-DECISION
+aliases:
+- CO-EQUAL-AUTHORITY-DECISION.md
+- CO-EQUAL-AUTHORITY-DECISION
+- wiki/archive/CO-EQUAL-AUTHORITY-DECISION
+tags:
+- governance
+- authority
+- hephaistos
+- wiki
+- archive
+- equal
+- decision
+- cleanly
+- color-purple
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/archive/CO-EQUAL-AUTHORITY-DECISION.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
 ---
 
 # CO-EQUAL-AUTHORITY-DECISION

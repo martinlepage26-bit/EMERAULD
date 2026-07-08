@@ -1,3 +1,31 @@
+---
+type: artifact
+title: Community Posts — Obsidian Agent Vault
+aliases:
+- artifacts/marketplace/promo/community-posts
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- gumroad
+- claude
+- pharosml
+- kvbhdo
+- obsidian
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/community-posts.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # Community Posts — Obsidian Agent Vault
 
 Replace https://pharosml.gumroad.com/l/kvbhdo with your live Gumroad URL before posting.

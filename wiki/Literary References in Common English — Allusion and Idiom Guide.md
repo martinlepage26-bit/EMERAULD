@@ -1,10 +1,32 @@
 ---
 type: wiki
-aliases: ["Literary References Guide", "Common English Allusions", "Literature Idioms Reference"]
-tags: []
+title: Literary References in Common English — Allusion and Idiom Guide
+aliases:
+- Literary References Guide
+- Common English Allusions
+- Literature Idioms Reference
+- wiki/Literary References in Common English — Allusion and Idiom Guide
+tags:
+- wiki
+- literary-references-in-common-english-allusion-and-idiom-guide-md
+- idioms
+- literary
+- craft
+- secularized
+- pill
+- color-green
 status: active
-created: 2026-05-31
-updated: 2026-05-31
+created: '2026-05-31'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Literary References in Common English — Allusion and Idiom Guide.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Literary References — Craft Guide]]'
+- '[[wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 # Literary References in Common English — Allusion and Idiom Guide

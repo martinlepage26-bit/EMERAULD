@@ -1,3 +1,30 @@
+---
+type: project-planning
+title: EMERAULD Vault Runtime
+aliases:
+- .planning/PROJECT
+tags:
+- planning
+- project-planning
+- project-md
+- runtime
+- scripts
+- repo
+- brownfield
+- lightrag
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .planning
+canonical_path: .planning/PROJECT.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
 # EMERAULD Vault Runtime
 
 ## What This Is

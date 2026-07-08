@@ -1,10 +1,68 @@
 ---
 type: map
+title: Fluency and Interruption Theory
 aliases:
-  - TOPIC — Fluency and Interruption Theory
-tags: [index, map, topic, fluency, interruption, governance, theory]
-created: 2026-04-18
-updated: 2026-04-26
+- TOPIC — Fluency and Interruption Theory
+- wiki/Fluency and Interruption Theory
+tags:
+- index
+- map
+- topic
+- fluency
+- interruption
+- governance
+- theory
+- wiki
+- fluency-and-interruption-theory-md
+- fluent
+- authority
+- institutional
+- color-violet
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Fluency and Interruption Theory.md
+backlink_count: 36
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
+  of Interruption]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[wiki/Glitching the Sacred]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Le Mythe de Sisyphe — Camus (Absurd as Starting Point)]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Machine Limitation]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
+  2024]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-05-02]]'
+- '[[projects/Stuttering Machines — Fisher King Project State]]'
 ---
 
 # Fluency and Interruption Theory

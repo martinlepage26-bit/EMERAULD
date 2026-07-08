@@ -1,3 +1,67 @@
+---
+type: wiki
+title: Claude Code Skill Corpus
+aliases:
+- Claude Code Skill Corpus
+- wiki/Claude Code Skill Corpus
+tags:
+- wiki
+- skill
+- claude-code-skill-corpus-md
+- anything
+- mubu
+- novita
+- skills
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Claude Code Skill Corpus.md
+backlink_count: 40
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
+- '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
+- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)]]'
+- '[[wiki/Home]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/Obsidian Agent Vault — Setup Guide]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
+- '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[wiki/Rest and Consolidation Guide — Martin]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Skill-Pairing — Five-Case Test Suite]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[memory/agents/Journal]]'
+- '[[wiki/skills/observability-governance]]'
+---
+
 # Claude Code Skill Corpus
 
 ## Summary

@@ -1,3 +1,25 @@
+---
+type: discarded-note
+title: 'Activity: Build Your OpenAI Stack Blueprint'
+aliases:
+- .trash/Building Your First AI Agent with OpenAI________
+tags:
+- archive
+- ai
+- agents
+- discarded-note
+- trash
+- building-your-first-ai-agent-with-openai-md
+status: discarded
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .trash
+canonical_path: .trash/Building Your First AI Agent with OpenAI________.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+---
+
 # Activity: Build Your OpenAI Stack Blueprint
 # Overview
 

@@ -1,16 +1,34 @@
 ---
-title: "Complete solutions, not compromises"
-source: "https://claude.ai/chat/28766802-19f9-4e8b-a01d-320b1d5b1350"
-author:
-published:
-created: 2026-04-20
-description: "Claude conversation with 3 messages"
+type: raw-source
+title: Complete solutions, not compromises
+aliases:
+- raw/Clippings/Complete solutions, not compromises
 tags:
-  - clippings
+- clippings
+- raw-source
+- raw
+- pairing
+- stage
+- skill
+- writer
+- expected
+- color-lime
 status: synthesized
+created: '2026-04-20'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Clippings/Complete solutions, not compromises.md
+backlink_count: 1
+backlinks:
+- '[[wiki/raw-sources/2026-05-13/Complete solutions, not compromises — Source Note]]'
+source: https://claude.ai/chat/28766802-19f9-4e8b-a01d-320b1d5b1350
+author: null
+published: null
+description: Claude conversation with 3 messages
 synthesized_to:
-  - "[[Skill-Pairing — Five-Case Test Suite]]"
+- '[[Skill-Pairing — Five-Case Test Suite]]'
 ---
+
 # 5 test cases covering: correct pairing selection, single-skill deflection, failure case surfacing, handoff fidelity, and over-pairing rejection.
 
 # Format: prompt → expected behavior → pass criteria

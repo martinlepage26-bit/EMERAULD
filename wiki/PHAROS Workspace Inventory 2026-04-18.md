@@ -1,10 +1,42 @@
 ---
 type: wiki
-aliases: []
-tags: [project-management, inventory, cleanup, shipping, workspace]
+title: PHAROS Workspace Inventory 2026-04-18
+aliases:
+- PHAROS Workspace Inventory 2026-04-18
+- wiki/PHAROS Workspace Inventory 2026-04-18
+tags:
+- project-management
+- inventory
+- cleanup
+- shipping
+- workspace
+- wiki
+- pharos-workspace-inventory-2026-04-18-md
+- ship
+- autoresearchclaw
+- root
+- secrets
+- color-purple
 status: active
-created: 2026-04-18
-updated: 2026-04-28
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Workspace Inventory 2026-04-18.md
+backlink_count: 13
+backlinks:
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Rest and Consolidation Guide — Martin]]'
+- '[[memory/daily/2026-06-22]]'
+- '[[memory/daily/2026-06-23]]'
+- '[[memory/daily/2026-06-24]]'
+- '[[memory/daily/2026-06-25]]'
+- '[[memory/daily/2026-06-26]]'
+- '[[memory/daily/2026-06-27]]'
 ---
 
 # PHAROS Workspace Inventory 2026-04-18

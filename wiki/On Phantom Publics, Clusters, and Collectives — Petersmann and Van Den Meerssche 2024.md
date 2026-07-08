@@ -1,10 +1,50 @@
 ---
 type: wiki
-aliases: ["Petersmann and Van Den Meerssche 2024", "Phantom publics clusters collectives", "Algorithmic clusters and publics"]
-tags: [reference, ai-governance, algorithmic-governmentality, clusters, publics, opacity, law, borders, fugitivity]
+title: On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
+  2024
+aliases:
+- Petersmann and Van Den Meerssche 2024
+- Phantom publics clusters collectives
+- Algorithmic clusters and publics
+- wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
+  2024
+tags:
+- reference
+- ai-governance
+- algorithmic-governmentality
+- clusters
+- publics
+- opacity
+- law
+- borders
+- fugitivity
+- wiki
+- on-phantom-publics-clusters-and-collectives-petersmann-and-van-den-meerssche-2024-md
+- subject
+- petersmann
+- meerssche
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and
+  Van Den Meerssche 2024.md
+backlink_count: 13
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024

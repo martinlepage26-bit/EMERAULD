@@ -1,3 +1,31 @@
+---
+type: artifact
+title: docs/migration-govern-to-pharos.md
+aliases:
+- artifacts/2026-04-19-pharos-migration-pr4/01-deploy-config/migration-govern-to-pharos
+tags:
+- artifact
+- pharos
+- governance
+- artifacts
+- 2026-04-19-pharos-migration-pr4
+- govern
+- bucket
+- railway
+- migration
+- wrangler
+- color-purple
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/2026-04-19-pharos-migration-pr4/01-deploy-config/migration-govern-to-pharos.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # docs/migration-govern-to-pharos.md
 # PHAROS Migration Runbook: govern-ai → pharos-ai
 #

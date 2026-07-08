@@ -1,16 +1,36 @@
 ---
 type: publication-ready-manuscript
-status: v0.1 — publish as is (operator directive 2026-05-24)
 title: Charge & Circle — A Ritual Governance Framework
-subtitle: (alternate framing: A False Treatise)
-author: [TO FILL — Martin Lepage / pseudonym / initials]
-created: 2026-05-24
-genre_position: fiction (false-document / encyclopedic-treatise tradition); reader signal not yet inscribed inside the text
+aliases:
+- assets/elemental-agents/ttrpg-repack/manuscript/charge-and-circle-publish-ready
+tags:
+- publication-ready-manuscript
+- assets
+- elemental-agents
+- operation
+- modifier
+- fire
+- effect
+- imbalance
+- color-orange
+status: v0.1 — publish as is (operator directive 2026-05-24)
+created: '2026-05-24'
+updated: '2026-06-26'
+vault_area: assets
+canonical_path: assets/elemental-agents/ttrpg-repack/manuscript/charge-and-circle-publish-ready.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+subtitle: '(alternate framing: A False Treatise)'
+author: '[TO FILL — Martin Lepage / pseudonym / initials]'
+genre_position: fiction (false-document / encyclopedic-treatise tradition); reader
+  signal not yet inscribed inside the text
 word_count: ~9,200
 chapters: 3
 companion: 165-operation catalogue (not yet drafted; ships separately if at all)
-audit_status: Dimension-F audit complete; operator chose publish-as-is, findings preserved as record
-license: [TO DECIDE]
+audit_status: Dimension-F audit complete; operator chose publish-as-is, findings preserved
+  as record
+license: '[TO DECIDE]'
 ---
 
 # Charge & Circle

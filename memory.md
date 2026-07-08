@@ -1,13 +1,66 @@
 ---
 type: memory-dashboard
+title: Memory
 aliases:
-  - Business Memory
-  - Live Memory
-  - Memory Dashboard
-tags: [memory, business, dashboard, active]
+- Business Memory
+- Live Memory
+- Memory Dashboard
+- memory
+tags:
+- memory
+- business
+- dashboard
+- active
+- memory-dashboard
+- memory-md
+- client
+- clients
+- daily
+- color-green
 status: active
-created: 2026-04-19
-updated: 2026-05-13
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: memory.md
+canonical_path: memory.md
+backlink_count: 37
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/Home]]'
+- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[assets/D-drive-dedup-report-2026-04-21]]'
+- '[[index]]'
+- '[[wiki/memory]]'
+- '[[memory/clients/Lavoie]]'
+- '[[memory/clients/Progression]]'
+- '[[memory/daily/2026-04-19]]'
+- '[[memory/daily/2026-04-20]]'
+- '[[memory/daily/2026-04-21]]'
+- '[[memory/daily/2026-04-22]]'
+- '[[memory/daily/2026-04-23]]'
+- '[[memory/daily/2026-04-24]]'
+- '[[memory/daily/2026-04-25]]'
+- '[[memory/daily/2026-04-28]]'
+- '[[memory/daily/2026-05-05]]'
+- '[[memory/daily/2026-05-07]]'
+- '[[memory/daily/2026-05-10]]'
+- '[[memory/daily/2026-05-11]]'
+- '[[projects/PHAROS — Fisher King Project State]]'
+- '[[projects/Second Brain — Fisher King Project State]]'
+- '[[raw/00_Inbox/Raw/2026-04-25 — Stop coding, clean, package, send]]'
+- '[[templates/Memory Daily Template]]'
 ---
 
 # Memory

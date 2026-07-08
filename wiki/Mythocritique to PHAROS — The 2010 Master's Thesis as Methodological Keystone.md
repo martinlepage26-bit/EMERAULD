@@ -1,16 +1,161 @@
 ---
 type: wiki
+title: Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone
 aliases:
-  - Mythocritique to PHAROS
-  - The Keystone — MA thesis as methodological substrate
-  - Pourquoi rêver encore — keystone
-  - Egyptian triad to LOTUS
-  - Osirian recursive method
-  - Hermetic substrate of EMERAULD
-tags: [keystone, MA-thesis, mythocritique, hermetic, Egyptian-triad, LOTUS, pharos, emerauld, methodological-genealogy, Rivard, trismegiste]
+- Mythocritique to PHAROS
+- The Keystone — MA thesis as methodological substrate
+- Pourquoi rêver encore — keystone
+- Egyptian triad to LOTUS
+- Osirian recursive method
+- Hermetic substrate of EMERAULD
+- wiki/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone
+tags:
+- keystone
+- ma-thesis
+- mythocritique
+- hermetic
+- egyptian-triad
+- lotus
+- pharos
+- emerauld
+- methodological-genealogy
+- rivard
+- trismegiste
+- wiki
+- mythocritique-to-pharos-the-2010-master-s-thesis-as-methodological-keystone-md
+- double
+- ombre
+- egyptian
+- color-blue
 status: active
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological
+  Keystone.md
+backlink_count: 118
+backlinks:
+- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/Agatha All Along Social Compass — Version Genealogy]]'
+- '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
+  of Interruption]]'
+- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
+- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
+- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[wiki/CORPUS Novel — Version Genealogy]]'
+- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
+- '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/Founder Charter — Lepage and Stocker]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)]]'
+- '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
+- '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[wiki/InfraFabric Architecture]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[wiki/LOTUS Premium Spec]]'
+- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[wiki/Le sang qui porte ton nom — Novel]]'
+- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
+- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Invention Disclosure]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/PHAROS Recalibration — Unified Governance Architecture]]'
+- '[[wiki/PHAROS Runbook SOP]]'
+- '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Pourquoi Rever Encore — Version Genealogy]]'
+- '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
+- '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
+- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
+- '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
+- '[[wiki/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[wiki/Sealed Card Protocol — Version Genealogy]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
+- '[[wiki/Slayer Recursion Protocol — README and Repositioning]]'
+- '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
+- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
+- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[wiki/The Returning Light — Monograph]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
+  Glitch]]'
+- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Why Be King Im Already a Queen — Book Project]]'
+- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
+- '[[projects/LOTUS — Fisher King Project State]]'
 ---
 
 # Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone

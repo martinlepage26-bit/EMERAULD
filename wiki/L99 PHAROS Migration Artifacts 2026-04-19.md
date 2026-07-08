@@ -1,10 +1,49 @@
 ---
 type: wiki
-aliases: ["L99 PHAROS Migration", "L99 Artifacts 2026-04-19", "PR #4 Hardening Bundle"]
-tags: [pharos, deployment, pr-4, hardening, migration, l99, artifacts]
+title: L99 PHAROS Migration Artifacts 2026-04-19
+aliases:
+- L99 PHAROS Migration
+- L99 Artifacts 2026-04-19
+- 'PR #4 Hardening Bundle'
+- wiki/L99 PHAROS Migration Artifacts 2026-04-19
+tags:
+- pharos
+- deployment
+- pr-4
+- hardening
+- migration
+- l99
+- artifacts
+- wiki
+- l99-pharos-migration-artifacts-2026-04-19-md
+- dnspython
+- compassai
+- unaffected
+- aurora
+- deploy
+- color-purple
 status: active
-created: 2026-04-19
-updated: 2026-04-28
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/L99 PHAROS Migration Artifacts 2026-04-19.md
+backlink_count: 15
+backlinks:
+- '[[wiki/CSV_DIAGNOSTIC_REPORT]]'
+- '[[wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)]]'
+- '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]'
+- '[[memory/daily/2026-04-28]]'
+- '[[projects/AurorA — Fisher King Project State]]'
+- '[[projects/COMPASSai — Fisher King Project State]]'
 ---
 
 # L99 PHAROS Migration Artifacts 2026-04-19

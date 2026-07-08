@@ -1,9 +1,33 @@
 ---
 type: skill
+title: fully-rounded-power-analyst
+aliases:
+- skills/fully-rounded-power-analyst
+- wiki/skills/fully-rounded-power-analyst
+tags:
+- skill
+- wiki
+- skills
+- incentives
+- leverage
+- rounded
+- actors
+- investigator
+- color-red
+status: active
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/fully-rounded-power-analyst.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/skills/research-grants]]'
 skill_id: fully-rounded-power-analyst
 scope: governance
-status: active
-created: 2026-05-06
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md
 ---
 

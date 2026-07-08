@@ -1,3 +1,31 @@
+---
+type: artifact
+title: Medium Article + ProductHunt Copy — Obsidian Agent Vault
+aliases:
+- artifacts/marketplace/promo/medium-producthunt
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- agent
+- guides
+- claude
+- start
+- obsidian
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/medium-producthunt.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # Medium Article + ProductHunt Copy — Obsidian Agent Vault
 
 Replace https://pharosml.gumroad.com/l/kvbhdo with your live Gumroad URL before posting.

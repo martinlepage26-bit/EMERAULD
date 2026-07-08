@@ -1,12 +1,41 @@
 ---
 type: wiki
-aliases: ["EI delay escalation letter", "Service Canada accountability letter", "housing risk due to EI delay"]
-tags: [legal, institutional, social-protection, housing-risk, accountability, personal-case]
+title: Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)
+aliases:
+- EI delay escalation letter
+- Service Canada accountability letter
+- housing risk due to EI delay
+- wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)
+tags:
+- legal
+- institutional
+- social-protection
+- housing-risk
+- accountability
+- personal-case
+- wiki
+- service-canada-ei-delay-letter-housing-risk-escalation-2026-05-10-md
+- housing
+- delay
+- letter
+- escalation
+- despite
+- color-red
 status: active
-created: 2026-05-12
-updated: 2026-05-13
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10).md
+backlink_count: 5
+backlinks:
+- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 source:
-  - raw/Desktop-Downloads-scan-2026-05-12/downloads/Service Canada me laisse sans assurance-emploi depuis janvier _ je risque maintenant de perdre mon logement.pdf
+- raw/Desktop-Downloads-scan-2026-05-12/downloads/Service Canada me laisse sans assurance-emploi
+  depuis janvier _ je risque maintenant de perdre mon logement.pdf
 ---
 
 # Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)

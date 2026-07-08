@@ -1,10 +1,32 @@
 ---
 type: skill
-skill_id: "diamond-eyes"
-domain: "Specialized and Miscellaneous"
+title: diamond-eyes
+aliases:
+- archive/diamond-eyes
+- wiki/archive/diamond-eyes
+tags:
+- skill
+- wiki
+- archive
+- microcopy
+- communicative
+- stiff
+- eager
+- taglines
+- color-green
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/diamond-eyes/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/archive/diamond-eyes.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+skill_id: diamond-eyes
+domain: Specialized and Miscellaneous
+codex_path: /home/cerebrhoe/.codex/skills/diamond-eyes/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

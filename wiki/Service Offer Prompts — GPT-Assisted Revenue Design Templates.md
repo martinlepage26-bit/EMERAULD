@@ -1,10 +1,32 @@
 ---
 type: wiki
-aliases: ["Service Offer Prompts", "GPT Revenue Design Prompts", "Freelance Offer Prompts"]
-tags: []
+title: Service Offer Prompts — GPT-Assisted Revenue Design Templates
+aliases:
+- Service Offer Prompts
+- GPT Revenue Design Prompts
+- Freelance Offer Prompts
+- wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates
+tags:
+- wiki
+- service-offer-prompts-gpt-assisted-revenue-design-templates-md
+- offer
+- prompt
+- verbosity
+- outreach
+- revenue
+- color-orange
 status: active
-created: 2026-05-31
-updated: 2026-05-31
+created: '2026-05-31'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates.md
+backlink_count: 5
+backlinks:
+- '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
+- '[[wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 # Service Offer Prompts — GPT-Assisted Revenue Design Templates

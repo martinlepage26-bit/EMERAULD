@@ -1,10 +1,47 @@
 ---
 type: wiki
-aliases: [governed revision loop, self-improving agent governance, responsible agent self-revision, "Governed Revision Loop"]
-tags: [ai-governance, agents, self-improvement, obsidian-vault, pharos, drift, evaluation]
+title: Governed Revision Loop — Responsible Self-Improving Agents
+aliases:
+- governed revision loop
+- self-improving agent governance
+- responsible agent self-revision
+- Governed Revision Loop
+- wiki/Governed Revision Loop — Responsible Self-Improving Agents
+tags:
+- ai-governance
+- agents
+- self-improvement
+- obsidian-vault
+- pharos
+- drift
+- evaluation
+- wiki
+- governed-revision-loop-responsible-self-improving-agents-md
+- acceptance
+- governed
+- obsidian
+- edits
+- post
+- color-orange
 status: active
-created: 2026-04-20
-updated: 2026-04-28
+created: '2026-04-20'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Governed Revision Loop — Responsible Self-Improving Agents.md
+backlink_count: 12
+backlinks:
+- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[assets/elemental-agents/positioning-memo]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Journal]]'
 ---
 
 # Governed Revision Loop — Responsible Self-Improving Agents

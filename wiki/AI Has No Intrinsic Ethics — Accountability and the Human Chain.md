@@ -1,10 +1,39 @@
 ---
 type: wiki
-aliases: ["AI Has No Intrinsic Ethics", "Human Chain of Accountability"]
-tags: [ai-governance, accountability, ethics, public-statement, pharos]
+title: AI Has No Intrinsic Ethics — Accountability and the Human Chain
+aliases:
+- AI Has No Intrinsic Ethics
+- Human Chain of Accountability
+- wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain
+tags:
+- ai-governance
+- accountability
+- ethics
+- public-statement
+- pharos
+- wiki
+- ai-has-no-intrinsic-ethics-accountability-and-the-human-chain-md
+- atrophy
+- decay
+- attended
+- fringe
+- representation
+- color-pink
 status: active
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # AI Has No Intrinsic Ethics — Accountability and the Human Chain

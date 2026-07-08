@@ -1,3 +1,32 @@
+---
+type: governance-doc
+title: Continuous Ethical Monitoring
+aliases:
+- Continuous Ethical Monitoring
+- governance/hephaistos/continuous-ethical-monitoring
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- keyport
+- weekly
+- queen
+- monitoring
+- wisdom
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/continuous-ethical-monitoring.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/QUEEN-KEYPORT]]'
+---
+
 # Continuous Ethical Monitoring
 
 ## Purpose

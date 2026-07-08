@@ -1,3 +1,29 @@
+---
+type: artifact
+title: scripts/
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/scripts/README
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- bash
+- rename
+- scripts
+- guide
+- python
+- color-orange
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/scripts/README.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # scripts/
 
 This folder contains two kinds of tools:

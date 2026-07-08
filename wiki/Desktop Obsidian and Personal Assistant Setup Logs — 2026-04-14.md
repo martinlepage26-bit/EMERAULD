@@ -1,10 +1,37 @@
 ---
 type: wiki
-aliases: ["Desktop Obsidian setup logs", "personal assistant Desktop scaffold", "Obsidian WSL setup transcript"]
-tags: [obsidian, personal-assistant, lightrag, infrastructure, desktop-intake, vault-product]
+title: Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14
+aliases:
+- Desktop Obsidian setup logs
+- personal assistant Desktop scaffold
+- Obsidian WSL setup transcript
+- wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14
+tags:
+- obsidian
+- personal-assistant
+- lightrag
+- infrastructure
+- desktop-intake
+- vault-product
+- wiki
+- desktop-obsidian-and-personal-assistant-setup-logs-2026-04-14-md
+- assistant
+- desktop
+- personal
+- windows
+- color-orange
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14.md
+backlink_count: 5
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14

@@ -1,10 +1,31 @@
 ---
 type: wiki
-aliases: []
-tags: [governance, architecture, three-agent-stack]
+title: Governance Index
+aliases:
+- governance/governance-index
+tags:
+- governance
+- architecture
+- three-agent-stack
+- wiki
+- governance-index-md
+- keyport
+- queen
+- binding
+- authority
+- integration
+- color-purple
 status: active
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/governance-index.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Stacklight-owner-explainer]]'
+- '[[wiki/archive/Ethical Ground Values]]'
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[governance/decision-index]]'
 ---
 
 # Governance Index

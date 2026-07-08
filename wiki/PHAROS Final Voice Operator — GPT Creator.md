@@ -1,10 +1,49 @@
 ---
 type: wiki
-aliases: [PHAROS Final Voice Operator, Final Voice Operator GPT, PHAROS GPT Spec]
-tags: [voice, gpt, operator, pharos, governance, ai-governance]
+title: PHAROS Final Voice Operator — GPT Creator
+aliases:
+- PHAROS Final Voice Operator
+- Final Voice Operator GPT
+- PHAROS GPT Spec
+- wiki/PHAROS Final Voice Operator — GPT Creator
+tags:
+- voice
+- gpt
+- operator
+- pharos
+- governance
+- ai-governance
+- wiki
+- pharos-final-voice-operator-gpt-creator-md
+- dottie
+- mobius
+- authorship
+- distinguish
+- color-purple
 status: active
-created: 2026-04-16
-updated: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Final Voice Operator — GPT Creator.md
+backlink_count: 17
+backlinks:
+- '[[.github/agents/gadget.agent]]'
+- '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governess Agatha GPT — ChatGPT Product Specification]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'
+- '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
+- '[[templates/Recursive Governance Packet Header]]'
 ---
 
 # PHAROS Final Voice Operator — GPT Creator

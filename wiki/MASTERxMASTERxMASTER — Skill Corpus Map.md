@@ -1,10 +1,50 @@
 ---
 type: map
-aliases: [MASTERxMASTERxMASTER, skill corpus, MASTER PACK skills]
-tags: [index, map, skills, pharos, governance, hephaistos]
+title: MASTERxMASTERxMASTER — Skill Corpus Map
+aliases:
+- MASTERxMASTERxMASTER
+- skill corpus
+- MASTER PACK skills
+- wiki/MASTERxMASTERxMASTER — Skill Corpus Map
+tags:
+- index
+- map
+- skills
+- pharos
+- governance
+- hephaistos
+- wiki
+- masterxmasterxmaster-skill-corpus-map-md
+- const
+- skill
+- letters
+- pack
+- masterxmasterxmaster
+- color-purple
 status: active
-created: 2026-04-16
-updated: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/MASTERxMASTERxMASTER — Skill Corpus Map.md
+backlink_count: 17
+backlinks:
+- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[wiki/APEX Papers — Research Archive Map]]'
+- '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
+- '[[wiki/Claude Code Skill Corpus]]'
+- '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
+- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Skill-Pairing — Five-Case Test Suite]]'
 ---
 
 # MASTERxMASTERxMASTER — Skill Corpus Map

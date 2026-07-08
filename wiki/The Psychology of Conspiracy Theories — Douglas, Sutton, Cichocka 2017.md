@@ -1,10 +1,41 @@
 ---
 type: wiki
-aliases: ["Douglas et al 2017 conspiracy theories", "Psychology of conspiracy theories (CDPS 2017)"]
-tags: [reference, psychology, conspiracy, epistemics, governance, narrative-control, uncertainty]
+title: The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017
+aliases:
+- Douglas et al 2017 conspiracy theories
+- Psychology of conspiracy theories (CDPS 2017)
+- wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017
+tags:
+- reference
+- psychology
+- conspiracy
+- epistemics
+- governance
+- narrative-control
+- uncertainty
+- wiki
+- the-psychology-of-conspiracy-theories-douglas-sutton-cichocka-2017-md
+- douglas
+- sutton
+- karen
+- cichocka
+- color-blue
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka
+  2017.md
+backlink_count: 8
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Mental illness, addiction, and AI psychosis]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017

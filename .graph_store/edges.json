@@ -896,6 +896,11 @@
   },
   {
     "source": "AI Infrastructure Stack",
+    "target": "Agent Logs Hub",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
     "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
     "count": 1
   },
@@ -952,6 +957,11 @@
   {
     "source": "AI Infrastructure Stack",
     "target": "EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)",
     "count": 1
   },
   {
@@ -1121,12 +1131,22 @@
   },
   {
     "source": "AI Infrastructure Stack",
+    "target": "Workflows Hub",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
     "target": "claude-mem — Persistent Memory Compression for Claude Code",
     "count": 1
   },
   {
     "source": "AI Infrastructure Stack",
     "target": "claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "count": 1
   },
   {
@@ -2802,6 +2822,11 @@
   {
     "source": "Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)",
     "target": "VAULT ADDITIONS TRACKER",
+    "count": 1
+  },
+  {
+    "source": "Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)",
+    "target": "Workspace Cleanup Ledger — 2026-05-31",
     "count": 1
   },
   {
@@ -8285,6 +8310,31 @@
     "count": 1
   },
   {
+    "source": "Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)",
+    "target": "AI Infrastructure Stack",
+    "count": 1
+  },
+  {
+    "source": "Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)",
+    "target": "ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "count": 1
+  },
+  {
+    "source": "Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)",
+    "target": "Kickstart App Prompt — Template and Synthesis Framework",
+    "count": 1
+  },
+  {
+    "source": "Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)",
+    "target": "Personal and Projects MOC",
+    "count": 1
+  },
+  {
+    "source": "Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)",
+    "target": "Skill Domain — Deployment and Infrastructure",
+    "count": 1
+  },
+  {
     "source": "Emotional Alliance vs. Evidentiary Discipline in AI",
     "target": "AI Ethics Literature — Contestable Governance Artifacts",
     "count": 2
@@ -8592,6 +8642,11 @@
   {
     "source": "Ethnographic Data Loss — Ethics Decision and Publication Disclaimer",
     "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Ethnographic Data Loss — Ethics Decision and Publication Disclaimer",
+    "target": "PHAROS Scholarly Publication Track",
     "count": 1
   },
   {
@@ -8990,6 +9045,61 @@
     "count": 1
   },
   {
+    "source": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "target": "AurorA — COMPASSai Input Module",
+    "count": 2
+  },
+  {
+    "source": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "target": "COMPASSai — Governance Engine",
+    "count": 2
+  },
+  {
+    "source": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "target": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 2
+  },
+  {
+    "source": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "target": "Hermes Dashboard — Professional Governance Tool",
+    "count": 2
+  },
+  {
+    "source": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "target": "PHAROS Commercial Strategy",
+    "count": 1
+  },
+  {
+    "source": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "target": "PHAROS Scholarly Publication Track",
+    "count": 1
+  },
+  {
+    "source": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "target": "RECURSO — Final Audit and Ethical Review",
+    "count": 1
+  },
+  {
+    "source": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "target": "RECURSO — Recursive Governance Test Archive",
+    "count": 1
+  },
+  {
+    "source": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "target": "Recursive Governance Theory",
+    "count": 1
+  },
+  {
+    "source": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "target": "Research Hub",
+    "count": 1
+  },
+  {
+    "source": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
     "source": "External Data Refresh Calendar — Phase 1 Build",
     "target": "CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)",
     "count": 3
@@ -9137,6 +9247,11 @@
   {
     "source": "First Method Paper — Version Genealogy",
     "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Fisher King Hub — Project Recovery Map",
+    "target": "Daily Dashboard",
     "count": 1
   },
   {
@@ -12626,6 +12741,11 @@
   },
   {
     "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "target": "EU AI Act and Law 25 — Regulatory Pressure Window",
+    "count": 1
+  },
+  {
+    "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
     "target": "Evidence Discipline and Epistemics",
     "count": 1
   },
@@ -14046,6 +14166,11 @@
   },
   {
     "source": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "target": "Manuscript Pipeline MOC",
+    "count": 1
+  },
+  {
+    "source": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "target": "Martin Lepage Publications — Annotated Bibliography and Verification Leads",
     "count": 2
   },
@@ -15226,6 +15351,11 @@
   },
   {
     "source": "Host Environment — pharos-corpus-runner-01",
+    "target": "Agent Distillation Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Host Environment — pharos-corpus-runner-01",
     "target": "CLAUDEX — AI Dialogue Archive",
     "count": 1
   },
@@ -15535,6 +15665,11 @@
     "count": 1
   },
   {
+    "source": "InfraFabric Architecture",
+    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 2
+  },
+  {
     "source": "InfraFabric Codex Alignment — System-Shaper Frame",
     "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
     "count": 1
@@ -15673,6 +15808,11 @@
     "source": "InfraFabric MCP Stack — Remote Bundles",
     "target": "claude-peers-mcp — Claude Peer Network",
     "count": 2
+  },
+  {
+    "source": "InfraFabric MCP Stack — Remote Bundles",
+    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "count": 1
   },
   {
     "source": "Inner Goddess Wicca Gender — Version Genealogy",
@@ -17717,6 +17857,11 @@
   {
     "source": "MASTER REFERENCE SAFE — Canonical Bibliography System",
     "target": "PHAROS Method — Technical Reference",
+    "count": 1
+  },
+  {
+    "source": "MASTER REFERENCE SAFE — Canonical Bibliography System",
+    "target": "PHAROS Scholarly Publication Track",
     "count": 1
   },
   {
@@ -21931,7 +22076,27 @@
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "2026 - Mauss - The Gift",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "CSV_DIAGNOSTIC_REPORT",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "Home",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "target": "PROTOCOLS — Debate and Red-Team Runbook",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "VAULT ADDITIONS TRACKER",
     "count": 1
   },
   {
@@ -22052,6 +22217,16 @@
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "target": "archive/web-scraping",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "memory",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "session-state",
     "count": 1
   },
   {
@@ -22331,6 +22506,11 @@
   },
   {
     "source": "PHAROS AI Lineage — Source of Truth",
+    "target": "CLAUDEX — AI Dialogue Archive",
+    "count": 1
+  },
+  {
+    "source": "PHAROS AI Lineage — Source of Truth",
     "target": "Documents Root Loose Files Intake — 2026-04-28",
     "count": 2
   },
@@ -22403,6 +22583,11 @@
     "source": "PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
     "target": "PHAROS Procurement-Unblock Sprint",
     "count": 2
+  },
+  {
+    "source": "PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
+    "target": "Personal OS",
+    "count": 1
   },
   {
     "source": "PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
@@ -22652,6 +22837,11 @@
   {
     "source": "PHAROS Commercial Strategy",
     "target": "OpenAI Governance Framework — Comparison with PHAROS",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Commercial Strategy",
+    "target": "PHAROS AI Governance Service — Offer Architecture and Outreach Templates",
     "count": 1
   },
   {
@@ -23806,6 +23996,11 @@
   },
   {
     "source": "PHAROS Scholarly Publication Track",
+    "target": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
     "target": "First Method Paper — Recursive AI Governance as Executable Method",
     "count": 1
   },
@@ -23828,6 +24023,11 @@
     "source": "PHAROS Scholarly Publication Track",
     "target": "Hermes Dashboard — Professional Governance Tool",
     "count": 2
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
+    "target": "Knowledge Gaps",
+    "count": 1
   },
   {
     "source": "PHAROS Scholarly Publication Track",
@@ -23886,6 +24086,11 @@
   },
   {
     "source": "PHAROS Scholarly Publication Track",
+    "target": "PHAROS External Proof Packet — Procurement-Unblock 2026-04-28",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
     "target": "PHAROS Invention Disclosure",
     "count": 1
   },
@@ -23937,6 +24142,11 @@
   {
     "source": "PHAROS Scholarly Publication Track",
     "target": "Recursive Governance Theory",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
+    "target": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
     "count": 1
   },
   {
@@ -24463,6 +24673,11 @@
     "source": "Pagan Magic — Version Genealogy",
     "target": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "count": 2
+  },
+  {
+    "source": "Pagan Magic — Version Genealogy",
+    "target": "Queering Neo-Pagan Magic — MRW Submission (2026)",
+    "count": 1
   },
   {
     "source": "Pagan Magic — Version Genealogy",
@@ -25421,6 +25636,11 @@
   },
   {
     "source": "Personal and Projects MOC",
+    "target": "Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)",
+    "count": 1
+  },
+  {
+    "source": "Personal and Projects MOC",
     "target": "Emotional Alliance vs. Evidentiary Discipline in AI",
     "count": 1
   },
@@ -25881,6 +26101,11 @@
   },
   {
     "source": "Personal and Projects MOC",
+    "target": "VoiceBridge Foundation",
+    "count": 1
+  },
+  {
+    "source": "Personal and Projects MOC",
     "target": "WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter",
     "count": 1
   },
@@ -25902,6 +26127,11 @@
   {
     "source": "Personal and Projects MOC",
     "target": "claude-peers-mcp — Claude Peer Network",
+    "count": 1
+  },
+  {
+    "source": "Personal and Projects MOC",
+    "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "count": 1
   },
   {
@@ -27086,6 +27316,11 @@
   },
   {
     "source": "Queer Sociology of Magic and Ritual",
+    "target": "Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)",
+    "count": 1
+  },
+  {
+    "source": "Queer Sociology of Magic and Ritual",
     "target": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
     "count": 1
   },
@@ -27662,6 +27897,11 @@
   {
     "source": "Queering Neo-Pagan Magic — 2026 Paper",
     "target": "Queering Neo-Pagan Magic — 2025 Revised Version",
+    "count": 1
+  },
+  {
+    "source": "Queering Neo-Pagan Magic — 2026 Paper",
+    "target": "Queering Neo-Pagan Magic — FINAL FINAL PAPER",
     "count": 1
   },
   {
@@ -29606,6 +29846,11 @@
   },
   {
     "source": "Research and Papers MOC",
+    "target": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
     "target": "First Method Paper — Recursive AI Governance as Executable Method",
     "count": 1
   },
@@ -31023,6 +31268,11 @@
     "source": "Root Loose Notes Cluster Map — 2026-05-06",
     "target": "Writing and Novels MOC",
     "count": 2
+  },
+  {
+    "source": "Root Loose Notes Cluster Map — 2026-05-06",
+    "target": "genealogy/test",
+    "count": 1
   },
   {
     "source": "SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
@@ -37826,7 +38076,17 @@
   },
   {
     "source": "VAULT ADDITIONS TRACKER",
+    "target": "PERPLEXITY-COMPUTER",
+    "count": 1
+  },
+  {
+    "source": "VAULT ADDITIONS TRACKER",
     "target": "Vault Graph Hygiene — Content Title Normalization Skill",
+    "count": 1
+  },
+  {
+    "source": "VAULT ADDITIONS TRACKER",
+    "target": "Workspace Cleanup Ledger — 2026-05-31",
     "count": 1
   },
   {
@@ -38337,6 +38597,11 @@
   {
     "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
     "target": "Machine Limitation",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "Manuscript Pipeline MOC",
     "count": 1
   },
   {
@@ -39600,6 +39865,66 @@
     "count": 2
   },
   {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "AurorA — COMPASSai Input Module",
+    "count": 2
+  },
+  {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)",
+    "count": 1
+  },
+  {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "COMPASSai — Governance Engine",
+    "count": 2
+  },
+  {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)",
+    "count": 1
+  },
+  {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "EMERAULD",
+    "count": 1
+  },
+  {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "External Data Registry — Phase 1 Build",
+    "count": 1
+  },
+  {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "count": 2
+  },
+  {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "Hermes Dashboard — Professional Governance Tool",
+    "count": 1
+  },
+  {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "PHAROS Scholarly Publication Track",
+    "count": 3
+  },
+  {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "Railway — COMPASSai Production Deployment Platform",
+    "count": 2
+  },
+  {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "Research and Papers MOC",
+    "count": 2
+  },
+  {
+    "source": "Weekly Review — 2026-06-26",
+    "target": "session-state",
+    "count": 1
+  },
+  {
     "source": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
     "target": "First Method Paper — Recursive AI Governance as Executable Method",
     "count": 1
@@ -39841,6 +40166,11 @@
   },
   {
     "source": "Workflows Hub",
+    "target": "Weekly Review — 2026-06-26",
+    "count": 1
+  },
+  {
+    "source": "Workflows Hub",
     "target": "session-state",
     "count": 1
   },
@@ -40032,6 +40362,11 @@
   {
     "source": "Writing and Novels MOC",
     "target": "Magic After Legitimacy Charmed — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Writing and Novels MOC",
+    "target": "Manuscript Pipeline MOC",
     "count": 1
   },
   {
@@ -40387,6 +40722,16 @@
   {
     "source": "archive/Orphan Index — Operations And Misc — 2026-05-06",
     "target": "maps/Novel Corpus Map",
+    "count": 1
+  },
+  {
+    "source": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
+    "target": "genealogy/Martin Voice Spec — Stage Map",
+    "count": 1
+  },
+  {
+    "source": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
+    "target": "genealogy/Martin Voice Spec — Version Genealogy",
     "count": 1
   },
   {
@@ -40913,6 +41258,16 @@
     "source": "genealogy/Martin Voice Spec — Version Genealogy",
     "target": "Version Genealogy System",
     "count": 1
+  },
+  {
+    "source": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "target": "InfraFabric Architecture",
+    "count": 3
+  },
+  {
+    "source": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
+    "target": "InfraFabric MCP Stack — Remote Bundles",
+    "count": 3
   },
   {
     "source": "maps/Novel Corpus Map",
@@ -41926,6 +42281,16 @@
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "target": "Codex RIA Run — The Web as X (First Operationalization 2026-04-25)",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "target": "Reflexive Inhabitation Audit — Prompt",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
     "target": "Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
@@ -41956,6 +42321,11 @@
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "target": "Posture vs Execution Drift — The Practice of Refusal",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
     "target": "Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
@@ -41982,6 +42352,11 @@
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
     "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
+    "target": "The Lost-Loop Pattern — Avoidance Through System-Building",
     "count": 1
   },
   {

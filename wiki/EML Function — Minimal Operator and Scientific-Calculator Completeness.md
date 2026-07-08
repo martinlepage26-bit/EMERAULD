@@ -1,10 +1,44 @@
 ---
 type: wiki
-aliases: ["EML function", "Exp-Minus-Log", "eml(x,y)", "single binary operator"]
-tags: [reference, mathematics, recursion, symbolic-regression, epistemics, generative-minimalism]
+title: EML Function — Minimal Operator and Scientific-Calculator Completeness
+aliases:
+- EML function
+- Exp-Minus-Log
+- eml(x,y)
+- single binary operator
+- wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness
+tags:
+- reference
+- mathematics
+- recursion
+- symbolic-regression
+- epistemics
+- generative-minimalism
+- wiki
+- eml-function-minimal-operator-and-scientific-calculator-completeness-md
+- calculator
+- trees
+- functions
+- trigonometric
+- elementary
+- color-orange
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness.md
+backlink_count: 9
+backlinks:
+- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
+  Phenomenon]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Home]]'
+- '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # EML Function — Minimal Operator and Scientific-Calculator Completeness

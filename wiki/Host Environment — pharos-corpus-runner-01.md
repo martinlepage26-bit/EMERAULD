@@ -1,10 +1,35 @@
 ---
 type: wiki
-aliases: ["pharos-corpus-runner-01", "home/martin", "GCE host", "server"]
-tags: [infrastructure, environment, host, server]
+title: Host Environment — pharos-corpus-runner-01
+aliases:
+- pharos-corpus-runner-01
+- home/martin
+- GCE host
+- server
+- wiki/Host Environment — pharos-corpus-runner-01
+tags:
+- infrastructure
+- environment
+- host
+- server
+- wiki
+- host-environment-pharos-corpus-runner-01-md
+- apps
+- mobile
+- pane
+- voicebridge
+- martinlepage
+- color-teal
 status: active
-created: 2026-06-21
-updated: 2026-06-21
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Host Environment — pharos-corpus-runner-01.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Agent Distillation Pipeline]]'
+- '[[wiki/CLAUDEX — AI Dialogue Archive]]'
+- '[[wiki/VoiceBridge Foundation]]'
 ---
 
 # Host Environment — pharos-corpus-runner-01

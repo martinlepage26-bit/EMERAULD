@@ -1,10 +1,35 @@
 ---
 type: wiki
-aliases: ["CLAUDEX", "AI council archive", "dialogue archive"]
-tags: [archive, ai-council, dialogue, claude, codex]
+title: CLAUDEX — AI Dialogue Archive
+aliases:
+- CLAUDEX
+- AI council archive
+- dialogue archive
+- wiki/CLAUDEX — AI Dialogue Archive
+tags:
+- archive
+- ai-council
+- dialogue
+- claude
+- codex
+- wiki
+- claudex-ai-dialogue-archive-md
+- claudex
+- debate
+- magnifica
+- humanitas
+- runner
+- color-green
 status: active
-created: 2026-06-21
-updated: 2026-06-21
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/CLAUDEX — AI Dialogue Archive.md
+backlink_count: 3
+backlinks:
+- '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
+- '[[wiki/Host Environment — pharos-corpus-runner-01]]'
+- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
 ---
 
 # CLAUDEX — AI Dialogue Archive

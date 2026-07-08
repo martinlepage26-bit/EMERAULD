@@ -1,10 +1,36 @@
 ---
 type: map
-aliases: [Martin Voice Spec Stage Map, Voice Spec Stage Map, Voice Lineage Map, Martin Voice Lineage Map]
-tags: [voice, map, martin, mobi, dottie, governance]
+title: Martin Voice Spec — Stage Map
+aliases:
+- Martin Voice Spec Stage Map
+- Voice Spec Stage Map
+- Voice Lineage Map
+- Martin Voice Lineage Map
+- wiki/genealogy/Martin Voice Spec — Stage Map
+tags:
+- voice
+- map
+- martin
+- mobi
+- dottie
+- governance
+- wiki
+- genealogy
+- stage
+- containment
+- spec
+- constitution
+- color-purple
 status: active
-created: 2026-04-29
-updated: 2026-04-29
+created: '2026-04-29'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/genealogy/Martin Voice Spec — Stage Map.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
 source: Martin Voice Spec — Version Genealogy
 ---
 

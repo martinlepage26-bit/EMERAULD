@@ -1,10 +1,47 @@
 ---
 type: wiki
-aliases: [PROTOCOLS, debate runbook, red-team, five-lane review]
-tags: [governance, red-team, debate, hephaistos, review-process]
+title: PROTOCOLS — Debate and Red-Team Runbook
+aliases:
+- PROTOCOLS
+- debate runbook
+- red-team
+- five-lane review
+- wiki/PROTOCOLS — Debate and Red-Team Runbook
+tags:
+- governance
+- red-team
+- debate
+- hephaistos
+- review-process
+- wiki
+- protocols-debate-and-red-team-runbook-md
+- lane
+- protocols
+- delta
+- redteam
+- color-purple
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PROTOCOLS — Debate and Red-Team Runbook.md
+backlink_count: 15
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Emotional Alliance vs. Evidentiary Discipline in AI]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Red Team Handbook — Offensive Security Reference]]'
+- '[[wiki/archive/red-team]]'
+- '[[hephaistos/agents/hephaistos]]'
 ---
 
 # PROTOCOLS — Debate and Red-Team Runbook

@@ -1,12 +1,54 @@
 ---
+type: agent-spec
+title: Argus
+aliases:
+- Argus
+- hephaistos/agents/argus
+tags:
+- agents
+- ai
+- hephaistos
+- argus
+- agent-spec
+- references
+- audit
+- composition
+- coherence
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: hephaistos
+canonical_path: hephaistos/agents/argus.md
+backlink_count: 14
+backlinks:
+- '[[.github/agents/argus.agent]]'
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[governance/hephaistos/L99-DEMOTION-TO-ARGUS]]'
+- '[[hephaistos/personal-assistant-agents/content-inventory-cartographer/SKILL]]'
+- '[[hephaistos/personal-assistant-agents/content-inventory-cartographer/references/ecosystem]]'
+- '[[hephaistos/personal-assistant-agents/demand-scout/SKILL]]'
+- '[[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/SKILL]]'
+- '[[hephaistos/personal-assistant-agents/intake-triager/SKILL]]'
+- '[[hephaistos/personal-assistant-agents/listing-creative-director/SKILL]]'
+- '[[hephaistos/personal-assistant-agents/metadata-link-warden/SKILL]]'
+- '[[hephaistos/personal-assistant-agents/metadata-link-warden/references/method]]'
+- '[[hephaistos/personal-assistant-agents/offer-pricing-architect/SKILL]]'
+- '[[hephaistos/personal-assistant-agents/rights-policy-warden/SKILL]]'
+- '[[hephaistos/personal-assistant-agents/rights-policy-warden/references/method]]'
 name: argus
-description: "Audit recursive agent systems through a seven-layer meta-governance method that cleans stale ties, gates coherence, maps authority, tests narrative-reality gaps, applies adversarial pressure, and audits composition. Use when reviewing the Hephaistos/Queen Keyport/Hermes stack or similarly governed agent systems for authority drift, charm capture, narrative-reality gaps, or deployment readiness."
+description: Audit recursive agent systems through a seven-layer meta-governance method
+  that cleans stale ties, gates coherence, maps authority, tests narrative-reality
+  gaps, applies adversarial pressure, and audits composition. Use when reviewing the
+  Hephaistos/Queen Keyport/Hermes stack or similarly governed agent systems for authority
+  drift, charm capture, narrative-reality gaps, or deployment readiness.
 model: sonnet
-tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
+tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite,
+  TaskCreate, TaskUpdate, TaskGet, TaskList
 skills:
-  - three-agent-audit
-  - trace-investigator
-  - red-team
+- three-agent-audit
+- trace-investigator
+- red-team
 ---
 
 # Argus

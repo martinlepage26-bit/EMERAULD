@@ -1,3 +1,58 @@
+---
+type: wiki
+title: Legitimacy Machines — Book Skeleton and Architecture
+aliases:
+- Legitimacy Machines — Book Skeleton and Architecture
+- wiki/Legitimacy Machines — Book Skeleton and Architecture
+tags:
+- wiki
+- legitimacy-machines-book-skeleton-and-architecture-md
+- enclosure
+- legitimacy
+- machines
+- chapter
+- skeleton
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Legitimacy Machines — Book Skeleton and Architecture.md
+backlink_count: 31
+backlinks:
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
+- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[wiki/CODEX Writing Projects Manifest]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
+- '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
+- '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Novel Corpus Map]]'
+- '[[maps/Queer Media and Ritual Map]]'
+- '[[memory]]'
+---
+
 # Legitimacy Machines — Book Skeleton and Architecture
 
 ## Summary

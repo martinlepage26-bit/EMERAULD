@@ -1,8 +1,32 @@
 ---
 type: governance-registry
+title: Supersession Registry
+aliases:
+- Supersession Registry
+- wiki/Supersession Registry
+tags:
+- governance-registry
+- wiki
+- supersession-registry-md
+- forging
+- tier
+- eight
+- operators
+- supersession
+- color-purple
 status: active
-created: 2026-04-27
-updated: 2026-04-27
+created: '2026-04-27'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Supersession Registry.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
+- '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
+- '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[governance/hephaistos/WAVE2-CLEANUP]]'
+- '[[memory]]'
 phase: Phase 1 Infrastructure
 ---
 

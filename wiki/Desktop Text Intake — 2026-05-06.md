@@ -1,12 +1,42 @@
 ---
 type: intake-index
-aliases: ["Desktop scan 2026-05-06", "C drive Desktop text intake"]
-tags: [intake, desktop, raw-sources, vault-maintenance, provenance]
+title: Desktop Text Intake — 2026-05-06
+aliases:
+- Desktop scan 2026-05-06
+- C drive Desktop text intake
+- wiki/Desktop Text Intake — 2026-05-06
+tags:
+- intake
+- desktop
+- raw-sources
+- vault-maintenance
+- provenance
+- intake-index
+- wiki
+- desktop-text-intake-2026-05-06-md
+- downloads
+- emerge
+- communitas
+- prompt
+- color-lime
 status: active
-created: 2026-05-06
-updated: 2026-05-06
-source_root: "C:\\Users\\softinfo\\Desktop"
-raw_pack: "raw sources/Desktop-Scan-2026-05-06/"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Desktop Text Intake — 2026-05-06.md
+backlink_count: 9
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Home]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+source_root: C:\Users\softinfo\Desktop
+raw_pack: raw sources/Desktop-Scan-2026-05-06/
 ---
 
 # Desktop Text Intake — 2026-05-06

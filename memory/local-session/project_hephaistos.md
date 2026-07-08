@@ -1,9 +1,41 @@
 ---
-name: HEPHAISTOS agent architecture build
-description: A governance-engineering agent architecture at /home/cerebrhoe/hephaistos/ with 9 binding principles, canonical skills at .codex/skills/, and completed principle alignment as of 2026-04-10
 type: project
+title: project_hephaistos
+aliases:
+- memory/local-session/project_hephaistos
+tags:
+- project
+- memory
+- local-session
+- principles
+- sole
+- hephaistos
+- binding
+- mind
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/project_hephaistos.md
+backlink_count: 9
+backlinks:
+- '[[.github/agents/hephaistos.agent]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+- '[[governance/global/HEPHAISTOS-STATUS]]'
+- '[[governance/hephaistos/QUEEN-KEYPORT]]'
+- '[[governance/hephaistos/hephaistos-to-queen-keyport]]'
+- '[[memory/local-session/project_forging_integration]]'
+- '[[memory/local-session/three_agent_system]]'
+name: HEPHAISTOS agent architecture build
+description: A governance-engineering agent architecture at /home/cerebrhoe/hephaistos/
+  with 9 binding principles, canonical skills at .codex/skills/, and completed principle
+  alignment as of 2026-04-10
 originSessionId: d120c79c-4e5b-4b6c-b29c-d841a6580859
 ---
+
 HEPHAISTOS was built as a platform-neutral local agent architecture at `/home/cerebrhoe/hephaistos/` from the corpus in `SKILLS to CODEXAGENT.zip`.
 
 **Why:** User requested a real implementation of HEPHAISTOS as a governance-engineering agent with governance as primary authority, philosopher and power-analyst as co-equal right-arms, and MA as a sub-capacity inside Philosopher.

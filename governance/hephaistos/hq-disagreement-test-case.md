@@ -1,3 +1,33 @@
+---
+type: governance-doc
+title: Hephaistos / Queen Keyport Disagreement Test Case
+aliases:
+- Hephaistos / Queen Keyport Disagreement Test Case
+- governance/hephaistos/hq-disagreement-test-case
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- resolution
+- eligible
+- conflict
+- arbitration
+- keyport
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/hq-disagreement-test-case.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/HEPHAISTOS]]'
+---
+
 # Hephaistos / Queen Keyport Disagreement Test Case
 
 **Status:** Wave 1 spec requirement — confirms the arbitration path works as specified.

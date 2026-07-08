@@ -1,11 +1,31 @@
 ---
 type: manifest
+title: 'L99 — PHAROS Migration + PR #4 Hardening — Artifact Manifest'
+aliases:
+- artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST
+tags:
+- manifest
+- artifacts
+- 2026-04-19-pharos-migration-pr4
+- backend
+- server
+- hardening
+- dnspython
+- dockerfile
+- color-orange
+status: ready
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 level: L99
 bundle: pharos-migration-pr4
-date: 2026-04-19
+date: '2026-04-19'
 operator: Martin Lepage
 agent: Trismégiste
-status: ready
 integration_tests: 21/21 passing
 pr4_path_a: landed
 pr4_commit: 5a33fba

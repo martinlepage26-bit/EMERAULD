@@ -1,3 +1,62 @@
+---
+type: agent-bus-doc
+title: agent_bus
+aliases:
+- .agent_bus/README
+tags:
+- agents
+- agent-bus-doc
+- agent-bus
+- readme-md
+- agent
+- 'null'
+- python
+- heartbeat
+- claude
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .agent_bus
+canonical_path: .agent_bus/README.md
+backlink_count: 33
+backlinks:
+- '[[wiki/Agent Session Phenomenology]]'
+- '[[wiki/CLI-Anything — Agent Harness for Tool Integration]]'
+- '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[wiki/Claude Code Skill Corpus]]'
+- '[[wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
+  (2026-05-12)]]'
+- '[[wiki/GSD — Get Shit Done Context Engineering System]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[wiki/LightRAG — Graph-Based RAG System]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[wiki/PHAROS Runbook SOP]]'
+- '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/START_HERE]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+- '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[wiki/claude-peers-mcp — Claude Peer Network]]'
+- '[[memory/agents/Blockers]]'
+- '[[memory/agents/Learning]]'
+- '[[raw/Clippings/Reddit Data API Wiki]]'
+- '[[templates/Raw Capture Template]]'
+---
+
 # agent_bus
 
 Durable SQLite-backed message bus for Claude ↔ Codex coordination, scoped to this

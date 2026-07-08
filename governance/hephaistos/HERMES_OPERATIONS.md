@@ -1,3 +1,35 @@
+---
+type: governance-doc
+title: HERMES_OPERATIONS — Decision Model, Workflow, and Controls
+aliases:
+- HERMES_OPERATIONS — Decision Model, Workflow, and Controls
+- governance/hephaistos/HERMES_OPERATIONS
+tags:
+- governance
+- ai
+- hermes
+- hephaistos
+- governance-doc
+- routing
+- keyport
+- queen
+- decision
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/HERMES_OPERATIONS.md
+backlink_count: 6
+backlinks:
+- '[[.github/agents/hermes.agent]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/HEPHAISTOS_OPERATIONS]]'
+- '[[governance/hephaistos/ORCHESTRATION]]'
+- '[[raw/Clippings/AI Agent Operations and Governance Manager]]'
+---
+
 # HERMES_OPERATIONS — Decision Model, Workflow, and Controls
 
 Operational detail for the Hermes routing authority. Governed by the identity and

@@ -1,3 +1,34 @@
+---
+type: wiki
+title: Intelligence Definitions and AI Bias — 1956 Lecture
+aliases:
+- Intelligence Definitions and AI Bias — 1956 Lecture
+- wiki/Intelligence Definitions and AI Bias — 1956 Lecture
+tags:
+- wiki
+- ai
+- intelligence-definitions-and-ai-bias-1956-lecture-md
+- intelligence
+- sapiocentric
+- artificail
+- consciouness
+- species
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Intelligence Definitions and AI Bias — 1956 Lecture.md
+backlink_count: 6
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Home]]'
+- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+---
+
 # Intelligence Definitions and AI Bias — 1956 Lecture
 
 ## Summary

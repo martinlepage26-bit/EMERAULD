@@ -1,11 +1,32 @@
 ---
 type: raw-source
-source_url: https://www.humania.ca/en/actualites/humania-transforms-operations-with-koios-intelligence/
-title: Humania Assurance Transforms Compliance Operations with Koïos Intelligence | Humania assurance
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: news
+title: Humania Assurance Transforms Compliance Operations with Koïos Intelligence
+  | Humania assurance
+aliases:
+- memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_humania-assurance-transforms-compliance-operations-with-koïo
+tags:
+- raw-source
+- memory
+- clients
+- humania
+- insurance
+- olivo
+- assurance
+- intelligence
+- color-pink
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_humania-assurance-transforms-compliance-operations-with-koïo.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
+source_url: https://www.humania.ca/en/actualites/humania-transforms-operations-with-koios-intelligence/
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: news
 ---
 
 # Humania Assurance Transforms Compliance Operations with Koïos Intelligence | Humania assurance

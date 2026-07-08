@@ -1,3 +1,50 @@
+---
+type: wiki
+title: The Returning Light — Monograph
+aliases:
+- The Returning Light — Monograph
+- wiki/The Returning Light — Monograph
+tags:
+- wiki
+- monograph
+- the-returning-light-monograph-md
+- light
+- returning
+- novel
+- poetic
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Returning Light — Monograph.md
+backlink_count: 23
+backlinks:
+- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[wiki/Le sang qui porte ton nom — Novel]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
+- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Novel Corpus Map]]'
+---
+
 # The Returning Light — Monograph
 
 ## Summary

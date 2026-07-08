@@ -1,3 +1,29 @@
+---
+type: artifact
+title: '[Concept Name]'
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_concept
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- concept
+- disputes
+- refinements
+- evolving
+- recurs
+- color-violet
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_concept.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # [Concept Name]
 
 **Domain:** [Where this concept lives - e.g., "AI governance," "ritual studies," "product strategy"]

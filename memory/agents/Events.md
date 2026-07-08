@@ -1,3 +1,36 @@
+---
+type: memory-register
+title: Events
+aliases:
+- Events
+- memory/agents/Events
+tags:
+- memory
+- agents
+- memory-register
+- affected
+- important
+- event
+- scan
+- emerauld
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/agents/Events.md
+backlink_count: 8
+backlinks:
+- '[[.planning/phases/01-lightrag-script-runtime-hardening/01-REVIEW-FIX]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[index]]'
+- '[[memory/agents/Blockers]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/agents/Learning]]'
+- '[[memory/agents/Vibe]]'
+---
+
 # Events
 
 Tool, API, dependency, and workflow changes. Both Claude and Codex write here.
@@ -90,6 +123,27 @@ Only add events that could affect future agent behavior or session setup.
 - Result: D-drive report `raw/intake-report-d-drive-scan-2026-05-12.json` (`41 verified`, `5 rejected`); Desktop/Downloads report `raw/intake-report-desktop-downloads-scan-2026-05-12.json` (`22 verified`, `0 rejected`).
 - Action: Future scan notes should cite the verifier report and `/raw/<scan-label>/` path as the evidence boundary.
 - See also: [[D Drive Scan — 2026-05-12]] [[Desktop and Downloads Scan — 2026-05-12]] [[session-state]]
+
+## 2026-06-29 — PARA scaffold and Obsidian OS files created
+- Event: Added `Inbox/`, `Areas/` (PHAROS, Lavoie, Writing, Personal), `Resources/ROUTING.md`, `projects/DOMAIN.md`, and `Projects Dashboard.base` to EMERAULD vault.
+- Tool affected: Obsidian Bases (Projects Dashboard.base uses `.base` JSON format); vault routing rules; status vocabulary.
+- Why important: Established canonical PARA structure. All new notes route through `Inbox/` first; `wiki/` is now declared frozen legacy. Status vocabulary now machine-readable (6 values: draft → in-progress → blocked → on-ice → complete → archived).
+- Action: New project notes must use only the 6 canonical status values from `projects/DOMAIN.md`. Agent writes that set `status: active` are now incorrect.
+- See also: [[session-state]] [[memory/daily/2026-06-29]] [[Decisions]]
+
+## 2026-06-29 — architect_scan.py built and placed in obsidian-os-ai skill
+- Event: Created `scripts/architect_scan.py` at `/home/martin/.claude/skills/obsidian-os-ai/scripts/architect_scan.py` — read-only codebase scanner; emits JSON (name, kind, languages, modules, dependencies, entry_points, signals, git metadata).
+- Tool affected: `/obsidian-architect` command; future codebase scanning in obsidian-os-ai skill context.
+- Why important: The obsidian-architect command referenced this script but it did not exist; built from scratch. Now the canonical scanner for generating architecture notes.
+- Boundary: Read-only — does not write or modify source files.
+- See also: [[wiki/Architecture - EMERAULD Scripts - Overview]] [[session-state]]
+
+## 2026-06-29 — verify_and_hardmove_to_raw.py WSL-path bug confirmed and documented
+- Event: `verify_and_hardmove_to_raw.py` has hardcoded `VAULT_ROOT = Path("/mnt/c/users/softinfo/documents/emerauld")` — the old WSL machine path (cerebrhoe/softinfo). All other scripts resolve vault root via `lightrag_config.resolve_vault_root()`.
+- Tool affected: Intake pipeline; the `verify_and_hardmove_to_raw.py` script will produce wrong paths or fail when called from the current host.
+- Why important: Running the intake pipeline without fixing this bug would attempt to write to a nonexistent path. Documented in architecture ADR notes.
+- Action: Before running any intake scan, fix the hardcoded path in `verify_and_hardmove_to_raw.py` or replace it with `lightrag_config.resolve_vault_root()`.
+- See also: [[wiki/Architecture - EMERAULD Scripts - Key Decisions]] [[wiki/Architecture - EMERAULD Scripts - Intake Pipeline]]
 
 ## Related
 

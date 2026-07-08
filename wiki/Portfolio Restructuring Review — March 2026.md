@@ -1,13 +1,45 @@
 ---
 type: wiki
+title: Portfolio Restructuring Review — March 2026
 aliases:
-  - PORTFOLIO_REVIEW_MEMO_2026-03-14
-  - Portfolio review memo March 2026
-  - Portfolio restructuring adversarial review
-tags: [project-decision, portfolio, active-constraints, adversarial-review, govern-ai, governess, LOTUS]
+- PORTFOLIO_REVIEW_MEMO_2026-03-14
+- Portfolio review memo March 2026
+- Portfolio restructuring adversarial review
+- wiki/Portfolio Restructuring Review — March 2026
+tags:
+- project-decision
+- portfolio
+- active-constraints
+- adversarial-review
+- govern-ai
+- governess
+- lotus
+- wiki
+- portfolio-restructuring-review-march-2026-md
+- ownership
+- sort
+- caller
+- color-purple
 status: active
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Portfolio Restructuring Review — March 2026.md
+backlink_count: 13
+backlinks:
+- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[wiki/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[memory/daily/2026-06-22]]'
+- '[[memory/daily/2026-06-23]]'
+- '[[memory/daily/2026-06-24]]'
+- '[[memory/daily/2026-06-25]]'
+- '[[memory/daily/2026-06-26]]'
+- '[[memory/daily/2026-06-27]]'
+- '[[projects/AurorA — Fisher King Project State]]'
+- '[[projects/COMPASSai — Fisher King Project State]]'
 ---
 
 # Portfolio Restructuring Review — March 2026

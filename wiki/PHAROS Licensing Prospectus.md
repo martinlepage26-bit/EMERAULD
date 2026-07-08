@@ -1,3 +1,50 @@
+---
+type: wiki
+title: PHAROS Licensing Prospectus
+aliases:
+- PHAROS Licensing Prospectus
+- wiki/PHAROS Licensing Prospectus
+tags:
+- wiki
+- pharos
+- pharos-licensing-prospectus-md
+- enterprise
+- deal
+- prospectus
+- revenue
+- segment
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Licensing Prospectus.md
+backlink_count: 22
+backlinks:
+- '[[wiki/90-Day $1M Challenge — Status Report]]'
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/OpenAI Governance Framework — Comparison with PHAROS]]'
+- '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Invention Disclosure]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS Legal Classification — CAE Code Strategy]]'
+- '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory]]'
+---
+
 # PHAROS Licensing Prospectus
 
 ## Summary

@@ -1,3 +1,36 @@
+---
+type: governance-doc
+title: HEPHAISTOS_OPERATIONS — Forging Detail, Routing, and Controls
+aliases:
+- HEPHAISTOS_OPERATIONS — Forging Detail, Routing, and Controls
+- governance/hephaistos/HEPHAISTOS_OPERATIONS
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- philosopher
+- keyport
+- analyst
+- queen
+- forging
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/HEPHAISTOS_OPERATIONS.md
+backlink_count: 7
+backlinks:
+- '[[.github/agents/hephaistos.agent]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/global/HEPHAISTOS-STATUS]]'
+- '[[governance/hephaistos/HERMES_OPERATIONS]]'
+- '[[governance/hephaistos/QUEEN-KEYPORT]]'
+- '[[raw/Clippings/AI Agent Operations and Governance Manager]]'
+---
+
 # HEPHAISTOS_OPERATIONS — Forging Detail, Routing, and Controls
 
 Operational detail for the HEPHAISTOS forging authority. Governed by the identity

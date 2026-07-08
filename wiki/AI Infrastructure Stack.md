@@ -1,10 +1,87 @@
 ---
 type: map
+title: AI Infrastructure Stack
 aliases:
-  - TOPIC — AI Infrastructure Stack
-tags: [index, map, topic, infrastructure, tooling, mcp, rag, agents]
-created: 2026-04-18
-updated: 2026-05-06
+- TOPIC — AI Infrastructure Stack
+- wiki/AI Infrastructure Stack
+tags:
+- index
+- map
+- topic
+- infrastructure
+- tooling
+- mcp
+- rag
+- agents
+- wiki
+- ai-infrastructure-stack-md
+- infrafabric
+- blackboard
+- hosted
+- rollout
+- skill
+- color-orange
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI Infrastructure Stack.md
+backlink_count: 52
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
+- '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
+- '[[wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[wiki/Documents and Downloads Scan — 2026-05-06]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
+  (2026-05-07)]]'
+- '[[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'
+- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Home]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[wiki/Skill Domain — Deployment and Infrastructure]]'
+- '[[wiki/Skill Domain — Design and UX]]'
+- '[[wiki/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
+- '[[wiki/Stacklight-owner-explainer]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
+  and Computational Memory Architectures]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[wiki/WSL and System Storage Recovery — Quick Wins Checklist]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/if.switchboard — InfraFabric Product Center]]'
+- '[[memory]]'
+- '[[memory/agents/Blockers]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/daily/2026-06-27]]'
+- '[[memory/daily/2026-06-30]]'
+- '[[memory/daily/2026-07-01]]'
+- '[[session-state]]'
 ---
 
 # AI Infrastructure Stack
@@ -58,10 +135,15 @@ Primary runtime cluster index: [[MCP and Runtime Integration MOC]].
 
 ## MCP and Agent Coordination
 
-- [[InfraFabric MCP Stack — Remote Bundles]] — Four MCP servers: if_context (SSH, context storage), if_blackboard (SSH, shared state), openspace (skill bridge), if_chat (ROOK room communication). Bundle at `~/remote-bundles/`.
+> [!warning] Contradiction detected 2026-07-01
+> This section previously described `if_context` as SSH-dependent while `if_blackboard` alone was noted as migrated. [[InfraFabric MCP Stack — Remote Bundles]] (also updated today) documents that `if_context` migrated off SSH too, one day after `if_blackboard`, in the same [[InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)|R0.5 rollout]] (repaired 2026-06-30 by session `/rook-410`). The bullet and the Infrastructure Status snapshot table below are corrected accordingly. Note also: [[Governance and PHAROS MOC]], [[HEPHAISTOS Agent Architecture]], and [[Personal and Projects MOC]] still describe `if_context`/`if_blackboard` as SSH-only as of this pass — those older notes have not yet been corrected and should not be treated as current on this point.
+
+- [[InfraFabric MCP Stack — Remote Bundles]] — Four MCP servers: if_context (hosted API since the R0.5 rollout, repaired 2026-06-30, SSH/Proxmox access superseded), if_blackboard (hosted API since the 2026-06-29 R0.5 rollout, SSH/Proxmox access superseded), openspace (skill bridge), if_chat (ROOK room communication). Bundle at `~/remote-bundles/`.
 - [[claude-peers-mcp — Claude Peer Network]] — Real-time messaging between parallel Claude Code sessions. Peer discovery and ambient awareness.
 - [[ROOK — Session Boundary Model]] — Infrastructure harness: session lifecycle, headroom tracking, tool tiers, communication rooms.
-- [[InfraFabric Architecture]] — Modular AI governance and infrastructure platform. Module map: if.switchboard, if.bus, if.blackboard, if.trace, if.context, if.knowledge, if.api, if.gov.
+- [[InfraFabric Architecture]] — Modular AI governance and infrastructure platform. Module map: [[if.switchboard — InfraFabric Product Center|if.switchboard]], if.bus, if.blackboard, if.trace, if.context, if.knowledge, if.api, if.gov.
+- [[if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]] — Spec sheet for InfraFabric's append-only task/session/signal coordination evidence surface, including current liveness caveat for public `/llm/blackboard/**` endpoints; updated 2026-07-01 with the R0.5 hosted-API migration.
+- [[Stacklight-owner-explainer]] — Martin's governance-owner role over the white-labeled proof-desk product built on `if.blackboard`/`if.context`/`if.trace`/`if.switchboard`; its durable-authority claim (`api.infrafabric.io`, `mtl-02` Postgres) is confirmed correct and reconciled against the SSH/Proxmox pattern above (resolved 2026-07-01 — the SSH pattern was pre-migration canon, superseded 2026-06-29).
 
 ---
 
@@ -75,6 +157,7 @@ Primary runtime cluster index: [[MCP and Runtime Integration MOC]].
 ## Development and Context Management
 
 - [[ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]] — Working note from a pasted Apps SDK docs pack; use for app scoping, metadata tuning, deployment, security, and troubleshooting.
+- [[Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]] — External agentic app-builder spec sheet for prompt-to-web/mobile/full-stack prototypes; useful as a comparative build surface when exported and verified.
 - [[PROTOCOLS — Debate and Red-Team Runbook]] — Five-lane review process for governance and security.
 - [[Red Team Handbook — Offensive Security Reference]] — Offensive security reference. AI/LLM red-team techniques including Co-RedTeam and BlackIce.
 - [[Awesome Design Resources — Curated UI-UX Reference List]] — Design reference stack for interface work across PHAROS, Martin public surfaces, and client/product UI.
@@ -107,7 +190,7 @@ This table is a *snapshot* for operational orientation, not a claim that every s
 | LightRAG | Partial | OpenRouter free quota exhausted (402 errors) |
 | Hermes Dashboard | Local | Operator tool (desktop surface) |
 | claude-peers-mcp | Active | Peer messaging available when configured/running |
-| InfraFabric MCP (if_context) | SSH-dependent | Drops silently if tunnel fails |
+| InfraFabric MCP (if_context) | SSH-dependent (as of 2026-04-18 snapshot; migrated to hosted API 2026-06-30, see [[InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]) | Drops silently if tunnel fails (historical — superseded) |
 | InfraFabric MCP (if_chat) | Active | ROOK room communication |
 | openspace MCP | Active | Skill bridge running |
 | voice11 | Local | No known issues |
@@ -128,6 +211,7 @@ This table is a *snapshot* for operational orientation, not a claim that every s
 
 ## Related
 
+- [[InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]
 - [[Research and Papers MOC]]
 - [[HEPHAISTOS Agent Architecture]] — Agents that run on this infrastructure
 - [[Recursive Governance Theory]] — Governance method this infrastructure carries

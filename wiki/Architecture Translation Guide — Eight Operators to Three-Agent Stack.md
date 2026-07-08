@@ -1,11 +1,49 @@
 ---
 type: migration-guide
-aliases: [Eight Operators migration, operator to agent translation, Architecture Translation Guide]
-tags: [governance, deprecation, architecture]
+title: Architecture Translation Guide — Eight Operators to Three-Agent Stack
+aliases:
+- Eight Operators migration
+- operator to agent translation
+- Architecture Translation Guide
+- wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack
+tags:
+- governance
+- deprecation
+- architecture
+- migration-guide
+- wiki
+- architecture-translation-guide-eight-operators-to-three-agent-stack-md
+- hephaistos
+- argus
+- keyport
+- coherence
+- queen
+- color-orange
 status: active
-created: 2026-04-27
-updated: 2026-04-28
-deprecated_predecessor: [[Agatha Unified Skill System — Eight Sovereign Operators]]
+created: '2026-04-27'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Architecture Translation Guide — Eight Operators to Three-Agent
+  Stack.md
+backlink_count: 14
+backlinks:
+- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
+- '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
+- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
+  (2026-04-18)]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Supersession Registry]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory]]'
+- '[[session-state]]'
+- '[[wiki/skills/architecture]]'
+deprecated_predecessor:
+- - Agatha Unified Skill System — Eight Sovereign Operators
 ---
 
 # Architecture Translation Guide — Eight Operators to Three-Agent Stack

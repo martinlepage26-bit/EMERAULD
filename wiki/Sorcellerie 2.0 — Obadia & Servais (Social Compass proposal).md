@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: ["Sorcellerie 2.0 Social Compass", "WitchTok social science proposal"]
-tags: [reference, digital-religion, witchcraft, social-media, tiktok, instagram, wicca, media-studies, call-for-papers]
+title: Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)
+aliases:
+- Sorcellerie 2.0 Social Compass
+- WitchTok social science proposal
+- wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)
+tags:
+- reference
+- digital-religion
+- witchcraft
+- social-media
+- tiktok
+- instagram
+- wicca
+- media-studies
+- call-for-papers
+- wiki
+- sorcellerie-2-0-obadia-servais-social-compass-proposal-md
+- sorcellerie
+- digital
+- compass
+- sociabilities
+- color-pink
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal).md
+backlink_count: 6
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)

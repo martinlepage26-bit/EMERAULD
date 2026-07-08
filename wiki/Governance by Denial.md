@@ -1,3 +1,98 @@
+---
+type: wiki
+title: Governance by Denial
+aliases:
+- Governance by Denial
+- wiki/Governance by Denial
+tags:
+- wiki
+- governance
+- governance-by-denial-md
+- accountability
+- impunity
+- revised
+- denial
+- draft
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Governance by Denial.md
+backlink_count: 67
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
+- '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
+  of Interruption]]'
+- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)]]'
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/Framing Processes and Social Movements — Benford & Snow 2000]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance by Denial — Version Genealogy]]'
+- '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
+- '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
+- '[[wiki/Home]]'
+- '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Machine Limitation]]'
+- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
+  2024]]'
+- '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
+- '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
+  vs Reclaiming)]]'
+- '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
+- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
+- '[[wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
+- '[[wiki/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)]]'
+- '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
+- '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
+- '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[wiki/The Returning Light — Monograph]]'
+- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
+- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'
+- '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[wiki/Why Be King Im Already a Queen — Book Project]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+---
+
 # Governance by Denial
 
 ## Summary
@@ -135,6 +230,7 @@ The PHAROS method is described in a footnote as a design response to the third m
 - The capacity lever is consistently undertheorized: formal rights without capacity are not rights, but the gap between formal rights and effective capacity is treated as a welfare problem rather than a governance design choice
 - The Israel-Gaza case as a limit case is methodologically important: it tests whether the analytical framework holds at the extreme end, and the paper argues it does — the mechanisms are the same; the intensity and scale are different
 - "Governance by denial" names a mode, not a regime: the mechanisms appear across political systems with different formal commitments to democracy
+- The interrogative stance that operationalizes this critique — asking what fixed thing a "procedure" protects from scrutiny, change, or public collapse — is formalized in [[Triangulation Exercise — Hidden Invariant Behind Institutional Procedure]] (2026-07-03): conditional recognition, "legitimacy under examination," neither obedience nor rebellion
 
 ## Open Questions
 

@@ -1,3 +1,33 @@
+---
+type: version-genealogy
+title: Healthcare Packet — Version Genealogy
+aliases:
+- Healthcare Packet — Version Genealogy
+- wiki/Healthcare Packet — Version Genealogy
+tags:
+- version-genealogy
+- wiki
+- healthcare-packet-version-genealogy-md
+- providers
+- healthcare
+- packet
+- circulation
+- limited
+- color-pink
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Healthcare Packet — Version Genealogy.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
+- '[[wiki/Home]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # Healthcare Packet — Version Genealogy
 
 ## Summary

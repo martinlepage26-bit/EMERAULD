@@ -1,3 +1,32 @@
+---
+type: governance-doc
+title: Research Ethics Gate
+aliases:
+- Research Ethics Gate
+- governance/hephaistos/research-ethics-gate
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- block
+- principle
+- described
+- participants
+- required
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/research-ethics-gate.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
 # Research Ethics Gate
 
 ## Purpose

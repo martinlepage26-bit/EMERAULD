@@ -1,3 +1,42 @@
+---
+type: wiki
+title: Architectural AI Governance — Willis and PBSAI
+aliases:
+- Architectural AI Governance — Willis and PBSAI
+- wiki/Architectural AI Governance — Willis and PBSAI
+tags:
+- wiki
+- governance
+- ai
+- architectural-ai-governance-willis-and-pbsai-md
+- execution
+- probabilistic
+- willis
+- qilis
+- semantic
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Architectural AI Governance — Willis and PBSAI.md
+backlink_count: 13
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
+- '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
+- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Machine Limitation]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Red Team Handbook — Offensive Security Reference]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # Architectural AI Governance — Willis and PBSAI
 
 ## Summary

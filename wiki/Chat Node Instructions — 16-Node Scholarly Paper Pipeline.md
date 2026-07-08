@@ -1,10 +1,32 @@
 ---
 type: wiki
-aliases: ["Chat Node Instructions", "16-Node Paper Pipeline", "Paper Node Protocol"]
-tags: []
+title: Chat Node Instructions — 16-Node Scholarly Paper Pipeline
+aliases:
+- Chat Node Instructions
+- 16-Node Paper Pipeline
+- Paper Node Protocol
+- wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline
+tags:
+- wiki
+- chat-node-instructions-16-node-scholarly-paper-pipeline-md
+- chat
+- instruction
+- node
+- abstract
+- literature
+- color-teal
 status: active
-created: 2026-05-31
-updated: 2026-05-31
+created: '2026-05-31'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[wiki/Per-Paper Project Structure — Folder and File Architecture]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 # Chat Node Instructions — 16-Node Scholarly Paper Pipeline

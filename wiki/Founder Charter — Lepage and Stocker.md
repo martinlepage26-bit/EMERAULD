@@ -1,3 +1,45 @@
+---
+type: wiki
+title: Founder Charter — Lepage and Stocker
+aliases:
+- Founder Charter — Lepage and Stocker
+- wiki/Founder Charter — Lepage and Stocker
+tags:
+- wiki
+- founder-charter-lepage-and-stocker-md
+- cgto
+- reserved
+- charter
+- founder
+- owns
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Founder Charter — Lepage and Stocker.md
+backlink_count: 18
+backlinks:
+- '[[wiki/90-Day $1M Challenge — Status Report]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/InfraFabric Architecture]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Invention Disclosure]]'
+- '[[wiki/PHAROS Legal Classification — CAE Code Strategy]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # Founder Charter — Lepage and Stocker
 
 ## Summary

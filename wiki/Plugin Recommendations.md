@@ -1,3 +1,41 @@
+---
+type: wiki
+title: Plugin Recommendations
+aliases:
+- Plugin Recommendations
+- wiki/Plugin Recommendations
+tags:
+- wiki
+- plugin-recommendations-md
+- plugins
+- obsidian
+- templater
+- install
+- plugin
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Plugin Recommendations.md
+backlink_count: 14
+backlinks:
+- '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'
+- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[wiki/Home]]'
+- '[[wiki/LightRAG — Graph-Based RAG System]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/Obsidian Agent Vault — Setup Guide]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/RAG-Anything — Multimodal RAG Framework]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
+---
+
 # Plugin Recommendations
 
 Part of [[Home]].

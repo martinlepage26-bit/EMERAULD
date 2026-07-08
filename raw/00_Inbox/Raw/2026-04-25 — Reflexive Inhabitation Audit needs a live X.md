@@ -1,9 +1,33 @@
 ---
 type: raw-capture
-created: 2026-04-25
+title: Reflexive Inhabitation Audit needs a live X
+aliases:
+- raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X
+tags:
+- inbox
+- raw
+- methodology
+- pharos
+- raw-capture
+- 00-inbox
+- lyrics
+- inhabitation
+- song
+- reflexive
+- pulling
+- color-lime
 status: synthesized
-synthesized_into: wiki/Reflexive Inhabitation Audit — Prompt.md, wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25).md
-tags: [inbox, raw, methodology, pharos]
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a
+  live X.md
+backlink_count: 1
+backlinks:
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a
+  live X — Source Note]]'
+synthesized_into: wiki/Reflexive Inhabitation Audit — Prompt.md, wiki/Codex RIA Run
+  — The Web as X (First Operationalization 2026-04-25).md
 ---
 
 # Reflexive Inhabitation Audit needs a live X

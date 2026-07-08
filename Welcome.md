@@ -1,3 +1,35 @@
+---
+type: vault-doc
+title: Welcome — EMERAULD
+aliases:
+- Welcome
+tags:
+- vault
+- vault-doc
+- welcome-md
+- perplexity
+- computer
+- welcome
+- entry
+- emerauld
+- color-lime
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: Welcome.md
+canonical_path: Welcome.md
+backlink_count: 8
+backlinks:
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[index]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Journal]]'
+---
+
 # Welcome — EMERAULD
 
 This vault opens into [[Home]], which is the main graph entry point for the working system.

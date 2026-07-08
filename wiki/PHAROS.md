@@ -1,11 +1,51 @@
 ---
 type: wiki
+title: PHAROS
 aliases:
-  - PHAROS
-tags: [pharos, governance, product, method]
+- PHAROS
+- wiki/PHAROS
+tags:
+- pharos
+- governance
+- product
+- method
+- wiki
+- pharos-md
+- publication
+- compassai
+- track
+- scholarly
+- color-purple
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS.md
+backlink_count: 23
+backlinks:
+- '[[wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
+- '[[wiki/APEX Papers — Research Archive Map]]'
+- '[[wiki/AurorA — COMPASSai Input Module]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
+- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
+- '[[wiki/Research Hub]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory/agents/Vibe]]'
+- '[[session-state]]'
 ---
 
 # PHAROS

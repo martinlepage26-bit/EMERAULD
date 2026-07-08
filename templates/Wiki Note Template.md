@@ -1,17 +1,32 @@
 ---
-title: "{{title}}"
-created: "{{date}}"
-updated: "{{date}}"
 type: wiki-note
-status: active
-tags:
-  - wiki
+title: '{{title}}'
 aliases:
-  - 
+- None
+- templates/Wiki Note Template
+tags:
+- wiki
+- wiki-note
+- templates
+- wiki-note-template-md
+- relevance
+- hubs
+- connections
+- practical
+- sentence
+- color-teal
+status: active
+created: '{{date}}'
+updated: '2026-06-26'
+vault_area: templates
+canonical_path: templates/Wiki Note Template.md
+backlink_count: 1
+backlinks:
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
 related:
-  - 
+- null
 source:
-  - 
+- null
 ---
 
 # {{title}}

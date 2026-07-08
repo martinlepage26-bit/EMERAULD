@@ -1,3 +1,28 @@
+---
+type: archive-record
+title: Merge Candidates
+aliases:
+- archive/consolidation-records/merge-candidates-2026-05-14
+tags:
+- archive
+- archive-record
+- consolidation-records
+- similarity
+- score
+- count
+- keep
+- modules
+- color-orange
+status: archived
+created: '2026-05-14'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/consolidation-records/merge-candidates-2026-05-14.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Merge Candidates
 
 | orphan note | merge target | reason | status |

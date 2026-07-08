@@ -1,3 +1,40 @@
+---
+type: wiki
+title: Voodoo Doll — Archival Governance and Colonial Naming
+aliases:
+- Voodoo Doll — Archival Governance and Colonial Naming
+- wiki/Voodoo Doll — Archival Governance and Colonial Naming
+tags:
+- wiki
+- governance
+- voodoo-doll-archival-governance-and-colonial-naming-md
+- voodoo
+- doll
+- archival
+- colonial
+- vodou
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Voodoo Doll — Archival Governance and Colonial Naming.md
+backlink_count: 12
+backlinks:
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance by Denial]]'
+- '[[wiki/Home]]'
+- '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
+- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Voodoo Doll as Archival Problem — Version Genealogy]]'
+- '[[wiki/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+---
+
 # Voodoo Doll — Archival Governance and Colonial Naming
 
 ## Summary

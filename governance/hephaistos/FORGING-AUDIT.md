@@ -1,3 +1,32 @@
+---
+type: governance-doc
+title: HEPHAISTOS Forging Capability — Audit and Integration Report
+aliases:
+- HEPHAISTOS Forging Capability — Audit and Integration Report
+- governance/hephaistos/FORGING-AUDIT
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- tier
+- forging
+- skills
+- scientific
+- writing
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/FORGING-AUDIT.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
 > **HISTORICAL DOCUMENT — Pre-Wave-1 Architecture (superseded 2026-04-17)**
 > Contains Tier 0/Tier 1/Tier 2 hierarchy language that does not reflect the current co-equal authority model.
 > Binding authority: `CO-EQUAL-AUTHORITY-DECISION.md`, `AGENTS.md`, `HEPHAISTOS.md`, `QUEEN-KEYPORT.md`, `ORCHESTRATION.md`.

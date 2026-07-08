@@ -1,3 +1,30 @@
+---
+type: project-planning
+title: 'Requirements: EMERAULD Vault Runtime'
+aliases:
+- .planning/REQUIREMENTS
+tags:
+- planning
+- project-planning
+- requirements-md
+- auth
+- runtime
+- phase
+- progress
+- scripts
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .planning
+canonical_path: .planning/REQUIREMENTS.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[memory/agents/Learning]]'
+---
+
 # Requirements: EMERAULD Vault Runtime
 
 **Defined:** 2026-04-23

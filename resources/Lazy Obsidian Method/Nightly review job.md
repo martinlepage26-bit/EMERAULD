@@ -1,10 +1,27 @@
 ---
-title: Nightly review job
-created: 2026-04-25
 type: workflow
+title: Nightly review job
+aliases:
+- resources/Lazy Obsidian Method/Nightly review job
 tags:
-  - review
-  - nightly
+- review
+- nightly
+- workflow
+- resources
+- lazy-obsidian-method
+- dashboards
+- refresh
+- logs
+- priority
+- color-lime
+status: active
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: resources
+canonical_path: resources/Lazy Obsidian Method/Nightly review job.md
+backlink_count: 1
+backlinks:
+- '[[resources/Lazy Obsidian Method/Index]]'
 ---
 
 # Nightly review job

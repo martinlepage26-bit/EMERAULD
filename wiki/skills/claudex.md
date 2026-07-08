@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "claudex"
-domain: "Agent Architecture and Development"
+title: claudex
+aliases:
+- skills/claudex
+- wiki/skills/claudex
+tags:
+- skill
+- wiki
+- skills
+- claudex
+- codex
+- development
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/claudex/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/claudex.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+- '[[wiki/Skill Domain — Skill Architecture]]'
+skill_id: claudex
+domain: Agent Architecture and Development
+codex_path: /home/cerebrhoe/.codex/skills/claudex/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

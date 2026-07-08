@@ -1,10 +1,44 @@
 ---
 type: wiki
-aliases: [claude-peers, peer network, MCP peers, multi-agent communication]
-tags: [tooling, mcp, multi-agent, claude-code, infrastructure]
+title: claude-peers-mcp — Claude Peer Network
+aliases:
+- claude-peers
+- peer network
+- MCP peers
+- multi-agent communication
+- wiki/claude-peers-mcp — Claude Peer Network
+tags:
+- tooling
+- mcp
+- multi-agent
+- claude-code
+- infrastructure
+- wiki
+- claude-peers-mcp-claude-peer-network-md
+- peers
+- claude
+- server
+- message
+- infrafabric
+- color-orange
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/claude-peers-mcp — Claude Peer Network.md
+backlink_count: 11
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[memory/agents/Blockers]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/agents/Learning]]'
 ---
 
 # claude-peers-mcp — Claude Peer Network

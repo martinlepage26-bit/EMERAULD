@@ -1,10 +1,35 @@
 ---
 type: wiki
-aliases: ["D:\\LIBRARY Intake 2026-04-26", "D Library Intake 2026-04-26"]
-tags: [library, intake, raw_sources, bibliography]
+title: D Library — LIBRARY Intake Index (2026-04-26)
+aliases:
+- D:\LIBRARY Intake 2026-04-26
+- D Library Intake 2026-04-26
+- .trash/D Library — LIBRARY Intake Index (2026-04-26)
+tags:
+- library
+- intake
+- raw-sources
+- bibliography
+- wiki
+- trash
+- d-library-library-intake-index-2026-04-26-md
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: .trash
+canonical_path: .trash/D Library — LIBRARY Intake Index (2026-04-26).md
+backlink_count: 10
+backlinks:
+- '[[wiki/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
+- '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # D Library — LIBRARY Intake Index (2026-04-26)

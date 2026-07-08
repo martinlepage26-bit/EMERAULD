@@ -1,3 +1,67 @@
+---
+type: wiki
+title: Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology
+aliases:
+- Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology
+- wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology
+tags:
+- wiki
+- beyond-fluency-stuttering-autoethnography-and-unstable-epistemology-md
+- fluency
+- stuttering
+- vignette
+- compulsory
+- disability
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology.md
+backlink_count: 39
+backlinks:
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
+  of Interruption]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Home]]'
+- '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
+- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
+- '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[wiki/Strategic Storytelling in the AI Economy]]'
+- '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
+- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[maps/Queer Media and Ritual Map]]'
+- '[[memory]]'
+- '[[projects/Stuttering Machines — Fisher King Project State]]'
+---
+
 # Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology
 
 ## Summary

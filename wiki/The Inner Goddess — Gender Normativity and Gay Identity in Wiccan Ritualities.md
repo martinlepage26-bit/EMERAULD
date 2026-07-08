@@ -1,3 +1,53 @@
+---
+type: wiki
+title: The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities
+aliases:
+- The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities
+- wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities
+tags:
+- wiki
+- wicca
+- ritual
+- the-inner-goddess-gender-normativity-and-gay-identity-in-wiccan-ritualities-md
+- gender
+- goddess
+- pagan
+- inner
+- color-blue
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan
+  Ritualities.md
+backlink_count: 24
+backlinks:
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[wiki/Inner Goddess Wicca Gender — Version Genealogy]]'
+- '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
+- '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
+- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
+- '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
+- '[[wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities
 
 ## Summary

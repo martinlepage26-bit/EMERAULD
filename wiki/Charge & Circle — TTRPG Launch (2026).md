@@ -1,11 +1,53 @@
 ---
 type: wiki
-aliases: [Charge and Circle, Charge & Circle Press, Charge & Circle Governance Framework, Ritual Governance Framework, Elemental Magic Governance Framework, Charge & Circle Launch]
-tags: [product, governance-framework, ritual-governance, ai-governance, grc, compliance, charge-and-circle, witches-road, charge-persistence, launch, elemental-magic-surface]
+title: Charge & Circle — A Ritual Governance Framework (Elemental Magic Surface)
+aliases:
+- Charge and Circle
+- Charge & Circle Press
+- Charge & Circle Governance Framework
+- Ritual Governance Framework
+- Elemental Magic Governance Framework
+- Charge & Circle Launch
+- wiki/Charge & Circle — TTRPG Launch (2026)
+tags:
+- product
+- governance-framework
+- ritual-governance
+- ai-governance
+- grc
+- compliance
+- charge-and-circle
+- witches-road
+- charge-persistence
+- launch
+- elemental-magic-surface
+- wiki
+- charge-circle-ttrpg-launch-2026-md
+- elemental
+- ttrpg
+- publish
+- charge
+- circle
+- color-purple
 status: in-production
-created: 2026-05-24
-updated: 2026-05-24
-filename_note: "File is named 'TTRPG Launch (2026)' for backlink stability from earlier framings. Under the 2026-05-24 evening REFRAME ENTIRELY directive, the product is EXCLUSIVELY a governance framework with elemental magic as its surface vocabulary. The file name is now misleading on its surface; the H1 and aliases carry the authoritative current identity."
+created: '2026-05-24'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Charge & Circle — TTRPG Launch (2026).md
+backlink_count: 7
+backlinks:
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[assets/elemental-agents/ttrpg-repack/BRAND-DECISION]]'
+filename_note: File is named 'TTRPG Launch (2026)' for backlink stability from earlier
+  framings. Under the 2026-05-24 evening REFRAME ENTIRELY directive, the product is
+  EXCLUSIVELY a governance framework with elemental magic as its surface vocabulary.
+  The file name is now misleading on its surface; the H1 and aliases carry the authoritative
+  current identity.
 ---
 
 # Charge & Circle — A Ritual Governance Framework (Elemental Magic Surface)

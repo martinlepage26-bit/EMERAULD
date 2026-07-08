@@ -1,11 +1,31 @@
 ---
 type: raw-source
-source_url: https://botpress.com/docs/studio/guides/advanced/safety/introduction
 title: Safety - Botpress
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_safety-botpress
+tags:
+- raw-source
+- memory
+- clients
+- docs
+- studio
+- webchat
+- advanced
+- guides
+- color-lime
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_safety-botpress.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
+- '[[wiki/Research and Papers MOC]]'
+source_url: https://botpress.com/docs/studio/guides/advanced/safety/introduction
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Safety - Botpress

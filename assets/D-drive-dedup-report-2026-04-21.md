@@ -1,8 +1,28 @@
 ---
 type: report
+title: 'D: Drive Deduplication Report — 2026-04-21'
+aliases:
+- assets/D-drive-dedup-report-2026-04-21
+tags:
+- report
+- assets
+- d-drive-dedup-report-2026-04-21-md
+- library
+- groups
+- spotlight
+- drive
+- mine
+- color-purple
 status: manifest-only / no-deletion-executed
-created: 2026-04-21
-drive: D: (BACKEND, 2TB)
+created: '2026-04-21'
+updated: '2026-06-26'
+vault_area: assets
+canonical_path: assets/D-drive-dedup-report-2026-04-21.md
+backlink_count: 2
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[tmp/drive-audit-2026-04-18/deletion-shortlist]]'
+drive: 'D: (BACKEND, 2TB)'
 scanned_files: 3342
 ---
 

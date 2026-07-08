@@ -1,11 +1,31 @@
 ---
 type: raw-source
-source_url: https://botpress.com/en/resources/deploying-llms-safely-with-botpress
 title: Deploying LLMs Safely with Botpress | Botpress Resources
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_deploying-llms-safely-with-botpress-botpress-resources
+tags:
+- raw-source
+- memory
+- clients
+- botpress
+- security
+- llms
+- enterprise
+- extensive
+- color-red
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_deploying-llms-safely-with-botpress-botpress-resources.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+source_url: https://botpress.com/en/resources/deploying-llms-safely-with-botpress
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Deploying LLMs Safely with Botpress | Botpress Resources

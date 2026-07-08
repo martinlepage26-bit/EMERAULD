@@ -1,3 +1,35 @@
+---
+type: governance-doc
+title: HEPHAISTOS — Orchestration Operations
+aliases:
+- HEPHAISTOS — Orchestration Operations
+- governance/hephaistos/ORCHESTRATION_OPERATIONS
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- scope
+- philosopher
+- conflict
+- analyst
+- forging
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/ORCHESTRATION_OPERATIONS.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/HEPHAISTOS_OPERATIONS]]'
+- '[[governance/hephaistos/QUEEN-KEYPORT]]'
+- '[[governance/hephaistos/THREE-AGENT-ARCHITECTURE]]'
+- '[[hephaistos/agents/hephaistos]]'
+---
+
 # HEPHAISTOS — Orchestration Operations
 
 Operational companion to `ORCHESTRATION.md`. All references to Hephaistos and

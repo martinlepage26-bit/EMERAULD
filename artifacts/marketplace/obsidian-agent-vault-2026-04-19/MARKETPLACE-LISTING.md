@@ -1,3 +1,31 @@
+---
+type: artifact
+title: Marketplace Listing Packet
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-LISTING
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- want
+- runtime
+- optional
+- obsidian
+- setup
+- color-orange
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-LISTING.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # Marketplace Listing Packet
 
 ## Title

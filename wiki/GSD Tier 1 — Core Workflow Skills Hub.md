@@ -1,13 +1,41 @@
 ---
 type: wiki
+title: GSD Tier 1 — Core Workflow Skills Hub
 aliases:
-  - Tier 1 core workflow hub
-  - GSD Tier 1
-  - Core workflow skills hub
-tags: [skills, gsd, workflow, documentation, hub]
+- Tier 1 core workflow hub
+- GSD Tier 1
+- Core workflow skills hub
+- wiki/GSD Tier 1 — Core Workflow Skills Hub
+tags:
+- skills
+- gsd
+- workflow
+- documentation
+- hub
+- wiki
+- gsd-tier-1-core-workflow-skills-hub-md
+- milestone
+- phase
+- skill
+- domain
+- tier
+- color-orange
 status: active
-created: 2026-05-06
-updated: 2026-05-07
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/GSD Tier 1 — Core Workflow Skills Hub.md
+backlink_count: 9
+backlinks:
+- '[[wiki/Claude Code Skill Corpus]]'
+- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
+- '[[wiki/GSD — Get Shit Done Context Engineering System]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
 ---
 
 # GSD Tier 1 — Core Workflow Skills Hub

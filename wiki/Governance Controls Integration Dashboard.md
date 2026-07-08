@@ -1,9 +1,47 @@
 ---
 type: governance-dashboard
-aliases: [GOVERNANCE CONTROLS INTEGRATION DASHBOARD]
+title: Governance Controls Integration Dashboard
+aliases:
+- GOVERNANCE CONTROLS INTEGRATION DASHBOARD
+- wiki/Governance Controls Integration Dashboard
+tags:
+- governance-dashboard
+- wiki
+- governance-controls-integration-dashboard-md
+- control
+- external
+- approval
+- controls
+- tool
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-28
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Governance Controls Integration Dashboard.md
+backlink_count: 21
+backlinks:
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/External Data Refresh Calendar — Phase 1 Build]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[wiki/Governance Controls — Incident Response (Control Failure Procedures)]]'
+- '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
+- '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Plugin Recommendations]]'
+- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Supersession Registry]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory]]'
 tier: critical
 ---
 

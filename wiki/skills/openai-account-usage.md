@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "openai-account-usage"
-domain: "AI LLM and Tools"
+title: openai-account-usage
+aliases:
+- skills/openai-account-usage
+- wiki/skills/openai-account-usage
+tags:
+- skill
+- wiki
+- skills
+- openai
+- usage
+- account
+- openrouter
+- keys
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/openai-account-usage/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/openai-account-usage.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — AI and LLM Tools]]'
+skill_id: openai-account-usage
+domain: AI LLM and Tools
+codex_path: /home/cerebrhoe/.codex/skills/openai-account-usage/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

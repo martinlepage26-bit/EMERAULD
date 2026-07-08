@@ -1,4 +1,40 @@
+---
+type: governance-doc
+title: HEPHAISTOS — Orchestration Guide
+aliases:
+- HEPHAISTOS — Orchestration Guide
+- governance/hephaistos/ORCHESTRATION
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- keyport
+- queen
+- conflict
+- equal
+- hermes
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-07-03'
+vault_area: governance
+canonical_path: governance/hephaistos/ORCHESTRATION.md
+backlink_count: 6
+backlinks:
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/HERMES_OPERATIONS]]'
+- '[[governance/hephaistos/QUEEN-KEYPORT_OPERATIONS]]'
+- '[[governance/hephaistos/RELAY-LEDGER]]'
+- '[[governance/hephaistos/hephaistos-to-queen-keyport]]'
+- '[[governance/hephaistos/queen-keyport-to-hermes]]'
+---
+
 # HEPHAISTOS — Orchestration Guide
+
+> **Wiki mirror notice:** this is a wiki mirror of the canonical copy at
+> `/home/martin/.agents/hephaistos/ORCHESTRATION.md`. Last synced from canonical: 2026-07-03.
+> If this file and the canonical repo diverge, the canonical repo controls.
 
 This file governs how the three-agent stack executes work: how Hephaistos and
 Queen Keyport coordinate as co-equal authorities, how Hermes routes after both

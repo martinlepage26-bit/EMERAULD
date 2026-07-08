@@ -1,11 +1,35 @@
 ---
 type: source-note
-tags: [raw-source, ingest, provenance, 2026-05-13]
+title: Skills as self-operators — Source Note
+aliases:
+- raw-sources/2026-05-13/Skills as self-operators — Source Note
+- wiki/raw-sources/2026-05-13/Skills as self-operators — Source Note
+tags:
+- raw-source
+- ingest
+- provenance
+- '2026-05-13'
+- source-note
+- wiki
+- raw-sources
+- cluster
+- eaad
+- operators
+- self
+- verified
+- color-lime
 status: active
-created: 2026-05-13
-updated: 2026-05-13
-source_raw_path: "raw/00_Inbox/Raw/Skills as self-operators.txt"
-source_report: "raw/intake-report-20260513.json"
+created: '2026-05-13'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/raw-sources/2026-05-13/Skills as self-operators — Source Note.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
+source_raw_path: raw/00_Inbox/Raw/Skills as self-operators.txt
+source_report: raw/intake-report-20260513.json
 ---
 
 # Skills as self-operators — Source Note

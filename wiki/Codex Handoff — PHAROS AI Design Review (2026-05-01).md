@@ -1,12 +1,44 @@
 ---
 type: wiki
+title: Codex Handoff — PHAROS AI Design Review (2026-05-01)
 aliases:
-  - Codex Design Review Handoff
-  - PHAROS Design Iteration Sprint
-tags: [codex, design, pharos, handoff, 2026-05-01]
+- Codex Design Review Handoff
+- PHAROS Design Iteration Sprint
+- wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)
+tags:
+- codex
+- design
+- pharos
+- handoff
+- '2026-05-01'
+- wiki
+- codex-handoff-pharos-ai-design-review-2026-05-01-md
+- color
+- articles
+- pages
+- subtle
+- print
+- color-orange
 status: deployed-pending-custom-domain-verification
 created: 2026-05-01T16:10
-updated: 2026-05-03T08:12
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01).md
+backlink_count: 13
+backlinks:
+- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
+- '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
+- '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS SURFACE]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory]]'
+- '[[memory/daily/2026-05-01]]'
+- '[[projects/PHAROS — Fisher King Project State]]'
 ---
 
 # Codex Handoff — PHAROS AI Design Review (2026-05-01)

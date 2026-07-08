@@ -1,10 +1,35 @@
 ---
 type: genealogy
-aliases: [Martin Voice Spec Canonical Index, Martin Voice Spec Version Genealogy, Voice Spec Operators, Martin Voice Operators]
-tags: [voice, genealogy, writing, operators, martin, canon]
+title: Martin Voice Spec — Version Genealogy
+aliases:
+- Martin Voice Spec Canonical Index
+- Martin Voice Spec Version Genealogy
+- Voice Spec Operators
+- Martin Voice Operators
+- wiki/genealogy/Martin Voice Spec — Version Genealogy
+tags:
+- voice
+- genealogy
+- writing
+- operators
+- martin
+- canon
+- wiki
+- voiceop
+- spec
+- aigov
+- official
+- color-purple
 status: active
-created: 2026-04-29
-updated: 2026-04-29
+created: '2026-04-29'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/genealogy/Martin Voice Spec — Version Genealogy.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
 source: D drive voice spec scan
 ---
 

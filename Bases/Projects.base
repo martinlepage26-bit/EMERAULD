@@ -1,0 +1,74 @@
+filters:
+  and:
+    - file.inFolder("projects")
+    - file.ext == "md"
+    - note.type == "project"
+formulas:
+  status_icon: if(status == "in-progress", "🟢", if(status == "blocked", "🔴", if(status == "on-ice", "🟡", if(status == "draft", "⚪", if(status == "complete", "✅", if(status == "archived", "📦", "❔"))))))
+  days_since_update: if(updated, (today() - date(updated)).days, "")
+properties:
+  formula.status_icon:
+    displayName: " "
+  formula.days_since_update:
+    displayName: Stale (days)
+  status:
+    displayName: Status
+  priority:
+    displayName: Priority
+  tags:
+    displayName: Tags
+views:
+  - type: table
+    name: In Progress
+    filters:
+      and:
+        - status == "in-progress"
+    order:
+      - formula.status_icon
+      - file.basename
+      - priority
+      - updated
+    columnSize:
+      formula.status_icon: 40
+      file.basename: 200
+  - type: table
+    name: Blocked
+    filters:
+      and:
+        - status == "blocked"
+    order:
+      - file.basename
+      - updated
+      - formula.days_since_update
+  - type: table
+    name: On Ice
+    filters:
+      or:
+        - status == "on-ice"
+    order:
+      - file.basename
+      - updated
+      - formula.days_since_update
+  - type: table
+    name: Complete
+    filters:
+      and:
+        - status == "complete"
+    order:
+      - file.basename
+      - updated
+  - type: table
+    name: All
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - formula.status_icon
+      - file.basename
+      - status
+      - priority
+      - updated
+      - formula.days_since_update
+    columnSize:
+      formula.status_icon: 70
+      file.basename: 180

@@ -1,3 +1,58 @@
+---
+type: wiki
+title: Self-Polygraph Protocol and Suprametacognition
+aliases:
+- Self-Polygraph Protocol and Suprametacognition
+- wiki/Self-Polygraph Protocol and Suprametacognition
+tags:
+- wiki
+- self-polygraph-protocol-and-suprametacognition-md
+- instantiations
+- suprametacognition
+- finding
+- experiment
+- perturbation
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Self-Polygraph Protocol and Suprametacognition.md
+backlink_count: 31
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[wiki/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/Emotional Alliance vs. Evidentiary Discipline in AI]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
+- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[wiki/The Wheel and the Watcher]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
+---
+
 # Self-Polygraph Protocol and Suprametacognition
 
 ## Summary

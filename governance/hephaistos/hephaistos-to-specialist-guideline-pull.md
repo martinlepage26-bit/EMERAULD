@@ -1,3 +1,34 @@
+---
+type: governance-doc
+title: HEPHAISTOS ⇢ Specialist Guideline-Pull Schema
+aliases:
+- HEPHAISTOS ⇢ Specialist Guideline-Pull Schema
+- governance/hephaistos/hephaistos-to-specialist-guideline-pull
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- consulted
+- gadget
+- specialist
+- pull
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/hephaistos-to-specialist-guideline-pull.md
+backlink_count: 6
+backlinks:
+- '[[.github/agents/hephaistos.agent]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/global/HEPHAISTOS-STATUS]]'
+- '[[governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION]]'
+- '[[governance/hephaistos/hephaistos-to-queen-keyport]]'
+---
+
 # HEPHAISTOS ⇢ Specialist Guideline-Pull Schema
 
 ## Purpose

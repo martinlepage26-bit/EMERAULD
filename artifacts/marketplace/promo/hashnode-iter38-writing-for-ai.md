@@ -1,3 +1,31 @@
+---
+type: artifact
+title: Writing Notes for AI, Not for Humans — The Structural Differences That Matter
+aliases:
+- artifacts/marketplace/promo/hashnode-iter38-writing-for-ai
+tags:
+- artifact
+- ai
+- artifacts
+- marketplace
+- auth
+- know
+- wrote
+- middleware
+- gateway
+- color-red
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/hashnode-iter38-writing-for-ai.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # Writing Notes for AI, Not for Humans — The Structural Differences That Matter
 
 **Platform:** Hashnode

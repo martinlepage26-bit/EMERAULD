@@ -1,14 +1,58 @@
 ---
 type: wiki
+title: Martin Lepage — Authored Skills
 aliases:
-  - Signature skills
-  - Martin-authored skills
-  - Most valued skills
-  - Signature skill set
-tags: [skills, authored, signature, martin-lepage, methodology, identity, hub]
+- Signature skills
+- Martin-authored skills
+- Most valued skills
+- Signature skill set
+- wiki/Martin Lepage — Authored Skills
+tags:
+- skills
+- authored
+- signature
+- martin-lepage
+- methodology
+- identity
+- hub
+- wiki
+- martin-lepage-authored-skills-md
+- skill
+- confirm
+- domain
+- operator
+- method
+- color-green
 status: active
-created: 2026-05-06
-updated: 2026-05-07
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Martin Lepage — Authored Skills.md
+backlink_count: 23
+backlinks:
+- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+- '[[wiki/Skill Domain — Deployment and Infrastructure]]'
+- '[[wiki/Skill Domain — Design and UX]]'
+- '[[wiki/Skill Domain — Development and Testing]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+- '[[wiki/Skill Domain — Operator Wellbeing]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
+- '[[wiki/Skill Domain — Security and Compliance]]'
+- '[[wiki/Skill Domain — Skill Architecture]]'
+- '[[wiki/Skill Domain — Vault and Knowledge]]'
+- '[[wiki/Skill Domain — Writing and Humanization]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
 ---
 
 # Martin Lepage — Authored Skills

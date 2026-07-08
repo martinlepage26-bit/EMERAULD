@@ -1,10 +1,45 @@
 ---
 type: wiki
-aliases: ["Beach Pedersen process-tracing methods", "Process-Tracing Methods 2nd edition"]
-tags: [reference, method, process-tracing, causal-mechanisms, bayesian, evidence, case-studies]
+title: Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)
+aliases:
+- Beach Pedersen process-tracing methods
+- Process-Tracing Methods 2nd edition
+- wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)
+tags:
+- reference
+- method
+- process-tracing
+- causal-mechanisms
+- bayesian
+- evidence
+- case-studies
+- wiki
+- process-tracing-methods-beach-pedersen-2019-mechanisms-and-evidence-md
+- mechanistic
+- indd
+- tracing
+- hedstr
+- ylikoski
+- color-orange
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and
+  Evidence).md
+backlink_count: 9
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
+  Explanation)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
+  vs Reclaiming)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)

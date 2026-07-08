@@ -1,12 +1,35 @@
 ---
 type: wiki
+title: Chrome Extension Monetization - Policy and Product Options
 aliases:
-  - Chrome Extension Monetization
-  - Chrome Extension Monetization Guide
-tags: [chrome, extension, monetization, payments, product, policy]
+- Chrome Extension Monetization
+- Chrome Extension Monetization Guide
+- wiki/Chrome Extension Monetization - Policy and Product Options
+tags:
+- chrome
+- extension
+- monetization
+- payments
+- product
+- policy
+- wiki
+- chrome-extension-monetization-policy-and-product-options-md
+- paid
+- payment
+- affiliate
+- color-purple
 status: active
-created: 2026-05-23
-updated: 2026-05-23
+created: '2026-05-23'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Chrome Extension Monetization - Policy and Product Options.md
+backlink_count: 5
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Home]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 # Chrome Extension Monetization - Policy and Product Options

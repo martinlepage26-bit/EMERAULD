@@ -1,12 +1,42 @@
 ---
 type: intake-index
-aliases: ["Desktop/Downloads scan 2026-05-12", "C drive delta scan 2026-05-12"]
-tags: [intake, desktop, downloads, provenance, helix, legal]
+title: Desktop and Downloads Scan — 2026-05-12
+aliases:
+- Desktop/Downloads scan 2026-05-12
+- C drive delta scan 2026-05-12
+- wiki/Desktop and Downloads Scan — 2026-05-12
+tags:
+- intake
+- desktop
+- downloads
+- provenance
+- helix
+- legal
+- intake-index
+- wiki
+- desktop-and-downloads-scan-2026-05-12-md
+- housing
+- scan
+- color-lime
 status: active
-created: 2026-05-12
-updated: 2026-05-13
-source_roots: ["C:\\Users\\softinfo\\Desktop", "C:\\Users\\softinfo\\Downloads"]
-raw_pack: "raw/Desktop-Downloads-scan-2026-05-12/"
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Desktop and Downloads Scan — 2026-05-12.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Brutal Isms — Grant Revision Package (2026-05-12)]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Events]]'
+- '[[memory/daily/2026-05-13]]'
+source_roots:
+- C:\Users\softinfo\Desktop
+- C:\Users\softinfo\Downloads
+raw_pack: raw/Desktop-Downloads-scan-2026-05-12/
 ---
 
 # Desktop and Downloads Scan — 2026-05-12

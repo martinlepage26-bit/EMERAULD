@@ -1,13 +1,37 @@
 ---
 type: wiki
+title: Slayer Franchise Power — Methodology and Corpus Design
 aliases:
-  - Slayer power methodology
-  - Buffy power textual analysis methodology
-  - Slayer franchise corpus design
-tags: [Buffy, Slayer, methodology, media-studies, textual-analysis, feminist-media-criticism]
+- Slayer power methodology
+- Buffy power textual analysis methodology
+- Slayer franchise corpus design
+- wiki/Slayer Franchise Power — Methodology and Corpus Design
+tags:
+- buffy
+- slayer
+- methodology
+- media-studies
+- textual-analysis
+- feminist-media-criticism
+- wiki
+- slayer-franchise-power-methodology-and-corpus-design-md
+- textual
+- franchise
+- television
+- color-red
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Slayer Franchise Power — Methodology and Corpus Design.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
+- '[[wiki/For Her Alone to Wield — Version Genealogy]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Slayer Recursion Protocol — README and Repositioning]]'
 ---
 
 > **Cluster connections:** Methodology hub for the four-paper Slayer cluster — [[For Her Alone to Wield — Buffy Power as Infrastructure]], [[Every Hair a Battle Scar — Buffy's Hair as Narrative Engine]], [[The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]], [[Still Running — Willow, Anya, and Queer Ritual Infrastructure]] — plus [[Slayer Recursion Protocol — README and Repositioning]] (writing-process protocol). Methodological substrate: mythocritique-as-method, see [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]].

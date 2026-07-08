@@ -1,8 +1,46 @@
 ---
 type: note
-tags: [pharos, publishing, LinkedIn, public-surface, operations]
-created: 2026-04-28
-updated: 2026-04-28
+title: PHAROS LinkedIn April 2026 Publishing Routine
+aliases:
+- PHAROS LinkedIn April 2026 Publishing Routine
+- wiki/PHAROS LinkedIn April 2026 Publishing Routine
+tags:
+- pharos
+- publishing
+- linkedin
+- public-surface
+- operations
+- note
+- wiki
+- pharos-linkedin-april-2026-publishing-routine-md
+- april
+- posts
+- routine
+- color-teal
+status: active
+created: '2026-04-28'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS LinkedIn April 2026 Publishing Routine.md
+backlink_count: 17
+backlinks:
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS Licensing Prospectus]]'
+- '[[wiki/PHAROS Procurement-Unblock Sprint]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/PHAROS-AI Webservice — pharos-ai.ca]]'
+- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-28]]'
 ---
 
 # PHAROS LinkedIn April 2026 Publishing Routine

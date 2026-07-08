@@ -1,3 +1,32 @@
+---
+type: artifact
+title: Govern Deterministic Runner — Specification
+aliases:
+- artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/govern_deterministic_runner_spec
+tags:
+- artifact
+- pharos
+- governance
+- archive
+- artifacts
+- 2026-04-19-pharos-migration-pr4
+- topology
+- runner
+- exposes
+- auryn
+- hopf
+- color-purple
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/govern_deterministic_runner_spec.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # Govern Deterministic Runner — Specification
 
 See also [[Governance and PHAROS MOC]].

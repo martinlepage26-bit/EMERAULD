@@ -1,3 +1,43 @@
+---
+type: wiki
+title: ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison
+aliases:
+- ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison
+- wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison
+tags:
+- wiki
+- pharos
+- governance
+- anthro-pharos-anthropic-vs-pharos-governance-comparison-md
+- anthropic
+- anthro
+- training
+- centralized
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison.md
+backlink_count: 15
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
+- '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Global Publication Search — PHAROS Method and Variants]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
+- '[[wiki/OpenAI Governance Framework — Comparison with PHAROS]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison
 
 ## Summary

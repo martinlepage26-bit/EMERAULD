@@ -1,21 +1,56 @@
 ---
+type: agent-spec
+title: Hermes — Tier 2 Routing, Integration, and Monitoring Agent
+aliases:
+- Hermes — Tier 2 Routing, Integration, and Monitoring Agent
+- .github/agents/hermes.agent
+tags:
+- agents
+- hermes
+- agent-spec
+- github
+- route
+- dependencies
+- rollback
+- monitoring
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .github
+canonical_path: .github/agents/hermes.agent.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/HERMES]]'
+- '[[governance/hephaistos/HERMES_OPERATIONS]]'
+- '[[governance/hephaistos/hermes-escalation-to-queen-keyport]]'
+- '[[governance/hephaistos/queen-keyport-to-hermes]]'
 name: hermes
-description: "Tier‑2 routing, integration, and monitoring agent: route approved work into implementation, monitoring, and escalation paths. Use after scope and governance decisions are set."
-applyTo: ".github/agents/**"
+description: 'Tier‑2 routing, integration, and monitoring agent: route approved work
+  into implementation, monitoring, and escalation paths. Use after scope and governance
+  decisions are set.'
+applyTo: .github/agents/**
 model: sonnet
-tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
+tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite,
+  TaskCreate, TaskUpdate, TaskGet, TaskList
 allow_auto_create: false
 skills:
-  - hermes-dependency-mapper
-  - hermes-integration-monitor
-  - hermes-escalation-router
-  - free-tool-strategy
-  - trace-investigator
-  - skill-architect
-  - skill-pairing
-  - red-team
-  - codex-review
-  - test-detect
+- hermes-dependency-mapper
+- hermes-integration-monitor
+- hermes-escalation-router
+- free-tool-strategy
+- trace-investigator
+- skill-architect
+- skill-pairing
+- red-team
+- codex-review
+- test-detect
+entity_type: Team
+entity_id: hermes
+entity_aliases: []
+entity_confidence: high
 ---
 
 # Hermes — Tier 2 Routing, Integration, and Monitoring Agent

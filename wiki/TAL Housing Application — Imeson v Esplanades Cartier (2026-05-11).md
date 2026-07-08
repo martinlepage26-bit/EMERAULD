@@ -1,15 +1,42 @@
 ---
 type: wiki
-aliases: ["TAL tenant application 2026-05-11", "Imeson TAL filing", "Esplanades Cartier housing claim"]
-tags: [legal, housing, quebec, tal, institutional-accountability, personal-case]
+title: TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)
+aliases:
+- TAL tenant application 2026-05-11
+- Imeson TAL filing
+- Esplanades Cartier housing claim
+- wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)
+tags:
+- legal
+- housing
+- quebec
+- tal
+- institutional-accountability
+- personal-case
+- wiki
+- tal-housing-application-imeson-v-esplanades-cartier-2026-05-11-md
+- damages
+- lease
+- theft
+- rent
+- color-red
 status: active
-created: 2026-05-12
-updated: 2026-05-13
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11).md
+backlink_count: 5
+backlinks:
+- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 source:
-  - raw/Desktop-Downloads-scan-2026-05-12/downloads/Imeson_TAL_Application.docx
-  - raw/Desktop-Downloads-scan-2026-05-12/downloads/Imeson_TAL_Application_Updated.docx
-  - raw/Desktop-Downloads-scan-2026-05-12/downloads/TAL_Application_Rendered.docx
-  - raw/Desktop-Downloads-scan-2026-05-12/downloads/TAL_001A_E_signed.pdf
+- raw/Desktop-Downloads-scan-2026-05-12/downloads/Imeson_TAL_Application.docx
+- raw/Desktop-Downloads-scan-2026-05-12/downloads/Imeson_TAL_Application_Updated.docx
+- raw/Desktop-Downloads-scan-2026-05-12/downloads/TAL_Application_Rendered.docx
+- raw/Desktop-Downloads-scan-2026-05-12/downloads/TAL_001A_E_signed.pdf
 ---
 
 # TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)

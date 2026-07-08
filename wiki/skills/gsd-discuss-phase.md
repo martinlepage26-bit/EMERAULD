@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "gsd-discuss-phase"
-domain: "GSD Workflow"
+title: gsd-discuss-phase
+aliases:
+- skills/gsd-discuss-phase
+- wiki/skills/gsd-discuss-phase
+tags:
+- skill
+- wiki
+- skills
+- discuss
+- interactive
+- skip
+- interactively
+- questioning
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/gsd-discuss-phase/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/gsd-discuss-phase.md
+backlink_count: 2
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+skill_id: gsd-discuss-phase
+domain: GSD Workflow
+codex_path: /home/cerebrhoe/.codex/skills/gsd-discuss-phase/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

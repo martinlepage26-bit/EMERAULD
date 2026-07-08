@@ -1,9 +1,34 @@
 ---
+type: agent-spec
 title: Trismégiste — Personal AI Assistant
+aliases:
+- Trismégiste — Personal AI Assistant
+- hephaistos/agents/Trismegiste Personal AI Assistant
+tags:
+- agent
+- personal-ai
+- brainiax
+- second-brain
+- wsl
+- agent-spec
+- hephaistos
+- agents
+- trism
+- giste
+- emerauld
+- second
+- brain
+- color-orange
+status: recovered
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: hephaistos
+canonical_path: hephaistos/agents/Trismegiste Personal AI Assistant.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 source_file: Trismégiste — Personal AI Assistant.md
 format: md
-status: recovered
-tags: [agent, personal-ai, brainiax, second-brain, wsl]
 ---
 
 # Trismégiste — Personal AI Assistant

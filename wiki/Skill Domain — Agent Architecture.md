@@ -1,13 +1,40 @@
 ---
 type: wiki
+title: Skill Domain — Agent Architecture
 aliases:
-  - Agent Architecture domain
-  - Agent development domain
-  - Multi-agent skills hub
-tags: [skills, domain, hub, agent-architecture, multi-agent, autonomous, hitl, orchestration]
+- Agent Architecture domain
+- Agent development domain
+- Multi-agent skills hub
+- wiki/Skill Domain — Agent Architecture
+tags:
+- skills
+- domain
+- hub
+- agent-architecture
+- multi-agent
+- autonomous
+- hitl
+- orchestration
+- wiki
+- skill-domain-agent-architecture-md
+- agent
+- skill
+- designs
+- color-orange
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Skill Domain — Agent Architecture.md
+backlink_count: 7
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Domain — Design and UX]]'
+- '[[wiki/Skill Domain — Security and Compliance]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 # Skill Domain — Agent Architecture

@@ -1,3 +1,34 @@
+---
+type: raw-source
+title: AI Agent Operations and Governance Manager
+aliases:
+- raw/Clippings/AI Agent Operations and Governance Manager
+tags:
+- raw
+- governance
+- ai
+- agents
+- raw-source
+- clippings
+- courses
+- coursera
+- course
+- agent
+- weeks
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Clippings/AI Agent Operations and Governance Manager.md
+backlink_count: 5
+backlinks:
+- '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Recursive Governance Memo — EMERAULD Control Packet (2026-05-12)]]'
+- '[[governance/hephaistos/HEPHAISTOS_OPERATIONS]]'
+- '[[governance/hephaistos/HERMES_OPERATIONS]]'
+---
 
 That lets you combine your Trust and AI Governance background with the operational skills companies will need: agent performance monitoring, escalation design, prompt and workflow iteration, ROI measurement, risk controls, auditability, and human oversight.
 

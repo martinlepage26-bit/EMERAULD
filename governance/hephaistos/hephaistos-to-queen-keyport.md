@@ -1,3 +1,43 @@
+---
+type: governance-doc
+title: HEPHAISTOS → Queen Keyport Handoff Schema
+aliases:
+- HEPHAISTOS → Queen Keyport Handoff Schema
+- governance/hephaistos/hephaistos-to-queen-keyport
+tags:
+- governance
+- ai
+- hephaistos
+- queen-keyport
+- governance-doc
+- keyport
+- queen
+- relay
+- scope
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/hephaistos-to-queen-keyport.md
+backlink_count: 10
+backlinks:
+- '[[.github/agents/hephaistos.agent]]'
+- '[[.github/agents/queen-keyport.agent]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/global/HEPHAISTOS-STATUS]]'
+- '[[governance/hephaistos/ORCHESTRATION]]'
+- '[[governance/hephaistos/hephaistos-to-specialist-guideline-pull]]'
+- '[[governance/hephaistos/queen-keyport-to-hermes]]'
+- '[[hephaistos/agents/hephaistos]]'
+- '[[memory/local-session/project_hephaistos]]'
+entity_type: Workflow
+entity_id: hephaistos_to_qk_handoff_workflow
+entity_aliases: []
+entity_confidence: high
+---
+
 # HEPHAISTOS → Queen Keyport Handoff Schema
 
 ## Purpose

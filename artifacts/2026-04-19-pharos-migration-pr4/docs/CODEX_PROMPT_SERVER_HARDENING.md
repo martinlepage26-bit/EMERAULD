@@ -1,3 +1,29 @@
+---
+type: artifact
+title: CODEX PROMPT — server.py HARDENING
+aliases:
+- artifacts/2026-04-19-pharos-migration-pr4/docs/CODEX_PROMPT_SERVER_HARDENING
+tags:
+- artifact
+- pharos
+- artifacts
+- 2026-04-19-pharos-migration-pr4
+- lifespan
+- mongo
+- server
+- dnspython
+- startup
+- color-green
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/2026-04-19-pharos-migration-pr4/docs/CODEX_PROMPT_SERVER_HARDENING.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # CODEX PROMPT — server.py HARDENING
 # Scope: apply PR #4 hardening goals to the real backend entry point
 # Target file: backend/server.py (NOT main.py — Dockerfile confirms server.py)

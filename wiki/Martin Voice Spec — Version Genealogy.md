@@ -1,13 +1,43 @@
 ---
 type: wiki
+title: Martin Voice Spec — Version Genealogy
 aliases:
-  - Martin Voice Spec — Version Genealogy
-  - Voice Spec Genealogy
-  - Unified Martin Voice Spec
-tags: [voice-spec, version-genealogy, identity, henry, mobi, hephaistos, operator-continuity]
+- Martin Voice Spec — Version Genealogy
+- Voice Spec Genealogy
+- Unified Martin Voice Spec
+- wiki/Martin Voice Spec — Version Genealogy
+tags:
+- voice-spec
+- version-genealogy
+- identity
+- henry
+- mobi
+- hephaistos
+- operator-continuity
+- wiki
+- martin-voice-spec-version-genealogy-md
+- voice
+- spec
+- martin
+- constitution
+- color-orange
 status: active
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Martin Voice Spec — Version Genealogy.md
+backlink_count: 10
+backlinks:
+- '[[wiki/APEX Papers — Research Archive Map]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Voice Spec — Stage Map]]'
+- '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'
+- '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # Martin Voice Spec — Version Genealogy

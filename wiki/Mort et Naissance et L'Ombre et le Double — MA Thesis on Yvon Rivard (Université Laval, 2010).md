@@ -1,15 +1,102 @@
 ---
 type: wiki
+title: Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)
 aliases:
-  - MA thesis on Rivard
-  - Mort et Naissance MA thesis
-  - Lecture mythocritique d'une quête spirituelle
-  - Lepage 2010 master's thesis
-  - Université Laval MA thesis
-tags: [MA-thesis, primary-source, Rivard, mythocritique, Egyptian-triad, hermetic, Université-Laval, 2010]
+- MA thesis on Rivard
+- Mort et Naissance MA thesis
+- Lecture mythocritique d'une quête spirituelle
+- Lepage 2010 master's thesis
+- Université Laval MA thesis
+- wiki/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)
+tags:
+- ma-thesis
+- primary-source
+- rivard
+- mythocritique
+- egyptian-triad
+- hermetic
+- universit-laval
+- '2010'
+- wiki
+- mort-et-naissance-et-l-ombre-et-le-double-ma-thesis-on-yvon-rivard-universit-laval-2010-md
+- thesis
+- quest
+- ombre
+- litt
+- color-violet
 status: active
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon
+  Rivard (Université Laval, 2010).md
+backlink_count: 63
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
+- '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[wiki/Le sang qui porte ton nom — Novel]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/PHAROS Runbook SOP]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Pourquoi Rever Encore — Version Genealogy]]'
+- '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
+- '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
+- '[[wiki/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Slayer Recursion Protocol — README and Repositioning]]'
+- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[wiki/The Returning Light — Monograph]]'
+- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[wiki/Why Be King Im Already a Queen — Book Project]]'
+- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 ---
 
 # Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)

@@ -1,3 +1,76 @@
+---
+type: wiki
+title: InfraFabric Architecture
+aliases:
+- InfraFabric Architecture
+- wiki/InfraFabric Architecture
+tags:
+- wiki
+- infrafabric-architecture-md
+- canon
+- explainer
+- infrafabric
+- switchboard
+- blackboard
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/InfraFabric Architecture.md
+backlink_count: 48
+backlinks:
+- '[[wiki/90-Day $1M Challenge — Status Report]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Agent Session Phenomenology]]'
+- '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
+- '[[wiki/CLI-Anything — Agent Harness for Tool Integration]]'
+- '[[wiki/CODEX Writing Projects Manifest]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
+  Explanation)]]'
+- '[[wiki/Claude Code Skill Corpus]]'
+- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[wiki/Founder Charter — Lepage and Stocker]]'
+- '[[wiki/GSD — Get-Shit-Done Claude Code System]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/IF.EMOTION — Empathetic AI Architecture]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
+- '[[wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[wiki/PHAROS Invention Disclosure]]'
+- '[[wiki/PHAROS Licensing Prospectus]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/ROOK — Session Boundary Model]]'
+- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/SYSTEM CHECK]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[wiki/Stacklight-owner-explainer]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture]]'
+- '[[wiki/claude-peers-mcp — Claude Peer Network]]'
+- '[[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'
+- '[[wiki/if.switchboard — InfraFabric Product Center]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory/daily/2026-06-27]]'
+- '[[memory/daily/2026-06-30]]'
+- '[[session-state]]'
+- '[[wiki/skills/architecture]]'
+---
+
 # InfraFabric Architecture
 
 ## Summary
@@ -34,9 +107,9 @@ InfraFabric's public surface: `infrafabric.io`. The canon bundle (as of 2026-03-
 
 | Module | Role | Current Canon |
 |---|---|---|
-| **if.switchboard** | Product center; current governed interconnect/switchboard posture | Strongest current InfraFabric product explainer |
+| **[[if.switchboard — InfraFabric Product Center\|if.switchboard]]** | Product center; current governed interconnect/switchboard posture | Strongest current InfraFabric product explainer |
 | **if.bus** | Transport/control boundary; runtime bus claims, fail-closed selectors, auth-path scope, source/deployed parity posture | Current standalone if.bus canon |
-| **if.blackboard** | Coordination/evidence surface; public reviewability, task surfaces, boundary from SIP and routing claims | Current standalone if.blackboard canon |
+| **if.blackboard** | Coordination/evidence surface; task/session/signal ledger, debt queues, and boundary from SIP/routing claims | Current standalone if.blackboard canon; see [[if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]] for the current liveness/auth caveat |
 | **if.trace** | Audit/provenance layer; receipts, replayability, artifact integrity, trace review posture | Use when reviewing evidence and verification chain |
 | **if.context** | Context substrate; bounded current posture | Current, but internally composite; read with status discipline |
 | **if.knowledge** | Knowledge/graph substrate; public-vs-internal knowledge graph posture and product projection logic | Current, but internally composite; use with same caution |
@@ -124,6 +197,7 @@ If a reviewer asks "how do you know when not to widen a claim?" or "where is the
 - [[Founder Charter — Lepage and Stocker]]
 - [[90-Day $1M Challenge — Status Report]]
 - [[InfraFabric Codex Alignment — System-Shaper Frame]] — operator-side adoption diagnostic: maps InfraFabric surfaces to actual Codex-on-machine behaviors (system-shaper frame vs “MCP operator” assumption)
+- [[if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]] — current spec sheet and claim boundary for the blackboard coordination-evidence surface.
 - [[InfraFabric Philosophy-As-Implementation Whitepaper (v1.0)]]
 - [[Santé-France — Critical Full Explainer (v2.0, dependency-gated rebuild)]]
 - [[if-radar_skydrone Full Explainer v1.1 (Data, Mechanics, Freshness, and Boundaries)]]

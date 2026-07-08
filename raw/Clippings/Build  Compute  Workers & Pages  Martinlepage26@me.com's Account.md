@@ -1,16 +1,39 @@
 ---
+type: raw-source
 title: Build | Compute | Workers & Pages | Martinlepage26@me.com's Account
-source: https://dash.cloudflare.com/1713c51cc6fbcf8d7143526b93495b76/workers/services/view/helix/production/builds/f6ee10f9-a325-49d9-b6b5-78973ad0a6a4
-author:
-published: 2026-04-21
-created: 2026-04-21
-status: synthesized
-description: Log in to the Cloudflare dashboard. Make your websites, apps, and networks fast and secure. Build modern apps on our developer platform.
+aliases:
+- raw/Clippings/Build  Compute  Workers & Pages  Martinlepage26@me.com's Account
 tags:
-  - cloudflare
+- cloudflare
+- raw-source
+- raw
+- clippings
+- wrangler
+- pages
+- worker
+- jsonc
+- config
+- color-lime
+status: synthesized
+created: '2026-04-21'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Clippings/Build  Compute  Workers & Pages  Martinlepage26@me.com's
+  Account.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[wiki/raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26
+  Account Source Note]]'
+source: https://dash.cloudflare.com/1713c51cc6fbcf8d7143526b93495b76/workers/services/view/helix/production/builds/f6ee10f9-a325-49d9-b6b5-78973ad0a6a4
+author: null
+published: '2026-04-21'
+description: Log in to the Cloudflare dashboard. Make your websites, apps, and networks
+  fast and secure. Build modern apps on our developer platform.
 synthesized_to:
-  - "[[Cloudflare Pages-to-Worker Migration — Build and Asset Behavior]]"
+- '[[Cloudflare Pages-to-Worker Migration — Build and Asset Behavior]]'
 ---
+
 what happens if i turn a page into a worker?
 
 Here's what changes when you migrate a Pages project to a Worker:

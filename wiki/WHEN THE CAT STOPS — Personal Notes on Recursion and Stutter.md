@@ -1,3 +1,44 @@
+---
+type: wiki
+title: WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter
+aliases:
+- WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter
+- wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter
+tags:
+- wiki
+- recursion
+- when-the-cat-stops-personal-notes-on-recursion-and-stutter-md
+- stutter
+- incursion
+- governing
+- stops
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter.md
+backlink_count: 17
+backlinks:
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[maps/Novel Corpus Map]]'
+---
+
 # WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter
 
 ## Summary

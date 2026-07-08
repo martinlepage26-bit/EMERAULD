@@ -1,11 +1,30 @@
 ---
 type: raw-source
-source_url: https://stories.td.com/ca/en/media/responsible-ai-in-financial-services
 title: Responsible AI in Financial Services
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_responsible-ai-in-financial-services
+tags:
+- raw-source
+- memory
+- clients
+- third
+- sites
+- website
+- download
+- bank
+- color-teal
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_responsible-ai-in-financial-services.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Manuscript Pipeline MOC]]'
+source_url: https://stories.td.com/ca/en/media/responsible-ai-in-financial-services
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Responsible AI in Financial Services

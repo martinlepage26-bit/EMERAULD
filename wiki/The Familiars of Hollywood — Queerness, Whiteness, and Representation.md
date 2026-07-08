@@ -1,3 +1,41 @@
+---
+type: wiki
+title: The Familiars of Hollywood — Queerness, Whiteness, and Representation
+aliases:
+- The Familiars of Hollywood — Queerness, Whiteness, and Representation
+- wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation
+tags:
+- wiki
+- queer
+- the-familiars-of-hollywood-queerness-whiteness-and-representation-md
+- whiteness
+- colin
+- hollywood
+- guillermo
+- inclusion
+- color-red
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation.md
+backlink_count: 13
+backlinks:
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Le sang qui porte ton nom — Novel]]'
+- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # The Familiars of Hollywood — Queerness, Whiteness, and Representation
 
 ## Summary

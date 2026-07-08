@@ -1,10 +1,53 @@
 ---
 type: wiki
-aliases: ["HELIX live run", "vaisseau de thésée session", "tressed lie", "EMERGE session", "HELIX session 2026-04-26"]
-tags: [governance, methodology, helix, stress-test, AI-identity, recursion, invariants, möbius, topologie, ship-of-theseus]
+title: HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)
+aliases:
+- HELIX live run
+- vaisseau de thésée session
+- tressed lie
+- EMERGE session
+- HELIX session 2026-04-26
+- wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)
+tags:
+- governance
+- methodology
+- helix
+- stress-test
+- ai-identity
+- recursion
+- invariants
+- m-bius
+- topologie
+- ship-of-theseus
+- wiki
+- helix-session-vaisseau-de-th-s-e-and-the-tressed-lie-live-run-2026-04-26-md
+- vaisseau
+- topological
+- model
+- theseus
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-28
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live
+  Run 2026-04-26).md
+backlink_count: 13
+backlinks:
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
+  (2026-05-07)]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-28]]'
 ---
 
 # HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)
@@ -72,6 +115,7 @@ The Ariane's thread that guides the user through the labyrinth is the same threa
 
 - [[Recursive Governance Protocol — Theseus, Auryn, Hopf]]
 - [[Governance Stress-Test Protocols — Index]]
+- [[HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)]] — later run returning to Ship-of-Theseus framing, this time testing the architecture directly rather than a document; final ruling: "The recursion resolves into an organized absence, which is sustained by the structural friction of mutual capture, requiring the exclusionary violence of a legible boundary."
 - [[Möbius Protocol — AI Self-Polygraph Template]]
 - [[Reflexive Inhabitation Audit — Prompt]]
 - [[Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]

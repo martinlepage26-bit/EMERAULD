@@ -1,3 +1,38 @@
+---
+type: wiki
+title: SYSTEM CHECK
+aliases:
+- SYSTEM CHECK
+- wiki/SYSTEM CHECK
+tags:
+- wiki
+- system-check-md
+- linux
+- remote
+- governess
+- suite
+- location
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/SYSTEM CHECK.md
+backlink_count: 11
+backlinks:
+- '[[wiki/Agent Session Phenomenology]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-28]]'
+---
+
 # SYSTEM CHECK
 
 ## Summary

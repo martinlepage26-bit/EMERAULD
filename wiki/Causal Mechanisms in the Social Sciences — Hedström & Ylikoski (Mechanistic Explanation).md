@@ -1,10 +1,44 @@
 ---
 type: wiki
-aliases: ["Hedström Ylikoski causal mechanisms", "Causal mechanisms social science working paper"]
-tags: [reference, method, causal-mechanisms, explanation, analytical-sociology, agent-based-modeling, evidence]
+title: Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
+  Explanation)
+aliases:
+- Hedström Ylikoski causal mechanisms
+- Causal mechanisms social science working paper
+- wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
+  Explanation)
+tags:
+- reference
+- method
+- causal-mechanisms
+- explanation
+- analytical-sociology
+- agent-based-modeling
+- evidence
+- wiki
+- causal-mechanisms-in-the-social-sciences-hedstr-m-ylikoski-mechanistic-explanation-md
+- ylikoski
+- hedstrom
+- mechanisms
+- causal
+- mechanism
+- color-pink
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski
+  (Mechanistic Explanation).md
+backlink_count: 8
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)

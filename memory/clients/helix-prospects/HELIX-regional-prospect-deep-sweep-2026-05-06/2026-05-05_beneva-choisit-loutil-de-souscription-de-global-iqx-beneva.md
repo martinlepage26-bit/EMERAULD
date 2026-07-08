@@ -1,11 +1,32 @@
 ---
 type: raw-source
-source_url: https://www.beneva.ca/fr/salle-presse/beneva-choisit-outil-souscription-global-iqx
 title: Beneva choisit l’outil de souscription de Global IQX | Beneva
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: news
+aliases:
+- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_beneva-choisit-loutil-de-souscription-de-global-iqx-beneva
+tags:
+- raw-source
+- memory
+- clients
+- beneva
+- assurance
+- mutuelle
+- global
+- souscription
+- color-orange
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_beneva-choisit-loutil-de-souscription-de-global-iqx-beneva.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et
+  française — Keck 2002 (Methodos)]]'
+- '[[wiki/Research and Papers MOC]]'
+source_url: https://www.beneva.ca/fr/salle-presse/beneva-choisit-outil-souscription-global-iqx
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: news
 ---
 
 # Beneva choisit l’outil de souscription de Global IQX | Beneva

@@ -1,10 +1,42 @@
 ---
 type: wiki
-aliases: [Literary Idioms Book, Phrase Origin Book Assessment]
-tags: [publishing, editorial, popular-nonfiction, etymology, writing-projects]
+title: Publisher Assessment — Literary Idioms and Phrase-Origin Book
+aliases:
+- Literary Idioms Book
+- Phrase Origin Book Assessment
+- wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book
+tags:
+- publishing
+- editorial
+- popular-nonfiction
+- etymology
+- writing-projects
+- wiki
+- publisher-assessment-literary-idioms-and-phrase-origin-book-md
+- nautical
+- phrase
+- shakespeare
+- aesop
+- sporting
+- color-orange
 status: active
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book.md
+backlink_count: 11
+backlinks:
+- '[[wiki/Literary References in Common English — Allusion and Idiom Guide]]'
+- '[[wiki/Literary References — Craft Guide]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/daily/2026-06-22]]'
+- '[[memory/daily/2026-06-23]]'
+- '[[memory/daily/2026-06-24]]'
+- '[[memory/daily/2026-06-25]]'
+- '[[memory/daily/2026-06-26]]'
+- '[[wiki/skills/publisher]]'
 ---
 
 # Publisher Assessment — Literary Idioms and Phrase-Origin Book

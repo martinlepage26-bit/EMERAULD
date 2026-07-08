@@ -1,38 +1,69 @@
 ---
+type: agent-spec
+title: Hephaistos — Tier 0 Forging Agent
+aliases:
+- Hephaistos — Tier 0 Forging Agent
+- hephaistos/agents/hephaistos
+tags:
+- agents
+- ai
+- hephaistos
+- agent-spec
+- agent
+- scientific
+- task
+- owner
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: hephaistos
+canonical_path: hephaistos/agents/hephaistos.md
+backlink_count: 6
+backlinks:
+- '[[.github/agents/hephaistos.agent]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/global/HEPHAISTOS-STATUS]]'
+- '[[governance/hephaistos/hephaistos-to-queen-keyport]]'
 name: hephaistos
-description: Tier 0 forging and scope-definition agent in Martin's three-agent architecture. Use for task shaping, artifact design, skill composition, and scope handoff into Queen Keyport governance and Hermes routing.
+description: Tier 0 forging and scope-definition agent in Martin's three-agent architecture.
+  Use for task shaping, artifact design, skill composition, and scope handoff into
+  Queen Keyport governance and Hermes routing.
 model: sonnet
-tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
+tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite,
+  TaskCreate, TaskUpdate, TaskGet, TaskList
 skills:
-  - architecture
-  - ai-agents-architect
-  - agent-development
-  - ai-product
-  - database-schema-designer
-  - research-grants
-  - philosopher
-  - fully-rounded-power-analyst
-  - recursive-governance-method
-  - trace-investigator
-  - humanize
-  - red-team
-  - qualitative
-  - senior-data-scientist
-  - agent-evaluation
-  - peer-reviewed-paper-writer
-  - publisher
-  - novelist
-  - scientific-brainstorming
-  - scientific-writing
-  - scientific-visualization
-  - writing-skills
-  - naming-analyzer
-  - prompt-engineer
-  - brand-identity-system
-  - skill-architect
-  - skill-pairing
-  - speech
-  - triangulation
+- architecture
+- ai-agents-architect
+- agent-development
+- ai-product
+- database-schema-designer
+- research-grants
+- philosopher
+- fully-rounded-power-analyst
+- recursive-governance-method
+- trace-investigator
+- humanize
+- red-team
+- qualitative
+- senior-data-scientist
+- agent-evaluation
+- peer-reviewed-paper-writer
+- publisher
+- novelist
+- scientific-brainstorming
+- scientific-writing
+- scientific-visualization
+- writing-skills
+- naming-analyzer
+- prompt-engineer
+- brand-identity-system
+- skill-architect
+- skill-pairing
+- speech
+- triangulation
 ---
 
 # Hephaistos — Tier 0 Forging Agent

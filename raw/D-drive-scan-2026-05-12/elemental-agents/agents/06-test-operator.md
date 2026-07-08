@@ -1,3 +1,31 @@
+---
+type: raw-source
+title: Test Operator
+aliases:
+- raw/D-drive-scan-2026-05-12/elemental-agents/agents/06-test-operator
+tags:
+- raw
+- agents
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- commands
+- command
+- validation
+- pair
+- retests
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/elemental-agents/agents/06-test-operator.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/04-execution-loop]]'
+---
+
 # Test Operator
 
 See also [[04-execution-loop]].

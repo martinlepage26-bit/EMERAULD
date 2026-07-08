@@ -1,3 +1,29 @@
+---
+type: note
+title: Canonical Paper Corpus Structure
+aliases:
+- tmp/drive-audit-2026-04-18/corpus_structure
+tags:
+- note
+- paper
+- tmp
+- drive-audit-2026-04-18
+- gdoc
+- manuscript
+- archive
+- anxiety
+- color-orange
+status: temporary
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: tmp
+canonical_path: tmp/drive-audit-2026-04-18/corpus_structure.md
+backlink_count: 2
+backlinks:
+- '[[wiki/APEX Papers — Research Archive Map]]'
+- '[[wiki/Research and Papers MOC]]'
+---
+
 # Canonical Paper Corpus Structure
 Generated: 2026-04-18
 

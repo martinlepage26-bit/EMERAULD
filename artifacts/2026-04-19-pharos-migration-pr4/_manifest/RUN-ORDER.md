@@ -1,8 +1,30 @@
 ---
 type: runbook
+title: 'RUN ORDER — L99 PHAROS Migration + PR #4'
+aliases:
+- artifacts/2026-04-19-pharos-migration-pr4/_manifest/RUN-ORDER
+tags:
+- runbook
+- artifacts
+- 2026-04-19-pharos-migration-pr4
+- backend
+- bundle
+- hardening
+- deploy
+- railway
+- color-green
+status: active
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/2026-04-19-pharos-migration-pr4/_manifest/RUN-ORDER.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 level: L99
 bundle: pharos-migration-pr4
-date: 2026-04-19
+date: '2026-04-19'
 ---
 
 # RUN ORDER — L99 PHAROS Migration + PR #4

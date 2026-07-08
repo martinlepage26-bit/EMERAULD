@@ -1,0 +1,81 @@
+[
+  {
+    "verdict": "confirmed",
+    "title": "Unbounded infinite loop via unvalidated circular task dependencies in WorkflowExecutor",
+    "description": "WorkflowExecutor.execute_workflow() enters an unbounded, unrecoverable busy loop when a workflow contains a task whose dependencies reference itself, or a set of tasks whose dependencies form a cycle with no independent (zero-dependency) task present. add_task() performs no validation of the dependencies list. _get_ready_tasks() computes readiness via `all(dep in executed for dep in task.dependencies)`, which is always False for a self-referential or cyclic set since the task can never appear in the executed set before becoming ready. The execution loop's only non-completion exit path, `if not ready_tasks: if len(executed_tasks) > 0: break`, never fires because executed_tasks never grows past zero. Reproduced live: both the self-reference variant and the two-task mutual-cycle variant were run against the actual file wrapped in a 3-second external timeout; both were killed (exit code 124), never reaching any statement after the execute_workflow call. No exception is raised, no counter limits iterations, and no timeout exists inside the function itself.",
+    "root_cause": "WorkflowExecutor.add_task in scripts/workflow_management.py does not validate that a task's dependencies list is free of self-reference or cycles, allowing execute_workflow's readiness loop to spin forever with no progress and no exit condition.",
+    "intended_behavior": "The developer intended a simple dependency-aware task scheduler: add_task registers tasks with optional dependency lists, and execute_workflow repeatedly polls for tasks whose dependencies have all completed, executing them until every task in the workflow has run. WorkflowOptimizer's separate analyze_dependencies/_find_parallel_groups methods suggest cycle-awareness was considered as a concept elsewhere in the file, but that analysis is never invoked by execute_workflow itself and would not prevent this even if it were, since it does not raise on a detected cycle.",
+    "trace": [
+      {
+        "kind": "entrypoint",
+        "file": "scripts/workflow_management.py",
+        "line": 74,
+        "scope": "add_task",
+        "description": "Caller supplies a dependencies list for a new task with no validation that it excludes the task's own id or forms a cycle with other tasks already in the workflow."
+      },
+      {
+        "kind": "propagation",
+        "file": "scripts/workflow_management.py",
+        "line": 164,
+        "scope": "_get_ready_tasks",
+        "description": "deps_met = all(dep in executed for dep in task.dependencies) evaluates False on every call for a self-referential or cyclic dependency set, so ready_tasks is [] every iteration."
+      },
+      {
+        "kind": "sink",
+        "file": "scripts/workflow_management.py",
+        "line": 112,
+        "scope": "execute_workflow",
+        "description": "while len(executed_tasks) < len(workflow.tasks) never terminates: the for-loop body over ready_tasks never executes (empty list), executed_tasks never grows past 0, so len(executed_tasks) > 0 is always False and the break at line 118-119 never fires."
+      }
+    ],
+    "conditions": [
+      {
+        "kind": "data_state",
+        "description": "Caller must construct a workflow containing at least one task whose dependencies list references itself, or a set of tasks whose combined dependencies form a cycle with no independent (zero-dependency) task among them."
+      }
+    ],
+    "execution": {
+      "attacker_perspective": "Any caller of the WorkflowExecutor API. This is an in-process Python library with no network or authentication surface (confirmed in Phase 1 architecture review), so the realistic actor is a local caller -- plausibly an LLM agent using this library to construct a workflow from task descriptions it doesn't fully control -- rather than a remote or privilege-escalating attacker. Impact is self-inflicted denial of service against the calling process.",
+      "payloads": [
+        "executor = WorkflowExecutor(); executor.create_workflow('w1','test'); executor.add_task('w1','t1','agent','task',dependencies=['t1']); executor.execute_workflow('w1', lambda task: 'done')",
+        "executor = WorkflowExecutor(); executor.create_workflow('w1','test'); executor.add_task('w1','t1','agent','task A',dependencies=['t2']); executor.add_task('w1','t2','agent','task B',dependencies=['t1']); executor.execute_workflow('w1', lambda task: 'done')"
+      ],
+      "instructions": [
+        "Import WorkflowExecutor from scripts/workflow_management.py.",
+        "Instantiate WorkflowExecutor and create a workflow via create_workflow.",
+        "Add a task whose dependencies list contains its own task_id (self-reference variant), or add two tasks whose dependencies lists reference each other with no independent task in the workflow (mutual-cycle variant).",
+        "Call execute_workflow with any executor_func.",
+        "Observe the call never returns."
+      ],
+      "expected_result": "The calling process hangs indefinitely inside execute_workflow, consuming CPU on a single thread, with no exception raised. Independently verified by running both payload variants wrapped in `timeout 3` -- both were killed by the OS (exit code 124), never reaching any code after the execute_workflow call."
+    },
+    "remediation": {
+      "strategy": "Validate at add_task time that a task's dependencies list does not contain its own task_id (O(1) check), and run a topological-sort / cycle-detection pass (e.g. Kahn's algorithm) across the full task set before execute_workflow begins iterating, raising a clear ValueError on a detected cycle instead of silently looping. Apply the same fix to WorkflowGraph.execute_dag in examples/orchestration_patterns.py, which has a related but distinct defect: it does not hang on a cycle, but silently returns partial/empty results with no error, which is also incorrect behavior for a workflow claiming to have executed.",
+      "code_changes": [
+        {
+          "file_name": "scripts/workflow_management.py",
+          "fixed_code": "def add_task(\n    self,\n    workflow_id: str,\n    task_id: str,\n    agent: str,\n    description: str,\n    dependencies: Optional[List[str]] = None,\n) -> Task:\n    \"\"\"Add task to workflow.\"\"\"\n    deps = dependencies or []\n    if task_id in deps:\n        raise ValueError(f\"Task {task_id!r} cannot depend on itself\")\n    task = Task(\n        task_id=task_id,\n        agent=agent,\n        description=description,\n        dependencies=deps,\n    )\n    self.workflows[workflow_id].tasks[task_id] = task\n    return task"
+        },
+        {
+          "file_name": "scripts/workflow_management.py",
+          "fixed_code": "def execute_workflow(\n    self, workflow_id: str, executor_func: Callable\n) -> Dict[str, Any]:\n    workflow = self.workflows[workflow_id]\n    # Fail closed on unresolvable dependencies before entering the polling loop.\n    all_ids = set(workflow.tasks.keys())\n    for task in workflow.tasks.values():\n        if task.task_id in task.dependencies:\n            raise ValueError(f\"Task {task.task_id!r} depends on itself\")\n        if not set(task.dependencies).issubset(all_ids):\n            raise ValueError(f\"Task {task.task_id!r} has an unknown dependency\")\n    reachable: set = set()\n    changed = True\n    while changed:\n        changed = False\n        for task in workflow.tasks.values():\n            if task.task_id not in reachable and set(task.dependencies).issubset(reachable):\n                reachable.add(task.task_id)\n                changed = True\n    if reachable != all_ids:\n        raise ValueError(\"Circular dependency detected in workflow; cannot execute\")\n    # ... existing body unchanged below this point"
+        }
+      ]
+    },
+    "severity": {
+      "likelihood": {
+        "score": "medium",
+        "reason": "Requires a specific data state (self-referential or cyclic dependency) that has zero barrier to construct once present -- there is no validation anywhere in the call path -- but does require a caller (human or LLM agent) to actually build such a dependency graph, whether by mistake or by processing untrusted task descriptions that induce one."
+      },
+      "impact": {
+        "score": "medium",
+        "reason": "Unbounded CPU-bound hang of the calling process with no recovery path from inside the function -- a genuine availability impact -- but strictly bounded to that single process. No confidentiality or integrity impact, no network or cross-privilege effect, since the package has no such surfaces (confirmed in Phase 1)."
+      },
+      "overall_severity": "medium"
+    },
+    "confidence": {
+      "score": "high",
+      "reason": "Reproduced live by independent adversarial review (a separate agent with no context from the original finding), not just traced statically -- both attack variants were executed against the real file with a timeout wrapper and confirmed to hang (process killed, exit code 124). All 7 files in the package were read in full; no missing files, no ambiguous routing, no parser/runtime behavior in question (plain CPython dict/set semantics)."
+    }
+  }
+]

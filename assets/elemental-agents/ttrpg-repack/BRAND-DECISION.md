@@ -1,8 +1,26 @@
 ---
 type: brand-decision
+title: Charge & Circle — Brand Decision Record
+aliases:
+- assets/elemental-agents/ttrpg-repack/BRAND-DECISION
+tags:
+- brand-decision
+- assets
+- elemental-agents
+- charge
+- circle
+- ttrpg
+- press
+- manifestation
+- color-orange
 status: locked-with-governance-first-pivot
-created: 2026-05-24
-updated: 2026-05-24
+created: '2026-05-24'
+updated: '2026-06-26'
+vault_area: assets
+canonical_path: assets/elemental-agents/ttrpg-repack/BRAND-DECISION.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 brand_name: Charge & Circle
 corpus_anchor: Martin Walks the Witches' Road — Corpus as Charge-Persistence
 product_identity: ritual governance framework (primary); hard-magic system (halo surface)

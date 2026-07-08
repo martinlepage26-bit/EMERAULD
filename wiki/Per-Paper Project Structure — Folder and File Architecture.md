@@ -1,10 +1,32 @@
 ---
 type: wiki
-aliases: ["Per-Paper Project Structure", "Paper Project Folders", "Scholarly Article Folder Structure"]
-tags: []
+title: Per-Paper Project Structure — Folder and File Architecture
+aliases:
+- Per-Paper Project Structure
+- Paper Project Folders
+- Scholarly Article Folder Structure
+- wiki/Per-Paper Project Structure — Folder and File Architecture
+tags:
+- wiki
+- per-paper-project-structure-folder-and-file-architecture-md
+- journal
+- abstract
+- citation
+- outline
+- paper
+- color-violet
 status: active
-created: 2026-05-31
-updated: 2026-05-31
+created: '2026-05-31'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Per-Paper Project Structure — Folder and File Architecture.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
+- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 # Per-Paper Project Structure — Folder and File Architecture

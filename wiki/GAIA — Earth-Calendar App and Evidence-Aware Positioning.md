@@ -1,10 +1,45 @@
 ---
 type: wiki
-aliases: ["GAIA", "GAIA app", "Earth-calendar app"]
-tags: [product, spiritual-tech, evidence-aware, calendar, PHAROS-adjacent]
+title: GAIA — Earth-Calendar App and Evidence-Aware Positioning
+aliases:
+- GAIA
+- GAIA app
+- Earth-calendar app
+- wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning
+tags:
+- product
+- spiritual-tech
+- evidence-aware
+- calendar
+- pharos-adjacent
+- wiki
+- gaia-earth-calendar-app-and-evidence-aware-positioning-md
+- gaia
+- elemental
+- spiritual
+- astrology
+- color-red
 status: active
-created: 2026-05-04
-updated: 2026-05-06
+created: '2026-05-04'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning.md
+backlink_count: 14
+backlinks:
+- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
+- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Host Environment — pharos-corpus-runner-01]]'
+- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[projects/GAIA — Fisher King Project State]]'
+- '[[session-state]]'
 ---
 
 # GAIA — Earth-Calendar App and Evidence-Aware Positioning

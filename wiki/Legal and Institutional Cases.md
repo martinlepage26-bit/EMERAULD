@@ -1,10 +1,50 @@
 ---
 type: map
+title: Legal and Institutional Cases
 aliases:
-  - TOPIC — Legal and Institutional Cases
-tags: [index, map, topic, legal, institutional, human-rights, governance]
-created: 2026-04-18
-updated: 2026-05-12
+- TOPIC — Legal and Institutional Cases
+- wiki/Legal and Institutional Cases
+tags:
+- index
+- map
+- topic
+- legal
+- institutional
+- human-rights
+- governance
+- wiki
+- legal-and-institutional-cases-md
+- complaint
+- stuttering
+- consent
+- color-purple
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Legal and Institutional Cases.md
+backlink_count: 18
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
+  (2026)]]'
+- '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
+- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
+  2024]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
+- '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-05-02]]'
 ---
 
 # Legal and Institutional Cases

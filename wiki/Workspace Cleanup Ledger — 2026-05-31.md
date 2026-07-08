@@ -1,3 +1,32 @@
+---
+type: project-state
+title: Workspace Cleanup Ledger — 2026-05-31
+aliases:
+- Workspace Cleanup Ledger — 2026-05-31
+- wiki/Workspace Cleanup Ledger — 2026-05-31
+tags:
+- project
+- project-state
+- wiki
+- workspace-cleanup-ledger-2026-05-31-md
+- uploads
+- workspaces
+- martin
+- queering
+- removed
+- color-green
+status: active
+created: '2026-05-31'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Workspace Cleanup Ledger — 2026-05-31.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
+- '[[wiki/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+---
+
 # Workspace Cleanup Ledger — 2026-05-31
 
 ## Scope

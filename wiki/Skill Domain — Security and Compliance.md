@@ -1,13 +1,41 @@
 ---
 type: wiki
+title: Skill Domain — Security and Compliance
 aliases:
-  - Security and Compliance domain
-  - Security skills domain
-  - Compliance skills hub
-tags: [skills, domain, hub, security, compliance, privacy, red-team, threat-model]
+- Security and Compliance domain
+- Security skills domain
+- Compliance skills hub
+- wiki/Skill Domain — Security and Compliance
+tags:
+- skills
+- domain
+- hub
+- security
+- compliance
+- privacy
+- red-team
+- threat-model
+- wiki
+- skill-domain-security-and-compliance-md
+- sentry
+- hacking
+- threat
+- bits
+- color-red
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Skill Domain — Security and Compliance.md
+backlink_count: 7
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Skill Domain — Security and Compliance

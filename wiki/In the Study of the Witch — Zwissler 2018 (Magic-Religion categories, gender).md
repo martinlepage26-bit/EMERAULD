@@ -1,10 +1,39 @@
 ---
 type: wiki
-aliases: ["Zwissler 2018 study of the witch", "In the Study of the Witch (Religions 2018)"]
-tags: [reference, witchcraft, magic, religion, gender, religious-studies, historiography, feminism]
+title: In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)
+aliases:
+- Zwissler 2018 study of the witch
+- In the Study of the Witch (Religions 2018)
+- wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)
+tags:
+- reference
+- witchcraft
+- magic
+- religion
+- gender
+- religious-studies
+- historiography
+- feminism
+- wiki
+- in-the-study-of-the-witch-zwissler-2018-magic-religion-categories-gender-md
+- religions
+- witch
+- frazer
+- color-violet
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories,
+  gender).md
+backlink_count: 5
+backlinks:
+- '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et
+  française — Keck 2002 (Methodos)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
 ---
 
 # In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)

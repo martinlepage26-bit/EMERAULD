@@ -1,10 +1,37 @@
 ---
 type: wiki
-aliases: ["Benford & Snow 2000 Framing", "Collective action frames review (Annual Review of Sociology)"]
-tags: [reference, sociology, social_movements, framing, collective_action, media]
+title: Framing Processes and Social Movements — Benford & Snow 2000
+aliases:
+- Benford & Snow 2000 Framing
+- Collective action frames review (Annual Review of Sociology)
+- wiki/Framing Processes and Social Movements — Benford & Snow 2000
+tags:
+- reference
+- sociology
+- social-movements
+- framing
+- collective-action
+- media
+- wiki
+- framing-processes-and-social-movements-benford-snow-2000-md
+- movements
+- processes
+- benford
+- snow
+- color-orange
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Framing Processes and Social Movements — Benford & Snow 2000.md
+backlink_count: 6
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Framing Processes and Social Movements — Benford & Snow 2000

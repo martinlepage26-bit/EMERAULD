@@ -1,10 +1,47 @@
 ---
 type: wiki
-aliases: ["Governance by Denial (Draft)", "Democratic Hollowing — Legibility Capacity Classification"]
-tags: [reference, governance, accountability, legibility, classification, capacity, audit]
+title: Governance by Denial — Legibility, Capacity, Classification (Draft)
+aliases:
+- Governance by Denial (Draft)
+- Democratic Hollowing — Legibility Capacity Classification
+- wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)
+tags:
+- reference
+- governance
+- accountability
+- legibility
+- classification
+- capacity
+- audit
+- wiki
+- governance-by-denial-legibility-capacity-classification-draft-md
+- hollowing
+- impunity
+- signaling
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Governance by Denial — Legibility, Capacity, Classification (Draft).md
+backlink_count: 15
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
+  Explanation)]]'
+- '[[wiki/Framing Processes and Social Movements — Benford & Snow 2000]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[wiki/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)]]'
+- '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Governance by Denial — Legibility, Capacity, Classification (Draft)

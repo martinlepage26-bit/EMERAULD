@@ -1,14 +1,44 @@
 ---
 type: wiki
+title: Skill Domain — Deployment and Infrastructure
 aliases:
-  - Deployment and Infrastructure domain
-  - Deployment skills domain
-  - Infrastructure skills hub
-  - DevOps hub
-tags: [skills, domain, hub, deployment, infrastructure, cloudflare, devops, backend, database]
+- Deployment and Infrastructure domain
+- Deployment skills domain
+- Infrastructure skills hub
+- DevOps hub
+- wiki/Skill Domain — Deployment and Infrastructure
+tags:
+- skills
+- domain
+- hub
+- deployment
+- infrastructure
+- cloudflare
+- devops
+- backend
+- database
+- wiki
+- skill-domain-deployment-and-infrastructure-md
+- automation
+- deploy
+- anything
+- netlify
+- color-green
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Skill Domain — Deployment and Infrastructure.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Skill Domain — Development and Testing]]'
+- '[[wiki/Skill Domain — Security and Compliance]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Skill Domain — Deployment and Infrastructure

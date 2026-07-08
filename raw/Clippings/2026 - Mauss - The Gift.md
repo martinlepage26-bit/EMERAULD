@@ -1,10 +1,31 @@
 ---
+type: raw-source
 title: Mauss - The Gift
+aliases:
+- raw/Clippings/2026 - Mauss - The Gift
+tags:
+- clippings
+- raw-source
+- raw
+- unpacked
+- recursotrue
+- recurso
+- pack
+- kingmalek
+- color-purple
+status: recovered
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Clippings/2026 - Mauss - The Gift.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
+- '[[wiki/Research and Papers MOC]]'
 year: 2026
 source_file: D-drive-dedup-manifest-2026-04-21.csv
 format: csv
-status: recovered
-tags: [-, clippings]
 ---
 
 # Mauss - The Gift

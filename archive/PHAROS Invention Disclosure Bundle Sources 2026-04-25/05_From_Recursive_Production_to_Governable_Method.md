@@ -1,3 +1,33 @@
+---
+type: archive-record
+title: 'From Recursive Production to Governable Method: A Comprehensive Account of
+  the PHAROS Research Program'
+aliases:
+- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05_From_Recursive_Production_to_Governable_Method
+tags:
+- archive
+- pharos
+- recursion
+- governance
+- archive-record
+- pharos-invention-disclosure-bundle-sources-2026-04-25
+- began
+- inquiry
+- method
+- recursive
+- mediated
+- color-purple
+status: archived
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05_From_Recursive_Production_to_Governable_Method.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+---
+
 # From Recursive Production to Governable Method: A Comprehensive Account of the PHAROS Research Program
 
 See also [[Research and Papers MOC]].

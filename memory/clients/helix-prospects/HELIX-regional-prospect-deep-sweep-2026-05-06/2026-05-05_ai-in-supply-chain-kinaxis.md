@@ -1,11 +1,30 @@
 ---
 type: raw-source
-source_url: https://www.kinaxis.com/en/ai-supply-chain
 title: AI in Supply Chain | Kinaxis
-date: 2025-09-10
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_ai-in-supply-chain-kinaxis
+tags:
+- raw-source
+- memory
+- clients
+- supply
+- lottie
+- maestro
+- kinaxis
+- chain
+- color-lime
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_ai-in-supply-chain-kinaxis.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+source_url: https://www.kinaxis.com/en/ai-supply-chain
+date: '2025-09-10'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # AI in Supply Chain | Kinaxis

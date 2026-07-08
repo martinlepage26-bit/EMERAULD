@@ -1,14 +1,42 @@
 ---
 type: wiki
+title: AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
+  (2026)
 aliases:
-  - "Centre de Sante Osman AI hallucination arbitration case"
-  - "Jeanniot hallucinated jurisprudence case"
-  - "Sheehan AI arbitration decision 2026"
-tags: [ai-governance, legal, arbitration, hallucination, evidence-discipline, quebec, case-study]
+- Centre de Sante Osman AI hallucination arbitration case
+- Jeanniot hallucinated jurisprudence case
+- Sheehan AI arbitration decision 2026
+- wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
+  (2026)
+tags:
+- ai-governance
+- legal
+- arbitration
+- hallucination
+- evidence-discipline
+- quebec
+- case-study
+- wiki
+- ai-hallucinated-arbitration-decision-centre-de-sante-osman-v-sante-quebec-2026-md
+- arbitrator
+- authorities
+- sante
+- color-purple
 status: active
-created: 2026-04-28
-updated: 2026-04-28
-source: "raw sources/2026-04-28_montreal-arbitrator-ai-hallucinated-cases.md"
+created: '2026-04-28'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman
+  v Sante Quebec (2026).md
+backlink_count: 6
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+source: raw sources/2026-04-28_montreal-arbitrator-ai-hallucinated-cases.md
 ---
 
 # AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)

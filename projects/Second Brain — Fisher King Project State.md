@@ -1,14 +1,37 @@
 ---
-title: "Second Brain — Fisher King Project State"
-created: "2026-05-07"
 type: project
-status: active
+title: Second Brain — Fisher King Project State
+aliases:
+- projects/Second Brain — Fisher King Project State
 tags:
-  - project
-  - fisher-king
-  - second-brain
-  - obsidian
-  - emerauld
+- project
+- fisher-king
+- second-brain
+- obsidian
+- emerauld
+- projects
+- second-brain-fisher-king-project-state-md
+- gumroad
+- product
+- brain
+- promo
+- color-orange
+status: in-progress
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: projects
+canonical_path: projects/Second Brain — Fisher King Project State.md
+backlink_count: 9
+backlinks:
+- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King Project Note Templates]]'
+- '[[Logs/2026-06-29]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Projects Hub]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/daily/2026-06-29]]'
+- '[[session-state]]'
 ---
 
 # Second Brain — Fisher King Project State
@@ -59,6 +82,7 @@ Heal. Keep EMERAULD active, but force every maintenance pass to name whether it 
 - Deep linking and topic-coverage passes strengthened the graph.
 - Sanitized zips and marketplace assets are ready; Gumroad listing and demo video remain open.
 - 2026-06-21: Significant healing pass — numeric taxonomy (00_–90_) retired, flat structure adopted, CLAUDE.md paths corrected for current host, duplicate raw\ sources/ removed, vector store rebuilt (901 notes), graph store rebuilt (901 nodes, 8672 edges), vault committed to GitHub (github.com/martinlepage26-bit/EMERAULD). This is the largest single maintenance pass in vault history.
+- 2026-06-29: Gumroad listing executed. Full description copy finalized and logged in [[artifacts/marketplace/promo/gumroad-listing]]. Clean upload zip built (assets/obsidian-agent-vault-2026-06-29.zip, 28K, 37 files, __pycache__ stripped, SHA256: 887c44f308a431fe7cb1ef8e6293c6f1b27940faf997985b97d7f2bfcfc7cc6c). Social launch copy ready at [[artifacts/marketplace/promo/social-posts]]. Action remaining: open gumroad.com, create product, paste copy, upload zip, publish. Social URL placeholder in posts: pharosml.gumroad.com/l/kvbhdo — replace with live URL after publish.
 
 ## Consequence Binding
 - What changes if we execute the next move? -> The second brain becomes either sharper for daily retrieval or closer to sale, instead of merely larger.
@@ -66,10 +90,10 @@ Heal. Keep EMERAULD active, but force every maintenance pass to name whether it 
 - Review/sign-off needed: Martin chooses whether the next second-brain move is product launch or internal retrieval hardening.
 
 ## Blockers
-- Gumroad listing not created.
-- HeyGen demo video incomplete.
-- Maintenance work can sprawl unless tied to a named output.
+- Gumroad product page not yet created (manual browser action — paste from [[artifacts/marketplace/promo/gumroad-listing]], upload assets/obsidian-agent-vault-2026-06-29.zip).
+- HeyGen demo video incomplete (non-blocking for launch).
+- After publishing: update social-posts.md URL placeholder (pharosml.gumroad.com/l/kvbhdo) with live Gumroad product URL.
 
 ## Next Synthesis Move
-The 2026-06-21 healing pass substantially reduced maintenance debt. Next: create the Gumroad listing from the launch kit, or record a short retrieval demo using the newly restructured EMERAULD as proof object. The vault is now clean enough to demo.
+Gumroad listing copy is finalized, clean zip is built, social posts are drafted. The only remaining action is the manual gumroad.com product creation (90 minutes). After publish: post the launch thread from [[artifacts/marketplace/promo/social-posts]] on X and LinkedIn.
 

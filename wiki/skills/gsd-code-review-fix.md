@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "gsd-code-review-fix"
-domain: "GSD Workflow"
+title: gsd-code-review-fix
+aliases:
+- skills/gsd-code-review-fix
+- wiki/skills/gsd-code-review-fix
+tags:
+- skill
+- wiki
+- skills
+- fixer
+- atomically
+- spawns
+- review
+- code
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/gsd-code-review-fix/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/gsd-code-review-fix.md
+backlink_count: 2
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+skill_id: gsd-code-review-fix
+domain: GSD Workflow
+codex_path: /home/cerebrhoe/.codex/skills/gsd-code-review-fix/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

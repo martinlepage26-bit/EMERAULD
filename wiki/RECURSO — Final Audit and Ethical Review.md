@@ -1,3 +1,78 @@
+---
+type: wiki
+title: RECURSO — Final Audit and Ethical Review
+aliases:
+- RECURSO — Final Audit and Ethical Review
+- wiki/RECURSO — Final Audit and Ethical Review
+tags:
+- wiki
+- recurso
+- recurso-final-audit-and-ethical-review-md
+- utilitarian
+- shadowmaster
+- virtue
+- deontological
+- ethical
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/RECURSO — Final Audit and Ethical Review.md
+backlink_count: 50
+backlinks:
+- '[[wiki/90-Day $1M Challenge — Status Report]]'
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[wiki/AurorA — COMPASSai Input Module]]'
+- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/CODEX Writing Projects Manifest]]'
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
+- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
+- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
+- '[[wiki/PHAROS Invention Disclosure]]'
+- '[[wiki/PHAROS Licensing Prospectus]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/PHAROS Recalibration — Unified Governance Architecture]]'
+- '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
+- '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
+- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
+- '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
+- '[[wiki/Red Team Handbook — Offensive Security Reference]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory]]'
+---
+
 # RECURSO — Final Audit and Ethical Review
 
 See also [[PHAROS AI and Ethics Submission — Architecture Paper]].

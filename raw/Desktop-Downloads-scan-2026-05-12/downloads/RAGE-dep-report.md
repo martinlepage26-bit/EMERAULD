@@ -1,3 +1,32 @@
+---
+type: raw-source
+title: Executive Summary
+aliases:
+- raw/Desktop-Downloads-scan-2026-05-12/downloads/RAGE-dep-report
+tags:
+- raw
+- intake
+- raw-source
+- desktop-downloads-scan-2026-05-12
+- rage
+- graph
+- artifact
+- embedding
+- semantic
+- color-teal
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Desktop-Downloads-scan-2026-05-12/downloads/RAGE-dep-report.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
+- '[[wiki/Research and Papers MOC]]'
+---
+
 # Executive Summary  
 The **Recursive Artifact Governance Engine (RAGE)** is a proposed infrastructure platform that tracks the complete reasoning chain of AI outputs through a graph database of *artifacts* (documents, prompts, model responses, critiques, etc.) and *transformation* edges (summarized_from, critiqued_by, amplified_by, etc.).  Instead of treating each AI output in isolation, RAGE records each intermediate step as a node in a property graph, enabling fine-grained lineage and semantic analysis. This makes it possible to answer audit-style queries (“*Why did the AI produce this recommendation?*”) by tracing back through the chain【33†L217-L223】【32†L19-L21】.  
 

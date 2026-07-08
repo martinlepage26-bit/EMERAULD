@@ -1,10 +1,29 @@
 ---
-title: Agent Logs Hub
-created: 2026-04-25
 type: hub
+title: Agent Logs Hub
+aliases:
+- Agent Logs Hub
+- wiki/Agent Logs Hub
 tags:
-  - hub
-  - logs
+- hub
+- logs
+- wiki
+- agent-logs-hub-md
+- nightly
+- weekly
+- ingest
+- tracker
+- color-orange
+status: active
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Agent Logs Hub.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Personal and Projects MOC]]'
 ---
 
 # Agent Logs Hub

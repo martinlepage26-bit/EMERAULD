@@ -1,13 +1,36 @@
 ---
 type: client
+title: Progression
 aliases:
-  - Progression client
-  - Progression diagnostic target
-tags: [client, prospect, pharos, active]
+- Progression client
+- Progression diagnostic target
+- memory/clients/Progression
+tags:
+- client
+- prospect
+- pharos
+- active
+- memory
+- clients
+- progression
+- diagnostic
+- payment
+- color-green
 status: active
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/Progression.md
+backlink_count: 7
+backlinks:
+- '[[wiki/CLIENT ACCOUNTS]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory]]'
+- '[[memory/daily/2026-04-19]]'
+- '[[templates/Invoice Template Pharos-AI]]'
 payment_status: not documented
-created: 2026-04-19
-updated: 2026-04-19
 ---
 
 # Progression

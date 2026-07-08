@@ -1,10 +1,41 @@
 ---
 type: wiki
-aliases: ["Hyland 2018 identity narratives", "ILCEA 31 2018 Hyland narrative identity"]
-tags: [reference, method, narrative, identity, academia, writing, genre, discourse-analysis]
+title: Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)
+aliases:
+- Hyland 2018 identity narratives
+- ILCEA 31 2018 Hyland narrative identity
+- wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)
+tags:
+- reference
+- method
+- narrative
+- identity
+- academia
+- writing
+- genre
+- discourse-analysis
+- wiki
+- narrative-identity-and-academic-storytelling-hyland-2018-ilcea-md
+- ilcea
+- acknowledgements
+- genres
+- webpages
+- legibility
+- color-blue
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA).md
+backlink_count: 7
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)

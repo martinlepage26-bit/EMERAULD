@@ -1,3 +1,32 @@
+---
+type: artifact
+title: How to Architect AI Agent Memory That Survives Context Window Limits
+aliases:
+- artifacts/marketplace/promo/devto-iter33-architecture-guide
+tags:
+- artifact
+- ai
+- agents
+- artifacts
+- marketplace
+- traversal
+- rejected
+- project
+- alternatives
+- zone
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/devto-iter33-architecture-guide.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # How to Architect AI Agent Memory That Survives Context Window Limits
 
 **Platform:** Dev.to  

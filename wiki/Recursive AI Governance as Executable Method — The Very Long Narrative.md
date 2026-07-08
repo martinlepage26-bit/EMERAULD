@@ -1,3 +1,40 @@
+---
+type: wiki
+title: Recursive AI Governance as Executable Method — The Very Long Narrative
+aliases:
+- Recursive AI Governance as Executable Method — The Very Long Narrative
+- wiki/Recursive AI Governance as Executable Method — The Very Long Narrative
+tags:
+- wiki
+- recursion
+- governance
+- ai
+- recursive-ai-governance-as-executable-method-the-very-long-narrative-md
+- method
+- recursive
+- governability
+- executable
+- protocolization
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Recursive AI Governance as Executable Method — The Very Long
+  Narrative.md
+backlink_count: 9
+backlinks:
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # Recursive AI Governance as Executable Method — The Very Long Narrative
 
 ## Summary

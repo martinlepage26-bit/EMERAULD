@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "figma-implement-design"
-domain: "Design and UX"
+title: figma-implement-design
+aliases:
+- skills/figma-implement-design
+- wiki/skills/figma-implement-design
+tags:
+- skill
+- wiki
+- skills
+- figma
+- implement
+- design
+- screenshots
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/figma-implement-design/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/figma-implement-design.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Design and UX]]'
+skill_id: figma-implement-design
+domain: Design and UX
+codex_path: /home/cerebrhoe/.codex/skills/figma-implement-design/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

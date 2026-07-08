@@ -1,3 +1,54 @@
+---
+type: wiki
+title: Ritual Machine Lab — Legitimacy Machines Introduction
+aliases:
+- Ritual Machine Lab — Legitimacy Machines Introduction
+- wiki/Ritual Machine Lab — Legitimacy Machines Introduction
+tags:
+- wiki
+- ritual
+- ritual-machine-lab-legitimacy-machines-introduction-md
+- chapter
+- technique
+- buffy
+- machine
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Ritual Machine Lab — Legitimacy Machines Introduction.md
+backlink_count: 27
+backlinks:
+- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
+- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
+- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
+- '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
+- '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Ritual Machine Lab — Legitimacy Machines Introduction
 
 See also [[Governance and PHAROS MOC]].

@@ -1,10 +1,31 @@
 ---
-phase: "01"
-name: "LightRAG Script Runtime Hardening"
-created: 2026-04-23
-updated: 2026-04-23
+type: project-planning
+title: Phase 1 Review Fix
+aliases:
+- .planning/phases/01-lightrag-script-runtime-hardening/01-REVIEW-FIX
+tags:
+- planning
+- project-planning
+- phases
+- scripts
+- wrapped
+- lightrag
+- finally
+- compile
+- color-orange
 status: fixed
-review_source: ".planning/phases/01-lightrag-script-runtime-hardening/01-REVIEW.md"
+created: '2026-04-23'
+updated: '2026-06-26'
+vault_area: .planning
+canonical_path: .planning/phases/01-lightrag-script-runtime-hardening/01-REVIEW-FIX.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[memory/agents/Events]]'
+phase: '01'
+name: LightRAG Script Runtime Hardening
+review_source: .planning/phases/01-lightrag-script-runtime-hardening/01-REVIEW.md
 ---
 
 # Phase 1 Review Fix

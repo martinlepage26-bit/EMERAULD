@@ -1,19 +1,55 @@
 ---
+type: agent-spec
+title: Argus — Meta‑Governance Auditor (Layer 9)
+aliases:
+- Argus — Meta‑Governance Auditor (Layer 9)
+- .github/agents/argus.agent
+tags:
+- agents
+- governance
+- argus
+- agent-spec
+- github
+- killcritic
+- remediation
+- executive
+- audit
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .github
+canonical_path: .github/agents/argus.agent.md
+backlink_count: 6
+backlinks:
+- '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/L99-DEMOTION-TO-ARGUS]]'
+- '[[hephaistos/agents/argus]]'
 name: argus
-description: "Meta‑governance auditor: run recursive audits of the three‑agent stack and detect provenance or authority drift. Use for audits, capture detection, and certification readiness checks."
-applyTo: ".github/agents/**"
+description: 'Meta‑governance auditor: run recursive audits of the three‑agent stack
+  and detect provenance or authority drift. Use for audits, capture detection, and
+  certification readiness checks.'
+applyTo: .github/agents/**
 model: sonnet
-tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
+tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite,
+  TaskCreate, TaskUpdate, TaskGet, TaskList
 allow_auto_create: false
 auto_run: weekly
 skills:
-  - three-agent-audit
-  - recursive-governance-method
-  - trace-investigator
-  - fully-rounded-power-analyst
-  - philosopher
-  - codex-review
-  - red-team
+- three-agent-audit
+- recursive-governance-method
+- trace-investigator
+- fully-rounded-power-analyst
+- philosopher
+- codex-review
+- red-team
+entity_type: Team
+entity_id: argus
+entity_aliases: []
+entity_confidence: high
 ---
 
 # Argus — Meta‑Governance Auditor (Layer 9)

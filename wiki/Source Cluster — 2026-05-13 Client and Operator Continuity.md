@@ -1,9 +1,46 @@
 ---
 type: source-cluster
-tags: [cluster, source-notes, 2026-05-13, henry, trismegiste]
+title: Source Cluster — 2026-05-13 Client and Operator Continuity
+aliases:
+- Source Cluster — 2026-05-13 Client and Operator Continuity
+- wiki/Source Cluster — 2026-05-13 Client and Operator Continuity
+tags:
+- cluster
+- source-notes
+- '2026-05-13'
+- henry
+- trismegiste
+- source-cluster
+- wiki
+- source-cluster-2026-05-13-client-and-operator-continuity-md
+- sources
+- client
+- source
+- keep
+- color-lime
 status: active
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Source Cluster — 2026-05-13 Client and Operator Continuity.md
+backlink_count: 12
+backlinks:
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Operator Continuity Memo — 2026-05-14]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
+- '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source
+  Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a
+  live X — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker
+  — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send —
+  Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/Email Député Guilbault AE — Source Note]]'
 cluster_id: client_ops
 ---
 

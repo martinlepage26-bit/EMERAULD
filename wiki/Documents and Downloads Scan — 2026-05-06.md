@@ -1,12 +1,41 @@
 ---
 type: intake-index
-aliases: ["Documents and Downloads scan 2026-05-06", "C drive Documents and Downloads text intake"]
-tags: [intake, documents, downloads, raw-sources, vault-maintenance, provenance]
+title: Documents and Downloads Scan — 2026-05-06
+aliases:
+- Documents and Downloads scan 2026-05-06
+- C drive Documents and Downloads text intake
+- wiki/Documents and Downloads Scan — 2026-05-06
+tags:
+- intake
+- documents
+- downloads
+- raw-sources
+- vault-maintenance
+- provenance
+- intake-index
+- wiki
+- documents-and-downloads-scan-2026-05-06-md
+- prompt
+- matrix
+- compta
+- color-lime
 status: active
-created: 2026-05-06
-updated: 2026-05-06
-source_roots: ["C:\\Users\\softinfo\\Documents", "C:\\Users\\softinfo\\Downloads"]
-raw_pack: "raw sources/Documents-Downloads-scan-2026-05-06/"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Documents and Downloads Scan — 2026-05-06.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Home]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+source_roots:
+- C:\Users\softinfo\Documents
+- C:\Users\softinfo\Downloads
+raw_pack: raw sources/Documents-Downloads-scan-2026-05-06/
 ---
 
 # Documents and Downloads Scan — 2026-05-06

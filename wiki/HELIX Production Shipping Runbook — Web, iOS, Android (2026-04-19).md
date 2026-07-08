@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: ["HELIX shipping instructions", "HELIX deployment runbook", "HELIX v0.1.0 release"]
-tags: [workflow, deliverable, deployment, helix, cloudflare-pages, eas, runbook, pharos-suite, mobile, web]
+title: HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)
+aliases:
+- HELIX shipping instructions
+- HELIX deployment runbook
+- HELIX v0.1.0 release
+- wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)
+tags:
+- workflow
+- deliverable
+- deployment
+- helix
+- cloudflare-pages
+- eas
+- runbook
+- pharos-suite
+- mobile
+- web
+- wiki
+- helix-production-shipping-runbook-web-ios-android-2026-04-19-md
+- android
+- shipping
+- color-teal
 status: active
-created: 2026-04-30
-updated: 2026-04-30
+created: '2026-04-30'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md
+backlink_count: 6
+backlinks:
+- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[projects/HELIX — Fisher King Project State]]'
 ---
 
 # HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)

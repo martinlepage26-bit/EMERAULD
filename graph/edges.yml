@@ -1,0 +1,1251 @@
+edges:
+  - id: e001
+    source: martin_lepage
+    relation: owns
+    target: pharos
+    confidence: high
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "founder of PHAROS (pharos-ai.ca)"
+    inferred: false
+    notes: ""
+  - id: e002
+    source: martin_lepage
+    relation: owns
+    target: emerauld_vault
+    confidence: high
+    evidence:
+      - file: "EMERAULD/CLAUDE.md"
+        note: "EMERAULD is Martin Lepage's external second brain"
+    inferred: false
+    notes: ""
+  - id: e_owns_aurora_product
+    source: martin_lepage
+    relation: owns
+    target: aurora_product
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_compassai
+    source: martin_lepage
+    relation: owns
+    target: compassai
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_echo_product
+    source: martin_lepage
+    relation: owns
+    target: echo_product
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_lotus_product
+    source: martin_lepage
+    relation: owns
+    target: lotus_product
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_scripto_dr_sort
+    source: martin_lepage
+    relation: owns
+    target: scripto_dr_sort
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_gaia_product
+    source: martin_lepage
+    relation: owns
+    target: gaia_product
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_helix_product
+    source: martin_lepage
+    relation: owns
+    target: helix_product
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_hexa_project
+    source: martin_lepage
+    relation: owns
+    target: hexa_project
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_broken_frequency_novel
+    source: martin_lepage
+    relation: owns
+    target: broken_frequency_novel
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_why_be_king_book
+    source: martin_lepage
+    relation: owns
+    target: why_be_king_book
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_rdaig_manuscript
+    source: martin_lepage
+    relation: owns
+    target: rdaig_manuscript
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_dast_project
+    source: martin_lepage
+    relation: owns
+    target: dast_project
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_recurso_framework
+    source: martin_lepage
+    relation: owns
+    target: recurso_framework
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_vigil_gsk
+    source: martin_lepage
+    relation: owns
+    target: vigil_gsk
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_spp_project
+    source: martin_lepage
+    relation: owns
+    target: spp_project
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_martin_govern_ai_site
+    source: martin_lepage
+    relation: owns
+    target: martin_govern_ai_site
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e_owns_pharos_newlook
+    source: martin_lepage
+    relation: owns
+    target: pharos_newlook
+    confidence: medium
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "listed under Martin's Projects table"
+    inferred: true
+    notes: "Table entry implies ownership; not an explicit 'owns' statement."
+  - id: e010
+    source: hephaistos
+    relation: talks_to
+    target: queen_keyport
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md"
+        note: "Hephaistos and Queen Keyport are co-equal authorities. Neither outranks the other."
+    inferred: false
+    notes: ""
+  - id: e011
+    source: queen_keyport
+    relation: talks_to
+    target: hephaistos
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md"
+        note: "co-equal, bidirectional"
+    inferred: false
+    notes: ""
+  - id: e012
+    source: trismegiste
+    relation: talks_to
+    target: argus
+    confidence: high
+    evidence:
+      - file: "EMERAULD/CLAUDE.md"
+        note: "Paired Audit Protocol: Trismégiste handles continuity/provenance, Argus handles coherence/authority mapping."
+    inferred: false
+    notes: ""
+  - id: e020
+    source: hephaistos
+    relation: runs
+    target: three_agent_handoff_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/THREE-AGENT-ARCHITECTURE.md"
+        note: "HEPHAISTOS forges (can run independently, feeds to Queen Keyport)"
+    inferred: false
+    notes: ""
+  - id: e021
+    source: queen_keyport
+    relation: runs
+    target: three_agent_handoff_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/THREE-AGENT-ARCHITECTURE.md"
+        note: "Queen Keyport governs (receives scope, synthesizes decision, feeds to Hermes)"
+    inferred: false
+    notes: ""
+  - id: e022
+    source: hermes
+    relation: runs
+    target: three_agent_handoff_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/THREE-AGENT-ARCHITECTURE.md"
+        note: "Hermes routes (receives decision, routes to systems, monitors)"
+    inferred: false
+    notes: ""
+  - id: e023
+    source: trismegiste
+    relation: runs
+    target: vault_workflow
+    confidence: high
+    evidence:
+      - file: "EMERAULD/CLAUDE.md"
+        note: "Core Workflow: Scan -> Verify -> Hard-move -> Synthesize -> Link -> Update session-state.md"
+    inferred: false
+    notes: ""
+  - id: e024
+    source: trismegiste
+    relation: runs
+    target: session_state_protocol_workflow
+    confidence: high
+    evidence:
+      - file: "EMERAULD/CLAUDE.md"
+        note: "These files are how Trismégiste persists across conversations."
+    inferred: false
+    notes: ""
+  - id: e025
+    source: hephaistos
+    relation: produces
+    target: hephaistos_to_qk_handoff_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/hephaistos-to-queen-keyport.md"
+        note: "origin_agent: HEPHAISTOS"
+    inferred: false
+    notes: ""
+  - id: e026
+    source: queen_keyport
+    relation: consumes
+    target: hephaistos_to_qk_handoff_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/hephaistos-to-queen-keyport.md"
+        note: "destination_agent: Queen Keyport"
+    inferred: false
+    notes: ""
+  - id: e027
+    source: queen_keyport
+    relation: produces
+    target: qk_to_hermes_handoff_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/queen-keyport-to-hermes.md"
+        note: "origin_agent: Queen Keyport"
+    inferred: false
+    notes: ""
+  - id: e028
+    source: hermes
+    relation: consumes
+    target: qk_to_hermes_handoff_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/queen-keyport-to-hermes.md"
+        note: "destination_agent: Hermes"
+    inferred: false
+    notes: ""
+  - id: e029
+    source: trismegiste
+    relation: produces
+    target: trismegiste_to_operator_delivery_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/trismegiste-to-operator.md"
+        note: "origin_agent: Trismégiste"
+    inferred: false
+    notes: ""
+  - id: e030
+    source: martin_lepage
+    relation: consumes
+    target: trismegiste_to_operator_delivery_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/trismegiste-to-operator.md"
+        note: "destination: Operator"
+    inferred: false
+    notes: ""
+  - id: e031
+    source: philosopher_right_arm
+    relation: triggers
+    target: right_arm_veto_procedure_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/right-arm-veto-authority.md"
+        note: "Philosopher | Wisdom Breach veto trigger"
+    inferred: false
+    notes: ""
+  - id: e032
+    source: power_analyst_right_arm
+    relation: triggers
+    target: right_arm_veto_procedure_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/right-arm-veto-authority.md"
+        note: "Power-Analyst | Structural Integrity veto trigger"
+    inferred: false
+    notes: ""
+  - id: e033
+    source: queen_keyport
+    relation: runs
+    target: right_arm_veto_procedure_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/right-arm-veto-authority.md"
+        note: "Queen Keyport synthesizes both inputs and decides."
+    inferred: false
+    notes: ""
+  - id: e034
+    source: hephaistos
+    relation: blocks
+    target: hermes
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/ORCHESTRATION.md"
+        note: "Hermes does not route work with an unresolved co-equal conflict."
+    inferred: false
+    notes: "Direct quote from ORCHESTRATION.md; confidence was originally set to medium only because the relation is conditional (fires during unresolved conflict), not because evidence was weak. Scope-bound, not universal."
+  - id: e035
+    source: hermes
+    relation: runs
+    target: coequal_conflict_resolution_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/ORCHESTRATION.md"
+        note: "On detecting a conflict... Hermes escalates back to both authorities"
+    inferred: false
+    notes: ""
+  - id: e036
+    source: martin_lepage
+    relation: runs
+    target: coequal_conflict_resolution_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md"
+        note: "The operator (Martin) is the arbiter of last resort."
+    inferred: false
+    notes: ""
+  - id: e040
+    source: coequal_conflict_resolution_workflow
+    relation: depends_on
+    target: right_arm_veto_procedure_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md"
+        note: "Arbitration Authority and Right-Arm Veto Supersession: operator arbitration > right-arm veto, scoped to the arbitrated task."
+    inferred: false
+    notes: ""
+  - id: e041
+    source: vector_store_system
+    relation: depends_on
+    target: embed_py
+    confidence: high
+    evidence:
+      - file: "EMERAULD/CLAUDE.md"
+        note: "Build the vector store: embed.py"
+    inferred: false
+    notes: ""
+  - id: e042
+    source: graph_store_system
+    relation: depends_on
+    target: build_wikilink_graph_py
+    confidence: high
+    evidence:
+      - file: "scripts/build_wikilink_graph.py"
+        note: "Build a deterministic Obsidian wikilink graph"
+    inferred: false
+    notes: ""
+  - id: e043
+    source: graphify_out_system
+    relation: depends_on
+    target: graphify_tool
+    confidence: high
+    evidence:
+      - file: "EMERAULD_OS_ARCHITECTURE.md"
+        note: "The 10,600-node semantic graph is the automated Domain layer."
+    inferred: false
+    notes: ""
+  - id: e044
+    source: lightrag_kg_system
+    relation: depends_on
+    target: ingest_py
+    confidence: high
+    evidence:
+      - file: "scripts/ingest.py"
+        note: "Ingest EMERAULD wiki/ notes into LightRAG knowledge graph."
+    inferred: false
+    notes: ""
+  - id: e045
+    source: aurora_product
+    relation: depends_on
+    target: cloudflare_stack
+    confidence: high
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "Cloudflare Workers/D1/R2/TypeScript stack + FastAPI+MongoDB Python backend."
+    inferred: false
+    notes: ""
+  - id: e046
+    source: compassai
+    relation: depends_on
+    target: aurora_product
+    confidence: high
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "Handoff from AurorA via shared/types/handoff-contract.ts."
+    inferred: false
+    notes: ""
+  - id: e047
+    source: pharos
+    relation: depends_on
+    target: pharos_suite_repo
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/AGENTS.md"
+        note: "pharos-suite is the canonical PHAROS repo and serves https://pharos-ai.ca."
+    inferred: false
+    notes: ""
+  - id: e050
+    source: embed_py
+    relation: produces
+    target: vector_store_system
+    confidence: high
+    evidence:
+      - file: "scripts/embed.py"
+        note: "Embeddings are saved to .vector_store/"
+    inferred: false
+    notes: ""
+  - id: e051
+    source: vsearch_py
+    relation: reads
+    target: vector_store_system
+    confidence: high
+    evidence:
+      - file: "scripts/vsearch.py"
+        note: "Semantic search over the EMERAULD wiki using the local vector store."
+    inferred: false
+    notes: ""
+  - id: e052
+    source: build_wikilink_graph_py
+    relation: produces
+    target: graph_store_system
+    confidence: high
+    evidence:
+      - file: "scripts/build_wikilink_graph.py"
+        note: "Build a deterministic Obsidian wikilink graph"
+    inferred: false
+    notes: ""
+  - id: e053
+    source: graphify_tool
+    relation: produces
+    target: graphify_out_system
+    confidence: high
+    evidence:
+      - file: "EMERAULD_OS_ARCHITECTURE.md"
+        note: "graphify update . repairs paths instantly without losing the semantic map."
+    inferred: false
+    notes: ""
+  - id: e054
+    source: ingest_py
+    relation: writes
+    target: lightrag_kg_system
+    confidence: high
+    evidence:
+      - file: "scripts/ingest.py"
+        note: "Ingest EMERAULD wiki/ notes into LightRAG knowledge graph."
+    inferred: false
+    notes: ""
+  - id: e055
+    source: query_py
+    relation: reads
+    target: lightrag_kg_system
+    confidence: high
+    evidence:
+      - file: "scripts/query.py"
+        note: "Query the EMERAULD knowledge graph via LightRAG."
+    inferred: false
+    notes: ""
+  - id: e056
+    source: verify_and_hardmove_py
+    relation: writes
+    target: raw_intake_dataset
+    confidence: high
+    evidence:
+      - file: "EMERAULD/CLAUDE.md"
+        note: "raw/ — canonical intake lane for newly scanned and verified source files (hard-move destination)"
+    inferred: false
+    notes: "Corrected 2026-07-02: raw/ and raw sources/ are two different directories (CLAUDE.md lines 122-123); verify_and_hardmove_to_raw.py's hard-move target is raw/, not the legacy raw sources/ intake lane."
+  - id: e057
+    source: trismegiste
+    relation: writes
+    target: wiki_corpus_dataset
+    confidence: high
+    evidence:
+      - file: "EMERAULD/CLAUDE.md"
+        note: "Create or update wiki notes in wiki/, ensuring the Linking Rule"
+    inferred: false
+    notes: ""
+  - id: e058
+    source: trismegiste
+    relation: writes
+    target: session_state_registers_dataset
+    confidence: high
+    evidence:
+      - file: "EMERAULD/CLAUDE.md"
+        note: "Maintain session-state.md and memory.md with decisions, active threads"
+    inferred: false
+    notes: ""
+  - id: e059
+    source: archive_register_py
+    relation: transforms
+    target: session_state_registers_dataset
+    confidence: high
+    evidence:
+      - file: "scripts/archive_register.py"
+        note: "Archive EMERAULD vault registers when they exceed their line thresholds."
+    inferred: false
+    notes: ""
+  - id: e060
+    source: enrich_frontmatter_backlinks_py
+    relation: transforms
+    target: wiki_corpus_dataset
+    confidence: high
+    evidence:
+      - file: "scripts/enrich_frontmatter_backlinks.py"
+        note: "Enrich EMERAULD Markdown frontmatter with deterministic backlink metadata."
+    inferred: false
+    notes: ""
+  - id: e061
+    source: resolve_orphans_py
+    relation: reads
+    target: wiki_corpus_dataset
+    confidence: high
+    evidence:
+      - file: "scripts/resolve_orphans.py"
+        note: "Resolve/report orphaned notes"
+    inferred: false
+    notes: ""
+  - id: e_vm_intake_triager_raw_archivist
+    source: intake_triager
+    relation: triggers
+    target: raw_archivist
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Vault maintenance route"
+    inferred: false
+    notes: ""
+  - id: e_vm_uses_intake_triager
+    source: vault_maintenance_pipeline_workflow
+    relation: uses
+    target: intake_triager
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Vault maintenance pipeline step"
+    inferred: false
+    notes: ""
+  - id: e_vm_raw_archivist_synthesis_editor
+    source: raw_archivist
+    relation: triggers
+    target: synthesis_editor
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Vault maintenance route"
+    inferred: false
+    notes: ""
+  - id: e_vm_uses_raw_archivist
+    source: vault_maintenance_pipeline_workflow
+    relation: uses
+    target: raw_archivist
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Vault maintenance pipeline step"
+    inferred: false
+    notes: ""
+  - id: e_vm_synthesis_editor_metadata_link_warden
+    source: synthesis_editor
+    relation: triggers
+    target: metadata_link_warden
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Vault maintenance route"
+    inferred: false
+    notes: ""
+  - id: e_vm_uses_synthesis_editor
+    source: vault_maintenance_pipeline_workflow
+    relation: uses
+    target: synthesis_editor
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Vault maintenance pipeline step"
+    inferred: false
+    notes: ""
+  - id: e_vm_metadata_link_warden_graph_retrieval_cartographer
+    source: metadata_link_warden
+    relation: triggers
+    target: graph_retrieval_cartographer
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Vault maintenance route"
+    inferred: false
+    notes: ""
+  - id: e_vm_uses_metadata_link_warden
+    source: vault_maintenance_pipeline_workflow
+    relation: uses
+    target: metadata_link_warden
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Vault maintenance pipeline step"
+    inferred: false
+    notes: ""
+  - id: e_vm_uses_last
+    source: vault_maintenance_pipeline_workflow
+    relation: uses
+    target: graph_retrieval_cartographer
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Vault maintenance pipeline final step"
+    inferred: false
+    notes: ""
+  - id: e_ctm_graph_retrieval_cartographer_demand_scout
+    source: graph_retrieval_cartographer
+    relation: triggers
+    target: demand_scout
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Content-to-market route"
+    inferred: false
+    notes: ""
+  - id: e_ctm_demand_scout_rights_policy_warden
+    source: demand_scout
+    relation: triggers
+    target: rights_policy_warden
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Content-to-market route"
+    inferred: false
+    notes: ""
+  - id: e_ctm_rights_policy_warden_offer_pricing_architect
+    source: rights_policy_warden
+    relation: triggers
+    target: offer_pricing_architect
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Content-to-market route"
+    inferred: false
+    notes: ""
+  - id: e_ctm_offer_pricing_architect_listing_creative_director
+    source: offer_pricing_architect
+    relation: triggers
+    target: listing_creative_director
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Content-to-market route"
+    inferred: false
+    notes: ""
+  - id: e_ctm_listing_creative_director_marketplace_dispatcher
+    source: listing_creative_director
+    relation: triggers
+    target: marketplace_dispatcher
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Content-to-market route"
+    inferred: false
+    notes: ""
+  - id: e_ctm_uses_graph_retrieval_cartographer
+    source: content_to_market_pipeline_workflow
+    relation: uses
+    target: graph_retrieval_cartographer
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Content-to-market pipeline step"
+    inferred: false
+    notes: ""
+  - id: e_ctm_uses_demand_scout
+    source: content_to_market_pipeline_workflow
+    relation: uses
+    target: demand_scout
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Content-to-market pipeline step"
+    inferred: false
+    notes: ""
+  - id: e_ctm_uses_rights_policy_warden
+    source: content_to_market_pipeline_workflow
+    relation: uses
+    target: rights_policy_warden
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Content-to-market pipeline step"
+    inferred: false
+    notes: ""
+  - id: e_ctm_uses_offer_pricing_architect
+    source: content_to_market_pipeline_workflow
+    relation: uses
+    target: offer_pricing_architect
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Content-to-market pipeline step"
+    inferred: false
+    notes: ""
+  - id: e_ctm_uses_listing_creative_director
+    source: content_to_market_pipeline_workflow
+    relation: uses
+    target: listing_creative_director
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Content-to-market pipeline step"
+    inferred: false
+    notes: ""
+  - id: e_ctm_uses_marketplace_dispatcher
+    source: content_to_market_pipeline_workflow
+    relation: uses
+    target: marketplace_dispatcher
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Content-to-market pipeline step"
+    inferred: false
+    notes: ""
+  - id: e_pl_1
+    source: revenue_support_optimizer
+    relation: triggers
+    target: offer_pricing_architect
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Post-launch learning loop"
+    inferred: false
+    notes: ""
+  - id: e_pl_2
+    source: revenue_support_optimizer
+    relation: triggers
+    target: listing_creative_director
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Post-launch learning loop"
+    inferred: false
+    notes: ""
+  - id: e_pl_3
+    source: revenue_support_optimizer
+    relation: triggers
+    target: marketplace_dispatcher
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Post-launch learning loop"
+    inferred: false
+    notes: ""
+  - id: e_pl_4
+    source: revenue_support_optimizer
+    relation: triggers
+    target: demand_scout
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Post-launch learning loop"
+    inferred: false
+    notes: ""
+  - id: e_pl_5
+    source: post_launch_learning_loop_workflow
+    relation: uses
+    target: revenue_support_optimizer
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Post-launch learning loop owner"
+    inferred: false
+    notes: ""
+  - id: e070
+    source: patricia
+    relation: talks_to
+    target: martin_lepage
+    confidence: high
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "Internal relay at Groupe Lavoie... relays to Martin. Does not initiate outreach."
+    inferred: false
+    notes: ""
+  - id: e071
+    source: patricia
+    relation: reports_to
+    target: groupe_lavoie_client
+    confidence: high
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "Internal relay at Groupe Lavoie"
+    inferred: false
+    notes: "Quote directly supports an internal-relay role at Lavoie; 'reports_to' captures the relay function, not formal employment."
+  - id: e072
+    source: israel_lavoie
+    relation: owns
+    target: groupe_lavoie_client
+    confidence: high
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "Israël Lavoie | Groupe Lavoie — grand patron, visionnaire, autodidacte."
+    inferred: false
+    notes: ""
+  - id: e073
+    source: guillaume_lavoie
+    relation: owns
+    target: groupe_lavoie_client
+    confidence: high
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "Guillaume Lavoie | Groupe Lavoie — co-owner, signs gate A5"
+    inferred: false
+    notes: ""
+  - id: e074
+    source: guillaume_lavoie
+    relation: triggers
+    target: lavoie_gates_workflow
+    confidence: high
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "signs gate A5 (zones/services list)"
+    inferred: false
+    notes: ""
+  - id: e075
+    source: groupe_lavoie_client
+    relation: depends_on
+    target: lavoie_gates_workflow
+    confidence: high
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "A1–A5 | Lavoie client gate prerequisites"
+    inferred: false
+    notes: ""
+  - id: e076
+    source: jade
+    relation: implements
+    target: groupe_lavoie_client
+    confidence: high
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "Jade | Base44 developer. Handoff at Lavoie/jade-base44-handoff.md (3 apps, specs, acceptance criteria)"
+    inferred: false
+    notes: "Corrected 2026-07-02: handoff path is under Lavoie/, not GAIA. Original edge (jade -> gaia_product) was a wrong inference."
+  - id: e077
+    source: martin_lepage
+    relation: owns
+    target: groupe_lavoie_client
+    confidence: high
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "Groupe Lavoie | Active PHAROS client"
+    inferred: false
+    notes: ""
+  - id: e078
+    source: hermes_dashboard_tool
+    relation: documents
+    target: groupe_lavoie_client
+    confidence: high
+    evidence:
+      - file: "memory/clients/Lavoie Construct.md"
+        note: "managed through the Hermes Dashboard — Professional Governance Tool client lane"
+    inferred: false
+    notes: ""
+  - id: e080
+    source: henry
+    relation: references
+    target: hephaistos
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/AGENTS.md"
+        note: "Reference docs HENRY consults from HEPHAISTOS: HEPHAISTOS.md, HEPHAISTOS_OPERATIONS.md, DIAMOND-EYES.md, hephaistos-to-queen-keyport.md"
+    inferred: false
+    notes: ""
+  - id: e081
+    source: gadget
+    relation: references
+    target: hephaistos
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/AGENTS.md"
+        note: "Reference docs Gadget consults from HEPHAISTOS: HEPHAISTOS.md, HEPHAISTOS_OPERATIONS.md, QUEEN-KEYPORT.md"
+    inferred: false
+    notes: ""
+  - id: e082
+    source: argus
+    relation: documents
+    target: hephaistos
+    confidence: high
+    evidence:
+      - file: ".github/agents/argus.agent.md"
+        note: "Run recursive audits (three-agent-audit) across Hephaistos, Queen Keyport, and Hermes"
+    inferred: false
+    notes: ""
+  - id: e083
+    source: argus
+    relation: documents
+    target: queen_keyport
+    confidence: high
+    evidence:
+      - file: ".github/agents/argus.agent.md"
+        note: "Run recursive audits across Hephaistos, Queen Keyport, and Hermes"
+    inferred: false
+    notes: ""
+  - id: e084
+    source: argus
+    relation: documents
+    target: hermes
+    confidence: high
+    evidence:
+      - file: ".github/agents/argus.agent.md"
+        note: "Run recursive audits across Hephaistos, Queen Keyport, and Hermes"
+    inferred: false
+    notes: ""
+  - id: e085
+    source: queen_keyport
+    relation: documents
+    target: henry
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/AGENTS.md"
+        note: "Queen Keyport may observe specialist outputs and flag governance/security/ethical concerns to the Operator. Queen Keyport cannot directly override or require changes to a specialist's work."
+    inferred: false
+    notes: "Corrected 2026-07-02: source text describes flag-only oversight routed to the Operator, not direct QK<->specialist dialogue. 'talks_to' overstated it; 'documents' (observes/flags) matches the quote."
+  - id: e086
+    source: queen_keyport
+    relation: documents
+    target: gadget
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/AGENTS.md"
+        note: "Queen Keyport may observe specialist outputs and flag governance/security/ethical concerns to the Operator. Queen Keyport cannot directly override or require changes to a specialist's work."
+    inferred: false
+    notes: "Corrected 2026-07-02: source text describes flag-only oversight routed to the Operator, not direct QK<->specialist dialogue. 'talks_to' overstated it; 'documents' (observes/flags) matches the quote."
+  - id: e090
+    source: coequal_authority_decision
+    relation: implements
+    target: three_agent_handoff_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md"
+        note: "Supersedes prior Tier 0 / Tier 1 hierarchy framing."
+    inferred: false
+    notes: ""
+  - id: e091
+    source: coequal_authority_decision
+    relation: documents
+    target: hephaistos
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md"
+        note: "Hephaistos holds authority over artifact definition..."
+    inferred: false
+    notes: ""
+  - id: e092
+    source: coequal_authority_decision
+    relation: documents
+    target: queen_keyport
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md"
+        note: "Queen Keyport holds authority over governance constraints..."
+    inferred: false
+    notes: ""
+  - id: e093
+    source: l99_demotion_to_argus_decision
+    relation: implements
+    target: argus
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/AGENTS.md"
+        note: "L99 is not listed here; it operates as an Argus audit criterion."
+    inferred: false
+    notes: ""
+  - id: e094
+    source: specialist_guideline_authority_decision
+    relation: documents
+    target: henry
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/AGENTS.md"
+        note: "binding/advisory distinction... Full enumeration: SPECIALIST-GUIDELINE-AUTHORITY.md"
+    inferred: false
+    notes: ""
+  - id: e095
+    source: specialist_guideline_authority_decision
+    relation: documents
+    target: gadget
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/AGENTS.md"
+        note: "binding/advisory distinction... Full enumeration: SPECIALIST-GUIDELINE-AUTHORITY.md"
+    inferred: false
+    notes: ""
+  - id: e096
+    source: coequal_authority_decision
+    relation: documents
+    target: wave2_gate_decision
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md"
+        note: "Wave 2 gate decision (operator, 2026-04-18): Registration of Wave 2 skills in SKILL-MAP.md does not constitute the evaluation event the gate governs."
+    inferred: false
+    notes: "Corrected 2026-07-02: the Wave 2 gate is a clause inside CO-EQUAL-AUTHORITY-DECISION.md, not an independent decision blocking it. 'documents' (parent contains sub-clause) replaces the confusing reversed 'blocks' relation."
+  - id: e100
+    source: pharos
+    relation: deploys_to
+    target: cloudflare_stack
+    confidence: high
+    evidence:
+      - file: "root CLAUDE.md"
+        note: "Cloudflare Workers / D1 / R2 / Pages"
+    inferred: false
+    notes: ""
+  - id: e101
+    source: right_arm_extension_decision
+    relation: documents
+    target: hephaistos
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION.md"
+        note: "Hephaistos may consult Philosopher and Power-Analyst on a case-triggered basis when forging scope has normative or power implications. Consultation is advisory, not binding."
+    inferred: false
+    notes: ""
+  - id: e102
+    source: right_arm_extension_decision
+    relation: documents
+    target: hermes
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION.md"
+        note: "Hermes may consult Philosopher or Power-Analyst as an exception escalation path when routing reveals information not available at the governance decision time."
+    inferred: false
+    notes: ""
+  - id: e103
+    source: martin_lepage
+    relation: owns
+    target: right_arm_extension_decision
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION.md"
+        note: "Decision date: 2026-04-18. Authority: Operator (Martin)."
+    inferred: false
+    notes: ""
+  - id: e104
+    source: hephaistos
+    relation: references
+    target: philosopher_right_arm
+    confidence: medium
+    evidence:
+      - file: "governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION.md"
+        note: "Hephaistos may consult Philosopher and Power-Analyst on a case-triggered basis..."
+    inferred: true
+    notes: "Case-triggered, advisory only — not a standing relationship."
+  - id: e105
+    source: hephaistos
+    relation: references
+    target: power_analyst_right_arm
+    confidence: medium
+    evidence:
+      - file: "governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION.md"
+        note: "Hephaistos may consult Philosopher and Power-Analyst on a case-triggered basis..."
+    inferred: true
+    notes: "Case-triggered, advisory only — not a standing relationship."
+  - id: e106
+    source: hermes
+    relation: references
+    target: philosopher_right_arm
+    confidence: medium
+    evidence:
+      - file: "governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION.md"
+        note: "Hermes may consult Philosopher or Power-Analyst as an exception escalation path..."
+    inferred: true
+    notes: "Exception-only escalation, not routine."
+  - id: e107
+    source: hermes
+    relation: references
+    target: power_analyst_right_arm
+    confidence: medium
+    evidence:
+      - file: "governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION.md"
+        note: "Hermes may consult Philosopher or Power-Analyst as an exception escalation path..."
+    inferred: true
+    notes: "Exception-only escalation, not routine."
+  - id: e108
+    source: content_to_market_pipeline_workflow
+    relation: uses
+    target: content_inventory_cartographer
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/README.md"
+        note: "Content-to-market pipeline: graph-retrieval-cartographer or content-inventory-cartographer -> demand-scout -> ..."
+    inferred: false
+    notes: "Alternate entry point to the same pipeline; missed in the first pass which only modeled the graph-retrieval-cartographer branch."
+  - id: e109
+    source: auto_tagger_py
+    relation: transforms
+    target: wiki_corpus_dataset
+    confidence: high
+    evidence:
+      - file: "scripts/auto_tagger.py"
+        note: "Pass 2: compute TF-IDF and update frontmatter (reads wiki note bodies, writes tags back via path.write_text)"
+    inferred: false
+    notes: ""
+  - id: e110
+    source: ingest_py
+    relation: depends_on
+    target: lightrag_config_py
+    confidence: high
+    evidence:
+      - file: "scripts/lightrag_config.py"
+        note: "LightRAG configuration for EMERAULD vault. LLM: OpenRouter when OPENROUTER_API_KEY is set; otherwise Claude via Anthropic. Embeddings: sentence-transformers/all-MiniLM-L6-v2."
+    inferred: false
+    notes: ""
+  - id: e111
+    source: query_py
+    relation: depends_on
+    target: lightrag_config_py
+    confidence: high
+    evidence:
+      - file: "scripts/lightrag_config.py"
+        note: "LightRAG configuration for EMERAULD vault (shared by ingest.py and query.py)"
+    inferred: false
+    notes: ""
+  - id: e112
+    source: trismegiste
+    relation: runs
+    target: emerauld_intake_rule_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/AGENTS.md"
+        note: "scan broadly, verify first..., hard-move verified source files..., then produce wiki synthesis + graph linking + verified vs inferred reporting. fail closed..."
+    inferred: false
+    notes: ""
+  - id: e113
+    source: hephaistos
+    relation: documents
+    target: emerauld_intake_rule_workflow
+    confidence: high
+    evidence:
+      - file: "governance/hephaistos/AGENTS.md"
+        note: "When work scope is EMERAULD knowledge scanning or intake, all agents must default to: [rule follows]. Rule is defined in the hephaistos package's constitutional layer (AGENTS.md), binding on all agents including Trismégiste."
+    inferred: false
+    notes: ""
+  - id: e114
+    source: pa_trismegiste_bundle
+    relation: duplicates
+    target: trismegiste
+    confidence: medium
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/trismegiste/README.md"
+        note: "A 24/7 personal assistant combining Obsidian file-native memory and LightRAG graph RAG, running as background services on WSL. [own vault/, own CLAUDE.md, own LightRAG stack — separate from the live EMERAULD Trismégiste agent]"
+    inferred: true
+    notes: "Resolves the naming-collision open question: this is a standalone WSL-deployment scaffold/template sharing the Trismégiste name, architecturally separate from .github/agents/trismegiste.agent.md. Not confirmed as actually deployed anywhere; 'duplicates' reflects the naming/concept overlap, not a confirmed functional duplication."
+  - id: e115
+    source: pa_mcp_server
+    relation: deploys_to
+    target: vault_maintenance_pipeline_workflow
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/mcp-server/server.py"
+        note: "Exposes the 12-agent personal-assistant ecosystem (vault maintenance + content commercialization) as callable MCP tools for Claude Console."
+    inferred: false
+    notes: ""
+  - id: e116
+    source: pa_mcp_server
+    relation: deploys_to
+    target: content_to_market_pipeline_workflow
+    confidence: high
+    evidence:
+      - file: "hephaistos/personal-assistant-agents/mcp-server/server.py"
+        note: "Exposes the 12-agent personal-assistant ecosystem (vault maintenance + content commercialization) as callable MCP tools for Claude Console."
+    inferred: false
+    notes: ""
+  - id: e117
+    source: trismegiste
+    relation: writes
+    target: raw_sources_dataset
+    confidence: high
+    evidence:
+      - file: ".github/agents/trismegiste.agent.md"
+        note: "Ingest new raw sources into raw sources/ with source metadata."
+    inferred: false
+    notes: "Legacy intake lane per EMERAULD Intake Rule (2026-05-12): superseded by raw/ for new scan runs, but Trismegiste agent spec still names raw sources/ as its own ingest target."

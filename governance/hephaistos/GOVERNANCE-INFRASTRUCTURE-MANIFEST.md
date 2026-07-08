@@ -1,3 +1,32 @@
+---
+type: governance-doc
+title: Governance Infrastructure Manifest
+aliases:
+- Governance Infrastructure Manifest
+- governance/hephaistos/GOVERNANCE-INFRASTRUCTURE-MANIFEST
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- binding
+- entrypoints
+- agentname
+- bowie
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/GOVERNANCE-INFRASTRUCTURE-MANIFEST.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[governance/governance-index]]'
+- '[[governance/hephaistos/HERMES]]'
+---
+
 # Governance Infrastructure Manifest
 
 **Date:** 2026-05-02  

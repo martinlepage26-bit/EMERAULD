@@ -1,3 +1,35 @@
+---
+type: wiki
+title: RDAIG Method Editorial Consolidation — 2026
+aliases:
+- RDAIG Method Editorial Consolidation — 2026
+- wiki/RDAIG Method Editorial Consolidation — 2026
+tags:
+- wiki
+- ai
+- rdaig-method-editorial-consolidation-2026-md
+- meyman
+- rdaig
+- method
+- recursive
+- reconstructable
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/RDAIG Method Editorial Consolidation — 2026.md
+backlink_count: 7
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Home]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # RDAIG Method Editorial Consolidation — 2026
 
 ## Summary

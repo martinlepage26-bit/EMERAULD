@@ -1,3 +1,31 @@
+---
+type: memory-register
+title: project_adversarial_eval_paper
+aliases:
+- project_adversarial_eval_paper
+- memory/local-session/project_adversarial_eval_paper
+tags:
+- memory
+- paper
+- memory-register
+- local-session
+- evaluation
+- dynamics
+- adversarial
+- locked
+- multi
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/project_adversarial_eval_paper.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+---
+
 See also [[Control Protocols MOC]].
 ---
 name: Multi-model adversarial evaluation paper

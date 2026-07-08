@@ -1,10 +1,34 @@
 ---
 type: wiki
-aliases: [Railway deployment, Railway PaaS, COMPASSai Railway]
-tags: [pharos, compassai, deployment, infrastructure, railway]
+title: Railway — COMPASSai Production Deployment Platform
+aliases:
+- Railway deployment
+- Railway PaaS
+- COMPASSai Railway
+- wiki/Railway — COMPASSai Production Deployment Platform
+tags:
+- pharos
+- compassai
+- deployment
+- infrastructure
+- railway
+- wiki
+- railway-compassai-production-deployment-platform-md
+- classifier
+- construction
+- deployed
+- color-orange
 status: active
-created: 2026-06-22
-updated: 2026-06-22
+created: '2026-06-22'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Railway — COMPASSai Production Deployment Platform.md
+backlink_count: 4
+backlinks:
+- '[[wiki/COMPASSai — Governance Engine]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Weekly Review — 2026-06-26]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Railway — COMPASSai Production Deployment Platform

@@ -1,0 +1,3192 @@
+{
+  ".agent_bus/agent_bus.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "d70e6064a8a60b95f15184ed47f29d6e",
+    "semantic_hash": "d70e6064a8a60b95f15184ed47f29d6e"
+  },
+  ".graph_store/components.json": {
+    "mtime": 1782583706.3825326,
+    "ast_hash": "4bd32a66557280fa380997e0c9ff1e42",
+    "semantic_hash": "4bd32a66557280fa380997e0c9ff1e42"
+  },
+  ".graph_store/edges.json": {
+    "mtime": 1782583706.3706641,
+    "ast_hash": "77bf4703e96c40eb0d0e9d617e2fc901",
+    "semantic_hash": "77bf4703e96c40eb0d0e9d617e2fc901"
+  },
+  ".graph_store/nodes.json": {
+    "mtime": 1782583706.3473473,
+    "ast_hash": "89dd962f00d61dd1196d54e66f1c23dc",
+    "semantic_hash": "89dd962f00d61dd1196d54e66f1c23dc"
+  },
+  ".graph_store/summary.json": {
+    "mtime": 1782583706.3826768,
+    "ast_hash": "4cc23809e4cb7aa1cae3ca706aefbfc0",
+    "semantic_hash": "4cc23809e4cb7aa1cae3ca706aefbfc0"
+  },
+  ".graph_store/unresolved_links.json": {
+    "mtime": 1782583706.380664,
+    "ast_hash": "6632a8b7eb60da63f3bb8f5af7419649",
+    "semantic_hash": "6632a8b7eb60da63f3bb8f5af7419649"
+  },
+  ".obsidian/plugins/obsidian-git/obsidian_askpass.sh": {
+    "mtime": 1779593851.0,
+    "ast_hash": "f662d5f216d371e86d1b108ba5d22a5f",
+    "semantic_hash": "f662d5f216d371e86d1b108ba5d22a5f"
+  },
+  ".planning/config.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "8b3ea5d9828f604174fc153ff9ed8834",
+    "semantic_hash": "8b3ea5d9828f604174fc153ff9ed8834"
+  },
+  ".scheduler/config.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "484982d65474101018780ac95ae9e0b6",
+    "semantic_hash": "484982d65474101018780ac95ae9e0b6"
+  },
+  ".scheduler/items.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "baa06e22abfbd97c608abdea43a7fa27",
+    "semantic_hash": "baa06e22abfbd97c608abdea43a7fa27"
+  },
+  ".scheduler/state.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "611e08dba72346476ba305e50e9137c0",
+    "semantic_hash": "611e08dba72346476ba305e50e9137c0"
+  },
+  ".vscode/extensions.json": {
+    "mtime": 1779702834.0,
+    "ast_hash": "c8efb8d0939c3cb0700d5b533bfd2737",
+    "semantic_hash": "c8efb8d0939c3cb0700d5b533bfd2737"
+  },
+  ".vscode/settings.json": {
+    "mtime": 1779701551.0,
+    "ast_hash": "3d29a75fcf0ed7dfff86d3db8f92fc69",
+    "semantic_hash": "3d29a75fcf0ed7dfff86d3db8f92fc69"
+  },
+  ".wrangler/cache/pages.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "812f3c52db1b439bfdbad60e35601526",
+    "semantic_hash": "812f3c52db1b439bfdbad60e35601526"
+  },
+  ".wrangler/cache/wrangler-account.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "f32beb7992264b1046b45422e408bbd2",
+    "semantic_hash": "f32beb7992264b1046b45422e408bbd2"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/batch_final_black_no_stretch_pagenums.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "9f22c753ee256096fdeb00189fcc8374",
+    "semantic_hash": "9f22c753ee256096fdeb00189fcc8374"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/batch_final_formatting.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "9730407e6c4b331499c44ecf04d3c801",
+    "semantic_hash": "9730407e6c4b331499c44ecf04d3c801"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/batch_justified_with_patent_language.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "2f2b31d61191d058708a10f9f7aa8c3b",
+    "semantic_hash": "2f2b31d61191d058708a10f9f7aa8c3b"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/batch_revise_and_convert.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "70f00b3de4f0c2ef8d083de05ed438e8",
+    "semantic_hash": "70f00b3de4f0c2ef8d083de05ed438e8"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/batch_revise_and_convert_fixed.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "add4217220671651cb4f52dc84605b35",
+    "semantic_hash": "add4217220671651cb4f52dc84605b35"
+  },
+  "archive/tmp-reports-2026-05/closing_pass_report.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "65fd2476a6b79d5e3b0b82989bef1c13",
+    "semantic_hash": "65fd2476a6b79d5e3b0b82989bef1c13"
+  },
+  "archive/tmp-reports-2026-05/deep_pass_report.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "91b428eb97318b91c0ee0ef87599b360",
+    "semantic_hash": "91b428eb97318b91c0ee0ef87599b360"
+  },
+  "archive/tmp-reports-2026-05/hub_pass_report.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "3c8b53ba3c79886e9268de619db351ad",
+    "semantic_hash": "3c8b53ba3c79886e9268de619db351ad"
+  },
+  "archive/tmp-reports-2026-05/kg_audit.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "cdb316f47c2d101ad41d8e80c423df79",
+    "semantic_hash": "cdb316f47c2d101ad41d8e80c423df79"
+  },
+  "archive/tmp-reports-2026-05/recovery_pass_report.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "c079d4e64e44d93e26297acbcd9a8667",
+    "semantic_hash": "c079d4e64e44d93e26297acbcd9a8667"
+  },
+  "archive/tmp-reports-2026-05/recovery_retry_report.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "501ecdb7db28590f79b4ed565a0ec6b4",
+    "semantic_hash": "501ecdb7db28590f79b4ed565a0ec6b4"
+  },
+  "archive/tmp-reports-2026-05/triage_pass_report.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "830d873dcfbaca1c9379c3c4d3deed55",
+    "semantic_hash": "830d873dcfbaca1c9379c3c4d3deed55"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/02-pipeline-triage/compassai_aurorai_extractor.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "582fa0faf12bc09716bc8f345b6f840f",
+    "semantic_hash": "582fa0faf12bc09716bc8f345b6f840f"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/02-pipeline-triage/pharos_pipeline_filter.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "5bd19c8b3f7cdc8de655fd3c679444e8",
+    "semantic_hash": "5bd19c8b3f7cdc8de655fd3c679444e8"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/02-pipeline-triage/topology_audit.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "aa1d20532e7d290becc6c6f829be7062",
+    "semantic_hash": "aa1d20532e7d290becc6c6f829be7062"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/03-pr4-hardening/reference/server.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "b66a7bbff3178b570136bdf1f42c2619",
+    "semantic_hash": "b66a7bbff3178b570136bdf1f42c2619"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/03-pr4-hardening/reference/tests/test_backend_hardening.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "631d4f720617b1b09e1f352a32f2c293",
+    "semantic_hash": "631d4f720617b1b09e1f352a32f2c293"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/03-pr4-hardening/server_hardening_patch.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "1e289da6fdc022777e20a3cb183617d1",
+    "semantic_hash": "1e289da6fdc022777e20a3cb183617d1"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/03-pr4-hardening/test_backend_hardening.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "631d4f720617b1b09e1f352a32f2c293",
+    "semantic_hash": "631d4f720617b1b09e1f352a32f2c293"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/backend/server.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "aeca38a3f32e8dbc6beb1c46008adfb7",
+    "semantic_hash": "aeca38a3f32e8dbc6beb1c46008adfb7"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/backend/server_hardening_patch.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "1e289da6fdc022777e20a3cb183617d1",
+    "semantic_hash": "1e289da6fdc022777e20a3cb183617d1"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/backend/tests/test_backend_hardening.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "631d4f720617b1b09e1f352a32f2c293",
+    "semantic_hash": "631d4f720617b1b09e1f352a32f2c293"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/scripts/compassai_aurorai_extractor.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "582fa0faf12bc09716bc8f345b6f840f",
+    "semantic_hash": "582fa0faf12bc09716bc8f345b6f840f"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/scripts/manifest_decision_executor.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "e86d9477420132c548b69085ceb72e89",
+    "semantic_hash": "e86d9477420132c548b69085ceb72e89"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/scripts/pharos_pipeline_filter.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "5bd19c8b3f7cdc8de655fd3c679444e8",
+    "semantic_hash": "5bd19c8b3f7cdc8de655fd3c679444e8"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/scripts/regulatory_corpus_bootstrap.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "a224abe9e4702c50f2ac3beca67c3bea",
+    "semantic_hash": "a224abe9e4702c50f2ac3beca67c3bea"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/scripts/topology_audit.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "aa1d20532e7d290becc6c6f829be7062",
+    "semantic_hash": "aa1d20532e7d290becc6c6f829be7062"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/test_integration.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "1d8203cbecaefbc3a6c2b20b69b5fbfa",
+    "semantic_hash": "1d8203cbecaefbc3a6c2b20b69b5fbfa"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/.obsidian/app.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "d240a166f295ae8f4ac5e358d0268a6d",
+    "semantic_hash": "d240a166f295ae8f4ac5e358d0268a6d"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/scripts/ask.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "4b182b18bba5c04b6bb925637c9a45f6",
+    "semantic_hash": "4b182b18bba5c04b6bb925637c9a45f6"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/scripts/guide_names.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "47faab62d9ec70b08aaa6a6d4371323e",
+    "semantic_hash": "47faab62d9ec70b08aaa6a6d4371323e"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/scripts/rename_guides.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "cb0ed0051ff0e000a282f2e3839d62cd",
+    "semantic_hash": "cb0ed0051ff0e000a282f2e3839d62cd"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/scripts/setup.sh": {
+    "mtime": 1779593851.0,
+    "ast_hash": "c865252d72ffa3c8db6bdea7f367667c",
+    "semantic_hash": "c865252d72ffa3c8db6bdea7f367667c"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/scripts/vault_watcher.py": {
+    "mtime": 1779593851.0,
+    "ast_hash": "20f6ee2c2ffca8ff1d5c7bd07752b4f5",
+    "semantic_hash": "20f6ee2c2ffca8ff1d5c7bd07752b4f5"
+  },
+  "cloudflare/figma-mcp-server/package.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "c15a66d5f4d9ba141d43a77987e173d0",
+    "semantic_hash": "c15a66d5f4d9ba141d43a77987e173d0"
+  },
+  "cloudflare/figma-mcp-server/src/index.ts": {
+    "mtime": 1779593851.0,
+    "ast_hash": "d7b8cb32abb578e77605c87d82b30c2e",
+    "semantic_hash": "d7b8cb32abb578e77605c87d82b30c2e"
+  },
+  "cloudflare/figma-mcp-server/tsconfig.json": {
+    "mtime": 1779593851.0,
+    "ast_hash": "d09125efa5e16cc4f9ae9c8b8c1790c1",
+    "semantic_hash": "d09125efa5e16cc4f9ae9c8b8c1790c1"
+  },
+  "find_orphans.py": {
+    "mtime": 1782459548.4411273,
+    "ast_hash": "13b6908ffcecc2a78e1980c96ae2aa2e",
+    "semantic_hash": "13b6908ffcecc2a78e1980c96ae2aa2e"
+  },
+  "raw sources/Documents_root_loose_intake_2026-04-28/pharos-ops-publishing/linkedin-schedule.js": {
+    "mtime": 1779593852.0,
+    "ast_hash": "0ba775051c5538dbed638a6ad3cec44c",
+    "semantic_hash": "0ba775051c5538dbed638a6ad3cec44c"
+  },
+  "raw sources/paper-builder-origin-bundle/bib_rebuild.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "078a6bf6fa5c63c7a22cda85ac093239",
+    "semantic_hash": "078a6bf6fa5c63c7a22cda85ac093239"
+  },
+  "raw sources/paper-builder-origin-bundle/martin_voice_optimizer.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "6e21af93e702d2bd81b9d5d8b78766fa",
+    "semantic_hash": "6e21af93e702d2bd81b9d5d8b78766fa"
+  },
+  "raw sources/paper-builder-origin-bundle/rebuild_henry_bundle.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "d5210e67114752664126a66b0ca9d2fe",
+    "semantic_hash": "d5210e67114752664126a66b0ca9d2fe"
+  },
+  "raw/D-drive-scan-2026-05-12/dg-migration/summary.json": {
+    "mtime": 1779593852.0,
+    "ast_hash": "d4a4e8927c994000220f6517f547b337",
+    "semantic_hash": "d4a4e8927c994000220f6517f547b337"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/combinations/validate-combinations.sh": {
+    "mtime": 1779593852.0,
+    "ast_hash": "252b90c3d0cb889445074f0740809d28",
+    "semantic_hash": "252b90c3d0cb889445074f0740809d28"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/install-hooks.sh": {
+    "mtime": 1779593852.0,
+    "ast_hash": "c37d85291cce03c33a840b5c088c8399",
+    "semantic_hash": "c37d85291cce03c33a840b5c088c8399"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/AppShell.tsx": {
+    "mtime": 1779593852.0,
+    "ast_hash": "6490d025b4875006d38b39b4af04c004",
+    "semantic_hash": "6490d025b4875006d38b39b4af04c004"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/Dashboard.tsx": {
+    "mtime": 1779593852.0,
+    "ast_hash": "2d2017cf818e59445c9c5c4cfc491929",
+    "semantic_hash": "2d2017cf818e59445c9c5c4cfc491929"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/Governor.ts": {
+    "mtime": 1779593852.0,
+    "ast_hash": "f144bfe881f84787d6a6f15b790e2521",
+    "semantic_hash": "f144bfe881f84787d6a6f15b790e2521"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/HelixProbe.tsx": {
+    "mtime": 1779593852.0,
+    "ast_hash": "15746533a8b69117e81a0622a4b1c6da",
+    "semantic_hash": "15746533a8b69117e81a0622a4b1c6da"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/PolicyEngine.tsx": {
+    "mtime": 1779593852.0,
+    "ast_hash": "ece737d5dfb56b938b662ca9166b9fb8",
+    "semantic_hash": "ece737d5dfb56b938b662ca9166b9fb8"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/law25.ts": {
+    "mtime": 1779593852.0,
+    "ast_hash": "bf11266221fb37c4af1e15959b0ee3dc",
+    "semantic_hash": "bf11266221fb37c4af1e15959b0ee3dc"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/probe.ts": {
+    "mtime": 1779593852.0,
+    "ast_hash": "c38e29399df7712a5ac04bcf2b9a9403",
+    "semantic_hash": "c38e29399df7712a5ac04bcf2b9a9403"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/store.ts": {
+    "mtime": 1779593852.0,
+    "ast_hash": "5f44676d1bec515433667cbaa29a0816",
+    "semantic_hash": "5f44676d1bec515433667cbaa29a0816"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/downloads/helix_probe_v_2_5_multilingual.jsx": {
+    "mtime": 1779593852.0,
+    "ast_hash": "4be375b88749d679f265345d036d36f2",
+    "semantic_hash": "4be375b88749d679f265345d036d36f2"
+  },
+  "raw/intake-report-20260513-dryrun.json": {
+    "mtime": 1779593852.0,
+    "ast_hash": "86ece7df0a0e7cdb68e841342fd5aa5a",
+    "semantic_hash": "86ece7df0a0e7cdb68e841342fd5aa5a"
+  },
+  "raw/intake-report-20260513.json": {
+    "mtime": 1779593852.0,
+    "ast_hash": "c05ca656e9148b132bb71566e1e41aa1",
+    "semantic_hash": "c05ca656e9148b132bb71566e1e41aa1"
+  },
+  "raw/intake-report-d-drive-scan-2026-05-12.json": {
+    "mtime": 1779593852.0,
+    "ast_hash": "2bd1fe3dd8ecbcb78c061d8443ac86f4",
+    "semantic_hash": "2bd1fe3dd8ecbcb78c061d8443ac86f4"
+  },
+  "raw/intake-report-desktop-downloads-scan-2026-05-12.json": {
+    "mtime": 1779593852.0,
+    "ast_hash": "86997598fc23ebacd3f4c7db40aeb498",
+    "semantic_hash": "86997598fc23ebacd3f4c7db40aeb498"
+  },
+  "scheduler_memory/__init__.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "0a6312487e3ab9151494c372eba7977c",
+    "semantic_hash": "0a6312487e3ab9151494c372eba7977c"
+  },
+  "scheduler_memory/__main__.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "a2dd3e7bfd445504b15c8c642e42acb6",
+    "semantic_hash": "a2dd3e7bfd445504b15c8c642e42acb6"
+  },
+  "scheduler_memory/deadline.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "a874b0efdf56d97ee7b753bd8acf0ff0",
+    "semantic_hash": "a874b0efdf56d97ee7b753bd8acf0ff0"
+  },
+  "scheduler_memory/installer.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "842f58b97c7e2913d1663026676834d9",
+    "semantic_hash": "842f58b97c7e2913d1663026676834d9"
+  },
+  "scheduler_memory/reporter.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "9a1d6af2996b767d44c6dd276143ffb6",
+    "semantic_hash": "9a1d6af2996b767d44c6dd276143ffb6"
+  },
+  "scheduler_memory/scanner.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "a6ac2c4f42044dc06365ca10ed78c789",
+    "semantic_hash": "a6ac2c4f42044dc06365ca10ed78c789"
+  },
+  "scheduler_memory/state.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "cb11563393cf8d24c939eba1120d8b51",
+    "semantic_hash": "cb11563393cf8d24c939eba1120d8b51"
+  },
+  "scripts/archive_register.py": {
+    "mtime": 1782029655.289504,
+    "ast_hash": "a2c36f325ace4a342e2d8d03443857c1",
+    "semantic_hash": "a2c36f325ace4a342e2d8d03443857c1"
+  },
+  "scripts/build_master_reference_bridge.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "6255ae879ac2ee23532ddbc6b818064d",
+    "semantic_hash": "6255ae879ac2ee23532ddbc6b818064d"
+  },
+  "scripts/build_paper25_docx.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "a36d7c92fae5a3455459483cfb6e2710",
+    "semantic_hash": "a36d7c92fae5a3455459483cfb6e2710"
+  },
+  "scripts/build_wikilink_graph.py": {
+    "mtime": 1782030359.8043613,
+    "ast_hash": "4c70e7bbe1461c89133b7643d8b0fc2e",
+    "semantic_hash": "4c70e7bbe1461c89133b7643d8b0fc2e"
+  },
+  "scripts/codex_start.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "8162a8fda4eaa90e9432ad149856de14",
+    "semantic_hash": "8162a8fda4eaa90e9432ad149856de14"
+  },
+  "scripts/drive_audit.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "7b7233721ff10163419436c4c6c517dc",
+    "semantic_hash": "7b7233721ff10163419436c4c6c517dc"
+  },
+  "scripts/embed.py": {
+    "mtime": 1782030412.5338202,
+    "ast_hash": "d31972d36514489fc7070789f73da80c",
+    "semantic_hash": "d31972d36514489fc7070789f73da80c"
+  },
+  "scripts/enrich_frontmatter_backlinks.py": {
+    "mtime": 1782482209.095403,
+    "ast_hash": "5a419fc268f89a17d4bd2649a9a54a1e",
+    "semantic_hash": "5a419fc268f89a17d4bd2649a9a54a1e"
+  },
+  "scripts/flowerapp/flowerapp.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "8e1a21462dce7caaa67664cc0e85abfb",
+    "semantic_hash": "8e1a21462dce7caaa67664cc0e85abfb"
+  },
+  "scripts/ingest-audit-2026-04-20.json": {
+    "mtime": 1779593852.0,
+    "ast_hash": "6d712e030e79058a22f75048e689f053",
+    "semantic_hash": "6d712e030e79058a22f75048e689f053"
+  },
+  "scripts/ingest-manifest-2026-04-20.json": {
+    "mtime": 1779593852.0,
+    "ast_hash": "787cb45970c9a890126539af98c458b9",
+    "semantic_hash": "787cb45970c9a890126539af98c458b9"
+  },
+  "scripts/ingest.py": {
+    "mtime": 1779698806.0,
+    "ast_hash": "108fc07008b41dde56ac713079c93fbd",
+    "semantic_hash": "108fc07008b41dde56ac713079c93fbd"
+  },
+  "scripts/library_d_ingest.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "5572ba41f0e21f93f11c1256d5f2d09e",
+    "semantic_hash": "5572ba41f0e21f93f11c1256d5f2d09e"
+  },
+  "scripts/library_d_unreadable_ocr.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "1f5aabdd2285e3c281316ad9566f7e8f",
+    "semantic_hash": "1f5aabdd2285e3c281316ad9566f7e8f"
+  },
+  "scripts/lightrag_config.py": {
+    "mtime": 1780226354.0,
+    "ast_hash": "d46df4c4d8c3eb8b34da4b8d3f273dfe",
+    "semantic_hash": "d46df4c4d8c3eb8b34da4b8d3f273dfe"
+  },
+  "scripts/lightrag_ingest.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "scripts/migrate_to_pharos_papers_db.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "7ef2740ad8951b367f4f6a112d67ccfa",
+    "semantic_hash": "7ef2740ad8951b367f4f6a112d67ccfa"
+  },
+  "scripts/query.py": {
+    "mtime": 1779698769.0,
+    "ast_hash": "6e545da43f1db517e76262f5cff0a49d",
+    "semantic_hash": "6e545da43f1db517e76262f5cff0a49d"
+  },
+  "scripts/render_obsidian_agent_vault_setup_guide.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "c17d85b735fc3b41fab1ab2b44552759",
+    "semantic_hash": "c17d85b735fc3b41fab1ab2b44552759"
+  },
+  "scripts/scheduled/health-check.sh": {
+    "mtime": 1782086022.3381906,
+    "ast_hash": "63c0ba93756d1c9d3f8752db6acffeb0",
+    "semantic_hash": "63c0ba93756d1c9d3f8752db6acffeb0"
+  },
+  "scripts/scheduled/morning.sh": {
+    "mtime": 1782085993.5841901,
+    "ast_hash": "2e232178ff561a21874c70beaa6c0008",
+    "semantic_hash": "2e232178ff561a21874c70beaa6c0008"
+  },
+  "scripts/scheduled/nightly.sh": {
+    "mtime": 1782086003.7151902,
+    "ast_hash": "09bc732886f7d5ffe46a4e734483c648",
+    "semantic_hash": "09bc732886f7d5ffe46a4e734483c648"
+  },
+  "scripts/scheduled/weekly.sh": {
+    "mtime": 1782086012.5741904,
+    "ast_hash": "2764c8773e2a191ede1705a7903364f4",
+    "semantic_hash": "2764c8773e2a191ede1705a7903364f4"
+  },
+  "scripts/verify_and_hardmove_to_raw.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "d14c8c754ad08fdc48978da1f48fe22a",
+    "semantic_hash": "d14c8c754ad08fdc48978da1f48fe22a"
+  },
+  "scripts/vsearch.py": {
+    "mtime": 1780226387.0,
+    "ast_hash": "9d6b327ff454863a379d3577b882f2bc",
+    "semantic_hash": "9d6b327ff454863a379d3577b882f2bc"
+  },
+  "tmp/drive-audit-2026-04-18/migrate_corpus.ps1": {
+    "mtime": 1779593852.0,
+    "ast_hash": "f61bab9d7dcfe113b018ba4a44efebfb",
+    "semantic_hash": "f61bab9d7dcfe113b018ba4a44efebfb"
+  },
+  "hephaistos/personal-assistant-agents/generate_bundles.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "2376d6cf31d3808a6a7f1ea7f28a218f",
+    "semantic_hash": "2376d6cf31d3808a6a7f1ea7f28a218f"
+  },
+  "hephaistos/personal-assistant-agents/manifest.json": {
+    "mtime": 1779593852.0,
+    "ast_hash": "f59bc00446f1245f6fa8d070dffa3aa6",
+    "semantic_hash": "f59bc00446f1245f6fa8d070dffa3aa6"
+  },
+  "hephaistos/personal-assistant-agents/mcp-server/claude_console_config.json": {
+    "mtime": 1779593852.0,
+    "ast_hash": "d6d51484f8396a3ec38b9907a636298a",
+    "semantic_hash": "d6d51484f8396a3ec38b9907a636298a"
+  },
+  "hephaistos/personal-assistant-agents/mcp-server/run.sh": {
+    "mtime": 1779593852.0,
+    "ast_hash": "2562b1962a0d64ddc0a2400846073585",
+    "semantic_hash": "2562b1962a0d64ddc0a2400846073585"
+  },
+  "hephaistos/personal-assistant-agents/mcp-server/server.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "aa85b554d361d133c6db52564f352e63",
+    "semantic_hash": "aa85b554d361d133c6db52564f352e63"
+  },
+  "hephaistos/personal-assistant-agents/trismegiste/ask.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "09a6693af5a26e0e56a11a4c7bc82eae",
+    "semantic_hash": "09a6693af5a26e0e56a11a4c7bc82eae"
+  },
+  "hephaistos/personal-assistant-agents/trismegiste/scripts/ask.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "7bf43f8c54d4d7d35b26e0d394caaf7c",
+    "semantic_hash": "7bf43f8c54d4d7d35b26e0d394caaf7c"
+  },
+  "hephaistos/personal-assistant-agents/trismegiste/scripts/setup.sh": {
+    "mtime": 1779593852.0,
+    "ast_hash": "d9ea925870552e08aec5570424d58300",
+    "semantic_hash": "d9ea925870552e08aec5570424d58300"
+  },
+  "hephaistos/personal-assistant-agents/trismegiste/scripts/vault_watcher.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "44a78cc546cd0fef177bd4a0513d943a",
+    "semantic_hash": "44a78cc546cd0fef177bd4a0513d943a"
+  },
+  "hephaistos/personal-assistant-agents/trismegiste/vault_watcher.py": {
+    "mtime": 1779593852.0,
+    "ast_hash": "a24fae35b02c2eafd5042d378341e1eb",
+    "semantic_hash": "a24fae35b02c2eafd5042d378341e1eb"
+  },
+  ".agent_bus/README.md": {
+    "mtime": 1782482090.9830039,
+    "ast_hash": "43dfb1fe0842a42263b4d5b84b976b3c",
+    "semantic_hash": "43dfb1fe0842a42263b4d5b84b976b3c"
+  },
+  ".github/agents/argus.agent.md": {
+    "mtime": 1782482090.9844015,
+    "ast_hash": "8ba3f8e372079f67b8f6a491e10fdf53",
+    "semantic_hash": "8ba3f8e372079f67b8f6a491e10fdf53"
+  },
+  ".github/agents/gadget.agent.md": {
+    "mtime": 1782482090.9855878,
+    "ast_hash": "d8147baf7318bd4ab220e4a907500b0b",
+    "semantic_hash": "d8147baf7318bd4ab220e4a907500b0b"
+  },
+  ".github/agents/henry.agent.md": {
+    "mtime": 1782482090.9866126,
+    "ast_hash": "5f1c04c347e7e5f6ec06c0e288748990",
+    "semantic_hash": "5f1c04c347e7e5f6ec06c0e288748990"
+  },
+  ".github/agents/hephaistos.agent.md": {
+    "mtime": 1782482090.9884045,
+    "ast_hash": "03fefc0c8e9b7cffcd4d7dd87b7f3f04",
+    "semantic_hash": "03fefc0c8e9b7cffcd4d7dd87b7f3f04"
+  },
+  ".github/agents/hermes.agent.md": {
+    "mtime": 1782482090.9897041,
+    "ast_hash": "8e14903cc86071e3e0ba197b8aafd8b5",
+    "semantic_hash": "8e14903cc86071e3e0ba197b8aafd8b5"
+  },
+  ".github/agents/queen-keyport.agent.md": {
+    "mtime": 1782482090.991181,
+    "ast_hash": "ef145cd2fab7e06c12441bc32a5aaf03",
+    "semantic_hash": "ef145cd2fab7e06c12441bc32a5aaf03"
+  },
+  ".github/agents/trismegiste.agent.md": {
+    "mtime": 1782482090.9922287,
+    "ast_hash": "7c9710c89d913af9ae0d634c8e743a67",
+    "semantic_hash": "7c9710c89d913af9ae0d634c8e743a67"
+  },
+  ".graph_store/graph_report.md": {
+    "mtime": 1782583726.3225627,
+    "ast_hash": "9f59819080632c9b3869fe40b7a6e61c",
+    "semantic_hash": "9f59819080632c9b3869fe40b7a6e61c"
+  },
+  ".planning/PROJECT.md": {
+    "mtime": 1782482090.9935343,
+    "ast_hash": "389a8fc9ef68c040d66fa47f6fed1c07",
+    "semantic_hash": "389a8fc9ef68c040d66fa47f6fed1c07"
+  },
+  ".planning/REQUIREMENTS.md": {
+    "mtime": 1782482090.9942129,
+    "ast_hash": "e48c0335061b330be05e435a862d7c1a",
+    "semantic_hash": "e48c0335061b330be05e435a862d7c1a"
+  },
+  ".planning/ROADMAP.md": {
+    "mtime": 1782482090.994898,
+    "ast_hash": "a312a0154dfb00c71ca8171a5e4e285d",
+    "semantic_hash": "a312a0154dfb00c71ca8171a5e4e285d"
+  },
+  ".planning/STATE.md": {
+    "mtime": 1782482090.9955597,
+    "ast_hash": "c4118e0f3dd59dfba2eb126239daaeb0",
+    "semantic_hash": "c4118e0f3dd59dfba2eb126239daaeb0"
+  },
+  ".planning/phases/01-lightrag-script-runtime-hardening/01-REVIEW-FIX.md": {
+    "mtime": 1782482090.9963446,
+    "ast_hash": "a1fc1a1a99b50fe1857a1d0e89e76488",
+    "semantic_hash": "a1fc1a1a99b50fe1857a1d0e89e76488"
+  },
+  ".planning/phases/01-lightrag-script-runtime-hardening/01-REVIEW.md": {
+    "mtime": 1782482090.9971652,
+    "ast_hash": "4b705a75da3a5ba233d90291e665d366",
+    "semantic_hash": "4b705a75da3a5ba233d90291e665d366"
+  },
+  ".trash/Building Your First AI Agent with OpenAI_________.md": {
+    "mtime": 1782482091.0051239,
+    "ast_hash": "6f588d0c54711678461c8da6d01c69f8",
+    "semantic_hash": "6f588d0c54711678461c8da6d01c69f8"
+  },
+  ".trash/Building Your First AI Agent with OpenAI__________.md": {
+    "mtime": 1782482091.0058072,
+    "ast_hash": "6a9775d44ccf1a0cea81ff6c5a9ab696",
+    "semantic_hash": "6a9775d44ccf1a0cea81ff6c5a9ab696"
+  },
+  ".trash/D Library \u2014 LIBRARY Intake Index (2026-04-26).md": {
+    "mtime": 1782482091.0070984,
+    "ast_hash": "7575c78682bb7f60695fae2504ed6163",
+    "semantic_hash": "7575c78682bb7f60695fae2504ed6163"
+  },
+  ".trash/Design Your Agent Architecture.md": {
+    "mtime": 1782482091.0077615,
+    "ast_hash": "01b87202ebd9648554c9089f94cdd2f2",
+    "semantic_hash": "01b87202ebd9648554c9089f94cdd2f2"
+  },
+  ".trash/Mandrake.md": {
+    "mtime": 1782482091.0082948,
+    "ast_hash": "7d55bfab2f58eca0dde99de18548b0c7",
+    "semantic_hash": "7d55bfab2f58eca0dde99de18548b0c7"
+  },
+  ".trash/Priority Dashboard.md": {
+    "mtime": 1782482091.0088108,
+    "ast_hash": "27142dcf6e9212c362cf5bba0c06e0c4",
+    "semantic_hash": "27142dcf6e9212c362cf5bba0c06e0c4"
+  },
+  ".trash/Responses API Fundamentals.md": {
+    "mtime": 1782482091.0095518,
+    "ast_hash": "fb33e1508a7979fa6a406b867411cee9",
+    "semantic_hash": "fb33e1508a7979fa6a406b867411cee9"
+  },
+  ".trash/Responses API Fundamentals__.md": {
+    "mtime": 1782482091.0101752,
+    "ast_hash": "d06dddb7527a2f1af81d81de45a7bbc9",
+    "semantic_hash": "d06dddb7527a2f1af81d81de45a7bbc9"
+  },
+  ".trash/Responses API Fundamentals___.md": {
+    "mtime": 1782482091.0107987,
+    "ast_hash": "b640d72b5899a8700758aa4dbca13728",
+    "semantic_hash": "b640d72b5899a8700758aa4dbca13728"
+  },
+  ".trash/Responses API Fundamentals____.md": {
+    "mtime": 1782482091.011347,
+    "ast_hash": "5828dbce554d2dbf847a9df1ab1c98d4",
+    "semantic_hash": "5828dbce554d2dbf847a9df1ab1c98d4"
+  },
+  ".trash/Responses API Fundamentals_____.md": {
+    "mtime": 1782482091.0118911,
+    "ast_hash": "204fc4ead8d99a438c98b745a6ce5e53",
+    "semantic_hash": "204fc4ead8d99a438c98b745a6ce5e53"
+  },
+  ".trash/Sprint Tool Strategy.md": {
+    "mtime": 1782482091.0125275,
+    "ast_hash": "6c272f6ee3c275c3c2a94a0b76d8d60b",
+    "semantic_hash": "6c272f6ee3c275c3c2a94a0b76d8d60b"
+  },
+  ".trash/Weekly Review.md": {
+    "mtime": 1782482091.0130634,
+    "ast_hash": "d64b5cce196d06dba6ca5589f5b48ce1",
+    "semantic_hash": "d64b5cce196d06dba6ca5589f5b48ce1"
+  },
+  ".trash/report 1 2.md": {
+    "mtime": 1782482091.0135827,
+    "ast_hash": "16a5ef7a8dca09e018bd67d61ae59e23",
+    "semantic_hash": "16a5ef7a8dca09e018bd67d61ae59e23"
+  },
+  ".trash/report 1.md": {
+    "mtime": 1782482091.0140824,
+    "ast_hash": "8286db5d39b6ba1ad9a3602f85eb126b",
+    "semantic_hash": "8286db5d39b6ba1ad9a3602f85eb126b"
+  },
+  "CLAUDE.md": {
+    "mtime": 1782482091.01556,
+    "ast_hash": "fe07bfdcfb3734d206f78f7b01481f97",
+    "semantic_hash": "fe07bfdcfb3734d206f78f7b01481f97"
+  },
+  "PEER-REVIEW/04_RESEARCH_BUNDLE/DEEP_RESEARCH.md": {
+    "mtime": 1782482091.0269687,
+    "ast_hash": "ceee2945b2739a3f4e13953fa8672192",
+    "semantic_hash": "ceee2945b2739a3f4e13953fa8672192"
+  },
+  "PEER-REVIEW/04_RESEARCH_BUNDLE/METHOD_AND_CORPUS_NOTES.md": {
+    "mtime": 1782482091.0275018,
+    "ast_hash": "2690864368045d7d87b0292c404f3383",
+    "semantic_hash": "2690864368045d7d87b0292c404f3383"
+  },
+  "PEER-REVIEW/04_RESEARCH_BUNDLE/PAGE_NUMBER_TRACKER.md": {
+    "mtime": 1782482091.028028,
+    "ast_hash": "609734da2962cf1a02b221c93ac00f40",
+    "semantic_hash": "609734da2962cf1a02b221c93ac00f40"
+  },
+  "PEER-REVIEW/05_SECTION_DRAFTS/01_BACKGROUND_CONTEXT.md": {
+    "mtime": 1782482091.028563,
+    "ast_hash": "fbf1a89841538660046a19201c1bc625",
+    "semantic_hash": "fbf1a89841538660046a19201c1bc625"
+  },
+  "PEER-REVIEW/05_SECTION_DRAFTS/02_LITERATURE_REVIEW.md": {
+    "mtime": 1782588459.086726,
+    "ast_hash": "d378de91e937884fd3080e225cdb52ba",
+    "semantic_hash": "d378de91e937884fd3080e225cdb52ba"
+  },
+  "PEER-REVIEW/05_SECTION_DRAFTS/03_CONCEPTUAL_FRAMEWORK.md": {
+    "mtime": 1782482091.0296206,
+    "ast_hash": "63e293386e5540a9ac1bc8b58b833a3f",
+    "semantic_hash": "63e293386e5540a9ac1bc8b58b833a3f"
+  },
+  "PEER-REVIEW/05_SECTION_DRAFTS/04_ANALYSIS_FINDINGS.md": {
+    "mtime": 1782482091.0301385,
+    "ast_hash": "402c6e80f90e54c19386f632c83f8d38",
+    "semantic_hash": "402c6e80f90e54c19386f632c83f8d38"
+  },
+  "PEER-REVIEW/05_SECTION_DRAFTS/05_DISCUSSION.md": {
+    "mtime": 1782482091.0306628,
+    "ast_hash": "187ebde5c295dfb24e4afecb1c9a2689",
+    "semantic_hash": "187ebde5c295dfb24e4afecb1c9a2689"
+  },
+  "PEER-REVIEW/05_SECTION_DRAFTS/06_CONCLUSION.md": {
+    "mtime": 1782482091.0311735,
+    "ast_hash": "2a202307aa77a9eb180a46ee65a176ee",
+    "semantic_hash": "2a202307aa77a9eb180a46ee65a176ee"
+  },
+  "PEER-REVIEW/05_SECTION_DRAFTS/07_INTRODUCTION.md": {
+    "mtime": 1782482091.031704,
+    "ast_hash": "9972995515af956be22a138b4a20e27c",
+    "semantic_hash": "9972995515af956be22a138b4a20e27c"
+  },
+  "PEER-REVIEW/05_SECTION_DRAFTS/08_ABSTRACT_FINAL.md": {
+    "mtime": 1782482091.0322173,
+    "ast_hash": "2823f72b6915c2faa9f84b0f0618fe2f",
+    "semantic_hash": "2823f72b6915c2faa9f84b0f0618fe2f"
+  },
+  "PEER-REVIEW/06_VALIDATION/CITATION_AUDIT.md": {
+    "mtime": 1782482091.0327382,
+    "ast_hash": "eeb021ff00c2fe8d494ff85ed1762790",
+    "semantic_hash": "eeb021ff00c2fe8d494ff85ed1762790"
+  },
+  "PEER-REVIEW/06_VALIDATION/CLAIM_AUDIT.md": {
+    "mtime": 1782482091.033255,
+    "ast_hash": "4c933a984783833778678f7de09feb59",
+    "semantic_hash": "4c933a984783833778678f7de09feb59"
+  },
+  "PEER-REVIEW/06_VALIDATION/FINAL_RISK_REGISTER.md": {
+    "mtime": 1782482091.033781,
+    "ast_hash": "5b25a6c31d987c8a9075dd07eaa810c3",
+    "semantic_hash": "5b25a6c31d987c8a9075dd07eaa810c3"
+  },
+  "PEER-REVIEW/06_VALIDATION/JOURNAL_CONFORMITY_AUDIT.md": {
+    "mtime": 1782482091.0343044,
+    "ast_hash": "d9022556b2a399b9e54e04955dfbd738",
+    "semantic_hash": "d9022556b2a399b9e54e04955dfbd738"
+  },
+  "PEER-REVIEW/06_VALIDATION/PEER_REVIEW_STRESS_TEST.md": {
+    "mtime": 1782482091.0348387,
+    "ast_hash": "18d0d655dbf00963e3a3b27a5ee64fb0",
+    "semantic_hash": "18d0d655dbf00963e3a3b27a5ee64fb0"
+  },
+  "PEER-REVIEW/06_VALIDATION/REFERENCE_LIST_AUDIT.md": {
+    "mtime": 1782482091.0353541,
+    "ast_hash": "07927bee99922c4ec574b1636c635a00",
+    "semantic_hash": "07927bee99922c4ec574b1636c635a00"
+  },
+  "PEER-REVIEW/07_FINAL_OUTPUTS/ABSTRACT_FINAL.md": {
+    "mtime": 1782482091.0358958,
+    "ast_hash": "aabbc46904c2e49454ee4d48732995ff",
+    "semantic_hash": "aabbc46904c2e49454ee4d48732995ff"
+  },
+  "PEER-REVIEW/07_FINAL_OUTPUTS/AUTHOR_BIO.md": {
+    "mtime": 1782482091.0364125,
+    "ast_hash": "5c4424eab16ed678d0438e10f5abed3f",
+    "semantic_hash": "5c4424eab16ed678d0438e10f5abed3f"
+  },
+  "PEER-REVIEW/07_FINAL_OUTPUTS/COVER_LETTER.md": {
+    "mtime": 1782482091.0369308,
+    "ast_hash": "f7b4abe5c7e98c088e8ab72f7da83658",
+    "semantic_hash": "f7b4abe5c7e98c088e8ab72f7da83658"
+  },
+  "PEER-REVIEW/07_FINAL_OUTPUTS/KEYWORDS.md": {
+    "mtime": 1782482091.0374506,
+    "ast_hash": "83b7890db4ca55e4e126ffa539cfc387",
+    "semantic_hash": "83b7890db4ca55e4e126ffa539cfc387"
+  },
+  "PEER-REVIEW/07_FINAL_OUTPUTS/SUBMISSION_CHECKLIST.md": {
+    "mtime": 1782482091.0379758,
+    "ast_hash": "f1e92fd4e8455cabd78da1a91aae4017",
+    "semantic_hash": "f1e92fd4e8455cabd78da1a91aae4017"
+  },
+  "Publications/BOOKS/essay_identity_enforceable.md": {
+    "mtime": 1782482091.0402775,
+    "ast_hash": "5438b2b257133f876b27169b6df2a4d5",
+    "semantic_hash": "5438b2b257133f876b27169b6df2a4d5"
+  },
+  "Welcome.md": {
+    "mtime": 1782482091.042025,
+    "ast_hash": "228ce2b5d5c521bc7e685595a93ab4e5",
+    "semantic_hash": "228ce2b5d5c521bc7e685595a93ab4e5"
+  },
+  "_CLAUDE.md": {
+    "mtime": 1782754840.6049216,
+    "ast_hash": "10113e59b37cff8ac1fd5bd0983ba570",
+    "semantic_hash": "10113e59b37cff8ac1fd5bd0983ba570"
+  },
+  "_vault/VAULT ADDITIONS TRACKER.md": {
+    "mtime": 1782770726.834093,
+    "ast_hash": "2950bfaef9fac6832403022b528891f8",
+    "semantic_hash": "2950bfaef9fac6832403022b528891f8"
+  },
+  "_vault/VAULT-LINKING-AUDIT-2026-05-01.md": {
+    "mtime": 1782482091.048374,
+    "ast_hash": "e8ee4df9837cdc7c82b6be50306c8836",
+    "semantic_hash": "e8ee4df9837cdc7c82b6be50306c8836"
+  },
+  "_vault/VAULT-PRODUCTION-MANIFEST.md": {
+    "mtime": 1782482091.0490818,
+    "ast_hash": "8d0e45f10f535a2a593ecef50ae6c6c8",
+    "semantic_hash": "8d0e45f10f535a2a593ecef50ae6c6c8"
+  },
+  "_vault/skill.md": {
+    "mtime": 1782482091.0502107,
+    "ast_hash": "c56c20d5da65c2ef930e3aabf12c2aed",
+    "semantic_hash": "c56c20d5da65c2ef930e3aabf12c2aed"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/01_Recursive_AI_Governance_Very_Long_Narrative.md": {
+    "mtime": 1782482091.050902,
+    "ast_hash": "b308562bce2bf3f79b427ee40b990bf4",
+    "semantic_hash": "b308562bce2bf3f79b427ee40b990bf4"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/02_PHAROS_Master_SOP.md": {
+    "mtime": 1782482091.0516624,
+    "ast_hash": "e336604902fadd4979af7da5aa4f1514",
+    "semantic_hash": "e336604902fadd4979af7da5aa4f1514"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/03_PHAROS_Recursive_Redesign_Passes_1-5_Claude+GPT.txt": {
+    "mtime": 1779593851.0,
+    "ast_hash": "b5fb90f184472ce082ed95304c97b248",
+    "semantic_hash": "b5fb90f184472ce082ed95304c97b248"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/04_PHAROS_Recursive_Redesign_Passes_1-5_Claude.txt": {
+    "mtime": 1779593851.0,
+    "ast_hash": "9f9ad139c1b831beedc1fcc9ff6f6ec6",
+    "semantic_hash": "9f9ad139c1b831beedc1fcc9ff6f6ec6"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/06_Codex_Governance_Case_Study_Blind_Leading_Automated.md": {
+    "mtime": 1782482091.0531301,
+    "ast_hash": "af0a33ba5d89620fef73720dfd76c6e5",
+    "semantic_hash": "af0a33ba5d89620fef73720dfd76c6e5"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture.md": {
+    "mtime": 1782482091.0538077,
+    "ast_hash": "2e00672cf3d9a89530e708226846d8b8",
+    "semantic_hash": "2e00672cf3d9a89530e708226846d8b8"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Complete_Operational_Specification.md": {
+    "mtime": 1782482091.0544841,
+    "ast_hash": "1dc6d2df8c078fe8897f12f373020c40",
+    "semantic_hash": "1dc6d2df8c078fe8897f12f373020c40"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/09_PHAROS_method_translation_into_patent_language.txt": {
+    "mtime": 1779593851.0,
+    "ast_hash": "cf3d9b0b1d1b2b2c07e591b564bd8052",
+    "semantic_hash": "cf3d9b0b1d1b2b2c07e591b564bd8052"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/COVER_LETTER_FOR_COUNSEL.md": {
+    "mtime": 1782482091.0575502,
+    "ast_hash": "a14ebb181f051c1ccc629e8dab8f15e8",
+    "semantic_hash": "a14ebb181f051c1ccc629e8dab8f15e8"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/ERRATA.md": {
+    "mtime": 1782482091.0581353,
+    "ast_hash": "f8cffa277c4be23e830f561d7b9ebd13",
+    "semantic_hash": "f8cffa277c4be23e830f561d7b9ebd13"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN.md": {
+    "mtime": 1782482091.0587726,
+    "ast_hash": "75508487f04e3fde743599dd8942f679",
+    "semantic_hash": "75508487f04e3fde743599dd8942f679"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/MANIFEST.md": {
+    "mtime": 1782482091.0597472,
+    "ast_hash": "1492c19e8b6c2624606f71670dc3851f",
+    "semantic_hash": "1492c19e8b6c2624606f71670dc3851f"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/REVISION_SUMMARY.md": {
+    "mtime": 1782482091.0603435,
+    "ast_hash": "f5bd24b48e725b434a05d45eae6b2828",
+    "semantic_hash": "f5bd24b48e725b434a05d45eae6b2828"
+  },
+  "archive/session-state/session-state-001.md": {
+    "mtime": 1782482091.063306,
+    "ast_hash": "956438d868e87a9b51f638661778c510",
+    "semantic_hash": "956438d868e87a9b51f638661778c510"
+  },
+  "archive/session-state/session-state-002.md": {
+    "mtime": 1782482018.5632145,
+    "ast_hash": "a10f0ca14529f44882734e4e6ea5f8b5",
+    "semantic_hash": "a10f0ca14529f44882734e4e6ea5f8b5"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/01-deploy-config/deploy.yml": {
+    "mtime": 1779593851.0,
+    "ast_hash": "997750a83355bedf1b694572a8e19c2b",
+    "semantic_hash": "997750a83355bedf1b694572a8e19c2b"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/01-deploy-config/migration-govern-to-pharos.md": {
+    "mtime": 1782482091.0646768,
+    "ast_hash": "c9711ebb6fe489b5dd504a79bab4a55c",
+    "semantic_hash": "c9711ebb6fe489b5dd504a79bab4a55c"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/backend/requirements.txt": {
+    "mtime": 1779593851.0,
+    "ast_hash": "e71b6301c3e1537e405a1736de0e71fb",
+    "semantic_hash": "e71b6301c3e1537e405a1736de0e71fb"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/docs/CODEX_PROMPT_SERVER_HARDENING.md": {
+    "mtime": 1782482091.0691288,
+    "ast_hash": "ac650fac0d5b2bbac9b393070fcd8d8c",
+    "semantic_hash": "ac650fac0d5b2bbac9b393070fcd8d8c"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/docs/CSV_DIAGNOSTIC_REPORT.md": {
+    "mtime": 1782482091.0699902,
+    "ast_hash": "630e030e69adcdf88435ac1c62d46f37",
+    "semantic_hash": "630e030e69adcdf88435ac1c62d46f37"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/docs/PHAROS_OPERATIONAL_RUNBOOK.md": {
+    "mtime": 1782482091.070769,
+    "ast_hash": "522e9e5eb4ed4c1101eab0a770316ca7",
+    "semantic_hash": "522e9e5eb4ed4c1101eab0a770316ca7"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/docs/martin_decision_brief.md": {
+    "mtime": 1782482091.0713787,
+    "ast_hash": "b395a4ea18cdc91ef5a94503bff14cdc",
+    "semantic_hash": "b395a4ea18cdc91ef5a94503bff14cdc"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/ai-anxiety-recursive-governance-ai-society-aligned-2026-03-11.md": {
+    "mtime": 1782482091.0721347,
+    "ast_hash": "dc416f58c24d6e43b9c1c05b2ade3fcb",
+    "semantic_hash": "dc416f58c24d6e43b9c1c05b2ade3fcb"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/archive_master_tracker.md": {
+    "mtime": 1782482091.0728374,
+    "ast_hash": "62ad58ab16b0e76f40a3aba412618a55",
+    "semantic_hash": "62ad58ab16b0e76f40a3aba412618a55"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/govern_deterministic_runner_spec.md": {
+    "mtime": 1782482091.0735488,
+    "ast_hash": "9869de3a81c1fccdc0334bb648609d3a",
+    "semantic_hash": "9869de3a81c1fccdc0334bb648609d3a"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/moving_parts.txt": {
+    "mtime": 1779593851.0,
+    "ast_hash": "1dd619ab30bdd7c45c7cdad0529e5f9d",
+    "semantic_hash": "1dd619ab30bdd7c45c7cdad0529e5f9d"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/pharos_topology_layer_v3.md": {
+    "mtime": 1782482091.0742264,
+    "ast_hash": "4721043935998ca6dadc84386eabf6de",
+    "semantic_hash": "4721043935998ca6dadc84386eabf6de"
+  },
+  "artifacts/agent-merge-manifest/agent_merge_manifest_2026-04-29.yaml": {
+    "mtime": 1779593851.0,
+    "ast_hash": "8d547c75d632eaedb4e4c696779aba72",
+    "semantic_hash": "8d547c75d632eaedb4e4c696779aba72"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/AGENT-NAMING-STUDY.md": {
+    "mtime": 1782482091.0749547,
+    "ast_hash": "357aa4f06b7b5842c875b1736514ef0f",
+    "semantic_hash": "357aa4f06b7b5842c875b1736514ef0f"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-LISTING.md": {
+    "mtime": 1782482091.0756876,
+    "ast_hash": "e951f5c39dec8bf5cb9e86573b221c54",
+    "semantic_hash": "e951f5c39dec8bf5cb9e86573b221c54"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-MANIFEST.md": {
+    "mtime": 1782482091.076393,
+    "ast_hash": "c4a9fe2ff23e839f34f7cae7e426bd63",
+    "semantic_hash": "c4a9fe2ff23e839f34f7cae7e426bd63"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/SANITIZATION-REPORT.md": {
+    "mtime": 1782482091.0770934,
+    "ast_hash": "ede4e2ef40f89aa8212f5e3fd051015b",
+    "semantic_hash": "ede4e2ef40f89aa8212f5e3fd051015b"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE.md": {
+    "mtime": 1782482091.0777168,
+    "ast_hash": "68714ce9d99e2504571d82da1651bfc8",
+    "semantic_hash": "68714ce9d99e2504571d82da1651bfc8"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home.md": {
+    "mtime": 1782482091.0812938,
+    "ast_hash": "06eb682cd31c42ab1ccc9c8db6ac7577",
+    "semantic_hash": "06eb682cd31c42ab1ccc9c8db6ac7577"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/README.md": {
+    "mtime": 1782482091.0819285,
+    "ast_hash": "b3d8393f4db999b7df7bdc668a7079ce",
+    "semantic_hash": "b3d8393f4db999b7df7bdc668a7079ce"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/START_HERE.md": {
+    "mtime": 1782482018.5832245,
+    "ast_hash": "4331c6d93c1f9175efb77a52dac3c3f2",
+    "semantic_hash": "4331c6d93c1f9175efb77a52dac3c3f2"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/archive/README.md": {
+    "mtime": 1782482091.083298,
+    "ast_hash": "7e8707d08547fb8cf49d2a02e1f60e84",
+    "semantic_hash": "7e8707d08547fb8cf49d2a02e1f60e84"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/README.md": {
+    "mtime": 1782482091.0839183,
+    "ast_hash": "bbebe46434042ce5603d5ebf3898372a",
+    "semantic_hash": "bbebe46434042ce5603d5ebf3898372a"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/_example_raw_note.md": {
+    "mtime": 1782482018.5851908,
+    "ast_hash": "767351c834657e73e2a8b905cce5ef88",
+    "semantic_hash": "767351c834657e73e2a8b905cce5ef88"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/scripts/README.md": {
+    "mtime": 1782482091.0851111,
+    "ast_hash": "3a5488df13f07db10d1793007ad0db20",
+    "semantic_hash": "3a5488df13f07db10d1793007ad0db20"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/services/README.md": {
+    "mtime": 1782482091.0857232,
+    "ast_hash": "6ae7f3a74439d052a73c871d793ac3e7",
+    "semantic_hash": "6ae7f3a74439d052a73c871d793ac3e7"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/README.md": {
+    "mtime": 1782482091.0863304,
+    "ast_hash": "c5f4821308a36b07f3f02e4a728707c2",
+    "semantic_hash": "c5f4821308a36b07f3f02e4a728707c2"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/archive_guide.md": {
+    "mtime": 1782482091.087132,
+    "ast_hash": "90bb945c2837a0f55938214f75a2c63c",
+    "semantic_hash": "90bb945c2837a0f55938214f75a2c63c"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/link_guide.md": {
+    "mtime": 1782482091.0879033,
+    "ast_hash": "058c3129206af1a3a67171432efd79b4",
+    "semantic_hash": "058c3129206af1a3a67171432efd79b4"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/synthesis_prompt.md": {
+    "mtime": 1782482091.089352,
+    "ast_hash": "c6c3ebb73e95954b45fc8104dc23f00e",
+    "semantic_hash": "c6c3ebb73e95954b45fc8104dc23f00e"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_concept.md": {
+    "mtime": 1782482091.0899587,
+    "ast_hash": "06ad2c98bd260eba6f988855d9fc911a",
+    "semantic_hash": "06ad2c98bd260eba6f988855d9fc911a"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_decision_log.md": {
+    "mtime": 1782482091.0906506,
+    "ast_hash": "bd32dd9b22e16eae75e7317cecdb9d41",
+    "semantic_hash": "bd32dd9b22e16eae75e7317cecdb9d41"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_moc.md": {
+    "mtime": 1782482091.0912633,
+    "ast_hash": "493e9037116d8ec0ce1a3230b8ca2405",
+    "semantic_hash": "493e9037116d8ec0ce1a3230b8ca2405"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_person.md": {
+    "mtime": 1782482091.0918784,
+    "ast_hash": "6c491594b292a8f0cd70488c3085a83c",
+    "semantic_hash": "6c491594b292a8f0cd70488c3085a83c"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_project.md": {
+    "mtime": 1782482091.0924888,
+    "ast_hash": "a0b7557d9b29f3c73d195b0aa8c35840",
+    "semantic_hash": "a0b7557d9b29f3c73d195b0aa8c35840"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/README.md": {
+    "mtime": 1782482091.0930831,
+    "ast_hash": "bc1c8e5bc0c4e39ca5168fbc7d6662a8",
+    "semantic_hash": "bc1c8e5bc0c4e39ca5168fbc7d6662a8"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/_example_wiki_note.md": {
+    "mtime": 1782482091.0936995,
+    "ast_hash": "6d9fad5ac215d01f7c003fe9012e4dc0",
+    "semantic_hash": "6d9fad5ac215d01f7c003fe9012e4dc0"
+  },
+  "artifacts/marketplace/promo/hashnode-iter6-feature-first.md": {
+    "mtime": 1782482091.113348,
+    "ast_hash": "9e82883057ee96532688994c4c199730",
+    "semantic_hash": "9e82883057ee96532688994c4c199730"
+  },
+  "artifacts/marketplace/promo/medium-producthunt.md": {
+    "mtime": 1782482091.1140907,
+    "ast_hash": "112b339fda902aed2ced3b1d77e30774",
+    "semantic_hash": "112b339fda902aed2ced3b1d77e30774"
+  },
+  "artifacts/marketplace/promo/social-posts.md": {
+    "mtime": 1782482091.1148074,
+    "ast_hash": "042576ba353d9b23b3c39e08076f5c5f",
+    "semantic_hash": "042576ba353d9b23b3c39e08076f5c5f"
+  },
+  "assets/D-drive-dedup-report-2026-04-21.md": {
+    "mtime": 1782482091.1154933,
+    "ast_hash": "a8860ddd64d7fa91717ba18e97074699",
+    "semantic_hash": "a8860ddd64d7fa91717ba18e97074699"
+  },
+  "assets/Very Long Narrative \u2014 Peer Review and GPT Rewrite Prompts 2026-04-21.md": {
+    "mtime": 1782482091.11639,
+    "ast_hash": "290d6f39e5c9122b5ad511b0a85d74a6",
+    "semantic_hash": "290d6f39e5c9122b5ad511b0a85d74a6"
+  },
+  "assets/breath-of-the-astral-year-cover-spec.md": {
+    "mtime": 1782482091.1169755,
+    "ast_hash": "fa84370df5ab86e067af50e702a0ef40",
+    "semantic_hash": "fa84370df5ab86e067af50e702a0ef40"
+  },
+  "assets/breath-of-the-astral-year-kdp-format-spec.md": {
+    "mtime": 1782482091.1175532,
+    "ast_hash": "97ebaec8f97e3b46527b928b395bde32",
+    "semantic_hash": "97ebaec8f97e3b46527b928b395bde32"
+  },
+  "assets/demo_script_avatar.md": {
+    "mtime": 1782482091.1182346,
+    "ast_hash": "58aa6fb18539ec7cb8b9c5025c00d6b6",
+    "semantic_hash": "58aa6fb18539ec7cb8b9c5025c00d6b6"
+  },
+  "assets/elemental-agents/audience-expansion.md": {
+    "mtime": 1782482091.1188436,
+    "ast_hash": "5157fe722841846724bceb404440f54a",
+    "semantic_hash": "5157fe722841846724bceb404440f54a"
+  },
+  "assets/elemental-agents/positioning-memo.md": {
+    "mtime": 1782482091.119415,
+    "ast_hash": "f31aa513bd318baa23dc74fa061e784f",
+    "semantic_hash": "f31aa513bd318baa23dc74fa061e784f"
+  },
+  "assets/elemental-agents/sales-page-outline.md": {
+    "mtime": 1782482091.1200438,
+    "ast_hash": "f2fa05e07e84bca379d566268f59ee9f",
+    "semantic_hash": "f2fa05e07e84bca379d566268f59ee9f"
+  },
+  "assets/elemental-agents/source-completions/agents/05-quality-auditor.md": {
+    "mtime": 1782482091.120634,
+    "ast_hash": "afabc407ff2ff32ae9fdd9f7c006d848",
+    "semantic_hash": "afabc407ff2ff32ae9fdd9f7c006d848"
+  },
+  "assets/elemental-agents/source-completions/examples/03-bug-triage-and-fix.md": {
+    "mtime": 1782482091.1212082,
+    "ast_hash": "08d5f5dff748ef7900a3077e78382100",
+    "semantic_hash": "08d5f5dff748ef7900a3077e78382100"
+  },
+  "assets/elemental-agents/source-completions/examples/05-post-incident-retrospective.md": {
+    "mtime": 1782482091.1217964,
+    "ast_hash": "c4684db37e72cc97e069600c46e10fe1",
+    "semantic_hash": "c4684db37e72cc97e069600c46e10fe1"
+  },
+  "assets/elemental-agents/source-completions/validation/02-operational-content-check.md": {
+    "mtime": 1782482091.1223748,
+    "ast_hash": "7c114cb2952311436b208ceaa8da127f",
+    "semantic_hash": "7c114cb2952311436b208ceaa8da127f"
+  },
+  "assets/elemental-agents/ttrpg-repack/BRAND-DECISION.md": {
+    "mtime": 1782482091.1230605,
+    "ast_hash": "9aef895f2cdf9c8f5542f4464a128d6b",
+    "semantic_hash": "9aef895f2cdf9c8f5542f4464a128d6b"
+  },
+  "assets/elemental-agents/ttrpg-repack/manuscript/01-the-doctrine.md": {
+    "mtime": 1782482091.1238747,
+    "ast_hash": "132f6512ad6ab000589d5b43f4b3bb2d",
+    "semantic_hash": "132f6512ad6ab000589d5b43f4b3bb2d"
+  },
+  "assets/elemental-agents/ttrpg-repack/manuscript/02-operations.md": {
+    "mtime": 1782482091.1246924,
+    "ast_hash": "5bee7dc5d12294e15cc738218cd4e581",
+    "semantic_hash": "5bee7dc5d12294e15cc738218cd4e581"
+  },
+  "assets/elemental-agents/ttrpg-repack/manuscript/03-audit.md": {
+    "mtime": 1782482091.125481,
+    "ast_hash": "c3d0cf58b1e0cc2a44b58be0b86135bd",
+    "semantic_hash": "c3d0cf58b1e0cc2a44b58be0b86135bd"
+  },
+  "assets/elemental-agents/ttrpg-repack/manuscript/_archive_00-introduction-v0.2-long-form.md": {
+    "mtime": 1782482091.1263602,
+    "ast_hash": "e778148db268fb3d8753f9a3367e2559",
+    "semantic_hash": "e778148db268fb3d8753f9a3367e2559"
+  },
+  "assets/elemental-agents/ttrpg-repack/manuscript/_audit_dimension-F-2026-05-24.md": {
+    "mtime": 1782482091.127635,
+    "ast_hash": "50e43e7a45983fe0322b69c8806120fd",
+    "semantic_hash": "50e43e7a45983fe0322b69c8806120fd"
+  },
+  "assets/elemental-agents/ttrpg-repack/manuscript/charge-and-circle-publish-ready.md": {
+    "mtime": 1782482091.1286144,
+    "ast_hash": "6a85ad6b44b8c7c9cb5d053a1e5fc7f1",
+    "semantic_hash": "6a85ad6b44b8c7c9cb5d053a1e5fc7f1"
+  },
+  "assets/elemental-agents/ttrpg-repack/reddit-drafts/reddit-r-rpgdesign-post.md": {
+    "mtime": 1782482091.129385,
+    "ast_hash": "83c54aabef06f95cddbd74b2d2bfeb1f",
+    "semantic_hash": "83c54aabef06f95cddbd74b2d2bfeb1f"
+  },
+  "assets/invoices/facture-001-pharos-ai.html": {
+    "mtime": 1779593851.0,
+    "ast_hash": "7f9f4dcefbd92f1e307b290c1ca873d4",
+    "semantic_hash": "7f9f4dcefbd92f1e307b290c1ca873d4"
+  },
+  "assets/invoices/facture-002-pharos-ai.html": {
+    "mtime": 1779593851.0,
+    "ast_hash": "579cd98b5498881ef78be7c360807923",
+    "semantic_hash": "579cd98b5498881ef78be7c360807923"
+  },
+  "assets/llm-session-log.html": {
+    "mtime": 1779593851.0,
+    "ast_hash": "0f6bc66b3cad63518b90017132334124",
+    "semantic_hash": "0f6bc66b3cad63518b90017132334124"
+  },
+  "assets/manuscripts/queering-neo-pagan-magic-mrw-2026/_archive_superseded_2026-05-31/source_uploads/Lepage--Queering Pagan Magic--MRW revision.md": {
+    "mtime": 1782482091.13015,
+    "ast_hash": "1adbeba4e31c4376b3bde4ccf7988cf2",
+    "semantic_hash": "1adbeba4e31c4376b3bde4ccf7988cf2"
+  },
+  "assets/obsidian-vault-slides.html": {
+    "mtime": 1779593852.0,
+    "ast_hash": "deae593a3a0c777c75f32375aa24c990",
+    "semantic_hash": "deae593a3a0c777c75f32375aa24c990"
+  },
+  "cloudflare/figma-mcp-server/README.md": {
+    "mtime": 1782482091.1307335,
+    "ast_hash": "23df2dd0bda7c0d4b27602ed6bb9e641",
+    "semantic_hash": "23df2dd0bda7c0d4b27602ed6bb9e641"
+  },
+  "governance/decision-index.md": {
+    "mtime": 1782482217.7512522,
+    "ast_hash": "b230f7626c444afa91dfeda66770c798",
+    "semantic_hash": "b230f7626c444afa91dfeda66770c798"
+  },
+  "governance/global/AGENTS.md": {
+    "mtime": 1782482091.1318898,
+    "ast_hash": "1c4b413d4aab15ed4422e14680b18c84",
+    "semantic_hash": "1c4b413d4aab15ed4422e14680b18c84"
+  },
+  "governance/global/HEPHAISTOS-STATUS.md": {
+    "mtime": 1782482091.1331334,
+    "ast_hash": "bf6a9c5390b63b47ef2c2b1533e54ccc",
+    "semantic_hash": "bf6a9c5390b63b47ef2c2b1533e54ccc"
+  },
+  "governance/governance-index.md": {
+    "mtime": 1782482217.7537441,
+    "ast_hash": "6a2e24e1ba8f29adbabad32616d3f4eb",
+    "semantic_hash": "6a2e24e1ba8f29adbabad32616d3f4eb"
+  },
+  "governance/hephaistos/AGENTS.md": {
+    "mtime": 1782482091.1343818,
+    "ast_hash": "253275c4640b0123637eaa5a22601617",
+    "semantic_hash": "253275c4640b0123637eaa5a22601617"
+  },
+  "governance/hephaistos/AGENT_AUDIT_2026-04-23.md": {
+    "mtime": 1782482091.1352537,
+    "ast_hash": "394d81e7bc3eb34f7a0a8a7189eb83df",
+    "semantic_hash": "394d81e7bc3eb34f7a0a8a7189eb83df"
+  },
+  "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md": {
+    "mtime": 1782482091.1386073,
+    "ast_hash": "078ee99044115f64bf4bf7b61a00d024",
+    "semantic_hash": "078ee99044115f64bf4bf7b61a00d024"
+  },
+  "governance/hephaistos/GADGET.md": {
+    "mtime": 1782482091.143848,
+    "ast_hash": "420090b6695cfa2f643550b16641ee33",
+    "semantic_hash": "420090b6695cfa2f643550b16641ee33"
+  },
+  "governance/hephaistos/HENRY.md": {
+    "mtime": 1782482091.1456432,
+    "ast_hash": "7ad86918787e7821625ae9caf8df6fac",
+    "semantic_hash": "7ad86918787e7821625ae9caf8df6fac"
+  },
+  "governance/hephaistos/HEPHAISTOS.md": {
+    "mtime": 1782482091.1492739,
+    "ast_hash": "40e2d55ab7ad3e91e275ae5fd087ebad",
+    "semantic_hash": "40e2d55ab7ad3e91e275ae5fd087ebad"
+  },
+  "governance/hephaistos/HERMES.md": {
+    "mtime": 1782482091.153102,
+    "ast_hash": "2f04d45e4d6cc719e358b2303bf78851",
+    "semantic_hash": "2f04d45e4d6cc719e358b2303bf78851"
+  },
+  "governance/hephaistos/INTEGRATION-PROGRESS.md": {
+    "mtime": 1782482091.1548948,
+    "ast_hash": "ab5340f1fbdce28b8d85c09cb310c89d",
+    "semantic_hash": "ab5340f1fbdce28b8d85c09cb310c89d"
+  },
+  "governance/hephaistos/L99-DEMOTION-TO-ARGUS.md": {
+    "mtime": 1782482091.155801,
+    "ast_hash": "717cabdd09c55fb8dc67ebe1b625f317",
+    "semantic_hash": "717cabdd09c55fb8dc67ebe1b625f317"
+  },
+  "governance/hephaistos/NEXT-STEPS.md": {
+    "mtime": 1782482091.1566422,
+    "ast_hash": "bbef46a4d867797a66e34094794ad1e9",
+    "semantic_hash": "bbef46a4d867797a66e34094794ad1e9"
+  },
+  "governance/hephaistos/ORCHESTRATION.md": {
+    "mtime": 1782482091.1576045,
+    "ast_hash": "8ece383f8be663d6cceed91f05891eb3",
+    "semantic_hash": "8ece383f8be663d6cceed91f05891eb3"
+  },
+  "governance/hephaistos/ORCHESTRATION_OPERATIONS.md": {
+    "mtime": 1782482091.1586015,
+    "ast_hash": "0dd5359bc12e0dd95fabdd3fbb7f098c",
+    "semantic_hash": "0dd5359bc12e0dd95fabdd3fbb7f098c"
+  },
+  "governance/hephaistos/PHASE-2-INTEGRATION-ROADMAP.md": {
+    "mtime": 1782482091.159374,
+    "ast_hash": "76b88b8568a0e809e5783dbb74342365",
+    "semantic_hash": "76b88b8568a0e809e5783dbb74342365"
+  },
+  "governance/hephaistos/QUEEN-KEYPORT.md": {
+    "mtime": 1782482091.1610394,
+    "ast_hash": "ffb8d5fe9a4c270738e4a606960e0599",
+    "semantic_hash": "ffb8d5fe9a4c270738e4a606960e0599"
+  },
+  "governance/hephaistos/QUEEN-KEYPORT_OPERATIONS.md": {
+    "mtime": 1782482091.1618223,
+    "ast_hash": "b78566954fff7d62a06401c9b2d06e71",
+    "semantic_hash": "b78566954fff7d62a06401c9b2d06e71"
+  },
+  "governance/hephaistos/RELAY-LEDGER.md": {
+    "mtime": 1782482091.1625655,
+    "ast_hash": "52ce009f624ce9aedeb1942644a7858f",
+    "semantic_hash": "52ce009f624ce9aedeb1942644a7858f"
+  },
+  "governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION.md": {
+    "mtime": 1782482091.1633031,
+    "ast_hash": "db0a751fd5ead54f9c2f18aaa34a26de",
+    "semantic_hash": "db0a751fd5ead54f9c2f18aaa34a26de"
+  },
+  "governance/hephaistos/SKILL-MAP.md": {
+    "mtime": 1782482091.1641273,
+    "ast_hash": "47b21d4f7294fb828c5214dad49214e9",
+    "semantic_hash": "47b21d4f7294fb828c5214dad49214e9"
+  },
+  "governance/hephaistos/STATUS.md": {
+    "mtime": 1782482018.6734006,
+    "ast_hash": "3fa585db928411cac39e8f0e18a0d3c6",
+    "semantic_hash": "3fa585db928411cac39e8f0e18a0d3c6"
+  },
+  "governance/hephaistos/THREE-AGENT-ARCHITECTURE.md": {
+    "mtime": 1782482091.1663609,
+    "ast_hash": "2ba52eaca9275b305cb44f65256d2942",
+    "semantic_hash": "2ba52eaca9275b305cb44f65256d2942"
+  },
+  "governance/hephaistos/USAGE.md": {
+    "mtime": 1782482091.1671534,
+    "ast_hash": "fa04b198f8771e2212613b8607789723",
+    "semantic_hash": "fa04b198f8771e2212613b8607789723"
+  },
+  "governance/hephaistos/WAVE2-CLEANUP.md": {
+    "mtime": 1782482091.1678562,
+    "ast_hash": "7183c87a50b552c895cea8a038bdc3ac",
+    "semantic_hash": "7183c87a50b552c895cea8a038bdc3ac"
+  },
+  "governance/hephaistos/bias-testing-protocol.md": {
+    "mtime": 1782482091.1685712,
+    "ast_hash": "f90baf5bf59ee2112173106b470c0a0e",
+    "semantic_hash": "f90baf5bf59ee2112173106b470c0a0e"
+  },
+  "governance/hephaistos/continuous-ethical-monitoring.md": {
+    "mtime": 1782482091.169282,
+    "ast_hash": "625b41174b146db7348c72b119d97915",
+    "semantic_hash": "625b41174b146db7348c72b119d97915"
+  },
+  "governance/hephaistos/ethics-escalation-criteria.md": {
+    "mtime": 1782482091.1700757,
+    "ast_hash": "416a374e7313159d268b81557f224f8d",
+    "semantic_hash": "416a374e7313159d268b81557f224f8d"
+  },
+  "governance/hephaistos/hephaistos-to-queen-keyport.md": {
+    "mtime": 1782482091.1712968,
+    "ast_hash": "aea299ab1f7780d8366e84fff37eae8e",
+    "semantic_hash": "aea299ab1f7780d8366e84fff37eae8e"
+  },
+  "governance/hephaistos/hephaistos-to-specialist-guideline-pull.md": {
+    "mtime": 1782482091.1722448,
+    "ast_hash": "3d5ecf7a34e86926bbf0831562b5f49b",
+    "semantic_hash": "3d5ecf7a34e86926bbf0831562b5f49b"
+  },
+  "governance/hephaistos/hermes-escalation-to-queen-keyport.md": {
+    "mtime": 1782482091.1732032,
+    "ast_hash": "99501aabfe369f2d60bbf58db6fa3f7d",
+    "semantic_hash": "99501aabfe369f2d60bbf58db6fa3f7d"
+  },
+  "governance/hephaistos/hq-disagreement-test-case.md": {
+    "mtime": 1782482091.1740053,
+    "ast_hash": "b137b7a6a6e1b76aa7a5d6500f2d4631",
+    "semantic_hash": "b137b7a6a6e1b76aa7a5d6500f2d4631"
+  },
+  "governance/hephaistos/operator-to-gadget.md": {
+    "mtime": 1782482091.1747303,
+    "ast_hash": "d52b58ad52566fcff01f204718e4dc96",
+    "semantic_hash": "d52b58ad52566fcff01f204718e4dc96"
+  },
+  "governance/hephaistos/operator-to-henry.md": {
+    "mtime": 1782482091.1754513,
+    "ast_hash": "503da4f4510d988fbc0ab47d4eb8551d",
+    "semantic_hash": "503da4f4510d988fbc0ab47d4eb8551d"
+  },
+  "governance/hephaistos/queen-keyport-to-hermes.md": {
+    "mtime": 1782482091.1763961,
+    "ast_hash": "a831dd61c55f7ffa66014a64b7bdf17f",
+    "semantic_hash": "a831dd61c55f7ffa66014a64b7bdf17f"
+  },
+  "governance/hephaistos/research-ethics-gate.md": {
+    "mtime": 1782482091.1771214,
+    "ast_hash": "428a8f30908bf9a0c3e7cd07f92c21be",
+    "semantic_hash": "428a8f30908bf9a0c3e7cd07f92c21be"
+  },
+  "governance/hephaistos/right-arm-veto-authority.md": {
+    "mtime": 1782482091.1778438,
+    "ast_hash": "fe4b54d86b131092c7463e952e6f3b4b",
+    "semantic_hash": "fe4b54d86b131092c7463e952e6f3b4b"
+  },
+  "governance/hephaistos/trismegiste-to-operator.md": {
+    "mtime": 1782482091.1785645,
+    "ast_hash": "c18848434e346f78ce137db52ac68087",
+    "semantic_hash": "c18848434e346f78ce137db52ac68087"
+  },
+  "index.md": {
+    "mtime": 1782754704.12792,
+    "ast_hash": "f0d93008f64e2b9d39baf866dc09d766",
+    "semantic_hash": "f0d93008f64e2b9d39baf866dc09d766"
+  },
+  "log.md": {
+    "mtime": 1782754617.5462756,
+    "ast_hash": "e6b8327cf9f49acf965387a98f9e5c30",
+    "semantic_hash": "e6b8327cf9f49acf965387a98f9e5c30"
+  },
+  "memory.md": {
+    "mtime": 1782482091.2573516,
+    "ast_hash": "bb2fbc9ed28502de4ab1903f1a813ea7",
+    "semantic_hash": "bb2fbc9ed28502de4ab1903f1a813ea7"
+  },
+  "memory/clients/ExterminationDG.md": {
+    "mtime": 1782812558.2896078,
+    "ast_hash": "d2bcfd43b99e89cc17f369e809fe7c37",
+    "semantic_hash": "d2bcfd43b99e89cc17f369e809fe7c37"
+  },
+  "memory/clients/Lavoie Construct.md": {
+    "mtime": 1782482091.1961112,
+    "ast_hash": "7f58c41fee052641fe591d30bb66f207",
+    "semantic_hash": "7f58c41fee052641fe591d30bb66f207"
+  },
+  "memory/clients/Progression.md": {
+    "mtime": 1782482091.1978905,
+    "ast_hash": "010bf1292a53eedec2b5bd2b8723f649",
+    "semantic_hash": "010bf1292a53eedec2b5bd2b8723f649"
+  },
+  "memory/clients/Sante-France.md": {
+    "mtime": 1782482091.1991029,
+    "ast_hash": "93d9f3f55783abc71904b67f30039f7f",
+    "semantic_hash": "93d9f3f55783abc71904b67f30039f7f"
+  },
+  "memory/clients/helix-prospects-2026-q2.md": {
+    "mtime": 1782482091.2298172,
+    "ast_hash": "ef8a1de7efd58d48f7a9e13800294040",
+    "semantic_hash": "ef8a1de7efd58d48f7a9e13800294040"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_about-orah-ottawa-responsible-ai-hub.md": {
+    "mtime": 1782482091.1999142,
+    "ast_hash": "829bee5c30af8eab679dadf502459769",
+    "semantic_hash": "829bee5c30af8eab679dadf502459769"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_ai-for-audit-accounting-caseware.md": {
+    "mtime": 1782482091.2006214,
+    "ast_hash": "e08092d8970bac61a2c5c923eae0e744",
+    "semantic_hash": "e08092d8970bac61a2c5c923eae0e744"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aiaware-risk-management.md": {
+    "mtime": 1782482091.2012918,
+    "ast_hash": "0a747faf447588638d3323e6b17f4eda",
+    "semantic_hash": "0a747faf447588638d3323e6b17f4eda"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aida-caseware.md": {
+    "mtime": 1782482091.2020469,
+    "ast_hash": "7453b1f66991ea0a2883f99525451125",
+    "semantic_hash": "7453b1f66991ea0a2883f99525451125"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_artificial-intelligence.md": {
+    "mtime": 1782482091.2028155,
+    "ast_hash": "9ae7b23ed7ddd2f8ba33a0bfa607d4b3",
+    "semantic_hash": "9ae7b23ed7ddd2f8ba33a0bfa607d4b3"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aurascribe-ai-medical-scribe-for-quebec.md": {
+    "mtime": 1782482091.2035983,
+    "ast_hash": "c26890ff4276c018d967ef208d446ae4",
+    "semantic_hash": "c26890ff4276c018d967ef208d446ae4"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_cibcs-trustworthy-ai-commitment.md": {
+    "mtime": 1782482091.2042873,
+    "ast_hash": "2948934008827236171d367ba7a64063",
+    "semantic_hash": "2948934008827236171d367ba7a64063"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_complogyx-sovereign-ai-compliance.md": {
+    "mtime": 1782482091.205067,
+    "ast_hash": "988dd06f2c86b2c40f1a458474705009",
+    "semantic_hash": "988dd06f2c86b2c40f1a458474705009"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_dialogue-privacy-policy.md": {
+    "mtime": 1782482091.2058527,
+    "ast_hash": "931432d355a0fc5165c9a4c67e4eef0b",
+    "semantic_hash": "931432d355a0fc5165c9a4c67e4eef0b"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_govern-ai-sentrix.md": {
+    "mtime": 1782482091.2065704,
+    "ast_hash": "ef717509e683c309f26b383546758371",
+    "semantic_hash": "ef717509e683c309f26b383546758371"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-blue-j.md": {
+    "mtime": 1782482091.2073057,
+    "ast_hash": "b7a0a3f1c923637edf385d6f4e7bd4a5",
+    "semantic_hash": "b7a0a3f1c923637edf385d6f4e7bd4a5"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-prodago.md": {
+    "mtime": 1782482091.207985,
+    "ast_hash": "f2cc27e54fbf37430429854b8a17e70d",
+    "semantic_hash": "f2cc27e54fbf37430429854b8a17e70d"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_ai-in-supply-chain-kinaxis.md": {
+    "mtime": 1782482091.2177033,
+    "ast_hash": "0afb3d222ce3774bb092c6f97a6af408",
+    "semantic_hash": "0afb3d222ce3774bb092c6f97a6af408"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_better-data-management-thinkdata-works.md": {
+    "mtime": 1782482091.2206857,
+    "ast_hash": "0053daf7b6d902fe23590ba613283fcc",
+    "semantic_hash": "0053daf7b6d902fe23590ba613283fcc"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_company.md": {
+    "mtime": 1782482091.2220922,
+    "ast_hash": "12a0d8a411b1963d2dd7b57db123d901",
+    "semantic_hash": "12a0d8a411b1963d2dd7b57db123d901"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_the-technology.md": {
+    "mtime": 1782482091.2284846,
+    "ast_hash": "b92dd6d88326c50d2bd7bedddafb8c35",
+    "semantic_hash": "b92dd6d88326c50d2bd7bedddafb8c35"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_trusted-ai-crim.md": {
+    "mtime": 1782482091.229221,
+    "ast_hash": "fb7d8d7456dc23d53185d2bcaae961a8",
+    "semantic_hash": "fb7d8d7456dc23d53185d2bcaae961a8"
+  },
+  "memory/clients/outreach-2026-q2.md": {
+    "mtime": 1782482018.7439492,
+    "ast_hash": "0aef525629b206c6b57a8bff8ddacfb9",
+    "semantic_hash": "0aef525629b206c6b57a8bff8ddacfb9"
+  },
+  "memory/daily/2026-04-19.md": {
+    "mtime": 1782482018.7447186,
+    "ast_hash": "6b34f9a38babf9d90db09b4605770a32",
+    "semantic_hash": "6b34f9a38babf9d90db09b4605770a32"
+  },
+  "memory/daily/2026-04-20.md": {
+    "mtime": 1782482091.2315168,
+    "ast_hash": "2382e2ea4514a95602eb0905cf5610b0",
+    "semantic_hash": "2382e2ea4514a95602eb0905cf5610b0"
+  },
+  "memory/daily/2026-04-21.md": {
+    "mtime": 1782482091.2320569,
+    "ast_hash": "95974458f9f46016be6a83ed3d1b601a",
+    "semantic_hash": "95974458f9f46016be6a83ed3d1b601a"
+  },
+  "memory/daily/2026-04-22.md": {
+    "mtime": 1782482091.2326035,
+    "ast_hash": "1214450975874523e7cf7e4ba3574c54",
+    "semantic_hash": "1214450975874523e7cf7e4ba3574c54"
+  },
+  "memory/daily/2026-04-23.md": {
+    "mtime": 1782482091.2331333,
+    "ast_hash": "08fecb5befb38d731621ad43042429e8",
+    "semantic_hash": "08fecb5befb38d731621ad43042429e8"
+  },
+  "memory/daily/2026-04-24.md": {
+    "mtime": 1782482091.2338064,
+    "ast_hash": "ce360d56c51df67302166e26c7c7732f",
+    "semantic_hash": "ce360d56c51df67302166e26c7c7732f"
+  },
+  "memory/daily/2026-04-25.md": {
+    "mtime": 1782482091.234351,
+    "ast_hash": "e36665d7414098ba9933176b73c29b3a",
+    "semantic_hash": "e36665d7414098ba9933176b73c29b3a"
+  },
+  "memory/daily/2026-04-28.md": {
+    "mtime": 1782482018.748951,
+    "ast_hash": "1994740f911f453418886f60f1c7c656",
+    "semantic_hash": "1994740f911f453418886f60f1c7c656"
+  },
+  "memory/daily/2026-04-29.md": {
+    "mtime": 1782482018.7494986,
+    "ast_hash": "521c2aa3a8192b87c1ec5c0c9790ee65",
+    "semantic_hash": "521c2aa3a8192b87c1ec5c0c9790ee65"
+  },
+  "memory/daily/2026-05-01.md": {
+    "mtime": 1782482091.2358158,
+    "ast_hash": "9ba64c83f65b3dd6f257e72f03669778",
+    "semantic_hash": "9ba64c83f65b3dd6f257e72f03669778"
+  },
+  "memory/daily/2026-05-02.md": {
+    "mtime": 1782482091.2363877,
+    "ast_hash": "cfb170f71952e437d92bd23dea9c36fe",
+    "semantic_hash": "cfb170f71952e437d92bd23dea9c36fe"
+  },
+  "memory/daily/2026-05-05.md": {
+    "mtime": 1782482018.751467,
+    "ast_hash": "4df8f0cbc0e17d676eab97dc6b57e109",
+    "semantic_hash": "4df8f0cbc0e17d676eab97dc6b57e109"
+  },
+  "memory/daily/2026-05-07.md": {
+    "mtime": 1782482018.7521117,
+    "ast_hash": "77606c42a4ffa7f411842dd224526725",
+    "semantic_hash": "77606c42a4ffa7f411842dd224526725"
+  },
+  "memory/daily/2026-05-10.md": {
+    "mtime": 1782482091.2381234,
+    "ast_hash": "14821f78dd1f166d197242afba5844ec",
+    "semantic_hash": "14821f78dd1f166d197242afba5844ec"
+  },
+  "memory/daily/2026-05-11.md": {
+    "mtime": 1782482018.7534077,
+    "ast_hash": "6415b18c50de15a8d0a1c95525d92c9c",
+    "semantic_hash": "6415b18c50de15a8d0a1c95525d92c9c"
+  },
+  "memory/daily/2026-05-13.md": {
+    "mtime": 1782482018.7539573,
+    "ast_hash": "38fd382727ec9472ccc5d4e4073f3598",
+    "semantic_hash": "38fd382727ec9472ccc5d4e4073f3598"
+  },
+  "memory/daily/2026-06-22.md": {
+    "mtime": 1782583163.841023,
+    "ast_hash": "7e29d3a036580af2dfb35ad224f978d7",
+    "semantic_hash": "7e29d3a036580af2dfb35ad224f978d7"
+  },
+  "memory/daily/2026-06-23.md": {
+    "mtime": 1782583163.8416731,
+    "ast_hash": "d2da9947934032525b99fbcf5e0375d8",
+    "semantic_hash": "d2da9947934032525b99fbcf5e0375d8"
+  },
+  "memory/daily/2026-06-24.md": {
+    "mtime": 1782583163.8422444,
+    "ast_hash": "86a203711e3d18a377805c1e2e7bc9d6",
+    "semantic_hash": "86a203711e3d18a377805c1e2e7bc9d6"
+  },
+  "memory/daily/2026-06-25.md": {
+    "mtime": 1782583163.842829,
+    "ast_hash": "f2a6d86b99b267f9fcbd2754caa71fb8",
+    "semantic_hash": "f2a6d86b99b267f9fcbd2754caa71fb8"
+  },
+  "memory/daily/2026-06-26.md": {
+    "mtime": 1782583163.8434117,
+    "ast_hash": "f1a4e35f12d9b01a82a98624c580d98d",
+    "semantic_hash": "f1a4e35f12d9b01a82a98624c580d98d"
+  },
+  "memory/daily/2026-06-27.md": {
+    "mtime": 1782597759.6397882,
+    "ast_hash": "84bbcfcb9fdedf7fa80107aa69d90ba8",
+    "semantic_hash": "84bbcfcb9fdedf7fa80107aa69d90ba8"
+  },
+  "memory/daily/2026-06-28.md": {
+    "mtime": 1782684153.2944052,
+    "ast_hash": "7815cdfad06e7b0eb4c7065572a074d1",
+    "semantic_hash": "7815cdfad06e7b0eb4c7065572a074d1"
+  },
+  "memory/daily/2026-06-29.md": {
+    "mtime": 1782770634.8623066,
+    "ast_hash": "88ece745a723d5b852603e85e2da3a69",
+    "semantic_hash": "88ece745a723d5b852603e85e2da3a69"
+  },
+  "memory/local-session/MEMORY.md": {
+    "mtime": 1782482091.242658,
+    "ast_hash": "ba3bfb00c91e2bb91b7d72bcebf3f9e4",
+    "semantic_hash": "ba3bfb00c91e2bb91b7d72bcebf3f9e4"
+  },
+  "memory/local-session/decision_compass_deployment_phasing.md": {
+    "mtime": 1782482091.2434015,
+    "ast_hash": "73afbe67db71b9ebf0ff744ccbc62646",
+    "semantic_hash": "73afbe67db71b9ebf0ff744ccbc62646"
+  },
+  "memory/local-session/feedback_aurorai_spelling.md": {
+    "mtime": 1782482091.244076,
+    "ast_hash": "1369496a8a0563ff996c6eba538b4c12",
+    "semantic_hash": "1369496a8a0563ff996c6eba538b4c12"
+  },
+  "memory/local-session/feedback_deploy_cloudflare.md": {
+    "mtime": 1782482091.244705,
+    "ast_hash": "c4db0b5ada5bb038ce415288101f1403",
+    "semantic_hash": "c4db0b5ada5bb038ce415288101f1403"
+  },
+  "memory/local-session/feedback_deploy_workflow.md": {
+    "mtime": 1782482091.2453191,
+    "ast_hash": "2ca7012d079765e59a6df971d1f2c369",
+    "semantic_hash": "2ca7012d079765e59a6df971d1f2c369"
+  },
+  "memory/local-session/feedback_evidence_discipline.md": {
+    "mtime": 1782482091.2461407,
+    "ast_hash": "76924307e7cba918c1e3ee79acafc37c",
+    "semantic_hash": "76924307e7cba918c1e3ee79acafc37c"
+  },
+  "memory/local-session/feedback_objectivity_subjectivity.md": {
+    "mtime": 1782482091.2469864,
+    "ast_hash": "ee314e84217a4392353e7bb79f646a83",
+    "semantic_hash": "ee314e84217a4392353e7bb79f646a83"
+  },
+  "memory/local-session/principle_diamond_eyes.md": {
+    "mtime": 1782482091.2477515,
+    "ast_hash": "0cc8d759ff3a0cf368f0db5a834616ff",
+    "semantic_hash": "0cc8d759ff3a0cf368f0db5a834616ff"
+  },
+  "memory/local-session/project_adversarial_eval_paper.md": {
+    "mtime": 1782482091.2483838,
+    "ast_hash": "eb7f7953c1f8db19b7a9a24569391d35",
+    "semantic_hash": "eb7f7953c1f8db19b7a9a24569391d35"
+  },
+  "memory/local-session/project_aurorai_repo_split.md": {
+    "mtime": 1782482091.249089,
+    "ast_hash": "29a1de7892410dfbb494eefadbf940fc",
+    "semantic_hash": "29a1de7892410dfbb494eefadbf940fc"
+  },
+  "memory/local-session/project_forging_integration.md": {
+    "mtime": 1782482091.2499666,
+    "ast_hash": "7bf2e49392a9dfa7e9e1bfb15a727149",
+    "semantic_hash": "7bf2e49392a9dfa7e9e1bfb15a727149"
+  },
+  "memory/local-session/project_hephaistos.md": {
+    "mtime": 1782482091.2512448,
+    "ast_hash": "0d0c6fae9d6a5f7a6e3a2635379274ce",
+    "semantic_hash": "0d0c6fae9d6a5f7a6e3a2635379274ce"
+  },
+  "memory/local-session/reference_seven_pillars_stack.md": {
+    "mtime": 1782482091.2520947,
+    "ast_hash": "84c2faeccb26613fe8769daeb394b064",
+    "semantic_hash": "84c2faeccb26613fe8769daeb394b064"
+  },
+  "memory/local-session/reference_trackers.md": {
+    "mtime": 1782482091.2527287,
+    "ast_hash": "2c0501a9fad6dc859b69cef29a02211e",
+    "semantic_hash": "2c0501a9fad6dc859b69cef29a02211e"
+  },
+  "memory/local-session/three_agent_system.md": {
+    "mtime": 1782482091.253599,
+    "ast_hash": "9fd354c441376d6fe2941c4fd2c33098",
+    "semantic_hash": "9fd354c441376d6fe2941c4fd2c33098"
+  },
+  "memory/local-session/user_ethical_ground.md": {
+    "mtime": 1782482091.2543995,
+    "ast_hash": "70ce13d33fe3f6467884e926fe97dc72",
+    "semantic_hash": "70ce13d33fe3f6467884e926fe97dc72"
+  },
+  "raw/Clippings/2026 - Mauss - The Gift.md": {
+    "mtime": 1782482091.3202717,
+    "ast_hash": "f21fb77d2d339dd503f5e1a9dc0e865c",
+    "semantic_hash": "f21fb77d2d339dd503f5e1a9dc0e865c"
+  },
+  "assets/CLAUDE_md_Before_After.pdf": {
+    "mtime": 1779593851.0,
+    "ast_hash": "a4305feb33d95ff91634f56193a96b65",
+    "semantic_hash": "a4305feb33d95ff91634f56193a96b65"
+  },
+  "assets/Obsidian_Agent_Vault_Setup_Guide.pdf": {
+    "mtime": 1779593851.0,
+    "ast_hash": "ee289e879e3b59fc4eb96f5f83ebb45a",
+    "semantic_hash": "ee289e879e3b59fc4eb96f5f83ebb45a"
+  },
+  "assets/PHAROS TVQ-TPS.pdf": {
+    "mtime": 1779593851.0,
+    "ast_hash": "f51062d8b6c6425c13829126c18f5435",
+    "semantic_hash": "f51062d8b6c6425c13829126c18f5435"
+  },
+  "assets/archive/obsidian_agent_vault_setup_guide_2026-04-14.pdf": {
+    "mtime": 1779593851.0,
+    "ast_hash": "280cb6c207ddf64c201be47a3847e2f0",
+    "semantic_hash": "280cb6c207ddf64c201be47a3847e2f0"
+  },
+  "assets/obsidian-vault-slides.pdf": {
+    "mtime": 1779593852.0,
+    "ast_hash": "d5d9a9e3707427aaf46af704c5f8f30a",
+    "semantic_hash": "d5d9a9e3707427aaf46af704c5f8f30a"
+  },
+  "raw/00_Inbox/Raw/REVISIONS - BRAIN PAPER JOURNAL.txt": {
+    "mtime": 1779593852.0,
+    "ast_hash": "a1ed6573efb974218858d73deca4e991",
+    "semantic_hash": "a1ed6573efb974218858d73deca4e991"
+  },
+  ".trash/2017 - UQA M Universite du Quebec a Montreal Releve de notes.md": {
+    "mtime": 1782482090.9978797,
+    "ast_hash": "5d04945ab77af5058b4c69335674c8c7",
+    "semantic_hash": "5d04945ab77af5058b4c69335674c8c7"
+  },
+  ".trash/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec.md": {
+    "mtime": 1782482090.9986274,
+    "ast_hash": "0787195f928f2efe17839a2d874bdd16",
+    "semantic_hash": "0787195f928f2efe17839a2d874bdd16"
+  },
+  ".trash/2025 - 21025 422 PM Consulter des donnees fiscales - Revenu Quebec.md": {
+    "mtime": 1782482090.9993722,
+    "ast_hash": "9998b831eb9ac4d9f6d67341a0530769",
+    "semantic_hash": "9998b831eb9ac4d9f6d67341a0530769"
+  },
+  ".trash/2026-05-05_botpress-enterprise.md": {
+    "mtime": 1782482091.0000474,
+    "ast_hash": "b85c50039e5b82137365fc00d9498697",
+    "semantic_hash": "b85c50039e5b82137365fc00d9498697"
+  },
+  ".trash/ACTOR Framework Worksheet.md": {
+    "mtime": 1782482091.0006964,
+    "ast_hash": "646fee7c418febb204bbf6da9e44b33a",
+    "semantic_hash": "646fee7c418febb204bbf6da9e44b33a"
+  },
+  ".trash/Agents vs. Chatbots Fundamentals.md": {
+    "mtime": 1782482091.0012703,
+    "ast_hash": "5fb1f25f9a8b3c7d239d8415cb7d4f7b",
+    "semantic_hash": "5fb1f25f9a8b3c7d239d8415cb7d4f7b"
+  },
+  ".trash/Building Your First AI Agent with OpenAI.md": {
+    "mtime": 1782482091.0018861,
+    "ast_hash": "aea1a7ed4f27e508b6715400e99272bf",
+    "semantic_hash": "aea1a7ed4f27e508b6715400e99272bf"
+  },
+  ".trash/Building Your First AI Agent with OpenAI_____.md": {
+    "mtime": 1782482091.0025847,
+    "ast_hash": "a143d359f904d5c4216c08ac44a51a1f",
+    "semantic_hash": "a143d359f904d5c4216c08ac44a51a1f"
+  },
+  ".trash/Building Your First AI Agent with OpenAI______.md": {
+    "mtime": 1782482091.0031857,
+    "ast_hash": "26d088e815b3897ceefe522c4d742723",
+    "semantic_hash": "26d088e815b3897ceefe522c4d742723"
+  },
+  ".trash/Building Your First AI Agent with OpenAI_______.md": {
+    "mtime": 1782482091.0038612,
+    "ast_hash": "04fd212eb72801a8ce48feb66126de9d",
+    "semantic_hash": "04fd212eb72801a8ce48feb66126de9d"
+  },
+  ".trash/Building Your First AI Agent with OpenAI________.md": {
+    "mtime": 1782482091.0044541,
+    "ast_hash": "b061b3c7ac8749bbb5d1c585008cce81",
+    "semantic_hash": "b061b3c7ac8749bbb5d1c585008cce81"
+  },
+  "Areas/Lavoie/AREA.md": {
+    "mtime": 1782748050.2688346,
+    "ast_hash": "dc191b04041ae839dcd36a19ba7e499d",
+    "semantic_hash": "dc191b04041ae839dcd36a19ba7e499d"
+  },
+  "Areas/PHAROS/AREA.md": {
+    "mtime": 1782748043.5078347,
+    "ast_hash": "956ffa408239ad20bcdf0f69996e6bb4",
+    "semantic_hash": "956ffa408239ad20bcdf0f69996e6bb4"
+  },
+  "Areas/Personal/AREA.md": {
+    "mtime": 1782748058.4426956,
+    "ast_hash": "90f2f483bb416aedee1a4a9c5266ee18",
+    "semantic_hash": "90f2f483bb416aedee1a4a9c5266ee18"
+  },
+  "INTERNAL/CLIENT ACCOUNTS/OPEN/ExterminationDG/audits/seo-audit-baseline-2026-04-30.txt": {
+    "mtime": 1779593851.0,
+    "ast_hash": "561766707c48568fb85d458b94f3b9ce",
+    "semantic_hash": "561766707c48568fb85d458b94f3b9ce"
+  },
+  "Inbox/README.md": {
+    "mtime": 1782748037.5530229,
+    "ast_hash": "d400a905a5b704fcc73965e1b0130ddf",
+    "semantic_hash": "d400a905a5b704fcc73965e1b0130ddf"
+  },
+  "Logs/2026-06-29.md": {
+    "mtime": 1782754631.2809188,
+    "ast_hash": "6c483ff6470169c2b6d2460a19b517fa",
+    "semantic_hash": "6c483ff6470169c2b6d2460a19b517fa"
+  },
+  "PEER-REVIEW/00_PROJECT_CONTROL/CLAIM_REGISTER.md": {
+    "mtime": 1782482091.0161374,
+    "ast_hash": "979713b97424d0badb713bebfa3fadd2",
+    "semantic_hash": "979713b97424d0badb713bebfa3fadd2"
+  },
+  "PEER-REVIEW/00_PROJECT_CONTROL/JOURNAL_GUIDELINES.md": {
+    "mtime": 1782482091.0167015,
+    "ast_hash": "4a8e8d7f6cbbcb8354a8a7f613748a7b",
+    "semantic_hash": "4a8e8d7f6cbbcb8354a8a7f613748a7b"
+  },
+  "PEER-REVIEW/00_PROJECT_CONTROL/MODEL_HANDOFF_LOG.md": {
+    "mtime": 1782482091.0172353,
+    "ast_hash": "ba9b446d2b33f298cb081473c8786503",
+    "semantic_hash": "ba9b446d2b33f298cb081473c8786503"
+  },
+  "PEER-REVIEW/00_PROJECT_CONTROL/PROJECT_BRIEF.md": {
+    "mtime": 1782588366.2912636,
+    "ast_hash": "b0b7ce780acec8b1bcb1d12e278dccb4",
+    "semantic_hash": "b0b7ce780acec8b1bcb1d12e278dccb4"
+  },
+  "PEER-REVIEW/00_PROJECT_CONTROL/SECTION_PLAN.md": {
+    "mtime": 1782482091.0183153,
+    "ast_hash": "d9f8347b47253e039707e8ca0ac5db64",
+    "semantic_hash": "d9f8347b47253e039707e8ca0ac5db64"
+  },
+  "PEER-REVIEW/01_RAW_MATERIALS/MATERIALS_INVENTORY.md": {
+    "mtime": 1782482091.0193994,
+    "ast_hash": "d6035e092c97f07d93e6b2ca69b44657",
+    "semantic_hash": "d6035e092c97f07d93e6b2ca69b44657"
+  },
+  "PEER-REVIEW/01_RAW_MATERIALS/README.md": {
+    "mtime": 1782482091.0199337,
+    "ast_hash": "ea79de58db225ad93878b8469d7bbe15",
+    "semantic_hash": "ea79de58db225ad93878b8469d7bbe15"
+  },
+  "PEER-REVIEW/01_RAW_MATERIALS/UNCERTAINTY_REGISTER.md": {
+    "mtime": 1782482091.0204897,
+    "ast_hash": "85689a8cf6fcf76127a2528fea71d332",
+    "semantic_hash": "85689a8cf6fcf76127a2528fea71d332"
+  },
+  "PEER-REVIEW/02_SOURCE_FIELD/ADJACENT_LITERATURES.md": {
+    "mtime": 1782482091.021016,
+    "ast_hash": "bf2ec138560fb0d49ef19d28e2161cf1",
+    "semantic_hash": "bf2ec138560fb0d49ef19d28e2161cf1"
+  },
+  "PEER-REVIEW/02_SOURCE_FIELD/CANONICAL_WORKS.md": {
+    "mtime": 1782482091.0215514,
+    "ast_hash": "a468ac5b3de59d23040078dae61a2dad",
+    "semantic_hash": "a468ac5b3de59d23040078dae61a2dad"
+  },
+  "PEER-REVIEW/02_SOURCE_FIELD/REFERENCE_TREE.md": {
+    "mtime": 1782482091.022078,
+    "ast_hash": "2f0ac596c263044d5de1acc41ddb2c72",
+    "semantic_hash": "2f0ac596c263044d5de1acc41ddb2c72"
+  },
+  "PEER-REVIEW/02_SOURCE_FIELD/SOURCE_GAPS.md": {
+    "mtime": 1782482091.022642,
+    "ast_hash": "4412711326ee29c62214d6fd52e40fcc",
+    "semantic_hash": "4412711326ee29c62214d6fd52e40fcc"
+  },
+  "PEER-REVIEW/02_SOURCE_FIELD/SOURCE_MATRIX.md": {
+    "mtime": 1782482091.0231786,
+    "ast_hash": "6efca5f32b42da889ab5cae6baf93072",
+    "semantic_hash": "6efca5f32b42da889ab5cae6baf93072"
+  },
+  "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/ABSTRACT_REVISED_AFTER_BODY.md": {
+    "mtime": 1782482091.0237453,
+    "ast_hash": "3581931cda43415fd7e0ce2f7113d45a",
+    "semantic_hash": "3581931cda43415fd7e0ce2f7113d45a"
+  },
+  "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/ABSTRACT_V1.md": {
+    "mtime": 1782482091.0242708,
+    "ast_hash": "a93a18e3c3ccef2744c25c7aa88a2882",
+    "semantic_hash": "a93a18e3c3ccef2744c25c7aa88a2882"
+  },
+  "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/OUTLINE_REVIEW.md": {
+    "mtime": 1782482091.0248218,
+    "ast_hash": "3b6529e04b6080fd816e29d1b54e59d8",
+    "semantic_hash": "3b6529e04b6080fd816e29d1b54e59d8"
+  },
+  "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/OUTLINE_V1.md": {
+    "mtime": 1782482091.0253706,
+    "ast_hash": "f15edec94ae5be87ef3d0c02e91df99d",
+    "semantic_hash": "f15edec94ae5be87ef3d0c02e91df99d"
+  },
+  "PEER-REVIEW/04_RESEARCH_BUNDLE/CITATION_CANDIDATES.md": {
+    "mtime": 1782482091.0259142,
+    "ast_hash": "e91853e147ea00a636ff64b1f1818bd0",
+    "semantic_hash": "e91853e147ea00a636ff64b1f1818bd0"
+  },
+  "PEER-REVIEW/04_RESEARCH_BUNDLE/CLAIM_TO_SOURCE_MAP.md": {
+    "mtime": 1782482091.0264556,
+    "ast_hash": "38b7c15d3ac74558b3324dcb23a6431e",
+    "semantic_hash": "38b7c15d3ac74558b3324dcb23a6431e"
+  },
+  "PEER-REVIEW/NODE_INSTRUCTIONS.md": {
+    "mtime": 1782482091.0385094,
+    "ast_hash": "280744fb392cb577c178aaf8e7e58ad9",
+    "semantic_hash": "280744fb392cb577c178aaf8e7e58ad9"
+  },
+  "Publications/Papers and Chapters/Rivard2026/Pourquoi r\u00eaver encore-@nalyses-REWRITE.md": {
+    "mtime": 1782482091.041048,
+    "ast_hash": "67c9f441aad76fc61972a4996092bc8b",
+    "semantic_hash": "67c9f441aad76fc61972a4996092bc8b"
+  },
+  "Resources/ROUTING.md": {
+    "mtime": 1782748082.9448352,
+    "ast_hash": "eb379857223c46acaebfcc8f44c88890",
+    "semantic_hash": "eb379857223c46acaebfcc8f44c88890"
+  },
+  "_vault/AGENTS.md": {
+    "mtime": 1782482091.0436492,
+    "ast_hash": "36128d50c14149d35099264abb17d230",
+    "semantic_hash": "36128d50c14149d35099264abb17d230"
+  },
+  "_vault/ARCHITECTURE-STATUS-MARKING-CHECKLIST.md": {
+    "mtime": 1782482091.0444603,
+    "ast_hash": "043ff75cc6f35d87c951dcd1815bdc87",
+    "semantic_hash": "043ff75cc6f35d87c951dcd1815bdc87"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05_From_Recursive_Production_to_Governable_Method.md": {
+    "mtime": 1782482091.0524216,
+    "ast_hash": "05f03b3430e7ca308a2b7df91e4f97a0",
+    "semantic_hash": "05f03b3430e7ca308a2b7df91e4f97a0"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Disguised_Prompt_Sequence.md": {
+    "mtime": 1782482091.0551255,
+    "ast_hash": "3e315427e95ca0826d6cc322b510e14f",
+    "semantic_hash": "3e315427e95ca0826d6cc322b510e14f"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Public_28-step_Description.md": {
+    "mtime": 1782482091.056273,
+    "ast_hash": "38fc608f7b5948f2b9b79ce08710c804",
+    "semantic_hash": "38fc608f7b5948f2b9b79ce08710c804"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template.md": {
+    "mtime": 1782482091.0569203,
+    "ast_hash": "29d8f0b0cb2c25268ae5f6aea92c9528",
+    "semantic_hash": "29d8f0b0cb2c25268ae5f6aea92c9528"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Template.txt": {
+    "mtime": 1779593851.0,
+    "ast_hash": "5cb8cf5d65c912c401979b25c43197c6",
+    "semantic_hash": "5cb8cf5d65c912c401979b25c43197c6"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/editorial_log.md": {
+    "mtime": 1782482091.0609388,
+    "ast_hash": "dc6844f7097b3a76b1a3b75902eb624b",
+    "semantic_hash": "dc6844f7097b3a76b1a3b75902eb624b"
+  },
+  "archive/consolidation-records/merge-candidates-2026-05-14.md": {
+    "mtime": 1782482091.061551,
+    "ast_hash": "eb4c189139da7f6264d778a0afb1c8d1",
+    "semantic_hash": "eb4c189139da7f6264d778a0afb1c8d1"
+  },
+  "archive/orphan-root/Untitled Kanban 1 \u2014 empty board archived 2026-05-31.md": {
+    "mtime": 1782482091.0621567,
+    "ast_hash": "604e043f7c669ef61d42d500a9ac5776",
+    "semantic_hash": "604e043f7c669ef61d42d500a9ac5776"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/01-deploy-config/requirements.txt": {
+    "mtime": 1779593851.0,
+    "ast_hash": "5ed7bf0fc350856e004c511360a291ff",
+    "semantic_hash": "5ed7bf0fc350856e004c511360a291ff"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/02-pipeline-triage/martin_decision_brief.md": {
+    "mtime": 1782482091.0653782,
+    "ast_hash": "495793c4e10044a82249303ee9c9f44b",
+    "semantic_hash": "495793c4e10044a82249303ee9c9f44b"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/03-pr4-hardening/CODEX_PROMPT_SERVER_HARDENING.md": {
+    "mtime": 1782482091.0660768,
+    "ast_hash": "7fe8751998491ea07a5312d23cf40bba",
+    "semantic_hash": "7fe8751998491ea07a5312d23cf40bba"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/03-pr4-hardening/reference/requirements.txt": {
+    "mtime": 1779593851.0,
+    "ast_hash": "5ed7bf0fc350856e004c511360a291ff",
+    "semantic_hash": "5ed7bf0fc350856e004c511360a291ff"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/_manifest/GAP-pr4-server-spec-alignment.md": {
+    "mtime": 1782482091.066859,
+    "ast_hash": "aff2ed0d04a952b314759dd5b05fd3e7",
+    "semantic_hash": "aff2ed0d04a952b314759dd5b05fd3e7"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/_manifest/RUN-ORDER.md": {
+    "mtime": 1782482091.0685139,
+    "ast_hash": "ea42e84aefd058ef9256fb40a8e5548a",
+    "semantic_hash": "ea42e84aefd058ef9256fb40a8e5548a"
+  },
+  "artifacts/2026-04-19-pharos-migration-pr4/_manifest/SHA256SUMS.txt": {
+    "mtime": 1779593851.0,
+    "ast_hash": "4686c623e7a3b51215b6d5a007224ca5",
+    "semantic_hash": "4686c623e7a3b51215b6d5a007224ca5"
+  },
+  "artifacts/emerge-pattern-report-2026-06-29.md": {
+    "mtime": 1782748743.0100973,
+    "ast_hash": "93e3c1069fb45b93f6c4cae0426d1247",
+    "semantic_hash": "93e3c1069fb45b93f6c4cae0426d1247"
+  },
+  "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/skill_template.md": {
+    "mtime": 1782482091.0885856,
+    "ast_hash": "4bae038d7738df169c520b56c257e226",
+    "semantic_hash": "4bae038d7738df169c520b56c257e226"
+  },
+  "artifacts/marketplace/promo/README.md": {
+    "mtime": 1782482091.0942516,
+    "ast_hash": "7d0db0fcac7fcd2ba780b0d3b52304c3",
+    "semantic_hash": "7d0db0fcac7fcd2ba780b0d3b52304c3"
+  },
+  "artifacts/marketplace/promo/community-posts.md": {
+    "mtime": 1782482091.0949771,
+    "ast_hash": "cb511b03d487fd7b0284b9b212509fb7",
+    "semantic_hash": "cb511b03d487fd7b0284b9b212509fb7"
+  },
+  "artifacts/marketplace/promo/devto-iter13-decision-log-deepdive.md": {
+    "mtime": 1782482091.095877,
+    "ast_hash": "1e8c71d6503d20e9c8b2fa54dd3e2acd",
+    "semantic_hash": "1e8c71d6503d20e9c8b2fa54dd3e2acd"
+  },
+  "artifacts/marketplace/promo/devto-iter17-prompting-problem.md": {
+    "mtime": 1782482091.0966172,
+    "ast_hash": "a95491cbf4ee58ae96bb300480028001",
+    "semantic_hash": "a95491cbf4ee58ae96bb300480028001"
+  },
+  "artifacts/marketplace/promo/devto-iter21-roi-calculation.md": {
+    "mtime": 1782482091.0973494,
+    "ast_hash": "f54d70d25743c44e243ad55e3df8a453",
+    "semantic_hash": "f54d70d25743c44e243ad55e3df8a453"
+  },
+  "artifacts/marketplace/promo/devto-iter25-hallucination-fix.md": {
+    "mtime": 1782482091.09809,
+    "ast_hash": "beac41b24225488e57cf35af0b89d4fa",
+    "semantic_hash": "beac41b24225488e57cf35af0b89d4fa"
+  },
+  "artifacts/marketplace/promo/devto-iter29-context-window-not-memory.md": {
+    "mtime": 1782482091.0988252,
+    "ast_hash": "ab5b2b0045a12a3dc5a978e92e1c7cf3",
+    "semantic_hash": "ab5b2b0045a12a3dc5a978e92e1c7cf3"
+  },
+  "artifacts/marketplace/promo/devto-iter33-architecture-guide.md": {
+    "mtime": 1782482091.0995808,
+    "ast_hash": "fffbfbf97bee7bb6372f0bac281436ba",
+    "semantic_hash": "fffbfbf97bee7bb6372f0bac281436ba"
+  },
+  "artifacts/marketplace/promo/devto-iter37-three-notes.md": {
+    "mtime": 1782482091.1003082,
+    "ast_hash": "95067c397e84898beb900666ad707569",
+    "semantic_hash": "95067c397e84898beb900666ad707569"
+  },
+  "artifacts/marketplace/promo/devto-iter41-code-review.md": {
+    "mtime": 1782482091.1010556,
+    "ast_hash": "423f57b61f05cf8e8237b155fbf18162",
+    "semantic_hash": "423f57b61f05cf8e8237b155fbf18162"
+  },
+  "artifacts/marketplace/promo/devto-iter49-claudemd-fails.md": {
+    "mtime": 1782482091.1018045,
+    "ast_hash": "003f86aa3894eb699611690f583f2068",
+    "semantic_hash": "003f86aa3894eb699611690f583f2068"
+  },
+  "artifacts/marketplace/promo/devto-iter9-comparison.md": {
+    "mtime": 1782482091.1026807,
+    "ast_hash": "0a22c961cd7bbd8ecfa53349789e4875",
+    "semantic_hash": "0a22c961cd7bbd8ecfa53349789e4875"
+  },
+  "artifacts/marketplace/promo/gumroad-listing.md": {
+    "mtime": 1782482091.1033916,
+    "ast_hash": "b39c438ba9318ad1e5aad1c295e2ca3c",
+    "semantic_hash": "b39c438ba9318ad1e5aad1c295e2ca3c"
+  },
+  "artifacts/marketplace/promo/hashnode-iter14-scaling.md": {
+    "mtime": 1782482091.104296,
+    "ast_hash": "554eb91c9b400e64c62fb882db5e4804",
+    "semantic_hash": "554eb91c9b400e64c62fb882db5e4804"
+  },
+  "artifacts/marketplace/promo/hashnode-iter18-no-rag.md": {
+    "mtime": 1782482091.1050432,
+    "ast_hash": "253c126faad2c5226097ffaef4cd6592",
+    "semantic_hash": "253c126faad2c5226097ffaef4cd6592"
+  },
+  "artifacts/marketplace/promo/hashnode-iter22-graph-vs-folders.md": {
+    "mtime": 1782482091.105801,
+    "ast_hash": "e55e3e9231be71899774c1425c86ed78",
+    "semantic_hash": "e55e3e9231be71899774c1425c86ed78"
+  },
+  "artifacts/marketplace/promo/hashnode-iter26-synthesis-habit.md": {
+    "mtime": 1782482091.1065624,
+    "ast_hash": "2039315e15e57a5868c3a9a8ea3a6659",
+    "semantic_hash": "2039315e15e57a5868c3a9a8ea3a6659"
+  },
+  "artifacts/marketplace/promo/hashnode-iter30-hub-note-pattern.md": {
+    "mtime": 1782482091.1073039,
+    "ast_hash": "0a9ebe984303fe01f3e9fe92ae8a8744",
+    "semantic_hash": "0a9ebe984303fe01f3e9fe92ae8a8744"
+  },
+  "artifacts/marketplace/promo/hashnode-iter34-skill-guides.md": {
+    "mtime": 1782482091.1101375,
+    "ast_hash": "bfc8692b8f151aec89e0151a9e7d9bb6",
+    "semantic_hash": "bfc8692b8f151aec89e0151a9e7d9bb6"
+  },
+  "artifacts/marketplace/promo/hashnode-iter38-writing-for-ai.md": {
+    "mtime": 1782482091.110916,
+    "ast_hash": "1a8dcfe445768e546c12c386901a017e",
+    "semantic_hash": "1a8dcfe445768e546c12c386901a017e"
+  },
+  "artifacts/marketplace/promo/hashnode-iter42-open-questions.md": {
+    "mtime": 1782482091.1116753,
+    "ast_hash": "74fa1f4fa3975e0aa4517912b41eb08b",
+    "semantic_hash": "74fa1f4fa3975e0aa4517912b41eb08b"
+  },
+  "artifacts/marketplace/promo/hashnode-iter46-active-constraints.md": {
+    "mtime": 1782482091.1124015,
+    "ast_hash": "5f1395ca4a3622442653946bc65b3a46",
+    "semantic_hash": "5f1395ca4a3622442653946bc65b3a46"
+  },
+  "governance/hephaistos/BOWIE.md": {
+    "mtime": 1782482091.13611,
+    "ast_hash": "7234616bb6c3f2c4b70407a1f3912168",
+    "semantic_hash": "7234616bb6c3f2c4b70407a1f3912168"
+  },
+  "governance/hephaistos/CLAUDE-REVIEW-CHECKLIST.md": {
+    "mtime": 1782482217.7566469,
+    "ast_hash": "f812b075e0c73d9a6afcf1436cf3447e",
+    "semantic_hash": "f812b075e0c73d9a6afcf1436cf3447e"
+  },
+  "governance/hephaistos/CLAUDE.md": {
+    "mtime": 1782482091.1374106,
+    "ast_hash": "cd1c269325acc823dab1cd72bf20f3b4",
+    "semantic_hash": "cd1c269325acc823dab1cd72bf20f3b4"
+  },
+  "governance/hephaistos/COUNTER-AUDIT-IMPLEMENTATION.md": {
+    "mtime": 1782482091.1393886,
+    "ast_hash": "7493c90374a7bf9e66a54daa848345c0",
+    "semantic_hash": "7493c90374a7bf9e66a54daa848345c0"
+  },
+  "governance/hephaistos/DEPLOYMENT-CHECKLIST.md": {
+    "mtime": 1782482091.1401985,
+    "ast_hash": "d82bb774077ec205a3aab9601ea37e85",
+    "semantic_hash": "d82bb774077ec205a3aab9601ea37e85"
+  },
+  "governance/hephaistos/DIAMOND-EYES.md": {
+    "mtime": 1782482091.1408787,
+    "ast_hash": "435f2b8431b0bee222c01ffcec8f6d78",
+    "semantic_hash": "435f2b8431b0bee222c01ffcec8f6d78"
+  },
+  "governance/hephaistos/FORGING-AUDIT.md": {
+    "mtime": 1782482091.1416357,
+    "ast_hash": "7df7287de317185833229923af668fe1",
+    "semantic_hash": "7df7287de317185833229923af668fe1"
+  },
+  "governance/hephaistos/FORGING-TIER-0-QUICKSTART.md": {
+    "mtime": 1782482091.142385,
+    "ast_hash": "bc3e8b7deff4ae545d7c8604c56718d0",
+    "semantic_hash": "bc3e8b7deff4ae545d7c8604c56718d0"
+  },
+  "governance/hephaistos/FORGING-TIER-0.md": {
+    "mtime": 1782482091.1431327,
+    "ast_hash": "8e883a990b32a492e853b9f3472ae41a",
+    "semantic_hash": "8e883a990b32a492e853b9f3472ae41a"
+  },
+  "governance/hephaistos/GOVERNANCE-INFRASTRUCTURE-MANIFEST.md": {
+    "mtime": 1782482217.7637413,
+    "ast_hash": "65fcb71871fdb77685ca0def97404d4a",
+    "semantic_hash": "65fcb71871fdb77685ca0def97404d4a"
+  },
+  "governance/hephaistos/HEPHAISTOS_OPERATIONS.md": {
+    "mtime": 1782482091.1503377,
+    "ast_hash": "36736521317681727f271fd833eb63eb",
+    "semantic_hash": "36736521317681727f271fd833eb63eb"
+  },
+  "governance/hephaistos/HERMES_OPERATIONS.md": {
+    "mtime": 1782482091.154094,
+    "ast_hash": "d956915cefa6acc6f974abe2e425cbeb",
+    "semantic_hash": "d956915cefa6acc6f974abe2e425cbeb"
+  },
+  "governance/hephaistos/SPECIALIST-GUIDELINE-AUTHORITY.md": {
+    "mtime": 1782482091.1650136,
+    "ast_hash": "96a6240cc77bd97c59f6d2c517353597",
+    "semantic_hash": "96a6240cc77bd97c59f6d2c517353597"
+  },
+  "governance/hephaistos/writing-vulnerability-transparency-gates.md": {
+    "mtime": 1782482091.1792986,
+    "ast_hash": "a6e597e0f1a2223983266d37b859422f",
+    "semantic_hash": "a6e597e0f1a2223983266d37b859422f"
+  },
+  "graphify-out/converted/pharos-inventory-2026-04-18_b9b1ffde.md": {
+    "mtime": 1782790217.9376554,
+    "ast_hash": "952b31fd5290ab65298a6502871b1f19",
+    "semantic_hash": "952b31fd5290ab65298a6502871b1f19"
+  },
+  "hephaistos/DEPLOYMENT-CHECKLIST.md": {
+    "mtime": 1782482091.1799135,
+    "ast_hash": "e5ea2b5c08fffa5bf50a7180f9ee782b",
+    "semantic_hash": "e5ea2b5c08fffa5bf50a7180f9ee782b"
+  },
+  "hephaistos/SKILL-MAP.md": {
+    "mtime": 1782482091.1804917,
+    "ast_hash": "7cb8de201204f561d06698a4cb1261da",
+    "semantic_hash": "7cb8de201204f561d06698a4cb1261da"
+  },
+  "hephaistos/agents/GADGET Frontier Scout External Integration Agent.md": {
+    "mtime": 1782482091.1811566,
+    "ast_hash": "861370f108f4a0f83f1b6f722846c2fd",
+    "semantic_hash": "861370f108f4a0f83f1b6f722846c2fd"
+  },
+  "hephaistos/agents/Trismegiste Personal AI Assistant.md": {
+    "mtime": 1782482091.1818535,
+    "ast_hash": "d5378e419a5bacc06691d6e707eec6d7",
+    "semantic_hash": "d5378e419a5bacc06691d6e707eec6d7"
+  },
+  "hephaistos/agents/argus.md": {
+    "mtime": 1782482091.183732,
+    "ast_hash": "5c75faad274aa2a0d5513356ac269ff2",
+    "semantic_hash": "5c75faad274aa2a0d5513356ac269ff2"
+  },
+  "hephaistos/agents/hephaistos.md": {
+    "mtime": 1782482091.1851516,
+    "ast_hash": "b8f02d18766beb19c4a6ea866b68ba91",
+    "semantic_hash": "b8f02d18766beb19c4a6ea866b68ba91"
+  },
+  "hephaistos/agents/hermes.md": {
+    "mtime": 1782482091.1861565,
+    "ast_hash": "83cc1d7f9e78db007b22212353458c37",
+    "semantic_hash": "83cc1d7f9e78db007b22212353458c37"
+  },
+  "hephaistos/agents/queen-keyport.md": {
+    "mtime": 1782482091.187177,
+    "ast_hash": "0bbe297249c990f1af6b90dd651148ce",
+    "semantic_hash": "0bbe297249c990f1af6b90dd651148ce"
+  },
+  "hephaistos/hq-disagreement-test-case.md": {
+    "mtime": 1782482091.1877763,
+    "ast_hash": "0f75cf4968444496959466195aa1664c",
+    "semantic_hash": "0f75cf4968444496959466195aa1664c"
+  },
+  "hephaistos/personal-assistant-agents/README.md": {
+    "mtime": 1782482091.2579465,
+    "ast_hash": "0d47e113496dfe97af75d566a79e0479",
+    "semantic_hash": "0d47e113496dfe97af75d566a79e0479"
+  },
+  "hephaistos/personal-assistant-agents/content-inventory-cartographer/SKILL.md": {
+    "mtime": 1782482091.2590299,
+    "ast_hash": "0a70a9777047438acc85197e3ac4deb0",
+    "semantic_hash": "0a70a9777047438acc85197e3ac4deb0"
+  },
+  "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/ecosystem.md": {
+    "mtime": 1782482091.2603333,
+    "ast_hash": "14027dc348fd4d44daa3d4d0903cc386",
+    "semantic_hash": "14027dc348fd4d44daa3d4d0903cc386"
+  },
+  "hephaistos/personal-assistant-agents/demand-scout/SKILL.md": {
+    "mtime": 1782482091.2637236,
+    "ast_hash": "3ddbc1042e18a4fc0ea6891a0a13e629",
+    "semantic_hash": "3ddbc1042e18a4fc0ea6891a0a13e629"
+  },
+  "hephaistos/personal-assistant-agents/demand-scout/references/ecosystem.md": {
+    "mtime": 1782482091.2642891,
+    "ast_hash": "df4da3280c5297bf3beb94c41847d587",
+    "semantic_hash": "df4da3280c5297bf3beb94c41847d587"
+  },
+  "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/SKILL.md": {
+    "mtime": 1782482091.2666614,
+    "ast_hash": "b9c9477f813e5f3ba250260f17039406",
+    "semantic_hash": "b9c9477f813e5f3ba250260f17039406"
+  },
+  "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/ecosystem.md": {
+    "mtime": 1782482091.267235,
+    "ast_hash": "bf02387f2fa37cf4c2fcef3df9166478",
+    "semantic_hash": "bf02387f2fa37cf4c2fcef3df9166478"
+  },
+  "hephaistos/personal-assistant-agents/intake-triager/SKILL.md": {
+    "mtime": 1782482091.269638,
+    "ast_hash": "119bbc23ab526f8886741d1921e82f9b",
+    "semantic_hash": "119bbc23ab526f8886741d1921e82f9b"
+  },
+  "hephaistos/personal-assistant-agents/intake-triager/references/ecosystem.md": {
+    "mtime": 1782482091.2702115,
+    "ast_hash": "879e501b5dd01cc36dfe3769acae7556",
+    "semantic_hash": "879e501b5dd01cc36dfe3769acae7556"
+  },
+  "hephaistos/personal-assistant-agents/listing-creative-director/SKILL.md": {
+    "mtime": 1782482091.2726276,
+    "ast_hash": "11ca8cff2157e460935ac068807583ca",
+    "semantic_hash": "11ca8cff2157e460935ac068807583ca"
+  },
+  "hephaistos/personal-assistant-agents/listing-creative-director/references/ecosystem.md": {
+    "mtime": 1782482091.2732122,
+    "ast_hash": "af6d14ee4fd8579dc1ec1d845f1cb1cc",
+    "semantic_hash": "af6d14ee4fd8579dc1ec1d845f1cb1cc"
+  },
+  "hephaistos/personal-assistant-agents/marketplace-dispatcher/SKILL.md": {
+    "mtime": 1782482091.2756212,
+    "ast_hash": "58845624c59cb9cbe3143e436a8e6484",
+    "semantic_hash": "58845624c59cb9cbe3143e436a8e6484"
+  },
+  "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/ecosystem.md": {
+    "mtime": 1782482091.2761915,
+    "ast_hash": "433c1e86699aa961d70ccf35a639783a",
+    "semantic_hash": "433c1e86699aa961d70ccf35a639783a"
+  },
+  "hephaistos/personal-assistant-agents/metadata-link-warden/SKILL.md": {
+    "mtime": 1782482091.278593,
+    "ast_hash": "32200e2cfbf11f88d37f0b2e7adfb050",
+    "semantic_hash": "32200e2cfbf11f88d37f0b2e7adfb050"
+  },
+  "hephaistos/personal-assistant-agents/metadata-link-warden/references/ecosystem.md": {
+    "mtime": 1782482091.2791643,
+    "ast_hash": "2acb6d8fe103e4d6b9fbc6ddbc937d3e",
+    "semantic_hash": "2acb6d8fe103e4d6b9fbc6ddbc937d3e"
+  },
+  "hephaistos/personal-assistant-agents/offer-pricing-architect/SKILL.md": {
+    "mtime": 1782482091.2815654,
+    "ast_hash": "f61be7793ba9e61a0b246d52904c667d",
+    "semantic_hash": "f61be7793ba9e61a0b246d52904c667d"
+  },
+  "hephaistos/personal-assistant-agents/offer-pricing-architect/references/ecosystem.md": {
+    "mtime": 1782482091.2821772,
+    "ast_hash": "4aa80d15d432c24fcb7d06b87af4d1ef",
+    "semantic_hash": "4aa80d15d432c24fcb7d06b87af4d1ef"
+  },
+  "hephaistos/personal-assistant-agents/raw-archivist/SKILL.md": {
+    "mtime": 1782482091.2845693,
+    "ast_hash": "ae3bb504438611778762348ec1a0a8ea",
+    "semantic_hash": "ae3bb504438611778762348ec1a0a8ea"
+  },
+  "hephaistos/personal-assistant-agents/rights-policy-warden/SKILL.md": {
+    "mtime": 1782482091.2898614,
+    "ast_hash": "74707e746e818ea2d3f36d046f04f5e6",
+    "semantic_hash": "74707e746e818ea2d3f36d046f04f5e6"
+  },
+  "hephaistos/personal-assistant-agents/rights-policy-warden/references/ecosystem.md": {
+    "mtime": 1782482091.2904015,
+    "ast_hash": "b91545ff8f3d85f736df3b93ff1f3d9a",
+    "semantic_hash": "b91545ff8f3d85f736df3b93ff1f3d9a"
+  },
+  "hephaistos/personal-assistant-agents/rights-policy-warden/references/method.md": {
+    "mtime": 1782482091.2915795,
+    "ast_hash": "c118d4b1b93c3b852b168e3034c8eb66",
+    "semantic_hash": "c118d4b1b93c3b852b168e3034c8eb66"
+  },
+  "hephaistos/personal-assistant-agents/rights-policy-warden/references/subjectivity.md": {
+    "mtime": 1782482091.2921436,
+    "ast_hash": "31ae75b0134e026de36889227bf5d770",
+    "semantic_hash": "31ae75b0134e026de36889227bf5d770"
+  },
+  "hephaistos/personal-assistant-agents/synthesis-editor/SKILL.md": {
+    "mtime": 1782482091.2927918,
+    "ast_hash": "7e1b1f4e11203073d12d071176df2424",
+    "semantic_hash": "7e1b1f4e11203073d12d071176df2424"
+  },
+  "hephaistos/personal-assistant-agents/synthesis-editor/agents/openai.yaml": {
+    "mtime": 1779593852.0,
+    "ast_hash": "e3223855f9ebc2aff249a4f3ff1c70fb",
+    "semantic_hash": "e3223855f9ebc2aff249a4f3ff1c70fb"
+  },
+  "hephaistos/personal-assistant-agents/synthesis-editor/references/ecosystem.md": {
+    "mtime": 1782482091.2933633,
+    "ast_hash": "9bd266a2f94c056edcc5fd300f6a907c",
+    "semantic_hash": "9bd266a2f94c056edcc5fd300f6a907c"
+  },
+  "hephaistos/personal-assistant-agents/synthesis-editor/references/evolution.md": {
+    "mtime": 1782482091.293936,
+    "ast_hash": "af6cb784687d9789f88b1a8a0c6b5ea0",
+    "semantic_hash": "af6cb784687d9789f88b1a8a0c6b5ea0"
+  },
+  "hephaistos/personal-assistant-agents/synthesis-editor/references/method.md": {
+    "mtime": 1782482091.294504,
+    "ast_hash": "c0f1623c0a38ff8ebe9b6498a12a7a42",
+    "semantic_hash": "c0f1623c0a38ff8ebe9b6498a12a7a42"
+  },
+  "hephaistos/personal-assistant-agents/synthesis-editor/references/subjectivity.md": {
+    "mtime": 1782482091.2950635,
+    "ast_hash": "056ddbed36c5bbe4d387d6bcee6d4b8c",
+    "semantic_hash": "056ddbed36c5bbe4d387d6bcee6d4b8c"
+  },
+  "hephaistos/personal-assistant-agents/trismegiste/README.md": {
+    "mtime": 1782482091.2956426,
+    "ast_hash": "fc2cc9dd0ba49486922ec41f5dfb9247",
+    "semantic_hash": "fc2cc9dd0ba49486922ec41f5dfb9247"
+  },
+  "hephaistos/personal-assistant-agents/trismegiste/vault/CLAUDE.md": {
+    "mtime": 1782482091.2962584,
+    "ast_hash": "4653cf0ad5c7212cbec9083c1ea39d62",
+    "semantic_hash": "4653cf0ad5c7212cbec9083c1ea39d62"
+  },
+  "hephaistos/personal-assistant-agents/trismegiste/vault/raw/README.md": {
+    "mtime": 1782482091.2968788,
+    "ast_hash": "cf057119c4aa52b320c03401804a5bd0",
+    "semantic_hash": "cf057119c4aa52b320c03401804a5bd0"
+  },
+  "hephaistos/personal-assistant-agents/trismegiste/vault/skills/README.md": {
+    "mtime": 1782482091.297476,
+    "ast_hash": "9000ebe7eadc6144e122c8816d6d6b13",
+    "semantic_hash": "9000ebe7eadc6144e122c8816d6d6b13"
+  },
+  "hephaistos/personal-assistant-agents/trismegiste/vault/skills/skill-synthesis.md": {
+    "mtime": 1782482091.298127,
+    "ast_hash": "1286e981f059d72ccec13fef7768c919",
+    "semantic_hash": "1286e981f059d72ccec13fef7768c919"
+  },
+  "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/README.md": {
+    "mtime": 1782482091.2987037,
+    "ast_hash": "c541b840622308dbaee9024f6d0ff374",
+    "semantic_hash": "c541b840622308dbaee9024f6d0ff374"
+  },
+  "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/hub-projects.md": {
+    "mtime": 1782482091.2992864,
+    "ast_hash": "d4d818e0ac677c23a927393bd4ea2c39",
+    "semantic_hash": "d4d818e0ac677c23a927393bd4ea2c39"
+  },
+  "maps/Novel Corpus Map.md": {
+    "mtime": 1782482091.1883976,
+    "ast_hash": "7f9592a468dd22df71b04c158f6277eb",
+    "semantic_hash": "7f9592a468dd22df71b04c158f6277eb"
+  },
+  "maps/PHAROS Method Map.md": {
+    "mtime": 1782482091.189304,
+    "ast_hash": "a0dbe424a7d68524b6c31e527baf052f",
+    "semantic_hash": "a0dbe424a7d68524b6c31e527baf052f"
+  },
+  "maps/Queer Media and Ritual Map.md": {
+    "mtime": 1782482091.1902661,
+    "ast_hash": "b15cbd944deb4cef4270794a8a311eed",
+    "semantic_hash": "b15cbd944deb4cef4270794a8a311eed"
+  },
+  "memory/agents/Blockers.md": {
+    "mtime": 1782482018.7005973,
+    "ast_hash": "18746a33981aa5f45f70cc9f76d52369",
+    "semantic_hash": "18746a33981aa5f45f70cc9f76d52369"
+  },
+  "memory/agents/Decisions.md": {
+    "mtime": 1782750280.7528636,
+    "ast_hash": "196edaf3e3907b68461f6bb93a3abca9",
+    "semantic_hash": "196edaf3e3907b68461f6bb93a3abca9"
+  },
+  "memory/agents/Events.md": {
+    "mtime": 1782762074.2573497,
+    "ast_hash": "8da88802e2bc0dfb21cb7c7a6ebf403c",
+    "semantic_hash": "8da88802e2bc0dfb21cb7c7a6ebf403c"
+  },
+  "memory/agents/Journal.md": {
+    "mtime": 1782482018.70299,
+    "ast_hash": "405a7531aff0d629a5bc21f952d07d8b",
+    "semantic_hash": "405a7531aff0d629a5bc21f952d07d8b"
+  },
+  "memory/agents/Learning.md": {
+    "mtime": 1782762076.484246,
+    "ast_hash": "02d84efeeef4ffaea71b8f5199c94d36",
+    "semantic_hash": "02d84efeeef4ffaea71b8f5199c94d36"
+  },
+  "memory/clients/Lavoie.md": {
+    "mtime": 1782482091.196935,
+    "ast_hash": "960c2e0d9cc13d4a7020af99c2530cf3",
+    "semantic_hash": "960c2e0d9cc13d4a7020af99c2530cf3"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_how-td-helps-advance-ai-innovation.md": {
+    "mtime": 1782482091.2087798,
+    "ast_hash": "f9b1aa128f7ce8542c15f6a18853cc11",
+    "semantic_hash": "f9b1aa128f7ce8542c15f6a18853cc11"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_leveraging-ai-to-enable-the-future-cibc-thought-leadership.md": {
+    "mtime": 1782482091.209519,
+    "ast_hash": "e351fc4df2192303ba9d7c9dc972bc7f",
+    "semantic_hash": "e351fc4df2192303ba9d7c9dc972bc7f"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_luminaryx\u00e2-\u00e2-canadian-municipal-ai-governance.md": {
+    "mtime": 1782482091.2102106,
+    "ast_hash": "9a01e78124cfc118e16b2ea7301aad95",
+    "semantic_hash": "9a01e78124cfc118e16b2ea7301aad95"
+  },
+  "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_responsible-ai-in-financial-services.md": {
+    "mtime": 1782482091.2109103,
+    "ast_hash": "b452a19261c3cf8504c9c20db77aaa59",
+    "semantic_hash": "b452a19261c3cf8504c9c20db77aaa59"
+  },
+  "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_alayaflow-alayacare.md": {
+    "mtime": 1782482091.2117105,
+    "ast_hash": "52c402e43f56952766edd943458f5659",
+    "semantic_hash": "52c402e43f56952766edd943458f5659"
+  },
+  "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_deploying-llms-safely-with-botpress-botpress-resources.md": {
+    "mtime": 1782482091.2124877,
+    "ast_hash": "70e741618743ebdb8ebe72285f39c79d",
+    "semantic_hash": "70e741618743ebdb8ebe72285f39c79d"
+  },
+  "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_humania-assurance-transforms-compliance-operations-with-ko\u00efo.md": {
+    "mtime": 1782482091.213283,
+    "ast_hash": "06b2b242d87099059520b79501ad7bda",
+    "semantic_hash": "06b2b242d87099059520b79501ad7bda"
+  },
+  "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_ko\u00efos-intelligence.md": {
+    "mtime": 1782482091.2140307,
+    "ast_hash": "682a815935da3b2566df02a3a3d5c45a",
+    "semantic_hash": "682a815935da3b2566df02a3a3d5c45a"
+  },
+  "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_safety-botpress.md": {
+    "mtime": 1782482091.2147787,
+    "ast_hash": "c4cc52ee728b6a4ecd3393fe0495fa89",
+    "semantic_hash": "c4cc52ee728b6a4ecd3393fe0495fa89"
+  },
+  "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_third-party-ai-models.md": {
+    "mtime": 1782482091.2155182,
+    "ast_hash": "482a45850ac9f49a4ebe5234aeeef0e5",
+    "semantic_hash": "482a45850ac9f49a4ebe5234aeeef0e5"
+  },
+  "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_wisedocs-medical-record-reviews-summaries-insights-for-claim.md": {
+    "mtime": 1782482091.2162933,
+    "ast_hash": "5eee9bb8fbb6e426dcdedffc7d03f974",
+    "semantic_hash": "5eee9bb8fbb6e426dcdedffc7d03f974"
+  },
+  "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_wwwtricoreaicom.md": {
+    "mtime": 1782482091.217018,
+    "ast_hash": "306b76ea16a28c90a5b28547337cd925",
+    "semantic_hash": "306b76ea16a28c90a5b28547337cd925"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_alayaflow-alayacare.md": {
+    "mtime": 1782482091.2183874,
+    "ast_hash": "603b5d9e7a97294cb451290e40d88b26",
+    "semantic_hash": "603b5d9e7a97294cb451290e40d88b26"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_beneva-choisit-loutil-de-souscription-de-global-iqx-beneva.md": {
+    "mtime": 1782482091.219981,
+    "ast_hash": "bfb2669556bb2b509b0df557f689bc00",
+    "semantic_hash": "bfb2669556bb2b509b0df557f689bc00"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_client-challenge.md": {
+    "mtime": 1782482091.2213635,
+    "ast_hash": "eeb5c0ac72be49ffea56d0e66fc9f758",
+    "semantic_hash": "eeb5c0ac72be49ffea56d0e66fc9f758"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_enterprise-ai-private-secure-customizable-cohere.md": {
+    "mtime": 1782482091.2228627,
+    "ast_hash": "fddd8a870a4c856a02d59cb13ff09e39",
+    "semantic_hash": "fddd8a870a4c856a02d59cb13ff09e39"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_lumentai-ai-consulting-autonomous-agents-montreal.md": {
+    "mtime": 1782482091.2235622,
+    "ast_hash": "654ce8d2a7235d56158bf76c20dd09a1",
+    "semantic_hash": "654ce8d2a7235d56158bf76c20dd09a1"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_our-saas-technology-platform-assent.md": {
+    "mtime": 1782482091.2242339,
+    "ast_hash": "0931113829f8c1459f47d390f1dc241c",
+    "semantic_hash": "0931113829f8c1459f47d390f1dc241c"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_our-story-leadership.md": {
+    "mtime": 1782482091.2248964,
+    "ast_hash": "c95034313f6f6fcad5a030ba59fc5dcd",
+    "semantic_hash": "c95034313f6f6fcad5a030ba59fc5dcd"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_paula-parhon-biography-desjardins.md": {
+    "mtime": 1782482091.2256641,
+    "ast_hash": "7b3efa580b5d1f79694974a5257f35cc",
+    "semantic_hash": "7b3efa580b5d1f79694974a5257f35cc"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_responsible-ai.md": {
+    "mtime": 1782482091.2263489,
+    "ast_hash": "75c25af75ca84fa8e4335c874c9dbae9",
+    "semantic_hash": "75c25af75ca84fa8e4335c874c9dbae9"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_solace-platform-solace.md": {
+    "mtime": 1782482091.2271104,
+    "ast_hash": "161f5cd9d66a7a432c04d11a3463319c",
+    "semantic_hash": "161f5cd9d66a7a432c04d11a3463319c"
+  },
+  "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_supply-chain-management-solutions-for-sustainability-assent-.md": {
+    "mtime": 1782482091.2278204,
+    "ast_hash": "a866eb19bc5b0ba8b1b3046d7d777677",
+    "semantic_hash": "a866eb19bc5b0ba8b1b3046d7d777677"
+  },
+  "memory/daily/2026-06-30.md": {
+    "mtime": 1782806479.7805383,
+    "ast_hash": "ea817509b9725bf1fd91f62801f72337",
+    "semantic_hash": "ea817509b9725bf1fd91f62801f72337"
+  },
+  "projects/AurorA \u2014 Fisher King Project State.md": {
+    "mtime": 1782748178.67653,
+    "ast_hash": "126dd20e4659c168d757b288aea61c7e",
+    "semantic_hash": "126dd20e4659c168d757b288aea61c7e"
+  },
+  "projects/COMPASSai \u2014 Fisher King Project State.md": {
+    "mtime": 1782748178.6727974,
+    "ast_hash": "eb23059abbb7104bf56433389a492637",
+    "semantic_hash": "eb23059abbb7104bf56433389a492637"
+  },
+  "projects/DOMAIN.md": {
+    "mtime": 1782748074.796354,
+    "ast_hash": "a91e37fec6c335d053fae3bd626cc60c",
+    "semantic_hash": "a91e37fec6c335d053fae3bd626cc60c"
+  },
+  "projects/Dr. Sort \u2014 Fisher King Project State.md": {
+    "mtime": 1782748187.5233269,
+    "ast_hash": "2d1b1a6f449940d18877318ba112f4d9",
+    "semantic_hash": "2d1b1a6f449940d18877318ba112f4d9"
+  },
+  "projects/Echo \u2014 Fisher King Project State.md": {
+    "mtime": 1782748178.6722558,
+    "ast_hash": "f4f7c4d0c3ec16c3e27a1e238dce75fd",
+    "semantic_hash": "f4f7c4d0c3ec16c3e27a1e238dce75fd"
+  },
+  "projects/GAIA \u2014 Fisher King Project State.md": {
+    "mtime": 1782748178.675599,
+    "ast_hash": "0641e117ae3cf139459a2ab4c0a083c1",
+    "semantic_hash": "0641e117ae3cf139459a2ab4c0a083c1"
+  },
+  "projects/Glitching the Sacred \u2014 Fisher King Project State.md": {
+    "mtime": 1782748178.671391,
+    "ast_hash": "a2c6428a08be4787fcad54d9adc6ca23",
+    "semantic_hash": "a2c6428a08be4787fcad54d9adc6ca23"
+  },
+  "projects/HELIX \u2014 Fisher King Project State.md": {
+    "mtime": 1782748178.6780584,
+    "ast_hash": "ba1b8526da49f4b3d156ac0777ecaa76",
+    "semantic_hash": "ba1b8526da49f4b3d156ac0777ecaa76"
+  },
+  "projects/LOTUS \u2014 Fisher King Project State.md": {
+    "mtime": 1782748178.6760602,
+    "ast_hash": "559033140108358688edd1a0ce84086e",
+    "semantic_hash": "559033140108358688edd1a0ce84086e"
+  },
+  "projects/Magie sanguine \u2014 Fisher King Project State.md": {
+    "mtime": 1782748187.5232048,
+    "ast_hash": "cb4671a33e80957796285b281199b616",
+    "semantic_hash": "cb4671a33e80957796285b281199b616"
+  },
+  "projects/PHAROS \u2014 Fisher King Project State.md": {
+    "mtime": 1782748178.6776667,
+    "ast_hash": "2f7b383b8713622b59bfdd220eb1224a",
+    "semantic_hash": "2f7b383b8713622b59bfdd220eb1224a"
+  },
+  "projects/Papers \u2014 Fisher King Project State.md": {
+    "mtime": 1782748178.6793003,
+    "ast_hash": "563ff35f284793f4f979fda03c49c8c6",
+    "semantic_hash": "563ff35f284793f4f979fda03c49c8c6"
+  },
+  "projects/Scripto \u2014 Fisher King Project State.md": {
+    "mtime": 1782748178.677531,
+    "ast_hash": "0a98d69e3c3f6ca0dc4193735770b57b",
+    "semantic_hash": "0a98d69e3c3f6ca0dc4193735770b57b"
+  },
+  "projects/Second Brain \u2014 Fisher King Project State.md": {
+    "mtime": 1782750239.3828633,
+    "ast_hash": "f662adf6a274826d8e9130c6dd5df86d",
+    "semantic_hash": "f662adf6a274826d8e9130c6dd5df86d"
+  },
+  "projects/Second Self \u2014 Fisher King Project State.md": {
+    "mtime": 1782748178.6796596,
+    "ast_hash": "3633ad2957087c14a466fe2ad7efc2ae",
+    "semantic_hash": "3633ad2957087c14a466fe2ad7efc2ae"
+  },
+  "projects/Stuttering Machines \u2014 Fisher King Project State.md": {
+    "mtime": 1782748178.6788368,
+    "ast_hash": "df0bc712247658917b51f0e3ffcb273e",
+    "semantic_hash": "df0bc712247658917b51f0e3ffcb273e"
+  },
+  "raw sources/1) Amazon Recruiting Tool Bias (2018).md": {
+    "mtime": 1779593852.0,
+    "ast_hash": "8f8ba73eb57f0daa510309675c8fc5ee",
+    "semantic_hash": "8f8ba73eb57f0daa510309675c8fc5ee"
+  },
+  "raw sources/1) Website Style Card.md": {
+    "mtime": 1779593852.0,
+    "ast_hash": "9ca00e75833a7552f1d778d32eb09441",
+    "semantic_hash": "9ca00e75833a7552f1d778d32eb09441"
+  },
+  "raw sources/1. Age 4\u20135 the feral cat bite.md": {
+    "mtime": 1779593852.0,
+    "ast_hash": "f6769738fcab87798f1e0df08debe224",
+    "semantic_hash": "f6769738fcab87798f1e0df08debe224"
+  },
+  "raw sources/2026 - ## SOFT WITH TEETH.md": {
+    "mtime": 1779593852.0,
+    "ast_hash": "af36d47bcb1b8c31b4a4462d073d9e57",
+    "semantic_hash": "af36d47bcb1b8c31b4a4462d073d9e57"
+  },
+  "raw sources/2026 - Mauss - The Gift 2.md": {
+    "mtime": 1779593852.0,
+    "ast_hash": "af56ffc6b230232b7a16f0942a219892",
+    "semantic_hash": "af56ffc6b230232b7a16f0942a219892"
+  },
+  "raw sources/2026 - Mauss - The Gift 3.md": {
+    "mtime": 1779593852.0,
+    "ast_hash": "71d0b498e3bbc15ca3201cdc9f4d946b",
+    "semantic_hash": "71d0b498e3bbc15ca3201cdc9f4d946b"
+  },
+  "raw sources/2026 - Mauss - The Gift 4.md": {
+    "mtime": 1779593852.0,
+    "ast_hash": "0b100be67b4ee7a5c9e563ea316f331b",
+    "semantic_hash": "0b100be67b4ee7a5c9e563ea316f331b"
+  },
+  "raw sources/2026 - Mauss - The Gift 5.md": {
+    "mtime": 1779593852.0,
+    "ast_hash": "9a7dd46e9491515480af53a034b2b6f2",
+    "semantic_hash": "9a7dd46e9491515480af53a034b2b6f2"
+  },
+  "raw sources/2026 - Mauss - The Gift 6.md": {
+    "mtime": 1779593852.0,
+    "ast_hash": "0fbc74500d4f6d78a1f4aee0df481349",
+    "semantic_hash": "0fbc74500d4f6d78a1f4aee0df481349"
+  },
+  "raw sources/2026 - Mauss - The Gift.md": {
+    "mtime": 1779593852.0,
+    "ast_hash": "bbb1238761ca20681508b0c607ec2e74",
+    "semantic_hash": "bbb1238761ca20681508b0c607ec2e74"
+  },
+  "raw/00_Inbox/Raw/2026-04-25 \u2014 DG waiting on client picks.md": {
+    "mtime": 1782482091.3147173,
+    "ast_hash": "22458f4435a3cf8cc2dd53e6195f8b21",
+    "semantic_hash": "22458f4435a3cf8cc2dd53e6195f8b21"
+  },
+  "raw/00_Inbox/Raw/2026-04-25 \u2014 Reflexive Inhabitation Audit needs a live X.md": {
+    "mtime": 1782482091.3154104,
+    "ast_hash": "6a29e8afdc2aef487910ab3698d63389",
+    "semantic_hash": "6a29e8afdc2aef487910ab3698d63389"
+  },
+  "raw/00_Inbox/Raw/2026-04-25 \u2014 Sant\u00e9-France Phase 0 \u2014 I am the blocker.md": {
+    "mtime": 1782482091.3160768,
+    "ast_hash": "d36cbfb8ad9a5e01a319e739491a8b5f",
+    "semantic_hash": "d36cbfb8ad9a5e01a319e739491a8b5f"
+  },
+  "raw/00_Inbox/Raw/2026-04-25 \u2014 Stop coding, clean, package, send.md": {
+    "mtime": 1782482091.316739,
+    "ast_hash": "126e44c2325824da3e6cb7362d911a15",
+    "semantic_hash": "126e44c2325824da3e6cb7362d911a15"
+  },
+  "raw/00_Inbox/Raw/2026-04-25 \u2014 The lost-loop pattern.md": {
+    "mtime": 1782482091.3175273,
+    "ast_hash": "8d40c11e605b6406437a7bb9f9b4c7d6",
+    "semantic_hash": "8d40c11e605b6406437a7bb9f9b4c7d6"
+  },
+  "raw/00_Inbox/Raw/2026-05-06 \u2014 Patent agent email \u2014 provisional application contract + notes.md": {
+    "mtime": 1782482091.3183234,
+    "ast_hash": "3393cef8a624a6d168b482995a0e0170",
+    "semantic_hash": "3393cef8a624a6d168b482995a0e0170"
+  },
+  "raw/00_Inbox/Raw/Email D\u00e9put\u00e9 Guilbault AE.txt": {
+    "mtime": 1779593852.0,
+    "ast_hash": "e962f869d0caf54d6f0c0af73cb99a3a",
+    "semantic_hash": "e962f869d0caf54d6f0c0af73cb99a3a"
+  },
+  "raw/00_Inbox/Raw/Formal-PHAROS-method-formal-structure-invention_disclosure.txt": {
+    "mtime": 1779593852.0,
+    "ast_hash": "fa4210b50e83240b5a0d7f9285111543",
+    "semantic_hash": "fa4210b50e83240b5a0d7f9285111543"
+  },
+  "raw/00_Inbox/Raw/Skills as self-operators.txt": {
+    "mtime": 1779593852.0,
+    "ast_hash": "84919059459a8a1f7b36bde0ba0ca461",
+    "semantic_hash": "84919059459a8a1f7b36bde0ba0ca461"
+  },
+  "raw/00_Inbox/Raw/WIP recruso paper.txt": {
+    "mtime": 1779593852.0,
+    "ast_hash": "6a56ceeb5120c9cd138bb01552e1416f",
+    "semantic_hash": "6a56ceeb5120c9cd138bb01552e1416f"
+  },
+  "raw/Clippings/AI Agent Operations and Governance Manager.md": {
+    "mtime": 1782482091.3219466,
+    "ast_hash": "105edb8622001547fce48a5f7d13b41c",
+    "semantic_hash": "105edb8622001547fce48a5f7d13b41c"
+  },
+  "raw/Clippings/AI Recruiting Has an Accessibility Problem.md": {
+    "mtime": 1782482091.322574,
+    "ast_hash": "a43c2e246d7990850590da93fbd29dbf",
+    "semantic_hash": "a43c2e246d7990850590da93fbd29dbf"
+  },
+  "raw/Clippings/AI is speeding into healthcare. Who should regulate it.md": {
+    "mtime": 1782482091.3235695,
+    "ast_hash": "cf903768daf8f3fdd53068e73413db4c",
+    "semantic_hash": "cf903768daf8f3fdd53068e73413db4c"
+  },
+  "raw/Clippings/Agent Architecture Patterns and Decision Framework.md": {
+    "mtime": 1782482091.324218,
+    "ast_hash": "f5059832c65021750d503a34f4f4bf61",
+    "semantic_hash": "f5059832c65021750d503a34f4f4bf61"
+  },
+  "raw/Clippings/Alchimie et Histoire des Sciences.md": {
+    "mtime": 1782482091.3251922,
+    "ast_hash": "1a28e53bbe5ba076cece14f2e90537c5",
+    "semantic_hash": "1a28e53bbe5ba076cece14f2e90537c5"
+  },
+  "raw/Clippings/Build  Compute  Workers & Pages  Martinlepage26@me.com's Account.md": {
+    "mtime": 1782482091.3261228,
+    "ast_hash": "a14447eff0016c11d409dd191743629d",
+    "semantic_hash": "a14447eff0016c11d409dd191743629d"
+  },
+  "raw/Clippings/Complete solutions, not compromises.md": {
+    "mtime": 1782482091.3268437,
+    "ast_hash": "09efdfdd748c3dd26e70f1d04dd8f4ab",
+    "semantic_hash": "09efdfdd748c3dd26e70f1d04dd8f4ab"
+  },
+  "raw/Clippings/MIA PAPERS PLANES lyrics.md": {
+    "mtime": 1782482091.328153,
+    "ast_hash": "96aebb3c966ad8f6ff026feae69c59c7",
+    "semantic_hash": "96aebb3c966ad8f6ff026feae69c59c7"
+  },
+  "raw/Clippings/Reddit Data API Wiki.md": {
+    "mtime": 1782482091.3291485,
+    "ast_hash": "ba922360fe7bc8bb5012823b576f52ff",
+    "semantic_hash": "ba922360fe7bc8bb5012823b576f52ff"
+  },
+  "raw/Clippings/Storyteller and AI.md": {
+    "mtime": 1782482091.329759,
+    "ast_hash": "232997118bc9078ab9b6335051c12945",
+    "semantic_hash": "232997118bc9078ab9b6335051c12945"
+  },
+  "raw/Clippings/gaga gisease lyrics.md": {
+    "mtime": 1782482091.330506,
+    "ast_hash": "97d01c64474758d9176fe8d38615a9c5",
+    "semantic_hash": "97d01c64474758d9176fe8d38615a9c5"
+  },
+  "raw/D-drive-scan-2026-05-12/MANIFEST.md": {
+    "mtime": 1782482091.3310602,
+    "ast_hash": "2a38cbd87b4d2bc2e6592fa9caa2895b",
+    "semantic_hash": "2a38cbd87b4d2bc2e6592fa9caa2895b"
+  },
+  "raw/D-drive-scan-2026-05-12/dg-migration/MIGRATION_REPORT.md": {
+    "mtime": 1782482091.331709,
+    "ast_hash": "c3bb9218b25a9441f6fcca506d6638b0",
+    "semantic_hash": "c3bb9218b25a9441f6fcca506d6638b0"
+  },
+  "raw/D-drive-scan-2026-05-12/dg-migration/approved_files.txt": {
+    "mtime": 1779593852.0,
+    "ast_hash": "f66ef6c125e1db66f7f1ca6c3b27d525",
+    "semantic_hash": "f66ef6c125e1db66f7f1ca6c3b27d525"
+  },
+  "raw/D-drive-scan-2026-05-12/dg-migration/summary.txt": {
+    "mtime": 1779593852.0,
+    "ast_hash": "da3d7711219a53ca5fca251f2494ee72",
+    "semantic_hash": "da3d7711219a53ca5fca251f2494ee72"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/README.md": {
+    "mtime": 1782482091.3322687,
+    "ast_hash": "106fcd95266c8526c0dde36edd5558d2",
+    "semantic_hash": "106fcd95266c8526c0dde36edd5558d2"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/agents/01-prime-coordinator.md": {
+    "mtime": 1782482091.3329527,
+    "ast_hash": "f65273b84ac0983760168042f005b8d0",
+    "semantic_hash": "f65273b84ac0983760168042f005b8d0"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/agents/02-context-cartographer.md": {
+    "mtime": 1782482091.3335457,
+    "ast_hash": "a6f8406bfdb6334b224749cebede6784",
+    "semantic_hash": "a6f8406bfdb6334b224749cebede6784"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/agents/03-requirements-architect.md": {
+    "mtime": 1782482091.3341372,
+    "ast_hash": "c805843bb88cddf3ee2c87d634f241a4",
+    "semantic_hash": "c805843bb88cddf3ee2c87d634f241a4"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/agents/04-implementation-engineer.md": {
+    "mtime": 1782482091.3347301,
+    "ast_hash": "b050a1803d705101ed024cd1ecdfe092",
+    "semantic_hash": "b050a1803d705101ed024cd1ecdfe092"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/agents/06-test-operator.md": {
+    "mtime": 1782482091.3354096,
+    "ast_hash": "5533f4c58aacbd5d7506c77381e2febe",
+    "semantic_hash": "5533f4c58aacbd5d7506c77381e2febe"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/agents/07-security-guardian.md": {
+    "mtime": 1782482091.3359852,
+    "ast_hash": "1be3b1e2c574d6c6d93b5486613efe66",
+    "semantic_hash": "1be3b1e2c574d6c6d93b5486613efe66"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/agents/08-observability-sentinel.md": {
+    "mtime": 1782482091.336564,
+    "ast_hash": "439484bdac802b97089580ff22d531ad",
+    "semantic_hash": "439484bdac802b97089580ff22d531ad"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/agents/09-governance-steward.md": {
+    "mtime": 1782482091.337136,
+    "ast_hash": "92d1177e2810d2513a37da093dea4e5d",
+    "semantic_hash": "92d1177e2810d2513a37da093dea4e5d"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/agents/10-delivery-operator.md": {
+    "mtime": 1782482091.337718,
+    "ast_hash": "a7c1ec4e3c06ec3d35c5a1872af83b91",
+    "semantic_hash": "a7c1ec4e3c06ec3d35c5a1872af83b91"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/combinations/README.md": {
+    "mtime": 1782482091.338293,
+    "ast_hash": "f5e495ac949023a6b3fe80ed80160721",
+    "semantic_hash": "f5e495ac949023a6b3fe80ed80160721"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/combinations/combination-validation.md": {
+    "mtime": 1782482091.3388805,
+    "ast_hash": "7b4c8ea626c875609ed16923b2cfc9fb",
+    "semantic_hash": "7b4c8ea626c875609ed16923b2cfc9fb"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/combinations/dual-combinations.md": {
+    "mtime": 1782482091.3395474,
+    "ast_hash": "25cef9900f76407045c03ddee857d73e",
+    "semantic_hash": "25cef9900f76407045c03ddee857d73e"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/combinations/manifestation-rules.md": {
+    "mtime": 1782482091.340337,
+    "ast_hash": "99158c24293ccbba818fe134c637f50d",
+    "semantic_hash": "99158c24293ccbba818fe134c637f50d"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/combinations/triple-combinations.md": {
+    "mtime": 1782482091.3410804,
+    "ast_hash": "b9b5151b49db0dcaff69ab8e2c59a2be",
+    "semantic_hash": "b9b5151b49db0dcaff69ab8e2c59a2be"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/examples/01-feature-request-implementation.md": {
+    "mtime": 1782482091.3417675,
+    "ast_hash": "511c44f9f9a0e96507bf6ae564279249",
+    "semantic_hash": "511c44f9f9a0e96507bf6ae564279249"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/examples/02-code-review-workflow.md": {
+    "mtime": 1782482091.3423588,
+    "ast_hash": "eb1f54161a932e9df56e07799a689040",
+    "semantic_hash": "eb1f54161a932e9df56e07799a689040"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/examples/04-incident-response.md": {
+    "mtime": 1782482091.3429341,
+    "ast_hash": "389850dd4537e0a33d5a7ab9b56fc8c3",
+    "semantic_hash": "389850dd4537e0a33d5a7ab9b56fc8c3"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/examples/06-release-readiness.md": {
+    "mtime": 1782482091.3435097,
+    "ast_hash": "ace1779068b3449b4c31c0f0ac11a86e",
+    "semantic_hash": "ace1779068b3449b4c31c0f0ac11a86e"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/01-intake-and-routing.md": {
+    "mtime": 1782482091.3440766,
+    "ast_hash": "1d8af2910bd7490a7b859a6d9aa0c9f7",
+    "semantic_hash": "1d8af2910bd7490a7b859a6d9aa0c9f7"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/02-context-assembly.md": {
+    "mtime": 1782482091.344646,
+    "ast_hash": "ce6cac4249074feecba42fd2a2fec078",
+    "semantic_hash": "ce6cac4249074feecba42fd2a2fec078"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/03-planning-to-execution-bridge.md": {
+    "mtime": 1782482018.9130712,
+    "ast_hash": "e97ffe35b1fa2204d532b1d86df849a6",
+    "semantic_hash": "e97ffe35b1fa2204d532b1d86df849a6"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/04-execution-loop.md": {
+    "mtime": 1782482018.9137025,
+    "ast_hash": "20e38eae3d3c1744ce8c3fc2d389aaa7",
+    "semantic_hash": "20e38eae3d3c1744ce8c3fc2d389aaa7"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/05-validation-gates.md": {
+    "mtime": 1782482018.9143312,
+    "ast_hash": "64fcfc1ba8bde68044372b5dfa91f972",
+    "semantic_hash": "64fcfc1ba8bde68044372b5dfa91f972"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/orchestration/06-recovery-and-escalation.md": {
+    "mtime": 1782482091.3469794,
+    "ast_hash": "1145ccd9d0215cee5aaa492e95a79dbc",
+    "semantic_hash": "1145ccd9d0215cee5aaa492e95a79dbc"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/validation/01-structure-check.md": {
+    "mtime": 1782482091.3475668,
+    "ast_hash": "b52a4edfc1776ae3066ad375b6dcfe22",
+    "semantic_hash": "b52a4edfc1776ae3066ad375b6dcfe22"
+  },
+  "raw/D-drive-scan-2026-05-12/elemental-agents/validation/03-triangulated-verification.md": {
+    "mtime": 1782482091.3482387,
+    "ast_hash": "73f98b6d0f69f83219f9b4774f76e04e",
+    "semantic_hash": "73f98b6d0f69f83219f9b4774f76e04e"
+  },
+  "raw/D-drive-scan-2026-05-12/softinfo-manuscript/manuscript-to-review.extracted.txt": {
+    "mtime": 1779593852.0,
+    "ast_hash": "73b1699f01d50ffded4ff9313c8f3da3",
+    "semantic_hash": "73b1699f01d50ffded4ff9313c8f3da3"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/MANIFEST.md": {
+    "mtime": 1782482091.3488193,
+    "ast_hash": "d4aad100f1ce67970868cf974e7420ad",
+    "semantic_hash": "d4aad100f1ce67970868cf974e7420ad"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/desktop-helix3/HelixProbe v2.61 \u2014 Production Clean.txt": {
+    "mtime": 1779593852.0,
+    "ast_hash": "c0ac22f89e050e1bae975b7c52c9ea4d",
+    "semantic_hash": "c0ac22f89e050e1bae975b7c52c9ea4d"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/downloads/RAGE-dep-report.md": {
+    "mtime": 1782482217.9496558,
+    "ast_hash": "0779140af58f8dac90c5c64d398fb126",
+    "semantic_hash": "0779140af58f8dac90c5c64d398fb126"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/downloads/Texte coll\u00e9 (2).txt": {
+    "mtime": 1779593852.0,
+    "ast_hash": "c53588bddd7bcedfa4e2cab4ef1211d0",
+    "semantic_hash": "c53588bddd7bcedfa4e2cab4ef1211d0"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/downloads/Texte coll\u00e9.txt": {
+    "mtime": 1779593852.0,
+    "ast_hash": "4dbceb7a396870e5069da04124d8a595",
+    "semantic_hash": "4dbceb7a396870e5069da04124d8a595"
+  },
+  "raw/README.md": {
+    "mtime": 1782482091.3500495,
+    "ast_hash": "a7c98d58a83d6b39ccdab7fe3f367942",
+    "semantic_hash": "a7c98d58a83d6b39ccdab7fe3f367942"
+  },
+  "session-state.md": {
+    "mtime": 1782806482.9745383,
+    "ast_hash": "d5bed8335be9cb8db764b370d0b12876",
+    "semantic_hash": "d5bed8335be9cb8db764b370d0b12876"
+  },
+  ".trash/ACTOR Framework Worksheet.pdf": {
+    "mtime": 1779593851.0,
+    "ast_hash": "fa5e60c7cdcb391d7a8c1a953abf7c75",
+    "semantic_hash": "fa5e60c7cdcb391d7a8c1a953abf7c75"
+  },
+  "Areas/Writing/AREA.md": {
+    "mtime": 1782793013.2283664,
+    "ast_hash": "0f3dcc5210af5b009721121ee44cc06b",
+    "semantic_hash": "0f3dcc5210af5b009721121ee44cc06b"
+  },
+  "PEER-REVIEW/00_PROJECT_CONTROL/STYLE_RULES.md": {
+    "mtime": 1782482091.0188582,
+    "ast_hash": "530f206dbb4ddb9917ce31c93d146660",
+    "semantic_hash": "530f206dbb4ddb9917ce31c93d146660"
+  },
+  "PEER-REVIEW/PROJECT_INSTRUCTION.md": {
+    "mtime": 1782482091.0390334,
+    "ast_hash": "4b45c2a3fb0c605d8812b48ef9dc9dec",
+    "semantic_hash": "4b45c2a3fb0c605d8812b48ef9dc9dec"
+  },
+  "PEER-REVIEW/README.md": {
+    "mtime": 1782482091.0395646,
+    "ast_hash": "7f410315514a7c96e3a0d09eb30a34d6",
+    "semantic_hash": "7f410315514a7c96e3a0d09eb30a34d6"
+  },
+  "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05_From_Recursive_Production_to_Governable_Method.pdf": {
+    "mtime": 1779593851.0,
+    "ast_hash": "d8f1f6365d9ad5425c7136ef7d1d4d2f",
+    "semantic_hash": "d8f1f6365d9ad5425c7136ef7d1d4d2f"
+  },
+  "assets/invoices/facture-001-pharos-ai.pdf": {
+    "mtime": 1779593851.0,
+    "ast_hash": "9ca108c533f5b58d3bfdc56d99ab079a",
+    "semantic_hash": "9ca108c533f5b58d3bfdc56d99ab079a"
+  },
+  "assets/invoices/facture-002-pharos-ai.pdf": {
+    "mtime": 1779593851.0,
+    "ast_hash": "894d9163092db70c8636c05b2f0e3278",
+    "semantic_hash": "894d9163092db70c8636c05b2f0e3278"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/downloads/Service Canada me laisse sans assurance-emploi depuis janvier _ je risque maintenant de perdre mon logement.pdf": {
+    "mtime": 1779593852.0,
+    "ast_hash": "e69b8fbc83d01148296de4459bcefe55",
+    "semantic_hash": "e69b8fbc83d01148296de4459bcefe55"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/downloads/TAL_001A_E_signed.pdf": {
+    "mtime": 1779593852.0,
+    "ast_hash": "d603489c5cf5e7ed26e10972bf9abfe0",
+    "semantic_hash": "d603489c5cf5e7ed26e10972bf9abfe0"
+  },
+  "raw/Desktop-Downloads-scan-2026-05-12/downloads/brutal-isms-longform-revised.pdf": {
+    "mtime": 1779593852.0,
+    "ast_hash": "415b79b8f612381bf59d4bd7f25a0719",
+    "semantic_hash": "415b79b8f612381bf59d4bd7f25a0719"
+  }
+}

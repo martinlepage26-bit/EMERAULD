@@ -1,9 +1,37 @@
 ---
-title: The one Obsidian note that stopped Claude from re-proposing ideas I'd already rejected
+type: artifact
+title: The one Obsidian note that stopped Claude from re-proposing ideas I'd already
+  rejected
+aliases:
+- artifacts/marketplace/promo/devto-iter13-decision-log-deepdive
+tags:
+- ai
+- obsidian
+- claudeai
+- devtools
+- artifact
+- artifacts
+- marketplace
+- auth
+- gateway
+- rejected
+- decision
+- alternatives
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/devto-iter13-decision-log-deepdive.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
 published: false
-tags: [ai, obsidian, claudeai, devtools]
-canonical_url:
-description: A deep dive into the Decision Log note type — the single highest-leverage addition to any AI-assisted development workflow.
+canonical_url: null
+description: A deep dive into the Decision Log note type — the single highest-leverage
+  addition to any AI-assisted development workflow.
 ---
 
 # The one Obsidian note that stopped Claude from re-proposing ideas I'd already rejected

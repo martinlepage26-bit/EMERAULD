@@ -1,3 +1,130 @@
+---
+type: moc
+title: Writing and Novels MOC
+aliases:
+- Writing and Novels MOC
+- wiki/Writing and Novels MOC
+tags:
+- moc
+- novel
+- wiki
+- writing-and-novels-moc-md
+- genealogy
+- lepage
+- martin
+- creative
+- monograph
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Writing and Novels MOC.md
+backlink_count: 100
+backlinks:
+- '[[.agent_bus/README]]'
+- '[[.planning/phases/01-lightrag-script-runtime-hardening/01-REVIEW]]'
+- '[[.trash/Building Your First AI Agent with OpenAI]]'
+- '[[.trash/Building Your First AI Agent with OpenAI______]]'
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[.trash/Responses API Fundamentals__]]'
+- '[[.trash/Sprint Tool Strategy]]'
+- '[[wiki/Alchemy of the Wound — Version Genealogy]]'
+- '[[wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
+- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[wiki/Breath of the Astral Year — Version Genealogy]]'
+- '[[wiki/Brutal Isms — Art Grant Proposal]]'
+- '[[wiki/Brutal Isms — Grant Revision Package (2026-05-12)]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/CODEX Writing Projects Manifest]]'
+- '[[wiki/CORPUS Novel — Version Genealogy]]'
+- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Literary References in Common English — Allusion and Idiom Guide]]'
+- '[[wiki/Literary References — Craft Guide]]'
+- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
+- '[[wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
+- '[[wiki/Qualitative Handbook — Expanded Reference List]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
+- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
+- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
+  — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
+- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'
+- '[[wiki/Strategic Storytelling in the AI Economy]]'
+- '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
+- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[Welcome]]'
+- '[[wiki/Why Be King Im Already a Queen — Book Project]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT-PRODUCTION-MANIFEST]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/GAP-pr4-server-spec-alignment]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/README]]'
+- '[[artifacts/marketplace/promo/hashnode-iter22-graph-vs-folders]]'
+- '[[governance/hephaistos/FORGING-AUDIT]]'
+- '[[governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION]]'
+- '[[hephaistos/DEPLOYMENT-CHECKLIST]]'
+- '[[hephaistos/personal-assistant-agents/content-inventory-cartographer/references/method]]'
+- '[[hephaistos/personal-assistant-agents/demand-scout/references/method]]'
+- '[[hephaistos/personal-assistant-agents/intake-triager/references/method]]'
+- '[[hephaistos/personal-assistant-agents/raw-archivist/references/method]]'
+- '[[index]]'
+- '[[maps/Novel Corpus Map]]'
+- '[[maps/Queer Media and Ritual Map]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_solace-platform-solace]]'
+- '[[memory/daily/2026-05-02]]'
+- '[[raw/00_Inbox/Raw/2026-04-25 — The lost-loop pattern]]'
+- '[[raw/Clippings/AI is speeding into healthcare. Who should regulate it]]'
+- '[[raw/Clippings/Agent Architecture Patterns and Decision Framework]]'
+- '[[raw/Clippings/Alchimie et Histoire des Sciences]]'
+- '[[raw/Clippings/Storyteller and AI]]'
+- '[[raw/Clippings/gaga gisease lyrics]]'
+- '[[tmp/drive-audit-2026-04-18/deletion-shortlist]]'
+---
+
 # Writing and Novels MOC
 
 ## Overview

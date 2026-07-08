@@ -1,10 +1,66 @@
 ---
 type: wiki
-aliases: [Obsidian Agent Vault, Agent Vault Launch Kit, vault memory layer]
-tags: [product, obsidian, ai-tooling, claude-code, commercialization, agent-memory]
+title: Obsidian Agent Vault — Launch Kit
+aliases:
+- Obsidian Agent Vault
+- Agent Vault Launch Kit
+- vault memory layer
+- wiki/Obsidian Agent Vault — Launch Kit
+tags:
+- product
+- obsidian
+- ai-tooling
+- claude-code
+- commercialization
+- agent-memory
+- wiki
+- obsidian-agent-vault-launch-kit-md
+- launch
+- demo
+- ladder
+- color-orange
 status: active
-created: 2026-04-14
-updated: 2026-04-16
+created: '2026-04-14'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Obsidian Agent Vault — Launch Kit.md
+backlink_count: 35
+backlinks:
+- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[wiki/GSD — Get-Shit-Done Claude Code System]]'
+- '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
+- '[[wiki/Governed Self-Improvement — Method Slide Asset]]'
+- '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[wiki/Obsidian Agent Vault — Asset Canon]]'
+- '[[wiki/Obsidian Agent Vault — Setup Guide]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/SYSTEM CHECK]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/skill]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-LISTING]]'
+- '[[artifacts/marketplace/promo/README]]'
+- '[[artifacts/marketplace/promo/gumroad-listing]]'
+- '[[artifacts/marketplace/promo/social-posts]]'
+- '[[assets/demo_script_avatar]]'
+- '[[assets/elemental-agents/audience-expansion]]'
+- '[[assets/elemental-agents/positioning-memo]]'
+- '[[assets/elemental-agents/sales-page-outline]]'
+- '[[hephaistos/personal-assistant-agents/README]]'
+- '[[memory]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/daily/2026-06-29]]'
+- '[[projects/Second Brain — Fisher King Project State]]'
+- '[[session-state]]'
+- '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # Obsidian Agent Vault — Launch Kit
@@ -117,6 +173,10 @@ This boundary is important. The packet refuses the "magic automation" frame and 
 - Which marketplace beyond Gumroad best fits this product: direct sales page, Etsy-style template marketplace, or founder-tool audience channels?
 - What proof asset should be created first: a real customer quote, a short screen-recorded demo, or a case-study note inside the vault?
 - How tightly should this offer be linked to PHAROS branding versus positioned as a standalone practical tool?
+
+## Launch History
+
+On 2026-06-29, [[2026-06-29 - idea-discovery]] ranked this product as the #1 next-direction candidate (31 backlinks — highest pull in vault; all prerequisites done; momentum maximal after the June 21 vault restructure). The idea-discovery note documents the full ranking rationale and confirms the Gumroad listing as the only remaining action. Zip built at `assets/obsidian-agent-vault-2026-06-29.zip` (SHA256: 887c44f308a431fe7cb1ef8e6293c6f1b27940faf997985b97d7f2bfcfc7cc6c).
 
 ## Sources
 - `raw sources/obsidian_agent_vault_launch_kit_2026-04-14.md`

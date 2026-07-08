@@ -1,3 +1,32 @@
+---
+type: artifact
+title: 'The Active Constraints Note: The One File That Stops AI from Violating Your
+  Project Rules'
+aliases:
+- artifacts/marketplace/promo/hashnode-iter46-active-constraints
+tags:
+- artifact
+- ai
+- artifacts
+- marketplace
+- constraints
+- constraint
+- entries
+- locked
+- doesn
+- color-purple
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/hashnode-iter46-active-constraints.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # The Active Constraints Note: The One File That Stops AI from Violating Your Project Rules
 
 **Platform:** Hashnode

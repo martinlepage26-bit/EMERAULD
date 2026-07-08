@@ -1,10 +1,27 @@
 ---
-title: Weekly vault review job
-created: 2026-04-25
 type: workflow
+title: Weekly vault review job
+aliases:
+- resources/Lazy Obsidian Method/Weekly vault review job
 tags:
-  - review
-  - weekly
+- review
+- weekly
+- workflow
+- resources
+- lazy-obsidian-method
+- dashboards
+- gaps
+- areas
+- focus
+- color-green
+status: active
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: resources
+canonical_path: resources/Lazy Obsidian Method/Weekly vault review job.md
+backlink_count: 1
+backlinks:
+- '[[resources/Lazy Obsidian Method/Index]]'
 ---
 
 # Weekly vault review job

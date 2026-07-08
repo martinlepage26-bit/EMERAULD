@@ -1,11 +1,46 @@
 ---
 type: wiki
-aliases: [claude-mem, claude-mem plugin, thedotmack/claude-mem, "claude-mem Plugin — Session Memory Layer"]
-tags: [ai-tooling, memory, mcp, claude-code, persistence]
+title: claude-mem — Persistent Memory Compression for Claude Code
+aliases:
+- claude-mem
+- claude-mem plugin
+- thedotmack/claude-mem
+- claude-mem Plugin — Session Memory Layer
+- wiki/claude-mem — Persistent Memory Compression for Claude Code
+tags:
+- ai-tooling
+- memory
+- mcp
+- claude-code
+- persistence
+- wiki
+- claude-mem-persistent-memory-compression-for-claude-code-md
+- claude
+- corpora
+- session
+- lightrag
+- plugin
+- color-orange
 status: active
-created: 2026-04-16
-updated: 2026-04-16
-version-history-added: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/claude-mem — Persistent Memory Compression for Claude Code.md
+backlink_count: 12
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Claude Code Skill Corpus]]'
+- '[[wiki/EMERAULD]]'
+- '[[wiki/GSD — Get Shit Done Context Engineering System]]'
+- '[[wiki/GSD — Get-Shit-Done Claude Code System]]'
+- '[[wiki/LightRAG — Graph-Based RAG System]]'
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/RAG-Anything — Multimodal RAG Framework]]'
+- '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
+version-history-added: '2026-04-16'
 ---
 
 # claude-mem — Persistent Memory Compression for Claude Code

@@ -1,11 +1,39 @@
 ---
 type: source-note
-tags: [raw-source, ingest, provenance, 2026-05-13]
+title: AI is speeding into healthcare. Who should regulate it? — Source Note
+aliases:
+- raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? —
+  Source Note
+- wiki/raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate
+  it? — Source Note
+tags:
+- raw-source
+- ingest
+- provenance
+- '2026-05-13'
+- source-note
+- wiki
+- raw-sources
+- speeding
+- healthcare
+- regulate
+- cluster
+- eeda
+- color-lime
 status: active
-created: 2026-05-13
-updated: 2026-05-13
-source_raw_path: "raw/Clippings/AI is speeding into healthcare. Who should regulate it.md"
-source_report: "raw/intake-report-20260513.json"
+created: '2026-05-13'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/raw-sources/2026-05-13/AI is speeding into healthcare. Who should
+  regulate it? — Source Note.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
+source_raw_path: raw/Clippings/AI is speeding into healthcare. Who should regulate
+  it.md
+source_report: raw/intake-report-20260513.json
 ---
 
 # AI is speeding into healthcare. Who should regulate it? — Source Note

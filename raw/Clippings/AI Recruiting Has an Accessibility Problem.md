@@ -1,3 +1,29 @@
+---
+type: raw-source
+title: AI Recruiting Has an Accessibility Problem
+aliases:
+- raw/Clippings/AI Recruiting Has an Accessibility Problem
+tags:
+- raw
+- ai
+- raw-source
+- clippings
+- hiring
+- disability
+- candidates
+- candidate
+- process
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Clippings/AI Recruiting Has an Accessibility Problem.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 [stutter] [[Stuttering through the Institution — Academic Containment and Queer Knowing]][[ai-stutter-jobs]] [[Disability Epistemology and Institutional Critique]]
 I have gone through multiple AI-mediated recruiting and interview processes, including with Aligner and Mercor. Some of these interviews were broad and general. Others were highly specialized and directly connected to my actual areas of expertise.
 

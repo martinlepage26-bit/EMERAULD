@@ -1,10 +1,43 @@
 ---
 type: wiki
-aliases: [Codex skill sync, Codex corpus upgrade 04-20]
-tags: [tooling, skills, codex, claude-code, infrastructure, peer-channel]
+title: Codex Skill Corpus Sync — 2026-04-20
+aliases:
+- Codex skill sync
+- Codex corpus upgrade 04-20
+- wiki/Codex Skill Corpus Sync — 2026-04-20
+tags:
+- tooling
+- skills
+- codex
+- claude-code
+- infrastructure
+- peer-channel
+- wiki
+- codex-skill-corpus-sync-2026-04-20-md
+- claude
+- channel
+- peer
+- sync
+- color-orange
 status: active
-created: 2026-04-20
-updated: 2026-04-20
+created: '2026-04-20'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Codex Skill Corpus Sync — 2026-04-20.md
+backlink_count: 12
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Claude Code Skill Corpus]]'
+- '[[wiki/Consented Frame — Ethics and Wisdom Gate]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
+- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Skill-Pairing — Five-Case Test Suite]]'
+- '[[memory/agents/Journal]]'
 ---
 
 # Codex Skill Corpus Sync — 2026-04-20

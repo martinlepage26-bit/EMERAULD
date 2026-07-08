@@ -1,10 +1,45 @@
 ---
 type: wiki
-aliases: ["HELIX regional prospect sweep", "HELIX Montreal Toronto Ottawa prospects", "HELIX Quebec prospect research"]
-tags: [helix, prospects, clients, commercial, ai-governance, regional-sweep, montreal, quebec, toronto, ottawa]
+title: HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06
+aliases:
+- HELIX regional prospect sweep
+- HELIX Montreal Toronto Ottawa prospects
+- HELIX Quebec prospect research
+- wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06
+tags:
+- helix
+- prospects
+- clients
+- commercial
+- ai-governance
+- regional-sweep
+- montreal
+- quebec
+- toronto
+- ottawa
+- wiki
+- helix-regional-prospect-deep-sweep-montreal-quebec-toronto-ottawa-2026-05-06-md
+- sweep
+- regional
+- prospect
+- color-blue
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto
+  Ottawa 2026-05-06.md
+backlink_count: 9
+backlinks:
+- '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
+- '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
+- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/clients/helix-prospects-2026-q2]]'
+- '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_alayaflow-alayacare]]'
+- '[[projects/HELIX — Fisher King Project State]]'
 ---
 
 # HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06

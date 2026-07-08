@@ -1,14 +1,35 @@
 ---
-title: "HELIX — Fisher King Project State"
-created: "2026-05-07"
 type: project
-status: active
+title: HELIX — Fisher King Project State
+aliases:
+- projects/HELIX — Fisher King Project State
 tags:
-  - project
-  - fisher-king
-  - helix
-  - pharos
-  - product
+- project
+- fisher-king
+- helix
+- pharos
+- product
+- projects
+- helix-fisher-king-project-state-md
+- buyer
+- backend
+- sale
+- prospect
+- color-purple
+status: in-progress
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: projects
+canonical_path: projects/HELIX — Fisher King Project State.md
+backlink_count: 7
+backlinks:
+- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King Project Note Templates]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Projects Hub]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Learning]]'
 ---
 
 # HELIX — Fisher King Project State

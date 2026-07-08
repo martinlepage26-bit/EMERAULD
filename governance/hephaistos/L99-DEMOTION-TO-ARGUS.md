@@ -1,3 +1,34 @@
+---
+type: governance-doc
+title: L99 Demotion to Argus Review Criterion — Decision Spec
+aliases:
+- L99 Demotion to Argus Review Criterion — Decision Spec
+- governance/hephaistos/L99-DEMOTION-TO-ARGUS
+tags:
+- governance
+- ai
+- hephaistos
+- argus
+- governance-doc
+- layer
+- binding
+- demotion
+- placement
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/L99-DEMOTION-TO-ARGUS.md
+backlink_count: 5
+backlinks:
+- '[[.github/agents/argus.agent]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/HEPHAISTOS]]'
+- '[[hephaistos/agents/argus]]'
+---
+
 # L99 Demotion to Argus Review Criterion — Decision Spec
 
 **Status:** Binding decision. Supersedes prior treatment of L99 as a top-level binding principle.

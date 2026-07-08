@@ -1,12 +1,30 @@
 ---
 type: template
+title: Admissibility Delta Block - {{title}}
 aliases:
-  - Admissibility Delta Block
-  - Bulk Rewrite Governance Gate
-tags: [template, recursive-governance, admissibility, change-control]
+- Admissibility Delta Block
+- Bulk Rewrite Governance Gate
+- templates/Admissibility Delta Block
+tags:
+- template
+- recursive-governance
+- admissibility
+- change-control
+- templates
+- admissibility-delta-block-md
+- rollback
+- affected
+- excerpt
+- command
+- color-purple
 status: active
-created: {{date}}
-updated: {{date}}
+created: '{{date}}'
+updated: '2026-06-26'
+vault_area: templates
+canonical_path: templates/Admissibility Delta Block.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
 ---
 
 # Admissibility Delta Block - {{title}}

@@ -1,9 +1,33 @@
 ---
 type: governance-procedures
-aliases: ["GOVERNANCE CONTROLS — Monitoring Plan & Automation Roadmap"]
+title: Governance Controls — Monitoring Plan & Automation Roadmap
+aliases:
+- GOVERNANCE CONTROLS — Monitoring Plan & Automation Roadmap
+- wiki/Governance Controls — Monitoring Plan & Automation Roadmap
+tags:
+- governance-procedures
+- wiki
+- governance-controls-monitoring-plan-automation-roadmap-md
+- manual
+- automation
+- check
+- alert
+- hash
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Governance Controls — Monitoring Plan & Automation Roadmap.md
+backlink_count: 7
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/External Data Registry — Phase 1 Build]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
+- '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 tier: critical
 phase: Phase 2 (Automation)
 ---

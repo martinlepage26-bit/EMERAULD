@@ -1,3 +1,29 @@
+---
+type: artifact
+title: Obsidian Agent Vault — Promo Pack
+aliases:
+- artifacts/marketplace/promo/README
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- gumroad
+- producthunt
+- post
+- obsidianmd
+- sideproject
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/README.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # Obsidian Agent Vault — Promo Pack
 
 All content is ready to paste. Replace `[GUMROAD_LINK]` with your live URL before posting.

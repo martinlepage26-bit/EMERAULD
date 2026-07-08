@@ -1,10 +1,32 @@
 ---
 type: skill
-skill_id: "agent-memory-mcp"
-domain: "Agent Architecture and Development"
+title: agent-memory-mcp
+aliases:
+- skills/agent-memory-mcp
+- wiki/skills/agent-memory-mcp
+tags:
+- skill
+- wiki
+- skills
+- memory
+- searchable
+- hybrid
+- codex
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/agent-memory-mcp/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/agent-memory-mcp.md
+backlink_count: 4
+backlinks:
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+- '[[wiki/Skill Domain — Vault and Knowledge]]'
+skill_id: agent-memory-mcp
+domain: Agent Architecture and Development
+codex_path: /home/cerebrhoe/.codex/skills/agent-memory-mcp/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

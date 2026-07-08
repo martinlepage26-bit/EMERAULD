@@ -1,10 +1,42 @@
 ---
 type: wiki
-aliases: ["Paper Planes lyrics", "MIA Paper Planes"]
-tags: [music, lyrics, mia, hip-hop, diaspora, globalization, postcolonial]
+title: Paper Planes — M.I.A. — Lyrics
+aliases:
+- Paper Planes lyrics
+- MIA Paper Planes
+- wiki/Paper Planes — M.I.A. — Lyrics
+tags:
+- music
+- lyrics
+- mia
+- hip-hop
+- diaspora
+- globalization
+- postcolonial
+- wiki
+- paper-planes-m-i-a-lyrics-md
+- wanna
+- take
+- planes
+- song
+- color-blue
 status: active
-created: 2026-04-25
-updated: 2026-04-25
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Paper Planes — M.I.A. — Lyrics.md
+backlink_count: 10
+backlinks:
+- '[[wiki/Disease — Lady Gaga — Lyrics]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-blue-j]]'
+- '[[memory/daily/2026-04-25]]'
+- '[[raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X]]'
+- '[[raw/Clippings/MIA PAPERS PLANES lyrics]]'
 ---
 
 # Paper Planes — M.I.A. — Lyrics

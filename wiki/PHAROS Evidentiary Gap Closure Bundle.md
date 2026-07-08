@@ -1,3 +1,47 @@
+---
+type: wiki
+title: PHAROS Evidentiary Gap Closure Bundle
+aliases:
+- PHAROS Evidentiary Gap Closure Bundle
+- wiki/PHAROS Evidentiary Gap Closure Bundle
+tags:
+- wiki
+- pharos
+- pharos-evidentiary-gap-closure-bundle-md
+- produced
+- bundle
+- normalized
+- disclosure
+- existing
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Evidentiary Gap Closure Bundle.md
+backlink_count: 19
+backlinks:
+- '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/PHAROS Invention Disclosure]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/PHAROS Runbook SOP]]'
+- '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Phase 1 Governance Formation Sequence]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/COVER_LETTER_FOR_COUNSEL]]'
+- '[[archive/session-state/session-state-001]]'
+---
+
 # PHAROS Evidentiary Gap Closure Bundle
 
 ## Summary

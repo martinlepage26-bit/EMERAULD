@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "three-agent-audit"
-domain: "Governance and Authority"
+title: three-agent-audit
+aliases:
+- skills/three-agent-audit
+- wiki/skills/three-agent-audit
+tags:
+- skill
+- wiki
+- skills
+- cleans
+- similarly
+- ties
+- reviewing
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/three-agent-audit/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/three-agent-audit.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+skill_id: three-agent-audit
+domain: Governance and Authority
+codex_path: /home/cerebrhoe/.codex/skills/three-agent-audit/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

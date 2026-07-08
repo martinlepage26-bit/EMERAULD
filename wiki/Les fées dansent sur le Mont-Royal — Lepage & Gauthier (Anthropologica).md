@@ -1,13 +1,48 @@
 ---
 type: wiki
+title: Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)
 aliases:
-  - "Les fées dansent autour du Mont-Royal"
-  - "Les fées dansent sur le Mont-Royal"
-  - "Magie et négociations queer chez les néo-païens de Montréal"
-tags: [paper, montreal, paganism, queer, ritual, magic, negotiation, uqam]
+- Les fées dansent autour du Mont-Royal
+- Les fées dansent sur le Mont-Royal
+- Magie et négociations queer chez les néo-païens de Montréal
+- wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)
+tags:
+- paper
+- montreal
+- paganism
+- queer
+- ritual
+- magic
+- negotiation
+- uqam
+- wiki
+- les-f-es-dansent-sur-le-mont-royal-lepage-gauthier-anthropologica-md
+- disenchantment
+- report
+- negotiated
+- color-blue
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica).md
+backlink_count: 14
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
+  vs Reclaiming)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)

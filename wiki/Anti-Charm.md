@@ -1,11 +1,37 @@
 ---
 type: wiki
+title: Anti-Charm
 aliases:
-  - Anti-Charm
-tags: [ethics, governance, clarity, analysis]
+- Anti-Charm
+- wiki/Anti-Charm
+tags:
+- ethics
+- governance
+- clarity
+- analysis
+- wiki
+- anti-charm-md
+- charm
+- anti
+- validates
+- care
+- discipline
+- color-pink
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Anti-Charm.md
+backlink_count: 7
+backlinks:
+- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Inner Mind Eye]]'
+- '[[wiki/Philosopher]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
+  Projection]]'
 ---
 
 # Anti-Charm

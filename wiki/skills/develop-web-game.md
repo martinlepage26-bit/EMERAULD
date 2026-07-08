@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "develop-web-game"
-domain: "Development and Testing"
+title: develop-web-game
+aliases:
+- skills/develop-web-game
+- wiki/skills/develop-web-game
+tags:
+- skill
+- wiki
+- skills
+- develop
+- bursts
+- iterating
+- console
+- codex
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/develop-web-game/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/develop-web-game.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Development and Testing]]'
+skill_id: develop-web-game
+domain: Development and Testing
+codex_path: /home/cerebrhoe/.codex/skills/develop-web-game/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

@@ -1,3 +1,45 @@
+---
+type: wiki
+title: Le sang qui porte ton nom — Novel
+aliases:
+- Le sang qui porte ton nom — Novel
+- wiki/Le sang qui porte ton nom — Novel
+tags:
+- wiki
+- novel
+- le-sang-qui-porte-ton-nom-novel-md
+- ulrich
+- justin
+- elle
+- light
+- color-red
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Le sang qui porte ton nom — Novel.md
+backlink_count: 18
+backlinks:
+- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[wiki/The Returning Light — Monograph]]'
+- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Novel Corpus Map]]'
+---
+
 # Le sang qui porte ton nom — Novel
 
 ## Summary

@@ -1,10 +1,32 @@
 ---
 type: skill
-skill_id: "impeccable"
-domain: "Design and UX"
+title: impeccable
+aliases:
+- skills/impeccable
+- wiki/skills/impeccable
+tags:
+- skill
+- wiki
+- skills
+- impeccable
+- distill
+- animate
+- colorize
+- shells
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/impeccable/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/impeccable.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Design and UX]]'
+skill_id: impeccable
+domain: Design and UX
+codex_path: /home/cerebrhoe/.codex/skills/impeccable/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

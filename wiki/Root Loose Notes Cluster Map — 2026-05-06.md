@@ -1,13 +1,45 @@
 ---
 type: cluster-map
+title: Root Loose Notes Cluster Map — 2026-05-06
 aliases:
-  - Root loose outlier map 2026-05-06
-  - Root loose notes graph cluster
-  - EMERAULD root outliers
-tags: [vault-linking, graph-maintenance, outliers, root-notes, clusters]
+- Root loose outlier map 2026-05-06
+- Root loose notes graph cluster
+- EMERAULD root outliers
+- wiki/Root Loose Notes Cluster Map — 2026-05-06
+tags:
+- vault-linking
+- graph-maintenance
+- outliers
+- root-notes
+- clusters
+- cluster-map
+- wiki
+- root-loose-notes-cluster-map-2026-05-06-md
+- root
+- cluster
+- orphan
+- loose
+- outlier
+- color-green
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Root Loose Notes Cluster Map — 2026-05-06.md
+backlink_count: 12
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Home]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
 ---
 
 # Root Loose Notes Cluster Map — 2026-05-06

@@ -1,9 +1,34 @@
 ---
-name: Seven Pillars of Full-Stack Architecture
-description: Martin's canonical seven-pillar framework for full-stack architecture — must inform all stack-related work and recommendations
 type: reference
+title: reference_seven_pillars_stack
+aliases:
+- memory/local-session/reference_seven_pillars_stack
+tags:
+- reference
+- memory
+- local-session
+- interacts
+- supabase
+- pillars
+- reviewing
+- users
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/reference_seven_pillars_stack.md
+backlink_count: 3
+backlinks:
+- '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+name: Seven Pillars of Full-Stack Architecture
+description: Martin's canonical seven-pillar framework for full-stack architecture
+  — must inform all stack-related work and recommendations
 originSessionId: 17c66af4-27ef-4b85-ac0e-8bb64a66fd53
 ---
+
 The seven pillars of full-stack architecture. Apply this framework whenever designing, reviewing, or building any application stack.
 
 1. **Frontend** — everything the user interacts with: pages, buttons, forms. Stack: Next.js + Tailwind.

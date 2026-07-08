@@ -1,11 +1,44 @@
 ---
 type: wiki
-aliases: ["system audit", "three-language verification", "mechanism naming", "divergence detection"]
-tags: [methodology, audit, governance, systems thinking, hidden mechanisms]
+title: RIA-CODEX — System Audit Protocol
+aliases:
+- system audit
+- three-language verification
+- mechanism naming
+- divergence detection
+- wiki/RIA-CODEX — System Audit Protocol
+tags:
+- methodology
+- audit
+- governance
+- systems-thinking
+- hidden-mechanisms
+- wiki
+- ria-codex-system-audit-protocol-md
+- divergence
+- mechanism
+- repeats
+- repeating
+- protocol
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
-source: "RIA-CODEX.txt"
+created: '2026-04-26'
+updated: '2026-07-03'
+vault_area: wiki
+canonical_path: wiki/RIA-CODEX — System Audit Protocol.md
+backlink_count: 10
+backlinks:
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+source: RIA-CODEX.txt
 ---
 
 # RIA-CODEX — System Audit Protocol
@@ -102,11 +135,13 @@ In [[PHAROS Method — Recursive Governance]], RIA-CODEX serves as a complementa
 - When external observers consistently notice things internal stakeholders miss
 
 ## Related
+- [[Reflexive Inhabitation Audit — Prompt]] — sibling instrument: RIA is the LLM-directed prompt version of this same three-statement convergence/divergence structure, created one day earlier (2026-04-25 vs. this protocol's 2026-04-26, the same day RIA was first embedded inside the Vaisseau de Thésée HELIX run); this protocol generalizes RIA's mechanism from a single conversational prompt into a systems-level audit method
 - [[Argus]] — meta-governance audit protocol
 - [[PHAROS Method — Recursive Governance]] — governance design based on named mechanisms
 - [[Narrative Capture Failure Taxonomy — Substituting Theory for Contact]] — what repeats instead of resolving
 - [[Sealed Card Protocol — Legitimacy, Glitch, and Charging]] — invisible mechanisms in systems
 - [[Evidence Discipline and Epistemics]] — verification and divergence detection
+- [[Governance Stress-Test Protocols — Index]] — master protocol-family index
 - [[Governance and PHAROS MOC]] — primary index
 
 ## Sources

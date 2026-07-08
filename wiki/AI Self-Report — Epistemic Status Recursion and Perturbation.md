@@ -1,13 +1,47 @@
 ---
 type: wiki
+title: AI Self-Report — Epistemic Status Recursion and Perturbation
 aliases:
-  - Epistemic status of AI self-report
-  - AI self-report recursion perturbation
-  - Self-report as governance artifact
-tags: [AI-self-report, epistemics, recursion, perturbation, self-polygraph, governance]
+- Epistemic status of AI self-report
+- AI self-report recursion perturbation
+- Self-report as governance artifact
+- wiki/AI Self-Report — Epistemic Status Recursion and Perturbation
+tags:
+- ai-self-report
+- epistemics
+- recursion
+- perturbation
+- self-polygraph
+- governance
+- wiki
+- ai-self-report-epistemic-status-recursion-and-perturbation-md
+- self
+- polygraph
+- continuity
+- apparent
+- color-teal
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI Self-Report — Epistemic Status Recursion and Perturbation.md
+backlink_count: 14
+backlinks:
+- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[wiki/Machine Limitation]]'
+- '[[wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
+- '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
+- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
+- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
+  and Computational Memory Architectures]]'
+- '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 ---
 
 # AI Self-Report — Epistemic Status Recursion and Perturbation

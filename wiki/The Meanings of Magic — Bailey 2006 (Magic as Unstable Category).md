@@ -1,10 +1,51 @@
 ---
 type: wiki
-aliases: ["Bailey 2006 — Meanings of Magic", "Magic as Category Problem"]
-tags: [reference, magic, ritual, witchcraft, sociology, anthropology, definitions]
+title: The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)
+aliases:
+- Bailey 2006 — Meanings of Magic
+- Magic as Category Problem
+- wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)
+tags:
+- reference
+- magic
+- ritual
+- witchcraft
+- sociology
+- anthropology
+- definitions
+- wiki
+- the-meanings-of-magic-bailey-2006-magic-as-unstable-category-md
+- meanings
+- queer
+- category
+- color-violet
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category).md
+backlink_count: 17
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
+- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
+  Activism Switzerland)]]'
+- '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et
+  française — Keck 2002 (Methodos)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
+  vs Reclaiming)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
+- '[[wiki/The Golden Bough — Frazer (Magic, Religion, Regicide)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)

@@ -1,12 +1,32 @@
 ---
 type: raw-source
-source_url: https://www.responsibleaiottawa.ca/about
 title: About ORAH - Ottawa Responsible AI Hub
-author: Ottawa Responsible AI Hub
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_about-orah-ottawa-responsible-ai-hub
+tags:
+- raw-source
+- memory
+- clients
+- ottawa
+- orah
+- responsible
+- advocacy
+- responsibleaiottawa
+- color-green
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_about-orah-ottawa-responsible-ai-hub.md
+backlink_count: 2
+backlinks:
+- '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
+- '[[wiki/Research and Papers MOC]]'
+source_url: https://www.responsibleaiottawa.ca/about
+author: Ottawa Responsible AI Hub
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # About ORAH - Ottawa Responsible AI Hub

@@ -1,10 +1,41 @@
 ---
 type: wiki
-aliases: [voice11, TTS, ElevenLabs, text-to-speech, mlen, Quebec voice, canonical voice sample]
-tags: [tooling, voice, TTS, media-production, ElevenLabs, voice-spec, Quebec-English]
+title: voice11 — ElevenLabs TTS Pipeline
+aliases:
+- voice11
+- TTS
+- ElevenLabs
+- text-to-speech
+- mlen
+- Quebec voice
+- canonical voice sample
+- wiki/voice11 — ElevenLabs TTS Pipeline
+tags:
+- tooling
+- voice
+- tts
+- media-production
+- elevenlabs
+- voice-spec
+- quebec-english
+- wiki
+- voice11-elevenlabs-tts-pipeline-md
+- mlen
+- render
+- english
+- color-orange
 status: active
-created: 2026-04-18
-updated: 2026-05-03
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/voice11 — ElevenLabs TTS Pipeline.md
+backlink_count: 5
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Personal and Projects MOC]]'
 ---
 
 # voice11 — ElevenLabs TTS Pipeline

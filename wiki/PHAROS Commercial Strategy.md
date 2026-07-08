@@ -1,10 +1,95 @@
 ---
 type: map
+title: PHAROS Commercial Strategy
 aliases:
-  - TOPIC — PHAROS Commercial Strategy
-tags: [index, map, topic, pharos, business, commercial]
-created: 2026-04-18
-updated: 2026-05-11
+- TOPIC — PHAROS Commercial Strategy
+- wiki/PHAROS Commercial Strategy
+tags:
+- index
+- map
+- topic
+- pharos
+- business
+- commercial
+- wiki
+- pharos-commercial-strategy-md
+- revenue
+- procurement
+- offer
+- color-purple
+status: active
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Commercial Strategy.md
+backlink_count: 66
+backlinks:
+- '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
+- '[[wiki/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/AI Governance Sprint — One-Page Sellable Packet]]'
+- '[[wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
+- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
+- '[[wiki/Chrome Extension Monetization - Policy and Product Options]]'
+- '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
+- '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
+- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
+- '[[wiki/Home]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Operator Continuity Memo — 2026-05-14]]'
+- '[[wiki/PHAROS]]'
+- '[[wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
+- '[[wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
+- '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
+- '[[wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[wiki/PHAROS Method — Core Framework]]'
+- '[[wiki/PHAROS Procurement-Unblock Sprint]]'
+- '[[wiki/PHAROS Product Stack]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Portfolio Restructuring Review — March 2026]]'
+- '[[wiki/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
+- '[[wiki/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
+- '[[wiki/Strategic Storytelling in the AI Economy]]'
+- '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[wiki/TPS-TVQ PHAROS]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[memory]]'
+- '[[memory/clients/helix-prospects-2026-q2]]'
+- '[[memory/daily/2026-04-28]]'
+- '[[memory/daily/2026-05-11]]'
+- '[[projects/HELIX — Fisher King Project State]]'
+- '[[projects/PHAROS — Fisher King Project State]]'
+- '[[session-state]]'
 ---
 
 # PHAROS Commercial Strategy
@@ -27,6 +112,7 @@ This is the commercial branch of the PHAROS graph. It packages the method, contr
 - [[AI Governance Public Statement and Market Impact Pack]] — Buyer-facing governance language, market-impact thesis, and submission support from the Documents-root intake.
 - [[90-Day $1M Challenge — Status Report]] — Day 11 checkpoint. Technical Readiness 8/10, Revenue Viability 2/10. No code in production, no BD pipeline at report date. Deadline: June 22–23, 2026.
 - [[Trust Advantage Analysis — Sales and AI Governance]] — 887 LinkedIn B2B buyer convergence finding: trust advantage accrues to actors who interrupt automated processes with authentic human judgment. Commercial positioning anchor.
+- [[Entrepreneurial Upside — Rare Knowledge, Leverage, and Time]] — Framing heuristic for the whole ladder: upside comes from staying in the game long enough to be right once where rare knowledge, leverage, judgment, accountability, market value, and time compound; why repeated commercial attempts stay rational while the learning loop holds.
 
 ---
 

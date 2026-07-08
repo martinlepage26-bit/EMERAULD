@@ -1,3 +1,36 @@
+---
+type: wiki
+title: Global Publication Search — PHAROS Method and Variants
+aliases:
+- Global Publication Search — PHAROS Method and Variants
+- wiki/Global Publication Search — PHAROS Method and Variants
+tags:
+- wiki
+- pharos
+- publication
+- global-publication-search-pharos-method-and-variants-md
+- collision
+- patent
+- search
+- pharmaceutical
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Global Publication Search — PHAROS Method and Variants.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/PHAROS SURFACE]]'
+- '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # Global Publication Search — PHAROS Method and Variants
 
 See also [[PHAROS SURFACE]].

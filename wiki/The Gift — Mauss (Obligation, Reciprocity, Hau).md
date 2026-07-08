@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: ["Mauss — The Gift", "Essai sur le don", "Hau (spirit of the gift)"]
-tags: [reference, anthropology, exchange, obligation, reciprocity, governance, labels]
+title: The Gift — Mauss (Obligation, Reciprocity, Hau)
+aliases:
+- Mauss — The Gift
+- Essai sur le don
+- Hau (spirit of the gift)
+- wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)
+tags:
+- reference
+- anthropology
+- exchange
+- obligation
+- reciprocity
+- governance
+- labels
+- wiki
+- the-gift-mauss-obligation-reciprocity-hau-md
+- gift
+- mauss
+- obligations
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Gift — Mauss (Obligation, Reciprocity, Hau).md
+backlink_count: 8
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # The Gift — Mauss (Obligation, Reciprocity, Hau)

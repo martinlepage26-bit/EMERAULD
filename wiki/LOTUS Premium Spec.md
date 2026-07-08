@@ -1,14 +1,45 @@
 ---
 type: wiki
+title: LOTUS Premium Spec
 aliases:
-  - LOTUS Premium Spec
-  - Dr. Sort Premium Vision
-  - LOTUS application spec
-  - LOTUS Dr. Sort product roadmap
-tags: [LOTUS, dr-sort, product-spec, application-layer, desktop-app, content-aware-classification, premium-feature-set]
+- LOTUS Premium Spec
+- Dr. Sort Premium Vision
+- LOTUS application spec
+- LOTUS Dr. Sort product roadmap
+- wiki/LOTUS Premium Spec
+tags:
+- lotus
+- dr-sort
+- product-spec
+- application-layer
+- desktop-app
+- content-aware-classification
+- premium-feature-set
+- wiki
+- lotus-premium-spec-md
+- sort
+- spec
+- ownership
+- march
+- color-red
 status: active
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/LOTUS Premium Spec.md
+backlink_count: 11
+backlinks:
+- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[projects/Dr. Sort — Fisher King Project State]]'
+- '[[projects/LOTUS — Fisher King Project State]]'
 ---
 
 # LOTUS Premium Spec

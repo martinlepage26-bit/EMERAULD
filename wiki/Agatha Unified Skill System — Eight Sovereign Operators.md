@@ -1,13 +1,62 @@
 ---
 type: wiki
-aliases: [unified skill system, eight operators, Eight Sovereign Operators]
-tags: [skill-design, governance, agatha, chatgpt, epistemics, deprecated]
+title: Agatha Unified Skill System — Eight Sovereign Operators
+aliases:
+- unified skill system
+- eight operators
+- Eight Sovereign Operators
+- wiki/Agatha Unified Skill System — Eight Sovereign Operators
+tags:
+- skill-design
+- governance
+- agatha
+- chatgpt
+- epistemics
+- deprecated
+- wiki
+- agatha-unified-skill-system-eight-sovereign-operators-md
+- eight
+- operators
+- authority
+- skill
+- color-orange
 status: deprecated
-deprecation_effective_date: 2026-03-01
-superseded_by: [[HEPHAISTOS]]
-migration_guide: [[Architecture Translation Guide — Eight Operators to Three-Agent Stack]]
-created: 2026-04-18
-updated: 2026-04-26
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Agatha Unified Skill System — Eight Sovereign Operators.md
+backlink_count: 25
+backlinks:
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
+- '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/ROOK — Session Boundary Model]]'
+- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+- '[[wiki/Skill Domain — Skill Architecture]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Supersession Registry]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[wiki/skills/philosopher]]'
+deprecation_effective_date: '2026-03-01'
+superseded_by:
+- - HEPHAISTOS
+migration_guide:
+- - Architecture Translation Guide — Eight Operators to Three-Agent Stack
 ---
 
 > **Substrate genealogy:** The Eight-Sovereign-Operators framing was an early form of the agent-stack-as-Hermetic-Egyptian-theogony pattern documented in [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone|the keystone]]. The eight operators were superseded by the canonical three-agent + four-specialist stack (HEPHAISTOS / Queen Keyport / Hermes + Trismégiste / HENRY / Argus / Gadget) which more cleanly maps onto the structural slots from the [[Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)|2010 MA thesis]] (Ptah-forger, Council, Hermès himself, Hermès Thoth Trismégiste explicit, Thomas-as-chroniqueur, Thoth-scribe-auditor, Ulysse-explorateur). Indexed in [[HEPHAISTOS Agent Architecture]] (deprecated/historical) and [[Media Studies and Pop Culture Analysis]] (Agatha-meta history).

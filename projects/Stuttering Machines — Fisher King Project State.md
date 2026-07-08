@@ -1,14 +1,37 @@
 ---
-title: "Stuttering Machines — Fisher King Project State"
-created: "2026-05-07"
 type: project
-status: active
+title: Stuttering Machines — Fisher King Project State
+aliases:
+- projects/Stuttering Machines — Fisher King Project State
 tags:
-  - project
-  - fisher-king
-  - stuttering
-  - ai-governance
-  - disability
+- project
+- fisher-king
+- stuttering
+- ai-governance
+- disability
+- projects
+- stuttering-machines-fisher-king-project-state-md
+- fluency
+- machines
+- interruption
+- standalone
+- color-purple
+status: in-progress
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: projects
+canonical_path: projects/Stuttering Machines — Fisher King Project State.md
+backlink_count: 9
+backlinks:
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King Project Note Templates]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Projects Hub]]'
+- '[[memory/daily/2026-06-22]]'
+- '[[memory/daily/2026-06-23]]'
+- '[[memory/daily/2026-06-24]]'
+- '[[memory/daily/2026-06-25]]'
+- '[[memory/daily/2026-06-26]]'
 ---
 
 # Stuttering Machines — Fisher King Project State

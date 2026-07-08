@@ -1,11 +1,29 @@
 ---
 type: raw-source
-source_url: https://thoughtleadership.cibc.com/article/leveraging-ai-to-enable-the-future/
 title: Leveraging AI to Enable the Future | CIBC Thought Leadership
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_leveraging-ai-to-enable-the-future-cibc-thought-leadership
+tags:
+- raw-source
+- memory
+- clients
+- cibc
+- advancements
+- bank
+- talent
+- color-lime
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_leveraging-ai-to-enable-the-future-cibc-thought-leadership.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+source_url: https://thoughtleadership.cibc.com/article/leveraging-ai-to-enable-the-future/
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Leveraging AI to Enable the Future | CIBC Thought Leadership

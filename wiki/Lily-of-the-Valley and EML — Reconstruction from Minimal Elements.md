@@ -1,10 +1,48 @@
 ---
 type: wiki
-aliases: ["Muguet and EML", "mute flower and EML", "lily-of-the-valley reconstruction", "living reconstruction"]
-tags: [synthesis, ritual, perfumery, mathematics, reconstruction, authenticity, poietics]
+title: Lily-of-the-Valley and EML — Reconstruction from Minimal Elements
+aliases:
+- Muguet and EML
+- mute flower and EML
+- lily-of-the-valley reconstruction
+- living reconstruction
+- wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements
+tags:
+- synthesis
+- ritual
+- perfumery
+- mathematics
+- reconstruction
+- authenticity
+- poietics
+- wiki
+- lily-of-the-valley-and-eml-reconstruction-from-minimal-elements-md
+- flower
+- lily
+- valley
+- scent
+- color-orange
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements.md
+backlink_count: 13
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
+- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
+  Phenomenon]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Lily-of-the-Valley and EML — Reconstruction from Minimal Elements

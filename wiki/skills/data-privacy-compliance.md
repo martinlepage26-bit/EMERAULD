@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "data-privacy-compliance"
-domain: "Security and Compliance"
+title: data-privacy-compliance
+aliases:
+- skills/data-privacy-compliance
+- wiki/skills/data-privacy-compliance
+tags:
+- skill
+- wiki
+- skills
+- privacy
+- compliance
+- protection
+- conducting
+- minimization
+- color-blue
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/data-privacy-compliance/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/data-privacy-compliance.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Security and Compliance]]'
+skill_id: data-privacy-compliance
+domain: Security and Compliance
+codex_path: /home/cerebrhoe/.codex/skills/data-privacy-compliance/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

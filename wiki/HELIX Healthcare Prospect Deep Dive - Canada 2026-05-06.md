@@ -1,10 +1,44 @@
 ---
 type: wiki
-aliases: ["HELIX healthcare prospects", "HELIX health deep dive", "HELIX Canada health AI"]
-tags: [helix, prospects, clients, commercial, ai-governance, healthcare, quebec, canada, law25, pipeda]
+title: HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06
+aliases:
+- HELIX healthcare prospects
+- HELIX health deep dive
+- HELIX Canada health AI
+- wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06
+tags:
+- helix
+- prospects
+- clients
+- commercial
+- ai-governance
+- healthcare
+- quebec
+- canada
+- law25
+- pipeda
+- wiki
+- helix-healthcare-prospect-deep-dive-canada-2026-05-06-md
+- news
+- muhc
+- airudi
+- infoway
+- color-pink
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/clients/helix-prospects-2026-q2]]'
+- '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_artificial-intelligence]]'
+- '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_artificial-intelligence-at-rbc]]'
+- '[[raw/Clippings/AI is speeding into healthcare. Who should regulate it]]'
 ---
 
 # HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06

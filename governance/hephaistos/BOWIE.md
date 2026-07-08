@@ -1,3 +1,33 @@
+---
+type: governance-doc
+title: BOWIE — Consolidation Operator
+aliases:
+- BOWIE — Consolidation Operator
+- governance/hephaistos/BOWIE
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- bowie
+- consolidation
+- 'true'
+- archive
+- apply
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/BOWIE.md
+backlink_count: 4
+backlinks:
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[governance/governance-index]]'
+- '[[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/method]]'
+- '[[hephaistos/personal-assistant-agents/intake-triager/references/ecosystem]]'
+---
+
 # BOWIE — Consolidation Operator
 
 **Type:** bounded consolidation agent / automation protocol  

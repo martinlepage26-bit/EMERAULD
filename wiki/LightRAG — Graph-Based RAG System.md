@@ -1,10 +1,46 @@
 ---
 type: wiki
-aliases: [LightRAG, graph-based RAG, HKUDS LightRAG]
-tags: [ai-tooling, retrieval, knowledge-graph, rag, infrastructure]
+title: LightRAG — Graph-Based RAG System
+aliases:
+- LightRAG
+- graph-based RAG
+- HKUDS LightRAG
+- wiki/LightRAG — Graph-Based RAG System
+tags:
+- ai-tooling
+- retrieval
+- knowledge-graph
+- rag
+- infrastructure
+- wiki
+- lightrag-graph-based-rag-system-md
+- lightrag
+- reranker
+- wizard
+- storage
+- backend
+- color-orange
 status: active
-created: 2026-04-16
-updated: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/LightRAG — Graph-Based RAG System.md
+backlink_count: 14
+backlinks:
+- '[[.planning/ROADMAP]]'
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[wiki/GSD — Get Shit Done Context Engineering System]]'
+- '[[wiki/GSD — Get-Shit-Done Claude Code System]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/RAG-Anything — Multimodal RAG Framework]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/claude-mem — Persistent Memory Compression for Claude Code]]'
+- '[[hephaistos/personal-assistant-agents/trismegiste/README]]'
+- '[[memory/daily/2026-04-24]]'
 ---
 
 # LightRAG — Graph-Based RAG System

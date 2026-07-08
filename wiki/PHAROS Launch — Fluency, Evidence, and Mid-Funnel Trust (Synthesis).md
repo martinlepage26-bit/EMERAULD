@@ -1,13 +1,41 @@
 ---
 type: wiki
+title: PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)
 aliases:
-  - Fluency and Trust in PHAROS Sales
-  - Evidence as Interruption
-  - Mid-Funnel Governance
-tags: [pharos, commercial, fluency, interruption, evidence, trust, sales, governance, synthesis]
+- Fluency and Trust in PHAROS Sales
+- Evidence as Interruption
+- Mid-Funnel Governance
+- wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)
+tags:
+- pharos
+- commercial
+- fluency
+- interruption
+- evidence
+- trust
+- sales
+- governance
+- synthesis
+- wiki
+- pharos-launch-fluency-evidence-and-mid-funnel-trust-synthesis-md
+- launch
+- funnel
+- color-purple
 status: active
 created: 2026-05-01T16:25
-updated: 2026-05-01T16:30
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis).md
+backlink_count: 8
+backlinks:
+- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
+- '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
+- '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 > **Cluster connections:** Cleanest commercial-positioning synthesis from the 2026-05-01 launch arc. The fluency/interruption distinction it operationalizes derives from [[Fluency, Interruption, and Institutional Accountability]] and ultimately from the *le silence* threshold of the [[Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard|Pourquoi rêver encore]] essay; methodological substrate at [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]]. Indexed in [[PHAROS Commercial Strategy]] (Launch Operations) and [[Martin Lepage Professional Identity]] (Professional Positioning). Companion: [[PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]], [[Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]], [[PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]].

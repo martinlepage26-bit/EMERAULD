@@ -1,3 +1,31 @@
+---
+type: wiki
+title: Martin Public Surface
+aliases:
+- Martin Public Surface
+- wiki/MARTIN SURFACE
+tags:
+- wiki
+- martin-surface-md
+- tracker
+- housekeeping
+- martin
+- softinfo
+- tiering
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/MARTIN SURFACE.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+---
+
 # Martin Public Surface
 
 martin.govern-ai.ca and identity surface updates.

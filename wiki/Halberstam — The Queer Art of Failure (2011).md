@@ -1,10 +1,37 @@
 ---
 type: wiki
-aliases: ["Halberstam Queer Art of Failure", "Queer Art of Failure", "failure-as-method Halberstam"]
-tags: [queer-theory, failure, methodology, theoretical-resource, halberstam]
+title: Halberstam — The Queer Art of Failure (2011)
+aliases:
+- Halberstam Queer Art of Failure
+- Queer Art of Failure
+- failure-as-method Halberstam
+- wiki/Halberstam — The Queer Art of Failure (2011)
+tags:
+- queer-theory
+- failure
+- methodology
+- theoretical-resource
+- halberstam
+- wiki
+- halberstam-the-queer-art-of-failure-2011-md
+- khaibit
+- bibliography
+- queer
+- color-teal
 status: stub
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Halberstam — The Queer Art of Failure (2011).md
+backlink_count: 7
+backlinks:
+- '[[Areas/Writing/AREA]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Halberstam — The Queer Art of Failure (2011)

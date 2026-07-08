@@ -1,3 +1,34 @@
+---
+type: archive-record
+title: PHAROS Invention Disclosure V12 — Evidence Bundle
+aliases:
+- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/MANIFEST
+tags:
+- archive
+- pharos
+- archive-record
+- pharos-invention-disclosure-bundle-sources-2026-04-25
+- errata
+- filing
+- counsel
+- facts
+- bundle
+- color-green
+status: archived
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/MANIFEST.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/D Drive Scan — 2026-05-12]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/GAP-pr4-server-spec-alignment]]'
+- '[[artifacts/2026-04-19-pharos-migration-pr4/docs/PHAROS_OPERATIONAL_RUNBOOK]]'
+---
+
 # PHAROS Invention Disclosure V12 — Evidence Bundle
 
 See also [[Governance and PHAROS MOC]].

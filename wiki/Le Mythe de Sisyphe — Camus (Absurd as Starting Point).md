@@ -1,10 +1,38 @@
 ---
 type: wiki
-aliases: ["Camus — Le Mythe de Sisyphe", "The Myth of Sisyphus (Camus)"]
-tags: [reference, philosophy, absurd, suicide, lucidity, interruption]
+title: Le Mythe de Sisyphe — Camus (Absurd as Starting Point)
+aliases:
+- Camus — Le Mythe de Sisyphe
+- The Myth of Sisyphus (Camus)
+- wiki/Le Mythe de Sisyphe — Camus (Absurd as Starting Point)
+tags:
+- reference
+- philosophy
+- absurd
+- suicide
+- lucidity
+- interruption
+- wiki
+- le-mythe-de-sisyphe-camus-absurd-as-starting-point-md
+- sisyphe
+- mythe
+- sisyphean
+- camus
+- color-lime
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Le Mythe de Sisyphe — Camus (Absurd as Starting Point).md
+backlink_count: 7
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Le Mythe de Sisyphe — Camus (Absurd as Starting Point)

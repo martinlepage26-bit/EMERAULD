@@ -1,3 +1,31 @@
+---
+type: artifact
+title: The Real Cost of Rebuilding AI Context (And How to Stop Paying It)
+aliases:
+- artifacts/marketplace/promo/devto-iter21-roi-calculation
+tags:
+- artifact
+- ai
+- artifacts
+- marketplace
+- calculation
+- reconstruction
+- session
+- minutes
+- sessions
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/devto-iter21-roi-calculation.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # The Real Cost of Rebuilding AI Context (And How to Stop Paying It)
 
 *Dev.to — Iteration 21 — Cycle 5 — 2026-04-20*

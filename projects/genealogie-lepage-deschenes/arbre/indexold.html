@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arbre Généalogique - Famille Lepage / Deschênes</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #f4ebd8;
+            font-family: 'Lora', serif;
+            color: #2c1a0c;
+        }
+
+        .tree-container {
+            position: relative;
+            width: 1000px;
+            height: 1000px;
+            margin: 20px auto;
+            background-image: url('oak_tree_background_1783229889610.jpg');
+            background-size: cover;
+            background-position: center;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        .title-box {
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(244, 235, 216, 0.85);
+            padding: 15px 30px;
+            border-radius: 8px;
+            border: 2px solid #8b5a2b;
+            text-align: center;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            backdrop-filter: blur(4px);
+        }
+
+        .title-box h1 {
+            margin: 0;
+            font-family: 'Cinzel', serif;
+            font-size: 24px;
+            color: #3b2a1a;
+        }
+
+        .title-box p {
+            margin: 5px 0 0;
+            font-size: 14px;
+            font-style: italic;
+        }
+
+        /* Node Base Styles */
+        .node {
+            position: absolute;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            width: 120px;
+            transform: translate(-50%, -50%);
+            transition: transform 0.3s ease;
+        }
+        
+        .node:hover {
+            transform: translate(-50%, -50%) scale(1.1);
+            z-index: 100;
+        }
+
+        .icon {
+            font-size: 32px;
+            filter: drop-shadow(0 2px 4px rgba(0,0,0,0.4));
+            margin-bottom: 5px;
+        }
+
+        .label {
+            background: rgba(255, 255, 255, 0.9);
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+            border: 1px solid rgba(0,0,0,0.2);
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+        
+        .sub-label {
+            font-size: 10px;
+            font-weight: normal;
+            font-style: italic;
+            color: #555;
+        }
+
+        /* Lepage Side (Left/Top-Left) - Books and Pages */
+        .lepage {
+            color: #1a365d;
+        }
+        .lepage .label {
+            border-color: #2b6cb0;
+        }
+
+        /* Deschênes Side (Right/Top-Right) - Leaves */
+        .deschenes {
+            color: #276749;
+        }
+        .deschenes .label {
+            border-color: #38a169;
+        }
+
+        /* Kids/Propositus (Center/Bottom) - Acorns */
+        .kids {
+            color: #744210;
+        }
+        .kids .label {
+            border-color: #b7791f;
+            background: rgba(255, 248, 220, 0.95);
+        }
+
+        /* Connecting Lines (Conceptual using SVG overlay) */
+        svg.lines {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 0;
+        }
+        
+        .line {
+            stroke: rgba(255, 255, 255, 0.4);
+            stroke-width: 2;
+            stroke-dasharray: 4;
+        }
+        
+        /* Node Positions */
+        /* GENERATION 4 */
+        #delphis { top: 15%; left: 20%; }
+        #johnny { top: 15%; left: 80%; }
+        
+        /* GENERATION 3 */
+        #gerard { top: 32%; left: 30%; }
+        #lionel { top: 32%; left: 70%; }
+        
+        /* UNCLES / AUNTS G3 */
+        #gerald { top: 40%; left: 18%; }
+        #roger { top: 50%; left: 15%; }
+        
+        #jeaneudes { top: 35%; left: 85%; }
+        #claudette { top: 45%; left: 88%; }
+        #christiane { top: 55%; left: 85%; }
+        #francine { top: 65%; left: 82%; }
+        #real { top: 75%; left: 78%; }
+
+        /* GENERATION 2 */
+        #jocelyn { top: 55%; left: 40%; }
+        #edith { top: 55%; left: 60%; }
+        
+        /* GENERATION 1 */
+        #martin { top: 78%; left: 50%; }
+        #patricia { top: 72%; left: 38%; }
+        #martine { top: 72%; left: 62%; }
+        
+        /* GRANDKIDS */
+        #daven { top: 88%; left: 46%; }
+        #jordan { top: 88%; left: 54%; }
+        
+    </style>
+</head>
+<body>
+
+<div class="tree-container">
+    
+    <!-- SVG Lines for Connections -->
+    <svg class="lines">
+        <!-- Paternal lines -->
+        <line x1="20%" y1="15%" x2="30%" y2="32%" class="line"/> <!-- Delphis -> Gerard -->
+        <line x1="30%" y1="32%" x2="40%" y2="55%" class="line"/> <!-- Gerard -> Jocelyn -->
+        <line x1="30%" y1="32%" x2="18%" y2="40%" class="line"/> <!-- Gerard -> Gerald -->
+        <line x1="30%" y1="32%" x2="15%" y2="50%" class="line"/> <!-- Gerard -> Roger -->
+        
+        <!-- Maternal lines -->
+        <line x1="80%" y1="15%" x2="70%" y2="32%" class="line"/> <!-- Johnny -> Lionel -->
+        <line x1="70%" y1="32%" x2="60%" y2="55%" class="line"/> <!-- Lionel -> Edith -->
+        <line x1="70%" y1="32%" x2="85%" y2="35%" class="line"/> <!-- Lionel -> JeanEudes -->
+        <line x1="70%" y1="32%" x2="88%" y2="45%" class="line"/> <!-- Lionel -> Claudette -->
+        <line x1="70%" y1="32%" x2="85%" y2="55%" class="line"/> <!-- Lionel -> Christiane -->
+        <line x1="70%" y1="32%" x2="82%" y2="65%" class="line"/> <!-- Lionel -> Francine -->
+        <line x1="70%" y1="32%" x2="78%" y2="75%" class="line"/> <!-- Lionel -> Real -->
+        
+        <!-- Parents to Kids -->
+        <line x1="40%" y1="55%" x2="50%" y2="78%" class="line"/> <!-- Jocelyn -> Martin -->
+        <line x1="60%" y1="55%" x2="50%" y2="78%" class="line"/> <!-- Edith -> Martin -->
+        
+        <line x1="40%" y1="55%" x2="38%" y2="72%" class="line"/> <!-- Jocelyn -> Patricia -->
+        <line x1="60%" y1="55%" x2="38%" y2="72%" class="line"/> <!-- Edith -> Patricia -->
+        
+        <line x1="40%" y1="55%" x2="62%" y2="72%" class="line"/> <!-- Jocelyn -> Martine -->
+        <line x1="60%" y1="55%" x2="62%" y2="72%" class="line"/> <!-- Edith -> Martine -->
+        
+        <!-- Martin's kids -->
+        <line x1="40%" y1="55%" x2="46%" y2="88%" class="line"/> <!-- Jocelyn -> Daven (via Martin conceptual) -->
+        <line x1="50%" y1="78%" x2="46%" y2="88%" class="line"/>
+        <line x1="50%" y1="78%" x2="54%" y2="88%" class="line"/>
+    </svg>
+
+    <!-- GENERATION 4 -->
+    <div id="delphis" class="node lepage">
+        <div class="icon">📖</div>
+        <div class="label">Delphis Bouchard<br><span class="sub-label">& Eva Chayer</span></div>
+    </div>
+    
+    <div id="johnny" class="node deschenes">
+        <div class="icon">🌿</div>
+        <div class="label">Johnny Tremblay<br><span class="sub-label">& Emilie Vezina</span></div>
+    </div>
+
+    <!-- GENERATION 3 -->
+    <div id="gerard" class="node lepage">
+        <div class="icon">📄</div>
+        <div class="label">Gérard Lepage<br><span class="sub-label">& Germaine Bouchard</span></div>
+    </div>
+    
+    <div id="lionel" class="node deschenes">
+        <div class="icon">🍃</div>
+        <div class="label">Lionel Deschênes<br><span class="sub-label">& Laurette Tremblay</span></div>
+    </div>
+
+    <!-- UNCLES / AUNTS LEPAGE (Books/Pages) -->
+    <div id="gerald" class="node lepage">
+        <div class="icon">📄</div>
+        <div class="label">Gérald Lepage</div>
+    </div>
+    <div id="roger" class="node lepage">
+        <div class="icon">📄</div>
+        <div class="label">Roger Lepage</div>
+    </div>
+
+    <!-- UNCLES / AUNTS DESCHENES (Leaves) -->
+    <div id="jeaneudes" class="node deschenes">
+        <div class="icon">🍃</div>
+        <div class="label">Jean-Eudes</div>
+    </div>
+    <div id="claudette" class="node deschenes">
+        <div class="icon">🍃</div>
+        <div class="label">Claudette</div>
+    </div>
+    <div id="christiane" class="node deschenes">
+        <div class="icon">🍃</div>
+        <div class="label">Christiane</div>
+    </div>
+    <div id="francine" class="node deschenes">
+        <div class="icon">🍃</div>
+        <div class="label">Francine</div>
+    </div>
+    <div id="real" class="node deschenes">
+        <div class="icon">🍃</div>
+        <div class="label">Réal Deschênes</div>
+    </div>
+
+    <!-- GENERATION 2 (Parents) -->
+    <div id="jocelyn" class="node lepage">
+        <div class="icon">📖</div>
+        <div class="label">Jocelyn Lepage</div>
+    </div>
+    
+    <div id="edith" class="node deschenes">
+        <div class="icon">🌿</div>
+        <div class="label">Édith Deschênes</div>
+    </div>
+
+    <!-- GENERATION 1 (Kids - Acorns) -->
+    <div id="martin" class="node kids">
+        <div class="icon">🌰</div>
+        <div class="label">Martin Lepage<br><span class="sub-label">Propositus</span></div>
+    </div>
+    <div id="patricia" class="node kids">
+        <div class="icon">🌰</div>
+        <div class="label">Patricia Lepage</div>
+    </div>
+    <div id="martine" class="node kids">
+        <div class="icon">🌰</div>
+        <div class="label">Martine Lepage</div>
+    </div>
+    
+    <!-- GENERATION 0 (Grandkids - Acorns) -->
+    <div id="daven" class="node kids">
+        <div class="icon">🌰</div>
+        <div class="label">Daven</div>
+    </div>
+    <div id="jordan" class="node kids">
+        <div class="icon">🌰</div>
+        <div class="label">Jordan</div>
+    </div>
+
+    <div class="title-box">
+        <h1>Famille Lepage / Deschênes</h1>
+        <p>Juin 2026</p>
+    </div>
+</div>
+
+</body>
+</html>

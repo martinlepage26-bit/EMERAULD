@@ -1,10 +1,36 @@
 ---
 type: map
-aliases: ["Documents and Downloads coverage matrix", "C drive coverage matrix"]
-tags: [coverage, intake, documents, downloads, raw-sources, provenance]
+title: Documents and Downloads Coverage Matrix — 2026-05-06
+aliases:
+- Documents and Downloads coverage matrix
+- C drive coverage matrix
+- wiki/Documents and Downloads Coverage Matrix — 2026-05-06
+tags:
+- coverage
+- intake
+- documents
+- downloads
+- raw-sources
+- provenance
+- map
+- wiki
+- documents-and-downloads-coverage-matrix-2026-05-06-md
+- desktop
+- scan
+- color-lime
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Documents and Downloads Coverage Matrix — 2026-05-06.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Documents and Downloads Scan — 2026-05-06]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Home]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Documents and Downloads Coverage Matrix — 2026-05-06

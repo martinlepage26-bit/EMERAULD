@@ -1,10 +1,64 @@
 ---
 type: wiki
-aliases: [HELIX, "HELIX value prop", "HELIX buyer", "HELIX product positioning"]
-tags: [helix, product, positioning, pharos, governance, commercial]
+title: HELIX — Value Proposition and Buyer Profile
+aliases:
+- HELIX
+- HELIX value prop
+- HELIX buyer
+- HELIX product positioning
+- wiki/HELIX — Value Proposition and Buyer Profile
+tags:
+- helix
+- product
+- positioning
+- pharos
+- governance
+- commercial
+- wiki
+- helix-value-proposition-and-buyer-profile-md
+- personally
+- ruling
+- backend
+- consulting
+- color-purple
 status: active
-created: 2026-05-05
-updated: 2026-05-06
+created: '2026-05-05'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HELIX — Value Proposition and Buyer Profile.md
+backlink_count: 29
+backlinks:
+- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
+- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
+  (2026-05-07)]]'
+- '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control
+  Surface (2026-05-11)]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
+- '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
+- '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
+- '[[wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
+- '[[wiki/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
+- '[[wiki/HELIX Test Run — Epstein Files Topic (2026)]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[wiki/PHAROS Method — Core Framework]]'
+- '[[wiki/PHAROS Product Stack]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[_CLAUDE]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/clients/helix-prospects-2026-q2]]'
+- '[[memory/local-session/decision_compass_deployment_phasing]]'
+- '[[projects/HELIX — Fisher King Project State]]'
 ---
 
 # HELIX — Value Proposition and Buyer Profile

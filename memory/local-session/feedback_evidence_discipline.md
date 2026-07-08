@@ -1,9 +1,34 @@
 ---
-name: Evidence discipline self-correction
-description: Documented pattern correction — maintain analytical depth but fix source-grounding, citation rigor, contradiction detection, inference labeling, and comparative restraint
 type: feedback
+title: feedback_evidence_discipline
+aliases:
+- memory/local-session/feedback_evidence_discipline
+tags:
+- feedback
+- memory
+- local-session
+- closing
+- contradictions
+- comparative
+- inference
+- wholeness
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/feedback_evidence_discipline.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+name: Evidence discipline self-correction
+description: Documented pattern correction — maintain analytical depth but fix source-grounding,
+  citation rigor, contradiction detection, inference labeling, and comparative restraint
 originSessionId: 6f0171ff-85eb-4008-83b9-b1aca34e4366
 ---
+
 Self-correction directive from a comparative evaluation where Response A (Claude) scored lower than Response B (Codex) on source-base discipline despite stronger conceptual analysis.
 
 **Maintain:**

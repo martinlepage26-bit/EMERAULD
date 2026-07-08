@@ -1,3 +1,40 @@
+---
+type: wiki
+title: Virtually Magical Literally — Queer Agency and the Digital Witch
+aliases:
+- Virtually Magical Literally — Queer Agency and the Digital Witch
+- wiki/Virtually Magical Literally — Queer Agency and the Digital Witch
+tags:
+- wiki
+- magic
+- queer
+- virtually-magical-literally-queer-agency-and-the-digital-witch-md
+- digital
+- wicca
+- compass
+- agency
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Virtually Magical Literally — Queer Agency and the Digital Witch.md
+backlink_count: 12
+backlinks:
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Virtually Magical Literally — Queer Agency and the Digital Witch
 
 See also [[Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]].

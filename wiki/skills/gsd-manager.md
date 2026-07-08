@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "gsd-manager"
-domain: "GSD Workflow"
+title: gsd-manager
+aliases:
+- skills/gsd-manager
+- wiki/skills/gsd-manager
+tags:
+- skill
+- wiki
+- skills
+- manager
+- managing
+- interactive
+- codex
+- color-purple
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/gsd-manager/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/gsd-manager.md
+backlink_count: 2
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+skill_id: gsd-manager
+domain: GSD Workflow
+codex_path: /home/cerebrhoe/.codex/skills/gsd-manager/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

@@ -1,3 +1,41 @@
+---
+type: wiki
+title: September 2024 Research Retrospective
+aliases:
+- September 2024 Research Retrospective
+- wiki/September 2024 Research Retrospective
+tags:
+- wiki
+- september-2024-research-retrospective-md
+- vigil
+- doxypep
+- retrospective
+- clinical
+- september
+- color-blue
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/September 2024 Research Retrospective.md
+backlink_count: 14
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
+- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
+---
+
 # September 2024 Research Retrospective
 
 See also [[Governance and PHAROS MOC]].

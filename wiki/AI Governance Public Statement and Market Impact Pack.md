@@ -1,8 +1,55 @@
 ---
 type: note
-tags: [ai-governance, pharos, market, public-statement, compliance]
-created: 2026-04-28
-updated: 2026-04-28
+title: AI Governance Public Statement and Market Impact Pack
+aliases:
+- AI Governance Public Statement and Market Impact Pack
+- wiki/AI Governance Public Statement and Market Impact Pack
+tags:
+- ai-governance
+- pharos
+- market
+- public-statement
+- compliance
+- note
+- wiki
+- ai-governance-public-statement-and-market-impact-pack-md
+- public
+- loose
+- root
+- governance
+- color-purple
+status: active
+created: '2026-04-28'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI Governance Public Statement and Market Impact Pack.md
+backlink_count: 25
+backlinks:
+- '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
+- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
+- '[[wiki/PHAROS Procurement-Unblock Sprint]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/PHAROS-AI Webservice — pharos-ai.ca]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
+- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-28]]'
 ---
 
 # AI Governance Public Statement and Market Impact Pack

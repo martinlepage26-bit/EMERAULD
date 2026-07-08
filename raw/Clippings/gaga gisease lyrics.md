@@ -1,12 +1,34 @@
 ---
-title: "gaga gisease lyrics"
-source:
-author:
-published:
-created: 2026-04-25
-description:
+type: raw-source
+title: gaga gisease lyrics
+aliases:
+- raw/Clippings/gaga gisease lyrics
 tags:
+- raw-source
+- raw
+- clippings
+- cure
+- disease
+- gstatic
+- gonna
+- sickness
+- color-lime
+status: preserved
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/Clippings/gaga gisease lyrics.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Disease — Lady Gaga — Lyrics]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[wiki/raw-sources/2026-05-13/gaga gisease lyrics — Source Note]]'
+source: null
+author: null
+published: null
+description: null
 ---
+
 Disease
 
 Song by Lady Gaga ‧ 2025

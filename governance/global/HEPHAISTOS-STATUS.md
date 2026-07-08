@@ -1,3 +1,39 @@
+---
+type: governance-doc
+title: STATUS — Self-Audit Against Co-Equal Authority Spec
+aliases:
+- STATUS — Self-Audit Against Co-Equal Authority Spec
+- governance/global/HEPHAISTOS-STATUS
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- global
+- equal
+- keyport
+- queen
+- conflict
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/global/HEPHAISTOS-STATUS.md
+backlink_count: 10
+backlinks:
+- '[[.github/agents/hephaistos.agent]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[_vault/ARCHITECTURE-STATUS-MARKING-CHECKLIST]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/HEPHAISTOS_OPERATIONS]]'
+- '[[governance/hephaistos/STATUS]]'
+- '[[governance/hephaistos/hephaistos-to-queen-keyport]]'
+- '[[governance/hephaistos/hephaistos-to-specialist-guideline-pull]]'
+- '[[hephaistos/agents/hephaistos]]'
+- '[[memory/local-session/project_hephaistos]]'
+---
+
 # STATUS — Self-Audit Against Co-Equal Authority Spec
 
 **Date:** 2026-04-18  

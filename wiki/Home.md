@@ -1,3 +1,29 @@
+---
+type: moc
+title: Home — EMERAULD
+aliases:
+- Home — EMERAULD
+- wiki/Home
+tags:
+- moc
+- wiki
+- home-md
+- genealogy
+- version
+- novel
+- queer
+- magic
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Home.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Home — EMERAULD
 
 ## What is EMERAULD
@@ -201,3 +227,18 @@ A flat index organized by domain, for direct access without traversing a MOC.
 - [[Governance and PHAROS MOC]]
 - [[Writing and Novels MOC]]
 - [[Personal and Projects MOC]]
+
+## Directory MOCs
+
+- [[wiki/EMERAULD_OS_ARCHITECTURE.MD MOC]]
+- [[wiki/PEER-REVIEW MOC]]
+- [[wiki/PUBLICATIONS MOC]]
+- [[wiki/SOURCE_OF_TRUTH.MD MOC]]
+- [[wiki/ASSETS MOC]]
+- [[wiki/GRAPHIFY-OUT MOC]]
+- [[wiki/HEPHAISTOS MOC]]
+- [[wiki/MEMORY MOC]]
+- [[wiki/RAW MOC]]
+- [[wiki/RESOURCES MOC]]
+- [[wiki/TEMPLATES MOC]]
+- [[wiki/Wiki MOC]]

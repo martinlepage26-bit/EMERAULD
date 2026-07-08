@@ -1,12 +1,39 @@
 ---
 type: wiki
+title: Martin Voice Spec — Stage Map
 aliases:
-  - Martin Voice Spec — Stage Map
-  - Voice Spec Stage Map
-tags: [voice-spec, stage-map, identity, hermes, operator-continuity]
+- Martin Voice Spec — Stage Map
+- Voice Spec Stage Map
+- wiki/Martin Voice Spec — Stage Map
+tags:
+- voice-spec
+- stage-map
+- identity
+- hermes
+- operator-continuity
+- wiki
+- martin-voice-spec-stage-map-md
+- stage
+- spec
+- genealogy
+- voice
+- charm
+- color-orange
 status: active
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Martin Voice Spec — Stage Map.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Home]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'
 ---
 
 # Martin Voice Spec — Stage Map

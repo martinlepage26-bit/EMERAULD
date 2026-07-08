@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "type": "folder",
+      "path": "projects",
+      "includeSubfolders": false
+    }
+  ],
+  "filters": [
+    {
+      "type": "property",
+      "property": "type",
+      "operator": "eq",
+      "value": "project"
+    }
+  ],
+  "views": [
+    {
+      "id": "kanban-by-status",
+      "name": "By Status",
+      "type": "kanban",
+      "groupBy": {
+        "property": "status"
+      },
+      "columns": [
+        "draft",
+        "in-progress",
+        "blocked",
+        "on-ice",
+        "complete",
+        "archived"
+      ]
+    },
+    {
+      "id": "table-all",
+      "name": "All Projects",
+      "type": "table",
+      "columns": [
+        "title",
+        "status",
+        "priority",
+        "deadline",
+        "updated"
+      ],
+      "sortBy": [
+        { "property": "status", "direction": "asc" },
+        { "property": "priority", "direction": "asc" }
+      ]
+    }
+  ]
+}

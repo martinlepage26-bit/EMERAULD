@@ -1,10 +1,47 @@
 ---
 type: wiki
-aliases: [epistemic governance reference, Dimension F reference, skill-architect epistemic standard, voice operator canonical, OODA canonical]
-tags: [skill, governance, epistemics, ooda, voice, canonical, pharos, claude-code, skill-corpus, dimension-f, audit]
+title: Epistemic Governance — Canonical Reference
+aliases:
+- epistemic governance reference
+- Dimension F reference
+- skill-architect epistemic standard
+- voice operator canonical
+- OODA canonical
+- wiki/Epistemic Governance — Canonical Reference
+tags:
+- skill
+- governance
+- epistemics
+- ooda
+- voice
+- canonical
+- pharos
+- claude-code
+- skill-corpus
+- dimension-f
+- audit
+- wiki
+- epistemic-governance-canonical-reference-md
+- analytical
+- epistemic
+- brain
+- dimension
+- color-purple
 status: active
-created: 2026-05-24
-updated: 2026-05-24
+created: '2026-05-24'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Epistemic Governance — Canonical Reference.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[assets/elemental-agents/ttrpg-repack/manuscript/_audit_dimension-F-2026-05-24]]'
 source_path: /mnt/skills/user/skill-architect/references/epistemic-governance.md
 canonical_pair: Epistemic Operator — Operational Specification
 ---

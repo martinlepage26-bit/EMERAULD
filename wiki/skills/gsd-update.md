@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "gsd-update"
-domain: "GSD Workflow"
+title: gsd-update
+aliases:
+- skills/gsd-update
+- wiki/skills/gsd-update
+tags:
+- skill
+- wiki
+- skills
+- update
+- display
+- changelog
+- latest
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/gsd-update/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/gsd-update.md
+backlink_count: 2
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+skill_id: gsd-update
+domain: GSD Workflow
+codex_path: /home/cerebrhoe/.codex/skills/gsd-update/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

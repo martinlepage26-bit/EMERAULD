@@ -1,10 +1,32 @@
 ---
 type: skill
-skill_id: "dispatching-parallel-agents"
-domain: "Agent Architecture and Development"
+title: dispatching-parallel-agents
+aliases:
+- skills/dispatching-parallel-agents
+- wiki/skills/dispatching-parallel-agents
+tags:
+- skill
+- wiki
+- skills
+- supervisor
+- dispatching
+- parallel
+- agents
+- decomposes
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/dispatching-parallel-agents/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/dispatching-parallel-agents.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Agent Architecture]]'
+- '[[wiki/Skill Domain — Skill Architecture]]'
+skill_id: dispatching-parallel-agents
+domain: Agent Architecture and Development
+codex_path: /home/cerebrhoe/.codex/skills/dispatching-parallel-agents/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

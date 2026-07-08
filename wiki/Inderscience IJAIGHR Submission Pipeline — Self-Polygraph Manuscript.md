@@ -1,10 +1,37 @@
 ---
 type: wiki
-aliases: ["IJAIGHR submission", "Inderscience submission pipeline", "Self-Polygraph submission checklist"]
-tags: [workflow, deliverable, submission, inderscience, ijaighr, paper-pipeline, runbook, manuscript]
+title: Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript
+aliases:
+- IJAIGHR submission
+- Inderscience submission pipeline
+- Self-Polygraph submission checklist
+- wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript
+tags:
+- workflow
+- deliverable
+- submission
+- inderscience
+- ijaighr
+- paper-pipeline
+- runbook
+- manuscript
+- wiki
+- inderscience-ijaighr-submission-pipeline-self-polygraph-manuscript-md
+- polygraph
+- pipeline
+- color-blue
 status: active
-created: 2026-04-30
-updated: 2026-04-30
+created: '2026-04-30'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript

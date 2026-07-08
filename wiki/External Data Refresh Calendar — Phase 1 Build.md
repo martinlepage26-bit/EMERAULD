@@ -1,8 +1,31 @@
 ---
 type: governance-procedures
+title: External Data Refresh Calendar (Phase 1 Build)
+aliases:
+- External Data Refresh Calendar — Phase 1 Build
+- wiki/External Data Refresh Calendar — Phase 1 Build
+tags:
+- governance-procedures
+- wiki
+- external-data-refresh-calendar-phase-1-build-md
+- quarterly
+- manual
+- annual
+- check
+- weekly
+- color-purple
 status: active
-created: 2026-04-27
-updated: 2026-04-27
+created: '2026-04-27'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/External Data Refresh Calendar — Phase 1 Build.md
+backlink_count: 5
+backlinks:
+- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[wiki/External Data Registry — Phase 1 Build]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 phase: Phase 1 Infrastructure
 ---
 

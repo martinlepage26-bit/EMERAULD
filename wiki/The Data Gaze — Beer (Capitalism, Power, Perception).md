@@ -1,10 +1,45 @@
 ---
 type: wiki
-aliases: ["Beer — The Data Gaze", "Data gaze (review)"]
-tags: [reference, datafication, capitalism, power, surveillance, algorithms, archives, black-box]
+title: The Data Gaze — Beer (Capitalism, Power, Perception)
+aliases:
+- Beer — The Data Gaze
+- Data gaze (review)
+- wiki/The Data Gaze — Beer (Capitalism, Power, Perception)
+tags:
+- reference
+- datafication
+- capitalism
+- power
+- surveillance
+- algorithms
+- archives
+- black-box
+- wiki
+- the-data-gaze-beer-capitalism-power-perception-md
+- beer
+- article
+- journal
+- rationality
+- nissenbaum
+- color-blue
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Data Gaze — Beer (Capitalism, Power, Perception).md
+backlink_count: 10
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
+  2024]]'
+- '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # The Data Gaze — Beer (Capitalism, Power, Perception)

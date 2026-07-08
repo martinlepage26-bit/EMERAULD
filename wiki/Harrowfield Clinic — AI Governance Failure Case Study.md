@@ -1,3 +1,45 @@
+---
+type: wiki
+title: Harrowfield Clinic — AI Governance Failure Case Study
+aliases:
+- Harrowfield Clinic — AI Governance Failure Case Study
+- wiki/Harrowfield Clinic — AI Governance Failure Case Study
+tags:
+- wiki
+- governance
+- ai
+- harrowfield-clinic-ai-governance-failure-case-study-md
+- carebot
+- diagai
+- disabled
+- november
+- jira
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Harrowfield Clinic — AI Governance Failure Case Study.md
+backlink_count: 16
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance by Denial]]'
+- '[[wiki/Home]]'
+- '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'
+- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+- '[[maps/PHAROS Method Map]]'
+---
+
 # Harrowfield Clinic — AI Governance Failure Case Study
 
 ## Summary

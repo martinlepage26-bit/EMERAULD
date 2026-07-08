@@ -1,10 +1,44 @@
 ---
 type: wiki
-aliases: ["Right-Arm Extension Decision", "Hephaistos right-arm consultation", "Hermes exception consultation"]
-tags: [governance, hephaistos, hermes, queen-keyport, right-arm, binding-decision, architecture]
+title: Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
+  (2026-04-18)
+aliases:
+- Right-Arm Extension Decision
+- Hephaistos right-arm consultation
+- Hermes exception consultation
+- wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
+  (2026-04-18)
+tags:
+- governance
+- hephaistos
+- hermes
+- queen-keyport
+- right-arm
+- binding-decision
+- architecture
+- wiki
+- right-arm-extension-decision-hephaistos-and-hermes-advisory-consultation-2026-04-18-md
+- arms
+- consultation
+- implications
+- analyst
+- color-purple
 status: active
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory
+  Consultation (2026-04-18).md
+backlink_count: 8
+backlinks:
+- '[[.github/agents/hephaistos.agent]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION]]'
+- '[[raw/Clippings/Agent Architecture Patterns and Decision Framework]]'
 ---
 
 # Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)

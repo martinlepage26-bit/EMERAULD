@@ -1,3 +1,29 @@
+---
+type: asset
+title: 'Example: Post-Incident Retrospective'
+aliases:
+- assets/elemental-agents/source-completions/examples/05-post-incident-retrospective
+tags:
+- asset
+- agents
+- assets
+- elemental-agents
+- proximate
+- contributing
+- owners
+- corrective
+- retrospective
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: assets
+canonical_path: assets/elemental-agents/source-completions/examples/05-post-incident-retrospective.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Example: Post-Incident Retrospective
 
 See also [[Control Protocols MOC]].

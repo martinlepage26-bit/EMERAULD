@@ -1,7 +1,31 @@
 ---
-name: Diamond-Eyes Operating Principle
-description: All agents refine through the eyes of love; wisdom and care are non-negotiable validation gates alongside technical correctness
 type: project
+title: principle_diamond_eyes
+aliases:
+- memory/local-session/principle_diamond_eyes
+tags:
+- project
+- memory
+- local-session
+- eyes
+- diamond
+- wise
+- flourishing
+- technically
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/principle_diamond_eyes.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+- '[[governance/hephaistos/DIAMOND-EYES]]'
+name: Diamond-Eyes Operating Principle
+description: All agents refine through the eyes of love; wisdom and care are non-negotiable
+  validation gates alongside technical correctness
 ---
 
 ## Core Principle

@@ -1,10 +1,59 @@
 ---
 type: map
+title: Ritual, Magic, and Institutional Authority
 aliases:
-  - TOPIC — Ritual, Magic, and Institutional Authority
-tags: [index, map, topic, ritual, magic, authority, governance, media]
-created: 2026-05-01
-updated: 2026-05-06
+- TOPIC — Ritual, Magic, and Institutional Authority
+- wiki/Ritual, Magic, and Institutional Authority
+tags:
+- index
+- map
+- topic
+- ritual
+- magic
+- authority
+- governance
+- media
+- wiki
+- ritual-magic-and-institutional-authority-md
+- queer
+- legitimacy
+- color-violet
+status: active
+created: '2026-05-01'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Ritual, Magic, and Institutional Authority.md
+backlink_count: 28
+backlinks:
+- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019
+  (Abomey, Bénin)]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[wiki/Glitching the Sacred]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
+- '[[wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
+- '[[wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
+- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Linking Session 2 Summary — 2026-05-01]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Ritual, Magic, and Institutional Authority

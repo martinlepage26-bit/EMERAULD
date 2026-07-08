@@ -1,8 +1,32 @@
 ---
 type: map
-tags: [index, map, pharos, governance]
-created: 2026-04-16
-updated: 2026-04-16
+title: PHAROS Method Map
+aliases:
+- maps/PHAROS Method Map
+tags:
+- index
+- map
+- pharos
+- governance
+- maps
+- pharos-method-map-md
+- recursive
+- architecture
+- method
+- color-purple
+status: active
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: maps
+canonical_path: maps/PHAROS Method Map.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/PHAROS SURFACE]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # PHAROS Method Map

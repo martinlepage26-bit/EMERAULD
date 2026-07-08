@@ -1,3 +1,56 @@
+---
+type: wiki
+title: Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
+  of Interruption
+aliases:
+- Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of
+  Interruption
+- wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
+  of Interruption
+tags:
+- wiki
+- governance
+- ai
+- agents
+- algorithmic-agentic-ai-and-governance-from-hegemonic-fluency-to-the-ethics-of-interruption-md
+- fluency
+- interruption
+- algorithmic
+- workplace
+- audible
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency
+  to the Ethics of Interruption.md
+backlink_count: 22
+backlinks:
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[wiki/APEX Papers — Research Archive Map]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[projects/Stuttering Machines — Fisher King Project State]]'
+- '[[session-state]]'
+---
+
 # Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption
 
 ## Summary

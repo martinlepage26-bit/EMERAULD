@@ -1,14 +1,51 @@
 ---
 type: wiki
-aliases: [PHAROS — Origin and Doctrine (2026-04-25)]
+title: PHAROS — Origin and Doctrine
 aliases:
-  - PHAROS Origin
-  - Origin and Doctrine
-  - To Seed Something Into the World
-tags: [pharos, origin, doctrine, personal, foundation, governance]
+- PHAROS Origin
+- Origin and Doctrine
+- To Seed Something Into the World
+- wiki/PHAROS — Origin and Doctrine
+tags:
+- pharos
+- origin
+- doctrine
+- personal
+- foundation
+- governance
+- wiki
+- pharos-origin-and-doctrine-md
+- disabled
+- love
+- lived
+- section
+- objectivity
+- color-pink
 status: active
-created: 2026-04-25
-updated: 2026-04-25
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS — Origin and Doctrine.md
+backlink_count: 18
+backlinks:
+- '[[wiki/Authority Without Power-Over]]'
+- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
+- '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
+- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-25]]'
 written_in: 58 minutes (07:00 — 07:58)
 ---
 

@@ -1,13 +1,47 @@
 ---
 type: wiki
+title: AI Governance Manifesto — Upstream Institutional Practice
 aliases:
-  - AI Governance Manifesto
-  - Upstream AI governance
-  - Governance as upstream institutional practice
-tags: [ai-governance, pharos, ethics, policy, institutional-accountability]
+- AI Governance Manifesto
+- Upstream AI governance
+- Governance as upstream institutional practice
+- wiki/AI Governance Manifesto — Upstream Institutional Practice
+tags:
+- ai-governance
+- pharos
+- ethics
+- policy
+- institutional-accountability
+- wiki
+- ai-governance-manifesto-upstream-institutional-practice-md
+- poetics
+- praxis
+- manifesto
+- governance
+- harms
+- color-purple
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI Governance Manifesto — Upstream Institutional Practice.md
+backlink_count: 15
+backlinks:
+- '[[wiki/AI Ethics Literature — Contestable Governance Artifacts]]'
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
+- '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
+- '[[wiki/Skill Domain — Writing and Humanization]]'
+- '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
 ---
 
 # AI Governance Manifesto — Upstream Institutional Practice

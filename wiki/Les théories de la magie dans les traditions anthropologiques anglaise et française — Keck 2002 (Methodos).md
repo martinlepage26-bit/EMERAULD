@@ -1,10 +1,48 @@
 ---
 type: wiki
-aliases: [Keck 2002 théories de la magie, Methodos 2002 magie Keck, Les théories de la magie — Keck 2002 (Methodos)]
-tags: [reference, magic, anthropology, method, rationality, frazer, tylor, malinowski, evans-pritchard, mauss, levi-strauss]
+title: Les théories de la magie dans les traditions anthropologiques anglaise et française
+  — Keck 2002 (Methodos)
+aliases:
+- Keck 2002 théories de la magie
+- Methodos 2002 magie Keck
+- Les théories de la magie — Keck 2002 (Methodos)
+- wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française
+  — Keck 2002 (Methodos)
+tags:
+- reference
+- magic
+- anthropology
+- method
+- rationality
+- frazer
+- tylor
+- malinowski
+- evans-pritchard
+- mauss
+- levi-strauss
+- wiki
+- les-th-ories-de-la-magie-dans-les-traditions-anthropologiques-anglaise-et-fran-aise-keck-2002-methodos-md
+- methodos
+- finance
+- magie
+- rationalit
+- consulter
+- color-violet
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Les théories de la magie dans les traditions anthropologiques
+  anglaise et française — Keck 2002 (Methodos).md
+backlink_count: 7
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_beneva-choisit-loutil-de-souscription-de-global-iqx-beneva]]'
 ---
 
 # Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)

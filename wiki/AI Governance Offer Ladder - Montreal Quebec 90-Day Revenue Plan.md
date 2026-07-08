@@ -1,12 +1,48 @@
 ---
 type: commercial-map
+title: AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan
 aliases:
-  - Montreal Quebec AI governance offer ladder
-  - 90-day AI governance revenue plan
-  - Montreal Quebec service ladder
-tags: [commercial, ai-governance, montreal, quebec, offers, revenue]
-created: 2026-05-11
-updated: 2026-05-11
+- Montreal Quebec AI governance offer ladder
+- 90-day AI governance revenue plan
+- Montreal Quebec service ladder
+- wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan
+tags:
+- commercial
+- ai-governance
+- montreal
+- quebec
+- offers
+- revenue
+- commercial-map
+- wiki
+- ai-governance-offer-ladder-montreal-quebec-90-day-revenue-plan-md
+- weeks
+- offer
+- privacy
+- pack
+- color-purple
+status: active
+created: '2026-05-11'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan.md
+backlink_count: 15
+backlinks:
+- '[[wiki/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
+- '[[wiki/AI Governance Sprint — One-Page Sellable Packet]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
+- '[[wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
+- '[[wiki/Stacklight-owner-explainer]]'
+- '[[wiki/TPS-TVQ PHAROS]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[memory/daily/2026-05-11]]'
+- '[[session-state]]'
 ---
 
 # AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan

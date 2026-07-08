@@ -1,13 +1,57 @@
 ---
 type: governance-control
-status: active
+title: CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)
 aliases:
-  - CONTROL 2 — External Data Lifecycle Protocol
-  - CONTROL 2
-created: 2026-04-26
-updated: 2026-04-28
+- CONTROL 2 — External Data Lifecycle Protocol
+- CONTROL 2
+- wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)
+tags:
+- governance-control
+- wiki
+- control-2-external-data-lifecycle-protocol-regulatory-grounding-md
+- policy
+- external
+- stale
+- effective
+- gdpr
+- color-purple
+status: active
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding).md
+backlink_count: 22
+backlinks:
+- '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/External Data Refresh Calendar — Phase 1 Build]]'
+- '[[wiki/External Data Registry — Phase 1 Build]]'
+- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[wiki/Governance Controls — Incident Response (Control Failure Procedures)]]'
+- '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
+- '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
+- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory]]'
+- '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aurascribe-ai-medical-scribe-for-quebec]]'
 tier: critical
-regulatory-anchors: [GDPR Article 5, CCPA, HIPAA, FINRA, ISO 9001, SOX]
+regulatory-anchors:
+- GDPR Article 5
+- CCPA
+- HIPAA
+- FINRA
+- ISO 9001
+- SOX
 ---
 
 # CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)

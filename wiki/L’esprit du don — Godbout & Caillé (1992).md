@@ -1,10 +1,38 @@
 ---
 type: wiki
-aliases: ["Godbout — L’esprit du don", "The Spirit of the Gift"]
-tags: [reference, sociology, gift, reciprocity, market, state, institutions]
+title: L’esprit du don — Godbout & Caillé (1992)
+aliases:
+- Godbout — L’esprit du don
+- The Spirit of the Gift
+- wiki/L’esprit du don — Godbout & Caillé (1992)
+tags:
+- reference
+- sociology
+- gift
+- reciprocity
+- market
+- state
+- institutions
+- wiki
+- l-esprit-du-don-godbout-caill-1992-md
+- godbout
+- obligation
+- mauss
+- caill
+- color-pink
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/L’esprit du don — Godbout & Caillé (1992).md
+backlink_count: 6
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # L’esprit du don — Godbout & Caillé (1992)

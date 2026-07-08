@@ -1,7 +1,28 @@
 ---
 type: wiki
+title: Queering Neo-Pagan Magic — MRW Submission (2026)
+aliases:
+- Queering Neo-Pagan Magic — MRW Submission (2026)
+- wiki/Queering Neo-Pagan Magic — MRW Submission (2026)
+tags:
+- wiki
+- queering-neo-pagan-magic-mrw-submission-2026-md
+- magic
+- pagan
+- queering
+- bailey
+- queer
+- color-violet
 status: active
-created: 2026-05-31
+created: '2026-05-31'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Queering Neo-Pagan Magic — MRW Submission (2026).md
+backlink_count: 3
+backlinks:
+- '[[wiki/Pagan Magic — Version Genealogy]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Queering Neo-Pagan Magic — MRW Submission (2026)

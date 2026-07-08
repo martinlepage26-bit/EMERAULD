@@ -1,11 +1,30 @@
 ---
 type: launch-asset
+title: Reddit r/RPGdesign Post — Phase 0 Halo-Validation Post
+aliases:
+- assets/elemental-agents/ttrpg-repack/reddit-drafts/reddit-r-rpgdesign-post
+tags:
+- launch-asset
+- assets
+- elemental-agents
+- combinations
+- combination
+- modifier
+- halo
+- elements
+- color-orange
 status: draft-locked-with-product-pivot-note
-created: 2026-05-24
-updated: 2026-05-24
+created: '2026-05-24'
+updated: '2026-06-26'
+vault_area: assets
+canonical_path: assets/elemental-agents/ttrpg-repack/reddit-drafts/reddit-r-rpgdesign-post.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 target_channel: r/RPGdesign
-target_post_date: TBD (operator timing — original window 2026-06-24/26 superseded by "no waiting" override)
-flair: "[Mechanics]"
+target_post_date: TBD (operator timing — original window 2026-06-24/26 superseded
+  by "no waiting" override)
+flair: '[Mechanics]'
 phase: 0 (halo-audience validation — TTRPG surface test, not primary product validation)
 ---
 

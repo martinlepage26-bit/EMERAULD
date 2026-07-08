@@ -1,11 +1,30 @@
 ---
 type: raw-source
-source_url: https://lumentai.com/
 title: LumentAI — AI Consulting & Autonomous Agents | Montreal
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_lumentai-ai-consulting-autonomous-agents-montreal
+tags:
+- raw-source
+- memory
+- clients
+- lumentai
+- boutique
+- montreal
+- firm
+- deliver
+- color-orange
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_lumentai-ai-consulting-autonomous-agents-montreal.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+source_url: https://lumentai.com/
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # LumentAI — AI Consulting & Autonomous Agents | Montreal

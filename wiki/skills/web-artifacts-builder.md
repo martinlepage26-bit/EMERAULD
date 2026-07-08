@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "web-artifacts-builder"
-domain: "Specialized and Miscellaneous"
+title: web-artifacts-builder
+aliases:
+- skills/web-artifacts-builder
+- wiki/skills/web-artifacts-builder
+tags:
+- skill
+- wiki
+- skills
+- shadcn
+- artifacts
+- builder
+- elaborate
+- tailwind
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/web-artifacts-builder/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/web-artifacts-builder.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Deployment and Infrastructure]]'
+skill_id: web-artifacts-builder
+domain: Specialized and Miscellaneous
+codex_path: /home/cerebrhoe/.codex/skills/web-artifacts-builder/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

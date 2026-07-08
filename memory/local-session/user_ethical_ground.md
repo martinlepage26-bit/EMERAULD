@@ -1,9 +1,35 @@
 ---
-name: Martin's ethical ground
-description: Non-negotiable stated values — ethical AI governance, equity promoting equality, social justice, representation of oppressed and invisibilized communities, the system answers to the human and the humane
 type: user
+title: user_ethical_ground
+aliases:
+- memory/local-session/user_ethical_ground
+tags:
+- user
+- memory
+- local-session
+- care
+- hexadecimals
+- values
+- negotiable
+- ethical
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/user_ethical_ground.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+- '[[governance/hephaistos/HERMES]]'
+name: Martin's ethical ground
+description: Non-negotiable stated values — ethical AI governance, equity promoting
+  equality, social justice, representation of oppressed and invisibilized communities,
+  the system answers to the human and the humane
 originSessionId: d120c79c-4e5b-4b6c-b29c-d841a6580859
 ---
+
 Martin Lepage stated these values as non-negotiable foundational commitments (2026-04-09, during Inner Mind Eye skill creation):
 
 1. **Ethical governance of AI** — this is what Martin's work is about. Not AI capability. AI governance.

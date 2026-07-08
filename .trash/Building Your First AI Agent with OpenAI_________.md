@@ -1,3 +1,26 @@
+---
+type: discarded-note
+title: Tool Design Patterns and Best Practices
+aliases:
+- .trash/Building Your First AI Agent with OpenAI_________
+tags:
+- archive
+- ai
+- agents
+- discarded-note
+- trash
+- building-your-first-ai-agent-with-openai-md
+status: discarded
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .trash
+canonical_path: .trash/Building Your First AI Agent with OpenAI_________.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[governance/hephaistos/GADGET]]'
+---
+
 # Tool Design Patterns and Best Practices
 # Introduction
 

@@ -1,8 +1,51 @@
 ---
 type: governance-update
+title: HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)
+aliases:
+- HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)
+- wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)
+tags:
+- governance-update
+- wiki
+- hephaistos-co-equal-authority-cleanup-wave-1-and-2-2026-04-18-md
+- tier
+- equal
+- forging
+- scope
+- wave
+- color-purple
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18).md
+backlink_count: 24
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/Agent Session Phenomenology]]'
+- '[[wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
+- '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
+- '[[wiki/Claude Code Skill Corpus]]'
+- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/ROOK — Session Boundary Model]]'
+- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
+  (2026-04-18)]]'
+- '[[wiki/Supersession Registry]]'
+- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[wiki/claude-peers-mcp — Claude Peer Network]]'
+- '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
+- '[[memory/agents/Blockers]]'
+- '[[memory/agents/Decisions]]'
 ---
 
 # HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)

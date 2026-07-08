@@ -1,6 +1,25 @@
 ---
 type: session-state
-updated: 2026-05-24T19:30-0400
+title: session-state-002
+aliases:
+- archive/session-state/session-state-002
+tags:
+- session-state
+- archive
+- ttrpg
+- charge
+- shipped
+- phase
+- circle
+- color-orange
+status: archived
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/session-state/session-state-002.md
+backlink_count: 1
+backlinks:
+- '[[session-state]]'
 agent: Trismégiste
 archive: session-state-001
 ---

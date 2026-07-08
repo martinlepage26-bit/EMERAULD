@@ -1,3 +1,47 @@
+---
+type: wiki
+title: Still Running — Willow, Anya, and Queer Ritual Infrastructure
+aliases:
+- Still Running — Willow, Anya, and Queer Ritual Infrastructure
+- wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure
+tags:
+- wiki
+- ritual
+- queer
+- still-running-willow-anya-and-queer-ritual-infrastructure-md
+- anya
+- glitch
+- willow
+- grief
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure.md
+backlink_count: 19
+backlinks:
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
+- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[wiki/For Her Alone to Wield — Version Genealogy]]'
+- '[[wiki/Glitching the Sacred]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
+- '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/Queer Media and Ritual Map]]'
+- '[[projects/Glitching the Sacred — Fisher King Project State]]'
+---
+
 # Still Running — Willow, Anya, and Queer Ritual Infrastructure
 
 ## Summary

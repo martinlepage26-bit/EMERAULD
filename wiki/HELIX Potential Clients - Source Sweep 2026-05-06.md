@@ -1,10 +1,43 @@
 ---
 type: wiki
-aliases: ["HELIX potential clients", "HELIX prospect sweep", "HELIX client research"]
-tags: [helix, prospects, clients, commercial, ai-governance, source-sweep]
+title: HELIX Potential Clients - Source Sweep 2026-05-06
+aliases:
+- HELIX potential clients
+- HELIX prospect sweep
+- HELIX client research
+- wiki/HELIX Potential Clients - Source Sweep 2026-05-06
+tags:
+- helix
+- prospects
+- clients
+- commercial
+- ai-governance
+- source-sweep
+- wiki
+- helix-potential-clients-source-sweep-2026-05-06-md
+- humania
+- botpress
+- insurance
+- compliance
+- color-pink
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HELIX Potential Clients - Source Sweep 2026-05-06.md
+backlink_count: 11
+backlinks:
+- '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
+- '[[wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
+- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/clients/helix-prospects-2026-q2]]'
+- '[[memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_humania-assurance-transforms-compliance-operations-with-koïo]]'
+- '[[memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_wisedocs-medical-record-reviews-summaries-insights-for-claim]]'
+- '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_enterprise-ai-private-secure-customizable-cohere]]'
+- '[[projects/HELIX — Fisher King Project State]]'
 ---
 
 # HELIX Potential Clients - Source Sweep 2026-05-06

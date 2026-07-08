@@ -1,8 +1,30 @@
 ---
-title: GADGET: Frontier Scout & External Integration Agent
+type: agent-spec
+title: 'GADGET: Frontier Scout & External Integration Agent'
+aliases:
+- 'GADGET: Frontier Scout & External Integration Agent'
+- hephaistos/agents/GADGET Frontier Scout External Integration Agent
+tags:
+- agents
+- ai
+- hephaistos
+- gadget
+- agent-spec
+- mongodb
+- external
+- integration
+- integrations
+- color-teal
+status: recovered
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: hephaistos
+canonical_path: hephaistos/agents/GADGET Frontier Scout External Integration Agent.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 source_file: GADGET.md
 format: md
-status: recovered
 ---
 
 # GADGET: Frontier Scout & External Integration Agent

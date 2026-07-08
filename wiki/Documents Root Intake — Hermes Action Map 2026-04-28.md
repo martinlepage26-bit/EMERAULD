@@ -1,9 +1,49 @@
 ---
 type: action-map
-tags: [vault-intake, action-map, hermes, pharos, routing, raw-sources]
+title: Documents Root Intake — Hermes Action Map 2026-04-28
+aliases:
+- Documents Root Intake — Hermes Action Map 2026-04-28
+- wiki/Documents Root Intake — Hermes Action Map 2026-04-28
+tags:
+- vault-intake
+- action-map
+- hermes
+- pharos
+- routing
+- raw-sources
+- wiki
+- documents-root-intake-hermes-action-map-2026-04-28-md
+- packet
+- proof
+- public
+- theseus
+- color-lime
 status: active
-created: 2026-04-28
-updated: 2026-04-28
+created: '2026-04-28'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Documents Root Intake — Hermes Action Map 2026-04-28.md
+backlink_count: 19
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS SURFACE]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory]]'
+- '[[memory/daily/2026-04-28]]'
 ---
 
 # Documents Root Intake — Hermes Action Map 2026-04-28

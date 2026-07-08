@@ -1,10 +1,29 @@
 ---
-title: Daily Dashboard
-created: 2026-04-25
 type: dashboard
+title: Daily Dashboard
+aliases:
+- Daily Dashboard
+- wiki/Daily Dashboard
 tags:
-  - dashboard
-  - daily
+- dashboard
+- daily
+- wiki
+- daily-dashboard-md
+- inbox
+- logs
+- clips
+- memos
+- color-orange
+status: active
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Daily Dashboard.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Projects Hub]]'
 ---
 
 # Daily Dashboard

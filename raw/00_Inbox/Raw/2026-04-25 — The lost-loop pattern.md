@@ -1,9 +1,33 @@
 ---
 type: raw-capture
-created: 2026-04-25
+title: The lost-loop pattern
+aliases:
+- raw/00_Inbox/Raw/2026-04-25 — The lost-loop pattern
+tags:
+- inbox
+- raw
+- meta
+- pattern
+- self
+- raw-capture
+- 00-inbox
+- fine
+- lost
+- para
+- loop
+- avoidance
+- color-lime
 status: synthesized
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/00_Inbox/Raw/2026-04-25 — The lost-loop pattern.md
+backlink_count: 3
+backlinks:
+- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note]]'
 synthesized_into: wiki/The Lost-Loop Pattern — Avoidance Through System-Building.md
-tags: [inbox, raw, meta, pattern, self]
 ---
 
 # The lost-loop pattern

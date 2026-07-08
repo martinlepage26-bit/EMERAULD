@@ -1,14 +1,33 @@
 ---
-title: "PHAROS — Fisher King Project State"
-created: "2026-05-07"
 type: project
-status: active
+title: PHAROS — Fisher King Project State
+aliases:
+- projects/PHAROS — Fisher King Project State
 tags:
-  - project
-  - fisher-king
-  - pharos
-  - commercial
-  - method
+- project
+- fisher-king
+- pharos
+- commercial
+- method
+- projects
+- pharos-fisher-king-project-state-md
+- outreach
+- contacts
+- contact
+- booking
+- color-orange
+status: in-progress
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: projects
+canonical_path: projects/PHAROS — Fisher King Project State.md
+backlink_count: 5
+backlinks:
+- '[[Areas/PHAROS/AREA]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King Project Note Templates]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Projects Hub]]'
 ---
 
 # PHAROS — Fisher King Project State

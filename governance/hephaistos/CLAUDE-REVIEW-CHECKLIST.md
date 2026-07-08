@@ -1,3 +1,33 @@
+---
+type: governance-doc
+title: Claude Review Checklist
+aliases:
+- Claude Review Checklist
+- governance/hephaistos/CLAUDE-REVIEW-CHECKLIST
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- lint
+- exact
+- docs
+- requested
+- snippets
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/CLAUDE-REVIEW-CHECKLIST.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[governance/governance-index]]'
+---
+
 # Claude Review Checklist
 
 Standing audit checklist for reviewing Claude-authored claims, diffs, and closeouts in

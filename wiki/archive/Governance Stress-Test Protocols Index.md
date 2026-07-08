@@ -1,11 +1,32 @@
 ---
 type: wiki
+title: Governance Stress-Test Protocols Index
 aliases:
-  - Governance Stress-Test Protocols Index
-tags: [governance, stress-test, protocols, index]
+- Governance Stress-Test Protocols Index
+- wiki/archive/Governance Stress-Test Protocols Index
+tags:
+- governance
+- stress-test
+- protocols
+- index
+- wiki
+- archive
+- stress
+- test
+- compatibility
+- continue
+- color-purple
 status: bridge
-created: 2026-05-06
-updated: 2026-05-07
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/archive/Governance Stress-Test Protocols Index.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Governance Stress-Test Protocols Index

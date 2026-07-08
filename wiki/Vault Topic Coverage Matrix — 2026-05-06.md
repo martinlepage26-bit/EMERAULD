@@ -1,10 +1,47 @@
 ---
 type: map
-aliases: ["Vault topic coverage matrix", "All topics coverage matrix"]
-tags: [coverage, topics, map, provenance, vault-maintenance]
+title: Vault Topic Coverage Matrix — 2026-05-06
+aliases:
+- Vault topic coverage matrix
+- All topics coverage matrix
+- wiki/Vault Topic Coverage Matrix — 2026-05-06
+tags:
+- coverage
+- topics
+- map
+- provenance
+- vault-maintenance
+- wiki
+- vault-topic-coverage-matrix-2026-05-06-md
+- downloads
+- topic
+- matrix
+- magical
+- color-violet
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Vault Topic Coverage Matrix — 2026-05-06.md
+backlink_count: 17
+backlinks:
+- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Vault Topic Coverage Matrix — 2026-05-06

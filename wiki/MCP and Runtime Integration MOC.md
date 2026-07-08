@@ -1,12 +1,44 @@
 ---
 type: moc
+title: MCP and Runtime Integration MOC
 aliases:
-  - MCP Runtime MOC
-  - Runtime Integration MOC
-tags: [mcp, runtime, infrastructure, integration, tooling]
+- MCP Runtime MOC
+- Runtime Integration MOC
+- wiki/MCP and Runtime Integration MOC
+tags:
+- mcp
+- runtime
+- infrastructure
+- integration
+- tooling
+- moc
+- wiki
+- mcp-and-runtime-integration-moc-md
+- infrafabric
+- claude
+- commoditization
+- shaper
+- color-teal
 status: active
-created: 2026-05-14
-updated: 2026-05-14
+created: '2026-05-14'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/MCP and Runtime Integration MOC.md
+backlink_count: 13
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
+- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[wiki/Vault Health — 2026-06-28]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[index]]'
+- '[[memory/daily/2026-06-23]]'
+- '[[memory/daily/2026-07-01]]'
 ---
 
 # MCP and Runtime Integration MOC
@@ -16,6 +48,7 @@ updated: 2026-05-14
 - [[AI Infrastructure Stack]]
 - [[InfraFabric Architecture]]
 - [[InfraFabric MCP Stack — Remote Bundles]]
+- [[InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]
 - [[ROOK — Session Boundary Model]]
 - [[claude-peers-mcp — Claude Peer Network]]
 - [[claude-mem — Persistent Memory Compression for Claude Code]]

@@ -1,10 +1,48 @@
 ---
 type: wiki
-aliases: [RECURSO, POST-RECURS, recursive governance runs]
-tags: [pharos, governance, testing, archive, recurso]
+title: RECURSO — Recursive Governance Test Archive
+aliases:
+- RECURSO
+- POST-RECURS
+- recursive governance runs
+- wiki/RECURSO — Recursive Governance Test Archive
+tags:
+- pharos
+- governance
+- testing
+- archive
+- recurso
+- wiki
+- recurso-recursive-governance-test-archive-md
+- recurs
+- stress
+- pack
+- theseus
+- color-purple
 status: active
-created: 2026-04-16
-updated: 2026-04-28
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/RECURSO — Recursive Governance Test Archive.md
+backlink_count: 17
+backlinks:
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[wiki/APEX Papers — Research Archive Map]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory/daily/2026-04-28]]'
 ---
 
 # RECURSO — Recursive Governance Test Archive

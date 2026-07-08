@@ -1,10 +1,46 @@
 ---
 type: wiki
-aliases: ["Witches' Road lyrics", "Ballad of the Witches' Road lyrics"]
-tags: [music, lyrics, agatha-all-along, marvel, witchcraft, queer-media]
+title: The Ballad of the Witches' Road — Lyrics
+aliases:
+- Witches' Road lyrics
+- Ballad of the Witches' Road lyrics
+- wiki/The Ballad of the Witches' Road — Lyrics
+tags:
+- music
+- lyrics
+- agatha-all-along
+- marvel
+- witchcraft
+- queer-media
+- wiki
+- the-ballad-of-the-witches-road-lyrics-md
+- road
+- witches
+- song
+- chant
+- color-blue
 status: active
-created: 2026-04-25
-updated: 2026-04-25
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Ballad of the Witches' Road — Lyrics.md
+backlink_count: 15
+backlinks:
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Disease — Lady Gaga — Lyrics]]'
+- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Paper Planes — M.I.A. — Lyrics]]'
+- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-04-25]]'
+- '[[raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X]]'
 ---
 
 # The Ballad of the Witches' Road — Lyrics

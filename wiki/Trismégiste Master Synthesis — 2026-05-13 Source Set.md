@@ -1,9 +1,36 @@
 ---
 type: synthesis-master
-tags: [trismegiste, henry, synthesis, source-notes, 2026-05-13]
+title: Trismégiste Master Synthesis — 2026-05-13 Source Set
+aliases:
+- Trismégiste Master Synthesis — 2026-05-13 Source Set
+- wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set
+tags:
+- trismegiste
+- henry
+- synthesis
+- source-notes
+- '2026-05-13'
+- synthesis-master
+- wiki
+- trism-giste-master-synthesis-2026-05-13-source-set-md
+- cluster
+- memo
+- anchors
+- inferred
+- verified
+- color-purple
 status: active
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[wiki/Operator Continuity Memo — 2026-05-14]]'
+- '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/method]]'
 ---
 
 # Trismégiste Master Synthesis — 2026-05-13 Source Set

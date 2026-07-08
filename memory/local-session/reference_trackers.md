@@ -1,3 +1,30 @@
+---
+type: memory-register
+title: reference_trackers
+aliases:
+- reference_trackers
+- memory/local-session/reference_trackers
+tags:
+- memory
+- tracker
+- memory-register
+- local-session
+- softinfo
+- users
+- subtracker
+- trackers
+- color-green
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/local-session/reference_trackers.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+---
+
 See also [[Research and Papers MOC]].
 ---
 name: Tracker Registry

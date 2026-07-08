@@ -1,3 +1,28 @@
+---
+type: readme
+title: Figma MCP Server on Cloudflare Workers
+aliases:
+- cloudflare/figma-mcp-server/README
+tags:
+- readme
+- cloudflare
+- figma-mcp-server
+- figma
+- token
+- workers
+- server
+- vars
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: cloudflare
+canonical_path: cloudflare/figma-mcp-server/README.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # Figma MCP Server on Cloudflare Workers
 
 This is a remote MCP server that exposes focused Figma REST API tools for design-to-code work. It is meant to give Codex/Claude a real way to fetch Figma file metadata, node JSON, image export URLs, and compact design summaries.

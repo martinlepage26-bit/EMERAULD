@@ -1,9 +1,34 @@
 ---
 type: skill
+title: publisher
+aliases:
+- skills/publisher
+- wiki/skills/publisher
+tags:
+- skill
+- wiki
+- skills
+- publisher
+- idioms
+- refine
+- shaping
+- novelist
+- color-teal
+status: active
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/publisher.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Writing and Humanization]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/skills/literary-references]]'
+- '[[wiki/skills/novelist]]'
+- '[[wiki/skills/writing-skills]]'
 skill_id: publisher
 scope: output
-status: active
-created: 2026-05-06
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md
 ---
 

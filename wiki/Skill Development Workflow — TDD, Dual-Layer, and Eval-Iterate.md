@@ -1,10 +1,53 @@
 ---
 type: wiki
-aliases: ["Skill development workflow", "TDD for skills", "Brain and Map", "Skill creation pipeline"]
-tags: [workflow, skill-development, skill-architect, writing-skills, tdd, dual-layer, claude-code, codex, meta-workflow]
+title: Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate
+aliases:
+- Skill development workflow
+- TDD for skills
+- Brain and Map
+- Skill creation pipeline
+- wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate
+tags:
+- workflow
+- skill-development
+- skill-architect
+- writing-skills
+- tdd
+- dual-layer
+- claude-code
+- codex
+- meta-workflow
+- wiki
+- skill-development-workflow-tdd-dual-layer-and-eval-iterate-md
+- skill
+- iterate
+- brain
+- axis
+- eval
+- color-orange
 status: active
-created: 2026-04-30
-updated: 2026-04-30
+created: '2026-04-30'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate.md
+backlink_count: 16
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/Anti-Charm]]'
+- '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
+- '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Skill Domain — Skill Architecture]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Vault Graph Hygiene — Content Title Normalization Skill]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/skills/skill-architect]]'
 ---
 
 # Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate

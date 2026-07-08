@@ -1,31 +1,57 @@
+---
+type: generated-report
+title: EMERAULD Wikilink Graph Report
+aliases:
+- .graph_store/graph_report
+tags:
+- generated-report
+- graph-store
+- graph-report-md
+- bridges
+- skills
+- bridge
+- backlink
+- archive
+- color-teal
+status: generated
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .graph_store
+canonical_path: .graph_store/graph_report.md
+backlink_count: 2
+backlinks:
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
+---
+
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-06-26T07:18:31Z
-Corpus: vector_store paths.json wiki entries
+Built: 2026-06-27T18:08:26Z
+Corpus: wiki/**/*.md
 
 ## Summary
 
-- Nodes: 904
-- Directed edges: 8992
-- Link mentions: 16096
-- Unresolved wikilinks: 3285
+- Nodes: 908
+- Directed edges: 9067
+- Link mentions: 16187
+- Unresolved wikilinks: 3374
 - Connected components: 1
-- Largest component: 904
+- Largest component: 908
 - Zero-backlink notes: 0
-- One-backlink notes: 16
-- Two-backlink notes: 258
+- One-backlink notes: 7
+- Two-backlink notes: 260
 
 ## Backlink Histogram
 
-- 1: 16
+- 1: 7
 - 101+: 25
-- 11-20: 112
-- 2: 258
+- 11-20: 111
+- 2: 260
 - 21-50: 107
-- 3-4: 127
+- 3-4: 136
 - 5-6: 112
-- 51-100: 32
-- 7-10: 115
+- 51-100: 33
+- 7-10: 117
 
 ## Low-Backlink Notes
 
@@ -33,44 +59,39 @@ Corpus: vector_store paths.json wiki entries
 
 _None._
 
-### One backlink (16)
-- [[Agent Distillation Pipeline]]
-- [[Agent Logs Hub]]
-- [[Daily Dashboard]]
-- [[Knowledge Gaps]]
-- [[Personal OS]]
+### One backlink (7)
 - [[Projects Hub]]
-- [[Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]
-- [[Queering Neo-Pagan Magic — FINAL FINAL PAPER]]
-- [[VoiceBridge Foundation]]
-- [[Workflows Hub]]
-- [[Workspace Cleanup Ledger — 2026-05-31]]
+- [[Weekly Review — 2026-06-26]]
 - [[archive/red-team]]
 - [[maps/Novel Corpus Map]]
 - [[skills/ask-vault]]
 - [[skills/trace-investigator]]
 - [[skills/vault-graph-hygiene]]
 
-### Two backlink (258)
-- [[2026 - Mauss - The Gift]]
+### Two backlink (260)
 - [[ACTOR Framework — Agent vs Chatbot Decision Tool]]
+- [[Agent Distillation Pipeline]]
+- [[Agent Logs Hub]]
 - [[App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]
-- [[CLAUDEX — AI Dialogue Archive]]
 - [[Chrome Extension Monetization - Policy and Product Options]]
 - [[Cultural and Lyric Corpus Memo — 2026-05-14]]
+- [[Daily Dashboard]]
+- [[Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]
+- [[Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]
 - [[Governance and Platform Signals Memo — 2026-05-14]]
 - [[IP and Manuscript Brief — 2026-05-14]]
-- [[Kickstart App Prompt — Template and Synthesis Framework]]
+- [[Knowledge Gaps]]
 - [[Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]
 - [[Operator Continuity Memo — 2026-05-14]]
-- [[PERPLEXITY-COMPUTER]]
-- [[PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]
+- [[Personal OS]]
 - [[Philosopher]]
-- [[Queering Neo-Pagan Magic — MRW Submission (2026)]]
-- [[Railway — COMPASSai Production Deployment Platform]]
+- [[Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]
+- [[Queering Neo-Pagan Magic — FINAL FINAL PAPER]]
 - [[Second Self System Identity Kernel and Agent Routing Architecture]]
 - [[Trismégiste]]
+- [[VoiceBridge Foundation]]
 - [[WSL and System Storage Recovery — Quick Wins Checklist]]
+- [[Workflows Hub]]
 - [[archive/agent-evaluation]]
 - [[archive/ai-product]]
 - [[archive/brief-to-tasks]]
@@ -114,8 +135,6 @@ _None._
 - [[bridges/Bridge — Agents vs. Chatbots Fundamentals]]
 - [[bridges/Bridge — Malformed JSON Prefix]]
 - [[bridges/Bridge — Mandrake]]
-- [[genealogy/Martin Voice Spec — Stage Map]]
-- [[genealogy/Martin Voice Spec — Version Genealogy]]
 - [[raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]
 - [[raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note]]
 - [[raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note]]
@@ -150,13 +169,11 @@ _None._
 - [[skills/codex]]
 - [[skills/compose-and-ship]]
 - [[skills/consent-framework]]
-- [[skills/control-point-doctrine]]
-- [[skills/cost-reducer]]
-- ... 158 more
+- ... 160 more
 
 ## Components
 
-- Component 1: 904 notes; seed [[2026 - Mauss - The Gift]]
+- Component 1: 908 notes; seed [[2026 - Mauss - The Gift]]
 
 ## Top Unresolved Targets
 

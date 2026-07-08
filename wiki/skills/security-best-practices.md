@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "security-best-practices"
-domain: "Security and Compliance"
+title: security-best-practices
+aliases:
+- skills/security-best-practices
+- wiki/skills/security-best-practices
+tags:
+- skill
+- wiki
+- skills
+- security
+- best
+- practices
+- trigger
+- improvements
+- color-red
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/security-best-practices/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/security-best-practices.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Security and Compliance]]'
+skill_id: security-best-practices
+domain: Security and Compliance
+codex_path: /home/cerebrhoe/.codex/skills/security-best-practices/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

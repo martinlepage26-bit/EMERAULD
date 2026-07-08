@@ -1,3 +1,30 @@
+---
+type: governance-doc
+title: STATUS — Self-Audit Against Co-Equal Authority Spec
+aliases:
+- STATUS — Self-Audit Against Co-Equal Authority Spec
+- governance/hephaistos/STATUS
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- equal
+- keyport
+- conflict
+- queen
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/STATUS.md
+backlink_count: 2
+backlinks:
+- '[[governance/global/HEPHAISTOS-STATUS]]'
+- '[[governance/governance-index]]'
+---
+
 # STATUS — Self-Audit Against Co-Equal Authority Spec
 
 **Date:** 2026-04-18  

@@ -1,10 +1,48 @@
 ---
 type: wiki
-aliases: ["Codex RIA", "RIA first run", "web as X", "trust mechanism finding"]
-tags: [governance, methodology, RIA, reflexive-inhabitation, operationalization, web, trust, codex]
+title: Codex RIA Run — The Web as X (First Operationalization 2026-04-25)
+aliases:
+- Codex RIA
+- RIA first run
+- web as X
+- trust mechanism finding
+- wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)
+tags:
+- governance
+- methodology
+- ria
+- reflexive-inhabitation
+- operationalization
+- web
+- trust
+- codex
+- wiki
+- codex-ria-run-the-web-as-x-first-operationalization-2026-04-25-md
+- instrument
+- prompt
+- finding
+- song
+- interpretively
+- color-orange
 status: active
-created: 2026-04-25
-updated: 2026-04-25
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25).md
+backlink_count: 10
+backlinks:
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
+  (2026-05-07)]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
+- '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a
+  live X — Source Note]]'
 ---
 
 # Codex RIA Run — The Web as X (First Operationalization 2026-04-25)

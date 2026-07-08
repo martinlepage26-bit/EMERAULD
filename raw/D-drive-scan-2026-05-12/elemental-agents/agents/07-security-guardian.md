@@ -1,3 +1,30 @@
+---
+type: raw-source
+title: Security Guardian
+aliases:
+- raw/D-drive-scan-2026-05-12/elemental-agents/agents/07-security-guardian
+tags:
+- raw
+- agents
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- risk
+- risky
+- ensure
+- pair
+- exposure
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/elemental-agents/agents/07-security-guardian.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+---
+
 # Security Guardian
 
 See also [[Control Protocols MOC]].

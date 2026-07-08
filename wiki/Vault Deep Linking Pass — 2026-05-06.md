@@ -1,12 +1,41 @@
 ---
 type: wiki
+title: Vault Deep Linking Pass — 2026-05-06
 aliases:
-  - EMERAULD deep linking pass 2026-05-06
-  - Vault graph repair pass 2026-05-06
-tags: [vault-linking, graph-maintenance, obsidian, backlinks, retrieval]
+- EMERAULD deep linking pass 2026-05-06
+- Vault graph repair pass 2026-05-06
+- wiki/Vault Deep Linking Pass — 2026-05-06
+tags:
+- vault-linking
+- graph-maintenance
+- obsidian
+- backlinks
+- retrieval
+- wiki
+- vault-deep-linking-pass-2026-05-06-md
+- orphan
+- inbound
+- loose
+- anchored
+- relinking
+- color-teal
 status: complete
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Vault Deep Linking Pass — 2026-05-06.md
+backlink_count: 10
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Home]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
+- '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/archive/Governance Stress-Test Protocols Index]]'
+- '[[projects/Second Brain — Fisher King Project State]]'
 ---
 
 # Vault Deep Linking Pass — 2026-05-06

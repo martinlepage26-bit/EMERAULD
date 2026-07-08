@@ -1,11 +1,36 @@
 ---
 type: source-note
-tags: [raw-source, ingest, provenance, 2026-05-13]
+title: 2026-04-25 — DG waiting on client picks — Source Note
+aliases:
+- raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note
+- wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note
+tags:
+- raw-source
+- ingest
+- provenance
+- '2026-05-13'
+- source-note
+- wiki
+- raw-sources
+- picks
+- waiting
+- client
+- cluster
+- ecfeaf
+- color-lime
 status: active
-created: 2026-05-13
-updated: 2026-05-13
-source_raw_path: "raw/00_Inbox/Raw/2026-04-25 — DG waiting on client picks.md"
-source_report: "raw/intake-report-20260513.json"
+created: '2026-05-13'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks
+  — Source Note.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Operator Continuity Memo — 2026-05-14]]'
+- '[[wiki/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
+source_raw_path: raw/00_Inbox/Raw/2026-04-25 — DG waiting on client picks.md
+source_report: raw/intake-report-20260513.json
 ---
 
 # 2026-04-25 — DG waiting on client picks — Source Note

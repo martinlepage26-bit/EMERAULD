@@ -1,11 +1,30 @@
 ---
 type: raw-source
-source_url: https://www.caseware.com/us/platform/ai
 title: AI for Audit & Accounting | Caseware
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_ai-for-audit-accounting-caseware
+tags:
+- raw-source
+- memory
+- clients
+- caseware
+- products
+- accounting
+- demo
+- engagement
+- color-red
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_ai-for-audit-accounting-caseware.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+source_url: https://www.caseware.com/us/platform/ai
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # AI for Audit & Accounting | Caseware

@@ -1,3 +1,29 @@
+---
+type: raw-source
+title: Elemental Agents Framework
+aliases:
+- raw/D-drive-scan-2026-05-12/elemental-agents/README
+tags:
+- raw
+- agents
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- hooks
+- elemental
+- validation
+- orchestration
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/elemental-agents/README.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Elemental Agents Framework
 
 ## Purpose

@@ -1,12 +1,54 @@
 ---
 type: wiki
+title: Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs
+  Reclaiming)
 aliases:
-  - "Queerness and Transgender Identity: Negotiations in the Pagan Community of Montreal"
-  - "Lepage 2017 Queerness and Transgender Identity"
-tags: [paper, paganism, montreal, wicca, reclaiming, queer, transgender, gender, magic, ritual, negotiation]
+- 'Queerness and Transgender Identity: Negotiations in the Pagan Community of Montreal'
+- Lepage 2017 Queerness and Transgender Identity
+- wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs
+  Reclaiming)
+tags:
+- paper
+- paganism
+- montreal
+- wicca
+- reclaiming
+- queer
+- transgender
+- gender
+- magic
+- ritual
+- negotiation
+- wiki
+- queerness-and-transgender-identity-lepage-2017-pagan-montreal-wicca-vs-reclaiming-md
+- religieuses
+- religion
+- studies
+- color-violet
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal,
+  Wicca vs Reclaiming).md
+backlink_count: 15
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
+  Activism Switzerland)]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)

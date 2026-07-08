@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "web-tech-fundamentals"
-domain: "Design and UX"
+title: web-tech-fundamentals
+aliases:
+- skills/web-tech-fundamentals
+- wiki/skills/web-tech-fundamentals
+tags:
+- skill
+- wiki
+- skills
+- javascript
+- scss
+- typescript
+- technologies
+- fundamentals
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/web-tech-fundamentals/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/web-tech-fundamentals.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Design and UX]]'
+skill_id: web-tech-fundamentals
+domain: Design and UX
+codex_path: /home/cerebrhoe/.codex/skills/web-tech-fundamentals/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

@@ -1,10 +1,44 @@
 ---
 type: map
-aliases: [APEX Papers, APEX paper line, research archive]
-tags: [index, map, papers, pharos, governance, research]
+title: APEX Papers — Research Archive Map
+aliases:
+- APEX Papers
+- APEX paper line
+- research archive
+- wiki/APEX Papers — Research Archive Map
+tags:
+- index
+- map
+- papers
+- pharos
+- governance
+- research
+- wiki
+- apex-papers-research-archive-map-md
+- firm
+- slot
+- recursive
+- apex
+- afterlife
+- color-purple
 status: active
-created: 2026-04-16
-updated: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/APEX Papers — Research Archive Map.md
+backlink_count: 11
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/RECURSO — Recursive Governance Test Archive]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
+- '[[tmp/drive-audit-2026-04-18/corpus_structure]]'
 ---
 
 # APEX Papers — Research Archive Map

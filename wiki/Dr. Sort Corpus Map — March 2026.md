@@ -1,14 +1,49 @@
 ---
 type: wiki
+title: Dr. Sort Corpus Map — March 2026
 aliases:
-  - Dr. Sort masterlist 2026-03-08
-  - Autopoietic genealogy
-  - Corpus topology March 2026
-  - Dr. Sort corpus snapshot
-tags: [dr-sort, LOTUS, corpus-map, autopoietic, masterlist, classification, recursive-self-mapping]
+- Dr. Sort masterlist 2026-03-08
+- Autopoietic genealogy
+- Corpus topology March 2026
+- Dr. Sort corpus snapshot
+- wiki/Dr. Sort Corpus Map — March 2026
+tags:
+- dr-sort
+- lotus
+- corpus-map
+- autopoietic
+- masterlist
+- classification
+- recursive-self-mapping
+- wiki
+- dr-sort-corpus-map-march-2026-md
+- sort
+- novel
+- bibliography
+- color-purple
 status: active
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Dr. Sort Corpus Map — March 2026.md
+backlink_count: 16
+backlinks:
+- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[wiki/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[wiki/LOTUS Premium Spec]]'
+- '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
+- '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[projects/Dr. Sort — Fisher King Project State]]'
 ---
 
 # Dr. Sort Corpus Map — March 2026

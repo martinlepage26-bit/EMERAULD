@@ -1,3 +1,29 @@
+---
+type: template
+title: '{{title}}'
+aliases:
+- templates/Note Template
+tags:
+- template
+- templates
+- note-template-md
+- inline
+- concepts
+- ideas
+- projects
+- paragraph
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: templates
+canonical_path: templates/Note Template.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
+---
+
 # {{title}}
 
 See also [[Governance and PHAROS MOC]].

@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: ["Christin 2020 ethnographer and the algorithm", "Algorithmic ethnography toolkit (Christin)"]
-tags: [reference, ai-governance, algorithms, ethnography, method, opacity, black-box, audits, accountability]
+title: The ethnographer and the algorithm — Christin 2020 (Beyond the black box)
+aliases:
+- Christin 2020 ethnographer and the algorithm
+- Algorithmic ethnography toolkit (Christin)
+- wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)
+tags:
+- reference
+- ai-governance
+- algorithms
+- ethnography
+- method
+- opacity
+- black-box
+- audits
+- accountability
+- wiki
+- the-ethnographer-and-the-algorithm-christin-2020-beyond-the-black-box-md
+- algorithmic
+- christin
+- black
+- color-teal
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the
+  black box).md
+backlink_count: 6
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # The ethnographer and the algorithm — Christin 2020 (Beyond the black box)

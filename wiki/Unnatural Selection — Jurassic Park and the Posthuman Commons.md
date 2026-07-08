@@ -1,3 +1,43 @@
+---
+type: wiki
+title: Unnatural Selection — Jurassic Park and the Posthuman Commons
+aliases:
+- Unnatural Selection — Jurassic Park and the Posthuman Commons
+- wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons
+tags:
+- wiki
+- unnatural-selection-jurassic-park-and-the-posthuman-commons-md
+- commons
+- maisie
+- posthuman
+- owen
+- feral
+- color-pink
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons.md
+backlink_count: 16
+backlinks:
+- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
+- '[[wiki/Unnatural Selection Jurassic Park — Version Genealogy]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Unnatural Selection — Jurassic Park and the Posthuman Commons
 
 ## Summary

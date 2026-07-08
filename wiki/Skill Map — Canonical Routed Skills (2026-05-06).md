@@ -1,9 +1,91 @@
 ---
 type: wiki
-tags: [skills, registry, routing, hephaistos, governance]
+title: Skill Map — Canonical Routed Skills (2026-05-06)
+aliases:
+- Skill Map — Canonical Routed Skills (2026-05-06)
+- wiki/Skill Map — Canonical Routed Skills (2026-05-06)
+tags:
+- skills
+- registry
+- routing
+- hephaistos
+- governance
+- wiki
+- skill-map-canonical-routed-skills-2026-05-06-md
+- scientific
+- skill
+- humanize
+- scope
+- color-purple
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Skill Map — Canonical Routed Skills (2026-05-06).md
+backlink_count: 62
+backlinks:
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/archive/agent-evaluation]]'
+- '[[wiki/archive/ai-product]]'
+- '[[wiki/archive/first-principles]]'
+- '[[wiki/archive/free-tool-strategy]]'
+- '[[wiki/archive/hermes-dependency-mapper]]'
+- '[[wiki/archive/hermes-escalation-router]]'
+- '[[wiki/archive/inner-mind-eye]]'
+- '[[wiki/archive/ma-degree-guide]]'
+- '[[wiki/archive/red-team]]'
+- '[[wiki/archive/triangulation]]'
+- '[[wiki/archive/web-scraping]]'
+- '[[governance/hephaistos/DEPLOYMENT-CHECKLIST]]'
+- '[[governance/hephaistos/FORGING-AUDIT]]'
+- '[[hephaistos/DEPLOYMENT-CHECKLIST]]'
+- '[[wiki/skills/agent-development]]'
+- '[[wiki/skills/agent-management]]'
+- '[[wiki/skills/ai-agents-architect]]'
+- '[[wiki/skills/architecture]]'
+- '[[wiki/skills/brand-identity-system]]'
+- '[[wiki/skills/codex-hooks]]'
+- '[[wiki/skills/codex-review]]'
+- '[[wiki/skills/database-schema-designer]]'
+- '[[wiki/skills/deep-research-notebooklm]]'
+- '[[wiki/skills/exploratory-data-analysis]]'
+- '[[wiki/skills/fully-rounded-power-analyst]]'
+- '[[wiki/skills/genealogy-loupe]]'
+- '[[wiki/skills/hermes-integration-monitor]]'
+- '[[wiki/skills/humanize]]'
+- '[[wiki/skills/incident-response-runbooks]]'
+- '[[wiki/skills/lead-research-assistant]]'
+- '[[wiki/skills/literary-references]]'
+- '[[wiki/skills/literature-review]]'
+- '[[wiki/skills/naming-analyzer]]'
+- '[[wiki/skills/novelist]]'
+- '[[wiki/skills/observability-governance]]'
+- '[[wiki/skills/peer-review]]'
+- '[[wiki/skills/peer-review-workflow]]'
+- '[[wiki/skills/peer-reviewed-paper-writer]]'
+- '[[wiki/skills/philosopher]]'
+- '[[wiki/skills/prompt-engineering]]'
+- '[[wiki/skills/publisher]]'
+- '[[wiki/skills/qualitative]]'
+- '[[wiki/skills/recursive-governance-method]]'
+- '[[wiki/skills/research-engineer]]'
+- '[[wiki/skills/research-grants]]'
+- '[[wiki/skills/scholar-evaluation]]'
+- '[[wiki/skills/scientific-brainstorming]]'
+- '[[wiki/skills/scientific-critical-thinking]]'
+- '[[wiki/skills/scientific-visualization]]'
+- '[[wiki/skills/scientific-writing]]'
+- '[[wiki/skills/senior-data-scientist]]'
+- '[[wiki/skills/skill-architect]]'
+- '[[wiki/skills/slides]]'
+- '[[wiki/skills/speech]]'
+- '[[wiki/skills/statistical-analysis]]'
+- '[[wiki/skills/test-detect]]'
+- '[[wiki/skills/writing-skills]]'
 source_of_truth:
   skill_map: governance/hephaistos/SKILL-MAP.md
   inventory: wiki/Codex Skills Inventory — Complete Registry (241 Skills).md

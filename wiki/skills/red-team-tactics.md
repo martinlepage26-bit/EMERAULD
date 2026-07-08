@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "red-team-tactics"
-domain: "Security and Compliance"
+title: red-team-tactics
+aliases:
+- skills/red-team-tactics
+- wiki/skills/red-team-tactics
+tags:
+- skill
+- wiki
+- skills
+- tactics
+- mitre
+- evasion
+- attack
+- color-red
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/red-team-tactics/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/red-team-tactics.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Security and Compliance]]'
+skill_id: red-team-tactics
+domain: Security and Compliance
+codex_path: /home/cerebrhoe/.codex/skills/red-team-tactics/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

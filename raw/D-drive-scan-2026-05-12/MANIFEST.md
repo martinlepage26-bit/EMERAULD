@@ -1,3 +1,29 @@
+---
+type: raw-source
+title: D Drive Scan Manifest — 2026-05-12
+aliases:
+- raw/D-drive-scan-2026-05-12/MANIFEST
+tags:
+- raw
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- drive
+- elemental
+- scan
+- agents
+- sources
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/MANIFEST.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # D Drive Scan Manifest — 2026-05-12
 
 ## Scope

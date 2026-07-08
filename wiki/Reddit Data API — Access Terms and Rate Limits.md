@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: [Reddit API, Reddit Data API, r/redditdev rate limits]
-tags: [reference, api, reddit, rate-limits, oauth, tooling]
+title: Reddit Data API — Access Terms and Rate Limits
+aliases:
+- Reddit API
+- Reddit Data API
+- r/redditdev rate limits
+- wiki/Reddit Data API — Access Terms and Rate Limits
+tags:
+- reference
+- api
+- reddit
+- rate-limits
+- oauth
+- tooling
+- wiki
+- reddit-data-api-access-terms-and-rate-limits-md
+- deletion
+- rate
+- ingestion
+- color-teal
 status: active
-created: 2026-04-20
-updated: 2026-04-20
+created: '2026-04-20'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Reddit Data API — Access Terms and Rate Limits.md
+backlink_count: 9
+backlinks:
+- '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
+- '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_koïos-intelligence]]'
+- '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_solace-platform-solace]]'
 ---
 
 # Reddit Data API — Access Terms and Rate Limits

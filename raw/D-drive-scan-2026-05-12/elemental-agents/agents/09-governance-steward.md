@@ -1,3 +1,31 @@
+---
+type: raw-source
+title: Governance Steward
+aliases:
+- raw/D-drive-scan-2026-05-12/elemental-agents/agents/09-governance-steward
+tags:
+- raw
+- governance
+- agents
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- pair
+- sign
+- alignment
+- approval
+- escalation
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/elemental-agents/agents/09-governance-steward.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+---
+
 # Governance Steward
 
 See also [[Control Protocols MOC]].

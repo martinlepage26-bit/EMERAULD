@@ -1,3 +1,30 @@
+---
+type: artifact
+title: PHAROS Diagnostic — Martin's Decision Brief
+aliases:
+- artifacts/2026-04-19-pharos-migration-pr4/02-pipeline-triage/martin_decision_brief
+tags:
+- artifact
+- pharos
+- artifacts
+- 2026-04-19-pharos-migration-pr4
+- option
+- merge
+- defer
+- regulatory
+- manifest
+- color-green
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/2026-04-19-pharos-migration-pr4/02-pipeline-triage/martin_decision_brief.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # PHAROS Diagnostic — Martin's Decision Brief
 **Date:** 2026-04-19  
 **Source:** CSV_DIAGNOSTIC_REPORT.md  

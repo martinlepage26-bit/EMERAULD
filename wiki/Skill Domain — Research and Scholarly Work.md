@@ -1,13 +1,43 @@
 ---
 type: wiki
+title: Skill Domain — Research and Scholarly Work
 aliases:
-  - Research and Scholarly Work domain
-  - Research skills domain
-  - Scholarly skills hub
-tags: [skills, domain, hub, research, scholarship, methodology, academic]
+- Research and Scholarly Work domain
+- Research skills domain
+- Scholarly skills hub
+- wiki/Skill Domain — Research and Scholarly Work
+tags:
+- skills
+- domain
+- hub
+- research
+- scholarship
+- methodology
+- academic
+- wiki
+- skill-domain-research-and-scholarly-work-md
+- scientific
+- peer
+- scholarly
+- literature
+- prep
+- color-blue
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Skill Domain — Research and Scholarly Work.md
+backlink_count: 9
+backlinks:
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Skill Domain — AI and LLM Tools]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+- '[[wiki/Skill Domain — Writing and Humanization]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Skill Domain — Research and Scholarly Work

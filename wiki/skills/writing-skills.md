@@ -1,9 +1,34 @@
 ---
 type: skill
+title: writing-skills
+aliases:
+- skills/writing-skills
+- wiki/skills/writing-skills
+tags:
+- skill
+- wiki
+- skills
+- emphasis
+- rhythm
+- purpose
+- tone
+- craft
+- color-purple
+status: active
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/writing-skills.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Writing and Humanization]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/skills/literary-references]]'
+- '[[wiki/skills/naming-analyzer]]'
+- '[[wiki/skills/publisher]]'
 skill_id: writing-skills
 scope: output
-status: active
-created: 2026-05-06
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md
 ---
 

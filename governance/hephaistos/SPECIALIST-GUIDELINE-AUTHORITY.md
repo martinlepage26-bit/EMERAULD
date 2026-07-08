@@ -1,3 +1,33 @@
+---
+type: governance-doc
+title: Specialist Guideline Authority — Binding vs. Advisory
+aliases:
+- Specialist Guideline Authority — Binding vs. Advisory
+- governance/hephaistos/SPECIALIST-GUIDELINE-AUTHORITY
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- specialist
+- deviation
+- advisory
+- binding
+- element
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/SPECIALIST-GUIDELINE-AUTHORITY.md
+backlink_count: 4
+backlinks:
+- '[[wiki/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[governance/hephaistos/HERMES]]'
+---
+
 # Specialist Guideline Authority — Binding vs. Advisory
 
 **Effective:** 2026-04-23

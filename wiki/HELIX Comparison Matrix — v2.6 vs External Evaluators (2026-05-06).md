@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: ["HELIX comparison matrix", "HELIX v2.6 external evaluators"]
-tags: [helix, comparison, evaluation, evidence-discipline, ai-infrastructure]
+title: HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)
+aliases:
+- HELIX comparison matrix
+- HELIX v2.6 external evaluators
+- wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)
+tags:
+- helix
+- comparison
+- evaluation
+- evidence-discipline
+- ai-infrastructure
+- wiki
+- helix-comparison-matrix-v2-6-vs-external-evaluators-2026-05-06-md
+- garak
+- pyrit
+- promptfoo
+- matrix
+- color-purple
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06).md
+backlink_count: 10
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Documents and Downloads Scan — 2026-05-06]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
+- '[[wiki/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
+- '[[wiki/HELIX Test Run — Epstein Files Topic (2026)]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)

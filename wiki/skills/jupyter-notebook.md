@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "jupyter-notebook"
-domain: "AI LLM and Tools"
+title: jupyter-notebook
+aliases:
+- skills/jupyter-notebook
+- wiki/skills/jupyter-notebook
+tags:
+- skill
+- wiki
+- skills
+- notebook
+- jupyter
+- ipynb
+- notebooks
+- explorations
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/jupyter-notebook/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/jupyter-notebook.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — AI and LLM Tools]]'
+skill_id: jupyter-notebook
+domain: AI LLM and Tools
+codex_path: /home/cerebrhoe/.codex/skills/jupyter-notebook/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

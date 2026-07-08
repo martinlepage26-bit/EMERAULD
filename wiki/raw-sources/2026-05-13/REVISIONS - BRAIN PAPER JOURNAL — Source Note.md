@@ -1,11 +1,36 @@
 ---
 type: source-note
-tags: [raw-source, ingest, provenance, 2026-05-13]
+title: REVISIONS - BRAIN PAPER JOURNAL — Source Note
+aliases:
+- raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note
+- wiki/raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note
+tags:
+- raw-source
+- ingest
+- provenance
+- '2026-05-13'
+- source-note
+- wiki
+- raw-sources
+- revisions
+- cluster
+- brain
+- journal
+- adfe
+- color-lime
 status: active
-created: 2026-05-13
-updated: 2026-05-13
-source_raw_path: "raw/00_Inbox/Raw/REVISIONS - BRAIN PAPER JOURNAL.txt"
-source_report: "raw/intake-report-20260513.json"
+created: '2026-05-13'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source
+  Note.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/IP and Manuscript Brief — 2026-05-14]]'
+- '[[wiki/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
+source_raw_path: raw/00_Inbox/Raw/REVISIONS - BRAIN PAPER JOURNAL.txt
+source_report: raw/intake-report-20260513.json
 ---
 
 # REVISIONS - BRAIN PAPER JOURNAL — Source Note

@@ -1,11 +1,31 @@
 ---
 type: raw-source
-source_url: https://www.rbc.com/our-impact/technology/artificial-intelligence.html
 title: Artificial Intelligence at RBC
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_artificial-intelligence-at-rbc
+tags:
+- raw-source
+- memory
+- clients
+- learn
+- technology
+- innovation
+- trading
+- impact
+- color-teal
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_artificial-intelligence-at-rbc.md
+backlink_count: 2
+backlinks:
+- '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[wiki/Research and Papers MOC]]'
+source_url: https://www.rbc.com/our-impact/technology/artificial-intelligence.html
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Artificial Intelligence at RBC

@@ -1,14 +1,31 @@
 ---
-title: "LOTUS — Fisher King Project State"
-created: "2026-05-07"
 type: project
-status: active
+title: LOTUS — Fisher King Project State
+aliases:
+- projects/LOTUS — Fisher King Project State
 tags:
-  - project
-  - fisher-king
-  - lotus
-  - method
-  - agency
+- project
+- fisher-king
+- lotus
+- method
+- agency
+- projects
+- lotus-fisher-king-project-state-md
+- mobile
+- shadow
+- worked
+- color-purple
+status: in-progress
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: projects
+canonical_path: projects/LOTUS — Fisher King Project State.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Healing the Fisher King Project Note Templates]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Projects Hub]]'
 ---
 
 # LOTUS — Fisher King Project State

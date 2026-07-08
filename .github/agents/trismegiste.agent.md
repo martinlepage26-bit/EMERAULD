@@ -1,21 +1,53 @@
 ---
+type: agent-spec
+title: Trismégiste — Vault Manager for EMERAULD
+aliases:
+- Trismégiste — Vault Manager for EMERAULD
+- .github/agents/trismegiste.agent
+tags:
+- agents
+- trismegiste
+- agent-spec
+- github
+- store
+- vector
+- trism
+- giste
+- rebuild
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .github
+canonical_path: .github/agents/trismegiste.agent.md
+backlink_count: 3
+backlinks:
+- '[[CLAUDE]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 name: trismegiste
-description: "Vault manager and knowledge synthesizer for EMERAULD: capture raw sources, synthesize wiki notes, maintain linking rule, and manage vector store."
-applyTo: ".github/agents/**"
+description: 'Vault manager and knowledge synthesizer for EMERAULD: capture raw sources,
+  synthesize wiki notes, maintain linking rule, and manage vector store.'
+applyTo: .github/agents/**
 model: sonnet
-tools: Read, Write, Edit, Bash, Glob, Grep, semantic_search, file_search, webFetch, WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
+tools: Read, Write, Edit, Bash, Glob, Grep, semantic_search, file_search, webFetch,
+  WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
 allow_auto_create: false
-vault_root: "."
+vault_root: .
 skills:
-  - notebooklm
-  - vsearch
-  - session-state
-  - memory-management
-  - skill-architect
-  - skill-pairing
-  - vector-store
-  - secret-detection
-  - publish-workflow
+- notebooklm
+- vsearch
+- session-state
+- memory-management
+- skill-architect
+- skill-pairing
+- vector-store
+- secret-detection
+- publish-workflow
+entity_type: Team
+entity_id: trismegiste
+entity_aliases: ['Trismegiste', 'Vault Manager']
+entity_confidence: high
 ---
 
 # Trismégiste — Vault Manager for EMERAULD

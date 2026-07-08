@@ -1,3 +1,36 @@
+---
+type: wiki
+title: CLI-Anything — Agent Harness for Tool Integration
+aliases:
+- CLI-Anything — Agent Harness for Tool Integration
+- wiki/CLI-Anything — Agent Harness for Tool Integration
+tags:
+- wiki
+- agents
+- cli-anything-agent-harness-for-tool-integration-md
+- wraps
+- harness
+- mubu
+- mutate
+- anything
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/CLI-Anything — Agent Harness for Tool Integration.md
+backlink_count: 8
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
+- '[[wiki/Claude Code Skill Corpus]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Home]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/SYSTEM CHECK]]'
+---
+
 # CLI-Anything — Agent Harness for Tool Integration
 
 ## Summary

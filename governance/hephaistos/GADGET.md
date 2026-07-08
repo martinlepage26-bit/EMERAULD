@@ -1,3 +1,32 @@
+---
+type: governance-doc
+title: 'GADGET: Frontier Scout & External Integration Agent'
+aliases:
+- 'GADGET: Frontier Scout & External Integration Agent'
+- governance/hephaistos/GADGET
+tags:
+- governance
+- ai
+- agents
+- hephaistos
+- gadget
+- governance-doc
+- mongodb
+- external
+- integration
+- integrations
+- color-teal
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/GADGET.md
+backlink_count: 2
+backlinks:
+- '[[.trash/Building Your First AI Agent with OpenAI_________]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
 # GADGET: Frontier Scout & External Integration Agent
 
 **Agent:** Gadget  

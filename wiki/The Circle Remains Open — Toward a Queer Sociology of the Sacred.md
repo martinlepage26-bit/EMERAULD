@@ -1,3 +1,51 @@
+---
+type: wiki
+title: The Circle Remains Open — Toward a Queer Sociology of the Sacred
+aliases:
+- The Circle Remains Open — Toward a Queer Sociology of the Sacred
+- wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred
+tags:
+- wiki
+- ai
+- queer
+- the-circle-remains-open-toward-a-queer-sociology-of-the-sacred-md
+- pagan
+- sacred
+- circle
+- magic
+- color-red
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md
+backlink_count: 23
+backlinks:
+- '[[wiki/Brutal Isms — Art Grant Proposal]]'
+- '[[wiki/Circle Remains Open — Version Genealogy]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
+- '[[wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2025 Revised Version]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
+- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Novel Corpus Map]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # The Circle Remains Open — Toward a Queer Sociology of the Sacred
 
 ## Summary

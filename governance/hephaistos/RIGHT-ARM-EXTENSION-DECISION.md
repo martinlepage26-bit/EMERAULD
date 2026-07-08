@@ -1,3 +1,33 @@
+---
+type: governance-doc
+title: Right-Arm Extension Decision (Binding)
+aliases:
+- Right-Arm Extension Decision (Binding)
+- governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- consultation
+- arms
+- trigger
+- hermes
+- keyport
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
+  (2026-04-18)]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
 # Right-Arm Extension Decision (Binding)
 
 **Decision date:** 2026-04-18

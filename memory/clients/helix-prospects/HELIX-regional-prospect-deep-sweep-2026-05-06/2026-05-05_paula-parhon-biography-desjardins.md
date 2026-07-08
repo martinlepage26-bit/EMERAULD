@@ -1,11 +1,31 @@
 ---
 type: raw-source
-source_url: https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/paula-parhon/index.jsp
 title: Paula Parhon - Biography | Desjardins
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_paula-parhon-biography-desjardins
+tags:
+- raw-source
+- memory
+- clients
+- desjardins
+- cookies
+- director
+- paula
+- browser
+- color-lime
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_paula-parhon-biography-desjardins.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+source_url: https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/paula-parhon/index.jsp
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Paula Parhon - Biography | Desjardins

@@ -1,11 +1,89 @@
 ---
 type: moc
+title: Manuscript Pipeline MOC
 aliases:
-  - Manuscript Cluster MOC
-tags: [manuscript, publication, pipeline, pharos, peer-review]
+- Manuscript Cluster MOC
+- wiki/Manuscript Pipeline MOC
+tags:
+- manuscript
+- publication
+- pipeline
+- pharos
+- peer-review
+- moc
+- wiki
+- manuscript-pipeline-moc-md
+- lepages
+- readme
+- inderscience
+- society
+- color-orange
 status: active
-created: 2026-05-14
-updated: 2026-05-14
+created: '2026-05-14'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Manuscript Pipeline MOC.md
+backlink_count: 59
+backlinks:
+- '[[Areas/Writing/AREA]]'
+- '[[wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[wiki/Glitching the Sacred]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/PHAROS]]'
+- '[[wiki/PHAROS Method — Core Framework]]'
+- '[[wiki/PHAROS Product Stack]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
+- '[[wiki/Per-Paper Project Structure — Folder and File Architecture]]'
+- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[wiki/Research Hub]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
+- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
+- '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/editorial_log]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/services/README]]'
+- '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_decision_log]]'
+- '[[hephaistos/personal-assistant-agents/content-inventory-cartographer/references/method]]'
+- '[[hephaistos/personal-assistant-agents/demand-scout/references/method]]'
+- '[[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/evolution]]'
+- '[[hephaistos/personal-assistant-agents/intake-triager/references/evolution]]'
+- '[[hephaistos/personal-assistant-agents/listing-creative-director/references/evolution]]'
+- '[[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/evolution]]'
+- '[[hephaistos/personal-assistant-agents/metadata-link-warden/references/evolution]]'
+- '[[hephaistos/personal-assistant-agents/raw-archivist/references/evolution]]'
+- '[[hephaistos/personal-assistant-agents/raw-archivist/references/method]]'
+- '[[hephaistos/personal-assistant-agents/revenue-support-optimizer/references/evolution]]'
+- '[[hephaistos/personal-assistant-agents/rights-policy-warden/references/evolution]]'
+- '[[hephaistos/personal-assistant-agents/synthesis-editor/references/evolution]]'
+- '[[index]]'
+- '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_responsible-ai-in-financial-services]]'
+- '[[memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_alayaflow-alayacare]]'
+- '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_client-challenge]]'
+- '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_our-saas-technology-platform-assent]]'
+- '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_our-story-leadership]]'
+- '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_supply-chain-management-solutions-for-sustainability-assent-]]'
+- '[[memory/daily/2026-05-10]]'
+- '[[memory/local-session/feedback_deploy_cloudflare]]'
+- '[[memory/local-session/feedback_deploy_workflow]]'
+- '[[projects/Papers — Fisher King Project State]]'
+- '[[raw/D-drive-scan-2026-05-12/elemental-agents/validation/01-structure-check]]'
+- '[[templates/Wiki Note]]'
 ---
 
 # Manuscript Pipeline MOC

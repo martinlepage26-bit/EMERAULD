@@ -1,3 +1,96 @@
+---
+type: moc
+title: Personal and Projects MOC
+aliases:
+- Personal and Projects MOC
+- wiki/Personal and Projects MOC
+tags:
+- moc
+- wiki
+- personal-and-projects-moc-md
+- agent
+- obsidian
+- code
+- emerauld
+- claude
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-07-06'
+vault_area: wiki
+canonical_path: wiki/Personal and Projects MOC.md
+backlink_count: 68
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Agent Distillation Pipeline]]'
+- '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'
+- '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
+- '[[wiki/Brutal Isms — Grant Revision Package (2026-05-12)]]'
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Chrome Extension Monetization - Policy and Product Options]]'
+- '[[wiki/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons]]'
+- '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
+- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
+- '[[wiki/D Drive Scan — 2026-05-12]]'
+- '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
+- '[[wiki/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
+- '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
+- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
+- '[[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
+- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[wiki/Epistemic Operator — Operational Specification]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
+- '[[wiki/Home]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[wiki/Obsidian Agent Vault — Asset Canon]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/Obsidian Agent Vault — Setup Guide]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/SYSTEM CHECK]]'
+- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
+- '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[wiki/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
+- '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[wiki/VoiceBridge Foundation]]'
+- '[[Welcome]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[index]]'
+- '[[memory]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/daily/2026-05-02]]'
+- '[[memory/daily/2026-05-07]]'
+- '[[memory/daily/2026-06-27]]'
+- '[[projects/GAIA — Fisher King Project State]]'
+- '[[session-state]]'
+- '[[templates/Invoice Template Pharos-AI]]'
+---
+
 # Personal and Projects MOC
 
 This MOC covers active projects, personal notes, professional profile, and ongoing initiatives across [[Martin Lepage — Professional Profile]]'s research, governance, consulting, and personal work. For research papers, see [[Research and Papers MOC]]. For novels and creative work, see [[Writing and Novels MOC]].
@@ -33,7 +126,7 @@ These are dashboard labels, not note merges. The project notes below remain cano
 - **Commercial** — [[PHAROS Commercial Strategy]], [[PHAROS Procurement-Unblock Sprint]], [[Trust Advantage Analysis — Sales and AI Governance]], outreach, booking, analytics, payments, and launch copy.
 - **Method/IP** — [[PHAROS Invention Disclosure]], [[PHAROS Method — Technical Reference]], [[Governance Controls and Mechanisms]], and the formal recursive-governance method track.
 - **Products** — [[HELIX — Value Proposition and Buyer Profile]], [[GAIA — Earth-Calendar App and Evidence-Aware Positioning]], and [[Obsidian Second Brain Product]].
-- **Clients** — [[memory/clients/ExterminationDG]], [[memory/clients/Sante-France]], [[memory/clients/Lavoie Construct]], and [[memory/clients/Progression]].
+- **Clients** — [[memory/clients/ExterminationDG]], [[memory/clients/Sante-France]], [[memory/clients/Lavoie Construct]] (software workstream: [[Contremaître — Groupe Lavoie Field-Operations Platform]] + [[LegiPro Canada-QC — Compliance Evidence Service Plan]], tone standard: [[Quiet Compliance Workbench — Standing Tone Rule]]), and [[memory/clients/Progression]].
 - **Agent System** — [[Second Self System — Identity Kernel and Agent Routing Architecture]], [[HEPHAISTOS Agent Architecture]], [[AI Infrastructure Stack]], and the skill/memory/routing surfaces.
 - **Publications** — [[PHAROS Scholarly Publication Track]], [[Academic Paper Pipeline]], and active journal/manuscript work.
 - **Screen-Worlds Writing** — [[Legitimacy Machines — Book Skeleton and Architecture]], Buffy/Familiars/Glitching/Refusing Fixity/Unnatural Selection/Digital Agatha, and related media-governance work.
@@ -152,12 +245,14 @@ Retrieval systems, memory tools, and agent-facing infrastructure that support th
 - [[PAPER BUILDER — Source Bundle and HENRY Origin]] — Upstream source bundle (`ubuntu disk`) from which HENRY was built via `rebuild_henry_bundle.py`; contains Martin-named originals, relational coupling evolution, and voice CODE genealogy. Traced 2026-05-03.
 - [[claude-peers-mcp — Claude Peer Network]] — MCP server enabling multiple Claude Code instances to discover each other and exchange messages in real time; active in all sessions.
 - [[InfraFabric MCP Stack — Remote Bundles]] — Four MCP servers (if_context, if_blackboard, openspace, if_chat) connecting this machine to InfraFabric; provides context, blackboard, skill bridge, and ROOK room communication.
+- [[if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]] — Current spec sheet for InfraFabric's blackboard ledger: task/session/signal evidence, checkpoint/verification records, MCP access boundary, data-asset posture, and current public-endpoint caveat.
 - [[Reddit Data API — Access Terms and Rate Limits]] — Operational reference for Reddit Data API — OAuth requirement, User-Agent format, 100 QPM rate limit, and the 48-hour data-deletion obligation that makes any Reddit-ingesting vault a regulated-storage surface.
 - [[Ask Vault — EMERAULD Vault Briefing Skill]] — Claude skill that generates a structured briefing from the EMERAULD vault on demand; entry point for vault-aware sessions.
 - [[CLI-Anything — Agent Harness for Tool Integration]] — Skill framework for wrapping arbitrary CLI tools into agent-accessible interfaces; used across the PHAROS and EMERAULD toolchain.
 - [[CODEX Writing Projects Manifest]] — Codex-side manifest of active writing projects, submission status, and next actions; counterpart to the EMERAULD session state for the Codex agent context.
 - [[CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]] — Codex-to-vault handoff record for the Trismégiste keystone cycle; use as continuity context before treating later Trismégiste notes as isolated artifacts.
 - [[ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]] — Reference notes on the ChatGPT Apps SDK including planning patterns, metadata requirements, deployment procedures, and operational considerations.
+- [[Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]] — Current spec sheet for emergent.sh as an external agentic app-builder / vibe-coding platform; captures capabilities, pricing, export/deployment posture, enterprise claims, and governance caveats.
 - [[Claude Code Skill Corpus]] — Registry and reference index for the full Claude Code skill corpus active on this machine; companion to [[MASTERxMASTERxMASTER — Skill Corpus Map]].
 - [[MASTER REFERENCE SAFE — Canonical Bibliography System]] — Canonical 998-entry citation library on D: drive; feeds all bibliography nodes across the vault; intake via CrossRef/arXiv/DOI pipeline.
 - [[D Library — Review Unreadable Cleanup (2026-05-04)]] — Three-phase cleanup (filename repair, synthesis, triage) of 641 DocSort-unreadable files; MASTER REFERENCE LIST 995 → 998; all files filed into LIBRARY hierarchy.

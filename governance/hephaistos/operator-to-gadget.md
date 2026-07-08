@@ -1,3 +1,32 @@
+---
+type: governance-doc
+title: Operator → Gadget Handoff Schema
+aliases:
+- Operator → Gadget Handoff Schema
+- governance/hephaistos/operator-to-gadget
+tags:
+- governance
+- ai
+- hephaistos
+- gadget
+- governance-doc
+- mode
+- scout
+- credential
+- launch
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/operator-to-gadget.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/HEPHAISTOS]]'
+---
+
 # Operator → Gadget Handoff Schema
 
 ## Purpose

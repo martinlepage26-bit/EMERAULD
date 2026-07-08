@@ -1,3 +1,38 @@
+---
+type: wiki
+title: Avatar Chapter — A Queer Reading of Embodied Power (English)
+aliases:
+- Avatar Chapter — A Queer Reading of Embodied Power (English)
+- wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)
+tags:
+- wiki
+- queer
+- avatar-chapter-a-queer-reading-of-embodied-power-english-md
+- chapter
+- avatar
+- tlok
+- atla
+- color-red
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Avatar Chapter — A Queer Reading of Embodied Power (English).md
+backlink_count: 11
+backlinks:
+- '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[maps/Queer Media and Ritual Map]]'
+- '[[memory]]'
+---
+
 # Avatar Chapter — A Queer Reading of Embodied Power (English)
 
 ## Summary

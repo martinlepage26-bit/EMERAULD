@@ -1,10 +1,33 @@
 ---
 type: wiki
-aliases: ["VoiceBridge", "AAC bridge fund"]
-tags: [project, nonprofit, aac, disability, voicebridge]
+title: VoiceBridge Foundation
+aliases:
+- VoiceBridge
+- AAC bridge fund
+- wiki/VoiceBridge Foundation
+tags:
+- project
+- nonprofit
+- aac
+- disability
+- voicebridge
+- wiki
+- voicebridge-foundation-md
+- pilot
+- incorporation
+- referral
+- partners
+- color-teal
 status: active
-created: 2026-06-21
-updated: 2026-06-21
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/VoiceBridge Foundation.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Host Environment — pharos-corpus-runner-01]]'
+- '[[wiki/Personal and Projects MOC]]'
 ---
 
 # VoiceBridge Foundation

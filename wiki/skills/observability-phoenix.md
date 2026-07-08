@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "observability-phoenix"
-domain: "Governance and Authority"
+title: observability-phoenix
+aliases:
+- skills/observability-phoenix
+- wiki/skills/observability-phoenix
+tags:
+- skill
+- wiki
+- skills
+- phoenix
+- observability
+- package
+- pretending
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/observability-phoenix/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/observability-phoenix.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+skill_id: observability-phoenix
+domain: Governance and Authority
+codex_path: /home/cerebrhoe/.codex/skills/observability-phoenix/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

@@ -1,10 +1,63 @@
 ---
 type: map
+title: Consent and Boundary Frameworks
 aliases:
-  - TOPIC — Consent and Boundary Frameworks
-tags: [index, map, topic, consent, boundary, refusal, governance, ethics]
-created: 2026-05-01
-updated: 2026-05-06
+- TOPIC — Consent and Boundary Frameworks
+- wiki/Consent and Boundary Frameworks
+tags:
+- index
+- map
+- topic
+- consent
+- boundary
+- refusal
+- governance
+- ethics
+- wiki
+- consent-and-boundary-frameworks-md
+- answerability
+- authority
+- color-purple
+status: active
+created: '2026-05-01'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Consent and Boundary Frameworks.md
+backlink_count: 32
+backlinks:
+- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
+  of Interruption]]'
+- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
+- '[[wiki/Authority Without Power-Over]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
+- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
+- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governess Agatha GPT — ChatGPT Product Specification]]'
+- '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
+- '[[wiki/Home]]'
+- '[[wiki/Inner Mind Eye]]'
+- '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/PHAROS Invention Disclosure]]'
+- '[[wiki/Recursive Deterministic AI Governance — Method and Paper]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-05-02]]'
 ---
 
 # Consent and Boundary Frameworks

@@ -1,9 +1,36 @@
 ---
 type: skill
+title: peer-reviewed-paper-writer
+aliases:
+- skills/peer-reviewed-paper-writer
+- wiki/skills/peer-reviewed-paper-writer
+tags:
+- skill
+- wiki
+- skills
+- literature
+- peer
+- grade
+- packets
+- writer
+- color-pink
+status: active
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/peer-reviewed-paper-writer.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Martin Lepage — Authored Skills]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/skills/literature-review]]'
+- '[[wiki/skills/peer-review]]'
+- '[[wiki/skills/peer-review-workflow]]'
+- '[[wiki/skills/scientific-writing]]'
 skill_id: peer-reviewed-paper-writer
 scope: output
-status: active
-created: 2026-05-06
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md
 ---
 

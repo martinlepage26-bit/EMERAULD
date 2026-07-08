@@ -1,3 +1,47 @@
+---
+type: wiki
+title: Spider-Man and the Phonetic Glitch — Voice as Infrastructure
+aliases:
+- Spider-Man and the Phonetic Glitch — Voice as Infrastructure
+- wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure
+tags:
+- wiki
+- spider-man-and-the-phonetic-glitch-voice-as-infrastructure-md
+- spider
+- phonetic
+- nephew
+- dubbing
+- dubbed
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure.md
+backlink_count: 20
+backlinks:
+- '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Buffy Slayer Studies]]'
+- '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
+- '[[wiki/Home]]'
+- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
+- '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Spider-Man and the Phonetic Glitch — Voice as Infrastructure
 
 See also [[Crossing Under Watch — Troll's Toll and Digital Ritual Passage]].

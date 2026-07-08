@@ -1,3 +1,44 @@
+---
+type: wiki
+title: Reboot — Performance, Gender, and Computing of Identity
+aliases:
+- Reboot — Performance, Gender, and Computing of Identity
+- wiki/Reboot — Performance, Gender, and Computing of Identity
+tags:
+- wiki
+- reboot-performance-gender-and-computing-of-identity-md
+- reboot
+- sprites
+- mainframe
+- eating
+- metaphor
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Reboot — Performance, Gender, and Computing of Identity.md
+backlink_count: 17
+backlinks:
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
+- '[[wiki/Reboot Performance Gender Identity — Version Genealogy]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[maps/Queer Media and Ritual Map]]'
+---
+
 # Reboot — Performance, Gender, and Computing of Identity
 
 ## Summary

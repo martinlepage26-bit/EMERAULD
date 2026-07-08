@@ -1,3 +1,44 @@
+---
+type: wiki
+title: Consent, Fraud, and Boundary Protocols
+aliases:
+- Consent, Fraud, and Boundary Protocols
+- wiki/Consent, Fraud, and Boundary Protocols
+tags:
+- wiki
+- consent-fraud-and-boundary-protocols-md
+- fraud
+- consent
+- sexual
+- legal
+- emotional
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Consent, Fraud, and Boundary Protocols.md
+backlink_count: 17
+backlinks:
+- '[[wiki/Authority Without Power-Over]]'
+- '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
+- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/daily/2026-05-02]]'
+---
+
 # Consent, Fraud, and Boundary Protocols
 
 ## Summary

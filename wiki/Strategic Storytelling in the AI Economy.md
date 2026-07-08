@@ -1,12 +1,40 @@
 ---
 type: wiki
+title: Strategic Storytelling in the AI Economy
 aliases:
-  - strategic storytelling
-  - narrative as differentiator
-tags: [writing, professional-identity, market-positioning, ai-economy, narrative]
+- strategic storytelling
+- narrative as differentiator
+- wiki/Strategic Storytelling in the AI Economy
+tags:
+- writing
+- professional-identity
+- market-positioning
+- ai-economy
+- narrative
+- wiki
+- strategic-storytelling-in-the-ai-economy-md
+- storytelling
+- strategic
+- consulting
+- cross
+- seam
+- color-teal
 status: active
-created: 2026-05-24
-updated: 2026-05-24
+created: '2026-05-24'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Strategic Storytelling in the AI Economy.md
+backlink_count: 9
+backlinks:
+- '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[session-state]]'
 ---
 
 # Strategic Storytelling in the AI Economy

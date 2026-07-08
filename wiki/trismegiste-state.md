@@ -1,10 +1,31 @@
 ---
 type: wiki
-aliases: [trismegiste-state]
-tags: [continuity, operator-state, trismégiste]
+title: trismegiste-state
+aliases:
+- trismegiste-state
+- wiki/trismegiste-state
+tags:
+- continuity
+- operator-state
+- trism-giste
+- wiki
+- trismegiste-state-md
+- trismegiste
+- resolvable
+- landing
+- gives
+- trism
+- color-teal
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/trismegiste-state.md
+backlink_count: 3
+backlinks:
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # trismegiste-state

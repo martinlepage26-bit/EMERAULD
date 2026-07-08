@@ -1,3 +1,54 @@
+---
+type: wiki
+title: Agent Session Phenomenology
+aliases:
+- Agent Session Phenomenology
+- wiki/Agent Session Phenomenology
+tags:
+- wiki
+- agents
+- agent-session-phenomenology-md
+- perimeter
+- center
+- contradiction
+- collapse
+- collapses
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Agent Session Phenomenology.md
+backlink_count: 26
+backlinks:
+- '[[wiki/AI Identity and Phenomenology]]'
+- '[[wiki/CLI-Anything — Agent Harness for Tool Integration]]'
+- '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Emotional Alliance vs. Evidentiary Discipline in AI]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)]]'
+- '[[wiki/Home]]'
+- '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'
+- '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
+- '[[wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
+- '[[wiki/ROOK — Session Boundary Model]]'
+- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
+- '[[maps/PHAROS Method Map]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Journal]]'
+---
+
 # Agent Session Phenomenology
 
 ## Summary

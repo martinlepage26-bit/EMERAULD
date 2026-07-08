@@ -1,3 +1,33 @@
+---
+type: version-genealogy
+title: Trust Advantage — Version Genealogy
+aliases:
+- Trust Advantage — Version Genealogy
+- wiki/Trust Advantage — Version Genealogy
+tags:
+- version-genealogy
+- wiki
+- trust-advantage-version-genealogy-md
+- advantage
+- trust
+- analysis
+- revised
+- version
+- color-blue
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Trust Advantage — Version Genealogy.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Home]]'
+- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # Trust Advantage — Version Genealogy
 
 ## Summary

@@ -1,3 +1,34 @@
+---
+type: artifact
+title: Social Media Copy — Obsidian Agent Vault
+aliases:
+- artifacts/marketplace/promo/social-posts
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- cursor
+- gumroad
+- pharosml
+- kvbhdo
+- loader
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/social-posts.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/daily/2026-06-29]]'
+- '[[projects/Second Brain — Fisher King Project State]]'
+---
+
 # Social Media Copy — Obsidian Agent Vault
 
 Replace https://pharosml.gumroad.com/l/kvbhdo with your live Gumroad URL before posting.

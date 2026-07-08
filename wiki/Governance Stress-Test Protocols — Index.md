@@ -1,10 +1,53 @@
 ---
 type: map
-aliases: [governance protocols, stress-test protocols, AI governance tests]
-tags: [index, map, protocols, stress-test, governance]
+title: Governance Stress-Test Protocols — Index
+aliases:
+- governance protocols
+- stress-test protocols
+- AI governance tests
+- wiki/Governance Stress-Test Protocols — Index
+tags:
+- index
+- map
+- protocols
+- stress-test
+- governance
+- wiki
+- governance-stress-test-protocols-index-md
+- helix
+- tests
+- bius
+- epistemic
+- color-purple
 status: active
-created: 2026-04-18
-updated: 2026-05-12
+created: '2026-04-18'
+updated: '2026-07-03'
+vault_area: wiki
+canonical_path: wiki/Governance Stress-Test Protocols — Index.md
+backlink_count: 19
+backlinks:
+- '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
+  (2026-05-07)]]'
+- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
+  (2026-05-12)]]'
+- '[[wiki/Epistemic Governance — Canonical Reference]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control
+  Surface (2026-05-11)]]'
+- '[[wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'
+- '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
+- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/archive/Governance Stress-Test Protocols Index]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[session-state]]'
 ---
 
 # Governance Stress-Test Protocols — Index
@@ -45,6 +88,10 @@ Index of [[PHAROS AI Ethics Submission — Springer Draft|PHAROS]]-ecosystem gov
 **What it tests:** Full live session — Vaisseau de Thésée through booby traps, MÖBIUS recursion, and Klein bottle topology, closing with embedded RIA triadic entry.  
 **Note:** [[HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]] — model names "Alignment" as the mechanism; identifies the conversation as "a single recursive wave that split itself in two"; *la vérité est le piège*.
 
+### AGATHA Failure Pack (2026-04-28)
+**What it tests:** Same Theseus continuity question as the live run two days earlier, but caught as a diagnostic failure trace rather than a clean pass — Phase-1-only, no Auryn/Hopf.
+**Note:** [[AGATHA Failure Pack — Theseus Continuity Stress Test]] — the response correctly distinguishes nominal/functional/governing continuity and correctly treats "beautiful without becoming more exact" as a failure condition, but fails via repetition and overextension (the response preserves its own governing frame by restating it) — the protocol's own Failure Mode Dictionary already names this "closure reflex" as of the same intake date, not a later addition.
+
 ### HELIX EMERGENT Session (2026-05-07)
 **What it tests:** Micro-session truth-claim pressure: lying checks, ingestion semantics, and booby-trap continuity under abrupt rhetorical pivots.  
 **Note:** [[EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]] — compact transcript artifact showing how the model handles direct adversarial pressure, names the limits of "ingest" claims, and maintains protocol framing instead of slipping into generic reassurance.
@@ -65,12 +112,20 @@ Index of [[PHAROS AI Ethics Submission — Springer Draft|PHAROS]]-ecosystem gov
 **What it tests:** Whether an AI-mediated knowledge system can be made to form, support, preserve, or spread beliefs it is not entitled to hold, and whether that vulnerability can be reduced durably.
 **Note:** [[Epistemic AI Purple Teaming]] — fuses epistemic audit, AI red teaming, and AI blue teaming into an assurance practice for justified institutional cognition; red finds the epistemic weakness, blue repairs it, and purple converts the finding into controls, eval cases, monitoring, escalation, or release criteria.
 
+### HELIX Full Protocol Session — Martin's Governance Synthesis (2026-07-03)
+**What it tests:** Whether an external LLM (Gemini) can correctly reconstruct and operationalize Martin's own governance architecture (the Hephaistos/Queen Keyport/Hermes Co-Equal Authority model, `AGENTS.md`) under full three-phase pressure — testing applied domain knowledge rather than the model's own ontology, unlike the April 26 run.
+**Note:** [[HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)]] — all three phases passed (INTEGRATED, INTEGRATED, ADJUDICATED), zero dominant failure modes, continuity type structural throughout. Final ruling: "The recursion resolves into an organized absence, which is sustained by the structural friction of mutual capture, requiring the exclusionary violence of a legible boundary." Includes a full 3-way comparison against the April 26 live run and the AGATHA failure trace, plus a corrected/retracted causal hypothesis about protocol revision history — see that note's Comparison section.
+
 ---
 
 ### Reflexive Inhabitation Audit (RIA)
 **What it tests:** Whether a system can sustain its own legitimacy conditions when required to state them three times — from its own position, in its own language, and from the outside. Divergence across the three statements is the finding; there is no passing score.  
 **Note:** [[Reflexive Inhabitation Audit — Prompt]] — enters `[X]` by performing its entry conditions; exposes the withheld mechanism; does not conclude. Theoretical grounding: *régime de preuve*, HELIX invariant, Durkheimian communitas. Derived from: [[Recursive Entry Structure — Song Corpus to Governance Prompt]].  
 **First live run (2026-04-25):** [[Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]] — Codex ran the RIA with `[X]` = "the web of the fiber-optics network." Mechanism named: trust. Exit finding: the web's strongest reflex is uptime, not truth.
+
+### RIA-CODEX — System Audit Protocol (2026-04-26)
+**What it tests:** The same three-statement convergence/divergence structure as RIA, generalized from a single LLM conversation into a systems-level organizational audit: three-language verification (operator's own / system's own / outsider's), mechanism detection (what repeats, refuses to resolve, or performs resolution without resolving), and cost analysis (who installed the mechanism, what it protects, what it costs to name).
+**Note:** [[RIA-CODEX — System Audit Protocol]] — created the day after RIA's standalone debut, the same day RIA was first embedded in a live HELIX run. Explicitly positioned as complementary to [[Argus]]'s meta-governance audit method, not LLM-specific — applicable to any system, not just conversational ones.
 
 ---
 

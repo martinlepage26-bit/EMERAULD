@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "mcp-builder"
-domain: "AI LLM and Tools"
+title: mcp-builder
+aliases:
+- skills/mcp-builder
+- wiki/skills/mcp-builder
+tags:
+- skill
+- wiki
+- skills
+- servers
+- fastmcp
+- builder
+- node
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/mcp-builder/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/mcp-builder.md
+backlink_count: 3
+backlinks:
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — AI and LLM Tools]]'
+skill_id: mcp-builder
+domain: AI LLM and Tools
+codex_path: /home/cerebrhoe/.codex/skills/mcp-builder/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

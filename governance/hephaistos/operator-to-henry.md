@@ -1,3 +1,31 @@
+---
+type: governance-doc
+title: Operator → HENRY Handoff Schema
+aliases:
+- Operator → HENRY Handoff Schema
+- governance/hephaistos/operator-to-henry
+tags:
+- governance
+- ai
+- hephaistos
+- henry
+- governance-doc
+- preflight
+- none
+- task
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/operator-to-henry.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/HENRY]]'
+---
+
 # Operator → HENRY Handoff Schema
 
 ## Purpose

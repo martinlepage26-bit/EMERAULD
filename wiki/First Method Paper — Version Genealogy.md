@@ -1,3 +1,33 @@
+---
+type: version-genealogy
+title: First Method Paper — Version Genealogy
+aliases:
+- First Method Paper — Version Genealogy
+- wiki/First Method Paper — Version Genealogy
+tags:
+- paper
+- version-genealogy
+- wiki
+- first-method-paper-version-genealogy-md
+- method
+- hinge
+- version
+- abstract
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/First Method Paper — Version Genealogy.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[wiki/Home]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+---
+
 # First Method Paper — Version Genealogy
 
 ## Summary

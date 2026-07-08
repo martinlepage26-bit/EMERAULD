@@ -1,3 +1,32 @@
+---
+type: artifact
+title: 'The Open Questions Protocol: How to Stop AI from Filling In What It Doesn''t
+  Know'
+aliases:
+- artifacts/marketplace/promo/hashnode-iter42-open-questions
+tags:
+- artifact
+- ai
+- artifacts
+- marketplace
+- invalidation
+- open
+- questions
+- resolved
+- blocked
+- color-purple
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/hashnode-iter42-open-questions.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # The Open Questions Protocol: How to Stop AI from Filling In What It Doesn't Know
 
 **Platform:** Hashnode

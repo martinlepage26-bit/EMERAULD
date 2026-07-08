@@ -1,3 +1,31 @@
+---
+type: artifact
+title: Why AI Code Review Keeps Flagging the Wrong Things (and How to Fix It)
+aliases:
+- artifacts/marketplace/promo/devto-iter41-code-review
+tags:
+- artifact
+- ai
+- artifacts
+- marketplace
+- code
+- auth
+- rejected
+- debt
+- suggest
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/devto-iter41-code-review.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # Why AI Code Review Keeps Flagging the Wrong Things (and How to Fix It)
 
 **Platform:** Dev.to

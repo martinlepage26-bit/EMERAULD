@@ -1,3 +1,71 @@
+---
+type: project-state
+title: Master Project Tracker — 2026
+aliases:
+- Master Project Tracker — 2026
+- wiki/Master Project Tracker — 2026
+tags:
+- project
+- tracker
+- project-state
+- wiki
+- master-project-tracker-2026-md
+- fisher
+- king
+- glitching
+- machines
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-07-06'
+vault_area: wiki
+canonical_path: wiki/Master Project Tracker — 2026.md
+backlink_count: 42
+backlinks:
+- '[[wiki/90-Day $1M Challenge — Status Report]]'
+- '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
+- '[[wiki/Agent Logs Hub]]'
+- '[[wiki/CODEX Writing Projects Manifest]]'
+- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Fisher King Hub — Project Recovery Map]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
+- '[[wiki/Home]]'
+- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Licensing Prospectus]]'
+- '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Plugin Recommendations]]'
+- '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Rest and Consolidation Guide — Martin]]'
+- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
+- '[[wiki/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
+- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[Welcome]]'
+- '[[wiki/Workflows Hub]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[index]]'
+- '[[memory]]'
+- '[[memory/agents/Blockers]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Learning]]'
+- '[[memory/daily/2026-05-02]]'
+- '[[memory/daily/2026-05-07]]'
+- '[[projects/Magie sanguine — Fisher King Project State]]'
+- '[[projects/Stuttering Machines — Fisher King Project State]]'
+---
+
 # Master Project Tracker — 2026
 
 ## Summary
@@ -5,6 +73,15 @@ Living project registry mapping all active, drafting, completed, tentative, soft
 
 ## Context
 Source: `MASTER_PROJECT_TRACKER_2026-03-17.md`. This tracker was produced as part of the CODEX storage reorganization documented in `CODEX_WRITING_PROJECTS_MANIFEST_2026-03-16.md`. The tracker maintenance rule (from AGENTS.md) requires daily review and update at every major change, not only at session end. This note captures the snapshot as of March 2026.
+
+---
+
+## Recent Change Notes
+
+- 2026-07-03 — Agent System / skill registry: copied 22 runnable Martin-authored/signature Claude skills from `/home/martin/.claude/skills/` into `/home/martin/.codex/skills/` so Codex can load them on restart. Source anchors: `/home/martin/.agents/skills/martin_skills.md` plus [[Martin Lepage — Authored Skills]]. Known drift remains: `martin_skills.md` says 22 but lists 21 headings; [[Martin Lepage — Authored Skills]] says 26 but currently enumerates 27 entries, several of which are vault-only docs rather than runnable `SKILL.md` directories.
+
+> [!warning] Contradiction detected
+> Verified by the 2026-07-03 nightly pass: [[Martin Lepage — Authored Skills]] (updated 2026-06-26) titles its list "The 26 Signature Skills" and states 26 in its Summary, but the section enumerates **27** wikilinked entries — the note's own count claim and its enumeration contradict each other, confirming the drift flagged above. The older note is left untouched; deciding whether the count should read 27 or which entry doesn't belong is an open item for the operator.
 
 ---
 
@@ -17,7 +94,7 @@ Daily review now uses consolidated labels while preserving the detailed tracker 
 | Commercial | PHAROS AI Commercial Launch, PHAROS Procurement-Unblock Sprint, Trust Advantage Analysis, PHAROS Commercial Strategy |
 | Method/IP | PHAROS Method patent, PHAROS Invention Disclosure, Recursive Deterministic AI Governance, PHAROS Governance Controls |
 | Products | HELIX, GAIA, Obsidian Agent Vault / Obsidian Second Brain Product |
-| Clients | ExterminationDG, Santé-France, Lavoie Construct, Progression |
+| Clients | ExterminationDG, Santé-France, Lavoie Construct ([[Contremaître — Groupe Lavoie Field-Operations Platform|Contremaître]] + [[LegiPro Canada-QC — Compliance Evidence Service Plan|LegiPro]]), Progression |
 | Agent System | Second Self System, HEPHAISTOS/Hermes/Queen Keyport routing, skill registry, memory infrastructure |
 | Publications | AI Anxiety / Recursive Governance, RDAIG Method, AI Ethics submission, Wheel and Watcher, Hegemonic Fluency |
 | Screen-Worlds Writing | Legitimacy Machines / Altars of Control, Buffy Book, Familiars of Hollywood, Glitching the Sacred, Refusing Fixity / HEXA, Unnatural Selection, Digital Agatha, Who's the Boob Who's the Trap |

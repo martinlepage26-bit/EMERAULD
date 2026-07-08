@@ -1,3 +1,32 @@
+---
+type: wiki
+title: Perplexity Computer - Temporary EMERAULD Seat
+aliases:
+- Perplexity Computer - Temporary EMERAULD Seat
+- wiki/PERPLEXITY-COMPUTER
+tags:
+- wiki
+- perplexity-computer-md
+- welcome
+- perplexity
+- computer
+- workspace
+- temporary
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PERPLEXITY-COMPUTER.md
+backlink_count: 5
+backlinks:
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/VAULT ADDITIONS TRACKER]]'
+- '[[Welcome]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
+---
+
 # Perplexity Computer - Temporary EMERAULD Seat
 
 See also [[2026-05-09_emerauld-agents-perplexity-hermes-instructions]].

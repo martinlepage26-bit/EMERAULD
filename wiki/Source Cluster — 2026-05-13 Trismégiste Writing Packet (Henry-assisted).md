@@ -1,9 +1,66 @@
 ---
 type: writing-packet
-tags: [writing, henry, trismegiste, source-notes, 2026-05-13]
+title: Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)
+aliases:
+- Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)
+- wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)
+tags:
+- writing
+- henry
+- trismegiste
+- source-notes
+- '2026-05-13'
+- writing-packet
+- wiki
+- source-cluster-2026-05-13-trism-giste-writing-packet-henry-assisted-md
+- cluster
+- cultural
+- lyric
+- memo
+- mixing
+- color-purple
 status: active
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted).md
+backlink_count: 26
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[wiki/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
+- '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source
+  Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a
+  live X — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker
+  — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send —
+  Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application
+  contract + notes — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start
+  Selling Today) — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate
+  it? — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26
+  Account Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/Complete solutions, not compromises — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/Email Député Guilbault AE — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure
+  — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/Reddit Data API Wiki — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/Skills as self-operators — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/The Ballad of the Witches'' Road — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/WIP recruso paper — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/gaga gisease lyrics — Source Note]]'
 ---
 
 # Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)

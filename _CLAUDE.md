@@ -1,3 +1,30 @@
+---
+type: agent-instructions
+title: EMERAULD Vault — Second Brain Operating Rules
+aliases:
+- EMERAULD Vault — Second Brain Operating Rules
+- _CLAUDE
+tags:
+- agents
+- ai
+- agent-instructions
+- claude-md
+- lavoie
+- section
+- save
+- yyyy
+- emerauld
+- color-orange
+status: active
+created: '2026-06-26'
+updated: '2026-06-26'
+vault_area: _CLAUDE.md
+canonical_path: _CLAUDE.md
+backlink_count: 1
+backlinks:
+- '[[index]]'
+---
+
 # EMERAULD Vault — Second Brain Operating Rules
 
 > This file is read by obsidian-second-brain before any vault operation.
@@ -141,3 +168,62 @@ Every time a note is created or significantly updated, write one line to `_vault
 ```
 YYYY-MM-DD | [[Note Title]] | one-sentence summary of what was added and why it matters
 ```
+
+---
+
+## Section 9 — Vault Identity
+
+- **Owner:** Martin Lepage, PhD — AI governance consultant + solo developer
+- **Contact:** ml@pharos-ai.ca (professional) · martinlepage.ai@gmail.com (personal, never surfaced)
+- **Purpose:** Personal knowledge base + PHAROS governance product proof-of-concept + academic writing substrate
+- **Vault root:** `/home/martin/EMERAULD`
+- **Last updated:** 2026-06-29
+
+---
+
+## Section 10 — Verify Live State Before Acting
+
+Before declaring a bug, drafting a fix, or writing architecture: read the actual code, schema, deployed branch, env, or live data. Speculation from stale context produces drafts that contradict reality.
+
+- Read the schema or types before declaring a bug — real field names live in the code, not in memory
+- `git fetch origin` and check the deployed branch, not local main
+- Grep the live file before any anchor-based patch
+- Fetch live dates and rates — never infer from training data
+- Verify env vars in the running process before blaming code
+
+---
+
+## Section 11 — Auto-Save Rules
+
+**Save automatically (no prompt needed):**
+- Decisions made in conversation → relevant project note + `memory/daily/YYYY-MM-DD.md`
+- Notes created or significantly updated → `_vault/VAULT ADDITIONS TRACKER.md` (same response)
+- Architecture or ADR content → wiki architecture note, link from daily log
+- Dev work or script changes → `Logs/YYYY-MM-DD.md` entry + architecture notes if applicable
+
+**Ask before saving:**
+- Anything touching `memory/clients/` (client-sensitive)
+- Anything touching `assets/invoices/` or financial documents
+- Archiving or deleting existing notes
+- Creating a new top-level directory
+
+---
+
+## Section 12 — Active Context
+
+*Update this section at the start of each major work sprint.*
+
+**Current top priorities (as of 2026-06-29):**
+1. Gumroad listing publish — copy ready at `artifacts/marketplace/promo/gumroad-listing.md`; upload zip is `assets/obsidian-agent-vault-2026-06-29.zip`; manual browser action remaining
+2. HELIX outreach — EU AI Act window closes 2026-08-02 (34 days); send one message to Humania or Koios; draft in [[wiki/HELIX — Value Proposition and Buyer Profile]]
+3. GAIA soft launch — v1.6 built, 39/39 tests pass; name 10 people, send TestFlight/APK
+
+**Key people:**
+| Person | Role |
+|--------|------|
+| Patricia | Martin's sister; relay at Groupe Lavoie (collects A1–A5 gates from Israël + Guillaume) |
+| Israël Lavoie | Groupe Lavoie — grand patron |
+| Guillaume Lavoie | Groupe Lavoie — co-owner, signs gate A5 |
+| Jade | Base44 developer; handoff at `Lavoie/jade-base44-handoff.md` |
+
+**Lavoie disambiguation:** `memory/clients/Lavoie Construct.md` = April 2026 excavation SOP client (different entity). `Areas/Lavoie/AREA.md` = Groupe Lavoie (SOS Plomberie, Excavations Lavoie, GVI). Do not conflate.

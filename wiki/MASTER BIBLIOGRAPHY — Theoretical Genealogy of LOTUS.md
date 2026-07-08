@@ -1,14 +1,54 @@
 ---
 type: wiki
+title: MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS
 aliases:
-  - MASTER BIBLIOGRAPHY
-  - LOTUS theoretical genealogy
-  - PhD-to-PHAROS lineage
-  - Theoretical lineage of LOTUS
-tags: [LOTUS, theoretical-genealogy, bibliography, methodological-isomorphism, performativity, agency, intersectionality, recognition, authenticity, governmentality]
+- MASTER BIBLIOGRAPHY
+- LOTUS theoretical genealogy
+- PhD-to-PHAROS lineage
+- Theoretical lineage of LOTUS
+- wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS
+tags:
+- lotus
+- theoretical-genealogy
+- bibliography
+- methodological-isomorphism
+- performativity
+- agency
+- intersectionality
+- recognition
+- authenticity
+- governmentality
+- wiki
+- master-bibliography-theoretical-genealogy-of-lotus-md
+- theoretical
+- lines
+- queer
+- color-teal
 status: active
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS.md
+backlink_count: 18
+backlinks:
+- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
+- '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[wiki/LOTUS Premium Spec]]'
+- '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
+- '[[wiki/Queer Sociology of Magic and Ritual]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[projects/LOTUS — Fisher King Project State]]'
 ---
 
 # MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS

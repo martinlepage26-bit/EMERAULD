@@ -1,10 +1,46 @@
 ---
 type: wiki
-aliases: ["Big Data's Disparate Impact", "Barocas and Selbst 2016 disparate impact"]
-tags: [reference, ai-governance, discrimination, fairness, law, title-vii, data-mining, disparate-impact]
+title: Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)
+aliases:
+- Big Data's Disparate Impact
+- Barocas and Selbst 2016 disparate impact
+- wiki/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)
+tags:
+- reference
+- ai-governance
+- discrimination
+- fairness
+- law
+- title-vii
+- data-mining
+- disparate-impact
+- wiki
+- big-data-s-disparate-impact-barocas-selbst-2016-title-vii-data-mining-md
+- disparate
+- datas
+- impact
+- mining
+- proxies
+- color-blue
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII,
+  data mining).md
+backlink_count: 10
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
+  2024]]'
+- '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)

@@ -1,9 +1,33 @@
 ---
 type: skill
+title: codex-review
+aliases:
+- skills/codex-review
+- wiki/skills/codex-review
+tags:
+- skill
+- wiki
+- skills
+- regressions
+- tuned
+- hooks
+- correctness
+- break
+- color-orange
+status: active
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/codex-review.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[wiki/skills/codex-hooks]]'
+- '[[wiki/skills/prompt-engineering]]'
+- '[[wiki/skills/test-detect]]'
 skill_id: codex-review
 scope: meta
-status: active
-created: 2026-05-06
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md
 ---
 

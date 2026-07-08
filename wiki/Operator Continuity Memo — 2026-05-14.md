@@ -1,10 +1,34 @@
 ---
 type: wiki
-aliases: []
-tags: [memo, operator, continuity, clients, 2026-05-14]
+title: Operator Continuity Memo — 2026-05-14
+aliases:
+- Operator Continuity Memo — 2026-05-14
+- wiki/Operator Continuity Memo — 2026-05-14
+tags:
+- memo
+- operator
+- continuity
+- clients
+- '2026-05-14'
+- wiki
+- operator-continuity-memo-2026-05-14-md
+- exterminationdg
+- lost
+- france
+- immediate
+- client
+- color-orange
 status: active
-created: 2026-05-14
-updated: 2026-05-14
+created: '2026-05-14'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Operator Continuity Memo — 2026-05-14.md
+backlink_count: 4
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Operator Continuity Memo — 2026-05-14

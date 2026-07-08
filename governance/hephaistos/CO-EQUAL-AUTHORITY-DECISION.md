@@ -1,3 +1,43 @@
+---
+type: governance-doc
+title: Co-Equal Authority Decision — Hephaistos / Queen Keyport
+aliases:
+- Co-Equal Authority Decision — Hephaistos / Queen Keyport
+- governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- veto
+- arbitration
+- directive
+- wave
+- scope
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION.md
+backlink_count: 9
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
+  (2026-04-18)]]'
+- '[[governance/governance-index]]'
+- '[[governance/hephaistos/CLAUDE]]'
+- '[[governance/hephaistos/COUNTER-AUDIT-IMPLEMENTATION]]'
+- '[[governance/hephaistos/INTEGRATION-PROGRESS]]'
+- '[[governance/hephaistos/bias-testing-protocol]]'
+- '[[governance/hephaistos/hephaistos-to-specialist-guideline-pull]]'
+- '[[governance/hephaistos/right-arm-veto-authority]]'
+entity_type: Decision
+entity_id: coequal_authority_decision
+entity_aliases: []
+entity_confidence: high
+---
+
 # Co-Equal Authority Decision — Hephaistos / Queen Keyport
 
 **Status:** Binding decision. Supersedes prior Tier 0 / Tier 1 hierarchy framing.

@@ -1,3 +1,25 @@
+---
+type: discarded-note
+title: Design Your Agent Architecture
+aliases:
+- .trash/Design Your Agent Architecture
+tags:
+- archive
+- agents
+- discarded-note
+- trash
+- design-your-agent-architecture-md
+status: discarded
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: .trash
+canonical_path: .trash/Design Your Agent Architecture.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
+---
+
 Overview
 
 As a Praxis AI Associate Consultant working on the Innovate Logistics engagement, you need to create a systematic architecture analysis that demonstrates your mastery of agent design principles. This activity focuses on their specific logistics challenges, allowing you to practice architectural decision-making using professional frameworks and templates.

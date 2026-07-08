@@ -1,3 +1,29 @@
+---
+type: archive-record
+title: 'PHAROS Invention Disclosure — Filing Facts: Known and Open'
+aliases:
+- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN
+tags:
+- archive
+- pharos
+- archive-record
+- pharos-invention-disclosure-bundle-sources-2026-04-25
+- disclosure
+- bundle
+- inventor
+- filing
+- counsel
+- color-green
+status: archived
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # PHAROS Invention Disclosure — Filing Facts: Known and Open
 
 See also [[The Circle Remains Open Toward a Queer Sociology of the Sacred (2)]].

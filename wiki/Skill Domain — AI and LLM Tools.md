@@ -1,13 +1,43 @@
 ---
 type: wiki
+title: Skill Domain — AI and LLM Tools
 aliases:
-  - AI and LLM Tools domain
-  - AI tools skills domain
-  - LLM integration hub
-tags: [skills, domain, hub, ai, llm, tools, mcp, integration, emerging-techniques]
+- AI and LLM Tools domain
+- AI tools skills domain
+- LLM integration hub
+- wiki/Skill Domain — AI and LLM Tools
+tags:
+- skills
+- domain
+- hub
+- ai
+- llm
+- tools
+- mcp
+- integration
+- emerging-techniques
+- wiki
+- skill-domain-ai-and-llm-tools-md
+- playwright
+- techniques
+- decoding
+- usage
+- servers
+- color-teal
 status: active
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Skill Domain — AI and LLM Tools.md
+backlink_count: 7
+backlinks:
+- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/MCP and Runtime Integration MOC]]'
+- '[[wiki/Skill Domain — Design and UX]]'
+- '[[wiki/Skill Domain — Vault and Knowledge]]'
+- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Skill Domain — AI and LLM Tools

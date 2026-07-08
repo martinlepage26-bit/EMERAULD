@@ -1,10 +1,38 @@
 ---
 type: wiki
-aliases: []
-tags: [personal, self-care, rhythm, productivity]
+title: Rest and Consolidation Guide — Martin
+aliases:
+- Rest and Consolidation Guide — Martin
+- wiki/Rest and Consolidation Guide — Martin
+tags:
+- personal
+- self-care
+- rhythm
+- productivity
+- wiki
+- rest-and-consolidation-guide-martin-md
+- rest
+- consolidation
+- tired
+- apologizing
+- guide
+- color-pink
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Rest and Consolidation Guide — Martin.md
+backlink_count: 9
+backlinks:
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
+- '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
+- '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
+- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[raw/Clippings/Storyteller and AI]]'
 ---
 
 # Rest and Consolidation Guide — Martin

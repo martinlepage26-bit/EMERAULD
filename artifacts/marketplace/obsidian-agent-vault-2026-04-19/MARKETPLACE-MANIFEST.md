@@ -1,3 +1,30 @@
+---
+type: artifact
+title: Marketplace Manifest
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-MANIFEST
+tags:
+- artifact
+- agents
+- artifacts
+- marketplace
+- guide
+- readme
+- obsidian
+- templates
+- color-orange
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-MANIFEST.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Obsidian Agent Vault — Asset Canon]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # Marketplace Manifest
 
 Product: Obsidian Agent Vault

@@ -1,3 +1,35 @@
+---
+type: wiki
+title: Brutal Isms — Art Grant Proposal
+aliases:
+- Brutal Isms — Art Grant Proposal
+- wiki/Brutal Isms — Art Grant Proposal
+tags:
+- wiki
+- brutal-isms-art-grant-proposal-md
+- studio
+- sculpture
+- exhibition
+- film
+- artistic
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Brutal Isms — Art Grant Proposal.md
+backlink_count: 8
+backlinks:
+- '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
+- '[[wiki/Brutal Isms — Grant Revision Package (2026-05-12)]]'
+- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[wiki/Home]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Martin Lepage — Skills by Life Domain]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[maps/Novel Corpus Map]]'
+---
+
 # Brutal Isms — Art Grant Proposal
 
 ## Summary

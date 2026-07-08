@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "audit"
-domain: "Governance and Authority"
+title: audit
+aliases:
+- skills/audit
+- wiki/skills/audit
+tags:
+- skill
+- wiki
+- skills
+- freshness
+- schemas
+- audit
+- codex
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/audit/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/audit.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+skill_id: audit
+domain: Governance and Authority
+codex_path: /home/cerebrhoe/.codex/skills/audit/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

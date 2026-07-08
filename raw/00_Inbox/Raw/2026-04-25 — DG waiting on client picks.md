@@ -1,9 +1,30 @@
 ---
 type: raw-capture
-created: 2026-04-25
+title: GD waiting on client picks
+aliases:
+- raw/00_Inbox/Raw/2026-04-25 — DG waiting on client picks
+tags:
+- inbox
+- raw
+- client
+- gd
+- raw-capture
+- 00-inbox
+- waiting
+- pick
+- slip
+- sitting
+- color-lime
 status: synthesized
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/00_Inbox/Raw/2026-04-25 — DG waiting on client picks.md
+backlink_count: 1
+backlinks:
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source
+  Note]]'
 synthesized_into: memory/clients/ExterminationDG.md
-tags: [inbox, raw, client, gd]
 ---
 
 # GD waiting on client picks

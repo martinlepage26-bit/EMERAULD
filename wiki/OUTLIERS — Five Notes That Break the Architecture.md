@@ -1,10 +1,42 @@
 ---
 type: wiki
-aliases: ["stale artifacts", "unresolved projects", "isolated references", "pre-governance work"]
-tags: [meta-analysis, vault coherence, governance gap, abandoned initiatives]
+title: OUTLIERS — Five Notes That Break the Architecture
+aliases:
+- stale artifacts
+- unresolved projects
+- isolated references
+- pre-governance work
+- wiki/OUTLIERS — Five Notes That Break the Architecture
+tags:
+- meta-analysis
+- vault-coherence
+- governance-gap
+- abandoned-initiatives
+- wiki
+- outliers-five-notes-that-break-the-architecture-md
+- outlier
+- outliers
+- reddit
+- backlinks
+- plugin
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/OUTLIERS — Five Notes That Break the Architecture.md
+backlink_count: 10
+backlinks:
+- '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
+- '[[wiki/Governance Controls Integration Dashboard]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[wiki/Plugin Recommendations]]'
+- '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
 ---
 
 # OUTLIERS — Five Notes That Break the Architecture

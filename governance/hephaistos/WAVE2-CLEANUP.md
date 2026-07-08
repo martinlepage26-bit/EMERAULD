@@ -1,3 +1,32 @@
+---
+type: governance-doc
+title: Wave 2 Cleanup Tasks
+aliases:
+- Wave 2 Cleanup Tasks
+- governance/hephaistos/WAVE2-CLEANUP
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- tier
+- wave
+- pairings
+- equal
+- scope
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/WAVE2-CLEANUP.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Supersession Registry]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+---
+
 > **HISTORICAL DOCUMENT — Pre-Wave-1 Architecture (superseded 2026-04-17)**
 > Contains Tier 0/Tier 1/Tier 2 hierarchy language that does not reflect the current co-equal authority model.
 > Binding authority: `CO-EQUAL-AUTHORITY-DECISION.md`, `AGENTS.md`, `HEPHAISTOS.md`, `QUEEN-KEYPORT.md`, `ORCHESTRATION.md`.

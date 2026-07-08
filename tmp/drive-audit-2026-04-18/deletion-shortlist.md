@@ -1,3 +1,29 @@
+---
+type: note
+title: Drive G — Ranked Deletion Shortlist
+aliases:
+- tmp/drive-audit-2026-04-18/deletion-shortlist
+tags:
+- note
+- tmp
+- drive-audit-2026-04-18
+- copie
+- delete
+- gdoc
+- negligible
+- drive
+- color-green
+status: temporary
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: tmp
+canonical_path: tmp/drive-audit-2026-04-18/deletion-shortlist.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Writing and Novels MOC]]'
+- '[[assets/D-drive-dedup-report-2026-04-21]]'
+---
+
 # Drive G — Ranked Deletion Shortlist
 Generated: 2026-04-18
 

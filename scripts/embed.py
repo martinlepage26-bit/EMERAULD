@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build the EMERAULD local vector store from wiki/, maps/, and projects/ notes.
+Build the EMERAULD local vector store from wiki/, maps/, projects/, and graph/ notes.
 Embeddings are saved to .vector_store/ (numpy matrix + path index).
 
 Usage:
@@ -21,7 +21,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 from lightrag_config import VAULT_ROOT, get_embed_model
 
-CORPUS_DIRS = ["wiki", "maps", "projects"]
+CORPUS_DIRS = ["wiki", "maps", "projects", "graph"]
 STORE_DIR = VAULT_ROOT / ".vector_store"
 EMBED_FILE = STORE_DIR / "embeddings.npy"
 PATHS_FILE = STORE_DIR / "paths.json"

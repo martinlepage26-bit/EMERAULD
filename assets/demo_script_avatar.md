@@ -1,3 +1,31 @@
+---
+type: asset
+title: Obsidian Agent Vault — Demo Script (Avatar Version)
+aliases:
+- assets/demo_script_avatar
+tags:
+- asset
+- agents
+- assets
+- demo-script-avatar-md
+- agent
+- nine
+- knows
+- minutes
+- obsidian
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: assets
+canonical_path: assets/demo_script_avatar.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Obsidian Agent Vault — Launch Kit]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # Obsidian Agent Vault — Demo Script (Avatar Version)
 
 Target: 2.5–3 minutes. Paced for ElevenLabs text-to-video.

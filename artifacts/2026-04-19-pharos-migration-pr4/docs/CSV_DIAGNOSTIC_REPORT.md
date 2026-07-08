@@ -1,3 +1,32 @@
+---
+type: artifact
+title: PHAROS Archive — CSV Diagnostic Report
+aliases:
+- artifacts/2026-04-19-pharos-migration-pr4/docs/CSV_DIAGNOSTIC_REPORT
+tags:
+- artifact
+- pharos
+- archive
+- artifacts
+- 2026-04-19-pharos-migration-pr4
+- hits
+- keyword
+- topology
+- paragraphs
+- color-green
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/2026-04-19-pharos-migration-pr4/docs/CSV_DIAGNOSTIC_REPORT.md
+backlink_count: 4
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]'
+---
+
 # PHAROS Archive — CSV Diagnostic Report
 See also [[Governance and PHAROS MOC]].
 **Generated:** 2026-04-19  

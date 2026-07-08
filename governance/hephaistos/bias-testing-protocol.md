@@ -1,3 +1,32 @@
+---
+type: governance-doc
+title: Bias Testing Protocol
+aliases:
+- Bias Testing Protocol
+- governance/hephaistos/bias-testing-protocol
+tags:
+- governance
+- ai
+- hephaistos
+- governance-doc
+- bias
+- promotion
+- block
+- category
+- exempt
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: governance
+canonical_path: governance/hephaistos/bias-testing-protocol.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION]]'
+---
+
 # Bias Testing Protocol
 
 ## Purpose

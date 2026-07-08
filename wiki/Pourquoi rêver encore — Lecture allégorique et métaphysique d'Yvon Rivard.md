@@ -1,3 +1,46 @@
+---
+type: wiki
+title: Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard
+aliases:
+- Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard
+- wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard
+tags:
+- wiki
+- pourquoi-r-ver-encore-lecture-all-gorique-et-m-taphysique-d-yvon-rivard-md
+- essay
+- rivard
+- spiritual
+- transfiguration
+- situated
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon
+  Rivard.md
+backlink_count: 17
+backlinks:
+- '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
+- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[wiki/Home]]'
+- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[wiki/Novel and Creative Corpus]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/Pourquoi Rever Encore — Version Genealogy]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
+- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+---
+
 # Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard
 
 ## Summary

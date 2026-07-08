@@ -1,10 +1,42 @@
 ---
 type: wiki
-aliases: [Robinson seminar evaluation, Phenom-Herme-Heuri critique, Moustakas heuristics critique]
-tags: [qualitative-research, phenomenology, hermeneutics, heuristics, methodology, critique, Moustakas, Husserl, Gadamer, Ricoeur, Giorgi]
+title: Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique
+aliases:
+- Robinson seminar evaluation
+- Phenom-Herme-Heuri critique
+- Moustakas heuristics critique
+- wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique
+tags:
+- qualitative-research
+- phenomenology
+- hermeneutics
+- heuristics
+- methodology
+- critique
+- moustakas
+- husserl
+- gadamer
+- ricoeur
+- giorgi
+- wiki
+- phenomenology-hermeneutics-heuristics-robinson-1996-seminar-critique-md
+- robinson
+- heuristic
+- seminar
+- color-blue
 status: active
-created: 2026-04-20
-updated: 2026-04-20
+created: '2026-04-20'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar
+  Critique.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique

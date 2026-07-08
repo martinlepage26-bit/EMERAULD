@@ -1,6 +1,34 @@
 ---
-aliases: [VAULT-LINKING-GAPS-2026-05-01]
+type: wiki
+title: Vault Linking Gaps & Bridge Opportunities — 2026-05-01
+aliases:
+- VAULT-LINKING-GAPS-2026-05-01
+- wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01
+tags:
+- wiki
+- bridge
+- vault-linking-gaps-bridge-opportunities-2026-05-01-md
+- bridges
+- care
+- papers
+- topic
+- color-teal
+status: active
+created: '2026-05-01'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01.md
+backlink_count: 7
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 ---
+
 # Vault Linking Gaps & Bridge Opportunities — 2026-05-01
 
 ## Major Cluster Statistics

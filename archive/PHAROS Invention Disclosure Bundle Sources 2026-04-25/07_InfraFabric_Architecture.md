@@ -1,3 +1,30 @@
+---
+type: archive-record
+title: InfraFabric Architecture
+aliases:
+- archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture
+tags:
+- archive
+- pharos
+- archive-record
+- pharos-invention-disclosure-bundle-sources-2026-04-25
+- canon
+- explainer
+- current
+- infrafabric
+- switchboard
+- color-green
+status: archived
+created: '2026-04-25'
+updated: '2026-06-26'
+vault_area: archive
+canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/InfraFabric Architecture]]'
+---
+
 # InfraFabric Architecture
 
 See also [[Governance and PHAROS MOC]].

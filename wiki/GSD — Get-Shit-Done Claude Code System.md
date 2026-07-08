@@ -1,10 +1,40 @@
 ---
 type: wiki
-aliases: [GSD, get-shit-done, context rot, meta-prompting]
-tags: [tooling, claude-code, context-management, codex]
+title: GSD — Get-Shit-Done Claude Code System
+aliases:
+- GSD
+- get-shit-done
+- context rot
+- meta-prompting
+- wiki/GSD — Get-Shit-Done Claude Code System
+tags:
+- tooling
+- claude-code
+- context-management
+- codex
+- wiki
+- gsd-get-shit-done-claude-code-system-md
+- shit
+- claude
+- done
+- codebase
+- initialize
+- color-orange
 status: active
-created: 2026-04-18
-updated: 2026-04-18
+created: '2026-04-18'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/GSD — Get-Shit-Done Claude Code System.md
+backlink_count: 8
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Claude Code Skill Corpus]]'
+- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
 ---
 
 # GSD — Get-Shit-Done Claude Code System

@@ -1,13 +1,48 @@
 ---
 type: doctrine
+title: Delta Closure Frame — Conditions, Actors, Constraints
 aliases:
-  - Delta closure frame
-  - Closing deltas
-  - Delta closure
-  - Named actors under named constraints
-tags: [pharos, governance, method, deltas, agency, operations, constraints]
+- Delta closure frame
+- Closing deltas
+- Delta closure
+- Named actors under named constraints
+- wiki/Delta Closure Frame — Conditions, Actors, Constraints
+tags:
+- pharos
+- governance
+- method
+- deltas
+- agency
+- operations
+- constraints
+- doctrine
+- wiki
+- delta-closure-frame-conditions-actors-constraints-md
+- delta
+- condition
+- movement
+- actors
+- labor
+- color-purple
 status: active
-created: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Delta Closure Frame — Conditions, Actors, Constraints.md
+backlink_count: 12
+backlinks:
+- '[[wiki/Evidence Discipline and Epistemics]]'
+- '[[wiki/Governance Controls and Mechanisms]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PHAROS Evidentiary Gap Closure Bundle]]'
+- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
+- '[[wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
+- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Delta Closure Frame — Conditions, Actors, Constraints

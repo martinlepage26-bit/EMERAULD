@@ -1,3 +1,35 @@
+---
+type: version-genealogy
+title: Pagan Magic — Version Genealogy
+aliases:
+- Pagan Magic — Version Genealogy
+- wiki/Pagan Magic — Version Genealogy
+tags:
+- pagan
+- magic
+- version-genealogy
+- wiki
+- pagan-magic-version-genealogy-md
+- words
+- queering
+- neopagan
+- color-violet
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Pagan Magic — Version Genealogy.md
+backlink_count: 7
+backlinks:
+- '[[wiki/Home]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
+- '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
+- '[[wiki/Version Genealogy System]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+---
+
 # Pagan Magic — Version Genealogy
 
 ## Summary

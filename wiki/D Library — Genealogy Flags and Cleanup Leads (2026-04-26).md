@@ -1,10 +1,36 @@
 ---
 type: wiki
-aliases: ["D Library cleanup leads", "D:\\LIBRARY genealogy flags"]
-tags: [library, intake, genealogy, metadata, cleanup]
+title: D Library — Genealogy Flags and Cleanup Leads (2026-04-26)
+aliases:
+- D Library cleanup leads
+- D:\LIBRARY genealogy flags
+- wiki/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)
+tags:
+- library
+- intake
+- genealogy
+- metadata
+- cleanup
+- wiki
+- d-library-genealogy-flags-and-cleanup-leads-2026-04-26-md
+- unreadable
+- flags
+- rename
+- color-purple
 status: active
-created: 2026-04-26
-updated: 2026-04-26
+created: '2026-04-26'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/D Library — Genealogy Flags and Cleanup Leads (2026-04-26).md
+backlink_count: 7
+backlinks:
+- '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
+- '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
+- '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
 ---
 
 # D Library — Genealogy Flags and Cleanup Leads (2026-04-26)

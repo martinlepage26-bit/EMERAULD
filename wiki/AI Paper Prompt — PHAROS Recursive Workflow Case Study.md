@@ -1,10 +1,38 @@
 ---
 type: wiki
-aliases: [AI Paper Prompt, PHAROS Paper Prompt, Recursive Workflow Paper Prompt]
-tags: [prompting, ai-paper, research, pharos, governance]
+title: AI Paper Prompt — PHAROS Recursive Workflow Case Study
+aliases:
+- AI Paper Prompt
+- PHAROS Paper Prompt
+- Recursive Workflow Paper Prompt
+- wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study
+tags:
+- prompting
+- ai-paper
+- research
+- pharos
+- governance
+- wiki
+- ai-paper-prompt-pharos-recursive-workflow-case-study-md
+- chronology
+- prompt
+- paper
+- workflow
+- cross
+- color-blue
 status: active
-created: 2026-04-16
-updated: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study.md
+backlink_count: 6
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
+- '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[tmp/drive-audit-2026-04-18/summary]]'
 ---
 
 # AI Paper Prompt — PHAROS Recursive Workflow Case Study

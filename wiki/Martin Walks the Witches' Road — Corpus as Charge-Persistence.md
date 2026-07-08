@@ -1,10 +1,65 @@
 ---
 type: wiki
-aliases: ["Witches' Road corpus doctrine", "charge-persistence recomposition", "cartographer and traveler"]
-tags: [corpus, methodology, pharos, witches-road, charge-persistence, recomposition]
+title: Martin Walks the Witches' Road — Corpus as Charge-Persistence
+aliases:
+- Witches' Road corpus doctrine
+- charge-persistence recomposition
+- cartographer and traveler
+- wiki/Martin Walks the Witches' Road — Corpus as Charge-Persistence
+tags:
+- corpus
+- methodology
+- pharos
+- witches-road
+- charge-persistence
+- recomposition
+- wiki
+- martin-walks-the-witches-road-corpus-as-charge-persistence-md
+- charge
+- road
+- witches
+- sort
+- agency
+- color-purple
 status: active
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Martin Walks the Witches' Road — Corpus as Charge-Persistence.md
+backlink_count: 32
+backlinks:
+- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
+- '[[wiki/Authority Without Ethics — The Love Witch]]'
+- '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
+- '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
+- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[wiki/Dr. Sort Corpus Map — March 2026]]'
+- '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
+- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[wiki/Literary References in Common English — Allusion and Idiom Guide]]'
+- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Media Studies and Pop Culture Analysis]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/PHAROS — Origin and Doctrine]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Recursive Governance Theory]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
+- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[assets/elemental-agents/ttrpg-repack/BRAND-DECISION]]'
+- '[[assets/elemental-agents/ttrpg-repack/manuscript/_audit_dimension-F-2026-05-24]]'
 ---
 
 # Martin Walks the Witches' Road — Corpus as Charge-Persistence

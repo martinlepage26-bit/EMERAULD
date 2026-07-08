@@ -1,10 +1,58 @@
 ---
 type: map
+title: Disability Epistemology and Institutional Critique
 aliases:
-  - TOPIC — Disability Epistemology and Institutional Critique
-tags: [index, map, topic, disability, stuttering, epistemology, institutional, governance]
-created: 2026-05-01
-updated: 2026-05-01
+- TOPIC — Disability Epistemology and Institutional Critique
+- wiki/Disability Epistemology and Institutional Critique
+tags:
+- index
+- map
+- topic
+- disability
+- stuttering
+- epistemology
+- institutional
+- governance
+- wiki
+- disability-epistemology-and-institutional-critique-md
+- fluency
+- disabled
+- glitch
+- color-purple
+status: active
+created: '2026-05-01'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Disability Epistemology and Institutional Critique.md
+backlink_count: 27
+backlinks:
+- '[[wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
+- '[[wiki/Authority Without Power-Over]]'
+- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Fluency and Interruption Theory]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/Legal and Institutional Cases]]'
+- '[[wiki/Machine Limitation]]'
+- '[[wiki/Martin Lepage Professional Identity]]'
+- '[[wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Queer Theory Foundations]]'
+- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[archive/session-state/session-state-002]]'
+- '[[memory]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/daily/2026-05-02]]'
+- '[[raw/Clippings/AI Recruiting Has an Accessibility Problem]]'
 ---
 
 # Disability Epistemology and Institutional Critique

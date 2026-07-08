@@ -1,13 +1,42 @@
 ---
 type: source-note
+title: Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source
+  Note
 aliases:
-  - Cloudflare Workers Build Source Note 2026-05-13
-tags: [raw-source, ingest, provenance, 2026-05-13]
+- Cloudflare Workers Build Source Note 2026-05-13
+- wiki/raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26
+  Account Source Note
+tags:
+- raw-source
+- ingest
+- provenance
+- '2026-05-13'
+- source-note
+- wiki
+- raw-sources
+- workers
+- cluster
+- compute
+- martinlepage
+- cbecd
+- color-lime
 status: active
-created: 2026-05-13
-updated: 2026-05-13
-source_raw_path: "raw/Clippings/Build  Compute  Workers & Pages  Martinlepage26@me.com's Account.md"
-source_report: "raw/intake-report-20260513.json"
+created: '2026-05-13'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/raw-sources/2026-05-13/Build - Compute - Workers and Pages -
+  Martinlepage26 Account Source Note.md
+backlink_count: 6
+backlinks:
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'
+- '[[wiki/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[wiki/archive/Orphan Index — Raw Sources — 2026-05-06]]'
+- '[[session-state]]'
+source_raw_path: raw/Clippings/Build  Compute  Workers & Pages  Martinlepage26@me.com's
+  Account.md
+source_report: raw/intake-report-20260513.json
 ---
 
 # Build | Compute | Workers & Pages | Martinlepage26@me.com's Account — Source Note

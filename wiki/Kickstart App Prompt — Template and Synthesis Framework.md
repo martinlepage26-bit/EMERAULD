@@ -1,10 +1,34 @@
 ---
 type: wiki
-aliases: []
-tags: [prompt-engineering, templates, app-building, knowledge-synthesis]
+title: Kickstart App Prompt — Template and Synthesis Framework
+aliases:
+- Kickstart App Prompt — Template and Synthesis Framework
+- wiki/Kickstart App Prompt — Template and Synthesis Framework
+tags:
+- prompt-engineering
+- templates
+- app-building
+- knowledge-synthesis
+- wiki
+- kickstart-app-prompt-template-and-synthesis-framework-md
+- kickstart
+- awesome
+- project
+- template
+- docsort
+- color-orange
 status: active
-created: 2026-05-31
-updated: 2026-05-31
+created: '2026-05-31'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Kickstart App Prompt — Template and Synthesis Framework.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
+- '[[wiki/Home]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
 ---
 
 # Kickstart App Prompt — Template and Synthesis Framework

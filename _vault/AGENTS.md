@@ -1,3 +1,37 @@
+---
+type: agent-instructions
+title: Memory Context
+aliases:
+- Memory Context
+- _vault/AGENTS
+tags:
+- agents
+- agent-instructions
+- vault
+- agents-md
+- perplexity
+- computer
+- hermes
+- softinfo
+- tracker
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: _vault
+canonical_path: _vault/AGENTS.md
+backlink_count: 8
+backlinks:
+- '[[CLAUDE]]'
+- '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Workspace Cleanup Ledger — 2026-05-31]]'
+- '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
+- '[[governance/governance-index]]'
+- '[[governance/hephaistos/HEPHAISTOS]]'
+---
+
 <!-- Durable Codex/Claude/Perplexity Computer workspace instructions for /mnt/c/Users/softinfo/Documents/EMERAULD. Promoted 2026-05-06; Perplexity seat noted 2026-05-08. -->
 
 <claude-mem-context>

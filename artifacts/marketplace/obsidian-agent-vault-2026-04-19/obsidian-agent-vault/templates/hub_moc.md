@@ -1,3 +1,31 @@
+---
+type: artifact
+title: '[Domain] MOC'
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_moc
+tags:
+- artifact
+- ai
+- agents
+- moc
+- artifacts
+- marketplace
+- navigation
+- orient
+- archive
+- spans
+- description
+- color-orange
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_moc.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # [Domain] MOC
 
 > Map of Content - a navigation page that links to everything in one domain.

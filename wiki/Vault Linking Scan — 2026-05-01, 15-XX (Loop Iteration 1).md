@@ -1,6 +1,32 @@
 ---
-aliases: [VAULT-SCAN-2026-05-01-15m-LOOP-1, "Vault Linking Scan — 2026-05-01, 15:XX (Loop Iteration 1)"]
+type: wiki
+title: Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)
+aliases:
+- VAULT-SCAN-2026-05-01-15m-LOOP-1
+- Vault Linking Scan — 2026-05-01, 15:XX (Loop Iteration 1)
+- wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)
+tags:
+- wiki
+- intake
+- vault-linking-scan-2026-05-01-15-xx-loop-iteration-1-md
+- legitimacy
+- iteration
+- cluster
+- authority
+- deeper
+- color-teal
+status: active
+created: '2026-05-01'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1).md
+backlink_count: 3
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 ---
+
 # Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)
 
 See also [[Legitimacy Machines MOC]].

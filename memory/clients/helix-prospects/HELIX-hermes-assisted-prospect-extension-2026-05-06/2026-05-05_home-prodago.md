@@ -1,11 +1,30 @@
 ---
 type: raw-source
-source_url: https://prodago.com/
 title: Home | Prodago
-date: 2026-05-05
-scraped: 2026-05-05
-content_type: web
+aliases:
+- memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-prodago
+tags:
+- raw-source
+- memory
+- clients
+- prodago
+- playbooks
+- regulations
+- laws
+- platform
+- color-purple
 status: unsynthesized
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: memory
+canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-prodago.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Governance and PHAROS MOC]]'
+source_url: https://prodago.com/
+date: '2026-05-05'
+scraped: '2026-05-05'
+content_type: web
 ---
 
 # Home | Prodago

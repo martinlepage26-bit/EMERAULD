@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "tdd-feature-loop"
-domain: "Development and Testing"
+title: tdd-feature-loop
+aliases:
+- skills/tdd-feature-loop
+- wiki/skills/tdd-feature-loop
+tags:
+- skill
+- wiki
+- skills
+- feature
+- lints
+- loop
+- codex
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/tdd-feature-loop/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/tdd-feature-loop.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Development and Testing]]'
+skill_id: tdd-feature-loop
+domain: Development and Testing
+codex_path: /home/cerebrhoe/.codex/skills/tdd-feature-loop/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

@@ -1,11 +1,54 @@
 ---
 type: proof-packet
-tags: [pharos, commercial, procurement, proof-packet, hermes, public-surface]
+title: PHAROS External Proof Packet — Procurement-Unblock 2026-04-28
 aliases:
-  - PHAROS External Proof Packet
+- PHAROS External Proof Packet
+- wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28
+tags:
+- pharos
+- commercial
+- procurement
+- proof-packet
+- hermes
+- public-surface
+- wiki
+- pharos-external-proof-packet-procurement-unblock-2026-04-28-md
+- executive
+- sprint
+- enterprise
+- packet
+- color-purple
 status: draft-ready
-created: 2026-04-28
-updated: 2026-04-28
+created: '2026-04-28'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28.md
+backlink_count: 24
+backlinks:
+- '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
+- '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
+- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Home]]'
+- '[[wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
+- '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
+- '[[wiki/PHAROS SURFACE]]'
+- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
+- '[[wiki/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
+- '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[hephaistos/personal-assistant-agents/listing-creative-director/references/method]]'
+- '[[hephaistos/personal-assistant-agents/offer-pricing-architect/references/method]]'
+- '[[memory]]'
+- '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_complogyx-sovereign-ai-compliance]]'
+- '[[memory/daily/2026-04-28]]'
+- '[[projects/PHAROS — Fisher King Project State]]'
 ---
 
 # PHAROS External Proof Packet — Procurement-Unblock 2026-04-28

@@ -1,3 +1,30 @@
+---
+type: artifact
+title: raw/
+aliases:
+- artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/README
+tags:
+- artifact
+- agents
+- raw
+- artifacts
+- marketplace
+- transcriptions
+- anything
+- dumps
+- regularly
+- growing
+- color-orange
+status: preserved
+created: '2026-04-19'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/README.md
+backlink_count: 1
+backlinks:
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+---
+
 # raw/
 
 See also [[Writing and Novels MOC]].

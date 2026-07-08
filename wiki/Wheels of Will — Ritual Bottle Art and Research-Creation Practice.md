@@ -1,13 +1,40 @@
 ---
 type: wiki
+title: Wheels of Will — Ritual Bottle Art and Research-Creation Practice
 aliases:
-  - Wheels of Will
-  - Wheels-of-Will
-  - Wheels of Will bottle photographs
-tags: [art, ritual, research-creation, legitimacy, martin-lepage]
+- Wheels of Will
+- Wheels-of-Will
+- Wheels of Will bottle photographs
+- wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice
+tags:
+- art
+- ritual
+- research-creation
+- legitimacy
+- martin-lepage
+- wiki
+- wheels-of-will-ritual-bottle-art-and-research-creation-practice-md
+- bottle
+- sealed
+- photographs
+- mediation
+- wheels
+- color-blue
 status: active
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice.md
+backlink_count: 8
+backlinks:
+- '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Phase 1 Governance Formation Sequence]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
+- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 ---
 
 # Wheels of Will — Ritual Bottle Art and Research-Creation Practice

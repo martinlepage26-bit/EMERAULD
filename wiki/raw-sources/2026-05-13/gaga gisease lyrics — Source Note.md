@@ -1,11 +1,35 @@
 ---
 type: source-note
-tags: [raw-source, ingest, provenance, 2026-05-13]
+title: gaga gisease lyrics — Source Note
+aliases:
+- raw-sources/2026-05-13/gaga gisease lyrics — Source Note
+- wiki/raw-sources/2026-05-13/gaga gisease lyrics — Source Note
+tags:
+- raw-source
+- ingest
+- provenance
+- '2026-05-13'
+- source-note
+- wiki
+- raw-sources
+- gisease
+- cluster
+- gaga
+- lyrics
+- lyric
+- color-lime
 status: active
-created: 2026-05-13
-updated: 2026-05-13
-source_raw_path: "raw/Clippings/gaga gisease lyrics.md"
-source_report: "raw/intake-report-20260513.json"
+created: '2026-05-13'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/raw-sources/2026-05-13/gaga gisease lyrics — Source Note.md
+backlink_count: 3
+backlinks:
+- '[[.graph_store/graph_report]]'
+- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'
+source_raw_path: raw/Clippings/gaga gisease lyrics.md
+source_report: raw/intake-report-20260513.json
 ---
 
 # gaga gisease lyrics — Source Note

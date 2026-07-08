@@ -1,10 +1,28 @@
 ---
 type: wiki
-aliases: []
-tags: []
+title: Wiki Note
+aliases:
+- templates/Wiki Note
+tags:
+- wiki
+- templates
+- wiki-note-md
+- ideas
+- projects
+- contextual
+- inline
+- ongoing
+- color-lime
 status: active
-created: {{date}}
-updated: {{date}}
+created: '{{date}}'
+updated: '2026-06-26'
+vault_area: templates
+canonical_path: templates/Wiki Note.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Control Protocols MOC]]'
+- '[[wiki/Manuscript Pipeline MOC]]'
+- '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 ---
 
 # {{title}}

@@ -1,13 +1,30 @@
 ---
-title: "{{title}}"
-created: "{{date}}"
 type: raw-capture
-status: unprocessed
-source: "{{source}}"
-para_candidate: unknown
+title: '{{title}}'
+aliases:
+- templates/Raw Capture Template
 tags:
-  - inbox
-  - raw
+- inbox
+- raw
+- raw-capture
+- templates
+- raw-capture-template-md
+- para
+- suggested
+- destination
+- topics
+- quick
+- color-lime
+status: unprocessed
+created: '{{date}}'
+updated: '2026-06-26'
+vault_area: templates
+canonical_path: templates/Raw Capture Template.md
+backlink_count: 1
+backlinks:
+- '[[hephaistos/personal-assistant-agents/trismegiste/vault/raw/README]]'
+source: '{{source}}'
+para_candidate: unknown
 ---
 
 # {{title}}

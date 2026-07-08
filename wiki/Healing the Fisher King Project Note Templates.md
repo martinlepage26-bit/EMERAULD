@@ -1,3 +1,31 @@
+---
+type: wiki
+title: Healing the Fisher King Project Note Templates
+aliases:
+- Healing the Fisher King Project Note Templates
+- wiki/Healing the Fisher King Project Note Templates
+tags:
+- wiki
+- healing-the-fisher-king-project-note-templates-md
+- fisher
+- king
+- heal
+- project
+- perceval
+- color-orange
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Healing the Fisher King Project Note Templates.md
+backlink_count: 5
+backlinks:
+- '[[wiki/Master Project Tracker — 2026]]'
+- '[[wiki/Personal and Projects MOC]]'
+- '[[wiki/Projects Hub]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[session-state]]'
+---
 
 ## Status
 active

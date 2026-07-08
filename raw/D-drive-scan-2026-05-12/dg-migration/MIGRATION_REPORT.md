@@ -1,3 +1,30 @@
+---
+type: raw-source
+title: DG Clean Migration Report
+aliases:
+- raw/D-drive-scan-2026-05-12/dg-migration/MIGRATION_REPORT
+tags:
+- raw
+- intake
+- raw-source
+- d-drive-scan-2026-05-12
+- destination
+- migration
+- files
+- mismatches
+- clean
+- color-lime
+status: preserved
+created: '2026-05-12'
+updated: '2026-06-26'
+vault_area: raw
+canonical_path: raw/D-drive-scan-2026-05-12/dg-migration/MIGRATION_REPORT.md
+backlink_count: 2
+backlinks:
+- '[[wiki/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
+- '[[wiki/Research and Papers MOC]]'
+---
+
 # DG Clean Migration Report
 
 ## Run context

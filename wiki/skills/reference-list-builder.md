@@ -1,10 +1,31 @@
 ---
 type: skill
-skill_id: "reference-list-builder"
-domain: "Creative and Writing"
+title: reference-list-builder
+aliases:
+- skills/reference-list-builder
+- wiki/skills/reference-list-builder
+tags:
+- skill
+- wiki
+- skills
+- converter
+- bibliogr
+- builder
+- bibliographies
+- color-orange
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/reference-list-builder/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/reference-list-builder.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Research and Scholarly Work]]'
+- '[[wiki/Skill Domain — Writing and Humanization]]'
+skill_id: reference-list-builder
+domain: Creative and Writing
+codex_path: /home/cerebrhoe/.codex/skills/reference-list-builder/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

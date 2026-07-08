@@ -1,14 +1,45 @@
 ---
 type: wiki
+title: Supply Chain Enforcement — Secondary Pressure on AI System Vendors
 aliases:
-  - AI Vendor Due Diligence
-  - Secondary Compliance Pressure
-  - Customer-Driven Enforcement
-  - Dual-Pressure Model
-tags: [pharos, regulatory, supply-chain, vendor-management, eu-ai-act, law-25, trust-advantage, outreach, arbitrage]
+- AI Vendor Due Diligence
+- Secondary Compliance Pressure
+- Customer-Driven Enforcement
+- Dual-Pressure Model
+- wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors
+tags:
+- pharos
+- regulatory
+- supply-chain
+- vendor-management
+- eu-ai-act
+- law-25
+- trust-advantage
+- outreach
+- arbitrage
+- wiki
+- supply-chain-enforcement-secondary-pressure-on-ai-system-vendors-md
+- vendor
+- questionnaire
+- vendors
+- diligence
+- customers
+- color-red
 status: active
 created: 2026-05-01T18:00
-updated: 2026-05-01T18:00
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors.md
+backlink_count: 8
+backlinks:
+- '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
+- '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
+- '[[wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[maps/PHAROS Method Map]]'
 ---
 
 # Supply Chain Enforcement — Secondary Pressure on AI System Vendors

@@ -1,10 +1,38 @@
 ---
 type: wiki
-aliases: ["PHAROS Commercial Brief Pre-Launch", "Inspector Leaving draft"]
-tags: [pharos, commercial, governance, version-genealogy, compliance]
+title: PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)
+aliases:
+- PHAROS Commercial Brief Pre-Launch
+- Inspector Leaving draft
+- wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)
+tags:
+- pharos
+- commercial
+- governance
+- version-genealogy
+- compliance
+- wiki
+- pharos-commercial-brief-pre-launch-draft-q2-2026-md
+- launch
+- days
+- inspector
+- deployed
+- brief
+- color-lime
 status: archived-draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026).md
+backlink_count: 7
+backlinks:
+- '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[session-state]]'
 ---
 
 # PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)

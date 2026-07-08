@@ -1,6 +1,54 @@
 ---
+type: wiki
+title: Healthcare Governance Packet — Recursive Governance for Providers
 aliases:
-  - Healthcare Governance Packet
+- Healthcare Governance Packet
+- wiki/Healthcare Governance Packet — Recursive Governance for Providers
+tags:
+- wiki
+- recursion
+- governance
+- healthcare-governance-packet-recursive-governance-for-providers-md
+- healthcare
+- pass
+- discharge
+- blocked
+- clinical
+- color-purple
+status: active
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Healthcare Governance Packet — Recursive Governance for Providers.md
+backlink_count: 26
+backlinks:
+- '[[wiki/AI Governance Failure Cases]]'
+- '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
+- '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
+- '[[wiki/Care, Ethics, and Governance]]'
+- '[[wiki/Consent and Boundary Frameworks]]'
+- '[[wiki/Disability Epistemology and Institutional Critique]]'
+- '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
+- '[[wiki/Governance and PHAROS MOC]]'
+- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
+- '[[wiki/Healthcare Packet — Version Genealogy]]'
+- '[[wiki/Home]]'
+- '[[wiki/LOTUS Model and Agency]]'
+- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
+  Laval, 2010)]]'
+- '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
+- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
+- '[[wiki/September 2024 Research Retrospective]]'
+- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[maps/PHAROS Method Map]]'
 ---
 
 # Healthcare Governance Packet — Recursive Governance for Providers

@@ -1,6 +1,40 @@
 ---
-aliases: [VAULT-CLUSTER-DISCOVERY-2026-05-01]
+type: wiki
+title: Vault Cluster Discovery and Linking Opportunities — 2026-05-01
+aliases:
+- VAULT-CLUSTER-DISCOVERY-2026-05-01
+- wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01
+tags:
+- wiki
+- vault-cluster-discovery-and-linking-opportunities-2026-05-01-md
+- topic
+- consent
+- authority
+- fluency
+- papers
+- color-teal
+status: active
+created: '2026-05-01'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01.md
+backlink_count: 13
+backlinks:
+- '[[wiki/AI Infrastructure Stack]]'
+- '[[wiki/Home]]'
+- '[[wiki/Legitimacy Machines MOC]]'
+- '[[wiki/Obsidian Second Brain Product]]'
+- '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[archive/session-state/session-state-001]]'
+- '[[memory/agents/Decisions]]'
+- '[[memory/agents/Events]]'
+- '[[memory/agents/Journal]]'
+- '[[memory/agents/Learning]]'
+- '[[memory/daily/2026-05-02]]'
 ---
+
 # Vault Cluster Discovery and Linking Opportunities — 2026-05-01
 
 See also [[Legitimacy Machines MOC]].

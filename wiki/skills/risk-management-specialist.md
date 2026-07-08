@@ -1,10 +1,30 @@
 ---
 type: skill
-skill_id: "risk-management-specialist"
-domain: "Governance and Authority"
+title: risk-management-specialist
+aliases:
+- skills/risk-management-specialist
+- wiki/skills/risk-management-specialist
+tags:
+- skill
+- wiki
+- skills
+- specialist
+- management
+- risk
+- package
+- color-purple
 status: active
-created: 2026-05-06
-codex_path: "/home/cerebrhoe/.codex/skills/risk-management-specialist/SKILL.md"
+created: '2026-05-06'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/skills/risk-management-specialist.md
+backlink_count: 2
+backlinks:
+- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[wiki/Skill Domain — Governance and Method]]'
+skill_id: risk-management-specialist
+domain: Governance and Authority
+codex_path: /home/cerebrhoe/.codex/skills/risk-management-specialist/SKILL.md
 source_of_truth: /home/cerebrhoe/.codex/skills
 ---
 

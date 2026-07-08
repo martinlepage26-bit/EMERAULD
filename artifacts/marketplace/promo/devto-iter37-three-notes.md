@@ -1,3 +1,31 @@
+---
+type: artifact
+title: The 3 Notes Every AI-Assisted Project Needs Before the First Session
+aliases:
+- artifacts/marketplace/promo/devto-iter37-three-notes
+tags:
+- artifact
+- ai
+- artifacts
+- marketplace
+- projectname
+- session
+- project
+- minutes
+- guides
+- color-orange
+status: preserved
+created: '2026-06-21'
+updated: '2026-06-26'
+vault_area: artifacts
+canonical_path: artifacts/marketplace/promo/devto-iter37-three-notes.md
+backlink_count: 3
+backlinks:
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
+- '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
+---
+
 # The 3 Notes Every AI-Assisted Project Needs Before the First Session
 
 **Platform:** Dev.to

@@ -1,10 +1,50 @@
 ---
 type: wiki
-aliases: [Qualitative Handbook, Expanded Qualitative Reference, Qualitative Methods Handbook]
-tags: [qualitative-methods, research, bibliography, intersectionality, ethnography, discourse, ritual, queer-theory]
+title: Qualitative Handbook — Expanded Reference List
+aliases:
+- Qualitative Handbook
+- Expanded Qualitative Reference
+- Qualitative Methods Handbook
+- wiki/Qualitative Handbook — Expanded Reference List
+tags:
+- qualitative-methods
+- research
+- bibliography
+- intersectionality
+- ethnography
+- discourse
+- ritual
+- queer-theory
+- wiki
+- qualitative-handbook-expanded-reference-list-md
+- inductive
+- qualitative
+- queer
+- color-teal
 status: active
-created: 2026-04-16
-updated: 2026-04-16
+created: '2026-04-16'
+updated: '2026-06-26'
+vault_area: wiki
+canonical_path: wiki/Qualitative Handbook — Expanded Reference List.md
+backlink_count: 16
+backlinks:
+- '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
+- '[[wiki/Academic Paper Pipeline]]'
+- '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
+- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[wiki/MASTER PACK — D Drive Archive Map]]'
+- '[[wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
+- '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
+- '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[wiki/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou
+  haitien à Montréal-Nord)]]'
+- '[[wiki/Pagan and Queer Ritual Studies MOC]]'
+- '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
+- '[[wiki/Research and Papers MOC]]'
+- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[wiki/The Golden Bough — Frazer (Magic, Religion, Regicide)]]'
+- '[[wiki/Writing and Novels MOC]]'
+- '[[wiki/skills/qualitative]]'
 ---
 
 # Qualitative Handbook — Expanded Reference List
