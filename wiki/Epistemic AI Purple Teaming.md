@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/Epistemic AI Purple Teaming.md
 backlink_count: 6
 backlinks:
-- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'

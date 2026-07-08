@@ -6,7 +6,6 @@ aliases:
 - Closing deltas
 - Delta closure
 - Named actors under named constraints
-- wiki/Delta Closure Frame — Conditions, Actors, Constraints
 tags:
 - pharos
 - governance
@@ -16,7 +15,7 @@ tags:
 - operations
 - constraints
 - doctrine
-- wiki
+- areas
 - delta-closure-frame-conditions-actors-constraints-md
 - delta
 - condition
@@ -27,8 +26,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Delta Closure Frame — Conditions, Actors, Constraints.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints.md
 backlink_count: 12
 backlinks:
 - '[[Resources/Evidence Discipline and Epistemics]]'

@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
-- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'
 - '[[wiki/Governance Controls and Mechanisms]]'

@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/Paper Planes — M.I.A. — Lyrics.md
 backlink_count: 10
 backlinks:
-- '[[wiki/Disease — Lady Gaga — Lyrics]]'
+- '[[Resources/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

@@ -22,7 +22,7 @@ canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/MA
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/D Drive Scan — 2026-05-12]]'
+- '[[archive/wiki-2026-07-08/D Drive Scan — 2026-05-12]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/GAP-pr4-server-spec-alignment]]'

@@ -24,7 +24,7 @@ vault_area: wiki
 canonical_path: wiki/PHAROS Workspace Inventory 2026-04-18.md
 backlink_count: 13
 backlinks:
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[wiki/Martin Lepage Professional Identity]]'

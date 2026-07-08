@@ -4,7 +4,6 @@ title: Documents and Downloads Coverage Matrix — 2026-05-06
 aliases:
 - Documents and Downloads coverage matrix
 - C drive coverage matrix
-- wiki/Documents and Downloads Coverage Matrix — 2026-05-06
 tags:
 - coverage
 - intake
@@ -13,7 +12,7 @@ tags:
 - raw-sources
 - provenance
 - map
-- wiki
+- archive
 - documents-and-downloads-coverage-matrix-2026-05-06-md
 - desktop
 - scan
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Documents and Downloads Coverage Matrix — 2026-05-06.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06.md
 backlink_count: 6
 backlinks:
 - '[[wiki/Documents and Downloads Scan — 2026-05-06]]'

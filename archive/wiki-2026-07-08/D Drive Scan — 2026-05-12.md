@@ -3,9 +3,8 @@ type: wiki
 title: D Drive Scan — 2026-05-12
 aliases:
 - D Drive Scan — 2026-05-12
-- wiki/D Drive Scan — 2026-05-12
 tags:
-- wiki
+- archive
 - intake
 - d-drive-scan-2026-05-12-md
 - migration
@@ -17,15 +16,13 @@ tags:
 status: active
 created: '2026-05-12'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/D Drive Scan — 2026-05-12.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/D Drive Scan — 2026-05-12.md
 backlink_count: 11
 backlinks:
-- '[[wiki/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
-- '[[wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia
-  — Draft Snapshot (2026-05-10)]]'
-- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
-  (2026-05-12)]]'
+- '[[archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
+- '[[wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]]'
+- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'

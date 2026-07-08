@@ -24,7 +24,7 @@ backlink_count: 13
 backlinks:
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/D Drive Scan — 2026-05-12]]'
+- '[[archive/wiki-2026-07-08/D Drive Scan — 2026-05-12]]'
 - '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

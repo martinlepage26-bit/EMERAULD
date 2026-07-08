@@ -27,7 +27,7 @@ canonical_path: wiki/The Ballad of the Witches' Road — Lyrics.md
 backlink_count: 15
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[wiki/Disease — Lady Gaga — Lyrics]]'
+- '[[Resources/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'

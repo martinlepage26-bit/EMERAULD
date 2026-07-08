@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[Areas/PHAROS/Chrome Extension Monetization - Policy and Product Options]]'
 - '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
-- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
 - '[[wiki/EMERAULD]]'
 - '[[wiki/Governed Self-Improvement — Method Slide Asset]]'
 - '[[wiki/Home]]'

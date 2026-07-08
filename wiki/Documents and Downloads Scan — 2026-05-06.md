@@ -26,8 +26,8 @@ vault_area: wiki
 canonical_path: wiki/Documents and Downloads Scan — 2026-05-06.md
 backlink_count: 6
 backlinks:
-- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Home]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'

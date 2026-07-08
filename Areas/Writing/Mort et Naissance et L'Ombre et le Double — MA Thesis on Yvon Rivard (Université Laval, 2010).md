@@ -39,7 +39,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
-- '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
+- '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Governance Controls and Mechanisms]]'

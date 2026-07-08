@@ -215,6 +215,21 @@
     "source_path": "Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md"
   },
   {
+    "source": "Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance",
+    "target": "CONSENT",
+    "source_path": "Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance.md"
+  },
+  {
+    "source": "Areas/PHAROS/Consent, Fraud, and Boundary Protocols",
+    "target": "2019 - HOW TO COMPLETE THE RECORD OF EMPLOYMENT,.pdf - 2019 - HOW TO C - 2019 - HOW TO COMPLETE THE",
+    "source_path": "Areas/PHAROS/Consent, Fraud, and Boundary Protocols.md"
+  },
+  {
+    "source": "Areas/PHAROS/Consent, Fraud, and Boundary Protocols",
+    "target": "PPTC 054 E Adult Simplified Renewal Passport Application for Eligible Canadians Applying in Canada o",
+    "source_path": "Areas/PHAROS/Consent, Fraud, and Boundary Protocols.md"
+  },
+  {
     "source": "Areas/PHAROS/Control Protocols MOC",
     "target": "Responses API Fundamentals___",
     "source_path": "Areas/PHAROS/Control Protocols MOC.md"
@@ -338,6 +353,11 @@
     "source": "Areas/PHAROS/Control Protocols MOC",
     "target": "BOWIE-DUE",
     "source_path": "Areas/PHAROS/Control Protocols MOC.md"
+  },
+  {
+    "source": "Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill",
+    "target": "HISTORY",
+    "source_path": "Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill.md"
   },
   {
     "source": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
@@ -2128,6 +2148,26 @@
     "source": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
     "target": "Complete Paper List — Martin Lepage",
     "source_path": "Areas/Writing/Complete Paper List — Martin Lepage Corpus.md"
+  },
+  {
+    "source": "Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14",
+    "target": "raw/Clippings/Alchimie et Histoire des Sciences",
+    "source_path": "Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14.md"
+  },
+  {
+    "source": "Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14",
+    "target": "Ritual Authority and Régime de Preuve",
+    "source_path": "Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14.md"
+  },
+  {
+    "source": "Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14",
+    "target": "raw/Clippings/The Ballad of the Witches' Road",
+    "source_path": "Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14.md"
+  },
+  {
+    "source": "Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14",
+    "target": "Ritual Authority and Régime de Preuve",
+    "source_path": "Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14.md"
   },
   {
     "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
@@ -5775,6 +5815,11 @@
     "source_path": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md"
   },
   {
+    "source": "Resources/Disease — Lady Gaga — Lyrics",
+    "target": "gaga gisease lyrics",
+    "source_path": "Resources/Disease — Lady Gaga — Lyrics.md"
+  },
+  {
     "source": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)",
     "target": "2018 - religions",
     "source_path": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender).md"
@@ -6093,6 +6138,11 @@
     "source": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)",
     "target": "DocSort — Setup & Reference",
     "source_path": "archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04).md"
+  },
+  {
+    "source": "archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)",
+    "target": "MIGRATION_REPORT",
+    "source_path": "archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12).md"
   },
   {
     "source": "archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist",
@@ -7828,56 +7878,6 @@
     "source": "Charge & Circle — Four-Pivot Decision Map (2026-05-24)",
     "target": "Alchemy of the Wound",
     "source_path": "wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24).md"
-  },
-  {
-    "source": "Consent Frameworks — Historical, Legal, Social, and AI Governance",
-    "target": "CONSENT",
-    "source_path": "wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance.md"
-  },
-  {
-    "source": "Consent, Fraud, and Boundary Protocols",
-    "target": "2019 - HOW TO COMPLETE THE RECORD OF EMPLOYMENT,.pdf - 2019 - HOW TO C - 2019 - HOW TO COMPLETE THE",
-    "source_path": "wiki/Consent, Fraud, and Boundary Protocols.md"
-  },
-  {
-    "source": "Consent, Fraud, and Boundary Protocols",
-    "target": "PPTC 054 E Adult Simplified Renewal Passport Application for Eligible Canadians Applying in Canada o",
-    "source_path": "wiki/Consent, Fraud, and Boundary Protocols.md"
-  },
-  {
-    "source": "Cultural and Lyric Corpus Memo — 2026-05-14",
-    "target": "raw/Clippings/Alchimie et Histoire des Sciences",
-    "source_path": "wiki/Cultural and Lyric Corpus Memo — 2026-05-14.md"
-  },
-  {
-    "source": "Cultural and Lyric Corpus Memo — 2026-05-14",
-    "target": "Ritual Authority and Régime de Preuve",
-    "source_path": "wiki/Cultural and Lyric Corpus Memo — 2026-05-14.md"
-  },
-  {
-    "source": "Cultural and Lyric Corpus Memo — 2026-05-14",
-    "target": "raw/Clippings/The Ballad of the Witches' Road",
-    "source_path": "wiki/Cultural and Lyric Corpus Memo — 2026-05-14.md"
-  },
-  {
-    "source": "Cultural and Lyric Corpus Memo — 2026-05-14",
-    "target": "Ritual Authority and Régime de Preuve",
-    "source_path": "wiki/Cultural and Lyric Corpus Memo — 2026-05-14.md"
-  },
-  {
-    "source": "DG Clean Migration Report — C to D Transfer Verification (2026-05-12)",
-    "target": "MIGRATION_REPORT",
-    "source_path": "wiki/DG Clean Migration Report — C to D Transfer Verification (2026-05-12).md"
-  },
-  {
-    "source": "Diamond-Eyes — Aesthetic Refinement Skill",
-    "target": "HISTORY",
-    "source_path": "wiki/Diamond-Eyes — Aesthetic Refinement Skill.md"
-  },
-  {
-    "source": "Disease — Lady Gaga — Lyrics",
-    "target": "gaga gisease lyrics",
-    "source_path": "wiki/Disease — Lady Gaga — Lyrics.md"
   },
   {
     "source": "Dr. Sort Corpus Map — March 2026",

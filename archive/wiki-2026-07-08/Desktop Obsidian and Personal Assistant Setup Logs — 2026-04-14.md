@@ -27,8 +27,8 @@ canonical_path: archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant 
 backlink_count: 5
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Desktop Text Intake — 2026-05-06]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

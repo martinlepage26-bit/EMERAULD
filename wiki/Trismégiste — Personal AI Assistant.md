@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
 - '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
   (2026-05-12)]]'

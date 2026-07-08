@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06.md
 backlink_count: 11
 backlinks:
-- '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'
+- '[[Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'

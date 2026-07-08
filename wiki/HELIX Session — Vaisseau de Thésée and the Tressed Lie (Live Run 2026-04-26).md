@@ -35,8 +35,8 @@ canonical_path: wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie 
 backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
   (2026-05-07)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'

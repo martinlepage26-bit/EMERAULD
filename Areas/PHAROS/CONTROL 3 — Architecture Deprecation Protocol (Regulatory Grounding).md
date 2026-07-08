@@ -25,7 +25,7 @@ backlinks:
 - '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'

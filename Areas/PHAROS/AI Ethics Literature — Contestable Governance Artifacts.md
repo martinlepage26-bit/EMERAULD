@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
-- '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
+- '[[Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'

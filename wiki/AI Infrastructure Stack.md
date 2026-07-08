@@ -35,7 +35,7 @@ backlinks:
 - '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
 - '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
-- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
 - '[[wiki/Documents and Downloads Scan — 2026-05-06]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'

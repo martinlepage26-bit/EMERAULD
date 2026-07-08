@@ -27,7 +27,7 @@ backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Governance Controls and Mechanisms]]'

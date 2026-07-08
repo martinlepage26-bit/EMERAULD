@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'

@@ -28,8 +28,8 @@ canonical_path: wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPH
 backlink_count: 7
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Desktop Text Intake — 2026-05-06]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'

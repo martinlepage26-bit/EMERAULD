@@ -32,7 +32,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT]]'
 - '[[Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'

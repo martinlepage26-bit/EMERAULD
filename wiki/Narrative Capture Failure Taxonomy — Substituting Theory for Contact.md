@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
   (2026)]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'

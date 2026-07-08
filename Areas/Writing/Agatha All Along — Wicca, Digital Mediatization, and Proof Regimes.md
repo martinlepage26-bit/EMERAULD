@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'

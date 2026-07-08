@@ -27,7 +27,7 @@ canonical_path: wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, p
   send — Source Note.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Operator Continuity Memo — 2026-05-14]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
 source_raw_path: raw/00_Inbox/Raw/2026-04-25 — Stop coding, clean, package, send.md

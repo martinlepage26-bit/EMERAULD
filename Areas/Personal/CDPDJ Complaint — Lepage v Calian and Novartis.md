@@ -25,7 +25,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
+- '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
 - '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'

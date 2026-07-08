@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

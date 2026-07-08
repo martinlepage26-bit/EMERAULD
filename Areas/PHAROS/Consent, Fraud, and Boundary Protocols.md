@@ -3,9 +3,8 @@ type: wiki
 title: Consent, Fraud, and Boundary Protocols
 aliases:
 - Consent, Fraud, and Boundary Protocols
-- wiki/Consent, Fraud, and Boundary Protocols
 tags:
-- wiki
+- areas
 - consent-fraud-and-boundary-protocols-md
 - fraud
 - consent
@@ -16,14 +15,14 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Consent, Fraud, and Boundary Protocols.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Consent, Fraud, and Boundary Protocols.md
 backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
-- '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
+- '[[Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

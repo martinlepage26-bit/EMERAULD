@@ -30,7 +30,7 @@ backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
-- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'

@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/LOTUS Model — Agency and Social Positioning]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

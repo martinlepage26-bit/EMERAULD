@@ -4,7 +4,6 @@ title: Desktop and Downloads Scan — 2026-05-12
 aliases:
 - Desktop/Downloads scan 2026-05-12
 - C drive delta scan 2026-05-12
-- wiki/Desktop and Downloads Scan — 2026-05-12
 tags:
 - intake
 - desktop
@@ -13,7 +12,7 @@ tags:
 - helix
 - legal
 - intake-index
-- wiki
+- archive
 - desktop-and-downloads-scan-2026-05-12-md
 - housing
 - scan
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-05-12'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Desktop and Downloads Scan — 2026-05-12.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12.md
 backlink_count: 8
 backlinks:
 - '[[Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12)]]'

@@ -28,7 +28,7 @@ canonical_path: Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Propo
 backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

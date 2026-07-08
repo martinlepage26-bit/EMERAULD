@@ -28,8 +28,8 @@ backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
   (2026)]]'
-- '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
-- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
+- '[[Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
+- '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'

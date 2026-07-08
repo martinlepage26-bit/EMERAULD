@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Fluency, Interruption, and Institutional Accountability]]'

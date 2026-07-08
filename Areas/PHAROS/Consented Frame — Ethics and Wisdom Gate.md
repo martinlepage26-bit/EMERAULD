@@ -5,7 +5,6 @@ aliases:
 - Consented Frame
 - Ethics and Wisdom Gate
 - Diamond-Eyes gate (legacy)
-- wiki/Consented Frame — Ethics and Wisdom Gate
 tags:
 - governance
 - gate
@@ -13,7 +12,7 @@ tags:
 - wisdom
 - care
 - pharos
-- wiki
+- areas
 - consented-frame-ethics-and-wisdom-gate-md
 - consented
 - diamond
@@ -23,15 +22,15 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Consented Frame — Ethics and Wisdom Gate.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Consented Frame — Ethics and Wisdom Gate.md
 backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/Anti-Charm]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
-- '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
+- '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
 - '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'

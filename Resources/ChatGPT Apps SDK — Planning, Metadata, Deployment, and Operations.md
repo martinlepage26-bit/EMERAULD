@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'

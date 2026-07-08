@@ -3,7 +3,6 @@ type: index
 title: Documents Root Loose Files Intake — 2026-04-28
 aliases:
 - Documents Root Loose Files Intake — 2026-04-28
-- wiki/Documents Root Loose Files Intake — 2026-04-28
 tags:
 - vault-intake
 - raw-sources
@@ -11,7 +10,7 @@ tags:
 - provenance
 - pharos
 - index
-- wiki
+- archive
 - documents-root-loose-files-intake-2026-04-28-md
 - tracker
 - protocols
@@ -22,15 +21,15 @@ tags:
 status: active
 created: '2026-04-28'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Documents Root Loose Files Intake — 2026-04-28.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28.md
 backlink_count: 33
 backlinks:
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'

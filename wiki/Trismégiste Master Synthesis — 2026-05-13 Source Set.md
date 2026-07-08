@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[wiki/Operator Continuity Memo — 2026-05-14]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'

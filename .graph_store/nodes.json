@@ -183,6 +183,22 @@
     "backlinks": 11
   },
   {
+    "id": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform",
+    "title": "Contremaître — Groupe Lavoie Field-Operations Platform",
+    "path": "Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Contremaitre",
+      "Contremaître",
+      "PHAROS FieldOps",
+      "lavoie-fieldops"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 6,
+    "backlinks": 14
+  },
+  {
     "id": "Areas/PHAROS/2026-06-29 - idea-discovery",
     "title": "2026-06-29 - idea-discovery",
     "path": "Areas/PHAROS/2026-06-29 - idea-discovery.md",
@@ -837,6 +853,50 @@
     "backlinks": 9
   },
   {
+    "id": "Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance",
+    "title": "Consent Frameworks — Historical, Legal, Social, and AI Governance",
+    "path": "Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "consent and power",
+      "consent philosophy",
+      "governance consent",
+      "informed consent"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 9,
+    "backlinks": 22
+  },
+  {
+    "id": "Areas/PHAROS/Consent, Fraud, and Boundary Protocols",
+    "title": "Consent, Fraud, and Boundary Protocols",
+    "path": "Areas/PHAROS/Consent, Fraud, and Boundary Protocols.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Consent, Fraud, and Boundary Protocols"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 10,
+    "backlinks": 26
+  },
+  {
+    "id": "Areas/PHAROS/Consented Frame — Ethics and Wisdom Gate",
+    "title": "Consented Frame — Ethics and Wisdom Gate",
+    "path": "Areas/PHAROS/Consented Frame — Ethics and Wisdom Gate.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Consented Frame",
+      "Diamond-Eyes gate (legacy)",
+      "Ethics and Wisdom Gate"
+    ],
+    "outlinks": 2,
+    "unique_outlinks": 2,
+    "backlinks": 13
+  },
+  {
     "id": "Areas/PHAROS/Control Protocols MOC",
     "title": "Control Protocols MOC",
     "path": "Areas/PHAROS/Control Protocols MOC.md",
@@ -848,6 +908,65 @@
     "outlinks": 39,
     "unique_outlinks": 39,
     "backlinks": 29
+  },
+  {
+    "id": "Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster",
+    "title": "Custom GPT Products — PHAROS AI GPT Roster",
+    "path": "Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Custom GPT Digital Products List",
+      "GPT Roster",
+      "PHAROS AI GPT Products"
+    ],
+    "outlinks": 27,
+    "unique_outlinks": 17,
+    "backlinks": 17
+  },
+  {
+    "id": "Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
+    "title": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
+    "path": "Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "evidence discipline convergence",
+      "governance-consent-eml synthesis",
+      "three-language and three-layer bridge"
+    ],
+    "outlinks": 32,
+    "unique_outlinks": 17,
+    "backlinks": 15
+  },
+  {
+    "id": "Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints",
+    "title": "Delta Closure Frame — Conditions, Actors, Constraints",
+    "path": "Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints.md",
+    "type": "doctrine",
+    "status": "active",
+    "aliases": [
+      "Closing deltas",
+      "Delta closure",
+      "Delta closure frame",
+      "Named actors under named constraints"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 9,
+    "backlinks": 23
+  },
+  {
+    "id": "Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill",
+    "title": "Diamond-Eyes — Aesthetic Refinement Skill",
+    "path": "Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Diamond-Eyes"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 10,
+    "backlinks": 71
   },
   {
     "id": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
@@ -1852,6 +1971,45 @@
     "backlinks": 54
   },
   {
+    "id": "Areas/Writing/Crossing Under Watch — Troll's Toll and Digital Ritual Passage",
+    "title": "Crossing Under Watch — Troll's Toll and Digital Ritual Passage",
+    "path": "Areas/Writing/Crossing Under Watch — Troll's Toll and Digital Ritual Passage.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Crossing Under Watch — Troll's Toll and Digital Ritual Passage"
+    ],
+    "outlinks": 16,
+    "unique_outlinks": 10,
+    "backlinks": 21
+  },
+  {
+    "id": "Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14",
+    "title": "Cultural and Lyric Corpus Memo — 2026-05-14",
+    "path": "Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Cultural and Lyric Corpus Memo — 2026-05-14"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 8,
+    "backlinks": 6
+  },
+  {
+    "id": "Areas/Writing/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)",
+    "title": "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)",
+    "path": "Areas/Writing/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 4,
+    "backlinks": 9
+  },
+  {
     "id": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
     "title": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
     "path": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation.md",
@@ -2595,23 +2753,6 @@
     "backlinks": 13
   },
   {
-    "id": "Consent Frameworks — Historical, Legal, Social, and AI Governance",
-    "title": "Consent Frameworks — Historical, Legal, Social, and AI Governance",
-    "path": "wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "consent and power",
-      "consent philosophy",
-      "governance consent",
-      "informed consent",
-      "wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 9,
-    "backlinks": 22
-  },
-  {
     "id": "Consent and Boundary Frameworks",
     "title": "Consent and Boundary Frameworks",
     "path": "wiki/Consent and Boundary Frameworks.md",
@@ -2624,157 +2765,6 @@
     "outlinks": 43,
     "unique_outlinks": 40,
     "backlinks": 162
-  },
-  {
-    "id": "Consent, Fraud, and Boundary Protocols",
-    "title": "Consent, Fraud, and Boundary Protocols",
-    "path": "wiki/Consent, Fraud, and Boundary Protocols.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Consent, Fraud, and Boundary Protocols",
-      "wiki/Consent, Fraud, and Boundary Protocols"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 10,
-    "backlinks": 26
-  },
-  {
-    "id": "Consented Frame — Ethics and Wisdom Gate",
-    "title": "Consented Frame — Ethics and Wisdom Gate",
-    "path": "wiki/Consented Frame — Ethics and Wisdom Gate.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Consented Frame",
-      "Diamond-Eyes gate (legacy)",
-      "Ethics and Wisdom Gate",
-      "wiki/Consented Frame — Ethics and Wisdom Gate"
-    ],
-    "outlinks": 2,
-    "unique_outlinks": 2,
-    "backlinks": 13
-  },
-  {
-    "id": "Contremaître — Groupe Lavoie Field-Operations Platform",
-    "title": "Contremaître — Groupe Lavoie Field-Operations Platform",
-    "path": "wiki/Contremaître — Groupe Lavoie Field-Operations Platform.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Contremaitre",
-      "Contremaître",
-      "PHAROS FieldOps",
-      "lavoie-fieldops"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 6,
-    "backlinks": 14
-  },
-  {
-    "id": "Crossing Under Watch — Troll's Toll and Digital Ritual Passage",
-    "title": "Crossing Under Watch — Troll's Toll and Digital Ritual Passage",
-    "path": "wiki/Crossing Under Watch — Troll's Toll and Digital Ritual Passage.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Crossing Under Watch — Troll's Toll and Digital Ritual Passage",
-      "wiki/Crossing Under Watch — Troll's Toll and Digital Ritual Passage"
-    ],
-    "outlinks": 16,
-    "unique_outlinks": 10,
-    "backlinks": 21
-  },
-  {
-    "id": "Cultural and Lyric Corpus Memo — 2026-05-14",
-    "title": "Cultural and Lyric Corpus Memo — 2026-05-14",
-    "path": "wiki/Cultural and Lyric Corpus Memo — 2026-05-14.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Cultural and Lyric Corpus Memo — 2026-05-14",
-      "wiki/Cultural and Lyric Corpus Memo — 2026-05-14"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 8,
-    "backlinks": 6
-  },
-  {
-    "id": "Custom GPT Products — PHAROS AI GPT Roster",
-    "title": "Custom GPT Products — PHAROS AI GPT Roster",
-    "path": "wiki/Custom GPT Products — PHAROS AI GPT Roster.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Custom GPT Digital Products List",
-      "GPT Roster",
-      "PHAROS AI GPT Products",
-      "wiki/Custom GPT Products — PHAROS AI GPT Roster"
-    ],
-    "outlinks": 27,
-    "unique_outlinks": 17,
-    "backlinks": 17
-  },
-  {
-    "id": "D Drive Scan — 2026-05-12",
-    "title": "D Drive Scan — 2026-05-12",
-    "path": "wiki/D Drive Scan — 2026-05-12.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "D Drive Scan — 2026-05-12",
-      "wiki/D Drive Scan — 2026-05-12"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 8,
-    "backlinks": 13
-  },
-  {
-    "id": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
-    "title": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
-    "path": "wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "evidence discipline convergence",
-      "governance-consent-eml synthesis",
-      "three-language and three-layer bridge",
-      "wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture"
-    ],
-    "outlinks": 32,
-    "unique_outlinks": 17,
-    "backlinks": 15
-  },
-  {
-    "id": "DG Clean Migration Report — C to D Transfer Verification (2026-05-12)",
-    "title": "DG Clean Migration Report — C to D Transfer Verification (2026-05-12)",
-    "path": "wiki/DG Clean Migration Report — C to D Transfer Verification (2026-05-12).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "DG Clean Migration Report — C to D Transfer Verification (2026-05-12)",
-      "wiki/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 4,
-    "backlinks": 9
-  },
-  {
-    "id": "DG Website Logo Rebrand & Governance Audit — 2026-05-01",
-    "title": "DG Website Logo Rebrand & Governance Audit — 2026-05-01",
-    "path": "wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "DG Logo Rebrand",
-      "DG_Website_Logo_Rebrand_Governance_2026-05-01",
-      "Extermination DG Governance Audit",
-      "SHIELDLOGO Deployment",
-      "wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 10,
-    "backlinks": 9
   },
   {
     "id": "Daily Dashboard",
@@ -2791,81 +2781,6 @@
     "backlinks": 2
   },
   {
-    "id": "Delta Closure Frame — Conditions, Actors, Constraints",
-    "title": "Delta Closure Frame — Conditions, Actors, Constraints",
-    "path": "wiki/Delta Closure Frame — Conditions, Actors, Constraints.md",
-    "type": "doctrine",
-    "status": "active",
-    "aliases": [
-      "Closing deltas",
-      "Delta closure",
-      "Delta closure frame",
-      "Named actors under named constraints",
-      "wiki/Delta Closure Frame — Conditions, Actors, Constraints"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 9,
-    "backlinks": 23
-  },
-  {
-    "id": "Desktop Text Intake — 2026-05-06",
-    "title": "Desktop Text Intake — 2026-05-06",
-    "path": "wiki/Desktop Text Intake — 2026-05-06.md",
-    "type": "intake-index",
-    "status": "active",
-    "aliases": [
-      "C drive Desktop text intake",
-      "Desktop scan 2026-05-06",
-      "wiki/Desktop Text Intake — 2026-05-06"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 14,
-    "backlinks": 8
-  },
-  {
-    "id": "Desktop and Downloads Scan — 2026-05-12",
-    "title": "Desktop and Downloads Scan — 2026-05-12",
-    "path": "wiki/Desktop and Downloads Scan — 2026-05-12.md",
-    "type": "intake-index",
-    "status": "active",
-    "aliases": [
-      "C drive delta scan 2026-05-12",
-      "Desktop/Downloads scan 2026-05-12",
-      "wiki/Desktop and Downloads Scan — 2026-05-12"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 11,
-    "backlinks": 7
-  },
-  {
-    "id": "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)",
-    "title": "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)",
-    "path": "wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia —",
-      "wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 4,
-    "backlinks": 9
-  },
-  {
-    "id": "Diamond-Eyes — Aesthetic Refinement Skill",
-    "title": "Diamond-Eyes — Aesthetic Refinement Skill",
-    "path": "wiki/Diamond-Eyes — Aesthetic Refinement Skill.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Diamond-Eyes",
-      "wiki/Diamond-Eyes — Aesthetic Refinement Skill"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 10,
-    "backlinks": 71
-  },
-  {
     "id": "Disability Epistemology and Institutional Critique",
     "title": "Disability Epistemology and Institutional Critique",
     "path": "wiki/Disability Epistemology and Institutional Critique.md",
@@ -2878,64 +2793,6 @@
     "outlinks": 47,
     "unique_outlinks": 30,
     "backlinks": 35
-  },
-  {
-    "id": "Disease — Lady Gaga — Lyrics",
-    "title": "Disease — Lady Gaga — Lyrics",
-    "path": "wiki/Disease — Lady Gaga — Lyrics.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Disease lyrics",
-      "Lady Gaga Disease lyrics",
-      "wiki/Disease — Lady Gaga — Lyrics"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 5,
-    "backlinks": 12
-  },
-  {
-    "id": "Documents Root Intake — Hermes Action Map 2026-04-28",
-    "title": "Documents Root Intake — Hermes Action Map 2026-04-28",
-    "path": "wiki/Documents Root Intake — Hermes Action Map 2026-04-28.md",
-    "type": "action-map",
-    "status": "active",
-    "aliases": [
-      "Documents Root Intake — Hermes Action Map 2026-04-28",
-      "wiki/Documents Root Intake — Hermes Action Map 2026-04-28"
-    ],
-    "outlinks": 51,
-    "unique_outlinks": 32,
-    "backlinks": 23
-  },
-  {
-    "id": "Documents Root Loose Files Intake — 2026-04-28",
-    "title": "Documents Root Loose Files Intake — 2026-04-28",
-    "path": "wiki/Documents Root Loose Files Intake — 2026-04-28.md",
-    "type": "index",
-    "status": "active",
-    "aliases": [
-      "Documents Root Loose Files Intake — 2026-04-28",
-      "wiki/Documents Root Loose Files Intake — 2026-04-28"
-    ],
-    "outlinks": 64,
-    "unique_outlinks": 54,
-    "backlinks": 40
-  },
-  {
-    "id": "Documents and Downloads Coverage Matrix — 2026-05-06",
-    "title": "Documents and Downloads Coverage Matrix — 2026-05-06",
-    "path": "wiki/Documents and Downloads Coverage Matrix — 2026-05-06.md",
-    "type": "map",
-    "status": "active",
-    "aliases": [
-      "C drive coverage matrix",
-      "Documents and Downloads coverage matrix",
-      "wiki/Documents and Downloads Coverage Matrix — 2026-05-06"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 22,
-    "backlinks": 9
   },
   {
     "id": "Documents and Downloads Scan — 2026-05-06",
@@ -7012,6 +6869,20 @@
     "backlinks": 16
   },
   {
+    "id": "Resources/Disease — Lady Gaga — Lyrics",
+    "title": "Disease — Lady Gaga — Lyrics",
+    "path": "Resources/Disease — Lady Gaga — Lyrics.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Disease lyrics",
+      "Lady Gaga Disease lyrics"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 5,
+    "backlinks": 12
+  },
+  {
     "id": "Resources/Epistemic Governance — Canonical Reference",
     "title": "Epistemic Governance — Canonical Reference",
     "path": "Resources/Epistemic Governance — Canonical Reference.md",
@@ -9622,6 +9493,19 @@
     "backlinks": 24
   },
   {
+    "id": "archive/wiki-2026-07-08/D Drive Scan — 2026-05-12",
+    "title": "D Drive Scan — 2026-05-12",
+    "path": "archive/wiki-2026-07-08/D Drive Scan — 2026-05-12.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "D Drive Scan — 2026-05-12"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 8,
+    "backlinks": 13
+  },
+  {
     "id": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
     "title": "D Library — Genealogy Flags and Cleanup Leads (2026-04-26)",
     "path": "archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26).md",
@@ -9649,6 +9533,35 @@
     "backlinks": 10
   },
   {
+    "id": "archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)",
+    "title": "DG Clean Migration Report — C to D Transfer Verification (2026-05-12)",
+    "path": "archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "DG Clean Migration Report — C to D Transfer Verification (2026-05-12)"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 4,
+    "backlinks": 9
+  },
+  {
+    "id": "archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01",
+    "title": "DG Website Logo Rebrand & Governance Audit — 2026-05-01",
+    "path": "archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "DG Logo Rebrand",
+      "DG_Website_Logo_Rebrand_Governance_2026-05-01",
+      "Extermination DG Governance Audit",
+      "SHIELDLOGO Deployment"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 10,
+    "backlinks": 9
+  },
+  {
     "id": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
     "title": "Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14",
     "path": "archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14.md",
@@ -9662,6 +9575,74 @@
     "outlinks": 10,
     "unique_outlinks": 8,
     "backlinks": 8
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06",
+    "title": "Desktop Text Intake — 2026-05-06",
+    "path": "archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06.md",
+    "type": "intake-index",
+    "status": "active",
+    "aliases": [
+      "C drive Desktop text intake",
+      "Desktop scan 2026-05-06"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 14,
+    "backlinks": 8
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12",
+    "title": "Desktop and Downloads Scan — 2026-05-12",
+    "path": "archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12.md",
+    "type": "intake-index",
+    "status": "active",
+    "aliases": [
+      "C drive delta scan 2026-05-12",
+      "Desktop/Downloads scan 2026-05-12"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 11,
+    "backlinks": 7
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28",
+    "title": "Documents Root Intake — Hermes Action Map 2026-04-28",
+    "path": "archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28.md",
+    "type": "action-map",
+    "status": "active",
+    "aliases": [
+      "Documents Root Intake — Hermes Action Map 2026-04-28"
+    ],
+    "outlinks": 51,
+    "unique_outlinks": 32,
+    "backlinks": 23
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28",
+    "title": "Documents Root Loose Files Intake — 2026-04-28",
+    "path": "archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28.md",
+    "type": "index",
+    "status": "active",
+    "aliases": [
+      "Documents Root Loose Files Intake — 2026-04-28"
+    ],
+    "outlinks": 64,
+    "unique_outlinks": 54,
+    "backlinks": 40
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06",
+    "title": "Documents and Downloads Coverage Matrix — 2026-05-06",
+    "path": "archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06.md",
+    "type": "map",
+    "status": "active",
+    "aliases": [
+      "C drive coverage matrix",
+      "Documents and Downloads coverage matrix"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 22,
+    "backlinks": 9
   },
   {
     "id": "archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)",

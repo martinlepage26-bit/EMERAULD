@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
-- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Glitching the Sacred]]'

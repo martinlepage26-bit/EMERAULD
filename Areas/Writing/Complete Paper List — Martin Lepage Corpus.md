@@ -24,7 +24,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/CODEX Writing Projects Manifest]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[wiki/Glitching the Sacred]]'

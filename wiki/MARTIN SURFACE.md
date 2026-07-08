@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/MARTIN SURFACE.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'

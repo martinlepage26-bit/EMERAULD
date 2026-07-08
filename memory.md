@@ -26,7 +26,7 @@ backlink_count: 37
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Home]]'

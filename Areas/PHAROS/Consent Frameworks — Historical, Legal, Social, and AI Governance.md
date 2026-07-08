@@ -6,7 +6,6 @@ aliases:
 - informed consent
 - governance consent
 - consent and power
-- wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance
 tags:
 - governance
 - philosophy
@@ -15,7 +14,7 @@ tags:
 - history-of-ideas
 - ai-ethics
 - power-dynamics
-- wiki
+- areas
 - consent-frameworks-historical-legal-social-and-ai-governance-md
 - consent
 - agreement
@@ -26,13 +25,13 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance.md
 backlink_count: 11
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

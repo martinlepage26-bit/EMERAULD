@@ -4,7 +4,6 @@ title: Disease — Lady Gaga — Lyrics
 aliases:
 - Disease lyrics
 - Lady Gaga Disease lyrics
-- wiki/Disease — Lady Gaga — Lyrics
 tags:
 - music
 - lyrics
@@ -12,7 +11,7 @@ tags:
 - pop
 - power-dynamics
 - desire
-- wiki
+- resources
 - disease-lady-gaga-lyrics-md
 - cure
 - disease
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Disease — Lady Gaga — Lyrics.md
+vault_area: Resources
+canonical_path: Resources/Disease — Lady Gaga — Lyrics.md
 backlink_count: 9
 backlinks:
 - '[[wiki/Media Studies and Pop Culture Analysis]]'

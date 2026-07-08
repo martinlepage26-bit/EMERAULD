@@ -27,8 +27,8 @@ vault_area: Areas
 canonical_path: Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md
 backlink_count: 16
 backlinks:
-- '[[wiki/Desktop Text Intake — 2026-05-06]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'

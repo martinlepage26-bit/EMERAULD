@@ -22,7 +22,7 @@ backlink_count: 28
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
-- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governess Agatha GPT — ChatGPT Product Specification]]'

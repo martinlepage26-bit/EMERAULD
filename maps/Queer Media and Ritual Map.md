@@ -24,7 +24,7 @@ vault_area: maps
 canonical_path: maps/Queer Media and Ritual Map.md
 backlink_count: 6
 backlinks:
-- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
   Activism Switzerland)]]'

@@ -27,7 +27,7 @@ backlinks:
 - '[[.trash/2026-05-05_botpress-enterprise]]'
 - '[[Areas/PHAROS/Argus]]'
 - '[[CLAUDE]]'
-- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Trismégiste]]'

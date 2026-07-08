@@ -23,7 +23,7 @@ backlinks:
 - '[[Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice]]'
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
-- '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'
+- '[[Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'

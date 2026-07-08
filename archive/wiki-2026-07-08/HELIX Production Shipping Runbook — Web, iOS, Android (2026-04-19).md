@@ -28,7 +28,7 @@ vault_area: archive
 canonical_path: archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md
 backlink_count: 6
 backlinks:
-- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'

@@ -29,7 +29,7 @@ vault_area: wiki
 canonical_path: wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

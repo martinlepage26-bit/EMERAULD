@@ -5,7 +5,6 @@ aliases:
 - GPT Roster
 - PHAROS AI GPT Products
 - Custom GPT Digital Products List
-- wiki/Custom GPT Products — PHAROS AI GPT Roster
 tags:
 - gpt
 - products
@@ -13,7 +12,7 @@ tags:
 - openai
 - digital-products
 - chatgpt
-- wiki
+- areas
 - custom-gpt-products-pharos-ai-gpt-roster-md
 - mobi
 - personas
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Custom GPT Products — PHAROS AI GPT Roster.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster.md
 backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'

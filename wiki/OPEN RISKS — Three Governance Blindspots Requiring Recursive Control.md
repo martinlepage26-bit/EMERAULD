@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'

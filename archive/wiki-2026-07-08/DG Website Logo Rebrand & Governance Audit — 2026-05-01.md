@@ -6,14 +6,13 @@ aliases:
 - SHIELDLOGO Deployment
 - Extermination DG Governance Audit
 - DG_Website_Logo_Rebrand_Governance_2026-05-01
-- wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01
 tags:
 - dg
 - governance
 - deployment
 - branding
 - external-systems
-- wiki
+- archive
 - dg-website-logo-rebrand-governance-audit-2026-05-01-md
 - shieldlogo
 - logo
@@ -24,12 +23,12 @@ tags:
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01.md
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons]]'
-- '[[wiki/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
+- '[[archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/clients/ExterminationDG]]'

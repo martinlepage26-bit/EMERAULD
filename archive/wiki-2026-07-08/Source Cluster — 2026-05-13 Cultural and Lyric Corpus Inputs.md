@@ -25,7 +25,7 @@ vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs.md
 backlink_count: 10
 backlinks:
-- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'

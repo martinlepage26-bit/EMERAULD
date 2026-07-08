@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Disease — Lady Gaga — Lyrics]]'
+- '[[Resources/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[wiki/Framing Processes and Social Movements — Benford & Snow 2000]]'

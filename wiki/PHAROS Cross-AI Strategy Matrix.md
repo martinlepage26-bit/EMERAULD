@@ -27,7 +27,7 @@ canonical_path: wiki/PHAROS Cross-AI Strategy Matrix.md
 backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'

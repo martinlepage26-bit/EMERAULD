@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
 - '[[Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
 - '[[Areas/PHAROS/Chrome Extension Monetization - Policy and Product Options]]'
-- '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'

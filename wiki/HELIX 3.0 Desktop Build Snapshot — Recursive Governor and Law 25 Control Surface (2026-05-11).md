@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
   (2026-06-22)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'

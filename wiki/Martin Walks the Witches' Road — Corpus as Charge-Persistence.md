@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
-- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
 - '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'

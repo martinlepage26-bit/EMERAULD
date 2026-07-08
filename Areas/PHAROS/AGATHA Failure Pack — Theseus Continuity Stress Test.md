@@ -25,8 +25,8 @@ canonical_path: Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress T
 backlink_count: 19
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

@@ -22,7 +22,7 @@ backlink_count: 17
 backlinks:
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
+- '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'

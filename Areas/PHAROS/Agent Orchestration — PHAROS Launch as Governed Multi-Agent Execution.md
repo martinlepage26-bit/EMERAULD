@@ -31,7 +31,7 @@ canonical_path: Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed M
 backlink_count: 11
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'

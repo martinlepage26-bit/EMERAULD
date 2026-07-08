@@ -3,7 +3,6 @@ type: wiki
 title: Cultural and Lyric Corpus Memo — 2026-05-14
 aliases:
 - Cultural and Lyric Corpus Memo — 2026-05-14
-- wiki/Cultural and Lyric Corpus Memo — 2026-05-14
 tags:
 - memo
 - cultural
@@ -11,7 +10,7 @@ tags:
 - alchemy
 - ritual
 - '2026-05-14'
-- wiki
+- areas
 - cultural-and-lyric-corpus-memo-2026-05-14-md
 - rardin
 - oratoire
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-05-14'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Cultural and Lyric Corpus Memo — 2026-05-14.md
+vault_area: Areas
+canonical_path: Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14.md
 backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'

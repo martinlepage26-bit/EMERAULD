@@ -4,7 +4,6 @@ title: Desktop Text Intake — 2026-05-06
 aliases:
 - Desktop scan 2026-05-06
 - C drive Desktop text intake
-- wiki/Desktop Text Intake — 2026-05-06
 tags:
 - intake
 - desktop
@@ -12,7 +11,7 @@ tags:
 - vault-maintenance
 - provenance
 - intake-index
-- wiki
+- archive
 - desktop-text-intake-2026-05-06-md
 - downloads
 - emerge
@@ -22,13 +21,13 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Desktop Text Intake — 2026-05-06.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06.md
 backlink_count: 9
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Home]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'

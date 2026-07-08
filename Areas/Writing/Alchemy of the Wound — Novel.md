@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'

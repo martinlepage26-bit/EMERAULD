@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'

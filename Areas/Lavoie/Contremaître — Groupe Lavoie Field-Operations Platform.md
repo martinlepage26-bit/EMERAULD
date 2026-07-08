@@ -18,8 +18,8 @@ tags:
 status: active
 created: '2026-07-06'
 updated: '2026-07-06'
-vault_area: wiki
-canonical_path: wiki/Contremaître — Groupe Lavoie Field-Operations Platform.md
+vault_area: Areas
+canonical_path: Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform.md
 ---
 
 # Contremaître — Groupe Lavoie Field-Operations Platform

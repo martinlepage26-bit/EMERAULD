@@ -23,7 +23,7 @@ backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'

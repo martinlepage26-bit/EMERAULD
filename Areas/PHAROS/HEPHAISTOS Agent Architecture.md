@@ -51,7 +51,7 @@ backlinks:
 - '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
-- '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'

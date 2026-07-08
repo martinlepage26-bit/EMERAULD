@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/Posture vs Execution Drift — The Practice of Refusal.md
 backlink_count: 13
 backlinks:
-- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
+- '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
 - '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'

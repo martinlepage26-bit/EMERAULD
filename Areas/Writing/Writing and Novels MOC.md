@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/Writing/CORPUS Novel — Version Genealogy]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'

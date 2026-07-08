@@ -26,8 +26,8 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration]]'
 - '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
   (2026-05-07)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'

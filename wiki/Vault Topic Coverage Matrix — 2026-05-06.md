@@ -26,7 +26,7 @@ canonical_path: wiki/Vault Topic Coverage Matrix — 2026-05-06.md
 backlink_count: 17
 backlinks:
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'

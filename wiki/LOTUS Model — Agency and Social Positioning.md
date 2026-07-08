@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
   Explanation)]]'
-- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'

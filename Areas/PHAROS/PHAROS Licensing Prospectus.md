@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Martin Lepage Professional Identity]]'

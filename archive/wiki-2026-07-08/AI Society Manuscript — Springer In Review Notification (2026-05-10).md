@@ -28,7 +28,7 @@ backlink_count: 8
 backlinks:
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]]'
+- '[[Areas/Writing/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

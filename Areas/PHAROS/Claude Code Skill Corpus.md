@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
-- '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
+- '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'

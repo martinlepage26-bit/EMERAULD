@@ -3,7 +3,6 @@ type: action-map
 title: Documents Root Intake — Hermes Action Map 2026-04-28
 aliases:
 - Documents Root Intake — Hermes Action Map 2026-04-28
-- wiki/Documents Root Intake — Hermes Action Map 2026-04-28
 tags:
 - vault-intake
 - action-map
@@ -11,7 +10,7 @@ tags:
 - pharos
 - routing
 - raw-sources
-- wiki
+- archive
 - documents-root-intake-hermes-action-map-2026-04-28-md
 - packet
 - proof
@@ -21,12 +20,12 @@ tags:
 status: active
 created: '2026-04-28'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Documents Root Intake — Hermes Action Map 2026-04-28.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28.md
 backlink_count: 19
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Home]]'

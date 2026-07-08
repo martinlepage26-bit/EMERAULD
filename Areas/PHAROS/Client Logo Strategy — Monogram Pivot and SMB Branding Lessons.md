@@ -27,8 +27,8 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons.md
 backlink_count: 7
 backlinks:
-- '[[wiki/Desktop Text Intake — 2026-05-06]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'

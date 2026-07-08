@@ -3,9 +3,8 @@ type: wiki
 title: Diamond-Eyes — Aesthetic Refinement Skill
 aliases:
 - Diamond-Eyes
-- wiki/Diamond-Eyes — Aesthetic Refinement Skill
 tags:
-- wiki
+- areas
 - skill
 - diamond-eyes-aesthetic-refinement-skill-md
 - diamond
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Diamond-Eyes — Aesthetic Refinement Skill.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill.md
 backlink_count: 47
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
@@ -29,7 +28,7 @@ backlinks:
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20]]'
-- '[[wiki/Consented Frame — Ethics and Wisdom Gate]]'
+- '[[Areas/PHAROS/Consented Frame — Ethics and Wisdom Gate]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
@@ -46,8 +45,7 @@ backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'

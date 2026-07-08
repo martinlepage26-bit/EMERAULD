@@ -33,7 +33,7 @@ canonical_path: wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Ins
   of Emergent Phenomenon.md
 backlink_count: 4
 backlinks:
-- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
 - '[[archive/session-state/session-state-001]]'

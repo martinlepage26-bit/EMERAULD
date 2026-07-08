@@ -25,7 +25,7 @@ canonical_path: Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evalua
 backlink_count: 10
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Documents and Downloads Scan — 2026-05-06]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'

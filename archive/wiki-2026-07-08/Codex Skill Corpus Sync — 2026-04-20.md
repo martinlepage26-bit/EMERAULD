@@ -27,7 +27,7 @@ backlink_count: 12
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[wiki/Consented Frame — Ethics and Wisdom Gate]]'
+- '[[Areas/PHAROS/Consented Frame — Ethics and Wisdom Gate]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'

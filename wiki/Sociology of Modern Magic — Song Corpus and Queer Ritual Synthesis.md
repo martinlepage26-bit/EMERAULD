@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis.md
 backlink_count: 18
 backlinks:
-- '[[wiki/Disease — Lady Gaga — Lyrics]]'
+- '[[Resources/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'

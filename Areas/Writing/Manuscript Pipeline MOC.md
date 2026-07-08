@@ -27,7 +27,7 @@ backlinks:
 - '[[Areas/Writing/AREA]]'
 - '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/Glitching the Sacred]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'

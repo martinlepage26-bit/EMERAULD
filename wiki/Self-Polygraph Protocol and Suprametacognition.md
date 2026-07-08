@@ -23,7 +23,7 @@ backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
-- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency and Interruption Theory]]'

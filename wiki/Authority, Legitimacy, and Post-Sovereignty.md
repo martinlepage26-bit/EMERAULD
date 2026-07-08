@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'

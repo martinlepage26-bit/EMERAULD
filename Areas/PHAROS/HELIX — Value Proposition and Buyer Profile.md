@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
-- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

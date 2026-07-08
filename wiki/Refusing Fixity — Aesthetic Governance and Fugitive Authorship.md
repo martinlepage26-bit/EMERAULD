@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
-- '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
+- '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

@@ -5,13 +5,12 @@ aliases:
 - governance-consent-eml synthesis
 - three-language and three-layer bridge
 - evidence discipline convergence
-- wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture
 tags:
 - synthesis
 - governance-theory
 - epistemology
 - philosophical-architecture
-- wiki
+- areas
 - deeper-connections-the-triple-synthesis-and-the-governance-architecture-md
 - consent
 - disturbance
@@ -22,9 +21,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance
-  Architecture.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture.md
 backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/Authority Without Power-Over]]'

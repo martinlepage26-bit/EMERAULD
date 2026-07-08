@@ -25,9 +25,9 @@ canonical_path: wiki/Local Hardware and Discovery Snapshot — Laptop A.md
 backlink_count: 15
 backlinks:
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'

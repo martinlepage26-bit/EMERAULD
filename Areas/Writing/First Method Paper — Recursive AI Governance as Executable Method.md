@@ -27,7 +27,7 @@ backlinks:
 - '[[Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/Writing/First Method Paper — Version Genealogy]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'

@@ -25,7 +25,7 @@ backlinks:
 - '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
+- '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'

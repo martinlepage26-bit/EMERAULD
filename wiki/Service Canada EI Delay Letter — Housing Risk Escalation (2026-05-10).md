@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10).md
 backlink_count: 5
 backlinks:
-- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'

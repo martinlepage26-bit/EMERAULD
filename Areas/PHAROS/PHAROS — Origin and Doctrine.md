@@ -29,8 +29,8 @@ backlink_count: 18
 backlinks:
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis]]'
-- '[[wiki/Consent, Fraud, and Boundary Protocols]]'
-- '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
+- '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
+- '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'

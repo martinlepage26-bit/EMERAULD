@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics.md
 backlink_count: 19
 backlinks:
-- '[[wiki/Disease — Lady Gaga — Lyrics]]'
+- '[[Resources/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Home]]'
 - '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
   Activism Switzerland)]]'

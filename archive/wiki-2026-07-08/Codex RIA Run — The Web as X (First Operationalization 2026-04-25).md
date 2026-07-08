@@ -30,7 +30,7 @@ vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25).md
 backlink_count: 10
 backlinks:
-- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

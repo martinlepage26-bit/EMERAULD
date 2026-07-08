@@ -26,7 +26,7 @@ backlinks:
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[wiki/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'

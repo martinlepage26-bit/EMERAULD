@@ -3,9 +3,8 @@ type: wiki
 title: Crossing Under Watch — Troll's Toll and Digital Ritual Passage
 aliases:
 - Crossing Under Watch — Troll's Toll and Digital Ritual Passage
-- wiki/Crossing Under Watch — Troll's Toll and Digital Ritual Passage
 tags:
-- wiki
+- areas
 - ritual
 - crossing-under-watch-troll-s-toll-and-digital-ritual-passage-md
 - toll
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Crossing Under Watch — Troll's Toll and Digital Ritual Passage.md
+vault_area: Areas
+canonical_path: Areas/Writing/Crossing Under Watch — Troll's Toll and Digital Ritual Passage.md
 backlink_count: 15
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'

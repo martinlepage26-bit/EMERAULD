@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
-- '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
+- '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
 - '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'

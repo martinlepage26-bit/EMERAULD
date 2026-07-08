@@ -27,7 +27,7 @@ canonical_path: Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12
 backlink_count: 4
 backlinks:
 - '[[Areas/Writing/Brutal Isms — Art Grant Proposal]]'
-- '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
+- '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 source:

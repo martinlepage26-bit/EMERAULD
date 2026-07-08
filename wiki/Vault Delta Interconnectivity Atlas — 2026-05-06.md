@@ -33,8 +33,8 @@ canonical_path: wiki/Vault Delta Interconnectivity Atlas — 2026-05-06.md
 backlink_count: 23
 backlinks:
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
-- '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

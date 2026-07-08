@@ -20,8 +20,8 @@ canonical_path: archive/wiki-2026-07-08/SYSTEM CHECK.md
 backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'

@@ -22,9 +22,9 @@ canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-a
 backlink_count: 43
 backlinks:
 - '[[CLAUDE]]'
-- '[[wiki/D Drive Scan — 2026-05-12]]'
-- '[[wiki/Desktop Text Intake — 2026-05-06]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/D Drive Scan — 2026-05-12]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Documents and Downloads Scan — 2026-05-06]]'
 - '[[wiki/EMERAULD]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'

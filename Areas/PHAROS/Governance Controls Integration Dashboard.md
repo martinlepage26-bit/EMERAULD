@@ -23,7 +23,7 @@ backlinks:
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
+- '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/External Data Refresh Calendar — Phase 1 Build]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'

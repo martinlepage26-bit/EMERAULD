@@ -28,9 +28,9 @@ vault_area: wiki
 canonical_path: wiki/RIA-CODEX — System Audit Protocol.md
 backlink_count: 10
 backlinks:
-- '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[wiki/Desktop Text Intake — 2026-05-06]]'
-- '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
+- '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
+- '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
