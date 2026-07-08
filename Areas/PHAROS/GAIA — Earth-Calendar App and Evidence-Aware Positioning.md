@@ -25,7 +25,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning.md
 backlink_count: 14
 backlinks:
-- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'

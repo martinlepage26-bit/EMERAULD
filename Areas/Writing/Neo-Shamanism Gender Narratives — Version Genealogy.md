@@ -22,7 +22,7 @@ backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 

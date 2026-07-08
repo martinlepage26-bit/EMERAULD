@@ -74,7 +74,7 @@ Only add entries that are non-obvious and likely to prevent future error.
 - Observation: `/obsidian-emerge` (30-day window) found that 7 of 8 recent vault days were maintenance operations (graph repair, frontmatter normalization, architecture docs) rather than external-facing output (code shipped, outreach sent, listing published). The vault became the primary work object while PHAROS launch sat at 8+ weeks stalled.
 - What changes: When daily notes show >3 consecutive maintenance-heavy days with no external action, treat this as a "lost loop" signal — the vault is consuming attention that should be going to output.
 - New rule: At each idea-discovery run, check whether the top candidate requires an external action (send, publish, call). If yes and it has been queued for more than 7 days, escalate it to blocker status in the project note immediately.
-- Links: [[artifacts/emerge-pattern-report-2026-06-29]] [[wiki/2026-06-29 - idea-discovery]] [[Decisions]] [[memory/daily/2026-06-29]]
+- Links: [[artifacts/emerge-pattern-report-2026-06-29]] [[Areas/PHAROS/2026-06-29 - idea-discovery]] [[Decisions]] [[memory/daily/2026-06-29]]
 
 ## 2026-06-29 — Three products blocked on one email is a systemic signal, not a coincidence
 - Observation: Emerge analysis found HELIX, GAIA, and AurorA all at "ready" status but all blocked on the same action class: initiating external contact. The vault had evidence of readiness for all three; none had an outreach sent.

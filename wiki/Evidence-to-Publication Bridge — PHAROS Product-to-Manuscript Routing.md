@@ -28,7 +28,7 @@ canonical_path: wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manusc
 backlink_count: 6
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[Areas/Writing/AREA]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

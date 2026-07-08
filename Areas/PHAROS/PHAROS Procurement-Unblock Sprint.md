@@ -20,7 +20,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Procurement-Unblock Sprint.md
 backlink_count: 57
 backlinks:
-- '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
+- '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
 - '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
 - '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'

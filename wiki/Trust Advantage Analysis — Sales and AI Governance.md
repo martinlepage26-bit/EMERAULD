@@ -23,7 +23,7 @@ canonical_path: wiki/Trust Advantage Analysis — Sales and AI Governance.md
 backlink_count: 44
 backlinks:
 - '[[.trash/Sprint Tool Strategy]]'
-- '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
+- '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
 - '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
 - '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
 - '[[wiki/AI Governance Sprint — One-Page Sellable Packet]]'
@@ -54,7 +54,7 @@ backlinks:
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
 - '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
-- '[[wiki/Trust Advantage — Version Genealogy]]'
+- '[[Areas/Writing/Trust Advantage — Version Genealogy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[assets/elemental-agents/audience-expansion]]'

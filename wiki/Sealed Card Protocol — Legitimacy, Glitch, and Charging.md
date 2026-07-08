@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging.md
 backlink_count: 53
 backlinks:
-- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
@@ -61,7 +61,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
-- '[[wiki/Sealed Card Protocol — Version Genealogy]]'
+- '[[Areas/Writing/Sealed Card Protocol — Version Genealogy]]'
 - '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'

@@ -22,7 +22,7 @@ vault_area: Resources
 canonical_path: Resources/Recursive Governance Theory.md
 backlink_count: 66
 backlinks:
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
 - '[[wiki/AI Identity and Phenomenology]]'

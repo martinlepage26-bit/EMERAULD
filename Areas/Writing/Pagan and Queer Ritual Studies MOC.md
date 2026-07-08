@@ -79,7 +79,7 @@ backlinks:
 - '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[wiki/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
 - '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'

@@ -20,7 +20,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md
 backlink_count: 65
 backlinks:
-- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
@@ -71,18 +71,18 @@ backlinks:
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 - '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
-- '[[wiki/Spider-Man — Version Genealogy]]'
+- '[[Areas/Writing/Spider-Man — Version Genealogy]]'
 - '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation]]'
 - '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
 - '[[wiki/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
-- '[[wiki/Voodoo Doll as Archival Problem — Version Genealogy]]'
+- '[[Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy]]'
 - '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'
 - '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
 - '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
-- '[[wiki/Wicca 2.0 — Version Genealogy]]'
+- '[[Areas/Writing/Wicca 2.0 — Version Genealogy]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---

@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'
 - '[[wiki/voice11 — ElevenLabs TTS Pipeline]]'

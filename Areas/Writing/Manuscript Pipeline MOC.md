@@ -51,7 +51,7 @@ backlinks:
 - '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

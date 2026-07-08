@@ -31,7 +31,7 @@ canonical_path: Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, a
 backlink_count: 12
 backlinks:
 - '[[.trash/ACTOR Framework Worksheet]]'
-- '[[wiki/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
+- '[[Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'

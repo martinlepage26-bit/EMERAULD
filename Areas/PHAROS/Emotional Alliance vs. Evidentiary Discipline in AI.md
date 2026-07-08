@@ -20,7 +20,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI.md
 backlink_count: 43
 backlinks:
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Ethics Literature — Contestable Governance Artifacts]]'
 - '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
@@ -60,7 +60,7 @@ backlinks:
 - '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/agents/Learning]]'
 ---

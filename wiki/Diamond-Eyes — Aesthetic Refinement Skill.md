@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/Diamond-Eyes — Aesthetic Refinement Skill.md
 backlink_count: 47
 backlinks:
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Anti-Charm]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'

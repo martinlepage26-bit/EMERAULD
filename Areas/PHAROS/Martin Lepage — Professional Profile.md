@@ -20,7 +20,7 @@ canonical_path: Areas/PHAROS/Martin Lepage — Professional Profile.md
 backlink_count: 116
 backlinks:
 - '[[.trash/Building Your First AI Agent with OpenAI_______]]'
-- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
 - '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'

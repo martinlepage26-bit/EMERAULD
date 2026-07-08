@@ -27,8 +27,8 @@ vault_area: wiki
 canonical_path: wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md
 backlink_count: 16
 backlinks:
-- '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

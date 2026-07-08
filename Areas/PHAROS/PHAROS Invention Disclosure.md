@@ -20,7 +20,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Invention Disclosure.md
 backlink_count: 59
 backlinks:
-- '[[wiki/90-Day $1M Challenge — Status Report]]'
+- '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'

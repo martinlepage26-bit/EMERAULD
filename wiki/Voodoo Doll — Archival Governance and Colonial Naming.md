@@ -29,8 +29,8 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
-- '[[wiki/Version Genealogy System]]'
-- '[[wiki/Voodoo Doll as Archival Problem — Version Genealogy]]'
+- '[[Areas/Writing/Version Genealogy System]]'
+- '[[Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy]]'
 - '[[wiki/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

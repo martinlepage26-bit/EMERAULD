@@ -23,7 +23,7 @@ backlinks:
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[wiki/Home]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 ---

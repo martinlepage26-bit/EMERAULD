@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/AI Governance Failure Cases.md
 backlink_count: 17
 backlinks:
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
   (2026)]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'

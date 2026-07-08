@@ -540,7 +540,7 @@ morning agent 2026-06-29 — daily note created, stale scan clean (all project-t
 **Idea discovery:**
 - `/idea-discovery` scan: 5 ranked candidates from project Open Questions + vault pull/momentum signals.
 - Heuristic: Pull (evidence of external demand) → Momentum (prerequisites done today) → Recency.
-- Created [[wiki/2026-06-29 - idea-discovery]]: #1 Gumroad listing (31 backlinks, all prerequisites done), #2 HELIX outreach (34-day regulatory window), #3 GAIA soft launch (v1.6 built), #4 Papers P0 queue, #5 ECHO disambiguation.
+- Created [[Areas/PHAROS/2026-06-29 - idea-discovery]]: #1 Gumroad listing (31 backlinks, all prerequisites done), #2 HELIX outreach (34-day regulatory window), #3 GAIA soft launch (v1.6 built), #4 Papers P0 queue, #5 ECHO disambiguation.
 
 **Gumroad listing execution:**
 - User selected #1: Gumroad listing for [[Obsidian Agent Vault — Launch Kit]].

@@ -22,7 +22,7 @@ vault_area: wiki
 canonical_path: wiki/Recursive Continuity Without Memory — AI Identity Across Sessions.md
 backlink_count: 30
 backlinks:
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'

@@ -14,94 +14,6 @@
     "backlinks": 4
   },
   {
-    "id": "2026-06-29 - idea-discovery",
-    "title": "2026-06-29 - idea-discovery",
-    "path": "wiki/2026-06-29 - idea-discovery.md",
-    "type": "synthesis",
-    "status": "active",
-    "aliases": [
-      "2026-06-29 - idea-discovery",
-      "idea-discovery-2026-06-29",
-      "wiki/2026-06-29 - idea-discovery"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 15,
-    "backlinks": 6
-  },
-  {
-    "id": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "title": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "path": "wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-      "wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 6,
-    "backlinks": 13
-  },
-  {
-    "id": "90-Day $1M Challenge — Status Report",
-    "title": "90-Day $1M Challenge — Status Report",
-    "path": "wiki/90-Day $1M Challenge — Status Report.md",
-    "type": "project-state",
-    "status": "active",
-    "aliases": [
-      "90-Day $1M Challenge — Status Report",
-      "wiki/90-Day $1M Challenge — Status Report"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 6,
-    "backlinks": 26
-  },
-  {
-    "id": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "title": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "path": "wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014).md",
-    "type": "wiki",
-    "status": "stub",
-    "aliases": [
-      "A Lokian Family",
-      "Lokian Family paper",
-      "Pomegranate 2014",
-      "wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 9,
-    "backlinks": 7
-  },
-  {
-    "id": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "title": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "path": "wiki/ACTOR Framework — Agent vs Chatbot Decision Tool.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "ACTOR framework",
-      "agent vs chatbot decision",
-      "wiki/ACTOR Framework — Agent vs Chatbot Decision Tool"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 4,
-    "backlinks": 7
-  },
-  {
-    "id": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "title": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "path": "wiki/AGATHA Failure Pack — Theseus Continuity Stress Test.md",
-    "type": "note",
-    "status": "active",
-    "aliases": [
-      "AGATHA Failure Pack — Theseus Continuity Stress Test",
-      "wiki/AGATHA Failure Pack — Theseus Continuity Stress Test"
-    ],
-    "outlinks": 24,
-    "unique_outlinks": 20,
-    "backlinks": 32
-  },
-  {
     "id": "AI Ethics Literature — Contestable Governance Artifacts",
     "title": "AI Ethics Literature — Contestable Governance Artifacts",
     "path": "wiki/AI Ethics Literature — Contestable Governance Artifacts.md",
@@ -675,6 +587,73 @@
     "outlinks": 2,
     "unique_outlinks": 2,
     "backlinks": 11
+  },
+  {
+    "id": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "title": "2026-06-29 - idea-discovery",
+    "path": "Areas/PHAROS/2026-06-29 - idea-discovery.md",
+    "type": "synthesis",
+    "status": "active",
+    "aliases": [
+      "2026-06-29 - idea-discovery",
+      "idea-discovery-2026-06-29"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 15,
+    "backlinks": 6
+  },
+  {
+    "id": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "title": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "path": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "5-1 Rule — Locked Spec Hardening (Argus Stress Test)"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 6,
+    "backlinks": 13
+  },
+  {
+    "id": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "title": "90-Day $1M Challenge — Status Report",
+    "path": "Areas/PHAROS/90-Day $1M Challenge — Status Report.md",
+    "type": "project-state",
+    "status": "active",
+    "aliases": [
+      "90-Day $1M Challenge — Status Report"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 6,
+    "backlinks": 26
+  },
+  {
+    "id": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "title": "ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "path": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "ACTOR framework",
+      "agent vs chatbot decision"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 4,
+    "backlinks": 7
+  },
+  {
+    "id": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "title": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "path": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test.md",
+    "type": "note",
+    "status": "active",
+    "aliases": [
+      "AGATHA Failure Pack — Theseus Continuity Stress Test"
+    ],
+    "outlinks": 24,
+    "unique_outlinks": 20,
+    "backlinks": 32
   },
   {
     "id": "Areas/PHAROS/AREA",
@@ -1409,6 +1388,21 @@
     "backlinks": 96
   },
   {
+    "id": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "title": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "path": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014).md",
+    "type": "wiki",
+    "status": "stub",
+    "aliases": [
+      "A Lokian Family",
+      "Lokian Family paper",
+      "Pomegranate 2014"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 9,
+    "backlinks": 7
+  },
+  {
     "id": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance",
     "title": "AI Society Manuscript — From AI Anxiety to Recursive Governance",
     "path": "Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance.md",
@@ -1989,6 +1983,32 @@
     "backlinks": 288
   },
   {
+    "id": "Areas/Writing/Sealed Card Protocol — Version Genealogy",
+    "title": "Sealed Card Protocol — Version Genealogy",
+    "path": "Areas/Writing/Sealed Card Protocol — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Sealed Card Protocol — Version Genealogy"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 4,
+    "backlinks": 5
+  },
+  {
+    "id": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "title": "September 2024 Retrospective — Version Genealogy",
+    "path": "Areas/Writing/September 2024 Retrospective — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "September 2024 Retrospective — Version Genealogy"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 10,
+    "backlinks": 7
+  },
+  {
     "id": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
     "title": "Social Compass Paper — Ritual Authority and Régime de Preuve",
     "path": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve.md",
@@ -2000,6 +2020,32 @@
     "outlinks": 9,
     "unique_outlinks": 6,
     "backlinks": 93
+  },
+  {
+    "id": "Areas/Writing/Social Compass Reviewer Responses — Version Genealogy",
+    "title": "Social Compass Reviewer Responses — Version Genealogy",
+    "path": "Areas/Writing/Social Compass Reviewer Responses — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Social Compass Reviewer Responses — Version Genealogy"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 3,
+    "backlinks": 4
+  },
+  {
+    "id": "Areas/Writing/Spider-Man — Version Genealogy",
+    "title": "Spider-Man — Version Genealogy",
+    "path": "Areas/Writing/Spider-Man — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Spider-Man — Version Genealogy"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 3,
+    "backlinks": 4
   },
   {
     "id": "Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge",
@@ -2030,6 +2076,58 @@
     "backlinks": 56
   },
   {
+    "id": "Areas/Writing/Trust Advantage — Version Genealogy",
+    "title": "Trust Advantage — Version Genealogy",
+    "path": "Areas/Writing/Trust Advantage — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Trust Advantage — Version Genealogy"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 2,
+    "backlinks": 5
+  },
+  {
+    "id": "Areas/Writing/Unnatural Selection Jurassic Park — Version Genealogy",
+    "title": "Unnatural Selection Jurassic Park — Version Genealogy",
+    "path": "Areas/Writing/Unnatural Selection Jurassic Park — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Unnatural Selection Jurassic Park — Version Genealogy"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 2,
+    "backlinks": 4
+  },
+  {
+    "id": "Areas/Writing/Version Genealogy System",
+    "title": "Version Genealogy System",
+    "path": "Areas/Writing/Version Genealogy System.md",
+    "type": "map",
+    "status": "active",
+    "aliases": [
+      "TOPIC — Version Genealogy System"
+    ],
+    "outlinks": 42,
+    "unique_outlinks": 42,
+    "backlinks": 22
+  },
+  {
+    "id": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy",
+    "title": "Voodoo Doll as Archival Problem — Version Genealogy",
+    "path": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Voodoo Doll as Archival Problem — Version Genealogy"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 3,
+    "backlinks": 9
+  },
+  {
     "id": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
     "title": "Why Be King Im Already a Queen — Book Project",
     "path": "Areas/Writing/Why Be King Im Already a Queen — Book Project.md",
@@ -2041,6 +2139,19 @@
     "outlinks": 19,
     "unique_outlinks": 12,
     "backlinks": 31
+  },
+  {
+    "id": "Areas/Writing/Wicca 2.0 — Version Genealogy",
+    "title": "Wicca 2.0 — Version Genealogy",
+    "path": "Areas/Writing/Wicca 2.0 — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Wicca 2.0 — Version Genealogy"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 4,
+    "backlinks": 3
   },
   {
     "id": "Areas/Writing/Writing and Novels MOC",
@@ -7501,20 +7612,6 @@
     "backlinks": 93
   },
   {
-    "id": "Sealed Card Protocol — Version Genealogy",
-    "title": "Sealed Card Protocol — Version Genealogy",
-    "path": "wiki/Sealed Card Protocol — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Sealed Card Protocol — Version Genealogy",
-      "wiki/Sealed Card Protocol — Version Genealogy"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 4,
-    "backlinks": 5
-  },
-  {
     "id": "Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)",
     "title": "Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)",
     "path": "wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30).md",
@@ -7557,20 +7654,6 @@
     "outlinks": 35,
     "unique_outlinks": 21,
     "backlinks": 25
-  },
-  {
-    "id": "September 2024 Retrospective — Version Genealogy",
-    "title": "September 2024 Retrospective — Version Genealogy",
-    "path": "wiki/September 2024 Retrospective — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "September 2024 Retrospective — Version Genealogy",
-      "wiki/September 2024 Retrospective — Version Genealogy"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 10,
-    "backlinks": 7
   },
   {
     "id": "Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)",
@@ -7890,20 +7973,6 @@
     "backlinks": 11
   },
   {
-    "id": "Social Compass Reviewer Responses — Version Genealogy",
-    "title": "Social Compass Reviewer Responses — Version Genealogy",
-    "path": "wiki/Social Compass Reviewer Responses — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Social Compass Reviewer Responses — Version Genealogy",
-      "wiki/Social Compass Reviewer Responses — Version Genealogy"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 3,
-    "backlinks": 4
-  },
-  {
     "id": "Social Stratification, Intersectionality, and the Why Be King Manuscript",
     "title": "Social Stratification, Intersectionality, and the Why Be King Manuscript",
     "path": "wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript.md",
@@ -7947,76 +8016,6 @@
     "backlinks": 8
   },
   {
-    "id": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "title": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "path": "wiki/Source Cluster — 2026-05-13 Client and Operator Continuity.md",
-    "type": "source-cluster",
-    "status": "active",
-    "aliases": [
-      "Source Cluster — 2026-05-13 Client and Operator Continuity",
-      "wiki/Source Cluster — 2026-05-13 Client and Operator Continuity"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 10,
-    "backlinks": 14
-  },
-  {
-    "id": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "title": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "path": "wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs.md",
-    "type": "source-cluster",
-    "status": "active",
-    "aliases": [
-      "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-      "wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 8,
-    "backlinks": 11
-  },
-  {
-    "id": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "title": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "path": "wiki/Source Cluster — 2026-05-13 Governance and Platform Signals.md",
-    "type": "source-cluster",
-    "status": "active",
-    "aliases": [
-      "Source Cluster — 2026-05-13 Governance and Platform Signals",
-      "wiki/Source Cluster — 2026-05-13 Governance and Platform Signals"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 8,
-    "backlinks": 10
-  },
-  {
-    "id": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "title": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "path": "wiki/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline.md",
-    "type": "source-cluster",
-    "status": "active",
-    "aliases": [
-      "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-      "wiki/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 8,
-    "backlinks": 13
-  },
-  {
-    "id": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "title": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "path": "wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted).md",
-    "type": "writing-packet",
-    "status": "active",
-    "aliases": [
-      "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-      "wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 5,
-    "backlinks": 25
-  },
-  {
     "id": "Spider-Man Loop Hinge Support — Voice Infrastructure Evidence",
     "title": "Spider-Man Loop Hinge Support — Voice Infrastructure Evidence",
     "path": "wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence.md",
@@ -8043,20 +8042,6 @@
     "outlinks": 16,
     "unique_outlinks": 10,
     "backlinks": 32
-  },
-  {
-    "id": "Spider-Man — Version Genealogy",
-    "title": "Spider-Man — Version Genealogy",
-    "path": "wiki/Spider-Man — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Spider-Man — Version Genealogy",
-      "wiki/Spider-Man — Version Genealogy"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 3,
-    "backlinks": 4
   },
   {
     "id": "Stacklight-owner-explainer",
@@ -8652,34 +8637,6 @@
     "backlinks": 57
   },
   {
-    "id": "Trust Advantage — Version Genealogy",
-    "title": "Trust Advantage — Version Genealogy",
-    "path": "wiki/Trust Advantage — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Trust Advantage — Version Genealogy",
-      "wiki/Trust Advantage — Version Genealogy"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 2,
-    "backlinks": 5
-  },
-  {
-    "id": "Unnatural Selection Jurassic Park — Version Genealogy",
-    "title": "Unnatural Selection Jurassic Park — Version Genealogy",
-    "path": "wiki/Unnatural Selection Jurassic Park — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Unnatural Selection Jurassic Park — Version Genealogy",
-      "wiki/Unnatural Selection Jurassic Park — Version Genealogy"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 2,
-    "backlinks": 4
-  },
-  {
     "id": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
     "title": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
     "path": "wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons.md",
@@ -8881,20 +8838,6 @@
     "backlinks": 19
   },
   {
-    "id": "Version Genealogy System",
-    "title": "Version Genealogy System",
-    "path": "wiki/Version Genealogy System.md",
-    "type": "map",
-    "status": "active",
-    "aliases": [
-      "TOPIC — Version Genealogy System",
-      "wiki/Version Genealogy System"
-    ],
-    "outlinks": 42,
-    "unique_outlinks": 42,
-    "backlinks": 22
-  },
-  {
     "id": "Virtually Magical Literally — Queer Agency and the Digital Witch",
     "title": "Virtually Magical Literally — Queer Agency and the Digital Witch",
     "path": "wiki/Virtually Magical Literally — Queer Agency and the Digital Witch.md",
@@ -8922,20 +8865,6 @@
     "outlinks": 4,
     "unique_outlinks": 2,
     "backlinks": 6
-  },
-  {
-    "id": "Voodoo Doll as Archival Problem — Version Genealogy",
-    "title": "Voodoo Doll as Archival Problem — Version Genealogy",
-    "path": "wiki/Voodoo Doll as Archival Problem — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Voodoo Doll as Archival Problem — Version Genealogy",
-      "wiki/Voodoo Doll as Archival Problem — Version Genealogy"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 3,
-    "backlinks": 9
   },
   {
     "id": "Voodoo Doll — Archival Governance and Colonial Naming",
@@ -9070,20 +8999,6 @@
     "outlinks": 14,
     "unique_outlinks": 11,
     "backlinks": 14
-  },
-  {
-    "id": "Wicca 2.0 — Version Genealogy",
-    "title": "Wicca 2.0 — Version Genealogy",
-    "path": "wiki/Wicca 2.0 — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Wicca 2.0 — Version Genealogy",
-      "wiki/Wicca 2.0 — Version Genealogy"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 4,
-    "backlinks": 3
   },
   {
     "id": "Wiki MOC",
@@ -9928,6 +9843,71 @@
     "outlinks": 13,
     "unique_outlinks": 13,
     "backlinks": 29
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "title": "Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "path": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity.md",
+    "type": "source-cluster",
+    "status": "active",
+    "aliases": [
+      "Source Cluster — 2026-05-13 Client and Operator Continuity"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 10,
+    "backlinks": 14
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "title": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "path": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs.md",
+    "type": "source-cluster",
+    "status": "active",
+    "aliases": [
+      "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 8,
+    "backlinks": 11
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "title": "Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "path": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals.md",
+    "type": "source-cluster",
+    "status": "active",
+    "aliases": [
+      "Source Cluster — 2026-05-13 Governance and Platform Signals"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 8,
+    "backlinks": 10
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "title": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "path": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline.md",
+    "type": "source-cluster",
+    "status": "active",
+    "aliases": [
+      "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 8,
+    "backlinks": 13
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "title": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "path": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted).md",
+    "type": "writing-packet",
+    "status": "active",
+    "aliases": [
+      "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 5,
+    "backlinks": 25
   },
   {
     "id": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31",

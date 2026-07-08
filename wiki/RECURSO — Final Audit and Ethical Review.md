@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/RECURSO — Final Audit and Ethical Review.md
 backlink_count: 50
 backlinks:
-- '[[wiki/90-Day $1M Challenge — Status Report]]'
+- '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'

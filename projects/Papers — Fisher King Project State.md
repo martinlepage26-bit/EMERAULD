@@ -24,7 +24,7 @@ vault_area: projects
 canonical_path: projects/Papers — Fisher King Project State.md
 backlink_count: 12
 backlinks:
-- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[wiki/Healing the Fisher King Project Note Templates]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'

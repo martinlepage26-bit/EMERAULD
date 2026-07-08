@@ -23,7 +23,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 

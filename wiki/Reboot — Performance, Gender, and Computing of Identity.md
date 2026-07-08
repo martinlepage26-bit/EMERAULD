@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[maps/Queer Media and Ritual Map]]'

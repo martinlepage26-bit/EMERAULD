@@ -5,7 +5,6 @@ aliases:
 - A Lokian Family
 - Lokian Family paper
 - Pomegranate 2014
-- wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)
 tags:
 - queer-theory
 - pagan-studies
@@ -13,7 +12,7 @@ tags:
 - agency
 - ethnography
 - montreal
-- wiki
+- areas
 - a-lokian-family-queer-and-pagan-agency-in-montreal-pomegranate-2014-md
 - pagan
 - lokian
@@ -22,9 +21,8 @@ tags:
 status: stub
 created: '2026-05-05'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate
-  2014).md
+vault_area: Areas
+canonical_path: Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014).md
 backlink_count: 6
 backlinks:
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'

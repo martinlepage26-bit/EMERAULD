@@ -23,7 +23,7 @@ backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Home]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 

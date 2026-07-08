@@ -78,7 +78,7 @@ backlinks:
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

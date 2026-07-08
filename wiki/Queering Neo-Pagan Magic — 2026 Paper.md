@@ -23,7 +23,7 @@ vault_area: wiki
 canonical_path: wiki/Queering Neo-Pagan Magic — 2026 Paper.md
 backlink_count: 34
 backlinks:
-- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'

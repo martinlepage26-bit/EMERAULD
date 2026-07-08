@@ -3,10 +3,9 @@ type: version-genealogy
 title: Sealed Card Protocol — Version Genealogy
 aliases:
 - Sealed Card Protocol — Version Genealogy
-- wiki/Sealed Card Protocol — Version Genealogy
 tags:
 - version-genealogy
-- wiki
+- areas
 - sealed-card-protocol-version-genealogy-md
 - sealed
 - card
@@ -17,13 +16,13 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Sealed Card Protocol — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Sealed Card Protocol — Version Genealogy.md
 backlink_count: 5
 backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---

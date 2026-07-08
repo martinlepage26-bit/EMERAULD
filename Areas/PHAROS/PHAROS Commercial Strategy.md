@@ -23,8 +23,8 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Commercial Strategy.md
 backlink_count: 66
 backlinks:
-- '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
-- '[[wiki/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
+- '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
+- '[[Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'
 - '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
@@ -72,7 +72,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
-- '[[wiki/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
 - '[[wiki/Strategic Storytelling in the AI Economy]]'
 - '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
 - '[[wiki/TPS-TVQ PHAROS]]'

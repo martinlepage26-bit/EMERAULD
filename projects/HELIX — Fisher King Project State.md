@@ -23,7 +23,7 @@ vault_area: projects
 canonical_path: projects/HELIX — Fisher King Project State.md
 backlink_count: 7
 backlinks:
-- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[wiki/Healing the Fisher King Project Note Templates]]'
 - '[[wiki/Master Project Tracker — 2026]]'

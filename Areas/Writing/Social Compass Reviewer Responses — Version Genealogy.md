@@ -3,12 +3,11 @@ type: version-genealogy
 title: Social Compass Reviewer Responses — Version Genealogy
 aliases:
 - Social Compass Reviewer Responses — Version Genealogy
-- wiki/Social Compass Reviewer Responses — Version Genealogy
 tags:
 - compassai
 - peer-review
 - version-genealogy
-- wiki
+- areas
 - social-compass-reviewer-responses-version-genealogy-md
 - socialcompass
 - reviewers
@@ -19,13 +18,13 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Social Compass Reviewer Responses — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Social Compass Reviewer Responses — Version Genealogy.md
 backlink_count: 4
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Home]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 

@@ -31,7 +31,7 @@ backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
 source_raw_path: raw/Clippings/24 Profitable Digital Products to Sell in 2026 (Start
   Selling Today).md
 source_report: raw/intake-report-20260513.json

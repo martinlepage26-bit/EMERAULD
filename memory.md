@@ -36,7 +36,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
-- '[[wiki/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[archive/session-state/session-state-002]]'

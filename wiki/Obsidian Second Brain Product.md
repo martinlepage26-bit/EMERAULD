@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/Obsidian Second Brain Product.md
 backlink_count: 21
 backlinks:
-- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'

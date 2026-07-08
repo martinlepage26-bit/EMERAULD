@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
 - '[[wiki/Home]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 

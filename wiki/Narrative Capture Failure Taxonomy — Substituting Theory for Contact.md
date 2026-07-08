@@ -28,7 +28,7 @@ canonical_path: wiki/Narrative Capture Failure Taxonomy — Substituting Theory 
   Contact.md
 backlink_count: 18
 backlinks:
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[wiki/AI Self-Report — Epistemic Status Recursion and Perturbation]]'

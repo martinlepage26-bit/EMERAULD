@@ -3,9 +3,8 @@ type: wiki
 title: 5-1 Rule — Locked Spec Hardening (Argus Stress Test)
 aliases:
 - 5-1 Rule — Locked Spec Hardening (Argus Stress Test)
-- wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)
 tags:
-- wiki
+- areas
 - argus
 - 5-1-rule-locked-spec-hardening-argus-stress-test-md
 - payment
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md
 backlink_count: 10
 backlinks:
 - '[[.github/agents/argus.agent]]'

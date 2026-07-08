@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/Dr. Sort Corpus Map — March 2026.md
 backlink_count: 16
 backlinks:
-- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
 - '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'

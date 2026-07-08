@@ -22,7 +22,7 @@ vault_area: wiki
 canonical_path: wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md
 backlink_count: 34
 backlinks:
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/CLI-Anything — Agent Harness for Tool Integration]]'
 - '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'

@@ -25,8 +25,8 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/Obsidian Agent Vault — Launch Kit.md
 backlink_count: 35
 backlinks:
-- '[[wiki/2026-06-29 - idea-discovery]]'
-- '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
+- '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
+- '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'

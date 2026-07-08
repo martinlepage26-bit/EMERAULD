@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/Authority Without Power-Over.md
 backlink_count: 12
 backlinks:
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'

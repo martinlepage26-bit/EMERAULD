@@ -3,7 +3,6 @@ type: source-cluster
 title: Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs
 aliases:
 - Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs
-- wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs
 tags:
 - cluster
 - source-notes
@@ -11,7 +10,7 @@ tags:
 - henry
 - trismegiste
 - source-cluster
-- wiki
+- archive
 - source-cluster-2026-05-13-cultural-and-lyric-corpus-inputs-md
 - lyrics
 - keep
@@ -22,15 +21,15 @@ tags:
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs.md
 backlink_count: 10
 backlinks:
 - '[[wiki/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
-- '[[wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note]]'

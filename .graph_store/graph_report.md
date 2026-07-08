@@ -1,6 +1,6 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:37:22Z
+Built: 2026-07-08T05:37:23Z
 Corpus: wiki/**/*.md
 
 ## Summary
@@ -343,13 +343,13 @@ Corpus: wiki/**/*.md
 - `EMERAULD — Vault and Knowledge Graph`: 7
 - `VAULT-LINKING-AUDIT-2026-05-01`: 6
 - `Groupe Lavoie`: 6
+- `argus.agent`: 5
 - `The Circle Remains Open Toward a Queer Sociology of the Sacred (2)`: 5
 - `Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2)`: 5
 - `Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy`: 5
 - `AI Agent Operations and Governance Manager`: 5
 - `queen-keyport.agent`: 5
 - `hermes.agent`: 5
-- `argus.agent`: 5
 - `Martin Lepage, PhD — External Review Profile (Offline-Ready)`: 5
 - `“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal`: 5
 - `Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members`: 5
@@ -372,11 +372,11 @@ Corpus: wiki/**/*.md
 - `EMERAULD_OS_ARCHITECTURE`: 4
 - `Dr. Sort Filename Normalization — 2026-05-06`: 4
 - `path`: 4
+- `HELIX test Epstein`: 3
+- `HELIX test CC`: 3
 - `BOWIE-DUE`: 3
 - `Recursive Governance Packet Header`: 3
 - `if.whitepapers.bible (v4.23)`: 3
 - `if.infrafabric A Miniseries in Seven Parts`: 3
 - `FIRST DRAFT`: 3
 - `Argus Audit Tracker — Snapshot 2026-04-28`: 3
-- `Queer Religiosities_ An Introduction to...er and Transgender Studies in Religion`: 3
-- `Machines AltarsTRUE`: 3

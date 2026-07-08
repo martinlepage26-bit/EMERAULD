@@ -27,7 +27,7 @@ backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
 source_raw_path: raw/00_Inbox/Raw/Skills as self-operators.txt
 source_report: raw/intake-report-20260513.json
 ---

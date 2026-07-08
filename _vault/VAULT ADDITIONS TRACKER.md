@@ -86,7 +86,7 @@ Latest notes and resources added to the EMERAULD vault.
 
 - 2026-06-29 | [[session-state]], [[memory/agents/Events]], [[memory/agents/Learning]] | Session compaction propagation: full 2026-06-29 session note written to session-state (Obsidian OS scaffold, wiki routing audit, emerge patterns, architecture docs, idea-discovery, Gumroad prep); 3 Events entries (PARA scaffold, architect_scan.py, WSL-path bug); 3 Learning entries (vault-as-project failure mode, 3-products-1-blocker signal, .base JSON format rule).
 
-- 2026-06-29 | [[wiki/2026-06-29 - idea-discovery]] | Idea discovery run: 5 ranked next-direction candidates from project Open Questions and vault pull/momentum signals — Gumroad listing for Obsidian Agent Vault (#1, 31 backlinks, all prerequisites done today), HELIX outreach (#2, 34-day regulatory window), GAIA soft launch (#3, v1.6 built), Papers P0 queue (#4), Echo disambiguation (#5).
+- 2026-06-29 | [[Areas/PHAROS/2026-06-29 - idea-discovery]] | Idea discovery run: 5 ranked next-direction candidates from project Open Questions and vault pull/momentum signals — Gumroad listing for Obsidian Agent Vault (#1, 31 backlinks, all prerequisites done today), HELIX outreach (#2, 34-day regulatory window), GAIA soft launch (#3, v1.6 built), Papers P0 queue (#4), Echo disambiguation (#5).
 
 - 2026-06-29 | [[artifacts/emerge-pattern-report-2026-06-29]] | Pattern report from /obsidian-emerge: 9 named structural patterns across 30-day vault window — vault-as-project, PHAROS launch gap, 3-product commercial threshold, COMPASSai/HELIX priority drift, External Data Registry orphan tasks, unused wellbeing skills, Lavoie disambiguation gap, writing archaeologized, registers 6 weeks stale.
 

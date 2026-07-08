@@ -28,7 +28,7 @@ backlink_count: 3
 backlinks:
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/IP and Manuscript Brief — 2026-05-14]]'
-- '[[wiki/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
 source_raw_path: raw/00_Inbox/Raw/REVISIONS - BRAIN PAPER JOURNAL.txt
 source_report: raw/intake-report-20260513.json
 ---

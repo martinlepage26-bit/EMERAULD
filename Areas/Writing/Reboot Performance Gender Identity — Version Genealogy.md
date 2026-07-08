@@ -22,7 +22,7 @@ backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 

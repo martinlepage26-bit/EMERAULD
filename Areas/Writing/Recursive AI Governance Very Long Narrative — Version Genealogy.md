@@ -25,7 +25,7 @@ backlink_count: 4
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Home]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 

@@ -23,7 +23,7 @@ backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
 - '[[wiki/Home]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 

@@ -24,7 +24,7 @@ vault_area: Areas
 canonical_path: Areas/Writing/Ritual, Magic, and Institutional Authority.md
 backlink_count: 28
 backlinks:
-- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
 - '[[wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'

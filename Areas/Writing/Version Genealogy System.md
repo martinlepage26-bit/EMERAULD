@@ -3,7 +3,6 @@ type: map
 title: Version Genealogy System
 aliases:
 - TOPIC — Version Genealogy System
-- wiki/Version Genealogy System
 tags:
 - index
 - map
@@ -11,7 +10,7 @@ tags:
 - genealogy
 - versions
 - manuscript-history
-- wiki
+- areas
 - version-genealogy-system-md
 - version
 - genealogies
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Version Genealogy System.md
+vault_area: Areas
+canonical_path: Areas/Writing/Version Genealogy System.md
 backlink_count: 18
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
@@ -37,9 +36,9 @@ backlinks:
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
+- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[wiki/Wicca 2.0 — Version Genealogy]]'
+- '[[Areas/Writing/Wicca 2.0 — Version Genealogy]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/skills/genealogy-loupe]]'

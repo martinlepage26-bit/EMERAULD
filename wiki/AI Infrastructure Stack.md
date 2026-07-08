@@ -63,7 +63,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 - '[[wiki/Skill Domain — Design and UX]]'
-- '[[wiki/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
 - '[[wiki/Stacklight-owner-explainer]]'
 - '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
   and Computational Memory Architectures]]'

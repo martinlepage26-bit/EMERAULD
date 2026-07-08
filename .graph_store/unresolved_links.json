@@ -1,5 +1,30 @@
 [
   {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "wiki/Scripto — Scriptorium Lineage and Governance Position",
+    "source_path": "Areas/PHAROS/2026-06-29 - idea-discovery.md"
+  },
+  {
+    "source": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "argus.agent",
+    "source_path": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md"
+  },
+  {
+    "source": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "HELIX test Epstein",
+    "source_path": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md"
+  },
+  {
+    "source": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "HELIX test CC",
+    "source_path": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md"
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "03_THESEUS_QUESTIONS",
+    "source_path": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test.md"
+  },
+  {
     "source": "Areas/PHAROS/AurorA — COMPASSai Input Module",
     "target": "Free-First Architecture",
     "source_path": "Areas/PHAROS/AurorA — COMPASSai Input Module.md"
@@ -7358,31 +7383,6 @@
     "source": "projects/patent-workbench/CLAUDE_TASK",
     "target": "path",
     "source_path": "projects/patent-workbench/CLAUDE_TASK.md"
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "wiki/Scripto — Scriptorium Lineage and Governance Position",
-    "source_path": "wiki/2026-06-29 - idea-discovery.md"
-  },
-  {
-    "source": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "target": "argus.agent",
-    "source_path": "wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md"
-  },
-  {
-    "source": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "target": "HELIX test Epstein",
-    "source_path": "wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md"
-  },
-  {
-    "source": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "target": "HELIX test CC",
-    "source_path": "wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md"
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "03_THESEUS_QUESTIONS",
-    "source_path": "wiki/AGATHA Failure Pack — Theseus Continuity Stress Test.md"
   },
   {
     "source": "AI Ethics Literature — Contestable Governance Artifacts",

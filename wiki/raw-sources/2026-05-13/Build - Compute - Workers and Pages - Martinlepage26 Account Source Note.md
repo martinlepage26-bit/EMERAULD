@@ -30,7 +30,7 @@ backlink_count: 6
 backlinks:
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
-- '[[wiki/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/Orphan Index — Raw Sources — 2026-05-06]]'
 - '[[session-state]]'

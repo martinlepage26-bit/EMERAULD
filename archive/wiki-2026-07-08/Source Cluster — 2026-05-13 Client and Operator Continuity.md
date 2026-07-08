@@ -3,7 +3,6 @@ type: source-cluster
 title: Source Cluster — 2026-05-13 Client and Operator Continuity
 aliases:
 - Source Cluster — 2026-05-13 Client and Operator Continuity
-- wiki/Source Cluster — 2026-05-13 Client and Operator Continuity
 tags:
 - cluster
 - source-notes
@@ -11,7 +10,7 @@ tags:
 - henry
 - trismegiste
 - source-cluster
-- wiki
+- archive
 - source-cluster-2026-05-13-client-and-operator-continuity-md
 - sources
 - client
@@ -21,24 +20,20 @@ tags:
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Source Cluster — 2026-05-13 Client and Operator Continuity.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity.md
 backlink_count: 12
 backlinks:
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Operator Continuity Memo — 2026-05-14]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
-- '[[wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
-- '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source
-  Note]]'
-- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a
-  live X — Source Note]]'
-- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker
-  — Source Note]]'
-- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send —
-  Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/Email Député Guilbault AE — Source Note]]'
 cluster_id: client_ops

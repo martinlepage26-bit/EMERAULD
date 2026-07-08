@@ -3,11 +3,10 @@ type: project-state
 title: 90-Day $1M Challenge — Status Report
 aliases:
 - 90-Day $1M Challenge — Status Report
-- wiki/90-Day $1M Challenge — Status Report
 tags:
 - project
 - project-state
-- wiki
+- areas
 - 90-day-1m-challenge-status-report-md
 - days
 - revenue
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/90-Day $1M Challenge — Status Report.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/90-Day $1M Challenge — Status Report.md
 backlink_count: 18
 backlinks:
 - '[[Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'

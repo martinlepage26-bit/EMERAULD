@@ -42,7 +42,7 @@ backlinks:
 - '[[Resources/Plugin Recommendations]]'
 - '[[wiki/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
+- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 - '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
   and Computational Memory Architectures]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'

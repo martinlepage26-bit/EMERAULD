@@ -33,8 +33,8 @@ vault_area: Areas
 canonical_path: Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone.md
 backlink_count: 118
 backlinks:
-- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
 - '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
@@ -125,7 +125,7 @@ backlinks:
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
-- '[[wiki/Sealed Card Protocol — Version Genealogy]]'
+- '[[Areas/Writing/Sealed Card Protocol — Version Genealogy]]'
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'

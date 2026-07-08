@@ -1,305 +1,5 @@
 [
   {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning",
-    "count": 1
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
-    "count": 2
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
-    "count": 2
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "Areas/PHAROS/PHAROS Scholarly Publication Track",
-    "count": 1
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "Areas/Writing/Academic Paper Pipeline",
-    "count": 1
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
-    "count": 1
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
-    "count": 1
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "Obsidian Second Brain Product",
-    "count": 1
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)",
-    "count": 2
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "projects/Echo — Fisher King Project State",
-    "count": 1
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "projects/GAIA — Fisher King Project State",
-    "count": 1
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "projects/HELIX — Fisher King Project State",
-    "count": 1
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "projects/Papers — Fisher King Project State",
-    "count": 1
-  },
-  {
-    "source": "2026-06-29 - idea-discovery",
-    "target": "projects/Second Brain — Fisher King Project State",
-    "count": 1
-  },
-  {
-    "source": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "count": 1
-  },
-  {
-    "source": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "target": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
-    "count": 1
-  },
-  {
-    "source": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "count": 1
-  },
-  {
-    "source": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "target": "Areas/PHAROS/PHAROS Procurement-Unblock Sprint",
-    "count": 1
-  },
-  {
-    "source": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "target": "Governance Stress-Test Protocols — Index",
-    "count": 1
-  },
-  {
-    "source": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "target": "Trust Advantage Analysis — Sales and AI Governance",
-    "count": 1
-  },
-  {
-    "source": "90-Day $1M Challenge — Status Report",
-    "target": "Areas/PHAROS/PHAROS Invention Disclosure",
-    "count": 2
-  },
-  {
-    "source": "90-Day $1M Challenge — Status Report",
-    "target": "Areas/PHAROS/PHAROS Licensing Prospectus",
-    "count": 3
-  },
-  {
-    "source": "90-Day $1M Challenge — Status Report",
-    "target": "Founder Charter — Lepage and Stocker",
-    "count": 1
-  },
-  {
-    "source": "90-Day $1M Challenge — Status Report",
-    "target": "Master Project Tracker — 2026",
-    "count": 2
-  },
-  {
-    "source": "90-Day $1M Challenge — Status Report",
-    "target": "RECURSO — Final Audit and Ethical Review",
-    "count": 1
-  },
-  {
-    "source": "90-Day $1M Challenge — Status Report",
-    "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
-    "count": 1
-  },
-  {
-    "source": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 1
-  },
-  {
-    "source": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
-    "count": 2
-  },
-  {
-    "source": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 1
-  },
-  {
-    "source": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "target": "Areas/Writing/Ritual, Magic, and Institutional Authority",
-    "count": 1
-  },
-  {
-    "source": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "target": "Dr. Sort Corpus Map — March 2026",
-    "count": 1
-  },
-  {
-    "source": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "target": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
-    "count": 3
-  },
-  {
-    "source": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "target": "Neo-Shamanism and Gender — Montreal Pagan Community",
-    "count": 2
-  },
-  {
-    "source": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "target": "Queering Neo-Pagan Magic — 2026 Paper",
-    "count": 2
-  },
-  {
-    "source": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "count": 1
-  },
-  {
-    "source": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
-    "count": 2
-  },
-  {
-    "source": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "count": 2
-  },
-  {
-    "source": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "target": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "AI Governance Failure Cases",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Areas/PHAROS/PHAROS Licensing Prospectus",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Authority Without Power-Over",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Diamond-Eyes — Aesthetic Refinement Skill",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Governance Stress-Test Protocols — Index",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Media Studies and Pop Culture Analysis",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "RECURSO — Recursive Governance Test Archive",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Recursive Continuity Without Memory — AI Identity Across Sessions",
-    "count": 1
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "count": 4
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "Resources/Recursive Governance Theory",
-    "count": 2
-  },
-  {
-    "source": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "target": "The Ballad of the Witches' Road — Analysis",
-    "count": 1
-  },
-  {
     "source": "AI Ethics Literature — Contestable Governance Artifacts",
     "target": "AI Governance Manifesto — Upstream Institutional Practice",
     "count": 3
@@ -381,11 +81,6 @@
   },
   {
     "source": "AI Governance Failure Cases",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Failure Cases",
     "target": "AI Governance Course — Ethics, Failure Modes, and Practice",
     "count": 1
   },
@@ -407,6 +102,11 @@
   {
     "source": "AI Governance Failure Cases",
     "target": "Architectural AI Governance — Willis and PBSAI",
+    "count": 1
+  },
+  {
+    "source": "AI Governance Failure Cases",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -1256,13 +956,13 @@
   },
   {
     "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "count": 1
+    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "count": 3
   },
   {
     "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "count": 3
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "count": 1
   },
   {
     "source": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
@@ -2275,6 +1975,261 @@
     "count": 1
   },
   {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "Areas/PHAROS/PHAROS Scholarly Publication Track",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "Areas/Writing/Academic Paper Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "Obsidian Second Brain Product",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "projects/Echo — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "projects/GAIA — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "projects/HELIX — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "projects/Papers — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "target": "projects/Second Brain — Fisher King Project State",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "Areas/PHAROS/PHAROS Procurement-Unblock Sprint",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "Governance Stress-Test Protocols — Index",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "Trust Advantage Analysis — Sales and AI Governance",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "target": "Areas/PHAROS/PHAROS Invention Disclosure",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "target": "Areas/PHAROS/PHAROS Licensing Prospectus",
+    "count": 3
+  },
+  {
+    "source": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "target": "Founder Charter — Lepage and Stocker",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "target": "Master Project Tracker — 2026",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "target": "RECURSO — Final Audit and Ethical Review",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "target": "Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "AI Governance Failure Cases",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/PHAROS/PHAROS Licensing Prospectus",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Authority Without Power-Over",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Diamond-Eyes — Aesthetic Refinement Skill",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Governance Stress-Test Protocols — Index",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Media Studies and Pop Culture Analysis",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "RECURSO — Recursive Governance Test Archive",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Recursive Continuity Without Memory — AI Identity Across Sessions",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
+    "count": 4
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Resources/Recursive Governance Theory",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "The Ballad of the Witches' Road — Analysis",
+    "count": 1
+  },
+  {
     "source": "Areas/PHAROS/AREA",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
@@ -2516,7 +2471,7 @@
   },
   {
     "source": "Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS",
-    "target": "90-Day $1M Challenge — Status Report",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 3
   },
   {
@@ -2931,26 +2886,6 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "90-Day $1M Challenge — Status Report",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "AI Ethics Literature — Contestable Governance Artifacts",
     "count": 1
   },
@@ -3062,6 +2997,26 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -3996,11 +3951,6 @@
   },
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "Stacklight-owner-explainer",
     "count": 1
   },
@@ -4202,6 +4152,11 @@
   {
     "source": "Areas/PHAROS/Governance and PHAROS MOC",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
     "count": 1
   },
   {
@@ -4811,7 +4766,7 @@
   },
   {
     "source": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
-    "target": "90-Day $1M Challenge — Status Report",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 1
   },
   {
@@ -5611,12 +5566,12 @@
   },
   {
     "source": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
-    "target": "2026-06-29 - idea-discovery",
+    "target": "Areas/PHAROS/2026-06-29 - idea-discovery",
     "count": 1
   },
   {
     "source": "Areas/PHAROS/Obsidian Agent Vault — Launch Kit",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
     "count": 1
   },
   {
@@ -5966,16 +5921,6 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "target": "90-Day $1M Challenge — Status Report",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "target": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "count": 1
-  },
-  {
-    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
     "target": "AI Governance Failure Cases",
     "count": 1
   },
@@ -6012,6 +5957,16 @@
   {
     "source": "Areas/PHAROS/PHAROS Commercial Strategy",
     "target": "Architectural AI Governance — Willis and PBSAI",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "count": 1
+  },
+  {
+    "source": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
     "count": 1
   },
   {
@@ -6366,7 +6321,7 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS Licensing Prospectus",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -6496,12 +6451,12 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS Procurement-Unblock Sprint",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "AI Governance Public Statement and Market Impact Pack",
     "count": 1
   },
   {
     "source": "Areas/PHAROS/PHAROS Procurement-Unblock Sprint",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
     "count": 1
   },
   {
@@ -6866,13 +6821,13 @@
   },
   {
     "source": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
-    "target": "90-Day $1M Challenge — Status Report",
-    "count": 2
+    "target": "AI Governance Public Statement and Market Impact Pack",
+    "count": 1
   },
   {
     "source": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 1
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "count": 2
   },
   {
     "source": "Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
@@ -9301,11 +9256,6 @@
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "90-Day $1M Challenge — Status Report",
-    "count": 1
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
     "target": "AI Identity and Phenomenology",
     "count": 1
   },
@@ -9332,6 +9282,11 @@
   {
     "source": "Areas/Personal/Personal and Projects MOC",
     "target": "Agent Session Phenomenology",
+    "count": 1
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 1
   },
   {
@@ -9896,11 +9851,6 @@
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 2
-  },
-  {
-    "source": "Areas/Personal/Personal and Projects MOC",
     "target": "TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)",
     "count": 1
   },
@@ -9996,6 +9946,11 @@
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 2
+  },
+  {
+    "source": "Areas/Personal/Personal and Projects MOC",
     "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home",
     "count": 2
   },
@@ -10052,6 +10007,51 @@
   {
     "source": "Areas/Personal/Personal and Projects MOC",
     "target": "voice11 — ElevenLabs TTS Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "target": "Areas/Writing/Ritual, Magic, and Institutional Authority",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "target": "Dr. Sort Corpus Map — March 2026",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "target": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
+    "count": 3
+  },
+  {
+    "source": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "target": "Neo-Shamanism and Gender — Montreal Pagan Community",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "target": "Queering Neo-Pagan Magic — 2026 Paper",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
     "count": 1
   },
   {
@@ -10261,6 +10261,21 @@
   },
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
+    "target": "Areas/Writing/Social Compass Reviewer Responses — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Academic Paper Pipeline",
+    "target": "Areas/Writing/Trust Advantage — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Academic Paper Pipeline",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "Chat Node Instructions — 16-Node Scholarly Paper Pipeline",
     "count": 1
   },
@@ -10376,17 +10391,7 @@
   },
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
-    "target": "Social Compass Reviewer Responses — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Academic Paper Pipeline",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
     "count": 1
   },
   {
@@ -10401,17 +10406,12 @@
   },
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
-    "target": "Trust Advantage — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Academic Paper Pipeline",
-    "target": "Version Genealogy System",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Academic Paper Pipeline",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
     "count": 1
   },
   {
@@ -11046,7 +11046,7 @@
   },
   {
     "source": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -11451,6 +11451,11 @@
   },
   {
     "source": "Areas/Writing/Legitimacy Machines MOC",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Legitimacy Machines MOC",
     "target": "Areas/Writing/Writing and Novels MOC",
     "count": 1
   },
@@ -11531,11 +11536,6 @@
   },
   {
     "source": "Areas/Writing/Legitimacy Machines MOC",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Legitimacy Machines MOC",
     "target": "Vault Cluster Discovery and Linking Opportunities — 2026-05-01",
     "count": 1
   },
@@ -11561,17 +11561,17 @@
   },
   {
     "source": "Areas/Writing/Legitimacy Machines MOC",
-    "target": "Version Genealogy System",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Legitimacy Machines MOC",
     "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
     "count": 1
   },
   {
     "source": "Areas/Writing/Legitimacy Machines MOC",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Legitimacy Machines MOC",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
     "count": 1
   },
   {
@@ -11801,6 +11801,11 @@
   },
   {
     "source": "Areas/Writing/Manuscript Pipeline MOC",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Manuscript Pipeline MOC",
     "target": "Areas/governanceframework/README",
     "count": 1
   },
@@ -11886,16 +11891,6 @@
   },
   {
     "source": "Areas/Writing/Manuscript Pipeline MOC",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Manuscript Pipeline MOC",
-    "target": "Version Genealogy System",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Manuscript Pipeline MOC",
     "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
     "count": 1
   },
@@ -11917,6 +11912,11 @@
   {
     "source": "Areas/Writing/Manuscript Pipeline MOC",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Manuscript Pipeline MOC",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
     "count": 1
   },
   {
@@ -12021,6 +12021,11 @@
   },
   {
     "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
     "target": "Martin Lepage Professional Identity",
     "count": 2
   },
@@ -12038,11 +12043,6 @@
     "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
     "target": "PHAROS Final Voice Operator — GPT Creator",
     "count": 1
-  },
-  {
-    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
-    "target": "Version Genealogy System",
-    "count": 2
   },
   {
     "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
@@ -12466,17 +12466,17 @@
   },
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "target": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
   },
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "target": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
     "count": 1
   },
   {
@@ -12552,6 +12552,11 @@
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "target": "Areas/Writing/Version Genealogy System",
     "count": 1
   },
   {
@@ -12781,11 +12786,6 @@
   },
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
     "count": 1
   },
@@ -12806,11 +12806,6 @@
   },
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "target": "Version Genealogy System",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "Virtually Magical Literally — Queer Agency and the Digital Witch",
     "count": 1
   },
@@ -12822,6 +12817,11 @@
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
     "count": 1
   },
   {
@@ -12927,6 +12927,16 @@
   {
     "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
     "target": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
+    "target": "Areas/Writing/Wicca 2.0 — Version Genealogy",
     "count": 1
   },
   {
@@ -13136,11 +13146,6 @@
   },
   {
     "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
-    "target": "Version Genealogy System",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
     "target": "Virtually Magical Literally — Queer Agency and the Digital Witch",
     "count": 1
   },
@@ -13153,11 +13158,6 @@
     "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
     "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "count": 2
-  },
-  {
-    "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
-    "target": "Wicca 2.0 — Version Genealogy",
-    "count": 1
   },
   {
     "source": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy",
@@ -13462,6 +13462,11 @@
   {
     "source": "Areas/Writing/Research and Papers MOC",
     "target": "Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Research and Papers MOC",
+    "target": "Areas/Writing/Version Genealogy System",
     "count": 1
   },
   {
@@ -14096,11 +14101,6 @@
   },
   {
     "source": "Areas/Writing/Research and Papers MOC",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Research and Papers MOC",
     "target": "Spider-Man Loop Hinge Support — Voice Infrastructure Evidence",
     "count": 1
   },
@@ -14216,11 +14216,6 @@
   },
   {
     "source": "Areas/Writing/Research and Papers MOC",
-    "target": "Version Genealogy System",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Research and Papers MOC",
     "target": "Virtually Magical Literally — Queer Agency and the Digital Witch",
     "count": 1
   },
@@ -14287,6 +14282,11 @@
   {
     "source": "Areas/Writing/Research and Papers MOC",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Research and Papers MOC",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
@@ -14865,6 +14865,76 @@
     "count": 1
   },
   {
+    "source": "Areas/Writing/Sealed Card Protocol — Version Genealogy",
+    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Sealed Card Protocol — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Sealed Card Protocol — Version Genealogy",
+    "target": "Martin Lepage Professional Identity",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Sealed Card Protocol — Version Genealogy",
+    "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "target": "Areas/PHAROS/PHAROS Method — Technical Reference",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "target": "Areas/Personal/Personal and Projects MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "target": "Master Project Tracker — 2026",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "target": "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "target": "September 2024 Research Retrospective",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "target": "hephaistos/agents/Trismegiste Personal AI Assistant",
+    "count": 1
+  },
+  {
     "source": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
     "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
     "count": 3
@@ -14892,6 +14962,36 @@
   {
     "source": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
     "target": "bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Social Compass Reviewer Responses — Version Genealogy",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Social Compass Reviewer Responses — Version Genealogy",
+    "target": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Social Compass Reviewer Responses — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Spider-Man — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Spider-Man — Version Genealogy",
+    "target": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Spider-Man — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
     "count": 1
   },
   {
@@ -15015,6 +15115,251 @@
     "count": 1
   },
   {
+    "source": "Areas/Writing/Trust Advantage — Version Genealogy",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Trust Advantage — Version Genealogy",
+    "target": "Trust Advantage Analysis — Sales and AI Governance",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Unnatural Selection Jurassic Park — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Unnatural Selection Jurassic Park — Version Genealogy",
+    "target": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/PHAROS/PHAROS Scholarly Publication Track",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Academic Paper Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Alchemy of the Wound — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Breath of the Astral Year — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/CORPUS Novel — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Circle Remains Open — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/First Method Paper — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Governance by Denial — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Healthcare Packet — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Legitimacy Machines MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Manuscript Pipeline MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Pagan Magic — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Sealed Card Protocol — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Social Compass Reviewer Responses — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Spider-Man — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Trust Advantage — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Unnatural Selection Jurassic Park — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Novel and Creative Corpus",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "PHAROS Skill Corpus Change Genealogy — 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Reboot — Performance, Gender, and Computing of Identity",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Resources/Evidence Discipline and Epistemics",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Skill Corpus Genealogy Delta — 2026-05-06",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "Voodoo Doll — Archival Governance and Colonial Naming",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "genealogy/Martin Voice Spec — Stage Map",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Version Genealogy System",
+    "target": "genealogy/Martin Voice Spec — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy",
+    "target": "Voodoo Doll — Archival Governance and Colonial Naming",
+    "count": 1
+  },
+  {
     "source": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
     "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "count": 3
@@ -15072,6 +15417,26 @@
   {
     "source": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
     "target": "Queering Neo-Pagan Magic — 2026 Paper",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Wicca 2.0 — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Wicca 2.0 — Version Genealogy",
+    "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Wicca 2.0 — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Wicca 2.0 — Version Genealogy",
+    "target": "Areas/Writing/Version Genealogy System",
     "count": 1
   },
   {
@@ -15271,12 +15636,57 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Sealed Card Protocol — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Social Compass Reviewer Responses — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Spider-Man — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge",
     "count": 1
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Trust Advantage — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Unnatural Selection Jurassic Park — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Wicca 2.0 — Version Genealogy",
     "count": 1
   },
   {
@@ -15476,27 +15886,7 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Sealed Card Protocol — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "September 2024 Retrospective — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Social Compass Reviewer Responses — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Social Stratification, Intersectionality, and the Why Be King Manuscript",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Spider-Man — Version Genealogy",
     "count": 1
   },
   {
@@ -15536,16 +15926,6 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Trust Advantage — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Unnatural Selection Jurassic Park — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Vault Delta Interconnectivity Atlas — 2026-05-06",
     "count": 1
   },
@@ -15556,22 +15936,7 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Version Genealogy System",
-    "count": 2
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Voodoo Doll as Archival Problem — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Wicca 2.0 — Version Genealogy",
     "count": 1
   },
   {
@@ -18241,11 +18606,6 @@
   },
   {
     "source": "Cultural and Lyric Corpus Memo — 2026-05-14",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "count": 2
-  },
-  {
-    "source": "Cultural and Lyric Corpus Memo — 2026-05-14",
     "target": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
     "count": 1
   },
@@ -18253,6 +18613,11 @@
     "source": "Cultural and Lyric Corpus Memo — 2026-05-14",
     "target": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
     "count": 1
+  },
+  {
+    "source": "Cultural and Lyric Corpus Memo — 2026-05-14",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "count": 2
   },
   {
     "source": "Cultural and Lyric Corpus Memo — 2026-05-14",
@@ -18956,13 +19321,13 @@
   },
   {
     "source": "Documents Root Intake — Hermes Action Map 2026-04-28",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 3
+    "target": "AI Governance Public Statement and Market Impact Pack",
+    "count": 4
   },
   {
     "source": "Documents Root Intake — Hermes Action Map 2026-04-28",
-    "target": "AI Governance Public Statement and Market Impact Pack",
-    "count": 4
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "count": 3
   },
   {
     "source": "Documents Root Intake — Hermes Action Map 2026-04-28",
@@ -19116,11 +19481,6 @@
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 3
-  },
-  {
-    "source": "Documents Root Loose Files Intake — 2026-04-28",
     "target": "AI Governance Public Statement and Market Impact Pack",
     "count": 1
   },
@@ -19128,6 +19488,11 @@
     "source": "Documents Root Loose Files Intake — 2026-04-28",
     "target": "APEX Papers — Research Archive Map",
     "count": 1
+  },
+  {
+    "source": "Documents Root Loose Files Intake — 2026-04-28",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "count": 3
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
@@ -19531,12 +19896,12 @@
   },
   {
     "source": "Dr. Sort Corpus Map — March 2026",
-    "target": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
   },
   {
     "source": "Dr. Sort Corpus Map — March 2026",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
     "count": 1
   },
   {
@@ -20431,12 +20796,12 @@
   },
   {
     "source": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
-    "target": "90-Day $1M Challenge — Status Report",
+    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
     "count": 2
   },
   {
     "source": "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
-    "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 2
   },
   {
@@ -21181,7 +21546,7 @@
   },
   {
     "source": "Founder Charter — Lepage and Stocker",
-    "target": "90-Day $1M Challenge — Status Report",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 1
   },
   {
@@ -21836,11 +22201,6 @@
   },
   {
     "source": "Governance Controls and Mechanisms",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 1
-  },
-  {
-    "source": "Governance Controls and Mechanisms",
     "target": "AI Governance Failure Cases",
     "count": 1
   },
@@ -21877,6 +22237,11 @@
   {
     "source": "Governance Controls and Mechanisms",
     "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "count": 1
+  },
+  {
+    "source": "Governance Controls and Mechanisms",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -22166,7 +22531,7 @@
   },
   {
     "source": "Governance Stress-Test Protocols — Index",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -22361,11 +22726,6 @@
   },
   {
     "source": "Governance and Platform Signals Memo — 2026-05-14",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "count": 2
-  },
-  {
-    "source": "Governance and Platform Signals Memo — 2026-05-14",
     "target": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
     "count": 1
   },
@@ -22373,6 +22733,11 @@
     "source": "Governance and Platform Signals Memo — 2026-05-14",
     "target": "Trust Advantage Analysis — Sales and AI Governance",
     "count": 1
+  },
+  {
+    "source": "Governance and Platform Signals Memo — 2026-05-14",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "count": 2
   },
   {
     "source": "Governance by Denial",
@@ -22616,7 +22981,7 @@
   },
   {
     "source": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 3
   },
   {
@@ -22876,13 +23241,13 @@
   },
   {
     "source": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 2
+    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "count": 1
   },
   {
     "source": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
-    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
-    "count": 1
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "count": 2
   },
   {
     "source": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
@@ -23526,16 +23891,6 @@
   },
   {
     "source": "Home",
-    "target": "90-Day $1M Challenge — Status Report",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "AI Governance Failure Cases",
     "count": 1
   },
@@ -23587,6 +23942,16 @@
   {
     "source": "Home",
     "target": "Architectural AI Governance — Willis and PBSAI",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -23851,8 +24216,28 @@
   },
   {
     "source": "Home",
+    "target": "Areas/Writing/Sealed Card Protocol — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
     "count": 2
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Social Compass Reviewer Responses — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Spider-Man — Version Genealogy",
+    "count": 1
   },
   {
     "source": "Home",
@@ -23861,7 +24246,32 @@
   },
   {
     "source": "Home",
+    "target": "Areas/Writing/Trust Advantage — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Unnatural Selection Jurassic Park — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Wicca 2.0 — Version Genealogy",
     "count": 1
   },
   {
@@ -24356,11 +24766,6 @@
   },
   {
     "source": "Home",
-    "target": "Sealed Card Protocol — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "Self-Polygraph Protocol and Suprametacognition",
     "count": 1
   },
@@ -24371,22 +24776,12 @@
   },
   {
     "source": "Home",
-    "target": "September 2024 Retrospective — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "Slayer Recursion Protocol — README and Repositioning",
     "count": 1
   },
   {
     "source": "Home",
     "target": "Social Compass Reviewer Response — Wicca and Agatha All Along",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Social Compass Reviewer Responses — Version Genealogy",
     "count": 1
   },
   {
@@ -24407,11 +24802,6 @@
   {
     "source": "Home",
     "target": "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Spider-Man — Version Genealogy",
     "count": 1
   },
   {
@@ -24491,16 +24881,6 @@
   },
   {
     "source": "Home",
-    "target": "Trust Advantage — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Unnatural Selection Jurassic Park — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
     "count": 1
   },
@@ -24536,17 +24916,7 @@
   },
   {
     "source": "Home",
-    "target": "Version Genealogy System",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "Virtually Magical Literally — Queer Agency and the Digital Witch",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Voodoo Doll as Archival Problem — Version Genealogy",
     "count": 1
   },
   {
@@ -24557,11 +24927,6 @@
   {
     "source": "Home",
     "target": "WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Wicca 2.0 — Version Genealogy",
     "count": 1
   },
   {
@@ -24676,7 +25041,7 @@
   },
   {
     "source": "IP and Manuscript Brief — 2026-05-14",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
     "count": 2
   },
   {
@@ -24846,7 +25211,7 @@
   },
   {
     "source": "InfraFabric Architecture",
-    "target": "90-Day $1M Challenge — Status Report",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 1
   },
   {
@@ -24891,11 +25256,6 @@
   },
   {
     "source": "InfraFabric Codex Alignment — System-Shaper Frame",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "count": 1
-  },
-  {
-    "source": "InfraFabric Codex Alignment — System-Shaper Frame",
     "target": "AI Infrastructure Stack",
     "count": 1
   },
@@ -24907,6 +25267,11 @@
   {
     "source": "InfraFabric Codex Alignment — System-Shaper Frame",
     "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "count": 1
+  },
+  {
+    "source": "InfraFabric Codex Alignment — System-Shaper Frame",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
     "count": 1
   },
   {
@@ -25291,7 +25656,7 @@
   },
   {
     "source": "L99 PHAROS Migration Artifacts 2026-04-19",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 2
   },
   {
@@ -26556,17 +26921,17 @@
   },
   {
     "source": "L’esprit du don — Godbout & Caillé (1992)",
+    "target": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "L’esprit du don — Godbout & Caillé (1992)",
     "target": "Care, Ethics, and Governance",
     "count": 1
   },
   {
     "source": "L’esprit du don — Godbout & Caillé (1992)",
     "target": "Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)",
-    "count": 1
-  },
-  {
-    "source": "L’esprit du don — Godbout & Caillé (1992)",
-    "target": "Voodoo Doll as Archival Problem — Version Genealogy",
     "count": 1
   },
   {
@@ -27281,7 +27646,7 @@
   },
   {
     "source": "Martin Lepage — AI Governance Consulting Profile Assessment",
-    "target": "90-Day $1M Challenge — Status Report",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 3
   },
   {
@@ -27821,6 +28186,11 @@
   },
   {
     "source": "Martin Voice Spec — Stage Map",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 2
+  },
+  {
+    "source": "Martin Voice Spec — Stage Map",
     "target": "Diamond-Eyes — Aesthetic Refinement Skill",
     "count": 1
   },
@@ -27835,16 +28205,6 @@
     "count": 1
   },
   {
-    "source": "Martin Voice Spec — Stage Map",
-    "target": "Version Genealogy System",
-    "count": 2
-  },
-  {
-    "source": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
-    "target": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "count": 2
-  },
-  {
     "source": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
@@ -27857,6 +28217,11 @@
   {
     "source": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
     "target": "Areas/PHAROS/PHAROS — Origin and Doctrine",
+    "count": 2
+  },
+  {
+    "source": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
+    "target": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
     "count": 2
   },
   {
@@ -27921,11 +28286,6 @@
   },
   {
     "source": "Masculinités et ritualités — La magie chez les Radical Faeries",
-    "target": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "count": 2
-  },
-  {
-    "source": "Masculinités et ritualités — La magie chez les Radical Faeries",
     "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "count": 2
   },
@@ -27933,6 +28293,11 @@
     "source": "Masculinités et ritualités — La magie chez les Radical Faeries",
     "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
     "count": 1
+  },
+  {
+    "source": "Masculinités et ritualités — La magie chez les Radical Faeries",
+    "target": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "count": 2
   },
   {
     "source": "Masculinités et ritualités — La magie chez les Radical Faeries",
@@ -27966,7 +28331,7 @@
   },
   {
     "source": "Master Project Tracker — 2026",
-    "target": "90-Day $1M Challenge — Status Report",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 1
   },
   {
@@ -28131,11 +28496,6 @@
   },
   {
     "source": "Master Project Tracker — 2026",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "Master Project Tracker — 2026",
     "target": "The Broken Frequency of the Word — Novel",
     "count": 1
   },
@@ -28162,6 +28522,11 @@
   {
     "source": "Master Project Tracker — 2026",
     "target": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
+    "count": 1
+  },
+  {
+    "source": "Master Project Tracker — 2026",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
     "count": 1
   },
   {
@@ -28716,11 +29081,6 @@
   },
   {
     "source": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 1
-  },
-  {
-    "source": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
     "target": "AI Ethics Literature — Contestable Governance Artifacts",
     "count": 1
   },
@@ -28732,6 +29092,11 @@
   {
     "source": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
     "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
+    "count": 1
+  },
+  {
+    "source": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -29126,6 +29491,11 @@
   },
   {
     "source": "Novel and Creative Corpus",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 1
+  },
+  {
+    "source": "Novel and Creative Corpus",
     "target": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
     "count": 1
   },
@@ -29235,11 +29605,6 @@
     "count": 2
   },
   {
-    "source": "Novel and Creative Corpus",
-    "target": "Version Genealogy System",
-    "count": 1
-  },
-  {
     "source": "OPEN RISKS — Three Governance Blindspots Requiring Recursive Control",
     "target": "Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
@@ -29301,17 +29666,17 @@
   },
   {
     "source": "OUTLIERS — Five Notes That Break the Architecture",
-    "target": "90-Day $1M Challenge — Status Report",
-    "count": 1
-  },
-  {
-    "source": "OUTLIERS — Five Notes That Break the Architecture",
     "target": "AI Iterative Loop — Frame Capture and Recursive Validation Failure",
     "count": 1
   },
   {
     "source": "OUTLIERS — Five Notes That Break the Architecture",
     "target": "Agatha Unified Skill System — Eight Sovereign Operators",
+    "count": 1
+  },
+  {
+    "source": "OUTLIERS — Five Notes That Break the Architecture",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 1
   },
   {
@@ -29711,11 +30076,6 @@
   },
   {
     "source": "Operator Continuity Memo — 2026-05-14",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 2
-  },
-  {
-    "source": "Operator Continuity Memo — 2026-05-14",
     "target": "The Lost-Loop Pattern — Avoidance Through System-Building",
     "count": 2
   },
@@ -29723,6 +30083,11 @@
     "source": "Operator Continuity Memo — 2026-05-14",
     "target": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
     "count": 1
+  },
+  {
+    "source": "Operator Continuity Memo — 2026-05-14",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 2
   },
   {
     "source": "Operator Continuity Memo — 2026-05-14",
@@ -30291,6 +30656,11 @@
   },
   {
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 2
+  },
+  {
+    "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
     "target": "Martin Lepage Professional Identity",
     "count": 2
   },
@@ -30298,11 +30668,6 @@
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
     "target": "Martin Voice Spec — Stage Map",
     "count": 1
-  },
-  {
-    "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
-    "target": "Version Genealogy System",
-    "count": 2
   },
   {
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
@@ -30861,17 +31226,17 @@
   },
   {
     "source": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
-    "target": "90-Day $1M Challenge — Status Report",
-    "count": 1
-  },
-  {
-    "source": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
     "target": "AI Governance Public Statement and Market Impact Pack",
     "count": 2
   },
   {
     "source": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
     "target": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 1
   },
   {
@@ -31356,6 +31721,11 @@
   },
   {
     "source": "PHAROS Skill Corpus Change Genealogy — 2026-05-06",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Skill Corpus Change Genealogy — 2026-05-06",
     "target": "Claude Code Skill Corpus",
     "count": 2
   },
@@ -31391,22 +31761,12 @@
   },
   {
     "source": "PHAROS Skill Corpus Change Genealogy — 2026-05-06",
-    "target": "Version Genealogy System",
-    "count": 1
-  },
-  {
-    "source": "PHAROS Skill Corpus Change Genealogy — 2026-05-06",
     "target": "memory/local-session/project_forging_integration",
     "count": 1
   },
   {
     "source": "PHAROS Skill Corpus Change Genealogy — 2026-05-06",
     "target": "memory/local-session/project_hephaistos",
-    "count": 1
-  },
-  {
-    "source": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
-    "target": "90-Day $1M Challenge — Status Report",
     "count": 1
   },
   {
@@ -31418,6 +31778,11 @@
     "source": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
     "target": "AI Governance Sprint — One-Page Sellable Packet",
     "count": 2
+  },
+  {
+    "source": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "count": 1
   },
   {
     "source": "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
@@ -31436,7 +31801,7 @@
   },
   {
     "source": "PHAROS Workspace Inventory 2026-04-18",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -31541,6 +31906,11 @@
   },
   {
     "source": "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
+    "target": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "count": 2
+  },
+  {
+    "source": "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
     "target": "Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch",
     "count": 2
   },
@@ -31583,11 +31953,6 @@
     "source": "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
     "target": "September 2024 Research Retrospective",
     "count": 7
-  },
-  {
-    "source": "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
-    "target": "September 2024 Retrospective — Version Genealogy",
-    "count": 2
   },
   {
     "source": "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
@@ -32491,7 +32856,7 @@
   },
   {
     "source": "Provisional Arbitration Charter — Argus Layer 9.5",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
     "count": 1
   },
   {
@@ -33706,17 +34071,17 @@
   },
   {
     "source": "RECURSO — Recursive Governance Test Archive",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 2
-  },
-  {
-    "source": "RECURSO — Recursive Governance Test Archive",
     "target": "APEX Papers — Research Archive Map",
     "count": 2
   },
   {
     "source": "RECURSO — Recursive Governance Test Archive",
     "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "count": 2
+  },
+  {
+    "source": "RECURSO — Recursive Governance Test Archive",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 2
   },
   {
@@ -34091,7 +34456,7 @@
   },
   {
     "source": "Recursive Governance Protocol — Theseus, Auryn, Hopf",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 2
   },
   {
@@ -34406,7 +34771,7 @@
   },
   {
     "source": "Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)",
-    "target": "90-Day $1M Challenge — Status Report",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 1
   },
   {
@@ -34446,17 +34811,17 @@
   },
   {
     "source": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 2
-  },
-  {
-    "source": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
     "target": "AI-2027 Critique — Relational AI and Vulnerability Monetization",
     "count": 3
   },
   {
     "source": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
     "target": "Anti-Charm",
+    "count": 2
+  },
+  {
+    "source": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 2
   },
   {
@@ -35486,11 +35851,6 @@
   },
   {
     "source": "Resources/Recursive Governance Theory",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 1
-  },
-  {
-    "source": "Resources/Recursive Governance Theory",
     "target": "AI Governance Failure Cases",
     "count": 1
   },
@@ -35507,6 +35867,11 @@
   {
     "source": "Resources/Recursive Governance Theory",
     "target": "Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution",
+    "count": 1
+  },
+  {
+    "source": "Resources/Recursive Governance Theory",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -35881,17 +36246,17 @@
   },
   {
     "source": "Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)",
+    "target": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)",
     "target": "Care, Ethics, and Governance",
     "count": 1
   },
   {
     "source": "Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)",
     "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "count": 1
-  },
-  {
-    "source": "Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)",
-    "target": "Voodoo Doll as Archival Problem — Version Genealogy",
     "count": 1
   },
   {
@@ -35941,7 +36306,7 @@
   },
   {
     "source": "Rest and Consolidation Guide — Martin",
-    "target": "90-Day $1M Challenge — Status Report",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 2
   },
   {
@@ -36356,17 +36721,17 @@
   },
   {
     "source": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "target": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "count": 1
-  },
-  {
-    "source": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
     "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
     "count": 1
   },
   {
     "source": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
     "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
+    "count": 1
+  },
+  {
+    "source": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
+    "target": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
     "count": 1
   },
   {
@@ -36382,6 +36747,11 @@
   {
     "source": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
     "target": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "count": 1
+  },
+  {
+    "source": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
+    "target": "Areas/Writing/Sealed Card Protocol — Version Genealogy",
     "count": 1
   },
   {
@@ -36426,33 +36796,8 @@
   },
   {
     "source": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "target": "Sealed Card Protocol — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
     "target": "Wheels of Will — Ritual Bottle Art and Research-Creation Practice",
     "count": 3
-  },
-  {
-    "source": "Sealed Card Protocol — Version Genealogy",
-    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 1
-  },
-  {
-    "source": "Sealed Card Protocol — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 2
-  },
-  {
-    "source": "Sealed Card Protocol — Version Genealogy",
-    "target": "Martin Lepage Professional Identity",
-    "count": 1
-  },
-  {
-    "source": "Sealed Card Protocol — Version Genealogy",
-    "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "count": 1
   },
   {
     "source": "Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)",
@@ -36611,6 +36956,11 @@
   },
   {
     "source": "September 2024 Research Retrospective",
+    "target": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "September 2024 Research Retrospective",
     "target": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
     "count": 2
   },
@@ -36656,62 +37006,7 @@
   },
   {
     "source": "September 2024 Research Retrospective",
-    "target": "September 2024 Retrospective — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "September 2024 Research Retrospective",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
-    "count": 1
-  },
-  {
-    "source": "September 2024 Retrospective — Version Genealogy",
-    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "count": 1
-  },
-  {
-    "source": "September 2024 Retrospective — Version Genealogy",
-    "target": "Areas/PHAROS/PHAROS Method — Technical Reference",
-    "count": 1
-  },
-  {
-    "source": "September 2024 Retrospective — Version Genealogy",
-    "target": "Areas/Personal/Personal and Projects MOC",
-    "count": 1
-  },
-  {
-    "source": "September 2024 Retrospective — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "September 2024 Retrospective — Version Genealogy",
-    "target": "Master Project Tracker — 2026",
-    "count": 1
-  },
-  {
-    "source": "September 2024 Retrospective — Version Genealogy",
-    "target": "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
-    "count": 1
-  },
-  {
-    "source": "September 2024 Retrospective — Version Genealogy",
-    "target": "September 2024 Research Retrospective",
-    "count": 1
-  },
-  {
-    "source": "September 2024 Retrospective — Version Genealogy",
-    "target": "Version Genealogy System",
-    "count": 1
-  },
-  {
-    "source": "September 2024 Retrospective — Version Genealogy",
-    "target": "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home",
-    "count": 1
-  },
-  {
-    "source": "September 2024 Retrospective — Version Genealogy",
-    "target": "hephaistos/agents/Trismegiste Personal AI Assistant",
     "count": 1
   },
   {
@@ -36806,6 +37101,11 @@
   },
   {
     "source": "Skill Corpus Genealogy Delta — 2026-05-06",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 1
+  },
+  {
+    "source": "Skill Corpus Genealogy Delta — 2026-05-06",
     "target": "Claude Code Skill Corpus",
     "count": 1
   },
@@ -36842,11 +37142,6 @@
   {
     "source": "Skill Corpus Genealogy Delta — 2026-05-06",
     "target": "Vault Delta Interconnectivity Atlas — 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "Skill Corpus Genealogy Delta — 2026-05-06",
-    "target": "Version Genealogy System",
     "count": 1
   },
   {
@@ -38300,21 +38595,6 @@
     "count": 2
   },
   {
-    "source": "Social Compass Reviewer Responses — Version Genealogy",
-    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Social Compass Reviewer Responses — Version Genealogy",
-    "target": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
-    "count": 1
-  },
-  {
-    "source": "Social Compass Reviewer Responses — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
     "source": "Social Stratification, Intersectionality, and the Why Be King Manuscript",
     "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "count": 2
@@ -38540,201 +38820,6 @@
     "count": 1
   },
   {
-    "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "Areas/Personal/Personal and Projects MOC",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "Master Project Tracker — 2026",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "memory",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "target": "Areas/Writing/Legitimacy Machines MOC",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "target": "Areas/Writing/Writing and Novels MOC",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "target": "Media Studies and Pop Culture Analysis",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "target": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "target": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "target": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "target": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "AI Infrastructure Stack",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
-    "count": 2
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "Areas/Writing/Academic Paper Pipeline",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "count": 1
-  },
-  {
-    "source": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
     "source": "Spider-Man Loop Hinge Support — Voice Infrastructure Evidence",
     "target": "Areas/Writing/Loop Papers and Recursive Governance",
     "count": 1
@@ -38781,6 +38866,11 @@
   },
   {
     "source": "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
+    "target": "Areas/Writing/Spider-Man — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
     "target": "Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology",
     "count": 3
   },
@@ -38812,26 +38902,6 @@
   {
     "source": "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
     "target": "Spider-Man Loop Hinge Support — Voice Infrastructure Evidence",
-    "count": 1
-  },
-  {
-    "source": "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
-    "target": "Spider-Man — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Spider-Man — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 1
-  },
-  {
-    "source": "Spider-Man — Version Genealogy",
-    "target": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
-    "count": 1
-  },
-  {
-    "source": "Spider-Man — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
     "count": 1
   },
   {
@@ -39916,12 +39986,12 @@
   },
   {
     "source": "The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)",
-    "target": "Authority, Legitimacy, and Post-Sovereignty",
+    "target": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy",
     "count": 1
   },
   {
     "source": "The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)",
-    "target": "Voodoo Doll as Archival Problem — Version Genealogy",
+    "target": "Authority, Legitimacy, and Post-Sovereignty",
     "count": 1
   },
   {
@@ -40316,7 +40386,7 @@
   },
   {
     "source": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
     "count": 1
   },
   {
@@ -40376,33 +40446,33 @@
   },
   {
     "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "count": 1
-  },
-  {
-    "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "count": 1
-  },
-  {
-    "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "count": 1
-  },
-  {
-    "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 2
+  },
+  {
+    "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "count": 1
+  },
+  {
+    "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "count": 1
+  },
+  {
+    "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
   },
   {
     "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
@@ -40521,6 +40591,11 @@
   },
   {
     "source": "Trust Advantage Analysis — Sales and AI Governance",
+    "target": "Areas/Writing/Trust Advantage — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Trust Advantage Analysis — Sales and AI Governance",
     "target": "Fluency, Interruption, and Institutional Accountability",
     "count": 3
   },
@@ -40536,11 +40611,6 @@
   },
   {
     "source": "Trust Advantage Analysis — Sales and AI Governance",
-    "target": "Trust Advantage — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Trust Advantage Analysis — Sales and AI Governance",
     "target": "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_deploying-llms-safely-with-botpress-botpress-resources",
     "count": 1
   },
@@ -40553,26 +40623,6 @@
     "source": "Trust Advantage Analysis — Sales and AI Governance",
     "target": "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_paula-parhon-biography-desjardins",
     "count": 1
-  },
-  {
-    "source": "Trust Advantage — Version Genealogy",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "Trust Advantage — Version Genealogy",
-    "target": "Trust Advantage Analysis — Sales and AI Governance",
-    "count": 2
-  },
-  {
-    "source": "Unnatural Selection Jurassic Park — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Unnatural Selection Jurassic Park — Version Genealogy",
-    "target": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
-    "count": 2
   },
   {
     "source": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
@@ -40601,6 +40651,11 @@
   },
   {
     "source": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
+    "target": "Areas/Writing/Unnatural Selection Jurassic Park — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
     "target": "Governance by Denial",
     "count": 2
   },
@@ -40613,11 +40668,6 @@
     "source": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
     "target": "The Returning Light — Monograph",
     "count": 3
-  },
-  {
-    "source": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
-    "target": "Unnatural Selection Jurassic Park — Version Genealogy",
-    "count": 1
   },
   {
     "source": "VAULT ADDITIONS TRACKER",
@@ -42050,216 +42100,6 @@
     "count": 1
   },
   {
-    "source": "Version Genealogy System",
-    "target": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/PHAROS/PHAROS Scholarly Publication Track",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Academic Paper Pipeline",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Alchemy of the Wound — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Breath of the Astral Year — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/CORPUS Novel — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Circle Remains Open — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/First Method Paper — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Governance by Denial — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Healthcare Packet — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Legitimacy Machines MOC",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Manuscript Pipeline MOC",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Pagan Magic — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Novel and Creative Corpus",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "PHAROS Skill Corpus Change Genealogy — 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Reboot — Performance, Gender, and Computing of Identity",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Resources/Evidence Discipline and Epistemics",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Sealed Card Protocol — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "September 2024 Retrospective — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Skill Corpus Genealogy Delta — 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Social Compass Reviewer Responses — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Spider-Man — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Trust Advantage — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Unnatural Selection Jurassic Park — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Voodoo Doll as Archival Problem — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Voodoo Doll — Archival Governance and Colonial Naming",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "genealogy/Martin Voice Spec — Stage Map",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "genealogy/Martin Voice Spec — Version Genealogy",
-    "count": 1
-  },
-  {
     "source": "Virtually Magical Literally — Queer Agency and the Digital Witch",
     "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "count": 1
@@ -42315,21 +42155,6 @@
     "count": 2
   },
   {
-    "source": "Voodoo Doll as Archival Problem — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 1
-  },
-  {
-    "source": "Voodoo Doll as Archival Problem — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Voodoo Doll as Archival Problem — Version Genealogy",
-    "target": "Voodoo Doll — Archival Governance and Colonial Naming",
-    "count": 1
-  },
-  {
     "source": "Voodoo Doll — Archival Governance and Colonial Naming",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
@@ -42356,6 +42181,11 @@
   },
   {
     "source": "Voodoo Doll — Archival Governance and Colonial Naming",
+    "target": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy",
+    "count": 3
+  },
+  {
+    "source": "Voodoo Doll — Archival Governance and Colonial Naming",
     "target": "Authority, Legitimacy, and Post-Sovereignty",
     "count": 1
   },
@@ -42373,11 +42203,6 @@
     "source": "Voodoo Doll — Archival Governance and Colonial Naming",
     "target": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
     "count": 2
-  },
-  {
-    "source": "Voodoo Doll — Archival Governance and Colonial Naming",
-    "target": "Voodoo Doll as Archival Problem — Version Genealogy",
-    "count": 3
   },
   {
     "source": "Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography",
@@ -42687,26 +42512,6 @@
   {
     "source": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
     "target": "Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)",
-    "count": 1
-  },
-  {
-    "source": "Wicca 2.0 — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 2
-  },
-  {
-    "source": "Wicca 2.0 — Version Genealogy",
-    "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
-    "count": 1
-  },
-  {
-    "source": "Wicca 2.0 — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Wicca 2.0 — Version Genealogy",
-    "target": "Version Genealogy System",
     "count": 1
   },
   {
@@ -44181,16 +43986,6 @@
   },
   {
     "source": "archive/session-state/session-state-001",
-    "target": "90-Day $1M Challenge — Status Report",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-001",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-001",
     "target": "AI Governance Failure Cases",
     "count": 1
   },
@@ -44227,6 +44022,16 @@
   {
     "source": "archive/session-state/session-state-001",
     "target": "Agent Session Phenomenology",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-001",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-001",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -44388,6 +44193,16 @@
     "source": "archive/session-state/session-state-001",
     "target": "Areas/Writing/Research and Papers MOC",
     "count": 12
+  },
+  {
+    "source": "archive/session-state/session-state-001",
+    "target": "Areas/Writing/Sealed Card Protocol — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-001",
+    "target": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
+    "count": 1
   },
   {
     "source": "archive/session-state/session-state-001",
@@ -44866,16 +44681,6 @@
   },
   {
     "source": "archive/session-state/session-state-001",
-    "target": "Sealed Card Protocol — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-001",
-    "target": "September 2024 Retrospective — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-001",
     "target": "Still Running — Willow, Anya, and Queer Ritual Infrastructure",
     "count": 1
   },
@@ -44991,17 +44796,17 @@
   },
   {
     "source": "archive/session-state/session-state-002",
-    "target": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-002",
     "target": "AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan",
     "count": 1
   },
   {
     "source": "archive/session-state/session-state-002",
     "target": "AI Recruiting Has an Accessibility Problem — Lepage (2026)",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-002",
+    "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
     "count": 1
   },
   {
@@ -45146,11 +44951,6 @@
   },
   {
     "source": "archive/session-state/session-state-002",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-002",
     "target": "Strategic Storytelling in the AI Economy",
     "count": 1
   },
@@ -45172,6 +44972,11 @@
   {
     "source": "archive/session-state/session-state-002",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-002",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
@@ -45217,11 +45022,6 @@
   {
     "source": "archive/session-state/session-state-002",
     "target": "memory/daily/2026-05-11",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-003",
-    "target": "2026-06-29 - idea-discovery",
     "count": 1
   },
   {
@@ -45272,6 +45072,11 @@
   {
     "source": "archive/session-state/session-state-003",
     "target": "Architecture - EMERAULD Scripts - Overview",
+    "count": 1
+  },
+  {
+    "source": "archive/session-state/session-state-003",
+    "target": "Areas/PHAROS/2026-06-29 - idea-discovery",
     "count": 1
   },
   {
@@ -46141,12 +45946,12 @@
   },
   {
     "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "target": "AI Infrastructure Stack",
     "count": 2
   },
   {
     "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
-    "target": "AI Infrastructure Stack",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
     "count": 2
   },
   {
@@ -46406,31 +46211,6 @@
   },
   {
     "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "count": 1
-  },
-  {
-    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "count": 1
-  },
-  {
-    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "count": 1
-  },
-  {
-    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "target": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
     "count": 1
   },
@@ -46441,7 +46221,227 @@
   },
   {
     "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "target": "Areas/Personal/Personal and Projects MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "target": "Master Project Tracker — 2026",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "target": "memory",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "target": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "target": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "target": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "target": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "target": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "target": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "target": "Areas/Writing/Legitimacy Machines MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "target": "Areas/Writing/Writing and Novels MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "target": "Media Studies and Pop Culture Analysis",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "target": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "target": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "target": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "target": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "target": "AI Infrastructure Stack",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "target": "Areas/PHAROS/PHAROS Commercial Strategy",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "target": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "target": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "target": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "target": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "target": "Areas/Writing/Academic Paper Pipeline",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "target": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "target": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "target": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "target": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "target": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "count": 1
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
     "count": 1
   },
   {
@@ -47161,16 +47161,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
     "target": "AI Ethics Literature — Contestable Governance Artifacts",
     "count": 1
   },
@@ -47282,6 +47272,16 @@
   {
     "source": "artifacts/stale-projects-2026-07-04",
     "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
     "count": 1
   },
   {
@@ -49291,16 +49291,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
     "target": "AI Ethics Literature — Contestable Governance Artifacts",
     "count": 1
   },
@@ -49412,6 +49402,16 @@
   {
     "source": "artifacts/stale-projects-2026-07-05",
     "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
     "count": 1
   },
   {
@@ -51406,16 +51406,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-06",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
     "target": "AI Ethics Literature — Contestable Governance Artifacts",
     "count": 1
   },
@@ -51527,6 +51517,16 @@
   {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
     "count": 1
   },
   {
@@ -53531,16 +53531,6 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
-    "target": "5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "ACTOR Framework — Agent vs Chatbot Decision Tool",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
     "target": "AI Ethics Literature — Contestable Governance Artifacts",
     "count": 1
   },
@@ -53652,6 +53642,16 @@
   {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool",
     "count": 1
   },
   {
@@ -55971,17 +55971,17 @@
   },
   {
     "source": "genealogy/Martin Voice Spec — Version Genealogy",
+    "target": "Areas/Writing/Version Genealogy System",
+    "count": 1
+  },
+  {
+    "source": "genealogy/Martin Voice Spec — Version Genealogy",
     "target": "Martin Voice Spec — Stage Map",
     "count": 1
   },
   {
     "source": "genealogy/Martin Voice Spec — Version Genealogy",
     "target": "PHAROS Final Voice Operator — GPT Creator",
-    "count": 1
-  },
-  {
-    "source": "genealogy/Martin Voice Spec — Version Genealogy",
-    "target": "Version Genealogy System",
     "count": 1
   },
   {
@@ -58276,11 +58276,6 @@
   },
   {
     "source": "maps/PHAROS Method Map",
-    "target": "90-Day $1M Challenge — Status Report",
-    "count": 1
-  },
-  {
-    "source": "maps/PHAROS Method Map",
     "target": "ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison",
     "count": 1
   },
@@ -58302,6 +58297,11 @@
   {
     "source": "maps/PHAROS Method Map",
     "target": "Architectural AI Governance — Willis and PBSAI",
+    "count": 1
+  },
+  {
+    "source": "maps/PHAROS Method Map",
+    "target": "Areas/PHAROS/90-Day $1M Challenge — Status Report",
     "count": 1
   },
   {
@@ -59536,7 +59536,7 @@
   },
   {
     "source": "memory/agents/Learning",
-    "target": "2026-06-29 - idea-discovery",
+    "target": "Areas/PHAROS/2026-06-29 - idea-discovery",
     "count": 1
   },
   {
@@ -60321,12 +60321,12 @@
   },
   {
     "source": "memory/daily/2026-04-28",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "AI Governance Public Statement and Market Impact Pack",
     "count": 1
   },
   {
     "source": "memory/daily/2026-04-28",
-    "target": "AI Governance Public Statement and Market Impact Pack",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -61221,11 +61221,6 @@
   },
   {
     "source": "memory/daily/2026-06-29",
-    "target": "2026-06-29 - idea-discovery",
-    "count": 3
-  },
-  {
-    "source": "memory/daily/2026-06-29",
     "target": "Architecture - EMERAULD Scripts - Intake Pipeline",
     "count": 2
   },
@@ -61243,6 +61238,11 @@
     "source": "memory/daily/2026-06-29",
     "target": "Architecture - EMERAULD Scripts - Overview",
     "count": 2
+  },
+  {
+    "source": "memory/daily/2026-06-29",
+    "target": "Areas/PHAROS/2026-06-29 - idea-discovery",
+    "count": 3
   },
   {
     "source": "memory/daily/2026-06-29",
@@ -61451,7 +61451,7 @@
   },
   {
     "source": "memory/daily/2026-07-03",
-    "target": "AGATHA Failure Pack — Theseus Continuity Stress Test",
+    "target": "Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test",
     "count": 1
   },
   {
@@ -62466,17 +62466,17 @@
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
@@ -62496,32 +62496,32 @@
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
-    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
@@ -62536,27 +62536,17 @@
   },
   {
     "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
@@ -62570,43 +62560,43 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "source": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
-    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
@@ -62615,43 +62605,43 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "source": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
-    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
@@ -62660,43 +62650,43 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "source": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
-    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
@@ -62705,43 +62695,43 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "source": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
-    "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
@@ -62750,13 +62740,13 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "source": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "source": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
@@ -62765,13 +62755,13 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "source": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "source": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
@@ -62780,18 +62770,28 @@
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "source": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
     "count": 1
   },
   {
-    "source": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "source": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
     "source": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
     "target": "archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "count": 1
+  },
+  {
+    "source": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
+    "target": "archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
     "count": 1
   },
   {
@@ -63556,7 +63556,7 @@
   },
   {
     "source": "skills/genealogy-loupe",
-    "target": "Version Genealogy System",
+    "target": "Areas/Writing/Version Genealogy System",
     "count": 1
   },
   {

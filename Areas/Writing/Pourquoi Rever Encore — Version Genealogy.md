@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 ---

@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/Media Studies and Pop Culture Analysis.md
 backlink_count: 33
 backlinks:
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
 - '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
@@ -52,7 +52,7 @@ backlinks:
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
-- '[[wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
 - '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'

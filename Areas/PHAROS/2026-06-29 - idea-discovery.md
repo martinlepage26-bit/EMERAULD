@@ -4,12 +4,11 @@ title: Idea Discovery — 2026-06-29
 aliases:
 - idea-discovery-2026-06-29
 - 2026-06-29 - idea-discovery
-- wiki/2026-06-29 - idea-discovery
 tags:
 - thinking
 - idea-discovery
 - synthesis
-- wiki
+- areas
 - 2026-06-29-idea-discovery-md
 - echo
 - momentum
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-06-29'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/2026-06-29 - idea-discovery.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/2026-06-29 - idea-discovery.md
 backlink_count: 7
 backlinks:
 - '[[Logs/2026-06-29]]'

@@ -26,7 +26,7 @@ vault_area: Areas
 canonical_path: Areas/Writing/Academic Paper Pipeline.md
 backlink_count: 39
 backlinks:
-- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
 - '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
@@ -58,8 +58,8 @@ backlinks:
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
 - '[[wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
-- '[[wiki/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-05-10]]'

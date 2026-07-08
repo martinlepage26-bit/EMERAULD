@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan.md
 backlink_count: 15
 backlinks:
-- '[[wiki/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
+- '[[Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool]]'
 - '[[wiki/AI Governance Sprint — One-Page Sellable Packet]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

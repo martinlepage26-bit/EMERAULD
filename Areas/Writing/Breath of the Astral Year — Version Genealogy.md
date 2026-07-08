@@ -23,7 +23,7 @@ backlinks:
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/Home]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 ---

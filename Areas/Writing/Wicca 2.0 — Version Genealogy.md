@@ -3,11 +3,10 @@ type: version-genealogy
 title: Wicca 2.0 — Version Genealogy
 aliases:
 - Wicca 2.0 — Version Genealogy
-- wiki/Wicca 2.0 — Version Genealogy
 tags:
 - wicca
 - version-genealogy
-- wiki
+- areas
 - wicca-2-0-version-genealogy-md
 - letter
 - refwicca
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Wicca 2.0 — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Wicca 2.0 — Version Genealogy.md
 backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'

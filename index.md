@@ -122,7 +122,7 @@ All durable linked knowledge notes. Too numerous to list individually — use en
 - [[wiki/Architecture - EMERAULD Scripts - Key Decisions]] — 6 ADRs; open tech debt table
 
 ### Idea discovery
-- [[wiki/2026-06-29 - idea-discovery]] — 5 ranked candidates; #1 Gumroad (executed), #2 HELIX outreach, #3 GAIA launch
+- [[Areas/PHAROS/2026-06-29 - idea-discovery]] — 5 ranked candidates; #1 Gumroad (executed), #2 HELIX outreach, #3 GAIA launch
 
 ### Search
 ```bash

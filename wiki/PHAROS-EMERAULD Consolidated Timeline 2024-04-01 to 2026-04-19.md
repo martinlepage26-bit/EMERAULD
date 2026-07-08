@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
+- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory]]'
 ---

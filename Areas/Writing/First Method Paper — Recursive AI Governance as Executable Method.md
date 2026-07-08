@@ -23,7 +23,7 @@ vault_area: Areas
 canonical_path: Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method.md
 backlink_count: 45
 backlinks:
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
@@ -55,7 +55,7 @@ backlinks:
 - '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
-- '[[wiki/Spider-Man — Version Genealogy]]'
+- '[[Areas/Writing/Spider-Man — Version Genealogy]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

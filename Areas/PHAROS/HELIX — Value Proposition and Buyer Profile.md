@@ -27,7 +27,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX — Value Proposition and Buyer Profile.md
 backlink_count: 29
 backlinks:
-- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'

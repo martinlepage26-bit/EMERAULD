@@ -28,8 +28,8 @@ vault_area: wiki
 canonical_path: wiki/Martin Walks the Witches' Road — Corpus as Charge-Persistence.md
 backlink_count: 32
 backlinks:
-- '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'

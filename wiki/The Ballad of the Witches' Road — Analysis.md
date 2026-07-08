@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/The Ballad of the Witches' Road — Analysis.md
 backlink_count: 17
 backlinks:
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'
 - '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'

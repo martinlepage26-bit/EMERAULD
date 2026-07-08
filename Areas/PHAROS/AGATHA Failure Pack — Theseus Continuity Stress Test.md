@@ -3,7 +3,6 @@ type: note
 title: AGATHA Failure Pack — Theseus Continuity Stress Test
 aliases:
 - AGATHA Failure Pack — Theseus Continuity Stress Test
-- wiki/AGATHA Failure Pack — Theseus Continuity Stress Test
 tags:
 - agatha
 - stress-test
@@ -12,7 +11,7 @@ tags:
 - recursive-governance
 - failure
 - note
-- wiki
+- areas
 - agatha-failure-pack-theseus-continuity-stress-test-md
 - stress
 - auryn
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-04-28'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/AGATHA Failure Pack — Theseus Continuity Stress Test.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test.md
 backlink_count: 19
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
@@ -40,8 +39,7 @@ backlinks:
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
-  Projection]]'
+- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-04-28]]'

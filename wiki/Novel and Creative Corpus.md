@@ -47,7 +47,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 - '[[wiki/The Broken Frequency of the Word — Novel]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 

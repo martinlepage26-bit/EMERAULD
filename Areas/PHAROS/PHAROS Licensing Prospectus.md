@@ -20,8 +20,8 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Licensing Prospectus.md
 backlink_count: 22
 backlinks:
-- '[[wiki/90-Day $1M Challenge — Status Report]]'
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
 - '[[wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'

@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
-- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
+- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 ---
 
 # September 2024 Research Retrospective

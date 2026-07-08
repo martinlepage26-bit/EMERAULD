@@ -3,10 +3,9 @@ type: version-genealogy
 title: September 2024 Retrospective — Version Genealogy
 aliases:
 - September 2024 Retrospective — Version Genealogy
-- wiki/September 2024 Retrospective — Version Genealogy
 tags:
 - version-genealogy
-- wiki
+- areas
 - september-2024-retrospective-version-genealogy-md
 - september
 - retrospective
@@ -17,14 +16,14 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/September 2024 Retrospective — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/September 2024 Retrospective — Version Genealogy.md
 backlink_count: 6
 backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[wiki/September 2024 Research Retrospective]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---

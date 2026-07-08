@@ -26,7 +26,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Scholarly Publication Track.md
 backlink_count: 46
 backlinks:
-- '[[wiki/2026-06-29 - idea-discovery]]'
+- '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
@@ -63,7 +63,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

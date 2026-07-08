@@ -22,7 +22,7 @@ vault_area: wiki
 canonical_path: wiki/Master Project Tracker — 2026.md
 backlink_count: 42
 backlinks:
-- '[[wiki/90-Day $1M Challenge — Status Report]]'
+- '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[wiki/Agent Logs Hub]]'
 - '[[wiki/CODEX Writing Projects Manifest]]'
@@ -47,8 +47,8 @@ backlinks:
 - '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Rest and Consolidation Guide — Martin]]'
-- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
-- '[[wiki/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
+- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
 - '[[wiki/The Weather Beneath the Walls — Novel]]'
 - '[[Welcome]]'
 - '[[wiki/Workflows Hub]]'

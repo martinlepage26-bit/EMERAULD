@@ -3,10 +3,9 @@ type: version-genealogy
 title: Voodoo Doll as Archival Problem — Version Genealogy
 aliases:
 - Voodoo Doll as Archival Problem — Version Genealogy
-- wiki/Voodoo Doll as Archival Problem — Version Genealogy
 tags:
 - version-genealogy
-- wiki
+- areas
 - voodoo-doll-as-archival-problem-version-genealogy-md
 - voodoo
 - doll
@@ -17,15 +16,15 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Voodoo Doll as Archival Problem — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy.md
 backlink_count: 7
 backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
 - '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---

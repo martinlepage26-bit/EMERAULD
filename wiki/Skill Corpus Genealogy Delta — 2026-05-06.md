@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 source_roots:
   codex: /home/cerebrhoe/.codex/skills
   claude: /home/cerebrhoe/.claude/skills

@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/InfraFabric Architecture.md
 backlink_count: 48
 backlinks:
-- '[[wiki/90-Day $1M Challenge — Status Report]]'
+- '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Agent Session Phenomenology]]'
 - '[[wiki/Architectural AI Governance — Willis and PBSAI]]'

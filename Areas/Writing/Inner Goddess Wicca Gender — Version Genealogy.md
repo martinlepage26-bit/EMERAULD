@@ -23,7 +23,7 @@ backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 

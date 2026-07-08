@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/Agatha Unified Skill System — Eight Sovereign Operators.md
 backlink_count: 25
 backlinks:
-- '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
@@ -49,7 +49,7 @@ backlinks:
 - '[[wiki/Skill Domain — Skill Architecture]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/Supersession Registry]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[wiki/skills/philosopher]]'
 deprecation_effective_date: '2026-03-01'

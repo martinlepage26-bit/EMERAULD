@@ -3,7 +3,6 @@ type: source-cluster
 title: Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline
 aliases:
 - Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline
-- wiki/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline
 tags:
 - cluster
 - source-notes
@@ -11,7 +10,7 @@ tags:
 - henry
 - trismegiste
 - source-cluster
-- wiki
+- archive
 - source-cluster-2026-05-13-pharos-ip-and-manuscript-pipeline-md
 - lane
 - provisional
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline.md
 backlink_count: 12
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
@@ -31,12 +30,10 @@ backlinks:
 - '[[wiki/IP and Manuscript Brief — 2026-05-14]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
-- '[[wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
-- '[[wiki/raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application
-  contract + notes — Source Note]]'
-- '[[wiki/raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure
-  — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/Skills as self-operators — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/WIP recruso paper — Source Note]]'

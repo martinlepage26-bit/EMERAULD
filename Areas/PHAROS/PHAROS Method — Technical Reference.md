@@ -84,7 +84,7 @@ backlinks:
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Resources/Red Team Handbook — Offensive Security Reference]]'
 - '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
-- '[[wiki/September 2024 Retrospective — Version Genealogy]]'
+- '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 - '[[wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

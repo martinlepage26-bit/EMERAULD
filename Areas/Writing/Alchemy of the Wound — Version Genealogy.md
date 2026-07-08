@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Home]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 ---

@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Founder Charter — Lepage and Stocker.md
 backlink_count: 18
 backlinks:
-- '[[wiki/90-Day $1M Challenge — Status Report]]'
+- '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/InfraFabric Architecture]]'

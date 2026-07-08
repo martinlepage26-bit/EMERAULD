@@ -59,7 +59,7 @@ backlinks:
 - '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
-- '[[wiki/Social Compass Reviewer Responses — Version Genealogy]]'
+- '[[Areas/Writing/Social Compass Reviewer Responses — Version Genealogy]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
 - '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'

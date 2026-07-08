@@ -82,7 +82,7 @@ backlinks:
 - '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
 - '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
-- '[[wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'
+- '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'
 - '[[wiki/Strategic Storytelling in the AI Economy]]'
 - '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
 - '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'

@@ -23,7 +23,7 @@ backlinks:
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[wiki/Home]]'
-- '[[wiki/Version Genealogy System]]'
+- '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 
