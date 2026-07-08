@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Rest and Consolidation Guide — Martin]]'
+- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[memory/daily/2026-06-22]]'
 - '[[memory/daily/2026-06-23]]'
 - '[[memory/daily/2026-06-24]]'

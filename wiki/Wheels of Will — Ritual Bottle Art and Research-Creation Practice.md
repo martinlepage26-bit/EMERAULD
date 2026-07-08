@@ -33,8 +33,8 @@ backlinks:
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/PHAROS/Phase 1 Governance Formation Sequence]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
-- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
+- '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 ---
 
 # Wheels of Will — Ritual Bottle Art and Research-Creation Practice

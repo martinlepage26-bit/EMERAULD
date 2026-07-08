@@ -2713,6 +2713,77 @@
     "backlinks": 63
   },
   {
+    "id": "Areas/PHAROS/Reflexive Inhabitation Audit — Prompt",
+    "title": "Reflexive Inhabitation Audit — Prompt",
+    "path": "Areas/PHAROS/Reflexive Inhabitation Audit — Prompt.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "RIA prompt",
+      "reflexive inhabitation audit",
+      "regime de pouvoir helix communitas"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 13,
+    "backlinks": 39
+  },
+  {
+    "id": "Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)",
+    "title": "Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)",
+    "path": "Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "93-Day Market Timing",
+      "Dual-Regulation Positioning",
+      "Regulatory Window Arbitrage"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 8,
+    "backlinks": 19
+  },
+  {
+    "id": "Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model",
+    "title": "Responsible AI Evaluation — Patient Readmission Model",
+    "path": "Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Responsible AI Evaluation — Patient Readmission Model"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 6,
+    "backlinks": 21
+  },
+  {
+    "id": "Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
+    "title": "SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
+    "path": "Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 2,
+    "backlinks": 9
+  },
+  {
+    "id": "Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion",
+    "title": "Sales Objection Handling — Diagnosing Fog Without Coercion",
+    "path": "Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "COME BACKs",
+      "Ethical Objection Handling",
+      "Sales Objection Handling"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 6,
+    "backlinks": 10
+  },
+  {
     "id": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
     "title": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "path": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture.md",
@@ -2744,6 +2815,21 @@
     "backlinks": 13
   },
   {
+    "id": "Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates",
+    "title": "Service Offer Prompts — GPT-Assisted Revenue Design Templates",
+    "path": "Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Freelance Offer Prompts",
+      "GPT Revenue Design Prompts",
+      "Service Offer Prompts"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 5,
+    "backlinks": 9
+  },
+  {
     "id": "Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)",
     "title": "Skill Corpus — Complete Live Index (260 Active Skills)",
     "path": "Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills).md",
@@ -2755,6 +2841,22 @@
     "outlinks": 256,
     "unique_outlinks": 256,
     "backlinks": 236
+  },
+  {
+    "id": "Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate",
+    "title": "Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate",
+    "path": "Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Brain and Map",
+      "Skill creation pipeline",
+      "Skill development workflow",
+      "TDD for skills"
+    ],
+    "outlinks": 29,
+    "unique_outlinks": 13,
+    "backlinks": 26
   },
   {
     "id": "Areas/PHAROS/Skill Domain — AI and LLM Tools",
@@ -2813,6 +2915,21 @@
     "outlinks": 62,
     "unique_outlinks": 61,
     "backlinks": 68
+  },
+  {
+    "id": "Areas/PHAROS/Skill-Pairing — Five-Case Test Suite",
+    "title": "Skill-Pairing — Five-Case Test Suite",
+    "path": "Areas/PHAROS/Skill-Pairing — Five-Case Test Suite.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "pairing compliance tests",
+      "skill-pairing behavioral suite",
+      "skill-pairing tests"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 6,
+    "backlinks": 25
   },
   {
     "id": "Areas/PHAROS/company",
@@ -2893,6 +3010,34 @@
     "outlinks": 171,
     "unique_outlinks": 151,
     "backlinks": 96
+  },
+  {
+    "id": "Areas/Personal/Rest and Consolidation Guide — Martin",
+    "title": "Rest and Consolidation Guide — Martin",
+    "path": "Areas/Personal/Rest and Consolidation Guide — Martin.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Rest and Consolidation Guide — Martin"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 10,
+    "backlinks": 14
+  },
+  {
+    "id": "Areas/Personal/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)",
+    "title": "Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)",
+    "path": "Areas/Personal/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "EI delay escalation letter",
+      "Service Canada accountability letter",
+      "housing risk due to EI delay"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 4,
+    "backlinks": 8
   },
   {
     "id": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
@@ -4105,6 +4250,34 @@
     "backlinks": 186
   },
   {
+    "id": "Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
+    "title": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
+    "path": "Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Refusing Fixity — Aesthetic Governance and Fugitive Authorship"
+    ],
+    "outlinks": 37,
+    "unique_outlinks": 24,
+    "backlinks": 44
+  },
+  {
+    "id": "Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
+    "title": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
+    "path": "Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Relational Presence",
+      "Gendered AI Naming",
+      "Relational Presence and Gendered AI"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 9,
+    "backlinks": 8
+  },
+  {
     "id": "Areas/Writing/Research and Papers MOC",
     "title": "Research and Papers MOC",
     "path": "Areas/Writing/Research and Papers MOC.md",
@@ -4116,6 +4289,22 @@
     "outlinks": 309,
     "unique_outlinks": 270,
     "backlinks": 722
+  },
+  {
+    "id": "Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales",
+    "title": "Rhétorique antique, mythos et IA — Gouvernance et sciences sociales",
+    "path": "Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Rhet-AI",
+      "mythos AI governance",
+      "rhetorical AI",
+      "rhetorique IA"
+    ],
+    "outlinks": 30,
+    "unique_outlinks": 16,
+    "backlinks": 12
   },
   {
     "id": "Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction",
@@ -4144,6 +4333,32 @@
     "backlinks": 288
   },
   {
+    "id": "Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
+    "title": "SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
+    "path": "Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 11,
+    "backlinks": 25
+  },
+  {
+    "id": "Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging",
+    "title": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
+    "path": "Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Sealed Card Protocol — Legitimacy, Glitch, and Charging"
+    ],
+    "outlinks": 22,
+    "unique_outlinks": 16,
+    "backlinks": 93
+  },
+  {
     "id": "Areas/Writing/Sealed Card Protocol — Version Genealogy",
     "title": "Sealed Card Protocol — Version Genealogy",
     "path": "Areas/Writing/Sealed Card Protocol — Version Genealogy.md",
@@ -4157,6 +4372,34 @@
     "backlinks": 5
   },
   {
+    "id": "Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)",
+    "title": "Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)",
+    "path": "Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI & Society rewrite for Inderscience",
+      "Recursive AI Self-Report as an Evidentiary Problem",
+      "Self-Polygraph rewrite"
+    ],
+    "outlinks": 29,
+    "unique_outlinks": 13,
+    "backlinks": 10
+  },
+  {
+    "id": "Areas/Writing/Self-Polygraph Protocol and Suprametacognition",
+    "title": "Self-Polygraph Protocol and Suprametacognition",
+    "path": "Areas/Writing/Self-Polygraph Protocol and Suprametacognition.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Self-Polygraph Protocol and Suprametacognition"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 8,
+    "backlinks": 65
+  },
+  {
     "id": "Areas/Writing/September 2024 Retrospective — Version Genealogy",
     "title": "September 2024 Retrospective — Version Genealogy",
     "path": "Areas/Writing/September 2024 Retrospective — Version Genealogy.md",
@@ -4168,6 +4411,34 @@
     "outlinks": 10,
     "unique_outlinks": 10,
     "backlinks": 7
+  },
+  {
+    "id": "Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design",
+    "title": "Slayer Franchise Power — Methodology and Corpus Design",
+    "path": "Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Buffy power textual analysis methodology",
+      "Slayer franchise corpus design",
+      "Slayer power methodology"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 9,
+    "backlinks": 12
+  },
+  {
+    "id": "Areas/Writing/Slayer Recursion Protocol — README and Repositioning",
+    "title": "Slayer Recursion Protocol — README and Repositioning",
+    "path": "Areas/Writing/Slayer Recursion Protocol — README and Repositioning.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Slayer Recursion Protocol — README and Repositioning"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 9,
+    "backlinks": 9
   },
   {
     "id": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
@@ -5970,68 +6241,6 @@
     "backlinks": 11
   },
   {
-    "id": "Reflexive Inhabitation Audit — Prompt",
-    "title": "Reflexive Inhabitation Audit — Prompt",
-    "path": "wiki/Reflexive Inhabitation Audit — Prompt.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "RIA prompt",
-      "reflexive inhabitation audit",
-      "regime de pouvoir helix communitas",
-      "wiki/Reflexive Inhabitation Audit — Prompt"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 13,
-    "backlinks": 39
-  },
-  {
-    "id": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
-    "title": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
-    "path": "wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
-      "wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship"
-    ],
-    "outlinks": 37,
-    "unique_outlinks": 24,
-    "backlinks": 44
-  },
-  {
-    "id": "Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)",
-    "title": "Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)",
-    "path": "wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "93-Day Market Timing",
-      "Dual-Regulation Positioning",
-      "Regulatory Window Arbitrage",
-      "wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 8,
-    "backlinks": 19
-  },
-  {
-    "id": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
-    "title": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
-    "path": "wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Relational Presence",
-      "Gendered AI Naming",
-      "Relational Presence and Gendered AI",
-      "wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 9,
-    "backlinks": 8
-  },
-  {
     "id": "Research Hub",
     "title": "Research Hub",
     "path": "wiki/Research Hub.md",
@@ -6796,6 +7005,21 @@
     "backlinks": 20
   },
   {
+    "id": "Resources/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)",
+    "title": "Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)",
+    "path": "Resources/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "GSS 22 2019 allyship standpoint",
+      "Le Gallo Millette 2019 allié.e",
+      "Se positionner comme chercheuses — Le Gallo & Millette 2019 (Genre, sexualité & société)"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 6,
+    "backlinks": 9
+  },
+  {
     "id": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
     "title": "The Data Gaze — Beer (Capitalism, Power, Perception)",
     "path": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception).md",
@@ -6838,51 +7062,6 @@
     "backlinks": 12
   },
   {
-    "id": "Responsible AI Evaluation — Patient Readmission Model",
-    "title": "Responsible AI Evaluation — Patient Readmission Model",
-    "path": "wiki/Responsible AI Evaluation — Patient Readmission Model.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Responsible AI Evaluation — Patient Readmission Model",
-      "wiki/Responsible AI Evaluation — Patient Readmission Model"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 6,
-    "backlinks": 21
-  },
-  {
-    "id": "Rest and Consolidation Guide — Martin",
-    "title": "Rest and Consolidation Guide — Martin",
-    "path": "wiki/Rest and Consolidation Guide — Martin.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Rest and Consolidation Guide — Martin",
-      "wiki/Rest and Consolidation Guide — Martin"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 10,
-    "backlinks": 14
-  },
-  {
-    "id": "Rhétorique antique, mythos et IA — Gouvernance et sciences sociales",
-    "title": "Rhétorique antique, mythos et IA — Gouvernance et sciences sociales",
-    "path": "wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Rhet-AI",
-      "mythos AI governance",
-      "rhetorical AI",
-      "rhetorique IA",
-      "wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales"
-    ],
-    "outlinks": 30,
-    "unique_outlinks": 16,
-    "backlinks": 12
-  },
-  {
     "id": "Root Loose Notes Cluster Map — 2026-05-06",
     "title": "Root Loose Notes Cluster Map — 2026-05-06",
     "path": "wiki/Root Loose Notes Cluster Map — 2026-05-06.md",
@@ -6899,20 +7078,6 @@
     "backlinks": 13
   },
   {
-    "id": "SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
-    "title": "SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
-    "path": "wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy",
-      "wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 11,
-    "backlinks": 25
-  },
-  {
     "id": "SOURCE_OF_TRUTH.MD MOC",
     "title": "SOURCE_OF_TRUTH.MD MOC",
     "path": "wiki/SOURCE_OF_TRUTH.MD MOC.md",
@@ -6922,96 +7087,6 @@
     "outlinks": 0,
     "unique_outlinks": 0,
     "backlinks": 0
-  },
-  {
-    "id": "SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
-    "title": "SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
-    "path": "wiki/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split",
-      "wiki/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 2,
-    "backlinks": 9
-  },
-  {
-    "id": "Sales Objection Handling — Diagnosing Fog Without Coercion",
-    "title": "Sales Objection Handling — Diagnosing Fog Without Coercion",
-    "path": "wiki/Sales Objection Handling — Diagnosing Fog Without Coercion.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "COME BACKs",
-      "Ethical Objection Handling",
-      "Sales Objection Handling",
-      "wiki/Sales Objection Handling — Diagnosing Fog Without Coercion"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 6,
-    "backlinks": 10
-  },
-  {
-    "id": "Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)",
-    "title": "Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)",
-    "path": "wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "GSS 22 2019 allyship standpoint",
-      "Le Gallo Millette 2019 allié.e",
-      "Se positionner comme chercheuses — Le Gallo & Millette 2019 (Genre, sexualité &",
-      "wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles —"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 6,
-    "backlinks": 9
-  },
-  {
-    "id": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "title": "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-    "path": "wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Sealed Card Protocol — Legitimacy, Glitch, and Charging",
-      "wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging"
-    ],
-    "outlinks": 22,
-    "unique_outlinks": 16,
-    "backlinks": 93
-  },
-  {
-    "id": "Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)",
-    "title": "Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)",
-    "path": "wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI & Society rewrite for Inderscience",
-      "Recursive AI Self-Report as an Evidentiary Problem",
-      "Self-Polygraph rewrite",
-      "wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)"
-    ],
-    "outlinks": 29,
-    "unique_outlinks": 13,
-    "backlinks": 10
-  },
-  {
-    "id": "Self-Polygraph Protocol and Suprametacognition",
-    "title": "Self-Polygraph Protocol and Suprametacognition",
-    "path": "wiki/Self-Polygraph Protocol and Suprametacognition.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Self-Polygraph Protocol and Suprametacognition",
-      "wiki/Self-Polygraph Protocol and Suprametacognition"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 8,
-    "backlinks": 65
   },
   {
     "id": "September 2024 Research Retrospective",
@@ -7026,38 +7101,6 @@
     "outlinks": 35,
     "unique_outlinks": 21,
     "backlinks": 25
-  },
-  {
-    "id": "Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)",
-    "title": "Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)",
-    "path": "wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "EI delay escalation letter",
-      "Service Canada accountability letter",
-      "housing risk due to EI delay",
-      "wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 4,
-    "backlinks": 8
-  },
-  {
-    "id": "Service Offer Prompts — GPT-Assisted Revenue Design Templates",
-    "title": "Service Offer Prompts — GPT-Assisted Revenue Design Templates",
-    "path": "wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Freelance Offer Prompts",
-      "GPT Revenue Design Prompts",
-      "Service Offer Prompts",
-      "wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 5,
-    "backlinks": 9
   },
   {
     "id": "Skill Corpus Dedup Audit — 2026-05-06",
@@ -7086,23 +7129,6 @@
     "outlinks": 17,
     "unique_outlinks": 12,
     "backlinks": 10
-  },
-  {
-    "id": "Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate",
-    "title": "Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate",
-    "path": "wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Brain and Map",
-      "Skill creation pipeline",
-      "Skill development workflow",
-      "TDD for skills",
-      "wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate"
-    ],
-    "outlinks": 29,
-    "unique_outlinks": 13,
-    "backlinks": 26
   },
   {
     "id": "Skill Domain — Agent Architecture",
@@ -7266,52 +7292,6 @@
     "outlinks": 28,
     "unique_outlinks": 21,
     "backlinks": 12
-  },
-  {
-    "id": "Skill-Pairing — Five-Case Test Suite",
-    "title": "Skill-Pairing — Five-Case Test Suite",
-    "path": "wiki/Skill-Pairing — Five-Case Test Suite.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "pairing compliance tests",
-      "skill-pairing behavioral suite",
-      "skill-pairing tests",
-      "wiki/Skill-Pairing — Five-Case Test Suite"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 6,
-    "backlinks": 25
-  },
-  {
-    "id": "Slayer Franchise Power — Methodology and Corpus Design",
-    "title": "Slayer Franchise Power — Methodology and Corpus Design",
-    "path": "wiki/Slayer Franchise Power — Methodology and Corpus Design.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Buffy power textual analysis methodology",
-      "Slayer franchise corpus design",
-      "Slayer power methodology",
-      "wiki/Slayer Franchise Power — Methodology and Corpus Design"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 9,
-    "backlinks": 12
-  },
-  {
-    "id": "Slayer Recursion Protocol — README and Repositioning",
-    "title": "Slayer Recursion Protocol — README and Repositioning",
-    "path": "wiki/Slayer Recursion Protocol — README and Repositioning.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Slayer Recursion Protocol — README and Repositioning",
-      "wiki/Slayer Recursion Protocol — README and Repositioning"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 9,
-    "backlinks": 9
   },
   {
     "id": "Smallest Building Block — Relation as Rule",

@@ -6,7 +6,6 @@ aliases:
 - rhetorique IA
 - rhetorical AI
 - mythos AI governance
-- wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales
 tags:
 - rhetoric
 - ai-governance
@@ -14,7 +13,7 @@ tags:
 - theory
 - persuasion
 - epistemics
-- wiki
+- areas
 - rh-torique-antique-mythos-et-ia-gouvernance-et-sciences-sociales-md
 - rhetorical
 - mythos
@@ -25,8 +24,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales.md
+vault_area: Areas
+canonical_path: Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales.md
 backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'

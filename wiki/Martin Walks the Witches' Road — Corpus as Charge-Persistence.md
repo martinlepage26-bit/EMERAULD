@@ -52,7 +52,7 @@ backlinks:
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

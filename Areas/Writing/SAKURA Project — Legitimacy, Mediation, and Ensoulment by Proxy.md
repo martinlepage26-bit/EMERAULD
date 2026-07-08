@@ -3,9 +3,8 @@ type: wiki
 title: SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy
 aliases:
 - SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy
-- wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy
 tags:
-- wiki
+- areas
 - sakura-project-legitimacy-mediation-and-ensoulment-by-proxy-md
 - sakura
 - mediation
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy.md
+vault_area: Areas
+canonical_path: Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy.md
 backlink_count: 17
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
@@ -29,7 +28,7 @@ backlinks:
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Slayer Recursion Protocol — README and Repositioning]]'
+- '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
 - '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'

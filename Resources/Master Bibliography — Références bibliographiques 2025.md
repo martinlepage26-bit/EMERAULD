@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---

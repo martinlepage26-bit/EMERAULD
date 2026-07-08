@@ -71,7 +71,7 @@ backlinks:
 - '[[Areas/PHAROS/RIA-CODEX — System Audit Protocol]]'
 - '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'

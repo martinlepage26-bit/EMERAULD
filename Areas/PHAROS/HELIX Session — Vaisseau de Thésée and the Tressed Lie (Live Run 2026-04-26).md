@@ -40,7 +40,7 @@ backlinks:
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
-- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

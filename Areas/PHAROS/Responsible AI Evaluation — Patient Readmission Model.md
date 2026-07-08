@@ -3,9 +3,8 @@ type: wiki
 title: Responsible AI Evaluation — Patient Readmission Model
 aliases:
 - Responsible AI Evaluation — Patient Readmission Model
-- wiki/Responsible AI Evaluation — Patient Readmission Model
 tags:
-- wiki
+- areas
 - ai
 - responsible-ai-evaluation-patient-readmission-model-md
 - readmission
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Responsible AI Evaluation — Patient Readmission Model.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model.md
 backlink_count: 13
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'

@@ -21,7 +21,7 @@ canonical_path: Areas/Writing/Sealed Card Protocol — Version Genealogy.md
 backlink_count: 5
 backlinks:
 - '[[wiki/Home]]'
-- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'

@@ -65,7 +65,7 @@ backlinks:
 - '[[Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
 - '[[Areas/Writing/Reboot Performance Gender Identity — Version Genealogy]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
-- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[wiki/September 2024 Research Retrospective]]'

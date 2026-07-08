@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'

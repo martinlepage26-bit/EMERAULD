@@ -40,7 +40,7 @@ backlinks:
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[projects/Stuttering Machines — Fisher King Project State]]'
 - '[[session-state]]'

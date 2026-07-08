@@ -47,7 +47,7 @@ backlinks:
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
-- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'

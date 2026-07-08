@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
+- '[[Resources/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
 - '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 ---
 

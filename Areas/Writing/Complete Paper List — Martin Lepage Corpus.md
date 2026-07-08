@@ -47,7 +47,7 @@ backlinks:
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[projects/Glitching the Sacred — Fisher King Project State]]'

@@ -5,7 +5,6 @@ aliases:
 - Relational Presence and Gendered AI
 - Gendered AI Naming
 - AI Relational Presence
-- wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection
 tags:
 - ai-theory
 - gender
@@ -13,7 +12,7 @@ tags:
 - posthumanism
 - language
 - materialization
-- wiki
+- areas
 - relational-presence-and-gendered-ai-naming-essence-and-materialized-projection-md
 - relational
 - trap
@@ -24,9 +23,8 @@ tags:
 status: active
 created: '2026-05-04'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
-  Projection.md
+vault_area: Areas
+canonical_path: Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection.md
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'

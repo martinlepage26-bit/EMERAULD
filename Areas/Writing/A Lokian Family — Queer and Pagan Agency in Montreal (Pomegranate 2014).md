@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
+- '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

@@ -46,7 +46,7 @@ backlinks:
 - '[[Resources/Plugin Recommendations]]'
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Rest and Consolidation Guide — Martin]]'
+- '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
 - '[[wiki/The Weather Beneath the Walls — Novel]]'

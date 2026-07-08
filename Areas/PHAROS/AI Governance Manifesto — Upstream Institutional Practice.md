@@ -38,7 +38,7 @@ backlinks:
 - '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
 - '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
+- '[[Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 - '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
 ---

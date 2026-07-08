@@ -57,7 +57,7 @@ backlinks:
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

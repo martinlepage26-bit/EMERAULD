@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
+- '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[maps/Queer Media and Ritual Map]]'

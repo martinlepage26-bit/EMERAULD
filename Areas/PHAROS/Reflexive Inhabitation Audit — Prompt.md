@@ -5,7 +5,6 @@ aliases:
 - RIA prompt
 - reflexive inhabitation audit
 - regime de pouvoir helix communitas
-- wiki/Reflexive Inhabitation Audit — Prompt
 tags:
 - governance
 - methodology
@@ -14,7 +13,7 @@ tags:
 - helix
 - proof-regime
 - communitas
-- wiki
+- areas
 - reflexive-inhabitation-audit-prompt-md
 - song
 - divergence
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Reflexive Inhabitation Audit — Prompt.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Reflexive Inhabitation Audit — Prompt.md
 backlink_count: 21
 backlinks:
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
@@ -33,8 +32,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
-  (2026-05-07)]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
@@ -45,12 +43,11 @@ backlinks:
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
+- '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[archive/session-state/session-state-001]]'
-- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a
-  live X — Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]'
 ---
 
 # Reflexive Inhabitation Audit — Prompt

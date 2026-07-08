@@ -45,7 +45,7 @@ backlinks:
 - '[[Areas/PHAROS/RECURSO — Final Audit and Ethical Review]]'
 - '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[projects/AurorA — Fisher King Project State]]'

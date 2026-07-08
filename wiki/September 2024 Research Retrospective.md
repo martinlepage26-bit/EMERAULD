@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
+- '[[Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model]]'
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 ---
 

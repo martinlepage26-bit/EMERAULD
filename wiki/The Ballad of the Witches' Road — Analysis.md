@@ -39,8 +39,8 @@ backlinks:
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
-- '[[wiki/Slayer Recursion Protocol — README and Repositioning]]'
+- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
 - '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
   Glitch]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

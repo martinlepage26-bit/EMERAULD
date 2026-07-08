@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
-- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

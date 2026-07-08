@@ -5,9 +5,8 @@ aliases:
 - Service Offer Prompts
 - GPT Revenue Design Prompts
 - Freelance Offer Prompts
-- wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates
 tags:
-- wiki
+- areas
 - service-offer-prompts-gpt-assisted-revenue-design-templates-md
 - offer
 - prompt
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates.md
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'

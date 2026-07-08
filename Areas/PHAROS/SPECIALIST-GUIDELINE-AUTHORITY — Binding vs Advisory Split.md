@@ -3,13 +3,12 @@ type: wiki
 title: SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split
 aliases:
 - SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split
-- wiki/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split
 tags:
 - governance
 - authority
 - advisory
 - binding
-- wiki
+- areas
 - specialist-guideline-authority-binding-vs-advisory-split-md
 - specialist
 - guideline
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split.md
 backlink_count: 6
 backlinks:
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'

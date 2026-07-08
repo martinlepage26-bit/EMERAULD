@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
-- '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
+- '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
 - '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[projects/Papers — Fisher King Project State]]'

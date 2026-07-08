@@ -5,7 +5,6 @@ aliases:
 - Self-Polygraph rewrite
 - Recursive AI Self-Report as an Evidentiary Problem
 - AI & Society rewrite for Inderscience
-- wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)
 tags:
 - manuscript
 - theory
@@ -16,7 +15,7 @@ tags:
 - inderscience
 - ijaighr
 - paper-pipeline
-- wiki
+- areas
 - self-polygraph-manuscript-inderscience-rewrite-2026-04-30-md
 - polygraph
 - self
@@ -25,8 +24,8 @@ tags:
 status: active
 created: '2026-04-30'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30).md
+vault_area: Areas
+canonical_path: Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30).md
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'

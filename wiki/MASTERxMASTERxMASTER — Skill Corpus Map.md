@@ -42,9 +42,9 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[wiki/Skill-Pairing — Five-Case Test Suite]]'
+- '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
 ---
 
 # MASTERxMASTERxMASTER — Skill Corpus Map

@@ -6,7 +6,6 @@ aliases:
 - TDD for skills
 - Brain and Map
 - Skill creation pipeline
-- wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate
 tags:
 - workflow
 - skill-development
@@ -17,7 +16,7 @@ tags:
 - claude-code
 - codex
 - meta-workflow
-- wiki
+- areas
 - skill-development-workflow-tdd-dual-layer-and-eval-iterate-md
 - skill
 - iterate
@@ -28,8 +27,8 @@ tags:
 status: active
 created: '2026-04-30'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate.md
 backlink_count: 16
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

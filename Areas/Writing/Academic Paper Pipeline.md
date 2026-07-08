@@ -54,7 +54,7 @@ backlinks:
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
 - '[[wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'

@@ -5,7 +5,6 @@ aliases:
 - Regulatory Window Arbitrage
 - 93-Day Market Timing
 - Dual-Regulation Positioning
-- wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)
 tags:
 - pharos
 - regulatory
@@ -15,7 +14,7 @@ tags:
 - law-25
 - market-opportunity
 - synthesis
-- wiki
+- areas
 - regulatory-arbitrage-eu-ai-act-law-25-93-day-window-synthesis-md
 - procurement
 - enforcement
@@ -26,14 +25,13 @@ tags:
 status: active
 created: 2026-05-01T16:30
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis).md
 backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
-- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
-  (2026-06-22)]]'
+- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'

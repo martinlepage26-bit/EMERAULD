@@ -3,9 +3,8 @@ type: wiki
 title: Refusing Fixity — Aesthetic Governance and Fugitive Authorship
 aliases:
 - Refusing Fixity — Aesthetic Governance and Fugitive Authorship
-- wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship
 tags:
-- wiki
+- areas
 - governance
 - refusing-fixity-aesthetic-governance-and-fugitive-authorship-md
 - aesthetic
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship.md
+vault_area: Areas
+canonical_path: Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship.md
 backlink_count: 29
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'

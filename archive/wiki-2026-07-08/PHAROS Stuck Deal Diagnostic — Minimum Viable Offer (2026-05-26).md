@@ -29,7 +29,7 @@ backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
-- '[[wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
+- '[[Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

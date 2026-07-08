@@ -43,7 +43,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/September 2024 Research Retrospective]]'
-- '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
+- '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
 - '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

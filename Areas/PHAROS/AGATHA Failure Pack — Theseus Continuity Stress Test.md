@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
+- '[[Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-04-28]]'

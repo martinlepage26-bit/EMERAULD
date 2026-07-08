@@ -59,7 +59,7 @@ backlinks:
 - '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'

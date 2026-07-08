@@ -42,7 +42,7 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Responsible AI Evaluation — Patient Readmission Model]]'
+- '[[Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
 - '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'

@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
+- '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 

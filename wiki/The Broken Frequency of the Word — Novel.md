@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[wiki/The Returning Light — Monograph]]'
 - '[[wiki/The Weather Beneath the Walls — Novel]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

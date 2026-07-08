@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[Areas/Writing/Reboot Performance Gender Identity — Version Genealogy]]'
-- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'

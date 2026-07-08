@@ -5,7 +5,6 @@ aliases:
 - skill-pairing tests
 - skill-pairing behavioral suite
 - pairing compliance tests
-- wiki/Skill-Pairing — Five-Case Test Suite
 tags:
 - skills
 - claude-code
@@ -13,7 +12,7 @@ tags:
 - skill-pairing
 - governance
 - behavioral-compliance
-- wiki
+- areas
 - skill-pairing-five-case-test-suite-md
 - pairing
 - skill
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-04-20'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Skill-Pairing — Five-Case Test Suite.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Skill-Pairing — Five-Case Test Suite.md
 backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
@@ -37,7 +36,7 @@ backlinks:
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
-- '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
+- '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'

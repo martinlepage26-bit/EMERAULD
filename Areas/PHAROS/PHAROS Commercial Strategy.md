@@ -71,7 +71,7 @@ backlinks:
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
+- '[[Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
 - '[[wiki/Strategic Storytelling in the AI Economy]]'
 - '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'

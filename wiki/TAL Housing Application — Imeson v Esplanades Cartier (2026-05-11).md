@@ -30,7 +30,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
+- '[[Areas/Personal/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 source:
 - raw/Desktop-Downloads-scan-2026-05-12/downloads/Imeson_TAL_Application.docx

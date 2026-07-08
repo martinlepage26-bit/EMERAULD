@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Inner Mind Eye]]'
 - '[[wiki/Philosopher]]'
-- '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
+- '[[Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
 ---
 
 # Anti-Charm

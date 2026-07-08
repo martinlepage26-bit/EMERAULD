@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
-- '[[wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
+- '[[Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
 - '[[wiki/Stacklight-owner-explainer]]'
 - '[[wiki/TPS-TVQ PHAROS]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

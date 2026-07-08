@@ -1,14 +1,10 @@
 ---
 type: wiki
-title: Se positionner comme chercheuses au prisme des luttes intersectionnelles —
-  Le Gallo & Millette 2019 (Genre, sexualité & société)
+title: Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)
 aliases:
 - Le Gallo Millette 2019 allié.e
 - GSS 22 2019 allyship standpoint
-- Se positionner comme chercheuses — Le Gallo & Millette 2019 (Genre, sexualité &
-  société)
-- wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles —
-  Le Gallo & Millette 2019 (Genre, sexualité & société)
+- Se positionner comme chercheuses — Le Gallo & Millette 2019 (Genre, sexualité & société)
 tags:
 - reference
 - intersectionality
@@ -19,7 +15,7 @@ tags:
 - academia
 - speech
 - power
-- wiki
+- resources
 - se-positionner-comme-chercheuses-au-prisme-des-luttes-intersectionnelles-le-gallo-millette-2019-genre-sexualit-soci-t-md
 - parler
 - dissertation
@@ -30,9 +26,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
-  — Le Gallo & Millette 2019 (Genre, sexualité & société).md
+vault_area: Resources
+canonical_path: Resources/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société).md
 backlink_count: 8
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

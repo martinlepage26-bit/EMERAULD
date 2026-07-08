@@ -44,7 +44,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
-- '[[wiki/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split]]'
+- '[[Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split]]'
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 - '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'

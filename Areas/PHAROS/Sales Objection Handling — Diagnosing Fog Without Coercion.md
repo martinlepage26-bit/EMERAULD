@@ -5,14 +5,13 @@ aliases:
 - Sales Objection Handling
 - Ethical Objection Handling
 - COME BACKs
-- wiki/Sales Objection Handling — Diagnosing Fog Without Coercion
 tags:
 - sales
 - pharos
 - business-development
 - ethics
 - communication
-- wiki
+- areas
 - sales-objection-handling-diagnosing-fog-without-coercion-md
 - objections
 - objection
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-05-04'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Sales Objection Handling — Diagnosing Fog Without Coercion.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion.md
 backlink_count: 7
 backlinks:
 - '[[.trash/Design Your Agent Architecture]]'

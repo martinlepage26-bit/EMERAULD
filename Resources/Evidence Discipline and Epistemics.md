@@ -71,7 +71,7 @@ backlinks:
 - '[[Areas/PHAROS/RIA-CODEX — System Audit Protocol]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
 - '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'

@@ -3,9 +3,8 @@ type: wiki
 title: Sealed Card Protocol — Legitimacy, Glitch, and Charging
 aliases:
 - Sealed Card Protocol — Legitimacy, Glitch, and Charging
-- wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging
 tags:
-- wiki
+- areas
 - sealed-card-protocol-legitimacy-glitch-and-charging-md
 - charging
 - mediation
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging.md
+vault_area: Areas
+canonical_path: Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging.md
 backlink_count: 53
 backlinks:
 - '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
@@ -57,10 +56,10 @@ backlinks:
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/PHAROS/RIA-CODEX — System Audit Protocol]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
-- '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
+- '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
-- '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
+- '[[Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
 - '[[Areas/Writing/Sealed Card Protocol — Version Genealogy]]'
 - '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'

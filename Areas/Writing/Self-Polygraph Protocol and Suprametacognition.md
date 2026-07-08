@@ -3,9 +3,8 @@ type: wiki
 title: Self-Polygraph Protocol and Suprametacognition
 aliases:
 - Self-Polygraph Protocol and Suprametacognition
-- wiki/Self-Polygraph Protocol and Suprametacognition
 tags:
-- wiki
+- areas
 - self-polygraph-protocol-and-suprametacognition-md
 - instantiations
 - suprametacognition
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Self-Polygraph Protocol and Suprametacognition.md
+vault_area: Areas
+canonical_path: Areas/Writing/Self-Polygraph Protocol and Suprametacognition.md
 backlink_count: 31
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
@@ -44,8 +43,8 @@ backlinks:
 - '[[Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
-- '[[wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
+- '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
+- '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
 - '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[wiki/The Wheel and the Watcher]]'

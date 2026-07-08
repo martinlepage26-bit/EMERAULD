@@ -51,7 +51,7 @@ source_report: raw/intake-report-20260513.json
 - Triage lane: operator/workflow draft capture.
 
 ## Related
-- [[wiki/Reflexive Inhabitation Audit — Prompt.md]]
+- [[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]
 - [[archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]
 ## Cluster Links
 - [[Source Cluster — 2026-05-13 Client and Operator Continuity]]

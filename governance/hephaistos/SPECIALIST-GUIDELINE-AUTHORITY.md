@@ -22,7 +22,7 @@ vault_area: governance
 canonical_path: governance/hephaistos/SPECIALIST-GUIDELINE-AUTHORITY.md
 backlink_count: 4
 backlinks:
-- '[[wiki/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split]]'
+- '[[Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[archive/session-state/session-state-002]]'
 - '[[governance/hephaistos/HERMES]]'

@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
+- '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[maps/Queer Media and Ritual Map]]'

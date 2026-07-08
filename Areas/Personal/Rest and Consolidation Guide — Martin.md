@@ -3,13 +3,12 @@ type: wiki
 title: Rest and Consolidation Guide — Martin
 aliases:
 - Rest and Consolidation Guide — Martin
-- wiki/Rest and Consolidation Guide — Martin
 tags:
 - personal
 - self-care
 - rhythm
 - productivity
-- wiki
+- areas
 - rest-and-consolidation-guide-martin-md
 - rest
 - consolidation
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Rest and Consolidation Guide — Martin.md
+vault_area: Areas
+canonical_path: Areas/Personal/Rest and Consolidation Guide — Martin.md
 backlink_count: 9
 backlinks:
 - '[[wiki/Legal and Institutional Cases]]'
