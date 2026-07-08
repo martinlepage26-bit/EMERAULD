@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
-- '[[wiki/Magic After Legitimacy Charmed — Version Genealogy]]'
+- '[[Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'

@@ -3,13 +3,12 @@ type: version-genealogy
 title: Queer Neo-Pagan Wicca Authenticity — Version Genealogy
 aliases:
 - Queer Neo-Pagan Wicca Authenticity — Version Genealogy
-- wiki/Queer Neo-Pagan Wicca Authenticity — Version Genealogy
 tags:
 - wicca
 - pagan
 - queer
 - version-genealogy
-- wiki
+- areas
 - queer-neo-pagan-wicca-authenticity-version-genealogy-md
 - spiritualities
 - authenticity
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Queer Neo-Pagan Wicca Authenticity — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy.md
 backlink_count: 5
 backlinks:
 - '[[wiki/Home]]'

@@ -3,12 +3,11 @@ type: version-genealogy
 title: Pagan Magic — Version Genealogy
 aliases:
 - Pagan Magic — Version Genealogy
-- wiki/Pagan Magic — Version Genealogy
 tags:
 - pagan
 - magic
 - version-genealogy
-- wiki
+- areas
 - pagan-magic-version-genealogy-md
 - words
 - queering
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Pagan Magic — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Pagan Magic — Version Genealogy.md
 backlink_count: 7
 backlinks:
 - '[[wiki/Home]]'

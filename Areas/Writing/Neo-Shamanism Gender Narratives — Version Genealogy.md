@@ -3,10 +3,9 @@ type: version-genealogy
 title: Neo-Shamanism Gender Narratives — Version Genealogy
 aliases:
 - Neo-Shamanism Gender Narratives — Version Genealogy
-- wiki/Neo-Shamanism Gender Narratives — Version Genealogy
 tags:
 - version-genealogy
-- wiki
+- areas
 - neo-shamanism-gender-narratives-version-genealogy-md
 - shamanism
 - narratives
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Neo-Shamanism Gender Narratives — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy.md
 backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'

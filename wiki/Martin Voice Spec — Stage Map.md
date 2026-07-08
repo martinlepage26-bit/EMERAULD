@@ -27,7 +27,7 @@ canonical_path: wiki/Martin Voice Spec — Stage Map.md
 backlink_count: 8
 backlinks:
 - '[[wiki/Home]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'

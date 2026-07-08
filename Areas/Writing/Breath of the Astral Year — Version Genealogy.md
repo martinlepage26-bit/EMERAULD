@@ -3,10 +3,9 @@ type: version-genealogy
 title: Breath of the Astral Year — Version Genealogy
 aliases:
 - Breath of the Astral Year — Version Genealogy
-- wiki/Breath of the Astral Year — Version Genealogy
 tags:
 - version-genealogy
-- wiki
+- areas
 - breath-of-the-astral-year-version-genealogy-md
 - astral
 - breath
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Breath of the Astral Year — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Breath of the Astral Year — Version Genealogy.md
 backlink_count: 6
 backlinks:
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'

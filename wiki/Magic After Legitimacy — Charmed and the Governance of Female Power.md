@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/Magic After Legitimacy Charmed — Version Genealogy]]'
+- '[[Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'

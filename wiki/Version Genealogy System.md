@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'

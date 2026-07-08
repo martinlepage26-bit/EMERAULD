@@ -3,11 +3,10 @@ type: version-genealogy
 title: First Method Paper — Version Genealogy
 aliases:
 - First Method Paper — Version Genealogy
-- wiki/First Method Paper — Version Genealogy
 tags:
 - paper
 - version-genealogy
-- wiki
+- areas
 - first-method-paper-version-genealogy-md
 - method
 - hinge
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/First Method Paper — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/First Method Paper — Version Genealogy.md
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'

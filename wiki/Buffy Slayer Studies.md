@@ -28,7 +28,7 @@ backlink_count: 15
 backlinks:
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
-- '[[wiki/For Her Alone to Wield — Version Genealogy]]'
+- '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'

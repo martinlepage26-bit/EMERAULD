@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[wiki/Desktop Text Intake — 2026-05-06]]'
-- '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
+- '[[Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'

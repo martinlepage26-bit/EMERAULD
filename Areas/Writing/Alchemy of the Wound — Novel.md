@@ -19,7 +19,7 @@ vault_area: Areas
 canonical_path: Areas/Writing/Alchemy of the Wound — Novel.md
 backlink_count: 26
 backlinks:
-- '[[wiki/Alchemy of the Wound — Version Genealogy]]'
+- '[[Areas/Writing/Alchemy of the Wound — Version Genealogy]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[wiki/Care, Ethics, and Governance]]'

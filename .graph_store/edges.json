@@ -436,17 +436,17 @@
   },
   {
     "source": "AI Governance Failure Cases",
+    "target": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "count": 1
+  },
+  {
+    "source": "AI Governance Failure Cases",
     "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
     "count": 1
   },
   {
     "source": "AI Governance Failure Cases",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 1
-  },
-  {
-    "source": "AI Governance Failure Cases",
-    "target": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
     "count": 1
   },
   {
@@ -1616,6 +1616,11 @@
   },
   {
     "source": "APEX Papers — Research Archive Map",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "APEX Papers — Research Archive Map",
     "target": "MASTER PACK — D Drive Archive Map",
     "count": 2
   },
@@ -1626,52 +1631,7 @@
   },
   {
     "source": "APEX Papers — Research Archive Map",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "APEX Papers — Research Archive Map",
     "target": "RECURSO — Recursive Governance Test Archive",
-    "count": 1
-  },
-  {
-    "source": "Agatha All Along Social Compass — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 1
-  },
-  {
-    "source": "Agatha All Along Social Compass — Version Genealogy",
-    "target": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
-    "count": 1
-  },
-  {
-    "source": "Agatha All Along Social Compass — Version Genealogy",
-    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 1
-  },
-  {
-    "source": "Agatha All Along Social Compass — Version Genealogy",
-    "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
-    "count": 1
-  },
-  {
-    "source": "Agatha All Along Social Compass — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Agatha All Along Social Compass — Version Genealogy",
-    "target": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
-    "count": 1
-  },
-  {
-    "source": "Agatha All Along Social Compass — Version Genealogy",
-    "target": "Media Studies and Pop Culture Analysis",
-    "count": 1
-  },
-  {
-    "source": "Agatha All Along Social Compass — Version Genealogy",
-    "target": "Social Compass Reviewer Response — Wicca and Agatha All Along",
     "count": 1
   },
   {
@@ -1983,16 +1943,6 @@
     "source": "Agent Session Phenomenology",
     "target": "archive/wiki-2026-07-08/SYSTEM CHECK",
     "count": 2
-  },
-  {
-    "source": "Alchemy of the Wound — Version Genealogy",
-    "target": "Areas/Writing/Alchemy of the Wound — Novel",
-    "count": 2
-  },
-  {
-    "source": "Alchemy of the Wound — Version Genealogy",
-    "target": "Areas/Writing/Writing and Novels MOC",
-    "count": 1
   },
   {
     "source": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
@@ -7236,6 +7186,11 @@
   },
   {
     "source": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "count": 2
+  },
+  {
+    "source": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
     "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
     "count": 1
   },
@@ -7257,11 +7212,6 @@
   {
     "source": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
     "target": "Martin Voice Spec — Stage Map",
-    "count": 2
-  },
-  {
-    "source": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
-    "target": "Martin Voice Spec — Version Genealogy",
     "count": 2
   },
   {
@@ -10226,11 +10176,6 @@
   },
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
     "count": 1
   },
@@ -10261,7 +10206,17 @@
   },
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Academic Paper Pipeline",
+    "target": "Areas/Writing/First Method Paper — Version Genealogy",
     "count": 1
   },
   {
@@ -10271,12 +10226,22 @@
   },
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
+    "target": "Areas/Writing/Healthcare Packet — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "count": 1
   },
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Academic Paper Pipeline",
+    "target": "Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy",
     "count": 1
   },
   {
@@ -10311,11 +10276,6 @@
   },
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
-    "target": "First Method Paper — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "Fluency and Interruption Theory",
     "count": 1
   },
@@ -10327,11 +10287,6 @@
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "Global Publication Search — PHAROS Method and Variants",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Academic Paper Pipeline",
-    "target": "Healthcare Packet — Version Genealogy",
     "count": 1
   },
   {
@@ -10392,11 +10347,6 @@
   {
     "source": "Areas/Writing/Academic Paper Pipeline",
     "target": "RDAIG Method Editorial Consolidation — 2026",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Academic Paper Pipeline",
-    "target": "Recursive AI Governance Very Long Narrative — Version Genealogy",
     "count": 1
   },
   {
@@ -10465,8 +10415,43 @@
     "count": 1
   },
   {
-    "source": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
+    "source": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "target": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "target": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "target": "Media Studies and Pop Culture Analysis",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "target": "Social Compass Reviewer Response — Wicca and Agatha All Along",
     "count": 1
   },
   {
@@ -10482,6 +10467,11 @@
   {
     "source": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
     "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
     "count": 1
   },
   {
@@ -10576,12 +10566,12 @@
   },
   {
     "source": "Areas/Writing/Alchemy of the Wound — Novel",
-    "target": "Alchemy of the Wound — Version Genealogy",
+    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
     "count": 1
   },
   {
     "source": "Areas/Writing/Alchemy of the Wound — Novel",
-    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
+    "target": "Areas/Writing/Alchemy of the Wound — Version Genealogy",
     "count": 1
   },
   {
@@ -10647,6 +10637,16 @@
   {
     "source": "Areas/Writing/Alchemy of the Wound — Novel",
     "target": "The Weather Beneath the Walls — Novel",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Alchemy of the Wound — Version Genealogy",
+    "target": "Areas/Writing/Alchemy of the Wound — Novel",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Alchemy of the Wound — Version Genealogy",
+    "target": "Areas/Writing/Writing and Novels MOC",
     "count": 1
   },
   {
@@ -10756,6 +10756,11 @@
   },
   {
     "source": "Areas/Writing/Breath of the Astral Year — Astrology Monograph",
+    "target": "Areas/Writing/Breath of the Astral Year — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Breath of the Astral Year — Astrology Monograph",
     "target": "Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction",
     "count": 1
   },
@@ -10763,11 +10768,6 @@
     "source": "Areas/Writing/Breath of the Astral Year — Astrology Monograph",
     "target": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
     "count": 2
-  },
-  {
-    "source": "Areas/Writing/Breath of the Astral Year — Astrology Monograph",
-    "target": "Breath of the Astral Year — Version Genealogy",
-    "count": 1
   },
   {
     "source": "Areas/Writing/Breath of the Astral Year — Astrology Monograph",
@@ -10822,6 +10822,51 @@
   {
     "source": "Areas/Writing/Breath of the Astral Year — Astrology Monograph",
     "target": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Breath of the Astral Year — Version Genealogy",
+    "target": "Areas/Writing/Breath of the Astral Year — Astrology Monograph",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Breath of the Astral Year — Version Genealogy",
+    "target": "Areas/Writing/Writing and Novels MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/CORPUS Novel — Version Genealogy",
+    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/CORPUS Novel — Version Genealogy",
+    "target": "Areas/Writing/Writing and Novels MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/CORPUS Novel — Version Genealogy",
+    "target": "CORPUS ou le génie de l'insistance — Novel",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/CORPUS Novel — Version Genealogy",
+    "target": "Novel and Creative Corpus",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Circle Remains Open — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Circle Remains Open — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Circle Remains Open — Version Genealogy",
+    "target": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
     "count": 2
   },
   {
@@ -10900,6 +10945,66 @@
     "count": 1
   },
   {
+    "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 3
+  },
+  {
+    "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "Dr. Sort Corpus Map — March 2026",
+    "count": 4
+  },
+  {
+    "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "Dr. Sort and LOTUS Ownership Decision — March 2026",
+    "count": 6
+  },
+  {
+    "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "LOTUS Model and Agency",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "LOTUS Premium Spec",
+    "count": 4
+  },
+  {
+    "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "Portfolio Restructuring Review — March 2026",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "The Ballad of the Witches' Road — Analysis",
+    "count": 2
+  },
+  {
     "source": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline",
     "target": "AI Governance Manifesto — Upstream Institutional Practice",
     "count": 2
@@ -10961,6 +11066,11 @@
   },
   {
     "source": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
+    "target": "Areas/Writing/First Method Paper — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
     "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
     "count": 1
   },
@@ -10977,11 +11087,6 @@
   {
     "source": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
     "target": "Documents Root Loose Files Intake — 2026-04-28",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
-    "target": "First Method Paper — Version Genealogy",
     "count": 1
   },
   {
@@ -11030,6 +11135,16 @@
     "count": 1
   },
   {
+    "source": "Areas/Writing/First Method Paper — Version Genealogy",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/First Method Paper — Version Genealogy",
+    "target": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
+    "count": 2
+  },
+  {
     "source": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
     "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "count": 2
@@ -11047,6 +11162,11 @@
   {
     "source": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
     "target": "Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
+    "target": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
     "count": 1
   },
   {
@@ -11078,11 +11198,6 @@
     "source": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
     "target": "Fluency, Interruption, and Institutional Accountability",
     "count": 2
-  },
-  {
-    "source": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
-    "target": "For Her Alone to Wield — Version Genealogy",
-    "count": 1
   },
   {
     "source": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
@@ -11123,6 +11238,66 @@
     "source": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
     "target": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
     "count": 1
+  },
+  {
+    "source": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "target": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "target": "Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "target": "Buffy Slayer Studies",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "target": "Every Hair a Battle Scar — Buffy's Hair as Narrative Engine",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "target": "Media Studies and Pop Culture Analysis",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "target": "Slayer Franchise Power — Methodology and Corpus Design",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "target": "Still Running — Willow, Anya, and Queer Ritual Infrastructure",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Governance by Denial — Version Genealogy",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Governance by Denial — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Governance by Denial — Version Genealogy",
+    "target": "Governance by Denial",
+    "count": 3
   },
   {
     "source": "Areas/Writing/HENRY — Research Paper Writing System",
@@ -11205,6 +11380,26 @@
     "count": 3
   },
   {
+    "source": "Areas/Writing/Healthcare Packet — Version Genealogy",
+    "target": "Healthcare Governance Packet — Recursive Governance for Providers",
+    "count": 4
+  },
+  {
+    "source": "Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy",
+    "target": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
+    "count": 2
+  },
+  {
     "source": "Areas/Writing/Legitimacy Machines MOC",
     "target": "Areas/PHAROS/Control Protocols MOC",
     "count": 1
@@ -11227,6 +11422,11 @@
   {
     "source": "Areas/Writing/Legitimacy Machines MOC",
     "target": "Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Legitimacy Machines MOC",
+    "target": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
     "count": 1
   },
   {
@@ -11282,11 +11482,6 @@
   {
     "source": "Areas/Writing/Legitimacy Machines MOC",
     "target": "Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Legitimacy Machines MOC",
-    "target": "Magic After Legitimacy Charmed — Version Genealogy",
     "count": 1
   },
   {
@@ -11507,6 +11702,36 @@
   {
     "source": "Areas/Writing/Loop Papers and Recursive Governance",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
+    "target": "Areas/Writing/Legitimacy Machines MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
+    "target": "Authority Without Ethics — The Love Witch",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
+    "target": "Magic After Legitimacy — Charmed and the Governance of Female Power",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
+    "target": "Media Studies and Pop Culture Analysis",
     "count": 1
   },
   {
@@ -11760,6 +11985,86 @@
     "count": 1
   },
   {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "APEX Papers — Research Archive Map",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "Areas/PHAROS/PHAROS — Origin and Doctrine",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
+    "count": 4
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "Areas/Writing/HENRY — Research Paper Writing System",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "Martin Lepage Professional Identity",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "Martin Voice Spec — Stage Map",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "PAPER BUILDER — Source Bundle and HENRY Origin",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "PHAROS Final Voice Operator — GPT Creator",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "Version Genealogy System",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "genealogy/Martin Voice Spec — Stage Map",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "genealogy/Martin Voice Spec — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "hephaistos/agents/Trismegiste Personal AI Assistant",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "target": "voice11 — ElevenLabs TTS Pipeline",
+    "count": 2
+  },
+  {
     "source": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
@@ -11788,6 +12093,11 @@
     "source": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "count": 4
+  },
+  {
+    "source": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
+    "target": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "count": 2
   },
   {
     "source": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
@@ -11848,11 +12158,6 @@
     "source": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
     "target": "Novel and Creative Corpus",
     "count": 1
-  },
-  {
-    "source": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
-    "target": "Pourquoi Rever Encore — Version Genealogy",
-    "count": 2
   },
   {
     "source": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
@@ -11923,6 +12228,11 @@
     "source": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "target": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
     "count": 1
+  },
+  {
+    "source": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "target": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "count": 3
   },
   {
     "source": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
@@ -12066,11 +12376,6 @@
   },
   {
     "source": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "target": "Pourquoi Rever Encore — Version Genealogy",
-    "count": 3
-  },
-  {
-    "source": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "target": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
     "count": 3
   },
@@ -12135,13 +12440,33 @@
     "count": 1
   },
   {
-    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "target": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
+    "source": "Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pagan Magic — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Pagan Magic — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pagan Magic — Version Genealogy",
+    "target": "Queering Neo-Pagan Magic — MRW Submission (2026)",
     "count": 1
   },
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
+    "target": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
     "count": 1
   },
   {
@@ -12157,6 +12482,11 @@
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "Areas/Writing/Academic Paper Pipeline",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
     "count": 1
   },
   {
@@ -12182,6 +12512,16 @@
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "Areas/Writing/Manuscript Pipeline MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "target": "Areas/Writing/Pagan Magic — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "target": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
     "count": 1
   },
   {
@@ -12346,11 +12686,6 @@
   },
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "target": "Pagan Magic — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
     "count": 1
   },
@@ -12367,11 +12702,6 @@
   {
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "target": "Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
     "count": 1
   },
   {
@@ -12500,13 +12830,58 @@
     "count": 1
   },
   {
-    "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
+    "source": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "target": "Novel and Creative Corpus",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "target": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 2
+  },
+  {
+    "source": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
     "count": 1
   },
   {
     "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
     "target": "Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
     "count": 1
   },
   {
@@ -12783,6 +13158,31 @@
     "source": "Areas/Writing/Queer Sociology of Magic and Ritual",
     "target": "Wicca 2.0 — Version Genealogy",
     "count": 1
+  },
+  {
+    "source": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy",
+    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy",
+    "target": "Areas/Writing/Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy",
+    "target": "Reboot — Performance, Gender, and Computing of Identity",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy",
+    "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy",
+    "target": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
+    "count": 2
   },
   {
     "source": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
@@ -14676,17 +15076,7 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Agent Session Phenomenology",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Alchemy of the Wound — Version Genealogy",
     "count": 1
   },
   {
@@ -14726,7 +15116,17 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Areas/Writing/Alchemy of the Wound — Novel",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Alchemy of the Wound — Version Genealogy",
     "count": 1
   },
   {
@@ -14736,12 +15136,52 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Breath of the Astral Year — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/CORPUS Novel — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Circle Remains Open — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
     "count": 1
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/First Method Paper — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Governance by Denial — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Areas/Writing/HENRY — Research Paper Writing System",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Healthcare Packet — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy",
     "count": 1
   },
   {
@@ -14752,6 +15192,11 @@
   {
     "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
     "count": 1
   },
   {
@@ -14771,12 +15216,42 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Pagan Magic — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "count": 1
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Areas/Writing/Writing and Novels MOC",
+    "target": "Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy",
     "count": 1
   },
   {
@@ -14821,11 +15296,6 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Breath of the Astral Year — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Brutal Isms — Art Grant Proposal",
     "count": 1
   },
@@ -14841,17 +15311,7 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "CORPUS Novel — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "CORPUS ou le génie de l'insistance — Novel",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Circle Remains Open — Version Genealogy",
     "count": 1
   },
   {
@@ -14866,33 +15326,8 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "First Method Paper — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "For Her Alone to Wield — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Governance by Denial — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "HEXA Press — Publishing and Practice Initiative",
     "count": 3
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Healthcare Packet — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Inner Goddess Wicca Gender — Version Genealogy",
-    "count": 1
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
@@ -14913,11 +15348,6 @@
     "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Library Master Reference Intake (2026-04-26)",
     "count": 2
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Magic After Legitimacy Charmed — Version Genealogy",
-    "count": 1
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
@@ -14946,11 +15376,6 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Neo-Shamanism Gender Narratives — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Neo-Shamanism and Gender — Montreal Pagan Community",
     "count": 1
   },
@@ -14961,17 +15386,7 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Pagan Magic — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Phase 1 Governance Formation Sequence",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Pourquoi Rever Encore — Version Genealogy",
     "count": 1
   },
   {
@@ -14996,11 +15411,6 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Queer Theory Foundations",
     "count": 1
   },
@@ -15021,17 +15431,7 @@
   },
   {
     "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Reboot Performance Gender Identity — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
     "target": "Reboot — Performance, Gender, and Computing of Identity",
-    "count": 1
-  },
-  {
-    "source": "Areas/Writing/Writing and Novels MOC",
-    "target": "Recursive AI Governance Very Long Narrative — Version Genealogy",
     "count": 1
   },
   {
@@ -16070,16 +16470,6 @@
     "count": 1
   },
   {
-    "source": "Breath of the Astral Year — Version Genealogy",
-    "target": "Areas/Writing/Breath of the Astral Year — Astrology Monograph",
-    "count": 2
-  },
-  {
-    "source": "Breath of the Astral Year — Version Genealogy",
-    "target": "Areas/Writing/Writing and Novels MOC",
-    "count": 1
-  },
-  {
     "source": "Brutal Isms — Art Grant Proposal",
     "target": "Areas/Writing/Loop Papers and Recursive Governance",
     "count": 2
@@ -16396,6 +16786,11 @@
   },
   {
     "source": "CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
+    "target": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "count": 1
+  },
+  {
+    "source": "CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
     "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
     "count": 1
   },
@@ -16407,11 +16802,6 @@
   {
     "source": "CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
     "target": "Codex Handoff — PHAROS AI Design Review (2026-05-01)",
-    "count": 1
-  },
-  {
-    "source": "CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle",
-    "target": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
     "count": 1
   },
   {
@@ -16675,26 +17065,6 @@
     "count": 3
   },
   {
-    "source": "CORPUS Novel — Version Genealogy",
-    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 1
-  },
-  {
-    "source": "CORPUS Novel — Version Genealogy",
-    "target": "Areas/Writing/Writing and Novels MOC",
-    "count": 1
-  },
-  {
-    "source": "CORPUS Novel — Version Genealogy",
-    "target": "CORPUS ou le génie de l'insistance — Novel",
-    "count": 2
-  },
-  {
-    "source": "CORPUS Novel — Version Genealogy",
-    "target": "Novel and Creative Corpus",
-    "count": 1
-  },
-  {
     "source": "CORPUS ou le génie de l'insistance — Novel",
     "target": "Agent Session Phenomenology",
     "count": 1
@@ -16716,17 +17086,17 @@
   },
   {
     "source": "CORPUS ou le génie de l'insistance — Novel",
+    "target": "Areas/Writing/CORPUS Novel — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "CORPUS ou le génie de l'insistance — Novel",
     "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
     "count": 1
   },
   {
     "source": "CORPUS ou le génie de l'insistance — Novel",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 1
-  },
-  {
-    "source": "CORPUS ou le génie de l'insistance — Novel",
-    "target": "CORPUS Novel — Version Genealogy",
     "count": 1
   },
   {
@@ -17147,21 +17517,6 @@
   {
     "source": "Chrome Extension Monetization - Policy and Product Options",
     "target": "Obsidian Second Brain Product",
-    "count": 2
-  },
-  {
-    "source": "Circle Remains Open — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 1
-  },
-  {
-    "source": "Circle Remains Open — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Circle Remains Open — Version Genealogy",
-    "target": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
     "count": 2
   },
   {
@@ -19175,73 +19530,8 @@
     "count": 1
   },
   {
-    "source": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
-    "count": 2
-  },
-  {
-    "source": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
-    "count": 1
-  },
-  {
-    "source": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 3
-  },
-  {
-    "source": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "target": "Dr. Sort Corpus Map — March 2026",
-    "count": 4
-  },
-  {
-    "source": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "target": "Dr. Sort and LOTUS Ownership Decision — March 2026",
-    "count": 6
-  },
-  {
-    "source": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "target": "LOTUS Model and Agency",
-    "count": 2
-  },
-  {
-    "source": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "target": "LOTUS Premium Spec",
-    "count": 4
-  },
-  {
-    "source": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "target": "MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS",
-    "count": 2
-  },
-  {
-    "source": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "target": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
-    "count": 1
-  },
-  {
-    "source": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "target": "Portfolio Restructuring Review — March 2026",
-    "count": 1
-  },
-  {
-    "source": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "target": "The Ballad of the Witches' Road — Analysis",
-    "count": 2
-  },
-  {
     "source": "Dr. Sort Corpus Map — March 2026",
     "target": "A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
-    "count": 1
-  },
-  {
-    "source": "Dr. Sort Corpus Map — March 2026",
-    "target": "Alchemy of the Wound — Version Genealogy",
     "count": 1
   },
   {
@@ -19253,6 +19543,11 @@
     "source": "Dr. Sort Corpus Map — March 2026",
     "target": "Areas/Writing/Alchemy of the Wound — Novel",
     "count": 3
+  },
+  {
+    "source": "Dr. Sort Corpus Map — March 2026",
+    "target": "Areas/Writing/Alchemy of the Wound — Version Genealogy",
+    "count": 1
   },
   {
     "source": "Dr. Sort Corpus Map — March 2026",
@@ -20480,16 +20775,6 @@
     "count": 1
   },
   {
-    "source": "First Method Paper — Version Genealogy",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "First Method Paper — Version Genealogy",
-    "target": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
-    "count": 2
-  },
-  {
     "source": "Fisher King Hub — Project Recovery Map",
     "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
     "count": 2
@@ -20876,6 +21161,11 @@
   },
   {
     "source": "For Her Alone to Wield — HENRY Draft (2026-05-16)",
+    "target": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "For Her Alone to Wield — HENRY Draft (2026-05-16)",
     "target": "Buffy Slayer Studies",
     "count": 1
   },
@@ -20886,58 +21176,8 @@
   },
   {
     "source": "For Her Alone to Wield — HENRY Draft (2026-05-16)",
-    "target": "For Her Alone to Wield — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "For Her Alone to Wield — HENRY Draft (2026-05-16)",
     "target": "Slayer Franchise Power — Methodology and Corpus Design",
     "count": 2
-  },
-  {
-    "source": "For Her Alone to Wield — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 1
-  },
-  {
-    "source": "For Her Alone to Wield — Version Genealogy",
-    "target": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
-    "count": 2
-  },
-  {
-    "source": "For Her Alone to Wield — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "For Her Alone to Wield — Version Genealogy",
-    "target": "Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch",
-    "count": 1
-  },
-  {
-    "source": "For Her Alone to Wield — Version Genealogy",
-    "target": "Buffy Slayer Studies",
-    "count": 1
-  },
-  {
-    "source": "For Her Alone to Wield — Version Genealogy",
-    "target": "Every Hair a Battle Scar — Buffy's Hair as Narrative Engine",
-    "count": 1
-  },
-  {
-    "source": "For Her Alone to Wield — Version Genealogy",
-    "target": "Media Studies and Pop Culture Analysis",
-    "count": 1
-  },
-  {
-    "source": "For Her Alone to Wield — Version Genealogy",
-    "target": "Slayer Franchise Power — Methodology and Corpus Design",
-    "count": 1
-  },
-  {
-    "source": "For Her Alone to Wield — Version Genealogy",
-    "target": "Still Running — Willow, Anya, and Queer Ritual Infrastructure",
-    "count": 1
   },
   {
     "source": "Founder Charter — Lepage and Stocker",
@@ -22146,17 +22386,17 @@
   },
   {
     "source": "Governance by Denial",
+    "target": "Areas/Writing/Governance by Denial — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Governance by Denial",
     "target": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
     "count": 2
   },
   {
     "source": "Governance by Denial",
     "target": "CDPDJ Complaint — Lepage v Calian and Novartis",
-    "count": 1
-  },
-  {
-    "source": "Governance by Denial",
-    "target": "Governance by Denial — Version Genealogy",
     "count": 1
   },
   {
@@ -22196,17 +22436,17 @@
   },
   {
     "source": "Governance by Denial — Legibility, Capacity, Classification (Draft)",
+    "target": "Areas/Writing/Governance by Denial — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Governance by Denial — Legibility, Capacity, Classification (Draft)",
     "target": "Authority, Legitimacy, and Post-Sovereignty",
     "count": 1
   },
   {
     "source": "Governance by Denial — Legibility, Capacity, Classification (Draft)",
     "target": "Framing Processes and Social Movements — Benford & Snow 2000",
-    "count": 1
-  },
-  {
-    "source": "Governance by Denial — Legibility, Capacity, Classification (Draft)",
-    "target": "Governance by Denial — Version Genealogy",
     "count": 1
   },
   {
@@ -22218,21 +22458,6 @@
     "source": "Governance by Denial — Legibility, Capacity, Classification (Draft)",
     "target": "Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)",
     "count": 1
-  },
-  {
-    "source": "Governance by Denial — Version Genealogy",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 2
-  },
-  {
-    "source": "Governance by Denial — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 2
-  },
-  {
-    "source": "Governance by Denial — Version Genealogy",
-    "target": "Governance by Denial",
-    "count": 3
   },
   {
     "source": "Governed Revision Loop — Responsible Self-Improving Agents",
@@ -22906,17 +23131,17 @@
   },
   {
     "source": "Halberstam — The Queer Art of Failure (2011)",
+    "target": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "count": 1
+  },
+  {
+    "source": "Halberstam — The Queer Art of Failure (2011)",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "count": 2
   },
   {
     "source": "Halberstam — The Queer Art of Failure (2011)",
     "target": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
-    "count": 1
-  },
-  {
-    "source": "Halberstam — The Queer Art of Failure (2011)",
-    "target": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
     "count": 1
   },
   {
@@ -23106,6 +23331,11 @@
   },
   {
     "source": "Healthcare Governance Packet — Recursive Governance for Providers",
+    "target": "Areas/Writing/Healthcare Packet — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Healthcare Governance Packet — Recursive Governance for Providers",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "count": 1
   },
@@ -23123,16 +23353,6 @@
     "source": "Healthcare Governance Packet — Recursive Governance for Providers",
     "target": "Fluency, Interruption, and Institutional Accountability",
     "count": 1
-  },
-  {
-    "source": "Healthcare Governance Packet — Recursive Governance for Providers",
-    "target": "Healthcare Packet — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Healthcare Packet — Version Genealogy",
-    "target": "Healthcare Governance Packet — Recursive Governance for Providers",
-    "count": 4
   },
   {
     "source": "Henry GPT — Peer Reviewer ChatGPT Product Specification",
@@ -23351,22 +23571,12 @@
   },
   {
     "source": "Home",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
     "count": 1
   },
   {
     "source": "Home",
     "target": "Agent Session Phenomenology",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Alchemy of the Wound — Version Genealogy",
     "count": 1
   },
   {
@@ -23481,6 +23691,11 @@
   },
   {
     "source": "Home",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
     "count": 1
   },
@@ -23491,12 +23706,32 @@
   },
   {
     "source": "Home",
+    "target": "Areas/Writing/Alchemy of the Wound — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory",
     "count": 1
   },
   {
     "source": "Home",
     "target": "Areas/Writing/Breath of the Astral Year — Astrology Monograph",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Breath of the Astral Year — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/CORPUS Novel — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Circle Remains Open — Version Genealogy",
     "count": 1
   },
   {
@@ -23511,7 +23746,32 @@
   },
   {
     "source": "Home",
+    "target": "Areas/Writing/First Method Paper — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Governance by Denial — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Healthcare Packet — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy",
     "count": 1
   },
   {
@@ -23526,8 +23786,48 @@
   },
   {
     "source": "Home",
+    "target": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Pagan Magic — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
     "count": 2
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy",
+    "count": 1
   },
   {
     "source": "Home",
@@ -23601,11 +23901,6 @@
   },
   {
     "source": "Home",
-    "target": "Breath of the Astral Year — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "Brutal Isms — Art Grant Proposal",
     "count": 1
   },
@@ -23631,11 +23926,6 @@
   },
   {
     "source": "Home",
-    "target": "CORPUS Novel — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "CORPUS ou le génie de l'insistance — Novel",
     "count": 1
   },
@@ -23647,11 +23937,6 @@
   {
     "source": "Home",
     "target": "Chrome Extension Monetization - Policy and Product Options",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Circle Remains Open — Version Genealogy",
     "count": 1
   },
   {
@@ -23736,11 +24021,6 @@
   },
   {
     "source": "Home",
-    "target": "First Method Paper — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "Fluency and Interruption Theory",
     "count": 2
   },
@@ -23757,11 +24037,6 @@
   {
     "source": "Home",
     "target": "For Her Alone to Wield — HENRY Draft (2026-05-16)",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "For Her Alone to Wield — Version Genealogy",
     "count": 1
   },
   {
@@ -23791,11 +24066,6 @@
   },
   {
     "source": "Home",
-    "target": "Governance by Denial — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "Harrowfield Clinic — AI Governance Failure Case Study",
     "count": 1
   },
@@ -23806,22 +24076,12 @@
   },
   {
     "source": "Home",
-    "target": "Healthcare Packet — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "IF.EMOTION — Empathetic AI Architecture",
     "count": 1
   },
   {
     "source": "Home",
     "target": "Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Inner Goddess Wicca Gender — Version Genealogy",
     "count": 1
   },
   {
@@ -23881,11 +24141,6 @@
   },
   {
     "source": "Home",
-    "target": "Magic After Legitimacy Charmed — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "Magic After Legitimacy — Charmed and the Governance of Female Power",
     "count": 1
   },
@@ -23906,11 +24161,6 @@
   },
   {
     "source": "Home",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "Master Project Tracker — 2026",
     "count": 2
   },
@@ -23927,11 +24177,6 @@
   {
     "source": "Home",
     "target": "Narrative and Method Integration — Creative Articulations of Governance",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Neo-Shamanism Gender Narratives — Version Genealogy",
     "count": 1
   },
   {
@@ -23976,17 +24221,7 @@
   },
   {
     "source": "Home",
-    "target": "Pagan Magic — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "Phase 1 Governance Formation Sequence",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Pourquoi Rever Encore — Version Genealogy",
     "count": 1
   },
   {
@@ -24007,11 +24242,6 @@
   {
     "source": "Home",
     "target": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
     "count": 1
   },
   {
@@ -24056,17 +24286,7 @@
   },
   {
     "source": "Home",
-    "target": "Reboot Performance Gender Identity — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Home",
     "target": "Reboot — Performance, Gender, and Computing of Identity",
-    "count": 1
-  },
-  {
-    "source": "Home",
-    "target": "Recursive AI Governance Very Long Narrative — Version Genealogy",
     "count": 1
   },
   {
@@ -24858,21 +25078,6 @@
     "source": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
     "target": "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "count": 4
-  },
-  {
-    "source": "Inner Goddess Wicca Gender — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 1
-  },
-  {
-    "source": "Inner Goddess Wicca Gender — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Inner Goddess Wicca Gender — Version Genealogy",
-    "target": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-    "count": 2
   },
   {
     "source": "Inner Mind Eye",
@@ -26665,36 +26870,6 @@
     "count": 1
   },
   {
-    "source": "Magic After Legitimacy Charmed — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 2
-  },
-  {
-    "source": "Magic After Legitimacy Charmed — Version Genealogy",
-    "target": "Areas/Writing/Legitimacy Machines MOC",
-    "count": 1
-  },
-  {
-    "source": "Magic After Legitimacy Charmed — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Magic After Legitimacy Charmed — Version Genealogy",
-    "target": "Authority Without Ethics — The Love Witch",
-    "count": 1
-  },
-  {
-    "source": "Magic After Legitimacy Charmed — Version Genealogy",
-    "target": "Magic After Legitimacy — Charmed and the Governance of Female Power",
-    "count": 1
-  },
-  {
-    "source": "Magic After Legitimacy Charmed — Version Genealogy",
-    "target": "Media Studies and Pop Culture Analysis",
-    "count": 1
-  },
-  {
     "source": "Magic After Legitimacy — Charmed and the Governance of Female Power",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
@@ -26731,6 +26906,11 @@
   },
   {
     "source": "Magic After Legitimacy — Charmed and the Governance of Female Power",
+    "target": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Magic After Legitimacy — Charmed and the Governance of Female Power",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "count": 1
   },
@@ -26758,11 +26938,6 @@
     "source": "Magic After Legitimacy — Charmed and the Governance of Female Power",
     "target": "Governance by Denial",
     "count": 2
-  },
-  {
-    "source": "Magic After Legitimacy — Charmed and the Governance of Female Power",
-    "target": "Magic After Legitimacy Charmed — Version Genealogy",
-    "count": 1
   },
   {
     "source": "Magic After Legitimacy — Charmed and the Governance of Female Power",
@@ -27641,6 +27816,11 @@
   },
   {
     "source": "Martin Voice Spec — Stage Map",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "count": 2
+  },
+  {
+    "source": "Martin Voice Spec — Stage Map",
     "target": "Diamond-Eyes — Aesthetic Refinement Skill",
     "count": 1
   },
@@ -27651,97 +27831,12 @@
   },
   {
     "source": "Martin Voice Spec — Stage Map",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 2
-  },
-  {
-    "source": "Martin Voice Spec — Stage Map",
     "target": "PHAROS Final Voice Operator — GPT Creator",
     "count": 1
   },
   {
     "source": "Martin Voice Spec — Stage Map",
     "target": "Version Genealogy System",
-    "count": 2
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "AI Personas — Agatha, DOTTIE, and MOBI",
-    "count": 1
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "APEX Papers — Research Archive Map",
-    "count": 1
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "Areas/PHAROS/HEPHAISTOS Agent Architecture",
-    "count": 2
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "Areas/PHAROS/PHAROS — Origin and Doctrine",
-    "count": 1
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture",
-    "count": 4
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
-    "count": 2
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "Areas/Writing/HENRY — Research Paper Writing System",
-    "count": 2
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "Martin Lepage Professional Identity",
-    "count": 2
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "Martin Voice Spec — Stage Map",
-    "count": 2
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "PAPER BUILDER — Source Bundle and HENRY Origin",
-    "count": 1
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "PHAROS Final Voice Operator — GPT Creator",
-    "count": 1
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "Version Genealogy System",
-    "count": 2
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "genealogy/Martin Voice Spec — Stage Map",
-    "count": 1
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "genealogy/Martin Voice Spec — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "hephaistos/agents/Trismegiste Personal AI Assistant",
-    "count": 1
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "voice11 — ElevenLabs TTS Pipeline",
     "count": 2
   },
   {
@@ -27776,6 +27871,11 @@
   },
   {
     "source": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
+    "target": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "count": 3
+  },
+  {
+    "source": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "count": 4
   },
@@ -27788,11 +27888,6 @@
     "source": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
     "target": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
     "count": 2
-  },
-  {
-    "source": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
-    "target": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "count": 3
   },
   {
     "source": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
@@ -28860,16 +28955,6 @@
     "count": 1
   },
   {
-    "source": "Neo-Shamanism Gender Narratives — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 2
-  },
-  {
-    "source": "Neo-Shamanism Gender Narratives — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
     "source": "Neo-Shamanism and Gender — Montreal Pagan Community",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
@@ -28888,6 +28973,11 @@
     "source": "Neo-Shamanism and Gender — Montreal Pagan Community",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "count": 1
+  },
+  {
+    "source": "Neo-Shamanism and Gender — Montreal Pagan Community",
+    "target": "Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy",
+    "count": 2
   },
   {
     "source": "Neo-Shamanism and Gender — Montreal Pagan Community",
@@ -28913,11 +29003,6 @@
     "source": "Neo-Shamanism and Gender — Montreal Pagan Community",
     "target": "Areas/Writing/Writing and Novels MOC",
     "count": 1
-  },
-  {
-    "source": "Neo-Shamanism and Gender — Montreal Pagan Community",
-    "target": "Neo-Shamanism Gender Narratives — Version Genealogy",
-    "count": 2
   },
   {
     "source": "Neo-Shamanism and Gender — Montreal Pagan Community",
@@ -28966,11 +29051,6 @@
   },
   {
     "source": "Novel and Creative Corpus",
-    "target": "Alchemy of the Wound — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Novel and Creative Corpus",
     "target": "Areas/Writing/Academic Paper Pipeline",
     "count": 1
   },
@@ -28981,7 +29061,32 @@
   },
   {
     "source": "Novel and Creative Corpus",
+    "target": "Areas/Writing/Alchemy of the Wound — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Novel and Creative Corpus",
     "target": "Areas/Writing/Breath of the Astral Year — Astrology Monograph",
+    "count": 1
+  },
+  {
+    "source": "Novel and Creative Corpus",
+    "target": "Areas/Writing/Breath of the Astral Year — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Novel and Creative Corpus",
+    "target": "Areas/Writing/CORPUS Novel — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Novel and Creative Corpus",
+    "target": "Areas/Writing/Circle Remains Open — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Novel and Creative Corpus",
+    "target": "Areas/Writing/Governance by Denial — Version Genealogy",
     "count": 1
   },
   {
@@ -29036,11 +29141,6 @@
   },
   {
     "source": "Novel and Creative Corpus",
-    "target": "Breath of the Astral Year — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Novel and Creative Corpus",
     "target": "Buffy Slayer Studies",
     "count": 1
   },
@@ -29051,27 +29151,12 @@
   },
   {
     "source": "Novel and Creative Corpus",
-    "target": "CORPUS Novel — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Novel and Creative Corpus",
     "target": "CORPUS ou le génie de l'insistance — Novel",
     "count": 2
   },
   {
     "source": "Novel and Creative Corpus",
     "target": "Care, Ethics, and Governance",
-    "count": 1
-  },
-  {
-    "source": "Novel and Creative Corpus",
-    "target": "Circle Remains Open — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Novel and Creative Corpus",
-    "target": "Governance by Denial — Version Genealogy",
     "count": 1
   },
   {
@@ -29226,11 +29311,6 @@
   },
   {
     "source": "OUTLIERS — Five Notes That Break the Architecture",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "OUTLIERS — Five Notes That Break the Architecture",
     "target": "Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 1
   },
@@ -29252,6 +29332,11 @@
   {
     "source": "OUTLIERS — Five Notes That Break the Architecture",
     "target": "Areas/PHAROS/ROOK — Session Boundary Model",
+    "count": 1
+  },
+  {
+    "source": "OUTLIERS — Five Notes That Break the Architecture",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
     "count": 1
   },
   {
@@ -30201,6 +30286,11 @@
   },
   {
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "count": 2
+  },
+  {
+    "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
     "target": "Martin Lepage Professional Identity",
     "count": 2
   },
@@ -30208,11 +30298,6 @@
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
     "target": "Martin Voice Spec — Stage Map",
     "count": 1
-  },
-  {
-    "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 2
   },
   {
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
@@ -31555,21 +31640,6 @@
     "count": 1
   },
   {
-    "source": "Pagan Magic — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 2
-  },
-  {
-    "source": "Pagan Magic — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Pagan Magic — Version Genealogy",
-    "target": "Queering Neo-Pagan Magic — MRW Submission (2026)",
-    "count": 1
-  },
-  {
     "source": "Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
     "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
     "count": 1
@@ -32145,41 +32215,6 @@
     "count": 1
   },
   {
-    "source": "Pourquoi Rever Encore — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 2
-  },
-  {
-    "source": "Pourquoi Rever Encore — Version Genealogy",
-    "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
-    "count": 1
-  },
-  {
-    "source": "Pourquoi Rever Encore — Version Genealogy",
-    "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
-    "count": 1
-  },
-  {
-    "source": "Pourquoi Rever Encore — Version Genealogy",
-    "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
-    "count": 1
-  },
-  {
-    "source": "Pourquoi Rever Encore — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Pourquoi Rever Encore — Version Genealogy",
-    "target": "Novel and Creative Corpus",
-    "count": 1
-  },
-  {
-    "source": "Pourquoi Rever Encore — Version Genealogy",
-    "target": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
-    "count": 1
-  },
-  {
     "source": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
     "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "count": 2
@@ -32216,6 +32251,11 @@
   },
   {
     "source": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
+    "target": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
     "target": "Areas/Writing/Research and Papers MOC",
     "count": 2
   },
@@ -32227,11 +32267,6 @@
   {
     "source": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
     "target": "CORPUS ou le génie de l'insistance — Novel",
-    "count": 1
-  },
-  {
-    "source": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
-    "target": "Pourquoi Rever Encore — Version Genealogy",
     "count": 1
   },
   {
@@ -32761,6 +32796,11 @@
   },
   {
     "source": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
+    "target": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
     "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
     "count": 1
   },
@@ -32781,11 +32821,6 @@
   },
   {
     "source": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
-    "target": "Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
     "target": "Queering Neo-Pagan Magic — 2006 Paper",
     "count": 2
   },
@@ -32802,16 +32837,6 @@
   {
     "source": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
     "target": "Virtually Magical Literally — Queer Agency and the Digital Witch",
-    "count": 1
-  },
-  {
-    "source": "Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 2
-  },
-  {
-    "source": "Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
     "count": 1
   },
   {
@@ -33036,6 +33061,11 @@
   },
   {
     "source": "Queering Neo-Pagan Magic — 2006 Paper",
+    "target": "Areas/Writing/Pagan Magic — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Queering Neo-Pagan Magic — 2006 Paper",
     "target": "Areas/Writing/Queer Sociology of Magic and Ritual",
     "count": 1
   },
@@ -33067,11 +33097,6 @@
   {
     "source": "Queering Neo-Pagan Magic — 2006 Paper",
     "target": "Neo-Shamanism and Gender — Montreal Pagan Community",
-    "count": 1
-  },
-  {
-    "source": "Queering Neo-Pagan Magic — 2006 Paper",
-    "target": "Pagan Magic — Version Genealogy",
     "count": 1
   },
   {
@@ -33381,6 +33406,11 @@
   },
   {
     "source": "Queering Neo-Pagan Magic — MRW Submission (2026)",
+    "target": "Areas/Writing/Pagan Magic — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Queering Neo-Pagan Magic — MRW Submission (2026)",
     "target": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "count": 2
   },
@@ -33402,11 +33432,6 @@
   {
     "source": "Queering Neo-Pagan Magic — MRW Submission (2026)",
     "target": "Neo-Shamanism and Gender — Montreal Pagan Community",
-    "count": 1
-  },
-  {
-    "source": "Queering Neo-Pagan Magic — MRW Submission (2026)",
-    "target": "Pagan Magic — Version Genealogy",
     "count": 1
   },
   {
@@ -33805,21 +33830,6 @@
     "count": 2
   },
   {
-    "source": "Reboot Performance Gender Identity — Version Genealogy",
-    "target": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
-    "count": 1
-  },
-  {
-    "source": "Reboot Performance Gender Identity — Version Genealogy",
-    "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Reboot Performance Gender Identity — Version Genealogy",
-    "target": "Reboot — Performance, Gender, and Computing of Identity",
-    "count": 1
-  },
-  {
     "source": "Reboot — Performance, Gender, and Computing of Identity",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
     "count": 1
@@ -33848,6 +33858,11 @@
     "source": "Reboot — Performance, Gender, and Computing of Identity",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "count": 1
+  },
+  {
+    "source": "Reboot — Performance, Gender, and Computing of Identity",
+    "target": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy",
+    "count": 2
   },
   {
     "source": "Reboot — Performance, Gender, and Computing of Identity",
@@ -33881,11 +33896,6 @@
   },
   {
     "source": "Reboot — Performance, Gender, and Computing of Identity",
-    "target": "Reboot Performance Gender Identity — Version Genealogy",
-    "count": 2
-  },
-  {
-    "source": "Reboot — Performance, Gender, and Computing of Identity",
     "target": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
     "count": 1
   },
@@ -33902,16 +33912,6 @@
   {
     "source": "Reboot — Performance, Gender, and Computing of Identity",
     "target": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
-    "count": 2
-  },
-  {
-    "source": "Recursive AI Governance Very Long Narrative — Version Genealogy",
-    "target": "Areas/PHAROS/Governance and PHAROS MOC",
-    "count": 1
-  },
-  {
-    "source": "Recursive AI Governance Very Long Narrative — Version Genealogy",
-    "target": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
     "count": 2
   },
   {
@@ -38236,17 +38236,17 @@
   },
   {
     "source": "Social Compass Reviewer Response — Wicca and Agatha All Along",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Social Compass Reviewer Response — Wicca and Agatha All Along",
     "target": "Areas/PHAROS/Martin Lepage — Professional Profile",
     "count": 1
   },
   {
     "source": "Social Compass Reviewer Response — Wicca and Agatha All Along",
     "target": "Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture",
+    "count": 1
+  },
+  {
+    "source": "Social Compass Reviewer Response — Wicca and Agatha All Along",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
     "count": 1
   },
   {
@@ -38301,7 +38301,7 @@
   },
   {
     "source": "Social Compass Reviewer Responses — Version Genealogy",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
     "count": 1
   },
   {
@@ -39271,7 +39271,7 @@
   },
   {
     "source": "The Ballad of the Witches' Road — Lyrics",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
     "count": 2
   },
   {
@@ -39421,6 +39421,11 @@
   },
   {
     "source": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
+    "target": "Areas/Writing/Circle Remains Open — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
     "target": "Areas/Writing/Loop Papers and Recursive Governance",
     "count": 1
   },
@@ -39462,11 +39467,6 @@
   {
     "source": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
     "target": "Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology",
-    "count": 1
-  },
-  {
-    "source": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
-    "target": "Circle Remains Open — Version Genealogy",
     "count": 1
   },
   {
@@ -39626,6 +39626,11 @@
   },
   {
     "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
+    "target": "Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy",
+    "count": 3
+  },
+  {
+    "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "count": 1
   },
@@ -39663,11 +39668,6 @@
     "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
     "target": "Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics",
     "count": 1
-  },
-  {
-    "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-    "target": "Inner Goddess Wicca Gender — Version Genealogy",
-    "count": 3
   },
   {
     "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
@@ -42051,17 +42051,7 @@
   },
   {
     "source": "Version Genealogy System",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
     "target": "Agatha Unified Skill System — Eight Sovereign Operators",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Alchemy of the Wound — Version Genealogy",
     "count": 1
   },
   {
@@ -42081,7 +42071,62 @@
   },
   {
     "source": "Version Genealogy System",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/Alchemy of the Wound — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/Breath of the Astral Year — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/CORPUS Novel — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/Circle Remains Open — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/First Method Paper — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/Governance by Denial — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/Healthcare Packet — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
     "target": "Areas/Writing/Legitimacy Machines MOC",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
     "count": 1
   },
   {
@@ -42091,7 +42136,32 @@
   },
   {
     "source": "Version Genealogy System",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/Pagan Magic — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
     "target": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
     "count": 1
   },
   {
@@ -42101,62 +42171,17 @@
   },
   {
     "source": "Version Genealogy System",
+    "target": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
+    "target": "Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
     "target": "Areas/Writing/Research and Papers MOC",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Breath of the Astral Year — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "CORPUS Novel — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Circle Remains Open — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "First Method Paper — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "For Her Alone to Wield — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Governance by Denial — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Healthcare Packet — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Inner Goddess Wicca Gender — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Magic After Legitimacy Charmed — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Neo-Shamanism Gender Narratives — Version Genealogy",
     "count": 1
   },
   {
@@ -42171,32 +42196,7 @@
   },
   {
     "source": "Version Genealogy System",
-    "target": "Pagan Magic — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Pourquoi Rever Encore — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Reboot Performance Gender Identity — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
     "target": "Reboot — Performance, Gender, and Computing of Identity",
-    "count": 1
-  },
-  {
-    "source": "Version Genealogy System",
-    "target": "Recursive AI Governance Very Long Narrative — Version Genealogy",
     "count": 1
   },
   {
@@ -44221,11 +44221,6 @@
   },
   {
     "source": "archive/session-state/session-state-001",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "archive/session-state/session-state-001",
     "target": "Agatha Unified Skill System — Eight Sovereign Operators",
     "count": 2
   },
@@ -44343,6 +44338,11 @@
     "source": "archive/session-state/session-state-001",
     "target": "Areas/Writing/Academic Paper Pipeline",
     "count": 2
+  },
+  {
+    "source": "archive/session-state/session-state-001",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "count": 1
   },
   {
     "source": "archive/session-state/session-state-001",
@@ -46321,6 +46321,11 @@
   },
   {
     "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "count": 2
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
     "target": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
     "count": 2
   },
@@ -46337,11 +46342,6 @@
   {
     "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
     "target": "Martin Voice Spec — Stage Map",
-    "count": 2
-  },
-  {
-    "source": "archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Martin Voice Spec — Version Genealogy",
     "count": 2
   },
   {
@@ -47501,6 +47501,11 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
     "target": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline",
     "count": 1
   },
@@ -47527,6 +47532,11 @@
   {
     "source": "artifacts/stale-projects-2026-07-04",
     "target": "Areas/Writing/Loop Papers and Recursive Governance",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-04",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
     "count": 1
   },
   {
@@ -47787,11 +47797,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-04",
     "target": "Disease — Lady Gaga — Lyrics",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
     "count": 1
   },
   {
@@ -48222,11 +48227,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-04",
     "target": "Martin Voice Spec — Stage Map",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-04",
-    "target": "Martin Voice Spec — Version Genealogy",
     "count": 1
   },
   {
@@ -49631,6 +49631,11 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
     "target": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline",
     "count": 1
   },
@@ -49657,6 +49662,11 @@
   {
     "source": "artifacts/stale-projects-2026-07-05",
     "target": "Areas/Writing/Loop Papers and Recursive Governance",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-05",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
     "count": 1
   },
   {
@@ -49912,11 +49922,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-05",
     "target": "Disease — Lady Gaga — Lyrics",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
     "count": 1
   },
   {
@@ -50347,11 +50352,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-05",
     "target": "Martin Voice Spec — Stage Map",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-05",
-    "target": "Martin Voice Spec — Version Genealogy",
     "count": 1
   },
   {
@@ -51746,6 +51746,11 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
     "target": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline",
     "count": 1
   },
@@ -51772,6 +51777,11 @@
   {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "Areas/Writing/Loop Papers and Recursive Governance",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-06",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
     "count": 1
   },
   {
@@ -52027,11 +52037,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "Disease — Lady Gaga — Lyrics",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
     "count": 1
   },
   {
@@ -52462,11 +52467,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-06",
     "target": "Martin Voice Spec — Stage Map",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-06",
-    "target": "Martin Voice Spec — Version Genealogy",
     "count": 1
   },
   {
@@ -53871,6 +53871,11 @@
   },
   {
     "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
     "target": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline",
     "count": 1
   },
@@ -53897,6 +53902,11 @@
   {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "Areas/Writing/Loop Papers and Recursive Governance",
+    "count": 1
+  },
+  {
+    "source": "artifacts/stale-projects-2026-07-07",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
     "count": 1
   },
   {
@@ -54152,11 +54162,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "Disease — Lady Gaga — Lyrics",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
     "count": 1
   },
   {
@@ -54587,11 +54592,6 @@
   {
     "source": "artifacts/stale-projects-2026-07-07",
     "target": "Martin Voice Spec — Stage Map",
-    "count": 1
-  },
-  {
-    "source": "artifacts/stale-projects-2026-07-07",
-    "target": "Martin Voice Spec — Version Genealogy",
     "count": 1
   },
   {
@@ -55941,7 +55941,7 @@
   },
   {
     "source": "genealogy/Martin Voice Spec — Stage Map",
-    "target": "Martin Voice Spec — Version Genealogy",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
     "count": 2
   },
   {
@@ -58171,12 +58171,12 @@
   },
   {
     "source": "maps/Novel Corpus Map",
-    "target": "Alchemy of the Wound — Version Genealogy",
+    "target": "Areas/Writing/Alchemy of the Wound — Novel",
     "count": 1
   },
   {
     "source": "maps/Novel Corpus Map",
-    "target": "Areas/Writing/Alchemy of the Wound — Novel",
+    "target": "Areas/Writing/Alchemy of the Wound — Version Genealogy",
     "count": 1
   },
   {
@@ -58186,7 +58186,22 @@
   },
   {
     "source": "maps/Novel Corpus Map",
+    "target": "Areas/Writing/Breath of the Astral Year — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "maps/Novel Corpus Map",
+    "target": "Areas/Writing/CORPUS Novel — Version Genealogy",
+    "count": 1
+  },
+  {
+    "source": "maps/Novel Corpus Map",
     "target": "Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture",
+    "count": 1
+  },
+  {
+    "source": "maps/Novel Corpus Map",
+    "target": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
     "count": 1
   },
   {
@@ -58201,22 +58216,12 @@
   },
   {
     "source": "maps/Novel Corpus Map",
-    "target": "Breath of the Astral Year — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "maps/Novel Corpus Map",
     "target": "Brutal Isms — Art Grant Proposal",
     "count": 1
   },
   {
     "source": "maps/Novel Corpus Map",
     "target": "CODEX Writing Projects Manifest",
-    "count": 1
-  },
-  {
-    "source": "maps/Novel Corpus Map",
-    "target": "CORPUS Novel — Version Genealogy",
     "count": 1
   },
   {
@@ -58232,11 +58237,6 @@
   {
     "source": "maps/Novel Corpus Map",
     "target": "Le sang qui porte ton nom — Novel",
-    "count": 1
-  },
-  {
-    "source": "maps/Novel Corpus Map",
-    "target": "Pourquoi Rever Encore — Version Genealogy",
     "count": 1
   },
   {
@@ -58536,17 +58536,17 @@
   },
   {
     "source": "maps/Queer Media and Ritual Map",
-    "target": "Agatha All Along Social Compass — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "maps/Queer Media and Ritual Map",
     "target": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
     "count": 1
   },
   {
     "source": "maps/Queer Media and Ritual Map",
     "target": "Areas/PHAROS/Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "maps/Queer Media and Ritual Map",
+    "target": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
     "count": 1
   },
   {
@@ -62121,7 +62121,7 @@
   },
   {
     "source": "projects/Dr. Sort — Fisher King Project State",
-    "target": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "target": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
     "count": 2
   },
   {
@@ -62231,6 +62231,11 @@
   },
   {
     "source": "projects/LOTUS — Fisher King Project State",
+    "target": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "count": 1
+  },
+  {
+    "source": "projects/LOTUS — Fisher King Project State",
     "target": "Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone",
     "count": 1
   },
@@ -62238,11 +62243,6 @@
     "source": "projects/LOTUS — Fisher King Project State",
     "target": "Bonded Intelligence Under Constraint — The LOTUS Processor Framework",
     "count": 2
-  },
-  {
-    "source": "projects/LOTUS — Fisher King Project State",
-    "target": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "count": 1
   },
   {
     "source": "projects/LOTUS — Fisher King Project State",
@@ -65536,17 +65536,17 @@
   },
   {
     "source": "voice11 — ElevenLabs TTS Pipeline",
+    "target": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "count": 2
+  },
+  {
+    "source": "voice11 — ElevenLabs TTS Pipeline",
     "target": "Martin Lepage Professional Identity",
     "count": 2
   },
   {
     "source": "voice11 — ElevenLabs TTS Pipeline",
     "target": "Martin Voice Spec — Stage Map",
-    "count": 2
-  },
-  {
-    "source": "voice11 — ElevenLabs TTS Pipeline",
-    "target": "Martin Voice Spec — Version Genealogy",
     "count": 2
   }
 ]

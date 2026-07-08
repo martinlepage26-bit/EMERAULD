@@ -65,7 +65,7 @@ backlinks:
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/Machine Limitation]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'

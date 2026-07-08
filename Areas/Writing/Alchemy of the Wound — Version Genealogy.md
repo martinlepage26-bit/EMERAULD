@@ -3,10 +3,9 @@ type: version-genealogy
 title: Alchemy of the Wound — Version Genealogy
 aliases:
 - Alchemy of the Wound — Version Genealogy
-- wiki/Alchemy of the Wound — Version Genealogy
 tags:
 - version-genealogy
-- wiki
+- areas
 - alchemy-of-the-wound-version-genealogy-md
 - thriller
 - alchemy
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Alchemy of the Wound — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Alchemy of the Wound — Version Genealogy.md
 backlink_count: 7
 backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'

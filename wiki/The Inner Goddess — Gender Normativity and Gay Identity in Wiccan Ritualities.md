@@ -25,7 +25,7 @@ backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
-- '[[wiki/Inner Goddess Wicca Gender — Version Genealogy]]'
+- '[[Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy]]'
 - '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'

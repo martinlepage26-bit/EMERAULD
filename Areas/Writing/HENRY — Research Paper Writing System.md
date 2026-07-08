@@ -35,7 +35,7 @@ backlinks:
 - '[[Resources/Literary References — Craft Guide]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'

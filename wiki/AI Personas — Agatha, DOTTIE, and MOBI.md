@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[wiki/Home]]'
 - '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[wiki/PHAROS Cross-AI Strategy Matrix]]'

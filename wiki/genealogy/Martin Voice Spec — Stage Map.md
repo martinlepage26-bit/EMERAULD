@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/genealogy/Martin Voice Spec — Stage Map.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Version Genealogy System]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
 source: Martin Voice Spec — Version Genealogy

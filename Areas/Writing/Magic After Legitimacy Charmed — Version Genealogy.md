@@ -3,11 +3,10 @@ type: version-genealogy
 title: Magic After Legitimacy Charmed — Version Genealogy
 aliases:
 - Magic After Legitimacy Charmed — Version Genealogy
-- wiki/Magic After Legitimacy Charmed — Version Genealogy
 tags:
 - magic
 - version-genealogy
-- wiki
+- areas
 - magic-after-legitimacy-charmed-version-genealogy-md
 - charmed
 - sisterhood
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Magic After Legitimacy Charmed — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy.md
 backlink_count: 5
 backlinks:
 - '[[wiki/Home]]'

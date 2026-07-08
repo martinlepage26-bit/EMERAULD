@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
-- '[[wiki/Pourquoi Rever Encore — Version Genealogy]]'
+- '[[Areas/Writing/Pourquoi Rever Encore — Version Genealogy]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'

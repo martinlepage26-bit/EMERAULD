@@ -45,7 +45,7 @@ backlinks:
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/Framing Processes and Social Movements — Benford & Snow 2000]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Governance by Denial — Version Genealogy]]'
+- '[[Areas/Writing/Governance by Denial — Version Genealogy]]'
 - '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[wiki/Home]]'

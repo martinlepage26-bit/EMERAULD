@@ -414,20 +414,6 @@
     "backlinks": 0
   },
   {
-    "id": "Agatha All Along Social Compass — Version Genealogy",
-    "title": "Agatha All Along Social Compass — Version Genealogy",
-    "path": "wiki/Agatha All Along Social Compass — Version Genealogy.md",
-    "type": "archive",
-    "status": "archived",
-    "aliases": [
-      "Agatha All Along Social Compass — Version Genealogy",
-      "wiki/Agatha All Along Social Compass — Version Genealogy"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 8,
-    "backlinks": 14
-  },
-  {
     "id": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
     "title": "Agatha Governance Memo — Recursive Governance Applied to Manuscript",
     "path": "wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript.md",
@@ -530,20 +516,6 @@
     "outlinks": 14,
     "unique_outlinks": 10,
     "backlinks": 35
-  },
-  {
-    "id": "Alchemy of the Wound — Version Genealogy",
-    "title": "Alchemy of the Wound — Version Genealogy",
-    "path": "wiki/Alchemy of the Wound — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Alchemy of the Wound — Version Genealogy",
-      "wiki/Alchemy of the Wound — Version Genealogy"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 2,
-    "backlinks": 7
   },
   {
     "id": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
@@ -1476,6 +1448,19 @@
     "backlinks": 121
   },
   {
+    "id": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy",
+    "title": "Agatha All Along Social Compass — Version Genealogy",
+    "path": "Areas/Writing/Agatha All Along Social Compass — Version Genealogy.md",
+    "type": "archive",
+    "status": "archived",
+    "aliases": [
+      "Agatha All Along Social Compass — Version Genealogy"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 8,
+    "backlinks": 14
+  },
+  {
     "id": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
     "title": "Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
     "path": "Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes.md",
@@ -1501,6 +1486,19 @@
     "outlinks": 21,
     "unique_outlinks": 15,
     "backlinks": 49
+  },
+  {
+    "id": "Areas/Writing/Alchemy of the Wound — Version Genealogy",
+    "title": "Alchemy of the Wound — Version Genealogy",
+    "path": "Areas/Writing/Alchemy of the Wound — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Alchemy of the Wound — Version Genealogy"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 2,
+    "backlinks": 7
   },
   {
     "id": "Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory",
@@ -1529,6 +1527,45 @@
     "backlinks": 64
   },
   {
+    "id": "Areas/Writing/Breath of the Astral Year — Version Genealogy",
+    "title": "Breath of the Astral Year — Version Genealogy",
+    "path": "Areas/Writing/Breath of the Astral Year — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Breath of the Astral Year — Version Genealogy"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 2,
+    "backlinks": 6
+  },
+  {
+    "id": "Areas/Writing/CORPUS Novel — Version Genealogy",
+    "title": "CORPUS Novel — Version Genealogy",
+    "path": "Areas/Writing/CORPUS Novel — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "CORPUS Novel — Version Genealogy"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 4,
+    "backlinks": 6
+  },
+  {
+    "id": "Areas/Writing/Circle Remains Open — Version Genealogy",
+    "title": "Circle Remains Open — Version Genealogy",
+    "path": "Areas/Writing/Circle Remains Open — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Circle Remains Open — Version Genealogy"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 3,
+    "backlinks": 5
+  },
+  {
     "id": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
     "title": "Complete Paper List — Martin Lepage Corpus",
     "path": "Areas/Writing/Complete Paper List — Martin Lepage Corpus.md",
@@ -1540,6 +1577,22 @@
     "outlinks": 15,
     "unique_outlinks": 15,
     "backlinks": 54
+  },
+  {
+    "id": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "title": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
+    "path": "Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Dr. Sort codebase iterations",
+      "Dr. Sort engineering history",
+      "Dr. Sort three codebases",
+      "Dr. Sort version genealogy"
+    ],
+    "outlinks": 29,
+    "unique_outlinks": 12,
+    "backlinks": 13
   },
   {
     "id": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline",
@@ -1570,6 +1623,19 @@
     "backlinks": 68
   },
   {
+    "id": "Areas/Writing/First Method Paper — Version Genealogy",
+    "title": "First Method Paper — Version Genealogy",
+    "path": "Areas/Writing/First Method Paper — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "First Method Paper — Version Genealogy"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 2,
+    "backlinks": 5
+  },
+  {
     "id": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
     "title": "For Her Alone to Wield — Buffy Power as Infrastructure",
     "path": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure.md",
@@ -1581,6 +1647,32 @@
     "outlinks": 28,
     "unique_outlinks": 19,
     "backlinks": 56
+  },
+  {
+    "id": "Areas/Writing/For Her Alone to Wield — Version Genealogy",
+    "title": "For Her Alone to Wield — Version Genealogy",
+    "path": "Areas/Writing/For Her Alone to Wield — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "For Her Alone to Wield — Version Genealogy"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 9,
+    "backlinks": 5
+  },
+  {
+    "id": "Areas/Writing/Governance by Denial — Version Genealogy",
+    "title": "Governance by Denial — Version Genealogy",
+    "path": "Areas/Writing/Governance by Denial — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Governance by Denial — Version Genealogy"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 3,
+    "backlinks": 6
   },
   {
     "id": "Areas/Writing/HENRY — Research Paper Writing System",
@@ -1597,6 +1689,32 @@
     "outlinks": 25,
     "unique_outlinks": 16,
     "backlinks": 49
+  },
+  {
+    "id": "Areas/Writing/Healthcare Packet — Version Genealogy",
+    "title": "Healthcare Packet — Version Genealogy",
+    "path": "Areas/Writing/Healthcare Packet — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Healthcare Packet — Version Genealogy"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 1,
+    "backlinks": 5
+  },
+  {
+    "id": "Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy",
+    "title": "Inner Goddess Wicca Gender — Version Genealogy",
+    "path": "Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Inner Goddess Wicca Gender — Version Genealogy"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 3,
+    "backlinks": 6
   },
   {
     "id": "Areas/Writing/Legitimacy Machines MOC",
@@ -1638,6 +1756,19 @@
     "backlinks": 48
   },
   {
+    "id": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy",
+    "title": "Magic After Legitimacy Charmed — Version Genealogy",
+    "path": "Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Magic After Legitimacy Charmed — Version Genealogy"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 6,
+    "backlinks": 5
+  },
+  {
     "id": "Areas/Writing/Manuscript Pipeline MOC",
     "title": "Manuscript Pipeline MOC",
     "path": "Areas/Writing/Manuscript Pipeline MOC.md",
@@ -1649,6 +1780,21 @@
     "outlinks": 50,
     "unique_outlinks": 50,
     "backlinks": 58
+  },
+  {
+    "id": "Areas/Writing/Martin Voice Spec — Version Genealogy",
+    "title": "Martin Voice Spec — Version Genealogy",
+    "path": "Areas/Writing/Martin Voice Spec — Version Genealogy.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Martin Voice Spec — Version Genealogy",
+      "Unified Martin Voice Spec",
+      "Voice Spec Genealogy"
+    ],
+    "outlinks": 26,
+    "unique_outlinks": 16,
+    "backlinks": 19
   },
   {
     "id": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
@@ -1686,6 +1832,32 @@
     "backlinks": 136
   },
   {
+    "id": "Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy",
+    "title": "Neo-Shamanism Gender Narratives — Version Genealogy",
+    "path": "Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Neo-Shamanism Gender Narratives — Version Genealogy"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 2,
+    "backlinks": 5
+  },
+  {
+    "id": "Areas/Writing/Pagan Magic — Version Genealogy",
+    "title": "Pagan Magic — Version Genealogy",
+    "path": "Areas/Writing/Pagan Magic — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Pagan Magic — Version Genealogy"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 3,
+    "backlinks": 6
+  },
+  {
     "id": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "title": "Pagan and Queer Ritual Studies MOC",
     "path": "Areas/Writing/Pagan and Queer Ritual Studies MOC.md",
@@ -1700,6 +1872,32 @@
     "backlinks": 63
   },
   {
+    "id": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
+    "title": "Pourquoi Rever Encore — Version Genealogy",
+    "path": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Pourquoi Rever Encore — Version Genealogy"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 7,
+    "backlinks": 10
+  },
+  {
+    "id": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
+    "title": "Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
+    "path": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Queer Neo-Pagan Wicca Authenticity — Version Genealogy"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 2,
+    "backlinks": 5
+  },
+  {
     "id": "Areas/Writing/Queer Sociology of Magic and Ritual",
     "title": "Queer Sociology of Magic and Ritual",
     "path": "Areas/Writing/Queer Sociology of Magic and Ritual.md",
@@ -1711,6 +1909,32 @@
     "outlinks": 61,
     "unique_outlinks": 57,
     "backlinks": 467
+  },
+  {
+    "id": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy",
+    "title": "Reboot Performance Gender Identity — Version Genealogy",
+    "path": "Areas/Writing/Reboot Performance Gender Identity — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Reboot Performance Gender Identity — Version Genealogy"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 3,
+    "backlinks": 5
+  },
+  {
+    "id": "Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy",
+    "title": "Recursive AI Governance Very Long Narrative — Version Genealogy",
+    "path": "Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy.md",
+    "type": "version-genealogy",
+    "status": "active",
+    "aliases": [
+      "Recursive AI Governance Very Long Narrative — Version Genealogy"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 2,
+    "backlinks": 4
   },
   {
     "id": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
@@ -2038,20 +2262,6 @@
     "backlinks": 11
   },
   {
-    "id": "Breath of the Astral Year — Version Genealogy",
-    "title": "Breath of the Astral Year — Version Genealogy",
-    "path": "wiki/Breath of the Astral Year — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Breath of the Astral Year — Version Genealogy",
-      "wiki/Breath of the Astral Year — Version Genealogy"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 2,
-    "backlinks": 6
-  },
-  {
     "id": "Brutal Isms — Art Grant Proposal",
     "title": "Brutal Isms — Art Grant Proposal",
     "path": "wiki/Brutal Isms — Art Grant Proposal.md",
@@ -2243,20 +2453,6 @@
     "backlinks": 31
   },
   {
-    "id": "CORPUS Novel — Version Genealogy",
-    "title": "CORPUS Novel — Version Genealogy",
-    "path": "wiki/CORPUS Novel — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "CORPUS Novel — Version Genealogy",
-      "wiki/CORPUS Novel — Version Genealogy"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 4,
-    "backlinks": 6
-  },
-  {
     "id": "CORPUS ou le génie de l'insistance — Novel",
     "title": "CORPUS ou le génie de l'insistance — Novel",
     "path": "wiki/CORPUS ou le génie de l'insistance — Novel.md",
@@ -2363,20 +2559,6 @@
     "outlinks": 6,
     "unique_outlinks": 3,
     "backlinks": 7
-  },
-  {
-    "id": "Circle Remains Open — Version Genealogy",
-    "title": "Circle Remains Open — Version Genealogy",
-    "path": "wiki/Circle Remains Open — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Circle Remains Open — Version Genealogy",
-      "wiki/Circle Remains Open — Version Genealogy"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 3,
-    "backlinks": 5
   },
   {
     "id": "Claude Code Skill Corpus",
@@ -2878,23 +3060,6 @@
     "backlinks": 7
   },
   {
-    "id": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "title": "Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation",
-    "path": "wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Dr. Sort codebase iterations",
-      "Dr. Sort engineering history",
-      "Dr. Sort three codebases",
-      "Dr. Sort version genealogy",
-      "wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation"
-    ],
-    "outlinks": 29,
-    "unique_outlinks": 12,
-    "backlinks": 13
-  },
-  {
     "id": "Dr. Sort Corpus Map — March 2026",
     "title": "Dr. Sort Corpus Map — March 2026",
     "path": "wiki/Dr. Sort Corpus Map — March 2026.md",
@@ -3237,20 +3402,6 @@
     "backlinks": 4
   },
   {
-    "id": "First Method Paper — Version Genealogy",
-    "title": "First Method Paper — Version Genealogy",
-    "path": "wiki/First Method Paper — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "First Method Paper — Version Genealogy",
-      "wiki/First Method Paper — Version Genealogy"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 2,
-    "backlinks": 5
-  },
-  {
     "id": "Fisher King Hub — Project Recovery Map",
     "title": "Fisher King Hub — Project Recovery Map",
     "path": "wiki/Fisher King Hub — Project Recovery Map.md",
@@ -3321,20 +3472,6 @@
     ],
     "outlinks": 11,
     "unique_outlinks": 6,
-    "backlinks": 5
-  },
-  {
-    "id": "For Her Alone to Wield — Version Genealogy",
-    "title": "For Her Alone to Wield — Version Genealogy",
-    "path": "wiki/For Her Alone to Wield — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "For Her Alone to Wield — Version Genealogy",
-      "wiki/For Her Alone to Wield — Version Genealogy"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 9,
     "backlinks": 5
   },
   {
@@ -3568,20 +3705,6 @@
     "outlinks": 5,
     "unique_outlinks": 5,
     "backlinks": 23
-  },
-  {
-    "id": "Governance by Denial — Version Genealogy",
-    "title": "Governance by Denial — Version Genealogy",
-    "path": "wiki/Governance by Denial — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Governance by Denial — Version Genealogy",
-      "wiki/Governance by Denial — Version Genealogy"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 3,
-    "backlinks": 6
   },
   {
     "id": "Governed Revision Loop — Responsible Self-Improving Agents",
@@ -3894,20 +4017,6 @@
     "backlinks": 40
   },
   {
-    "id": "Healthcare Packet — Version Genealogy",
-    "title": "Healthcare Packet — Version Genealogy",
-    "path": "wiki/Healthcare Packet — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Healthcare Packet — Version Genealogy",
-      "wiki/Healthcare Packet — Version Genealogy"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 1,
-    "backlinks": 5
-  },
-  {
     "id": "Henry GPT — Peer Reviewer ChatGPT Product Specification",
     "title": "Henry GPT — Peer Reviewer ChatGPT Product Specification",
     "path": "wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification.md",
@@ -4121,20 +4230,6 @@
     "outlinks": 12,
     "unique_outlinks": 5,
     "backlinks": 17
-  },
-  {
-    "id": "Inner Goddess Wicca Gender — Version Genealogy",
-    "title": "Inner Goddess Wicca Gender — Version Genealogy",
-    "path": "wiki/Inner Goddess Wicca Gender — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Inner Goddess Wicca Gender — Version Genealogy",
-      "wiki/Inner Goddess Wicca Gender — Version Genealogy"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 3,
-    "backlinks": 6
   },
   {
     "id": "Inner Mind Eye",
@@ -4598,20 +4693,6 @@
     "backlinks": 18
   },
   {
-    "id": "Magic After Legitimacy Charmed — Version Genealogy",
-    "title": "Magic After Legitimacy Charmed — Version Genealogy",
-    "path": "wiki/Magic After Legitimacy Charmed — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Magic After Legitimacy Charmed — Version Genealogy",
-      "wiki/Magic After Legitimacy Charmed — Version Genealogy"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 6,
-    "backlinks": 5
-  },
-  {
     "id": "Magic After Legitimacy — Charmed and the Governance of Female Power",
     "title": "Magic After Legitimacy — Charmed and the Governance of Female Power",
     "path": "wiki/Magic After Legitimacy — Charmed and the Governance of Female Power.md",
@@ -4747,22 +4828,6 @@
     "outlinks": 13,
     "unique_outlinks": 8,
     "backlinks": 15
-  },
-  {
-    "id": "Martin Voice Spec — Version Genealogy",
-    "title": "Martin Voice Spec — Version Genealogy",
-    "path": "wiki/Martin Voice Spec — Version Genealogy.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Martin Voice Spec — Version Genealogy",
-      "Unified Martin Voice Spec",
-      "Voice Spec Genealogy",
-      "wiki/Martin Voice Spec — Version Genealogy"
-    ],
-    "outlinks": 26,
-    "unique_outlinks": 16,
-    "backlinks": 19
   },
   {
     "id": "Martin Walks the Witches' Road — Corpus as Charge-Persistence",
@@ -4945,20 +5010,6 @@
     "outlinks": 13,
     "unique_outlinks": 12,
     "backlinks": 9
-  },
-  {
-    "id": "Neo-Shamanism Gender Narratives — Version Genealogy",
-    "title": "Neo-Shamanism Gender Narratives — Version Genealogy",
-    "path": "wiki/Neo-Shamanism Gender Narratives — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Neo-Shamanism Gender Narratives — Version Genealogy",
-      "wiki/Neo-Shamanism Gender Narratives — Version Genealogy"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 2,
-    "backlinks": 5
   },
   {
     "id": "Neo-Shamanism and Gender — Montreal Pagan Community",
@@ -6106,20 +6157,6 @@
     "backlinks": 0
   },
   {
-    "id": "Pagan Magic — Version Genealogy",
-    "title": "Pagan Magic — Version Genealogy",
-    "path": "wiki/Pagan Magic — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Pagan Magic — Version Genealogy",
-      "wiki/Pagan Magic — Version Genealogy"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 3,
-    "backlinks": 6
-  },
-  {
     "id": "Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
     "title": "Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
     "path": "wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca).md",
@@ -6343,20 +6380,6 @@
     "backlinks": 21
   },
   {
-    "id": "Pourquoi Rever Encore — Version Genealogy",
-    "title": "Pourquoi Rever Encore — Version Genealogy",
-    "path": "wiki/Pourquoi Rever Encore — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Pourquoi Rever Encore — Version Genealogy",
-      "wiki/Pourquoi Rever Encore — Version Genealogy"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 7,
-    "backlinks": 10
-  },
-  {
     "id": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
     "title": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
     "path": "wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard.md",
@@ -6543,20 +6566,6 @@
     "outlinks": 26,
     "unique_outlinks": 13,
     "backlinks": 33
-  },
-  {
-    "id": "Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
-    "title": "Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
-    "path": "wiki/Queer Neo-Pagan Wicca Authenticity — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
-      "wiki/Queer Neo-Pagan Wicca Authenticity — Version Genealogy"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 2,
-    "backlinks": 5
   },
   {
     "id": "Queer Theory Foundations",
@@ -6816,20 +6825,6 @@
     "backlinks": 8
   },
   {
-    "id": "Reboot Performance Gender Identity — Version Genealogy",
-    "title": "Reboot Performance Gender Identity — Version Genealogy",
-    "path": "wiki/Reboot Performance Gender Identity — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Reboot Performance Gender Identity — Version Genealogy",
-      "wiki/Reboot Performance Gender Identity — Version Genealogy"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 3,
-    "backlinks": 5
-  },
-  {
     "id": "Reboot — Performance, Gender, and Computing of Identity",
     "title": "Reboot — Performance, Gender, and Computing of Identity",
     "path": "wiki/Reboot — Performance, Gender, and Computing of Identity.md",
@@ -6842,20 +6837,6 @@
     "outlinks": 27,
     "unique_outlinks": 17,
     "backlinks": 21
-  },
-  {
-    "id": "Recursive AI Governance Very Long Narrative — Version Genealogy",
-    "title": "Recursive AI Governance Very Long Narrative — Version Genealogy",
-    "path": "wiki/Recursive AI Governance Very Long Narrative — Version Genealogy.md",
-    "type": "version-genealogy",
-    "status": "active",
-    "aliases": [
-      "Recursive AI Governance Very Long Narrative — Version Genealogy",
-      "wiki/Recursive AI Governance Very Long Narrative — Version Genealogy"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 2,
-    "backlinks": 4
   },
   {
     "id": "Recursive AI Governance as Executable Method — The Very Long Narrative",

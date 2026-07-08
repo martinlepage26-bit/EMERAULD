@@ -40,7 +40,7 @@ backlinks:
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Home]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[wiki/PHAROS Cross-AI Strategy Matrix]]'

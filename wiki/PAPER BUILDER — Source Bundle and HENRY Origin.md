@@ -29,7 +29,7 @@ canonical_path: wiki/PAPER BUILDER — Source Bundle and HENRY Origin.md
 backlink_count: 3
 backlinks:
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 ---
 

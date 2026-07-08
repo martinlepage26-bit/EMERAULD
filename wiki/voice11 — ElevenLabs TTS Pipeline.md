@@ -33,7 +33,7 @@ backlink_count: 5
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 ---

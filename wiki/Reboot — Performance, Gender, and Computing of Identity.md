@@ -27,7 +27,7 @@ backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
-- '[[wiki/Reboot Performance Gender Identity — Version Genealogy]]'
+- '[[Areas/Writing/Reboot Performance Gender Identity — Version Genealogy]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'

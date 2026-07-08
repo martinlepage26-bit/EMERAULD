@@ -3,10 +3,9 @@ type: version-genealogy
 title: Pourquoi Rever Encore — Version Genealogy
 aliases:
 - Pourquoi Rever Encore — Version Genealogy
-- wiki/Pourquoi Rever Encore — Version Genealogy
 tags:
 - version-genealogy
-- wiki
+- areas
 - pourquoi-rever-encore-version-genealogy-md
 - rever
 - pourquoi
@@ -17,13 +16,12 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Pourquoi Rever Encore — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Pourquoi Rever Encore — Version Genealogy.md
 backlink_count: 7
 backlinks:
 - '[[wiki/Home]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
 - '[[wiki/Version Genealogy System]]'

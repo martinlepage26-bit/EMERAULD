@@ -38,7 +38,7 @@ backlinks:
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
 - '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'

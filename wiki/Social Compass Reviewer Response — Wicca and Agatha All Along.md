@@ -23,7 +23,7 @@ vault_area: wiki
 canonical_path: wiki/Social Compass Reviewer Response — Wicca and Agatha All Along.md
 backlink_count: 7
 backlinks:
-- '[[wiki/Agatha All Along Social Compass — Version Genealogy]]'
+- '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
 - '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[wiki/Home]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'

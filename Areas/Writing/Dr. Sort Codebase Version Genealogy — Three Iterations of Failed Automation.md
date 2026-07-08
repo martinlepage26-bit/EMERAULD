@@ -6,7 +6,6 @@ aliases:
 - Dr. Sort codebase iterations
 - Dr. Sort three codebases
 - Dr. Sort engineering history
-- wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation
 tags:
 - dr-sort
 - version-genealogy
@@ -14,7 +13,7 @@ tags:
 - codebase-iterations
 - engineering-history
 - witches-road
-- wiki
+- areas
 - dr-sort-codebase-version-genealogy-three-iterations-of-failed-automation-md
 - sort
 - lotus
@@ -25,9 +24,8 @@ tags:
 status: active
 created: '2026-05-03'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed
-  Automation.md
+vault_area: Areas
+canonical_path: Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation.md
 backlink_count: 6
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'

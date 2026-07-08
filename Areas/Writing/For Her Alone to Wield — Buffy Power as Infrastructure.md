@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[wiki/For Her Alone to Wield — Cover Letter (2026-05-16)]]'
 - '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
-- '[[wiki/For Her Alone to Wield — Version Genealogy]]'
+- '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'

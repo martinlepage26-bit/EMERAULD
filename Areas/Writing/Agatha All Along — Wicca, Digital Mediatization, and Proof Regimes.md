@@ -21,7 +21,7 @@ vault_area: Areas
 canonical_path: Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes.md
 backlink_count: 55
 backlinks:
-- '[[wiki/Agatha All Along Social Compass — Version Genealogy]]'
+- '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
 - '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[wiki/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'

@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
-- '[[wiki/For Her Alone to Wield — Version Genealogy]]'
+- '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'

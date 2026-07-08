@@ -20,7 +20,7 @@ vault_area: Areas
 canonical_path: Areas/Writing/Breath of the Astral Year — Astrology Monograph.md
 backlink_count: 21
 backlinks:
-- '[[wiki/Breath of the Astral Year — Version Genealogy]]'
+- '[[Areas/Writing/Breath of the Astral Year — Version Genealogy]]'
 - '[[wiki/CODEX Writing Projects Manifest]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'

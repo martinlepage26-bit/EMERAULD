@@ -3,13 +3,12 @@ type: version-genealogy
 title: Recursive AI Governance Very Long Narrative — Version Genealogy
 aliases:
 - Recursive AI Governance Very Long Narrative — Version Genealogy
-- wiki/Recursive AI Governance Very Long Narrative — Version Genealogy
 tags:
 - recursion
 - governance
 - ai
 - version-genealogy
-- wiki
+- areas
 - recursive-ai-governance-very-long-narrative-version-genealogy-md
 - narrative
 - long
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Recursive AI Governance Very Long Narrative — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy.md
 backlink_count: 4
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'

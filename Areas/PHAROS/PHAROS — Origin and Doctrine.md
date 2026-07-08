@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'

@@ -5,7 +5,6 @@ aliases:
 - Martin Voice Spec — Version Genealogy
 - Voice Spec Genealogy
 - Unified Martin Voice Spec
-- wiki/Martin Voice Spec — Version Genealogy
 tags:
 - voice-spec
 - version-genealogy
@@ -14,7 +13,7 @@ tags:
 - mobi
 - hephaistos
 - operator-continuity
-- wiki
+- areas
 - martin-voice-spec-version-genealogy-md
 - voice
 - spec
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-05-02'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Martin Voice Spec — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Martin Voice Spec — Version Genealogy.md
 backlink_count: 10
 backlinks:
 - '[[wiki/APEX Papers — Research Archive Map]]'

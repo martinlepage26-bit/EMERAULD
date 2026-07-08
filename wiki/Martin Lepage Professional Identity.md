@@ -41,7 +41,7 @@ backlinks:
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'

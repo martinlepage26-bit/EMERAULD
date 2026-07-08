@@ -25,7 +25,7 @@ canonical_path: Areas/Writing/Queer Sociology of Magic and Ritual.md
 backlink_count: 56
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Agatha All Along Social Compass — Version Genealogy]]'
+- '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
 - '[[wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Glitching the Sacred]]'
@@ -50,7 +50,7 @@ backlinks:
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
-- '[[wiki/Pourquoi Rever Encore — Version Genealogy]]'
+- '[[Areas/Writing/Pourquoi Rever Encore — Version Genealogy]]'
 - '[[wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
 - '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
 - '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'

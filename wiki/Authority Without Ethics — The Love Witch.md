@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
   Activism Switzerland)]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
-- '[[wiki/Magic After Legitimacy Charmed — Version Genealogy]]'
+- '[[Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queer Theory Foundations]]'

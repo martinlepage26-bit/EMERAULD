@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
-- '[[wiki/For Her Alone to Wield — Version Genealogy]]'
+- '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[wiki/Glitching the Sacred]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'

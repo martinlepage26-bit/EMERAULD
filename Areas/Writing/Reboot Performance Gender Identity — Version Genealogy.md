@@ -3,10 +3,9 @@ type: version-genealogy
 title: Reboot Performance Gender Identity — Version Genealogy
 aliases:
 - Reboot Performance Gender Identity — Version Genealogy
-- wiki/Reboot Performance Gender Identity — Version Genealogy
 tags:
 - version-genealogy
-- wiki
+- areas
 - reboot-performance-gender-identity-version-genealogy-md
 - reboot
 - computing
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Reboot Performance Gender Identity — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Reboot Performance Gender Identity — Version Genealogy.md
 backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'

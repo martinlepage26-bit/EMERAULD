@@ -22,7 +22,7 @@ canonical_path: wiki/The Circle Remains Open — Toward a Queer Sociology of the
 backlink_count: 23
 backlinks:
 - '[[wiki/Brutal Isms — Art Grant Proposal]]'
-- '[[wiki/Circle Remains Open — Version Genealogy]]'
+- '[[Areas/Writing/Circle Remains Open — Version Genealogy]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'

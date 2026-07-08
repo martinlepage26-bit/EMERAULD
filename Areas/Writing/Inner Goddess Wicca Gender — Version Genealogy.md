@@ -3,11 +3,10 @@ type: version-genealogy
 title: Inner Goddess Wicca Gender — Version Genealogy
 aliases:
 - Inner Goddess Wicca Gender — Version Genealogy
-- wiki/Inner Goddess Wicca Gender — Version Genealogy
 tags:
 - wicca
 - version-genealogy
-- wiki
+- areas
 - inner-goddess-wicca-gender-version-genealogy-md
 - goddess
 - inner
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Inner Goddess Wicca Gender — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy.md
 backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'

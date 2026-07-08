@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Queering Neo-Pagan Magic — MRW Submission (2026).md
 backlink_count: 3
 backlinks:
-- '[[wiki/Pagan Magic — Version Genealogy]]'
+- '[[Areas/Writing/Pagan Magic — Version Genealogy]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

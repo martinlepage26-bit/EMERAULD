@@ -3,10 +3,9 @@ type: archive
 title: Agatha All Along Social Compass — Version Genealogy
 aliases:
 - Agatha All Along Social Compass — Version Genealogy
-- wiki/Agatha All Along Social Compass — Version Genealogy
 tags:
 - archive
-- wiki
+- areas
 - agatha-all-along-social-compass-version-genealogy-md
 - socialcompass
 - agathav
@@ -17,8 +16,8 @@ tags:
 status: archived
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Agatha All Along Social Compass — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Agatha All Along Social Compass — Version Genealogy.md
 backlink_count: 13
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'

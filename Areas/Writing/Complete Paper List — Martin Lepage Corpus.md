@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'

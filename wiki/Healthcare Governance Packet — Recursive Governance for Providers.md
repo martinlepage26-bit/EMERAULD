@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
-- '[[wiki/Healthcare Packet — Version Genealogy]]'
+- '[[Areas/Writing/Healthcare Packet — Version Genealogy]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/LOTUS Model — Agency and Social Positioning]]'

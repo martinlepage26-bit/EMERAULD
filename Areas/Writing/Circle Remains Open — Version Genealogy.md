@@ -3,11 +3,10 @@ type: version-genealogy
 title: Circle Remains Open — Version Genealogy
 aliases:
 - Circle Remains Open — Version Genealogy
-- wiki/Circle Remains Open — Version Genealogy
 tags:
 - ai
 - version-genealogy
-- wiki
+- areas
 - circle-remains-open-version-genealogy-md
 - jaar
 - article
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Circle Remains Open — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Circle Remains Open — Version Genealogy.md
 backlink_count: 5
 backlinks:
 - '[[wiki/Home]]'

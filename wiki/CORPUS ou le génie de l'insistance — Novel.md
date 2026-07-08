@@ -22,7 +22,7 @@ backlink_count: 23
 backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/CORPUS Novel — Version Genealogy]]'
+- '[[Areas/Writing/CORPUS Novel — Version Genealogy]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'

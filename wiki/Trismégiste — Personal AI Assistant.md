@@ -45,7 +45,7 @@ backlinks:
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
-- '[[wiki/Martin Voice Spec — Version Genealogy]]'
+- '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'

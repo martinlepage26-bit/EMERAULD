@@ -3,10 +3,9 @@ type: version-genealogy
 title: Healthcare Packet — Version Genealogy
 aliases:
 - Healthcare Packet — Version Genealogy
-- wiki/Healthcare Packet — Version Genealogy
 tags:
 - version-genealogy
-- wiki
+- areas
 - healthcare-packet-version-genealogy-md
 - providers
 - healthcare
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Healthcare Packet — Version Genealogy.md
+vault_area: Areas
+canonical_path: Areas/Writing/Healthcare Packet — Version Genealogy.md
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
