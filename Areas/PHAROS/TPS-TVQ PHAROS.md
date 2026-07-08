@@ -3,9 +3,8 @@ type: wiki
 title: TPS-TVQ PHAROS
 aliases:
 - TPS-TVQ PHAROS
-- wiki/TPS-TVQ PHAROS
 tags:
-- wiki
+- areas
 - pharos
 - tps-tvq-pharos-md
 - registration
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/TPS-TVQ PHAROS.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/TPS-TVQ PHAROS.md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'

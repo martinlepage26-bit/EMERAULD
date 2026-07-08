@@ -35,7 +35,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study]]'
 - '[[archive/session-state/session-state-001]]'
 ---
 

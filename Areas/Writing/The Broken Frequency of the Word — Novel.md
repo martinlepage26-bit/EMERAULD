@@ -3,9 +3,8 @@ type: wiki
 title: The Broken Frequency of the Word — Novel
 aliases:
 - The Broken Frequency of the Word — Novel
-- wiki/The Broken Frequency of the Word — Novel
 tags:
-- wiki
+- areas
 - novel
 - the-broken-frequency-of-the-word-novel-md
 - frequency
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Broken Frequency of the Word — Novel.md
+vault_area: Areas
+canonical_path: Areas/Writing/The Broken Frequency of the Word — Novel.md
 backlink_count: 20
 backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'

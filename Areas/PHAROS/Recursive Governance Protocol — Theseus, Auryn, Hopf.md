@@ -52,7 +52,7 @@ backlinks:
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
 - '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
-- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
 - '[[maps/PHAROS Method Map]]'
 ---

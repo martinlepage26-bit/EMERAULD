@@ -36,8 +36,8 @@ backlinks:
 - '[[Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
 - '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
-- '[[wiki/Smallest Building Block — Relation as Rule]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 ---

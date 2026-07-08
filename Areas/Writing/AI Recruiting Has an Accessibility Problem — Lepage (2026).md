@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
 ---

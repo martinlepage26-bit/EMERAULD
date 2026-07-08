@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
-- '[[wiki/Stacklight-owner-explainer]]'
+- '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

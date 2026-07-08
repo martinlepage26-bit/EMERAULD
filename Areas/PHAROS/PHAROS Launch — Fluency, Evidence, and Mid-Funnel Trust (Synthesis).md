@@ -33,7 +33,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
 - '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
-- '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

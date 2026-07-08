@@ -1,13 +1,10 @@
 ---
 type: note
-title: Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
-  and Computational Memory Architectures
+title: Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures
 aliases:
 - Structural Analogy and Governance
 - Memory Architectures Parallels
 - Biological Epistemic Computational Memory
-- wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
-  and Computational Memory Architectures
 tags:
 - memory
 - governance
@@ -18,7 +15,7 @@ tags:
 - analogy
 - architecture
 - note
-- wiki
+- areas
 - structural-analogy-governance-systemic-parallels-between-biological-epistemic-and-computational-memory-architectures-md
 - biological
 - computational
@@ -28,9 +25,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Structural Analogy & Governance Systemic Parallels Between Biological,
-  Epistemic, and Computational Memory Architectures.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures.md
 backlink_count: 12
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'

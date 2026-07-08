@@ -43,7 +43,7 @@ backlinks:
 - '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
+- '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

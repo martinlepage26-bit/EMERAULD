@@ -41,7 +41,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/September 2024 Research Retrospective]]'
-- '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
+- '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
 - '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
 - '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

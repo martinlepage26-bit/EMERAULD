@@ -3,9 +3,8 @@ type: wiki
 title: Social Stratification, Intersectionality, and the Why Be King Manuscript
 aliases:
 - Social Stratification, Intersectionality, and the Why Be King Manuscript
-- wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript
 tags:
-- wiki
+- areas
 - manuscript
 - social-stratification-intersectionality-and-the-why-be-king-manuscript-md
 - intersectionality
@@ -17,9 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Social Stratification, Intersectionality, and the Why Be King
-  Manuscript.md
+vault_area: Areas
+canonical_path: Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript.md
 backlink_count: 14
 backlinks:
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
@@ -28,8 +26,7 @@ backlinks:
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'

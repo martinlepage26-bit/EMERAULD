@@ -5,7 +5,6 @@ aliases:
 - Stacklight Owner Explainer
 - Stacklight Governance Framework Owner
 - Stacklight Product and Evidence Steward
-- wiki/Stacklight-owner-explainer
 tags:
 - stacklight
 - governance
@@ -13,7 +12,7 @@ tags:
 - proof-desk
 - ai-governance
 - audit
-- wiki
+- areas
 - stacklight-owner-explainer-md
 - proof
 - product
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-06-30'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Stacklight-owner-explainer.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Stacklight-owner-explainer.md
 backlink_count: 9
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

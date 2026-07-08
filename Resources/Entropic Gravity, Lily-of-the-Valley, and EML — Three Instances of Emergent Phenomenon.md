@@ -31,7 +31,7 @@ backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[archive/session-state/session-state-001]]'
 source: third layer of the EML-LILY.txt (2026-04-26)
 ---

@@ -6,7 +6,6 @@ aliases:
 - Relation as primitive
 - Interface primitive
 - DRT7-EML-Lily synthesis
-- wiki/Smallest Building Block — Relation as Rule
 tags:
 - theory
 - recursion
@@ -16,7 +15,7 @@ tags:
 - mathematics
 - symbol
 - governance-frame
-- wiki
+- areas
 - smallest-building-block-relation-as-rule-md
 - relation
 - lily
@@ -27,8 +26,8 @@ tags:
 status: active
 created: '2026-04-30'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Smallest Building Block — Relation as Rule.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Smallest Building Block — Relation as Rule.md
 backlink_count: 8
 backlinks:
 - '[[wiki/Consent and Boundary Frameworks]]'

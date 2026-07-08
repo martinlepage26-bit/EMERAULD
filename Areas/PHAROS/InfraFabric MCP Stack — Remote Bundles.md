@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Stacklight-owner-explainer]]'
+- '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/claude-peers-mcp — Claude Peer Network]]'
 - '[[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'

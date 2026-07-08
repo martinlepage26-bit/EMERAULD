@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
+- '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[Areas/Writing/Social Compass Reviewer Responses — Version Genealogy]]'
 - '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
 - '[[Areas/Writing/Version Genealogy System]]'

@@ -5,7 +5,6 @@ aliases:
 - Blind Leading Automated
 - ChatGPT Codex Governance Failure
 - PHAROS SPA Case Study
-- wiki/The Blind Leading the Automated — AI Governance Failure Case Study
 tags:
 - pharos
 - governance-failure
@@ -14,7 +13,7 @@ tags:
 - ai-governance
 - case-study
 - autoethnography
-- wiki
+- areas
 - the-blind-leading-the-automated-ai-governance-failure-case-study-md
 - accumulation
 - unindexable
@@ -25,9 +24,8 @@ tags:
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Blind Leading the Automated — AI Governance Failure Case
-  Study.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study.md
 backlink_count: 8
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'

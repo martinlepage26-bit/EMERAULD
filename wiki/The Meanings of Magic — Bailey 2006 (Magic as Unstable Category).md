@@ -42,7 +42,7 @@ backlinks:
   vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
+- '[[Resources/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
 - '[[wiki/The Golden Bough — Frazer (Magic, Religion, Regicide)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

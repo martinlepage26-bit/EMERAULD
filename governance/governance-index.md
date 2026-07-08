@@ -22,7 +22,7 @@ vault_area: governance
 canonical_path: governance/governance-index.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Stacklight-owner-explainer]]'
+- '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[wiki/archive/Ethical Ground Values]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'
 - '[[governance/decision-index]]'

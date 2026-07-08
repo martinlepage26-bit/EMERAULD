@@ -38,7 +38,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
-- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'

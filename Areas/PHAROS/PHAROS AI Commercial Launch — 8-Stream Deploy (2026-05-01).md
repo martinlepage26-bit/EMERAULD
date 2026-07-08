@@ -38,7 +38,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Product Stack]]'
 - '[[Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'
 - '[[memory/daily/2026-05-01]]'

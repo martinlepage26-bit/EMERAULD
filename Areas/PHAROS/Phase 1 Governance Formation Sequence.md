@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
-- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
 - '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

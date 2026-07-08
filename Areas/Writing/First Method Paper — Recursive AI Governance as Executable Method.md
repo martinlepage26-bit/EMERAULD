@@ -54,7 +54,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
-- '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
+- '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[Areas/Writing/Spider-Man — Version Genealogy]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'

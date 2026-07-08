@@ -30,7 +30,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
+- '[[Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 source:
 - raw/Desktop-Downloads-scan-2026-05-12/downloads/Service Canada me laisse sans assurance-emploi depuis janvier _ je risque maintenant de perdre mon logement.pdf

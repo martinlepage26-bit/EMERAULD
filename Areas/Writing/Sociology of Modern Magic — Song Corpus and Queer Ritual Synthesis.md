@@ -3,9 +3,8 @@ type: wiki
 title: Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis
 aliases:
 - Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis
-- wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis
 tags:
-- wiki
+- areas
 - magic
 - ritual
 - queer
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis.md
+vault_area: Areas
+canonical_path: Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis.md
 backlink_count: 18
 backlinks:
 - '[[Resources/Disease — Lady Gaga — Lyrics]]'

@@ -4,7 +4,6 @@ title: The Ballad of the Witches' Road — Analysis
 aliases:
 - Ballad of the Witches' Road analysis
 - Witches' Road ballad analysis
-- wiki/The Ballad of the Witches' Road — Analysis
 tags:
 - agatha-all-along
 - music
@@ -13,7 +12,7 @@ tags:
 - enchantment
 - archive
 - song-corpus
-- wiki
+- areas
 - the-ballad-of-the-witches-road-analysis-md
 - ballad
 - road
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Ballad of the Witches' Road — Analysis.md
+vault_area: Areas
+canonical_path: Areas/Writing/The Ballad of the Witches' Road — Analysis.md
 backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
@@ -41,8 +40,7 @@ backlinks:
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
-  Glitch]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

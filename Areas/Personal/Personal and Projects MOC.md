@@ -68,7 +68,7 @@ backlinks:
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
-- '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
+- '[[Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'

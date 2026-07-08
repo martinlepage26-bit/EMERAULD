@@ -38,7 +38,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
 - '[[Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
-- '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
 ---
 
 # Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)

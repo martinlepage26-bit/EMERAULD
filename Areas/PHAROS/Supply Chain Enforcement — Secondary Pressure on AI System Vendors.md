@@ -6,7 +6,6 @@ aliases:
 - Secondary Compliance Pressure
 - Customer-Driven Enforcement
 - Dual-Pressure Model
-- wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors
 tags:
 - pharos
 - regulatory
@@ -17,7 +16,7 @@ tags:
 - trust-advantage
 - outreach
 - arbitrage
-- wiki
+- areas
 - supply-chain-enforcement-secondary-pressure-on-ai-system-vendors-md
 - vendor
 - questionnaire
@@ -28,8 +27,8 @@ tags:
 status: active
 created: 2026-05-01T18:00
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors.md
 backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'

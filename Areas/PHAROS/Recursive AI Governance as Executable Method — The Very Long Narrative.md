@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

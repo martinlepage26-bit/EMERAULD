@@ -47,7 +47,7 @@ backlinks:
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
-- '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-04-28]]'

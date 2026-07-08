@@ -29,7 +29,7 @@ backlinks:
 - '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
 - '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-04-25]]'
 - '[[raw/00_Inbox/Raw/2026-04-25 — Reflexive Inhabitation Audit needs a live X]]'

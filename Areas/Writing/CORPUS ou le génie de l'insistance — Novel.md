@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
-- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/The Returning Light — Monograph]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'

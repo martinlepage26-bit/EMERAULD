@@ -54,7 +54,7 @@ backlinks:
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Sealed Card Protocol — Version Genealogy]]'
-- '[[wiki/Strategic Storytelling in the AI Economy]]'
+- '[[Areas/PHAROS/Strategic Storytelling in the AI Economy]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

@@ -49,7 +49,7 @@ backlinks:
 - '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
-- '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
+- '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
 - '[[wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

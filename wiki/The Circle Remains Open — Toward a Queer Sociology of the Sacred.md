@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
 - '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'

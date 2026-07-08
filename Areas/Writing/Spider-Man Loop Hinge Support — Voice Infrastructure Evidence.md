@@ -3,9 +3,8 @@ type: wiki
 title: Spider-Man Loop Hinge Support — Voice Infrastructure Evidence
 aliases:
 - Spider-Man Loop Hinge Support — Voice Infrastructure Evidence
-- wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence
 tags:
-- wiki
+- areas
 - spider-man-loop-hinge-support-voice-infrastructure-evidence-md
 - spider
 - phonetic
@@ -16,14 +15,14 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence.md
+vault_area: Areas
+canonical_path: Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence.md
 backlink_count: 5
 backlinks:
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

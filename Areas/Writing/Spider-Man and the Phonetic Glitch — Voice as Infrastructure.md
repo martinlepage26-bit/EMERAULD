@@ -3,9 +3,8 @@ type: wiki
 title: Spider-Man and the Phonetic Glitch — Voice as Infrastructure
 aliases:
 - Spider-Man and the Phonetic Glitch — Voice as Infrastructure
-- wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure
 tags:
-- wiki
+- areas
 - spider-man-and-the-phonetic-glitch-voice-as-infrastructure-md
 - spider
 - phonetic
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure.md
+vault_area: Areas
+canonical_path: Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure.md
 backlink_count: 20
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
@@ -35,7 +34,7 @@ backlinks:
 - '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
+- '[[Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
 - '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'

@@ -5,7 +5,6 @@ aliases:
 - TAL tenant application 2026-05-11
 - Imeson TAL filing
 - Esplanades Cartier housing claim
-- wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)
 tags:
 - legal
 - housing
@@ -13,7 +12,7 @@ tags:
 - tal
 - institutional-accountability
 - personal-case
-- wiki
+- areas
 - tal-housing-application-imeson-v-esplanades-cartier-2026-05-11-md
 - damages
 - lease
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-05-12'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11).md
+vault_area: Areas
+canonical_path: Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11).md
 backlink_count: 5
 backlinks:
 - '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'

@@ -4,14 +4,13 @@ title: Strategic Storytelling in the AI Economy
 aliases:
 - strategic storytelling
 - narrative as differentiator
-- wiki/Strategic Storytelling in the AI Economy
 tags:
 - writing
 - professional-identity
 - market-positioning
 - ai-economy
 - narrative
-- wiki
+- areas
 - strategic-storytelling-in-the-ai-economy-md
 - storytelling
 - strategic
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-05-24'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Strategic Storytelling in the AI Economy.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Strategic Storytelling in the AI Economy.md
 backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan]]'

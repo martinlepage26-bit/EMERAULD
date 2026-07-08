@@ -23,7 +23,7 @@ backlinks:
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 ---

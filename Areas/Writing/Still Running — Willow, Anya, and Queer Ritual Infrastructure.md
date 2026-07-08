@@ -3,9 +3,8 @@ type: wiki
 title: Still Running — Willow, Anya, and Queer Ritual Infrastructure
 aliases:
 - Still Running — Willow, Anya, and Queer Ritual Infrastructure
-- wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure
 tags:
-- wiki
+- areas
 - ritual
 - queer
 - still-running-willow-anya-and-queer-ritual-infrastructure-md
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure.md
+vault_area: Areas
+canonical_path: Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure.md
 backlink_count: 19
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'

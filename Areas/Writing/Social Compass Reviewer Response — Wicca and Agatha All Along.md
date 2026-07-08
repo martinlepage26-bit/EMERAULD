@@ -3,9 +3,8 @@ type: wiki
 title: Social Compass Reviewer Response — Wicca and Agatha All Along
 aliases:
 - Social Compass Reviewer Response — Wicca and Agatha All Along
-- wiki/Social Compass Reviewer Response — Wicca and Agatha All Along
 tags:
-- wiki
+- areas
 - compassai
 - wicca
 - peer-review
@@ -19,8 +18,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Social Compass Reviewer Response — Wicca and Agatha All Along.md
+vault_area: Areas
+canonical_path: Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along.md
 backlink_count: 7
 backlinks:
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'

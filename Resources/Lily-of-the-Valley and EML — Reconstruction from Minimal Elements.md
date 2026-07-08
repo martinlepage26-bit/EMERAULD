@@ -38,7 +38,7 @@ backlinks:
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

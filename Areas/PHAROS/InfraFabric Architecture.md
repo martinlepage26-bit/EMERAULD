@@ -55,7 +55,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
 - '[[wiki/September 2024 Research Retrospective]]'
-- '[[wiki/Stacklight-owner-explainer]]'
+- '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture]]'

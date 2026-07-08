@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
 - '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
 - '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'

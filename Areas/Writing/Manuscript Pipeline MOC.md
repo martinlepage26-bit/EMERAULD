@@ -48,7 +48,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
-- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Version Genealogy System]]'

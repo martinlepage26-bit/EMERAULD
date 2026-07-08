@@ -60,10 +60,10 @@ backlinks:
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
   and Computational Memory Architectures]]'
-- '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Who''s the Boob Who''s the Trap — AI Governance Through the Booby-Trap Device]]'

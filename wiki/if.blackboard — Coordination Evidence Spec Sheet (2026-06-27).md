@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Stacklight-owner-explainer]]'
+- '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/if.switchboard — InfraFabric Product Center]]'
 - '[[memory/daily/2026-06-27]]'

@@ -21,7 +21,7 @@ canonical_path: Areas/Writing/Spider-Man — Version Genealogy.md
 backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'
-- '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---

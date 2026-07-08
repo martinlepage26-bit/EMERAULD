@@ -38,7 +38,7 @@ backlinks:
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
 - '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
-- '[[wiki/Stacklight-owner-explainer]]'
+- '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
 - '[[wiki/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/Vault Health — 2026-06-28]]'

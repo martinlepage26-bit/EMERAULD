@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
-- '[[wiki/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)]]'
+- '[[Resources/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)]]'
 - '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

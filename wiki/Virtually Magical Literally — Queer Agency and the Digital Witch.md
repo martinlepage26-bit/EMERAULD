@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
+- '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---

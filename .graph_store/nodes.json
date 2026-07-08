@@ -2932,6 +2932,110 @@
     "backlinks": 25
   },
   {
+    "id": "Areas/PHAROS/Smallest Building Block — Relation as Rule",
+    "title": "Smallest Building Block — Relation as Rule",
+    "path": "Areas/PHAROS/Smallest Building Block — Relation as Rule.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "DRT7-EML-Lily synthesis",
+      "Difference re-entered as rule",
+      "Interface primitive",
+      "Relation as primitive"
+    ],
+    "outlinks": 29,
+    "unique_outlinks": 16,
+    "backlinks": 13
+  },
+  {
+    "id": "Areas/PHAROS/Stacklight-owner-explainer",
+    "title": "Stacklight-owner-explainer",
+    "path": "Areas/PHAROS/Stacklight-owner-explainer.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Stacklight Governance Framework Owner",
+      "Stacklight Owner Explainer",
+      "Stacklight Product and Evidence Steward"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 8,
+    "backlinks": 19
+  },
+  {
+    "id": "Areas/PHAROS/Strategic Storytelling in the AI Economy",
+    "title": "Strategic Storytelling in the AI Economy",
+    "path": "Areas/PHAROS/Strategic Storytelling in the AI Economy.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "narrative as differentiator",
+      "strategic storytelling"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 6,
+    "backlinks": 13
+  },
+  {
+    "id": "Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures",
+    "title": "Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures",
+    "path": "Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures.md",
+    "type": "note",
+    "status": "active",
+    "aliases": [
+      "Biological Epistemic Computational Memory",
+      "Memory Architectures Parallels",
+      "Structural Analogy and Governance"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 13,
+    "backlinks": 14
+  },
+  {
+    "id": "Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors",
+    "title": "Supply Chain Enforcement — Secondary Pressure on AI System Vendors",
+    "path": "Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI Vendor Due Diligence",
+      "Customer-Driven Enforcement",
+      "Dual-Pressure Model",
+      "Secondary Compliance Pressure"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 8,
+    "backlinks": 11
+  },
+  {
+    "id": "Areas/PHAROS/TPS-TVQ PHAROS",
+    "title": "TPS-TVQ PHAROS",
+    "path": "Areas/PHAROS/TPS-TVQ PHAROS.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "TPS-TVQ PHAROS"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 4,
+    "backlinks": 11
+  },
+  {
+    "id": "Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study",
+    "title": "The Blind Leading the Automated — AI Governance Failure Case Study",
+    "path": "Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Blind Leading Automated",
+      "ChatGPT Codex Governance Failure",
+      "PHAROS SPA Case Study"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 6,
+    "backlinks": 14
+  },
+  {
     "id": "Areas/PHAROS/company",
     "title": "company",
     "path": "Areas/PHAROS/company.md",
@@ -3037,6 +3141,21 @@
     ],
     "outlinks": 4,
     "unique_outlinks": 4,
+    "backlinks": 8
+  },
+  {
+    "id": "Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)",
+    "title": "TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)",
+    "path": "Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Esplanades Cartier housing claim",
+      "Imeson TAL filing",
+      "TAL tenant application 2026-05-11"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 5,
     "backlinks": 8
   },
   {
@@ -4454,6 +4573,19 @@
     "backlinks": 93
   },
   {
+    "id": "Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along",
+    "title": "Social Compass Reviewer Response — Wicca and Agatha All Along",
+    "path": "Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Social Compass Reviewer Response — Wicca and Agatha All Along"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 13,
+    "backlinks": 11
+  },
+  {
     "id": "Areas/Writing/Social Compass Reviewer Responses — Version Genealogy",
     "title": "Social Compass Reviewer Responses — Version Genealogy",
     "path": "Areas/Writing/Social Compass Reviewer Responses — Version Genealogy.md",
@@ -4467,6 +4599,58 @@
     "backlinks": 4
   },
   {
+    "id": "Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript",
+    "title": "Social Stratification, Intersectionality, and the Why Be King Manuscript",
+    "path": "Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Social Stratification, Intersectionality, and the Why Be King Manuscript"
+    ],
+    "outlinks": 26,
+    "unique_outlinks": 15,
+    "backlinks": 21
+  },
+  {
+    "id": "Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis",
+    "title": "Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis",
+    "path": "Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis"
+    ],
+    "outlinks": 30,
+    "unique_outlinks": 24,
+    "backlinks": 29
+  },
+  {
+    "id": "Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence",
+    "title": "Spider-Man Loop Hinge Support — Voice Infrastructure Evidence",
+    "path": "Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Spider-Man Loop Hinge Support — Voice Infrastructure Evidence"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 7,
+    "backlinks": 8
+  },
+  {
+    "id": "Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
+    "title": "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
+    "path": "Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Spider-Man and the Phonetic Glitch — Voice as Infrastructure"
+    ],
+    "outlinks": 16,
+    "unique_outlinks": 10,
+    "backlinks": 32
+  },
+  {
     "id": "Areas/Writing/Spider-Man — Version Genealogy",
     "title": "Spider-Man — Version Genealogy",
     "path": "Areas/Writing/Spider-Man — Version Genealogy.md",
@@ -4478,6 +4662,59 @@
     "outlinks": 3,
     "unique_outlinks": 3,
     "backlinks": 4
+  },
+  {
+    "id": "Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure",
+    "title": "Still Running — Willow, Anya, and Queer Ritual Infrastructure",
+    "path": "Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Still Running — Willow, Anya, and Queer Ritual Infrastructure"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 9,
+    "backlinks": 35
+  },
+  {
+    "id": "Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing",
+    "title": "Stuttering through the Institution — Academic Containment and Queer Knowing",
+    "path": "Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Stuttering through the Institution — Academic Containment and Queer Knowing"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 11,
+    "backlinks": 25
+  },
+  {
+    "id": "Areas/Writing/The Ballad of the Witches' Road — Analysis",
+    "title": "The Ballad of the Witches' Road — Analysis",
+    "path": "Areas/Writing/The Ballad of the Witches' Road — Analysis.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Ballad of the Witches' Road analysis",
+      "Witches' Road ballad analysis"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 12,
+    "backlinks": 25
+  },
+  {
+    "id": "Areas/Writing/The Broken Frequency of the Word — Novel",
+    "title": "The Broken Frequency of the Word — Novel",
+    "path": "Areas/Writing/The Broken Frequency of the Word — Novel.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "The Broken Frequency of the Word — Novel"
+    ],
+    "outlinks": 21,
+    "unique_outlinks": 16,
+    "backlinks": 38
   },
   {
     "id": "Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge",
@@ -7020,6 +7257,48 @@
     "backlinks": 9
   },
   {
+    "id": "Resources/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)",
+    "title": "Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)",
+    "path": "Resources/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Sorcellerie 2.0 Social Compass",
+      "WitchTok social science proposal"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 6,
+    "backlinks": 8
+  },
+  {
+    "id": "Resources/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)",
+    "title": "Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)",
+    "path": "Resources/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Maor 2016 strategic silence",
+      "Strategic Silence (Maor)"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 3,
+    "backlinks": 10
+  },
+  {
+    "id": "Resources/The Ballad of the Witches' Road — Lyrics",
+    "title": "The Ballad of the Witches' Road — Lyrics",
+    "path": "Resources/The Ballad of the Witches' Road — Lyrics.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Ballad of the Witches' Road lyrics",
+      "Witches' Road lyrics"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 5,
+    "backlinks": 19
+  },
+  {
     "id": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
     "title": "The Data Gaze — Beer (Capitalism, Power, Perception)",
     "path": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception).md",
@@ -7294,198 +7573,6 @@
     "backlinks": 12
   },
   {
-    "id": "Smallest Building Block — Relation as Rule",
-    "title": "Smallest Building Block — Relation as Rule",
-    "path": "wiki/Smallest Building Block — Relation as Rule.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "DRT7-EML-Lily synthesis",
-      "Difference re-entered as rule",
-      "Interface primitive",
-      "Relation as primitive",
-      "wiki/Smallest Building Block — Relation as Rule"
-    ],
-    "outlinks": 29,
-    "unique_outlinks": 16,
-    "backlinks": 13
-  },
-  {
-    "id": "Social Compass Reviewer Response — Wicca and Agatha All Along",
-    "title": "Social Compass Reviewer Response — Wicca and Agatha All Along",
-    "path": "wiki/Social Compass Reviewer Response — Wicca and Agatha All Along.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Social Compass Reviewer Response — Wicca and Agatha All Along",
-      "wiki/Social Compass Reviewer Response — Wicca and Agatha All Along"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 13,
-    "backlinks": 11
-  },
-  {
-    "id": "Social Stratification, Intersectionality, and the Why Be King Manuscript",
-    "title": "Social Stratification, Intersectionality, and the Why Be King Manuscript",
-    "path": "wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Social Stratification, Intersectionality, and the Why Be King Manuscript",
-      "wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript"
-    ],
-    "outlinks": 26,
-    "unique_outlinks": 15,
-    "backlinks": 21
-  },
-  {
-    "id": "Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis",
-    "title": "Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis",
-    "path": "wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis",
-      "wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis"
-    ],
-    "outlinks": 30,
-    "unique_outlinks": 24,
-    "backlinks": 29
-  },
-  {
-    "id": "Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)",
-    "title": "Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)",
-    "path": "wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Sorcellerie 2.0 Social Compass",
-      "WitchTok social science proposal",
-      "wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 6,
-    "backlinks": 8
-  },
-  {
-    "id": "Spider-Man Loop Hinge Support — Voice Infrastructure Evidence",
-    "title": "Spider-Man Loop Hinge Support — Voice Infrastructure Evidence",
-    "path": "wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Spider-Man Loop Hinge Support — Voice Infrastructure Evidence",
-      "wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 7,
-    "backlinks": 8
-  },
-  {
-    "id": "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
-    "title": "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
-    "path": "wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Spider-Man and the Phonetic Glitch — Voice as Infrastructure",
-      "wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure"
-    ],
-    "outlinks": 16,
-    "unique_outlinks": 10,
-    "backlinks": 32
-  },
-  {
-    "id": "Stacklight-owner-explainer",
-    "title": "Stacklight-owner-explainer",
-    "path": "wiki/Stacklight-owner-explainer.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Stacklight Governance Framework Owner",
-      "Stacklight Owner Explainer",
-      "Stacklight Product and Evidence Steward",
-      "wiki/Stacklight-owner-explainer"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 8,
-    "backlinks": 19
-  },
-  {
-    "id": "Still Running — Willow, Anya, and Queer Ritual Infrastructure",
-    "title": "Still Running — Willow, Anya, and Queer Ritual Infrastructure",
-    "path": "wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Still Running — Willow, Anya, and Queer Ritual Infrastructure",
-      "wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 9,
-    "backlinks": 35
-  },
-  {
-    "id": "Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)",
-    "title": "Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)",
-    "path": "wiki/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Maor 2016 strategic silence",
-      "Strategic Silence (Maor)",
-      "wiki/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 3,
-    "backlinks": 10
-  },
-  {
-    "id": "Strategic Storytelling in the AI Economy",
-    "title": "Strategic Storytelling in the AI Economy",
-    "path": "wiki/Strategic Storytelling in the AI Economy.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "narrative as differentiator",
-      "strategic storytelling",
-      "wiki/Strategic Storytelling in the AI Economy"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 6,
-    "backlinks": 13
-  },
-  {
-    "id": "Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures",
-    "title": "Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures",
-    "path": "wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures.md",
-    "type": "note",
-    "status": "active",
-    "aliases": [
-      "Biological Epistemic Computational Memory",
-      "Memory Architectures Parallels",
-      "Structural Analogy and Governance",
-      "wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 13,
-    "backlinks": 14
-  },
-  {
-    "id": "Stuttering through the Institution — Academic Containment and Queer Knowing",
-    "title": "Stuttering through the Institution — Academic Containment and Queer Knowing",
-    "path": "wiki/Stuttering through the Institution — Academic Containment and Queer Knowing.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Stuttering through the Institution — Academic Containment and Queer Knowing",
-      "wiki/Stuttering through the Institution — Academic Containment and Queer Knowing"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 11,
-    "backlinks": 25
-  },
-  {
     "id": "Supersession Registry",
     "title": "Supersession Registry",
     "path": "wiki/Supersession Registry.md",
@@ -7500,39 +7587,6 @@
     "backlinks": 6
   },
   {
-    "id": "Supply Chain Enforcement — Secondary Pressure on AI System Vendors",
-    "title": "Supply Chain Enforcement — Secondary Pressure on AI System Vendors",
-    "path": "wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI Vendor Due Diligence",
-      "Customer-Driven Enforcement",
-      "Dual-Pressure Model",
-      "Secondary Compliance Pressure",
-      "wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 8,
-    "backlinks": 11
-  },
-  {
-    "id": "TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)",
-    "title": "TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)",
-    "path": "wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Esplanades Cartier housing claim",
-      "Imeson TAL filing",
-      "TAL tenant application 2026-05-11",
-      "wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 5,
-    "backlinks": 8
-  },
-  {
     "id": "TEMPLATES MOC",
     "title": "TEMPLATES MOC",
     "path": "wiki/TEMPLATES MOC.md",
@@ -7542,80 +7596,6 @@
     "outlinks": 0,
     "unique_outlinks": 0,
     "backlinks": 0
-  },
-  {
-    "id": "TPS-TVQ PHAROS",
-    "title": "TPS-TVQ PHAROS",
-    "path": "wiki/TPS-TVQ PHAROS.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "TPS-TVQ PHAROS",
-      "wiki/TPS-TVQ PHAROS"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 4,
-    "backlinks": 11
-  },
-  {
-    "id": "The Ballad of the Witches' Road — Analysis",
-    "title": "The Ballad of the Witches' Road — Analysis",
-    "path": "wiki/The Ballad of the Witches' Road — Analysis.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Ballad of the Witches' Road analysis",
-      "Witches' Road ballad analysis",
-      "wiki/The Ballad of the Witches' Road — Analysis"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 12,
-    "backlinks": 25
-  },
-  {
-    "id": "The Ballad of the Witches' Road — Lyrics",
-    "title": "The Ballad of the Witches' Road — Lyrics",
-    "path": "wiki/The Ballad of the Witches' Road — Lyrics.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Ballad of the Witches' Road lyrics",
-      "Witches' Road lyrics",
-      "wiki/The Ballad of the Witches' Road — Lyrics"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 5,
-    "backlinks": 19
-  },
-  {
-    "id": "The Blind Leading the Automated — AI Governance Failure Case Study",
-    "title": "The Blind Leading the Automated — AI Governance Failure Case Study",
-    "path": "wiki/The Blind Leading the Automated — AI Governance Failure Case Study.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Blind Leading Automated",
-      "ChatGPT Codex Governance Failure",
-      "PHAROS SPA Case Study",
-      "wiki/The Blind Leading the Automated — AI Governance Failure Case Study"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 6,
-    "backlinks": 14
-  },
-  {
-    "id": "The Broken Frequency of the Word — Novel",
-    "title": "The Broken Frequency of the Word — Novel",
-    "path": "wiki/The Broken Frequency of the Word — Novel.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "The Broken Frequency of the Word — Novel",
-      "wiki/The Broken Frequency of the Word — Novel"
-    ],
-    "outlinks": 21,
-    "unique_outlinks": 16,
-    "backlinks": 38
   },
   {
     "id": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",

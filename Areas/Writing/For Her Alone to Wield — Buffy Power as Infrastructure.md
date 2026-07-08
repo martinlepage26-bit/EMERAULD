@@ -41,7 +41,7 @@ backlinks:
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
-- '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
+- '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
 - '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
 - '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'

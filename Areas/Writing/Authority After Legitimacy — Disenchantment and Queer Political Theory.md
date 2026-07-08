@@ -41,7 +41,7 @@ backlinks:
 - '[[Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
 - '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'

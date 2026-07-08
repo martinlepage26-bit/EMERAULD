@@ -3,9 +3,8 @@ type: wiki
 title: Stuttering through the Institution — Academic Containment and Queer Knowing
 aliases:
 - Stuttering through the Institution — Academic Containment and Queer Knowing
-- wiki/Stuttering through the Institution — Academic Containment and Queer Knowing
 tags:
-- wiki
+- areas
 - ai
 - queer
 - stuttering-through-the-institution-academic-containment-and-queer-knowing-md
@@ -18,9 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Stuttering through the Institution — Academic Containment and
-  Queer Knowing.md
+vault_area: Areas
+canonical_path: Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing.md
 backlink_count: 17
 backlinks:
 - '[[Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'

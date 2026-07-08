@@ -40,7 +40,7 @@ backlinks:
   2024]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Personal/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10)]]'
-- '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
+- '[[Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

@@ -110,7 +110,7 @@ backlinks:
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
 - '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
-- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/The Returning Light — Monograph]]'

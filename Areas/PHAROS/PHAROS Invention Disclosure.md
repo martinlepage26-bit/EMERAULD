@@ -66,7 +66,7 @@ backlinks:
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
-- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/The Returning Light — Monograph]]'
 - '[[wiki/The Wheel and the Watcher]]'

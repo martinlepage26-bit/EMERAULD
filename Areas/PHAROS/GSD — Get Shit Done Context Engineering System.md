@@ -37,7 +37,7 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Resources/RAG-Anything — Multimodal RAG Framework]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Events]]'
 - '[[memory/agents/Journal]]'

@@ -48,7 +48,7 @@ backlinks:
 - '[[Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
+- '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[wiki/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
 - '[[maps/PHAROS Method Map]]'

@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

@@ -4,7 +4,6 @@ title: The Ballad of the Witches' Road — Lyrics
 aliases:
 - Witches' Road lyrics
 - Ballad of the Witches' Road lyrics
-- wiki/The Ballad of the Witches' Road — Lyrics
 tags:
 - music
 - lyrics
@@ -12,7 +11,7 @@ tags:
 - marvel
 - witchcraft
 - queer-media
-- wiki
+- resources
 - the-ballad-of-the-witches-road-lyrics-md
 - road
 - witches
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Ballad of the Witches' Road — Lyrics.md
+vault_area: Resources
+canonical_path: Resources/The Ballad of the Witches' Road — Lyrics.md
 backlink_count: 15
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
@@ -36,7 +35,7 @@ backlinks:
 - '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-04-25]]'

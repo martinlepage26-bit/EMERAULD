@@ -46,7 +46,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split]]'
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
-- '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]]'

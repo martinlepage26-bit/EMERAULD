@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Philosopher]]'
-- '[[wiki/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
+- '[[Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'

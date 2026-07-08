@@ -28,7 +28,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[wiki/Strategic Storytelling in the AI Economy]]'
+- '[[Areas/PHAROS/Strategic Storytelling in the AI Economy]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/agents/Decisions]]'

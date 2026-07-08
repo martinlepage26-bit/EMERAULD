@@ -34,7 +34,7 @@ backlinks:
 - '[[Resources/Qualitative Handbook — Expanded Reference List]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[Resources/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
-- '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
+- '[[Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 ---
 
 # Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)

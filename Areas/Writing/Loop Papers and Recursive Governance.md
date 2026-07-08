@@ -40,7 +40,7 @@ backlinks:
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
+- '[[Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
 - '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[wiki/The Returning Light — Monograph]]'

@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
+- '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

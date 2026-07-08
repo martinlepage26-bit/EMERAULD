@@ -44,7 +44,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
-- '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
+- '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]'

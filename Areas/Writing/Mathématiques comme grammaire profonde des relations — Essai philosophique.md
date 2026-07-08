@@ -23,7 +23,7 @@ backlink_count: 5
 backlinks:
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
+- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

@@ -59,7 +59,7 @@ backlinks:
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
-- '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
+- '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
 - '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

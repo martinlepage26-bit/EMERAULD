@@ -41,7 +41,7 @@ backlinks:
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
-- '[[wiki/Smallest Building Block — Relation as Rule]]'
+- '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-04-28]]'

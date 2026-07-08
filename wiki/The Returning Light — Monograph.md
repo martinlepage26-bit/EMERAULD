@@ -36,7 +36,7 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
-- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/The Weather Beneath the Walls — Novel]]'
 - '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'

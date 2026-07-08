@@ -65,7 +65,7 @@ backlinks:
 - '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
-- '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
+- '[[Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 - '[[archive/session-state/session-state-001]]'

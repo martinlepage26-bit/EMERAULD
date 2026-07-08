@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
+- '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[projects/LOTUS — Fisher King Project State]]'
 ---

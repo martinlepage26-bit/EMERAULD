@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/The Broken Frequency of the Word — Novel]]'
+- '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Returning Light — Monograph]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

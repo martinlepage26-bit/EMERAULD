@@ -64,7 +64,7 @@ backlinks:
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 - '[[wiki/Skill Domain — Design and UX]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
-- '[[wiki/Stacklight-owner-explainer]]'
+- '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
   and Computational Memory Architectures]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
