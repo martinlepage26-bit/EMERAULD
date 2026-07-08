@@ -26,7 +26,7 @@ canonical_path: archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive.md
 backlink_count: 3
 backlinks:
 - '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'
-- '[[wiki/Host Environment — pharos-corpus-runner-01]]'
+- '[[Areas/PHAROS/Host Environment — pharos-corpus-runner-01]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 ---
 

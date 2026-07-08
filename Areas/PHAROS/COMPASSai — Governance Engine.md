@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/PHAROS]]'

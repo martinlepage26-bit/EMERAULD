@@ -37,7 +37,7 @@ backlinks:
   (2026-05-07)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'

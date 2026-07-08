@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'

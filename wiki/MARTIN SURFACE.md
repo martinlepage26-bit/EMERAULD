@@ -23,7 +23,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 ---
 
 # Martin Public Surface

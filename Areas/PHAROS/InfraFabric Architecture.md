@@ -3,9 +3,8 @@ type: wiki
 title: InfraFabric Architecture
 aliases:
 - InfraFabric Architecture
-- wiki/InfraFabric Architecture
 tags:
-- wiki
+- areas
 - infrafabric-architecture-md
 - canon
 - explainer
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/InfraFabric Architecture.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/InfraFabric Architecture.md
 backlink_count: 48
 backlinks:
 - '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
@@ -27,21 +26,20 @@ backlinks:
 - '[[Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration]]'
 - '[[Areas/Writing/CODEX Writing Projects Manifest]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
-  Explanation)]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/PHAROS/Founder Charter — Lepage and Stocker]]'
 - '[[Areas/PHAROS/GSD — Get-Shit-Done Claude Code System]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
-- '[[wiki/IF.EMOTION — Empathetic AI Architecture]]'
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
-- '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
-- '[[wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
+- '[[Areas/PHAROS/IF.EMOTION — Empathetic AI Architecture]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
+- '[[Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/LOTUS Model — Agency and Social Positioning]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'

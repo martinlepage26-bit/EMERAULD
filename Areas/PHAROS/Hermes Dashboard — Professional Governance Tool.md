@@ -4,14 +4,13 @@ title: Hermes Dashboard — Professional Governance Tool
 aliases:
 - Hermes Dashboard
 - governance dashboard
-- wiki/Hermes Dashboard — Professional Governance Tool
 tags:
 - pharos
 - product
 - governance-tool
 - hermes
 - operator-view
-- wiki
+- areas
 - hermes-dashboard-professional-governance-tool-md
 - dashboard
 - softinfo
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Hermes Dashboard — Professional Governance Tool.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Hermes Dashboard — Professional Governance Tool.md
 backlink_count: 37
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
@@ -36,7 +35,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'

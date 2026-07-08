@@ -9,14 +9,13 @@ aliases:
 - openspace
 - if_chat
 - InfraFabric MCP
-- wiki/InfraFabric MCP Stack — Remote Bundles
 tags:
 - infrastructure
 - mcp
 - infrafabric
 - tooling
 - remote
-- wiki
+- areas
 - infrafabric-mcp-stack-remote-bundles-md
 - blackboard
 - openspace
@@ -26,8 +25,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/InfraFabric MCP Stack — Remote Bundles.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles.md
 backlink_count: 19
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
@@ -35,8 +34,8 @@ backlinks:
 - '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
-- '[[wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'

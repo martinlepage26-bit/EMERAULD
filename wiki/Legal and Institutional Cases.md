@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche

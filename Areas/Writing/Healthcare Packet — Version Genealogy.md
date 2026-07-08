@@ -21,7 +21,7 @@ canonical_path: Areas/Writing/Healthcare Packet — Version Genealogy.md
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
+- '[[Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

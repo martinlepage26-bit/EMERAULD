@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Governance by Denial]]'
 - '[[wiki/Home]]'
-- '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Martin Lepage Professional Identity]]'

@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[Areas/PHAROS/Global Publication Search — PHAROS Method and Variants]]'
 - '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[maps/PHAROS Method Map]]'

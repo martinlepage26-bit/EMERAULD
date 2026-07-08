@@ -32,7 +32,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'

@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'

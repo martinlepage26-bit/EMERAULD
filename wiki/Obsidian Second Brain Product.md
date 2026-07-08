@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/EMERAULD]]'
 - '[[Areas/PHAROS/Governed Self-Improvement — Method Slide Asset]]'
 - '[[wiki/Home]]'
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'

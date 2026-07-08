@@ -23,7 +23,7 @@ backlinks:
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[Areas/Writing/CORPUS Novel — Version Genealogy]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/La fréquence brisée du verbe — Roman]]'
 - '[[wiki/Le sang qui porte ton nom — Novel]]'

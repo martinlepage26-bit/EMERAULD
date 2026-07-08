@@ -21,7 +21,7 @@ backlink_count: 8
 backlinks:
 - '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
 - '[[Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12)]]'
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'

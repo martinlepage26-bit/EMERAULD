@@ -22,7 +22,7 @@ backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'

@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
-- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'

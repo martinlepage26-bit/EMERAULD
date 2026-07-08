@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md
 backlink_count: 8
 backlinks:
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/Novel and Creative Corpus]]'

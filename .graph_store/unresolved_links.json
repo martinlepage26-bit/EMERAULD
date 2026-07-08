@@ -1750,6 +1750,81 @@
     "source_path": "Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06.md"
   },
   {
+    "source": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_responsible-ai",
+    "source_path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_artificial-intelligence-at-rbc",
+    "source_path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_company",
+    "source_path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_the-technology",
+    "source_path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_ai-in-supply-chain-kinaxis",
+    "source_path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_alayaflow-alayacare",
+    "source_path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_beneva-choisit-loutil-de-souscription-de-global-iqx-beneva",
+    "source_path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_trusted-ai-crim",
+    "source_path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_enterprise-ai-private-secure-customizable-cohere",
+    "source_path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_better-data-management-thinkdata-works",
+    "source_path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_solace-platform-solace",
+    "source_path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_paula-parhon-biography-desjardins",
+    "source_path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
+    "target": "EMERGE",
+    "source_path": "Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
+    "target": "EMERGENT HELIX Session — Vaisseau de Thésée",
+    "source_path": "Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md"
+  },
+  {
+    "source": "Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
+    "target": "HELIX-session-vaisseau-thesee-emerge",
+    "source_path": "Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md"
+  },
+  {
     "source": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "target": "Dr_Sort_masterlist_2026-03-08",
     "source_path": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md"
@@ -1798,6 +1873,91 @@
     "source": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "target": "Hair",
     "source_path": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md"
+  },
+  {
+    "source": "Areas/PHAROS/Host Environment — pharos-corpus-runner-01",
+    "target": "EMERAULD — Vault and Knowledge Graph",
+    "source_path": "Areas/PHAROS/Host Environment — pharos-corpus-runner-01.md"
+  },
+  {
+    "source": "Areas/PHAROS/Host Environment — pharos-corpus-runner-01",
+    "target": "EMERAULD — Vault and Knowledge Graph",
+    "source_path": "Areas/PHAROS/Host Environment — pharos-corpus-runner-01.md"
+  },
+  {
+    "source": "Areas/PHAROS/IF.EMOTION — Empathetic AI Architecture",
+    "target": "IF.EMOTION Whitepaper (Combined)",
+    "source_path": "Areas/PHAROS/IF.EMOTION — Empathetic AI Architecture.md"
+  },
+  {
+    "source": "Areas/PHAROS/IP and Manuscript Brief — 2026-05-14",
+    "target": "Henry",
+    "source_path": "Areas/PHAROS/IP and Manuscript Brief — 2026-05-14.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Architecture",
+    "target": "if.switchboard — InfraFabric Product Center\\",
+    "source_path": "Areas/PHAROS/InfraFabric Architecture.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Architecture",
+    "target": "InfraFabric Philosophy-As-Implementation Whitepaper (v1.0)",
+    "source_path": "Areas/PHAROS/InfraFabric Architecture.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Architecture",
+    "target": "Santé-France — Critical Full Explainer (v2.0, dependency-gated rebuild)",
+    "source_path": "Areas/PHAROS/InfraFabric Architecture.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Architecture",
+    "target": "if-radar_skydrone Full Explainer v1.1 (Data, Mechanics, Freshness, and Boundaries)",
+    "source_path": "Areas/PHAROS/InfraFabric Architecture.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Architecture",
+    "target": "if.api Full Explainer (Four-Audience, Claim-Boundary Strict)",
+    "source_path": "Areas/PHAROS/InfraFabric Architecture.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Architecture",
+    "target": "if.blackboard Full Explainer v1.3 (Multi-Audience, Split-Boundary Strict)",
+    "source_path": "Areas/PHAROS/InfraFabric Architecture.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Architecture",
+    "target": "if.bus Full Explainer v1.5 (Switchboard-Integrated, Claim-Boundary Strict)",
+    "source_path": "Areas/PHAROS/InfraFabric Architecture.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Architecture",
+    "target": "if.context Full Explainer v1.3 (Consolidated 1000+ Dense Lines)",
+    "source_path": "Areas/PHAROS/InfraFabric Architecture.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Architecture",
+    "target": "if.knowledge Full Explainer v1.1 (Consolidated 1000+ Dense Lines)",
+    "source_path": "Areas/PHAROS/InfraFabric Architecture.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Architecture",
+    "target": "if.switchboard + if.blackboard Unified Full Explainer v1.2 (Evidence-Dense)",
+    "source_path": "Areas/PHAROS/InfraFabric Architecture.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Architecture",
+    "target": "if.whitepapers.bible changelog pointer (v4.23)",
+    "source_path": "Areas/PHAROS/InfraFabric Architecture.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame",
+    "target": "2026-04-30_codex-work-alignment-infrafabric",
+    "source_path": "Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame.md"
+  },
+  {
+    "source": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
+    "target": "HISTORY",
+    "source_path": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles.md"
   },
   {
     "source": "Areas/PHAROS/Martin Lepage — Professional Profile",
@@ -2448,6 +2608,21 @@
     "source": "Areas/Writing/Governance by Denial",
     "target": "Governance by Denial — Revised Working Draft",
     "source_path": "Areas/Writing/Governance by Denial.md"
+  },
+  {
+    "source": "Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
+    "target": "2026-04-30_inderscience-ijaighr-submission-pipeline",
+    "source_path": "Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md"
+  },
+  {
+    "source": "Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
+    "target": "2026 - ISSN 2666-6596 ScienceDirect.com b",
+    "source_path": "Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md"
+  },
+  {
+    "source": "Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
+    "target": "Submission guidelines SYNTHESE",
+    "source_path": "Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md"
   },
   {
     "source": "Areas/Writing/Legitimacy Machines MOC",
@@ -6090,6 +6265,16 @@
     "source_path": "Resources/Framing Processes and Social Movements — Benford & Snow 2000.md"
   },
   {
+    "source": "Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)",
+    "target": "2025 - journal_article.pdf - 2025 - journal_article.pdf.pdf - 2025 - journal_article.pdf - 2025 - jo",
+    "source_path": "Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec).md"
+  },
+  {
+    "source": "Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)",
+    "target": "How French Canadians became White Folks, or doing things with race in Quebec",
+    "source_path": "Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec).md"
+  },
+  {
     "source": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)",
     "target": "2018 - religions",
     "source_path": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender).md"
@@ -8240,81 +8425,6 @@
     "source_path": "wiki/GRAPHIFY-OUT MOC.md"
   },
   {
-    "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_responsible-ai",
-    "source_path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
-  },
-  {
-    "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_artificial-intelligence-at-rbc",
-    "source_path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
-  },
-  {
-    "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_company",
-    "source_path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
-  },
-  {
-    "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_the-technology",
-    "source_path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
-  },
-  {
-    "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_ai-in-supply-chain-kinaxis",
-    "source_path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
-  },
-  {
-    "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_alayaflow-alayacare",
-    "source_path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
-  },
-  {
-    "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_beneva-choisit-loutil-de-souscription-de-global-iqx-beneva",
-    "source_path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
-  },
-  {
-    "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_trusted-ai-crim",
-    "source_path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
-  },
-  {
-    "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_enterprise-ai-private-secure-customizable-cohere",
-    "source_path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
-  },
-  {
-    "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_better-data-management-thinkdata-works",
-    "source_path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
-  },
-  {
-    "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_solace-platform-solace",
-    "source_path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
-  },
-  {
-    "source": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "target": "raw sources/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_paula-parhon-biography-desjardins",
-    "source_path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md"
-  },
-  {
-    "source": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
-    "target": "EMERGE",
-    "source_path": "wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md"
-  },
-  {
-    "source": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
-    "target": "EMERGENT HELIX Session — Vaisseau de Thésée",
-    "source_path": "wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md"
-  },
-  {
-    "source": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
-    "target": "HELIX-session-vaisseau-thesee-emerge",
-    "source_path": "wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md"
-  },
-  {
     "source": "Home",
     "target": "Dr. Sort Filename Normalization — 2026-05-06",
     "source_path": "wiki/Home.md"
@@ -8378,116 +8488,6 @@
     "source": "Home",
     "target": "wiki/Wiki MOC",
     "source_path": "wiki/Home.md"
-  },
-  {
-    "source": "Host Environment — pharos-corpus-runner-01",
-    "target": "EMERAULD — Vault and Knowledge Graph",
-    "source_path": "wiki/Host Environment — pharos-corpus-runner-01.md"
-  },
-  {
-    "source": "Host Environment — pharos-corpus-runner-01",
-    "target": "EMERAULD — Vault and Knowledge Graph",
-    "source_path": "wiki/Host Environment — pharos-corpus-runner-01.md"
-  },
-  {
-    "source": "How French Canadians became White Folks — Scott 2016 (Race in Quebec)",
-    "target": "2025 - journal_article.pdf - 2025 - journal_article.pdf.pdf - 2025 - journal_article.pdf - 2025 - jo",
-    "source_path": "wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec).md"
-  },
-  {
-    "source": "How French Canadians became White Folks — Scott 2016 (Race in Quebec)",
-    "target": "How French Canadians became White Folks, or doing things with race in Quebec",
-    "source_path": "wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec).md"
-  },
-  {
-    "source": "IF.EMOTION — Empathetic AI Architecture",
-    "target": "IF.EMOTION Whitepaper (Combined)",
-    "source_path": "wiki/IF.EMOTION — Empathetic AI Architecture.md"
-  },
-  {
-    "source": "IP and Manuscript Brief — 2026-05-14",
-    "target": "Henry",
-    "source_path": "wiki/IP and Manuscript Brief — 2026-05-14.md"
-  },
-  {
-    "source": "Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
-    "target": "2026-04-30_inderscience-ijaighr-submission-pipeline",
-    "source_path": "wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md"
-  },
-  {
-    "source": "Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
-    "target": "2026 - ISSN 2666-6596 ScienceDirect.com b",
-    "source_path": "wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md"
-  },
-  {
-    "source": "Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
-    "target": "Submission guidelines SYNTHESE",
-    "source_path": "wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md"
-  },
-  {
-    "source": "InfraFabric Architecture",
-    "target": "if.switchboard — InfraFabric Product Center\\",
-    "source_path": "wiki/InfraFabric Architecture.md"
-  },
-  {
-    "source": "InfraFabric Architecture",
-    "target": "InfraFabric Philosophy-As-Implementation Whitepaper (v1.0)",
-    "source_path": "wiki/InfraFabric Architecture.md"
-  },
-  {
-    "source": "InfraFabric Architecture",
-    "target": "Santé-France — Critical Full Explainer (v2.0, dependency-gated rebuild)",
-    "source_path": "wiki/InfraFabric Architecture.md"
-  },
-  {
-    "source": "InfraFabric Architecture",
-    "target": "if-radar_skydrone Full Explainer v1.1 (Data, Mechanics, Freshness, and Boundaries)",
-    "source_path": "wiki/InfraFabric Architecture.md"
-  },
-  {
-    "source": "InfraFabric Architecture",
-    "target": "if.api Full Explainer (Four-Audience, Claim-Boundary Strict)",
-    "source_path": "wiki/InfraFabric Architecture.md"
-  },
-  {
-    "source": "InfraFabric Architecture",
-    "target": "if.blackboard Full Explainer v1.3 (Multi-Audience, Split-Boundary Strict)",
-    "source_path": "wiki/InfraFabric Architecture.md"
-  },
-  {
-    "source": "InfraFabric Architecture",
-    "target": "if.bus Full Explainer v1.5 (Switchboard-Integrated, Claim-Boundary Strict)",
-    "source_path": "wiki/InfraFabric Architecture.md"
-  },
-  {
-    "source": "InfraFabric Architecture",
-    "target": "if.context Full Explainer v1.3 (Consolidated 1000+ Dense Lines)",
-    "source_path": "wiki/InfraFabric Architecture.md"
-  },
-  {
-    "source": "InfraFabric Architecture",
-    "target": "if.knowledge Full Explainer v1.1 (Consolidated 1000+ Dense Lines)",
-    "source_path": "wiki/InfraFabric Architecture.md"
-  },
-  {
-    "source": "InfraFabric Architecture",
-    "target": "if.switchboard + if.blackboard Unified Full Explainer v1.2 (Evidence-Dense)",
-    "source_path": "wiki/InfraFabric Architecture.md"
-  },
-  {
-    "source": "InfraFabric Architecture",
-    "target": "if.whitepapers.bible changelog pointer (v4.23)",
-    "source_path": "wiki/InfraFabric Architecture.md"
-  },
-  {
-    "source": "InfraFabric Codex Alignment — System-Shaper Frame",
-    "target": "2026-04-30_codex-work-alignment-infrafabric",
-    "source_path": "wiki/InfraFabric Codex Alignment — System-Shaper Frame.md"
-  },
-  {
-    "source": "InfraFabric MCP Stack — Remote Bundles",
-    "target": "HISTORY",
-    "source_path": "wiki/InfraFabric MCP Stack — Remote Bundles.md"
   },
   {
     "source": "Intelligence Definitions and AI Bias — 1956 Lecture",

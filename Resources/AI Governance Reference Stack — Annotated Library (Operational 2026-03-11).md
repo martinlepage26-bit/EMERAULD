@@ -28,7 +28,7 @@ backlinks:
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'

@@ -55,7 +55,7 @@ backlinks:
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'

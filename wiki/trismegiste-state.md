@@ -23,7 +23,7 @@ vault_area: wiki
 canonical_path: wiki/trismegiste-state.md
 backlink_count: 3
 backlinks:
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

@@ -187,8 +187,8 @@ Council operations coordinate via `tmux-council-loop` for multi-agent workflows 
 ### Key Documents
 - [[Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]
 - [[raw sources/Grok's work on HELIX — v2.1 v2.3 v2.4 dev session]]
-- [[wiki/HELIX Test Run — Claude Code Agents as Subject (2026)]]
-- [[wiki/HELIX Test Run — Epstein Files Topic (2026)]]
+- [[Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026)]]
+- [[Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026)]]
 
 ---
 

@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[wiki/Host Environment — pharos-corpus-runner-01]]'
+- '[[Areas/PHAROS/Host Environment — pharos-corpus-runner-01]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'

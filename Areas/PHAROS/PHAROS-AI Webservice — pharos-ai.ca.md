@@ -34,7 +34,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
 - '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'

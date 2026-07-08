@@ -24,7 +24,7 @@ backlink_count: 24
 backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy]]'
 - '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'

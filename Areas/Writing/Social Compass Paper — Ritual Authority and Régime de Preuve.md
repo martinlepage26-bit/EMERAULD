@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Crossing Under Watch — Troll''s Toll and Digital Ritual Passage]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
 - '[[wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
 - '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'

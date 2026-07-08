@@ -3,9 +3,8 @@ type: wiki
 title: Healthcare Governance Packet — Recursive Governance for Providers
 aliases:
 - Healthcare Governance Packet
-- wiki/Healthcare Governance Packet — Recursive Governance for Providers
 tags:
-- wiki
+- areas
 - recursion
 - governance
 - healthcare-governance-packet-recursive-governance-for-providers-md
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Healthcare Governance Packet — Recursive Governance for Providers.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers.md
 backlink_count: 26
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
@@ -31,14 +30,13 @@ backlinks:
 - '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14]]'
-- '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
+- '[[Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[Areas/Writing/Healthcare Packet — Version Genealogy]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/LOTUS Model — Agency and Social Positioning]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
-- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[projects/HELIX — Fisher King Project State]]'
 ---

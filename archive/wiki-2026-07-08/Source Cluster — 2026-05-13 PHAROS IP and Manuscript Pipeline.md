@@ -27,7 +27,7 @@ backlink_count: 12
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/IP and Manuscript Brief — 2026-05-14]]'
+- '[[Areas/PHAROS/IP and Manuscript Brief — 2026-05-14]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'

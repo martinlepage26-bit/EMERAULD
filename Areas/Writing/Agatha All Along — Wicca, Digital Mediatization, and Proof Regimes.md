@@ -37,7 +37,7 @@ backlinks:
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'

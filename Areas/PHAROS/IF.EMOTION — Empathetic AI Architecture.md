@@ -3,9 +3,8 @@ type: wiki
 title: IF.EMOTION — Empathetic AI Architecture
 aliases:
 - IF.EMOTION — Empathetic AI Architecture
-- wiki/IF.EMOTION — Empathetic AI Architecture
 tags:
-- wiki
+- areas
 - ai
 - if-emotion-empathetic-ai-architecture-md
 - emotion
@@ -17,15 +16,15 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/IF.EMOTION — Empathetic AI Architecture.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/IF.EMOTION — Empathetic AI Architecture.md
 backlink_count: 9
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/InfraFabric Architecture]]'
+- '[[Areas/PHAROS/InfraFabric Architecture]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/LOTUS Model — Agency and Social Positioning]]'
 - '[[wiki/Queer Theory Foundations]]'

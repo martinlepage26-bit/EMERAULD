@@ -1,27 +1,27 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:37:31Z
+Built: 2026-07-08T05:37:33Z
 Corpus: wiki/**/*.md
 
 ## Summary
 
 - Nodes: 1415
-- Directed edges: 13123
-- Link mentions: 20796
+- Directed edges: 13125
+- Link mentions: 20797
 - Unresolved wikilinks: 3193
-- Connected components: 46
-- Largest component: 1361
+- Connected components: 47
+- Largest component: 1360
 - Zero-backlink notes: 66
-- One-backlink notes: 167
-- Two-backlink notes: 366
+- One-backlink notes: 166
+- Two-backlink notes: 367
 
 ## Backlink Histogram
 
 - 0: 66
-- 1: 167
+- 1: 166
 - 101+: 28
 - 11-20: 199
-- 2: 366
+- 2: 367
 - 21-50: 152
 - 3-4: 168
 - 5-6: 66
@@ -38,7 +38,6 @@ Corpus: wiki/**/*.md
 - [[EMERAULD_OS_ARCHITECTURE.MD MOC]]
 - [[GRAPHIFY-OUT MOC]]
 - [[HEPHAISTOS MOC]]
-- [[Hermes Dashboard — Professional Governance Tool]]
 - [[Inbox/README]]
 - [[MEMORY MOC]]
 - [[Möbius Protocol — AI Self-Polygraph Template]]
@@ -57,6 +56,7 @@ Corpus: wiki/**/*.md
 - [[graph/nodes/unmapped/emerauld_intake_rule_workflow]]
 - [[graph/nodes/unmapped/gaia_product]]
 - [[graph/nodes/unmapped/helix_product]]
+- [[graph/nodes/unmapped/hermes_dashboard_tool]]
 - [[graph/nodes/unmapped/israel_lavoie]]
 - [[graph/nodes/unmapped/lightrag_config_py]]
 - [[graph/nodes/unmapped/pa_mcp_server]]
@@ -98,8 +98,7 @@ Corpus: wiki/**/*.md
 - [[projects/security-audit-skill/multi-agent-orchestration/run-1/phase2-hunt-findings]]
 - [[projects/security-audit-skill/multi-agent-orchestration/run-1/phase3-validation]]
 
-### One backlink (167)
-- [[InfraFabric Architecture]]
+### One backlink (166)
 - [[archive/CO-EQUAL-AUTHORITY-DECISION]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/01_Recursive_AI_Governance_Very_Long_Narrative]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/02_PHAROS_Master_SOP]]
@@ -199,9 +198,10 @@ Corpus: wiki/**/*.md
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/evolution]]
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/method]]
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/subjectivity]]
-- ... 67 more
+- [[hephaistos/personal-assistant-agents/offer-pricing-architect/references/ecosystem]]
+- ... 66 more
 
-### Two backlink (366)
+### Two backlink (367)
 - [[Agent Logs Hub]]
 - [[Daily Dashboard]]
 - [[Home]]
@@ -260,6 +260,7 @@ Corpus: wiki/**/*.md
 - [[Workflows Hub]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05_From_Recursive_Production_to_Governable_Method]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/06_Codex_Governance_Case_Study_Blind_Leading_Automated]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture]]
 - [[archive/agent-evaluation]]
 - [[archive/ai-product]]
 - [[archive/brief-to-tasks]]
@@ -301,12 +302,11 @@ Corpus: wiki/**/*.md
 - [[bridges/Bridge - 2013 - 23 ISSN 1528-0268 print]]
 - [[bridges/Bridge - 2013 - auditorassessment 2]]
 - [[bridges/Bridge - 2013 - auditorassessment 3]]
-- [[bridges/Bridge - 2015 - policyorguidance 3]]
-- ... 266 more
+- ... 267 more
 
 ## Components
 
-- Component 1: 1361 notes; seed [[2026 - Mauss - The Gift]]
+- Component 1: 1360 notes; seed [[2026 - Mauss - The Gift]]
 - Component 2: 3 notes; seed [[graph/nodes/unmapped/embed_py]]
 - Component 3: 3 notes; seed [[graph/nodes/unmapped/ingest_py]]
 - Component 4: 3 notes; seed [[graph/nodes/unmapped/raw_intake_dataset]]
@@ -325,7 +325,7 @@ Corpus: wiki/**/*.md
 - Component 17: 1 notes; seed [[TEMPLATES MOC]]
 - Component 18: 1 notes; seed [[graph/nodes/unmapped/auto_tagger_py]]
 - Component 19: 1 notes; seed [[graph/nodes/unmapped/emerauld_intake_rule_workflow]]
-- Component 20: 1 notes; seed [[graph/nodes/unmapped/israel_lavoie]]
+- Component 20: 1 notes; seed [[graph/nodes/unmapped/hermes_dashboard_tool]]
 
 ## Top Unresolved Targets
 
@@ -336,10 +336,10 @@ Corpus: wiki/**/*.md
 - `Welcome`: 13
 - `CHANGELOG`: 9
 - `hephaistos.agent`: 9
+- `EMERAULD — Vault and Knowledge Graph`: 7
 - `AI Agent Operations Manager — Credential Path and Portfolio`: 7
 - `Second Self System — Adversarial Review`: 7
 - `The Lost-Loop Pattern`: 7
-- `EMERAULD — Vault and Knowledge Graph`: 7
 - `VAULT-LINKING-AUDIT-2026-05-01`: 6
 - `Groupe Lavoie`: 6
 - `argus.agent`: 5

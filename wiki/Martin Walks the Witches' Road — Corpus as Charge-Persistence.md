@@ -42,7 +42,7 @@ backlinks:
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
 - '[[Resources/Literary References in Common English — Allusion and Idiom Guide]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'

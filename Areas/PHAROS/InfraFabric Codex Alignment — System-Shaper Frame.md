@@ -6,7 +6,6 @@ aliases:
 - System-shaper frame
 - InfraFabric meet-the-operator
 - Operator-side InfraFabric mapping
-- wiki/InfraFabric Codex Alignment — System-Shaper Frame
 tags:
 - theory
 - doctrine
@@ -16,7 +15,7 @@ tags:
 - mcp
 - operator-state
 - system-shaping
-- wiki
+- areas
 - infrafabric-codex-alignment-system-shaper-frame-md
 - shaper
 - operator
@@ -26,12 +25,12 @@ tags:
 status: active
 created: '2026-04-30'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/InfraFabric Codex Alignment — System-Shaper Frame.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame.md
 backlink_count: 9
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/InfraFabric Architecture]]'
+- '[[Areas/PHAROS/InfraFabric Architecture]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'

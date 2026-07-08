@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[wiki/Operator Continuity Memo — 2026-05-14]]'
 - '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'

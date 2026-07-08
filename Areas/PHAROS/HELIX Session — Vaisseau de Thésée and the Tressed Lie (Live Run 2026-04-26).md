@@ -7,7 +7,6 @@ aliases:
 - tressed lie
 - EMERGE session
 - HELIX session 2026-04-26
-- wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)
 tags:
 - governance
 - methodology
@@ -19,7 +18,7 @@ tags:
 - m-bius
 - topologie
 - ship-of-theseus
-- wiki
+- areas
 - helix-session-vaisseau-de-th-s-e-and-the-tressed-lie-live-run-2026-04-26-md
 - vaisseau
 - topological
@@ -29,16 +28,14 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live
-  Run 2026-04-26).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md
 backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
-  (2026-05-07)]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'

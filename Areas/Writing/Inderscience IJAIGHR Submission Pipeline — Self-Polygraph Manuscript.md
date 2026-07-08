@@ -5,7 +5,6 @@ aliases:
 - IJAIGHR submission
 - Inderscience submission pipeline
 - Self-Polygraph submission checklist
-- wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript
 tags:
 - workflow
 - deliverable
@@ -15,7 +14,7 @@ tags:
 - paper-pipeline
 - runbook
 - manuscript
-- wiki
+- areas
 - inderscience-ijaighr-submission-pipeline-self-polygraph-manuscript-md
 - polygraph
 - pipeline
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-30'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md
+vault_area: Areas
+canonical_path: Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'

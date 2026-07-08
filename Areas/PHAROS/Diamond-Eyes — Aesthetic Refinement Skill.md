@@ -36,7 +36,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[wiki/Inner Mind Eye]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'

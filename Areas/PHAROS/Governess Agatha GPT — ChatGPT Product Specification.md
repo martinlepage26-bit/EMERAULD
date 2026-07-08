@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
+- '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

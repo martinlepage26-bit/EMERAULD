@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
 - '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
   Activism Switzerland)]]'

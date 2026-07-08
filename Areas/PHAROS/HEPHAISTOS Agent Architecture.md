@@ -61,7 +61,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/Machine Limitation]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'

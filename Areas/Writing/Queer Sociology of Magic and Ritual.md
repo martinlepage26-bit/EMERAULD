@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
-- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
 - '[[wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
 - '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)]]'

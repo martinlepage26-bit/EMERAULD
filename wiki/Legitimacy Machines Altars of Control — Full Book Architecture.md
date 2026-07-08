@@ -21,7 +21,7 @@ canonical_path: wiki/Legitimacy Machines Altars of Control — Full Book Archite
 backlink_count: 11
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'

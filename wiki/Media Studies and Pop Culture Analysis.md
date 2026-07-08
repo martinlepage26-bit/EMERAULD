@@ -36,7 +36,7 @@ backlinks:
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'

@@ -36,7 +36,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
+- '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'

@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Host Environment — pharos-corpus-runner-01]]'
+- '[[Areas/PHAROS/Host Environment — pharos-corpus-runner-01]]'
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[Areas/PHAROS/PHAROS]]'

@@ -5,14 +5,13 @@ aliases:
 - Halberstam Queer Art of Failure
 - Queer Art of Failure
 - failure-as-method Halberstam
-- wiki/Halberstam — The Queer Art of Failure (2011)
 tags:
 - queer-theory
 - failure
 - methodology
 - theoretical-resource
 - halberstam
-- wiki
+- resources
 - halberstam-the-queer-art-of-failure-2011-md
 - khaibit
 - bibliography
@@ -21,8 +20,8 @@ tags:
 status: stub
 created: '2026-05-05'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Halberstam — The Queer Art of Failure (2011).md
+vault_area: Resources
+canonical_path: Resources/Halberstam — The Queer Art of Failure (2011).md
 backlink_count: 7
 backlinks:
 - '[[Areas/Writing/AREA]]'

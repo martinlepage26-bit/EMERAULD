@@ -28,7 +28,7 @@ backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
-- '[[wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

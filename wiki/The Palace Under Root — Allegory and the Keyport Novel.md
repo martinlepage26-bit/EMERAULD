@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Le sang qui porte ton nom — Novel]]'
 - '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'

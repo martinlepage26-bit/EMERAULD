@@ -23,7 +23,7 @@ backlink_count: 18
 backlinks:
 - '[[Resources/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paper Planes — M.I.A. — Lyrics]]'

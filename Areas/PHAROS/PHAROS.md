@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'

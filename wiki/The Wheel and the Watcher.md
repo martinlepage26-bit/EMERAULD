@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'

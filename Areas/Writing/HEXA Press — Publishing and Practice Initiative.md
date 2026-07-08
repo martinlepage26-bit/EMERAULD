@@ -6,14 +6,13 @@ aliases:
 - HEXA Press
 - HEX/ADECIMAL
 - hexadecimalmystic
-- wiki/HEXA Press — Publishing and Practice Initiative
 tags:
 - publishing
 - creative
 - novels
 - monographs
 - martin-lepage
-- wiki
+- areas
 - hexa-press-publishing-and-practice-initiative-md
 - novel
 - imprint
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HEXA Press — Publishing and Practice Initiative.md
+vault_area: Areas
+canonical_path: Areas/Writing/HEXA Press — Publishing and Practice Initiative.md
 backlink_count: 33
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'

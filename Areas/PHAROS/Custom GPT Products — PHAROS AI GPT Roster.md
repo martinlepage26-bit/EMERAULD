@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification]]'
-- '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
+- '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/PHAROS Product Stack]]'

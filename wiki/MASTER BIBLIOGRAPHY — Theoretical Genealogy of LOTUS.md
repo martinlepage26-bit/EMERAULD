@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/LOTUS Model — Agency and Social Positioning]]'
 - '[[wiki/LOTUS Premium Spec]]'

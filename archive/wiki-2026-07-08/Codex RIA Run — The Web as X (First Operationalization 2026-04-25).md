@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'

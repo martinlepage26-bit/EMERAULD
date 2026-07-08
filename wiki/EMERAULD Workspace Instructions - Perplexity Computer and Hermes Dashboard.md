@@ -30,7 +30,7 @@ backlink_count: 12
 backlinks:
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Home]]'
 - '[[wiki/Recursive Governance Memo — EMERAULD Control Packet (2026-05-12)]]'
 - '[[Welcome]]'

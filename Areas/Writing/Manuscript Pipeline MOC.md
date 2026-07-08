@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/Glitching the Sacred]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'

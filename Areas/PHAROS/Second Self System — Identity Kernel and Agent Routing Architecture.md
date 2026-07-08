@@ -37,7 +37,7 @@ backlinks:
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Home]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'

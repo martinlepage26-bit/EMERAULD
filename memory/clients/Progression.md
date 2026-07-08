@@ -24,7 +24,7 @@ canonical_path: memory/clients/Progression.md
 backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/CLIENT ACCOUNTS]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory]]'

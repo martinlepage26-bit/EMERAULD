@@ -30,7 +30,7 @@ backlink_count: 6
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
-- '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[projects/Dr. Sort — Fisher King Project State]]'
 - '[[projects/LOTUS — Fisher King Project State]]'

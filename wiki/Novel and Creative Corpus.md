@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/CORPUS Novel — Version Genealogy]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/La fréquence brisée du verbe — Roman]]'
 - '[[wiki/Le sang qui porte ton nom — Novel]]'

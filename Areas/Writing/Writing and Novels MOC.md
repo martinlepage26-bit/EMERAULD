@@ -43,7 +43,7 @@ backlinks:
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/La fréquence brisée du verbe — Roman]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'

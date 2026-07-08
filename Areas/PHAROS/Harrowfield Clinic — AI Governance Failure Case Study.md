@@ -3,9 +3,8 @@ type: wiki
 title: Harrowfield Clinic — AI Governance Failure Case Study
 aliases:
 - Harrowfield Clinic — AI Governance Failure Case Study
-- wiki/Harrowfield Clinic — AI Governance Failure Case Study
 tags:
-- wiki
+- areas
 - governance
 - ai
 - harrowfield-clinic-ai-governance-failure-case-study-md
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Harrowfield Clinic — AI Governance Failure Case Study.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study.md
 backlink_count: 16
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'

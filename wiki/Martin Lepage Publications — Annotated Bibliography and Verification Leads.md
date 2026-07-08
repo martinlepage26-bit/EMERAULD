@@ -36,7 +36,7 @@ backlinks:
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/Martin Lepage Professional Identity]]'

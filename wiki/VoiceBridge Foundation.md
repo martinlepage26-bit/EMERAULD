@@ -26,7 +26,7 @@ canonical_path: wiki/VoiceBridge Foundation.md
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Host Environment — pharos-corpus-runner-01]]'
+- '[[Areas/PHAROS/Host Environment — pharos-corpus-runner-01]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 ---
 

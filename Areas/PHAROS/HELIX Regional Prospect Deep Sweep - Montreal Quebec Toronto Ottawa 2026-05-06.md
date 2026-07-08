@@ -5,7 +5,6 @@ aliases:
 - HELIX regional prospect sweep
 - HELIX Montreal Toronto Ottawa prospects
 - HELIX Quebec prospect research
-- wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06
 tags:
 - helix
 - prospects
@@ -17,7 +16,7 @@ tags:
 - quebec
 - toronto
 - ottawa
-- wiki
+- areas
 - helix-regional-prospect-deep-sweep-montreal-quebec-toronto-ottawa-2026-05-06-md
 - sweep
 - regional
@@ -26,9 +25,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto
-  Ottawa 2026-05-06.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md
 backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'

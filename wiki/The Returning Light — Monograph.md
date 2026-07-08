@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/La fréquence brisée du verbe — Roman]]'

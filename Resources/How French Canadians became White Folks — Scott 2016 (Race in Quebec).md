@@ -4,7 +4,6 @@ title: How French Canadians became White Folks — Scott 2016 (Race in Quebec)
 aliases:
 - Corrie Scott 2016 Quebec whiteness
 - How French Canadians became White Folks
-- wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)
 tags:
 - reference
 - race
@@ -15,7 +14,7 @@ tags:
 - minority
 - critical-race
 - critical-whiteness
-- wiki
+- resources
 - how-french-canadians-became-white-folks-scott-2016-race-in-quebec-md
 - racial
 - article
@@ -24,9 +23,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/How French Canadians became White Folks — Scott 2016 (Race in
-  Quebec).md
+vault_area: Resources
+canonical_path: Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec).md
 backlink_count: 7
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

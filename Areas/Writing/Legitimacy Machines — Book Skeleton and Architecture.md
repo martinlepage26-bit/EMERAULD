@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'

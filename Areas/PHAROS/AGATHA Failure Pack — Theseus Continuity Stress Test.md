@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[wiki/Home]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'

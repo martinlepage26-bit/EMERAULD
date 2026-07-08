@@ -26,7 +26,7 @@ canonical_path: wiki/raw-sources/2026-05-13/WIP recruso paper — Source Note.md
 backlink_count: 3
 backlinks:
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/IP and Manuscript Brief — 2026-05-14]]'
+- '[[Areas/PHAROS/IP and Manuscript Brief — 2026-05-14]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
 source_raw_path: raw/00_Inbox/Raw/WIP recruso paper.txt
 source_report: raw/intake-report-20260513.json

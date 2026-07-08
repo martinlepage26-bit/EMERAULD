@@ -28,8 +28,8 @@ backlink_count: 9
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
-- '[[wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
+- '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
+- '[[Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'
 - '[[memory/daily/2026-06-30]]'

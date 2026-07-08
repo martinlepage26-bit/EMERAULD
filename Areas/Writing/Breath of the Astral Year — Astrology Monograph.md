@@ -23,7 +23,7 @@ backlinks:
 - '[[Areas/Writing/Breath of the Astral Year — Version Genealogy]]'
 - '[[Areas/Writing/CODEX Writing Projects Manifest]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'

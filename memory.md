@@ -28,7 +28,7 @@ backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'

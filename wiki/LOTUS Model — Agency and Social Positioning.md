@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'
+- '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
 - '[[wiki/LOTUS Model and Agency]]'

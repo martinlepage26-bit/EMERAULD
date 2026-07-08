@@ -30,7 +30,7 @@ canonical_path: wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
-- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

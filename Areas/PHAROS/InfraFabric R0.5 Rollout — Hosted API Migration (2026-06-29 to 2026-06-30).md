@@ -5,7 +5,6 @@ aliases:
 - R0.5
 - R0.5 rollout
 - InfraFabric R0.5
-- wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)
 tags:
 - infrafabric
 - blackboard
@@ -13,7 +12,7 @@ tags:
 - mcp
 - migration
 - infrastructure
-- wiki
+- areas
 - infrafabric-r0-5-rollout-hosted-api-migration-2026-06-29-to-2026-06-30-md
 - stacklight
 - sheet
@@ -22,13 +21,12 @@ tags:
 status: active
 created: '2026-07-01'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to
-  2026-06-30).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30).md
 backlink_count: 7
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
+- '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]]'

@@ -28,7 +28,7 @@ backlinks:
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Home]]'
-- '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
+- '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/La fréquence brisée du verbe — Roman]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Martin Lepage Professional Identity]]'

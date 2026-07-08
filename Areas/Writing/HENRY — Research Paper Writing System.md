@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/AREA]]'
 - '[[Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
-- '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
+- '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[Resources/Literary References — Craft Guide]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'

@@ -22,7 +22,7 @@ canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07
 backlink_count: 2
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/InfraFabric Architecture]]'
+- '[[Areas/PHAROS/InfraFabric Architecture]]'
 ---
 
 # InfraFabric Architecture

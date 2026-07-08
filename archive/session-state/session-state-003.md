@@ -493,7 +493,7 @@ morning agent 2026-06-27 — daily note created, stale scan clean (all project-t
 
 **Trigger:** Operator corrected the requested target: "NO a spec sheet for if.blackboard".
 
-**Work completed:** Created [[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]], linked it from [[wiki/AI Infrastructure Stack]], [[wiki/InfraFabric Architecture]], [[wiki/InfraFabric MCP Stack — Remote Bundles]], [[Areas/Personal/Personal and Projects MOC]], and [[_vault/VAULT ADDITIONS TRACKER]], and prepared a download copy in `/home/martin/Downloads/if-blackboard-spec-sheet-2026-06-27.md`.
+**Work completed:** Created [[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]], linked it from [[wiki/AI Infrastructure Stack]], [[Areas/PHAROS/InfraFabric Architecture]], [[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]], [[Areas/Personal/Personal and Projects MOC]], and [[_vault/VAULT ADDITIONS TRACKER]], and prepared a download copy in `/home/martin/Downloads/if-blackboard-spec-sheet-2026-06-27.md`.
 
 **Boundary:** The sheet separates local InfraFabric canon from current liveness. Local sources support `if.blackboard` as a preview, active-internal, append-only task/session/signal coordination evidence surface. A 2026-06-27 unauthenticated endpoint check found historical `/llm/blackboard/**`, `/llm/signals/**`, and registry mirror URLs redirecting to the InfraFabric sign-in page, so public no-login reviewability is not claimed as current.
 

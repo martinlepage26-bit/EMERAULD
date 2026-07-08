@@ -40,7 +40,7 @@ backlinks:
 - '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Home]]'
 - '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'

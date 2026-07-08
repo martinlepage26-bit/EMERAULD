@@ -27,7 +27,7 @@ backlinks:
 - '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'

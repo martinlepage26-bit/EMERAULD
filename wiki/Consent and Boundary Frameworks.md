@@ -41,7 +41,7 @@ backlinks:
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification]]'
-- '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
+- '[[Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inner Mind Eye]]'
 - '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'

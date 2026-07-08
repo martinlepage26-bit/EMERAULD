@@ -3,9 +3,8 @@ type: wiki
 title: Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics
 aliases:
 - Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics
-- wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics
 tags:
-- wiki
+- areas
 - inductive-literary-discourse-analysis-witchcraft-in-song-lyrics-md
 - magic
 - inductive
@@ -16,14 +15,13 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics.md
+vault_area: Areas
+canonical_path: Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics.md
 backlink_count: 19
 backlinks:
 - '[[Resources/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Home]]'
-- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
-  Activism Switzerland)]]'
+- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'

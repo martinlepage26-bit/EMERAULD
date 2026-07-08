@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[Areas/Writing/Glitching the Sacred]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'

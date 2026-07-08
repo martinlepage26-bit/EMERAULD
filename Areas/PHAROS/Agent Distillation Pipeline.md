@@ -26,7 +26,7 @@ backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Host Environment — pharos-corpus-runner-01]]'
+- '[[Areas/PHAROS/Host Environment — pharos-corpus-runner-01]]'
 ---
 
 # Agent Distillation Pipeline

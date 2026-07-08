@@ -22,7 +22,7 @@ backlinks:
 - '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/InfraFabric Architecture]]'
+- '[[Areas/PHAROS/InfraFabric Architecture]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'

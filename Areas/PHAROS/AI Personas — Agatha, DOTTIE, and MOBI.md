@@ -28,7 +28,7 @@ backlinks:
 - '[[Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
+- '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[wiki/Home]]'
 - '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'

@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/Writing/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'

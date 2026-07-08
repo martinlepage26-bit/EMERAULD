@@ -26,7 +26,7 @@ backlinks:
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/PHAROS/PHAROS]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'

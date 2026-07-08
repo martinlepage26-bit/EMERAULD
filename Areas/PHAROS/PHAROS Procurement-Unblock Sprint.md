@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06]]'
-- '[[wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
 - '[[wiki/Home]]'
 - '[[wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
 - '[[wiki/Martin Lepage Professional Identity]]'

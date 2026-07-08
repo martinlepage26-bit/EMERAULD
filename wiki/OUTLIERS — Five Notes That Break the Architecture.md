@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[Resources/Plugin Recommendations]]'
 - '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'

@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'

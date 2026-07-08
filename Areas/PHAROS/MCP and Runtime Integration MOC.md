@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
+- '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'

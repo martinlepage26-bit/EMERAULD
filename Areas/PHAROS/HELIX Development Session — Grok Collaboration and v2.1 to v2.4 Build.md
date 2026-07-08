@@ -22,8 +22,8 @@ canonical_path: Areas/PHAROS/HELIX Development Session — Grok Collaboration an
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
-- '[[wiki/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
-- '[[wiki/HELIX Test Run — Epstein Files Topic (2026)]]'
+- '[[Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
+- '[[Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

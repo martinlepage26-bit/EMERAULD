@@ -27,7 +27,7 @@ backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
+- '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Home]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'

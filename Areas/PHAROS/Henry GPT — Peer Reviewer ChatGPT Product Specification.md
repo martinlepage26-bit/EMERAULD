@@ -5,7 +5,6 @@ aliases:
 - Henry GPT
 - Henry Peer Reviewer GPT
 - Henry ChatGPT Product
-- wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification
 tags:
 - gpt
 - henry
@@ -15,7 +14,7 @@ tags:
 - scholarly
 - critique
 - chatgpt-product
-- wiki
+- areas
 - henry-gpt-peer-reviewer-chatgpt-product-specification-md
 - reviewer
 - harsh
@@ -25,8 +24,8 @@ tags:
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification.md
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'

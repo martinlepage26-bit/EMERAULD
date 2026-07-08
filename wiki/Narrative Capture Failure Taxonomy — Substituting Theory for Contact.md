@@ -40,7 +40,7 @@ backlinks:
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
+- '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[wiki/RIA-CODEX — System Audit Protocol]]'
 - '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'

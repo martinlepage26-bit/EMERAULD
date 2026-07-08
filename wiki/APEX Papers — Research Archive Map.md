@@ -30,7 +30,7 @@ backlink_count: 11
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'

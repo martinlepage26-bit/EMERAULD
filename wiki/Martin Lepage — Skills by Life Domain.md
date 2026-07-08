@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/Martin Lepage — Skills by Life Domain.md
 backlink_count: 10
 backlinks:
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage Professional Identity]]'

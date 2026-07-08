@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
+- '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'

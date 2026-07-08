@@ -6,13 +6,12 @@ aliases:
 - home/martin
 - GCE host
 - server
-- wiki/Host Environment — pharos-corpus-runner-01
 tags:
 - infrastructure
 - environment
 - host
 - server
-- wiki
+- areas
 - host-environment-pharos-corpus-runner-01-md
 - apps
 - mobile
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Host Environment — pharos-corpus-runner-01.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Host Environment — pharos-corpus-runner-01.md
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Agent Distillation Pipeline]]'

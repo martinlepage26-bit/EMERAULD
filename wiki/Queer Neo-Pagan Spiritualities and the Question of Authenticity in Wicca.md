@@ -24,7 +24,7 @@ backlink_count: 26
 backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
-- '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
+- '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'

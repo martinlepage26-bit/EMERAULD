@@ -45,7 +45,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Governance by Denial — Version Genealogy]]'
 - '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
-- '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
+- '[[Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[wiki/Home]]'
 - '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[wiki/LOTUS Model and Agency]]'

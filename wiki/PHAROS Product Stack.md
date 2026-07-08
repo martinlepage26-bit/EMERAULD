@@ -25,7 +25,7 @@ backlinks:
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
-- '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
+- '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'

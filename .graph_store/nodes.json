@@ -1288,7 +1288,7 @@
       "Governance and PHAROS MOC"
     ],
     "outlinks": 394,
-    "unique_outlinks": 348,
+    "unique_outlinks": 349,
     "backlinks": 659
   },
   {
@@ -1469,6 +1469,66 @@
     "backlinks": 16
   },
   {
+    "id": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "title": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
+    "path": "Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HELIX Montreal Toronto Ottawa prospects",
+      "HELIX Quebec prospect research",
+      "HELIX regional prospect sweep"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 9,
+    "backlinks": 16
+  },
+  {
+    "id": "Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
+    "title": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
+    "path": "Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "EMERGE session",
+      "HELIX live run",
+      "HELIX session 2026-04-26",
+      "tressed lie",
+      "vaisseau de thésée session"
+    ],
+    "outlinks": 25,
+    "unique_outlinks": 15,
+    "backlinks": 25
+  },
+  {
+    "id": "Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026)",
+    "title": "HELIX Test Run — Claude Code Agents as Subject (2026)",
+    "path": "Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HELIX CC Test",
+      "HELIX Claude Code Test Run"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 5,
+    "backlinks": 9
+  },
+  {
+    "id": "Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026)",
+    "title": "HELIX Test Run — Epstein Files Topic (2026)",
+    "path": "Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HELIX Epstein Files Run",
+      "HELIX Epstein Test"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 5,
+    "backlinks": 9
+  },
+  {
     "id": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
     "title": "HELIX — Value Proposition and Buyer Profile",
     "path": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile.md",
@@ -1511,6 +1571,61 @@
     "backlinks": 242
   },
   {
+    "id": "Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study",
+    "title": "Harrowfield Clinic — AI Governance Failure Case Study",
+    "path": "Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Harrowfield Clinic — AI Governance Failure Case Study"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 7,
+    "backlinks": 23
+  },
+  {
+    "id": "Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers",
+    "title": "Healthcare Governance Packet — Recursive Governance for Providers",
+    "path": "Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Healthcare Governance Packet"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 8,
+    "backlinks": 40
+  },
+  {
+    "id": "Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification",
+    "title": "Henry GPT — Peer Reviewer ChatGPT Product Specification",
+    "path": "Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Henry ChatGPT Product",
+      "Henry GPT",
+      "Henry Peer Reviewer GPT"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 7,
+    "backlinks": 8
+  },
+  {
+    "id": "Areas/PHAROS/Hermes Dashboard — Professional Governance Tool",
+    "title": "Hermes Dashboard — Professional Governance Tool",
+    "path": "Areas/PHAROS/Hermes Dashboard — Professional Governance Tool.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Hermes Dashboard",
+      "governance dashboard"
+    ],
+    "outlinks": 49,
+    "unique_outlinks": 27,
+    "backlinks": 50
+  },
+  {
     "id": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "title": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "path": "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md",
@@ -1522,6 +1637,111 @@
     "outlinks": 43,
     "unique_outlinks": 36,
     "backlinks": 119
+  },
+  {
+    "id": "Areas/PHAROS/Host Environment — pharos-corpus-runner-01",
+    "title": "Host Environment — pharos-corpus-runner-01",
+    "path": "Areas/PHAROS/Host Environment — pharos-corpus-runner-01.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "GCE host",
+      "home/martin",
+      "pharos-corpus-runner-01",
+      "server"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 5,
+    "backlinks": 11
+  },
+  {
+    "id": "Areas/PHAROS/IF.EMOTION — Empathetic AI Architecture",
+    "title": "IF.EMOTION — Empathetic AI Architecture",
+    "path": "Areas/PHAROS/IF.EMOTION — Empathetic AI Architecture.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "IF.EMOTION — Empathetic AI Architecture"
+    ],
+    "outlinks": 2,
+    "unique_outlinks": 1,
+    "backlinks": 17
+  },
+  {
+    "id": "Areas/PHAROS/IP and Manuscript Brief — 2026-05-14",
+    "title": "IP and Manuscript Brief — 2026-05-14",
+    "path": "Areas/PHAROS/IP and Manuscript Brief — 2026-05-14.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "IP and Manuscript Brief — 2026-05-14"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 7,
+    "backlinks": 6
+  },
+  {
+    "id": "Areas/PHAROS/InfraFabric Architecture",
+    "title": "InfraFabric Architecture",
+    "path": "Areas/PHAROS/InfraFabric Architecture.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "InfraFabric Architecture"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 9,
+    "backlinks": 70
+  },
+  {
+    "id": "Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame",
+    "title": "InfraFabric Codex Alignment — System-Shaper Frame",
+    "path": "Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Codex work alignment",
+      "InfraFabric meet-the-operator",
+      "Operator-side InfraFabric mapping",
+      "System-shaper frame"
+    ],
+    "outlinks": 37,
+    "unique_outlinks": 23,
+    "backlinks": 13
+  },
+  {
+    "id": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles",
+    "title": "InfraFabric MCP Stack — Remote Bundles",
+    "path": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "InfraFabric MCP",
+      "MCP stack",
+      "if_blackboard",
+      "if_chat",
+      "if_context",
+      "openspace",
+      "remote-bundles"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 10,
+    "backlinks": 36
+  },
+  {
+    "id": "Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
+    "title": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
+    "path": "Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "InfraFabric R0.5",
+      "R0.5",
+      "R0.5 rollout"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 5,
+    "backlinks": 17
   },
   {
     "id": "Areas/PHAROS/MCP and Runtime Integration MOC",
@@ -2620,6 +2840,22 @@
     "backlinks": 49
   },
   {
+    "id": "Areas/Writing/HEXA Press — Publishing and Practice Initiative",
+    "title": "HEXA Press — Publishing and Practice Initiative",
+    "path": "Areas/Writing/HEXA Press — Publishing and Practice Initiative.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HEX/ADECIMAL",
+      "HEX/ADECIMAL Press",
+      "HEXA Press",
+      "hexadecimalmystic"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 23,
+    "backlinks": 46
+  },
+  {
     "id": "Areas/Writing/Healthcare Packet — Version Genealogy",
     "title": "Healthcare Packet — Version Genealogy",
     "path": "Areas/Writing/Healthcare Packet — Version Genealogy.md",
@@ -2631,6 +2867,34 @@
     "outlinks": 4,
     "unique_outlinks": 1,
     "backlinks": 5
+  },
+  {
+    "id": "Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
+    "title": "Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
+    "path": "Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "IJAIGHR submission",
+      "Inderscience submission pipeline",
+      "Self-Polygraph submission checklist"
+    ],
+    "outlinks": 28,
+    "unique_outlinks": 13,
+    "backlinks": 12
+  },
+  {
+    "id": "Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics",
+    "title": "Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics",
+    "path": "Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics"
+    ],
+    "outlinks": 22,
+    "unique_outlinks": 17,
+    "backlinks": 31
   },
   {
     "id": "Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy",
@@ -3486,70 +3750,6 @@
     "backlinks": 27
   },
   {
-    "id": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "title": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",
-    "path": "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HELIX Montreal Toronto Ottawa prospects",
-      "HELIX Quebec prospect research",
-      "HELIX regional prospect sweep",
-      "wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 9,
-    "backlinks": 16
-  },
-  {
-    "id": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
-    "title": "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
-    "path": "wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "EMERGE session",
-      "HELIX live run",
-      "HELIX session 2026-04-26",
-      "tressed lie",
-      "vaisseau de thésée session",
-      "wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)"
-    ],
-    "outlinks": 25,
-    "unique_outlinks": 15,
-    "backlinks": 25
-  },
-  {
-    "id": "HELIX Test Run — Claude Code Agents as Subject (2026)",
-    "title": "HELIX Test Run — Claude Code Agents as Subject (2026)",
-    "path": "wiki/HELIX Test Run — Claude Code Agents as Subject (2026).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HELIX CC Test",
-      "HELIX Claude Code Test Run",
-      "wiki/HELIX Test Run — Claude Code Agents as Subject (2026)"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 5,
-    "backlinks": 9
-  },
-  {
-    "id": "HELIX Test Run — Epstein Files Topic (2026)",
-    "title": "HELIX Test Run — Epstein Files Topic (2026)",
-    "path": "wiki/HELIX Test Run — Epstein Files Topic (2026).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HELIX Epstein Files Run",
-      "HELIX Epstein Test",
-      "wiki/HELIX Test Run — Epstein Files Topic (2026)"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 5,
-    "backlinks": 9
-  },
-  {
     "id": "HEPHAISTOS MOC",
     "title": "HEPHAISTOS MOC",
     "path": "wiki/HEPHAISTOS MOC.md",
@@ -3559,53 +3759,6 @@
     "outlinks": 2,
     "unique_outlinks": 2,
     "backlinks": 0
-  },
-  {
-    "id": "HEXA Press — Publishing and Practice Initiative",
-    "title": "HEXA Press — Publishing and Practice Initiative",
-    "path": "wiki/HEXA Press — Publishing and Practice Initiative.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HEX/ADECIMAL",
-      "HEX/ADECIMAL Press",
-      "HEXA Press",
-      "hexadecimalmystic",
-      "wiki/HEXA Press — Publishing and Practice Initiative"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 23,
-    "backlinks": 46
-  },
-  {
-    "id": "Halberstam — The Queer Art of Failure (2011)",
-    "title": "Halberstam — The Queer Art of Failure (2011)",
-    "path": "wiki/Halberstam — The Queer Art of Failure (2011).md",
-    "type": "wiki",
-    "status": "stub",
-    "aliases": [
-      "Halberstam Queer Art of Failure",
-      "Queer Art of Failure",
-      "failure-as-method Halberstam",
-      "wiki/Halberstam — The Queer Art of Failure (2011)"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 7,
-    "backlinks": 7
-  },
-  {
-    "id": "Harrowfield Clinic — AI Governance Failure Case Study",
-    "title": "Harrowfield Clinic — AI Governance Failure Case Study",
-    "path": "wiki/Harrowfield Clinic — AI Governance Failure Case Study.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Harrowfield Clinic — AI Governance Failure Case Study",
-      "wiki/Harrowfield Clinic — AI Governance Failure Case Study"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 7,
-    "backlinks": 23
   },
   {
     "id": "Healing the Fisher King Project Note Templates",
@@ -3639,51 +3792,6 @@
     "backlinks": 12
   },
   {
-    "id": "Healthcare Governance Packet — Recursive Governance for Providers",
-    "title": "Healthcare Governance Packet — Recursive Governance for Providers",
-    "path": "wiki/Healthcare Governance Packet — Recursive Governance for Providers.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Healthcare Governance Packet",
-      "wiki/Healthcare Governance Packet — Recursive Governance for Providers"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 8,
-    "backlinks": 40
-  },
-  {
-    "id": "Henry GPT — Peer Reviewer ChatGPT Product Specification",
-    "title": "Henry GPT — Peer Reviewer ChatGPT Product Specification",
-    "path": "wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Henry ChatGPT Product",
-      "Henry GPT",
-      "Henry Peer Reviewer GPT",
-      "wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 7,
-    "backlinks": 8
-  },
-  {
-    "id": "Hermes Dashboard — Professional Governance Tool",
-    "title": "Hermes Dashboard — Professional Governance Tool",
-    "path": "wiki/Hermes Dashboard — Professional Governance Tool.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Hermes Dashboard",
-      "governance dashboard",
-      "wiki/Hermes Dashboard — Professional Governance Tool"
-    ],
-    "outlinks": 49,
-    "unique_outlinks": 27,
-    "backlinks": 0
-  },
-  {
     "id": "Home",
     "title": "Home",
     "path": "wiki/Home.md",
@@ -3698,66 +3806,6 @@
     "backlinks": 2
   },
   {
-    "id": "Host Environment — pharos-corpus-runner-01",
-    "title": "Host Environment — pharos-corpus-runner-01",
-    "path": "wiki/Host Environment — pharos-corpus-runner-01.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "GCE host",
-      "home/martin",
-      "pharos-corpus-runner-01",
-      "server",
-      "wiki/Host Environment — pharos-corpus-runner-01"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 5,
-    "backlinks": 11
-  },
-  {
-    "id": "How French Canadians became White Folks — Scott 2016 (Race in Quebec)",
-    "title": "How French Canadians became White Folks — Scott 2016 (Race in Quebec)",
-    "path": "wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Corrie Scott 2016 Quebec whiteness",
-      "How French Canadians became White Folks",
-      "wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 9,
-    "backlinks": 9
-  },
-  {
-    "id": "IF.EMOTION — Empathetic AI Architecture",
-    "title": "IF.EMOTION — Empathetic AI Architecture",
-    "path": "wiki/IF.EMOTION — Empathetic AI Architecture.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "IF.EMOTION — Empathetic AI Architecture",
-      "wiki/IF.EMOTION — Empathetic AI Architecture"
-    ],
-    "outlinks": 2,
-    "unique_outlinks": 1,
-    "backlinks": 17
-  },
-  {
-    "id": "IP and Manuscript Brief — 2026-05-14",
-    "title": "IP and Manuscript Brief — 2026-05-14",
-    "path": "wiki/IP and Manuscript Brief — 2026-05-14.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "IP and Manuscript Brief — 2026-05-14",
-      "wiki/IP and Manuscript Brief — 2026-05-14"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 7,
-    "backlinks": 6
-  },
-  {
     "id": "Inbox/README",
     "title": "README",
     "path": "Inbox/README.md",
@@ -3769,103 +3817,6 @@
     "outlinks": 0,
     "unique_outlinks": 0,
     "backlinks": 0
-  },
-  {
-    "id": "Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
-    "title": "Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript",
-    "path": "wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "IJAIGHR submission",
-      "Inderscience submission pipeline",
-      "Self-Polygraph submission checklist",
-      "wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript"
-    ],
-    "outlinks": 28,
-    "unique_outlinks": 13,
-    "backlinks": 12
-  },
-  {
-    "id": "Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics",
-    "title": "Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics",
-    "path": "wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics",
-      "wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics"
-    ],
-    "outlinks": 22,
-    "unique_outlinks": 17,
-    "backlinks": 31
-  },
-  {
-    "id": "InfraFabric Architecture",
-    "title": "InfraFabric Architecture",
-    "path": "wiki/InfraFabric Architecture.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "InfraFabric Architecture",
-      "wiki/InfraFabric Architecture"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 9,
-    "backlinks": 1
-  },
-  {
-    "id": "InfraFabric Codex Alignment — System-Shaper Frame",
-    "title": "InfraFabric Codex Alignment — System-Shaper Frame",
-    "path": "wiki/InfraFabric Codex Alignment — System-Shaper Frame.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Codex work alignment",
-      "InfraFabric meet-the-operator",
-      "Operator-side InfraFabric mapping",
-      "System-shaper frame",
-      "wiki/InfraFabric Codex Alignment — System-Shaper Frame"
-    ],
-    "outlinks": 37,
-    "unique_outlinks": 23,
-    "backlinks": 13
-  },
-  {
-    "id": "InfraFabric MCP Stack — Remote Bundles",
-    "title": "InfraFabric MCP Stack — Remote Bundles",
-    "path": "wiki/InfraFabric MCP Stack — Remote Bundles.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "InfraFabric MCP",
-      "MCP stack",
-      "if_blackboard",
-      "if_chat",
-      "if_context",
-      "openspace",
-      "remote-bundles",
-      "wiki/InfraFabric MCP Stack — Remote Bundles"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 10,
-    "backlinks": 36
-  },
-  {
-    "id": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
-    "title": "InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)",
-    "path": "wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "InfraFabric R0.5",
-      "R0.5",
-      "R0.5 rollout",
-      "wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 5,
-    "backlinks": 17
   },
   {
     "id": "Inner Mind Eye",
@@ -6861,6 +6812,35 @@
     "backlinks": 8
   },
   {
+    "id": "Resources/Halberstam — The Queer Art of Failure (2011)",
+    "title": "Halberstam — The Queer Art of Failure (2011)",
+    "path": "Resources/Halberstam — The Queer Art of Failure (2011).md",
+    "type": "wiki",
+    "status": "stub",
+    "aliases": [
+      "Halberstam Queer Art of Failure",
+      "Queer Art of Failure",
+      "failure-as-method Halberstam"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 7,
+    "backlinks": 7
+  },
+  {
+    "id": "Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)",
+    "title": "How French Canadians became White Folks — Scott 2016 (Race in Quebec)",
+    "path": "Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Corrie Scott 2016 Quebec whiteness",
+      "How French Canadians became White Folks"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 9,
+    "backlinks": 9
+  },
+  {
     "id": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)",
     "title": "In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)",
     "path": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender).md",
@@ -8889,9 +8869,9 @@
     "aliases": [
       "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture"
     ],
-    "outlinks": 5,
-    "unique_outlinks": 3,
-    "backlinks": 70
+    "outlinks": 6,
+    "unique_outlinks": 4,
+    "backlinks": 2
   },
   {
     "id": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Complete_Operational_Specification",
@@ -12318,7 +12298,7 @@
     "aliases": [],
     "outlinks": 0,
     "unique_outlinks": 0,
-    "backlinks": 50
+    "backlinks": 0
   },
   {
     "id": "graph/nodes/unmapped/hexa_project",

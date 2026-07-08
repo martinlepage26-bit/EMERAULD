@@ -33,7 +33,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
+- '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
@@ -72,7 +72,7 @@ Latest notes and resources added to the EMERAULD vault.
 
 - 2026-07-03 | [[Areas/PHAROS/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time]] | Added entrepreneurship heuristic note: outcome as compressed judgment across specific knowledge, leverage, judgment, accountability, social value, time, and learning rate. Captures the anti-false-precision warning, the repeated-shots-on-goal model, and five practical questions for evaluating high-upside entrepreneurial opportunities.
 
-- 2026-06-27 | [[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]] | Added corrected spec sheet for InfraFabric `if.blackboard`: append-only task/session/signal coordination evidence surface, MCP access boundary, data model, derived surfaces, integration map, data-asset posture, claim register, readiness checklist, open questions, and 2026-06-27 liveness caveat that historical `/llm/blackboard/**` public endpoints currently redirect to sign-in from this machine. Linked from [[wiki/AI Infrastructure Stack]], [[wiki/InfraFabric Architecture]], [[wiki/InfraFabric MCP Stack — Remote Bundles]], and [[Areas/Personal/Personal and Projects MOC]].
+- 2026-06-27 | [[wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)]] | Added corrected spec sheet for InfraFabric `if.blackboard`: append-only task/session/signal coordination evidence surface, MCP access boundary, data model, derived surfaces, integration map, data-asset posture, claim register, readiness checklist, open questions, and 2026-06-27 liveness caveat that historical `/llm/blackboard/**` public endpoints currently redirect to sign-in from this machine. Linked from [[wiki/AI Infrastructure Stack]], [[Areas/PHAROS/InfraFabric Architecture]], [[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]], and [[Areas/Personal/Personal and Projects MOC]].
 
 - 2026-06-27 | [[Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]] | Added official-source spec sheet for emergent.sh: agentic app-builder positioning, capability matrix, pricing snapshot, export/deployment posture, enterprise claims, PHAROS/EMERAULD use boundary, production checklist, governance rules, and open questions. Linked from [[wiki/AI Infrastructure Stack]] and [[Areas/Personal/Personal and Projects MOC]].
 

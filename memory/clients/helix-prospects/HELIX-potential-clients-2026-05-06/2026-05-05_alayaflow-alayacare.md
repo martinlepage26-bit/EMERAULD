@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-0
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 source_url: https://alayacare.com/alayaflow/
 date: '2026-05-05'

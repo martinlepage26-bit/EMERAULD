@@ -25,7 +25,7 @@ backlinks:
 - '[[Areas/PHAROS/Authority Without Power-Over]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
+- '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[Resources/Literary References — Craft Guide]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'

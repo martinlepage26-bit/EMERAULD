@@ -4,9 +4,8 @@ title: HELIX Test Run — Claude Code Agents as Subject (2026)
 aliases:
 - HELIX CC Test
 - HELIX Claude Code Test Run
-- wiki/HELIX Test Run — Claude Code Agents as Subject (2026)
 tags:
-- wiki
+- areas
 - helix-test-run-claude-code-agents-as-subject-2026-md
 - helix
 - trap
@@ -17,12 +16,12 @@ tags:
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HELIX Test Run — Claude Code Agents as Subject (2026).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026).md
 backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
-- '[[wiki/HELIX Test Run — Epstein Files Topic (2026)]]'
+- '[[Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---
