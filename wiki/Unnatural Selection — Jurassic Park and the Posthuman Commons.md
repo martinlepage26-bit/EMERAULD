@@ -20,18 +20,18 @@ vault_area: wiki
 canonical_path: wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons.md
 backlink_count: 16
 backlinks:
-- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
-- '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
+- '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
 - '[[wiki/Unnatural Selection Jurassic Park — Version Genealogy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

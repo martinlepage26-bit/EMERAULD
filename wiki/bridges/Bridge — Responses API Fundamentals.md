@@ -23,7 +23,7 @@ backlink_count: 4
 backlinks:
 - '[[.trash/Responses API Fundamentals____]]'
 - '[[.trash/Responses API Fundamentals_____]]'
-- '[[wiki/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 ---
 

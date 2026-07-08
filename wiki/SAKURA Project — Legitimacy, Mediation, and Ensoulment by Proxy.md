@@ -22,10 +22,10 @@ backlink_count: 17
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
-- '[[wiki/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

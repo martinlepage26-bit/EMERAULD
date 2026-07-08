@@ -28,7 +28,7 @@ backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
-- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[wiki/CODEX Writing Projects Manifest]]'

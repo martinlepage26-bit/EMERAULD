@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
-- '[[wiki/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'

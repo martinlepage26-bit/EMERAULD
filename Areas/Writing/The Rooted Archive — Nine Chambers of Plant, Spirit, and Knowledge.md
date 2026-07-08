@@ -5,7 +5,6 @@ aliases:
 - The Rooted Archive
 - L'Herbier des présences
 - Nine Chambers curriculum
-- wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge
 tags:
 - manuscript
 - ethnobotany
@@ -14,7 +13,7 @@ tags:
 - curriculum
 - bilingual
 - writing-project
-- wiki
+- areas
 - the-rooted-archive-nine-chambers-of-plant-spirit-and-knowledge-md
 - plant
 - nine
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-05-04'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md
+vault_area: Areas
+canonical_path: Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md
 backlink_count: 16
 backlinks:
 - '[[wiki/Desktop Text Intake — 2026-05-06]]'

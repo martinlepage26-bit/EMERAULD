@@ -3,7 +3,6 @@ type: map
 title: Ritual, Magic, and Institutional Authority
 aliases:
 - TOPIC — Ritual, Magic, and Institutional Authority
-- wiki/Ritual, Magic, and Institutional Authority
 tags:
 - index
 - map
@@ -13,7 +12,7 @@ tags:
 - authority
 - governance
 - media
-- wiki
+- areas
 - ritual-magic-and-institutional-authority-md
 - queer
 - legitimacy
@@ -21,13 +20,12 @@ tags:
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Ritual, Magic, and Institutional Authority.md
+vault_area: Areas
+canonical_path: Areas/Writing/Ritual, Magic, and Institutional Authority.md
 backlink_count: 28
 backlinks:
 - '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
-- '[[wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019
-  (Abomey, Bénin)]]'
+- '[[wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
 - '[[wiki/Buffy Slayer Studies]]'
@@ -46,7 +44,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
-- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[wiki/Vault Linking Session 2 Summary — 2026-05-01]]'

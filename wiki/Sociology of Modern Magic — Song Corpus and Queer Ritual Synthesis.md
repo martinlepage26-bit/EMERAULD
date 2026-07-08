@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
 - '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'

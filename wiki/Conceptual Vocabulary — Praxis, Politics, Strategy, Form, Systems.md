@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
+- '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

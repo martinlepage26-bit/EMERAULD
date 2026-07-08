@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/The Palace Under Root — Allegory and the Keyport Novel.md
 backlink_count: 17
 backlinks:
-- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'

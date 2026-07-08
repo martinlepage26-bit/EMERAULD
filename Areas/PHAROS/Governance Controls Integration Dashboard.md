@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[wiki/Plugin Recommendations]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
-- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+- '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Supersession Registry]]'
 - '[[archive/session-state/session-state-001]]'

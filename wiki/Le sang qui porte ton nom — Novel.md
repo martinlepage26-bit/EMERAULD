@@ -20,8 +20,8 @@ vault_area: wiki
 canonical_path: wiki/Le sang qui porte ton nom — Novel.md
 backlink_count: 18
 backlinks:
-- '[[wiki/Alchemy of the Wound — Novel]]'
-- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[Areas/Writing/Alchemy of the Wound — Novel]]'
+- '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'

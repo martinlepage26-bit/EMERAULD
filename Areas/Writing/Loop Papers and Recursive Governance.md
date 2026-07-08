@@ -3,9 +3,8 @@ type: wiki
 title: Loop Papers and Recursive Governance
 aliases:
 - Loop Papers and Recursive Governance
-- wiki/Loop Papers and Recursive Governance
 tags:
-- wiki
+- areas
 - recursion
 - governance
 - paper
@@ -19,12 +18,12 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Loop Papers and Recursive Governance.md
+vault_area: Areas
+canonical_path: Areas/Writing/Loop Papers and Recursive Governance.md
 backlink_count: 30
 backlinks:
 - '[[wiki/Brutal Isms — Art Grant Proposal]]'
-- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
@@ -45,8 +44,7 @@ backlinks:
 - '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[wiki/The Returning Light — Monograph]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
-  Glitch]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
 - '[[archive/session-state/session-state-001]]'

@@ -4,7 +4,6 @@ title: Power in International Politics — Barnett & Duvall 2005 (Taxonomy)
 aliases:
 - Barnett & Duvall 2005 power taxonomy
 - Power in International Politics (2005)
-- wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)
 tags:
 - reference
 - power
@@ -13,7 +12,7 @@ tags:
 - institutions
 - structural-power
 - productive-power
-- wiki
+- resources
 - power-in-international-politics-barnett-duvall-2005-taxonomy-md
 - diffuse
 - constitutive
@@ -24,20 +23,19 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy).md
+vault_area: Resources
+canonical_path: Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy).md
 backlink_count: 12
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
-  Explanation)]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
 - '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
+- '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

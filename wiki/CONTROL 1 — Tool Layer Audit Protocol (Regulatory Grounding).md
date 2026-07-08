@@ -42,7 +42,7 @@ backlinks:
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[wiki/Plugin Recommendations]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
-- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+- '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'

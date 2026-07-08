@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

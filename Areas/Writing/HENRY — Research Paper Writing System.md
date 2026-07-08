@@ -6,14 +6,13 @@ aliases:
 - paper writing
 - research assistant
 - peer review
-- wiki/HENRY — Research Paper Writing System
 tags:
 - research
 - writing
 - academic
 - voice
 - workflow
-- wiki
+- areas
 - henry-research-paper-writing-system-md
 - henry
 - paper
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HENRY — Research Paper Writing System.md
+vault_area: Areas
+canonical_path: Areas/Writing/HENRY — Research Paper Writing System.md
 backlink_count: 28
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

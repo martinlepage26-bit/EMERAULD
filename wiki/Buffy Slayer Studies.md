@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[wiki/For Her Alone to Wield — Version Genealogy]]'
 - '[[wiki/Home]]'
-- '[[wiki/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'

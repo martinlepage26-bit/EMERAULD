@@ -50,7 +50,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
 - '[[Areas/Writing/Recursive Deterministic AI Governance — Method and Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'

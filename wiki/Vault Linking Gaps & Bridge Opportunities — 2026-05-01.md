@@ -23,7 +23,7 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'

@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/La fréquence brisée du verbe — Roman.md
 backlink_count: 7
 backlinks:
-- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Novel and Creative Corpus]]'

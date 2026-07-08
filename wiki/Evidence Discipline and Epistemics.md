@@ -50,7 +50,7 @@ backlinks:
   Phenomenon]]'
 - '[[wiki/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
-- '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
+- '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

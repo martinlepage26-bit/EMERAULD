@@ -22,7 +22,7 @@ canonical_path: wiki/Magic After Legitimacy Charmed — Version Genealogy.md
 backlink_count: 5
 backlinks:
 - '[[wiki/Home]]'
-- '[[wiki/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[wiki/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Red Team Handbook — Offensive Security Reference]]'
 - '[[wiki/archive/red-team]]'

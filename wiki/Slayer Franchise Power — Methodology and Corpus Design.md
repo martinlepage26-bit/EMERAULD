@@ -27,7 +27,7 @@ canonical_path: wiki/Slayer Franchise Power — Methodology and Corpus Design.md
 backlink_count: 6
 backlinks:
 - '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[wiki/For Her Alone to Wield — Version Genealogy]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

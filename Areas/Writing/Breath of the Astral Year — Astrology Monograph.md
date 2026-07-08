@@ -3,9 +3,8 @@ type: wiki
 title: Breath of the Astral Year — Astrology Monograph
 aliases:
 - Breath of the Astral Year — Astrology Monograph
-- wiki/Breath of the Astral Year — Astrology Monograph
 tags:
-- wiki
+- areas
 - monograph
 - breath-of-the-astral-year-astrology-monograph-md
 - astrology
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Breath of the Astral Year — Astrology Monograph.md
+vault_area: Areas
+canonical_path: Areas/Writing/Breath of the Astral Year — Astrology Monograph.md
 backlink_count: 21
 backlinks:
 - '[[wiki/Breath of the Astral Year — Version Genealogy]]'
@@ -35,7 +34,7 @@ backlinks:
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
-- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
 - '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

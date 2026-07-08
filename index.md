@@ -97,7 +97,7 @@ Topic indexes for subjects with 7+ linked notes.
 - [[maps/Queer Media and Ritual Map\|Queer Media and Ritual Map]] — pagan, queer embodiment, ritual studies
 - [[maps/PHAROS Method Map\|PHAROS Method Map]] — PHAROS methodology; RECURSO, RDAIG, DAST
 
-See also wiki MOCs: [[Areas/Writing/Writing and Novels MOC]] · [[wiki/Personal and Projects MOC]] · [[Areas/PHAROS/Control Protocols MOC]] · [[wiki/Legitimacy Machines MOC]] · [[Areas/PHAROS/MCP and Runtime Integration MOC]] · [[Areas/Writing/Manuscript Pipeline MOC]] · [[Areas/Writing/Pagan and Queer Ritual Studies MOC]]
+See also wiki MOCs: [[Areas/Writing/Writing and Novels MOC]] · [[wiki/Personal and Projects MOC]] · [[Areas/PHAROS/Control Protocols MOC]] · [[Areas/Writing/Legitimacy Machines MOC]] · [[Areas/PHAROS/MCP and Runtime Integration MOC]] · [[Areas/Writing/Manuscript Pipeline MOC]] · [[Areas/Writing/Pagan and Queer Ritual Studies MOC]]
 
 ---
 

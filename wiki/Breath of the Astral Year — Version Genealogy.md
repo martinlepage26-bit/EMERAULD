@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/Breath of the Astral Year — Version Genealogy.md
 backlink_count: 6
 backlinks:
-- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/Home]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Version Genealogy System]]'

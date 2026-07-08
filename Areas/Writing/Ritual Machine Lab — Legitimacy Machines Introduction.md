@@ -3,9 +3,8 @@ type: wiki
 title: Ritual Machine Lab — Legitimacy Machines Introduction
 aliases:
 - Ritual Machine Lab — Legitimacy Machines Introduction
-- wiki/Ritual Machine Lab — Legitimacy Machines Introduction
 tags:
-- wiki
+- areas
 - ritual
 - ritual-machine-lab-legitimacy-machines-introduction-md
 - chapter
@@ -16,23 +15,23 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Ritual Machine Lab — Legitimacy Machines Introduction.md
+vault_area: Areas
+canonical_path: Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction.md
 backlink_count: 27
 backlinks:
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
-- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
-- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
-- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
+- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
-- '[[wiki/Legitimacy Machines MOC]]'
-- '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
@@ -40,7 +39,7 @@ backlinks:
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'

@@ -5,7 +5,6 @@ aliases:
 - Ethics, poetics, and praxis
 - Braided discipline
 - Ethics poetics praxis manifesto
-- wiki/Ethics Poetics and Praxis — Braided Discipline
 tags:
 - ethics
 - poetics
@@ -13,7 +12,7 @@ tags:
 - philosophy
 - professional-identity
 - governance
-- wiki
+- areas
 - ethics-poetics-and-praxis-braided-discipline-md
 - poietics
 - making
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Ethics Poetics and Praxis — Braided Discipline.md
+vault_area: Areas
+canonical_path: Areas/Writing/Ethics Poetics and Praxis — Braided Discipline.md
 backlink_count: 6
 backlinks:
 - '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'

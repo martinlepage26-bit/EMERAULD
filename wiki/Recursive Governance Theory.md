@@ -56,7 +56,7 @@ backlinks:
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'
-- '[[wiki/Loop Papers and Recursive Governance]]'
+- '[[Areas/Writing/Loop Papers and Recursive Governance]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/Machine Limitation]]'
 - '[[wiki/Martin Lepage Professional Identity]]'

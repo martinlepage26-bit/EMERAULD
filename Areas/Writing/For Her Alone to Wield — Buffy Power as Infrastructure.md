@@ -3,9 +3,8 @@ type: wiki
 title: For Her Alone to Wield — Buffy Power as Infrastructure
 aliases:
 - For Her Alone to Wield — Buffy Power as Infrastructure
-- wiki/For Her Alone to Wield — Buffy Power as Infrastructure
 tags:
-- wiki
+- areas
 - for-her-alone-to-wield-buffy-power-as-infrastructure-md
 - slayer
 - redistribution
@@ -16,11 +15,11 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/For Her Alone to Wield — Buffy Power as Infrastructure.md
+vault_area: Areas
+canonical_path: Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure.md
 backlink_count: 31
 backlinks:
-- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[wiki/Authority Without Power-Over]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Buffy Slayer Studies]]'
@@ -30,7 +29,7 @@ backlinks:
 - '[[wiki/For Her Alone to Wield — Version Genealogy]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
-- '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
+- '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
 - '[[wiki/Master Project Tracker — 2026]]'
@@ -38,7 +37,7 @@ backlinks:
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[wiki/Slayer Recursion Protocol — README and Repositioning]]'

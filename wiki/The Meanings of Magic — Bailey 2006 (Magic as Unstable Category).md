@@ -41,7 +41,7 @@ backlinks:
 - '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
   vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
 - '[[wiki/The Golden Bough — Frazer (Magic, Religion, Regicide)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

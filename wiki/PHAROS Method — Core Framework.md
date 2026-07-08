@@ -24,7 +24,7 @@ canonical_path: wiki/PHAROS Method — Core Framework.md
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
-- '[[wiki/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 ---
 

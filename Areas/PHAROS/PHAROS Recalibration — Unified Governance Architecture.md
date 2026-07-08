@@ -50,7 +50,7 @@ backlinks:
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[wiki/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
-- '[[wiki/Why Be King Im Already a Queen — Book Project]]'
+- '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
 - '[[maps/PHAROS Method Map]]'
 ---
 

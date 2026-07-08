@@ -3,9 +3,8 @@ type: wiki
 title: Why Be King Im Already a Queen — Book Project
 aliases:
 - Why Be King Im Already a Queen — Book Project
-- wiki/Why Be King Im Already a Queen — Book Project
 tags:
-- wiki
+- areas
 - why-be-king-im-already-a-queen-book-project-md
 - dissertation
 - thesis
@@ -16,16 +15,15 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Why Be King Im Already a Queen — Book Project.md
+vault_area: Areas
+canonical_path: Areas/Writing/Why Be King Im Already a Queen — Book Project.md
 backlink_count: 20
 backlinks:
 - '[[wiki/Brutal Isms — Art Grant Proposal]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[wiki/Novel and Creative Corpus]]'

@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/Alchemy of the Wound — Version Genealogy.md
 backlink_count: 7
 backlinks:
-- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Home]]'
 - '[[wiki/Novel and Creative Corpus]]'

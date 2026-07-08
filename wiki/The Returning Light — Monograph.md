@@ -20,8 +20,8 @@ vault_area: wiki
 canonical_path: wiki/The Returning Light — Monograph.md
 backlink_count: 23
 backlinks:
-- '[[wiki/Alchemy of the Wound — Novel]]'
-- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[Areas/Writing/Alchemy of the Wound — Novel]]'
+- '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
-- '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
+- '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[wiki/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/The Weather Beneath the Walls — Novel]]'

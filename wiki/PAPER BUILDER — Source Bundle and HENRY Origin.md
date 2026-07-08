@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/PAPER BUILDER — Source Bundle and HENRY Origin.md
 backlink_count: 3
 backlinks:
-- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[wiki/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Personal and Projects MOC]]'
 ---

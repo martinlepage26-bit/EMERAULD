@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[wiki/Agent Logs Hub]]'
 - '[[wiki/CODEX Writing Projects Manifest]]'
-- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'

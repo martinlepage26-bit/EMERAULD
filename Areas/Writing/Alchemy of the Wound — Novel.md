@@ -3,9 +3,8 @@ type: wiki
 title: Alchemy of the Wound — Novel
 aliases:
 - Alchemy of the Wound — Novel
-- wiki/Alchemy of the Wound — Novel
 tags:
-- wiki
+- areas
 - novel
 - alchemy-of-the-wound-novel-md
 - wound
@@ -16,12 +15,12 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Alchemy of the Wound — Novel.md
+vault_area: Areas
+canonical_path: Areas/Writing/Alchemy of the Wound — Novel.md
 backlink_count: 26
 backlinks:
 - '[[wiki/Alchemy of the Wound — Version Genealogy]]'
-- '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
+- '[[Areas/Writing/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
@@ -41,7 +40,7 @@ backlinks:
 - '[[wiki/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/The Returning Light — Monograph]]'
-- '[[wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
+- '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
 - '[[wiki/The Weather Beneath the Walls — Novel]]'
 - '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

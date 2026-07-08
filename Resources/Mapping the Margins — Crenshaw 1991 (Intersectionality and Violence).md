@@ -4,7 +4,6 @@ title: Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)
 aliases:
 - Mapping the Margins
 - Crenshaw 1991 Intersectionality
-- wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)
 tags:
 - reference
 - intersectionality
@@ -13,7 +12,7 @@ tags:
 - violence
 - feminist-theory
 - governance
-- wiki
+- resources
 - mapping-the-margins-crenshaw-1991-intersectionality-and-violence-md
 - crenshaw
 - margins
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence).md
+vault_area: Resources
+canonical_path: Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence).md
 backlink_count: 9
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
@@ -34,8 +33,7 @@ backlinks:
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Qualitative Handbook — Expanded Reference List]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
-  — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
+- '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
 - '[[wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 ---
 

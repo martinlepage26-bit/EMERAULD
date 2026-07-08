@@ -22,7 +22,7 @@ backlink_count: 13
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Home]]'
-- '[[wiki/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'

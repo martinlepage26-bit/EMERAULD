@@ -39,7 +39,7 @@ backlinks:
 - '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
-- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+- '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'

@@ -26,7 +26,7 @@ backlink_count: 11
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
-- '[[wiki/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'

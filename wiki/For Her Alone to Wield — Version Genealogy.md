@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/For Her Alone to Wield — Version Genealogy.md
 backlink_count: 5
 backlinks:
-- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[wiki/Home]]'
 - '[[wiki/Version Genealogy System]]'

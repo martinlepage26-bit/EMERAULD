@@ -24,7 +24,7 @@ backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline]]'
-- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

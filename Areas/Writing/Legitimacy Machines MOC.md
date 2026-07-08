@@ -3,7 +3,6 @@ type: moc
 title: Legitimacy Machines MOC
 aliases:
 - Legitimacy Machines Cluster MOC
-- wiki/Legitimacy Machines MOC
 tags:
 - legitimacy
 - authority
@@ -11,7 +10,7 @@ tags:
 - media-studies
 - ritual
 - moc
-- wiki
+- areas
 - legitimacy-machines-moc-md
 - machines
 - fundamentals
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-05-14'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Legitimacy Machines MOC.md
+vault_area: Areas
+canonical_path: Areas/Writing/Legitimacy Machines MOC.md
 backlink_count: 32
 backlinks:
 - '[[wiki/Buffy Slayer Studies]]'

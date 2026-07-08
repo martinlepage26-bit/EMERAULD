@@ -578,20 +578,6 @@
     "backlinks": 35
   },
   {
-    "id": "Alchemy of the Wound — Novel",
-    "title": "Alchemy of the Wound — Novel",
-    "path": "wiki/Alchemy of the Wound — Novel.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Alchemy of the Wound — Novel",
-      "wiki/Alchemy of the Wound — Novel"
-    ],
-    "outlinks": 21,
-    "unique_outlinks": 15,
-    "backlinks": 49
-  },
-  {
     "id": "Alchemy of the Wound — Version Genealogy",
     "title": "Alchemy of the Wound — Version Genealogy",
     "path": "wiki/Alchemy of the Wound — Version Genealogy.md",
@@ -1537,6 +1523,73 @@
     "backlinks": 95
   },
   {
+    "id": "Areas/Writing/Alchemy of the Wound — Novel",
+    "title": "Alchemy of the Wound — Novel",
+    "path": "Areas/Writing/Alchemy of the Wound — Novel.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Alchemy of the Wound — Novel"
+    ],
+    "outlinks": 21,
+    "unique_outlinks": 15,
+    "backlinks": 49
+  },
+  {
+    "id": "Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory",
+    "title": "Authority After Legitimacy — Disenchantment and Queer Political Theory",
+    "path": "Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Authority After Legitimacy — Disenchantment and Queer Political Theory"
+    ],
+    "outlinks": 26,
+    "unique_outlinks": 16,
+    "backlinks": 44
+  },
+  {
+    "id": "Areas/Writing/Breath of the Astral Year — Astrology Monograph",
+    "title": "Breath of the Astral Year — Astrology Monograph",
+    "path": "Areas/Writing/Breath of the Astral Year — Astrology Monograph.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Breath of the Astral Year — Astrology Monograph"
+    ],
+    "outlinks": 29,
+    "unique_outlinks": 19,
+    "backlinks": 64
+  },
+  {
+    "id": "Areas/Writing/Complete Paper List — Martin Lepage Corpus",
+    "title": "Complete Paper List — Martin Lepage Corpus",
+    "path": "Areas/Writing/Complete Paper List — Martin Lepage Corpus.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Complete Paper List — Martin Lepage Corpus"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 15,
+    "backlinks": 54
+  },
+  {
+    "id": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline",
+    "title": "Ethics Poetics and Praxis — Braided Discipline",
+    "path": "Areas/Writing/Ethics Poetics and Praxis — Braided Discipline.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Braided discipline",
+      "Ethics poetics praxis manifesto",
+      "Ethics, poetics, and praxis"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 8,
+    "backlinks": 13
+  },
+  {
     "id": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method",
     "title": "First Method Paper — Recursive AI Governance as Executable Method",
     "path": "Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method.md",
@@ -1548,6 +1601,74 @@
     "outlinks": 27,
     "unique_outlinks": 18,
     "backlinks": 68
+  },
+  {
+    "id": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure",
+    "title": "For Her Alone to Wield — Buffy Power as Infrastructure",
+    "path": "Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "For Her Alone to Wield — Buffy Power as Infrastructure"
+    ],
+    "outlinks": 28,
+    "unique_outlinks": 19,
+    "backlinks": 56
+  },
+  {
+    "id": "Areas/Writing/HENRY — Research Paper Writing System",
+    "title": "HENRY — Research Paper Writing System",
+    "path": "Areas/Writing/HENRY — Research Paper Writing System.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HENRY",
+      "paper writing",
+      "peer review",
+      "research assistant"
+    ],
+    "outlinks": 25,
+    "unique_outlinks": 16,
+    "backlinks": 49
+  },
+  {
+    "id": "Areas/Writing/Legitimacy Machines MOC",
+    "title": "Legitimacy Machines MOC",
+    "path": "Areas/Writing/Legitimacy Machines MOC.md",
+    "type": "moc",
+    "status": "active",
+    "aliases": [
+      "Legitimacy Machines Cluster MOC"
+    ],
+    "outlinks": 42,
+    "unique_outlinks": 41,
+    "backlinks": 35
+  },
+  {
+    "id": "Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture",
+    "title": "Legitimacy Machines — Book Skeleton and Architecture",
+    "path": "Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Legitimacy Machines — Book Skeleton and Architecture"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 13,
+    "backlinks": 58
+  },
+  {
+    "id": "Areas/Writing/Loop Papers and Recursive Governance",
+    "title": "Loop Papers and Recursive Governance",
+    "path": "Areas/Writing/Loop Papers and Recursive Governance.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Loop Papers and Recursive Governance"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 7,
+    "backlinks": 48
   },
   {
     "id": "Areas/Writing/Manuscript Pipeline MOC",
@@ -1651,6 +1772,32 @@
     "backlinks": 722
   },
   {
+    "id": "Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction",
+    "title": "Ritual Machine Lab — Legitimacy Machines Introduction",
+    "path": "Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Ritual Machine Lab — Legitimacy Machines Introduction"
+    ],
+    "outlinks": 20,
+    "unique_outlinks": 11,
+    "backlinks": 49
+  },
+  {
+    "id": "Areas/Writing/Ritual, Magic, and Institutional Authority",
+    "title": "Ritual, Magic, and Institutional Authority",
+    "path": "Areas/Writing/Ritual, Magic, and Institutional Authority.md",
+    "type": "map",
+    "status": "active",
+    "aliases": [
+      "TOPIC — Ritual, Magic, and Institutional Authority"
+    ],
+    "outlinks": 49,
+    "unique_outlinks": 45,
+    "backlinks": 288
+  },
+  {
     "id": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve",
     "title": "Social Compass Paper — Ritual Authority and Régime de Preuve",
     "path": "Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve.md",
@@ -1662,6 +1809,47 @@
     "outlinks": 9,
     "unique_outlinks": 6,
     "backlinks": 93
+  },
+  {
+    "id": "Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge",
+    "title": "The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge",
+    "path": "Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "L'Herbier des présences",
+      "Nine Chambers curriculum",
+      "The Rooted Archive"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 13,
+    "backlinks": 68
+  },
+  {
+    "id": "Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch",
+    "title": "The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch",
+    "path": "Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch"
+    ],
+    "outlinks": 16,
+    "unique_outlinks": 11,
+    "backlinks": 56
+  },
+  {
+    "id": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
+    "title": "Why Be King Im Already a Queen — Book Project",
+    "path": "Areas/Writing/Why Be King Im Already a Queen — Book Project.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Why Be King Im Already a Queen — Book Project"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 12,
+    "backlinks": 31
   },
   {
     "id": "Areas/Writing/Writing and Novels MOC",
@@ -1733,20 +1921,6 @@
     "outlinks": 15,
     "unique_outlinks": 11,
     "backlinks": 29
-  },
-  {
-    "id": "Authority After Legitimacy — Disenchantment and Queer Political Theory",
-    "title": "Authority After Legitimacy — Disenchantment and Queer Political Theory",
-    "path": "wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Authority After Legitimacy — Disenchantment and Queer Political Theory",
-      "wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory"
-    ],
-    "outlinks": 26,
-    "unique_outlinks": 16,
-    "backlinks": 44
   },
   {
     "id": "Authority Without Ethics — The Love Witch",
@@ -1910,20 +2084,6 @@
     "outlinks": 14,
     "unique_outlinks": 10,
     "backlinks": 11
-  },
-  {
-    "id": "Breath of the Astral Year — Astrology Monograph",
-    "title": "Breath of the Astral Year — Astrology Monograph",
-    "path": "wiki/Breath of the Astral Year — Astrology Monograph.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Breath of the Astral Year — Astrology Monograph",
-      "wiki/Breath of the Astral Year — Astrology Monograph"
-    ],
-    "outlinks": 29,
-    "unique_outlinks": 19,
-    "backlinks": 64
   },
   {
     "id": "Breath of the Astral Year — Version Genealogy",
@@ -2420,20 +2580,6 @@
     "outlinks": 10,
     "unique_outlinks": 7,
     "backlinks": 13
-  },
-  {
-    "id": "Complete Paper List — Martin Lepage Corpus",
-    "title": "Complete Paper List — Martin Lepage Corpus",
-    "path": "wiki/Complete Paper List — Martin Lepage Corpus.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Complete Paper List — Martin Lepage Corpus",
-      "wiki/Complete Paper List — Martin Lepage Corpus"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 15,
-    "backlinks": 54
   },
   {
     "id": "Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems",
@@ -3172,22 +3318,6 @@
     "backlinks": 13
   },
   {
-    "id": "Ethics Poetics and Praxis — Braided Discipline",
-    "title": "Ethics Poetics and Praxis — Braided Discipline",
-    "path": "wiki/Ethics Poetics and Praxis — Braided Discipline.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Braided discipline",
-      "Ethics poetics praxis manifesto",
-      "Ethics, poetics, and praxis",
-      "wiki/Ethics Poetics and Praxis — Braided Discipline"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 8,
-    "backlinks": 13
-  },
-  {
     "id": "Ethnographic Data Loss — Ethics Decision and Publication Disclaimer",
     "title": "Ethnographic Data Loss — Ethics Decision and Publication Disclaimer",
     "path": "wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer.md",
@@ -3318,20 +3448,6 @@
     "outlinks": 19,
     "unique_outlinks": 13,
     "backlinks": 106
-  },
-  {
-    "id": "For Her Alone to Wield — Buffy Power as Infrastructure",
-    "title": "For Her Alone to Wield — Buffy Power as Infrastructure",
-    "path": "wiki/For Her Alone to Wield — Buffy Power as Infrastructure.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "For Her Alone to Wield — Buffy Power as Infrastructure",
-      "wiki/For Her Alone to Wield — Buffy Power as Infrastructure"
-    ],
-    "outlinks": 28,
-    "unique_outlinks": 19,
-    "backlinks": 56
   },
   {
     "id": "For Her Alone to Wield — Cover Letter (2026-05-16)",
@@ -3886,23 +4002,6 @@
     "outlinks": 8,
     "unique_outlinks": 5,
     "backlinks": 9
-  },
-  {
-    "id": "HENRY — Research Paper Writing System",
-    "title": "HENRY — Research Paper Writing System",
-    "path": "wiki/HENRY — Research Paper Writing System.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HENRY",
-      "paper writing",
-      "peer review",
-      "research assistant",
-      "wiki/HENRY — Research Paper Writing System"
-    ],
-    "outlinks": 25,
-    "unique_outlinks": 16,
-    "backlinks": 44
   },
   {
     "id": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
@@ -4528,34 +4627,6 @@
     "backlinks": 16
   },
   {
-    "id": "Legitimacy Machines MOC",
-    "title": "Legitimacy Machines MOC",
-    "path": "wiki/Legitimacy Machines MOC.md",
-    "type": "moc",
-    "status": "active",
-    "aliases": [
-      "Legitimacy Machines Cluster MOC",
-      "wiki/Legitimacy Machines MOC"
-    ],
-    "outlinks": 42,
-    "unique_outlinks": 41,
-    "backlinks": 35
-  },
-  {
-    "id": "Legitimacy Machines — Book Skeleton and Architecture",
-    "title": "Legitimacy Machines — Book Skeleton and Architecture",
-    "path": "wiki/Legitimacy Machines — Book Skeleton and Architecture.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Legitimacy Machines — Book Skeleton and Architecture",
-      "wiki/Legitimacy Machines — Book Skeleton and Architecture"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 13,
-    "backlinks": 58
-  },
-  {
     "id": "Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)",
     "title": "Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)",
     "path": "wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica).md",
@@ -4710,20 +4781,6 @@
     "outlinks": 19,
     "unique_outlinks": 9,
     "backlinks": 14
-  },
-  {
-    "id": "Loop Papers and Recursive Governance",
-    "title": "Loop Papers and Recursive Governance",
-    "path": "wiki/Loop Papers and Recursive Governance.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Loop Papers and Recursive Governance",
-      "wiki/Loop Papers and Recursive Governance"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 7,
-    "backlinks": 48
   },
   {
     "id": "L’esprit du don — Godbout & Caillé (1992)",
@@ -4887,21 +4944,6 @@
     "outlinks": 7,
     "unique_outlinks": 4,
     "backlinks": 9
-  },
-  {
-    "id": "Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
-    "title": "Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
-    "path": "wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Crenshaw 1991 Intersectionality",
-      "Mapping the Margins",
-      "wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 7,
-    "backlinks": 14
   },
   {
     "id": "Martin Lepage Professional Identity",
@@ -6676,21 +6718,6 @@
     "backlinks": 26
   },
   {
-    "id": "Power in International Politics — Barnett & Duvall 2005 (Taxonomy)",
-    "title": "Power in International Politics — Barnett & Duvall 2005 (Taxonomy)",
-    "path": "wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Barnett & Duvall 2005 power taxonomy",
-      "Power in International Politics (2005)",
-      "wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 11,
-    "backlinks": 15
-  },
-  {
     "id": "Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)",
     "title": "Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)",
     "path": "wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance).md",
@@ -6704,21 +6731,6 @@
     "outlinks": 16,
     "unique_outlinks": 13,
     "backlinks": 17
-  },
-  {
-    "id": "Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
-    "title": "Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
-    "path": "wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Beach Pedersen process-tracing methods",
-      "Process-Tracing Methods 2nd edition",
-      "wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 9,
-    "backlinks": 11
   },
   {
     "id": "Projects Hub",
@@ -7374,32 +7386,6 @@
     "backlinks": 19
   },
   {
-    "id": "Regulatory Standards Reference Stack — Governance Controls Grounding",
-    "title": "Regulatory Standards Reference Stack — Governance Controls Grounding",
-    "path": "wiki/Regulatory Standards Reference Stack — Governance Controls Grounding.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "COBIT DSS Domain Audit Framework",
-      "FINRA Rule 4530 — Books and Records",
-      "GDPR Article 5 — Accuracy Principle Explained",
-      "GDPR Article 5 — Principles",
-      "HIPAA 45 CFR § 164 — Security and Privacy",
-      "ISO 15489 Records Management",
-      "ISO 15489 Records Management Standard",
-      "ISO 27001:2022 Information Security Management",
-      "ISO 9001 Document Control and Obsolescence Prevention",
-      "ITIL Change Management Process",
-      "NIST SP 800-53 CM-3 Change Control and Authorization",
-      "NIST SP 800-53 — CA-7 Continuous Monitoring",
-      "NIST SP 800-53...",
-      "wiki/Regulatory Standards Reference Stack — Governance Controls Grounding"
-    ],
-    "outlinks": 24,
-    "unique_outlinks": 12,
-    "backlinks": 20
-  },
-  {
     "id": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
     "title": "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
     "path": "wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection.md",
@@ -7430,6 +7416,48 @@
     "backlinks": 16
   },
   {
+    "id": "Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
+    "title": "Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
+    "path": "Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Crenshaw 1991 Intersectionality",
+      "Mapping the Margins"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 7,
+    "backlinks": 14
+  },
+  {
+    "id": "Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)",
+    "title": "Power in International Politics — Barnett & Duvall 2005 (Taxonomy)",
+    "path": "Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Barnett & Duvall 2005 power taxonomy",
+      "Power in International Politics (2005)"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 11,
+    "backlinks": 15
+  },
+  {
+    "id": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
+    "title": "Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
+    "path": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Beach Pedersen process-tracing methods",
+      "Process-Tracing Methods 2nd edition"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 9,
+    "backlinks": 11
+  },
+  {
     "id": "Resources/ROUTING",
     "title": "ROUTING",
     "path": "Resources/ROUTING.md",
@@ -7441,6 +7469,45 @@
     "outlinks": 0,
     "unique_outlinks": 0,
     "backlinks": 0
+  },
+  {
+    "id": "Resources/Regulatory Standards Reference Stack — Governance Controls Grounding",
+    "title": "Regulatory Standards Reference Stack — Governance Controls Grounding",
+    "path": "Resources/Regulatory Standards Reference Stack — Governance Controls Grounding.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "COBIT DSS Domain Audit Framework",
+      "FINRA Rule 4530 — Books and Records",
+      "GDPR Article 5 — Accuracy Principle Explained",
+      "GDPR Article 5 — Principles",
+      "HIPAA 45 CFR § 164 — Security and Privacy",
+      "ISO 15489 Records Management",
+      "ISO 15489 Records Management Standard",
+      "ISO 27001:2022 Information Security Management",
+      "ISO 9001 Document Control and Obsolescence Prevention",
+      "ITIL Change Management Process",
+      "NIST SP 800-53 CM-3 Change Control and Authorization",
+      "NIST SP 800-53 — CA-7 Continuous Monitoring",
+      "NIST SP 800-53..."
+    ],
+    "outlinks": 24,
+    "unique_outlinks": 12,
+    "backlinks": 20
+  },
+  {
+    "id": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
+    "title": "The Data Gaze — Beer (Capitalism, Power, Perception)",
+    "path": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Beer — The Data Gaze",
+      "Data gaze (review)"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 10,
+    "backlinks": 13
   },
   {
     "id": "Resources/glossary",
@@ -7515,34 +7582,6 @@
     "outlinks": 7,
     "unique_outlinks": 6,
     "backlinks": 9
-  },
-  {
-    "id": "Ritual Machine Lab — Legitimacy Machines Introduction",
-    "title": "Ritual Machine Lab — Legitimacy Machines Introduction",
-    "path": "wiki/Ritual Machine Lab — Legitimacy Machines Introduction.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Ritual Machine Lab — Legitimacy Machines Introduction",
-      "wiki/Ritual Machine Lab — Legitimacy Machines Introduction"
-    ],
-    "outlinks": 20,
-    "unique_outlinks": 11,
-    "backlinks": 49
-  },
-  {
-    "id": "Ritual, Magic, and Institutional Authority",
-    "title": "Ritual, Magic, and Institutional Authority",
-    "path": "wiki/Ritual, Magic, and Institutional Authority.md",
-    "type": "map",
-    "status": "active",
-    "aliases": [
-      "TOPIC — Ritual, Magic, and Institutional Authority",
-      "wiki/Ritual, Magic, and Institutional Authority"
-    ],
-    "outlinks": 49,
-    "unique_outlinks": 45,
-    "backlinks": 288
   },
   {
     "id": "Root Loose Notes Cluster Map — 2026-05-06",
@@ -8496,21 +8535,6 @@
     "backlinks": 42
   },
   {
-    "id": "The Data Gaze — Beer (Capitalism, Power, Perception)",
-    "title": "The Data Gaze — Beer (Capitalism, Power, Perception)",
-    "path": "wiki/The Data Gaze — Beer (Capitalism, Power, Perception).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Beer — The Data Gaze",
-      "Data gaze (review)",
-      "wiki/The Data Gaze — Beer (Capitalism, Power, Perception)"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 10,
-    "backlinks": 13
-  },
-  {
     "id": "The Familiars of Hollywood — Queerness, Whiteness, and Representation",
     "title": "The Familiars of Hollywood — Queerness, Whiteness, and Representation",
     "path": "wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation.md",
@@ -8672,36 +8696,6 @@
     "outlinks": 23,
     "unique_outlinks": 16,
     "backlinks": 37
-  },
-  {
-    "id": "The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge",
-    "title": "The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge",
-    "path": "wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "L'Herbier des présences",
-      "Nine Chambers curriculum",
-      "The Rooted Archive",
-      "wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 13,
-    "backlinks": 68
-  },
-  {
-    "id": "The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch",
-    "title": "The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch",
-    "path": "wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch",
-      "wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch"
-    ],
-    "outlinks": 16,
-    "unique_outlinks": 11,
-    "backlinks": 56
   },
   {
     "id": "The Weather Beneath the Walls — Novel",
@@ -9303,20 +9297,6 @@
     "outlinks": 14,
     "unique_outlinks": 9,
     "backlinks": 15
-  },
-  {
-    "id": "Why Be King Im Already a Queen — Book Project",
-    "title": "Why Be King Im Already a Queen — Book Project",
-    "path": "wiki/Why Be King Im Already a Queen — Book Project.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Why Be King Im Already a Queen — Book Project",
-      "wiki/Why Be King Im Already a Queen — Book Project"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 12,
-    "backlinks": 31
   },
   {
     "id": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
@@ -11719,7 +11699,7 @@
     ],
     "outlinks": 2,
     "unique_outlinks": 2,
-    "backlinks": 6
+    "backlinks": 1
   },
   {
     "id": "governance/hephaistos/HEPHAISTOS",

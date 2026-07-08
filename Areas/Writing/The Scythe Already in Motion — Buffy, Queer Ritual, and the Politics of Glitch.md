@@ -3,9 +3,8 @@ type: wiki
 title: The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch
 aliases:
 - The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch
-- wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch
 tags:
-- wiki
+- areas
 - ritual
 - queer
 - the-scythe-already-in-motion-buffy-queer-ritual-and-the-politics-of-glitch-md
@@ -17,9 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics
-  of Glitch.md
+vault_area: Areas
+canonical_path: Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch.md
 backlink_count: 37
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
@@ -32,7 +30,7 @@ backlinks:
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/For Her Alone to Wield — Version Genealogy]]'
 - '[[wiki/Glitching the Sacred]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
@@ -46,8 +44,8 @@ backlinks:
 - '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
-- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
+- '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'

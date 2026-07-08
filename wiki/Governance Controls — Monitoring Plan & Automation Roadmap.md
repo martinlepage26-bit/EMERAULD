@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
+- '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 tier: critical
 phase: Phase 2 (Automation)
 ---

@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
+- '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'

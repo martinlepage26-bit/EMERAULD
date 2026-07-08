@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
-- '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
+- '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

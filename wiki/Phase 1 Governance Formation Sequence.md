@@ -22,7 +22,7 @@ canonical_path: wiki/Phase 1 Governance Formation Sequence.md
 backlink_count: 19
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
-- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'

@@ -15,7 +15,6 @@ aliases:
 - NIST SP 800-53 CM-3 Change Control and Authorization
 - COBIT DSS Domain Audit Framework
 - ITIL Change Management Process
-- wiki/Regulatory Standards Reference Stack — Governance Controls Grounding
 tags:
 - reference
 - regulatory
@@ -29,7 +28,7 @@ tags:
 - finra
 - cobit
 - itil
-- wiki
+- resources
 - regulatory-standards-reference-stack-governance-controls-grounding-md
 - control
 - grounding
@@ -39,8 +38,8 @@ tags:
 status: active
 created: '2026-05-02'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Regulatory Standards Reference Stack — Governance Controls Grounding.md
+vault_area: Resources
+canonical_path: Resources/Regulatory Standards Reference Stack — Governance Controls Grounding.md
 backlink_count: 9
 backlinks:
 - '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'

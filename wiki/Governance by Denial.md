@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
   of Interruption]]'
-- '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
+- '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[wiki/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)]]'
@@ -42,7 +42,7 @@ backlinks:
 - '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
-- '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
+- '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/Framing Processes and Social Movements — Benford & Snow 2000]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial — Version Genealogy]]'
@@ -63,7 +63,7 @@ backlinks:
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
-- '[[wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
+- '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
 - '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
@@ -79,7 +79,7 @@ backlinks:
 - '[[wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
 - '[[wiki/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)]]'
 - '[[wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
-- '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
+- '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[wiki/The Returning Light — Monograph]]'
 - '[[wiki/The Weather Beneath the Walls — Novel]]'
@@ -89,7 +89,7 @@ backlinks:
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'
 - '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
-- '[[wiki/Why Be King Im Already a Queen — Book Project]]'
+- '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 ---
 

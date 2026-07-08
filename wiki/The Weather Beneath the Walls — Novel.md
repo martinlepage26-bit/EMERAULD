@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/The Weather Beneath the Walls — Novel.md
 backlink_count: 20
 backlinks:
-- '[[wiki/Alchemy of the Wound — Novel]]'
+- '[[Areas/Writing/Alchemy of the Wound — Novel]]'
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'

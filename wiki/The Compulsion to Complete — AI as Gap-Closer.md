@@ -46,7 +46,7 @@ backlinks:
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
 - '[[wiki/Self-Polygraph Protocol and Suprametacognition]]'
-- '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
+- '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[memory/local-session/feedback_evidence_discipline]]'

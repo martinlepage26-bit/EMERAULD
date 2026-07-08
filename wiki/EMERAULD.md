@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
-- '[[wiki/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
 - '[[wiki/Rest and Consolidation Guide — Martin]]'
 - '[[wiki/Stacklight-owner-explainer]]'

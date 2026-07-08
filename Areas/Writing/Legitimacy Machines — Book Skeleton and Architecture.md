@@ -3,9 +3,8 @@ type: wiki
 title: Legitimacy Machines — Book Skeleton and Architecture
 aliases:
 - Legitimacy Machines — Book Skeleton and Architecture
-- wiki/Legitimacy Machines — Book Skeleton and Architecture
 tags:
-- wiki
+- areas
 - legitimacy-machines-book-skeleton-and-architecture-md
 - enclosure
 - legitimacy
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Legitimacy Machines — Book Skeleton and Architecture.md
+vault_area: Areas
+canonical_path: Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture.md
 backlink_count: 31
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
@@ -31,7 +30,7 @@ backlinks:
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
-- '[[wiki/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
@@ -42,7 +41,7 @@ backlinks:
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'

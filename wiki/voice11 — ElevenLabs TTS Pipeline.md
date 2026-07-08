@@ -32,7 +32,7 @@ canonical_path: wiki/voice11 — ElevenLabs TTS Pipeline.md
 backlink_count: 5
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[wiki/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[wiki/Personal and Projects MOC]]'

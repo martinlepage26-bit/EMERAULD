@@ -39,7 +39,7 @@ backlinks:
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Reflexive Inhabitation Audit — Prompt]]'
 - '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
-- '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
+- '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[archive/session-state/session-state-001]]'

@@ -3,9 +3,8 @@ type: wiki
 title: Complete Paper List — Martin Lepage Corpus
 aliases:
 - Complete Paper List — Martin Lepage Corpus
-- wiki/Complete Paper List — Martin Lepage Corpus
 tags:
-- wiki
+- areas
 - paper
 - complete-paper-list-martin-lepage-corpus-md
 - near
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Complete Paper List — Martin Lepage Corpus.md
+vault_area: Areas
+canonical_path: Areas/Writing/Complete Paper List — Martin Lepage Corpus.md
 backlink_count: 33
 backlinks:
 - '[[wiki/2026-06-29 - idea-discovery]]'
@@ -36,8 +35,7 @@ backlinks:
 - '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[wiki/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'

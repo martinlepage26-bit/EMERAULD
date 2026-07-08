@@ -1,6 +1,6 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:37:16Z
+Built: 2026-07-08T05:37:18Z
 Corpus: wiki/**/*.md
 
 ## Summary
@@ -12,19 +12,19 @@ Corpus: wiki/**/*.md
 - Connected components: 46
 - Largest component: 1361
 - Zero-backlink notes: 67
-- One-backlink notes: 165
+- One-backlink notes: 166
 - Two-backlink notes: 367
 
 ## Backlink Histogram
 
 - 0: 67
-- 1: 165
+- 1: 166
 - 101+: 28
 - 11-20: 199
 - 2: 367
 - 21-50: 151
 - 3-4: 167
-- 5-6: 68
+- 5-6: 67
 - 51-100: 43
 - 7-10: 160
 
@@ -99,7 +99,7 @@ Corpus: wiki/**/*.md
 - [[projects/security-audit-skill/multi-agent-orchestration/run-1/phase2-hunt-findings]]
 - [[projects/security-audit-skill/multi-agent-orchestration/run-1/phase3-validation]]
 
-### One backlink (165)
+### One backlink (166)
 - [[InfraFabric Architecture]]
 - [[archive/CO-EQUAL-AUTHORITY-DECISION]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/01_Recursive_AI_Governance_Very_Long_Narrative]]
@@ -136,6 +136,7 @@ Corpus: wiki/**/*.md
 - [[governance/hephaistos/AGENTS]]
 - [[governance/hephaistos/CLAUDE]]
 - [[governance/hephaistos/GADGET]]
+- [[governance/hephaistos/HENRY]]
 - [[governance/hephaistos/HEPHAISTOS]]
 - [[governance/hephaistos/HERMES]]
 - [[governance/hephaistos/QUEEN-KEYPORT]]
@@ -199,8 +200,7 @@ Corpus: wiki/**/*.md
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/method]]
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/subjectivity]]
 - [[hephaistos/personal-assistant-agents/offer-pricing-architect/references/ecosystem]]
-- [[hephaistos/personal-assistant-agents/offer-pricing-architect/references/evolution]]
-- ... 65 more
+- ... 66 more
 
 ### Two backlink (367)
 - [[Agent Logs Hub]]

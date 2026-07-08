@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
 - '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
   Phenomenon]]'
-- '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
+- '[[Areas/Writing/Ethics Poetics and Praxis — Braided Discipline]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

@@ -64,7 +64,7 @@ backlinks:
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
+- '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'

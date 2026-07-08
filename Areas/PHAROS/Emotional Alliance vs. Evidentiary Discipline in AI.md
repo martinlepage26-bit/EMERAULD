@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
-- '[[wiki/HENRY — Research Paper Writing System]]'
+- '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[wiki/Home]]'
 - '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'

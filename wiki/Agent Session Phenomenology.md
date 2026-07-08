@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
-- '[[wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
+- '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
 - '[[wiki/Trismégiste — Personal AI Assistant]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

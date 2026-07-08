@@ -46,7 +46,7 @@ backlinks:
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Ritual, Magic, and Institutional Authority]]'
+- '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
   — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
 - '[[wiki/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'

@@ -28,7 +28,7 @@ canonical_path: wiki/Wheels of Will — Ritual Bottle Art and Research-Creation 
 backlink_count: 8
 backlinks:
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
-- '[[wiki/Legitimacy Machines MOC]]'
+- '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Phase 1 Governance Formation Sequence]]'

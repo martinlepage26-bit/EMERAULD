@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Le sang qui porte ton nom — Novel]]'
 - '[[wiki/LightRAG — Graph-Based RAG System]]'
 - '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
-- '[[wiki/Loop Papers and Recursive Governance]]'
+- '[[Areas/Writing/Loop Papers and Recursive Governance]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
