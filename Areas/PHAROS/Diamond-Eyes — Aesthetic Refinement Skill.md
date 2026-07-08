@@ -47,7 +47,7 @@ backlinks:
 - '[[wiki/Martin Voice Spec — Stage Map]]'
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'

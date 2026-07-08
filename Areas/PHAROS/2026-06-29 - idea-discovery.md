@@ -32,7 +32,7 @@ backlinks:
 - '[[session-state]]'
 source_notes:
 - '[[projects/Second Brain — Fisher King Project State]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[projects/HELIX — Fisher King Project State]]'
 - '[[wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'

@@ -3,9 +3,8 @@ type: wiki
 title: Neo-Shamanism and Gender — Montreal Pagan Community
 aliases:
 - Neo-Shamanism and Gender — Montreal Pagan Community
-- wiki/Neo-Shamanism and Gender — Montreal Pagan Community
 tags:
-- wiki
+- areas
 - pagan
 - neo-shamanism-and-gender-montreal-pagan-community-md
 - shamanism
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Neo-Shamanism and Gender — Montreal Pagan Community.md
+vault_area: Areas
+canonical_path: Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community.md
 backlink_count: 24
 backlinks:
 - '[[Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
@@ -25,7 +24,7 @@ backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
-- '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
+- '[[Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
 - '[[wiki/Qualitative Handbook — Expanded Reference List]]'

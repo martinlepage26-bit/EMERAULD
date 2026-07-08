@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
-- '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'
+- '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Phase 1 Governance Formation Sequence]]'
 - '[[wiki/RECURSO — Final Audit and Ethical Review]]'

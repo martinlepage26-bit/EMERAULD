@@ -26,7 +26,7 @@ backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 ---
 

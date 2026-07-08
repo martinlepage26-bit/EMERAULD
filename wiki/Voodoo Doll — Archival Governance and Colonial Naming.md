@@ -25,7 +25,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Governance by Denial]]'
 - '[[wiki/Home]]'
-- '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
+- '[[Resources/L’esprit du don — Godbout & Caillé (1992)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'

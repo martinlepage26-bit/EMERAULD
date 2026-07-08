@@ -23,7 +23,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paper Planes — M.I.A. — Lyrics]]'
 - '[[wiki/Qualitative Handbook — Expanded Reference List]]'

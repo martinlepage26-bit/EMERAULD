@@ -37,7 +37,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
-- '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
+- '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

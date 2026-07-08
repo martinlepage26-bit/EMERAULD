@@ -40,7 +40,7 @@ backlinks:
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
-- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'

@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'

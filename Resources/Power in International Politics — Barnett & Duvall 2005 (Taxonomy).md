@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
 - '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
 - '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'

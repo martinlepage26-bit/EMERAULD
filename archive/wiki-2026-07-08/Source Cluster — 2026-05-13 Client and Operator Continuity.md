@@ -25,7 +25,7 @@ canonical_path: archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and
 backlink_count: 12
 backlinks:
 - '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Operator Continuity Memo — 2026-05-14]]'
+- '[[archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'

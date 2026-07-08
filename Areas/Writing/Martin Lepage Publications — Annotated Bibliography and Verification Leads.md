@@ -5,7 +5,6 @@ aliases:
 - Martin Lepage annotated bibliography
 - Martin Lepage publication corpus
 - UQAM publication bibliography
-- wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads
 tags:
 - bibliography
 - martin-lepage
@@ -14,7 +13,7 @@ tags:
 - queer-studies
 - pagan-studies
 - media-studies
-- wiki
+- areas
 - martin-lepage-publications-annotated-bibliography-and-verification-leads-md
 - dissertation
 - thesis
@@ -25,9 +24,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Martin Lepage Publications — Annotated Bibliography and Verification
-  Leads.md
+vault_area: Areas
+canonical_path: Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads.md
 backlink_count: 25
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
@@ -42,8 +40,7 @@ backlinks:
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
 - '[[wiki/Per-Paper Project Structure — Folder and File Architecture]]'

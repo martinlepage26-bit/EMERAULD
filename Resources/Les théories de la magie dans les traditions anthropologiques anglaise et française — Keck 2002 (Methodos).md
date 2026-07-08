@@ -34,7 +34,7 @@ backlink_count: 7
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
+- '[[Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

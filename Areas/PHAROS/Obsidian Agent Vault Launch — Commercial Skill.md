@@ -5,7 +5,6 @@ aliases:
 - obsidian-agent-vault-launch
 - vault launch skill
 - agent vault commercialization skill
-- wiki/Obsidian Agent Vault Launch — Commercial Skill
 tags:
 - skill
 - claude-code
@@ -13,7 +12,7 @@ tags:
 - commercial
 - launch
 - agent-memory
-- wiki
+- areas
 - obsidian-agent-vault-launch-commercial-skill-md
 - claude
 - retrieval
@@ -22,14 +21,14 @@ tags:
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Obsidian Agent Vault Launch — Commercial Skill.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill.md
 backlink_count: 9
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24)]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[archive/session-state/session-state-002]]'
 - '[[assets/elemental-agents/positioning-memo]]'

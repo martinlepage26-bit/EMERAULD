@@ -3,14 +3,13 @@ type: wiki
 title: Operator Continuity Memo — 2026-05-14
 aliases:
 - Operator Continuity Memo — 2026-05-14
-- wiki/Operator Continuity Memo — 2026-05-14
 tags:
 - memo
 - operator
 - continuity
 - clients
 - '2026-05-14'
-- wiki
+- archive
 - operator-continuity-memo-2026-05-14-md
 - exterminationdg
 - lost
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-05-14'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Operator Continuity Memo — 2026-05-14.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14.md
 backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'

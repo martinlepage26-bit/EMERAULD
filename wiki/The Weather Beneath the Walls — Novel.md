@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/Writing/Le sang qui porte ton nom — Novel]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/The Broken Frequency of the Word — Novel]]'
 - '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'

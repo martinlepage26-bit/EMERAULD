@@ -49,7 +49,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'

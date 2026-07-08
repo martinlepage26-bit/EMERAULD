@@ -23,7 +23,7 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

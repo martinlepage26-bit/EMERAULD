@@ -43,7 +43,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
-- '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'
+- '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'

@@ -41,7 +41,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
-- '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
+- '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture]]'

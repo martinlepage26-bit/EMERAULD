@@ -37,7 +37,7 @@ backlinks:
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
+- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Areas/PHAROS/PHAROS]]'
 - '[[wiki/PHAROS Product Stack]]'
 - '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'

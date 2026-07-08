@@ -22,7 +22,7 @@ canonical_path: Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fi
 backlink_count: 5
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'

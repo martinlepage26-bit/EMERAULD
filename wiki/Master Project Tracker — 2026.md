@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
-- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'

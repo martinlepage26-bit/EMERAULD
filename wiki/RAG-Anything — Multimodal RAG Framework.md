@@ -31,7 +31,7 @@ backlink_count: 4
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/LightRAG — Graph-Based RAG System]]'
-- '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 ---
 

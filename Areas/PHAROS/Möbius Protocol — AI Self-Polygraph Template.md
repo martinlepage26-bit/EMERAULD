@@ -3,9 +3,8 @@ type: wiki
 title: Möbius Protocol — AI Self-Polygraph Template
 aliases:
 - Möbius Protocol — AI Self-Polygraph Template
-- wiki/Möbius Protocol — AI Self-Polygraph Template
 tags:
-- wiki
+- areas
 - ai
 - m-bius-protocol-ai-self-polygraph-template-md
 - bius
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Möbius Protocol — AI Self-Polygraph Template.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template.md
 backlink_count: 18
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'

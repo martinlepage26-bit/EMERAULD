@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
-- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'

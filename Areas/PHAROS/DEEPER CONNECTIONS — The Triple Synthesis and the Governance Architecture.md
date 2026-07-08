@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'

@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06]]'
 - '[[wiki/Home]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'

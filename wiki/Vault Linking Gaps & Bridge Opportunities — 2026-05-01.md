@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 ---

@@ -4,7 +4,6 @@ title: L’esprit du don — Godbout & Caillé (1992)
 aliases:
 - Godbout — L’esprit du don
 - The Spirit of the Gift
-- wiki/L’esprit du don — Godbout & Caillé (1992)
 tags:
 - reference
 - sociology
@@ -13,7 +12,7 @@ tags:
 - market
 - state
 - institutions
-- wiki
+- resources
 - l-esprit-du-don-godbout-caill-1992-md
 - godbout
 - obligation
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/L’esprit du don — Godbout & Caillé (1992).md
+vault_area: Resources
+canonical_path: Resources/L’esprit du don — Godbout & Caillé (1992).md
 backlink_count: 6
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

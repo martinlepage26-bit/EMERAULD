@@ -1,13 +1,10 @@
 ---
 type: wiki
-title: On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
-  2024
+title: On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024
 aliases:
 - Petersmann and Van Den Meerssche 2024
 - Phantom publics clusters collectives
 - Algorithmic clusters and publics
-- wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
-  2024
 tags:
 - reference
 - ai-governance
@@ -18,7 +15,7 @@ tags:
 - law
 - borders
 - fugitivity
-- wiki
+- resources
 - on-phantom-publics-clusters-and-collectives-petersmann-and-van-den-meerssche-2024-md
 - subject
 - petersmann
@@ -27,9 +24,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and
-  Van Den Meerssche 2024.md
+vault_area: Resources
+canonical_path: Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024.md
 backlink_count: 13
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'

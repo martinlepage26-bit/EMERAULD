@@ -41,7 +41,7 @@ backlinks:
 - '[[Areas/PHAROS/Inner Mind Eye]]'
 - '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
 - '[[wiki/LOTUS Model and Agency]]'
-- '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
+- '[[Resources/L’esprit du don — Godbout & Caillé (1992)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Resources/Recursive Governance Theory]]'

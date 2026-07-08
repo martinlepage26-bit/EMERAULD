@@ -40,7 +40,7 @@ backlinks:
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
 - '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'

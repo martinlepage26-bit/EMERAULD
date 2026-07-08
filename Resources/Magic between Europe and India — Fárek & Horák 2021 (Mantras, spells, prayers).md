@@ -4,7 +4,6 @@ title: Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells,
 aliases:
 - Fárek Horák 2021 mantras spells prayers
 - Magic between Europe and India (Religions 2021)
-- wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)
 tags:
 - reference
 - magic
@@ -15,7 +14,7 @@ tags:
 - india
 - methodology
 - categories
-- wiki
+- resources
 - magic-between-europe-and-india-f-rek-hor-k-2021-mantras-spells-prayers-md
 - mantras
 - european
@@ -24,9 +23,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras,
-  spells, prayers).md
+vault_area: Resources
+canonical_path: Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers).md
 backlink_count: 6
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

@@ -21,7 +21,7 @@ canonical_path: Areas/Writing/Neo-Shamanism Gender Narratives — Version Geneal
 backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'
-- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---

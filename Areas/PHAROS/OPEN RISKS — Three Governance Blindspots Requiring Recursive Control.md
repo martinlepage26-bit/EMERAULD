@@ -5,10 +5,9 @@ aliases:
 - OPEN RISKS
 - Open Risks
 - Open Risks — Three Governance Blindspots Requiring Recursive Control
-- wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control
 tags:
 - governance-risk
-- wiki
+- areas
 - open-risks-three-governance-blindspots-requiring-recursive-control-md
 - deprecation
 - control
@@ -19,9 +18,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive
-  Control.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control.md
 backlink_count: 17
 backlinks:
 - '[[.trash/Building Your First AI Agent with OpenAI__________]]'

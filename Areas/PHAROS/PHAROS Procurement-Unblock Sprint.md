@@ -37,7 +37,7 @@ backlinks:
 - '[[Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
-- '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
+- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
 - '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'

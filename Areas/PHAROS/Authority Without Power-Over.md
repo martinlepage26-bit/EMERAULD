@@ -33,8 +33,8 @@ backlinks:
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
-- '[[wiki/Machine Limitation]]'
-- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[Areas/PHAROS/Machine Limitation]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

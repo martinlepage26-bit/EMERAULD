@@ -26,7 +26,7 @@ backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Operator Continuity Memo — 2026-05-14]]'
+- '[[archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

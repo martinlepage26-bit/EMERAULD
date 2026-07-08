@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'
-- '[[wiki/Machine Limitation]]'
+- '[[Areas/PHAROS/Machine Limitation]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Resources/Red Team Handbook — Offensive Security Reference]]'

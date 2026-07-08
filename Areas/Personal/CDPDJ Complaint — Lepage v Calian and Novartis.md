@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Queer Theory Foundations]]'

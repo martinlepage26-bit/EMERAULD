@@ -3,9 +3,8 @@ type: wiki
 title: Magic After Legitimacy — Charmed and the Governance of Female Power
 aliases:
 - Magic After Legitimacy — Charmed and the Governance of Female Power
-- wiki/Magic After Legitimacy — Charmed and the Governance of Female Power
 tags:
-- wiki
+- areas
 - governance
 - magic
 - magic-after-legitimacy-charmed-and-the-governance-of-female-power-md
@@ -18,9 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Magic After Legitimacy — Charmed and the Governance of Female
-  Power.md
+vault_area: Areas
+canonical_path: Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power.md
 backlink_count: 19
 backlinks:
 - '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'

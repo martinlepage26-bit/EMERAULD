@@ -38,7 +38,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
-- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
 - '[[Resources/Recursive Governance Theory]]'

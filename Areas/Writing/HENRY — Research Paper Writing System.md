@@ -36,7 +36,7 @@ backlinks:
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Voice Spec — Stage Map]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[wiki/Per-Paper Project Structure — Folder and File Architecture]]'

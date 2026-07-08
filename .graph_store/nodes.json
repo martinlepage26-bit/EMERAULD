@@ -1842,6 +1842,34 @@
     "backlinks": 15
   },
   {
+    "id": "Areas/PHAROS/Machine Limitation",
+    "title": "Machine Limitation",
+    "path": "Areas/PHAROS/Machine Limitation.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Binding Principle",
+      "Machine Limitation",
+      "Model-reality gap"
+    ],
+    "outlinks": 21,
+    "unique_outlinks": 13,
+    "backlinks": 18
+  },
+  {
+    "id": "Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment",
+    "title": "Martin Lepage — AI Governance Consulting Profile Assessment",
+    "path": "Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Martin Lepage — AI Governance Consulting Profile Assessment"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 12,
+    "backlinks": 17
+  },
+  {
     "id": "Areas/PHAROS/Martin Lepage — Professional Profile",
     "title": "Martin Lepage — Professional Profile",
     "path": "Areas/PHAROS/Martin Lepage — Professional Profile.md",
@@ -1853,6 +1881,64 @@
     "outlinks": 46,
     "unique_outlinks": 33,
     "backlinks": 197
+  },
+  {
+    "id": "Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template",
+    "title": "Möbius Protocol — AI Self-Polygraph Template",
+    "path": "Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Möbius Protocol — AI Self-Polygraph Template"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 7,
+    "backlinks": 26
+  },
+  {
+    "id": "Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
+    "title": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
+    "path": "Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Memory leak frame capture unsupported assertion",
+      "Narrative capture failure taxonomy",
+      "Substitution of theory for contact"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 9,
+    "backlinks": 26
+  },
+  {
+    "id": "Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control",
+    "title": "OPEN RISKS — Three Governance Blindspots Requiring Recursive Control",
+    "path": "Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control.md",
+    "type": "governance-risk",
+    "status": "active",
+    "aliases": [
+      "OPEN RISKS",
+      "Open Risks",
+      "Open Risks — Three Governance Blindspots Requiring Recursive Control"
+    ],
+    "outlinks": 34,
+    "unique_outlinks": 13,
+    "backlinks": 20
+  },
+  {
+    "id": "Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill",
+    "title": "Obsidian Agent Vault Launch — Commercial Skill",
+    "path": "Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "agent vault commercialization skill",
+      "obsidian-agent-vault-launch",
+      "vault launch skill"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 11,
+    "backlinks": 12
   },
   {
     "id": "Areas/PHAROS/Obsidian Agent Vault — Asset Canon",
@@ -1894,6 +1980,32 @@
     ],
     "outlinks": 11,
     "unique_outlinks": 6,
+    "backlinks": 13
+  },
+  {
+    "id": "Areas/PHAROS/Obsidian Second Brain Product",
+    "title": "Obsidian Second Brain Product",
+    "path": "Areas/PHAROS/Obsidian Second Brain Product.md",
+    "type": "map",
+    "status": "active",
+    "aliases": [
+      "TOPIC — Obsidian Second Brain Product"
+    ],
+    "outlinks": 25,
+    "unique_outlinks": 24,
+    "backlinks": 31
+  },
+  {
+    "id": "Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS",
+    "title": "OpenAI Governance Framework — Comparison with PHAROS",
+    "path": "Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "OpenAI Governance Framework — Comparison with PHAROS"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 7,
     "backlinks": 13
   },
   {
@@ -3127,6 +3239,19 @@
     "backlinks": 5
   },
   {
+    "id": "Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power",
+    "title": "Magic After Legitimacy — Charmed and the Governance of Female Power",
+    "path": "Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Magic After Legitimacy — Charmed and the Governance of Female Power"
+    ],
+    "outlinks": 27,
+    "unique_outlinks": 16,
+    "backlinks": 23
+  },
+  {
     "id": "Areas/Writing/Manuscript Pipeline MOC",
     "title": "Manuscript Pipeline MOC",
     "path": "Areas/Writing/Manuscript Pipeline MOC.md",
@@ -3138,6 +3263,21 @@
     "outlinks": 50,
     "unique_outlinks": 50,
     "backlinks": 58
+  },
+  {
+    "id": "Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads",
+    "title": "Martin Lepage Publications — Annotated Bibliography and Verification Leads",
+    "path": "Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Martin Lepage annotated bibliography",
+      "Martin Lepage publication corpus",
+      "UQAM publication bibliography"
+    ],
+    "outlinks": 21,
+    "unique_outlinks": 15,
+    "backlinks": 42
   },
   {
     "id": "Areas/Writing/Martin Voice Spec — Version Genealogy",
@@ -3153,6 +3293,36 @@
     "outlinks": 26,
     "unique_outlinks": 16,
     "backlinks": 19
+  },
+  {
+    "id": "Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries",
+    "title": "Masculinités et ritualités — La magie chez les Radical Faeries",
+    "path": "Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries.md",
+    "type": "wiki",
+    "status": "stub",
+    "aliases": [
+      "Masculinités et ritualités",
+      "Radical Faeries paper",
+      "magic Radical Faeries"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 9,
+    "backlinks": 11
+  },
+  {
+    "id": "Areas/Writing/Mathématiques comme grammaire profonde des relations — Essai philosophique",
+    "title": "Mathématiques comme grammaire profonde des relations — Essai philosophique",
+    "path": "Areas/Writing/Mathématiques comme grammaire profonde des relations — Essai philosophique.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Grammaire profonde des relations",
+      "Mathématiques et sciences",
+      "Structuralisme scientifique"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 5,
+    "backlinks": 8
   },
   {
     "id": "Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
@@ -3190,6 +3360,19 @@
     "backlinks": 136
   },
   {
+    "id": "Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance",
+    "title": "Narrative and Method Integration — Creative Articulations of Governance",
+    "path": "Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Narrative and Method Integration — Creative Articulations of Governance"
+    ],
+    "outlinks": 50,
+    "unique_outlinks": 28,
+    "backlinks": 18
+  },
+  {
     "id": "Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy",
     "title": "Neo-Shamanism Gender Narratives — Version Genealogy",
     "path": "Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy.md",
@@ -3201,6 +3384,19 @@
     "outlinks": 3,
     "unique_outlinks": 2,
     "backlinks": 5
+  },
+  {
+    "id": "Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community",
+    "title": "Neo-Shamanism and Gender — Montreal Pagan Community",
+    "path": "Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Neo-Shamanism and Gender — Montreal Pagan Community"
+    ],
+    "outlinks": 26,
+    "unique_outlinks": 19,
+    "backlinks": 35
   },
   {
     "id": "Areas/Writing/Pagan Magic — Version Genealogy",
@@ -4042,21 +4238,6 @@
     "backlinks": 33
   },
   {
-    "id": "L’esprit du don — Godbout & Caillé (1992)",
-    "title": "L’esprit du don — Godbout & Caillé (1992)",
-    "path": "wiki/L’esprit du don — Godbout & Caillé (1992).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Godbout — L’esprit du don",
-      "The Spirit of the Gift",
-      "wiki/L’esprit du don — Godbout & Caillé (1992)"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 5,
-    "backlinks": 8
-  },
-  {
     "id": "MARTIN SURFACE",
     "title": "MARTIN SURFACE",
     "path": "wiki/MARTIN SURFACE.md",
@@ -4130,51 +4311,6 @@
     "backlinks": 0
   },
   {
-    "id": "Machine Limitation",
-    "title": "Machine Limitation",
-    "path": "wiki/Machine Limitation.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Binding Principle",
-      "Machine Limitation",
-      "Model-reality gap",
-      "wiki/Machine Limitation"
-    ],
-    "outlinks": 21,
-    "unique_outlinks": 13,
-    "backlinks": 18
-  },
-  {
-    "id": "Magic After Legitimacy — Charmed and the Governance of Female Power",
-    "title": "Magic After Legitimacy — Charmed and the Governance of Female Power",
-    "path": "wiki/Magic After Legitimacy — Charmed and the Governance of Female Power.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Magic After Legitimacy — Charmed and the Governance of Female Power",
-      "wiki/Magic After Legitimacy — Charmed and the Governance of Female Power"
-    ],
-    "outlinks": 27,
-    "unique_outlinks": 16,
-    "backlinks": 23
-  },
-  {
-    "id": "Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)",
-    "title": "Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)",
-    "path": "wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Fárek Horák 2021 mantras spells prayers",
-      "Magic between Europe and India (Religions 2021)",
-      "wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 4,
-    "backlinks": 9
-  },
-  {
     "id": "Martin Lepage Professional Identity",
     "title": "Martin Lepage Professional Identity",
     "path": "wiki/Martin Lepage Professional Identity.md",
@@ -4187,36 +4323,6 @@
     "outlinks": 53,
     "unique_outlinks": 47,
     "backlinks": 138
-  },
-  {
-    "id": "Martin Lepage Publications — Annotated Bibliography and Verification Leads",
-    "title": "Martin Lepage Publications — Annotated Bibliography and Verification Leads",
-    "path": "wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Martin Lepage annotated bibliography",
-      "Martin Lepage publication corpus",
-      "UQAM publication bibliography",
-      "wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads"
-    ],
-    "outlinks": 21,
-    "unique_outlinks": 15,
-    "backlinks": 42
-  },
-  {
-    "id": "Martin Lepage — AI Governance Consulting Profile Assessment",
-    "title": "Martin Lepage — AI Governance Consulting Profile Assessment",
-    "path": "wiki/Martin Lepage — AI Governance Consulting Profile Assessment.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Martin Lepage — AI Governance Consulting Profile Assessment",
-      "wiki/Martin Lepage — AI Governance Consulting Profile Assessment"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 12,
-    "backlinks": 17
   },
   {
     "id": "Martin Lepage — Adjacent Skill Ring",
@@ -4299,22 +4405,6 @@
     "backlinks": 40
   },
   {
-    "id": "Masculinités et ritualités — La magie chez les Radical Faeries",
-    "title": "Masculinités et ritualités — La magie chez les Radical Faeries",
-    "path": "wiki/Masculinités et ritualités — La magie chez les Radical Faeries.md",
-    "type": "wiki",
-    "status": "stub",
-    "aliases": [
-      "Masculinités et ritualités",
-      "Radical Faeries paper",
-      "magic Radical Faeries",
-      "wiki/Masculinités et ritualités — La magie chez les Radical Faeries"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 9,
-    "backlinks": 11
-  },
-  {
     "id": "Master Project Tracker — 2026",
     "title": "Master Project Tracker — 2026",
     "path": "wiki/Master Project Tracker — 2026.md",
@@ -4343,22 +4433,6 @@
     "outlinks": 4127,
     "unique_outlinks": 30,
     "backlinks": 14
-  },
-  {
-    "id": "Mathématiques comme grammaire profonde des relations — Essai philosophique",
-    "title": "Mathématiques comme grammaire profonde des relations — Essai philosophique",
-    "path": "wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Grammaire profonde des relations",
-      "Mathématiques et sciences",
-      "Structuralisme scientifique",
-      "wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 5,
-    "backlinks": 8
   },
   {
     "id": "Media Studies and Pop Culture Analysis",
@@ -4390,95 +4464,6 @@
     "backlinks": 9
   },
   {
-    "id": "Möbius Protocol — AI Self-Polygraph Template",
-    "title": "Möbius Protocol — AI Self-Polygraph Template",
-    "path": "wiki/Möbius Protocol — AI Self-Polygraph Template.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Möbius Protocol — AI Self-Polygraph Template",
-      "wiki/Möbius Protocol — AI Self-Polygraph Template"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 7,
-    "backlinks": 0
-  },
-  {
-    "id": "NIST AI RMF 1.0 — NIST AI 100-1 (2023)",
-    "title": "NIST AI RMF 1.0 — NIST AI 100-1 (2023)",
-    "path": "wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
-      "NIST AI 100-1",
-      "NIST AI RMF 1.0",
-      "wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 11,
-    "backlinks": 14
-  },
-  {
-    "id": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
-    "title": "Narrative Capture Failure Taxonomy — Substituting Theory for Contact",
-    "path": "wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Memory leak frame capture unsupported assertion",
-      "Narrative capture failure taxonomy",
-      "Substitution of theory for contact",
-      "wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 9,
-    "backlinks": 26
-  },
-  {
-    "id": "Narrative and Method Integration — Creative Articulations of Governance",
-    "title": "Narrative and Method Integration — Creative Articulations of Governance",
-    "path": "wiki/Narrative and Method Integration — Creative Articulations of Governance.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Narrative and Method Integration — Creative Articulations of Governance",
-      "wiki/Narrative and Method Integration — Creative Articulations of Governance"
-    ],
-    "outlinks": 50,
-    "unique_outlinks": 28,
-    "backlinks": 18
-  },
-  {
-    "id": "Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)",
-    "title": "Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)",
-    "path": "wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Hyland 2018 identity narratives",
-      "ILCEA 31 2018 Hyland narrative identity",
-      "wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 12,
-    "backlinks": 9
-  },
-  {
-    "id": "Neo-Shamanism and Gender — Montreal Pagan Community",
-    "title": "Neo-Shamanism and Gender — Montreal Pagan Community",
-    "path": "wiki/Neo-Shamanism and Gender — Montreal Pagan Community.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Neo-Shamanism and Gender — Montreal Pagan Community",
-      "wiki/Neo-Shamanism and Gender — Montreal Pagan Community"
-    ],
-    "outlinks": 26,
-    "unique_outlinks": 19,
-    "backlinks": 35
-  },
-  {
     "id": "Novel and Creative Corpus",
     "title": "Novel and Creative Corpus",
     "path": "wiki/Novel and Creative Corpus.md",
@@ -4491,22 +4476,6 @@
     "outlinks": 46,
     "unique_outlinks": 38,
     "backlinks": 68
-  },
-  {
-    "id": "OPEN RISKS — Three Governance Blindspots Requiring Recursive Control",
-    "title": "OPEN RISKS — Three Governance Blindspots Requiring Recursive Control",
-    "path": "wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control.md",
-    "type": "governance-risk",
-    "status": "active",
-    "aliases": [
-      "OPEN RISKS",
-      "Open Risks",
-      "Open Risks — Three Governance Blindspots Requiring Recursive Control",
-      "wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control"
-    ],
-    "outlinks": 34,
-    "unique_outlinks": 13,
-    "backlinks": 20
   },
   {
     "id": "OUTLIERS — Five Notes That Break the Architecture",
@@ -4526,22 +4495,6 @@
     "backlinks": 17
   },
   {
-    "id": "Obsidian Agent Vault Launch — Commercial Skill",
-    "title": "Obsidian Agent Vault Launch — Commercial Skill",
-    "path": "wiki/Obsidian Agent Vault Launch — Commercial Skill.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "agent vault commercialization skill",
-      "obsidian-agent-vault-launch",
-      "vault launch skill",
-      "wiki/Obsidian Agent Vault Launch — Commercial Skill"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 11,
-    "backlinks": 12
-  },
-  {
     "id": "Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)",
     "title": "Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)",
     "path": "wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21).md",
@@ -4555,64 +4508,6 @@
     "outlinks": 8,
     "unique_outlinks": 4,
     "backlinks": 7
-  },
-  {
-    "id": "Obsidian Second Brain Product",
-    "title": "Obsidian Second Brain Product",
-    "path": "wiki/Obsidian Second Brain Product.md",
-    "type": "map",
-    "status": "active",
-    "aliases": [
-      "TOPIC — Obsidian Second Brain Product",
-      "wiki/Obsidian Second Brain Product"
-    ],
-    "outlinks": 25,
-    "unique_outlinks": 24,
-    "backlinks": 31
-  },
-  {
-    "id": "On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024",
-    "title": "On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024",
-    "path": "wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Algorithmic clusters and publics",
-      "Petersmann and Van Den Meerssche 2024",
-      "Phantom publics clusters collectives",
-      "wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 11,
-    "backlinks": 16
-  },
-  {
-    "id": "OpenAI Governance Framework — Comparison with PHAROS",
-    "title": "OpenAI Governance Framework — Comparison with PHAROS",
-    "path": "wiki/OpenAI Governance Framework — Comparison with PHAROS.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "OpenAI Governance Framework — Comparison with PHAROS",
-      "wiki/OpenAI Governance Framework — Comparison with PHAROS"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 7,
-    "backlinks": 13
-  },
-  {
-    "id": "Operator Continuity Memo — 2026-05-14",
-    "title": "Operator Continuity Memo — 2026-05-14",
-    "path": "wiki/Operator Continuity Memo — 2026-05-14.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Operator Continuity Memo — 2026-05-14",
-      "wiki/Operator Continuity Memo — 2026-05-14"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 11,
-    "backlinks": 6
   },
   {
     "id": "Operator-Check Skill — Burnout Cascade Interrupt",
@@ -6837,6 +6732,20 @@
     "backlinks": 14
   },
   {
+    "id": "Resources/L’esprit du don — Godbout & Caillé (1992)",
+    "title": "L’esprit du don — Godbout & Caillé (1992)",
+    "path": "Resources/L’esprit du don — Godbout & Caillé (1992).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Godbout — L’esprit du don",
+      "The Spirit of the Gift"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 5,
+    "backlinks": 8
+  },
+  {
     "id": "Resources/MASTER REFERENCE SAFE — Canonical Bibliography System",
     "title": "MASTER REFERENCE SAFE — Canonical Bibliography System",
     "path": "Resources/MASTER REFERENCE SAFE — Canonical Bibliography System.md",
@@ -6850,6 +6759,20 @@
     "outlinks": 19,
     "unique_outlinks": 13,
     "backlinks": 303
+  },
+  {
+    "id": "Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)",
+    "title": "Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)",
+    "path": "Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Fárek Horák 2021 mantras spells prayers",
+      "Magic between Europe and India (Religions 2021)"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 4,
+    "backlinks": 9
   },
   {
     "id": "Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)",
@@ -6877,6 +6800,50 @@
     "outlinks": 25,
     "unique_outlinks": 16,
     "backlinks": 309
+  },
+  {
+    "id": "Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)",
+    "title": "NIST AI RMF 1.0 — NIST AI 100-1 (2023)",
+    "path": "Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+      "NIST AI 100-1",
+      "NIST AI RMF 1.0"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 11,
+    "backlinks": 14
+  },
+  {
+    "id": "Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)",
+    "title": "Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)",
+    "path": "Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Hyland 2018 identity narratives",
+      "ILCEA 31 2018 Hyland narrative identity"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 12,
+    "backlinks": 9
+  },
+  {
+    "id": "Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024",
+    "title": "On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024",
+    "path": "Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Algorithmic clusters and publics",
+      "Petersmann and Van Den Meerssche 2024",
+      "Phantom publics clusters collectives"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 11,
+    "backlinks": 16
   },
   {
     "id": "Resources/Plugin Recommendations",
@@ -8861,7 +8828,7 @@
     ],
     "outlinks": 11,
     "unique_outlinks": 6,
-    "backlinks": 27
+    "backlinks": 1
   },
   {
     "id": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/COVER_LETTER_FOR_COUNSEL",
@@ -9633,6 +9600,19 @@
     "outlinks": 9,
     "unique_outlinks": 9,
     "backlinks": 18
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14",
+    "title": "Operator Continuity Memo — 2026-05-14",
+    "path": "archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Operator Continuity Memo — 2026-05-14"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 11,
+    "backlinks": 6
   },
   {
     "id": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",

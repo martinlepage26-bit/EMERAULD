@@ -5,7 +5,6 @@ aliases:
 - NIST AI RMF 1.0
 - Artificial Intelligence Risk Management Framework (AI RMF 1.0)
 - NIST AI 100-1
-- wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)
 tags:
 - reference
 - ai-governance
@@ -15,7 +14,7 @@ tags:
 - compliance
 - accountability
 - measurement
-- wiki
+- resources
 - nist-ai-rmf-1-0-nist-ai-100-1-2023-md
 - control
 - govern
@@ -25,8 +24,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023).md
+vault_area: Resources
+canonical_path: Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023).md
 backlink_count: 10
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

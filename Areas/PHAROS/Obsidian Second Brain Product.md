@@ -3,7 +3,6 @@ type: map
 title: Obsidian Second Brain Product
 aliases:
 - TOPIC — Obsidian Second Brain Product
-- wiki/Obsidian Second Brain Product
 tags:
 - index
 - map
@@ -12,7 +11,7 @@ tags:
 - second-brain
 - product
 - commercial
-- wiki
+- areas
 - obsidian-second-brain-product-md
 - demo
 - sanitized
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Obsidian Second Brain Product.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Obsidian Second Brain Product.md
 backlink_count: 21
 backlinks:
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'

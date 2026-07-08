@@ -32,7 +32,7 @@ backlinks:
 - '[[Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
 - '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
-- '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
+- '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[wiki/Research Hub]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

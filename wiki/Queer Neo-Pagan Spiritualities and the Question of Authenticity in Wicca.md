@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Qualitative Handbook — Expanded Reference List]]'
 - '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'

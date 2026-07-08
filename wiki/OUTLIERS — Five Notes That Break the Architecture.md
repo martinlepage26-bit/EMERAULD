@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
-- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[Resources/Plugin Recommendations]]'
 - '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

@@ -28,7 +28,7 @@ backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'
 - '[[Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14]]'
-- '[[wiki/Operator Continuity Memo — 2026-05-14]]'
+- '[[archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/method]]'
 ---

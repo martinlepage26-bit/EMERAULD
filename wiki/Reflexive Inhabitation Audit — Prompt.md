@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'
+- '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'

@@ -38,7 +38,7 @@ backlinks:
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'

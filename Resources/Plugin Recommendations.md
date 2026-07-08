@@ -25,7 +25,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[wiki/Home]]'
 - '[[wiki/LightRAG — Graph-Based RAG System]]'
-- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Setup Guide]]'

@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[wiki/The Returning Light — Monograph]]'

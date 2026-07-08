@@ -32,7 +32,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)]]'
 - '[[wiki/Home]]'
 - '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
-- '[[wiki/Möbius Protocol — AI Self-Polygraph Template]]'
+- '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'

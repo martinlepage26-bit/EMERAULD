@@ -5,14 +5,13 @@ aliases:
 - Narrative capture failure taxonomy
 - Substitution of theory for contact
 - Memory leak frame capture unsupported assertion
-- wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact
 tags:
 - ai-governance
 - failure-taxonomy
 - narrative-capture
 - epistemics
 - model-behavior
-- wiki
+- areas
 - narrative-capture-failure-taxonomy-substituting-theory-for-contact-md
 - capture
 - imagined
@@ -23,17 +22,15 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Narrative Capture Failure Taxonomy — Substituting Theory for
-  Contact.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact.md
 backlink_count: 18
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation]]'
-- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
-  (2026)]]'
+- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'

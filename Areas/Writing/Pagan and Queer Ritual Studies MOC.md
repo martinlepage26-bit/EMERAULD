@@ -50,7 +50,7 @@ backlinks:
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'

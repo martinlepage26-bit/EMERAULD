@@ -3,9 +3,8 @@ type: wiki
 title: Narrative and Method Integration — Creative Articulations of Governance
 aliases:
 - Narrative and Method Integration — Creative Articulations of Governance
-- wiki/Narrative and Method Integration — Creative Articulations of Governance
 tags:
-- wiki
+- areas
 - governance
 - narrative-and-method-integration-creative-articulations-of-governance-md
 - novel
@@ -17,9 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Narrative and Method Integration — Creative Articulations of
-  Governance.md
+vault_area: Areas
+canonical_path: Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance.md
 backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/Authority Without Power-Over]]'

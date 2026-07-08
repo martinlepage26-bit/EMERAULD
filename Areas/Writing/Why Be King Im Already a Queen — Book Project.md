@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'

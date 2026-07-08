@@ -1,6 +1,6 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:37:34Z
+Built: 2026-07-08T05:37:35Z
 Corpus: wiki/**/*.md
 
 ## Summary
@@ -11,14 +11,14 @@ Corpus: wiki/**/*.md
 - Unresolved wikilinks: 3193
 - Connected components: 47
 - Largest component: 1360
-- Zero-backlink notes: 66
-- One-backlink notes: 166
+- Zero-backlink notes: 65
+- One-backlink notes: 167
 - Two-backlink notes: 367
 
 ## Backlink Histogram
 
-- 0: 66
-- 1: 166
+- 0: 65
+- 1: 167
 - 101+: 28
 - 11-20: 199
 - 2: 367
@@ -30,7 +30,7 @@ Corpus: wiki/**/*.md
 
 ## Low-Backlink Notes
 
-### Zero backlink (66)
+### Zero backlink (65)
 - [[ASSETS MOC]]
 - [[Areas/PHAROS/AREA]]
 - [[Areas/Personal/AREA]]
@@ -40,7 +40,6 @@ Corpus: wiki/**/*.md
 - [[HEPHAISTOS MOC]]
 - [[Inbox/README]]
 - [[MEMORY MOC]]
-- [[Möbius Protocol — AI Self-Polygraph Template]]
 - [[PEER-REVIEW MOC]]
 - [[PUBLICATIONS MOC]]
 - [[RAW MOC]]
@@ -98,13 +97,14 @@ Corpus: wiki/**/*.md
 - [[projects/security-audit-skill/multi-agent-orchestration/run-1/phase2-hunt-findings]]
 - [[projects/security-audit-skill/multi-agent-orchestration/run-1/phase3-validation]]
 
-### One backlink (166)
+### One backlink (167)
 - [[archive/CO-EQUAL-AUTHORITY-DECISION]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/01_Recursive_AI_Governance_Very_Long_Narrative]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/02_PHAROS_Master_SOP]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Complete_Operational_Specification]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Disguised_Prompt_Sequence]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Public_28-step_Description]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/COVER_LETTER_FOR_COUNSEL]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/ERRATA]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN]]
@@ -198,8 +198,7 @@ Corpus: wiki/**/*.md
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/evolution]]
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/method]]
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/offer-pricing-architect/references/ecosystem]]
-- ... 66 more
+- ... 67 more
 
 ### Two backlink (367)
 - [[Agent Logs Hub]]

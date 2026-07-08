@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

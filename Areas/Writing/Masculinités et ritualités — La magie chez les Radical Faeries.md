@@ -5,7 +5,6 @@ aliases:
 - Radical Faeries paper
 - Masculinités et ritualités
 - magic Radical Faeries
-- wiki/Masculinités et ritualités — La magie chez les Radical Faeries
 tags:
 - queer-theory
 - ritual
@@ -14,7 +13,7 @@ tags:
 - masculinity
 - montreal
 - stub
-- wiki
+- areas
 - masculinit-s-et-ritualit-s-la-magie-chez-les-radical-faeries-md
 - faeries
 - radical
@@ -23,8 +22,8 @@ tags:
 status: stub
 created: '2026-05-05'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Masculinités et ritualités — La magie chez les Radical Faeries.md
+vault_area: Areas
+canonical_path: Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries.md
 backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'

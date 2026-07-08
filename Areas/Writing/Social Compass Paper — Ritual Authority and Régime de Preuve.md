@@ -42,7 +42,7 @@ backlinks:
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
 - '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'

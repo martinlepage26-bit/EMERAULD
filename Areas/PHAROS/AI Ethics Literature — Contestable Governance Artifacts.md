@@ -37,7 +37,7 @@ backlinks:
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
+- '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'

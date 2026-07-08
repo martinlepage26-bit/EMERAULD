@@ -20,10 +20,10 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/Obsidian Agent Vault — Setup Guide.md
 backlink_count: 7
 backlinks:
-- '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
+- '[[Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Welcome]]'
 - '[[projects/Second Brain — Fisher King Project State]]'

@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
+- '[[Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Novel and Creative Corpus]]'

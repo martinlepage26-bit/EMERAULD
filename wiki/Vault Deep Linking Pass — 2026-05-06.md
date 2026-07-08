@@ -28,7 +28,7 @@ backlink_count: 10
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Home]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

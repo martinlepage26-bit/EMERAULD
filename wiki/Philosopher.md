@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
   Phenomenon]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/Ethical Ground Values]]'

@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'

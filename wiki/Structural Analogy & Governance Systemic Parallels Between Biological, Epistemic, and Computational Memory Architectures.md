@@ -38,7 +38,7 @@ backlinks:
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/LOTUS Model and Agency]]'
-- '[[wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
+- '[[Areas/Writing/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

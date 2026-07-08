@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/Le sang qui porte ton nom — Novel]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'

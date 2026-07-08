@@ -29,7 +29,7 @@ backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/CLIENT ACCOUNTS]]'
 - '[[archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
-- '[[wiki/Operator Continuity Memo — 2026-05-14]]'
+- '[[archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'

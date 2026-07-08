@@ -42,7 +42,7 @@ backlinks:
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
+- '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'

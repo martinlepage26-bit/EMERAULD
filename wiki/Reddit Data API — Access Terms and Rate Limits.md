@@ -28,7 +28,7 @@ backlink_count: 9
 backlinks:
 - '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
-- '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
+- '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'

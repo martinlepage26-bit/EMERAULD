@@ -27,7 +27,7 @@ backlinks:
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric Architecture]]'
-- '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
+- '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'

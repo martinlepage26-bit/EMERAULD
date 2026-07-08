@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
-- '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
+- '[[Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca]]'
 - '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'

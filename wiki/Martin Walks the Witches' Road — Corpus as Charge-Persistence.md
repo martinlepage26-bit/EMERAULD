@@ -44,7 +44,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
 - '[[Resources/Literary References in Common English — Allusion and Idiom Guide]]'
-- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'

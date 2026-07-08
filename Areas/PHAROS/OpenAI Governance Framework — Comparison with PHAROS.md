@@ -3,9 +3,8 @@ type: wiki
 title: OpenAI Governance Framework — Comparison with PHAROS
 aliases:
 - OpenAI Governance Framework — Comparison with PHAROS
-- wiki/OpenAI Governance Framework — Comparison with PHAROS
 tags:
-- wiki
+- areas
 - pharos
 - governance
 - ai
@@ -19,8 +18,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/OpenAI Governance Framework — Comparison with PHAROS.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS.md
 backlink_count: 8
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'

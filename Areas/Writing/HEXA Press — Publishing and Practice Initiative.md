@@ -42,7 +42,7 @@ backlinks:
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[wiki/Phase 1 Governance Formation Sequence]]'
 - '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'

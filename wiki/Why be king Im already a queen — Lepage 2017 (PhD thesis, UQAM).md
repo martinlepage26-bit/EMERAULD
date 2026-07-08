@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
+- '[[Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
 - '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'

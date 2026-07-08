@@ -21,7 +21,7 @@ canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/SANITIZATI
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 ---
 

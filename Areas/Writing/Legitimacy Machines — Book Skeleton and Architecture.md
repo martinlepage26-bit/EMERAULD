@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
-- '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
+- '[[Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'

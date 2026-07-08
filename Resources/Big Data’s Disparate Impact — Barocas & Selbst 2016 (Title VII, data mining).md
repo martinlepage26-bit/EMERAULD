@@ -32,7 +32,7 @@ backlinks:
 - '[[Resources/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
-- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
+- '[[Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
 - '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'

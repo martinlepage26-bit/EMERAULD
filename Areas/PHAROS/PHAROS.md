@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
-- '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
+- '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'

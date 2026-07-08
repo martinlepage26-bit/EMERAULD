@@ -44,7 +44,7 @@ backlinks:
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/OpenAI Governance Framework — Comparison with PHAROS]]'
+- '[[Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle]]'

@@ -45,9 +45,9 @@ backlinks:
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[Resources/Le Mythe de Sisyphe — Camus (Absurd as Starting Point)]]'
 - '[[wiki/Legal and Institutional Cases]]'
-- '[[wiki/Machine Limitation]]'
+- '[[Areas/PHAROS/Machine Limitation]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
+- '[[Areas/Writing/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
   2024]]'

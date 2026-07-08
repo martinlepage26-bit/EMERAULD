@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
 - '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'

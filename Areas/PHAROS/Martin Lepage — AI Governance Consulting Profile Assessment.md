@@ -3,9 +3,8 @@ type: wiki
 title: Martin Lepage — AI Governance Consulting Profile Assessment
 aliases:
 - Martin Lepage — AI Governance Consulting Profile Assessment
-- wiki/Martin Lepage — AI Governance Consulting Profile Assessment
 tags:
-- wiki
+- areas
 - governance
 - ai
 - martin-lepage-ai-governance-consulting-profile-assessment-md
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Martin Lepage — AI Governance Consulting Profile Assessment.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment.md
 backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

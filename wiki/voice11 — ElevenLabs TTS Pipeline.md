@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
-- '[[wiki/Obsidian Second Brain Product]]'
+- '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 ---
 

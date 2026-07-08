@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[wiki/Home]]'
 - '[[archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19]]'
-- '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
+- '[[Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[Areas/PHAROS/PHAROS Licensing Prospectus]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'
