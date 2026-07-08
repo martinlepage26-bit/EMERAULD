@@ -23,6 +23,9 @@ backlinks:
 
 # OS Spec — Event-Driven Triggers (gaps 2 + 9)
 
+> [!success] Executed 2026-07-08 (operator directive)
+> The recommended option is live: systemd **user** path unit `emerauld-inbox.path` (PathModified on Inbox/) → oneshot `emerauld-inbox.service` → `scripts/scheduled/inbox-route.sh` (flock-guarded, haiku-tier headless routing pass, durable logs, FAILURES.md surfacing, 2-strike manual-review loop protection). Linger enabled for martin, so the watcher survives logout/reboot. **Exit criterion met twice:** the standing MCP smoke-test note and a fresh capture were both routed autonomously — normalized to vault schema, ≥2 verified wikilinks, tracker lines, no human step. Implementation finding worth keeping: `PathModified` is edge-triggered and loses events that arrive while the service is running — the first capture was stranded exactly this way — so the script drains up to 5 eligible files per invocation instead of relying on re-triggering. Ledger: RELAY-20260708-003.
+
 > For future Claude: the OS currently acts only on cron ticks (4 daily/weekly one-shots). This spec chooses how the vault gains "note arrives → agent reacts" behavior. Build in Stage 3 of [[governance/EMERAULD-OS-BUILD-ORDER|the build order]].
 
 ## Options assessed (2026-07-08)

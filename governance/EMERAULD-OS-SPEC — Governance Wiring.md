@@ -23,6 +23,9 @@ backlinks:
 
 # OS Spec — Wiring the Governance Stack to Execution (gap 3)
 
+> [!success] Executed 2026-07-08 (operator directive)
+> The minimal viable wiring is live and the exit criterion is met by a real task: [[governance/tasks/weekly-os-health-20260708|weekly-os-health-20260708]] flowed intake → HEPHAISTOS scope packet (written by the hephaistos agent) → Queen Keyport clearance (written by the queen-keyport agent: cleared with 8 binding conditions, including an empirically-refuted bash idiom in the scope itself — the co-equal review caught a real bug) → hard gate PASS (`scripts/governance_gate.py`, soft by default / `--hard` available) → routed execution with `RELAY-20260708-002` written at true dispatch time. State machine + rules: [[governance/tasks/README|governance/tasks/README]]. The task rests at `routed` until QK condition 8's live-run evidence lands (first Friday weekly run) — the pipeline's first act was to refuse premature closure, which is the point.
+
 > For future Claude: HEPHAISTOS / Queen Keyport / Hermes / Argus are today prompt contracts — .md files an agent roleplays — with no code path that actually routes a task through clearance before execution. The council's own review ([[Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File|governance case file]]) called this an unimplemented composite pattern. Build in Stage 4 of [[governance/EMERAULD-OS-BUILD-ORDER|the build order]].
 
 ## Minimal viable wiring (recommended over a LangGraph build)

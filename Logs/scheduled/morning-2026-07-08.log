@@ -1,0 +1,12 @@
+Morning agent run complete for 2026-07-08 — the first over the post-overhaul PARA scope. All four steps done, add-and-update only, nothing deleted or archived.
+
+**What was written:**
+- `memory/daily/2026-07-08.md` created with Focus, Tasks, Notes, Stale Projects, and Overdue sections, following yesterday's template.
+- `artifacts/stale-projects-2026-07-08.md` holds the full 735-row stale list (referenced from the daily note rather than inlined).
+- `session-state.md` got a one-line morning-agent entry; two entries were appended to the VAULT ADDITIONS TRACKER.
+
+**Stale scan (projects/ top level + Areas/ + wiki/):** the candidate pool grew from 435 to 788 project-scope notes now that Areas/ holds most of the migrated corpus. 735 are stale (updated before 2026-07-01), but 722 of those still carry `updated: 2026-06-26` from the retired bulk touch — the overhaul fixed the bug by preserving dates rather than rewriting them, so this residue only decays through real per-note edits. Only 13 stale notes have individual dates (2026-06-27 to 06-30), including the three AREA.md files and the four EMERAULD Scripts architecture notes. All 15 Fisher King project state files in projects/ are among the stale set.
+
+**Overdue sweep (Areas/, Resources/, wiki/, projects/ top level):** same 5 items as every prior run, no new ones surfaced by the widened scope — the two External Data Registry tasks (17th consecutive flag, note now at Areas/PHAROS/ post-migration) and the three Weekly Review 2026-06-26 items.
+
+One carry-over resolved: session-state.md is at 98 lines, so the 600-line archive-threshold warning standing since 2026-07-05 is closed (archive #003 ran during the overhaul). The rook harness ran with its known non-fatal `/root/.codex/rook_mode` permission error.

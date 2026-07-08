@@ -47,14 +47,14 @@ The autonomous layer already running: martin's crontab → `scripts/scheduled/{m
 | # | Gap | Status | Where |
 |---|---|---|---|
 | 1 | Detection→remediation link | **CLOSED 2026-07-08** (session-state auto-archive in nightly.sh; contradiction workflow spec below) | scripts/scheduled/nightly.sh |
-| 2 | Event-driven trigger / persistent process | SPEC — build next | [[governance/EMERAULD-OS-SPEC — Event Triggers|Event Triggers spec]] |
-| 3 | Governance stack wired to execution | SPEC | [[governance/EMERAULD-OS-SPEC — Governance Wiring|Governance Wiring spec]] |
+| 2 | Event-driven trigger / persistent process | **CLOSED 2026-07-08** (systemd path unit live, linger enabled, exit criterion met twice) | [[governance/EMERAULD-OS-SPEC — Event Triggers|Event Triggers spec]] |
+| 3 | Governance stack wired to execution | **CLOSED 2026-07-08** (pipeline live; first governed task at `routed`, closure pends its Friday live-run evidence) | [[governance/EMERAULD-OS-SPEC — Governance Wiring|Governance Wiring spec]] + [[governance/tasks/README|tasks state machine]] |
 | 4 | Graph unification + refresh cadence | **CLOSED 2026-07-08** (corpus extension) + cadence rule below | scripts/embed.py, scripts/build_wikilink_graph.py |
 | 5 | scheduler_memory + .agent_bus retire-or-revive | **CLOSED 2026-07-08** — both RETIRED | archive/retired-2026-07-08/ + [[Areas/PHAROS/Agent Bus — Design Record (Retired Runtime)|design record]] |
 | 6 | MCP/API surface for the vault | **CLOSED 2026-07-08** (server registered + live-verified, exit criterion met; local scope, global after 1 clean week) | [[governance/EMERAULD-OS-SPEC — MCP Surface|MCP Surface spec]] |
 | 7 | Cron monitoring/alerting | **CLOSED 2026-07-08** (durable logs + FAILURES.md + health-check reads it) | scripts/scheduled/*.sh |
 | 8 | Bases verification dependency | DOCUMENTED below | this doc |
-| 9 | Shared watch-vault-react primitive | SPEC (folded into gap 2) | Event Triggers spec |
+| 9 | Shared watch-vault-react primitive | **CLOSED 2026-07-08** (with gap 2 — inbox-route.sh is the primitive) | Event Triggers spec |
 
 ## Build sequence (what to do, in order)
 
@@ -62,11 +62,11 @@ The autonomous layer already running: martin's crontab → `scripts/scheduled/{m
 
 **Stage 2 — MCP surface. DONE 2026-07-08.** Vendored server wired per the MCP spec; raw-lane write guard added and verified; exit criterion met by a headless MCP-only second surface (RELAY-20260708-001). Remaining follow-through: promote registration local → global after ~1 week of clean use.
 
-**Stage 3 — event triggers (1-2 sessions).** Implement the chosen option from the Event Triggers spec (recommended: systemd path-unit watcher over Inbox/ driving a headless routing pass). Exit: a file dropped in Inbox/ gets routed to the correct PARA folder with schema frontmatter within minutes, no human in the loop.
+**Stage 3 — event triggers. DONE 2026-07-08.** systemd user path unit + flock-guarded routing script live (linger enabled); exit criterion met twice — both queued Inbox files routed autonomously with schema normalization + verified wikilinks + tracker lines. Edge-trigger race found and fixed (bounded drain loop, 5 files/invocation).
 
-**Stage 4 — governance wiring (2-3 sessions).** Implement the Governance Wiring spec's minimal path: scope-classified task intake, Hephaistos+Queen-Keyport clearance artifacts as machine-readable frontmatter, Hermes routing recorded in RELAY-LEDGER. Exit: one real task flows end-to-end with ledger entries written by the pipeline, not by hand.
+**Stage 4 — governance wiring. DONE 2026-07-08.** governance/tasks/ state machine + governance_gate.py live; exit criterion met by [[governance/tasks/weekly-os-health-20260708|the first governed task]] (agent-written scope + clearance, hard-gate pass, dispatch-time ledger entry RELAY-20260708-002). Gate runs soft; tighten to hard after the first clean month.
 
-**Stage 5 — self-measurement.** Weekly review gains an OS-health section: FAILURES.md count, orphan count, unresolved-link delta, register line counts, contradiction flags open/closed. The OS reports on itself; Argus audits the reports.
+**Stage 5 — self-measurement. IMPLEMENTED 2026-07-08 (as the Stage 4 worked example), verification pending.** weekly.sh computes the five OS-health metric groups deterministically and interpolates them into the review prompt; the first live Friday run's populated `## OS health` section closes governed task weekly-os-health-20260708. Argus audits the reports against the same shell one-liners.
 
 ## Standing rules established by this overhaul
 

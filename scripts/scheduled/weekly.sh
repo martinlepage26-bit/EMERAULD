@@ -14,6 +14,50 @@ LOG="$LOGDIR/weekly-$TODAY.log"
 
 cd "$VAULT" || exit 1
 
+# --- OS health pre-computation (governed task weekly-os-health-20260708) ---
+# Deterministic metrics interpolated into the prompt as literal values, per the
+# HEPHAISTOS scope packet + Queen Keyport conditions 1-5: every metric is its own
+# failure domain and degrades to a labeled placeholder, never kills the run.
+
+# 1. FAILURES.md counts (QK condition 1: -f test first — no stderr leak from a missing-file redirection)
+if [ -f "$LOGDIR/FAILURES.md" ]; then
+  FAIL_TOTAL=$(wc -l < "$LOGDIR/FAILURES.md" 2>/dev/null || echo "unavailable")
+  FAIL_WEEK=$(awk -v ws="$WEEK_START" '/^- [0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]/ { d=substr($2,1,10); if (d >= ws) n++ } END { print n+0 }' "$LOGDIR/FAILURES.md" 2>/dev/null || echo "unavailable")
+else
+  FAIL_TOTAL=0
+  FAIL_WEEK=0
+fi
+
+# 2. Graph counts from .graph_store/summary.json (two distinct fields, never conflated)
+GRAPH_METRICS=$(/home/martin/.venvs/emerauld/bin/python3 -c "
+import json
+d = json.load(open('$VAULT/.graph_store/summary.json'))
+print(d.get('zero_backlink', 'unavailable'), d.get('unresolved_links', 'unavailable'))
+" 2>/dev/null || echo "unavailable unavailable")
+ORPHANS=$(echo "$GRAPH_METRICS" | awk '{print $1}')
+UNRESOLVED=$(echo "$GRAPH_METRICS" | awk '{print $2}')
+
+# 3. Register line counts
+SS_LINES=$( [ -f session-state.md ] && wc -l < session-state.md || echo "unavailable" )
+AGENT_LINES=$(cat memory/agents/*.md 2>/dev/null | wc -l || echo "unavailable")
+
+# 4. Contradiction callouts, open vs resolved — FILE counts, raw lanes excluded (QK condition 4)
+OPEN_FLAGS=$(grep -rl '> \[!warning\] Contradiction detected' --include='*.md' --exclude-dir='raw sources' --exclude-dir=raw --exclude-dir=.git --exclude-dir=.trash --exclude-dir=node_modules . 2>/dev/null | wc -l || echo "unavailable")
+RESOLVED_FLAGS=$(grep -rl '> \[!success\] Contradiction resolved' --include='*.md' --exclude-dir='raw sources' --exclude-dir=raw --exclude-dir=.git --exclude-dir=.trash --exclude-dir=node_modules . 2>/dev/null | wc -l || echo "unavailable")
+
+# 5. Unresolved-link delta vs previous weekly review (bash-side parse, QK condition 3)
+PREV_UNRESOLVED=""
+PREV_REVIEW=$(ls -1 "wiki/"Weekly\ Review*.md 2>/dev/null | grep -v -- "$TODAY" | sort | tail -1)
+if [ -n "$PREV_REVIEW" ]; then
+  PREV_UNRESOLVED=$(grep -oP 'unresolved links: \K[0-9]+' "$PREV_REVIEW" 2>/dev/null | head -1)
+fi
+if [ -n "$PREV_UNRESOLVED" ] && [ "$UNRESOLVED" != "unavailable" ]; then
+  UNRESOLVED_DELTA="$((UNRESOLVED - PREV_UNRESOLVED)) vs previous review ($PREV_UNRESOLVED)"
+else
+  UNRESOLVED_DELTA="baseline — no prior week to diff against"
+fi
+# --- end OS health pre-computation (isolated failure domain: nothing above exits the script) ---
+
 /home/martin/.local/bin/claude --dangerously-skip-permissions -p "
 Read _CLAUDE.md and CLAUDE.md at the vault root first — follow their rules exactly.
 
@@ -32,6 +76,12 @@ Generate a weekly review note:
    - ## Projects — active projects touched this week with status
    - ## Learnings — insights or lessons from this week
    - ## Carry Forward — open threads, next steps
+   - ## OS health — copy these pre-computed metrics VERBATIM (they are deterministic ground truth computed by the script; do not recompute, round, or alter them):
+     - Scheduled-run failures: $FAIL_WEEK this week, $FAIL_TOTAL all-time (Logs/scheduled/FAILURES.md)
+     - Graph: $ORPHANS orphan notes (zero_backlink); unresolved links: $UNRESOLVED
+     - Unresolved-link delta: $UNRESOLVED_DELTA
+     - Registers: session-state.md $SS_LINES lines; memory/agents/ combined $AGENT_LINES lines
+     - Contradiction flags: $OPEN_FLAGS files open, $RESOLVED_FLAGS files resolved
    - ## Related — wikilinks to daily notes and key project notes from this week
 5. Append a link to the review from this week's last daily note.
 6. Update VAULT ADDITIONS TRACKER: one line for the review note.

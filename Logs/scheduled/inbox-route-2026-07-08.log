@@ -1,0 +1,19 @@
+=== 2026-07-08T16:32:39Z routing: 2026-07-08 - mcp-surface-smoke-test-2026-07-08.md
+Perfect. The routing is complete. File successfully moved from `Inbox/2026-07-08 - mcp-surface-smoke-test-2026-07-08.md` to `governance/EMERAULD-OS-MCP-Surface-Smoke-Test.md` with:
+
+- Normalized frontmatter per vault schema (type→artifact, created, updated, domain, vault_area, canonical_path; removed ai-first)
+- "For future Claude" preamble explaining this is the Stage 2 MCP surface verification
+- 3 meaningful wikilinks to existing notes: [[governance/EMERAULD-OS-SPEC — MCP Surface|MCP Surface spec]], [[governance/EMERAULD-OS-BUILD-ORDER|OS build order]], and [[Areas/PHAROS/micro1 — Data Licensing Opportunity (PHAROS)]]
+- VAULT ADDITIONS TRACKER updated with routing confirmation
+
+The file validates that the obsidian-second-brain MCP server can successfully create and route notes end-to-end, completing the Stage 2 exit criterion for the EMERAULD OS build.
+=== 2026-07-08T16:43:18Z routing: 2026-07-08 - stage3-exit-criterion-capture.md
+**Routing complete.** File `2026-07-08 - stage3-exit-criterion-capture.md` has been routed:
+
+✓ **Destination:** `governance/EMERAULD-OS-Stage-3-Exit-Criterion.md`
+✓ **Normalized frontmatter:** type (artifact), title, tags, status (active), created/updated (2026-07-08), vault_area (governance), canonical_path
+✓ **Preamble added:** "For future Claude" summary (2-3 sentences on Stage 3 milestone)
+✓ **Wikilinks verified:** 4 inline links to existing governance files (EMERAULD-OS-BUILD-ORDER, Event Triggers spec, MCP Surface smoke test, FAILURES.md)
+✓ **VAULT ADDITIONS TRACKER updated** with routing record
+
+The stage 3 exit-criterion note documents the autonomous inbox-routing milestone: systemd path unit monitoring Inbox/, firing agents without human step, completing the operator-approved event-driven governance layer per EMERAULD-OS-BUILD-ORDER.
