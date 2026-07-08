@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/skills/verification-before-completion.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 - '[[wiki/Skill Domain — Operator Wellbeing]]'
 skill_id: verification-before-completion

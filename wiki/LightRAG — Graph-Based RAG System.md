@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
 - '[[wiki/GSD — Get Shit Done Context Engineering System]]'
 - '[[wiki/GSD — Get-Shit-Done Claude Code System]]'
-- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[wiki/Personal and Projects MOC]]'

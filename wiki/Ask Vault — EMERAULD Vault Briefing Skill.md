@@ -40,7 +40,7 @@ backlinks:
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/AGENT-NAMING-STUDY]]'
 - '[[governance/hephaistos/CLAUDE-REVIEW-CHECKLIST]]'
 - '[[hephaistos/personal-assistant-agents/metadata-link-warden/references/ecosystem]]'

@@ -25,7 +25,7 @@ backlinks:
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
-> For future Claude: Master catalog of all EMERAULD vault sections. Read this first when navigating the vault — it is cheaper and faster than listing directories. Regenerate with `/obsidian-init`. Vault has 575+ wiki notes; this index lists hubs, MOCs, and structural files, not every individual note. Use [[wiki/Governance and PHAROS MOC]], [[wiki/Research and Papers MOC]], and [[wiki/Personal and Projects MOC]] as topic entry points. Use `vsearch.py` for semantic search across all 575+ wiki notes.
+> For future Claude: Master catalog of all EMERAULD vault sections. Read this first when navigating the vault — it is cheaper and faster than listing directories. Regenerate with `/obsidian-init`. Vault has 575+ wiki notes; this index lists hubs, MOCs, and structural files, not every individual note. Use [[Areas/PHAROS/Governance and PHAROS MOC]], [[wiki/Research and Papers MOC]], and [[wiki/Personal and Projects MOC]] as topic entry points. Use `vsearch.py` for semantic search across all 575+ wiki notes.
 
 # EMERAULD Vault Index
 
@@ -97,7 +97,7 @@ Topic indexes for subjects with 7+ linked notes.
 - [[maps/Queer Media and Ritual Map\|Queer Media and Ritual Map]] — pagan, queer embodiment, ritual studies
 - [[maps/PHAROS Method Map\|PHAROS Method Map]] — PHAROS methodology; RECURSO, RDAIG, DAST
 
-See also wiki MOCs: [[wiki/Writing and Novels MOC]] · [[wiki/Personal and Projects MOC]] · [[wiki/Control Protocols MOC]] · [[wiki/Legitimacy Machines MOC]] · [[wiki/MCP and Runtime Integration MOC]] · [[wiki/Manuscript Pipeline MOC]] · [[wiki/Pagan and Queer Ritual Studies MOC]]
+See also wiki MOCs: [[wiki/Writing and Novels MOC]] · [[wiki/Personal and Projects MOC]] · [[Areas/PHAROS/Control Protocols MOC]] · [[wiki/Legitimacy Machines MOC]] · [[wiki/MCP and Runtime Integration MOC]] · [[wiki/Manuscript Pipeline MOC]] · [[wiki/Pagan and Queer Ritual Studies MOC]]
 
 ---
 
@@ -106,7 +106,7 @@ See also wiki MOCs: [[wiki/Writing and Novels MOC]] · [[wiki/Personal and Proje
 All durable linked knowledge notes. Too numerous to list individually — use entry points:
 
 ### Navigation hubs
-- [[wiki/Governance and PHAROS MOC]] — AI governance, PHAROS products, commercial strategy
+- [[Areas/PHAROS/Governance and PHAROS MOC]] — AI governance, PHAROS products, commercial strategy
 - [[wiki/Research and Papers MOC]] — papers, academic pipeline, publication track
 - [[wiki/Writing and Novels MOC]] — fiction, thesis-book, creative work
 - [[wiki/Personal and Projects MOC]] — personal life, project recovery (Fisher King)

@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'

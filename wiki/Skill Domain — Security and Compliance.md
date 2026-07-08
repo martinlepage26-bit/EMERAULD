@@ -29,12 +29,12 @@ vault_area: wiki
 canonical_path: wiki/Skill Domain — Security and Compliance.md
 backlink_count: 7
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

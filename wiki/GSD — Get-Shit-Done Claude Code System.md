@@ -30,11 +30,11 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Claude Code Skill Corpus]]'
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
-- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[wiki/Personal and Projects MOC]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 ---
 
 # GSD — Get-Shit-Done Claude Code System

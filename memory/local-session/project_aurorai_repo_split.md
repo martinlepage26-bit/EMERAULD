@@ -22,7 +22,7 @@ vault_area: memory
 canonical_path: memory/local-session/project_aurorai_repo_split.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 - '[[memory/local-session/feedback_aurorai_spelling]]'
 ---

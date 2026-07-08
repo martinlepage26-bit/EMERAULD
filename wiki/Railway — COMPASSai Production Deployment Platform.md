@@ -26,7 +26,7 @@ canonical_path: wiki/Railway — COMPASSai Production Deployment Platform.md
 backlink_count: 4
 backlinks:
 - '[[wiki/COMPASSai — Governance Engine]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

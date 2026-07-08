@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/skills/security-ownership-map.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Security and Compliance]]'
 skill_id: security-ownership-map
 domain: Security and Compliance

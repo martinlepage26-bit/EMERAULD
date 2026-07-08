@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Governance Controls Integration Dashboard]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'

@@ -1,0 +1,494 @@
+source,dest,action,cluster
+wiki/Governance and PHAROS MOC.md,Areas/PHAROS/Governance and PHAROS MOC.md,move,
+wiki/Skill Ecosystem — Professional Capability Registry.md,Areas/PHAROS/Skill Ecosystem — Professional Capability Registry.md,move,
+wiki/Skill Corpus — Complete Live Index (260 Active Skills).md,Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills).md,move,
+wiki/Martin Lepage — Professional Profile.md,Areas/PHAROS/Martin Lepage — Professional Profile.md,move,
+wiki/PHAROS Method — Technical Reference.md,Areas/PHAROS/PHAROS Method — Technical Reference.md,move,
+wiki/PHAROS Commercial Strategy.md,Areas/PHAROS/PHAROS Commercial Strategy.md,move,
+wiki/HEPHAISTOS Agent Architecture.md,Areas/PHAROS/HEPHAISTOS Agent Architecture.md,move,
+wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md,Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md,move,
+wiki/Skill Map — Canonical Routed Skills (2026-05-06).md,Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06).md,move,
+wiki/PHAROS Invention Disclosure.md,Areas/PHAROS/PHAROS Invention Disclosure.md,move,
+wiki/PHAROS Procurement-Unblock Sprint.md,Areas/PHAROS/PHAROS Procurement-Unblock Sprint.md,move,
+wiki/Control Protocols MOC.md,Areas/PHAROS/Control Protocols MOC.md,move,
+wiki/PHAROS Scholarly Publication Track.md,Areas/PHAROS/PHAROS Scholarly Publication Track.md,move,
+wiki/Emotional Alliance vs. Evidentiary Discipline in AI.md,Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI.md,move,
+wiki/PHAROS AI Ethics Submission — Springer Draft.md,Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft.md,move,
+wiki/PHAROS Recalibration — Unified Governance Architecture.md,Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture.md,move,
+wiki/PHAROS Runbook SOP.md,Areas/PHAROS/PHAROS Runbook SOP.md,move,
+wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06).md,Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06).md,move,
+wiki/PHAROS AI Lineage — Source of Truth.md,Areas/PHAROS/PHAROS AI Lineage — Source of Truth.md,move,
+wiki/HELIX — Value Proposition and Buyer Profile.md,Areas/PHAROS/HELIX — Value Proposition and Buyer Profile.md,move,
+wiki/COMPASSai — Governance Engine.md,Areas/PHAROS/COMPASSai — Governance Engine.md,move,
+wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28.md,Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28.md,move,
+wiki/PHAROS-AI Webservice — pharos-ai.ca.md,Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca.md,move,
+wiki/PHAROS.md,Areas/PHAROS/PHAROS.md,move,
+wiki/PHAROS Licensing Prospectus.md,Areas/PHAROS/PHAROS Licensing Prospectus.md,move,
+wiki/Governance Controls Integration Dashboard.md,Areas/PHAROS/Governance Controls Integration Dashboard.md,move,
+wiki/AurorA — COMPASSai Input Module.md,Areas/PHAROS/AurorA — COMPASSai Input Module.md,move,
+wiki/PHAROS Evidentiary Gap Closure Bundle.md,Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle.md,move,
+wiki/ROOK — Session Boundary Model.md,Areas/PHAROS/ROOK — Session Boundary Model.md,move,
+wiki/PHAROS — Origin and Doctrine.md,Areas/PHAROS/PHAROS — Origin and Doctrine.md,move,
+wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01).md,Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01).md,move,
+wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18).md,Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18).md,move,
+wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning.md,Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning.md,move,
+wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06).md,Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06).md,move,
+wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS.md,Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS.md,move,
+wiki/Agent Distillation Pipeline.md,Areas/PHAROS/Agent Distillation Pipeline.md,move,
+wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack.md,Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack.md,move,
+wiki/Second Self System — Identity Kernel and Agent Routing Architecture.md,Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture.md,move,
+wiki/Second Self System — Public Voice Examples.md,Areas/PHAROS/Second Self System — Public Voice Examples.md,move,
+wiki/Obsidian Agent Vault — Asset Canon.md,Areas/PHAROS/Obsidian Agent Vault — Asset Canon.md,move,
+wiki/Obsidian Agent Vault — Launch Kit.md,Areas/PHAROS/Obsidian Agent Vault — Launch Kit.md,move,
+wiki/Obsidian Agent Vault — Setup Guide.md,Areas/PHAROS/Obsidian Agent Vault — Setup Guide.md,move,
+wiki/Skill Domain — AI and LLM Tools.md,Areas/PHAROS/Skill Domain — AI and LLM Tools.md,move,
+wiki/Skill Domain — Operator Wellbeing.md,Areas/PHAROS/Skill Domain — Operator Wellbeing.md,move,
+wiki/MCP and Runtime Integration MOC.md,Areas/PHAROS/MCP and Runtime Integration MOC.md,move,
+wiki/External Data Registry — Phase 1 Build.md,Areas/PHAROS/External Data Registry — Phase 1 Build.md,move,
+wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md,Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md,move,
+wiki/Research and Papers MOC.md,Areas/Writing/Research and Papers MOC.md,move,
+wiki/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone.md,Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone.md,move,
+wiki/Recursive Deterministic AI Governance — Method and Paper.md,Areas/Writing/Recursive Deterministic AI Governance — Method and Paper.md,move,
+wiki/Writing and Novels MOC.md,Areas/Writing/Writing and Novels MOC.md,move,
+"wiki/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010).md","Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010).md",move,
+wiki/Pagan and Queer Ritual Studies MOC.md,Areas/Writing/Pagan and Queer Ritual Studies MOC.md,move,
+wiki/Manuscript Pipeline MOC.md,Areas/Writing/Manuscript Pipeline MOC.md,move,
+wiki/Queer Sociology of Magic and Ritual.md,Areas/Writing/Queer Sociology of Magic and Ritual.md,move,
+"wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes.md","Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes.md",move,
+wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance.md,Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance.md,move,
+wiki/Social Compass Paper — Ritual Authority and Régime de Preuve.md,Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve.md,move,
+wiki/First Method Paper — Recursive AI Governance as Executable Method.md,Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method.md,move,
+wiki/Academic Paper Pipeline.md,Areas/Writing/Academic Paper Pipeline.md,move,
+"wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch.md","Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch.md",move,
+wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory.md,Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory.md,move,
+wiki/Complete Paper List — Martin Lepage Corpus.md,Areas/Writing/Complete Paper List — Martin Lepage Corpus.md,move,
+wiki/Legitimacy Machines — Book Skeleton and Architecture.md,Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture.md,move,
+wiki/Legitimacy Machines MOC.md,Areas/Writing/Legitimacy Machines MOC.md,move,
+wiki/For Her Alone to Wield — Buffy Power as Infrastructure.md,Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure.md,move,
+wiki/Loop Papers and Recursive Governance.md,Areas/Writing/Loop Papers and Recursive Governance.md,move,
+"wiki/Ritual, Magic, and Institutional Authority.md","Areas/Writing/Ritual, Magic, and Institutional Authority.md",move,
+wiki/HENRY — Research Paper Writing System.md,Areas/Writing/HENRY — Research Paper Writing System.md,move,
+wiki/Ritual Machine Lab — Legitimacy Machines Introduction.md,Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction.md,move,
+wiki/Alchemy of the Wound — Novel.md,Areas/Writing/Alchemy of the Wound — Novel.md,move,
+wiki/Breath of the Astral Year — Astrology Monograph.md,Areas/Writing/Breath of the Astral Year — Astrology Monograph.md,move,
+wiki/Why Be King Im Already a Queen — Book Project.md,Areas/Writing/Why Be King Im Already a Queen — Book Project.md,move,
+"wiki/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md","Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md",move,
+wiki/Ethics Poetics and Praxis — Braided Discipline.md,Areas/Writing/Ethics Poetics and Praxis — Braided Discipline.md,move,
+wiki/Power in International Politics — Barnett & Duvall 2005 (Taxonomy).md,Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy).md,move,
+"wiki/The Data Gaze — Beer (Capitalism, Power, Perception).md","Resources/The Data Gaze — Beer (Capitalism, Power, Perception).md",move,
+wiki/Regulatory Standards Reference Stack — Governance Controls Grounding.md,Resources/Regulatory Standards Reference Stack — Governance Controls Grounding.md,move,
+wiki/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence).md,Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence).md,move,
+wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence).md,Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence).md,move,
+"wiki/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment).md","Resources/Automating Inequality — Eubanks (Digital Poorhouse, profiling and punishment).md",move,
+"wiki/The Gift — Mauss (Obligation, Reciprocity, Hau).md","Resources/The Gift — Mauss (Obligation, Reciprocity, Hau).md",move,
+wiki/MASTER REFERENCE SAFE — Canonical Bibliography System.md,Resources/MASTER REFERENCE SAFE — Canonical Bibliography System.md,move,
+wiki/Epistemic Governance — Canonical Reference.md,Resources/Epistemic Governance — Canonical Reference.md,move,
+wiki/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion).md,Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion).md,move,
+wiki/Literary References — Craft Guide.md,Resources/Literary References — Craft Guide.md,move,
+"wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender).md","Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender).md",move,
+wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone).md,Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone).md,move,
+wiki/Le Mythe de Sisyphe — Camus (Absurd as Starting Point).md,Resources/Le Mythe de Sisyphe — Camus (Absurd as Starting Point).md,move,
+wiki/Master Bibliography — Références bibliographiques 2025.md,Resources/Master Bibliography — Références bibliographiques 2025.md,move,
+wiki/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11).md,Resources/AI Governance Reference Stack — Annotated Library (Operational 2026-03-11).md,move,
+wiki/Red Team Handbook — Offensive Security Reference.md,Resources/Red Team Handbook — Offensive Security Reference.md,move,
+"wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md","Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations.md",move,
+wiki/Literary References in Common English — Allusion and Idiom Guide.md,Resources/Literary References in Common English — Allusion and Idiom Guide.md,move,
+wiki/Plugin Recommendations.md,Resources/Plugin Recommendations.md,move,
+wiki/Recursive Governance Theory.md,Resources/Recursive Governance Theory.md,move,
+wiki/Evidence Discipline and Epistemics.md,Resources/Evidence Discipline and Epistemics.md,move,
+wiki/Personal and Projects MOC.md,Areas/Personal/Personal and Projects MOC.md,move,
+wiki/CSV_DIAGNOSTIC_REPORT.md,archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT.md,move,
+wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md,archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md,move,
+wiki/Governance Controls — Baseline Assessment (2026-04-26).md,archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26).md,move,
+"wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md","archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md",move,
+wiki/D Library — Genealogy Flags and Cleanup Leads (2026-04-26).md,archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26).md,move,
+wiki/Workspace Cleanup Ledger — 2026-05-31.md,archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31.md,move,
+wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18).md,archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18).md,move,
+wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18).md,archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18).md,move,
+wiki/D Library — Review Unreadable Cleanup (2026-05-04).md,archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04).md,move,
+wiki/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14.md,archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14.md,move,
+wiki/SYSTEM CHECK.md,archive/wiki-2026-07-08/SYSTEM CHECK.md,move,
+wiki/Source Cluster Map — 2026-05-13 Raw Sources.md,archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources.md,move,
+wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10).md,archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10).md,move,
+wiki/Governance Controls — Phase 1 Completion Checklist.md,archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist.md,move,
+wiki/Second Self System Identity Kernel and Agent Routing Architecture.md,archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture.md,move,
+wiki/Queering Neo-Pagan Magic — 2006 Paper.md,Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper.md,consolidate,cluster
+wiki/Queering Neo-Pagan Magic — 2025 Revised Version.md,Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version.md,consolidate,cluster
+wiki/Queering Neo-Pagan Magic — 2026 Paper.md,Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper.md,consolidate,cluster
+wiki/Queering Neo-Pagan Magic — FINAL FINAL PAPER.md,Areas/Writing/Queering Neo-Pagan Magic — FINAL FINAL PAPER.md,consolidate,cluster
+wiki/Queering Neo-Pagan Magic — MRW Submission (2026).md,Areas/Writing/Queering Neo-Pagan Magic — MRW Submission (2026).md,consolidate,cluster
+wiki/For Her Alone to Wield — Cover Letter (2026-05-16).md,Areas/Writing/For Her Alone to Wield — Cover Letter (2026-05-16).md,consolidate,cluster
+wiki/For Her Alone to Wield — HENRY Draft (2026-05-16).md,Areas/Writing/For Her Alone to Wield — HENRY Draft (2026-05-16).md,consolidate,cluster
+wiki/2026 - Mauss - The Gift.md,Resources/2026 - Mauss - The Gift.md,consolidate,cluster
+wiki/Agatha All Along Social Compass — Version Genealogy.md,Areas/Writing/Agatha All Along Social Compass — Version Genealogy.md,move,version-genealogy
+wiki/Alchemy of the Wound — Version Genealogy.md,Areas/Writing/Alchemy of the Wound — Version Genealogy.md,move,version-genealogy
+wiki/Breath of the Astral Year — Version Genealogy.md,Areas/Writing/Breath of the Astral Year — Version Genealogy.md,move,version-genealogy
+wiki/CORPUS Novel — Version Genealogy.md,Areas/Writing/CORPUS Novel — Version Genealogy.md,move,version-genealogy
+wiki/Circle Remains Open — Version Genealogy.md,Areas/Writing/Circle Remains Open — Version Genealogy.md,move,version-genealogy
+wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation.md,Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation.md,move,version-genealogy
+wiki/First Method Paper — Version Genealogy.md,Areas/Writing/First Method Paper — Version Genealogy.md,move,version-genealogy
+wiki/For Her Alone to Wield — Version Genealogy.md,Areas/Writing/For Her Alone to Wield — Version Genealogy.md,move,version-genealogy
+wiki/Governance by Denial — Version Genealogy.md,Areas/Writing/Governance by Denial — Version Genealogy.md,move,version-genealogy
+wiki/Healthcare Packet — Version Genealogy.md,Areas/Writing/Healthcare Packet — Version Genealogy.md,move,version-genealogy
+wiki/Inner Goddess Wicca Gender — Version Genealogy.md,Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy.md,move,version-genealogy
+wiki/Magic After Legitimacy Charmed — Version Genealogy.md,Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy.md,move,version-genealogy
+wiki/Martin Voice Spec — Version Genealogy.md,Areas/Writing/Martin Voice Spec — Version Genealogy.md,move,version-genealogy
+wiki/Neo-Shamanism Gender Narratives — Version Genealogy.md,Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy.md,move,version-genealogy
+wiki/Pagan Magic — Version Genealogy.md,Areas/Writing/Pagan Magic — Version Genealogy.md,move,version-genealogy
+wiki/Pourquoi Rever Encore — Version Genealogy.md,Areas/Writing/Pourquoi Rever Encore — Version Genealogy.md,move,version-genealogy
+wiki/Queer Neo-Pagan Wicca Authenticity — Version Genealogy.md,Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy.md,move,version-genealogy
+wiki/Reboot Performance Gender Identity — Version Genealogy.md,Areas/Writing/Reboot Performance Gender Identity — Version Genealogy.md,move,version-genealogy
+wiki/Recursive AI Governance Very Long Narrative — Version Genealogy.md,Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy.md,move,version-genealogy
+wiki/Sealed Card Protocol — Version Genealogy.md,Areas/Writing/Sealed Card Protocol — Version Genealogy.md,move,version-genealogy
+wiki/September 2024 Retrospective — Version Genealogy.md,Areas/Writing/September 2024 Retrospective — Version Genealogy.md,move,version-genealogy
+wiki/Social Compass Reviewer Responses — Version Genealogy.md,Areas/Writing/Social Compass Reviewer Responses — Version Genealogy.md,move,version-genealogy
+wiki/Spider-Man — Version Genealogy.md,Areas/Writing/Spider-Man — Version Genealogy.md,move,version-genealogy
+wiki/Trust Advantage — Version Genealogy.md,Areas/Writing/Trust Advantage — Version Genealogy.md,move,version-genealogy
+wiki/Unnatural Selection Jurassic Park — Version Genealogy.md,Areas/Writing/Unnatural Selection Jurassic Park — Version Genealogy.md,move,version-genealogy
+wiki/Version Genealogy System.md,Areas/Writing/Version Genealogy System.md,move,version-genealogy
+wiki/Voodoo Doll as Archival Problem — Version Genealogy.md,Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy.md,move,version-genealogy
+wiki/Wicca 2.0 — Version Genealogy.md,Areas/Writing/Wicca 2.0 — Version Genealogy.md,move,version-genealogy
+wiki/Source Cluster — 2026-05-13 Client and Operator Continuity.md,archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity.md,move,source-cluster
+wiki/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs.md,archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs.md,move,source-cluster
+wiki/Source Cluster — 2026-05-13 Governance and Platform Signals.md,archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals.md,move,source-cluster
+wiki/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline.md,archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline.md,move,source-cluster
+wiki/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted).md,archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted).md,move,source-cluster
+wiki/2026-06-29 - idea-discovery.md,Areas/PHAROS/2026-06-29 - idea-discovery.md,move,classified
+wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md,Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md,move,classified
+wiki/90-Day $1M Challenge — Status Report.md,Areas/PHAROS/90-Day $1M Challenge — Status Report.md,move,classified
+wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014).md,Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014).md,move,classified
+wiki/ACTOR Framework — Agent vs Chatbot Decision Tool.md,Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool.md,move,classified
+wiki/AGATHA Failure Pack — Theseus Continuity Stress Test.md,Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test.md,move,classified
+wiki/AI Ethics Literature — Contestable Governance Artifacts.md,Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts.md,move,classified
+"wiki/AI Governance Course — Ethics, Failure Modes, and Practice.md","Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice.md",move,classified
+wiki/AI Governance Manifesto — Upstream Institutional Practice.md,Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice.md,move,classified
+wiki/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan.md,Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan.md,move,classified
+wiki/AI Governance Public Statement and Market Impact Pack.md,Areas/PHAROS/AI Governance Public Statement and Market Impact Pack.md,move,classified
+wiki/AI Governance Sprint — One-Page Sellable Packet.md,Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet.md,move,classified
+wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md,Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md,move,classified
+wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md,Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md,move,classified
+wiki/AI Paper Prompt — PHAROS Recursive Workflow Case Study.md,Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study.md,move,classified
+"wiki/AI Personas — Agatha, DOTTIE, and MOBI.md","Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI.md",move,classified
+wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure.md,Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure.md,move,classified
+wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026).md,Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026).md,move,classified
+wiki/AI Self-Report — Epistemic Status Recursion and Perturbation.md,Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation.md,move,classified
+wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization.md,Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization.md,move,classified
+wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026).md,Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026).md,move,classified
+wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison.md,Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison.md,move,classified
+wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript.md,Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript.md,move,classified
+wiki/Agatha Grant Post-Mortem — First Assessment.md,archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment.md,move,classified
+wiki/Agatha Unified Skill System — Eight Sovereign Operators.md,Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators.md,move,classified
+wiki/Agent Ecosystem Audit — 2026-04-23.md,archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23.md,move,classified
+wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution.md,Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution.md,move,classified
+wiki/Agent Session Phenomenology.md,Areas/PHAROS/Agent Session Phenomenology.md,move,classified
+wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption.md,Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption.md,move,classified
+"wiki/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin).md","Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin).md",move,classified
+wiki/Anti-Charm.md,Areas/PHAROS/Anti-Charm.md,move,classified
+wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026).md,Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026).md,move,classified
+wiki/Architectural AI Governance — Willis and PBSAI.md,Areas/PHAROS/Architectural AI Governance — Willis and PBSAI.md,move,classified
+wiki/Argus.md,Areas/PHAROS/Argus.md,move,classified
+wiki/Authority Without Ethics — The Love Witch.md,Areas/Writing/Authority Without Ethics — The Love Witch.md,move,classified
+wiki/Authority Without Power-Over.md,Areas/PHAROS/Authority Without Power-Over.md,move,classified
+wiki/Avatar Chapter — A Queer Reading of Embodied Power (English).md,Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English).md,move,classified
+wiki/Avatar — Lecture queer du pouvoir incarné.md,Areas/Writing/Avatar — Lecture queer du pouvoir incarné.md,move,classified
+wiki/Awesome Design Resources — Curated UI-UX Reference List.md,Resources/Awesome Design Resources — Curated UI-UX Reference List.md,move,classified
+"wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology.md","Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology.md",move,classified
+"wiki/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining).md","Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining).md",move,classified
+wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework.md,Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework.md,move,classified
+wiki/Book of Beliefs and Theories — Martin's Magical System (2000s).md,Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s).md,move,classified
+wiki/Brutal Isms — Art Grant Proposal.md,Areas/Writing/Brutal Isms — Art Grant Proposal.md,move,classified
+wiki/Brutal Isms — Grant Revision Package (2026-05-12).md,Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12).md,move,classified
+wiki/CDPDJ Complaint — Lepage v Calian and Novartis.md,Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis.md,move,classified
+wiki/CLAUDEX — AI Dialogue Archive.md,archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive.md,move,classified
+wiki/CLI-Anything — Agent Harness for Tool Integration.md,Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration.md,move,classified
+wiki/CLIENT ACCOUNTS.md,Areas/PHAROS/CLIENT ACCOUNTS.md,move,classified
+wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle.md,archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle.md,move,classified
+wiki/CODEX Writing Projects Manifest.md,Areas/Writing/CODEX Writing Projects Manifest.md,move,classified
+wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md,Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md,move,classified
+wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding).md,Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding).md,move,classified
+wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding).md,Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding).md,move,classified
+wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md,Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md,move,classified
+wiki/CORPUS ou le génie de l'insistance — Novel.md,Areas/Writing/CORPUS ou le génie de l'insistance — Novel.md,move,classified
+wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation).md,Resources/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation).md,move,classified
+wiki/Chat Node Instructions — 16-Node Scholarly Paper Pipeline.md,Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline.md,move,classified
+wiki/Chrome Extension Monetization - Policy and Product Options.md,Areas/PHAROS/Chrome Extension Monetization - Policy and Product Options.md,move,classified
+wiki/Claude Code Skill Corpus.md,Areas/PHAROS/Claude Code Skill Corpus.md,move,classified
+wiki/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons.md,Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons.md,move,classified
+wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior.md,Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior.md,move,classified
+wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01).md,archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01).md,move,classified
+wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25).md,archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25).md,move,classified
+wiki/Codex Skill Corpus Sync — 2026-04-20.md,archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20.md,move,classified
+"wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md","Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md",move,classified
+"wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance.md","Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance.md",move,classified
+"wiki/Consent, Fraud, and Boundary Protocols.md","Areas/PHAROS/Consent, Fraud, and Boundary Protocols.md",move,classified
+wiki/Consented Frame — Ethics and Wisdom Gate.md,Areas/PHAROS/Consented Frame — Ethics and Wisdom Gate.md,move,classified
+wiki/Contremaître — Groupe Lavoie Field-Operations Platform.md,Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform.md,move,classified
+wiki/Crossing Under Watch — Troll's Toll and Digital Ritual Passage.md,Areas/Writing/Crossing Under Watch — Troll's Toll and Digital Ritual Passage.md,move,classified
+wiki/Cultural and Lyric Corpus Memo — 2026-05-14.md,Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14.md,move,classified
+wiki/Custom GPT Products — PHAROS AI GPT Roster.md,Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster.md,move,classified
+wiki/D Drive Scan — 2026-05-12.md,archive/wiki-2026-07-08/D Drive Scan — 2026-05-12.md,move,classified
+wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture.md,Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture.md,move,classified
+wiki/DG Clean Migration Report — C to D Transfer Verification (2026-05-12).md,archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12).md,move,classified
+wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01.md,archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01.md,move,classified
+"wiki/Delta Closure Frame — Conditions, Actors, Constraints.md","Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints.md",move,classified
+wiki/Desktop Text Intake — 2026-05-06.md,archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06.md,move,classified
+wiki/Desktop and Downloads Scan — 2026-05-12.md,archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12.md,move,classified
+wiki/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10).md,Areas/Writing/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10).md,move,classified
+wiki/Diamond-Eyes — Aesthetic Refinement Skill.md,Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill.md,move,classified
+wiki/Disease — Lady Gaga — Lyrics.md,Resources/Disease — Lady Gaga — Lyrics.md,move,classified
+wiki/Documents Root Intake — Hermes Action Map 2026-04-28.md,archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28.md,move,classified
+wiki/Documents Root Loose Files Intake — 2026-04-28.md,archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28.md,move,classified
+wiki/Documents and Downloads Coverage Matrix — 2026-05-06.md,archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06.md,move,classified
+wiki/Documents and Downloads Scan — 2026-05-06.md,archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06.md,move,classified
+wiki/Dr. Sort and LOTUS Ownership Decision — March 2026.md,Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026.md,move,classified
+"wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07).md","Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07).md",move,classified
+wiki/EML Function — Minimal Operator and Scientific-Calculator Completeness.md,Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness.md,move,classified
+wiki/EU AI Act and Law 25 — Regulatory Pressure Window.md,Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window.md,move,classified
+wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md,Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md,move,classified
+wiki/Elemental Agents — Productization Plan (2026-05-24).md,Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24).md,move,classified
+wiki/Embedding Before Rupture — Relational AI and Institutional Power.md,Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md,move,classified
+wiki/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27).md,Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27).md,move,classified
+"wiki/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time.md","Areas/PHAROS/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time.md",move,classified
+"wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon.md","Resources/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon.md",move,classified
+wiki/Epistemic AI Purple Teaming.md,Areas/PHAROS/Epistemic AI Purple Teaming.md,move,classified
+wiki/Epistemic Operator — Operational Specification.md,Areas/PHAROS/Epistemic Operator — Operational Specification.md,move,classified
+wiki/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer.md,Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer.md,move,classified
+wiki/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md,Areas/Writing/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md,move,classified
+wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing.md,Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing.md,move,classified
+wiki/External Data Refresh Calendar — Phase 1 Build.md,Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build.md,move,classified
+"wiki/Fluency, Interruption, and Institutional Accountability.md","Areas/Writing/Fluency, Interruption, and Institutional Accountability.md",move,classified
+wiki/Founder Charter — Lepage and Stocker.md,Areas/PHAROS/Founder Charter — Lepage and Stocker.md,move,classified
+wiki/Framing Processes and Social Movements — Benford & Snow 2000.md,Resources/Framing Processes and Social Movements — Benford & Snow 2000.md,move,classified
+wiki/GSD Tier 1 — Core Workflow Skills Hub.md,Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub.md,move,classified
+wiki/GSD — Get Shit Done Context Engineering System.md,Areas/PHAROS/GSD — Get Shit Done Context Engineering System.md,move,classified
+wiki/GSD — Get-Shit-Done Claude Code System.md,Areas/PHAROS/GSD — Get-Shit-Done Claude Code System.md,move,classified
+wiki/Glitching the Sacred.md,Areas/Writing/Glitching the Sacred.md,move,classified
+wiki/Global Publication Search — PHAROS Method and Variants.md,Areas/PHAROS/Global Publication Search — PHAROS Method and Variants.md,move,classified
+wiki/Governance Controls — Incident Response (Control Failure Procedures).md,Areas/PHAROS/Governance Controls — Incident Response (Control Failure Procedures).md,move,classified
+wiki/Governance Controls — Monitoring Plan & Automation Roadmap.md,Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap.md,move,classified
+wiki/Governance Typology — Recursive AI Governance Taxonomy.md,Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy.md,move,classified
+wiki/Governance and Platform Signals Memo — 2026-05-14.md,Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14.md,move,classified
+"wiki/Governance by Denial — Legibility, Capacity, Classification (Draft).md","Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft).md",move,classified
+wiki/Governance by Denial.md,Areas/Writing/Governance by Denial.md,move,classified
+wiki/Governed Revision Loop — Responsible Self-Improving Agents.md,Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents.md,move,classified
+wiki/Governed Self-Improvement — Method Slide Asset.md,Areas/PHAROS/Governed Self-Improvement — Method Slide Asset.md,move,classified
+wiki/Governess Agatha GPT — ChatGPT Product Specification.md,Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification.md,move,classified
+wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11).md,Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11).md,move,classified
+wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build.md,Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build.md,move,classified
+"wiki/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03).md","Areas/PHAROS/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03).md",move,classified
+wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06.md,Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06.md,move,classified
+wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06.md,Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06.md,move,classified
+wiki/HELIX Potential Clients - Source Sweep 2026-05-06.md,Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06.md,move,classified
+wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md,Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md,move,classified
+wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md,Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md,move,classified
+wiki/HELIX Test Run — Claude Code Agents as Subject (2026).md,Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026).md,move,classified
+wiki/HELIX Test Run — Epstein Files Topic (2026).md,Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026).md,move,classified
+wiki/HEXA Press — Publishing and Practice Initiative.md,Areas/Writing/HEXA Press — Publishing and Practice Initiative.md,move,classified
+wiki/Halberstam — The Queer Art of Failure (2011).md,Resources/Halberstam — The Queer Art of Failure (2011).md,move,classified
+wiki/Harrowfield Clinic — AI Governance Failure Case Study.md,Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study.md,move,classified
+wiki/Healthcare Governance Packet — Recursive Governance for Providers.md,Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers.md,move,classified
+wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification.md,Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification.md,move,classified
+wiki/Hermes Dashboard — Professional Governance Tool.md,Areas/PHAROS/Hermes Dashboard — Professional Governance Tool.md,move,classified
+wiki/Host Environment — pharos-corpus-runner-01.md,Areas/PHAROS/Host Environment — pharos-corpus-runner-01.md,move,classified
+wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec).md,Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec).md,move,classified
+wiki/IF.EMOTION — Empathetic AI Architecture.md,Areas/PHAROS/IF.EMOTION — Empathetic AI Architecture.md,move,classified
+wiki/IP and Manuscript Brief — 2026-05-14.md,Areas/PHAROS/IP and Manuscript Brief — 2026-05-14.md,move,classified
+wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md,Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md,move,classified
+wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics.md,Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics.md,move,classified
+wiki/InfraFabric Architecture.md,Areas/PHAROS/InfraFabric Architecture.md,move,classified
+wiki/InfraFabric Codex Alignment — System-Shaper Frame.md,Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame.md,move,classified
+wiki/InfraFabric MCP Stack — Remote Bundles.md,Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles.md,move,classified
+wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30).md,Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30).md,move,classified
+wiki/Inner Mind Eye.md,Areas/PHAROS/Inner Mind Eye.md,move,classified
+wiki/Intelligence Definitions and AI Bias — 1956 Lecture.md,Resources/Intelligence Definitions and AI Bias — 1956 Lecture.md,move,classified
+wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland).md,Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland).md,move,classified
+wiki/Kickstart App Prompt — Template and Synthesis Framework.md,Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework.md,move,classified
+wiki/L99 PHAROS Migration Artifacts 2026-04-19.md,archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19.md,move,classified
+wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification.md,Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification.md,move,classified
+wiki/LOTUS Model — Agency and Social Positioning.md,Areas/PHAROS/LOTUS Model — Agency and Social Positioning.md,move,classified
+wiki/LOTUS Premium Spec.md,Areas/PHAROS/LOTUS Premium Spec.md,move,classified
+wiki/La fréquence brisée du verbe — Roman.md,Areas/Writing/La fréquence brisée du verbe — Roman.md,move,classified
+wiki/Le sang qui porte ton nom — Novel.md,Areas/Writing/Le sang qui porte ton nom — Novel.md,move,classified
+wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022.md,Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022.md,move,classified
+wiki/LegiPro Canada-QC — Compliance Evidence Service Plan.md,Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan.md,move,classified
+wiki/Legitimacy Machines Altars of Control — Full Book Architecture.md,Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture.md,move,classified
+wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica).md,Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica).md,move,classified
+wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md,Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md,move,classified
+wiki/Library Master Reference Intake (2026-04-26).md,archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26).md,move,classified
+wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements.md,Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements.md,move,classified
+wiki/Livre des Ombres — Martin's Magical System (1996-2026).md,Areas/Writing/Livre des Ombres — Martin's Magical System (1996-2026).md,move,classified
+wiki/Local Hardware and Discovery Snapshot — Laptop A.md,archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A.md,move,classified
+wiki/Loop Hinge Candidate — This Paper May Not Exist.md,Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist.md,move,classified
+wiki/L’esprit du don — Godbout & Caillé (1992).md,Resources/L’esprit du don — Godbout & Caillé (1992).md,move,classified
+wiki/Machine Limitation.md,Areas/PHAROS/Machine Limitation.md,move,classified
+wiki/Magic After Legitimacy — Charmed and the Governance of Female Power.md,Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power.md,move,classified
+"wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers).md","Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers).md",move,classified
+wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads.md,Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads.md,move,classified
+wiki/Martin Lepage — AI Governance Consulting Profile Assessment.md,Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment.md,move,classified
+wiki/Masculinités et ritualités — La magie chez les Radical Faeries.md,Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries.md,move,classified
+wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique.md,Areas/Writing/Mathématiques comme grammaire profonde des relations — Essai philosophique.md,move,classified
+wiki/Möbius Protocol — AI Self-Polygraph Template.md,Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template.md,move,classified
+wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023).md,Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023).md,move,classified
+wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact.md,Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact.md,move,classified
+wiki/Narrative and Method Integration — Creative Articulations of Governance.md,Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance.md,move,classified
+"wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA).md","Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA).md",move,classified
+wiki/Neo-Shamanism and Gender — Montreal Pagan Community.md,Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community.md,move,classified
+wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control.md,Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control.md,move,classified
+wiki/Obsidian Agent Vault Launch — Commercial Skill.md,Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill.md,move,classified
+wiki/Obsidian Second Brain Product.md,Areas/PHAROS/Obsidian Second Brain Product.md,move,classified
+"wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024.md","Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024.md",move,classified
+wiki/OpenAI Governance Framework — Comparison with PHAROS.md,Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS.md,move,classified
+wiki/Operator Continuity Memo — 2026-05-14.md,archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14.md,move,classified
+wiki/Operator-Check Skill — Burnout Cascade Interrupt.md,Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt.md,move,classified
+wiki/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord).md,Resources/Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord).md,move,classified
+wiki/PAPER BUILDER — Source Bundle and HENRY Origin.md,Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin.md,move,classified
+wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates.md,Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates.md,move,classified
+wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01).md,archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01).md,move,classified
+wiki/PHAROS AI and Ethics Submission — Architecture Paper.md,Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper.md,move,classified
+wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026).md,archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026).md,move,classified
+wiki/PHAROS Company Registration and Security Incidents.md,Areas/PHAROS/PHAROS Company Registration and Security Incidents.md,move,classified
+wiki/PHAROS Cross-AI Strategy Matrix.md,Areas/PHAROS/PHAROS Cross-AI Strategy Matrix.md,move,classified
+wiki/PHAROS Final Voice Operator — GPT Creator.md,Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator.md,move,classified
+"wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis).md","Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis).md",move,classified
+wiki/PHAROS Legal Classification — CAE Code Strategy.md,Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy.md,move,classified
+wiki/PHAROS LinkedIn April 2026 Publishing Routine.md,archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine.md,move,classified
+wiki/PHAROS Method — Core Framework.md,Areas/PHAROS/PHAROS Method — Core Framework.md,move,classified
+wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19).md,archive/wiki-2026-07-08/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19).md,move,classified
+wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets.md,Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets.md,move,classified
+wiki/PHAROS Product Stack.md,Areas/PHAROS/PHAROS Product Stack.md,move,classified
+wiki/PHAROS SURFACE.md,Areas/PHAROS/PHAROS SURFACE.md,move,classified
+wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture.md,Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture.md,move,classified
+wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26).md,archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26).md,move,classified
+wiki/PHAROS Workspace Inventory 2026-04-18.md,archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18.md,move,classified
+wiki/PROTOCOLS — Debate and Red-Team Runbook.md,Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook.md,move,classified
+"wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca).md","Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca).md",move,classified
+wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone).md,Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone).md,move,classified
+wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md,Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md,move,classified
+wiki/Paper Planes — M.I.A. — Lyrics.md,Resources/Paper Planes — M.I.A. — Lyrics.md,move,classified
+wiki/Patent Research — Prior-Art Search and Free Tools.md,Resources/Patent Research — Prior-Art Search and Free Tools.md,move,classified
+wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society).md,Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society).md,move,classified
+wiki/Per-Paper Project Structure — Folder and File Architecture.md,Areas/Writing/Per-Paper Project Structure — Folder and File Architecture.md,move,classified
+wiki/Personal OS.md,Areas/Personal/Personal OS.md,move,classified
+wiki/Phase 1 Governance Formation Sequence.md,Areas/PHAROS/Phase 1 Governance Formation Sequence.md,move,classified
+wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique.md,Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique.md,move,classified
+wiki/Portfolio Restructuring Review — March 2026.md,archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026.md,move,classified
+wiki/Posture vs Execution Drift — The Practice of Refusal.md,Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal.md,move,classified
+wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard.md,Areas/Writing/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard.md,move,classified
+wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance).md,Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance).md,move,classified
+wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md,Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md,move,classified
+wiki/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06).md,archive/wiki-2026-07-08/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06).md,move,classified
+wiki/Provisional Arbitration Charter — Argus Layer 9.5.md,Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5.md,move,classified
+wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book.md,Areas/Writing/Publisher Assessment — Literary Idioms and Phrase-Origin Book.md,move,classified
+wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks.md,Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks.md,move,classified
+"wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026).md","Resources/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026).md",move,classified
+wiki/Qualitative Handbook — Expanded Reference List.md,Resources/Qualitative Handbook — Expanded Reference List.md,move,classified
+wiki/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md,Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md,move,classified
+wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic.md,Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic.md,move,classified
+"wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming).md","Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming).md",move,classified
+wiki/Quiet Compliance Workbench — Standing Tone Rule.md,Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule.md,move,classified
+wiki/RAG-Anything — Multimodal RAG Framework.md,Resources/RAG-Anything — Multimodal RAG Framework.md,move,classified
+wiki/RDAIG Method Editorial Consolidation — 2026.md,Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026.md,move,classified
+"wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis.md","Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis.md",move,classified
+wiki/RECURSO — Final Audit and Ethical Review.md,Areas/PHAROS/RECURSO — Final Audit and Ethical Review.md,move,classified
+wiki/RECURSO — Recursive Governance Test Archive.md,Areas/PHAROS/RECURSO — Recursive Governance Test Archive.md,move,classified
+wiki/RIA-CODEX — System Audit Protocol.md,Areas/PHAROS/RIA-CODEX — System Audit Protocol.md,move,classified
+wiki/Railway — COMPASSai Production Deployment Platform.md,Areas/PHAROS/Railway — COMPASSai Production Deployment Platform.md,move,classified
+"wiki/Reboot — Performance, Gender, and Computing of Identity.md","Areas/Writing/Reboot — Performance, Gender, and Computing of Identity.md",move,classified
+wiki/Recursive AI Governance as Executable Method — The Very Long Narrative.md,Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative.md,move,classified
+wiki/Recursive Continuity Without Memory — AI Identity Across Sessions.md,Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions.md,move,classified
+wiki/Recursive Entry Structure — Song Corpus to Governance Prompt.md,Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt.md,move,classified
+"wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf.md","Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md",move,classified
+wiki/Reddit Data API — Access Terms and Rate Limits.md,Resources/Reddit Data API — Access Terms and Rate Limits.md,move,classified
+wiki/Reflexive Inhabitation Audit — Prompt.md,Areas/PHAROS/Reflexive Inhabitation Audit — Prompt.md,move,classified
+wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship.md,Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship.md,move,classified
+wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis).md,Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis).md,move,classified
+"wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection.md","Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection.md",move,classified
+wiki/Responsible AI Evaluation — Patient Readmission Model.md,Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model.md,move,classified
+wiki/Rest and Consolidation Guide — Martin.md,Areas/Personal/Rest and Consolidation Guide — Martin.md,move,classified
+"wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales.md","Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales.md",move,classified
+"wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy.md","Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy.md",move,classified
+wiki/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split.md,Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split.md,move,classified
+wiki/Sales Objection Handling — Diagnosing Fog Without Coercion.md,Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion.md,move,classified
+"wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société).md","Resources/Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société).md",move,classified
+"wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging.md","Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging.md",move,classified
+wiki/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30).md,Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30).md,move,classified
+wiki/Self-Polygraph Protocol and Suprametacognition.md,Areas/Writing/Self-Polygraph Protocol and Suprametacognition.md,move,classified
+wiki/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10).md,Areas/Personal/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10).md,move,classified
+wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates.md,Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates.md,move,classified
+"wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate.md","Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate.md",move,classified
+wiki/Skill-Pairing — Five-Case Test Suite.md,Areas/PHAROS/Skill-Pairing — Five-Case Test Suite.md,move,classified
+wiki/Slayer Franchise Power — Methodology and Corpus Design.md,Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design.md,move,classified
+wiki/Slayer Recursion Protocol — README and Repositioning.md,Areas/Writing/Slayer Recursion Protocol — README and Repositioning.md,move,classified
+wiki/Smallest Building Block — Relation as Rule.md,Areas/PHAROS/Smallest Building Block — Relation as Rule.md,move,classified
+wiki/Social Compass Reviewer Response — Wicca and Agatha All Along.md,Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along.md,move,classified
+"wiki/Social Stratification, Intersectionality, and the Why Be King Manuscript.md","Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript.md",move,classified
+wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis.md,Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis.md,move,classified
+wiki/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal).md,Resources/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal).md,move,classified
+wiki/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence.md,Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence.md,move,classified
+wiki/Spider-Man and the Phonetic Glitch — Voice as Infrastructure.md,Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure.md,move,classified
+wiki/Stacklight-owner-explainer.md,Areas/PHAROS/Stacklight-owner-explainer.md,move,classified
+"wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure.md","Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure.md",move,classified
+"wiki/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk).md","Resources/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk).md",move,classified
+wiki/Strategic Storytelling in the AI Economy.md,Areas/PHAROS/Strategic Storytelling in the AI Economy.md,move,classified
+"wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures.md","Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures.md",move,classified
+wiki/Stuttering through the Institution — Academic Containment and Queer Knowing.md,Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing.md,move,classified
+wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors.md,Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors.md,move,classified
+wiki/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11).md,Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11).md,move,classified
+wiki/TPS-TVQ PHAROS.md,Areas/PHAROS/TPS-TVQ PHAROS.md,move,classified
+wiki/The Ballad of the Witches' Road — Analysis.md,Areas/Writing/The Ballad of the Witches' Road — Analysis.md,move,classified
+wiki/The Ballad of the Witches' Road — Lyrics.md,Resources/The Ballad of the Witches' Road — Lyrics.md,move,classified
+wiki/The Blind Leading the Automated — AI Governance Failure Case Study.md,Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study.md,move,classified
+wiki/The Broken Frequency of the Word — Novel.md,Areas/Writing/The Broken Frequency of the Word — Novel.md,move,classified
+wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md,Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md,move,classified
+wiki/The Compulsion to Complete — AI as Gap-Closer.md,Areas/Writing/The Compulsion to Complete — AI as Gap-Closer.md,move,classified
+"wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation.md","Areas/Writing/The Familiars of Hollywood — Queerness, Whiteness, and Representation.md",move,classified
+wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind).md,Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind).md,move,classified
+"wiki/The Golden Bough — Frazer (Magic, Religion, Regicide).md","Resources/The Golden Bough — Frazer (Magic, Religion, Regicide).md",move,classified
+wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md,Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md,move,classified
+wiki/The Lost-Loop Pattern — Avoidance Through System-Building.md,Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building.md,move,classified
+wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category).md,Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category).md,move,classified
+wiki/The Palace Under Root — Allegory and the Keyport Novel.md,Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel.md,move,classified
+"wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism).md","Resources/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism).md",move,classified
+"wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017.md","Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017.md",move,classified
+wiki/The Returning Light — Monograph.md,Areas/Writing/The Returning Light — Monograph.md,move,classified
+wiki/The Weather Beneath the Walls — Novel.md,Areas/Writing/The Weather Beneath the Walls — Novel.md,move,classified
+wiki/The Wheel and the Watcher.md,Areas/Writing/The Wheel and the Watcher.md,move,classified
+wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the black box).md,Resources/The ethnographer and the algorithm — Christin 2020 (Beyond the black box).md,move,classified
+wiki/Trace Investigator.md,Areas/PHAROS/Trace Investigator.md,move,classified
+wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md,Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md,move,classified
+"wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust).md","Resources/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust).md",move,classified
+wiki/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure.md,Areas/PHAROS/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure.md,move,classified
+wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md,Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md,move,classified
+wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set.md,Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set.md,move,classified
+wiki/Trismégiste — Operator State.md,Areas/PHAROS/Trismégiste — Operator State.md,move,classified
+wiki/Trismégiste — Personal AI Assistant.md,Areas/PHAROS/Trismégiste — Personal AI Assistant.md,move,classified
+wiki/Trismégiste.md,Areas/PHAROS/Trismégiste.md,move,classified
+wiki/Trust Advantage Analysis — Sales and AI Governance.md,Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance.md,move,classified
+wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons.md,Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons.md,move,classified
+wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01.md,archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01.md,move,classified
+wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06).md,archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06).md,move,classified
+wiki/Vault Deep Linking Pass — 2026-05-06.md,archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06.md,move,classified
+wiki/Vault Delta Interconnectivity Atlas — 2026-05-06.md,archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06.md,move,classified
+wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01.md,archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01.md,move,classified
+"wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1).md","archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1).md",move,classified
+wiki/Vault Linking Session 2 Summary — 2026-05-01.md,archive/wiki-2026-07-08/Vault Linking Session 2 Summary — 2026-05-01.md,move,classified
+wiki/Vault Linking Session Summary — 2026-05-01.md,archive/wiki-2026-07-08/Vault Linking Session Summary — 2026-05-01.md,move,classified
+wiki/Vault Topic Coverage Matrix — 2026-05-06.md,archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06.md,move,classified
+wiki/Virtually Magical Literally — Queer Agency and the Digital Witch.md,Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch.md,move,classified
+wiki/VoiceBridge Foundation.md,Areas/PHAROS/VoiceBridge Foundation.md,move,classified
+wiki/Voodoo Doll — Archival Governance and Colonial Naming.md,Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming.md,move,classified
+wiki/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography.md,Resources/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography.md,move,classified
+wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter.md,Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter.md,move,classified
+wiki/WSL and System Storage Recovery — Quick Wins Checklist.md,archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist.md,move,classified
+wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice.md,Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice.md,move,classified
+wiki/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device.md,Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device.md,move,classified
+"wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md","Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md",move,classified
+wiki/argus-drift-audit-scope-multi-agent-orchestration.md,Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration.md,move,classified
+wiki/claude-mem — Persistent Memory Compression for Claude Code.md,Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code.md,move,classified
+wiki/claude-peers-mcp — Claude Peer Network.md,Areas/PHAROS/claude-peers-mcp — Claude Peer Network.md,move,classified
+wiki/hephaistos-scope-security-audit-phases-2-6.md,Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6.md,move,classified
+wiki/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27).md,Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27).md,move,classified
+wiki/if.switchboard — InfraFabric Product Center.md,Areas/PHAROS/if.switchboard — InfraFabric Product Center.md,move,classified
+wiki/multi-agent-orchestration Skill — Governance Case File.md,Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File.md,move,classified
+wiki/security-audit-plan.md,Areas/PHAROS/security-audit-plan.md,move,classified
+wiki/voice11 — ElevenLabs TTS Pipeline.md,Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline.md,move,classified

@@ -1,178 +1,264 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:16:29Z
+Built: 2026-07-08T05:36:47Z
 Corpus: wiki/**/*.md
 
 ## Summary
 
-- Nodes: 1505
-- Directed edges: 9304
-- Link mentions: 16500
-- Unresolved wikilinks: 3453
-- Connected components: 561
-- Largest component: 945
-- Zero-backlink notes: 561
-- One-backlink notes: 13
-- Two-backlink notes: 266
+- Nodes: 1415
+- Directed edges: 13110
+- Link mentions: 20797
+- Unresolved wikilinks: 3193
+- Connected components: 46
+- Largest component: 1361
+- Zero-backlink notes: 64
+- One-backlink notes: 165
+- Two-backlink notes: 369
 
 ## Backlink Histogram
 
-- 0: 561
-- 1: 13
-- 101+: 26
-- 11-20: 115
-- 2: 266
-- 21-50: 110
-- 3-4: 142
-- 5-6: 121
-- 51-100: 32
-- 7-10: 119
+- 0: 64
+- 1: 165
+- 101+: 28
+- 11-20: 199
+- 2: 369
+- 21-50: 151
+- 3-4: 168
+- 5-6: 68
+- 51-100: 43
+- 7-10: 160
 
 ## Low-Backlink Notes
 
-### Zero backlink (561)
+### Zero backlink (64)
 - [[ASSETS MOC]]
+- [[Agent Ecosystem Audit — 2026-04-23]]
+- [[Areas/PHAROS/AREA]]
+- [[Areas/Personal/AREA]]
+- [[Areas/Writing/AREA]]
 - [[EMERAULD_OS_ARCHITECTURE.MD MOC]]
 - [[GRAPHIFY-OUT MOC]]
 - [[HEPHAISTOS MOC]]
+- [[Hermes Dashboard — Professional Governance Tool]]
+- [[Inbox/README]]
 - [[MEMORY MOC]]
+- [[Möbius Protocol — AI Self-Polygraph Template]]
 - [[PEER-REVIEW MOC]]
+- [[PHAROS]]
 - [[PUBLICATIONS MOC]]
 - [[RAW MOC]]
 - [[RESOURCES MOC]]
+- [[Resources/ROUTING]]
 - [[SOURCE_OF_TRUTH.MD MOC]]
 - [[TEMPLATES MOC]]
 - [[Wiki MOC]]
+- [[graph/nodes/unmapped/auto_tagger_py]]
+- [[graph/nodes/unmapped/content_to_market_pipeline_workflow]]
+- [[graph/nodes/unmapped/emerauld_intake_rule_workflow]]
+- [[graph/nodes/unmapped/helix_product]]
+- [[graph/nodes/unmapped/israel_lavoie]]
+- [[graph/nodes/unmapped/lightrag_config_py]]
+- [[graph/nodes/unmapped/pa_mcp_server]]
+- [[graph/nodes/unmapped/pa_trismegiste_bundle]]
+- [[graph/nodes/unmapped/philosopher_right_arm]]
+- [[graph/nodes/unmapped/power_analyst_right_arm]]
+- [[graph/nodes/unmapped/raw_intake_dataset]]
+- [[graph/nodes/unmapped/raw_sources_dataset]]
+- [[graph/nodes/unmapped/rdaig_manuscript]]
+- [[graph/nodes/unmapped/right_arm_extension_decision]]
+- [[graph/nodes/unmapped/session_state_protocol_workflow]]
+- [[graph/nodes/unmapped/specialist_guideline_authority_decision]]
+- [[graph/nodes/unmapped/three_agent_handoff_workflow]]
+- [[graph/nodes/unmapped/vault_maintenance_pipeline_workflow]]
+- [[graph/nodes/unmapped/vault_workflow]]
+- [[graph/nodes/unmapped/wave2_gate_decision]]
+- [[memory/daily/2026-04-29]]
+- [[memory/daily/2026-05-07]]
+- [[memory/daily/2026-05-13]]
+- [[memory/daily/2026-07-02]]
+- [[memory/daily/2026-07-03]]
 - [[projects/DOMAIN]]
+- [[projects/genealogie-lepage-deschenes/README]]
 - [[projects/genealogie-lepage-deschenes/arbre/dossier-fiabilisation-2026-07-05]]
 - [[projects/genealogie-lepage-deschenes/journal-recherche]]
 - [[projects/jade/.pytest_cache/README]]
 - [[projects/jade/README]]
 - [[projects/patent-workbench/CLAUDE_TASK]]
 - [[projects/patent-workbench/README]]
-- [[projects/patent-workbench/node_modules/@babel/code-frame/README]]
-- [[projects/patent-workbench/node_modules/@babel/compat-data/README]]
-- [[projects/patent-workbench/node_modules/@babel/core/README]]
-- [[projects/patent-workbench/node_modules/@babel/generator/README]]
-- [[projects/patent-workbench/node_modules/@babel/helper-compilation-targets/README]]
-- [[projects/patent-workbench/node_modules/@babel/helper-globals/README]]
-- [[projects/patent-workbench/node_modules/@babel/helper-module-imports/README]]
-- [[projects/patent-workbench/node_modules/@babel/helper-module-transforms/README]]
-- [[projects/patent-workbench/node_modules/@babel/helper-plugin-utils/README]]
-- [[projects/patent-workbench/node_modules/@babel/helper-string-parser/README]]
-- [[projects/patent-workbench/node_modules/@babel/helper-validator-identifier/README]]
-- [[projects/patent-workbench/node_modules/@babel/helper-validator-option/README]]
-- [[projects/patent-workbench/node_modules/@babel/helpers/README]]
-- [[projects/patent-workbench/node_modules/@babel/parser/README]]
-- [[projects/patent-workbench/node_modules/@babel/plugin-transform-react-jsx-self/README]]
-- [[projects/patent-workbench/node_modules/@babel/plugin-transform-react-jsx-source/README]]
-- [[projects/patent-workbench/node_modules/@babel/template/README]]
-- [[projects/patent-workbench/node_modules/@babel/traverse/README]]
-- [[projects/patent-workbench/node_modules/@babel/types/README]]
-- [[projects/patent-workbench/node_modules/@blinkdotnew/sdk/README]]
-- [[projects/patent-workbench/node_modules/@blinkdotnew/ui/node_modules/lucide-react/README]]
-- [[projects/patent-workbench/node_modules/@blinkdotnew/ui/node_modules/tailwind-merge/README]]
-- [[projects/patent-workbench/node_modules/@cacheable/memory/README]]
-- [[projects/patent-workbench/node_modules/@cacheable/utils/README]]
-- [[projects/patent-workbench/node_modules/@csstools/css-calc/CHANGELOG]]
-- [[projects/patent-workbench/node_modules/@csstools/css-calc/LICENSE]]
-- [[projects/patent-workbench/node_modules/@csstools/css-calc/README]]
-- [[projects/patent-workbench/node_modules/@csstools/css-parser-algorithms/CHANGELOG]]
-- [[projects/patent-workbench/node_modules/@csstools/css-parser-algorithms/LICENSE]]
-- [[projects/patent-workbench/node_modules/@csstools/css-parser-algorithms/README]]
-- [[projects/patent-workbench/node_modules/@csstools/css-syntax-patches-for-csstree/CHANGELOG]]
-- [[projects/patent-workbench/node_modules/@csstools/css-syntax-patches-for-csstree/LICENSE]]
-- [[projects/patent-workbench/node_modules/@csstools/css-syntax-patches-for-csstree/README]]
-- [[projects/patent-workbench/node_modules/@csstools/css-tokenizer/CHANGELOG]]
-- [[projects/patent-workbench/node_modules/@csstools/css-tokenizer/LICENSE]]
-- [[projects/patent-workbench/node_modules/@csstools/css-tokenizer/README]]
-- [[projects/patent-workbench/node_modules/@csstools/media-query-list-parser/CHANGELOG]]
-- [[projects/patent-workbench/node_modules/@csstools/media-query-list-parser/LICENSE]]
-- [[projects/patent-workbench/node_modules/@csstools/media-query-list-parser/README]]
-- [[projects/patent-workbench/node_modules/@csstools/selector-resolve-nested/CHANGELOG]]
-- [[projects/patent-workbench/node_modules/@csstools/selector-resolve-nested/LICENSE]]
-- [[projects/patent-workbench/node_modules/@csstools/selector-resolve-nested/README]]
-- [[projects/patent-workbench/node_modules/@csstools/selector-specificity/CHANGELOG]]
-- [[projects/patent-workbench/node_modules/@csstools/selector-specificity/LICENSE]]
-- [[projects/patent-workbench/node_modules/@csstools/selector-specificity/README]]
-- [[projects/patent-workbench/node_modules/@date-fns/tz/CHANGELOG]]
-- [[projects/patent-workbench/node_modules/@date-fns/tz/LICENSE]]
-- [[projects/patent-workbench/node_modules/@date-fns/tz/README]]
-- [[projects/patent-workbench/node_modules/@dnd-kit/accessibility/CHANGELOG]]
-- [[projects/patent-workbench/node_modules/@dnd-kit/accessibility/README]]
-- [[projects/patent-workbench/node_modules/@dnd-kit/core/CHANGELOG]]
-- [[projects/patent-workbench/node_modules/@dnd-kit/core/README]]
-- [[projects/patent-workbench/node_modules/@dnd-kit/sortable/CHANGELOG]]
-- [[projects/patent-workbench/node_modules/@dnd-kit/sortable/README]]
-- [[projects/patent-workbench/node_modules/@dnd-kit/utilities/CHANGELOG]]
-- [[projects/patent-workbench/node_modules/@dnd-kit/utilities/README]]
-- [[projects/patent-workbench/node_modules/@esbuild/linux-arm64/README]]
-- [[projects/patent-workbench/node_modules/@floating-ui/core/README]]
-- [[projects/patent-workbench/node_modules/@floating-ui/dom/README]]
-- [[projects/patent-workbench/node_modules/@floating-ui/react-dom/README]]
-- [[projects/patent-workbench/node_modules/@floating-ui/utils/README]]
-- [[projects/patent-workbench/node_modules/@hookform/resolvers/README]]
-- [[projects/patent-workbench/node_modules/@jridgewell/gen-mapping/README]]
-- [[projects/patent-workbench/node_modules/@jridgewell/remapping/README]]
-- [[projects/patent-workbench/node_modules/@jridgewell/resolve-uri/README]]
-- [[projects/patent-workbench/node_modules/@jridgewell/sourcemap-codec/README]]
-- [[projects/patent-workbench/node_modules/@jridgewell/trace-mapping/README]]
-- [[projects/patent-workbench/node_modules/@keyv/bigmap/README]]
-- [[projects/patent-workbench/node_modules/@keyv/serialize/README]]
-- [[projects/patent-workbench/node_modules/@nodelib/fs.scandir/README]]
-- [[projects/patent-workbench/node_modules/@nodelib/fs.stat/README]]
-- [[projects/patent-workbench/node_modules/@nodelib/fs.walk/README]]
-- [[projects/patent-workbench/node_modules/@oxc-project/types/README]]
-- [[projects/patent-workbench/node_modules/@radix-ui/number/README]]
-- [[projects/patent-workbench/node_modules/@radix-ui/primitive/README]]
-- [[projects/patent-workbench/node_modules/@radix-ui/react-accordion/README]]
-- [[projects/patent-workbench/node_modules/@radix-ui/react-alert-dialog/README]]
-- [[projects/patent-workbench/node_modules/@radix-ui/react-alert-dialog/node_modules/@radix-ui/react-slot/README]]
-- [[projects/patent-workbench/node_modules/@radix-ui/react-arrow/README]]
-- [[projects/patent-workbench/node_modules/@radix-ui/react-aspect-ratio/README]]
-- [[projects/patent-workbench/node_modules/@radix-ui/react-aspect-ratio/node_modules/@radix-ui/react-primitive/README]]
-- ... 461 more
+- [[projects/products/pharos-governance-tools/AI_Source_Integrity_Field_Guide]]
+- [[projects/products/pharos-governance-tools/GUMROAD_HALLUCINATION_SCORECARD]]
+- [[projects/products/pharos-governance-tools/GUMROAD_SOURCE_INTEGRITY_GUIDE]]
+- [[projects/products/pharos-governance-tools/Hallucination_Risk_Scorecard_Methodology]]
+- [[projects/products/pharos-governance-tools/README]]
+- [[projects/security-audit-skill/multi-agent-orchestration/run-1/FINDINGS-DETAIL]]
+- [[projects/security-audit-skill/multi-agent-orchestration/run-1/REPORT]]
+- [[projects/security-audit-skill/multi-agent-orchestration/run-1/architecture]]
+- [[projects/security-audit-skill/multi-agent-orchestration/run-1/phase2-hunt-findings]]
+- [[projects/security-audit-skill/multi-agent-orchestration/run-1/phase3-validation]]
 
-### One backlink (13)
-- [[2026-06-29 - idea-discovery]]
-- [[Projects Hub]]
-- [[Triangulation Exercise — Hidden Invariant Behind Institutional Procedure]]
-- [[Vault Health — 2026-06-28]]
-- [[WIKI-ROUTING-REPORT]]
-- [[Weekly Review — 2026-06-26]]
+### One backlink (165)
+- [[InfraFabric Architecture]]
+- [[archive/CO-EQUAL-AUTHORITY-DECISION]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/01_Recursive_AI_Governance_Very_Long_Narrative]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/02_PHAROS_Master_SOP]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Complete_Operational_Specification]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Disguised_Prompt_Sequence]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Public_28-step_Description]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/COVER_LETTER_FOR_COUNSEL]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/ERRATA]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/REVISION_SUMMARY]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/editorial_log]]
+- [[archive/consolidation-records/HOME-ROOT-REORG-2026-07-01-MANIFEST]]
+- [[archive/consolidation-records/merge-candidates-2026-05-14]]
 - [[archive/red-team]]
-- [[if.switchboard — InfraFabric Product Center]]
-- [[maps/Novel Corpus Map]]
-- [[projects/patent-workbench/node_modules/date-fns/SECURITY]]
-- [[skills/ask-vault]]
-- [[skills/trace-investigator]]
-- [[skills/vault-graph-hygiene]]
+- [[archive/session-state/session-state-002]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/docs/CODEX_PROMPT_SERVER_HARDENING]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/docs/martin_decision_brief]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/README]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/archive/README]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/README]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/_example_raw_note]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/scripts/README]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/services/README]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/README]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_concept]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_moc]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_person]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_project]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/README]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/_example_wiki_note]]
+- [[artifacts/marketplace/promo/README]]
+- [[governance/hephaistos/AGENTS]]
+- [[governance/hephaistos/CLAUDE]]
+- [[governance/hephaistos/GADGET]]
+- [[governance/hephaistos/HEPHAISTOS]]
+- [[governance/hephaistos/HERMES]]
+- [[governance/hephaistos/QUEEN-KEYPORT]]
+- [[graph/graph-schema]]
+- [[graph/indexes/edge-index]]
+- [[graph/indexes/node-index]]
+- [[graph/indexes/orphan-index]]
+- [[graph/indexes/project-index]]
+- [[graph/indexes/team-index]]
+- [[graph/indexes/workflow-index]]
+- [[graph/nodes/unmapped/archive_register_py]]
+- [[graph/nodes/unmapped/coequal_conflict_resolution_workflow]]
+- [[graph/nodes/unmapped/dast_project]]
+- [[graph/nodes/unmapped/echo_product]]
+- [[graph/nodes/unmapped/enrich_frontmatter_backlinks_py]]
+- [[graph/nodes/unmapped/guillaume_lavoie]]
+- [[graph/nodes/unmapped/jade]]
+- [[graph/nodes/unmapped/l99_demotion_to_argus_decision]]
+- [[graph/nodes/unmapped/lavoie_gates_workflow]]
+- [[graph/nodes/unmapped/lotus_product]]
+- [[graph/nodes/unmapped/martin_govern_ai_site]]
+- [[graph/nodes/unmapped/patricia]]
+- [[graph/nodes/unmapped/pharos_newlook]]
+- [[graph/nodes/unmapped/pharos_suite_repo]]
+- [[graph/nodes/unmapped/post_launch_learning_loop_workflow]]
+- [[graph/nodes/unmapped/query_py]]
+- [[graph/nodes/unmapped/resolve_orphans_py]]
+- [[graph/nodes/unmapped/revenue_support_optimizer]]
+- [[graph/nodes/unmapped/scripto_dr_sort]]
+- [[graph/nodes/unmapped/session_state_registers_dataset]]
+- [[graph/nodes/unmapped/spp_project]]
+- [[graph/nodes/unmapped/vigil_gsk]]
+- [[graph/nodes/unmapped/vsearch_py]]
+- [[graph/nodes/unmapped/why_be_king_book]]
+- [[hephaistos/DEPLOYMENT-CHECKLIST]]
+- [[hephaistos/SKILL-MAP]]
+- [[hephaistos/hq-disagreement-test-case]]
+- [[hephaistos/personal-assistant-agents/README]]
+- [[hephaistos/personal-assistant-agents/demand-scout/references/ecosystem]]
+- [[hephaistos/personal-assistant-agents/demand-scout/references/evolution]]
+- [[hephaistos/personal-assistant-agents/demand-scout/references/method]]
+- [[hephaistos/personal-assistant-agents/demand-scout/references/subjectivity]]
+- [[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/ecosystem]]
+- [[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/evolution]]
+- [[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/method]]
+- [[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/subjectivity]]
+- [[hephaistos/personal-assistant-agents/intake-triager/references/ecosystem]]
+- [[hephaistos/personal-assistant-agents/intake-triager/references/evolution]]
+- [[hephaistos/personal-assistant-agents/intake-triager/references/method]]
+- [[hephaistos/personal-assistant-agents/intake-triager/references/subjectivity]]
+- [[hephaistos/personal-assistant-agents/listing-creative-director/references/ecosystem]]
+- [[hephaistos/personal-assistant-agents/listing-creative-director/references/evolution]]
+- [[hephaistos/personal-assistant-agents/listing-creative-director/references/method]]
+- [[hephaistos/personal-assistant-agents/listing-creative-director/references/subjectivity]]
+- [[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/ecosystem]]
+- [[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/evolution]]
+- [[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/method]]
+- [[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/subjectivity]]
+- [[hephaistos/personal-assistant-agents/metadata-link-warden/references/ecosystem]]
+- [[hephaistos/personal-assistant-agents/metadata-link-warden/references/evolution]]
+- [[hephaistos/personal-assistant-agents/metadata-link-warden/references/method]]
+- [[hephaistos/personal-assistant-agents/metadata-link-warden/references/subjectivity]]
+- [[hephaistos/personal-assistant-agents/offer-pricing-architect/references/ecosystem]]
+- [[hephaistos/personal-assistant-agents/offer-pricing-architect/references/evolution]]
+- ... 65 more
 
-### Two backlink (266)
-- [[ACTOR Framework — Agent vs Chatbot Decision Tool]]
-- [[Agent Distillation Pipeline]]
+### Two backlink (369)
 - [[Agent Logs Hub]]
-- [[App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]
-- [[Chrome Extension Monetization - Policy and Product Options]]
-- [[Cultural and Lyric Corpus Memo — 2026-05-14]]
+- [[CSV_DIAGNOSTIC_REPORT]]
 - [[Daily Dashboard]]
-- [[Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]
-- [[Entrepreneurial Upside — Rare Knowledge, Leverage, and Time]]
-- [[Governance and Platform Signals Memo — 2026-05-14]]
-- [[IP and Manuscript Brief — 2026-05-14]]
+- [[Home]]
 - [[Knowledge Gaps]]
-- [[Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]
-- [[Operator Continuity Memo — 2026-05-14]]
+- [[PEER-REVIEW/00_PROJECT_CONTROL/CLAIM_REGISTER]]
+- [[PEER-REVIEW/00_PROJECT_CONTROL/JOURNAL_GUIDELINES]]
+- [[PEER-REVIEW/00_PROJECT_CONTROL/MODEL_HANDOFF_LOG]]
+- [[PEER-REVIEW/00_PROJECT_CONTROL/PROJECT_BRIEF]]
+- [[PEER-REVIEW/00_PROJECT_CONTROL/SECTION_PLAN]]
+- [[PEER-REVIEW/00_PROJECT_CONTROL/STYLE_RULES]]
+- [[PEER-REVIEW/01_RAW_MATERIALS/MATERIALS_INVENTORY]]
+- [[PEER-REVIEW/01_RAW_MATERIALS/README]]
+- [[PEER-REVIEW/01_RAW_MATERIALS/UNCERTAINTY_REGISTER]]
+- [[PEER-REVIEW/02_SOURCE_FIELD/ADJACENT_LITERATURES]]
+- [[PEER-REVIEW/02_SOURCE_FIELD/CANONICAL_WORKS]]
+- [[PEER-REVIEW/02_SOURCE_FIELD/REFERENCE_TREE]]
+- [[PEER-REVIEW/02_SOURCE_FIELD/SOURCE_GAPS]]
+- [[PEER-REVIEW/02_SOURCE_FIELD/SOURCE_MATRIX]]
+- [[PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/ABSTRACT_REVISED_AFTER_BODY]]
+- [[PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/ABSTRACT_V1]]
+- [[PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/OUTLINE_REVIEW]]
+- [[PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/OUTLINE_V1]]
+- [[PEER-REVIEW/04_RESEARCH_BUNDLE/CITATION_CANDIDATES]]
+- [[PEER-REVIEW/04_RESEARCH_BUNDLE/CLAIM_TO_SOURCE_MAP]]
+- [[PEER-REVIEW/04_RESEARCH_BUNDLE/DEEP_RESEARCH]]
+- [[PEER-REVIEW/04_RESEARCH_BUNDLE/METHOD_AND_CORPUS_NOTES]]
+- [[PEER-REVIEW/04_RESEARCH_BUNDLE/PAGE_NUMBER_TRACKER]]
+- [[PEER-REVIEW/05_SECTION_DRAFTS/01_BACKGROUND_CONTEXT]]
+- [[PEER-REVIEW/05_SECTION_DRAFTS/02_LITERATURE_REVIEW]]
+- [[PEER-REVIEW/05_SECTION_DRAFTS/03_CONCEPTUAL_FRAMEWORK]]
+- [[PEER-REVIEW/05_SECTION_DRAFTS/04_ANALYSIS_FINDINGS]]
+- [[PEER-REVIEW/05_SECTION_DRAFTS/05_DISCUSSION]]
+- [[PEER-REVIEW/05_SECTION_DRAFTS/06_CONCLUSION]]
+- [[PEER-REVIEW/05_SECTION_DRAFTS/08_ABSTRACT_FINAL]]
+- [[PEER-REVIEW/06_VALIDATION/CITATION_AUDIT]]
+- [[PEER-REVIEW/06_VALIDATION/CLAIM_AUDIT]]
+- [[PEER-REVIEW/06_VALIDATION/FINAL_RISK_REGISTER]]
+- [[PEER-REVIEW/06_VALIDATION/JOURNAL_CONFORMITY_AUDIT]]
+- [[PEER-REVIEW/06_VALIDATION/PEER_REVIEW_STRESS_TEST]]
+- [[PEER-REVIEW/06_VALIDATION/REFERENCE_LIST_AUDIT]]
+- [[PEER-REVIEW/07_FINAL_OUTPUTS/ABSTRACT_FINAL]]
+- [[PEER-REVIEW/07_FINAL_OUTPUTS/AUTHOR_BIO]]
+- [[PEER-REVIEW/07_FINAL_OUTPUTS/COVER_LETTER]]
+- [[PEER-REVIEW/07_FINAL_OUTPUTS/KEYWORDS]]
+- [[PEER-REVIEW/07_FINAL_OUTPUTS/SUBMISSION_CHECKLIST]]
+- [[PEER-REVIEW/NODE_INSTRUCTIONS]]
+- [[PEER-REVIEW/PROJECT_INSTRUCTION]]
+- [[PEER-REVIEW/README]]
 - [[Personal OS]]
 - [[Philosopher]]
-- [[Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]
-- [[Queering Neo-Pagan Magic — FINAL FINAL PAPER]]
-- [[Second Self System Identity Kernel and Agent Routing Architecture]]
+- [[Projects Hub]]
+- [[Publications/BOOKS/essay_identity_enforceable]]
+- [[Publications/Papers and Chapters/Rivard2026/Pourquoi rêver encore-@nalyses-REWRITE]]
 - [[Trismégiste]]
-- [[Vault Health — 2026-07-05]]
-- [[VoiceBridge Foundation]]
-- [[WSL and System Storage Recovery — Quick Wins Checklist]]
+- [[WIKI-ROUTING-REPORT]]
 - [[Workflows Hub]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05_From_Recursive_Production_to_Governable_Method]]
+- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/06_Codex_Governance_Case_Study_Blind_Leading_Automated]]
 - [[archive/agent-evaluation]]
 - [[archive/ai-product]]
 - [[archive/brief-to-tasks]]
@@ -188,6 +274,17 @@ Corpus: wiki/**/*.md
 - [[archive/triangulation]]
 - [[archive/ux-researcher-designer]]
 - [[archive/web-scraping]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/01-deploy-config/migration-govern-to-pharos]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/02-pipeline-triage/martin_decision_brief]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/03-pr4-hardening/CODEX_PROMPT_SERVER_HARDENING]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/_manifest/RUN-ORDER]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/ai-anxiety-recursive-governance-ai-society-aligned-2026-03-11]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/archive_master_tracker]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/govern_deterministic_runner_spec]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/pharos_topology_layer_v3]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/skill_template]]
+- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_decision_log]]
+- [[artifacts/stale-projects-2026-07-05]]
 - [[bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec]]
 - [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023]]
 - [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2]]
@@ -203,126 +300,80 @@ Corpus: wiki/**/*.md
 - [[bridges/Bridge - 2013 - 23 ISSN 1528-0268 print]]
 - [[bridges/Bridge - 2013 - auditorassessment 2]]
 - [[bridges/Bridge - 2013 - auditorassessment 3]]
-- [[bridges/Bridge - 2015 - policyorguidance 3]]
-- [[bridges/Bridge - 2015 - policyorguidance 4]]
-- [[bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf - 2020 - Mar - 2020 - Martin Lepage - Simp]]
-- [[bridges/Bridge - CORPUS ou le gnie de linsistance 1]]
-- [[bridges/Bridge - FIRST DRAFT]]
-- [[bridges/Bridge - Governance by Denial Revised Working Draft]]
-- [[bridges/Bridge - Introduction]]
-- [[bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve]]
-- [[bridges/Bridge - dataimagepngbase64]]
-- [[bridges/Bridge - dataimagepngbase64... 2]]
-- [[bridges/Bridge — Agents vs. Chatbots Fundamentals]]
-- [[bridges/Bridge — Malformed JSON Prefix]]
-- [[bridges/Bridge — Mandrake]]
-- [[lightrag_config — EMERAULD Shared Config Module]]
-- [[multi-agent-orchestration Skill — Governance Case File]]
-- [[projects/patent-workbench/node_modules/resolve/.github/THREAT_MODEL]]
-- [[projects/security-audit-skill/martin-governance/run-1/architecture]]
-- [[raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]
-- [[raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note]]
-- [[raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note]]
-- [[raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note]]
-- [[raw-sources/2026-05-13/Complete solutions, not compromises — Source Note]]
-- [[raw-sources/2026-05-13/Email Député Guilbault AE — Source Note]]
-- [[raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note]]
-- [[raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note]]
-- [[raw-sources/2026-05-13/Reddit Data API Wiki — Source Note]]
-- [[raw-sources/2026-05-13/Skills as self-operators — Source Note]]
-- [[raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note]]
-- [[raw-sources/2026-05-13/gaga gisease lyrics — Source Note]]
-- [[skills/agent-manager-skill]]
-- [[skills/agent-tool-builder]]
-- [[skills/api-documentation-generator]]
-- [[skills/app-builder]]
-- [[skills/architecture]]
-- [[skills/aspnet-core]]
-- [[skills/audit]]
-- [[skills/autonomous-agents]]
-- [[skills/autoresearch]]
-- [[skills/backend-dev-guidelines]]
-- [[skills/chatgpt-apps]]
-- [[skills/claude-api]]
-- [[skills/clean-migrate]]
-- [[skills/cli-anything]]
-- [[skills/cli-anything-libreoffice]]
-- [[skills/cli-anything-mermaid]]
-- [[skills/cli-anything-notebooklm]]
-- ... 166 more
+- ... 269 more
 
 ## Components
 
-- Component 1: 945 notes; seed [[2026 - Mauss - The Gift]]
-- Component 2: 1 notes; seed [[ASSETS MOC]]
-- Component 3: 1 notes; seed [[EMERAULD_OS_ARCHITECTURE.MD MOC]]
-- Component 4: 1 notes; seed [[GRAPHIFY-OUT MOC]]
-- Component 5: 1 notes; seed [[HEPHAISTOS MOC]]
-- Component 6: 1 notes; seed [[MEMORY MOC]]
-- Component 7: 1 notes; seed [[PEER-REVIEW MOC]]
-- Component 8: 1 notes; seed [[PUBLICATIONS MOC]]
-- Component 9: 1 notes; seed [[RAW MOC]]
-- Component 10: 1 notes; seed [[RESOURCES MOC]]
-- Component 11: 1 notes; seed [[SOURCE_OF_TRUTH.MD MOC]]
-- Component 12: 1 notes; seed [[TEMPLATES MOC]]
-- Component 13: 1 notes; seed [[projects/DOMAIN]]
-- Component 14: 1 notes; seed [[projects/genealogie-lepage-deschenes/arbre/dossier-fiabilisation-2026-07-05]]
-- Component 15: 1 notes; seed [[projects/genealogie-lepage-deschenes/journal-recherche]]
-- Component 16: 1 notes; seed [[projects/jade/.pytest_cache/README]]
-- Component 17: 1 notes; seed [[projects/jade/README]]
-- Component 18: 1 notes; seed [[projects/patent-workbench/CLAUDE_TASK]]
-- Component 19: 1 notes; seed [[projects/patent-workbench/README]]
-- Component 20: 1 notes; seed [[projects/patent-workbench/node_modules/@babel/code-frame/README]]
+- Component 1: 1361 notes; seed [[2026 - Mauss - The Gift]]
+- Component 2: 3 notes; seed [[graph/nodes/unmapped/embed_py]]
+- Component 3: 3 notes; seed [[graph/nodes/unmapped/ingest_py]]
+- Component 4: 3 notes; seed [[graph/nodes/unmapped/raw_intake_dataset]]
+- Component 5: 2 notes; seed [[graph/nodes/unmapped/build_wikilink_graph_py]]
+- Component 6: 2 notes; seed [[graph/nodes/unmapped/graphify_out_system]]
+- Component 7: 2 notes; seed [[graph/nodes/unmapped/guillaume_lavoie]]
+- Component 8: 1 notes; seed [[ASSETS MOC]]
+- Component 9: 1 notes; seed [[Areas/Personal/AREA]]
+- Component 10: 1 notes; seed [[EMERAULD_OS_ARCHITECTURE.MD MOC]]
+- Component 11: 1 notes; seed [[GRAPHIFY-OUT MOC]]
+- Component 12: 1 notes; seed [[Inbox/README]]
+- Component 13: 1 notes; seed [[RAW MOC]]
+- Component 14: 1 notes; seed [[RESOURCES MOC]]
+- Component 15: 1 notes; seed [[Resources/ROUTING]]
+- Component 16: 1 notes; seed [[SOURCE_OF_TRUTH.MD MOC]]
+- Component 17: 1 notes; seed [[TEMPLATES MOC]]
+- Component 18: 1 notes; seed [[graph/nodes/unmapped/auto_tagger_py]]
+- Component 19: 1 notes; seed [[graph/nodes/unmapped/emerauld_intake_rule_workflow]]
+- Component 20: 1 notes; seed [[graph/nodes/unmapped/israel_lavoie]]
 
 ## Top Unresolved Targets
 
 - `raw/intake-report-20260513.json`: 20
-- `Areas/Lavoie/AREA`: 8
-- `ecosystem`: 7
+- `PHAROS AI governance service business`: 19
+- `HISTORY`: 15
+- `links`: 13
+- `Welcome`: 13
+- `CHANGELOG`: 9
+- `hephaistos.agent`: 9
+- `AI Agent Operations Manager — Credential Path and Portfolio`: 7
+- `Second Self System — Adversarial Review`: 7
+- `The Lost-Loop Pattern`: 7
 - `EMERAULD — Vault and Knowledge Graph`: 7
-- `memory/clients/Sante-France`: 7
-- `method`: 7
-- `CLAUDE`: 7
-- `PHAROS AI governance service business`: 6
 - `VAULT-LINKING-AUDIT-2026-05-01`: 6
+- `Groupe Lavoie`: 6
+- `The Circle Remains Open Toward a Queer Sociology of the Sacred (2)`: 5
 - `Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2)`: 5
 - `Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy`: 5
-- `Second Self System — Adversarial Review`: 5
-- `Introduction`: 5
-- `memory/clients/Lavoie Construct`: 5
-- `memory/clients/ExterminationDG`: 5
-- `EXTERNAL DATA REGISTRY (Phase 1 Build)`: 5
+- `AI Agent Operations and Governance Manager`: 5
+- `queen-keyport.agent`: 5
+- `hermes.agent`: 5
+- `argus.agent`: 5
 - `Martin Lepage, PhD — External Review Profile (Offline-Ready)`: 5
+- `wikilinks`: 5
+- `﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch`: 5
+- `“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal`: 5
+- `Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members`: 5
+- `readme`: 5
+- `EXTERNAL DATA REGISTRY (Phase 1 Build)`: 5
 - `Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research`: 5
-- `“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal`: 4
-- `Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members`: 4
-- `Dr. Sort Filename Normalization — 2026-05-06`: 4
+- `ARCHITECTURE-STATUS-MARKING-CHECKLIST`: 4
 - `GAIA Positioning Statement — Evidence-Aware Version`: 4
-- `The Circle Remains Open Toward a Queer Sociology of the Sacred (2)`: 4
-- `path`: 4
-- `Complete Paper List — Martin Lepage`: 4
-- `MANIFEST`: 4
-- `Dr_Sort_masterlist_2026-03-08`: 4
-- `Welcome`: 4
 - `Governance by Denial — Revised Working Draft`: 4
 - `skill`: 4
-- `AI Agent Operations Manager — Credential Path and Portfolio`: 4
-- `artifacts/marketplace/promo/gumroad-listing`: 3
-- `artifacts/marketplace/promo/social-posts`: 3
-- `:word:`: 3
-- `argus.agent`: 3
-- `HELIX test Epstein`: 3
-- `HELIX test CC`: 3
-- `2015 - policy_or_guidance [3`: 3
-- `2015 - policy_or_guidance [4`: 3
-- `Literature Review From the Politics of Visibility to the Politics of Voice in AI Governance`: 3
-- `FIRST DRAFT`: 3
-- `2026-04-18_anthropic-openclaw-platform-dependence-and-narrative-capture`: 3
-- `Martin Lepage`: 3
-- `﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch`: 3
-- `memory/clients/Progression`: 3
-- `session-state-001`: 3
-- `CORPUS ou le génie de l’insistance (1)`: 3
-- `AI Agent Operations and Governance Manager`: 3
-- `ARCHITECTURE-STATUS-MARKING-CHECKLIST`: 3
+- `Complete Paper List — Martin Lepage`: 4
+- `Dr_Sort_masterlist_2026-03-08`: 4
+- `_vault/VAULT ADDITIONS TRACKER`: 4
+- `Session State — Project Name`: 4
+- `Project Hub`: 4
+- `Welcome to this course on ethical and societal asp`: 4
+- `EMERAULD_OS_ARCHITECTURE`: 4
+- `Dr. Sort Filename Normalization — 2026-05-06`: 4
+- `path`: 4
+- `Readme`: 4
 - `BOWIE-DUE`: 3
+- `Recursive Governance Packet Header`: 3
+- `if.whitepapers.bible (v4.23)`: 3
+- `if.infrafabric A Miniseries in Seven Parts`: 3
+- `FIRST DRAFT`: 3
+- `Argus Audit Tracker — Snapshot 2026-04-28`: 3
+- `Queer Religiosities_ An Introduction to...er and Transgender Studies in Religion`: 3
+- `Machines AltarsTRUE`: 3

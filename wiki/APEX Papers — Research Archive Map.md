@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[wiki/Martin Voice Spec — Version Genealogy]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'
 - '[[wiki/Research and Papers MOC]]'

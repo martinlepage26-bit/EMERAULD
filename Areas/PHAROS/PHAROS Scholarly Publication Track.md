@@ -3,7 +3,6 @@ type: map
 title: PHAROS Scholarly Publication Track
 aliases:
 - TOPIC — PHAROS Scholarly Publication Track
-- wiki/PHAROS Scholarly Publication Track
 tags:
 - index
 - map
@@ -12,7 +11,7 @@ tags:
 - publications
 - scholarly
 - journal
-- wiki
+- areas
 - pharos-scholarly-publication-track-md
 - springer
 - society
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Scholarly Publication Track.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Scholarly Publication Track.md
 backlink_count: 46
 backlinks:
 - '[[wiki/2026-06-29 - idea-discovery]]'
@@ -39,8 +38,8 @@ backlinks:
 - '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[wiki/For Her Alone to Wield — Cover Letter (2026-05-16)]]'
 - '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Home]]'
 - '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
@@ -48,7 +47,7 @@ backlinks:
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/PHAROS]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Method — Core Framework]]'
 - '[[wiki/PHAROS Product Stack]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'

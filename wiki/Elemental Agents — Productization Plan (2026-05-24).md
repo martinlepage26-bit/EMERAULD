@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
 - '[[wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

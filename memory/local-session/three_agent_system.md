@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/local-session/three_agent_system.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 - '[[governance/hephaistos/HERMES]]'
 - '[[memory/local-session/project_hephaistos]]'

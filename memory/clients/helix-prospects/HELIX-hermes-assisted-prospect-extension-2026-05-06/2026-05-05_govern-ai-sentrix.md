@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_govern-ai-sentrix.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 source_url: https://www.sentrix.ca/govern-ai
 date: 69B83E1DF4
 scraped: '2026-05-05'

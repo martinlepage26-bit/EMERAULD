@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/skills/notion-research-documentation.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 skill_id: notion-research-documentation
 domain: Research and Analysis

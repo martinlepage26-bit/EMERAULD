@@ -26,7 +26,7 @@ canonical_path: wiki/IP and Manuscript Brief — 2026-05-14.md
 backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Operator Continuity Memo — 2026-05-14]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

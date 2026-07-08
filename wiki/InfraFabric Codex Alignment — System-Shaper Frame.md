@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/InfraFabric Architecture]]'
 - '[[wiki/MCP and Runtime Integration MOC]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

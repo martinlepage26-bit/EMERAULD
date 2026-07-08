@@ -21,7 +21,7 @@ vault_area: _vault
 canonical_path: _vault/skill.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Obsidian Agent Vault — Launch Kit]]'
 - '[[wiki/Workspace Cleanup Ledger — 2026-05-31]]'
 - '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'

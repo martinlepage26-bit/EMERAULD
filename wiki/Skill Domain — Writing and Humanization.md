@@ -31,8 +31,8 @@ backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

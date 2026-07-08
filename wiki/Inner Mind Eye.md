@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
   Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'

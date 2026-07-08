@@ -22,7 +22,7 @@ canonical_path: wiki/Queering Neo-Pagan Magic — 2006 Paper.md
 backlink_count: 24
 backlinks:
 - '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'

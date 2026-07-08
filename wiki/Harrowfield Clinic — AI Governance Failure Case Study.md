@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial]]'
 - '[[wiki/Home]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'

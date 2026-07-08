@@ -29,7 +29,7 @@ canonical_path: wiki/Who's the Boob Who's the Trap — AI Governance Through the
 backlink_count: 9
 backlinks:
 - '[[wiki/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized
   Projection]]'
 - '[[memory/daily/2026-06-22]]'

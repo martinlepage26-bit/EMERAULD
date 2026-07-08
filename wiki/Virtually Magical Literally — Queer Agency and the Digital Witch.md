@@ -22,7 +22,7 @@ canonical_path: wiki/Virtually Magical Literally — Queer Agency and the Digita
 backlink_count: 12
 backlinks:
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Pagan and Queer Ritual Studies MOC]]'

@@ -30,7 +30,7 @@ backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Mental illness, addiction, and AI psychosis]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

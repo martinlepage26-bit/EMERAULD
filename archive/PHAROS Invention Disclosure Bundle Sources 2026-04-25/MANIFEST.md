@@ -21,9 +21,9 @@ vault_area: archive
 canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/MANIFEST.md
 backlink_count: 6
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/D Drive Scan — 2026-05-12]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/GAP-pr4-server-spec-alignment]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/docs/PHAROS_OPERATIONAL_RUNBOOK]]'

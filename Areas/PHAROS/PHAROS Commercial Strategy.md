@@ -3,7 +3,6 @@ type: map
 title: PHAROS Commercial Strategy
 aliases:
 - TOPIC — PHAROS Commercial Strategy
-- wiki/PHAROS Commercial Strategy
 tags:
 - index
 - map
@@ -11,7 +10,7 @@ tags:
 - pharos
 - business
 - commercial
-- wiki
+- areas
 - pharos-commercial-strategy-md
 - revenue
 - procurement
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Commercial Strategy.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Commercial Strategy.md
 backlink_count: 66
 backlinks:
 - '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
@@ -40,7 +39,7 @@ backlinks:
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
 - '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
@@ -61,9 +60,9 @@ backlinks:
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[wiki/PHAROS Method — Core Framework]]'
-- '[[wiki/PHAROS Procurement-Unblock Sprint]]'
+- '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[wiki/PHAROS Product Stack]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
 - '[[wiki/Personal and Projects MOC]]'

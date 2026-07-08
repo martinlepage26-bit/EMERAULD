@@ -22,7 +22,7 @@ canonical_path: wiki/Pourquoi rêver encore — Lecture allégorique et métaphy
 backlink_count: 17
 backlinks:
 - '[[wiki/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/La fréquence brisée du verbe — Roman]]'
 - '[[wiki/Martin Lepage Professional Identity]]'

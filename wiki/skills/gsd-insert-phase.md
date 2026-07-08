@@ -21,7 +21,7 @@ canonical_path: wiki/skills/gsd-insert-phase.md
 backlink_count: 2
 backlinks:
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 skill_id: gsd-insert-phase
 domain: GSD Workflow
 codex_path: /home/cerebrhoe/.codex/skills/gsd-insert-phase/SKILL.md

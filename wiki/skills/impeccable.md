@@ -22,7 +22,7 @@ canonical_path: wiki/skills/impeccable.md
 backlink_count: 3
 backlinks:
 - '[[wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Design and UX]]'
 skill_id: impeccable
 domain: Design and UX

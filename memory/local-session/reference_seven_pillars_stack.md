@@ -21,7 +21,7 @@ canonical_path: memory/local-session/reference_seven_pillars_stack.md
 backlink_count: 3
 backlinks:
 - '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 name: Seven Pillars of Full-Stack Architecture
 description: Martin's canonical seven-pillar framework for full-stack architecture

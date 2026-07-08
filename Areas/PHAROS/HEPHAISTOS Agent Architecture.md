@@ -16,7 +16,6 @@ aliases:
 - Gadget — Frontier Scout and External Systems
 - Fully-Rounded-Power-Analyst
 - Philosopher
-- wiki/HEPHAISTOS Agent Architecture
 tags:
 - index
 - map
@@ -24,7 +23,7 @@ tags:
 - hephaistos
 - agents
 - governance-stack
-- wiki
+- areas
 - hephaistos-agent-architecture-md
 - agent
 - identity
@@ -34,8 +33,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HEPHAISTOS Agent Architecture.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/HEPHAISTOS Agent Architecture.md
 backlink_count: 66
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
@@ -54,15 +53,13 @@ backlinks:
 - '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'
 - '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
-  (2026-05-07)]]'
-- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
-  (2026-05-12)]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
+- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Controls Integration Dashboard]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Controls — Baseline Assessment (2026-04-26)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/MCP and Runtime Integration MOC]]'
@@ -80,13 +77,12 @@ backlinks:
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Research and Papers MOC]]'
-- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
-  (2026-04-18)]]'
+- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]'
 - '[[wiki/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/Supersession Registry]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'

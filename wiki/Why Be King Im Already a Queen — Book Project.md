@@ -21,7 +21,7 @@ canonical_path: wiki/Why Be King Im Already a Queen — Book Project.md
 backlink_count: 20
 backlinks:
 - '[[wiki/Brutal Isms — Art Grant Proposal]]'
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université

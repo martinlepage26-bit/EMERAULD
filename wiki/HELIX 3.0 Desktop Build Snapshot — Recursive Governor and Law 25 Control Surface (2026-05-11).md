@@ -33,11 +33,11 @@ backlink_count: 9
 backlinks:
 - '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
   (2026-06-22)]]'
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
 - '[[wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

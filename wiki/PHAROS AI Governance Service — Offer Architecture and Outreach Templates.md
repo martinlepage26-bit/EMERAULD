@@ -23,7 +23,7 @@ canonical_path: wiki/PHAROS AI Governance Service — Offer Architecture and Out
   Templates.md
 backlink_count: 3
 backlinks:
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

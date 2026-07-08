@@ -25,7 +25,7 @@ vault_area: templates
 canonical_path: templates/Recursive Governance Packet Header.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
 - '[[wiki/Recursive Governance Memo — EMERAULD Control Packet (2026-05-12)]]'
 ---

@@ -23,7 +23,7 @@ vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/content-inventory-cartographer/references/evolution.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 ---

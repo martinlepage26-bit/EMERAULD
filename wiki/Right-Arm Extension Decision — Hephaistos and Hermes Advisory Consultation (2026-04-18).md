@@ -32,8 +32,8 @@ canonical_path: wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advi
 backlink_count: 8
 backlinks:
 - '[[.github/agents/hephaistos.agent]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'

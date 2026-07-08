@@ -21,8 +21,8 @@ vault_area: wiki
 canonical_path: wiki/skills/codex-review.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/skills/codex-hooks]]'
 - '[[wiki/skills/prompt-engineering]]'
 - '[[wiki/skills/test-detect]]'

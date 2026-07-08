@@ -21,7 +21,7 @@ canonical_path: wiki/skills/api-documentation-generator.md
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 skill_id: api-documentation-generator
 domain: Creative and Writing

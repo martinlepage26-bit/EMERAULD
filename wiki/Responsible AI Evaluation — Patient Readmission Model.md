@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial]]'
 - '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[wiki/Home]]'

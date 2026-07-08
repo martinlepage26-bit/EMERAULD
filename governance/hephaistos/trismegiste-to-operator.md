@@ -24,7 +24,7 @@ canonical_path: governance/hephaistos/trismegiste-to-operator.md
 backlink_count: 3
 backlinks:
 - '[[CLAUDE]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 entity_type: Workflow
 entity_id: trismegiste_to_operator_delivery_workflow

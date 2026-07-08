@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[wiki/Claude Code Skill Corpus]]'
 - '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
-- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
@@ -43,7 +43,7 @@ backlinks:
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 - '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/Skill-Pairing — Five-Case Test Suite]]'
 ---
 

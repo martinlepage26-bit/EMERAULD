@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial]]'
 - '[[wiki/Home]]'
 - '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'

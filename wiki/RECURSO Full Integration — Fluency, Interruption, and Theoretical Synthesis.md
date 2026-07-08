@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Governance by Denial]]'
-- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
 - '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'

@@ -21,12 +21,12 @@ vault_area: wiki
 canonical_path: wiki/Governance Controls — Monitoring Plan & Automation Roadmap.md
 backlink_count: 7
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/External Data Registry — Phase 1 Build]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 tier: critical
 phase: Phase 2 (Automation)

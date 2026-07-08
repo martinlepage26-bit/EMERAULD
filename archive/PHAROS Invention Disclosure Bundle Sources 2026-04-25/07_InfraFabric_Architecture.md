@@ -21,7 +21,7 @@ vault_area: archive
 canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/InfraFabric Architecture]]'
 ---
 

@@ -22,7 +22,7 @@ backlink_count: 13
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[wiki/Academic Paper Pipeline]]'
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'

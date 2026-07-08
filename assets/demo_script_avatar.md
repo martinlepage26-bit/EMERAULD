@@ -21,7 +21,7 @@ vault_area: assets
 canonical_path: assets/demo_script_avatar.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Obsidian Agent Vault — Launch Kit]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 ---

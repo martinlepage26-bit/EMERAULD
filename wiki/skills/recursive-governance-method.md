@@ -22,9 +22,9 @@ canonical_path: wiki/skills/recursive-governance-method.md
 backlink_count: 14
 backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/archive/inner-mind-eye]]'
 - '[[wiki/archive/red-team]]'
 - '[[wiki/archive/triangulation]]'

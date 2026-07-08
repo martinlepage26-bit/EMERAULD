@@ -21,11 +21,11 @@ vault_area: wiki
 canonical_path: wiki/Governance Controls — Incident Response (Control Failure Procedures).md
 backlink_count: 6
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
 - '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 tier: critical
 ---

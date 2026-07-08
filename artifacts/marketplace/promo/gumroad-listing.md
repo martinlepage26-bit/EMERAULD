@@ -21,7 +21,7 @@ vault_area: artifacts
 canonical_path: artifacts/marketplace/promo/gumroad-listing.md
 backlink_count: 6
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Obsidian Agent Vault — Launch Kit]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 - '[[memory/agents/Decisions]]'

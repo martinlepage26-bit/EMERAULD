@@ -29,7 +29,7 @@ canonical_path: wiki/Peer Review — Recursive AI Governance as Executable Metho
   & Society).md
 backlink_count: 6
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'

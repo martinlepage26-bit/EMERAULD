@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'

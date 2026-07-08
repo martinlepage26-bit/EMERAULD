@@ -9,13 +9,12 @@ aliases:
 - PHAROS Method
 - PHAROS Method — Recursive Governance
 - Recursive Governance Method — Skill Corpus Entry
-- wiki/PHAROS Method — Technical Reference
 tags:
 - pharos
 - governance
 - method
 - reference
-- wiki
+- areas
 - pharos-method-technical-reference-md
 - promotion
 - recalibration
@@ -25,8 +24,8 @@ tags:
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Method — Technical Reference.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Method — Technical Reference.md
 backlink_count: 67
 backlinks:
 - '[[wiki/AI Governance Manifesto — Upstream Institutional Practice]]'
@@ -41,23 +40,21 @@ backlinks:
 - '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[wiki/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
-  Explanation)]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
 - '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
-- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
-  Phenomenon]]'
+- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[wiki/GSD — Get-Shit-Done Claude Code System]]'
 - '[[wiki/Governance Controls Integration Dashboard]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[wiki/HENRY — Research Paper Writing System]]'
 - '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
@@ -65,8 +62,7 @@ backlinks:
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'

@@ -22,7 +22,7 @@ canonical_path: wiki/skills/backend-dev-guidelines.md
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: backend-dev-guidelines
 domain: Deployment and Infrastructure

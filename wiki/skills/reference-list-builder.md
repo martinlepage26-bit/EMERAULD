@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/skills/reference-list-builder.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 skill_id: reference-list-builder

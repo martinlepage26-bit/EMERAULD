@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage Publications — Annotated Bibliography and Verification Leads]]'
 - '[[wiki/Martin Lepage — AI Governance Consulting Profile Assessment]]'
-- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
 - '[[wiki/Pagan and Queer Ritual Studies MOC]]'

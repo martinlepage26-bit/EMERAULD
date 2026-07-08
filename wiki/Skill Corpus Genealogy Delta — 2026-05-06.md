@@ -30,8 +30,8 @@ backlinks:
 - '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Version Genealogy System]]'
 source_roots:

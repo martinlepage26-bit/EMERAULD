@@ -24,8 +24,8 @@ backlink_count: 5
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_trusted-ai-crim]]'
 ---
 

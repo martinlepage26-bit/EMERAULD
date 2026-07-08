@@ -55,6 +55,31 @@
     "Architecture - EMERAULD Scripts - Overview",
     "Architecture Translation Guide — Eight Operators to Three-Agent Stack",
     "Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS",
+    "Areas/Lavoie/AREA",
+    "Areas/PHAROS/AREA",
+    "Areas/PHAROS/Control Protocols MOC",
+    "Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI",
+    "Areas/PHAROS/Governance and PHAROS MOC",
+    "Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
+    "Areas/PHAROS/HEPHAISTOS Agent Architecture",
+    "Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "Areas/PHAROS/Martin Lepage — Professional Profile",
+    "Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft",
+    "Areas/PHAROS/PHAROS AI Lineage — Source of Truth",
+    "Areas/PHAROS/PHAROS Commercial Strategy",
+    "Areas/PHAROS/PHAROS Invention Disclosure",
+    "Areas/PHAROS/PHAROS Method — Technical Reference",
+    "Areas/PHAROS/PHAROS Procurement-Unblock Sprint",
+    "Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture",
+    "Areas/PHAROS/PHAROS Runbook SOP",
+    "Areas/PHAROS/PHAROS Scholarly Publication Track",
+    "Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)",
+    "Areas/PHAROS/Skill Ecosystem — Professional Capability Registry",
+    "Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)",
+    "Areas/PHAROS/company",
+    "Areas/Writing/AREA",
+    "Areas/governanceframework/README",
     "Argus",
     "Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)",
     "Ask Vault — EMERAULD Vault Briefing Skill",
@@ -114,7 +139,6 @@
     "Consent, Fraud, and Boundary Protocols",
     "Consented Frame — Ethics and Wisdom Gate",
     "Contremaître — Groupe Lavoie Field-Operations Platform",
-    "Control Protocols MOC",
     "Crossing Under Watch — Troll's Toll and Digital Ritual Passage",
     "Cultural and Lyric Corpus Memo — 2026-05-14",
     "Custom GPT Products — PHAROS AI GPT Roster",
@@ -151,7 +175,6 @@
     "Elemental Agents — Productization Plan (2026-05-24)",
     "Embedding Before Rupture — Relational AI and Institutional Power",
     "Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)",
-    "Emotional Alliance vs. Evidentiary Discipline in AI",
     "Entrepreneurial Upside — Rare Knowledge, Leverage, and Time",
     "Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon",
     "Epistemic AI Purple Teaming",
@@ -190,7 +213,6 @@
     "Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)",
     "Governance Stress-Test Protocols — Index",
     "Governance Typology — Recursive AI Governance Taxonomy",
-    "Governance and PHAROS MOC",
     "Governance and Platform Signals Memo — 2026-05-14",
     "Governance by Denial",
     "Governance by Denial — Legibility, Capacity, Classification (Draft)",
@@ -200,7 +222,6 @@
     "Governess Agatha GPT — ChatGPT Product Specification",
     "HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)",
     "HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)",
-    "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
     "HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build",
     "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
     "HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06",
@@ -211,10 +232,9 @@
     "HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)",
     "HELIX Test Run — Claude Code Agents as Subject (2026)",
     "HELIX Test Run — Epstein Files Topic (2026)",
-    "HELIX — Value Proposition and Buyer Profile",
     "HENRY — Research Paper Writing System",
-    "HEPHAISTOS Agent Architecture",
     "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
+    "HEPHAISTOS MOC",
     "HEXA Press — Publishing and Practice Initiative",
     "Halberstam — The Queer Art of Failure (2011)",
     "Harrowfield Clinic — AI Governance Failure Case Study",
@@ -224,7 +244,6 @@
     "Healthcare Packet — Version Genealogy",
     "Henry GPT — Peer Reviewer ChatGPT Product Specification",
     "Hermes Dashboard — Professional Governance Tool",
-    "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "Home",
     "Host Environment — pharos-corpus-runner-01",
     "How French Canadians became White Folks — Scott 2016 (Race in Quebec)",
@@ -275,6 +294,7 @@
     "MASTER REFERENCE SAFE — Canonical Bibliography System",
     "MASTERxMASTERxMASTER — Skill Corpus Map",
     "MCP and Runtime Integration MOC",
+    "MEMORY MOC",
     "Machine Limitation",
     "Magic After Legitimacy Charmed — Version Genealogy",
     "Magic After Legitimacy — Charmed and the Governance of Female Power",
@@ -286,7 +306,6 @@
     "Martin Lepage — AI Governance Consulting Profile Assessment",
     "Martin Lepage — Adjacent Skill Ring",
     "Martin Lepage — Authored Skills",
-    "Martin Lepage — Professional Profile",
     "Martin Lepage — Skills by Life Domain",
     "Martin Voice Spec — Stage Map",
     "Martin Voice Spec — Version Genealogy",
@@ -323,37 +342,74 @@
     "Oralité primaire et transmission des savoirs — Claude Gilles 2017 (Vodou haitien à Montréal-Nord)",
     "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "PAPER BUILDER — Source Bundle and HENRY Origin",
+    "PEER-REVIEW MOC",
+    "PEER-REVIEW/00_PROJECT_CONTROL/CLAIM_REGISTER",
+    "PEER-REVIEW/00_PROJECT_CONTROL/JOURNAL_GUIDELINES",
+    "PEER-REVIEW/00_PROJECT_CONTROL/MODEL_HANDOFF_LOG",
+    "PEER-REVIEW/00_PROJECT_CONTROL/PROJECT_BRIEF",
+    "PEER-REVIEW/00_PROJECT_CONTROL/SECTION_PLAN",
+    "PEER-REVIEW/00_PROJECT_CONTROL/STYLE_RULES",
+    "PEER-REVIEW/01_RAW_MATERIALS/MATERIALS_INVENTORY",
+    "PEER-REVIEW/01_RAW_MATERIALS/README",
+    "PEER-REVIEW/01_RAW_MATERIALS/UNCERTAINTY_REGISTER",
+    "PEER-REVIEW/02_SOURCE_FIELD/ADJACENT_LITERATURES",
+    "PEER-REVIEW/02_SOURCE_FIELD/CANONICAL_WORKS",
+    "PEER-REVIEW/02_SOURCE_FIELD/REFERENCE_TREE",
+    "PEER-REVIEW/02_SOURCE_FIELD/SOURCE_GAPS",
+    "PEER-REVIEW/02_SOURCE_FIELD/SOURCE_MATRIX",
+    "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/ABSTRACT_REVISED_AFTER_BODY",
+    "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/ABSTRACT_V1",
+    "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/OUTLINE_REVIEW",
+    "PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/OUTLINE_V1",
+    "PEER-REVIEW/04_RESEARCH_BUNDLE/CITATION_CANDIDATES",
+    "PEER-REVIEW/04_RESEARCH_BUNDLE/CLAIM_TO_SOURCE_MAP",
+    "PEER-REVIEW/04_RESEARCH_BUNDLE/DEEP_RESEARCH",
+    "PEER-REVIEW/04_RESEARCH_BUNDLE/METHOD_AND_CORPUS_NOTES",
+    "PEER-REVIEW/04_RESEARCH_BUNDLE/PAGE_NUMBER_TRACKER",
+    "PEER-REVIEW/05_SECTION_DRAFTS/01_BACKGROUND_CONTEXT",
+    "PEER-REVIEW/05_SECTION_DRAFTS/02_LITERATURE_REVIEW",
+    "PEER-REVIEW/05_SECTION_DRAFTS/03_CONCEPTUAL_FRAMEWORK",
+    "PEER-REVIEW/05_SECTION_DRAFTS/04_ANALYSIS_FINDINGS",
+    "PEER-REVIEW/05_SECTION_DRAFTS/05_DISCUSSION",
+    "PEER-REVIEW/05_SECTION_DRAFTS/06_CONCLUSION",
+    "PEER-REVIEW/05_SECTION_DRAFTS/07_INTRODUCTION",
+    "PEER-REVIEW/05_SECTION_DRAFTS/08_ABSTRACT_FINAL",
+    "PEER-REVIEW/06_VALIDATION/CITATION_AUDIT",
+    "PEER-REVIEW/06_VALIDATION/CLAIM_AUDIT",
+    "PEER-REVIEW/06_VALIDATION/FINAL_RISK_REGISTER",
+    "PEER-REVIEW/06_VALIDATION/JOURNAL_CONFORMITY_AUDIT",
+    "PEER-REVIEW/06_VALIDATION/PEER_REVIEW_STRESS_TEST",
+    "PEER-REVIEW/06_VALIDATION/REFERENCE_LIST_AUDIT",
+    "PEER-REVIEW/07_FINAL_OUTPUTS/ABSTRACT_FINAL",
+    "PEER-REVIEW/07_FINAL_OUTPUTS/AUTHOR_BIO",
+    "PEER-REVIEW/07_FINAL_OUTPUTS/COVER_LETTER",
+    "PEER-REVIEW/07_FINAL_OUTPUTS/KEYWORDS",
+    "PEER-REVIEW/07_FINAL_OUTPUTS/SUBMISSION_CHECKLIST",
+    "PEER-REVIEW/NODE_INSTRUCTIONS",
+    "PEER-REVIEW/PROJECT_INSTRUCTION",
+    "PEER-REVIEW/README",
     "PERPLEXITY-COMPUTER",
     "PHAROS",
     "PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)",
-    "PHAROS AI Ethics Submission — Springer Draft",
     "PHAROS AI Governance Service — Offer Architecture and Outreach Templates",
-    "PHAROS AI Lineage — Source of Truth",
     "PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
     "PHAROS AI and Ethics Submission — Architecture Paper",
     "PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)",
-    "PHAROS Commercial Strategy",
     "PHAROS Company Registration and Security Incidents",
     "PHAROS Cross-AI Strategy Matrix",
     "PHAROS Evidentiary Gap Closure Bundle",
     "PHAROS External Proof Packet — Procurement-Unblock 2026-04-28",
     "PHAROS Final Voice Operator — GPT Creator",
-    "PHAROS Invention Disclosure",
     "PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)",
     "PHAROS Legal Classification — CAE Code Strategy",
     "PHAROS Licensing Prospectus",
     "PHAROS LinkedIn April 2026 Publishing Routine",
     "PHAROS Method — Core Framework",
-    "PHAROS Method — Technical Reference",
     "PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)",
     "PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets",
-    "PHAROS Procurement-Unblock Sprint",
     "PHAROS Product Stack",
-    "PHAROS Recalibration — Unified Governance Architecture",
-    "PHAROS Runbook SOP",
     "PHAROS SURFACE",
     "PHAROS Scholarly Essay — Institutional Deployment Architecture",
-    "PHAROS Scholarly Publication Track",
     "PHAROS Skill Corpus Change Genealogy — 2026-05-06",
     "PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)",
     "PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)",
@@ -362,6 +418,7 @@
     "PHAROS-AI Webservice — pharos-ai.ca",
     "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
     "PROTOCOLS — Debate and Red-Team Runbook",
+    "PUBLICATIONS MOC",
     "Pagan Magic — Version Genealogy",
     "Pagan and Queer Ritual Studies MOC",
     "Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
@@ -389,6 +446,8 @@
     "Prologue I Saw Willow Rise — Legitimacy Machines Opening",
     "Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)",
     "Provisional Arbitration Charter — Argus Layer 9.5",
+    "Publications/BOOKS/essay_identity_enforceable",
+    "Publications/Papers and Chapters/Rivard2026/Pourquoi rêver encore-@nalyses-REWRITE",
     "Publisher Assessment — Literary Idioms and Phrase-Origin Book",
     "Publishing Strategy — Springer Trilogy and Parallel Tracks",
     "Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)",
@@ -434,6 +493,7 @@
     "Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection",
     "Research Hub",
     "Research and Papers MOC",
+    "Resources/glossary",
     "Responsible AI Evaluation — Patient Readmission Model",
     "Rest and Consolidation Guide — Martin",
     "Rhétorique antique, mythos et IA — Gouvernance et sciences sociales",
@@ -459,7 +519,6 @@
     "Service Offer Prompts — GPT-Assisted Revenue Design Templates",
     "Skill Corpus Dedup Audit — 2026-05-06",
     "Skill Corpus Genealogy Delta — 2026-05-06",
-    "Skill Corpus — Complete Live Index (260 Active Skills)",
     "Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate",
     "Skill Domain — AI and LLM Tools",
     "Skill Domain — Agent Architecture",
@@ -473,8 +532,6 @@
     "Skill Domain — Skill Architecture",
     "Skill Domain — Vault and Knowledge",
     "Skill Domain — Writing and Humanization",
-    "Skill Ecosystem — Professional Capability Registry",
-    "Skill Map — Canonical Routed Skills (2026-05-06)",
     "Skill-Pairing — Five-Case Test Suite",
     "Slayer Franchise Power — Methodology and Corpus Design",
     "Slayer Recursion Protocol — README and Repositioning",
@@ -582,9 +639,26 @@
     "archive/Orphan Index — Raw Sources — 2026-05-06",
     "archive/Orphan Index — Root Loose Notes — 2026-05-06",
     "archive/Orphan Index — Runtime And Agents — 2026-05-06",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/01_Recursive_AI_Governance_Very_Long_Narrative",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/02_PHAROS_Master_SOP",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05_From_Recursive_Production_to_Governable_Method",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/06_Codex_Governance_Case_Study_Blind_Leading_Automated",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Complete_Operational_Specification",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Disguised_Prompt_Sequence",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Public_28-step_Description",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/COVER_LETTER_FOR_COUNSEL",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/ERRATA",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/MANIFEST",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/REVISION_SUMMARY",
+    "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/editorial_log",
     "archive/agent-evaluation",
     "archive/ai-product",
     "archive/brief-to-tasks",
+    "archive/consolidation-records/HOME-ROOT-REORG-2026-07-01-MANIFEST",
+    "archive/consolidation-records/merge-candidates-2026-05-14",
     "archive/diamond-eyes",
     "archive/doc",
     "archive/first-principles",
@@ -595,10 +669,82 @@
     "archive/ma-degree-guide",
     "archive/red-team",
     "archive/repo-logo-generator",
+    "archive/session-state/session-state-001",
+    "archive/session-state/session-state-002",
+    "archive/session-state/session-state-003",
     "archive/triangulation",
     "archive/ux-researcher-designer",
     "archive/web-scraping",
     "argus-drift-audit-scope-multi-agent-orchestration",
+    "artifacts/2026-04-19-pharos-migration-pr4/01-deploy-config/migration-govern-to-pharos",
+    "artifacts/2026-04-19-pharos-migration-pr4/02-pipeline-triage/martin_decision_brief",
+    "artifacts/2026-04-19-pharos-migration-pr4/03-pr4-hardening/CODEX_PROMPT_SERVER_HARDENING",
+    "artifacts/2026-04-19-pharos-migration-pr4/_manifest/GAP-pr4-server-spec-alignment",
+    "artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST",
+    "artifacts/2026-04-19-pharos-migration-pr4/_manifest/RUN-ORDER",
+    "artifacts/2026-04-19-pharos-migration-pr4/docs/CODEX_PROMPT_SERVER_HARDENING",
+    "artifacts/2026-04-19-pharos-migration-pr4/docs/CSV_DIAGNOSTIC_REPORT",
+    "artifacts/2026-04-19-pharos-migration-pr4/docs/PHAROS_OPERATIONAL_RUNBOOK",
+    "artifacts/2026-04-19-pharos-migration-pr4/docs/martin_decision_brief",
+    "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/ai-anxiety-recursive-governance-ai-society-aligned-2026-03-11",
+    "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/archive_master_tracker",
+    "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/govern_deterministic_runner_spec",
+    "artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/pharos_topology_layer_v3",
+    "artifacts/emerge-pattern-report-2026-06-29",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/AGENT-NAMING-STUDY",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-LISTING",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/MARKETPLACE-MANIFEST",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/SANITIZATION-REPORT",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/Home",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/README",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/START_HERE",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/archive/README",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/README",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/_example_raw_note",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/scripts/README",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/services/README",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/README",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/archive_guide",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/link_guide",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/skill_template",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/synthesis_prompt",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_concept",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_decision_log",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_moc",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_person",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_project",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/README",
+    "artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/_example_wiki_note",
+    "artifacts/marketplace/promo/README",
+    "artifacts/marketplace/promo/community-posts",
+    "artifacts/marketplace/promo/devto-iter13-decision-log-deepdive",
+    "artifacts/marketplace/promo/devto-iter17-prompting-problem",
+    "artifacts/marketplace/promo/devto-iter21-roi-calculation",
+    "artifacts/marketplace/promo/devto-iter25-hallucination-fix",
+    "artifacts/marketplace/promo/devto-iter29-context-window-not-memory",
+    "artifacts/marketplace/promo/devto-iter33-architecture-guide",
+    "artifacts/marketplace/promo/devto-iter37-three-notes",
+    "artifacts/marketplace/promo/devto-iter41-code-review",
+    "artifacts/marketplace/promo/devto-iter49-claudemd-fails",
+    "artifacts/marketplace/promo/devto-iter9-comparison",
+    "artifacts/marketplace/promo/gumroad-listing",
+    "artifacts/marketplace/promo/hashnode-iter14-scaling",
+    "artifacts/marketplace/promo/hashnode-iter18-no-rag",
+    "artifacts/marketplace/promo/hashnode-iter22-graph-vs-folders",
+    "artifacts/marketplace/promo/hashnode-iter26-synthesis-habit",
+    "artifacts/marketplace/promo/hashnode-iter30-hub-note-pattern",
+    "artifacts/marketplace/promo/hashnode-iter34-skill-guides",
+    "artifacts/marketplace/promo/hashnode-iter38-writing-for-ai",
+    "artifacts/marketplace/promo/hashnode-iter42-open-questions",
+    "artifacts/marketplace/promo/hashnode-iter46-active-constraints",
+    "artifacts/marketplace/promo/hashnode-iter6-feature-first",
+    "artifacts/marketplace/promo/medium-producthunt",
+    "artifacts/marketplace/promo/social-posts",
+    "artifacts/stale-projects-2026-07-04",
+    "artifacts/stale-projects-2026-07-05",
+    "artifacts/stale-projects-2026-07-06",
+    "artifacts/stale-projects-2026-07-07",
     "bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec",
     "bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023",
     "bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2",
@@ -636,7 +782,183 @@
     "genealogy/Martin Voice Spec — Stage Map",
     "genealogy/Martin Voice Spec — Version Genealogy",
     "genealogy/test",
+    "governance/decision-index",
+    "governance/global/AGENTS",
+    "governance/global/HEPHAISTOS-STATUS",
+    "governance/governance-index",
+    "governance/hephaistos/AGENTS",
+    "governance/hephaistos/AGENT_AUDIT_2026-04-23",
+    "governance/hephaistos/BOWIE",
+    "governance/hephaistos/CLAUDE",
+    "governance/hephaistos/CLAUDE-REVIEW-CHECKLIST",
+    "governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION",
+    "governance/hephaistos/COUNTER-AUDIT-IMPLEMENTATION",
+    "governance/hephaistos/DEPLOYMENT-CHECKLIST",
+    "governance/hephaistos/DIAMOND-EYES",
+    "governance/hephaistos/FORGING-AUDIT",
+    "governance/hephaistos/FORGING-TIER-0",
+    "governance/hephaistos/FORGING-TIER-0-QUICKSTART",
+    "governance/hephaistos/GADGET",
+    "governance/hephaistos/GOVERNANCE-INFRASTRUCTURE-MANIFEST",
+    "governance/hephaistos/HENRY",
+    "governance/hephaistos/HEPHAISTOS",
+    "governance/hephaistos/HEPHAISTOS_OPERATIONS",
+    "governance/hephaistos/HERMES",
+    "governance/hephaistos/HERMES_OPERATIONS",
+    "governance/hephaistos/INTEGRATION-PROGRESS",
+    "governance/hephaistos/L99-DEMOTION-TO-ARGUS",
+    "governance/hephaistos/NEXT-STEPS",
+    "governance/hephaistos/ORCHESTRATION",
+    "governance/hephaistos/ORCHESTRATION_OPERATIONS",
+    "governance/hephaistos/PHASE-2-INTEGRATION-ROADMAP",
+    "governance/hephaistos/QUEEN-KEYPORT",
+    "governance/hephaistos/QUEEN-KEYPORT_OPERATIONS",
+    "governance/hephaistos/RELAY-LEDGER",
+    "governance/hephaistos/RIGHT-ARM-EXTENSION-DECISION",
+    "governance/hephaistos/SKILL-MAP",
+    "governance/hephaistos/SPECIALIST-GUIDELINE-AUTHORITY",
+    "governance/hephaistos/STATUS",
+    "governance/hephaistos/THREE-AGENT-ARCHITECTURE",
+    "governance/hephaistos/USAGE",
+    "governance/hephaistos/WAVE2-CLEANUP",
+    "governance/hephaistos/bias-testing-protocol",
+    "governance/hephaistos/continuous-ethical-monitoring",
+    "governance/hephaistos/ethics-escalation-criteria",
+    "governance/hephaistos/hephaistos-to-queen-keyport",
+    "governance/hephaistos/hephaistos-to-specialist-guideline-pull",
+    "governance/hephaistos/hermes-escalation-to-queen-keyport",
+    "governance/hephaistos/hq-disagreement-test-case",
+    "governance/hephaistos/operator-to-gadget",
+    "governance/hephaistos/operator-to-henry",
+    "governance/hephaistos/queen-keyport-to-hermes",
+    "governance/hephaistos/research-ethics-gate",
+    "governance/hephaistos/right-arm-veto-authority",
+    "governance/hephaistos/trismegiste-to-operator",
+    "governance/hephaistos/writing-vulnerability-transparency-gates",
+    "graph/graph-map",
+    "graph/graph-schema",
+    "graph/indexes/edge-index",
+    "graph/indexes/node-index",
+    "graph/indexes/orphan-index",
+    "graph/indexes/project-index",
+    "graph/indexes/team-index",
+    "graph/indexes/workflow-index",
+    "graph/nodes/unmapped/archive_register_py",
+    "graph/nodes/unmapped/aurora_product",
+    "graph/nodes/unmapped/broken_frequency_novel",
+    "graph/nodes/unmapped/cloudflare_stack",
+    "graph/nodes/unmapped/coequal_conflict_resolution_workflow",
+    "graph/nodes/unmapped/compassai",
+    "graph/nodes/unmapped/content_to_market_pipeline_workflow",
+    "graph/nodes/unmapped/dast_project",
+    "graph/nodes/unmapped/echo_product",
+    "graph/nodes/unmapped/emerauld_vault",
+    "graph/nodes/unmapped/enrich_frontmatter_backlinks_py",
+    "graph/nodes/unmapped/gaia_product",
+    "graph/nodes/unmapped/helix_product",
+    "graph/nodes/unmapped/hermes_dashboard_tool",
+    "graph/nodes/unmapped/hexa_project",
+    "graph/nodes/unmapped/jade",
+    "graph/nodes/unmapped/l99_demotion_to_argus_decision",
+    "graph/nodes/unmapped/lotus_product",
+    "graph/nodes/unmapped/martin_govern_ai_site",
+    "graph/nodes/unmapped/martin_lepage",
+    "graph/nodes/unmapped/patricia",
+    "graph/nodes/unmapped/pharos",
+    "graph/nodes/unmapped/pharos_newlook",
+    "graph/nodes/unmapped/pharos_suite_repo",
+    "graph/nodes/unmapped/post_launch_learning_loop_workflow",
+    "graph/nodes/unmapped/rdaig_manuscript",
+    "graph/nodes/unmapped/recurso_framework",
+    "graph/nodes/unmapped/resolve_orphans_py",
+    "graph/nodes/unmapped/revenue_support_optimizer",
+    "graph/nodes/unmapped/scripto_dr_sort",
+    "graph/nodes/unmapped/session_state_protocol_workflow",
+    "graph/nodes/unmapped/session_state_registers_dataset",
+    "graph/nodes/unmapped/spp_project",
+    "graph/nodes/unmapped/three_agent_handoff_workflow",
+    "graph/nodes/unmapped/vault_maintenance_pipeline_workflow",
+    "graph/nodes/unmapped/vault_workflow",
+    "graph/nodes/unmapped/vigil_gsk",
+    "graph/nodes/unmapped/why_be_king_book",
+    "graph/nodes/unmapped/wiki_corpus_dataset",
     "hephaistos-scope-security-audit-phases-2-6",
+    "hephaistos/DEPLOYMENT-CHECKLIST",
+    "hephaistos/SKILL-MAP",
+    "hephaistos/agents/GADGET Frontier Scout External Integration Agent",
+    "hephaistos/agents/Trismegiste Personal AI Assistant",
+    "hephaistos/agents/argus",
+    "hephaistos/agents/hephaistos",
+    "hephaistos/agents/hermes",
+    "hephaistos/agents/queen-keyport",
+    "hephaistos/hq-disagreement-test-case",
+    "hephaistos/personal-assistant-agents/README",
+    "hephaistos/personal-assistant-agents/content-inventory-cartographer/SKILL",
+    "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/ecosystem",
+    "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/evolution",
+    "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/method",
+    "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/subjectivity",
+    "hephaistos/personal-assistant-agents/demand-scout/SKILL",
+    "hephaistos/personal-assistant-agents/demand-scout/references/ecosystem",
+    "hephaistos/personal-assistant-agents/demand-scout/references/evolution",
+    "hephaistos/personal-assistant-agents/demand-scout/references/method",
+    "hephaistos/personal-assistant-agents/demand-scout/references/subjectivity",
+    "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/SKILL",
+    "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/ecosystem",
+    "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/evolution",
+    "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/method",
+    "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/subjectivity",
+    "hephaistos/personal-assistant-agents/intake-triager/SKILL",
+    "hephaistos/personal-assistant-agents/intake-triager/references/ecosystem",
+    "hephaistos/personal-assistant-agents/intake-triager/references/evolution",
+    "hephaistos/personal-assistant-agents/intake-triager/references/method",
+    "hephaistos/personal-assistant-agents/intake-triager/references/subjectivity",
+    "hephaistos/personal-assistant-agents/listing-creative-director/SKILL",
+    "hephaistos/personal-assistant-agents/listing-creative-director/references/ecosystem",
+    "hephaistos/personal-assistant-agents/listing-creative-director/references/evolution",
+    "hephaistos/personal-assistant-agents/listing-creative-director/references/method",
+    "hephaistos/personal-assistant-agents/listing-creative-director/references/subjectivity",
+    "hephaistos/personal-assistant-agents/marketplace-dispatcher/SKILL",
+    "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/ecosystem",
+    "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/evolution",
+    "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/method",
+    "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/subjectivity",
+    "hephaistos/personal-assistant-agents/metadata-link-warden/SKILL",
+    "hephaistos/personal-assistant-agents/metadata-link-warden/references/ecosystem",
+    "hephaistos/personal-assistant-agents/metadata-link-warden/references/evolution",
+    "hephaistos/personal-assistant-agents/metadata-link-warden/references/method",
+    "hephaistos/personal-assistant-agents/metadata-link-warden/references/subjectivity",
+    "hephaistos/personal-assistant-agents/offer-pricing-architect/SKILL",
+    "hephaistos/personal-assistant-agents/offer-pricing-architect/references/ecosystem",
+    "hephaistos/personal-assistant-agents/offer-pricing-architect/references/evolution",
+    "hephaistos/personal-assistant-agents/offer-pricing-architect/references/method",
+    "hephaistos/personal-assistant-agents/offer-pricing-architect/references/subjectivity",
+    "hephaistos/personal-assistant-agents/raw-archivist/SKILL",
+    "hephaistos/personal-assistant-agents/raw-archivist/references/ecosystem",
+    "hephaistos/personal-assistant-agents/raw-archivist/references/evolution",
+    "hephaistos/personal-assistant-agents/raw-archivist/references/method",
+    "hephaistos/personal-assistant-agents/raw-archivist/references/subjectivity",
+    "hephaistos/personal-assistant-agents/revenue-support-optimizer/references/ecosystem",
+    "hephaistos/personal-assistant-agents/revenue-support-optimizer/references/evolution",
+    "hephaistos/personal-assistant-agents/revenue-support-optimizer/references/method",
+    "hephaistos/personal-assistant-agents/revenue-support-optimizer/references/subjectivity",
+    "hephaistos/personal-assistant-agents/rights-policy-warden/SKILL",
+    "hephaistos/personal-assistant-agents/rights-policy-warden/references/ecosystem",
+    "hephaistos/personal-assistant-agents/rights-policy-warden/references/evolution",
+    "hephaistos/personal-assistant-agents/rights-policy-warden/references/method",
+    "hephaistos/personal-assistant-agents/rights-policy-warden/references/subjectivity",
+    "hephaistos/personal-assistant-agents/synthesis-editor/SKILL",
+    "hephaistos/personal-assistant-agents/synthesis-editor/references/ecosystem",
+    "hephaistos/personal-assistant-agents/synthesis-editor/references/evolution",
+    "hephaistos/personal-assistant-agents/synthesis-editor/references/method",
+    "hephaistos/personal-assistant-agents/synthesis-editor/references/subjectivity",
+    "hephaistos/personal-assistant-agents/trismegiste/README",
+    "hephaistos/personal-assistant-agents/trismegiste/vault/CLAUDE",
+    "hephaistos/personal-assistant-agents/trismegiste/vault/raw/README",
+    "hephaistos/personal-assistant-agents/trismegiste/vault/skills/README",
+    "hephaistos/personal-assistant-agents/trismegiste/vault/skills/skill-synthesis",
+    "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/README",
+    "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/hub-projects",
     "if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)",
     "if.switchboard — InfraFabric Product Center",
     "lightrag_config — EMERAULD Shared Config Module",
@@ -644,6 +966,112 @@
     "maps/PHAROS Method Map",
     "maps/Queer Media and Ritual Map",
     "memory",
+    "memory/agents/Antigravity",
+    "memory/agents/Blockers",
+    "memory/agents/Decisions",
+    "memory/agents/Events",
+    "memory/agents/Gemini",
+    "memory/agents/Grok",
+    "memory/agents/Journal",
+    "memory/agents/Kimi",
+    "memory/agents/Learning",
+    "memory/agents/Vibe",
+    "memory/clients/ExterminationDG",
+    "memory/clients/Lavoie",
+    "memory/clients/Lavoie Construct",
+    "memory/clients/Progression",
+    "memory/clients/Sante-France",
+    "memory/clients/helix-prospects-2026-q2",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_about-orah-ottawa-responsible-ai-hub",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_ai-for-audit-accounting-caseware",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aiaware-risk-management",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aida-caseware",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_artificial-intelligence",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aurascribe-ai-medical-scribe-for-quebec",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_cibcs-trustworthy-ai-commitment",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_complogyx-sovereign-ai-compliance",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_dialogue-privacy-policy",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_govern-ai-sentrix",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-blue-j",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_home-prodago",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_how-td-helps-advance-ai-innovation",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_leveraging-ai-to-enable-the-future-cibc-thought-leadership",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_luminaryxâ-â-canadian-municipal-ai-governance",
+    "memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_responsible-ai-in-financial-services",
+    "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_alayaflow-alayacare",
+    "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_deploying-llms-safely-with-botpress-botpress-resources",
+    "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_humania-assurance-transforms-compliance-operations-with-koïo",
+    "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_koïos-intelligence",
+    "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_safety-botpress",
+    "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_third-party-ai-models",
+    "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_wisedocs-medical-record-reviews-summaries-insights-for-claim",
+    "memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_wwwtricoreaicom",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_ai-in-supply-chain-kinaxis",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_alayaflow-alayacare",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_artificial-intelligence-at-rbc",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_beneva-choisit-loutil-de-souscription-de-global-iqx-beneva",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_better-data-management-thinkdata-works",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_client-challenge",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_company",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_enterprise-ai-private-secure-customizable-cohere",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_lumentai-ai-consulting-autonomous-agents-montreal",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_our-saas-technology-platform-assent",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_our-story-leadership",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_paula-parhon-biography-desjardins",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_responsible-ai",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_solace-platform-solace",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_supply-chain-management-solutions-for-sustainability-assent-",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_the-technology",
+    "memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_trusted-ai-crim",
+    "memory/clients/outreach-2026-q2",
+    "memory/daily/2026-04-19",
+    "memory/daily/2026-04-20",
+    "memory/daily/2026-04-21",
+    "memory/daily/2026-04-22",
+    "memory/daily/2026-04-23",
+    "memory/daily/2026-04-24",
+    "memory/daily/2026-04-25",
+    "memory/daily/2026-04-28",
+    "memory/daily/2026-04-29",
+    "memory/daily/2026-05-01",
+    "memory/daily/2026-05-02",
+    "memory/daily/2026-05-05",
+    "memory/daily/2026-05-07",
+    "memory/daily/2026-05-10",
+    "memory/daily/2026-05-11",
+    "memory/daily/2026-05-13",
+    "memory/daily/2026-06-22",
+    "memory/daily/2026-06-23",
+    "memory/daily/2026-06-24",
+    "memory/daily/2026-06-25",
+    "memory/daily/2026-06-26",
+    "memory/daily/2026-06-27",
+    "memory/daily/2026-06-28",
+    "memory/daily/2026-06-29",
+    "memory/daily/2026-06-30",
+    "memory/daily/2026-07-01",
+    "memory/daily/2026-07-02",
+    "memory/daily/2026-07-03",
+    "memory/daily/2026-07-04",
+    "memory/daily/2026-07-05",
+    "memory/daily/2026-07-06",
+    "memory/daily/2026-07-07",
+    "memory/local-session/MEMORY",
+    "memory/local-session/decision_compass_deployment_phasing",
+    "memory/local-session/feedback_aurorai_spelling",
+    "memory/local-session/feedback_deploy_cloudflare",
+    "memory/local-session/feedback_deploy_workflow",
+    "memory/local-session/feedback_evidence_discipline",
+    "memory/local-session/feedback_objectivity_subjectivity",
+    "memory/local-session/principle_diamond_eyes",
+    "memory/local-session/project_adversarial_eval_paper",
+    "memory/local-session/project_aurorai_repo_split",
+    "memory/local-session/project_forging_integration",
+    "memory/local-session/project_hephaistos",
+    "memory/local-session/reference_seven_pillars_stack",
+    "memory/local-session/reference_trackers",
+    "memory/local-session/three_agent_system",
+    "memory/local-session/user_ethical_ground",
     "multi-agent-orchestration Skill — Governance Case File",
     "projects/AurorA — Fisher King Project State",
     "projects/COMPASSai — Fisher King Project State",
@@ -660,18 +1088,6 @@
     "projects/Second Brain — Fisher King Project State",
     "projects/Second Self — Fisher King Project State",
     "projects/Stuttering Machines — Fisher King Project State",
-    "projects/genealogie-lepage-deschenes/README",
-    "projects/patent-workbench/node_modules/@alloc/quick-lru/readme",
-    "projects/patent-workbench/node_modules/@babel/parser/CHANGELOG",
-    "projects/patent-workbench/node_modules/@blinkdotnew/ui/node_modules/tailwind-merge/LICENSE",
-    "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/SKILL",
-    "projects/patent-workbench/node_modules/commander/Readme",
-    "projects/patent-workbench/node_modules/css-mediaquery/HISTORY",
-    "projects/patent-workbench/node_modules/date-fns/SECURITY",
-    "projects/patent-workbench/node_modules/ms/license",
-    "projects/patent-workbench/node_modules/recharts/AGENTS",
-    "projects/patent-workbench/node_modules/resolve/.github/THREAT_MODEL",
-    "projects/patent-workbench/node_modules/thenify/History",
     "projects/security-audit-skill/martin-governance/run-1/architecture",
     "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
     "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
@@ -947,7 +1363,37 @@
     "voice11 — ElevenLabs TTS Pipeline"
   ],
   [
+    "graph/nodes/unmapped/embed_py",
+    "graph/nodes/unmapped/vector_store_system",
+    "graph/nodes/unmapped/vsearch_py"
+  ],
+  [
+    "graph/nodes/unmapped/ingest_py",
+    "graph/nodes/unmapped/lightrag_kg_system",
+    "graph/nodes/unmapped/query_py"
+  ],
+  [
+    "graph/nodes/unmapped/raw_intake_dataset",
+    "graph/nodes/unmapped/raw_sources_dataset",
+    "graph/nodes/unmapped/verify_and_hardmove_py"
+  ],
+  [
+    "graph/nodes/unmapped/build_wikilink_graph_py",
+    "graph/nodes/unmapped/graph_store_system"
+  ],
+  [
+    "graph/nodes/unmapped/graphify_out_system",
+    "graph/nodes/unmapped/graphify_tool"
+  ],
+  [
+    "graph/nodes/unmapped/guillaume_lavoie",
+    "graph/nodes/unmapped/lavoie_gates_workflow"
+  ],
+  [
     "ASSETS MOC"
+  ],
+  [
+    "Areas/Personal/AREA"
   ],
   [
     "EMERAULD_OS_ARCHITECTURE.MD MOC"
@@ -956,16 +1402,7 @@
     "GRAPHIFY-OUT MOC"
   ],
   [
-    "HEPHAISTOS MOC"
-  ],
-  [
-    "MEMORY MOC"
-  ],
-  [
-    "PEER-REVIEW MOC"
-  ],
-  [
-    "PUBLICATIONS MOC"
+    "Inbox/README"
   ],
   [
     "RAW MOC"
@@ -974,13 +1411,52 @@
     "RESOURCES MOC"
   ],
   [
+    "Resources/ROUTING"
+  ],
+  [
     "SOURCE_OF_TRUTH.MD MOC"
   ],
   [
     "TEMPLATES MOC"
   ],
   [
+    "graph/nodes/unmapped/auto_tagger_py"
+  ],
+  [
+    "graph/nodes/unmapped/emerauld_intake_rule_workflow"
+  ],
+  [
+    "graph/nodes/unmapped/israel_lavoie"
+  ],
+  [
+    "graph/nodes/unmapped/lightrag_config_py"
+  ],
+  [
+    "graph/nodes/unmapped/pa_mcp_server"
+  ],
+  [
+    "graph/nodes/unmapped/pa_trismegiste_bundle"
+  ],
+  [
+    "graph/nodes/unmapped/philosopher_right_arm"
+  ],
+  [
+    "graph/nodes/unmapped/power_analyst_right_arm"
+  ],
+  [
+    "graph/nodes/unmapped/right_arm_extension_decision"
+  ],
+  [
+    "graph/nodes/unmapped/specialist_guideline_authority_decision"
+  ],
+  [
+    "graph/nodes/unmapped/wave2_gate_decision"
+  ],
+  [
     "projects/DOMAIN"
+  ],
+  [
+    "projects/genealogie-lepage-deschenes/README"
   ],
   [
     "projects/genealogie-lepage-deschenes/arbre/dossier-fiabilisation-2026-07-05"
@@ -999,1602 +1475,6 @@
   ],
   [
     "projects/patent-workbench/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/code-frame/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/compat-data/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/core/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/generator/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/helper-compilation-targets/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/helper-globals/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/helper-module-imports/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/helper-module-transforms/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/helper-plugin-utils/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/helper-string-parser/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/helper-validator-identifier/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/helper-validator-option/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/helpers/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/parser/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/plugin-transform-react-jsx-self/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/plugin-transform-react-jsx-source/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/template/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/traverse/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@babel/types/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@blinkdotnew/sdk/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@blinkdotnew/ui/node_modules/lucide-react/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@blinkdotnew/ui/node_modules/tailwind-merge/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@cacheable/memory/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@cacheable/utils/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/css-calc/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/css-calc/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/css-calc/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/css-parser-algorithms/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/css-parser-algorithms/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/css-parser-algorithms/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/css-syntax-patches-for-csstree/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/css-syntax-patches-for-csstree/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/css-syntax-patches-for-csstree/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/css-tokenizer/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/css-tokenizer/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/css-tokenizer/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/media-query-list-parser/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/media-query-list-parser/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/media-query-list-parser/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/selector-resolve-nested/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/selector-resolve-nested/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/selector-resolve-nested/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/selector-specificity/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/selector-specificity/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@csstools/selector-specificity/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@date-fns/tz/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@date-fns/tz/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@date-fns/tz/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@dnd-kit/accessibility/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@dnd-kit/accessibility/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@dnd-kit/core/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@dnd-kit/core/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@dnd-kit/sortable/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@dnd-kit/sortable/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@dnd-kit/utilities/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@dnd-kit/utilities/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@esbuild/linux-arm64/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@floating-ui/core/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@floating-ui/dom/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@floating-ui/react-dom/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@floating-ui/utils/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@hookform/resolvers/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@jridgewell/gen-mapping/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@jridgewell/remapping/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@jridgewell/resolve-uri/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@jridgewell/sourcemap-codec/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@jridgewell/trace-mapping/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@keyv/bigmap/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@keyv/serialize/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@nodelib/fs.scandir/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@nodelib/fs.stat/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@nodelib/fs.walk/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@oxc-project/types/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/number/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/primitive/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-accordion/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-alert-dialog/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-alert-dialog/node_modules/@radix-ui/react-slot/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-arrow/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-aspect-ratio/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-aspect-ratio/node_modules/@radix-ui/react-primitive/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-avatar/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-avatar/node_modules/@radix-ui/react-context/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-avatar/node_modules/@radix-ui/react-primitive/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-checkbox/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-collapsible/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-collection/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-collection/node_modules/@radix-ui/react-slot/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-compose-refs/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-context-menu/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-context/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-dialog/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-dialog/node_modules/@radix-ui/react-slot/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-direction/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-dismissable-layer/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-dropdown-menu/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-focus-guards/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-focus-scope/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-hover-card/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-id/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-menu/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-menu/node_modules/@radix-ui/react-slot/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-menubar/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-navigation-menu/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-popover/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-popover/node_modules/@radix-ui/react-slot/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-popper/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-portal/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-presence/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-primitive/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-primitive/node_modules/@radix-ui/react-slot/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-progress/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-progress/node_modules/@radix-ui/react-context/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-progress/node_modules/@radix-ui/react-primitive/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-radio-group/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-roving-focus/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-scroll-area/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-select/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-select/node_modules/@radix-ui/react-slot/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-separator/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-separator/node_modules/@radix-ui/react-primitive/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-slider/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-slot/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-switch/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-tabs/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-toggle-group/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-toggle/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-tooltip/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-tooltip/node_modules/@radix-ui/react-slot/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-use-callback-ref/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-use-controllable-state/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-use-effect-event/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-use-escape-keydown/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-use-is-hydrated/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-use-layout-effect/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-use-previous/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-use-rect/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-use-size/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/react-visually-hidden/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@radix-ui/rect/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@reduxjs/toolkit/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@reduxjs/toolkit/node_modules/immer/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@rolldown/binding-linux-arm64-gnu/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@rolldown/pluginutils/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@sindresorhus/merge-streams/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@standard-schema/spec/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@standard-schema/utils/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tabby_ai/hijri-converter/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/react-query/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/react-query/build/codemods/src/v5/keep-previous-data/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/react-router/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/router-core/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/auth-and-guards/SKILL"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/code-splitting/SKILL"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/data-loading/SKILL"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/navigation/SKILL"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/not-found-and-errors/SKILL"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/path-params/SKILL"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/search-params/SKILL"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/search-params/references/validation-patterns"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/ssr/SKILL"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@tanstack/router-core/skills/router-core/type-safety/SKILL"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/babel__core/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/babel__generator/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/babel__template/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/babel__traverse/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/d3-array/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/d3-color/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/d3-ease/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/d3-interpolate/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/d3-path/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/d3-scale/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/d3-shape/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/d3-time/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/d3-timer/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/node/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/prop-types/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/react-dom/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/react/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@types/use-sync-external-store/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/@vitejs/plugin-react/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/ansi-regex/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/ansi-styles/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/any-promise/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/anymatch/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/arg/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/arg/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/argparse/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/argparse/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/aria-hidden/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/astral-regex/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/autoprefixer/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/balanced-match/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/balanced-match/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/baseline-browser-mapping/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/binary-extensions/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/brace-expansion/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/braces/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/browserslist/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/cacheable/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/callsites/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/camelcase-css/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/caniuse-lite/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/chokidar/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/class-variance-authority/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/clsx/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/cmdk/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/cmdk/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/color-convert/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/color-convert/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/color-name/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/colord/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/colord/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/colord/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/commander/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/convert-source-map/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/cookie-es/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/cosmiconfig/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/css-functions-list/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/css-functions-list/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/css-functions-list/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/css-mediaquery/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/css-tree/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/cssesc/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/csstype/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/d3-array/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/d3-color/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/d3-ease/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/d3-format/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/d3-interpolate/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/d3-path/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/d3-scale/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/d3-shape/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/d3-time-format/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/d3-time/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/d3-timer/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/SECURITY"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/docs/cdn"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/docs/fp"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/docs/gettingStarted"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/docs/i18n"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/docs/i18nContributionGuide"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/docs/release"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/docs/timeZones"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/docs/unicodeTokens"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns-jalali/docs/webpack"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns/docs/cdn"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns/docs/fp"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns/docs/gettingStarted"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns/docs/i18n"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns/docs/i18nContributionGuide"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns/docs/release"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns/docs/timeZones"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns/docs/unicodeTokens"
-  ],
-  [
-    "projects/patent-workbench/node_modules/date-fns/docs/webpack"
-  ],
-  [
-    "projects/patent-workbench/node_modules/debug/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/decimal.js-light/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/decimal.js-light/LICENCE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/decimal.js-light/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/detect-libc/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/detect-node-es/Readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/didyoumean/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/dlv/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/electron-to-chromium/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/embla-carousel-react/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/embla-carousel-reactive-utils/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/embla-carousel/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/emoji-regex/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/env-paths/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/error-ex/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/es-errors/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/es-errors/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/es-toolkit/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/es-toolkit/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/esbuild/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/esbuild/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/escalade/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/eventemitter3/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/fast-deep-equal/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/fast-glob/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/fast-uri/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/fastest-levenshtein/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/fastest-levenshtein/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/fastq/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/fastq/SECURITY"
-  ],
-  [
-    "projects/patent-workbench/node_modules/file-entry-cache/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/fill-range/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/flat-cache/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/flatted/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/flatted/golang/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/fraction.js/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/framer-motion/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/framer-motion/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/framer-motion/client/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/framer-motion/dom/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/function-bind/.github/SECURITY"
-  ],
-  [
-    "projects/patent-workbench/node_modules/function-bind/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/function-bind/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/gensync/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/get-east-asian-width/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/get-nonce/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/get-nonce/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/glob-parent/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/glob-parent/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/glob/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/glob/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/global-modules/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/global-prefix/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/global-prefix/node_modules/which/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/global-prefix/node_modules/which/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/globby/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/globjoin/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/globjoin/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/goober/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/goober/prefixer/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/has-flag/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/hashery/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/hasown/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/hasown/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/hono/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/hookified/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/html-tags/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/hyphenate-style-name/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/ignore/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/immer/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/import-fresh/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/import-meta-resolve/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/ini/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/input-otp/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/internmap/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/is-arrayish/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/is-binary-path/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/is-core-module/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/is-core-module/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/is-extglob/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/is-fullwidth-code-point/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/is-glob/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/is-number/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/is-path-inside/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/is-plain-object/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/isbot/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/isexe/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/jiti/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/js-tokens/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/js-tokens/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/js-yaml/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/jsesc/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/json-parse-even-better-errors/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/json-parse-even-better-errors/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/json-parse-even-better-errors/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/json5/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/json5/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/keyv/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/kind-of/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/kind-of/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/lightningcss-linux-arm64-gnu/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/lightningcss/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/lilconfig/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/lines-and-columns/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/lodash.truncate/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/loose-envify/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/lru-cache/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/lucide-react/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/matchmediaquery/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/mathml-tag-names/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/mdn-data/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/meow/build/licenses"
-  ],
-  [
-    "projects/patent-workbench/node_modules/meow/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/merge2/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/micromatch/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/minimatch/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/minimatch/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/minipass/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/minipass/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/motion-dom/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/motion-utils/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/ms/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/mz/HISTORY"
-  ],
-  [
-    "projects/patent-workbench/node_modules/mz/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/nanoid/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/node-releases/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/normalize-path/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/normalize-range/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/object-assign/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/parent-module/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/parse-json/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/path-parse/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/path-scurry/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/path-scurry/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/path-scurry/node_modules/lru-cache/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/path-scurry/node_modules/lru-cache/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/picocolors/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/picomatch/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/pify/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/pirates/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-import/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-js/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-load-config/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-load-config/node_modules/lilconfig/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-nested/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-nested/node_modules/postcss-selector-parser/API"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-nested/node_modules/postcss-selector-parser/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-nested/node_modules/postcss-selector-parser/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-safe-parser/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-selector-parser/API"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-selector-parser/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-selector-parser/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss-value-parser/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/postcss/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/prop-types/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/prop-types/node_modules/react-is/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/qified/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/qified/node_modules/hookified/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/queue-microtask/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-day-picker/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-dom/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-dom/node_modules/scheduler/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-hook-form/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-hot-toast/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-is/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-redux/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-redux/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-refresh/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-remove-scroll-bar/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-remove-scroll/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-resizable-panels/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-resizable-panels/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-responsive/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react-style-singleton/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/react/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/read-cache/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/readdirp/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/recharts/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/recharts/CONTRIBUTING"
-  ],
-  [
-    "projects/patent-workbench/node_modules/recharts/DEVELOPING"
-  ],
-  [
-    "projects/patent-workbench/node_modules/recharts/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/redux-thunk/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/redux-thunk/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/redux/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/redux/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/require-from-string/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/reselect/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/resolve-from/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/resolve/.claude/notes"
-  ],
-  [
-    "projects/patent-workbench/node_modules/resolve/.github/INCIDENT_RESPONSE_PROCESS"
-  ],
-  [
-    "projects/patent-workbench/node_modules/resolve/SECURITY"
-  ],
-  [
-    "projects/patent-workbench/node_modules/reusify/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/reusify/SECURITY"
-  ],
-  [
-    "projects/patent-workbench/node_modules/rolldown/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/rolldown/node_modules/@rolldown/pluginutils/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/run-parallel/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/semver/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/seroval-plugins/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/seroval/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/shallow-equal/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/signal-exit/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/slash/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/slice-ansi/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/sonner/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/sonner/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/source-map-js/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/string-width/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/strip-ansi/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/stylelint-config-recommended/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/stylelint-config-standard/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/stylelint/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/stylelint/node_modules/postcss/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/sucrase/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/supports-color/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/supports-hyperlinks/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/supports-preserve-symlinks-flag/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/supports-preserve-symlinks-flag/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/svg-tags/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/table/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/table/node_modules/ajv/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/table/node_modules/ansi-regex/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/table/node_modules/json-schema-traverse/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/table/node_modules/string-width/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/table/node_modules/strip-ansi/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwind-merge/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwind-merge/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwindcss-animate/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwindcss/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwindcss/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwindcss/lib/postcss-plugins/nesting/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwindcss/lib/value-parser/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwindcss/node_modules/glob-parent/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwindcss/node_modules/postcss-selector-parser/API"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwindcss/node_modules/postcss-selector-parser/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwindcss/node_modules/postcss-selector-parser/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwindcss/src/postcss-plugins/nesting/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tailwindcss/src/value-parser/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/thenify-all/History"
-  ],
-  [
-    "projects/patent-workbench/node_modules/thenify-all/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/thenify/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tiny-invariant/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tinyglobby/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tinyglobby/node_modules/fdir/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tinyglobby/node_modules/picomatch/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/to-regex-range/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/ts-interface-checker/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tslib/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/tslib/SECURITY"
-  ],
-  [
-    "projects/patent-workbench/node_modules/typescript/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/typescript/SECURITY"
-  ],
-  [
-    "projects/patent-workbench/node_modules/undici-types/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/unicorn-magic/readme"
-  ],
-  [
-    "projects/patent-workbench/node_modules/update-browserslist-db/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/use-callback-ref/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/use-sidecar/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/use-sync-external-store/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/util-deprecate/History"
-  ],
-  [
-    "projects/patent-workbench/node_modules/util-deprecate/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/vaul/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/vaul/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/victory-vendor/CHANGELOG"
-  ],
-  [
-    "projects/patent-workbench/node_modules/victory-vendor/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/vite/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/vite/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/vite/node_modules/picomatch/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/vite/node_modules/postcss/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/write-file-atomic/LICENSE"
-  ],
-  [
-    "projects/patent-workbench/node_modules/write-file-atomic/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/yallist/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/yaml/README"
-  ],
-  [
-    "projects/patent-workbench/node_modules/zod/README"
   ],
   [
     "projects/products/pharos-governance-tools/AI_Source_Integrity_Field_Guide"

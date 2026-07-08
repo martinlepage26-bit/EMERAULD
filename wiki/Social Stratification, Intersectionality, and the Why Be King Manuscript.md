@@ -23,7 +23,7 @@ canonical_path: wiki/Social Stratification, Intersectionality, and the Why Be Ki
 backlink_count: 14
 backlinks:
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/Manuscript Pipeline MOC]]'

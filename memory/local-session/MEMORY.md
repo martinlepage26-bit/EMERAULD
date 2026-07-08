@@ -21,7 +21,7 @@ vault_area: memory
 canonical_path: memory/local-session/MEMORY.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 - '[[governance/hephaistos/HERMES]]'

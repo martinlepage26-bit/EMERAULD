@@ -27,7 +27,7 @@ canonical_path: wiki/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipe
 backlink_count: 12
 backlinks:
 - '[[wiki/Academic Paper Pipeline]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/IP and Manuscript Brief — 2026-05-14]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
 - '[[wiki/Source Cluster Map — 2026-05-13 Raw Sources]]'

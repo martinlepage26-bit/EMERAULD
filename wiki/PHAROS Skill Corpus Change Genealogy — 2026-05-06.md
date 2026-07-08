@@ -27,12 +27,12 @@ canonical_path: wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06.md
 backlink_count: 11
 backlinks:
 - '[[wiki/Delta Closure Frame — Conditions, Actors, Constraints]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Version Genealogy System]]'
 - '[[memory/local-session/project_forging_integration]]'

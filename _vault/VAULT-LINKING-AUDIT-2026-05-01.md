@@ -21,7 +21,7 @@ vault_area: _vault
 canonical_path: _vault/VAULT-LINKING-AUDIT-2026-05-01.md
 backlink_count: 6
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
   (2026-04-18)]]'

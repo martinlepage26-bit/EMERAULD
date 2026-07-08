@@ -19,7 +19,7 @@ vault_area: wiki
 canonical_path: wiki/skills/self-healing.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 skill_id: self-healing
 domain: Agent Architecture and Development

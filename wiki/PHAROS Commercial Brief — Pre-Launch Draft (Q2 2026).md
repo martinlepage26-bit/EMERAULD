@@ -27,8 +27,8 @@ canonical_path: wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026).md
 backlink_count: 7
 backlinks:
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

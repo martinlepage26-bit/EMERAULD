@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/skills/helix-operator.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 skill_id: helix-operator
 domain: Specialized and Miscellaneous

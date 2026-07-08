@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/Source Cluster Map — 2026-05-13 Raw Sources.md
 backlink_count: 29
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
 - '[[wiki/Personal and Projects MOC]]'

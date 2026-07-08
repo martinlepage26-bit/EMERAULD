@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/local-session/project_forging_integration.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 - '[[memory/local-session/project_hephaistos]]'

@@ -30,7 +30,7 @@ backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[wiki/2026-06-29 - idea-discovery]]'
 - '[[Areas/Writing/AREA]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Desktop Text Intake — 2026-05-06]]'
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Obsidian Second Brain Product]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

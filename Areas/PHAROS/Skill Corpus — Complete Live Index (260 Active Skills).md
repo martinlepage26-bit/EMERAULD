@@ -3,14 +3,13 @@ type: wiki
 title: Skill Corpus — Complete Live Index (260 Active Skills)
 aliases:
 - Skill Corpus — Complete Live Index (260 Active Skills)
-- wiki/Skill Corpus — Complete Live Index (260 Active Skills)
 tags:
 - codex
 - skills
 - inventory
 - live-index
 - capabilities
-- wiki
+- areas
 - skill-corpus-complete-live-index-260-active-skills-md
 - figma
 - backups
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Skill Corpus — Complete Live Index (260 Active Skills).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills).md
 backlink_count: 229
 backlinks:
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
@@ -40,8 +39,8 @@ backlinks:
 - '[[wiki/Skill Domain — Skill Architecture]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/brief-to-tasks]]'
 - '[[wiki/archive/diamond-eyes]]'

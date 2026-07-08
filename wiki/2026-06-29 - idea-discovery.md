@@ -84,7 +84,7 @@ A candidate scores high when all three align. Candidates that have high pull and
 
 ### 2. Send one HELIX outreach message (Humania or Koios)
 
-**Source notes:** [[projects/HELIX — Fisher King Project State]], [[Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]], [[wiki/HELIX — Value Proposition and Buyer Profile]]
+**Source notes:** [[projects/HELIX — Fisher King Project State]], [[Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]], [[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]
 
 **Ranking:**
 - Pull: high — HELIX is referenced across the commercial track, MOCs, and council decisions
@@ -114,7 +114,7 @@ A candidate scores high when all three align. Candidates that have high pull and
 
 ### 4. Create the P0 paper queue and run HENRY on one paper
 
-**Source notes:** [[projects/Papers — Fisher King Project State]], [[wiki/PHAROS Scholarly Publication Track]], [[wiki/Academic Paper Pipeline]], [[wiki/Research and Papers MOC]]
+**Source notes:** [[projects/Papers — Fisher King Project State]], [[Areas/PHAROS/PHAROS Scholarly Publication Track]], [[wiki/Academic Paper Pipeline]], [[wiki/Research and Papers MOC]]
 
 **Ranking:**
 - Pull: strong — Papers project has 11 backlinks; linked from MOCs, daily notes Jun 22–26, and the publication track

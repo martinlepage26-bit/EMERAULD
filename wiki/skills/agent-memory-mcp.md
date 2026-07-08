@@ -21,7 +21,7 @@ canonical_path: wiki/skills/agent-memory-mcp.md
 backlink_count: 4
 backlinks:
 - '[[wiki/MCP and Runtime Integration MOC]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: agent-memory-mcp

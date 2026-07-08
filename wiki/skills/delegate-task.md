@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/skills/delegate-task.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
 skill_id: delegate-task

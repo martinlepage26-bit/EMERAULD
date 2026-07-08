@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[wiki/Machine Limitation]]'
 - '[[wiki/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'

@@ -23,7 +23,7 @@ backlink_count: 21
 backlinks:
 - '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/External Data Refresh Calendar — Phase 1 Build]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Governance Controls — Incident Response (Control Failure Procedures)]]'
 - '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
 - '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/MCP and Runtime Integration MOC]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[wiki/Plugin Recommendations]]'

@@ -21,10 +21,10 @@ vault_area: wiki
 canonical_path: wiki/PHAROS Product Stack.md
 backlink_count: 13
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/Governess Agatha GPT — ChatGPT Product Specification]]'
-- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
 - '[[wiki/Legitimacy Machines MOC]]'

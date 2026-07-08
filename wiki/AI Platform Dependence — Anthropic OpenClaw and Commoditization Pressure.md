@@ -31,10 +31,10 @@ backlink_count: 6
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/MCP and Runtime Integration MOC]]'
 - '[[wiki/OpenAI Governance Framework — Comparison with PHAROS]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 ---
 
 # AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure

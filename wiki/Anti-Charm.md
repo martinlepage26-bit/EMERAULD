@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Inner Mind Eye]]'
 - '[[wiki/Philosopher]]'
 - '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized

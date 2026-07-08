@@ -21,8 +21,8 @@ vault_area: wiki
 canonical_path: wiki/skills/observability-governance.md
 backlink_count: 8
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/archive/agent-evaluation]]'
 - '[[wiki/archive/ai-product]]'
 - '[[wiki/archive/free-tool-strategy]]'

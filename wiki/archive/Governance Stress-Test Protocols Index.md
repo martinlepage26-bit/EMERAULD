@@ -25,7 +25,7 @@ backlink_count: 4
 backlinks:
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[archive/session-state/session-state-001]]'
 ---
 

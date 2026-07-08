@@ -26,9 +26,9 @@ vault_area: wiki
 canonical_path: wiki/Skill Domain — Governance and Method.md
 backlink_count: 12
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Skill Domain — Security and Compliance]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

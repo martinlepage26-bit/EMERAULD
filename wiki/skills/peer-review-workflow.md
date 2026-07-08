@@ -21,9 +21,9 @@ vault_area: wiki
 canonical_path: wiki/skills/peer-review-workflow.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/skills/peer-review]]'
 - '[[wiki/skills/peer-reviewed-paper-writer]]'
 skill_id: peer-review-workflow

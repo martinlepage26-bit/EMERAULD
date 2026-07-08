@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Desktop Text Intake — 2026-05-06]]'
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'

@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'
 - '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[governance/hephaistos/WAVE2-CLEANUP]]'
 - '[[memory]]'
 phase: Phase 1 Infrastructure

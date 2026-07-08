@@ -21,8 +21,8 @@ vault_area: wiki
 canonical_path: wiki/skills/hermes-integration-monitor.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/archive/hermes-dependency-mapper]]'
 - '[[wiki/archive/hermes-escalation-router]]'
 - '[[wiki/skills/incident-response-runbooks]]'

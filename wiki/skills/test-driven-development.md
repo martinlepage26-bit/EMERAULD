@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/skills/test-driven-development.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: test-driven-development
 domain: Development and Testing

@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/Masculinités et ritualités — La magie chez les Radical Faeries.md
 backlink_count: 9
 backlinks:
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
 - '[[wiki/Queer Sociology of Magic and Ritual]]'

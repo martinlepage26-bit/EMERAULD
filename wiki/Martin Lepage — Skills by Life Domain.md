@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

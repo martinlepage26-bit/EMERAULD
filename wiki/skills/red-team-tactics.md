@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/skills/red-team-tactics.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Security and Compliance]]'
 skill_id: red-team-tactics
 domain: Security and Compliance

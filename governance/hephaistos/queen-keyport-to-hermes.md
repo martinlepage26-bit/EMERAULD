@@ -26,7 +26,7 @@ backlink_count: 6
 backlinks:
 - '[[.github/agents/hermes.agent]]'
 - '[[.github/agents/queen-keyport.agent]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/ORCHESTRATION]]'
 - '[[governance/hephaistos/hephaistos-to-queen-keyport]]'

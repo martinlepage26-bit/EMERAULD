@@ -26,7 +26,7 @@ backlinks:
   — Draft Snapshot (2026-05-10)]]'
 - '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
   (2026-05-12)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

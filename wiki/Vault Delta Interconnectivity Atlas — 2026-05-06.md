@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'

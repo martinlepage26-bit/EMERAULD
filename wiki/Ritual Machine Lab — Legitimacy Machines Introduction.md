@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
 - '[[wiki/Breath of the Astral Year — Astrology Monograph]]'
 - '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'

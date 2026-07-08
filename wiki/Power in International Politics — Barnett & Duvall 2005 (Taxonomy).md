@@ -31,7 +31,7 @@ backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
   Explanation)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
 - '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'

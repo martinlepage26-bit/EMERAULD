@@ -22,9 +22,9 @@ canonical_path: wiki/skills/genealogy-loupe.md
 backlink_count: 4
 backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 skill_id: genealogy-loupe
 scope: routing
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md

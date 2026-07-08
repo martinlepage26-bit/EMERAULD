@@ -22,9 +22,9 @@ canonical_path: wiki/Global Publication Search — PHAROS Method and Variants.md
 backlink_count: 8
 backlinks:
 - '[[wiki/Academic Paper Pipeline]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[wiki/PHAROS SURFACE]]'
 - '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
 - '[[wiki/Research and Papers MOC]]'

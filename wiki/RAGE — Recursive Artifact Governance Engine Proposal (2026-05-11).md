@@ -28,11 +28,11 @@ vault_area: wiki
 canonical_path: wiki/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md
 backlink_count: 9
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[raw/Desktop-Downloads-scan-2026-05-12/downloads/RAGE-dep-report]]'

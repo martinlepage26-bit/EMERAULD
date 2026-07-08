@@ -29,7 +29,7 @@ canonical_path: wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Con
 backlink_count: 7
 backlinks:
 - '[[wiki/COMPASSai — Governance Engine]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Railway — COMPASSai Production Deployment Platform]]'
 - '[[wiki/Weekly Review — 2026-06-26]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

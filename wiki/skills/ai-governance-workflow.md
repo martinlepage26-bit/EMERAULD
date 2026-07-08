@@ -21,7 +21,7 @@ canonical_path: wiki/skills/ai-governance-workflow.md
 backlink_count: 3
 backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: ai-governance-workflow
 domain: Governance and Authority

@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

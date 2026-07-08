@@ -22,7 +22,7 @@ canonical_path: wiki/The Inner Goddess — Gender Normativity and Gay Identity i
   Ritualities.md
 backlink_count: 24
 backlinks:
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Inner Goddess Wicca Gender — Version Genealogy]]'

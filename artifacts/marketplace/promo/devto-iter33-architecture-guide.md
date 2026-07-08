@@ -22,7 +22,7 @@ vault_area: artifacts
 canonical_path: artifacts/marketplace/promo/devto-iter33-architecture-guide.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 - '[[artifacts/marketplace/promo/hashnode-iter34-skill-guides]]'
 ---

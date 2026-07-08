@@ -31,7 +31,7 @@ backlink_count: 8
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/Academic Paper Pipeline]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Research and Papers MOC]]'

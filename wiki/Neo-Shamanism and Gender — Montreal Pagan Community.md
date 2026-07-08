@@ -21,8 +21,8 @@ canonical_path: wiki/Neo-Shamanism and Gender — Montreal Pagan Community.md
 backlink_count: 24
 backlinks:
 - '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'

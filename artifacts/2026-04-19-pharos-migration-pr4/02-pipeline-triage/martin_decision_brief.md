@@ -21,7 +21,7 @@ vault_area: artifacts
 canonical_path: artifacts/2026-04-19-pharos-migration-pr4/02-pipeline-triage/martin_decision_brief.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 ---
 

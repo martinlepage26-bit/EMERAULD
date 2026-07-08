@@ -6,7 +6,6 @@ aliases:
 - HELIX value prop
 - HELIX buyer
 - HELIX product positioning
-- wiki/HELIX — Value Proposition and Buyer Profile
 tags:
 - helix
 - product
@@ -14,7 +13,7 @@ tags:
 - pharos
 - governance
 - commercial
-- wiki
+- areas
 - helix-value-proposition-and-buyer-profile-md
 - personally
 - ruling
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-05-05'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HELIX — Value Proposition and Buyer Profile.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/HELIX — Value Proposition and Buyer Profile.md
 backlink_count: 29
 backlinks:
 - '[[wiki/2026-06-29 - idea-discovery]]'
@@ -33,13 +32,11 @@ backlinks:
 - '[[wiki/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[wiki/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]'
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
-- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
-  (2026-05-07)]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control
-  Surface (2026-05-11)]]'
-- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)]]'
+- '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
 - '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
 - '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
@@ -48,7 +45,7 @@ backlinks:
 - '[[wiki/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
 - '[[wiki/HELIX Test Run — Epstein Files Topic (2026)]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
-- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[wiki/PHAROS Method — Core Framework]]'
 - '[[wiki/PHAROS Product Stack]]'
 - '[[wiki/Personal and Projects MOC]]'

@@ -20,8 +20,8 @@ vault_area: wiki
 canonical_path: wiki/skills/gadget.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — AI and LLM Tools]]'
 - '[[governance/hephaistos/GADGET]]'
 skill_id: gadget

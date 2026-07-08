@@ -21,7 +21,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_humania-assurance-transforms-compliance-operations-with-koïo.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
 source_url: https://www.humania.ca/en/actualites/humania-transforms-operations-with-koios-intelligence/
 date: '2026-05-05'

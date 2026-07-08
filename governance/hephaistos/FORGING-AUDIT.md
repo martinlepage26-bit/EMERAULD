@@ -22,7 +22,7 @@ vault_area: governance
 canonical_path: governance/hephaistos/FORGING-AUDIT.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/Writing and Novels MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 ---

@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
 - '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'

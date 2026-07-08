@@ -22,7 +22,7 @@ vault_area: governance
 canonical_path: governance/hephaistos/research-ethics-gate.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 ---

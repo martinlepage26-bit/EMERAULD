@@ -3,9 +3,8 @@ type: wiki
 title: Emotional Alliance vs. Evidentiary Discipline in AI
 aliases:
 - Emotional Alliance vs Evidentiary Discipline in AI
-- wiki/Emotional Alliance vs. Evidentiary Discipline in AI
 tags:
-- wiki
+- areas
 - ai
 - emotional-alliance-vs-evidentiary-discipline-in-ai-md
 - emotional
@@ -17,29 +16,26 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Emotional Alliance vs. Evidentiary Discipline in AI.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI.md
 backlink_count: 43
 backlinks:
 - '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Ethics Literature — Contestable Governance Artifacts]]'
 - '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
-- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
-  (2026)]]'
+- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Anti-Charm]]'
 - '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
-  Explanation)]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
 - '[[wiki/Consent, Fraud, and Boundary Protocols]]'
 - '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
-  (2026-05-07)]]'
+- '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[wiki/HENRY — Research Paper Writing System]]'
 - '[[wiki/Home]]'
@@ -48,7 +44,7 @@ backlinks:
 - '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
-- '[[wiki/PHAROS Recalibration — Unified Governance Architecture]]'
+- '[[Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture]]'
 - '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'

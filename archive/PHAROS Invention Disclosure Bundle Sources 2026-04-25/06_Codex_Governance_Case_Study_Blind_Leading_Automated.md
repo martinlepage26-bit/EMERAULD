@@ -22,7 +22,7 @@ vault_area: archive
 canonical_path: archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/06_Codex_Governance_Case_Study_Blind_Leading_Automated.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Research and Papers MOC]]'
 ---
 

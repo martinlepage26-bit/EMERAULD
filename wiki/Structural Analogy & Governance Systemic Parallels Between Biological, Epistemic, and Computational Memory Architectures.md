@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'
 - '[[wiki/Recursive Governance Theory]]'

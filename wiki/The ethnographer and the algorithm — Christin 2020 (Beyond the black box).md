@@ -31,7 +31,7 @@ backlink_count: 6
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

@@ -29,7 +29,7 @@ canonical_path: wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, 
 backlink_count: 8
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Mental illness, addiction, and AI psychosis]]'
 - '[[wiki/Research and Papers MOC]]'

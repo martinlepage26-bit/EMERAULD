@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18).md
 backlink_count: 16
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governed Self-Improvement — Method Slide Asset]]'
 - '[[wiki/Obsidian Agent Vault — Asset Canon]]'
 - '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'

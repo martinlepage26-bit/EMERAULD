@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic.md
 backlink_count: 22
 backlinks:
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'

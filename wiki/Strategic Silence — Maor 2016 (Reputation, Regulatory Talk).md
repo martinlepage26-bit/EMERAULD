@@ -28,7 +28,7 @@ canonical_path: wiki/Strategic Silence — Maor 2016 (Reputation, Regulatory Tal
 backlink_count: 8
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'

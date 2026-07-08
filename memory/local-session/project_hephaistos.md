@@ -21,7 +21,7 @@ canonical_path: memory/local-session/project_hephaistos.md
 backlink_count: 9
 backlinks:
 - '[[.github/agents/hephaistos.agent]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 - '[[governance/global/HEPHAISTOS-STATUS]]'

@@ -22,7 +22,7 @@ vault_area: wiki
 canonical_path: wiki/Agent Ecosystem Audit — 2026-04-23.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
 ---

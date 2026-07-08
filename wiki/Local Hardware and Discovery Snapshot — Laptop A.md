@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Home]]'
-- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'

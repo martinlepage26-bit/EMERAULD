@@ -39,7 +39,7 @@ backlinks:
 - '[[wiki/Obsidian Agent Vault — Asset Canon]]'
 - '[[wiki/Obsidian Agent Vault — Setup Guide]]'
 - '[[wiki/Obsidian Second Brain Product]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/SYSTEM CHECK]]'

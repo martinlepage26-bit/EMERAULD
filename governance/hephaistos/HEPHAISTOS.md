@@ -41,7 +41,7 @@ backlinks:
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'
 - '[[wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
-- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[wiki/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split]]'

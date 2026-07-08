@@ -24,10 +24,10 @@ backlink_count: 10
 backlinks:
 - '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
 - '[[wiki/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Company Registration and Security Incidents]]'
 - '[[wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
 - '[[wiki/Personal and Projects MOC]]'

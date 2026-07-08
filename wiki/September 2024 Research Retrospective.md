@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/CDPDJ Complaint — Lepage v Calian and Novartis]]'
 - '[[wiki/Consent, Fraud, and Boundary Protocols]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Master Project Tracker — 2026]]'

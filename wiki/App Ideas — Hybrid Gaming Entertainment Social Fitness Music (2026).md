@@ -25,7 +25,7 @@ backlink_count: 5
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[wiki/Obsidian Second Brain Product]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

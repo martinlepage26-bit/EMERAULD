@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/skills/memory-search.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — AI and LLM Tools]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: memory-search

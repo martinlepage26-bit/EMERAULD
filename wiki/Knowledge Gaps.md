@@ -23,7 +23,7 @@ backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[.trash/Weekly Review]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Research Hub]]'
 ---
 

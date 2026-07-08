@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'
 - '[[wiki/Claude Code Skill Corpus]]'
-- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
 - '[[wiki/Obsidian Agent Vault — Launch Kit]]'
 - '[[wiki/Personal and Projects MOC]]'

@@ -20,7 +20,7 @@ vault_area: templates
 canonical_path: templates/Wiki Note.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 ---

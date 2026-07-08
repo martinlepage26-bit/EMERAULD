@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Claude Code Skill Corpus]]'
 - '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
 - '[[wiki/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
@@ -39,8 +39,8 @@ backlinks:
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/skills/skill-architect]]'
 ---
 

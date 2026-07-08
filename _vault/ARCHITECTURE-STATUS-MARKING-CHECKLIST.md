@@ -21,7 +21,7 @@ vault_area: _vault
 canonical_path: _vault/ARCHITECTURE-STATUS-MARKING-CHECKLIST.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
 - '[[governance/global/HEPHAISTOS-STATUS]]'

@@ -41,4 +41,4 @@ Notes in `projects/` with `tags: pharos` belong here when they have a deadline. 
 
 ## Key notes
 - [[projects/PHAROS — Fisher King Project State]]
-- [[wiki/Governance and PHAROS MOC]]
+- [[Areas/PHAROS/Governance and PHAROS MOC]]

@@ -25,7 +25,7 @@ backlink_count: 7
 backlinks:
 - '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
 - '[[wiki/Recursive Governance Theory]]'

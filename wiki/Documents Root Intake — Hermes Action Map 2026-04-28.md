@@ -25,9 +25,9 @@ vault_area: wiki
 canonical_path: wiki/Documents Root Intake — Hermes Action Map 2026-04-28.md
 backlink_count: 19
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Home]]'
 - '[[wiki/Master Project Tracker — 2026]]'

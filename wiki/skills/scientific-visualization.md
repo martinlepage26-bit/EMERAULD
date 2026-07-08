@@ -21,9 +21,9 @@ vault_area: wiki
 canonical_path: wiki/skills/scientific-visualization.md
 backlink_count: 4
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/skills/slides]]'
 skill_id: scientific-visualization
 scope: output

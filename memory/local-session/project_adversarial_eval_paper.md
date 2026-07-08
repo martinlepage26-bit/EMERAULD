@@ -22,7 +22,7 @@ vault_area: memory
 canonical_path: memory/local-session/project_adversarial_eval_paper.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 ---
 

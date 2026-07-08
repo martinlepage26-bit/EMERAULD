@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/Second Self System — Public Voice Examples.md
 backlink_count: 7
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/Second Self System — Identity Kernel and Agent Routing Architecture]]'

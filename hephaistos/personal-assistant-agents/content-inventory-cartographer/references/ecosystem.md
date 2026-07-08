@@ -24,8 +24,8 @@ canonical_path: hephaistos/personal-assistant-agents/content-inventory-cartograp
 backlink_count: 11
 backlinks:
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/PHAROS Procurement-Unblock Sprint]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[wiki/Second Self System Identity Kernel and Agent Routing Architecture]]'

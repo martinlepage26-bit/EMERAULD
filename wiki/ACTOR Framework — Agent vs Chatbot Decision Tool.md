@@ -26,8 +26,8 @@ canonical_path: wiki/ACTOR Framework — Agent vs Chatbot Decision Tool.md
 backlink_count: 5
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
 ---

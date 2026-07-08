@@ -21,7 +21,7 @@ canonical_path: wiki/skills/intersectionality.md
 backlink_count: 3
 backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: intersectionality
 domain: Vault and Knowledge Graph

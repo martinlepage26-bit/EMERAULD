@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19.md
 backlink_count: 8
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[wiki/Personal and Projects MOC]]'

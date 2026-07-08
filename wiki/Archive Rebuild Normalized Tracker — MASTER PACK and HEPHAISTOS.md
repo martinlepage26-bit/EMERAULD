@@ -31,8 +31,8 @@ backlinks:
 - '[[wiki/Desktop Text Intake — 2026-05-06]]'
 - '[[wiki/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

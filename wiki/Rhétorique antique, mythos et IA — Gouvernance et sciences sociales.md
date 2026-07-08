@@ -29,11 +29,11 @@ vault_area: wiki
 canonical_path: wiki/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales.md
 backlink_count: 8
 backlinks:
-- '[[wiki/Emotional Alliance vs. Evidentiary Discipline in AI]]'
+- '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[wiki/Machine Limitation]]'
-- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

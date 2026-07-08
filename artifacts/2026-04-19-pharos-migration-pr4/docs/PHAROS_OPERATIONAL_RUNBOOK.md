@@ -21,7 +21,7 @@ vault_area: artifacts
 canonical_path: artifacts/2026-04-19-pharos-migration-pr4/docs/PHAROS_OPERATIONAL_RUNBOOK.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 - '[[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]'
 ---

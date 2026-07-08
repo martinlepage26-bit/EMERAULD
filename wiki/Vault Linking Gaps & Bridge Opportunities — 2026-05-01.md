@@ -21,7 +21,7 @@ canonical_path: wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01.md
 backlink_count: 7
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/Obsidian Second Brain Product]]'

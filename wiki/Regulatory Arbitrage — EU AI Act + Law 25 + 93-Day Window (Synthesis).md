@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
   (2026-06-22)]]'
 - '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
 - '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
 - '[[wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'

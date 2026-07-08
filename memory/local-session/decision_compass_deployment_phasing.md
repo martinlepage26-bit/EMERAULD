@@ -20,8 +20,8 @@ vault_area: memory
 canonical_path: memory/local-session/decision_compass_deployment_phasing.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 name: COMPASSai deployment phasing
 description: Launch on Cloudflare free tier; migrate to custom Canadian hosting post-Lavoie

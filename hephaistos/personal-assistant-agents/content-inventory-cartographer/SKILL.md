@@ -25,7 +25,7 @@ canonical_path: hephaistos/personal-assistant-agents/content-inventory-cartograp
 backlink_count: 7
 backlinks:
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/HEPHAISTOS]]'

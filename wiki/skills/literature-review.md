@@ -22,9 +22,9 @@ canonical_path: wiki/skills/literature-review.md
 backlink_count: 7
 backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/skills/deep-research-notebooklm]]'
 - '[[wiki/skills/peer-reviewed-paper-writer]]'
 - '[[wiki/skills/scientific-writing]]'

@@ -3,9 +3,8 @@ type: wiki
 title: Martin Lepage — Professional Profile
 aliases:
 - Martin Lepage — Professional Profile
-- wiki/Martin Lepage — Professional Profile
 tags:
-- wiki
+- areas
 - martin-lepage-professional-profile-md
 - january
 - creative
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Martin Lepage — Professional Profile.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Martin Lepage — Professional Profile.md
 backlink_count: 116
 backlinks:
 - '[[.trash/Building Your First AI Agent with OpenAI_______]]'
@@ -26,8 +25,7 @@ backlinks:
 - '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
 - '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Alchemy of the Wound — Novel]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[wiki/AurorA — COMPASSai Input Module]]'
 - '[[wiki/Avatar Chapter — A Queer Reading of Embodied Power (English)]]'
 - '[[wiki/Avatar — Lecture queer du pouvoir incarné]]'
@@ -43,22 +41,22 @@ backlinks:
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]'
 - '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
-- '[[wiki/Emotional Alliance vs. Evidentiary Discipline in AI]]'
+- '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[wiki/Global Publication Search — PHAROS Method and Variants]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
-- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[wiki/HENRY — Research Paper Writing System]]'
 - '[[wiki/Halberstam — The Queer Art of Failure (2011)]]'
 - '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
@@ -81,18 +79,17 @@ backlinks:
 - '[[wiki/Master Bibliography — Références bibliographiques 2025]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
 - '[[wiki/OpenAI Governance Framework — Comparison with PHAROS]]'
 - '[[wiki/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Legal Classification — CAE Code Strategy]]'
-- '[[wiki/PHAROS Method — Technical Reference]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[wiki/PHAROS-AI Webservice — pharos-ai.ca]]'
 - '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
@@ -107,8 +104,7 @@ backlinks:
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[wiki/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic]]'
 - '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
-- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
-  vs Reclaiming)]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[wiki/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[wiki/Rest and Consolidation Guide — Martin]]'
@@ -127,8 +123,7 @@ backlinks:
 - '[[wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation]]'
 - '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[wiki/The Returning Light — Monograph]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
-  Glitch]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
 - '[[wiki/The Weather Beneath the Walls — Novel]]'
 - '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
 - '[[wiki/Trismégiste — Personal AI Assistant]]'

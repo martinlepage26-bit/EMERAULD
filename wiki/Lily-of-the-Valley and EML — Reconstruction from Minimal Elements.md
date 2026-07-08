@@ -35,7 +35,7 @@ backlinks:
   Phenomenon]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Recursive Governance Theory]]'

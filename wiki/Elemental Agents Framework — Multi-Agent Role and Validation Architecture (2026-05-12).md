@@ -23,11 +23,11 @@ canonical_path: wiki/Elemental Agents Framework — Multi-Agent Role and Validat
 backlink_count: 13
 backlinks:
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/D Drive Scan — 2026-05-12]]'
 - '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[assets/elemental-agents/audience-expansion]]'

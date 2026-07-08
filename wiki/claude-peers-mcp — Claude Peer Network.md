@@ -30,8 +30,8 @@ backlink_count: 11
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[wiki/Codex Skill Corpus Sync — 2026-04-20]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[wiki/MCP and Runtime Integration MOC]]'

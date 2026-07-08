@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/PHAROS — Origin and Doctrine]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'

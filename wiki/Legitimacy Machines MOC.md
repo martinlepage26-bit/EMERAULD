@@ -25,7 +25,7 @@ canonical_path: wiki/Legitimacy Machines MOC.md
 backlink_count: 32
 backlinks:
 - '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/EMERAULD]]'
 - '[[wiki/Glitching the Sacred]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'

@@ -27,8 +27,8 @@ canonical_path: wiki/MCP and Runtime Integration MOC.md
 backlink_count: 13
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Control Protocols MOC]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/Manuscript Pipeline MOC]]'

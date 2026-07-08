@@ -22,7 +22,7 @@ canonical_path: wiki/Voodoo Doll — Archival Governance and Colonial Naming.md
 backlink_count: 12
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial]]'
 - '[[wiki/Home]]'
 - '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'

@@ -21,8 +21,8 @@ vault_area: maps
 canonical_path: maps/PHAROS Method Map.md
 backlink_count: 6
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/PHAROS SURFACE]]'
 - '[[wiki/Skill Domain — Governance and Method]]'

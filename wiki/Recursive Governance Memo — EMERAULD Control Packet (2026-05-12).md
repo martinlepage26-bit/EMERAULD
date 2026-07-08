@@ -25,10 +25,10 @@ vault_area: wiki
 canonical_path: wiki/Recursive Governance Memo — EMERAULD Control Packet (2026-05-12).md
 backlink_count: 8
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[archive/session-state/session-state-002]]'
 - '[[memory/agents/Decisions]]'
 - '[[raw/Clippings/AI Agent Operations and Governance Manager]]'

@@ -29,7 +29,7 @@ backlink_count: 3
 backlinks:
 - '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
 - '[[wiki/Host Environment — pharos-corpus-runner-01]]'
-- '[[wiki/PHAROS AI Lineage — Source of Truth]]'
+- '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 ---
 
 # CLAUDEX — AI Dialogue Archive

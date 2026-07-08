@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'

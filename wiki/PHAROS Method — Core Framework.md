@@ -23,7 +23,7 @@ vault_area: wiki
 canonical_path: wiki/PHAROS Method — Core Framework.md
 backlink_count: 3
 backlinks:
-- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
 ---

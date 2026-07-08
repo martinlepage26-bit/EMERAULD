@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 source_file: Epistemic AI Purple Teaming.txt
 format: txt

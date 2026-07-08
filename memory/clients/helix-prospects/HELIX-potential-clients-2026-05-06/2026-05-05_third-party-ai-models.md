@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_third-party-ai-models.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[raw/Clippings/Reddit Data API Wiki]]'
 source_url: https://docs.coveo.com/en/pb7d0331/
 date: '2026-05-05'

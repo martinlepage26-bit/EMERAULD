@@ -5,14 +5,13 @@ aliases:
 - Skill registry
 - Professional skills
 - Capability inventory
-- wiki/Skill Ecosystem — Professional Capability Registry
 tags:
 - skills
 - capabilities
 - methodology
 - personal-skills
 - professional-development
-- wiki
+- areas
 - skill-ecosystem-professional-capability-registry-md
 - skill
 - authored
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Skill Ecosystem — Professional Capability Registry.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Skill Ecosystem — Professional Capability Registry.md
 backlink_count: 238
 backlinks:
 - '[[wiki/Claude Code Skill Corpus]]'
@@ -35,7 +34,7 @@ backlinks:
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[wiki/Skill Domain — AI and LLM Tools]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
@@ -49,7 +48,7 @@ backlinks:
 - '[[wiki/Skill Domain — Skill Architecture]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/Trace Investigator]]'
 - '[[wiki/Vault Graph Hygiene — Content Title Normalization Skill]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

@@ -23,7 +23,7 @@ backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
 - '[[wiki/Alchemy of the Wound — Novel]]'
-- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/Novel and Creative Corpus]]'

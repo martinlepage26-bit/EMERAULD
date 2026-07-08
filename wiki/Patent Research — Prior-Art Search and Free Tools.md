@@ -28,9 +28,9 @@ canonical_path: wiki/Patent Research — Prior-Art Search and Free Tools.md
 backlink_count: 6
 backlinks:
 - '[[wiki/Academic Paper Pipeline]]'
-- '[[wiki/PHAROS Invention Disclosure]]'
-- '[[wiki/PHAROS Method — Technical Reference]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
+- '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aida-caseware]]'
 ---

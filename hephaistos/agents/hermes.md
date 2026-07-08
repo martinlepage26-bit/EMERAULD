@@ -23,7 +23,7 @@ vault_area: hephaistos
 canonical_path: hephaistos/agents/hermes.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/HERMES]]'
 name: hermes

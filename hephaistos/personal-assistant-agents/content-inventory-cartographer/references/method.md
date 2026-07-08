@@ -23,11 +23,11 @@ vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/content-inventory-cartographer/references/method.md
 backlink_count: 11
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
 - '[[wiki/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]'
-- '[[wiki/PHAROS Procurement-Unblock Sprint]]'
+- '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[wiki/Writing and Novels MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'

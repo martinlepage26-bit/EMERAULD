@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Home]]'
-- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

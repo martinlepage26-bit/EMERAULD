@@ -23,11 +23,11 @@ backlink_count: 13
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Le sang qui porte ton nom — Novel]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
-- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Research and Papers MOC]]'

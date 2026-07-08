@@ -21,9 +21,9 @@ vault_area: wiki
 canonical_path: wiki/skills/scientific-brainstorming.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 skill_id: scientific-brainstorming
 scope: output
 source_of_truth: ../governance/hephaistos/SKILL-MAP.md

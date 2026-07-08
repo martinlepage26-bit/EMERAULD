@@ -25,7 +25,7 @@ vault_area: wiki
 canonical_path: wiki/Agatha Grant Post-Mortem — First Assessment.md
 backlink_count: 4
 backlinks:
-- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'

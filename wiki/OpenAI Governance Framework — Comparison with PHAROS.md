@@ -27,8 +27,8 @@ backlinks:
 - '[[wiki/AI Governance Public Statement and Market Impact Pack]]'
 - '[[wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
 - '[[wiki/Home]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[maps/PHAROS Method Map]]'
 ---

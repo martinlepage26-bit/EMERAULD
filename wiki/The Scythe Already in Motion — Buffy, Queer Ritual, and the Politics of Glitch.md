@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/For Her Alone to Wield — Version Genealogy]]'
 - '[[wiki/Glitching the Sacred]]'
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'

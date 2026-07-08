@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 source: raw sources/2026-04-28_montreal-arbitrator-ai-hallucinated-cases.md

@@ -22,8 +22,8 @@ canonical_path: wiki/PHAROS Scholarly Essay — Institutional Deployment Archite
 backlink_count: 7
 backlinks:
 - '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/RDAIG Method Editorial Consolidation — 2026]]'
 - '[[wiki/RECURSO — Final Audit and Ethical Review]]'
 - '[[wiki/Recursive Governance Theory]]'

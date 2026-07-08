@@ -20,7 +20,7 @@ canonical_path: wiki/skills/skills-dedup.md
 backlink_count: 3
 backlinks:
 - '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
 skill_id: skills-dedup
 domain: Vault and Knowledge Graph

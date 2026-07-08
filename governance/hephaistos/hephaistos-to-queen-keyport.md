@@ -24,7 +24,7 @@ backlink_count: 10
 backlinks:
 - '[[.github/agents/hephaistos.agent]]'
 - '[[.github/agents/queen-keyport.agent]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/global/HEPHAISTOS-STATUS]]'
 - '[[governance/hephaistos/ORCHESTRATION]]'

@@ -44,7 +44,7 @@ backlinks:
 - '[[wiki/Fluency, Interruption, and Institutional Accountability]]'
 - '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/Framing Processes and Social Movements — Benford & Snow 2000]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial — Version Genealogy]]'
 - '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
@@ -55,7 +55,7 @@ backlinks:
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Machine Limitation]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
-- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
   2024]]'

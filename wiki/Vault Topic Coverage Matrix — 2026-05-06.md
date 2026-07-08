@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'

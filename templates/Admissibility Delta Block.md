@@ -24,7 +24,7 @@ vault_area: templates
 canonical_path: templates/Admissibility Delta Block.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 ---
 
 # Admissibility Delta Block - {{title}}

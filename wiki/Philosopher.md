@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Anti-Charm]]'
 - '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
   Phenomenon]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

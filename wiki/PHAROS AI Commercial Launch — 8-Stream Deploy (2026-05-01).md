@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
 - '[[wiki/DG Website Logo Rebrand & Governance Audit — 2026-05-01]]'
 - '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
-- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
 - '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'

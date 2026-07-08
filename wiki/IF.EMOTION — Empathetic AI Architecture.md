@@ -23,7 +23,7 @@ backlink_count: 9
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/InfraFabric Architecture]]'
 - '[[wiki/LOTUS Model and Agency]]'

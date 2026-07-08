@@ -29,7 +29,7 @@ canonical_path: wiki/Transparency Against Democracy — Paquin 2025 (Sweden Demo
 backlink_count: 8
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Research and Papers MOC]]'

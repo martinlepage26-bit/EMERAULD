@@ -20,7 +20,7 @@ canonical_path: wiki/skills/cli-anything-libreoffice.md
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: cli-anything-libreoffice
 domain: Deployment and Infrastructure

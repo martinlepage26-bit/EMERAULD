@@ -23,7 +23,7 @@ canonical_path: governance/hephaistos/DEPLOYMENT-CHECKLIST.md
 backlink_count: 4
 backlinks:
 - '[[wiki/Research and Papers MOC]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/Writing and Novels MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 ---

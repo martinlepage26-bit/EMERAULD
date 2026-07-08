@@ -25,7 +25,7 @@ canonical_path: wiki/PHAROS Workspace Inventory 2026-04-18.md
 backlink_count: 13
 backlinks:
 - '[[wiki/Documents Root Loose Files Intake — 2026-04-28]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'

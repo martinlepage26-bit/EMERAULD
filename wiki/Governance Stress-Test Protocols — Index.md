@@ -29,14 +29,14 @@ backlinks:
 - '[[wiki/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
 - '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
   (2026-05-07)]]'
 - '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
   (2026-05-12)]]'
 - '[[wiki/Epistemic Governance — Canonical Reference]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control
   Surface (2026-05-11)]]'
 - '[[wiki/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'

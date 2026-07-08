@@ -27,7 +27,7 @@ canonical_path: wiki/Stacklight-owner-explainer.md
 backlink_count: 9
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[wiki/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

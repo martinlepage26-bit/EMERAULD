@@ -32,7 +32,7 @@ backlink_count: 12
 backlinks:
 - '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[wiki/Elemental Agents — Productization Plan (2026-05-24)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[wiki/Obsidian Agent Vault — Launch Kit]]'
 - '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'

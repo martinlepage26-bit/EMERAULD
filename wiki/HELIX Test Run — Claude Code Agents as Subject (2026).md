@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/HELIX Test Run — Claude Code Agents as Subject (2026).md
 backlink_count: 4
 backlinks:
-- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[wiki/HELIX Test Run — Epstein Files Topic (2026)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'

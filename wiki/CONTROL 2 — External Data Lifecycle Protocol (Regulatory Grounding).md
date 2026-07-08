@@ -23,7 +23,7 @@ canonical_path: wiki/CONTROL 2 — External Data Lifecycle Protocol (Regulatory 
 backlink_count: 22
 backlinks:
 - '[[wiki/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/External Data Refresh Calendar — Phase 1 Build]]'
 - '[[wiki/External Data Registry — Phase 1 Build]]'
@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Governance Controls — Incident Response (Control Failure Procedures)]]'
 - '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
 - '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'

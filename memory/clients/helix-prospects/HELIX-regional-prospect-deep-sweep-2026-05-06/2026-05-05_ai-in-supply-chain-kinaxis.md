@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_ai-in-supply-chain-kinaxis.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 source_url: https://www.kinaxis.com/en/ai-supply-chain
 date: '2025-09-10'
 scraped: '2026-05-05'

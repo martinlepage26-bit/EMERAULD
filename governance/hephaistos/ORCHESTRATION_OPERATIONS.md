@@ -22,7 +22,7 @@ vault_area: governance
 canonical_path: governance/hephaistos/ORCHESTRATION_OPERATIONS.md
 backlink_count: 6
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/HEPHAISTOS_OPERATIONS]]'
 - '[[governance/hephaistos/QUEEN-KEYPORT]]'

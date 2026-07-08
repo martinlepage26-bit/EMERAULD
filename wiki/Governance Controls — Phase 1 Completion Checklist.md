@@ -21,10 +21,10 @@ vault_area: wiki
 canonical_path: wiki/Governance Controls — Phase 1 Completion Checklist.md
 backlink_count: 5
 backlinks:
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/External Data Refresh Calendar — Phase 1 Build]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 phase: Phase 1 Infrastructure
 completion-target: '2026-05-10'

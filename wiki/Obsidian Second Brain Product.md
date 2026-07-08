@@ -40,7 +40,7 @@ backlinks:
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[wiki/Obsidian Agent Vault — Asset Canon]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'

@@ -29,7 +29,7 @@ canonical_path: wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026
 backlink_count: 5
 backlinks:
 - '[[wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
-- '[[wiki/PHAROS Procurement-Unblock Sprint]]'
+- '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[wiki/Service Offer Prompts — GPT-Assisted Revenue Design Templates]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'

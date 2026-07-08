@@ -31,7 +31,7 @@ backlinks:
   (Abomey, Bénin)]]'
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/Glitching the Sacred]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'

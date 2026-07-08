@@ -37,7 +37,7 @@ backlinks:
 - '[[wiki/PHAROS Final Voice Operator — GPT Creator]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/RAG-Anything — Multimodal RAG Framework]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/The Blind Leading the Automated — AI Governance Failure Case Study]]'
 - '[[memory/agents/Decisions]]'
 - '[[memory/agents/Events]]'

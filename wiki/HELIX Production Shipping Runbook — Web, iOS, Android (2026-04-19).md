@@ -30,8 +30,8 @@ canonical_path: wiki/HELIX Production Shipping Runbook — Web, iOS, Android (20
 backlink_count: 6
 backlinks:
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[projects/HELIX — Fisher King Project State]]'

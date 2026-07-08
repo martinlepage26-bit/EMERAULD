@@ -3,7 +3,6 @@ type: moc
 title: Control Protocols MOC
 aliases:
 - Controls Cluster MOC
-- wiki/Control Protocols MOC
 tags:
 - controls
 - governance
@@ -11,7 +10,7 @@ tags:
 - risk
 - compliance
 - moc
-- wiki
+- areas
 - control-protocols-moc-md
 - control
 - grounding
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-05-14'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Control Protocols MOC.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Control Protocols MOC.md
 backlink_count: 57
 backlinks:
 - '[[.trash/Responses API Fundamentals___]]'
@@ -29,12 +28,11 @@ backlinks:
 - '[[wiki/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/EMERAULD]]'
-- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
-  (2026-05-12)]]'
+- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[wiki/Governance Controls — Phase 1 Completion Checklist]]'
 - '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/MCP and Runtime Integration MOC]]'

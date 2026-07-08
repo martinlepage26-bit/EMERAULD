@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/Queering Neo-Pagan Magic — 2025 Revised Version.md
 backlink_count: 17
 backlinks:
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'

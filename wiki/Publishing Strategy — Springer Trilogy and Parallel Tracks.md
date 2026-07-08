@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
 - '[[wiki/Academic Paper Pipeline]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

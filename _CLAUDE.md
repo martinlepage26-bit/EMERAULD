@@ -215,7 +215,7 @@ Before declaring a bug, drafting a fix, or writing architecture: read the actual
 
 **Current top priorities (as of 2026-06-29):**
 1. Gumroad listing publish — copy ready at `artifacts/marketplace/promo/gumroad-listing.md`; upload zip is `assets/obsidian-agent-vault-2026-06-29.zip`; manual browser action remaining
-2. HELIX outreach — EU AI Act window closes 2026-08-02 (34 days); send one message to Humania or Koios; draft in [[wiki/HELIX — Value Proposition and Buyer Profile]]
+2. HELIX outreach — EU AI Act window closes 2026-08-02 (34 days); send one message to Humania or Koios; draft in [[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]
 3. GAIA soft launch — v1.6 built, 39/39 tests pass; name 10 people, send TestFlight/APK
 
 **Key people:**

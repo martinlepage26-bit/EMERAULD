@@ -22,7 +22,7 @@ canonical_path: governance/hephaistos/hephaistos-to-specialist-guideline-pull.md
 backlink_count: 6
 backlinks:
 - '[[.github/agents/hephaistos.agent]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/global/HEPHAISTOS-STATUS]]'
 - '[[governance/hephaistos/CO-EQUAL-AUTHORITY-DECISION]]'

@@ -23,11 +23,11 @@ backlink_count: 10
 backlinks:
 - '[[.github/agents/argus.agent]]'
 - '[[wiki/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/Obsidian Agent Vault — Launch Kit]]'
-- '[[wiki/PHAROS Procurement-Unblock Sprint]]'
+- '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
 - '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

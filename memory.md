@@ -25,7 +25,7 @@ canonical_path: memory.md
 backlink_count: 37
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'

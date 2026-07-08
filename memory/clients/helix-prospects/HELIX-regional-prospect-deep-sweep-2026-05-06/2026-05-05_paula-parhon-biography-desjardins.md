@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_paula-parhon-biography-desjardins.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
 source_url: https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/paula-parhon/index.jsp
 date: '2026-05-05'

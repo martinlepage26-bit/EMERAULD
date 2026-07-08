@@ -3,14 +3,13 @@ type: wiki
 title: Skill Map — Canonical Routed Skills (2026-05-06)
 aliases:
 - Skill Map — Canonical Routed Skills (2026-05-06)
-- wiki/Skill Map — Canonical Routed Skills (2026-05-06)
 tags:
 - skills
 - registry
 - routing
 - hephaistos
 - governance
-- wiki
+- areas
 - skill-map-canonical-routed-skills-2026-05-06-md
 - scientific
 - skill
@@ -20,15 +19,15 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Skill Map — Canonical Routed Skills (2026-05-06).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06).md
 backlink_count: 62
 backlinks:
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[wiki/Skill Corpus Dedup Audit — 2026-05-06]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/archive/agent-evaluation]]'
 - '[[wiki/archive/ai-product]]'
 - '[[wiki/archive/first-principles]]'

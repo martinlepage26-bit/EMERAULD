@@ -29,7 +29,7 @@ canonical_path: wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06).m
 backlink_count: 8
 backlinks:
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Vault Linking Session 2 Summary — 2026-05-01]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

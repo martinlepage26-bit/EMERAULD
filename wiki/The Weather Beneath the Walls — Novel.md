@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/CORPUS ou le génie de l''insistance — Novel]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/La fréquence brisée du verbe — Roman]]'

@@ -39,7 +39,7 @@ backlinks:
 - '[[wiki/Legitimacy Machines MOC]]'
 - '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[wiki/Manuscript Pipeline MOC]]'
-- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'

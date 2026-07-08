@@ -22,7 +22,7 @@ canonical_path: artifacts/marketplace/obsidian-agent-vault-2026-04-19/AGENT-NAMI
 backlink_count: 3
 backlinks:
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06]]'
 ---
 

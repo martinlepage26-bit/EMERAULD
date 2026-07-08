@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
 - '[[wiki/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 assessment-date: '2026-04-26'
 baseline-version: 1

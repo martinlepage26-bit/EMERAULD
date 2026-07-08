@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/local-session/feedback_evidence_discipline.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 name: Evidence discipline self-correction

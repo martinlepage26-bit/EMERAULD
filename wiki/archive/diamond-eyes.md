@@ -23,7 +23,7 @@ backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 skill_id: diamond-eyes
 domain: Specialized and Miscellaneous
 codex_path: /home/cerebrhoe/.codex/skills/diamond-eyes/SKILL.md

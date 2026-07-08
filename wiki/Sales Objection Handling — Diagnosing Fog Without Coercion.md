@@ -27,7 +27,7 @@ canonical_path: wiki/Sales Objection Handling — Diagnosing Fog Without Coercio
 backlink_count: 7
 backlinks:
 - '[[.trash/Design Your Agent Architecture]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'

@@ -5,7 +5,6 @@ aliases:
 - HELIX desktop corpus
 - HELIX v2.1 v2.4 desktop notes
 - HELIX Epstein stress-test corpus
-- wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)
 tags:
 - helix
 - pharos
@@ -13,7 +12,7 @@ tags:
 - stress-test
 - evidence-discipline
 - desktop-intake
-- wiki
+- areas
 - helix-desktop-corpus-protocol-evolution-and-stress-test-runs-2026-05-06-md
 - desktop
 - epstein
@@ -23,9 +22,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs
-  (2026-05-06).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06).md
 backlink_count: 29
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
@@ -37,17 +35,16 @@ backlinks:
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
 - '[[wiki/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing]]'
-- '[[wiki/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control
-  Surface (2026-05-11)]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)]]'
 - '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
 - '[[wiki/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
 - '[[wiki/HELIX Test Run — Epstein Files Topic (2026)]]'
-- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
-- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/PHAROS]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Research Hub]]'

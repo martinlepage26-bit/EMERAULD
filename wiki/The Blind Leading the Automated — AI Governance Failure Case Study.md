@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
 - '[[wiki/Care, Ethics, and Governance]]'
 - '[[wiki/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[projects/COMPASSai — Fisher King Project State]]'
 ---

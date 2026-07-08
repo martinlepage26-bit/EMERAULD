@@ -3,9 +3,8 @@ type: wiki
 title: PHAROS AI Ethics Submission — Springer Draft
 aliases:
 - PHAROS AI Ethics Submission — Springer Draft
-- wiki/PHAROS AI Ethics Submission — Springer Draft
 tags:
-- wiki
+- areas
 - pharos
 - ai
 - submission
@@ -19,8 +18,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS AI Ethics Submission — Springer Draft.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft.md
 backlink_count: 34
 backlinks:
 - '[[wiki/AI Ethics Literature — Contestable Governance Artifacts]]'
@@ -33,19 +32,19 @@ backlinks:
 - '[[wiki/Complete Paper List — Martin Lepage Corpus]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial]]'
-- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
-- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
+- '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
 - '[[wiki/Mental illness, addiction, and AI psychosis]]'
 - '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
-- '[[wiki/PHAROS Invention Disclosure]]'
-- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
+- '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/PHAROS-AI Webservice — pharos-ai.ca]]'
 - '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'

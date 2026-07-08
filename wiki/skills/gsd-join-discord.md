@@ -20,7 +20,7 @@ canonical_path: wiki/skills/gsd-join-discord.md
 backlink_count: 2
 backlinks:
 - '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 skill_id: gsd-join-discord
 domain: GSD Workflow
 codex_path: /home/cerebrhoe/.codex/skills/gsd-join-discord/SKILL.md

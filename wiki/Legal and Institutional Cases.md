@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[wiki/Consent, Fraud, and Boundary Protocols]]'
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/LOTUS Model and Agency]]'

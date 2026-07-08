@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/Argus]]'
 - '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
   Explanation)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HENRY — Research Paper Writing System]]'
 - '[[wiki/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'

@@ -22,7 +22,7 @@ canonical_path: hephaistos/agents/hephaistos.md
 backlink_count: 6
 backlinks:
 - '[[.github/agents/hephaistos.agent]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/global/HEPHAISTOS-STATUS]]'

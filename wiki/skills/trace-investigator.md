@@ -23,7 +23,7 @@ backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: trace-investigator
 domain: Specialized and Miscellaneous

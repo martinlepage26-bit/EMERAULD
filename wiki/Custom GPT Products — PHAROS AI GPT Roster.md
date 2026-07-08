@@ -28,7 +28,7 @@ canonical_path: wiki/Custom GPT Products — PHAROS AI GPT Roster.md
 backlink_count: 8
 backlinks:
 - '[[wiki/AI Personas — Agatha, DOTTIE, and MOBI]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governess Agatha GPT — ChatGPT Product Specification]]'
 - '[[wiki/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'

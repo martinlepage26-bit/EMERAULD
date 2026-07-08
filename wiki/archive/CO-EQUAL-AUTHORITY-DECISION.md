@@ -22,7 +22,7 @@ vault_area: wiki
 canonical_path: wiki/archive/CO-EQUAL-AUTHORITY-DECISION.md
 backlink_count: 1
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 ---
 
 # CO-EQUAL-AUTHORITY-DECISION

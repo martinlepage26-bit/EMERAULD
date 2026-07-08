@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[wiki/AI Has No Intrinsic Ethics — Accountability and the Human Chain]]'
 - '[[wiki/Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Machine Limitation]]'
 - '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'

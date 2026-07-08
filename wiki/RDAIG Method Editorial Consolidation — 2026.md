@@ -24,7 +24,7 @@ backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/Academic Paper Pipeline]]'
 - '[[wiki/Home]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[maps/PHAROS Method Map]]'

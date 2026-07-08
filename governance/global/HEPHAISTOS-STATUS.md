@@ -23,7 +23,7 @@ canonical_path: governance/global/HEPHAISTOS-STATUS.md
 backlink_count: 10
 backlinks:
 - '[[.github/agents/hephaistos.agent]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[_vault/ARCHITECTURE-STATUS-MARKING-CHECKLIST]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/HEPHAISTOS_OPERATIONS]]'

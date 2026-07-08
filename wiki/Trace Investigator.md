@@ -26,8 +26,8 @@ canonical_path: wiki/Trace Investigator.md
 backlink_count: 8
 backlinks:
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
-- '[[wiki/Skill Ecosystem — Professional Capability Registry]]'
-- '[[wiki/Skill Map — Canonical Routed Skills (2026-05-06)]]'
+- '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
+- '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[wiki/Vault Graph Hygiene — Content Title Normalization Skill]]'
 - '[[wiki/archive/red-team]]'
 - '[[wiki/archive/triangulation]]'

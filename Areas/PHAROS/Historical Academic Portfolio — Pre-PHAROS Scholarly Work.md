@@ -3,9 +3,8 @@ type: wiki
 title: Historical Academic Portfolio — Pre-PHAROS Scholarly Work
 aliases:
 - Historical Academic Portfolio — Pre-PHAROS Scholarly Work
-- wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work
 tags:
-- wiki
+- areas
 - pharos
 - historical-academic-portfolio-pre-pharos-scholarly-work-md
 - queer
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md
 backlink_count: 65
 backlinks:
 - '[[wiki/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)]]'
@@ -37,7 +36,7 @@ backlinks:
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/For Her Alone to Wield — Version Genealogy]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inner Goddess Wicca Gender — Version Genealogy]]'
 - '[[wiki/Legitimacy Machines — Book Skeleton and Architecture]]'
@@ -50,8 +49,7 @@ backlinks:
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Masculinités et ritualités — La magie chez les Radical Faeries]]'
 - '[[wiki/Master Project Tracker — 2026]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Neo-Shamanism Gender Narratives — Version Genealogy]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'

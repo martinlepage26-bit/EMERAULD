@@ -3,9 +3,8 @@ type: wiki
 title: PHAROS Invention Disclosure
 aliases:
 - PHAROS Invention Disclosure
-- wiki/PHAROS Invention Disclosure
 tags:
-- wiki
+- areas
 - pharos
 - pharos-invention-disclosure-md
 - counsel
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Invention Disclosure.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Invention Disclosure.md
 backlink_count: 59
 backlinks:
 - '[[wiki/90-Day $1M Challenge — Status Report]]'
@@ -35,25 +34,25 @@ backlinks:
 - '[[wiki/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/Founder Charter — Lepage and Stocker]]'
 - '[[wiki/Global Publication Search — PHAROS Method and Variants]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governance by Denial]]'
 - '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
-- '[[wiki/Martin Lepage — Professional Profile]]'
+- '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/OpenAI Governance Framework — Comparison with PHAROS]]'
-- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[wiki/PHAROS Evidentiary Gap Closure Bundle]]'
 - '[[wiki/PHAROS Licensing Prospectus]]'
-- '[[wiki/PHAROS Method — Technical Reference]]'
-- '[[wiki/PHAROS Recalibration — Unified Governance Architecture]]'
+- '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
+- '[[Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture]]'
 - '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
 - '[[wiki/Personal and Projects MOC]]'

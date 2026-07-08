@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[wiki/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[wiki/Glitching the Sacred]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Livre des Ombres — Martin''s Magical System (1996-2026)]]'
 - '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'

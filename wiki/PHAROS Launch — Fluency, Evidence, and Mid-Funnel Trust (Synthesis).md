@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/EU AI Act and Law 25 — Regulatory Pressure Window]]'
 - '[[wiki/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)]]'
 - '[[wiki/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
-- '[[wiki/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

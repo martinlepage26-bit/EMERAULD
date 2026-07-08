@@ -21,7 +21,7 @@ vault_area: governance
 canonical_path: governance/hephaistos/operator-to-henry.md
 backlink_count: 3
 backlinks:
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/HENRY]]'
 ---

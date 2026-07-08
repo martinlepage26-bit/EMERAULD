@@ -20,7 +20,7 @@ vault_area: wiki
 canonical_path: wiki/skills/yeet.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: yeet
 domain: Specialized and Miscellaneous

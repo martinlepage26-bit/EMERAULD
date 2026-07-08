@@ -3,9 +3,8 @@ type: wiki
 title: PHAROS Recalibration — Unified Governance Architecture
 aliases:
 - PHAROS Recalibration — Unified Governance Architecture
-- wiki/PHAROS Recalibration — Unified Governance Architecture
 tags:
-- wiki
+- areas
 - pharos
 - governance
 - pharos-recalibration-unified-governance-architecture-md
@@ -18,22 +17,21 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Recalibration — Unified Governance Architecture.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture.md
 backlink_count: 31
 backlinks:
 - '[[wiki/AI Governance Course — Ethics, Failure Modes, and Practice]]'
 - '[[wiki/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
 - '[[wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
 - '[[wiki/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[wiki/Awesome Design Resources — Curated UI-UX Reference List]]'
 - '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[wiki/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[wiki/Global Publication Search — PHAROS Method and Variants]]'
 - '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model — Agency and Social Positioning]]'
@@ -42,7 +40,7 @@ backlinks:
 - '[[wiki/OpenAI Governance Framework — Comparison with PHAROS]]'
 - '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[wiki/PHAROS Cross-AI Strategy Matrix]]'
-- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d''Yvon Rivard]]'
 - '[[wiki/Queering Neo-Pagan Magic — 2006 Paper]]'

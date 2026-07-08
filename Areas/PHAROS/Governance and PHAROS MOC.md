@@ -3,12 +3,11 @@ type: moc
 title: Governance and PHAROS MOC
 aliases:
 - Governance and PHAROS MOC
-- wiki/Governance and PHAROS MOC
 tags:
 - moc
 - pharos
 - governance
-- wiki
+- areas
 - governance-and-pharos-moc-md
 - needed
 - recursive
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governance and PHAROS MOC.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Governance and PHAROS MOC.md
 backlink_count: 382
 backlinks:
 - '[[.github/agents/argus.agent]]'
@@ -50,13 +49,11 @@ backlinks:
 - '[[wiki/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
 - '[[wiki/AI Recruiting Has an Accessibility Problem — Lepage (2026)]]'
 - '[[wiki/AI Society Manuscript — Springer In Review Notification (2026-05-10)]]'
-- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
-  (2026)]]'
+- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[wiki/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
 - '[[wiki/Academic Paper Pipeline]]'
 - '[[wiki/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[Areas/PHAROS/AREA]]'
 - '[[wiki/AurorA — COMPASSai Input Module]]'
@@ -65,12 +62,10 @@ backlinks:
 - '[[wiki/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)]]'
 - '[[wiki/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[CLAUDE]]'
-- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
-  (2026-06-22)]]'
+- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[wiki/COMPASSai — Governance Engine]]'
 - '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
-  Explanation)]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[wiki/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior]]'
 - '[[wiki/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
@@ -78,7 +73,7 @@ backlinks:
 - '[[wiki/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
 - '[[wiki/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/D Drive Scan — 2026-05-12]]'
 - '[[wiki/D Library — Review Unreadable Cleanup (2026-05-04)]]'
@@ -93,11 +88,9 @@ backlinks:
 - '[[wiki/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
-  (2026-05-12)]]'
+- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[wiki/Embedding Before Rupture — Relational AI and Institutional Power]]'
-- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
-  Phenomenon]]'
+- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon]]'
 - '[[wiki/Epistemic Governance — Canonical Reference]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
 - '[[wiki/Ethics Poetics and Praxis — Braided Discipline]]'
@@ -118,15 +111,14 @@ backlinks:
 - '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
 - '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[wiki/Governance by Denial — Version Genealogy]]'
-- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control
-  Surface (2026-05-11)]]'
-- '[[wiki/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)]]'
+- '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[wiki/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
-- '[[wiki/HELIX — Value Proposition and Buyer Profile]]'
-- '[[wiki/HEPHAISTOS Agent Architecture]]'
+- '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
+- '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/IP and Manuscript Brief — 2026-05-14]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
@@ -144,14 +136,12 @@ backlinks:
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'
-- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
-  2024]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
 - '[[wiki/OpenAI Governance Framework — Comparison with PHAROS]]'
 - '[[wiki/PHAROS]]'
 - '[[wiki/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
@@ -164,13 +154,13 @@ backlinks:
 - '[[wiki/PHAROS Legal Classification — CAE Code Strategy]]'
 - '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[wiki/PHAROS Method — Core Framework]]'
-- '[[wiki/PHAROS Method — Technical Reference]]'
+- '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)]]'
 - '[[wiki/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]'
 - '[[wiki/PHAROS Product Stack]]'
-- '[[wiki/PHAROS Runbook SOP]]'
+- '[[Areas/PHAROS/PHAROS Runbook SOP]]'
 - '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
-- '[[wiki/PHAROS Scholarly Publication Track]]'
+- '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06]]'
 - '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[wiki/PHAROS — Origin and Doctrine]]'
@@ -202,8 +192,7 @@ backlinks:
 - '[[wiki/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]'
 - '[[wiki/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[wiki/Research and Papers MOC]]'
-- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
-  (2026-04-18)]]'
+- '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]'
 - '[[wiki/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[wiki/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
 - '[[wiki/September 2024 Research Retrospective]]'
@@ -213,8 +202,7 @@ backlinks:
 - '[[wiki/Source Cluster — 2026-05-13 Governance and Platform Signals]]'
 - '[[wiki/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]]'
 - '[[wiki/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
-  and Computational Memory Architectures]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[wiki/Supersession Registry]]'
 - '[[wiki/TPS-TVQ PHAROS]]'
 - '[[wiki/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
@@ -281,8 +269,7 @@ backlinks:
 - '[[wiki/bridges/Bridge - 2013 - auditorassessment 3]]'
 - '[[wiki/bridges/Bridge - 2015 - policyorguidance 3]]'
 - '[[wiki/bridges/Bridge - 2015 - policyorguidance 4]]'
-- '[[wiki/bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf -
-  2020 - Mar - 2020 - Martin Lepage - Simp]]'
+- '[[wiki/bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf - 2020 - Mar - 2020 - Martin Lepage - Simp]]'
 - '[[wiki/bridges/Bridge - CORPUS ou le gnie de linsistance 1]]'
 - '[[wiki/bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06]]'
 - '[[wiki/bridges/Bridge - FIRST DRAFT]]'
@@ -406,8 +393,7 @@ backlinks:
 - '[[memory/local-session/reference_seven_pillars_stack]]'
 - '[[memory/local-session/three_agent_system]]'
 - '[[memory/local-session/user_ethical_ground]]'
-- '[[raw/00_Inbox/Raw/2026-05-06 — Patent agent email — provisional application contract
-  + notes]]'
+- '[[raw/00_Inbox/Raw/2026-05-06 — Patent agent email — provisional application contract + notes]]'
 - '[[raw/Clippings/AI Agent Operations and Governance Manager]]'
 - '[[raw/D-drive-scan-2026-05-12/elemental-agents/README]]'
 - '[[raw/D-drive-scan-2026-05-12/elemental-agents/combinations/dual-combinations]]'

@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/skills/web-layers-explainer.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Design and UX]]'
 skill_id: web-layers-explainer
 domain: Design and UX

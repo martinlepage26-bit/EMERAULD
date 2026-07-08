@@ -24,7 +24,7 @@ backlink_count: 14
 backlinks:
 - '[[wiki/Authority Without Power-Over]]'
 - '[[wiki/Care, Ethics, and Governance]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
 - '[[wiki/Literary References — Craft Guide]]'

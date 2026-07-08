@@ -3,9 +3,8 @@ type: wiki
 title: PHAROS Runbook SOP
 aliases:
 - PHAROS Runbook SOP
-- wiki/PHAROS Runbook SOP
 tags:
-- wiki
+- areas
 - pharos
 - pharos-runbook-sop-md
 - disposition
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Runbook SOP.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PHAROS Runbook SOP.md
 backlink_count: 29
 backlinks:
 - '[[wiki/Architectural AI Governance — Willis and PBSAI]]'
@@ -27,7 +26,7 @@ backlinks:
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Epistemic Operator — Operational Specification]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[wiki/Healthcare Governance Packet — Recursive Governance for Providers]]'
 - '[[wiki/Home]]'
@@ -36,11 +35,11 @@ backlinks:
 - '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[wiki/PHAROS Company Registration and Security Incidents]]'
 - '[[wiki/PHAROS Evidentiary Gap Closure Bundle]]'
-- '[[wiki/PHAROS Invention Disclosure]]'
+- '[[Areas/PHAROS/PHAROS Invention Disclosure]]'
 - '[[wiki/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
-- '[[wiki/PHAROS Method — Technical Reference]]'
-- '[[wiki/PHAROS Procurement-Unblock Sprint]]'
-- '[[wiki/PHAROS Recalibration — Unified Governance Architecture]]'
+- '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
+- '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
+- '[[Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture]]'
 - '[[wiki/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[wiki/RECURSO — Final Audit and Ethical Review]]'

@@ -29,7 +29,7 @@ backlink_count: 10
 backlinks:
 - '[[wiki/Agatha Unified Skill System — Eight Sovereign Operators]]'
 - '[[wiki/Governance Controls Integration Dashboard]]'
-- '[[wiki/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/Plugin Recommendations]]'

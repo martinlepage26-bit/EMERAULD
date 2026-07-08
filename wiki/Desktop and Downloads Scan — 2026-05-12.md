@@ -26,7 +26,7 @@ canonical_path: wiki/Desktop and Downloads Scan — 2026-05-12.md
 backlink_count: 8
 backlinks:
 - '[[wiki/Brutal Isms — Grant Revision Package (2026-05-12)]]'
-- '[[wiki/Control Protocols MOC]]'
+- '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

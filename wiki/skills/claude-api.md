@@ -22,7 +22,7 @@ canonical_path: wiki/skills/claude-api.md
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Skill Corpus — Complete Live Index (260 Active Skills)]]'
+- '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — AI and LLM Tools]]'
 skill_id: claude-api
 domain: AI LLM and Tools

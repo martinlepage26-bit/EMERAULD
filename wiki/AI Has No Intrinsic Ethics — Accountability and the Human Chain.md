@@ -28,7 +28,7 @@ backlink_count: 8
 backlinks:
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/PHAROS AI Ethics Submission — Springer Draft]]'
+- '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[wiki/Recursive Governance Theory]]'
 - '[[wiki/Research and Papers MOC]]'
 - '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'

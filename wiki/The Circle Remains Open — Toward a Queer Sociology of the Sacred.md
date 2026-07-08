@@ -23,7 +23,7 @@ backlink_count: 23
 backlinks:
 - '[[wiki/Brutal Isms — Art Grant Proposal]]'
 - '[[wiki/Circle Remains Open — Version Genealogy]]'
-- '[[wiki/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
+- '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[wiki/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
