@@ -29,7 +29,7 @@ canonical_path: wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis,
 backlink_count: 11
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
 - '[[wiki/Martin Lepage Professional Identity]]'

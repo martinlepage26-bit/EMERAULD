@@ -31,7 +31,7 @@ backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
-- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

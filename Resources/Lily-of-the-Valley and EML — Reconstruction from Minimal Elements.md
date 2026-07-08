@@ -6,7 +6,6 @@ aliases:
 - mute flower and EML
 - lily-of-the-valley reconstruction
 - living reconstruction
-- wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements
 tags:
 - synthesis
 - ritual
@@ -15,7 +14,7 @@ tags:
 - reconstruction
 - authenticity
 - poietics
-- wiki
+- resources
 - lily-of-the-valley-and-eml-reconstruction-from-minimal-elements-md
 - flower
 - lily
@@ -25,14 +24,13 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements.md
+vault_area: Resources
+canonical_path: Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements.md
 backlink_count: 13
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[Resources/EML Function — Minimal Operator and Scientific-Calculator Completeness]]'
-- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent
-  Phenomenon]]'
+- '[[wiki/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

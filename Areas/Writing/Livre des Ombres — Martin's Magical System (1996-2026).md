@@ -4,14 +4,13 @@ title: Livre des Ombres — Martin's Magical System (1996-2026)
 aliases:
 - Livre des Ombres
 - Book of Shadows
-- wiki/Livre des Ombres — Martin's Magical System (1996-2026)
 tags:
 - ritual
 - magic
 - personal
 - spiritual-system
 - elemental
-- wiki
+- areas
 - livre-des-ombres-martin-s-magical-system-1996-2026-md
 - magical
 - terre
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-05-04'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Livre des Ombres — Martin's Magical System (1996-2026).md
+vault_area: Areas
+canonical_path: Areas/Writing/Livre des Ombres — Martin's Magical System (1996-2026).md
 backlink_count: 8
 backlinks:
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'

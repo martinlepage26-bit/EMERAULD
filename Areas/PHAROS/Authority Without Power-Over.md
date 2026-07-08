@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
-- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[wiki/Machine Limitation]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'

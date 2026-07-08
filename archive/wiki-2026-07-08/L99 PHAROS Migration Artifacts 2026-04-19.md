@@ -5,7 +5,6 @@ aliases:
 - L99 PHAROS Migration
 - L99 Artifacts 2026-04-19
 - 'PR #4 Hardening Bundle'
-- wiki/L99 PHAROS Migration Artifacts 2026-04-19
 tags:
 - pharos
 - deployment
@@ -14,7 +13,7 @@ tags:
 - migration
 - l99
 - artifacts
-- wiki
+- archive
 - l99-pharos-migration-artifacts-2026-04-19-md
 - dnspython
 - compassai
@@ -25,8 +24,8 @@ tags:
 status: active
 created: '2026-04-19'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/L99 PHAROS Migration Artifacts 2026-04-19.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19.md
 backlink_count: 15
 backlinks:
 - '[[archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT]]'

@@ -26,7 +26,7 @@ canonical_path: wiki/archive/Ethical Ground Values.md
 backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Inner Mind Eye]]'
+- '[[Areas/PHAROS/Inner Mind Eye]]'
 - '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 - '[[governance/governance-index]]'
 ---

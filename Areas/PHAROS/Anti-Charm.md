@@ -27,7 +27,7 @@ backlinks:
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Inner Mind Eye]]'
+- '[[Areas/PHAROS/Inner Mind Eye]]'
 - '[[wiki/Philosopher]]'
 - '[[wiki/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]'
 ---

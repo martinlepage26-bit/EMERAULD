@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric Architecture]]'
 - '[[wiki/LOTUS Model and Agency]]'
-- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture]]'
 ---

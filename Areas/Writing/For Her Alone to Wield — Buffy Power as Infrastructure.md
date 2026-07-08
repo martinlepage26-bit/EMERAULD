@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/For Her Alone to Wield — HENRY Draft (2026-05-16)]]'
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[wiki/Home]]'
-- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'

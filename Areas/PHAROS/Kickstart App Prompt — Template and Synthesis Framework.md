@@ -3,13 +3,12 @@ type: wiki
 title: Kickstart App Prompt — Template and Synthesis Framework
 aliases:
 - Kickstart App Prompt — Template and Synthesis Framework
-- wiki/Kickstart App Prompt — Template and Synthesis Framework
 tags:
 - prompt-engineering
 - templates
 - app-building
 - knowledge-synthesis
-- wiki
+- areas
 - kickstart-app-prompt-template-and-synthesis-framework-md
 - kickstart
 - awesome
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Kickstart App Prompt — Template and Synthesis Framework.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework.md
 backlink_count: 5
 backlinks:
 - '[[Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'

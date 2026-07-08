@@ -36,7 +36,7 @@ backlinks:
 - '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
+- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[wiki/Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'

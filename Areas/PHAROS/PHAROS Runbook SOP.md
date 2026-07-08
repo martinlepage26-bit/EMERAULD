@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
-- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/PHAROS AI and Ethics Submission — Architecture Paper]]'
 - '[[wiki/PHAROS Company Registration and Security Incidents]]'
 - '[[Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle]]'

@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)]]'
 - '[[wiki/Home]]'
-- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'

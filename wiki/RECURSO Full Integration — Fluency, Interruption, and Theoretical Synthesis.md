@@ -28,7 +28,7 @@ backlinks:
 - '[[Areas/Writing/Governance by Denial]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
-- '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

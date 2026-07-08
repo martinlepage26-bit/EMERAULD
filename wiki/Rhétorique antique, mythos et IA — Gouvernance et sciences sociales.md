@@ -31,7 +31,7 @@ backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
+- '[[Resources/Intelligence Definitions and AI Bias — 1956 Lecture]]'
 - '[[wiki/Machine Limitation]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Resources/Recursive Governance Theory]]'

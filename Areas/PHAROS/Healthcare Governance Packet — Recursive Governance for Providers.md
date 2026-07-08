@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/Writing/Healthcare Packet — Version Genealogy]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'
-- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'

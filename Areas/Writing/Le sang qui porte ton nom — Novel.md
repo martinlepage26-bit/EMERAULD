@@ -3,9 +3,8 @@ type: wiki
 title: Le sang qui porte ton nom — Novel
 aliases:
 - Le sang qui porte ton nom — Novel
-- wiki/Le sang qui porte ton nom — Novel
 tags:
-- wiki
+- areas
 - novel
 - le-sang-qui-porte-ton-nom-novel-md
 - ulrich
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Le sang qui porte ton nom — Novel.md
+vault_area: Areas
+canonical_path: Areas/Writing/Le sang qui porte ton nom — Novel.md
 backlink_count: 18
 backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
@@ -26,7 +25,7 @@ backlinks:
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
-- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'

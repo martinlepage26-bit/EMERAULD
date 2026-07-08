@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
-- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'

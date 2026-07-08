@@ -1,12 +1,9 @@
 ---
 type: wiki
-title: Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
-  Activism Switzerland)
+title: Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)
 aliases:
 - Becci Grandjean 2022 eco-spiritual activism Switzerland
 - Is Sacred Nature Gendered or Queer (Religions 2022)
-- wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
-  Activism Switzerland)
 tags:
 - reference
 - eco-spirituality
@@ -17,7 +14,7 @@ tags:
 - queer-ecology
 - activism
 - switzerland
-- wiki
+- resources
 - is-sacred-nature-gendered-or-queer-becci-grandjean-2022-eco-spiritual-activism-switzerland-md
 - spiritual
 - milieus
@@ -27,18 +24,16 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
-  Activism Switzerland).md
+vault_area: Resources
+canonical_path: Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland).md
 backlink_count: 9
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
-  vs Reclaiming)]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

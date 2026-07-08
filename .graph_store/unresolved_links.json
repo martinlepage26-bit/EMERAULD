@@ -1960,6 +1960,46 @@
     "source_path": "Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles.md"
   },
   {
+    "source": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework",
+    "target": "Queen Keyport — Governance Doctrine",
+    "source_path": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework.md"
+  },
+  {
+    "source": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework",
+    "target": "Awesome Design Resources",
+    "source_path": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework.md"
+  },
+  {
+    "source": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework",
+    "target": "Never mock database",
+    "source_path": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework.md"
+  },
+  {
+    "source": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework",
+    "target": "vault/relevant-project-note",
+    "source_path": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework.md"
+  },
+  {
+    "source": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework",
+    "target": "ProjectName",
+    "source_path": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework.md"
+  },
+  {
+    "source": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework",
+    "target": "Awesome Design Resources",
+    "source_path": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework.md"
+  },
+  {
+    "source": "Areas/PHAROS/LOTUS Premium Spec",
+    "target": "Dr_Sort_milestone1-design",
+    "source_path": "Areas/PHAROS/LOTUS Premium Spec.md"
+  },
+  {
+    "source": "Areas/PHAROS/LOTUS Premium Spec",
+    "target": "LOTUS_PREMIUM_SPEC",
+    "source_path": "Areas/PHAROS/LOTUS Premium Spec.md"
+  },
+  {
     "source": "Areas/PHAROS/Martin Lepage — Professional Profile",
     "target": "Building Your First AI Agent with OpenAI_______",
     "source_path": "Areas/PHAROS/Martin Lepage — Professional Profile.md"
@@ -2625,6 +2665,16 @@
     "source_path": "Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md"
   },
   {
+    "source": "Areas/Writing/La fréquence brisée du verbe — Roman",
+    "target": "drsortoriginalfilename 2025 - Martin Lepage - manuscript.docx - 2025 - Martin",
+    "source_path": "Areas/Writing/La fréquence brisée du verbe — Roman.md"
+  },
+  {
+    "source": "Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture",
+    "target": "Machines AltarsTRUE",
+    "source_path": "Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture.md"
+  },
+  {
     "source": "Areas/Writing/Legitimacy Machines MOC",
     "target": "ClientStats",
     "source_path": "Areas/Writing/Legitimacy Machines MOC.md"
@@ -2648,6 +2698,11 @@
     "source": "Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture",
     "target": "2017 - INFORMATION DISORDER",
     "source_path": "Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture.md"
+  },
+  {
+    "source": "Areas/Writing/Livre des Ombres — Martin's Magical System (1996-2026)",
+    "target": "Livre des Ombres 1996-2026",
+    "source_path": "Areas/Writing/Livre des Ombres — Martin's Magical System (1996-2026).md"
   },
   {
     "source": "Areas/Writing/Loop Papers and Recursive Governance",
@@ -6280,6 +6335,131 @@
     "source_path": "Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender).md"
   },
   {
+    "source": "Resources/Intelligence Definitions and AI Bias — 1956 Lecture",
+    "target": "MOd  3- Artificail Consciouness",
+    "source_path": "Resources/Intelligence Definitions and AI Bias — 1956 Lecture.md"
+  },
+  {
+    "source": "Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)",
+    "target": "2021 - Spiritual Activism in Swit",
+    "source_path": "Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland).md"
+  },
+  {
+    "source": "Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022",
+    "target": "2022 - report",
+    "source_path": "Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022.md"
+  },
+  {
+    "source": "Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022",
+    "target": "2023 - B Resource Links v2.0.2 - report",
+    "source_path": "Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022.md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "2013 - journal_article_2.pdf - 2013 - journal_article_2.pdf.pdf - 2013 - journal_article_2.pdf - 201",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "2016 - review",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "2018 - 18-BPRE-721150-I - report [2",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "2019 - Methodos, 2 2002",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "2020 - report",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "2021 - report_2",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "2022 - tax_or_finance [2",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "2022 - tax_or_finance [3",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "2023 - tax_or_finance [2",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "2023 - tax_or_finance.pdf - 2023 - tax_or_finance.pdf.pdf - 2023 - tax_or_finance.pdf - 2023 - tax_o",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "2025 - PROLOGUE",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "Consulter des données fiscales - Revenu Québec (4)",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "Consulter des données fiscales - Revenu Québec (5)",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "Consulter des données fiscales - Revenu Québec (6)",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "Consulter des données fiscales - Revenu Québec (7)",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "L'enqute narrative en sciences humaines et sociales",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "Unreadable OCR — PDF 1.6",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "2018 - 18-BPRE-721150-I - report",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "cover Perle",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "drsortoriginalfilename 2016 - bookchapter.docx - 2016 - bookchapter.docx.docx",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
+    "source": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "target": "Voici une série de patterns, d'expressions et de vocabulaire couramment utilisés",
+    "source_path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
+  },
+  {
     "source": "Resources/Literary References — Craft Guide",
     "target": "2013 - journal_article_1.pdf - 2013 - journal_article_1.pdf.pdf - 2013 - journal_article_1.pdf - 201",
     "source_path": "Resources/Literary References — Craft Guide.md"
@@ -6633,6 +6813,16 @@
     "source": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)",
     "target": "2026-04-30_helix-shipping-instructions-runbook",
     "source_path": "archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md"
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)",
+    "target": "M15063",
+    "source_path": "archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26).md"
+  },
+  {
+    "source": "archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A",
+    "target": "Laptop A",
+    "source_path": "archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A.md"
   },
   {
     "source": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
@@ -8490,199 +8680,9 @@
     "source_path": "wiki/Home.md"
   },
   {
-    "source": "Intelligence Definitions and AI Bias — 1956 Lecture",
-    "target": "MOd  3- Artificail Consciouness",
-    "source_path": "wiki/Intelligence Definitions and AI Bias — 1956 Lecture.md"
-  },
-  {
-    "source": "Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)",
-    "target": "2021 - Spiritual Activism in Swit",
-    "source_path": "wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland).md"
-  },
-  {
-    "source": "Kickstart App Prompt — Template and Synthesis Framework",
-    "target": "Queen Keyport — Governance Doctrine",
-    "source_path": "wiki/Kickstart App Prompt — Template and Synthesis Framework.md"
-  },
-  {
-    "source": "Kickstart App Prompt — Template and Synthesis Framework",
-    "target": "Awesome Design Resources",
-    "source_path": "wiki/Kickstart App Prompt — Template and Synthesis Framework.md"
-  },
-  {
-    "source": "Kickstart App Prompt — Template and Synthesis Framework",
-    "target": "Never mock database",
-    "source_path": "wiki/Kickstart App Prompt — Template and Synthesis Framework.md"
-  },
-  {
-    "source": "Kickstart App Prompt — Template and Synthesis Framework",
-    "target": "vault/relevant-project-note",
-    "source_path": "wiki/Kickstart App Prompt — Template and Synthesis Framework.md"
-  },
-  {
-    "source": "Kickstart App Prompt — Template and Synthesis Framework",
-    "target": "ProjectName",
-    "source_path": "wiki/Kickstart App Prompt — Template and Synthesis Framework.md"
-  },
-  {
-    "source": "Kickstart App Prompt — Template and Synthesis Framework",
-    "target": "Awesome Design Resources",
-    "source_path": "wiki/Kickstart App Prompt — Template and Synthesis Framework.md"
-  },
-  {
-    "source": "LOTUS Premium Spec",
-    "target": "Dr_Sort_milestone1-design",
-    "source_path": "wiki/LOTUS Premium Spec.md"
-  },
-  {
-    "source": "LOTUS Premium Spec",
-    "target": "LOTUS_PREMIUM_SPEC",
-    "source_path": "wiki/LOTUS Premium Spec.md"
-  },
-  {
-    "source": "La fréquence brisée du verbe — Roman",
-    "target": "drsortoriginalfilename 2025 - Martin Lepage - manuscript.docx - 2025 - Martin",
-    "source_path": "wiki/La fréquence brisée du verbe — Roman.md"
-  },
-  {
-    "source": "Learning Together for Responsible AI — ISED Public Awareness WG 2022",
-    "target": "2022 - report",
-    "source_path": "wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022.md"
-  },
-  {
-    "source": "Learning Together for Responsible AI — ISED Public Awareness WG 2022",
-    "target": "2023 - B Resource Links v2.0.2 - report",
-    "source_path": "wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022.md"
-  },
-  {
-    "source": "Legitimacy Machines Altars of Control — Full Book Architecture",
-    "target": "Machines AltarsTRUE",
-    "source_path": "wiki/Legitimacy Machines Altars of Control — Full Book Architecture.md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "2013 - journal_article_2.pdf - 2013 - journal_article_2.pdf.pdf - 2013 - journal_article_2.pdf - 201",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "2016 - review",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "2018 - 18-BPRE-721150-I - report [2",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "2019 - Methodos, 2 2002",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "2020 - report",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "2021 - report_2",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "2022 - tax_or_finance [2",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "2022 - tax_or_finance [3",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "2023 - tax_or_finance [2",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "2023 - tax_or_finance.pdf - 2023 - tax_or_finance.pdf.pdf - 2023 - tax_or_finance.pdf - 2023 - tax_o",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "2025 - PROLOGUE",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "Consulter des données fiscales - Revenu Québec (4)",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "Consulter des données fiscales - Revenu Québec (5)",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "Consulter des données fiscales - Revenu Québec (6)",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "Consulter des données fiscales - Revenu Québec (7)",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "L'enqute narrative en sciences humaines et sociales",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "Unreadable OCR — PDF 1.6",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "2018 - 18-BPRE-721150-I - report",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "cover Perle",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "drsortoriginalfilename 2016 - bookchapter.docx - 2016 - bookchapter.docx.docx",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "target": "Voici une série de patterns, d'expressions et de vocabulaire couramment utilisés",
-    "source_path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md"
-  },
-  {
-    "source": "Library Master Reference Intake (2026-04-26)",
-    "target": "M15063",
-    "source_path": "wiki/Library Master Reference Intake (2026-04-26).md"
-  },
-  {
     "source": "LightRAG — Graph-Based RAG System",
     "target": "ROADMAP",
     "source_path": "wiki/LightRAG — Graph-Based RAG System.md"
-  },
-  {
-    "source": "Livre des Ombres — Martin's Magical System (1996-2026)",
-    "target": "Livre des Ombres 1996-2026",
-    "source_path": "wiki/Livre des Ombres — Martin's Magical System (1996-2026).md"
-  },
-  {
-    "source": "Local Hardware and Discovery Snapshot — Laptop A",
-    "target": "Laptop A",
-    "source_path": "wiki/Local Hardware and Discovery Snapshot — Laptop A.md"
   },
   {
     "source": "Magic After Legitimacy — Charmed and the Governance of Female Power",

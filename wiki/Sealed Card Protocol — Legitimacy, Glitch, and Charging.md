@@ -45,7 +45,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
-- '[[wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
+- '[[Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements]]'
 - '[[wiki/Martin Lepage — Skills by Life Domain]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Neo-Shamanism and Gender — Montreal Pagan Community]]'

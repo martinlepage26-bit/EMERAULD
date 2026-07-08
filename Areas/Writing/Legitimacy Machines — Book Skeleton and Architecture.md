@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'
-- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'

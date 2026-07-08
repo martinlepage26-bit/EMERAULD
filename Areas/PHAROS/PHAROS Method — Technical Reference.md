@@ -58,7 +58,7 @@ backlinks:
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
-- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/LOTUS Model and Agency]]'
 - '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'

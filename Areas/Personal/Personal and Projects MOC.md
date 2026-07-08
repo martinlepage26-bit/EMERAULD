@@ -47,7 +47,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
 - '[[wiki/Home]]'
-- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[Resources/MASTER REFERENCE SAFE — Canonical Bibliography System]]'
 - '[[wiki/Martin Lepage Professional Identity]]'

@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
 - '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
-- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'

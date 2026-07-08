@@ -26,7 +26,7 @@ vault_area: Resources
 canonical_path: Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender).md
 backlink_count: 5
 backlinks:
-- '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)]]'
+- '[[Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

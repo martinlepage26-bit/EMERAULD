@@ -28,7 +28,7 @@ backlinks:
 - '[[wiki/EMERAULD]]'
 - '[[Areas/Writing/Glitching the Sacred]]'
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'
-- '[[wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
+- '[[Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'

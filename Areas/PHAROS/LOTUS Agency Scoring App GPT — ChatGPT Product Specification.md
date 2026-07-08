@@ -5,7 +5,6 @@ aliases:
 - LOTUS App GPT
 - LOTUS Agency Scoring GPT
 - LOTUS ChatGPT Product
-- wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification
 tags:
 - gpt
 - lotus
@@ -15,7 +14,7 @@ tags:
 - intake
 - orchestration
 - chatgpt-product
-- wiki
+- areas
 - lotus-agency-scoring-app-gpt-chatgpt-product-specification-md
 - simulation
 - symbolic
@@ -24,13 +23,13 @@ tags:
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification.md
 backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

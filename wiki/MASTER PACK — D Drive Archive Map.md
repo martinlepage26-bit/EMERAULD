@@ -29,7 +29,7 @@ backlink_count: 6
 backlinks:
 - '[[wiki/APEX Papers — Research Archive Map]]'
 - '[[archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment]]'
-- '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'
+- '[[archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A]]'
 - '[[wiki/MASTERxMASTERxMASTER — Skill Corpus Map]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'

@@ -21,7 +21,7 @@ backlink_count: 19
 backlinks:
 - '[[Resources/Disease — Lady Gaga — Lyrics]]'
 - '[[wiki/Home]]'
-- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
+- '[[Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'

@@ -55,7 +55,7 @@ backlinks:
 - '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript]]'
-- '[[wiki/Inner Mind Eye]]'
+- '[[Areas/PHAROS/Inner Mind Eye]]'
 - '[[wiki/Machine Limitation]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Mathématiques comme grammaire profonde des relations — Essai philosophique]]'

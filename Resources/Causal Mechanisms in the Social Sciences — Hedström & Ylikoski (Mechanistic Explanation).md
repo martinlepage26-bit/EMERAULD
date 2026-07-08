@@ -28,7 +28,7 @@ canonical_path: Resources/Causal Mechanisms in the Social Sciences — Hedström
 backlink_count: 8
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

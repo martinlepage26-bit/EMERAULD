@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
-- '[[wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
+- '[[Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022]]'
 - '[[Resources/Mapping the Margins — Crenshaw 1991 (Intersectionality and Violence)]]'
 - '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'

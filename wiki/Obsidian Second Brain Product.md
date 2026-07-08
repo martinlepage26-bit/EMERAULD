@@ -37,7 +37,7 @@ backlinks:
 - '[[Areas/PHAROS/Governed Self-Improvement — Method Slide Asset]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
-- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'

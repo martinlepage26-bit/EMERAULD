@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[wiki/Home]]'
-- '[[wiki/LOTUS Model — Agency and Social Positioning]]'
+- '[[Areas/PHAROS/LOTUS Model — Agency and Social Positioning]]'
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[Resources/Master Bibliography — Références bibliographiques 2025]]'
 - '[[wiki/OpenAI Governance Framework — Comparison with PHAROS]]'

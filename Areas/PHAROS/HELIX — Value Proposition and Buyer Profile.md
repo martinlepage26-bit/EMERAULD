@@ -44,7 +44,7 @@ backlinks:
 - '[[Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
 - '[[Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026)]]'
-- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[wiki/PHAROS Method — Core Framework]]'
 - '[[wiki/PHAROS Product Stack]]'

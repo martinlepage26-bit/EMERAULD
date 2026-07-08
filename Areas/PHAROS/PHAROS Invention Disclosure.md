@@ -40,7 +40,7 @@ backlinks:
 - '[[Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'
-- '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'

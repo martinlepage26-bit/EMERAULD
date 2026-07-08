@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
 - '[[Areas/Writing/Glitching the Sacred]]'
 - '[[wiki/Home]]'
-- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

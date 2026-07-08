@@ -15,8 +15,8 @@ tags:
 status: active
 created: '2026-07-06'
 updated: '2026-07-06'
-vault_area: wiki
-canonical_path: wiki/LegiPro Canada-QC — Compliance Evidence Service Plan.md
+vault_area: Areas
+canonical_path: Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan.md
 ---
 
 # LegiPro Canada-QC — Compliance Evidence Service Plan

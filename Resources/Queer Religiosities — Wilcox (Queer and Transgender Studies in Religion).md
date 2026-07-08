@@ -26,7 +26,7 @@ canonical_path: Resources/Queer Religiosities — Wilcox (Queer and Transgender 
 backlink_count: 8
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

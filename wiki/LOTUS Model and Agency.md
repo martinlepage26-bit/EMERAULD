@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/LOTUS Premium Spec]]'
+- '[[Areas/PHAROS/LOTUS Premium Spec]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université

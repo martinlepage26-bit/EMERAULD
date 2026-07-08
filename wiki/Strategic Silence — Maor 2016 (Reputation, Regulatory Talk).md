@@ -29,7 +29,7 @@ backlink_count: 8
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Smallest Building Block — Relation as Rule]]'
 - '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'

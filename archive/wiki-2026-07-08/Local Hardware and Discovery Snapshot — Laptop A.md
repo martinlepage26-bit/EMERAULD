@@ -3,7 +3,6 @@ type: note
 title: Local Hardware and Discovery Snapshot — Laptop A
 aliases:
 - Local Hardware and Discovery Snapshot — Laptop A
-- wiki/Local Hardware and Discovery Snapshot — Laptop A
 tags:
 - hardware
 - discovery
@@ -11,7 +10,7 @@ tags:
 - pharos
 - wsl
 - note
-- wiki
+- archive
 - local-hardware-and-discovery-snapshot-laptop-a-md
 - laptop
 - loose
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-04-28'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Local Hardware and Discovery Snapshot — Laptop A.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A.md
 backlink_count: 15
 backlinks:
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'

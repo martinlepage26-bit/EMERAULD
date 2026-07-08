@@ -5,14 +5,13 @@ aliases:
 - Henry D Library intake 2026-04-26
 - D Library master reference intake
 - D Library — LIBRARY Intake Index (2026-04-26)
-- wiki/Library Master Reference Intake (2026-04-26)
 tags:
 - henry
 - intake
 - bibliography
 - master-reference
 - library
-- wiki
+- archive
 - library-master-reference-intake-2026-04-26-md
 - unreadable
 - converted
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Library Master Reference Intake (2026-04-26).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26).md
 backlink_count: 7
 backlinks:
 - '[[archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26)]]'

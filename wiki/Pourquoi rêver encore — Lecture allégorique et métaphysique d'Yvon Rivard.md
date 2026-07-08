@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
-- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
   Laval, 2010)]]'

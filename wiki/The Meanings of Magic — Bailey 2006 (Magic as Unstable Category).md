@@ -33,7 +33,7 @@ backlinks:
   Activism Switzerland)]]'
 - '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et
   française — Keck 2002 (Methodos)]]'
-- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'

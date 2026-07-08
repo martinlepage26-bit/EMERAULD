@@ -3,9 +3,8 @@ type: wiki
 title: Legitimacy Machines Altars of Control — Full Book Architecture
 aliases:
 - Legitimacy Machines Altars of Control — Full Book Architecture
-- wiki/Legitimacy Machines Altars of Control — Full Book Architecture
 tags:
-- wiki
+- areas
 - legitimacy-machines-altars-of-control-full-book-architecture-md
 - chapter
 - machines
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Legitimacy Machines Altars of Control — Full Book Architecture.md
+vault_area: Areas
+canonical_path: Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture.md
 backlink_count: 11
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'

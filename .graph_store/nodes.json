@@ -199,6 +199,20 @@
     "backlinks": 14
   },
   {
+    "id": "Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "title": "LegiPro Canada-QC — Compliance Evidence Service Plan",
+    "path": "Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "LegiPro",
+      "LegiPro Canada/QC"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 4,
+    "backlinks": 13
+  },
+  {
     "id": "Areas/PHAROS/2026-06-29 - idea-discovery",
     "title": "2026-06-29 - idea-discovery",
     "path": "Areas/PHAROS/2026-06-29 - idea-discovery.md",
@@ -1744,6 +1758,76 @@
     "backlinks": 17
   },
   {
+    "id": "Areas/PHAROS/Inner Mind Eye",
+    "title": "Inner Mind Eye",
+    "path": "Areas/PHAROS/Inner Mind Eye.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Inner Mind Eye"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 6,
+    "backlinks": 14
+  },
+  {
+    "id": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework",
+    "title": "Kickstart App Prompt — Template and Synthesis Framework",
+    "path": "Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Kickstart App Prompt — Template and Synthesis Framework"
+    ],
+    "outlinks": 26,
+    "unique_outlinks": 17,
+    "backlinks": 8
+  },
+  {
+    "id": "Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification",
+    "title": "LOTUS Agency Scoring App GPT — ChatGPT Product Specification",
+    "path": "Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "LOTUS Agency Scoring GPT",
+      "LOTUS App GPT",
+      "LOTUS ChatGPT Product"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 8,
+    "backlinks": 7
+  },
+  {
+    "id": "Areas/PHAROS/LOTUS Model — Agency and Social Positioning",
+    "title": "LOTUS Model — Agency and Social Positioning",
+    "path": "Areas/PHAROS/LOTUS Model — Agency and Social Positioning.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "LOTUS Model — Agency and Social Positioning"
+    ],
+    "outlinks": 21,
+    "unique_outlinks": 13,
+    "backlinks": 44
+  },
+  {
+    "id": "Areas/PHAROS/LOTUS Premium Spec",
+    "title": "LOTUS Premium Spec",
+    "path": "Areas/PHAROS/LOTUS Premium Spec.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Dr. Sort Premium Vision",
+      "LOTUS Dr. Sort product roadmap",
+      "LOTUS Premium Spec",
+      "LOTUS application spec"
+    ],
+    "outlinks": 29,
+    "unique_outlinks": 8,
+    "backlinks": 23
+  },
+  {
     "id": "Areas/PHAROS/MCP and Runtime Integration MOC",
     "title": "MCP and Runtime Integration MOC",
     "path": "Areas/PHAROS/MCP and Runtime Integration MOC.md",
@@ -2910,6 +2994,45 @@
     "backlinks": 6
   },
   {
+    "id": "Areas/Writing/La fréquence brisée du verbe — Roman",
+    "title": "La fréquence brisée du verbe — Roman",
+    "path": "Areas/Writing/La fréquence brisée du verbe — Roman.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "La fréquence brisée du verbe — Roman"
+    ],
+    "outlinks": 24,
+    "unique_outlinks": 15,
+    "backlinks": 12
+  },
+  {
+    "id": "Areas/Writing/Le sang qui porte ton nom — Novel",
+    "title": "Le sang qui porte ton nom — Novel",
+    "path": "Areas/Writing/Le sang qui porte ton nom — Novel.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Le sang qui porte ton nom — Novel"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 13,
+    "backlinks": 26
+  },
+  {
+    "id": "Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture",
+    "title": "Legitimacy Machines Altars of Control — Full Book Architecture",
+    "path": "Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Legitimacy Machines Altars of Control — Full Book Architecture"
+    ],
+    "outlinks": 27,
+    "unique_outlinks": 15,
+    "backlinks": 16
+  },
+  {
     "id": "Areas/Writing/Legitimacy Machines MOC",
     "title": "Legitimacy Machines MOC",
     "path": "Areas/Writing/Legitimacy Machines MOC.md",
@@ -2934,6 +3057,48 @@
     "outlinks": 23,
     "unique_outlinks": 13,
     "backlinks": 58
+  },
+  {
+    "id": "Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)",
+    "title": "Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)",
+    "path": "Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Les fées dansent autour du Mont-Royal",
+      "Les fées dansent sur le Mont-Royal",
+      "Magie et négociations queer chez les néo-païens de Montréal"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 7,
+    "backlinks": 16
+  },
+  {
+    "id": "Areas/Writing/Livre des Ombres — Martin's Magical System (1996-2026)",
+    "title": "Livre des Ombres — Martin's Magical System (1996-2026)",
+    "path": "Areas/Writing/Livre des Ombres — Martin's Magical System (1996-2026).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Book of Shadows",
+      "Livre des Ombres"
+    ],
+    "outlinks": 17,
+    "unique_outlinks": 12,
+    "backlinks": 19
+  },
+  {
+    "id": "Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist",
+    "title": "Loop Hinge Candidate — This Paper May Not Exist",
+    "path": "Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Loop Hinge Candidate — This Paper May Not Exist"
+    ],
+    "outlinks": 19,
+    "unique_outlinks": 9,
+    "backlinks": 14
   },
   {
     "id": "Areas/Writing/Loop Papers and Recursive Governance",
@@ -3819,63 +3984,6 @@
     "backlinks": 0
   },
   {
-    "id": "Inner Mind Eye",
-    "title": "Inner Mind Eye",
-    "path": "wiki/Inner Mind Eye.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Inner Mind Eye",
-      "wiki/Inner Mind Eye"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 6,
-    "backlinks": 14
-  },
-  {
-    "id": "Intelligence Definitions and AI Bias — 1956 Lecture",
-    "title": "Intelligence Definitions and AI Bias — 1956 Lecture",
-    "path": "wiki/Intelligence Definitions and AI Bias — 1956 Lecture.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Intelligence Definitions and AI Bias — 1956 Lecture",
-      "wiki/Intelligence Definitions and AI Bias — 1956 Lecture"
-    ],
-    "outlinks": 16,
-    "unique_outlinks": 10,
-    "backlinks": 9
-  },
-  {
-    "id": "Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)",
-    "title": "Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)",
-    "path": "wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Becci Grandjean 2022 eco-spiritual activism Switzerland",
-      "Is Sacred Nature Gendered or Queer (Religions 2022)",
-      "wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 9,
-    "backlinks": 11
-  },
-  {
-    "id": "Kickstart App Prompt — Template and Synthesis Framework",
-    "title": "Kickstart App Prompt — Template and Synthesis Framework",
-    "path": "wiki/Kickstart App Prompt — Template and Synthesis Framework.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Kickstart App Prompt — Template and Synthesis Framework",
-      "wiki/Kickstart App Prompt — Template and Synthesis Framework"
-    ],
-    "outlinks": 26,
-    "unique_outlinks": 17,
-    "backlinks": 8
-  },
-  {
     "id": "Knowledge Gaps",
     "title": "Knowledge Gaps",
     "path": "wiki/Knowledge Gaps.md",
@@ -3888,38 +3996,6 @@
     "outlinks": 0,
     "unique_outlinks": 0,
     "backlinks": 2
-  },
-  {
-    "id": "L99 PHAROS Migration Artifacts 2026-04-19",
-    "title": "L99 PHAROS Migration Artifacts 2026-04-19",
-    "path": "wiki/L99 PHAROS Migration Artifacts 2026-04-19.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "L99 Artifacts 2026-04-19",
-      "L99 PHAROS Migration",
-      "PR #4 Hardening Bundle",
-      "wiki/L99 PHAROS Migration Artifacts 2026-04-19"
-    ],
-    "outlinks": 32,
-    "unique_outlinks": 16,
-    "backlinks": 23
-  },
-  {
-    "id": "LOTUS Agency Scoring App GPT — ChatGPT Product Specification",
-    "title": "LOTUS Agency Scoring App GPT — ChatGPT Product Specification",
-    "path": "wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "LOTUS Agency Scoring GPT",
-      "LOTUS App GPT",
-      "LOTUS ChatGPT Product",
-      "wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 8,
-    "backlinks": 7
   },
   {
     "id": "LOTUS Model and Agency",
@@ -3936,80 +4012,6 @@
     "backlinks": 24
   },
   {
-    "id": "LOTUS Model — Agency and Social Positioning",
-    "title": "LOTUS Model — Agency and Social Positioning",
-    "path": "wiki/LOTUS Model — Agency and Social Positioning.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "LOTUS Model — Agency and Social Positioning",
-      "wiki/LOTUS Model — Agency and Social Positioning"
-    ],
-    "outlinks": 21,
-    "unique_outlinks": 13,
-    "backlinks": 44
-  },
-  {
-    "id": "LOTUS Premium Spec",
-    "title": "LOTUS Premium Spec",
-    "path": "wiki/LOTUS Premium Spec.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Dr. Sort Premium Vision",
-      "LOTUS Dr. Sort product roadmap",
-      "LOTUS Premium Spec",
-      "LOTUS application spec",
-      "wiki/LOTUS Premium Spec"
-    ],
-    "outlinks": 29,
-    "unique_outlinks": 8,
-    "backlinks": 23
-  },
-  {
-    "id": "La fréquence brisée du verbe — Roman",
-    "title": "La fréquence brisée du verbe — Roman",
-    "path": "wiki/La fréquence brisée du verbe — Roman.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "La fréquence brisée du verbe — Roman",
-      "wiki/La fréquence brisée du verbe — Roman"
-    ],
-    "outlinks": 24,
-    "unique_outlinks": 15,
-    "backlinks": 12
-  },
-  {
-    "id": "Le sang qui porte ton nom — Novel",
-    "title": "Le sang qui porte ton nom — Novel",
-    "path": "wiki/Le sang qui porte ton nom — Novel.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Le sang qui porte ton nom — Novel",
-      "wiki/Le sang qui porte ton nom — Novel"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 13,
-    "backlinks": 26
-  },
-  {
-    "id": "Learning Together for Responsible AI — ISED Public Awareness WG 2022",
-    "title": "Learning Together for Responsible AI — ISED Public Awareness WG 2022",
-    "path": "wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "ISED Public Awareness Working Group report 2022",
-      "Learning Together for Responsible AI (Canada)",
-      "wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 7,
-    "backlinks": 9
-  },
-  {
     "id": "Legal and Institutional Cases",
     "title": "Legal and Institutional Cases",
     "path": "wiki/Legal and Institutional Cases.md",
@@ -4022,82 +4024,6 @@
     "outlinks": 27,
     "unique_outlinks": 25,
     "backlinks": 22
-  },
-  {
-    "id": "LegiPro Canada-QC — Compliance Evidence Service Plan",
-    "title": "LegiPro Canada-QC — Compliance Evidence Service Plan",
-    "path": "wiki/LegiPro Canada-QC — Compliance Evidence Service Plan.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "LegiPro",
-      "LegiPro Canada/QC"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 4,
-    "backlinks": 13
-  },
-  {
-    "id": "Legitimacy Machines Altars of Control — Full Book Architecture",
-    "title": "Legitimacy Machines Altars of Control — Full Book Architecture",
-    "path": "wiki/Legitimacy Machines Altars of Control — Full Book Architecture.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Legitimacy Machines Altars of Control — Full Book Architecture",
-      "wiki/Legitimacy Machines Altars of Control — Full Book Architecture"
-    ],
-    "outlinks": 27,
-    "unique_outlinks": 15,
-    "backlinks": 16
-  },
-  {
-    "id": "Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)",
-    "title": "Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)",
-    "path": "wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Les fées dansent autour du Mont-Royal",
-      "Les fées dansent sur le Mont-Royal",
-      "Magie et négociations queer chez les néo-païens de Montréal",
-      "wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 7,
-    "backlinks": 16
-  },
-  {
-    "id": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "title": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
-    "path": "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Keck 2002 théories de la magie",
-      "Les théories de la magie — Keck 2002 (Methodos)",
-      "Methodos 2002 magie Keck",
-      "wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 5,
-    "backlinks": 10
-  },
-  {
-    "id": "Library Master Reference Intake (2026-04-26)",
-    "title": "Library Master Reference Intake (2026-04-26)",
-    "path": "wiki/Library Master Reference Intake (2026-04-26).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "D Library master reference intake",
-      "D Library — LIBRARY Intake Index (2026-04-26)",
-      "Henry D Library intake 2026-04-26",
-      "wiki/Library Master Reference Intake (2026-04-26)"
-    ],
-    "outlinks": 42,
-    "unique_outlinks": 42,
-    "backlinks": 29
   },
   {
     "id": "LightRAG — Graph-Based RAG System",
@@ -4114,66 +4040,6 @@
     "outlinks": 13,
     "unique_outlinks": 8,
     "backlinks": 33
-  },
-  {
-    "id": "Lily-of-the-Valley and EML — Reconstruction from Minimal Elements",
-    "title": "Lily-of-the-Valley and EML — Reconstruction from Minimal Elements",
-    "path": "wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Muguet and EML",
-      "lily-of-the-valley reconstruction",
-      "living reconstruction",
-      "mute flower and EML",
-      "wiki/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 7,
-    "backlinks": 20
-  },
-  {
-    "id": "Livre des Ombres — Martin's Magical System (1996-2026)",
-    "title": "Livre des Ombres — Martin's Magical System (1996-2026)",
-    "path": "wiki/Livre des Ombres — Martin's Magical System (1996-2026).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Book of Shadows",
-      "Livre des Ombres",
-      "wiki/Livre des Ombres — Martin's Magical System (1996-2026)"
-    ],
-    "outlinks": 17,
-    "unique_outlinks": 12,
-    "backlinks": 19
-  },
-  {
-    "id": "Local Hardware and Discovery Snapshot — Laptop A",
-    "title": "Local Hardware and Discovery Snapshot — Laptop A",
-    "path": "wiki/Local Hardware and Discovery Snapshot — Laptop A.md",
-    "type": "note",
-    "status": "active",
-    "aliases": [
-      "Local Hardware and Discovery Snapshot — Laptop A",
-      "wiki/Local Hardware and Discovery Snapshot — Laptop A"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 9,
-    "backlinks": 18
-  },
-  {
-    "id": "Loop Hinge Candidate — This Paper May Not Exist",
-    "title": "Loop Hinge Candidate — This Paper May Not Exist",
-    "path": "wiki/Loop Hinge Candidate — This Paper May Not Exist.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Loop Hinge Candidate — This Paper May Not Exist",
-      "wiki/Loop Hinge Candidate — This Paper May Not Exist"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 9,
-    "backlinks": 14
   },
   {
     "id": "L’esprit du don — Godbout & Caillé (1992)",
@@ -6855,6 +6721,33 @@
     "backlinks": 9
   },
   {
+    "id": "Resources/Intelligence Definitions and AI Bias — 1956 Lecture",
+    "title": "Intelligence Definitions and AI Bias — 1956 Lecture",
+    "path": "Resources/Intelligence Definitions and AI Bias — 1956 Lecture.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Intelligence Definitions and AI Bias — 1956 Lecture"
+    ],
+    "outlinks": 16,
+    "unique_outlinks": 10,
+    "backlinks": 9
+  },
+  {
+    "id": "Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)",
+    "title": "Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)",
+    "path": "Resources/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Becci Grandjean 2022 eco-spiritual activism Switzerland",
+      "Is Sacred Nature Gendered or Queer (Religions 2022)"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 9,
+    "backlinks": 11
+  },
+  {
     "id": "Resources/Le Mythe de Sisyphe — Camus (Absurd as Starting Point)",
     "title": "Le Mythe de Sisyphe — Camus (Absurd as Starting Point)",
     "path": "Resources/Le Mythe de Sisyphe — Camus (Absurd as Starting Point).md",
@@ -6867,6 +6760,51 @@
     "outlinks": 3,
     "unique_outlinks": 2,
     "backlinks": 9
+  },
+  {
+    "id": "Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022",
+    "title": "Learning Together for Responsible AI — ISED Public Awareness WG 2022",
+    "path": "Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "ISED Public Awareness Working Group report 2022",
+      "Learning Together for Responsible AI (Canada)"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 7,
+    "backlinks": 9
+  },
+  {
+    "id": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "title": "Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)",
+    "path": "Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Keck 2002 théories de la magie",
+      "Les théories de la magie — Keck 2002 (Methodos)",
+      "Methodos 2002 magie Keck"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 5,
+    "backlinks": 10
+  },
+  {
+    "id": "Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements",
+    "title": "Lily-of-the-Valley and EML — Reconstruction from Minimal Elements",
+    "path": "Resources/Lily-of-the-Valley and EML — Reconstruction from Minimal Elements.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Muguet and EML",
+      "lily-of-the-valley reconstruction",
+      "living reconstruction",
+      "mute flower and EML"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 7,
+    "backlinks": 20
   },
   {
     "id": "Resources/Literary References in Common English — Allusion and Idiom Guide",
@@ -9652,6 +9590,49 @@
     "outlinks": 13,
     "unique_outlinks": 5,
     "backlinks": 35
+  },
+  {
+    "id": "archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19",
+    "title": "L99 PHAROS Migration Artifacts 2026-04-19",
+    "path": "archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "L99 Artifacts 2026-04-19",
+      "L99 PHAROS Migration",
+      "PR #4 Hardening Bundle"
+    ],
+    "outlinks": 32,
+    "unique_outlinks": 16,
+    "backlinks": 23
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)",
+    "title": "Library Master Reference Intake (2026-04-26)",
+    "path": "archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "D Library master reference intake",
+      "D Library — LIBRARY Intake Index (2026-04-26)",
+      "Henry D Library intake 2026-04-26"
+    ],
+    "outlinks": 42,
+    "unique_outlinks": 42,
+    "backlinks": 29
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A",
+    "title": "Local Hardware and Discovery Snapshot — Laptop A",
+    "path": "archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A.md",
+    "type": "note",
+    "status": "active",
+    "aliases": [
+      "Local Hardware and Discovery Snapshot — Laptop A"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 9,
+    "backlinks": 18
   },
   {
     "id": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",

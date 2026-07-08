@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
-- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/LightRAG — Graph-Based RAG System]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Obsidian Agent Vault Launch — Commercial Skill]]'

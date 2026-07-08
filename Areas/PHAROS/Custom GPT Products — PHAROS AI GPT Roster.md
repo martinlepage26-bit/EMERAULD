@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification]]'
 - '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
-- '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
+- '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/PHAROS Product Stack]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

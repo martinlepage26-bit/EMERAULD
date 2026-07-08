@@ -48,7 +48,7 @@ backlinks:
 - '[[Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
-- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Obsidian Second Brain Product]]'
 - '[[wiki/Operator Continuity Memo — 2026-05-14]]'

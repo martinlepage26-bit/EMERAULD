@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[wiki/Home]]'
-- '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'
+- '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[wiki/PAPER BUILDER — Source Bundle and HENRY Origin]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'

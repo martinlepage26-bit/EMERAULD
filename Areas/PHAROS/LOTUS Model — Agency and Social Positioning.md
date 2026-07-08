@@ -3,9 +3,8 @@ type: wiki
 title: LOTUS Model — Agency and Social Positioning
 aliases:
 - LOTUS Model — Agency and Social Positioning
-- wiki/LOTUS Model — Agency and Social Positioning
 tags:
-- wiki
+- areas
 - lotus-model-agency-and-social-positioning-md
 - lotus
 - agency
@@ -16,14 +15,13 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/LOTUS Model — Agency and Social Positioning.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/LOTUS Model — Agency and Social Positioning.md
 backlink_count: 25
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
-  Explanation)]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
 - '[[Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026]]'
@@ -31,18 +29,16 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Resources/Halberstam — The Queer Art of Failure (2011)]]'
 - '[[wiki/Home]]'
-- '[[wiki/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
+- '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
 - '[[wiki/LOTUS Model and Agency]]'
-- '[[wiki/LOTUS Premium Spec]]'
+- '[[Areas/PHAROS/LOTUS Premium Spec]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Martin Walks the Witches'' Road — Corpus as Charge-Persistence]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
-  2024]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
 - '[[wiki/Portfolio Restructuring Review — March 2026]]'
 - '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'

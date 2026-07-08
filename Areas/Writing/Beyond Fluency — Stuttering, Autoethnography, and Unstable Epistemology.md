@@ -29,7 +29,7 @@ backlinks:
 - '[[wiki/Fluency and Interruption Theory]]'
 - '[[wiki/Home]]'
 - '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
-- '[[wiki/La fréquence brisée du verbe — Roman]]'
+- '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[wiki/Master Project Tracker — 2026]]'

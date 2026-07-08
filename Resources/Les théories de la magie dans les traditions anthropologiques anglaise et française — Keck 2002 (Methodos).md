@@ -1,13 +1,10 @@
 ---
 type: wiki
-title: Les théories de la magie dans les traditions anthropologiques anglaise et française
-  — Keck 2002 (Methodos)
+title: Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)
 aliases:
 - Keck 2002 théories de la magie
 - Methodos 2002 magie Keck
 - Les théories de la magie — Keck 2002 (Methodos)
-- wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française
-  — Keck 2002 (Methodos)
 tags:
 - reference
 - magic
@@ -20,7 +17,7 @@ tags:
 - evans-pritchard
 - mauss
 - levi-strauss
-- wiki
+- resources
 - les-th-ories-de-la-magie-dans-les-traditions-anthropologiques-anglaise-et-fran-aise-keck-2002-methodos-md
 - methodos
 - finance
@@ -31,13 +28,12 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Les théories de la magie dans les traditions anthropologiques
-  anglaise et française — Keck 2002 (Methodos).md
+vault_area: Resources
+canonical_path: Resources/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos).md
 backlink_count: 7
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
-- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

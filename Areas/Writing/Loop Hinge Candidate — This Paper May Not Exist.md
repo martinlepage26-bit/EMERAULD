@@ -3,9 +3,8 @@ type: wiki
 title: Loop Hinge Candidate — This Paper May Not Exist
 aliases:
 - Loop Hinge Candidate — This Paper May Not Exist
-- wiki/Loop Hinge Candidate — This Paper May Not Exist
 tags:
-- wiki
+- areas
 - paper
 - loop-hinge-candidate-this-paper-may-not-exist-md
 - hinge
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Loop Hinge Candidate — This Paper May Not Exist.md
+vault_area: Areas
+canonical_path: Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist.md
 backlink_count: 8
 backlinks:
 - '[[Resources/Evidence Discipline and Epistemics]]'

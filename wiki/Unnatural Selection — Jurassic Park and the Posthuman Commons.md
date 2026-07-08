@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure]]'
 - '[[wiki/Home]]'
-- '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
+- '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture]]'
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'

@@ -3,9 +3,8 @@ type: wiki
 title: La fréquence brisée du verbe — Roman
 aliases:
 - La fréquence brisée du verbe — Roman
-- wiki/La fréquence brisée du verbe — Roman
 tags:
-- wiki
+- areas
 - novel
 - la-fr-quence-bris-e-du-verbe-roman-md
 - silence
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/La fréquence brisée du verbe — Roman.md
+vault_area: Areas
+canonical_path: Areas/Writing/La fréquence brisée du verbe — Roman.md
 backlink_count: 7
 backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'

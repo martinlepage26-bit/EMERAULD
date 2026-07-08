@@ -30,7 +30,7 @@ backlinks:
 - '[[Resources/Big Data’s Disparate Impact — Barocas & Selbst 2016 (Title VII, data mining)]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/Reddit Data API — Access Terms and Rate Limits]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'

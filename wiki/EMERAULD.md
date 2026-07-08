@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Fisher King Hub — Project Recovery Map]]'
 - '[[wiki/Healing the Fisher King — Percephal Diagnostic Protocol]]'
-- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]'
 - '[[wiki/Rest and Consolidation Guide — Martin]]'

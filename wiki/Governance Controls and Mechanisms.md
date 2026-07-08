@@ -50,7 +50,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
-- '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
+- '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/Machine Limitation]]'
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'

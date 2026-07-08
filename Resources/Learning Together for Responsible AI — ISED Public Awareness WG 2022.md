@@ -4,7 +4,6 @@ title: Learning Together for Responsible AI — ISED Public Awareness WG 2022
 aliases:
 - Learning Together for Responsible AI (Canada)
 - ISED Public Awareness Working Group report 2022
-- wiki/Learning Together for Responsible AI — ISED Public Awareness WG 2022
 tags:
 - reference
 - ai-governance
@@ -13,7 +12,7 @@ tags:
 - public-awareness
 - policy
 - report
-- wiki
+- resources
 - learning-together-for-responsible-ai-ised-public-awareness-wg-2022-md
 - literacy
 - nist
@@ -23,15 +22,14 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Learning Together for Responsible AI — ISED Public Awareness
-  WG 2022.md
+vault_area: Resources
+canonical_path: Resources/Learning Together for Responsible AI — ISED Public Awareness WG 2022.md
 backlink_count: 7
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Library Master Reference Intake (2026-04-26)]]'
+- '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[wiki/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
