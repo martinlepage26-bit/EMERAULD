@@ -58,7 +58,7 @@ backlinks:
 - '[[wiki/Master Reference Bridge Atlas — 2026-05-06]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[wiki/Novel and Creative Corpus]]'
-- '[[wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
+- '[[Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)]]'
 - '[[wiki/Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]'
 - '[[wiki/Qualitative Handbook — Expanded Reference List]]'
 - '[[Resources/Queer Religiosities — Wilcox (Queer and Transgender Studies in Religion)]]'

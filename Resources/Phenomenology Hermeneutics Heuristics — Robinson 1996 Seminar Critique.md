@@ -5,7 +5,6 @@ aliases:
 - Robinson seminar evaluation
 - Phenom-Herme-Heuri critique
 - Moustakas heuristics critique
-- wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique
 tags:
 - qualitative-research
 - phenomenology
@@ -18,7 +17,7 @@ tags:
 - gadamer
 - ricoeur
 - giorgi
-- wiki
+- resources
 - phenomenology-hermeneutics-heuristics-robinson-1996-seminar-critique-md
 - robinson
 - heuristic
@@ -27,9 +26,8 @@ tags:
 status: active
 created: '2026-04-20'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar
-  Critique.md
+vault_area: Resources
+canonical_path: Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique.md
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'

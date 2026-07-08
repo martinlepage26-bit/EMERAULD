@@ -6,14 +6,13 @@ aliases:
 - debate runbook
 - red-team
 - five-lane review
-- wiki/PROTOCOLS — Debate and Red-Team Runbook
 tags:
 - governance
 - red-team
 - debate
 - hephaistos
 - review-process
-- wiki
+- areas
 - protocols-debate-and-red-team-runbook-md
 - lane
 - protocols
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PROTOCOLS — Debate and Red-Team Runbook.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook.md
 backlink_count: 15
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'

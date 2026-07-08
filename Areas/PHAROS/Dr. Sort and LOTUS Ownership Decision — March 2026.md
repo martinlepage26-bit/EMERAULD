@@ -36,7 +36,7 @@ backlinks:
 - '[[Areas/PHAROS/LOTUS Premium Spec]]'
 - '[[wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
-- '[[wiki/Portfolio Restructuring Review — March 2026]]'
+- '[[archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026]]'
 - '[[memory/daily/2026-06-22]]'
 - '[[memory/daily/2026-06-23]]'
 - '[[memory/daily/2026-06-24]]'

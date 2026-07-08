@@ -4,14 +4,13 @@ title: Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)
 aliases:
 - Prompt log intake
 - Retrieval discipline and Compta critique
-- wiki/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)
 tags:
 - prompt-log
 - evidence-discipline
 - compta
 - infrafabric
 - raw-sources
-- wiki
+- archive
 - prompt-logs-retrieval-discipline-and-compta-critique-2026-05-06-md
 - downloads
 - prompt
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06).md
 backlink_count: 6
 backlinks:
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'

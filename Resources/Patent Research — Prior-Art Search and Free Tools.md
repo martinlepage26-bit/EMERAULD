@@ -6,7 +6,6 @@ aliases:
 - Prior art search
 - AI governance patent search
 - Free patent prior-art tools
-- wiki/Patent Research — Prior-Art Search and Free Tools
 tags:
 - patents
 - prior-art
@@ -14,7 +13,7 @@ tags:
 - research
 - ai-governance
 - pharos
-- wiki
+- resources
 - patent-research-prior-art-search-and-free-tools-md
 - patent
 - espacenet
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-05-08'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Patent Research — Prior-Art Search and Free Tools.md
+vault_area: Resources
+canonical_path: Resources/Patent Research — Prior-Art Search and Free Tools.md
 backlink_count: 6
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'

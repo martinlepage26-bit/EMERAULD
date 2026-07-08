@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
+- '[[Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/clients/helix-prospects/HELIX-potential-clients-2026-05-06/2026-05-05_koïos-intelligence]]'
 - '[[memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_solace-platform-solace]]'

@@ -35,7 +35,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
-- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[maps/PHAROS Method Map]]'

@@ -4,14 +4,13 @@ title: Publisher Assessment — Literary Idioms and Phrase-Origin Book
 aliases:
 - Literary Idioms Book
 - Phrase Origin Book Assessment
-- wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book
 tags:
 - publishing
 - editorial
 - popular-nonfiction
 - etymology
 - writing-projects
-- wiki
+- areas
 - publisher-assessment-literary-idioms-and-phrase-origin-book-md
 - nautical
 - phrase
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-05-04'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book.md
+vault_area: Areas
+canonical_path: Areas/Writing/Publisher Assessment — Literary Idioms and Phrase-Origin Book.md
 backlink_count: 11
 backlinks:
 - '[[Resources/Literary References in Common English — Allusion and Idiom Guide]]'

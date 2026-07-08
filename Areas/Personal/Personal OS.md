@@ -3,11 +3,10 @@ type: hub
 title: Personal OS
 aliases:
 - Personal OS
-- wiki/Personal OS
 tags:
 - hub
 - os
-- wiki
+- areas
 - personal-os-md
 - lazy
 - priorities
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Personal OS.md
+vault_area: Areas
+canonical_path: Areas/Personal/Personal OS.md
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'

@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Paper Planes — M.I.A. — Lyrics]]'
+- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
 - '[[wiki/Qualitative Handbook — Expanded Reference List]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'

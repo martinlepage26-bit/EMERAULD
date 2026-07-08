@@ -4,7 +4,6 @@ title: Paper Planes — M.I.A. — Lyrics
 aliases:
 - Paper Planes lyrics
 - MIA Paper Planes
-- wiki/Paper Planes — M.I.A. — Lyrics
 tags:
 - music
 - lyrics
@@ -13,7 +12,7 @@ tags:
 - diaspora
 - globalization
 - postcolonial
-- wiki
+- resources
 - paper-planes-m-i-a-lyrics-md
 - wanna
 - take
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Paper Planes — M.I.A. — Lyrics.md
+vault_area: Resources
+canonical_path: Resources/Paper Planes — M.I.A. — Lyrics.md
 backlink_count: 10
 backlinks:
 - '[[Resources/Disease — Lady Gaga — Lyrics]]'

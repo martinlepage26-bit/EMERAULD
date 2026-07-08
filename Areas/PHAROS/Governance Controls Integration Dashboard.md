@@ -34,7 +34,7 @@ backlinks:
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Resources/Plugin Recommendations]]'
-- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[wiki/Supersession Registry]]'

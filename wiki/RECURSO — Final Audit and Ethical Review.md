@@ -56,7 +56,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
+- '[[Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'
 - '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'

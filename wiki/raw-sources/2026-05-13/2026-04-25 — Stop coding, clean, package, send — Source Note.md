@@ -49,7 +49,7 @@ source_report: raw/intake-report-20260513.json
 - Triage lane: operator/workflow draft capture.
 
 ## Related
-- [[wiki/Posture vs Execution Drift — The Practice of Refusal.md]]
+- [[Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal]]
 ## Cluster Links
 - [[Source Cluster — 2026-05-13 Client and Operator Continuity]]
 - [[Source Cluster Map — 2026-05-13 Raw Sources]]

@@ -34,7 +34,7 @@ backlinks:
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[Areas/Writing/Martin Voice Spec — Version Genealogy]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[wiki/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/genealogy/Martin Voice Spec — Version Genealogy]]'

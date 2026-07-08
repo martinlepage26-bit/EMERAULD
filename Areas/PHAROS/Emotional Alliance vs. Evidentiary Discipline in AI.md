@@ -45,7 +45,7 @@ backlinks:
 - '[[Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
 - '[[Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture]]'
-- '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
+- '[[Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[Resources/Recursive Governance Theory]]'

@@ -4,7 +4,6 @@ title: Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)
 aliases:
 - Nissenbaum — Contextual Integrity
 - Privacy as Contextual Integrity (2004)
-- wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)
 tags:
 - reference
 - privacy
@@ -12,7 +11,7 @@ tags:
 - law
 - surveillance
 - contextual-integrity
-- wiki
+- resources
 - privacy-as-contextual-integrity-nissenbaum-2004-public-surveillance-md
 - contextual
 - norms
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance).md
+vault_area: Resources
+canonical_path: Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance).md
 backlink_count: 11
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

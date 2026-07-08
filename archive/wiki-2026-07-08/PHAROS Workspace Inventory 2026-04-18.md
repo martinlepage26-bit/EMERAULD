@@ -3,14 +3,13 @@ type: wiki
 title: PHAROS Workspace Inventory 2026-04-18
 aliases:
 - PHAROS Workspace Inventory 2026-04-18
-- wiki/PHAROS Workspace Inventory 2026-04-18
 tags:
 - project-management
 - inventory
 - cleanup
 - shipping
 - workspace
-- wiki
+- archive
 - pharos-workspace-inventory-2026-04-18-md
 - ship
 - autoresearchclaw
@@ -20,8 +19,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/PHAROS Workspace Inventory 2026-04-18.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18.md
 backlink_count: 13
 backlinks:
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'

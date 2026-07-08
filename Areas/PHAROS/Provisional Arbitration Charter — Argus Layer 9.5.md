@@ -3,7 +3,6 @@ type: note
 title: Provisional Arbitration Charter — Argus Layer 9.5
 aliases:
 - Provisional Arbitration Charter — Argus Layer 9.5
-- wiki/Provisional Arbitration Charter — Argus Layer 9.5
 tags:
 - pharos
 - governance
@@ -11,7 +10,7 @@ tags:
 - argus
 - authority-chain
 - note
-- wiki
+- areas
 - provisional-arbitration-charter-argus-layer-9-5-md
 - charter
 - provisional
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-04-28'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Provisional Arbitration Charter — Argus Layer 9.5.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5.md
 backlink_count: 21
 backlinks:
 - '[[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]]'

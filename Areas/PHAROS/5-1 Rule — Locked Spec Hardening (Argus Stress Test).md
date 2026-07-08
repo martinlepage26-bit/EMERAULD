@@ -27,7 +27,7 @@ backlinks:
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
-- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

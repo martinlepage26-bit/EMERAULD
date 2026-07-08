@@ -3,9 +3,8 @@ type: wiki
 title: Prologue I Saw Willow Rise — Legitimacy Machines Opening
 aliases:
 - Prologue I Saw Willow Rise — Legitimacy Machines Opening
-- wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening
 tags:
-- wiki
+- areas
 - prologue-i-saw-willow-rise-legitimacy-machines-opening-md
 - prologue
 - willow
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md
+vault_area: Areas
+canonical_path: Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md
 backlink_count: 8
 backlinks:
 - '[[Areas/Writing/HEXA Press — Publishing and Practice Initiative]]'

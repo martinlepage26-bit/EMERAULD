@@ -29,7 +29,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
-- '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'

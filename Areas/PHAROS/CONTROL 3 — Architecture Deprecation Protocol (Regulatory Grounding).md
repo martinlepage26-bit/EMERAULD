@@ -37,7 +37,7 @@ backlinks:
 - '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'
 - '[[wiki/Supersession Registry]]'
 - '[[archive/session-state/session-state-001]]'

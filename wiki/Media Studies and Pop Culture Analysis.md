@@ -43,7 +43,7 @@ backlinks:
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Paper Planes — M.I.A. — Lyrics]]'
+- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[wiki/Reboot — Performance, Gender, and Computing of Identity]]'

@@ -4,7 +4,6 @@ title: Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)
 aliases:
 - Paganisme(s) queer
 - Religion et sexualité (REL2614) — Paganisme(s) queer
-- wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)
 tags:
 - reference
 - paganism
@@ -14,7 +13,7 @@ tags:
 - ritual
 - uqam
 - teaching
-- wiki
+- areas
 - paganisme-s-queer-lepage-uqam-rel2614-genre-et-wicca-md
 - paganisme
 - binarity
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca).md
+vault_area: Areas
+canonical_path: Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca).md
 backlink_count: 5
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

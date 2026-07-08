@@ -8,7 +8,6 @@ aliases:
 - capstone paper
 - Paper 25 — The Pharos Frame (Draft 2026-04-23)
 - 'Paper 25 — The Pharos Frame: Four Levels Where Ethics Becomes AI Governance'
-- wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance
 tags:
 - pharos
 - paper-25
@@ -17,7 +16,7 @@ tags:
 - ready-for-submission
 - the-pharos-frame
 - four-levels
-- wiki
+- areas
 - paper-25-the-pharos-frame-four-levels-where-ethics-becomes-ai-governance-md
 - mechanism
 - frame
@@ -27,15 +26,13 @@ tags:
 status: ready-for-submission
 created: '2026-04-23'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes
-  AI Governance.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md
 backlink_count: 16
 backlinks:
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/PHAROS/Argus]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
-  Explanation)]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
 - '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
@@ -44,8 +41,7 @@ backlinks:
 - '[[Resources/NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]'
 - '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[wiki/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
-- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
-  vs Reclaiming)]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-04-23]]'

@@ -1,6 +1,6 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:37:37Z
+Built: 2026-07-08T05:37:38Z
 Corpus: wiki/**/*.md
 
 ## Summary
@@ -202,6 +202,7 @@ Corpus: wiki/**/*.md
 
 ### Two backlink (367)
 - [[Agent Logs Hub]]
+- [[Areas/Personal/Personal OS]]
 - [[Daily Dashboard]]
 - [[Home]]
 - [[Knowledge Gaps]]
@@ -249,7 +250,6 @@ Corpus: wiki/**/*.md
 - [[PEER-REVIEW/NODE_INSTRUCTIONS]]
 - [[PEER-REVIEW/PROJECT_INSTRUCTION]]
 - [[PEER-REVIEW/README]]
-- [[Personal OS]]
 - [[Philosopher]]
 - [[Projects Hub]]
 - [[Publications/BOOKS/essay_identity_enforceable]]

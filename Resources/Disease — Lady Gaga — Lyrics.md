@@ -26,7 +26,7 @@ canonical_path: Resources/Disease — Lady Gaga — Lyrics.md
 backlink_count: 9
 backlinks:
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Paper Planes — M.I.A. — Lyrics]]'
+- '[[Resources/Paper Planes — M.I.A. — Lyrics]]'
 - '[[wiki/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'

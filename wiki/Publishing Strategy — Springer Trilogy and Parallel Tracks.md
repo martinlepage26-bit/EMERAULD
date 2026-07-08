@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
+- '[[Areas/Writing/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

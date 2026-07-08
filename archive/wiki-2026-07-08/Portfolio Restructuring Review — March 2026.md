@@ -5,7 +5,6 @@ aliases:
 - PORTFOLIO_REVIEW_MEMO_2026-03-14
 - Portfolio review memo March 2026
 - Portfolio restructuring adversarial review
-- wiki/Portfolio Restructuring Review — March 2026
 tags:
 - project-decision
 - portfolio
@@ -14,7 +13,7 @@ tags:
 - govern-ai
 - governess
 - lotus
-- wiki
+- archive
 - portfolio-restructuring-review-march-2026-md
 - ownership
 - sort
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-05-03'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Portfolio Restructuring Review — March 2026.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026.md
 backlink_count: 13
 backlinks:
 - '[[archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle]]'

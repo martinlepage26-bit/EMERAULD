@@ -23,7 +23,7 @@ backlink_count: 6
 backlinks:
 - '[[.github/agents/hephaistos.agent]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/PROTOCOLS — Debate and Red-Team Runbook]]'
+- '[[Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook]]'
 - '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/global/HEPHAISTOS-STATUS]]'
 - '[[governance/hephaistos/hephaistos-to-queen-keyport]]'

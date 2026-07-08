@@ -2420,6 +2420,71 @@
     "source_path": "Areas/PHAROS/PHAROS — Origin and Doctrine.md"
   },
   {
+    "source": "Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook",
+    "target": "Agent Rook Full Explainer v1.4 (IF-2308 Air-Gap Autonomous Hardening)",
+    "source_path": "Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook.md"
+  },
+  {
+    "source": "Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook",
+    "target": "IF-2086 - Debate Structure and Triple Red-Team Optimization Whitepaper (v1.2)",
+    "source_path": "Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook.md"
+  },
+  {
+    "source": "Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
+    "target": "2009 - JourNal of",
+    "source_path": "Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md"
+  },
+  {
+    "source": "Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
+    "target": "2025 - https lthj.qut.edu.au LAW, TECHNOLOGY AND HUMANS.pdf - 2025 - h - 2025 - https lthj.qut.edu.a",
+    "source_path": "Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md"
+  },
+  {
+    "source": "Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
+    "target": "Regulating human control over autonomous systems",
+    "source_path": "Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md"
+  },
+  {
+    "source": "Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
+    "target": "Turing AI Ethics and Governance",
+    "source_path": "Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md"
+  },
+  {
+    "source": "Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
+    "target": "Misfit as Method Ten Diagnostic Scenes of Institut",
+    "source_path": "Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md"
+  },
+  {
+    "source": "Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society)",
+    "target": "2026 - Annotated_Reviewer_Comments",
+    "source_path": "Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society).md"
+  },
+  {
+    "source": "Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society)",
+    "target": "PEER_REVIEW_Recursive_AI_Governance_AI-Society",
+    "source_path": "Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society).md"
+  },
+  {
+    "source": "Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5",
+    "target": "Provisional Arbitration Charter — v1.0",
+    "source_path": "Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5.md"
+  },
+  {
+    "source": "Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5",
+    "target": "Provisional Arbitration Charter — v1.1",
+    "source_path": "Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5.md"
+  },
+  {
+    "source": "Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5",
+    "target": "provisional-arbitration-charter-v1.1",
+    "source_path": "Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5.md"
+  },
+  {
+    "source": "Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5",
+    "target": "provisional-arbitration-charter",
+    "source_path": "Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5.md"
+  },
+  {
     "source": "Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)",
     "target": "RAGE-dep-report",
     "source_path": "Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md"
@@ -2598,6 +2663,11 @@
     "source": "Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis",
     "target": "2025 - report_3",
     "source_path": "Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis.md"
+  },
+  {
+    "source": "Areas/Personal/Personal OS",
+    "target": "Lazy Obsidian Method",
+    "source_path": "Areas/Personal/Personal OS.md"
   },
   {
     "source": "Areas/Personal/Personal and Projects MOC",
@@ -3868,6 +3938,11 @@
     "source": "Areas/Writing/Pagan and Queer Ritual Studies MOC",
     "target": "HISTORY",
     "source_path": "Areas/Writing/Pagan and Queer Ritual Studies MOC.md"
+  },
+  {
+    "source": "Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening",
+    "target": "2026 - Coach House Books",
+    "source_path": "Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md"
   },
   {
     "source": "Areas/Writing/Recursive Deterministic AI Governance — Method and Paper",
@@ -7075,9 +7150,34 @@
     "source_path": "Resources/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024.md"
   },
   {
+    "source": "Resources/Paper Planes — M.I.A. — Lyrics",
+    "target": "MIA PAPERS PLANES lyrics",
+    "source_path": "Resources/Paper Planes — M.I.A. — Lyrics.md"
+  },
+  {
+    "source": "Resources/Patent Research — Prior-Art Search and Free Tools",
+    "target": "00_Inbox/Raw/2026-05-06 — Patent agent email — provisional application contract + notes",
+    "source_path": "Resources/Patent Research — Prior-Art Search and Free Tools.md"
+  },
+  {
+    "source": "Resources/Patent Research — Prior-Art Search and Free Tools",
+    "target": "Using pgvector, LLMs and LangChain with...le Cloud databases _ Google Cloud Blog",
+    "source_path": "Resources/Patent Research — Prior-Art Search and Free Tools.md"
+  },
+  {
+    "source": "Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique",
+    "target": "THE MAIN HYPOTHESIS AND ITS RIVALS",
+    "source_path": "Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique.md"
+  },
+  {
     "source": "Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)",
     "target": "Power in International Politics",
     "source_path": "Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy).md"
+  },
+  {
+    "source": "Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)",
+    "target": "2004 - Privacy as Contextual Integrity",
+    "source_path": "Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance).md"
   },
   {
     "source": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
@@ -7408,6 +7508,11 @@
     "source": "archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine",
     "target": "PHAROS_LinkedIn_Monthly_Routine_2026-04",
     "source_path": "archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine.md"
+  },
+  {
+    "source": "archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18",
+    "target": "PHAROS-SUITE",
+    "source_path": "archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18.md"
   },
   {
     "source": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",
@@ -9495,84 +9600,9 @@
     "source_path": "wiki/PERPLEXITY-COMPUTER.md"
   },
   {
-    "source": "PHAROS Workspace Inventory 2026-04-18",
-    "target": "PHAROS-SUITE",
-    "source_path": "wiki/PHAROS Workspace Inventory 2026-04-18.md"
-  },
-  {
     "source": "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
     "target": "BELGIAN OFFICE FOR SCIENTIFIC, TECHNICAL AND CULTURAL AFFAIRS",
     "source_path": "wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19.md"
-  },
-  {
-    "source": "PROTOCOLS — Debate and Red-Team Runbook",
-    "target": "Agent Rook Full Explainer v1.4 (IF-2308 Air-Gap Autonomous Hardening)",
-    "source_path": "wiki/PROTOCOLS — Debate and Red-Team Runbook.md"
-  },
-  {
-    "source": "PROTOCOLS — Debate and Red-Team Runbook",
-    "target": "IF-2086 - Debate Structure and Triple Red-Team Optimization Whitepaper (v1.2)",
-    "source_path": "wiki/PROTOCOLS — Debate and Red-Team Runbook.md"
-  },
-  {
-    "source": "Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
-    "target": "2009 - JourNal of",
-    "source_path": "wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md"
-  },
-  {
-    "source": "Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
-    "target": "2025 - https lthj.qut.edu.au LAW, TECHNOLOGY AND HUMANS.pdf - 2025 - h - 2025 - https lthj.qut.edu.a",
-    "source_path": "wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md"
-  },
-  {
-    "source": "Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
-    "target": "Regulating human control over autonomous systems",
-    "source_path": "wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md"
-  },
-  {
-    "source": "Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
-    "target": "Turing AI Ethics and Governance",
-    "source_path": "wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md"
-  },
-  {
-    "source": "Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
-    "target": "Misfit as Method Ten Diagnostic Scenes of Institut",
-    "source_path": "wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md"
-  },
-  {
-    "source": "Paper Planes — M.I.A. — Lyrics",
-    "target": "MIA PAPERS PLANES lyrics",
-    "source_path": "wiki/Paper Planes — M.I.A. — Lyrics.md"
-  },
-  {
-    "source": "Patent Research — Prior-Art Search and Free Tools",
-    "target": "00_Inbox/Raw/2026-05-06 — Patent agent email — provisional application contract + notes",
-    "source_path": "wiki/Patent Research — Prior-Art Search and Free Tools.md"
-  },
-  {
-    "source": "Patent Research — Prior-Art Search and Free Tools",
-    "target": "Using pgvector, LLMs and LangChain with...le Cloud databases _ Google Cloud Blog",
-    "source_path": "wiki/Patent Research — Prior-Art Search and Free Tools.md"
-  },
-  {
-    "source": "Peer Review — Recursive AI Governance as Executable Method (AI & Society)",
-    "target": "2026 - Annotated_Reviewer_Comments",
-    "source_path": "wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society).md"
-  },
-  {
-    "source": "Peer Review — Recursive AI Governance as Executable Method (AI & Society)",
-    "target": "PEER_REVIEW_Recursive_AI_Governance_AI-Society",
-    "source_path": "wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society).md"
-  },
-  {
-    "source": "Personal OS",
-    "target": "Lazy Obsidian Method",
-    "source_path": "wiki/Personal OS.md"
-  },
-  {
-    "source": "Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique",
-    "target": "THE MAIN HYPOTHESIS AND ITS RIVALS",
-    "source_path": "wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique.md"
   },
   {
     "source": "Poiesis Poietics Poetics Praxis — Making and Action Distinctions",
@@ -9580,39 +9610,9 @@
     "source_path": "wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions.md"
   },
   {
-    "source": "Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)",
-    "target": "2004 - Privacy as Contextual Integrity",
-    "source_path": "wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance).md"
-  },
-  {
     "source": "Projects Hub",
     "target": "Priority Dashboard",
     "source_path": "wiki/Projects Hub.md"
-  },
-  {
-    "source": "Prologue I Saw Willow Rise — Legitimacy Machines Opening",
-    "target": "2026 - Coach House Books",
-    "source_path": "wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md"
-  },
-  {
-    "source": "Provisional Arbitration Charter — Argus Layer 9.5",
-    "target": "Provisional Arbitration Charter — v1.0",
-    "source_path": "wiki/Provisional Arbitration Charter — Argus Layer 9.5.md"
-  },
-  {
-    "source": "Provisional Arbitration Charter — Argus Layer 9.5",
-    "target": "Provisional Arbitration Charter — v1.1",
-    "source_path": "wiki/Provisional Arbitration Charter — Argus Layer 9.5.md"
-  },
-  {
-    "source": "Provisional Arbitration Charter — Argus Layer 9.5",
-    "target": "provisional-arbitration-charter-v1.1",
-    "source_path": "wiki/Provisional Arbitration Charter — Argus Layer 9.5.md"
-  },
-  {
-    "source": "Provisional Arbitration Charter — Argus Layer 9.5",
-    "target": "provisional-arbitration-charter",
-    "source_path": "wiki/Provisional Arbitration Charter — Argus Layer 9.5.md"
   },
   {
     "source": "Qualitative Handbook — Expanded Reference List",

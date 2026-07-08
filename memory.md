@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
+- '[[Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'

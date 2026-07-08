@@ -5,7 +5,6 @@ aliases:
 - posture drift
 - practice of refusal
 - strategy slogan
-- wiki/Posture vs Execution Drift — The Practice of Refusal
 tags:
 - strategy
 - execution
@@ -14,7 +13,7 @@ tags:
 - pharos
 - commercial
 - meta
-- wiki
+- areas
 - posture-vs-execution-drift-the-practice-of-refusal-md
 - strategic
 - finish
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Posture vs Execution Drift — The Practice of Refusal.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal.md
 backlink_count: 13
 backlinks:
 - '[[Areas/PHAROS/Consent, Fraud, and Boundary Protocols]]'
@@ -40,8 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[archive/session-state/session-state-001]]'
-- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send —
-  Source Note]]'
+- '[[wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note]]'
 ---
 
 # Posture vs Execution Drift — The Practice of Refusal

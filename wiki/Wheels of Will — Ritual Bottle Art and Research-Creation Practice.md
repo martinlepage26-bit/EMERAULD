@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/Phase 1 Governance Formation Sequence]]'
+- '[[Areas/PHAROS/Phase 1 Governance Formation Sequence]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy]]'
 - '[[wiki/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'

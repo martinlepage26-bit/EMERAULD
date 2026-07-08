@@ -25,7 +25,7 @@ backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
+- '[[Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[maps/PHAROS Method Map]]'
 ---

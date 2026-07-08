@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist]]'
 - '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/Phase 1 Governance Formation Sequence]]'
+- '[[Areas/PHAROS/Phase 1 Governance Formation Sequence]]'
 - '[[wiki/RECURSO — Final Audit and Ethical Review]]'
 - '[[wiki/Recursive AI Governance as Executable Method — The Very Long Narrative]]'
 - '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'

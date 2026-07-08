@@ -28,9 +28,9 @@ backlinks:
 - '[[wiki/Martin Lepage Professional Identity]]'
 - '[[Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt]]'
 - '[[Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18)]]'
-- '[[wiki/PHAROS Workspace Inventory 2026-04-18]]'
+- '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Posture vs Execution Drift — The Practice of Refusal]]'
+- '[[Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal]]'
 - '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[raw/Clippings/Storyteller and AI]]'
 ---

@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aida-caseware.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
+- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://www.caseware.com/products/aida
 date: '2026-05-05'

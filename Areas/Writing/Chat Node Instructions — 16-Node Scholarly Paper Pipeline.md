@@ -23,7 +23,7 @@ backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/Writing/HENRY — Research Paper Writing System]]'
-- '[[wiki/Per-Paper Project Structure — Folder and File Architecture]]'
+- '[[Areas/Writing/Per-Paper Project Structure — Folder and File Architecture]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

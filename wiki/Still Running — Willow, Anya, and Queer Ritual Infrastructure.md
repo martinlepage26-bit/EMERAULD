@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
-- '[[wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
+- '[[Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Slayer Franchise Power — Methodology and Corpus Design]]'

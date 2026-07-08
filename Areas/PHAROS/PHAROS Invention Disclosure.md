@@ -54,7 +54,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
-- '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
+- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
 - '[[wiki/RECURSO — Final Audit and Ethical Review]]'

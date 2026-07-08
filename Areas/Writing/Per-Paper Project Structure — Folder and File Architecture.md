@@ -5,9 +5,8 @@ aliases:
 - Per-Paper Project Structure
 - Paper Project Folders
 - Scholarly Article Folder Structure
-- wiki/Per-Paper Project Structure — Folder and File Architecture
 tags:
-- wiki
+- areas
 - per-paper-project-structure-folder-and-file-architecture-md
 - journal
 - abstract
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Per-Paper Project Structure — Folder and File Architecture.md
+vault_area: Areas
+canonical_path: Areas/Writing/Per-Paper Project Structure — Folder and File Architecture.md
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'

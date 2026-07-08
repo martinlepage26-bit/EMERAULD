@@ -3,9 +3,8 @@ type: wiki
 title: Phase 1 Governance Formation Sequence
 aliases:
 - Phase 1 Governance Formation Sequence
-- wiki/Phase 1 Governance Formation Sequence
 tags:
-- wiki
+- areas
 - governance
 - phase-1-governance-formation-sequence-md
 - charge
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Phase 1 Governance Formation Sequence.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Phase 1 Governance Formation Sequence.md
 backlink_count: 19
 backlinks:
 - '[[Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]'
@@ -34,8 +33,7 @@ backlinks:
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
 - '[[wiki/The Broken Frequency of the Word — Novel]]'
-- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of
-  Glitch]]'
+- '[[wiki/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch]]'
 - '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

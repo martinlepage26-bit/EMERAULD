@@ -23,7 +23,7 @@ canonical_path: resources/Lazy Obsidian Method/Index.md
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/Personal OS]]'
+- '[[Areas/Personal/Personal OS]]'
 - '[[resources/Lazy Obsidian Method/Daily ingest job]]'
 - '[[resources/Lazy Obsidian Method/Lazy Obsidian Method - Implementation Checklist]]'
 - '[[resources/Lazy Obsidian Method/Weekly vault review job]]'

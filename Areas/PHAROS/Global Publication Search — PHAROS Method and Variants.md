@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS Method — Technical Reference]]'
 - '[[Areas/PHAROS/PHAROS SURFACE]]'
-- '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
+- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[maps/PHAROS Method Map]]'
 ---

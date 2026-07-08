@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template]]'
 - '[[Areas/PHAROS/PHAROS Cross-AI Strategy Matrix]]'
-- '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
 - '[[wiki/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'

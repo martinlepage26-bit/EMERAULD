@@ -3,9 +3,8 @@ type: wiki
 title: Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard
 aliases:
 - Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard
-- wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard
 tags:
-- wiki
+- areas
 - pourquoi-r-ver-encore-lecture-all-gorique-et-m-taphysique-d-yvon-rivard-md
 - essay
 - rivard
@@ -16,9 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon
-  Rivard.md
+vault_area: Areas
+canonical_path: Areas/Writing/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard.md
 backlink_count: 17
 backlinks:
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'
@@ -26,8 +24,7 @@ backlinks:
 - '[[wiki/Home]]'
 - '[[Areas/Writing/La fréquence brisée du verbe — Roman]]'
 - '[[wiki/Martin Lepage Professional Identity]]'
-- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université
-  Laval, 2010)]]'
+- '[[wiki/Mort et Naissance et L''Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)]]'
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Novel and Creative Corpus]]'

@@ -22,7 +22,7 @@ canonical_path: Resources/Literary References in Common English — Allusion and
 backlink_count: 5
 backlinks:
 - '[[Resources/Literary References — Craft Guide]]'
-- '[[wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
+- '[[Areas/Writing/Publisher Assessment — Literary Idioms and Phrase-Origin Book]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'

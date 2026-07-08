@@ -2425,6 +2425,111 @@
     "backlinks": 40
   },
   {
+    "id": "Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook",
+    "title": "PROTOCOLS — Debate and Red-Team Runbook",
+    "path": "Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PROTOCOLS",
+      "debate runbook",
+      "five-lane review",
+      "red-team"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 7,
+    "backlinks": 23
+  },
+  {
+    "id": "Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)",
+    "title": "Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)",
+    "path": "Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Paper 25 A/B/C/D",
+      "Paper 25 Pre-Draft",
+      "Pharos Frame Capstone Pre-Draft"
+    ],
+    "outlinks": 25,
+    "unique_outlinks": 22,
+    "backlinks": 11
+  },
+  {
+    "id": "Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
+    "title": "Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
+    "path": "Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md",
+    "type": "wiki",
+    "status": "ready-for-submission",
+    "aliases": [
+      "Paper 25",
+      "Paper 25 — The Pharos Frame (Draft 2026-04-23)",
+      "Paper 25 — The Pharos Frame: Four Levels Where Ethics Becomes AI Governance",
+      "Pharos Frame paper",
+      "The Pharos Frame",
+      "capstone paper"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 15,
+    "backlinks": 19
+  },
+  {
+    "id": "Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society)",
+    "title": "Peer Review — Recursive AI Governance as Executable Method (AI & Society)",
+    "path": "Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI & Society Paper B review",
+      "Paper B Peer Review",
+      "Recursive AI Governance peer review"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 8,
+    "backlinks": 9
+  },
+  {
+    "id": "Areas/PHAROS/Phase 1 Governance Formation Sequence",
+    "title": "Phase 1 Governance Formation Sequence",
+    "path": "Areas/PHAROS/Phase 1 Governance Formation Sequence.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Phase 1 Governance Formation Sequence"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 8,
+    "backlinks": 35
+  },
+  {
+    "id": "Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal",
+    "title": "Posture vs Execution Drift — The Practice of Refusal",
+    "path": "Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "posture drift",
+      "practice of refusal",
+      "strategy slogan"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 7,
+    "backlinks": 21
+  },
+  {
+    "id": "Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5",
+    "title": "Provisional Arbitration Charter — Argus Layer 9.5",
+    "path": "Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5.md",
+    "type": "note",
+    "status": "active",
+    "aliases": [
+      "Provisional Arbitration Charter — Argus Layer 9.5"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 12,
+    "backlinks": 25
+  },
+  {
     "id": "Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)",
     "title": "RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)",
     "path": "Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md",
@@ -2609,6 +2714,19 @@
     "outlinks": 14,
     "unique_outlinks": 11,
     "backlinks": 38
+  },
+  {
+    "id": "Areas/Personal/Personal OS",
+    "title": "Personal OS",
+    "path": "Areas/Personal/Personal OS.md",
+    "type": "hub",
+    "status": "active",
+    "aliases": [
+      "Personal OS"
+    ],
+    "outlinks": 1,
+    "unique_outlinks": 1,
+    "backlinks": 2
   },
   {
     "id": "Areas/Personal/Personal and Projects MOC",
@@ -3620,6 +3738,35 @@
     "backlinks": 63
   },
   {
+    "id": "Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
+    "title": "Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
+    "path": "Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Paganisme(s) queer",
+      "Religion et sexualité (REL2614) — Paganisme(s) queer"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 12,
+    "backlinks": 8
+  },
+  {
+    "id": "Areas/Writing/Per-Paper Project Structure — Folder and File Architecture",
+    "title": "Per-Paper Project Structure — Folder and File Architecture",
+    "path": "Areas/Writing/Per-Paper Project Structure — Folder and File Architecture.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Paper Project Folders",
+      "Per-Paper Project Structure",
+      "Scholarly Article Folder Structure"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 6,
+    "backlinks": 9
+  },
+  {
     "id": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy",
     "title": "Pourquoi Rever Encore — Version Genealogy",
     "path": "Areas/Writing/Pourquoi Rever Encore — Version Genealogy.md",
@@ -3631,6 +3778,46 @@
     "outlinks": 8,
     "unique_outlinks": 7,
     "backlinks": 10
+  },
+  {
+    "id": "Areas/Writing/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
+    "title": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
+    "path": "Areas/Writing/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 12,
+    "backlinks": 26
+  },
+  {
+    "id": "Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening",
+    "title": "Prologue I Saw Willow Rise — Legitimacy Machines Opening",
+    "path": "Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Prologue I Saw Willow Rise — Legitimacy Machines Opening"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 8,
+    "backlinks": 12
+  },
+  {
+    "id": "Areas/Writing/Publisher Assessment — Literary Idioms and Phrase-Origin Book",
+    "title": "Publisher Assessment — Literary Idioms and Phrase-Origin Book",
+    "path": "Areas/Writing/Publisher Assessment — Literary Idioms and Phrase-Origin Book.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Literary Idioms Book",
+      "Phrase Origin Book Assessment"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 4,
+    "backlinks": 18
   },
   {
     "id": "Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy",
@@ -5342,20 +5529,6 @@
     "backlinks": 12
   },
   {
-    "id": "PHAROS Workspace Inventory 2026-04-18",
-    "title": "PHAROS Workspace Inventory 2026-04-18",
-    "path": "wiki/PHAROS Workspace Inventory 2026-04-18.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PHAROS Workspace Inventory 2026-04-18",
-      "wiki/PHAROS Workspace Inventory 2026-04-18"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 11,
-    "backlinks": 19
-  },
-  {
     "id": "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
     "title": "PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19",
     "path": "wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19.md",
@@ -5372,23 +5545,6 @@
     "backlinks": 10
   },
   {
-    "id": "PROTOCOLS — Debate and Red-Team Runbook",
-    "title": "PROTOCOLS — Debate and Red-Team Runbook",
-    "path": "wiki/PROTOCOLS — Debate and Red-Team Runbook.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PROTOCOLS",
-      "debate runbook",
-      "five-lane review",
-      "red-team",
-      "wiki/PROTOCOLS — Debate and Red-Team Runbook"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 7,
-    "backlinks": 23
-  },
-  {
     "id": "PUBLICATIONS MOC",
     "title": "PUBLICATIONS MOC",
     "path": "wiki/PUBLICATIONS MOC.md",
@@ -5398,164 +5554,6 @@
     "outlinks": 2,
     "unique_outlinks": 2,
     "backlinks": 0
-  },
-  {
-    "id": "Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
-    "title": "Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)",
-    "path": "wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Paganisme(s) queer",
-      "Religion et sexualité (REL2614) — Paganisme(s) queer",
-      "wiki/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca)"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 12,
-    "backlinks": 8
-  },
-  {
-    "id": "Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)",
-    "title": "Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)",
-    "path": "wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Paper 25 A/B/C/D",
-      "Paper 25 Pre-Draft",
-      "Pharos Frame Capstone Pre-Draft",
-      "wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)"
-    ],
-    "outlinks": 25,
-    "unique_outlinks": 22,
-    "backlinks": 11
-  },
-  {
-    "id": "Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
-    "title": "Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance",
-    "path": "wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md",
-    "type": "wiki",
-    "status": "ready-for-submission",
-    "aliases": [
-      "Paper 25",
-      "Paper 25 — The Pharos Frame (Draft 2026-04-23)",
-      "Paper 25 — The Pharos Frame: Four Levels Where Ethics Becomes AI Governance",
-      "Pharos Frame paper",
-      "The Pharos Frame",
-      "capstone paper",
-      "wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 15,
-    "backlinks": 19
-  },
-  {
-    "id": "Paper Planes — M.I.A. — Lyrics",
-    "title": "Paper Planes — M.I.A. — Lyrics",
-    "path": "wiki/Paper Planes — M.I.A. — Lyrics.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "MIA Paper Planes",
-      "Paper Planes lyrics",
-      "wiki/Paper Planes — M.I.A. — Lyrics"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 6,
-    "backlinks": 13
-  },
-  {
-    "id": "Patent Research — Prior-Art Search and Free Tools",
-    "title": "Patent Research — Prior-Art Search and Free Tools",
-    "path": "wiki/Patent Research — Prior-Art Search and Free Tools.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI governance patent search",
-      "Free patent prior-art tools",
-      "Patent search workflow",
-      "Prior art search",
-      "wiki/Patent Research — Prior-Art Search and Free Tools"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 9,
-    "backlinks": 10
-  },
-  {
-    "id": "Peer Review — Recursive AI Governance as Executable Method (AI & Society)",
-    "title": "Peer Review — Recursive AI Governance as Executable Method (AI & Society)",
-    "path": "wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AI & Society Paper B review",
-      "Paper B Peer Review",
-      "Recursive AI Governance peer review",
-      "wiki/Peer Review — Recursive AI Governance as Executable Method (AI & Society)"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 8,
-    "backlinks": 9
-  },
-  {
-    "id": "Per-Paper Project Structure — Folder and File Architecture",
-    "title": "Per-Paper Project Structure — Folder and File Architecture",
-    "path": "wiki/Per-Paper Project Structure — Folder and File Architecture.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Paper Project Folders",
-      "Per-Paper Project Structure",
-      "Scholarly Article Folder Structure",
-      "wiki/Per-Paper Project Structure — Folder and File Architecture"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 6,
-    "backlinks": 9
-  },
-  {
-    "id": "Personal OS",
-    "title": "Personal OS",
-    "path": "wiki/Personal OS.md",
-    "type": "hub",
-    "status": "active",
-    "aliases": [
-      "Personal OS",
-      "wiki/Personal OS"
-    ],
-    "outlinks": 1,
-    "unique_outlinks": 1,
-    "backlinks": 2
-  },
-  {
-    "id": "Phase 1 Governance Formation Sequence",
-    "title": "Phase 1 Governance Formation Sequence",
-    "path": "wiki/Phase 1 Governance Formation Sequence.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Phase 1 Governance Formation Sequence",
-      "wiki/Phase 1 Governance Formation Sequence"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 8,
-    "backlinks": 35
-  },
-  {
-    "id": "Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique",
-    "title": "Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique",
-    "path": "wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Moustakas heuristics critique",
-      "Phenom-Herme-Heuri critique",
-      "Robinson seminar evaluation",
-      "wiki/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 8,
-    "backlinks": 8
   },
   {
     "id": "Philosopher",
@@ -5591,67 +5589,6 @@
     "backlinks": 19
   },
   {
-    "id": "Portfolio Restructuring Review — March 2026",
-    "title": "Portfolio Restructuring Review — March 2026",
-    "path": "wiki/Portfolio Restructuring Review — March 2026.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "PORTFOLIO_REVIEW_MEMO_2026-03-14",
-      "Portfolio restructuring adversarial review",
-      "Portfolio review memo March 2026",
-      "wiki/Portfolio Restructuring Review — March 2026"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 5,
-    "backlinks": 19
-  },
-  {
-    "id": "Posture vs Execution Drift — The Practice of Refusal",
-    "title": "Posture vs Execution Drift — The Practice of Refusal",
-    "path": "wiki/Posture vs Execution Drift — The Practice of Refusal.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "posture drift",
-      "practice of refusal",
-      "strategy slogan",
-      "wiki/Posture vs Execution Drift — The Practice of Refusal"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 7,
-    "backlinks": 21
-  },
-  {
-    "id": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
-    "title": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
-    "path": "wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
-      "wiki/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 12,
-    "backlinks": 26
-  },
-  {
-    "id": "Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)",
-    "title": "Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)",
-    "path": "wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Nissenbaum — Contextual Integrity",
-      "Privacy as Contextual Integrity (2004)",
-      "wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)"
-    ],
-    "outlinks": 16,
-    "unique_outlinks": 13,
-    "backlinks": 17
-  },
-  {
     "id": "Projects Hub",
     "title": "Projects Hub",
     "path": "wiki/Projects Hub.md",
@@ -5664,49 +5601,6 @@
     "outlinks": 34,
     "unique_outlinks": 19,
     "backlinks": 2
-  },
-  {
-    "id": "Prologue I Saw Willow Rise — Legitimacy Machines Opening",
-    "title": "Prologue I Saw Willow Rise — Legitimacy Machines Opening",
-    "path": "wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Prologue I Saw Willow Rise — Legitimacy Machines Opening",
-      "wiki/Prologue I Saw Willow Rise — Legitimacy Machines Opening"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 8,
-    "backlinks": 12
-  },
-  {
-    "id": "Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)",
-    "title": "Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)",
-    "path": "wiki/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Prompt log intake",
-      "Retrieval discipline and Compta critique",
-      "wiki/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 3,
-    "backlinks": 9
-  },
-  {
-    "id": "Provisional Arbitration Charter — Argus Layer 9.5",
-    "title": "Provisional Arbitration Charter — Argus Layer 9.5",
-    "path": "wiki/Provisional Arbitration Charter — Argus Layer 9.5.md",
-    "type": "note",
-    "status": "active",
-    "aliases": [
-      "Provisional Arbitration Charter — Argus Layer 9.5",
-      "wiki/Provisional Arbitration Charter — Argus Layer 9.5"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 12,
-    "backlinks": 25
   },
   {
     "id": "Publications/BOOKS/essay_identity_enforceable",
@@ -5733,21 +5627,6 @@
     "outlinks": 0,
     "unique_outlinks": 0,
     "backlinks": 2
-  },
-  {
-    "id": "Publisher Assessment — Literary Idioms and Phrase-Origin Book",
-    "title": "Publisher Assessment — Literary Idioms and Phrase-Origin Book",
-    "path": "wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Literary Idioms Book",
-      "Phrase Origin Book Assessment",
-      "wiki/Publisher Assessment — Literary Idioms and Phrase-Origin Book"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 4,
-    "backlinks": 18
   },
   {
     "id": "Publishing Strategy — Springer Trilogy and Parallel Tracks",
@@ -6755,6 +6634,51 @@
     "backlinks": 9
   },
   {
+    "id": "Resources/Paper Planes — M.I.A. — Lyrics",
+    "title": "Paper Planes — M.I.A. — Lyrics",
+    "path": "Resources/Paper Planes — M.I.A. — Lyrics.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "MIA Paper Planes",
+      "Paper Planes lyrics"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 6,
+    "backlinks": 13
+  },
+  {
+    "id": "Resources/Patent Research — Prior-Art Search and Free Tools",
+    "title": "Patent Research — Prior-Art Search and Free Tools",
+    "path": "Resources/Patent Research — Prior-Art Search and Free Tools.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AI governance patent search",
+      "Free patent prior-art tools",
+      "Patent search workflow",
+      "Prior art search"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 9,
+    "backlinks": 10
+  },
+  {
+    "id": "Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique",
+    "title": "Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique",
+    "path": "Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Moustakas heuristics critique",
+      "Phenom-Herme-Heuri critique",
+      "Robinson seminar evaluation"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 8,
+    "backlinks": 8
+  },
+  {
     "id": "Resources/Plugin Recommendations",
     "title": "Plugin Recommendations",
     "path": "Resources/Plugin Recommendations.md",
@@ -6780,6 +6704,20 @@
     "outlinks": 14,
     "unique_outlinks": 11,
     "backlinks": 15
+  },
+  {
+    "id": "Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)",
+    "title": "Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)",
+    "path": "Resources/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Nissenbaum — Contextual Integrity",
+      "Privacy as Contextual Integrity (2004)"
+    ],
+    "outlinks": 16,
+    "unique_outlinks": 13,
+    "backlinks": 17
   },
   {
     "id": "Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)",
@@ -9593,6 +9531,48 @@
     "outlinks": 9,
     "unique_outlinks": 6,
     "backlinks": 8
+  },
+  {
+    "id": "archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18",
+    "title": "PHAROS Workspace Inventory 2026-04-18",
+    "path": "archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PHAROS Workspace Inventory 2026-04-18"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 11,
+    "backlinks": 19
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026",
+    "title": "Portfolio Restructuring Review — March 2026",
+    "path": "archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "PORTFOLIO_REVIEW_MEMO_2026-03-14",
+      "Portfolio restructuring adversarial review",
+      "Portfolio review memo March 2026"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 5,
+    "backlinks": 19
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)",
+    "title": "Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)",
+    "path": "archive/wiki-2026-07-08/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Prompt log intake",
+      "Retrieval discipline and Compta critique"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 3,
+    "backlinks": 9
   },
   {
     "id": "archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)",

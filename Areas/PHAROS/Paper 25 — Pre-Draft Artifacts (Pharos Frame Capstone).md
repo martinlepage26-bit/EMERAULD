@@ -5,7 +5,6 @@ aliases:
 - Paper 25 Pre-Draft
 - Pharos Frame Capstone Pre-Draft
 - Paper 25 A/B/C/D
-- wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)
 tags:
 - pharos
 - paper-25
@@ -13,7 +12,7 @@ tags:
 - pre-draft
 - governance
 - synthesis
-- wiki
+- areas
 - paper-25-pre-draft-artifacts-pharos-frame-capstone-md
 - frame
 - integrative
@@ -24,13 +23,13 @@ tags:
 status: active
 created: '2026-04-19'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone).md
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
+- '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[archive/session-state/session-state-001]]'
 ---

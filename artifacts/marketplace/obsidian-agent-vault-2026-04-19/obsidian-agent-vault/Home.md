@@ -40,7 +40,7 @@ backlinks:
 - '[[wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Resources/Plugin Recommendations]]'
-- '[[wiki/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)]]'
+- '[[archive/wiki-2026-07-08/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 - '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,

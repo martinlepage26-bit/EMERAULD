@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
-- '[[wiki/Patent Research — Prior-Art Search and Free Tools]]'
+- '[[Resources/Patent Research — Prior-Art Search and Free Tools]]'
 - '[[wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
