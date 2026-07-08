@@ -3,9 +3,8 @@ type: wiki
 title: The Circle Remains Open — Toward a Queer Sociology of the Sacred
 aliases:
 - The Circle Remains Open — Toward a Queer Sociology of the Sacred
-- wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred
 tags:
-- wiki
+- areas
 - ai
 - queer
 - the-circle-remains-open-toward-a-queer-sociology-of-the-sacred-md
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md
+vault_area: Areas
+canonical_path: Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md
 backlink_count: 23
 backlinks:
 - '[[Areas/Writing/Brutal Isms — Art Grant Proposal]]'
@@ -40,7 +39,7 @@ backlinks:
 - '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
-- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 - '[[maps/Queer Media and Ritual Map]]'

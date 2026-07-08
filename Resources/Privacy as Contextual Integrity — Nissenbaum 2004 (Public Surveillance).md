@@ -33,7 +33,7 @@ backlinks:
 - '[[Resources/Reddit Data API — Access Terms and Rate Limits]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
-- '[[wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)]]'
+- '[[Resources/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

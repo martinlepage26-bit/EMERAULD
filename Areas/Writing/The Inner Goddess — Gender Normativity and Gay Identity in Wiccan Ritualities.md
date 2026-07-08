@@ -3,9 +3,8 @@ type: wiki
 title: The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities
 aliases:
 - The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities
-- wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities
 tags:
-- wiki
+- areas
 - wicca
 - ritual
 - the-inner-goddess-gender-normativity-and-gay-identity-in-wiccan-ritualities-md
@@ -17,9 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan
-  Ritualities.md
+vault_area: Areas
+canonical_path: Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md
 backlink_count: 24
 backlinks:
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
@@ -41,7 +39,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
-- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'

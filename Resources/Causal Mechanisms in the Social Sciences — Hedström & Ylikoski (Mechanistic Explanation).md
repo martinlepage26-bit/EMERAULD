@@ -32,7 +32,7 @@ backlinks:
 - '[[Resources/Narrative, Identity and Academic Storytelling — Hyland 2018 (ILCEA)]]'
 - '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)]]'
+- '[[Resources/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

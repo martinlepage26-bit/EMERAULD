@@ -4,7 +4,6 @@ title: The ethnographer and the algorithm — Christin 2020 (Beyond the black bo
 aliases:
 - Christin 2020 ethnographer and the algorithm
 - Algorithmic ethnography toolkit (Christin)
-- wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)
 tags:
 - reference
 - ai-governance
@@ -15,7 +14,7 @@ tags:
 - black-box
 - audits
 - accountability
-- wiki
+- resources
 - the-ethnographer-and-the-algorithm-christin-2020-beyond-the-black-box-md
 - algorithmic
 - christin
@@ -24,9 +23,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the
-  black box).md
+vault_area: Resources
+canonical_path: Resources/The ethnographer and the algorithm — Christin 2020 (Beyond the black box).md
 backlink_count: 6
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

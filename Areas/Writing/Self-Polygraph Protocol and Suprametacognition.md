@@ -46,8 +46,8 @@ backlinks:
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
 - '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
-- '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
-- '[[wiki/The Wheel and the Watcher]]'
+- '[[Areas/Writing/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[Areas/Writing/The Wheel and the Watcher]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
 ---

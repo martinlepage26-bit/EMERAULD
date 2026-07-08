@@ -35,8 +35,8 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
-- '[[wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
-- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
+- '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

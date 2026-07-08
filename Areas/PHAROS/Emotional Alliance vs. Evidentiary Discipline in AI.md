@@ -57,7 +57,7 @@ backlinks:
 - '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve]]'
-- '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[Areas/Writing/Version Genealogy System]]'

@@ -4,7 +4,6 @@ title: The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asc
 aliases:
 - Weber — Protestant Ethic
 - The Protestant Ethic (Weber)
-- wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)
 tags:
 - reference
 - sociology
@@ -12,7 +11,7 @@ tags:
 - capitalism
 - authority
 - disenchantment
-- wiki
+- resources
 - the-protestant-ethic-and-the-spirit-of-capitalism-weber-calling-asceticism-md
 - rationalization
 - weber
@@ -22,9 +21,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling,
-  Asceticism).md
+vault_area: Resources
+canonical_path: Resources/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism).md
 backlink_count: 7
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'

@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
 - '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
-- '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
+- '[[Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[assets/elemental-agents/positioning-memo]]'
 - '[[memory/agents/Decisions]]'

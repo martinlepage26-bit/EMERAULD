@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
 - '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
-- '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
+- '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

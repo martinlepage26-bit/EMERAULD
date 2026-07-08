@@ -3,9 +3,8 @@ type: wiki
 title: The Compulsion to Complete — AI as Gap-Closer
 aliases:
 - The Compulsion to Complete — AI as Gap-Closer
-- wiki/The Compulsion to Complete — AI as Gap-Closer
 tags:
-- wiki
+- areas
 - ai
 - the-compulsion-to-complete-ai-as-gap-closer-md
 - pressed
@@ -17,15 +16,14 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Compulsion to Complete — AI as Gap-Closer.md
+vault_area: Areas
+canonical_path: Areas/Writing/The Compulsion to Complete — AI as Gap-Closer.md
 backlink_count: 28
 backlinks:
 - '[[Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts]]'
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
-- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec
-  (2026)]]'
+- '[[wiki/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'
 - '[[wiki/Care, Ethics, and Governance]]'
@@ -47,8 +45,8 @@ backlinks:
 - '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
-- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
-- '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[memory/local-session/feedback_evidence_discipline]]'
 ---
 

@@ -31,7 +31,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
-- '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
+- '[[Resources/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

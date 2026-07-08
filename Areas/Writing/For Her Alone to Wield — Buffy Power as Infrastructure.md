@@ -43,7 +43,7 @@ backlinks:
 - '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
 - '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
-- '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
+- '[[Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
 - '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'

@@ -4,14 +4,13 @@ title: Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)
 aliases:
 - Trismégiste eval v2
 - argus eval closure 2026-05-05
-- wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)
 tags:
 - governance
 - argus
 - trismegiste
 - eval
 - agent-architecture
-- wiki
+- areas
 - trism-giste-eval-v2-argus-closure-and-redesign-2026-05-05-md
 - trism
 - giste
@@ -19,8 +18,8 @@ tags:
 status: active
 created: '2026-05-05'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md
 backlink_count: 11
 backlinks:
 - '[[.github/agents/argus.agent]]'

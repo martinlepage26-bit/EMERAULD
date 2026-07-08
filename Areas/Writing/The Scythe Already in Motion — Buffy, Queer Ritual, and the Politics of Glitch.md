@@ -51,7 +51,7 @@ backlinks:
 - '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
 - '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
-- '[[wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation]]'
+- '[[Areas/Writing/The Familiars of Hollywood — Queerness, Whiteness, and Representation]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[archive/session-state/session-state-001]]'

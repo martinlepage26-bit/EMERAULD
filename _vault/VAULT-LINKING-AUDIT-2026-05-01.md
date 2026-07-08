@@ -25,7 +25,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation
   (2026-04-18)]]'
-- '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
+- '[[Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
 - '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
 ---

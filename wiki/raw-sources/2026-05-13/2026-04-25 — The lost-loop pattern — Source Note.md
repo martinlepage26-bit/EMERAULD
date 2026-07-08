@@ -48,7 +48,7 @@ source_report: raw/intake-report-20260513.json
 - Triage lane: operator/workflow draft capture.
 
 ## Related
-- [[wiki/The Lost-Loop Pattern — Avoidance Through System-Building.md]]
+- [[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]
 ## Cluster Links
 - [[Source Cluster — 2026-05-13 Client and Operator Continuity]]
 - [[Source Cluster Map — 2026-05-13 Raw Sources]]

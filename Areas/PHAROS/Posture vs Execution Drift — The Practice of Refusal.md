@@ -37,7 +37,7 @@ backlinks:
 - '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note]]'
 ---

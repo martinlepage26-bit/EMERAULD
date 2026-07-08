@@ -42,7 +42,7 @@ backlinks:
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Public Voice Examples]]'
 - '[[Areas/Writing/Slayer Recursion Protocol — README and Repositioning]]'
-- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[wiki/genealogy/Martin Voice Spec — Stage Map]]'

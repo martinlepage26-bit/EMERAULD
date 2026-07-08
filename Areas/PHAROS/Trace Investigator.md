@@ -4,14 +4,13 @@ title: Trace Investigator
 aliases:
 - trace-investigator
 - trace investigator skill
-- wiki/Trace Investigator
 tags:
 - skills
 - research
 - governance
 - trace
 - analysis
-- wiki
+- areas
 - trace-investigator-md
 - investigator
 - mixed
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Trace Investigator.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Trace Investigator.md
 backlink_count: 8
 backlinks:
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'

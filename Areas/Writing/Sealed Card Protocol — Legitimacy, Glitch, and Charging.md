@@ -64,7 +64,7 @@ backlinks:
 - '[[Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure]]'
 - '[[Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'
 - '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
-- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
 - '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
 - '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
 - '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'

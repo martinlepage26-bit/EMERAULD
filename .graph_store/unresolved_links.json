@@ -2805,6 +2805,26 @@
     "source_path": "Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study.md"
   },
   {
+    "source": "Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
+    "target": "Master Tracker — Snapshot 2026-04-28",
+    "source_path": "Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md"
+  },
+  {
+    "source": "Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
+    "target": "2026-05-05_botpress-enterprise",
+    "source_path": "Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md"
+  },
+  {
+    "source": "Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
+    "target": "argus.agent",
+    "source_path": "Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md"
+  },
+  {
+    "source": "Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
+    "target": "VAULT-LINKING-AUDIT-2026-05-01",
+    "source_path": "Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md"
+  },
+  {
     "source": "Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s)",
     "target": "Book of beliefs and theories 2000s",
     "source_path": "Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s).md"
@@ -2858,6 +2878,11 @@
     "source": "Areas/Personal/Rest and Consolidation Guide — Martin",
     "target": "GUIDE_rest-and-consolidation",
     "source_path": "Areas/Personal/Rest and Consolidation Guide — Martin.md"
+  },
+  {
+    "source": "Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building",
+    "target": "2026-04-25 — The lost-loop pattern",
+    "source_path": "Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building.md"
   },
   {
     "source": "Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026)",
@@ -6260,6 +6285,81 @@
     "source_path": "Areas/Writing/The Ballad of the Witches' Road — Analysis.md"
   },
   {
+    "source": "Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred",
+    "target": "2009 - legal_or_contract [2",
+    "source_path": "Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md"
+  },
+  {
+    "source": "Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred",
+    "target": "The Circle Remains Open Queer Pagan Landscapes and Situated Knowledges in Montreal",
+    "source_path": "Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md"
+  },
+  {
+    "source": "Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred",
+    "target": "The Circle Remains Open Toward a Queer Sociology of the Sacred (2)",
+    "source_path": "Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md"
+  },
+  {
+    "source": "Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred",
+    "target": "The Circle Remains Open Toward a Queer Sociology of the Sacred",
+    "source_path": "Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md"
+  },
+  {
+    "source": "Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred",
+    "target": "WHY BE KING! I’m already a Queen!",
+    "source_path": "Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md"
+  },
+  {
+    "source": "Areas/Writing/The Familiars of Hollywood — Queerness, Whiteness, and Representation",
+    "target": "Voice as Legitimacy Regime Recognition, Whiteness, and Invisibility in What We Do in the Shadows",
+    "source_path": "Areas/Writing/The Familiars of Hollywood — Queerness, Whiteness, and Representation.md"
+  },
+  {
+    "source": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
+    "target": "2010 - Lepage 5",
+    "source_path": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
+  },
+  {
+    "source": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
+    "target": "2017 - correspondence",
+    "source_path": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
+  },
+  {
+    "source": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
+    "target": "2017 - correspondence_1",
+    "source_path": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
+  },
+  {
+    "source": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
+    "target": "2018 - correspondence",
+    "source_path": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
+  },
+  {
+    "source": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
+    "target": "Mail iCloud - Fw Reference for Dr. MARTIN LEPAGE",
+    "source_path": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
+  },
+  {
+    "source": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
+    "target": "Mail iCloud - Preuve publication",
+    "source_path": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
+  },
+  {
+    "source": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
+    "target": "Microsoft Word - Croft - Slayage 18.1.docx",
+    "source_path": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
+  },
+  {
+    "source": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
+    "target": "Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members",
+    "source_path": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
+  },
+  {
+    "source": "Areas/Writing/The Returning Light — Monograph",
+    "target": "2025 - Martin Lepage - correspondence_1",
+    "source_path": "Areas/Writing/The Returning Light — Monograph.md"
+  },
+  {
     "source": "Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge",
     "target": "Herbiers des présences",
     "source_path": "Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md"
@@ -6298,6 +6398,26 @@
     "source": "Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch",
     "target": "Document sans titre",
     "source_path": "Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch.md"
+  },
+  {
+    "source": "Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
+    "target": "2016 - notes_or_journal [2",
+    "source_path": "Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md"
+  },
+  {
+    "source": "Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
+    "target": "2016 - notes_or_journal_1",
+    "source_path": "Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md"
+  },
+  {
+    "source": "Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
+    "target": "The Price of the Body Queer Alchemy, Power, and Embodiment in Fullmetal Alchemist",
+    "source_path": "Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md"
+  },
+  {
+    "source": "Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
+    "target": "Transmutation and the Body Queer Ethics and Visual Form in Fullmetal Alchemist",
+    "source_path": "Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md"
   },
   {
     "source": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
@@ -7893,6 +8013,26 @@
     "source": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception)",
     "target": "2019 - journal_article.pdf - 2019 - journal_article.pdf.pdf - 2019 - journal_article.pdf - 2019 - jo",
     "source_path": "Resources/The Data Gaze — Beer (Capitalism, Power, Perception).md"
+  },
+  {
+    "source": "Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)",
+    "target": "2006 - The Meanings of Magic",
+    "source_path": "Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category).md"
+  },
+  {
+    "source": "Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017",
+    "target": "2017 - Douglas, Karen, Sutton, Robbie M. and Cichocka, Aleksandra The - 2017 - Douglas, Karen, Sutto",
+    "source_path": "Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017.md"
+  },
+  {
+    "source": "Resources/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)",
+    "target": "Christin2020_Article_TheEthnographerAndTheAlgorithm.pdf",
+    "source_path": "Resources/The ethnographer and the algorithm — Christin 2020 (Beyond the black box).md"
+  },
+  {
+    "source": "Resources/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)",
+    "target": "2025 - Right Populism, and Political",
+    "source_path": "Resources/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust).md"
   },
   {
     "source": "archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/02_PHAROS_Master_SOP",
@@ -10498,146 +10638,6 @@
     "source": "TEMPLATES MOC",
     "target": "templates/Weekly Review Template",
     "source_path": "wiki/TEMPLATES MOC.md"
-  },
-  {
-    "source": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
-    "target": "2009 - legal_or_contract [2",
-    "source_path": "wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md"
-  },
-  {
-    "source": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
-    "target": "The Circle Remains Open Queer Pagan Landscapes and Situated Knowledges in Montreal",
-    "source_path": "wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md"
-  },
-  {
-    "source": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
-    "target": "The Circle Remains Open Toward a Queer Sociology of the Sacred (2)",
-    "source_path": "wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md"
-  },
-  {
-    "source": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
-    "target": "The Circle Remains Open Toward a Queer Sociology of the Sacred",
-    "source_path": "wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md"
-  },
-  {
-    "source": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
-    "target": "WHY BE KING! I’m already a Queen!",
-    "source_path": "wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md"
-  },
-  {
-    "source": "The Familiars of Hollywood — Queerness, Whiteness, and Representation",
-    "target": "Voice as Legitimacy Regime Recognition, Whiteness, and Invisibility in What We Do in the Shadows",
-    "source_path": "wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation.md"
-  },
-  {
-    "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-    "target": "2010 - Lepage 5",
-    "source_path": "wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
-  },
-  {
-    "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-    "target": "2017 - correspondence",
-    "source_path": "wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
-  },
-  {
-    "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-    "target": "2017 - correspondence_1",
-    "source_path": "wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
-  },
-  {
-    "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-    "target": "2018 - correspondence",
-    "source_path": "wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
-  },
-  {
-    "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-    "target": "Mail iCloud - Fw Reference for Dr. MARTIN LEPAGE",
-    "source_path": "wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
-  },
-  {
-    "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-    "target": "Mail iCloud - Preuve publication",
-    "source_path": "wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
-  },
-  {
-    "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-    "target": "Microsoft Word - Croft - Slayage 18.1.docx",
-    "source_path": "wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
-  },
-  {
-    "source": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-    "target": "Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members",
-    "source_path": "wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md"
-  },
-  {
-    "source": "The Lost-Loop Pattern — Avoidance Through System-Building",
-    "target": "2026-04-25 — The lost-loop pattern",
-    "source_path": "wiki/The Lost-Loop Pattern — Avoidance Through System-Building.md"
-  },
-  {
-    "source": "The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)",
-    "target": "2006 - The Meanings of Magic",
-    "source_path": "wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category).md"
-  },
-  {
-    "source": "The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017",
-    "target": "2017 - Douglas, Karen, Sutton, Robbie M. and Cichocka, Aleksandra The - 2017 - Douglas, Karen, Sutto",
-    "source_path": "wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017.md"
-  },
-  {
-    "source": "The Returning Light — Monograph",
-    "target": "2025 - Martin Lepage - correspondence_1",
-    "source_path": "wiki/The Returning Light — Monograph.md"
-  },
-  {
-    "source": "The ethnographer and the algorithm — Christin 2020 (Beyond the black box)",
-    "target": "Christin2020_Article_TheEthnographerAndTheAlgorithm.pdf",
-    "source_path": "wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the black box).md"
-  },
-  {
-    "source": "Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
-    "target": "2016 - notes_or_journal [2",
-    "source_path": "wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md"
-  },
-  {
-    "source": "Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
-    "target": "2016 - notes_or_journal_1",
-    "source_path": "wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md"
-  },
-  {
-    "source": "Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
-    "target": "The Price of the Body Queer Alchemy, Power, and Embodiment in Fullmetal Alchemist",
-    "source_path": "wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md"
-  },
-  {
-    "source": "Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
-    "target": "Transmutation and the Body Queer Ethics and Visual Form in Fullmetal Alchemist",
-    "source_path": "wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md"
-  },
-  {
-    "source": "Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)",
-    "target": "2025 - Right Populism, and Political",
-    "source_path": "wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust).md"
-  },
-  {
-    "source": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
-    "target": "Master Tracker — Snapshot 2026-04-28",
-    "source_path": "wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md"
-  },
-  {
-    "source": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
-    "target": "2026-05-05_botpress-enterprise",
-    "source_path": "wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md"
-  },
-  {
-    "source": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
-    "target": "argus.agent",
-    "source_path": "wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md"
-  },
-  {
-    "source": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
-    "target": "VAULT-LINKING-AUDIT-2026-05-01",
-    "source_path": "wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md"
   },
   {
     "source": "Trismégiste Master Synthesis — 2026-05-13 Source Set",

@@ -54,9 +54,9 @@ backlinks:
 - '[[Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging]]'
 - '[[Areas/PHAROS/Strategic Storytelling in the AI Economy]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
-- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
-- '[[wiki/The Returning Light — Monograph]]'
-- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[Areas/Writing/The Returning Light — Monograph]]'
+- '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
 - '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---

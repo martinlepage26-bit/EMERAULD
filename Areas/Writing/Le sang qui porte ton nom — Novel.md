@@ -33,8 +33,8 @@ backlinks:
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
-- '[[wiki/The Returning Light — Monograph]]'
-- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[Areas/Writing/The Returning Light — Monograph]]'
+- '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 ---

@@ -36,8 +36,8 @@ backlinks:
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'
 - '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
 - '[[Resources/Strategic Silence — Maor 2016 (Reputation, Regulatory Talk)]]'
-- '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
-- '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
+- '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[Resources/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

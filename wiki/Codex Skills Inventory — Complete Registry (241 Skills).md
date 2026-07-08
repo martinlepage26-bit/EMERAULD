@@ -31,7 +31,7 @@ backlinks:
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
-- '[[wiki/Trace Investigator]]'
+- '[[Areas/PHAROS/Trace Investigator]]'
 - '[[wiki/Vault Graph Hygiene — Content Title Normalization Skill]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'

@@ -5,7 +5,6 @@ aliases:
 - Zarkadakis 2024 goddess icon
 - The goddess and her icon
 - body and mind in AI
-- wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)
 tags:
 - reference
 - ai-society
@@ -14,7 +13,7 @@ tags:
 - icons
 - ai-identity
 - posthumanism
-- wiki
+- resources
 - the-goddess-and-her-icon-zarkadakis-2024-ai-body-mind-md
 - mind
 - zarkadakis
@@ -25,8 +24,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind).md
+vault_area: Resources
+canonical_path: Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind).md
 backlink_count: 8
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'

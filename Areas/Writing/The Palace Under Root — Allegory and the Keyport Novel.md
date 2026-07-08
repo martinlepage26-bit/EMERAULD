@@ -3,9 +3,8 @@ type: wiki
 title: The Palace Under Root — Allegory and the Keyport Novel
 aliases:
 - The Palace Under Root — Allegory and the Keyport Novel
-- wiki/The Palace Under Root — Allegory and the Keyport Novel
 tags:
-- wiki
+- areas
 - novel
 - the-palace-under-root-allegory-and-the-keyport-novel-md
 - court
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Palace Under Root — Allegory and the Keyport Novel.md
+vault_area: Areas
+canonical_path: Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel.md
 backlink_count: 17
 backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
@@ -33,7 +32,7 @@ backlinks:
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
-- '[[wiki/The Returning Light — Monograph]]'
+- '[[Areas/Writing/The Returning Light — Monograph]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'

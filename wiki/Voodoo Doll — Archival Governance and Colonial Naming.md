@@ -28,7 +28,7 @@ backlinks:
 - '[[Resources/L’esprit du don — Godbout & Caillé (1992)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
-- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy]]'
 - '[[wiki/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography]]'

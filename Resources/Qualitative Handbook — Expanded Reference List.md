@@ -40,7 +40,7 @@ backlinks:
 - '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]'
-- '[[wiki/The Golden Bough — Frazer (Magic, Religion, Regicide)]]'
+- '[[Resources/The Golden Bough — Frazer (Magic, Religion, Regicide)]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[wiki/skills/qualitative]]'
 ---

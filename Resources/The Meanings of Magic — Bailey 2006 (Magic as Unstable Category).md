@@ -4,7 +4,6 @@ title: The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)
 aliases:
 - Bailey 2006 — Meanings of Magic
 - Magic as Category Problem
-- wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)
 tags:
 - reference
 - magic
@@ -13,7 +12,7 @@ tags:
 - sociology
 - anthropology
 - definitions
-- wiki
+- resources
 - the-meanings-of-magic-bailey-2006-magic-as-unstable-category-md
 - meanings
 - queer
@@ -22,28 +21,25 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category).md
+vault_area: Resources
+canonical_path: Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category).md
 backlink_count: 17
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[Resources/How French Canadians became White Folks — Scott 2016 (Race in Quebec)]]'
 - '[[Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'
-- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual
-  Activism Switzerland)]]'
-- '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et
-  française — Keck 2002 (Methodos)]]'
+- '[[wiki/Is Sacred Nature Gendered or Queer — Becci & Grandjean 2022 (Eco-Spiritual Activism Switzerland)]]'
+- '[[wiki/Les théories de la magie dans les traditions anthropologiques anglaise et française — Keck 2002 (Methodos)]]'
 - '[[archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26)]]'
 - '[[Resources/Magic between Europe and India — Fárek & Horák 2021 (Mantras, spells, prayers)]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[wiki/Queering Neo-Pagan Magic — MRW Submission (2026)]]'
-- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
-  vs Reclaiming)]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Resources/Sorcellerie 2.0 — Obadia & Servais (Social Compass proposal)]]'
-- '[[wiki/The Golden Bough — Frazer (Magic, Religion, Regicide)]]'
+- '[[Resources/The Golden Bough — Frazer (Magic, Religion, Regicide)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 ---

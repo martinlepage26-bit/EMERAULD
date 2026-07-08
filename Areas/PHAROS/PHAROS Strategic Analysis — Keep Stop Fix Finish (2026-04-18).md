@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal]]'
 - '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
-- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[hephaistos/personal-assistant-agents/rights-policy-warden/references/ecosystem]]'
 - '[[memory]]'
 - '[[memory/clients/Lavoie]]'

@@ -56,7 +56,7 @@ backlinks:
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
 - '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
 - '[[Areas/Writing/Spider-Man — Version Genealogy]]'
-- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'

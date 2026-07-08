@@ -19,8 +19,8 @@ tags:
 status: active
 created: '2026-07-03'
 updated: '2026-07-03'
-vault_area: wiki
-canonical_path: wiki/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure.md
 backlink_count: 1
 backlinks:
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

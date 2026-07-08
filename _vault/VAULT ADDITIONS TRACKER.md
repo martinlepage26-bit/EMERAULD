@@ -68,7 +68,7 @@ Latest notes and resources added to the EMERAULD vault.
 
 ---
 
-- 2026-07-03 | [[wiki/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure]] | Added conceptual triangulation exercise using Sue/Dan/Alex bearings to locate the stance between compliance and revolt: conditional recognition of authority under examination. Preserves the key formulations around hidden invariants, procedure as protection, legitimacy under pressure, and stress-testing institutional claims that cannot survive public collapse.
+- 2026-07-03 | [[Areas/PHAROS/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure]] | Added conceptual triangulation exercise using Sue/Dan/Alex bearings to locate the stance between compliance and revolt: conditional recognition of authority under examination. Preserves the key formulations around hidden invariants, procedure as protection, legitimacy under pressure, and stress-testing institutional claims that cannot survive public collapse.
 
 - 2026-07-03 | [[Areas/PHAROS/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time]] | Added entrepreneurship heuristic note: outcome as compressed judgment across specific knowledge, leverage, judgment, accountability, social value, time, and learning rate. Captures the anti-false-precision warning, the repeated-shots-on-goal model, and five practical questions for evaluating high-upside entrepreneurial opportunities.
 

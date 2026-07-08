@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
 ---
 

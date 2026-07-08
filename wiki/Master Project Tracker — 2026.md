@@ -49,7 +49,7 @@ backlinks:
 - '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
-- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
 - '[[Welcome]]'
 - '[[wiki/Workflows Hub]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

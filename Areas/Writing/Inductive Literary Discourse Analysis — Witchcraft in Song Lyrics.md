@@ -34,8 +34,8 @@ backlinks:
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
 - '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
-- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
-- '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---

@@ -4,7 +4,6 @@ title: The Lost-Loop Pattern — Avoidance Through System-Building
 aliases:
 - lost-loop
 - avoidance through system-building
-- wiki/The Lost-Loop Pattern — Avoidance Through System-Building
 tags:
 - meta
 - pattern
@@ -12,7 +11,7 @@ tags:
 - behavioral
 - avoidance
 - executive-function
-- wiki
+- areas
 - the-lost-loop-pattern-avoidance-through-system-building-md
 - loop
 - lost
@@ -23,8 +22,8 @@ tags:
 status: active
 created: '2026-04-25'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Lost-Loop Pattern — Avoidance Through System-Building.md
+vault_area: Areas
+canonical_path: Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building.md
 backlink_count: 22
 backlinks:
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'
@@ -43,7 +42,7 @@ backlinks:
 - '[[Areas/Personal/Rest and Consolidation Guide — Martin]]'
 - '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[Areas/Writing/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[archive/session-state/session-state-002]]'

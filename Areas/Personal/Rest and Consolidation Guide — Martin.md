@@ -30,7 +30,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal]]'
-- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[raw/Clippings/Storyteller and AI]]'
 ---
 

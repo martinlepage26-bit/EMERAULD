@@ -3,9 +3,8 @@ type: wiki
 title: The Returning Light — Monograph
 aliases:
 - The Returning Light — Monograph
-- wiki/The Returning Light — Monograph
 tags:
-- wiki
+- areas
 - monograph
 - the-returning-light-monograph-md
 - light
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Returning Light — Monograph.md
+vault_area: Areas
+canonical_path: Areas/Writing/The Returning Light — Monograph.md
 backlink_count: 23
 backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
@@ -37,8 +36,8 @@ backlinks:
 - '[[Areas/Writing/Queer Sociology of Magic and Ritual]]'
 - '[[Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
-- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
-- '[[wiki/The Weather Beneath the Walls — Novel]]'
+- '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
 - '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

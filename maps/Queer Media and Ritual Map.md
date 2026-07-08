@@ -30,7 +30,7 @@ backlinks:
   Activism Switzerland)]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
-- '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 ---
 
 # Queer Media and Ritual Map

@@ -21,7 +21,7 @@ canonical_path: memory/local-session/feedback_evidence_discipline.md
 backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[Areas/Writing/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[wiki/archive/Orphan Index — Operations And Misc — 2026-05-06]]'
 name: Evidence discipline self-correction
 description: Documented pattern correction — maintain analytical depth but fix source-grounding,

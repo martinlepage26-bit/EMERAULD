@@ -3,9 +3,8 @@ type: wiki
 title: The Familiars of Hollywood — Queerness, Whiteness, and Representation
 aliases:
 - The Familiars of Hollywood — Queerness, Whiteness, and Representation
-- wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation
 tags:
-- wiki
+- areas
 - queer
 - the-familiars-of-hollywood-queerness-whiteness-and-representation-md
 - whiteness
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation.md
+vault_area: Areas
+canonical_path: Areas/Writing/The Familiars of Hollywood — Queerness, Whiteness, and Representation.md
 backlink_count: 13
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'

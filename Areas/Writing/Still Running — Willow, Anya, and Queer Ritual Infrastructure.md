@@ -35,7 +35,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design]]'
-- '[[wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
+- '[[Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[maps/Queer Media and Ritual Map]]'
 - '[[projects/Glitching the Sacred — Fisher King Project State]]'

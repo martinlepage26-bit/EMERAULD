@@ -37,10 +37,10 @@ backlinks:
 - '[[Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal]]'
 - '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
-- '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[Areas/Writing/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
-- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
-- '[[wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
+- '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017]]'
 - '[[archive/session-state/session-state-001]]'
 ---
 

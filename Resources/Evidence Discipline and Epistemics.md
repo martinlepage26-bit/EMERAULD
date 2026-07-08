@@ -74,7 +74,7 @@ backlinks:
 - '[[Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30)]]'
 - '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
-- '[[wiki/The Compulsion to Complete — AI as Gap-Closer]]'
+- '[[Areas/Writing/The Compulsion to Complete — AI as Gap-Closer]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'

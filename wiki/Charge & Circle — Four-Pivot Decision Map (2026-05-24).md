@@ -29,7 +29,7 @@ backlink_count: 4
 backlinks:
 - '[[wiki/Charge & Circle — TTRPG Launch (2026)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/The Lost-Loop Pattern — Avoidance Through System-Building]]'
+- '[[Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

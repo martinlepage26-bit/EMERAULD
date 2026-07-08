@@ -22,7 +22,7 @@ canonical_path: Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy.m
 backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'
-- '[[wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
+- '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---

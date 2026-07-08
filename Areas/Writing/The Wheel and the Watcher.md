@@ -3,9 +3,8 @@ type: wiki
 title: The Wheel and the Watcher
 aliases:
 - The Wheel and the Watcher
-- wiki/The Wheel and the Watcher
 tags:
-- wiki
+- areas
 - the-wheel-and-the-watcher-md
 - buddhist
 - watcher
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Wheel and the Watcher.md
+vault_area: Areas
+canonical_path: Areas/Writing/The Wheel and the Watcher.md
 backlink_count: 15
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
@@ -32,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions]]'
 - '[[Areas/Writing/Self-Polygraph Protocol and Suprametacognition]]'
-- '[[wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
+- '[[Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)]]'
 - '[[wiki/Wheels of Will — Ritual Bottle Art and Research-Creation Practice]]'
 - '[[projects/Papers — Fisher King Project State]]'
 ---

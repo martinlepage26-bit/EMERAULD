@@ -4,9 +4,8 @@ title: The Weather Beneath the Walls — Novel
 aliases:
 - Weather Beneath the Walls — Novel
 - Weather Beneath the Walls
-- wiki/The Weather Beneath the Walls — Novel
 tags:
-- wiki
+- areas
 - novel
 - the-weather-beneath-the-walls-novel-md
 - etienne
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/The Weather Beneath the Walls — Novel.md
+vault_area: Areas
+canonical_path: Areas/Writing/The Weather Beneath the Walls — Novel.md
 backlink_count: 20
 backlinks:
 - '[[Areas/Writing/Alchemy of the Wound — Novel]]'
@@ -35,8 +34,8 @@ backlinks:
 - '[[Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
-- '[[wiki/The Palace Under Root — Allegory and the Keyport Novel]]'
-- '[[wiki/The Returning Light — Monograph]]'
+- '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
+- '[[Areas/Writing/The Returning Light — Monograph]]'
 - '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'

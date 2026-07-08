@@ -33,7 +33,7 @@ backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
-- '[[wiki/Trace Investigator]]'
+- '[[Areas/PHAROS/Trace Investigator]]'
 - '[[wiki/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

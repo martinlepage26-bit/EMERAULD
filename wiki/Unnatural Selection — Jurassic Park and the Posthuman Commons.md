@@ -32,7 +32,7 @@ backlinks:
 - '[[wiki/Media Studies and Pop Culture Analysis]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
-- '[[wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
+- '[[Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist]]'
 - '[[Areas/Writing/Unnatural Selection Jurassic Park — Version Genealogy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[maps/Queer Media and Ritual Map]]'

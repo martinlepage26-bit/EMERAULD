@@ -42,7 +42,7 @@ backlinks:
 - '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks]]'
 - '[[Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
-- '[[wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
+- '[[Resources/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[memory/daily/2026-04-23]]'
 - '[[projects/Stuttering Machines — Fisher King Project State]]'

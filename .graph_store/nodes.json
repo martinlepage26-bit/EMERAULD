@@ -3036,6 +3036,50 @@
     "backlinks": 14
   },
   {
+    "id": "Areas/PHAROS/Trace Investigator",
+    "title": "Trace Investigator",
+    "path": "Areas/PHAROS/Trace Investigator.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "trace investigator skill",
+      "trace-investigator"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 3,
+    "backlinks": 15
+  },
+  {
+    "id": "Areas/PHAROS/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure",
+    "title": "Triangulation Exercise — Hidden Invariant Behind Institutional Procedure",
+    "path": "Areas/PHAROS/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Anti-Unexamined Authority Triangulation",
+      "Hidden Invariant Behind Institutional Procedure",
+      "Institutional Procedure Triangulation Exercise",
+      "Legitimacy Under Examination"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 7,
+    "backlinks": 7
+  },
+  {
+    "id": "Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
+    "title": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
+    "path": "Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Trismégiste eval v2",
+      "argus eval closure 2026-05-05"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 9,
+    "backlinks": 11
+  },
+  {
     "id": "Areas/PHAROS/company",
     "title": "company",
     "path": "Areas/PHAROS/company.md",
@@ -3157,6 +3201,20 @@
     "outlinks": 5,
     "unique_outlinks": 5,
     "backlinks": 8
+  },
+  {
+    "id": "Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building",
+    "title": "The Lost-Loop Pattern — Avoidance Through System-Building",
+    "path": "Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "avoidance through system-building",
+      "lost-loop"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 9,
+    "backlinks": 30
   },
   {
     "id": "Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014)",
@@ -4717,6 +4775,84 @@
     "backlinks": 38
   },
   {
+    "id": "Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred",
+    "title": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
+    "path": "Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "The Circle Remains Open — Toward a Queer Sociology of the Sacred"
+    ],
+    "outlinks": 28,
+    "unique_outlinks": 21,
+    "backlinks": 32
+  },
+  {
+    "id": "Areas/Writing/The Compulsion to Complete — AI as Gap-Closer",
+    "title": "The Compulsion to Complete — AI as Gap-Closer",
+    "path": "Areas/Writing/The Compulsion to Complete — AI as Gap-Closer.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "The Compulsion to Complete — AI as Gap-Closer"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 8,
+    "backlinks": 42
+  },
+  {
+    "id": "Areas/Writing/The Familiars of Hollywood — Queerness, Whiteness, and Representation",
+    "title": "The Familiars of Hollywood — Queerness, Whiteness, and Representation",
+    "path": "Areas/Writing/The Familiars of Hollywood — Queerness, Whiteness, and Representation.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "The Familiars of Hollywood — Queerness, Whiteness, and Representation"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 4,
+    "backlinks": 18
+  },
+  {
+    "id": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
+    "title": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
+    "path": "Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities"
+    ],
+    "outlinks": 29,
+    "unique_outlinks": 20,
+    "backlinks": 32
+  },
+  {
+    "id": "Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel",
+    "title": "The Palace Under Root — Allegory and the Keyport Novel",
+    "path": "Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "The Palace Under Root — Allegory and the Keyport Novel"
+    ],
+    "outlinks": 21,
+    "unique_outlinks": 14,
+    "backlinks": 31
+  },
+  {
+    "id": "Areas/Writing/The Returning Light — Monograph",
+    "title": "The Returning Light — Monograph",
+    "path": "Areas/Writing/The Returning Light — Monograph.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "The Returning Light — Monograph"
+    ],
+    "outlinks": 23,
+    "unique_outlinks": 16,
+    "backlinks": 37
+  },
+  {
     "id": "Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge",
     "title": "The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge",
     "path": "Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md",
@@ -4743,6 +4879,46 @@
     "outlinks": 16,
     "unique_outlinks": 11,
     "backlinks": 56
+  },
+  {
+    "id": "Areas/Writing/The Weather Beneath the Walls — Novel",
+    "title": "The Weather Beneath the Walls — Novel",
+    "path": "Areas/Writing/The Weather Beneath the Walls — Novel.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Weather Beneath the Walls",
+      "Weather Beneath the Walls — Novel"
+    ],
+    "outlinks": 21,
+    "unique_outlinks": 15,
+    "backlinks": 25
+  },
+  {
+    "id": "Areas/Writing/The Wheel and the Watcher",
+    "title": "The Wheel and the Watcher",
+    "path": "Areas/Writing/The Wheel and the Watcher.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "The Wheel and the Watcher"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 4,
+    "backlinks": 24
+  },
+  {
+    "id": "Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
+    "title": "Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
+    "path": "Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Transmutation and the Body — Queer Ethics in Fullmetal Alchemist"
+    ],
+    "outlinks": 16,
+    "unique_outlinks": 7,
+    "backlinks": 14
   },
   {
     "id": "Areas/Writing/Trust Advantage — Version Genealogy",
@@ -7328,6 +7504,105 @@
     "backlinks": 11
   },
   {
+    "id": "Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)",
+    "title": "The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)",
+    "path": "Resources/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "The goddess and her icon",
+      "Zarkadakis 2024 goddess icon",
+      "body and mind in AI"
+    ],
+    "outlinks": 9,
+    "unique_outlinks": 7,
+    "backlinks": 11
+  },
+  {
+    "id": "Resources/The Golden Bough — Frazer (Magic, Religion, Regicide)",
+    "title": "The Golden Bough — Frazer (Magic, Religion, Regicide)",
+    "path": "Resources/The Golden Bough — Frazer (Magic, Religion, Regicide).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Frazer — The Golden Bough",
+      "The Golden Bough (Abridged)"
+    ],
+    "outlinks": 2,
+    "unique_outlinks": 2,
+    "backlinks": 13
+  },
+  {
+    "id": "Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)",
+    "title": "The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)",
+    "path": "Resources/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Bailey 2006 — Meanings of Magic",
+      "Magic as Category Problem"
+    ],
+    "outlinks": 16,
+    "unique_outlinks": 15,
+    "backlinks": 22
+  },
+  {
+    "id": "Resources/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)",
+    "title": "The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)",
+    "path": "Resources/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "The Protestant Ethic (Weber)",
+      "Weber — Protestant Ethic"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 4,
+    "backlinks": 9
+  },
+  {
+    "id": "Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017",
+    "title": "The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017",
+    "path": "Resources/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Douglas et al 2017 conspiracy theories",
+      "Psychology of conspiracy theories (CDPS 2017)"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 10,
+    "backlinks": 12
+  },
+  {
+    "id": "Resources/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)",
+    "title": "The ethnographer and the algorithm — Christin 2020 (Beyond the black box)",
+    "path": "Resources/The ethnographer and the algorithm — Christin 2020 (Beyond the black box).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Algorithmic ethnography toolkit (Christin)",
+      "Christin 2020 ethnographer and the algorithm"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 4,
+    "backlinks": 8
+  },
+  {
+    "id": "Resources/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)",
+    "title": "Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)",
+    "path": "Resources/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Paquin 2025 transparency",
+      "Transparency Against Democracy (Politics and Governance 2025)"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 8,
+    "backlinks": 11
+  },
+  {
     "id": "Resources/glossary",
     "title": "glossary",
     "path": "Resources/glossary.md",
@@ -7598,285 +7873,6 @@
     "backlinks": 0
   },
   {
-    "id": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
-    "title": "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
-    "path": "wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "The Circle Remains Open — Toward a Queer Sociology of the Sacred",
-      "wiki/The Circle Remains Open — Toward a Queer Sociology of the Sacred"
-    ],
-    "outlinks": 28,
-    "unique_outlinks": 21,
-    "backlinks": 32
-  },
-  {
-    "id": "The Compulsion to Complete — AI as Gap-Closer",
-    "title": "The Compulsion to Complete — AI as Gap-Closer",
-    "path": "wiki/The Compulsion to Complete — AI as Gap-Closer.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "The Compulsion to Complete — AI as Gap-Closer",
-      "wiki/The Compulsion to Complete — AI as Gap-Closer"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 8,
-    "backlinks": 42
-  },
-  {
-    "id": "The Familiars of Hollywood — Queerness, Whiteness, and Representation",
-    "title": "The Familiars of Hollywood — Queerness, Whiteness, and Representation",
-    "path": "wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "The Familiars of Hollywood — Queerness, Whiteness, and Representation",
-      "wiki/The Familiars of Hollywood — Queerness, Whiteness, and Representation"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 4,
-    "backlinks": 18
-  },
-  {
-    "id": "The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)",
-    "title": "The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)",
-    "path": "wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "The goddess and her icon",
-      "Zarkadakis 2024 goddess icon",
-      "body and mind in AI",
-      "wiki/The Goddess and Her Icon — Zarkadakis 2024 (AI Body Mind)"
-    ],
-    "outlinks": 9,
-    "unique_outlinks": 7,
-    "backlinks": 11
-  },
-  {
-    "id": "The Golden Bough — Frazer (Magic, Religion, Regicide)",
-    "title": "The Golden Bough — Frazer (Magic, Religion, Regicide)",
-    "path": "wiki/The Golden Bough — Frazer (Magic, Religion, Regicide).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Frazer — The Golden Bough",
-      "The Golden Bough (Abridged)",
-      "wiki/The Golden Bough — Frazer (Magic, Religion, Regicide)"
-    ],
-    "outlinks": 2,
-    "unique_outlinks": 2,
-    "backlinks": 13
-  },
-  {
-    "id": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-    "title": "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-    "path": "wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities",
-      "wiki/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities"
-    ],
-    "outlinks": 29,
-    "unique_outlinks": 20,
-    "backlinks": 32
-  },
-  {
-    "id": "The Lost-Loop Pattern — Avoidance Through System-Building",
-    "title": "The Lost-Loop Pattern — Avoidance Through System-Building",
-    "path": "wiki/The Lost-Loop Pattern — Avoidance Through System-Building.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "avoidance through system-building",
-      "lost-loop",
-      "wiki/The Lost-Loop Pattern — Avoidance Through System-Building"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 9,
-    "backlinks": 30
-  },
-  {
-    "id": "The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)",
-    "title": "The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)",
-    "path": "wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Bailey 2006 — Meanings of Magic",
-      "Magic as Category Problem",
-      "wiki/The Meanings of Magic — Bailey 2006 (Magic as Unstable Category)"
-    ],
-    "outlinks": 16,
-    "unique_outlinks": 15,
-    "backlinks": 22
-  },
-  {
-    "id": "The Palace Under Root — Allegory and the Keyport Novel",
-    "title": "The Palace Under Root — Allegory and the Keyport Novel",
-    "path": "wiki/The Palace Under Root — Allegory and the Keyport Novel.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "The Palace Under Root — Allegory and the Keyport Novel",
-      "wiki/The Palace Under Root — Allegory and the Keyport Novel"
-    ],
-    "outlinks": 21,
-    "unique_outlinks": 14,
-    "backlinks": 31
-  },
-  {
-    "id": "The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)",
-    "title": "The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)",
-    "path": "wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "The Protestant Ethic (Weber)",
-      "Weber — Protestant Ethic",
-      "wiki/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 4,
-    "backlinks": 9
-  },
-  {
-    "id": "The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017",
-    "title": "The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017",
-    "path": "wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Douglas et al 2017 conspiracy theories",
-      "Psychology of conspiracy theories (CDPS 2017)",
-      "wiki/The Psychology of Conspiracy Theories — Douglas, Sutton, Cichocka 2017"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 10,
-    "backlinks": 12
-  },
-  {
-    "id": "The Returning Light — Monograph",
-    "title": "The Returning Light — Monograph",
-    "path": "wiki/The Returning Light — Monograph.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "The Returning Light — Monograph",
-      "wiki/The Returning Light — Monograph"
-    ],
-    "outlinks": 23,
-    "unique_outlinks": 16,
-    "backlinks": 37
-  },
-  {
-    "id": "The Weather Beneath the Walls — Novel",
-    "title": "The Weather Beneath the Walls — Novel",
-    "path": "wiki/The Weather Beneath the Walls — Novel.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Weather Beneath the Walls",
-      "Weather Beneath the Walls — Novel",
-      "wiki/The Weather Beneath the Walls — Novel"
-    ],
-    "outlinks": 21,
-    "unique_outlinks": 15,
-    "backlinks": 25
-  },
-  {
-    "id": "The Wheel and the Watcher",
-    "title": "The Wheel and the Watcher",
-    "path": "wiki/The Wheel and the Watcher.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "The Wheel and the Watcher",
-      "wiki/The Wheel and the Watcher"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 4,
-    "backlinks": 24
-  },
-  {
-    "id": "The ethnographer and the algorithm — Christin 2020 (Beyond the black box)",
-    "title": "The ethnographer and the algorithm — Christin 2020 (Beyond the black box)",
-    "path": "wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the black box).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Algorithmic ethnography toolkit (Christin)",
-      "Christin 2020 ethnographer and the algorithm",
-      "wiki/The ethnographer and the algorithm — Christin 2020 (Beyond the black box)"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 4,
-    "backlinks": 8
-  },
-  {
-    "id": "Trace Investigator",
-    "title": "Trace Investigator",
-    "path": "wiki/Trace Investigator.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "trace investigator skill",
-      "trace-investigator",
-      "wiki/Trace Investigator"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 3,
-    "backlinks": 15
-  },
-  {
-    "id": "Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
-    "title": "Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
-    "path": "wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Transmutation and the Body — Queer Ethics in Fullmetal Alchemist",
-      "wiki/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist"
-    ],
-    "outlinks": 16,
-    "unique_outlinks": 7,
-    "backlinks": 14
-  },
-  {
-    "id": "Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)",
-    "title": "Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)",
-    "path": "wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Paquin 2025 transparency",
-      "Transparency Against Democracy (Politics and Governance 2025)",
-      "wiki/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 8,
-    "backlinks": 11
-  },
-  {
-    "id": "Triangulation Exercise — Hidden Invariant Behind Institutional Procedure",
-    "title": "Triangulation Exercise — Hidden Invariant Behind Institutional Procedure",
-    "path": "wiki/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Anti-Unexamined Authority Triangulation",
-      "Hidden Invariant Behind Institutional Procedure",
-      "Institutional Procedure Triangulation Exercise",
-      "Legitimacy Under Examination"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 7,
-    "backlinks": 7
-  },
-  {
     "id": "Trismégiste",
     "title": "Trismégiste",
     "path": "wiki/Trismégiste.md",
@@ -7890,21 +7886,6 @@
     "outlinks": 4,
     "unique_outlinks": 4,
     "backlinks": 2
-  },
-  {
-    "id": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
-    "title": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
-    "path": "wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Trismégiste eval v2",
-      "argus eval closure 2026-05-05",
-      "wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 9,
-    "backlinks": 11
   },
   {
     "id": "Trismégiste Master Synthesis — 2026-05-13 Source Set",

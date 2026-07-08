@@ -49,7 +49,7 @@ backlinks:
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
-- '[[wiki/Trace Investigator]]'
+- '[[Areas/PHAROS/Trace Investigator]]'
 - '[[wiki/Vault Graph Hygiene — Content Title Normalization Skill]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/brief-to-tasks]]'

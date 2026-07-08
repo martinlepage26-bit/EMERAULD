@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control]]'
 - '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[Areas/PHAROS/RIA-CODEX — System Audit Protocol]]'
-- '[[wiki/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
+- '[[Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[governance/governance-index]]'
 ---
