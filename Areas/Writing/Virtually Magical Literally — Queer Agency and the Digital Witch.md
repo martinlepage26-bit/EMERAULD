@@ -3,9 +3,8 @@ type: wiki
 title: Virtually Magical Literally — Queer Agency and the Digital Witch
 aliases:
 - Virtually Magical Literally — Queer Agency and the Digital Witch
-- wiki/Virtually Magical Literally — Queer Agency and the Digital Witch
 tags:
-- wiki
+- areas
 - magic
 - queer
 - virtually-magical-literally-queer-agency-and-the-digital-witch-md
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Virtually Magical Literally — Queer Agency and the Digital Witch.md
+vault_area: Areas
+canonical_path: Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch.md
 backlink_count: 12
 backlinks:
 - '[[wiki/Dr. Sort Corpus Map — March 2026]]'
@@ -31,7 +30,7 @@ backlinks:
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---
 

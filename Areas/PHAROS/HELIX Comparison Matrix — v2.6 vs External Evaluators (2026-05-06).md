@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
 - '[[Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026)]]'
 - '[[Resources/Recursive Governance Theory]]'
-- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

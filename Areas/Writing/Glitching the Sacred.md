@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Master Project Tracker — 2026]]'
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[projects/Glitching the Sacred — Fisher King Project State]]'

@@ -1,28 +1,28 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T05:37:44Z
+Built: 2026-07-08T05:37:45Z
 Corpus: wiki/**/*.md
 
 ## Summary
 
 - Nodes: 1415
-- Directed edges: 13125
-- Link mentions: 20797
+- Directed edges: 13112
+- Link mentions: 20793
 - Unresolved wikilinks: 3193
 - Connected components: 47
 - Largest component: 1360
-- Zero-backlink notes: 65
-- One-backlink notes: 167
-- Two-backlink notes: 367
+- Zero-backlink notes: 66
+- One-backlink notes: 168
+- Two-backlink notes: 368
 
 ## Backlink Histogram
 
-- 0: 65
-- 1: 167
-- 101+: 28
-- 11-20: 199
-- 2: 367
-- 21-50: 152
+- 0: 66
+- 1: 168
+- 101+: 29
+- 11-20: 198
+- 2: 368
+- 21-50: 149
 - 3-4: 168
 - 5-6: 66
 - 51-100: 43
@@ -30,7 +30,7 @@ Corpus: wiki/**/*.md
 
 ## Low-Backlink Notes
 
-### Zero backlink (65)
+### Zero backlink (66)
 - [[ASSETS MOC]]
 - [[Areas/PHAROS/AREA]]
 - [[Areas/Personal/AREA]]
@@ -53,6 +53,7 @@ Corpus: wiki/**/*.md
 - [[graph/nodes/unmapped/compassai]]
 - [[graph/nodes/unmapped/content_to_market_pipeline_workflow]]
 - [[graph/nodes/unmapped/emerauld_intake_rule_workflow]]
+- [[graph/nodes/unmapped/emerauld_vault]]
 - [[graph/nodes/unmapped/gaia_product]]
 - [[graph/nodes/unmapped/helix_product]]
 - [[graph/nodes/unmapped/hermes_dashboard_tool]]
@@ -97,7 +98,8 @@ Corpus: wiki/**/*.md
 - [[projects/security-audit-skill/multi-agent-orchestration/run-1/phase2-hunt-findings]]
 - [[projects/security-audit-skill/multi-agent-orchestration/run-1/phase3-validation]]
 
-### One backlink (167)
+### One backlink (168)
+- [[EMERAULD]]
 - [[archive/CO-EQUAL-AUTHORITY-DECISION]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/01_Recursive_AI_Governance_Very_Long_Narrative]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/02_PHAROS_Master_SOP]]
@@ -197,11 +199,11 @@ Corpus: wiki/**/*.md
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/ecosystem]]
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/evolution]]
 - [[hephaistos/personal-assistant-agents/metadata-link-warden/references/method]]
-- [[hephaistos/personal-assistant-agents/metadata-link-warden/references/subjectivity]]
-- ... 67 more
+- ... 68 more
 
-### Two backlink (367)
+### Two backlink (368)
 - [[Agent Logs Hub]]
+- [[Areas/PHAROS/Trismégiste]]
 - [[Areas/Personal/Personal OS]]
 - [[Daily Dashboard]]
 - [[Home]]
@@ -254,7 +256,6 @@ Corpus: wiki/**/*.md
 - [[Projects Hub]]
 - [[Publications/BOOKS/essay_identity_enforceable]]
 - [[Publications/Papers and Chapters/Rivard2026/Pourquoi rêver encore-@nalyses-REWRITE]]
-- [[Trismégiste]]
 - [[WIKI-ROUTING-REPORT]]
 - [[Workflows Hub]]
 - [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05_From_Recursive_Production_to_Governable_Method]]
@@ -301,7 +302,7 @@ Corpus: wiki/**/*.md
 - [[bridges/Bridge - 2013 - 23 ISSN 1528-0268 print]]
 - [[bridges/Bridge - 2013 - auditorassessment 2]]
 - [[bridges/Bridge - 2013 - auditorassessment 3]]
-- ... 267 more
+- ... 268 more
 
 ## Components
 
@@ -365,10 +366,10 @@ Corpus: wiki/**/*.md
 - `Dr_Sort_masterlist_2026-03-08`: 4
 - `Welcome to this course on ethical and societal asp`: 4
 - `_vault/VAULT ADDITIONS TRACKER`: 4
+- `Dr. Sort Filename Normalization — 2026-05-06`: 4
 - `Session State — Project Name`: 4
 - `Project Hub`: 4
 - `EMERAULD_OS_ARCHITECTURE`: 4
-- `Dr. Sort Filename Normalization — 2026-05-06`: 4
 - `path`: 4
 - `HELIX test Epstein`: 3
 - `HELIX test CC`: 3

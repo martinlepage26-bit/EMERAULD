@@ -23,7 +23,7 @@ backlink_count: 3
 backlinks:
 - '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
 - '[[wiki/VAULT ADDITIONS TRACKER]]'
-- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # Workspace Cleanup Ledger — 2026-05-31

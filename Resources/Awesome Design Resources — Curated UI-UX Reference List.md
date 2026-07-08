@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # Awesome Design Resources — Curated UI-UX Reference List

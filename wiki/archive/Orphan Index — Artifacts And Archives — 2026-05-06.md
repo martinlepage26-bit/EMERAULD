@@ -25,7 +25,7 @@ canonical_path: wiki/archive/Orphan Index — Artifacts And Archives — 2026-05
 backlink_count: 2
 backlinks:
 - '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
-- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # Orphan Index — Artifacts And Archives — 2026-05-06

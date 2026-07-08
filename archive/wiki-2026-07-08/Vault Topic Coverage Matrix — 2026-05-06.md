@@ -4,14 +4,13 @@ title: Vault Topic Coverage Matrix — 2026-05-06
 aliases:
 - Vault topic coverage matrix
 - All topics coverage matrix
-- wiki/Vault Topic Coverage Matrix — 2026-05-06
 tags:
 - coverage
 - topics
 - map
 - provenance
 - vault-maintenance
-- wiki
+- archive
 - vault-topic-coverage-matrix-2026-05-06-md
 - downloads
 - topic
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Vault Topic Coverage Matrix — 2026-05-06.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06.md
 backlink_count: 17
 backlinks:
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
@@ -39,7 +38,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
-- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

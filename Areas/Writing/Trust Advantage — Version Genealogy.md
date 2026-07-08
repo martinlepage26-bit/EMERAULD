@@ -22,7 +22,7 @@ backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'
 - '[[wiki/Home]]'
-- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---

@@ -38,7 +38,7 @@ backlinks:
 - '[[Resources/Phenomenology Hermeneutics Heuristics — Robinson 1996 Seminar Critique]]'
 - '[[Resources/Process-Tracing Methods — Beach & Pedersen 2019 (Mechanisms and Evidence)]]'
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
-- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]'
 - '[[archive/session-state/session-state-001]]'

@@ -3,9 +3,8 @@ type: wiki
 title: Vault Linking Gaps & Bridge Opportunities — 2026-05-01
 aliases:
 - VAULT-LINKING-GAPS-2026-05-01
-- wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01
 tags:
-- wiki
+- archive
 - bridge
 - vault-linking-gaps-bridge-opportunities-2026-05-01-md
 - bridges
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01.md
 backlink_count: 7
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
@@ -26,7 +25,7 @@ backlinks:
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # Vault Linking Gaps & Bridge Opportunities — 2026-05-01

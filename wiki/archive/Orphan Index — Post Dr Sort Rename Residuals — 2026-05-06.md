@@ -23,7 +23,7 @@ backlink_count: 3
 backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
-- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 date: '2026-05-06'
 scope: post-dr-sort-rename residual graph repair
 ---

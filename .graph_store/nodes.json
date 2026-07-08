@@ -3066,6 +3066,20 @@
     "backlinks": 7
   },
   {
+    "id": "Areas/PHAROS/Trismégiste",
+    "title": "Trismégiste",
+    "path": "Areas/PHAROS/Trismégiste.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Trismégiste hub",
+      "Trismégiste operator surface"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 4,
+    "backlinks": 2
+  },
+  {
     "id": "Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
     "title": "Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)",
     "path": "Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md",
@@ -3078,6 +3092,78 @@
     "outlinks": 13,
     "unique_outlinks": 9,
     "backlinks": 11
+  },
+  {
+    "id": "Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set",
+    "title": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
+    "path": "Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set.md",
+    "type": "synthesis-master",
+    "status": "active",
+    "aliases": [
+      "Trismégiste Master Synthesis — 2026-05-13 Source Set"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 10,
+    "backlinks": 5
+  },
+  {
+    "id": "Areas/PHAROS/Trismégiste — Operator State",
+    "title": "Trismégiste — Operator State",
+    "path": "Areas/PHAROS/Trismégiste — Operator State.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Operator state (Trismégiste)",
+      "Trismégiste operator state"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 3,
+    "backlinks": 12
+  },
+  {
+    "id": "Areas/PHAROS/Trismégiste — Personal AI Assistant",
+    "title": "Trismégiste — Personal AI Assistant",
+    "path": "Areas/PHAROS/Trismégiste — Personal AI Assistant.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "EMERAULD",
+      "EMERAULD Persistence Stack",
+      "EMERAULD Second Brain — Project Context",
+      "EMERAULD agent",
+      "Trismégiste",
+      "second brain agent"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 13,
+    "backlinks": 120
+  },
+  {
+    "id": "Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance",
+    "title": "Trust Advantage Analysis — Sales and AI Governance",
+    "path": "Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Trust Advantage Analysis"
+    ],
+    "outlinks": 20,
+    "unique_outlinks": 12,
+    "backlinks": 57
+  },
+  {
+    "id": "Areas/PHAROS/VoiceBridge Foundation",
+    "title": "VoiceBridge Foundation",
+    "path": "Areas/PHAROS/VoiceBridge Foundation.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "AAC bridge fund",
+      "VoiceBridge"
+    ],
+    "outlinks": 4,
+    "unique_outlinks": 2,
+    "backlinks": 6
   },
   {
     "id": "Areas/PHAROS/company",
@@ -4947,6 +5033,19 @@
     "backlinks": 4
   },
   {
+    "id": "Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons",
+    "title": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
+    "path": "Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Unnatural Selection — Jurassic Park and the Posthuman Commons"
+    ],
+    "outlinks": 18,
+    "unique_outlinks": 9,
+    "backlinks": 23
+  },
+  {
     "id": "Areas/Writing/Version Genealogy System",
     "title": "Version Genealogy System",
     "path": "Areas/Writing/Version Genealogy System.md",
@@ -4960,6 +5059,19 @@
     "backlinks": 22
   },
   {
+    "id": "Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch",
+    "title": "Virtually Magical Literally — Queer Agency and the Digital Witch",
+    "path": "Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Virtually Magical Literally — Queer Agency and the Digital Witch"
+    ],
+    "outlinks": 14,
+    "unique_outlinks": 9,
+    "backlinks": 17
+  },
+  {
     "id": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy",
     "title": "Voodoo Doll as Archival Problem — Version Genealogy",
     "path": "Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy.md",
@@ -4971,6 +5083,32 @@
     "outlinks": 3,
     "unique_outlinks": 3,
     "backlinks": 9
+  },
+  {
+    "id": "Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming",
+    "title": "Voodoo Doll — Archival Governance and Colonial Naming",
+    "path": "Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Voodoo Doll — Archival Governance and Colonial Naming"
+    ],
+    "outlinks": 20,
+    "unique_outlinks": 10,
+    "backlinks": 17
+  },
+  {
+    "id": "Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter",
+    "title": "WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter",
+    "path": "Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 8,
+    "backlinks": 21
   },
   {
     "id": "Areas/Writing/Why Be King Im Already a Queen — Book Project",
@@ -5234,7 +5372,7 @@
     ],
     "outlinks": 11,
     "unique_outlinks": 11,
-    "backlinks": 23
+    "backlinks": 1
   },
   {
     "id": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
@@ -5791,7 +5929,7 @@
       "wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)"
     ],
     "outlinks": 8,
-    "unique_outlinks": 4,
+    "unique_outlinks": 3,
     "backlinks": 7
   },
   {
@@ -7603,6 +7741,20 @@
     "backlinks": 11
   },
   {
+    "id": "Resources/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography",
+    "title": "Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography",
+    "path": "Resources/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Haitian Voodoo (Métraux)",
+      "Métraux — Voodoo"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 3,
+    "backlinks": 10
+  },
+  {
     "id": "Resources/glossary",
     "title": "glossary",
     "path": "Resources/glossary.md",
@@ -7873,97 +8025,6 @@
     "backlinks": 0
   },
   {
-    "id": "Trismégiste",
-    "title": "Trismégiste",
-    "path": "wiki/Trismégiste.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Trismégiste hub",
-      "Trismégiste operator surface",
-      "wiki/Trismégiste"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 4,
-    "backlinks": 2
-  },
-  {
-    "id": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
-    "title": "Trismégiste Master Synthesis — 2026-05-13 Source Set",
-    "path": "wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set.md",
-    "type": "synthesis-master",
-    "status": "active",
-    "aliases": [
-      "Trismégiste Master Synthesis — 2026-05-13 Source Set",
-      "wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 10,
-    "backlinks": 5
-  },
-  {
-    "id": "Trismégiste — Operator State",
-    "title": "Trismégiste — Operator State",
-    "path": "wiki/Trismégiste — Operator State.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Operator state (Trismégiste)",
-      "Trismégiste operator state",
-      "wiki/Trismégiste — Operator State"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 3,
-    "backlinks": 12
-  },
-  {
-    "id": "Trismégiste — Personal AI Assistant",
-    "title": "Trismégiste — Personal AI Assistant",
-    "path": "wiki/Trismégiste — Personal AI Assistant.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "EMERAULD",
-      "EMERAULD Persistence Stack",
-      "EMERAULD Second Brain — Project Context",
-      "EMERAULD agent",
-      "Trismégiste",
-      "second brain agent",
-      "wiki/Trismégiste — Personal AI Assistant"
-    ],
-    "outlinks": 19,
-    "unique_outlinks": 14,
-    "backlinks": 17
-  },
-  {
-    "id": "Trust Advantage Analysis — Sales and AI Governance",
-    "title": "Trust Advantage Analysis — Sales and AI Governance",
-    "path": "wiki/Trust Advantage Analysis — Sales and AI Governance.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Trust Advantage Analysis",
-      "wiki/Trust Advantage Analysis — Sales and AI Governance"
-    ],
-    "outlinks": 20,
-    "unique_outlinks": 12,
-    "backlinks": 57
-  },
-  {
-    "id": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
-    "title": "Unnatural Selection — Jurassic Park and the Posthuman Commons",
-    "path": "wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Unnatural Selection — Jurassic Park and the Posthuman Commons",
-      "wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons"
-    ],
-    "outlinks": 18,
-    "unique_outlinks": 9,
-    "backlinks": 23
-  },
-  {
     "id": "VAULT ADDITIONS TRACKER",
     "title": "VAULT ADDITIONS TRACKER",
     "path": "wiki/VAULT ADDITIONS TRACKER.md",
@@ -7976,66 +8037,6 @@
     "outlinks": 4,
     "unique_outlinks": 4,
     "backlinks": 53
-  },
-  {
-    "id": "Vault Cluster Discovery and Linking Opportunities — 2026-05-01",
-    "title": "Vault Cluster Discovery and Linking Opportunities — 2026-05-01",
-    "path": "wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "VAULT-CLUSTER-DISCOVERY-2026-05-01",
-      "wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01"
-    ],
-    "outlinks": 44,
-    "unique_outlinks": 21,
-    "backlinks": 19
-  },
-  {
-    "id": "Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)",
-    "title": "Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)",
-    "path": "wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Trismégiste x Hermes cluster pass",
-      "Vault cluster pass 2026-05-06",
-      "wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 10,
-    "backlinks": 10
-  },
-  {
-    "id": "Vault Deep Linking Pass — 2026-05-06",
-    "title": "Vault Deep Linking Pass — 2026-05-06",
-    "path": "wiki/Vault Deep Linking Pass — 2026-05-06.md",
-    "type": "wiki",
-    "status": "complete",
-    "aliases": [
-      "EMERAULD deep linking pass 2026-05-06",
-      "Vault graph repair pass 2026-05-06",
-      "wiki/Vault Deep Linking Pass — 2026-05-06"
-    ],
-    "outlinks": 80,
-    "unique_outlinks": 47,
-    "backlinks": 11
-  },
-  {
-    "id": "Vault Delta Interconnectivity Atlas — 2026-05-06",
-    "title": "Vault Delta Interconnectivity Atlas — 2026-05-06",
-    "path": "wiki/Vault Delta Interconnectivity Atlas — 2026-05-06.md",
-    "type": "map",
-    "status": "active",
-    "aliases": [
-      "Delta interconnectivity atlas",
-      "Full interconnectivity pass",
-      "Vault interconnectivity atlas",
-      "wiki/Vault Delta Interconnectivity Atlas — 2026-05-06"
-    ],
-    "outlinks": 112,
-    "unique_outlinks": 87,
-    "backlinks": 22
   },
   {
     "id": "Vault Graph Hygiene — Content Title Normalization Skill",
@@ -8077,150 +8078,6 @@
     "outlinks": 6,
     "unique_outlinks": 3,
     "backlinks": 9
-  },
-  {
-    "id": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
-    "title": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
-    "path": "wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "VAULT-LINKING-GAPS-2026-05-01",
-      "wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01"
-    ],
-    "outlinks": 71,
-    "unique_outlinks": 60,
-    "backlinks": 11
-  },
-  {
-    "id": "Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)",
-    "title": "Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)",
-    "path": "wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "VAULT-SCAN-2026-05-01-15m-LOOP-1",
-      "Vault Linking Scan — 2026-05-01, 15:XX (Loop Iteration 1)",
-      "wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)"
-    ],
-    "outlinks": 10,
-    "unique_outlinks": 9,
-    "backlinks": 8
-  },
-  {
-    "id": "Vault Linking Session 2 Summary — 2026-05-01",
-    "title": "Vault Linking Session 2 Summary — 2026-05-01",
-    "path": "wiki/Vault Linking Session 2 Summary — 2026-05-01.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "VAULT-LINKING-SESSION-2-SUMMARY-2026-05-01",
-      "wiki/Vault Linking Session 2 Summary — 2026-05-01"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 3,
-    "backlinks": 10
-  },
-  {
-    "id": "Vault Linking Session Summary — 2026-05-01",
-    "title": "Vault Linking Session Summary — 2026-05-01",
-    "path": "wiki/Vault Linking Session Summary — 2026-05-01.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "VAULT-LINKING-SESSION-SUMMARY-2026-05-01",
-      "wiki/Vault Linking Session Summary — 2026-05-01"
-    ],
-    "outlinks": 2,
-    "unique_outlinks": 2,
-    "backlinks": 9
-  },
-  {
-    "id": "Vault Topic Coverage Matrix — 2026-05-06",
-    "title": "Vault Topic Coverage Matrix — 2026-05-06",
-    "path": "wiki/Vault Topic Coverage Matrix — 2026-05-06.md",
-    "type": "map",
-    "status": "active",
-    "aliases": [
-      "All topics coverage matrix",
-      "Vault topic coverage matrix",
-      "wiki/Vault Topic Coverage Matrix — 2026-05-06"
-    ],
-    "outlinks": 40,
-    "unique_outlinks": 31,
-    "backlinks": 19
-  },
-  {
-    "id": "Virtually Magical Literally — Queer Agency and the Digital Witch",
-    "title": "Virtually Magical Literally — Queer Agency and the Digital Witch",
-    "path": "wiki/Virtually Magical Literally — Queer Agency and the Digital Witch.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Virtually Magical Literally — Queer Agency and the Digital Witch",
-      "wiki/Virtually Magical Literally — Queer Agency and the Digital Witch"
-    ],
-    "outlinks": 14,
-    "unique_outlinks": 9,
-    "backlinks": 17
-  },
-  {
-    "id": "VoiceBridge Foundation",
-    "title": "VoiceBridge Foundation",
-    "path": "wiki/VoiceBridge Foundation.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "AAC bridge fund",
-      "VoiceBridge",
-      "wiki/VoiceBridge Foundation"
-    ],
-    "outlinks": 4,
-    "unique_outlinks": 2,
-    "backlinks": 6
-  },
-  {
-    "id": "Voodoo Doll — Archival Governance and Colonial Naming",
-    "title": "Voodoo Doll — Archival Governance and Colonial Naming",
-    "path": "wiki/Voodoo Doll — Archival Governance and Colonial Naming.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Voodoo Doll — Archival Governance and Colonial Naming",
-      "wiki/Voodoo Doll — Archival Governance and Colonial Naming"
-    ],
-    "outlinks": 20,
-    "unique_outlinks": 10,
-    "backlinks": 17
-  },
-  {
-    "id": "Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography",
-    "title": "Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography",
-    "path": "wiki/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Haitian Voodoo (Métraux)",
-      "Métraux — Voodoo",
-      "wiki/Voodoo — Alfred Métraux (1959) — Haitian Voodoo ethnography"
-    ],
-    "outlinks": 3,
-    "unique_outlinks": 3,
-    "backlinks": 10
-  },
-  {
-    "id": "WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter",
-    "title": "WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter",
-    "path": "wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter",
-      "wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 8,
-    "backlinks": 21
   },
   {
     "id": "WIKI-ROUTING-REPORT",
@@ -9616,6 +9473,129 @@
     "backlinks": 25
   },
   {
+    "id": "archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01",
+    "title": "Vault Cluster Discovery and Linking Opportunities — 2026-05-01",
+    "path": "archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "VAULT-CLUSTER-DISCOVERY-2026-05-01"
+    ],
+    "outlinks": 44,
+    "unique_outlinks": 21,
+    "backlinks": 19
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)",
+    "title": "Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)",
+    "path": "archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Trismégiste x Hermes cluster pass",
+      "Vault cluster pass 2026-05-06"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 10,
+    "backlinks": 10
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06",
+    "title": "Vault Deep Linking Pass — 2026-05-06",
+    "path": "archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06.md",
+    "type": "wiki",
+    "status": "complete",
+    "aliases": [
+      "EMERAULD deep linking pass 2026-05-06",
+      "Vault graph repair pass 2026-05-06"
+    ],
+    "outlinks": 80,
+    "unique_outlinks": 47,
+    "backlinks": 11
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "title": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "path": "archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06.md",
+    "type": "map",
+    "status": "active",
+    "aliases": [
+      "Delta interconnectivity atlas",
+      "Full interconnectivity pass",
+      "Vault interconnectivity atlas"
+    ],
+    "outlinks": 112,
+    "unique_outlinks": 87,
+    "backlinks": 22
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "title": "Vault Linking Gaps & Bridge Opportunities — 2026-05-01",
+    "path": "archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "VAULT-LINKING-GAPS-2026-05-01"
+    ],
+    "outlinks": 71,
+    "unique_outlinks": 60,
+    "backlinks": 11
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)",
+    "title": "Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)",
+    "path": "archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "VAULT-SCAN-2026-05-01-15m-LOOP-1",
+      "Vault Linking Scan — 2026-05-01, 15:XX (Loop Iteration 1)"
+    ],
+    "outlinks": 10,
+    "unique_outlinks": 9,
+    "backlinks": 8
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Vault Linking Session 2 Summary — 2026-05-01",
+    "title": "Vault Linking Session 2 Summary — 2026-05-01",
+    "path": "archive/wiki-2026-07-08/Vault Linking Session 2 Summary — 2026-05-01.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "VAULT-LINKING-SESSION-2-SUMMARY-2026-05-01"
+    ],
+    "outlinks": 3,
+    "unique_outlinks": 3,
+    "backlinks": 10
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Vault Linking Session Summary — 2026-05-01",
+    "title": "Vault Linking Session Summary — 2026-05-01",
+    "path": "archive/wiki-2026-07-08/Vault Linking Session Summary — 2026-05-01.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "VAULT-LINKING-SESSION-SUMMARY-2026-05-01"
+    ],
+    "outlinks": 2,
+    "unique_outlinks": 2,
+    "backlinks": 9
+  },
+  {
+    "id": "archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06",
+    "title": "Vault Topic Coverage Matrix — 2026-05-06",
+    "path": "archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06.md",
+    "type": "map",
+    "status": "active",
+    "aliases": [
+      "All topics coverage matrix",
+      "Vault topic coverage matrix"
+    ],
+    "outlinks": 40,
+    "unique_outlinks": 31,
+    "backlinks": 19
+  },
+  {
     "id": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31",
     "title": "Workspace Cleanup Ledger — 2026-05-31",
     "path": "archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31.md",
@@ -10499,7 +10479,7 @@
       "stale-projects-2026-07-04"
     ],
     "outlinks": 427,
-    "unique_outlinks": 427,
+    "unique_outlinks": 425,
     "backlinks": 3
   },
   {
@@ -10512,7 +10492,7 @@
       "stale-projects-2026-07-05"
     ],
     "outlinks": 426,
-    "unique_outlinks": 424,
+    "unique_outlinks": 422,
     "backlinks": 2
   },
   {
@@ -10523,7 +10503,7 @@
     "status": "active",
     "aliases": [],
     "outlinks": 426,
-    "unique_outlinks": 426,
+    "unique_outlinks": 424,
     "backlinks": 3
   },
   {
@@ -10534,7 +10514,7 @@
     "status": "active",
     "aliases": [],
     "outlinks": 425,
-    "unique_outlinks": 425,
+    "unique_outlinks": 423,
     "backlinks": 3
   },
   {
@@ -12053,7 +12033,7 @@
     ],
     "outlinks": 1,
     "unique_outlinks": 1,
-    "backlinks": 41
+    "backlinks": 0
   },
   {
     "id": "graph/nodes/unmapped/enrich_frontmatter_backlinks_py",
@@ -12692,7 +12672,7 @@
     ],
     "outlinks": 25,
     "unique_outlinks": 13,
-    "backlinks": 46
+    "backlinks": 2
   },
   {
     "id": "hephaistos/agents/argus",
@@ -13801,7 +13781,7 @@
       "wiki/memory"
     ],
     "outlinks": 2,
-    "unique_outlinks": 2,
+    "unique_outlinks": 1,
     "backlinks": 45
   },
   {
@@ -15968,7 +15948,7 @@
       "wiki/session-state"
     ],
     "outlinks": 2,
-    "unique_outlinks": 2,
+    "unique_outlinks": 1,
     "backlinks": 2
   },
   {
@@ -19454,7 +19434,7 @@
       "wiki/trismegiste-state"
     ],
     "outlinks": 2,
-    "unique_outlinks": 2,
+    "unique_outlinks": 1,
     "backlinks": 8
   },
   {

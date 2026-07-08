@@ -24,7 +24,7 @@ backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 ---
 
 [[)]}',]]

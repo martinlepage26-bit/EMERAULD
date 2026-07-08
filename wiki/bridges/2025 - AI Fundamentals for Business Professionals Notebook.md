@@ -25,7 +25,7 @@ backlink_count: 3
 backlinks:
 - '[[wiki/Mythocritique to PHAROS — The 2010 Master''s Thesis as Methodological Keystone]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 year: 2025
 source_file: 2025 - 4f6a-b56e-28db843352f7_art_1-31 [2].pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31
   [2].pdf.pdf - 2025 - 4f6a-b56e-2__542739c2c8e0.ocr.txt

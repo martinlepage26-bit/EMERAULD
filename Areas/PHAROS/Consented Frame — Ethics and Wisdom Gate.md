@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill]]'
 - '[[Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt]]'
 - '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
-- '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 ---
 
 # Consented Frame — Ethics and Wisdom Gate

@@ -5,7 +5,6 @@ aliases:
 - Vault interconnectivity atlas
 - Delta interconnectivity atlas
 - Full interconnectivity pass
-- wiki/Vault Delta Interconnectivity Atlas — 2026-05-06
 tags:
 - coverage
 - deltas
@@ -18,7 +17,7 @@ tags:
 - rhetoric
 - vault-maintenance
 - map
-- wiki
+- archive
 - vault-delta-interconnectivity-atlas-2026-05-06-md
 - magic
 - ritual
@@ -28,8 +27,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Vault Delta Interconnectivity Atlas — 2026-05-06.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06.md
 backlink_count: 23
 backlinks:
 - '[[wiki/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
@@ -48,12 +47,11 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Ritual, Magic, and Institutional Authority]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
-- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic,
-  and Computational Memory Architectures]]'
+- '[[wiki/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
-- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
-- '[[wiki/Vault Topic Coverage Matrix — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---

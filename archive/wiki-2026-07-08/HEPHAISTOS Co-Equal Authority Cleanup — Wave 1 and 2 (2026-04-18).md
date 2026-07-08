@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/ROOK — Session Boundary Model]]'
 - '[[wiki/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]'
 - '[[wiki/Supersession Registry]]'
-- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
 - '[[wiki/claude-peers-mcp — Claude Peer Network]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 - '[[memory/agents/Blockers]]'

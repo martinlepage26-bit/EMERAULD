@@ -24,8 +24,8 @@ canonical_path: wiki/bridges/2027 - AI 2027 Summary Research 2.md
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 year: 2027
 source_file: 2027 - ocr_needed.pdf - 2027 - ocr_needed.pdf.pdf - 2027 - ocr_needed.pdf
   - 2027 - ocr_needed.pdf.pdf.pdf.ocr.txt

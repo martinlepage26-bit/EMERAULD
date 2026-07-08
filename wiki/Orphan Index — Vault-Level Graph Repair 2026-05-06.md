@@ -27,9 +27,9 @@ backlink_count: 9
 backlinks:
 - '[[wiki/Home]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
-- '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
-- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
-- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[memory/agents/Vibe]]'
 - '[[memory/daily/2026-06-26]]'

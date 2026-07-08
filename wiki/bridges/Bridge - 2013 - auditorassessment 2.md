@@ -23,8 +23,8 @@ canonical_path: wiki/bridges/Bridge - 2013 - auditorassessment 2.md
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 ---
 
 [[2013 - audit_or_assessment [2]]]

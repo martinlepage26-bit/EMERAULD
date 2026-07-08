@@ -28,7 +28,7 @@ backlinks:
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity]]'
-- '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note]]'

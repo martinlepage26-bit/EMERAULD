@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
-- '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-002]]'
 - '[[wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note]]'

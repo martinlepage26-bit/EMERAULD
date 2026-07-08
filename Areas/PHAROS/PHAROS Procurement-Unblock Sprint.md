@@ -60,7 +60,7 @@ backlinks:
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion]]'
 - '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
-- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[archive/session-state/session-state-002]]'

@@ -24,7 +24,7 @@ backlinks:
 - '[[.trash/Responses API Fundamentals____]]'
 - '[[.trash/Responses API Fundamentals_____]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 ---
 
 [[Responses API Fundamentals]]

@@ -24,7 +24,7 @@ backlinks:
 - '[[Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 phase: Phase 1 Infrastructure
 completion-target: '2026-05-10'
 ---

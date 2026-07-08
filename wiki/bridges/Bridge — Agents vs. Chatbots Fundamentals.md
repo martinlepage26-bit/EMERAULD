@@ -25,7 +25,7 @@ backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[.trash/Agents vs. Chatbots Fundamentals]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 ---
 
 [[Agents vs. Chatbots Fundamentals]]

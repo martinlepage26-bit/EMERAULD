@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/RECURSO — Recursive Governance Test Archive]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
-- '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
 ---
 
 # RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis

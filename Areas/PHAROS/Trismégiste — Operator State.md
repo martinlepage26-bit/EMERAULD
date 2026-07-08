@@ -4,14 +4,13 @@ title: Trismégiste — Operator State
 aliases:
 - Trismégiste operator state
 - Operator state (Trismégiste)
-- wiki/Trismégiste — Operator State
 tags:
 - agent
 - trismegiste
 - operator
 - continuity
 - state
-- wiki
+- areas
 - trism-giste-operator-state-md
 - trism
 - giste
@@ -20,15 +19,15 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Trismégiste — Operator State.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Trismégiste — Operator State.md
 backlink_count: 8
 backlinks:
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Trismégiste]]'
-- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[Areas/PHAROS/Trismégiste]]'
+- '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
 - '[[session-state]]'

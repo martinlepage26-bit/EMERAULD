@@ -57,7 +57,7 @@ backlinks:
 - '[[wiki/Skill Domain — Governance and Method]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
 - '[[Areas/PHAROS/Skill-Pairing — Five-Case Test Suite]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[wiki/archive/inner-mind-eye]]'
 - '[[archive/session-state/session-state-001]]'

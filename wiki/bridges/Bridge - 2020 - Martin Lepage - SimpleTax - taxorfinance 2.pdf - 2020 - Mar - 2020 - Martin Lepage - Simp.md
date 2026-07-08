@@ -27,8 +27,8 @@ canonical_path: wiki/bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfi
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 ---
 
 [[2020 - Martin Lepage - SimpleTax - tax_or_finance [2].pdf - 2020 - Mar - 2020 - Martin Lepage - Simp]]

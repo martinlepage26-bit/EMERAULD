@@ -24,8 +24,8 @@ canonical_path: wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 202
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'
-- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 year: 2024
 source_file: 2024 - Martin Lepage - ocr_needed.pdf - 2024 - Martin Lepage - ocr_needed.pdf.pdf
   - 2024 - Martin Lepage - ocr_needed.pd__fafc488d5f87.ocr.txt

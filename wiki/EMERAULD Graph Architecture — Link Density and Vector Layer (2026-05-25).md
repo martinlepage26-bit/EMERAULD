@@ -36,7 +36,7 @@ backlinks:
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[wiki/Vault Health — 2026-06-28]]'
 - '[[wiki/WSL and System Storage Recovery — Quick Wins Checklist]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

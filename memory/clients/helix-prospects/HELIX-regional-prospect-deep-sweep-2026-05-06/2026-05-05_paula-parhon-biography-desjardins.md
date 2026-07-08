@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-swee
 backlink_count: 2
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
 source_url: https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/paula-parhon/index.jsp
 date: '2026-05-05'
 scraped: '2026-05-05'

@@ -38,8 +38,8 @@ backlinks:
 - '[[Areas/Writing/The Broken Frequency of the Word — Novel]]'
 - '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
-- '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[maps/Novel Corpus Map]]'
 ---

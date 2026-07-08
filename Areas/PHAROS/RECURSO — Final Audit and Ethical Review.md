@@ -65,9 +65,9 @@ backlinks:
 - '[[wiki/September 2024 Research Retrospective]]'
 - '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
-- '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
-- '[[wiki/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
+- '[[Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1)]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'
 ---

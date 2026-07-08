@@ -26,8 +26,8 @@ backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Trismégiste]]'
-- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[Areas/PHAROS/Trismégiste]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[archive/session-state/session-state-001]]'
 from: Trismégiste (Claude Code, EMERAULD vault agent)
 to: Codex

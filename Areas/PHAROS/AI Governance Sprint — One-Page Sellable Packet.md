@@ -32,7 +32,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'
-- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[session-state]]'
 ---

@@ -39,7 +39,7 @@ backlinks:
 - '[[Areas/PHAROS/Smallest Building Block — Relation as Rule]]'
 - '[[Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]]'
 - '[[Resources/The Data Gaze — Beer (Capitalism, Power, Perception)]]'
-- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 ---
 
 # AI Self-Report — Epistemic Status Recursion and Perturbation

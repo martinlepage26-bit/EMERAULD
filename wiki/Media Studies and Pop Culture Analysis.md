@@ -55,8 +55,8 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs]]'
 - '[[wiki/The Ballad of the Witches'' Road — Analysis]]'
 - '[[wiki/The Ballad of the Witches'' Road — Lyrics]]'
-- '[[wiki/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[archive/session-state/session-state-001]]'
 ---

@@ -43,7 +43,7 @@ backlinks:
 - '[[Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis]]'
 - '[[Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred]]'
 - '[[Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]'
-- '[[wiki/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
+- '[[Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[maps/Queer Media and Ritual Map]]'
 ---

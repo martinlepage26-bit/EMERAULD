@@ -26,7 +26,7 @@ backlinks:
 - '[[Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence]]'
-- '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
 ---
 
 # Loop Hinge Candidate — This Paper May Not Exist

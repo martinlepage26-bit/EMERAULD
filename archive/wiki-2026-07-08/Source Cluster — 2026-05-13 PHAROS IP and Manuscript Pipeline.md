@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
-- '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[wiki/raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note]]'

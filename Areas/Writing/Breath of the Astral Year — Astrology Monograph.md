@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Queering Neo-Pagan Magic — 2026 Paper]]'
 - '[[Areas/Writing/Reboot — Performance, Gender, and Computing of Identity]]'
 - '[[Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]'
-- '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'

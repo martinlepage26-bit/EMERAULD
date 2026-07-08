@@ -28,7 +28,7 @@ backlink_count: 4
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[wiki/archive/red-team]]'
 ---
 

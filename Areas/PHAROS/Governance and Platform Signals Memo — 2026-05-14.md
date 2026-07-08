@@ -27,7 +27,7 @@ backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

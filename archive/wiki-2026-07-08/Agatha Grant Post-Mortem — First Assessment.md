@@ -27,7 +27,7 @@ backlinks:
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/MASTER PACK — D Drive Archive Map]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # Agatha Grant Post-Mortem — First Assessment

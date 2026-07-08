@@ -35,7 +35,7 @@ backlinks:
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[wiki/Queer Theory Foundations]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[maps/Queer Media and Ritual Map]]'
 - '[[raw/Clippings/AI Recruiting Has an Accessibility Problem]]'
 ---

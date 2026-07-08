@@ -21,7 +21,7 @@ canonical_path: Areas/Writing/Unnatural Selection Jurassic Park — Version Gene
 backlink_count: 4
 backlinks:
 - '[[wiki/Home]]'
-- '[[wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
+- '[[Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons]]'
 - '[[Areas/Writing/Version Genealogy System]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---

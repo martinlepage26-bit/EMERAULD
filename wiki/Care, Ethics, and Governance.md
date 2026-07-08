@@ -50,9 +50,9 @@ backlinks:
 - '[[wiki/Se positionner comme chercheuses au prisme des luttes intersectionnelles
   — Le Gallo & Millette 2019 (Genre, sexualité & société)]]'
 - '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
-- '[[wiki/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
-- '[[wiki/Vault Linking Session 2 Summary — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Session 2 Summary — 2026-05-01]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 

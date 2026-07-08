@@ -3,9 +3,8 @@ type: wiki
 title: Unnatural Selection — Jurassic Park and the Posthuman Commons
 aliases:
 - Unnatural Selection — Jurassic Park and the Posthuman Commons
-- wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons
 tags:
-- wiki
+- areas
 - unnatural-selection-jurassic-park-and-the-posthuman-commons-md
 - commons
 - maisie
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Unnatural Selection — Jurassic Park and the Posthuman Commons.md
+vault_area: Areas
+canonical_path: Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons.md
 backlink_count: 16
 backlinks:
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'

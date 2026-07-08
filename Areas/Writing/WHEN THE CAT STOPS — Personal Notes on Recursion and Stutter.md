@@ -3,9 +3,8 @@ type: wiki
 title: WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter
 aliases:
 - WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter
-- wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter
 tags:
-- wiki
+- areas
 - recursion
 - when-the-cat-stops-personal-notes-on-recursion-and-stutter-md
 - stutter
@@ -16,8 +15,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter.md
+vault_area: Areas
+canonical_path: Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter.md
 backlink_count: 17
 backlinks:
 - '[[Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]'

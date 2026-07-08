@@ -8,14 +8,13 @@ aliases:
 - EMERAULD Second Brain — Project Context
 - EMERAULD Persistence Stack
 - EMERAULD
-- wiki/Trismégiste — Personal AI Assistant
 tags:
 - agent
 - personal-ai
 - brainiax
 - second-brain
 - wsl
-- wiki
+- areas
 - trism-giste-personal-ai-assistant-md
 - trism
 - giste
@@ -26,8 +25,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Trismégiste — Personal AI Assistant.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Trismégiste — Personal AI Assistant.md
 backlink_count: 34
 backlinks:
 - '[[wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)]]'
@@ -36,8 +35,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
 - '[[archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture
-  (2026-05-12)]]'
+- '[[wiki/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[Resources/Epistemic Governance — Canonical Reference]]'
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
@@ -51,9 +49,9 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/Writing/September 2024 Retrospective — Version Genealogy]]'
-- '[[wiki/Trismégiste]]'
+- '[[Areas/PHAROS/Trismégiste]]'
 - '[[Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05)]]'
-- '[[wiki/Trismégiste — Operator State]]'
+- '[[Areas/PHAROS/Trismégiste — Operator State]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/CLAUDE]]'

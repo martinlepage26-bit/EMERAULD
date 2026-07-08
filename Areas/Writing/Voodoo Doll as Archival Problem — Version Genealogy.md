@@ -25,7 +25,7 @@ backlinks:
 - '[[Resources/The Gift — Mauss (Obligation, Reciprocity, Hau)]]'
 - '[[Resources/The Protestant Ethic and the Spirit of Capitalism — Weber (Calling, Asceticism)]]'
 - '[[Areas/Writing/Version Genealogy System]]'
-- '[[wiki/Voodoo Doll — Archival Governance and Colonial Naming]]'
+- '[[Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
 ---
 

@@ -3,9 +3,8 @@ type: wiki
 title: Vault Linking Session Summary — 2026-05-01
 aliases:
 - VAULT-LINKING-SESSION-SUMMARY-2026-05-01
-- wiki/Vault Linking Session Summary — 2026-05-01
 tags:
-- wiki
+- archive
 - vault-linking-session-summary-2026-05-01-md
 - topic
 - disability
@@ -16,14 +15,14 @@ tags:
 status: active
 created: '2026-05-01'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Vault Linking Session Summary — 2026-05-01.md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Vault Linking Session Summary — 2026-05-01.md
 backlink_count: 4
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
-- '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'
+- '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 ---
 
 # Vault Linking Session Summary — 2026-05-01

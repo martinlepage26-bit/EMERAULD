@@ -28,7 +28,7 @@ backlink_count: 3
 backlinks:
 - '[[Areas/PHAROS/Agent Distillation Pipeline]]'
 - '[[archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive]]'
-- '[[wiki/VoiceBridge Foundation]]'
+- '[[Areas/PHAROS/VoiceBridge Foundation]]'
 ---
 
 # Host Environment — pharos-corpus-runner-01

@@ -4,7 +4,6 @@ title: Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)
 aliases:
 - Vault cluster pass 2026-05-06
 - Trismégiste x Hermes cluster pass
-- wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)
 tags:
 - vault
 - clusters
@@ -13,7 +12,7 @@ tags:
 - routing
 - hermes
 - trismegiste
-- wiki
+- archive
 - vault-cluster-pass-trism-giste-x-hermes-2026-05-06-md
 - consent
 - cluster
@@ -24,14 +23,14 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06).md
+vault_area: archive
+canonical_path: archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06).md
 backlink_count: 8
 backlinks:
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
-- '[[wiki/Vault Linking Session 2 Summary — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Session 2 Summary — 2026-05-01]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 - '[[_vault/VAULT-PRODUCTION-MANIFEST]]'

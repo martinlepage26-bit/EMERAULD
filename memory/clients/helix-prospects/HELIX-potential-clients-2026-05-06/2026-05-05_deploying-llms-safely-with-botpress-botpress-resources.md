@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-0
 backlink_count: 2
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Trust Advantage Analysis — Sales and AI Governance]]'
+- '[[Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance]]'
 source_url: https://botpress.com/en/resources/deploying-llms-safely-with-botpress
 date: '2026-05-05'
 scraped: '2026-05-05'

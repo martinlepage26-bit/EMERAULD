@@ -28,7 +28,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
-- '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[wiki/raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note]]'

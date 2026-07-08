@@ -38,7 +38,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy]]'
 - '[[archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
-- '[[wiki/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
+- '[[Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[maps/PHAROS Method Map]]'
 - '[[memory]]'

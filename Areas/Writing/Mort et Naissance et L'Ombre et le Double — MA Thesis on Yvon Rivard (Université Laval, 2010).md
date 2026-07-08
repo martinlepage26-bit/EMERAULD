@@ -88,7 +88,7 @@ backlinks:
 - '[[Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel]]'
 - '[[Areas/Writing/The Returning Light — Monograph]]'
 - '[[Areas/Writing/The Weather Beneath the Walls — Novel]]'
-- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
 - '[[Areas/Writing/Why Be King Im Already a Queen — Book Project]]'
 - '[[wiki/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Root Loose Notes Cluster Map — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/SYSTEM CHECK]]'
-- '[[wiki/Trismégiste — Personal AI Assistant]]'
+- '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'

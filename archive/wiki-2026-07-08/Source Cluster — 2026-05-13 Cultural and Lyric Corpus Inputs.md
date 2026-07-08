@@ -30,7 +30,7 @@ backlinks:
 - '[[Areas/Writing/Pagan and Queer Ritual Studies MOC]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
-- '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
+- '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note]]'
 - '[[wiki/raw-sources/2026-05-13/The Ballad of the Witches'' Road — Source Note]]'

@@ -4,14 +4,13 @@ title: VoiceBridge Foundation
 aliases:
 - VoiceBridge
 - AAC bridge fund
-- wiki/VoiceBridge Foundation
 tags:
 - project
 - nonprofit
 - aac
 - disability
 - voicebridge
-- wiki
+- areas
 - voicebridge-foundation-md
 - pilot
 - incorporation
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/VoiceBridge Foundation.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/VoiceBridge Foundation.md
 backlink_count: 3
 backlinks:
 - '[[.graph_store/graph_report]]'

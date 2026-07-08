@@ -41,7 +41,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Resources/Transparency Against Democracy — Paquin 2025 (Sweden Democrats, trust)]]'
-- '[[wiki/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
 - '[[_vault/VAULT-LINKING-AUDIT-2026-05-01]]'
 ---
 

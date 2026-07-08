@@ -3,9 +3,8 @@ type: wiki
 title: Trust Advantage Analysis — Sales and AI Governance
 aliases:
 - Trust Advantage Analysis
-- wiki/Trust Advantage Analysis — Sales and AI Governance
 tags:
-- wiki
+- areas
 - governance
 - ai
 - trust-advantage-analysis-sales-and-ai-governance-md
@@ -18,8 +17,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Trust Advantage Analysis — Sales and AI Governance.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance.md
 backlink_count: 44
 backlinks:
 - '[[.trash/Sprint Tool Strategy]]'

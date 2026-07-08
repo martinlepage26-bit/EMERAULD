@@ -3,7 +3,6 @@ type: synthesis-master
 title: Trismégiste Master Synthesis — 2026-05-13 Source Set
 aliases:
 - Trismégiste Master Synthesis — 2026-05-13 Source Set
-- wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set
 tags:
 - trismegiste
 - henry
@@ -11,7 +10,7 @@ tags:
 - source-notes
 - '2026-05-13'
 - synthesis-master
-- wiki
+- areas
 - trism-giste-master-synthesis-2026-05-13-source-set-md
 - cluster
 - memo
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-05-13'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set.md
 backlink_count: 5
 backlinks:
 - '[[Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14]]'

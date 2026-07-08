@@ -21,7 +21,7 @@ vault_area: _vault
 canonical_path: _vault/VAULT-PRODUCTION-MANIFEST.md
 backlink_count: 2
 backlinks:
-- '[[wiki/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
+- '[[archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]]'
 - '[[wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06]]'
 ---
 
