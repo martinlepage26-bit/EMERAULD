@@ -8,7 +8,9 @@ export PATH="/home/martin/.local/bin:/home/martin/.nvm/versions/node/v22.23.0/bi
 VAULT="/home/martin/EMERAULD"
 TODAY=$(date +%Y-%m-%d)
 WEEK_START=$(date -d "last Monday" +%Y-%m-%d 2>/dev/null || date -v-Mon +%Y-%m-%d)
-LOG="/tmp/obsidian-weekly.log"
+LOGDIR="$VAULT/Logs/scheduled"
+mkdir -p "$LOGDIR"
+LOG="$LOGDIR/weekly-$TODAY.log"
 
 cd "$VAULT" || exit 1
 
@@ -21,7 +23,7 @@ Generate a weekly review note:
 
 1. Read all daily notes in memory/daily/ from $WEEK_START to $TODAY.
 2. Read session-state.md for decisions and threads from this week.
-3. Scan wiki/ for notes with updated: between $WEEK_START and $TODAY.
+3. Scan Areas/, Resources/, wiki/, and projects/ (top level) for notes with updated: between $WEEK_START and $TODAY.
 4. Synthesize a weekly review note at wiki/Weekly Review — ${TODAY}.md with:
    - Frontmatter: type: wiki, tags: [review, weekly], status: active, created: $TODAY, updated: $TODAY
    - Preamble: > For future Claude: weekly review for the week of $WEEK_START. Load to understand what Martin worked on, decided, and learned this week.
@@ -36,3 +38,7 @@ Generate a weekly review note:
 
 Do not ask questions. Do not delete anything. Stop when done.
 " >> "$LOG" 2>&1
+STATUS=$?
+if [ $STATUS -ne 0 ]; then
+  echo "- $TODAY $(date +%H:%M) weekly run FAILED (exit $STATUS) — see Logs/scheduled/weekly-$TODAY.log" >> "$LOGDIR/FAILURES.md"
+fi

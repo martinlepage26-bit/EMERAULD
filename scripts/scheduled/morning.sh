@@ -7,7 +7,9 @@ export PATH="/home/martin/.local/bin:/home/martin/.nvm/versions/node/v22.23.0/bi
 
 VAULT="/home/martin/EMERAULD"
 TODAY=$(date +%Y-%m-%d)
-LOG="/tmp/obsidian-morning.log"
+LOGDIR="$VAULT/Logs/scheduled"
+mkdir -p "$LOGDIR"
+LOG="$LOGDIR/morning-$TODAY.log"
 
 cd "$VAULT" || exit 1
 
@@ -20,10 +22,14 @@ Steps:
 1. Create today's daily note at memory/daily/${TODAY}.md if it does not exist.
    Use the structure from any recent daily note in memory/daily/ as a template.
    Include sections: ## Focus, ## Tasks, ## Notes.
-2. Scan wiki/ for project notes (type: wiki, tags containing 'project' or status: active).
+2. Scan projects/ (top level, type: project), Areas/, and wiki/ for project notes (tags containing 'project' or status: in-progress/active).
    List any that have 'updated:' older than 7 days — flag them in today's daily note under ## Stale Projects.
-3. Scan wiki/ for any notes containing task checkboxes (- [ ]) with dates before $TODAY — flag overdue ones in today's daily note under ## Overdue.
+3. Scan Areas/, Resources/, wiki/, and projects/ (top level) for any notes containing task checkboxes (- [ ]) with dates before $TODAY — flag overdue ones in today's daily note under ## Overdue.
 4. Update session-state.md: append one line noting morning agent ran on $TODAY.
 
 Do not ask questions. Do not delete or archive anything. Add and update only. Stop when done.
 " >> "$LOG" 2>&1
+STATUS=$?
+if [ $STATUS -ne 0 ]; then
+  echo "- $TODAY $(date +%H:%M) morning run FAILED (exit $STATUS) — see Logs/scheduled/morning-$TODAY.log" >> "$LOGDIR/FAILURES.md"
+fi

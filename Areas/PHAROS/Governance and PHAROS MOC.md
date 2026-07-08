@@ -1128,3 +1128,11 @@ Content that lived only on this VM until the 2026-07-08 overhaul (Phase 5). Mani
 - [[Reflexive Inhabitation Audit — Built App]]
 - [[ai-agent-board — Third-Party Tool Evaluation]]
 - [[HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)]]
+
+## Agentic OS build order (2026-07-08)
+
+- [[governance/EMERAULD-OS-BUILD-ORDER|EMERAULD OS Build Order]] — master sequencing of the 9 closed-loop gaps (4 closed same day)
+- [[governance/EMERAULD-OS-SPEC — MCP Surface|OS Spec — MCP Surface]]
+- [[governance/EMERAULD-OS-SPEC — Event Triggers|OS Spec — Event Triggers]]
+- [[governance/EMERAULD-OS-SPEC — Governance Wiring|OS Spec — Governance Wiring]]
+- [[Agent Bus — Design Record (Retired Runtime)]] — retirement record

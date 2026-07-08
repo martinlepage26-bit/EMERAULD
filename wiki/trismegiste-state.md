@@ -30,7 +30,10 @@ backlinks:
 
 ## Summary
 
-Bridge note for the operator continuity state file. The live state file remains `/home/cerebrhoe/trismegiste-state.md`; this wiki note gives the graph a resolvable landing point for `[[trismegiste-state]]` references.
+Bridge note giving the graph a resolvable landing point for `[[trismegiste-state]]` references.
+
+> [!info] Pointer corrected 2026-07-08
+> Earlier versions pointed at `/home/cerebrhoe/trismegiste-state.md` — a previous-host path that does not exist on this machine. On the current host, operator continuity lives in **`session-state.md`** (vault root, archived via `scripts/archive_register.py`) and [[Areas/PHAROS/Trismégiste — Operator State|Trismégiste — Operator State]]. No standalone trismegiste-state file exists or is needed here.
 
 ## Related
 

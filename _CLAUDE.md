@@ -142,7 +142,7 @@ When updating existing notes:
 
 ## Section 6 — Existing Agents
 
-- **Trismégiste** — primary vault agent; handles continuity via `session-state.md` and `/home/martin/trismegiste-state.md`
+- **Trismégiste** — primary vault agent; handles continuity via `session-state.md` and [[Areas/PHAROS/Trismégiste — Operator State]] (no standalone trismegiste-state file exists on this host — corrected 2026-07-08)
 - **Argus** — paired audit agent for file-surface coherence checks
 - obsidian-second-brain commands operate **alongside** Trismégiste, not as a replacement
 

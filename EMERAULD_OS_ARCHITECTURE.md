@@ -26,6 +26,9 @@ backlinks:
 
 This replaces the static archive with a machine that agents can read and run.
 
+> [!success] Build order active (2026-07-08)
+> The four pillars below moved from design to execution in the 2026-07-08 overhaul: PARA storage populated (485 notes routed), frontmatter schema unified vault-wide, graph corpus extended to all PARA dirs, Bases filters repaired. Sequencing for the remaining closed-loop gaps lives in [[governance/EMERAULD-OS-BUILD-ORDER|EMERAULD OS Build Order]] with specs for [[governance/EMERAULD-OS-SPEC — MCP Surface|MCP surface]], [[governance/EMERAULD-OS-SPEC — Event Triggers|event triggers]], and [[governance/EMERAULD-OS-SPEC — Governance Wiring|governance wiring]].
+
 ## 1. Storage: The PARA Fracture
 
 The vault currently mixes legacy folders with active structure. Move files into strict alignment:
