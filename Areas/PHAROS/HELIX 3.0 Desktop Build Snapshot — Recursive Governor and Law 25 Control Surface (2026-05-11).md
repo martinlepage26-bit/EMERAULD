@@ -1,13 +1,10 @@
 ---
 type: wiki
-title: HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface
-  (2026-05-11)
+title: HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)
 aliases:
 - HELIX3.0 snapshot
 - HELIX v2.6 desktop build
 - HELIX recursive governor build
-- wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface
-  (2026-05-11)
 tags:
 - helix
 - pharos
@@ -16,7 +13,7 @@ tags:
 - recursion
 - product-surface
 - desktop-intake
-- wiki
+- areas
 - helix-3-0-desktop-build-snapshot-recursive-governor-and-law-25-control-surface-2026-05-11-md
 - governor
 - desktop
@@ -26,19 +23,17 @@ tags:
 status: active
 created: '2026-05-12'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law
-  25 Control Surface (2026-05-11).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11).md
 backlink_count: 9
 backlinks:
-- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module
-  (2026-06-22)]]'
+- '[[wiki/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
-- '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
+- '[[Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
 - '[[Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 source:

@@ -27,7 +27,7 @@ vault_area: wiki
 canonical_path: wiki/Skill Domain — Writing and Humanization.md
 backlink_count: 7
 backlinks:
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'

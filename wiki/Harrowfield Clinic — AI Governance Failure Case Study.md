@@ -30,7 +30,7 @@ backlinks:
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/Writing/Fluency, Interruption, and Institutional Accountability]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Governance by Denial]]'
+- '[[Areas/Writing/Governance by Denial]]'
 - '[[wiki/Home]]'
 - '[[wiki/L99 PHAROS Migration Artifacts 2026-04-19]]'
 - '[[wiki/LOTUS Model — Agency and Social Positioning]]'

@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/Skill Domain — Design and UX.md
 backlink_count: 7
 backlinks:
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 - '[[wiki/Skill Domain — Development and Testing]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'

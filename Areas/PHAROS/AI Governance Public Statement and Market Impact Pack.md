@@ -31,7 +31,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
+- '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[wiki/Home]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'

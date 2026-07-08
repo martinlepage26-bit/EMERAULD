@@ -32,7 +32,7 @@ canonical_path: wiki/Skill Domain — Deployment and Infrastructure.md
 backlink_count: 8
 backlinks:
 - '[[Resources/Emergent.sh — Agentic App Builder Spec Sheet (2026-06-27)]]'
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Skill Domain — Development and Testing]]'
 - '[[wiki/Skill Domain — Security and Compliance]]'

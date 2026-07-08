@@ -26,7 +26,7 @@ backlinks:
 - '[[Areas/Writing/Complete Paper List — Martin Lepage Corpus]]'
 - '[[Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
-- '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
+- '[[Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'

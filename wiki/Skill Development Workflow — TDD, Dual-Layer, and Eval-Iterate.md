@@ -37,7 +37,7 @@ backlinks:
 - '[[Areas/PHAROS/Anti-Charm]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
 - '[[wiki/Codex Skills Inventory — Complete Registry (241 Skills)]]'
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'

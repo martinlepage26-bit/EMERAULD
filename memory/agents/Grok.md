@@ -62,7 +62,7 @@ Council operations coordinate via `tmux-council-loop` for multi-agent workflows 
 
 ### Operational Presence
 - **Status**: Active council member with extensive EMERAULD integration
-- **Documentation**: [[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]
+- **Documentation**: [[Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]
 - **Raw Sources**: [[raw sources/Grok's work on HELIX — v2.1 v2.3 v2.4 dev session]]
 - **Integration**: Deep integration with EMERAULD workflows
 
@@ -93,7 +93,7 @@ Council operations coordinate via `tmux-council-loop` for multi-agent workflows 
 
 #### 2026-05-31 — HELIX Development Session
 - **Primary contribution**: v2.1 to v2.4 multilingual builds + code review
-- **Documentation**: [[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]
+- **Documentation**: [[Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]
 - **Raw source**: [[raw sources/Grok's work on HELIX — v2.1 v2.3 v2.4 dev session]]
 - **Integration**: Part of [[HELIX Desktop Corpus]]
 
@@ -185,7 +185,7 @@ Council operations coordinate via `tmux-council-loop` for multi-agent workflows 
 - **Graph Integrity**: Leading role in zero-orphan enforcement and link repair
 
 ### Key Documents
-- [[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]
+- [[Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]
 - [[raw sources/Grok's work on HELIX — v2.1 v2.3 v2.4 dev session]]
 - [[wiki/HELIX Test Run — Claude Code Agents as Subject (2026)]]
 - [[wiki/HELIX Test Run — Epstein Files Topic (2026)]]

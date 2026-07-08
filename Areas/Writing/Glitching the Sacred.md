@@ -3,7 +3,6 @@ type: wiki
 title: Glitching the Sacred
 aliases:
 - Glitching the Sacred
-- wiki/Glitching the Sacred
 tags:
 - paper
 - cultural-studies
@@ -11,7 +10,7 @@ tags:
 - ritual
 - queer-theory
 - near-ready
-- wiki
+- areas
 - glitching-the-sacred-md
 - coinage
 - disclaimer
@@ -20,8 +19,8 @@ tags:
 status: near-ready
 created: '2026-05-02'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Glitching the Sacred.md
+vault_area: Areas
+canonical_path: Areas/Writing/Glitching the Sacred.md
 backlink_count: 11
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'

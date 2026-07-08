@@ -26,7 +26,7 @@ vault_area: Areas
 canonical_path: Areas/PHAROS/Skill Domain — Operator Wellbeing.md
 backlink_count: 6
 backlinks:
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'

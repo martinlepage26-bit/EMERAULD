@@ -4,14 +4,13 @@ title: Governed Self-Improvement — Method Slide Asset
 aliases:
 - obsidian-vault-slides.html
 - Governed Self-Improvement Slides
-- wiki/Governed Self-Improvement — Method Slide Asset
 tags:
 - pharos
 - assets
 - slides
 - governance
 - method
-- wiki
+- areas
 - governed-self-improvement-method-slide-asset-md
 - obsidian
 - asset
@@ -21,8 +20,8 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governed Self-Improvement — Method Slide Asset.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Governed Self-Improvement — Method Slide Asset.md
 backlink_count: 4
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

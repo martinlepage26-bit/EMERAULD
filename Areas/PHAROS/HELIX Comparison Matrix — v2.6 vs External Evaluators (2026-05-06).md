@@ -28,7 +28,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
+- '[[Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
 - '[[wiki/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
 - '[[wiki/HELIX Test Run — Epstein Files Topic (2026)]]'
 - '[[Resources/Recursive Governance Theory]]'

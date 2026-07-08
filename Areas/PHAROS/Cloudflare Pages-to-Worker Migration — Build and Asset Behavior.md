@@ -26,7 +26,7 @@ canonical_path: Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and 
 backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19)]]'
 - '[[wiki/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)]]'
 - '[[Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca]]'

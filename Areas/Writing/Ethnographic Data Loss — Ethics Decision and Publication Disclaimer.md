@@ -28,7 +28,7 @@ backlink_count: 9
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Consent and Boundary Frameworks]]'
-- '[[wiki/Glitching the Sacred]]'
+- '[[Areas/Writing/Glitching the Sacred]]'
 - '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Still Running — Willow, Anya, and Queer Ritual Infrastructure]]'

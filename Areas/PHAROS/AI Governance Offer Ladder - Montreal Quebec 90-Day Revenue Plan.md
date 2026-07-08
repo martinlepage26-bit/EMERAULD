@@ -31,7 +31,7 @@ backlinks:
 - '[[Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[wiki/PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[wiki/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26)]]'

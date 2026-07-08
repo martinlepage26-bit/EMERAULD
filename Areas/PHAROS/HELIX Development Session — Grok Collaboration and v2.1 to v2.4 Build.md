@@ -5,9 +5,8 @@ aliases:
 - HELIX Grok Session
 - HELIX v2.1 Build
 - HELIX v2.4 Multilingual
-- wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build
 tags:
-- wiki
+- areas
 - helix-development-session-grok-collaboration-and-v2-1-to-v2-4-build-md
 - helix
 - deepen
@@ -18,9 +17,8 @@ tags:
 status: active
 created: '2026-05-31'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4
-  Build.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build.md
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'

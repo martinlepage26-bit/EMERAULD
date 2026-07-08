@@ -29,7 +29,7 @@ backlinks:
 - '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
 - '[[archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
-- '[[wiki/GSD — Get Shit Done Context Engineering System]]'
+- '[[Areas/PHAROS/GSD — Get Shit Done Context Engineering System]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'

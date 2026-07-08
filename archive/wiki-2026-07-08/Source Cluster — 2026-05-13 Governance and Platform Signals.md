@@ -25,7 +25,7 @@ vault_area: archive
 canonical_path: archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals.md
 backlink_count: 9
 backlinks:
-- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources]]'
 - '[[archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]]'
 - '[[wiki/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'

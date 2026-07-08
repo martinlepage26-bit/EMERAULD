@@ -114,7 +114,7 @@ Council operations coordinate via `tmux-council-loop` for multi-agent workflows 
 - **Grok**: Alternate review perspective to adversarial analysis
 
 ### Documented Contributions
-- **GSD System**: Listed in [[wiki/GSD — Get-Shit-Done Claude Code System]] as compatible CLI
+- **GSD System**: Listed in [[Areas/PHAROS/GSD — Get-Shit-Done Claude Code System]] as compatible CLI
 - **COMPASSai**: Keywords include Gemini in AI Act classification
 
 ---
@@ -141,7 +141,7 @@ Council operations coordinate via `tmux-council-loop` for multi-agent workflows 
 ### EMERAULD Vault
 - **Council Seat**: Listed in [[Areas/PHAROS/company.md]] AI CLI Council
 - **Glossary Entry**: Defined in [[Resources/glossary.md]] as "Parallel synthesis, alternate review"
-- **System Integration**: Documented in [[wiki/GSD — Get-Shit-Done Claude Code System]]
+- **System Integration**: Documented in [[Areas/PHAROS/GSD — Get-Shit-Done Claude Code System]]
 - **Classifier**: Referenced in [[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]
 
 ### Agent Ecosystem
@@ -172,5 +172,5 @@ Council operations coordinate via `tmux-council-loop` for multi-agent workflows 
 - [[session-state]]
 - [[Areas/PHAROS/company]]
 - [[Resources/glossary]]
-- [[wiki/GSD — Get-Shit-Done Claude Code System]]
+- [[Areas/PHAROS/GSD — Get-Shit-Done Claude Code System]]
 - [[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]

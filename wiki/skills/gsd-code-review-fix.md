@@ -21,7 +21,7 @@ vault_area: wiki
 canonical_path: wiki/skills/gsd-code-review-fix.md
 backlink_count: 2
 backlinks:
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 skill_id: gsd-code-review-fix
 domain: GSD Workflow

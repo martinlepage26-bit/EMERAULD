@@ -21,8 +21,8 @@ backlink_count: 16
 backlinks:
 - '[[archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
-- '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
-- '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06]]'
 - '[[wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

@@ -3,10 +3,9 @@ type: governance-procedures
 title: Governance Controls — Monitoring Plan & Automation Roadmap
 aliases:
 - GOVERNANCE CONTROLS — Monitoring Plan & Automation Roadmap
-- wiki/Governance Controls — Monitoring Plan & Automation Roadmap
 tags:
 - governance-procedures
-- wiki
+- areas
 - governance-controls-monitoring-plan-automation-roadmap-md
 - manual
 - automation
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governance Controls — Monitoring Plan & Automation Roadmap.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap.md
 backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'

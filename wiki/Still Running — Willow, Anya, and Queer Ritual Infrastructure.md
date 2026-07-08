@@ -28,7 +28,7 @@ backlinks:
 - '[[Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
 - '[[Areas/Writing/For Her Alone to Wield — Version Genealogy]]'
-- '[[wiki/Glitching the Sacred]]'
+- '[[Areas/Writing/Glitching the Sacred]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legitimacy Machines Altars of Control — Full Book Architecture]]'
 - '[[wiki/Media Studies and Pop Culture Analysis]]'

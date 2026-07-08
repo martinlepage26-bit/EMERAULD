@@ -5,7 +5,6 @@ aliases:
 - HELIX healthcare prospects
 - HELIX health deep dive
 - HELIX Canada health AI
-- wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06
 tags:
 - helix
 - prospects
@@ -17,7 +16,7 @@ tags:
 - canada
 - law25
 - pipeda
-- wiki
+- areas
 - helix-healthcare-prospect-deep-dive-canada-2026-05-06-md
 - news
 - muhc
@@ -27,8 +26,8 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06.md
 backlink_count: 8
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

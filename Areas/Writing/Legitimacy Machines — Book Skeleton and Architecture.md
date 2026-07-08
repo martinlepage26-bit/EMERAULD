@@ -25,7 +25,7 @@ backlinks:
 - '[[Areas/Writing/CODEX Writing Projects Manifest]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Every Hair a Battle Scar — Buffy''s Hair as Narrative Engine]]'
-- '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
+- '[[Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Home]]'

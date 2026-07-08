@@ -3,10 +3,9 @@ type: governance-procedures
 title: Governance Controls — Incident Response (Control Failure Procedures)
 aliases:
 - GOVERNANCE CONTROLS — Incident Response (Control Failure Procedures)
-- wiki/Governance Controls — Incident Response (Control Failure Procedures)
 tags:
 - governance-procedures
-- wiki
+- areas
 - governance-controls-incident-response-control-failure-procedures-md
 - remediation
 - control
@@ -17,13 +16,13 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governance Controls — Incident Response (Control Failure Procedures).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Governance Controls — Incident Response (Control Failure Procedures).md
 backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
+- '[[Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Vault Deep Linking Pass — 2026-05-06]]'

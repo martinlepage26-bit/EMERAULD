@@ -30,7 +30,7 @@ vault_area: wiki
 canonical_path: wiki/Skill Domain — Vault and Knowledge.md
 backlink_count: 5
 backlinks:
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'

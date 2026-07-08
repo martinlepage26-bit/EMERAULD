@@ -28,7 +28,7 @@ vault_area: wiki
 canonical_path: wiki/Skill Domain — Development and Testing.md
 backlink_count: 7
 backlinks:
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 - '[[wiki/Skill Domain — Design and UX]]'

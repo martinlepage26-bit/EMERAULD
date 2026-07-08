@@ -6,13 +6,12 @@ aliases:
 - get-shit-done
 - context rot
 - meta-prompting
-- wiki/GSD — Get-Shit-Done Claude Code System
 tags:
 - tooling
 - claude-code
 - context-management
 - codex
-- wiki
+- areas
 - gsd-get-shit-done-claude-code-system-md
 - shit
 - claude
@@ -23,13 +22,13 @@ tags:
 status: active
 created: '2026-04-18'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/GSD — Get-Shit-Done Claude Code System.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/GSD — Get-Shit-Done Claude Code System.md
 backlink_count: 8
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'
 - '[[wiki/Obsidian Second Brain Product]]'

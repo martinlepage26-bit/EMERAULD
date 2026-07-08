@@ -31,9 +31,9 @@ backlinks:
 - '[[wiki/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics
   (2026-05-07)]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'
-- '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
+- '[[Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
+- '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control
   Surface (2026-05-11)]]'
 - '[[Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'

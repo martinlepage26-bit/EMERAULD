@@ -45,7 +45,7 @@ backlinks:
 - '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
+- '[[Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
 - '[[wiki/Home]]'
 - '[[wiki/Legal and Institutional Cases]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'

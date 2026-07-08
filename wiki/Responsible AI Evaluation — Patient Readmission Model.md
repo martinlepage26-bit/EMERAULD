@@ -27,7 +27,7 @@ backlinks:
 - '[[wiki/Consent and Boundary Frameworks]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Governance by Denial]]'
+- '[[Areas/Writing/Governance by Denial]]'
 - '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[wiki/Home]]'
 - '[[wiki/LOTUS Model and Agency]]'

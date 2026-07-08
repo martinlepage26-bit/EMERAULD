@@ -1168,6 +1168,65 @@
     "backlinks": 27
   },
   {
+    "id": "Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub",
+    "title": "GSD Tier 1 — Core Workflow Skills Hub",
+    "path": "Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Core workflow skills hub",
+      "GSD Tier 1",
+      "Tier 1 core workflow hub"
+    ],
+    "outlinks": 94,
+    "unique_outlinks": 92,
+    "backlinks": 15
+  },
+  {
+    "id": "Areas/PHAROS/GSD — Get Shit Done Context Engineering System",
+    "title": "GSD — Get Shit Done Context Engineering System",
+    "path": "Areas/PHAROS/GSD — Get Shit Done Context Engineering System.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "GSD",
+      "get-shit-done",
+      "get-shit-done-cc"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 6,
+    "backlinks": 24
+  },
+  {
+    "id": "Areas/PHAROS/GSD — Get-Shit-Done Claude Code System",
+    "title": "GSD — Get-Shit-Done Claude Code System",
+    "path": "Areas/PHAROS/GSD — Get-Shit-Done Claude Code System.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "GSD",
+      "context rot",
+      "get-shit-done",
+      "meta-prompting"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 5,
+    "backlinks": 15
+  },
+  {
+    "id": "Areas/PHAROS/Global Publication Search — PHAROS Method and Variants",
+    "title": "Global Publication Search — PHAROS Method and Variants",
+    "path": "Areas/PHAROS/Global Publication Search — PHAROS Method and Variants.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Global Publication Search — PHAROS Method and Variants"
+    ],
+    "outlinks": 13,
+    "unique_outlinks": 6,
+    "backlinks": 14
+  },
+  {
     "id": "Areas/PHAROS/Governance Controls Integration Dashboard",
     "title": "Governance Controls Integration Dashboard",
     "path": "Areas/PHAROS/Governance Controls Integration Dashboard.md",
@@ -1181,6 +1240,45 @@
     "backlinks": 23
   },
   {
+    "id": "Areas/PHAROS/Governance Controls — Incident Response (Control Failure Procedures)",
+    "title": "Governance Controls — Incident Response (Control Failure Procedures)",
+    "path": "Areas/PHAROS/Governance Controls — Incident Response (Control Failure Procedures).md",
+    "type": "governance-procedures",
+    "status": "active",
+    "aliases": [
+      "GOVERNANCE CONTROLS — Incident Response (Control Failure Procedures)"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 6,
+    "backlinks": 8
+  },
+  {
+    "id": "Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap",
+    "title": "Governance Controls — Monitoring Plan & Automation Roadmap",
+    "path": "Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap.md",
+    "type": "governance-procedures",
+    "status": "active",
+    "aliases": [
+      "GOVERNANCE CONTROLS — Monitoring Plan & Automation Roadmap"
+    ],
+    "outlinks": 8,
+    "unique_outlinks": 7,
+    "backlinks": 7
+  },
+  {
+    "id": "Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy",
+    "title": "Governance Typology — Recursive AI Governance Taxonomy",
+    "path": "Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Governance Typology — Recursive AI Governance Taxonomy"
+    ],
+    "outlinks": 16,
+    "unique_outlinks": 8,
+    "backlinks": 12
+  },
+  {
     "id": "Areas/PHAROS/Governance and PHAROS MOC",
     "title": "Governance and PHAROS MOC",
     "path": "Areas/PHAROS/Governance and PHAROS MOC.md",
@@ -1192,6 +1290,78 @@
     "outlinks": 394,
     "unique_outlinks": 348,
     "backlinks": 659
+  },
+  {
+    "id": "Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14",
+    "title": "Governance and Platform Signals Memo — 2026-05-14",
+    "path": "Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Governance and Platform Signals Memo — 2026-05-14"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 9,
+    "backlinks": 6
+  },
+  {
+    "id": "Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents",
+    "title": "Governed Revision Loop — Responsible Self-Improving Agents",
+    "path": "Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Governed Revision Loop",
+      "governed revision loop",
+      "responsible agent self-revision",
+      "self-improving agent governance"
+    ],
+    "outlinks": 25,
+    "unique_outlinks": 10,
+    "backlinks": 19
+  },
+  {
+    "id": "Areas/PHAROS/Governed Self-Improvement — Method Slide Asset",
+    "title": "Governed Self-Improvement — Method Slide Asset",
+    "path": "Areas/PHAROS/Governed Self-Improvement — Method Slide Asset.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Governed Self-Improvement Slides",
+      "obsidian-vault-slides.html"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 4,
+    "backlinks": 9
+  },
+  {
+    "id": "Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification",
+    "title": "Governess Agatha GPT — ChatGPT Product Specification",
+    "path": "Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Agatha GPT Product",
+      "Governess Agatha GPT"
+    ],
+    "outlinks": 11,
+    "unique_outlinks": 7,
+    "backlinks": 10
+  },
+  {
+    "id": "Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)",
+    "title": "HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)",
+    "path": "Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HELIX recursive governor build",
+      "HELIX v2.6 desktop build",
+      "HELIX3.0 snapshot"
+    ],
+    "outlinks": 6,
+    "unique_outlinks": 5,
+    "backlinks": 13
   },
   {
     "id": "Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)",
@@ -1221,6 +1391,82 @@
     "outlinks": 31,
     "unique_outlinks": 24,
     "backlinks": 48
+  },
+  {
+    "id": "Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build",
+    "title": "HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build",
+    "path": "Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HELIX Grok Session",
+      "HELIX v2.1 Build",
+      "HELIX v2.4 Multilingual"
+    ],
+    "outlinks": 7,
+    "unique_outlinks": 5,
+    "backlinks": 13
+  },
+  {
+    "id": "Areas/PHAROS/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "title": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
+    "path": "Areas/PHAROS/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HELIX session 2026-07-03",
+      "Martin's specific knowledge HELIX run",
+      "helix-sessions/gemini-2026-07-03",
+      "organized absence ruling"
+    ],
+    "outlinks": 22,
+    "unique_outlinks": 13,
+    "backlinks": 12
+  },
+  {
+    "id": "Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06",
+    "title": "HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06",
+    "path": "Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HELIX Canada health AI",
+      "HELIX health deep dive",
+      "HELIX healthcare prospects"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 9,
+    "backlinks": 10
+  },
+  {
+    "id": "Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06",
+    "title": "HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06",
+    "path": "Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HELIX Canada prospect extension",
+      "HELIX Hermes-assisted prospect extension",
+      "HELIX regulated AI routes"
+    ],
+    "outlinks": 12,
+    "unique_outlinks": 10,
+    "backlinks": 15
+  },
+  {
+    "id": "Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06",
+    "title": "HELIX Potential Clients - Source Sweep 2026-05-06",
+    "path": "Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "HELIX client research",
+      "HELIX potential clients",
+      "HELIX prospect sweep"
+    ],
+    "outlinks": 15,
+    "unique_outlinks": 11,
+    "backlinks": 16
   },
   {
     "id": "Areas/PHAROS/HELIX — Value Proposition and Buyer Profile",
@@ -2305,6 +2551,46 @@
     "backlinks": 5
   },
   {
+    "id": "Areas/Writing/Glitching the Sacred",
+    "title": "Glitching the Sacred",
+    "path": "Areas/Writing/Glitching the Sacred.md",
+    "type": "wiki",
+    "status": "near-ready",
+    "aliases": [
+      "Glitching the Sacred"
+    ],
+    "outlinks": 21,
+    "unique_outlinks": 12,
+    "backlinks": 18
+  },
+  {
+    "id": "Areas/Writing/Governance by Denial",
+    "title": "Governance by Denial",
+    "path": "Areas/Writing/Governance by Denial.md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Governance by Denial"
+    ],
+    "outlinks": 16,
+    "unique_outlinks": 12,
+    "backlinks": 106
+  },
+  {
+    "id": "Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft)",
+    "title": "Governance by Denial — Legibility, Capacity, Classification (Draft)",
+    "path": "Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft).md",
+    "type": "wiki",
+    "status": "active",
+    "aliases": [
+      "Democratic Hollowing — Legibility Capacity Classification",
+      "Governance by Denial (Draft)"
+    ],
+    "outlinks": 5,
+    "unique_outlinks": 5,
+    "backlinks": 23
+  },
+  {
     "id": "Areas/Writing/Governance by Denial — Version Genealogy",
     "title": "Governance by Denial — Version Genealogy",
     "path": "Areas/Writing/Governance by Denial — Version Genealogy.md",
@@ -3170,83 +3456,6 @@
     "backlinks": 0
   },
   {
-    "id": "GSD Tier 1 — Core Workflow Skills Hub",
-    "title": "GSD Tier 1 — Core Workflow Skills Hub",
-    "path": "wiki/GSD Tier 1 — Core Workflow Skills Hub.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Core workflow skills hub",
-      "GSD Tier 1",
-      "Tier 1 core workflow hub",
-      "wiki/GSD Tier 1 — Core Workflow Skills Hub"
-    ],
-    "outlinks": 94,
-    "unique_outlinks": 92,
-    "backlinks": 15
-  },
-  {
-    "id": "GSD — Get Shit Done Context Engineering System",
-    "title": "GSD — Get Shit Done Context Engineering System",
-    "path": "wiki/GSD — Get Shit Done Context Engineering System.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "GSD",
-      "get-shit-done",
-      "get-shit-done-cc",
-      "wiki/GSD — Get Shit Done Context Engineering System"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 6,
-    "backlinks": 24
-  },
-  {
-    "id": "GSD — Get-Shit-Done Claude Code System",
-    "title": "GSD — Get-Shit-Done Claude Code System",
-    "path": "wiki/GSD — Get-Shit-Done Claude Code System.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "GSD",
-      "context rot",
-      "get-shit-done",
-      "meta-prompting",
-      "wiki/GSD — Get-Shit-Done Claude Code System"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 5,
-    "backlinks": 15
-  },
-  {
-    "id": "Glitching the Sacred",
-    "title": "Glitching the Sacred",
-    "path": "wiki/Glitching the Sacred.md",
-    "type": "wiki",
-    "status": "near-ready",
-    "aliases": [
-      "Glitching the Sacred",
-      "wiki/Glitching the Sacred"
-    ],
-    "outlinks": 21,
-    "unique_outlinks": 12,
-    "backlinks": 18
-  },
-  {
-    "id": "Global Publication Search — PHAROS Method and Variants",
-    "title": "Global Publication Search — PHAROS Method and Variants",
-    "path": "wiki/Global Publication Search — PHAROS Method and Variants.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Global Publication Search — PHAROS Method and Variants",
-      "wiki/Global Publication Search — PHAROS Method and Variants"
-    ],
-    "outlinks": 13,
-    "unique_outlinks": 6,
-    "backlinks": 14
-  },
-  {
     "id": "Governance Controls and Mechanisms",
     "title": "Governance Controls and Mechanisms",
     "path": "wiki/Governance Controls and Mechanisms.md",
@@ -3259,34 +3468,6 @@
     "outlinks": 63,
     "unique_outlinks": 53,
     "backlinks": 377
-  },
-  {
-    "id": "Governance Controls — Incident Response (Control Failure Procedures)",
-    "title": "Governance Controls — Incident Response (Control Failure Procedures)",
-    "path": "wiki/Governance Controls — Incident Response (Control Failure Procedures).md",
-    "type": "governance-procedures",
-    "status": "active",
-    "aliases": [
-      "GOVERNANCE CONTROLS — Incident Response (Control Failure Procedures)",
-      "wiki/Governance Controls — Incident Response (Control Failure Procedures)"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 6,
-    "backlinks": 8
-  },
-  {
-    "id": "Governance Controls — Monitoring Plan & Automation Roadmap",
-    "title": "Governance Controls — Monitoring Plan & Automation Roadmap",
-    "path": "wiki/Governance Controls — Monitoring Plan & Automation Roadmap.md",
-    "type": "governance-procedures",
-    "status": "active",
-    "aliases": [
-      "GOVERNANCE CONTROLS — Monitoring Plan & Automation Roadmap",
-      "wiki/Governance Controls — Monitoring Plan & Automation Roadmap"
-    ],
-    "outlinks": 8,
-    "unique_outlinks": 7,
-    "backlinks": 7
   },
   {
     "id": "Governance Stress-Test Protocols — Index",
@@ -3303,206 +3484,6 @@
     "outlinks": 30,
     "unique_outlinks": 25,
     "backlinks": 27
-  },
-  {
-    "id": "Governance Typology — Recursive AI Governance Taxonomy",
-    "title": "Governance Typology — Recursive AI Governance Taxonomy",
-    "path": "wiki/Governance Typology — Recursive AI Governance Taxonomy.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Governance Typology — Recursive AI Governance Taxonomy",
-      "wiki/Governance Typology — Recursive AI Governance Taxonomy"
-    ],
-    "outlinks": 16,
-    "unique_outlinks": 8,
-    "backlinks": 12
-  },
-  {
-    "id": "Governance and Platform Signals Memo — 2026-05-14",
-    "title": "Governance and Platform Signals Memo — 2026-05-14",
-    "path": "wiki/Governance and Platform Signals Memo — 2026-05-14.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Governance and Platform Signals Memo — 2026-05-14",
-      "wiki/Governance and Platform Signals Memo — 2026-05-14"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 9,
-    "backlinks": 6
-  },
-  {
-    "id": "Governance by Denial",
-    "title": "Governance by Denial",
-    "path": "wiki/Governance by Denial.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Governance by Denial",
-      "wiki/Governance by Denial"
-    ],
-    "outlinks": 16,
-    "unique_outlinks": 12,
-    "backlinks": 106
-  },
-  {
-    "id": "Governance by Denial — Legibility, Capacity, Classification (Draft)",
-    "title": "Governance by Denial — Legibility, Capacity, Classification (Draft)",
-    "path": "wiki/Governance by Denial — Legibility, Capacity, Classification (Draft).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Democratic Hollowing — Legibility Capacity Classification",
-      "Governance by Denial (Draft)",
-      "wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)"
-    ],
-    "outlinks": 5,
-    "unique_outlinks": 5,
-    "backlinks": 23
-  },
-  {
-    "id": "Governed Revision Loop — Responsible Self-Improving Agents",
-    "title": "Governed Revision Loop — Responsible Self-Improving Agents",
-    "path": "wiki/Governed Revision Loop — Responsible Self-Improving Agents.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Governed Revision Loop",
-      "governed revision loop",
-      "responsible agent self-revision",
-      "self-improving agent governance",
-      "wiki/Governed Revision Loop — Responsible Self-Improving Agents"
-    ],
-    "outlinks": 25,
-    "unique_outlinks": 10,
-    "backlinks": 19
-  },
-  {
-    "id": "Governed Self-Improvement — Method Slide Asset",
-    "title": "Governed Self-Improvement — Method Slide Asset",
-    "path": "wiki/Governed Self-Improvement — Method Slide Asset.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Governed Self-Improvement Slides",
-      "obsidian-vault-slides.html",
-      "wiki/Governed Self-Improvement — Method Slide Asset"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 4,
-    "backlinks": 9
-  },
-  {
-    "id": "Governess Agatha GPT — ChatGPT Product Specification",
-    "title": "Governess Agatha GPT — ChatGPT Product Specification",
-    "path": "wiki/Governess Agatha GPT — ChatGPT Product Specification.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "Agatha GPT Product",
-      "Governess Agatha GPT",
-      "wiki/Governess Agatha GPT — ChatGPT Product Specification"
-    ],
-    "outlinks": 11,
-    "unique_outlinks": 7,
-    "backlinks": 10
-  },
-  {
-    "id": "HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)",
-    "title": "HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)",
-    "path": "wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HELIX recursive governor build",
-      "HELIX v2.6 desktop build",
-      "HELIX3.0 snapshot",
-      "wiki/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface"
-    ],
-    "outlinks": 6,
-    "unique_outlinks": 5,
-    "backlinks": 13
-  },
-  {
-    "id": "HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build",
-    "title": "HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build",
-    "path": "wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HELIX Grok Session",
-      "HELIX v2.1 Build",
-      "HELIX v2.4 Multilingual",
-      "wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build"
-    ],
-    "outlinks": 7,
-    "unique_outlinks": 5,
-    "backlinks": 13
-  },
-  {
-    "id": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
-    "title": "HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03)",
-    "path": "wiki/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03).md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HELIX session 2026-07-03",
-      "Martin's specific knowledge HELIX run",
-      "helix-sessions/gemini-2026-07-03",
-      "organized absence ruling"
-    ],
-    "outlinks": 22,
-    "unique_outlinks": 13,
-    "backlinks": 12
-  },
-  {
-    "id": "HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06",
-    "title": "HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06",
-    "path": "wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HELIX Canada health AI",
-      "HELIX health deep dive",
-      "HELIX healthcare prospects",
-      "wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 9,
-    "backlinks": 10
-  },
-  {
-    "id": "HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06",
-    "title": "HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06",
-    "path": "wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HELIX Canada prospect extension",
-      "HELIX Hermes-assisted prospect extension",
-      "HELIX regulated AI routes",
-      "wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06"
-    ],
-    "outlinks": 12,
-    "unique_outlinks": 10,
-    "backlinks": 15
-  },
-  {
-    "id": "HELIX Potential Clients - Source Sweep 2026-05-06",
-    "title": "HELIX Potential Clients - Source Sweep 2026-05-06",
-    "path": "wiki/HELIX Potential Clients - Source Sweep 2026-05-06.md",
-    "type": "wiki",
-    "status": "active",
-    "aliases": [
-      "HELIX client research",
-      "HELIX potential clients",
-      "HELIX prospect sweep",
-      "wiki/HELIX Potential Clients - Source Sweep 2026-05-06"
-    ],
-    "outlinks": 15,
-    "unique_outlinks": 11,
-    "backlinks": 16
   },
   {
     "id": "HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06",

@@ -21,8 +21,8 @@ vault_area: Areas
 canonical_path: Areas/Writing/Governance by Denial — Version Genealogy.md
 backlink_count: 6
 backlinks:
-- '[[wiki/Governance by Denial]]'
-- '[[wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
+- '[[Areas/Writing/Governance by Denial]]'
+- '[[Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft)]]'
 - '[[wiki/Home]]'
 - '[[wiki/Novel and Creative Corpus]]'
 - '[[Areas/Writing/Version Genealogy System]]'

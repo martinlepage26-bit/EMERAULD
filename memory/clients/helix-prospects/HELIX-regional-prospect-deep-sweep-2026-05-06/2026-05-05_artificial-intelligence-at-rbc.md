@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-regional-prospect-deep-sweep-2026-05-06/2026-05-05_artificial-intelligence-at-rbc.md
 backlink_count: 2
 backlinks:
-- '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://www.rbc.com/our-impact/technology/artificial-intelligence.html
 date: '2026-05-05'

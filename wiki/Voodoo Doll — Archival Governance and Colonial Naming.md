@@ -23,7 +23,7 @@ backlink_count: 12
 backlinks:
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Governance by Denial]]'
+- '[[Areas/Writing/Governance by Denial]]'
 - '[[wiki/Home]]'
 - '[[wiki/L’esprit du don — Godbout & Caillé (1992)]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

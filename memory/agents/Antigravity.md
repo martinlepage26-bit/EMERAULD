@@ -189,4 +189,4 @@ Council operations coordinate via `tmux-council-loop` for multi-agent workflows 
 - [[session-state]]
 - [[Areas/PHAROS/company]]
 - [[Resources/glossary]]
-- [[wiki/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]
+- [[Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]

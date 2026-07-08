@@ -5,7 +5,6 @@ aliases:
 - HELIX potential clients
 - HELIX prospect sweep
 - HELIX client research
-- wiki/HELIX Potential Clients - Source Sweep 2026-05-06
 tags:
 - helix
 - prospects
@@ -13,7 +12,7 @@ tags:
 - commercial
 - ai-governance
 - source-sweep
-- wiki
+- areas
 - helix-potential-clients-source-sweep-2026-05-06-md
 - humania
 - botpress
@@ -23,12 +22,12 @@ tags:
 status: active
 created: '2026-05-06'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/HELIX Potential Clients - Source Sweep 2026-05-06.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06.md
 backlink_count: 11
 backlinks:
-- '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
-- '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
 - '[[wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'

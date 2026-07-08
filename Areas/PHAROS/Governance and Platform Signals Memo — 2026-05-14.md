@@ -3,7 +3,6 @@ type: wiki
 title: Governance and Platform Signals Memo — 2026-05-14
 aliases:
 - Governance and Platform Signals Memo — 2026-05-14
-- wiki/Governance and Platform Signals Memo — 2026-05-14
 tags:
 - memo
 - governance
@@ -11,7 +10,7 @@ tags:
 - signals
 - pharos
 - '2026-05-14'
-- wiki
+- areas
 - governance-and-platform-signals-memo-2026-05-14-md
 - healthcare
 - signal
@@ -22,8 +21,8 @@ tags:
 status: active
 created: '2026-05-14'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governance and Platform Signals Memo — 2026-05-14.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14.md
 backlink_count: 4
 backlinks:
 - '[[.graph_store/graph_report]]'

@@ -3,9 +3,8 @@ type: wiki
 title: Governance Typology — Recursive AI Governance Taxonomy
 aliases:
 - Governance Typology — Recursive AI Governance Taxonomy
-- wiki/Governance Typology — Recursive AI Governance Taxonomy
 tags:
-- wiki
+- areas
 - recursion
 - governance
 - ai
@@ -19,8 +18,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governance Typology — Recursive AI Governance Taxonomy.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy.md
 backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'

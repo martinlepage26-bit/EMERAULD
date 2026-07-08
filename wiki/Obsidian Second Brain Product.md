@@ -34,7 +34,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14]]'
 - '[[archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06]]'
 - '[[wiki/EMERAULD]]'
-- '[[wiki/Governed Self-Improvement — Method Slide Asset]]'
+- '[[Areas/PHAROS/Governed Self-Improvement — Method Slide Asset]]'
 - '[[wiki/Home]]'
 - '[[wiki/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'

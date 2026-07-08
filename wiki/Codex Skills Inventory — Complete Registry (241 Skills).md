@@ -26,7 +26,7 @@ vault_area: wiki
 canonical_path: wiki/Codex Skills Inventory — Complete Registry (241 Skills).md
 backlink_count: 10
 backlinks:
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Corpus Genealogy Delta — 2026-05-06]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'

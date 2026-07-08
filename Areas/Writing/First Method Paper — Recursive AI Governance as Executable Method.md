@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/Writing/First Method Paper — Version Genealogy]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance Typology — Recursive AI Governance Taxonomy]]'
+- '[[Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[wiki/Local Hardware and Discovery Snapshot — Laptop A]]'

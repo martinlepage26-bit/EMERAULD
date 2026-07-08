@@ -22,7 +22,7 @@ backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/External Data Registry — Phase 1 Build]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
-- '[[wiki/Governance Controls — Monitoring Plan & Automation Roadmap]]'
+- '[[Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Resources/Regulatory Standards Reference Stack — Governance Controls Grounding]]'

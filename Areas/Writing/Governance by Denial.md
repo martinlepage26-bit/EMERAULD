@@ -3,9 +3,8 @@ type: wiki
 title: Governance by Denial
 aliases:
 - Governance by Denial
-- wiki/Governance by Denial
 tags:
-- wiki
+- areas
 - governance
 - governance-by-denial-md
 - accountability
@@ -17,16 +16,15 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governance by Denial.md
+vault_area: Areas
+canonical_path: Areas/Writing/Governance by Denial.md
 backlink_count: 67
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/PHAROS/AI Governance Public Statement and Market Impact Pack]]'
 - '[[Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization]]'
 - '[[Resources/Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)]]'
-- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics
-  of Interruption]]'
+- '[[wiki/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption]]'
 - '[[Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory]]'
 - '[[Areas/Writing/Authority Without Ethics — The Love Witch]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
@@ -46,7 +44,7 @@ backlinks:
 - '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Governance by Denial — Version Genealogy]]'
-- '[[wiki/Governed Revision Loop — Responsible Self-Improving Agents]]'
+- '[[Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents]]'
 - '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[wiki/Home]]'
 - '[[wiki/Intelligence Definitions and AI Bias — 1956 Lecture]]'
@@ -57,8 +55,7 @@ backlinks:
 - '[[wiki/Magic After Legitimacy — Charmed and the Governance of Female Power]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
 - '[[wiki/Narrative and Method Integration — Creative Articulations of Governance]]'
-- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche
-  2024]]'
+- '[[wiki/On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]'
 - '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[wiki/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
@@ -66,8 +63,7 @@ backlinks:
 - '[[Resources/Power in International Politics — Barnett & Duvall 2005 (Taxonomy)]]'
 - '[[wiki/Privacy as Contextual Integrity — Nissenbaum 2004 (Public Surveillance)]]'
 - '[[wiki/Queer Theory Foundations]]'
-- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca
-  vs Reclaiming)]]'
+- '[[wiki/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming)]]'
 - '[[wiki/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis]]'
 - '[[Resources/Recursive Governance Theory]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

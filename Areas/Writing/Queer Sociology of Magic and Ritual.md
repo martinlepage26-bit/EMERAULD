@@ -28,7 +28,7 @@ backlinks:
 - '[[Areas/Writing/Agatha All Along Social Compass — Version Genealogy]]'
 - '[[Resources/Anthropologie rituelle autour de la maladie et de la mort — Tourreil 2019 (Abomey, Bénin)]]'
 - '[[wiki/Buffy Slayer Studies]]'
-- '[[wiki/Glitching the Sacred]]'
+- '[[Areas/Writing/Glitching the Sacred]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Home]]'
 - '[[Resources/In the Study of the Witch — Zwissler 2018 (Magic-Religion categories, gender)]]'

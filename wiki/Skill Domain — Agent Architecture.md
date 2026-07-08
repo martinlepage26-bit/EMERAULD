@@ -29,7 +29,7 @@ canonical_path: wiki/Skill Domain — Agent Architecture.md
 backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[wiki/Skill Domain — Design and UX]]'
 - '[[wiki/Skill Domain — Security and Compliance]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'

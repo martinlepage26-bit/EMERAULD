@@ -21,7 +21,7 @@ canonical_path: memory/clients/helix-prospects/HELIX-potential-clients-2026-05-0
 backlink_count: 2
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06]]'
 source_url: https://www.wisedocs.ai/
 date: '2026-05-05'
 scraped: '2026-05-05'

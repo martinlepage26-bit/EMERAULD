@@ -33,7 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26)]]'
-- '[[wiki/Governance Controls — Incident Response (Control Failure Procedures)]]'
+- '[[Areas/PHAROS/Governance Controls — Incident Response (Control Failure Procedures)]]'
 - '[[archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/OUTLIERS — Five Notes That Break the Architecture]]'

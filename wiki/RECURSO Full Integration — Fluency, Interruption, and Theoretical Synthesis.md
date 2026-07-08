@@ -25,7 +25,7 @@ backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript]]'
 - '[[wiki/Fluency and Interruption Theory]]'
-- '[[wiki/Governance by Denial]]'
+- '[[Areas/Writing/Governance by Denial]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Home]]'
 - '[[wiki/Loop Hinge Candidate — This Paper May Not Exist]]'

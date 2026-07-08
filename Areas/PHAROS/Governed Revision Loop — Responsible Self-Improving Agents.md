@@ -6,7 +6,6 @@ aliases:
 - self-improving agent governance
 - responsible agent self-revision
 - Governed Revision Loop
-- wiki/Governed Revision Loop — Responsible Self-Improving Agents
 tags:
 - ai-governance
 - agents
@@ -15,7 +14,7 @@ tags:
 - pharos
 - drift
 - evaluation
-- wiki
+- areas
 - governed-revision-loop-responsible-self-improving-agents-md
 - acceptance
 - governed
@@ -26,8 +25,8 @@ tags:
 status: active
 created: '2026-04-20'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governed Revision Loop — Responsible Self-Improving Agents.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents.md
 backlink_count: 12
 backlinks:
 - '[[Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure]]'

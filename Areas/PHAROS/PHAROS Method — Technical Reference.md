@@ -50,7 +50,7 @@ backlinks:
 - '[[Resources/Entropic Gravity, Lily-of-the-Valley, and EML — Three Instances of Emergent Phenomenon]]'
 - '[[Resources/Evidence Discipline and Epistemics]]'
 - '[[Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning]]'
-- '[[wiki/GSD — Get-Shit-Done Claude Code System]]'
+- '[[Areas/PHAROS/GSD — Get-Shit-Done Claude Code System]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[wiki/Governance Stress-Test Protocols — Index]]'

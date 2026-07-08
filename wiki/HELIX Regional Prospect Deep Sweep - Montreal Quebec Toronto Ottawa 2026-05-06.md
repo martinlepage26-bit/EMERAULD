@@ -31,9 +31,9 @@ canonical_path: wiki/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toront
   Ottawa 2026-05-06.md
 backlink_count: 9
 backlinks:
-- '[[wiki/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
-- '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
-- '[[wiki/HELIX Potential Clients - Source Sweep 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

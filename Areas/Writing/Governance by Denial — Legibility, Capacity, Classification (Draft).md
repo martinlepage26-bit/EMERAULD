@@ -4,7 +4,6 @@ title: Governance by Denial — Legibility, Capacity, Classification (Draft)
 aliases:
 - Governance by Denial (Draft)
 - Democratic Hollowing — Legibility Capacity Classification
-- wiki/Governance by Denial — Legibility, Capacity, Classification (Draft)
 tags:
 - reference
 - governance
@@ -13,7 +12,7 @@ tags:
 - classification
 - capacity
 - audit
-- wiki
+- areas
 - governance-by-denial-legibility-capacity-classification-draft-md
 - hollowing
 - impunity
@@ -22,14 +21,13 @@ tags:
 status: active
 created: '2026-04-26'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governance by Denial — Legibility, Capacity, Classification (Draft).md
+vault_area: Areas
+canonical_path: Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft).md
 backlink_count: 15
 backlinks:
 - '[[.trash/D Library — LIBRARY Intake Index (2026-04-26)]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
-- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic
-  Explanation)]]'
+- '[[wiki/Causal Mechanisms in the Social Sciences — Hedström & Ylikoski (Mechanistic Explanation)]]'
 - '[[Resources/Framing Processes and Social Movements — Benford & Snow 2000]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[wiki/Library Master Reference Intake (2026-04-26)]]'

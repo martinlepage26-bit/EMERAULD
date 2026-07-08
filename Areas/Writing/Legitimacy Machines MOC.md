@@ -26,7 +26,7 @@ backlinks:
 - '[[wiki/Buffy Slayer Studies]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[wiki/EMERAULD]]'
-- '[[wiki/Glitching the Sacred]]'
+- '[[Areas/Writing/Glitching the Sacred]]'
 - '[[wiki/HEXA Press — Publishing and Practice Initiative]]'
 - '[[wiki/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica)]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'

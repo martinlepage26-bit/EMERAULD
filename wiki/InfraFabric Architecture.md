@@ -32,7 +32,7 @@ backlinks:
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method]]'
 - '[[Areas/PHAROS/Founder Charter — Lepage and Stocker]]'
-- '[[wiki/GSD — Get-Shit-Done Claude Code System]]'
+- '[[Areas/PHAROS/GSD — Get-Shit-Done Claude Code System]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[wiki/Hermes Dashboard — Professional Governance Tool]]'

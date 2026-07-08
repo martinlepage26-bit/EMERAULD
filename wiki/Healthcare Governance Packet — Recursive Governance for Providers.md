@@ -30,7 +30,7 @@ backlinks:
 - '[[wiki/Disability Epistemology and Institutional Critique]]'
 - '[[Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Governance and Platform Signals Memo — 2026-05-14]]'
+- '[[Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14]]'
 - '[[wiki/Harrowfield Clinic — AI Governance Failure Case Study]]'
 - '[[Areas/Writing/Healthcare Packet — Version Genealogy]]'
 - '[[wiki/Home]]'

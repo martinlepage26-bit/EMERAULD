@@ -29,7 +29,7 @@ vault_area: wiki
 canonical_path: wiki/Skill Domain — Research and Scholarly Work.md
 backlink_count: 9
 backlinks:
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[Areas/Writing/Research and Papers MOC]]'

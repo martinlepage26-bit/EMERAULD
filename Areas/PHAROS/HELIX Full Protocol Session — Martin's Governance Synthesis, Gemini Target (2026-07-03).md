@@ -9,8 +9,8 @@ aliases:
 status: active
 created: '2026-07-03'
 updated: '2026-07-03'
-vault_area: wiki
-canonical_path: wiki/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03).md
+vault_area: Areas
+canonical_path: Areas/PHAROS/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03).md
 tags:
 - helix
 - stress-test

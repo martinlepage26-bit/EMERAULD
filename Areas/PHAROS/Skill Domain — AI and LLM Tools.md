@@ -31,7 +31,7 @@ canonical_path: Areas/PHAROS/Skill Domain — AI and LLM Tools.md
 backlink_count: 7
 backlinks:
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[wiki/Skill Domain — Design and UX]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'

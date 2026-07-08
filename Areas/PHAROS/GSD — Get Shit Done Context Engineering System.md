@@ -5,14 +5,13 @@ aliases:
 - GSD
 - get-shit-done
 - get-shit-done-cc
-- wiki/GSD — Get Shit Done Context Engineering System
 tags:
 - claude-code
 - context-engineering
 - agents
 - workflow
 - meta-prompting
-- wiki
+- areas
 - gsd-get-shit-done-context-engineering-system-md
 - phase
 - discuss
@@ -23,13 +22,13 @@ tags:
 status: active
 created: '2026-04-16'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/GSD — Get Shit Done Context Engineering System.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/GSD — Get Shit Done Context Engineering System.md
 backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
-- '[[wiki/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
 - '[[wiki/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[wiki/LightRAG — Graph-Based RAG System]]'
 - '[[wiki/Martin Lepage — Adjacent Skill Ring]]'

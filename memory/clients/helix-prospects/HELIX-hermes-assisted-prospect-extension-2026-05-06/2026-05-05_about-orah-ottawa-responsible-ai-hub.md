@@ -20,7 +20,7 @@ vault_area: memory
 canonical_path: memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_about-orah-ottawa-responsible-ai-hub.md
 backlink_count: 2
 backlinks:
-- '[[wiki/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
+- '[[Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 source_url: https://www.responsibleaiottawa.ca/about
 author: Ottawa Responsible AI Hub

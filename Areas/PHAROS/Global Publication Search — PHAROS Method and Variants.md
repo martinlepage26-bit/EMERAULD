@@ -3,9 +3,8 @@ type: wiki
 title: Global Publication Search — PHAROS Method and Variants
 aliases:
 - Global Publication Search — PHAROS Method and Variants
-- wiki/Global Publication Search — PHAROS Method and Variants
 tags:
-- wiki
+- areas
 - pharos
 - publication
 - global-publication-search-pharos-method-and-variants-md
@@ -17,8 +16,8 @@ tags:
 status: active
 created: '2026-06-21'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Global Publication Search — PHAROS Method and Variants.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Global Publication Search — PHAROS Method and Variants.md
 backlink_count: 8
 backlinks:
 - '[[Areas/Writing/Academic Paper Pipeline]]'

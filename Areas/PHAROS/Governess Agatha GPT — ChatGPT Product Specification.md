@@ -4,7 +4,6 @@ title: Governess Agatha GPT — ChatGPT Product Specification
 aliases:
 - Governess Agatha GPT
 - Agatha GPT Product
-- wiki/Governess Agatha GPT — ChatGPT Product Specification
 tags:
 - gpt
 - agatha
@@ -14,7 +13,7 @@ tags:
 - governance
 - scholarly
 - chatgpt-product
-- wiki
+- areas
 - governess-agatha-gpt-chatgpt-product-specification-md
 - governess
 - scholar
@@ -24,8 +23,8 @@ tags:
 status: active
 created: '2026-05-07'
 updated: '2026-06-26'
-vault_area: wiki
-canonical_path: wiki/Governess Agatha GPT — ChatGPT Product Specification.md
+vault_area: Areas
+canonical_path: Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification.md
 backlink_count: 5
 backlinks:
 - '[[Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI]]'

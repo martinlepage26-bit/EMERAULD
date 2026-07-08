@@ -27,7 +27,7 @@ canonical_path: Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish 
 backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/Governed Self-Improvement — Method Slide Asset]]'
+- '[[Areas/PHAROS/Governed Self-Improvement — Method Slide Asset]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Asset Canon]]'
 - '[[wiki/PHAROS LinkedIn April 2026 Publishing Routine]]'
 - '[[Areas/PHAROS/PHAROS — Origin and Doctrine]]'
