@@ -23,13 +23,14 @@ created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/AI Infrastructure Stack.md
-backlink_count: 52
+backlink_count: 53
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS]]'
 - '[[Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure]]'
 - '[[Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06)]]'
 - '[[Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06)]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'

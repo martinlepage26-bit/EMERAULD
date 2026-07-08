@@ -2,19 +2,32 @@
 type: governance-doc
 title: RELAY-LEDGER — Live Governance Handoff Ledger
 tags:
-  - relay-ledger
-  - hephaistos
-  - queen-keyport
-  - governance-maturity
-  - handoff-protocol
-  - three-agent-architecture
-  - live-ruling
+- relay-ledger
+- hephaistos
+- queen-keyport
+- governance-maturity
+- handoff-protocol
+- three-agent-architecture
+- live-ruling
+- governance-doc
+- areas
+- pharos
 status: active
 domain: governance
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger.md
+backlink_count: 8
+backlinks:
+- '[[Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report]]'
+- '[[Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline]]'
+- '[[wiki/HEPHAISTOS MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[governance/EMERAULD-OS-BUILD-ORDER]]'
+- '[[governance/EMERAULD-OS-SPEC — Governance Wiring]]'
 ---
 
 > For future Claude: this note documents a governance artifact that lives on disk at

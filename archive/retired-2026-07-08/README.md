@@ -1,3 +1,20 @@
+---
+type: archive
+title: Retired subsystems — 2026-07-08
+tags:
+- archive
+- retired-2026-07-08
+status: archived
+priority: low
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: archive
+canonical_path: archive/retired-2026-07-08/README.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Retired subsystems — 2026-07-08
 
 Retire-or-revive verdicts from the vault overhaul Phase 6 (see `governance/EMERAULD-OS-BUILD-ORDER.md`):

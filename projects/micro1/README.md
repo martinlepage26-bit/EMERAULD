@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: micro1 Data Licensing — Pharos AI (working folder)
+tags:
+- project-mirror
+- projects
+- micro1
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/micro1/README.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # micro1 Data Licensing — Pharos AI (working folder)
 
 **Context**: Cold outreach from Daniel Warner at micro1 (Scale AI competitor, $500M valuation, buys structured operational + evaluation data for frontier AI labs). Goal: qualify and structure a paid pilot for governance workflow traces + professional domain evaluation data.

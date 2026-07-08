@@ -18,7 +18,7 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/content-inventory-cartographer/references/method.md
-backlink_count: 11
+backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
@@ -27,7 +27,6 @@ backlinks:
 - '[[Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'
-- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/BOWIE]]'
 - '[[hephaistos/agents/argus]]'
 - '[[hephaistos/personal-assistant-agents/synthesis-editor/references/method]]'

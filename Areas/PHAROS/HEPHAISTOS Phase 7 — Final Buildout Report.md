@@ -2,19 +2,29 @@
 type: governance-doc
 title: HEPHAISTOS Phase 7 — Final Buildout Report
 tags:
-  - hephaistos
-  - phase-7
-  - three-agent-architecture
-  - right-arm-veto
-  - bias-testing
-  - research-ethics-gate
-  - production-readiness
+- hephaistos
+- phase-7
+- three-agent-architecture
+- right-arm-veto
+- bias-testing
+- research-ethics-gate
+- production-readiness
+- governance-doc
+- areas
+- pharos
 status: active
 domain: governance
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report.md
+backlink_count: 5
+backlinks:
+- '[[Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline]]'
+- '[[wiki/HEPHAISTOS MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 > For future Claude: this closes out the Phase 1-7 build series for the

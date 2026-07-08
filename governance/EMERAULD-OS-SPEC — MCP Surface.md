@@ -6,12 +6,19 @@ tags:
 - emerauld-os
 - spec
 - mcp
+- governance
 status: active
 domain: governance
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: governance
 canonical_path: governance/EMERAULD-OS-SPEC — MCP Surface.md
+backlink_count: 4
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[EMERAULD_OS_ARCHITECTURE]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[governance/EMERAULD-OS-BUILD-ORDER]]'
 ---
 
 # OS Spec — MCP Surface for the Vault (gap 6)

@@ -20,12 +20,13 @@ created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/EMERAULD.md
-backlink_count: 38
+backlink_count: 39
 backlinks:
 - '[[wiki/Architecture - EMERAULD Scripts - Intake Pipeline]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Key Decisions]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Knowledge Layers]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Overview]]'
+- '[[Areas/PHAROS/Agent Collab Session — Vault Assessment Council (Historical)]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework]]'
 - '[[Areas/PHAROS/Stacklight-owner-explainer]]'

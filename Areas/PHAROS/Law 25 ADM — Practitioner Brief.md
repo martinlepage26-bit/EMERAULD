@@ -8,12 +8,19 @@ tags:
 - regulatory-compliance
 - financial-services
 - pharos-marketing-asset
+- note
+- areas
+- pharos
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Law 25 ADM — Practitioner Brief.md
+backlink_count: 2
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Law 25 ADM — Practitioner Brief

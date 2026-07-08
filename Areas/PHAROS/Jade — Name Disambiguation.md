@@ -7,12 +7,18 @@ tags:
 - lavoie
 - local-agent
 - naming-collision
+- areas
+- pharos
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Jade — Name Disambiguation.md
+backlink_count: 2
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Jade — Name Disambiguation

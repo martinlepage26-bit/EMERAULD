@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: Camilo Meeting Brief
+tags:
+- project-mirror
+- projects
+- micro1
+status: active
+created: '2026-06-15'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/micro1/camilo-meeting-brief-2026-06-15.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Camilo Meeting Brief
 ## micro1 qualification call
 

@@ -2,19 +2,29 @@
 type: governance-doc
 title: Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)
 tags:
-  - co-equal-authority
-  - hephaistos
-  - queen-keyport
-  - clearday
-  - governed-task
-  - operator-arbitration
-  - freemium-parity
+- co-equal-authority
+- hephaistos
+- queen-keyport
+- clearday
+- governed-task
+- operator-arbitration
+- freemium-parity
+- governance-doc
+- areas
+- pharos
 status: active
 domain: governance
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06).md
+backlink_count: 5
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger]]'
+- '[[wiki/HEPHAISTOS MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[governance/EMERAULD-OS-SPEC — Governance Wiring]]'
 ---
 
 > For future Claude: this is a record of a live, recorded Hephaistos/Queen-Keyport

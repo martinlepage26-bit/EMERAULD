@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: Pharos AI x micro1 Operational Data Licensing Assessment
+tags:
+- project-mirror
+- projects
+- micro1
+status: active
+created: '2026-06-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/micro1/4164-pharos-micro1-operational-data-licensing-blackboard-iftrace-assessment-2026-06-08.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Pharos AI x micro1 Operational Data Licensing Assessment
 
 Danny Stocker | InfraFabric Research | 2026-06-08  

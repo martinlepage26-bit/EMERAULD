@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: InfraFabric Blackboard — Training Data Asset Catalogue
+tags:
+- project-mirror
+- projects
+- micro1
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/micro1/4391-internal-micro1prep/4391-infrafabric-blackboard-micro1-explainer-2026-06.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # InfraFabric Blackboard — Training Data Asset Catalogue
 
 **Prepared for Micro1  ·  Confidential**  

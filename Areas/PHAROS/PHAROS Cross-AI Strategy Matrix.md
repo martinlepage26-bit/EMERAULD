@@ -23,10 +23,12 @@ created: '2026-04-16'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Cross-AI Strategy Matrix.md
-backlink_count: 16
+backlink_count: 18
 backlinks:
 - '[[Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06)]]'
+- '[[Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)]]'
 - '[[Areas/PHAROS/PHAROS AI Lineage — Source of Truth]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator]]'

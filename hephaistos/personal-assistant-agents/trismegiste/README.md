@@ -19,7 +19,7 @@ vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/trismegiste/README.md
 backlink_count: 1
 backlinks:
-- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
 ---
 
 # Personal Assistant — WSL Setup

@@ -10,12 +10,19 @@ tags:
 - vite
 - pharos
 - vm-inventory
+- product
+- areas
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Reflexive Inhabitation Audit — Built App.md
+backlink_count: 3
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/fantasycast-gay — Expo App]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Reflexive Inhabitation Audit — Built App

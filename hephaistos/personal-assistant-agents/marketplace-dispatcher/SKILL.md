@@ -18,9 +18,8 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/marketplace-dispatcher/SKILL.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
-- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[graph/nodes/unmapped/content_to_market_pipeline_workflow]]'
 - '[[graph/nodes/unmapped/revenue_support_optimizer]]'
 name: marketplace-dispatcher

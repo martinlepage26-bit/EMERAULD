@@ -7,12 +7,19 @@ tags:
 - ai-council
 - standing-context
 - pharos
+- note
+- areas
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06).md
+backlink_count: 3
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 > For future Claude: this is Martin's own operator-maintained standing context for how to route work to Grok — treat it as a rule sheet to consult *before* assigning Grok a council role, not as a passive record. It is explicitly framed in the source as "operator-maintained fact, not agent self-report," so its claims about what Grok should/should not be asked to do carry more authority than an agent's inferred read of the same sessions.

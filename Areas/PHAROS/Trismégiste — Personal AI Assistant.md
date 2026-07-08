@@ -28,8 +28,9 @@ created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Trismégiste — Personal AI Assistant.md
-backlink_count: 38
+backlink_count: 39
 backlinks:
+- '[[Areas/PHAROS/Agent Protocol — Working With Martin]]'
 - '[[Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[Areas/PHAROS/Epistemic Operator — Operational Specification]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'

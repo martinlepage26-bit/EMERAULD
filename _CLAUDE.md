@@ -65,7 +65,8 @@ assets/        ← deliverables, slides, PDFs
 artifacts/     ← generated outputs and reports
 governance/    ← governance docs and protocols
 memory/        ← daily logs (memory/daily/) and client files (memory/clients/)
-archive/       ← archived registers + archive/wiki-2026-07-08/ (migrated dated ops notes)
+archive/       ← archived registers + archive/wiki-2026-07-08/ (migrated dated ops notes) + archive/retired-2026-07-08/ (retired subsystems)
+docs/handoff/  ← build-turn handoff documents per STANDARD-BUILD-ORDER
 ```
 485 wiki notes were routed into this layout on 2026-07-08 — manifest at `_vault/PARA-MIGRATION-MANIFEST-2026-07-08.md`.
 
@@ -216,10 +217,14 @@ Before declaring a bug, drafting a fix, or writing architecture: read the actual
 
 *Update this section at the start of each major work sprint.*
 
-**Current top priorities (as of 2026-06-29):**
-1. Gumroad listing publish — copy ready at `artifacts/marketplace/promo/gumroad-listing.md`; upload zip is `assets/obsidian-agent-vault-2026-06-29.zip`; manual browser action remaining
-2. HELIX outreach — EU AI Act window closes 2026-08-02 (34 days); send one message to Humania or Koios; draft in [[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]
-3. GAIA soft launch — v1.6 built, 39/39 tests pass; name 10 people, send TestFlight/APK
+**Current top priorities (as of 2026-07-08):**
+1. Lavoie contract v5 signature — ~July 13 window; P0 items in `~/Lavoie/review-gate-signature-2026-07-06.md`; vault state at [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)]]
+2. HELIX outreach — EU AI Act window closes 2026-08-02 (~25 days); send one message to Humania or Koios; draft in [[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]
+3. EMERAULD OS build Stage 2 — MCP surface wiring per [[governance/EMERAULD-OS-SPEC — MCP Surface]]; sequence in [[governance/EMERAULD-OS-BUILD-ORDER]]
+4. Gumroad listing publish — copy ready at `artifacts/marketplace/promo/gumroad-listing.md`; upload zip is `assets/obsidian-agent-vault-2026-06-29.zip`; manual browser action remaining
+5. GAIA soft launch — v1.6 built, 39/39 tests pass; name 10 people, send TestFlight/APK
+
+**2026-07-08 vault overhaul:** full PARA migration + frontmatter overhaul + VM sync + OS build order executed — see [[docs/handoff/vault-overhaul-2026-07-08]] and session-state.md. Both Lavoie contradictions resolved by operator decision (entity split; two-workstream framing).
 
 **Key people:**
 | Person | Role |

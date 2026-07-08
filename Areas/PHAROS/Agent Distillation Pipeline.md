@@ -23,10 +23,11 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Agent Distillation Pipeline.md
-backlink_count: 6
+backlink_count: 7
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Host Environment — pharos-corpus-runner-01]]'
+- '[[Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation]]'
 - '[[artifacts/stale-projects-2026-07-04]]'
 - '[[artifacts/stale-projects-2026-07-05]]'
 - '[[artifacts/stale-projects-2026-07-06]]'

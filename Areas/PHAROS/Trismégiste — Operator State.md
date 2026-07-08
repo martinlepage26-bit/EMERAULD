@@ -22,13 +22,15 @@ created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Trismégiste — Operator State.md
-backlink_count: 12
+backlink_count: 15
 backlinks:
+- '[[Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)]]'
 - '[[Areas/PHAROS/Trismégiste]]'
 - '[[Areas/PHAROS/Trismégiste — Personal AI Assistant]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard]]'
+- '[[_CLAUDE]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-003]]'
 - '[[artifacts/stale-projects-2026-07-04]]'
@@ -36,6 +38,7 @@ backlinks:
 - '[[artifacts/stale-projects-2026-07-06]]'
 - '[[artifacts/stale-projects-2026-07-07]]'
 - '[[hephaistos/agents/Trismegiste Personal AI Assistant]]'
+- '[[wiki/trismegiste-state]]'
 source_of_truth:
 - /home/cerebrhoe/trismegiste-state.md
 raw_capture:

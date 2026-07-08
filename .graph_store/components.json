@@ -938,6 +938,7 @@
     "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/method",
     "hephaistos/personal-assistant-agents/content-inventory-cartographer/references/subjectivity",
     "hephaistos/personal-assistant-agents/demand-scout/SKILL",
+    "hephaistos/personal-assistant-agents/demand-scout/references/ecosystem",
     "hephaistos/personal-assistant-agents/demand-scout/references/evolution",
     "hephaistos/personal-assistant-agents/demand-scout/references/method",
     "hephaistos/personal-assistant-agents/demand-scout/references/subjectivity",
@@ -992,6 +993,11 @@
     "hephaistos/personal-assistant-agents/synthesis-editor/references/subjectivity",
     "hephaistos/personal-assistant-agents/trismegiste/README",
     "hephaistos/personal-assistant-agents/trismegiste/vault/CLAUDE",
+    "hephaistos/personal-assistant-agents/trismegiste/vault/raw/README",
+    "hephaistos/personal-assistant-agents/trismegiste/vault/skills/README",
+    "hephaistos/personal-assistant-agents/trismegiste/vault/skills/skill-synthesis",
+    "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/README",
+    "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/hub-projects",
     "lightrag_config — EMERAULD Shared Config Module",
     "maps/Novel Corpus Map",
     "maps/PHAROS Method Map",
@@ -1122,6 +1128,30 @@
     "projects/genealogie-lepage-deschenes/arbre/dossier-fiabilisation-2026-07-05",
     "projects/genealogie-lepage-deschenes/journal-recherche",
     "projects/jade/README",
+    "projects/micro1/4164-pharos-micro1-operational-data-licensing-blackboard-iftrace-assessment-2026-06-08",
+    "projects/micro1/4166-pharos-micro1-missing-workstreams-entanglement-ip-and-methodology-risk-2026-06-08",
+    "projects/micro1/4167-pharos-micro1-qualification-call-posture-and-reply-draft-2026-06-08",
+    "projects/micro1/4168-pharos-micro1-qualification-call-posture-v2-trading-names-and-deal-guardrails-2026-06-08",
+    "projects/micro1/4169-pharos-micro1-blackboard-signals-licensability-audit-v1-no-iftrace-2026-06-09",
+    "projects/micro1/4170-legipro-data-licensing-jade-all-in-one-autocomplete-conveyor-corpus-explainer-2026-06-09",
+    "projects/micro1/4391-internal-micro1prep/4391-infrafabric-blackboard-micro1-explainer-2026-06",
+    "projects/micro1/4391-internal-micro1prep/4392-infrafabric-blackboard-session-crossref-2026-06",
+    "projects/micro1/README",
+    "projects/micro1/camilo-meeting-brief-2026-06-15",
+    "projects/micro1/camilo-meeting-cheat-sheet",
+    "projects/micro1/docs/4391-infrafabric-blackboard-micro1-explainer-2026-06",
+    "projects/micro1/docs/4392-infrafabric-blackboard-session-crossref-2026-06",
+    "projects/micro1/docs/index",
+    "projects/micro1/docs/pharos-micro1-call-posture-script",
+    "projects/micro1/docs/pharos-micro1-data-dictionary",
+    "projects/micro1/docs/pharos-micro1-domain-map",
+    "projects/micro1/docs/pharos-micro1-main-explainer",
+    "projects/micro1/docs/pharos-micro1-one-pager",
+    "projects/micro1/docs/pharos-micro1-pilot-proposal",
+    "projects/micro1/pharos-micro1-data-operations-one-pager",
+    "projects/micro1/pharos-micro1-executive-summary-2026-06-17",
+    "projects/micro1/pharos-micro1-response-email",
+    "projects/micro1/pharos_micro1_assessment",
     "projects/patent-workbench/CLAUDE_TASK",
     "projects/patent-workbench/README",
     "projects/products/pharos-governance-tools/AI_Source_Integrity_Field_Guide",
@@ -1464,99 +1494,9 @@
     "TEMPLATES MOC"
   ],
   [
-    "hephaistos/personal-assistant-agents/demand-scout/references/ecosystem"
-  ],
-  [
-    "hephaistos/personal-assistant-agents/trismegiste/vault/raw/README"
-  ],
-  [
-    "hephaistos/personal-assistant-agents/trismegiste/vault/skills/README"
-  ],
-  [
-    "hephaistos/personal-assistant-agents/trismegiste/vault/skills/skill-synthesis"
-  ],
-  [
-    "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/README"
-  ],
-  [
-    "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/hub-projects"
-  ],
-  [
     "projects/DOMAIN"
   ],
   [
     "projects/jade/.pytest_cache/README"
-  ],
-  [
-    "projects/micro1/4164-pharos-micro1-operational-data-licensing-blackboard-iftrace-assessment-2026-06-08"
-  ],
-  [
-    "projects/micro1/4166-pharos-micro1-missing-workstreams-entanglement-ip-and-methodology-risk-2026-06-08"
-  ],
-  [
-    "projects/micro1/4167-pharos-micro1-qualification-call-posture-and-reply-draft-2026-06-08"
-  ],
-  [
-    "projects/micro1/4168-pharos-micro1-qualification-call-posture-v2-trading-names-and-deal-guardrails-2026-06-08"
-  ],
-  [
-    "projects/micro1/4169-pharos-micro1-blackboard-signals-licensability-audit-v1-no-iftrace-2026-06-09"
-  ],
-  [
-    "projects/micro1/4170-legipro-data-licensing-jade-all-in-one-autocomplete-conveyor-corpus-explainer-2026-06-09"
-  ],
-  [
-    "projects/micro1/4391-internal-micro1prep/4391-infrafabric-blackboard-micro1-explainer-2026-06"
-  ],
-  [
-    "projects/micro1/4391-internal-micro1prep/4392-infrafabric-blackboard-session-crossref-2026-06"
-  ],
-  [
-    "projects/micro1/README"
-  ],
-  [
-    "projects/micro1/camilo-meeting-brief-2026-06-15"
-  ],
-  [
-    "projects/micro1/camilo-meeting-cheat-sheet"
-  ],
-  [
-    "projects/micro1/docs/4391-infrafabric-blackboard-micro1-explainer-2026-06"
-  ],
-  [
-    "projects/micro1/docs/4392-infrafabric-blackboard-session-crossref-2026-06"
-  ],
-  [
-    "projects/micro1/docs/index"
-  ],
-  [
-    "projects/micro1/docs/pharos-micro1-call-posture-script"
-  ],
-  [
-    "projects/micro1/docs/pharos-micro1-data-dictionary"
-  ],
-  [
-    "projects/micro1/docs/pharos-micro1-domain-map"
-  ],
-  [
-    "projects/micro1/docs/pharos-micro1-main-explainer"
-  ],
-  [
-    "projects/micro1/docs/pharos-micro1-one-pager"
-  ],
-  [
-    "projects/micro1/docs/pharos-micro1-pilot-proposal"
-  ],
-  [
-    "projects/micro1/pharos-micro1-data-operations-one-pager"
-  ],
-  [
-    "projects/micro1/pharos-micro1-executive-summary-2026-06-17"
-  ],
-  [
-    "projects/micro1/pharos-micro1-response-email"
-  ],
-  [
-    "projects/micro1/pharos_micro1_assessment"
   ]
 ]

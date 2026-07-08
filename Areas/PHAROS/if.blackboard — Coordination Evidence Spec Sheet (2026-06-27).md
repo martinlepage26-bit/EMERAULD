@@ -27,14 +27,16 @@ created: '2026-06-27'
 updated: '2026-06-27'
 vault_area: Areas
 canonical_path: Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27).md
-backlink_count: 12
+backlink_count: 14
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
+- '[[Areas/PHAROS/Agent Bus — Design Record (Retired Runtime)]]'
 - '[[Areas/PHAROS/InfraFabric Architecture]]'
 - '[[Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles]]'
 - '[[Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)]]'
 - '[[Areas/PHAROS/Stacklight-owner-explainer]]'
 - '[[Areas/PHAROS/if.switchboard — InfraFabric Product Center]]'
+- '[[Areas/PHAROS/micro1 — Data Licensing Opportunity (PHAROS)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-003]]'

@@ -18,9 +18,8 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/rights-policy-warden/SKILL.md
-backlink_count: 2
+backlink_count: 1
 backlinks:
-- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[graph/nodes/unmapped/content_to_market_pipeline_workflow]]'
 name: rights-policy-warden
 description: Use when owned content needs rights, licensing, usage limits, and marketplace-policy fit checked before packaging or dispatch.

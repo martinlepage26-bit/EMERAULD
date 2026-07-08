@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: 'or the simpler shell executor:'
+tags:
+- project-mirror
+- projects
+- micro1
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/micro1/pharos_micro1_assessment.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 What micro1 actually is
 
 Real company. $41.6M raised total, Series A at $500M valuation led by 01 Advisors, September 2025. Direct Scale AI competitor. Their core business is building human data pipelines for AI labs — they recruit domain experts, run evaluation environments, and supply training/evaluation data to frontier model companies. The Palo Alto address is real. This is not a scam operation in the job-seeker sense, though their hiring side has a bad reputation for using applicants' interview data without real jobs attached. The company-side offer — paying you to license operational data — is a different arm of the business and structurally legitimate.

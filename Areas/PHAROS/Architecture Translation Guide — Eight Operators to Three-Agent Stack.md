@@ -23,10 +23,13 @@ created: '2026-04-27'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack.md
-backlink_count: 14
+backlink_count: 17
 backlinks:
 - '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)]]'
+- '[[Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report]]'
 - '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
+- '[[Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]]'
 - '[[wiki/Supersession Registry]]'

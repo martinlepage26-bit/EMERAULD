@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: Pharos AI × micro1 — Full Call Posture Script
+tags:
+- project-mirror
+- projects
+- micro1
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/micro1/docs/pharos-micro1-call-posture-script.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Pharos AI × micro1 — Full Call Posture Script
 ## Qualification Call (20–30 minutes)
 

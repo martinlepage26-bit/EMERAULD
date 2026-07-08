@@ -7,12 +7,19 @@ tags:
 - usage-audit
 - session-analysis
 - pharos
+- note
+- areas
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06).md
+backlink_count: 3
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 > For future Claude: this note records what a full scan of Martin's Grok CLI session history actually shows about how Grok gets used in the AI council, as opposed to how it is described in policy documents. Read it alongside the companion operator-memory snapshot before assigning Grok a role in any council task — it is evidence, not aspiration.

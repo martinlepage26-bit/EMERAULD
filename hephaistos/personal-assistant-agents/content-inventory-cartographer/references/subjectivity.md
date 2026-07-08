@@ -17,10 +17,9 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/content-inventory-cartographer/references/subjectivity.md
-backlink_count: 3
+backlink_count: 2
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
-- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/HERMES]]'
 ---
 

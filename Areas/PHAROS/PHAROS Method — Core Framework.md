@@ -19,8 +19,9 @@ created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Method — Core Framework.md
-backlink_count: 7
+backlink_count: 8
 backlinks:
+- '[[Areas/PHAROS/Agent Protocol — Working With Martin]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'

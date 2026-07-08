@@ -26,11 +26,12 @@ created: '2026-04-26'
 updated: '2026-07-03'
 vault_area: Areas
 canonical_path: Areas/PHAROS/RIA-CODEX — System Audit Protocol.md
-backlink_count: 19
+backlink_count: 20
 backlinks:
 - '[[Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/HELIX Full Protocol Session — Martin''s Governance Synthesis, Gemini Target (2026-07-03)]]'
+- '[[Areas/PHAROS/Reflexive Inhabitation Audit — Built App]]'
 - '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Governance Controls and Mechanisms]]'

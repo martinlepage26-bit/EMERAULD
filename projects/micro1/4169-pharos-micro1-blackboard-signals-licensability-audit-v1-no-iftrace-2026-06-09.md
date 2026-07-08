@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: 'Pharos AI x micro1: Blackboard / Signals Licensability Audit v1'
+tags:
+- project-mirror
+- projects
+- micro1
+status: active
+created: '2026-06-09'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/micro1/4169-pharos-micro1-blackboard-signals-licensability-audit-v1-no-iftrace-2026-06-09.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Pharos AI x micro1: Blackboard / Signals Licensability Audit v1
 
 Document ID: 4169  

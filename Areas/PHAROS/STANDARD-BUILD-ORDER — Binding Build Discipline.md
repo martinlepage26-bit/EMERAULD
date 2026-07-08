@@ -2,17 +2,28 @@
 type: governance-doc
 title: STANDARD-BUILD-ORDER — Binding Build Discipline
 tags:
-  - standard-build-order
-  - hephaistos
-  - build-discipline
-  - handoff-doc
-  - three-agent-architecture
+- standard-build-order
+- hephaistos
+- build-discipline
+- handoff-doc
+- three-agent-architecture
+- governance-doc
+- areas
+- pharos
 status: active
 domain: governance
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline.md
+backlink_count: 6
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report]]'
+- '[[Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger]]'
+- '[[wiki/HEPHAISTOS MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[governance/EMERAULD-OS-BUILD-ORDER]]'
 ---
 
 > For future Claude: this note synthesizes a governance artifact rather than

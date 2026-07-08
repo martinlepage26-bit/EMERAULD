@@ -18,9 +18,8 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/synthesis-editor/SKILL.md
-backlink_count: 2
+backlink_count: 1
 backlinks:
-- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[graph/nodes/unmapped/vault_maintenance_pipeline_workflow]]'
 name: synthesis-editor
 description: Use when raw material should become a durable wiki note, editorial brief, or structured content packet without losing source trace.

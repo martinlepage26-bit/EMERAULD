@@ -35,7 +35,7 @@ created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HEPHAISTOS Agent Architecture.md
-backlink_count: 69
+backlink_count: 74
 backlinks:
 - '[[wiki/AI Identity and Phenomenology]]'
 - '[[wiki/AI Infrastructure Stack]]'
@@ -47,10 +47,12 @@ backlinks:
 - '[[Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding)]]'
 - '[[Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]'
+- '[[Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)]]'
 - '[[Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]'
 - '[[Areas/PHAROS/Governance Controls Integration Dashboard]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report]]'
 - '[[Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/PHAROS/Machine Limitation]]'
@@ -58,7 +60,9 @@ backlinks:
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)]]'
 - '[[Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone)]]'
+- '[[Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger]]'
 - '[[Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split]]'
+- '[[Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline]]'
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate]]'
 - '[[Areas/PHAROS/Skill Ecosystem — Professional Capability Registry]]'
@@ -92,6 +96,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01]]'
+- '[[governance/EMERAULD-OS-SPEC — Governance Wiring]]'
 - '[[governance/governance-index]]'
 - '[[graph/nodes/unmapped/coequal_conflict_resolution_workflow]]'
 - '[[graph/nodes/unmapped/three_agent_handoff_workflow]]'

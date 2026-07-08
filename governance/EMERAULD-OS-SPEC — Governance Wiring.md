@@ -6,12 +6,19 @@ tags:
 - emerauld-os
 - spec
 - governance-wiring
+- governance
 status: active
 domain: governance
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: governance
 canonical_path: governance/EMERAULD-OS-SPEC — Governance Wiring.md
+backlink_count: 4
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[EMERAULD_OS_ARCHITECTURE]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[governance/EMERAULD-OS-BUILD-ORDER]]'
 ---
 
 # OS Spec — Wiring the Governance Stack to Execution (gap 3)

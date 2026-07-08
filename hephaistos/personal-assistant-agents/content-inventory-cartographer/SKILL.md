@@ -18,12 +18,11 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/content-inventory-cartographer/SKILL.md
-backlink_count: 7
+backlink_count: 6
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[governance/hephaistos/HEPHAISTOS]]'
 - '[[hephaistos/agents/argus]]'
 - '[[memory/daily/2026-04-24]]'

@@ -21,9 +21,10 @@ created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/Codex Skills Inventory — Complete Registry (241 Skills).md
-backlink_count: 14
+backlink_count: 15
 backlinks:
 - '[[Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub]]'
+- '[[Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)]]'
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06)]]'
 - '[[Areas/PHAROS/Trace Investigator]]'

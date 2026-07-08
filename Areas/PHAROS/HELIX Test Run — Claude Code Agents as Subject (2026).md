@@ -19,8 +19,9 @@ created: '2026-05-31'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026).md
-backlink_count: 9
+backlink_count: 10
 backlinks:
+- '[[Areas/PHAROS/Agent Scaffolds — ~agents vs .claude-agents Distinction]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
 - '[[Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026)]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

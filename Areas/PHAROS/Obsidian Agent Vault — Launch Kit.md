@@ -24,7 +24,7 @@ created: '2026-04-14'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Obsidian Agent Vault — Launch Kit.md
-backlink_count: 39
+backlink_count: 40
 backlinks:
 - '[[Areas/PHAROS/2026-06-29 - idea-discovery]]'
 - '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
@@ -60,6 +60,7 @@ backlinks:
 - '[[assets/elemental-agents/audience-expansion]]'
 - '[[assets/elemental-agents/positioning-memo]]'
 - '[[assets/elemental-agents/sales-page-outline]]'
+- '[[governance/EMERAULD-OS-SPEC — Event Triggers]]'
 - '[[hephaistos/personal-assistant-agents/README]]'
 - '[[memory]]'
 - '[[memory/agents/Decisions]]'

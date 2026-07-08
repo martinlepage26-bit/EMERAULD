@@ -10,12 +10,20 @@ tags:
 - ship-assessment
 - pharos
 - vm-inventory
+- product
+- areas
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App.md
+backlink_count: 4
+backlinks:
+- '[[Areas/PHAROS/PHAROS Product Stack]]'
+- '[[Areas/PHAROS/fantasycast-gay — Expo App]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Montréal+ (montreal-plus) — Mobile App

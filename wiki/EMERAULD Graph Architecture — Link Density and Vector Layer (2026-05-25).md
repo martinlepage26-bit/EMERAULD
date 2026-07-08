@@ -23,10 +23,12 @@ created: '2026-05-25'
 updated: '2026-06-26'
 vault_area: wiki
 canonical_path: wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25).md
-backlink_count: 18
+backlink_count: 20
 backlinks:
 - '[[wiki/Architecture - EMERAULD Scripts - Knowledge Layers]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Overview]]'
+- '[[Areas/PHAROS/Agent Bus — Design Record (Retired Runtime)]]'
+- '[[Areas/PHAROS/Agent Collab Session — Vault Assessment Council (Historical)]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25)]]'

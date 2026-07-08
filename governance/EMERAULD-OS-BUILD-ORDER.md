@@ -8,6 +8,7 @@ tags:
 - emerauld-os
 - build-order
 - agentic-os
+- governance
 status: active
 domain: governance
 priority: high
@@ -15,6 +16,15 @@ created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: governance
 canonical_path: governance/EMERAULD-OS-BUILD-ORDER.md
+backlink_count: 7
+backlinks:
+- '[[Areas/PHAROS/Agent Bus — Design Record (Retired Runtime)]]'
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[EMERAULD_OS_ARCHITECTURE]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[governance/EMERAULD-OS-SPEC — Event Triggers]]'
+- '[[governance/EMERAULD-OS-SPEC — Governance Wiring]]'
+- '[[governance/EMERAULD-OS-SPEC — MCP Surface]]'
 ---
 
 # EMERAULD OS Build Order — 2026-07-08

@@ -20,7 +20,7 @@ created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Commercial Strategy.md
-backlink_count: 67
+backlink_count: 68
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test)]]'
@@ -58,6 +58,7 @@ backlinks:
 - '[[Areas/PHAROS/Strategic Storytelling in the AI Economy]]'
 - '[[Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors]]'
 - '[[Areas/PHAROS/TPS-TVQ PHAROS]]'
+- '[[Areas/PHAROS/micro1 — Data Licensing Opportunity (PHAROS)]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[Areas/Writing/Writing and Novels MOC]]'

@@ -21,13 +21,14 @@ created: '2026-06-29'
 updated: '2026-06-29'
 vault_area: wiki
 canonical_path: wiki/Architecture - EMERAULD Scripts - Overview.md
-backlink_count: 9
+backlink_count: 10
 backlinks:
 - '[[wiki/Architecture - EMERAULD Scripts - Intake Pipeline]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Key Decisions]]'
 - '[[wiki/Architecture - EMERAULD Scripts - Knowledge Layers]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-003]]'
+- '[[governance/EMERAULD-OS-BUILD-ORDER]]'
 - '[[index]]'
 - '[[wiki/lightrag_config — EMERAULD Shared Config Module]]'
 - '[[memory/agents/Events]]'

@@ -9,12 +9,20 @@ tags:
 - unstarted
 - pharos
 - vm-inventory
+- product
+- areas
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/fantasycast-gay — Expo App.md
+backlink_count: 4
+backlinks:
+- '[[Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App]]'
+- '[[Areas/PHAROS/PHAROS Product Stack]]'
+- '[[Areas/PHAROS/Reflexive Inhabitation Audit — Built App]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # fantasycast-gay — Expo App

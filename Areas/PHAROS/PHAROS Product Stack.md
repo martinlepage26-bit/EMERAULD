@@ -16,7 +16,7 @@ created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS Product Stack.md
-backlink_count: 17
+backlink_count: 24
 backlinks:
 - '[[Areas/PHAROS/Control Protocols MOC]]'
 - '[[Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster]]'
@@ -24,7 +24,14 @@ backlinks:
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'
 - '[[Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification]]'
 - '[[Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification]]'
+- '[[Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App]]'
 - '[[Areas/PHAROS/PHAROS Method — Core Framework]]'
+- '[[Areas/PHAROS/Reflexive Inhabitation Audit — Built App]]'
+- '[[Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation]]'
+- '[[Areas/PHAROS/clearday — Mobile App and App Store Review State]]'
+- '[[Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform]]'
+- '[[Areas/PHAROS/fantasycast-gay — Expo App]]'
+- '[[Areas/PHAROS/nexusos — Base44 App]]'
 - '[[Areas/Writing/Legitimacy Machines MOC]]'
 - '[[Areas/Writing/Manuscript Pipeline MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

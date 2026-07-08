@@ -7,12 +7,19 @@ tags:
 - agent-scaffolding
 - infrastructure
 - pharos-ops
+- note
+- areas
+- pharos
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Agent Scaffolds — ~agents vs .claude-agents Distinction.md
+backlink_count: 2
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Agent Scaffolds — ~agents vs .claude-agents Distinction

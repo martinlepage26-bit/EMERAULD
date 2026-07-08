@@ -6,12 +6,19 @@ tags:
 - emerauld-os
 - spec
 - event-triggers
+- governance
 status: active
 domain: governance
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: governance
 canonical_path: governance/EMERAULD-OS-SPEC — Event Triggers.md
+backlink_count: 4
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[EMERAULD_OS_ARCHITECTURE]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[governance/EMERAULD-OS-BUILD-ORDER]]'
 ---
 
 # OS Spec — Event-Driven Triggers (gaps 2 + 9)

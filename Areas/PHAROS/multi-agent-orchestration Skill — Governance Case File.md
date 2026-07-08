@@ -23,12 +23,14 @@ created: '2026-07-03'
 updated: '2026-07-03'
 vault_area: Areas
 canonical_path: Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File.md
-backlink_count: 9
+backlink_count: 11
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)]]'
 - '[[Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-003]]'
+- '[[governance/EMERAULD-OS-SPEC — Governance Wiring]]'
 - '[[memory/daily/2026-07-03]]'
 - '[[memory/daily/2026-07-04]]'
 - '[[memory/daily/2026-07-05]]'

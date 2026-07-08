@@ -1,24 +1,24 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T06:05:32Z
-Corpus: wiki/**/*.md
+Built: 2026-07-08T06:13:11Z
+Corpus: vector_store paths.json wiki entries
 
 ## Summary
 
 - Nodes: 1462
-- Directed edges: 13140
-- Link mentions: 20844
-- Unresolved wikilinks: 3259
-- Connected components: 49
-- Largest component: 1405
-- Zero-backlink notes: 100
-- One-backlink notes: 224
+- Directed edges: 13217
+- Link mentions: 20921
+- Unresolved wikilinks: 3265
+- Connected components: 19
+- Largest component: 1435
+- Zero-backlink notes: 24
+- One-backlink notes: 300
 - Two-backlink notes: 322
 
 ## Backlink Histogram
 
-- 0: 100
-- 1: 224
+- 0: 24
+- 1: 300
 - 101+: 29
 - 11-20: 192
 - 2: 322
@@ -30,7 +30,7 @@ Corpus: wiki/**/*.md
 
 ## Low-Backlink Notes
 
-### Zero backlink (100)
+### Zero backlink (24)
 - [[ASSETS MOC]]
 - [[Areas/PHAROS/AREA]]
 - [[Areas/Personal/AREA]]
@@ -49,90 +49,14 @@ Corpus: wiki/**/*.md
 - [[SOURCE_OF_TRUTH.MD MOC]]
 - [[TEMPLATES MOC]]
 - [[Wiki MOC]]
-- [[hephaistos/personal-assistant-agents/README]]
-- [[hephaistos/personal-assistant-agents/demand-scout/references/ecosystem]]
-- [[hephaistos/personal-assistant-agents/demand-scout/references/evolution]]
-- [[hephaistos/personal-assistant-agents/demand-scout/references/method]]
-- [[hephaistos/personal-assistant-agents/demand-scout/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/ecosystem]]
-- [[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/evolution]]
-- [[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/method]]
-- [[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/intake-triager/references/ecosystem]]
-- [[hephaistos/personal-assistant-agents/intake-triager/references/evolution]]
-- [[hephaistos/personal-assistant-agents/intake-triager/references/method]]
-- [[hephaistos/personal-assistant-agents/intake-triager/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/listing-creative-director/references/ecosystem]]
-- [[hephaistos/personal-assistant-agents/listing-creative-director/references/evolution]]
-- [[hephaistos/personal-assistant-agents/listing-creative-director/references/method]]
-- [[hephaistos/personal-assistant-agents/listing-creative-director/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/ecosystem]]
-- [[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/evolution]]
-- [[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/method]]
-- [[hephaistos/personal-assistant-agents/marketplace-dispatcher/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/metadata-link-warden/references/ecosystem]]
-- [[hephaistos/personal-assistant-agents/metadata-link-warden/references/evolution]]
-- [[hephaistos/personal-assistant-agents/metadata-link-warden/references/method]]
-- [[hephaistos/personal-assistant-agents/metadata-link-warden/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/offer-pricing-architect/references/ecosystem]]
-- [[hephaistos/personal-assistant-agents/offer-pricing-architect/references/evolution]]
-- [[hephaistos/personal-assistant-agents/offer-pricing-architect/references/method]]
-- [[hephaistos/personal-assistant-agents/offer-pricing-architect/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/raw-archivist/references/ecosystem]]
-- [[hephaistos/personal-assistant-agents/raw-archivist/references/evolution]]
-- [[hephaistos/personal-assistant-agents/raw-archivist/references/method]]
-- [[hephaistos/personal-assistant-agents/raw-archivist/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/revenue-support-optimizer/references/ecosystem]]
-- [[hephaistos/personal-assistant-agents/revenue-support-optimizer/references/evolution]]
-- [[hephaistos/personal-assistant-agents/revenue-support-optimizer/references/method]]
-- [[hephaistos/personal-assistant-agents/revenue-support-optimizer/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/rights-policy-warden/references/ecosystem]]
-- [[hephaistos/personal-assistant-agents/rights-policy-warden/references/evolution]]
-- [[hephaistos/personal-assistant-agents/rights-policy-warden/references/method]]
-- [[hephaistos/personal-assistant-agents/rights-policy-warden/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/synthesis-editor/references/ecosystem]]
-- [[hephaistos/personal-assistant-agents/synthesis-editor/references/evolution]]
-- [[hephaistos/personal-assistant-agents/synthesis-editor/references/method]]
-- [[hephaistos/personal-assistant-agents/synthesis-editor/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/trismegiste/README]]
-- [[hephaistos/personal-assistant-agents/trismegiste/vault/CLAUDE]]
-- [[hephaistos/personal-assistant-agents/trismegiste/vault/raw/README]]
-- [[hephaistos/personal-assistant-agents/trismegiste/vault/skills/README]]
-- [[hephaistos/personal-assistant-agents/trismegiste/vault/skills/skill-synthesis]]
-- [[hephaistos/personal-assistant-agents/trismegiste/vault/wiki/README]]
-- [[hephaistos/personal-assistant-agents/trismegiste/vault/wiki/hub-projects]]
 - [[memory/daily/2026-04-29]]
 - [[memory/daily/2026-05-07]]
 - [[memory/daily/2026-05-13]]
 - [[projects/DOMAIN]]
 - [[projects/jade/.pytest_cache/README]]
-- [[projects/micro1/4164-pharos-micro1-operational-data-licensing-blackboard-iftrace-assessment-2026-06-08]]
-- [[projects/micro1/4166-pharos-micro1-missing-workstreams-entanglement-ip-and-methodology-risk-2026-06-08]]
-- [[projects/micro1/4167-pharos-micro1-qualification-call-posture-and-reply-draft-2026-06-08]]
-- [[projects/micro1/4168-pharos-micro1-qualification-call-posture-v2-trading-names-and-deal-guardrails-2026-06-08]]
-- [[projects/micro1/4169-pharos-micro1-blackboard-signals-licensability-audit-v1-no-iftrace-2026-06-09]]
-- [[projects/micro1/4170-legipro-data-licensing-jade-all-in-one-autocomplete-conveyor-corpus-explainer-2026-06-09]]
-- [[projects/micro1/4391-internal-micro1prep/4391-infrafabric-blackboard-micro1-explainer-2026-06]]
-- [[projects/micro1/4391-internal-micro1prep/4392-infrafabric-blackboard-session-crossref-2026-06]]
-- [[projects/micro1/README]]
-- [[projects/micro1/camilo-meeting-brief-2026-06-15]]
-- [[projects/micro1/camilo-meeting-cheat-sheet]]
-- [[projects/micro1/docs/4391-infrafabric-blackboard-micro1-explainer-2026-06]]
-- [[projects/micro1/docs/4392-infrafabric-blackboard-session-crossref-2026-06]]
-- [[projects/micro1/docs/index]]
-- [[projects/micro1/docs/pharos-micro1-call-posture-script]]
-- [[projects/micro1/docs/pharos-micro1-data-dictionary]]
-- [[projects/micro1/docs/pharos-micro1-domain-map]]
-- [[projects/micro1/docs/pharos-micro1-main-explainer]]
-- [[projects/micro1/docs/pharos-micro1-one-pager]]
-- [[projects/micro1/docs/pharos-micro1-pilot-proposal]]
-- [[projects/micro1/pharos-micro1-data-operations-one-pager]]
-- [[projects/micro1/pharos-micro1-executive-summary-2026-06-17]]
-- [[projects/micro1/pharos-micro1-response-email]]
-- [[projects/micro1/pharos_micro1_assessment]]
 - [[session-state]]
 
-### One backlink (224)
+### One backlink (300)
 - [[Areas/PHAROS/Agent Collab Session — Vault Assessment Council (Historical)]]
 - [[Areas/PHAROS/Agent Protocol — Working With Martin]]
 - [[Areas/PHAROS/Agent Scaffolds — ~agents vs .claude-agents Distinction]]
@@ -233,7 +157,7 @@ Corpus: wiki/**/*.md
 - [[graph/indexes/node-index]]
 - [[graph/indexes/orphan-index]]
 - [[graph/indexes/project-index]]
-- ... 124 more
+- ... 200 more
 
 ### Two backlink (322)
 - [[Agent Logs Hub]]
@@ -340,7 +264,7 @@ Corpus: wiki/**/*.md
 
 ## Components
 
-- Component 1: 1405 notes; seed [[AI Governance Failure Cases]]
+- Component 1: 1435 notes; seed [[AI Governance Failure Cases]]
 - Component 2: 3 notes; seed [[PUBLICATIONS MOC]]
 - Component 3: 3 notes; seed [[graph/nodes/unmapped/embed_py]]
 - Component 4: 3 notes; seed [[graph/nodes/unmapped/ingest_py]]
@@ -357,9 +281,8 @@ Corpus: wiki/**/*.md
 - Component 15: 1 notes; seed [[Resources/ROUTING]]
 - Component 16: 1 notes; seed [[SOURCE_OF_TRUTH.MD MOC]]
 - Component 17: 1 notes; seed [[TEMPLATES MOC]]
-- Component 18: 1 notes; seed [[hephaistos/personal-assistant-agents/demand-scout/references/ecosystem]]
-- Component 19: 1 notes; seed [[hephaistos/personal-assistant-agents/trismegiste/vault/raw/README]]
-- Component 20: 1 notes; seed [[hephaistos/personal-assistant-agents/trismegiste/vault/skills/README]]
+- Component 18: 1 notes; seed [[projects/DOMAIN]]
+- Component 19: 1 notes; seed [[projects/jade/.pytest_cache/README]]
 
 ## Top Unresolved Targets
 

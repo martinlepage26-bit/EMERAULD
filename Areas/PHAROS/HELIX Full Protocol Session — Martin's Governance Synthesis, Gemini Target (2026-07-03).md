@@ -25,11 +25,12 @@ created: '2026-07-03'
 updated: '2026-07-03'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03).md
-backlink_count: 13
+backlink_count: 14
 backlinks:
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
 - '[[Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07)]]'
 - '[[Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)]]'
+- '[[Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)]]'
 - '[[Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]'
 - '[[Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf]]'
 - '[[Areas/PHAROS/Reflexive Inhabitation Audit — Prompt]]'

@@ -28,10 +28,11 @@ created: 2026-05-01T17:45
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution.md
-backlink_count: 15
+backlink_count: 16
 backlinks:
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis)]]'
+- '[[Areas/PHAROS/nexusos — Base44 App]]'
 - '[[wiki/Authority, Legitimacy, and Post-Sovereignty]]'
 - '[[wiki/Governance Controls and Mechanisms]]'
 - '[[Resources/Recursive Governance Theory]]'

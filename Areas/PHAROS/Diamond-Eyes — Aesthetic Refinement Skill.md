@@ -19,10 +19,11 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill.md
-backlink_count: 50
+backlink_count: 51
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test]]'
+- '[[Areas/PHAROS/Agent Protocol — Working With Martin]]'
 - '[[Areas/PHAROS/Anti-Charm]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[Areas/PHAROS/Consented Frame — Ethics and Wisdom Gate]]'

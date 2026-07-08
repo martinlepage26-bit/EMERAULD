@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: Pharos AI — Data Production Operations (for micro1 qualification)
+tags:
+- project-mirror
+- projects
+- micro1
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/micro1/docs/pharos-micro1-one-pager.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 # Pharos AI — Data Production Operations (for micro1 qualification)
 
 **One-page external version**  

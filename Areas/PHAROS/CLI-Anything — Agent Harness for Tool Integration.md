@@ -17,12 +17,13 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration.md
-backlink_count: 12
+backlink_count: 13
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Claude Code Skill Corpus]]'
 - '[[Areas/PHAROS/HEPHAISTOS Agent Architecture]]'
 - '[[Areas/PHAROS/Obsidian Agent Vault — Launch Kit]]'
+- '[[Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[wiki/Home]]'
 - '[[Resources/ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]'

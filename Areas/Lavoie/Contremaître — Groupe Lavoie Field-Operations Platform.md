@@ -23,11 +23,17 @@ created: '2026-07-06'
 updated: '2026-07-06'
 vault_area: Areas
 canonical_path: Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform.md
-backlink_count: 10
+backlink_count: 16
 backlinks:
 - '[[Areas/Lavoie/AREA]]'
+- '[[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)]]'
+- '[[Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)]]'
 - '[[Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan]]'
+- '[[Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)]]'
 - '[[Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule]]'
+- '[[Areas/PHAROS/Agent Scaffolds — ~agents vs .claude-agents Distinction]]'
+- '[[Areas/PHAROS/CLIENT ACCOUNTS]]'
+- '[[Areas/PHAROS/Jade — Name Disambiguation]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[Logs/2026-07-06]]'
 - '[[wiki/Master Project Tracker — 2026]]'

@@ -24,7 +24,7 @@ created: '2026-05-06'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06).md
-backlink_count: 35
+backlink_count: 36
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/AI Infrastructure Stack]]'
@@ -35,6 +35,7 @@ backlinks:
 - '[[Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11)]]'
 - '[[Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build]]'
 - '[[Areas/PHAROS/HELIX Full Protocol Session — Martin''s Governance Synthesis, Gemini Target (2026-07-03)]]'
+- '[[Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)]]'
 - '[[Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026)]]'
 - '[[Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026)]]'
 - '[[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]'

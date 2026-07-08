@@ -6,12 +6,20 @@ tags:
 - agent-bus
 - retired
 - design-record
+- areas
+- pharos
 status: archived
 domain: pharos
+priority: low
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Agent Bus — Design Record (Retired Runtime).md
+backlink_count: 3
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[governance/EMERAULD-OS-BUILD-ORDER]]'
 ---
 
 # Agent Bus — Design Record (Retired Runtime)

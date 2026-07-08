@@ -34741,6 +34741,266 @@
   },
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/README",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/demand-scout/references/ecosystem",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/demand-scout/references/evolution",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/demand-scout/references/method",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/demand-scout/references/subjectivity",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/ecosystem",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/evolution",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/method",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/graph-retrieval-cartographer/references/subjectivity",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/intake-triager/references/ecosystem",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/intake-triager/references/evolution",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/intake-triager/references/method",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/intake-triager/references/subjectivity",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/listing-creative-director/references/ecosystem",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/listing-creative-director/references/evolution",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/listing-creative-director/references/method",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/listing-creative-director/references/subjectivity",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/ecosystem",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/evolution",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/method",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/marketplace-dispatcher/references/subjectivity",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/metadata-link-warden/references/ecosystem",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/metadata-link-warden/references/evolution",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/metadata-link-warden/references/method",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/metadata-link-warden/references/subjectivity",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/offer-pricing-architect/references/ecosystem",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/offer-pricing-architect/references/evolution",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/offer-pricing-architect/references/method",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/offer-pricing-architect/references/subjectivity",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/raw-archivist/references/ecosystem",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/raw-archivist/references/evolution",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/raw-archivist/references/method",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/raw-archivist/references/subjectivity",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/revenue-support-optimizer/references/ecosystem",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/revenue-support-optimizer/references/evolution",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/revenue-support-optimizer/references/method",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/revenue-support-optimizer/references/subjectivity",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/rights-policy-warden/references/ecosystem",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/rights-policy-warden/references/evolution",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/rights-policy-warden/references/method",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/rights-policy-warden/references/subjectivity",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/synthesis-editor/references/ecosystem",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/synthesis-editor/references/evolution",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/synthesis-editor/references/method",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/synthesis-editor/references/subjectivity",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/trismegiste/README",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/trismegiste/vault/CLAUDE",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/trismegiste/vault/raw/README",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/trismegiste/vault/skills/README",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/trismegiste/vault/skills/skill-synthesis",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/README",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "hephaistos/personal-assistant-agents/trismegiste/vault/wiki/hub-projects",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "target": "memory/daily/2026-07-02",
     "count": 1
   },
@@ -34767,6 +35027,126 @@
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "target": "projects/jade/README",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/4164-pharos-micro1-operational-data-licensing-blackboard-iftrace-assessment-2026-06-08",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/4166-pharos-micro1-missing-workstreams-entanglement-ip-and-methodology-risk-2026-06-08",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/4167-pharos-micro1-qualification-call-posture-and-reply-draft-2026-06-08",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/4168-pharos-micro1-qualification-call-posture-v2-trading-names-and-deal-guardrails-2026-06-08",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/4169-pharos-micro1-blackboard-signals-licensability-audit-v1-no-iftrace-2026-06-09",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/4170-legipro-data-licensing-jade-all-in-one-autocomplete-conveyor-corpus-explainer-2026-06-09",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/4391-internal-micro1prep/4391-infrafabric-blackboard-micro1-explainer-2026-06",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/4391-internal-micro1prep/4392-infrafabric-blackboard-session-crossref-2026-06",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/README",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/camilo-meeting-brief-2026-06-15",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/camilo-meeting-cheat-sheet",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/docs/4391-infrafabric-blackboard-micro1-explainer-2026-06",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/docs/4392-infrafabric-blackboard-session-crossref-2026-06",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/docs/index",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/docs/pharos-micro1-call-posture-script",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/docs/pharos-micro1-data-dictionary",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/docs/pharos-micro1-domain-map",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/docs/pharos-micro1-main-explainer",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/docs/pharos-micro1-one-pager",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/docs/pharos-micro1-pilot-proposal",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/pharos-micro1-data-operations-one-pager",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/pharos-micro1-executive-summary-2026-06-17",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/pharos-micro1-response-email",
+    "count": 1
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "projects/micro1/pharos_micro1_assessment",
     "count": 1
   },
   {
@@ -65692,6 +66072,11 @@
   {
     "source": "skills/yeet",
     "target": "Areas/PHAROS/Skill Ecosystem — Professional Capability Registry",
+    "count": 1
+  },
+  {
+    "source": "trismegiste-state",
+    "target": "Areas/PHAROS/Trismégiste — Operator State",
     "count": 1
   },
   {

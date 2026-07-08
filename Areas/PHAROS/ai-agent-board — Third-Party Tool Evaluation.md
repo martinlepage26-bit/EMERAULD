@@ -11,12 +11,19 @@ tags:
 - hermes-naming-collision
 - pharos
 - vm-inventory
+- areas
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation.md
+backlink_count: 4
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform]]'
+- '[[Areas/PHAROS/nexusos — Base44 App]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # ai-agent-board — Third-Party Tool Evaluation

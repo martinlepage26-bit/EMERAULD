@@ -9,12 +9,20 @@ tags:
 - command-center
 - pharos
 - vm-inventory
+- product
+- areas
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/nexusos — Base44 App.md
+backlink_count: 4
+backlinks:
+- '[[Areas/PHAROS/PHAROS Product Stack]]'
+- '[[Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation]]'
+- '[[Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # nexusos — Base44 App

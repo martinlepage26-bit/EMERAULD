@@ -11,12 +11,18 @@ tags:
 - monetization
 - health-app
 - areas
+- product
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/clearday — Mobile App and App Store Review State.md
+backlink_count: 3
+backlinks:
+- '[[Areas/PHAROS/PHAROS Product Stack]]'
+- '[[Areas/Personal/Personal and Projects MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 > For future Claude: this note documents Clearday, a PHAROS product app that was previously only glancingly mentioned in the vault. It exists to give session context on what the app is, why Apple rejected it on 2026-07-06, what has been fixed since, and what production risk remains open. Source paths are cited inline so claims can be re-verified against the live repos rather than trusted from memory. Never write credentials (passwords, API keys, tokens) into this note even when updating it.

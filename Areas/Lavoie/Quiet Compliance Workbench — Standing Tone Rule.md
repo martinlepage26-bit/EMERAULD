@@ -21,9 +21,11 @@ created: '2026-07-06'
 updated: '2026-07-06'
 vault_area: Areas
 canonical_path: Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule.md
-backlink_count: 7
+backlink_count: 9
 backlinks:
+- '[[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)]]'
 - '[[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform]]'
+- '[[Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)]]'
 - '[[Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan]]'
 - '[[Areas/Personal/Personal and Projects MOC]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'

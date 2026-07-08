@@ -18,7 +18,7 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: hephaistos
 canonical_path: hephaistos/personal-assistant-agents/content-inventory-cartographer/references/ecosystem.md
-backlink_count: 11
+backlink_count: 10
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/PHAROS Procurement-Unblock Sprint]]'
@@ -26,7 +26,6 @@ backlinks:
 - '[[Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/Ask Vault — EMERAULD Vault Briefing Skill]]'
-- '[[wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06]]'
 - '[[archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture]]'
 - '[[governance/hephaistos/BOWIE]]'
 - '[[governance/hephaistos/HEPHAISTOS]]'

@@ -8,12 +8,20 @@ tags:
 - gemini
 - untranscribed
 - raw-archive
+- note
+- areas
+- pharos
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03).md
+backlink_count: 3
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[wiki/Governance Stress-Test Protocols — Index]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)

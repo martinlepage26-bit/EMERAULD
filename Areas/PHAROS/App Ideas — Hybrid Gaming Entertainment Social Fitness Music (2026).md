@@ -20,10 +20,12 @@ created: '2026-05-31'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026).md
-backlink_count: 8
+backlink_count: 10
 backlinks:
+- '[[Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App]]'
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
+- '[[Areas/PHAROS/fantasycast-gay — Expo App]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[archive/session-state/session-state-003]]'
 - '[[artifacts/stale-projects-2026-07-04]]'

@@ -21,7 +21,7 @@ created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AurorA — COMPASSai Input Module.md
-backlink_count: 27
+backlink_count: 28
 backlinks:
 - '[[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
@@ -33,6 +33,7 @@ backlinks:
 - '[[Areas/PHAROS/PHAROS Scholarly Publication Track]]'
 - '[[Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026]]'
 - '[[Areas/PHAROS/Railway — COMPASSai Production Deployment Platform]]'
+- '[[Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform]]'
 - '[[Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance]]'
 - '[[Areas/Writing/Research and Papers MOC]]'
 - '[[wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]]'

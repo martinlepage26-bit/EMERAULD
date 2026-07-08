@@ -17,7 +17,7 @@ created: '2026-06-21'
 updated: '2026-07-06'
 vault_area: Areas
 canonical_path: Areas/Personal/Personal and Projects MOC.md
-backlink_count: 70
+backlink_count: 71
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform]]'
@@ -38,6 +38,7 @@ backlinks:
 - '[[Areas/PHAROS/Obsidian Second Brain Product]]'
 - '[[Areas/PHAROS/PHAROS Commercial Strategy]]'
 - '[[Areas/PHAROS/VoiceBridge Foundation]]'
+- '[[Areas/PHAROS/clearday — Mobile App and App Store Review State]]'
 - '[[Areas/Personal/Book of Beliefs and Theories — Martin''s Magical System (2000s)]]'
 - '[[Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11)]]'
 - '[[Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12)]]'

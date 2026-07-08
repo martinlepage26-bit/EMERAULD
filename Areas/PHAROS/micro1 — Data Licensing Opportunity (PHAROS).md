@@ -10,6 +10,9 @@ tags:
 - legipro
 - mock-dataset
 - pharos-commercial
+- opportunity
+- areas
+- pharos
 status: active
 domain: pharos
 priority: high
@@ -17,6 +20,10 @@ created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/micro1 — Data Licensing Opportunity (PHAROS).md
+backlink_count: 2
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 > For future Claude: this note documents a cold-outreach data-licensing deal with micro1 (a Scale AI competitor) that was fully worked up in `~/infra/micro1/` in June 2026 but never entered the vault — despite being framed internally as a $500-800K/yr illustrative pipeline. Treat all figures and status here as **as-of the source document's date**, not current; before acting on this, check `~/infra/micro1/` directly for anything newer than 2026-06-17, since the qualification call with Camilo happened 2026-06-15 and no vault record captures what happened after.

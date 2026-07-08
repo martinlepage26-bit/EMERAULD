@@ -16,7 +16,7 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Governance and PHAROS MOC.md
-backlink_count: 366
+backlink_count: 373
 backlinks:
 - '[[wiki/AI Governance Failure Cases]]'
 - '[[wiki/AI Identity and Phenomenology]]'
@@ -33,12 +33,16 @@ backlinks:
 - '[[Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026)]]'
 - '[[Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison]]'
 - '[[Areas/PHAROS/AREA]]'
+- '[[Areas/PHAROS/Agent Collab Session — Vault Assessment Council (Historical)]]'
 - '[[Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution]]'
+- '[[Areas/PHAROS/Agent Protocol — Working With Martin]]'
+- '[[Areas/PHAROS/Agent Scaffolds — ~agents vs .claude-agents Distinction]]'
 - '[[Areas/PHAROS/AurorA — COMPASSai Input Module]]'
 - '[[Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]'
 - '[[Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22)]]'
 - '[[Areas/PHAROS/COMPASSai — Governance Engine]]'
 - '[[Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior]]'
+- '[[Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06)]]'
 - '[[Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems]]'
 - '[[Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance]]'
 - '[[Areas/PHAROS/Control Protocols MOC]]'
@@ -64,7 +68,9 @@ backlinks:
 - '[[Areas/PHAROS/Hermes Dashboard — Professional Governance Tool]]'
 - '[[Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]'
 - '[[Areas/PHAROS/IP and Manuscript Brief — 2026-05-14]]'
+- '[[Areas/PHAROS/Jade — Name Disambiguation]]'
 - '[[Areas/PHAROS/LOTUS Premium Spec]]'
+- '[[Areas/PHAROS/Law 25 ADM — Practitioner Brief]]'
 - '[[Areas/PHAROS/MCP and Runtime Integration MOC]]'
 - '[[Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment]]'
 - '[[Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS]]'
@@ -90,6 +96,7 @@ backlinks:
 - '[[Areas/PHAROS/Phase 1 Governance Formation Sequence]]'
 - '[[Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5]]'
 - '[[Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11)]]'
+- '[[Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger]]'
 - '[[Areas/PHAROS/RIA-CODEX — System Audit Protocol]]'
 - '[[Areas/PHAROS/Railway — COMPASSai Production Deployment Platform]]'
 - '[[Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative]]'

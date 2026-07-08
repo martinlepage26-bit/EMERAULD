@@ -8,12 +8,18 @@ tags:
 - claim-discipline
 - martin-lepage
 - pharos
+- protocol
+- areas
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Agent Protocol — Working With Martin.md
+backlink_count: 2
+backlinks:
+- '[[Areas/PHAROS/Governance and PHAROS MOC]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 > For future Claude: this note captures a foundational collaboration-protocol document that was sitting loose in the uploads staging directory, unlinked from the rest of the vault. It defines how any agent (not just Claude) should behave when working with Martin — the governing posture, not a one-off task spec. Treat it as a standing reference for tone, claim discipline, and constraint handling across all PHAROS and personal work, not as a historical artifact.

@@ -5,12 +5,18 @@ tags:
 - client-doc
 - lavoie
 - artifact-map
+- areas
 status: active
 domain: lavoie
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08).md
+backlink_count: 3
+backlinks:
+- '[[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)]]'
+- '[[Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # Lavoie Artifact Map — Working Directory (2026-07-08)

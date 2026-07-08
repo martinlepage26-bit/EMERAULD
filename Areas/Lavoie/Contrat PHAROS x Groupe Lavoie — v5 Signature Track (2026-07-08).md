@@ -6,6 +6,7 @@ tags:
 - lavoie
 - contract
 - signature-gate
+- areas
 status: active
 domain: lavoie
 priority: high
@@ -13,6 +14,15 @@ created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08).md
+backlink_count: 7
+backlinks:
+- '[[Areas/Lavoie/AREA]]'
+- '[[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform]]'
+- '[[Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)]]'
+- '[[Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)]]'
+- '[[Areas/PHAROS/CLIENT ACCOUNTS]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[memory/clients/Lavoie Construct]]'
 ---
 
 # Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)

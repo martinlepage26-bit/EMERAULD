@@ -28,7 +28,7 @@ created: '2026-04-18'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles.md
-backlink_count: 22
+backlink_count: 23
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
@@ -49,6 +49,7 @@ backlinks:
 - '[[artifacts/stale-projects-2026-07-05]]'
 - '[[artifacts/stale-projects-2026-07-06]]'
 - '[[artifacts/stale-projects-2026-07-07]]'
+- '[[governance/EMERAULD-OS-SPEC — MCP Surface]]'
 - '[[memory/daily/2026-06-27]]'
 - '[[memory/daily/2026-06-30]]'
 - '[[memory/daily/2026-07-01]]'

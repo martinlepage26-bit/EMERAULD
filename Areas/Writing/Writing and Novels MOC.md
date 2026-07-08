@@ -18,7 +18,7 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/Writing/Writing and Novels MOC.md
-backlink_count: 87
+backlink_count: 88
 backlinks:
 - '[[Areas/PHAROS/Governance and PHAROS MOC]]'
 - '[[Areas/PHAROS/Martin Lepage — Professional Profile]]'
@@ -80,6 +80,7 @@ backlinks:
 - '[[Welcome]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
 - '[[_vault/VAULT-PRODUCTION-MANIFEST]]'
+- '[[archive/retired-2026-07-08/agent_bus/README]]'
 - '[[archive/session-state/session-state-001]]'
 - '[[archive/session-state/session-state-002]]'
 - '[[archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04)]]'

@@ -13,12 +13,13 @@ created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: _vault
 canonical_path: _vault/OVERHAUL-BASELINE-2026-07-08.md
-backlink_count: 4
+backlink_count: 5
 backlinks:
 - '[[Logs/2026-07-08]]'
 - '[[_vault/PARA-MIGRATION-MANIFEST-2026-07-08]]'
 - '[[_vault/RAW-FRONTMATTER-MANIFEST-2026-07-08]]'
 - '[[_vault/VAULT ADDITIONS TRACKER]]'
+- '[[governance/EMERAULD-OS-BUILD-ORDER]]'
 ---
 
 # Overhaul Baseline — 2026-07-08

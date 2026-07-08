@@ -16,10 +16,11 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: Areas
 canonical_path: Areas/PHAROS/InfraFabric Architecture.md
-backlink_count: 52
+backlink_count: 53
 backlinks:
 - '[[wiki/AI Infrastructure Stack]]'
 - '[[Areas/PHAROS/90-Day $1M Challenge — Status Report]]'
+- '[[Areas/PHAROS/Agent Bus — Design Record (Retired Runtime)]]'
 - '[[Areas/PHAROS/Agent Session Phenomenology]]'
 - '[[Areas/PHAROS/Architectural AI Governance — Willis and PBSAI]]'
 - '[[Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration]]'

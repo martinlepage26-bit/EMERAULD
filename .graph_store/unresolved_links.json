@@ -1610,6 +1610,31 @@
     "source_path": "Areas/PHAROS/Governance and PHAROS MOC.md"
   },
   {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "governance/EMERAULD-OS-BUILD-ORDER",
+    "source_path": "Areas/PHAROS/Governance and PHAROS MOC.md"
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "governance/EMERAULD-OS-SPEC — MCP Surface",
+    "source_path": "Areas/PHAROS/Governance and PHAROS MOC.md"
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "governance/EMERAULD-OS-SPEC — Event Triggers",
+    "source_path": "Areas/PHAROS/Governance and PHAROS MOC.md"
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "governance/EMERAULD-OS-SPEC — Governance Wiring",
+    "source_path": "Areas/PHAROS/Governance and PHAROS MOC.md"
+  },
+  {
+    "source": "Areas/PHAROS/Governance and PHAROS MOC",
+    "target": "Agent Bus — Design Record (Retired Runtime)",
+    "source_path": "Areas/PHAROS/Governance and PHAROS MOC.md"
+  },
+  {
     "source": "Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14",
     "target": "raw/Clippings/AI is speeding into healthcare. Who should regulate it",
     "source_path": "Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14.md"
@@ -10522,6 +10547,11 @@
   {
     "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "target": "TASKS",
+    "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
+  },
+  {
+    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
+    "target": "archive/retired-2026-07-08/README",
     "source_path": "wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md"
   },
   {

@@ -15,9 +15,12 @@ created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: wiki
 canonical_path: wiki/HEPHAISTOS MOC.md
-backlink_count: 1
+backlink_count: 4
 backlinks:
+- '[[Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report]]'
+- '[[Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger]]'
 - '[[wiki/Home]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # hephaistos MOC

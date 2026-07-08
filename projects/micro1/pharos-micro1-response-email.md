@@ -1,3 +1,20 @@
+---
+type: project-mirror
+title: pharos-micro1-response-email
+tags:
+- project-mirror
+- projects
+- micro1
+status: active
+created: '2026-07-08'
+updated: '2026-07-08'
+vault_area: projects
+canonical_path: projects/micro1/pharos-micro1-response-email.md
+backlink_count: 1
+backlinks:
+- '[[wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06]]'
+---
+
 Subject: Re: AI training partnership — Pharos AI governance evaluation data
 
 Hi Daniel,

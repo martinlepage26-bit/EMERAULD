@@ -11,12 +11,20 @@ tags:
 - rights-aware-ingestion
 - pharos
 - vm-inventory
+- product
+- areas
 status: active
 domain: pharos
 created: '2026-07-08'
 updated: '2026-07-08'
 vault_area: Areas
 canonical_path: Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform.md
+backlink_count: 4
+backlinks:
+- '[[Areas/PHAROS/PHAROS Product Stack]]'
+- '[[Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation]]'
+- '[[Areas/PHAROS/nexusos — Base44 App]]'
+- '[[_vault/VAULT ADDITIONS TRACKER]]'
 ---
 
 # corpus-5point — FastAPI-Next.js Research Platform

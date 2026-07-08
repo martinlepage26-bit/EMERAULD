@@ -15,8 +15,9 @@ created: '2026-06-21'
 updated: '2026-06-26'
 vault_area: memory
 canonical_path: memory/agents/Blockers.md
-backlink_count: 9
+backlink_count: 10
 backlinks:
+- '[[archive/retired-2026-07-08/agent_bus/README]]'
 - '[[index]]'
 - '[[memory/agents/Antigravity]]'
 - '[[memory/agents/Decisions]]'
