@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: agent-memory-systems
 codex_path: /home/cerebrhoe/.codex/skills/agent-memory-systems/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # agent-memory-systems

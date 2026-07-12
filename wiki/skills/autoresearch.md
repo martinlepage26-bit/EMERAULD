@@ -19,7 +19,7 @@ backlinks:
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 skill_id: autoresearch
 codex_path: /home/cerebrhoe/.codex/skills/autoresearch/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # autoresearch

@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: cloudflare-deploy
 codex_path: /home/cerebrhoe/.codex/skills/cloudflare-deploy/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # cloudflare-deploy

@@ -13,7 +13,7 @@ tags:
 status: active
 domain: pharos
 created: '2026-06-21'
-updated: '2026-06-26'
+updated: '2026-07-12'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Founder Charter — Lepage and Stocker.md
 backlink_count: 22
@@ -128,6 +128,9 @@ The CGTO role is not advisory. Per the charter, ML's trust clearance is a *gate*
 - The self-governance claim is either the charter's strongest feature or its most dangerous one: if the founders stop following it, there is no external enforcement mechanism
 - The CGTO veto on misrepresentation is unusual and significant — most corporate structures do not give a non-CEO founder a veto over marketing claims
 - The 10 reserved matters are notably symmetric: neither founder can move on any of them alone, which means a deadlock in reserved matters would require external arbitration
+
+> [!warning] Contradiction detected (2026-07-10)
+> A different founder instrument is being drafted as of July 2026, on a different shape: **"Dan joins Pharos, his IP stays his."** Equity, vesting and deadlock are open (asked four times, unanswered), and the relationship between that draft and this charter is itself unresolved. Do not cite the equity split below as settled. State and open forks: [[Areas/PHAROS/Founder Agreement — PHAROS x Danny Stocker Perimeter Reset (2026-07-10)]].
 
 ## Open Questions
 

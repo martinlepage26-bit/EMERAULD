@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Complete solutions, not compromises — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Email Député Guilbault AE — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Reddit Data API Wiki — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Skills as self-operators — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/WIP recruso paper — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/gaga gisease lyrics — Source Note.md
+/home/martin/EMERAULD/wiki/session-state.md
+/home/martin/EMERAULD/wiki/skills/agent-creator.md
+/home/martin/EMERAULD/wiki/skills/agent-development.md
+/home/martin/EMERAULD/wiki/skills/agent-management.md
+/home/martin/EMERAULD/wiki/skills/agent-manager-skill.md
+/home/martin/EMERAULD/wiki/skills/agent-memory-mcp.md
+/home/martin/EMERAULD/wiki/skills/agent-memory-systems.md
+/home/martin/EMERAULD/wiki/skills/agent-tool-builder.md
+/home/martin/EMERAULD/wiki/skills/ai-agents-architect.md
+/home/martin/EMERAULD/wiki/skills/ai-governance-workflow.md

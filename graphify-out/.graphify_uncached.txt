@@ -1,0 +1,1216 @@
+/home/martin/EMERAULD/Areas/Lavoie/AREA.md
+/home/martin/EMERAULD/Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08).md
+/home/martin/EMERAULD/Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform.md
+/home/martin/EMERAULD/Areas/Lavoie/Dossiers Client Plan-Set — Chaîne de gouvernance éditoriale 5156–5165 (2026-07-08).md
+/home/martin/EMERAULD/Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08).md
+/home/martin/EMERAULD/Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan.md
+/home/martin/EMERAULD/Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05).md
+/home/martin/EMERAULD/Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule.md
+/home/martin/EMERAULD/Areas/PHAROS/2026-06-29 - idea-discovery.md
+/home/martin/EMERAULD/Areas/PHAROS/5-1 Rule — Locked Spec Hardening (Argus Stress Test).md
+/home/martin/EMERAULD/Areas/PHAROS/90-Day $1M Challenge — Status Report.md
+/home/martin/EMERAULD/Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool.md
+/home/martin/EMERAULD/Areas/PHAROS/AGATHA Failure Pack — Theseus Continuity Stress Test.md
+/home/martin/EMERAULD/Areas/PHAROS/AI Ethics Literature — Contestable Governance Artifacts.md
+/home/martin/EMERAULD/Areas/PHAROS/AI Governance Course — Ethics, Failure Modes, and Practice.md
+/home/martin/EMERAULD/Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice.md
+/home/martin/EMERAULD/Areas/PHAROS/AI Governance Offer Ladder - Montreal Quebec 90-Day Revenue Plan.md
+/home/martin/EMERAULD/Areas/PHAROS/AI Governance Public Statement and Market Impact Pack.md
+/home/martin/EMERAULD/Areas/PHAROS/AI Governance Sprint — One-Page Sellable Packet.md
+/home/martin/EMERAULD/Areas/PHAROS/AI Has No Intrinsic Ethics — Accountability and the Human Chain.md
+/home/martin/EMERAULD/Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md
+/home/martin/EMERAULD/Areas/PHAROS/AI Paper Prompt — PHAROS Recursive Workflow Case Study.md
+/home/martin/EMERAULD/Areas/PHAROS/AI Personas — Agatha, DOTTIE, and MOBI.md
+/home/martin/EMERAULD/Areas/PHAROS/AI Platform Dependence — Anthropic OpenClaw and Commoditization Pressure.md
+/home/martin/EMERAULD/Areas/PHAROS/AI Self-Report — Epistemic Status Recursion and Perturbation.md
+/home/martin/EMERAULD/Areas/PHAROS/AI-2027 Critique — Relational AI and Vulnerability Monetization.md
+/home/martin/EMERAULD/Areas/PHAROS/AI-Hallucinated Arbitration Decision - Centre de Sante Osman v Sante Quebec (2026).md
+/home/martin/EMERAULD/Areas/PHAROS/ANTHRO PHAROS — Anthropic vs PHAROS Governance Comparison.md
+/home/martin/EMERAULD/Areas/PHAROS/AREA.md
+/home/martin/EMERAULD/Areas/PHAROS/Agatha Unified Skill System — Eight Sovereign Operators.md
+/home/martin/EMERAULD/Areas/PHAROS/Agent Bus — Design Record (Retired Runtime).md
+/home/martin/EMERAULD/Areas/PHAROS/Agent Collab Session — Vault Assessment Council (Historical).md
+/home/martin/EMERAULD/Areas/PHAROS/Agent Distillation Pipeline.md
+/home/martin/EMERAULD/Areas/PHAROS/Agent Orchestration — PHAROS Launch as Governed Multi-Agent Execution.md
+/home/martin/EMERAULD/Areas/PHAROS/Agent Protocol — Working With Martin.md
+/home/martin/EMERAULD/Areas/PHAROS/Agent Scaffolds — ~agents vs .claude-agents Distinction.md
+/home/martin/EMERAULD/Areas/PHAROS/Agent Session Phenomenology.md
+/home/martin/EMERAULD/Areas/PHAROS/Anti-Charm.md
+/home/martin/EMERAULD/Areas/PHAROS/App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026).md
+/home/martin/EMERAULD/Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack.md
+/home/martin/EMERAULD/Areas/PHAROS/Argus.md
+/home/martin/EMERAULD/Areas/PHAROS/AurorA — COMPASSai Input Module.md
+/home/martin/EMERAULD/Areas/PHAROS/Authority Without Power-Over.md
+/home/martin/EMERAULD/Areas/PHAROS/Bonded Intelligence Under Constraint — The LOTUS Processor Framework.md
+/home/martin/EMERAULD/Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration.md
+/home/martin/EMERAULD/Areas/PHAROS/CLIENT ACCOUNTS.md
+/home/martin/EMERAULD/Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md
+/home/martin/EMERAULD/Areas/PHAROS/COMPASSai — Governance Engine.md
+/home/martin/EMERAULD/Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding).md
+/home/martin/EMERAULD/Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding).md
+/home/martin/EMERAULD/Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md
+/home/martin/EMERAULD/Areas/PHAROS/Chrome Extension Monetization - Policy and Product Options.md
+/home/martin/EMERAULD/Areas/PHAROS/Claude Code Skill Corpus.md
+/home/martin/EMERAULD/Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons.md
+/home/martin/EMERAULD/Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior.md
+/home/martin/EMERAULD/Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06).md
+/home/martin/EMERAULD/Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS.md
+/home/martin/EMERAULD/Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md
+/home/martin/EMERAULD/Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance.md
+/home/martin/EMERAULD/Areas/PHAROS/Consent, Fraud, and Boundary Protocols.md
+/home/martin/EMERAULD/Areas/PHAROS/Consented Frame — Ethics and Wisdom Gate.md
+/home/martin/EMERAULD/Areas/PHAROS/Control Protocols MOC.md
+/home/martin/EMERAULD/Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster.md
+/home/martin/EMERAULD/Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture.md
+/home/martin/EMERAULD/Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints.md
+/home/martin/EMERAULD/Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill.md
+/home/martin/EMERAULD/Areas/PHAROS/Dr. Sort and LOTUS Ownership Decision — March 2026.md
+/home/martin/EMERAULD/Areas/PHAROS/EMERGENT HELIX Session — Truth Claims, Ingestion, and Booby-Trap Diagnostics (2026-05-07).md
+/home/martin/EMERAULD/Areas/PHAROS/EU AI Act and Law 25 — Regulatory Pressure Window.md
+/home/martin/EMERAULD/Areas/PHAROS/Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12).md
+/home/martin/EMERAULD/Areas/PHAROS/Elemental Agents — Productization Plan (2026-05-24).md
+/home/martin/EMERAULD/Areas/PHAROS/Emotional Alliance vs. Evidentiary Discipline in AI.md
+/home/martin/EMERAULD/Areas/PHAROS/Entrepreneurial Upside — Rare Knowledge, Leverage, and Time.md
+/home/martin/EMERAULD/Areas/PHAROS/Epistemic AI Purple Teaming.md
+/home/martin/EMERAULD/Areas/PHAROS/Epistemic Operator — Operational Specification.md
+/home/martin/EMERAULD/Areas/PHAROS/Evidence-to-Publication Bridge — PHAROS Product-to-Manuscript Routing.md
+/home/martin/EMERAULD/Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build.md
+/home/martin/EMERAULD/Areas/PHAROS/External Data Registry — Phase 1 Build.md
+/home/martin/EMERAULD/Areas/PHAROS/Founder Charter — Lepage and Stocker.md
+/home/martin/EMERAULD/Areas/PHAROS/GAIA — Earth-Calendar App and Evidence-Aware Positioning.md
+/home/martin/EMERAULD/Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub.md
+/home/martin/EMERAULD/Areas/PHAROS/GSD — Get Shit Done Context Engineering System.md
+/home/martin/EMERAULD/Areas/PHAROS/GSD — Get-Shit-Done Claude Code System.md
+/home/martin/EMERAULD/Areas/PHAROS/Global Publication Search — PHAROS Method and Variants.md
+/home/martin/EMERAULD/Areas/PHAROS/Governance Controls Integration Dashboard.md
+/home/martin/EMERAULD/Areas/PHAROS/Governance Controls — Incident Response (Control Failure Procedures).md
+/home/martin/EMERAULD/Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap.md
+/home/martin/EMERAULD/Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy.md
+/home/martin/EMERAULD/Areas/PHAROS/Governance and PHAROS MOC.md
+/home/martin/EMERAULD/Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14.md
+/home/martin/EMERAULD/Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents.md
+/home/martin/EMERAULD/Areas/PHAROS/Governed Self-Improvement — Method Slide Asset.md
+/home/martin/EMERAULD/Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification.md
+/home/martin/EMERAULD/Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build.md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06.md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06.md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06.md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX — Value Proposition and Buyer Profile.md
+/home/martin/EMERAULD/Areas/PHAROS/HEPHAISTOS Agent Architecture.md
+/home/martin/EMERAULD/Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report.md
+/home/martin/EMERAULD/Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study.md
+/home/martin/EMERAULD/Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers.md
+/home/martin/EMERAULD/Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification.md
+/home/martin/EMERAULD/Areas/PHAROS/Hermes Dashboard — Professional Governance Tool.md
+/home/martin/EMERAULD/Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md
+/home/martin/EMERAULD/Areas/PHAROS/Host Environment — pharos-corpus-runner-01.md
+/home/martin/EMERAULD/Areas/PHAROS/IF.EMOTION — Empathetic AI Architecture.md
+/home/martin/EMERAULD/Areas/PHAROS/IP and Manuscript Brief — 2026-05-14.md
+/home/martin/EMERAULD/Areas/PHAROS/InfraFabric Architecture.md
+/home/martin/EMERAULD/Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame.md
+/home/martin/EMERAULD/Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles.md
+/home/martin/EMERAULD/Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30).md
+/home/martin/EMERAULD/Areas/PHAROS/Inner Mind Eye.md
+/home/martin/EMERAULD/Areas/PHAROS/Jade — Name Disambiguation.md
+/home/martin/EMERAULD/Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework.md
+/home/martin/EMERAULD/Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification.md
+/home/martin/EMERAULD/Areas/PHAROS/LOTUS Model — Agency and Social Positioning.md
+/home/martin/EMERAULD/Areas/PHAROS/LOTUS Premium Spec.md
+/home/martin/EMERAULD/Areas/PHAROS/Law 25 ADM — Practitioner Brief.md
+/home/martin/EMERAULD/Areas/PHAROS/MCP and Runtime Integration MOC.md
+/home/martin/EMERAULD/Areas/PHAROS/Machine Limitation.md
+/home/martin/EMERAULD/Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment.md
+/home/martin/EMERAULD/Areas/PHAROS/Martin Lepage — Professional Profile.md
+/home/martin/EMERAULD/Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App.md
+/home/martin/EMERAULD/Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template.md
+/home/martin/EMERAULD/Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact.md
+/home/martin/EMERAULD/Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control.md
+/home/martin/EMERAULD/Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill.md
+/home/martin/EMERAULD/Areas/PHAROS/Obsidian Agent Vault — Asset Canon.md
+/home/martin/EMERAULD/Areas/PHAROS/Obsidian Agent Vault — Launch Kit.md
+/home/martin/EMERAULD/Areas/PHAROS/Obsidian Agent Vault — Setup Guide.md
+/home/martin/EMERAULD/Areas/PHAROS/Obsidian Second Brain Product.md
+/home/martin/EMERAULD/Areas/PHAROS/Old Host Retirement Record — cerebrhoe and WSL (2026-07-09).md
+/home/martin/EMERAULD/Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS.md
+/home/martin/EMERAULD/Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06).md
+/home/martin/EMERAULD/Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01).md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS AI Lineage — Source of Truth.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Commercial Strategy.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Company Registration and Security Incidents.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Cross-AI Strategy Matrix.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Evidentiary Gap Closure Bundle.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS External Proof Packet — Procurement-Unblock 2026-04-28.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Final Voice Operator — GPT Creator.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Invention Disclosure.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Launch — Fluency, Evidence, and Mid-Funnel Trust (Synthesis).md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Legal Classification — CAE Code Strategy.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Licensing Prospectus.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Method — Core Framework.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Method — Technical Reference.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Procurement-Unblock Sprint.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Product Stack.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Recalibration — Unified Governance Architecture.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Runbook SOP.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS SURFACE.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Scholarly Essay — Institutional Deployment Architecture.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Scholarly Publication Track.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Strategic Analysis — Keep Stop Fix Finish (2026-04-18).md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS — Origin and Doctrine.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS.md
+/home/martin/EMERAULD/Areas/PHAROS/PROTOCOLS — Debate and Red-Team Runbook.md
+/home/martin/EMERAULD/Areas/PHAROS/Paper 25 — Pre-Draft Artifacts (Pharos Frame Capstone).md
+/home/martin/EMERAULD/Areas/PHAROS/Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance.md
+/home/martin/EMERAULD/Areas/PHAROS/Peer Review — Recursive AI Governance as Executable Method (AI & Society).md
+/home/martin/EMERAULD/Areas/PHAROS/Phase 1 Governance Formation Sequence.md
+/home/martin/EMERAULD/Areas/PHAROS/Posture vs Execution Drift — The Practice of Refusal.md
+/home/martin/EMERAULD/Areas/PHAROS/Provisional Arbitration Charter — Argus Layer 9.5.md
+/home/martin/EMERAULD/Areas/PHAROS/RAGE — Recursive Artifact Governance Engine Proposal (2026-05-11).md
+/home/martin/EMERAULD/Areas/PHAROS/RDAIG Method Editorial Consolidation — 2026.md
+/home/martin/EMERAULD/Areas/PHAROS/RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis.md
+/home/martin/EMERAULD/Areas/PHAROS/RECURSO — Final Audit and Ethical Review.md
+/home/martin/EMERAULD/Areas/PHAROS/RECURSO — Recursive Governance Test Archive.md
+/home/martin/EMERAULD/Areas/PHAROS/RELAY-LEDGER — Live Governance Handoff Ledger.md
+/home/martin/EMERAULD/Areas/PHAROS/RIA-CODEX — System Audit Protocol.md
+/home/martin/EMERAULD/Areas/PHAROS/ROOK — Session Boundary Model.md
+/home/martin/EMERAULD/Areas/PHAROS/Railway — COMPASSai Production Deployment Platform.md
+/home/martin/EMERAULD/Areas/PHAROS/Recursive AI Governance as Executable Method — The Very Long Narrative.md
+/home/martin/EMERAULD/Areas/PHAROS/Recursive Continuity Without Memory — AI Identity Across Sessions.md
+/home/martin/EMERAULD/Areas/PHAROS/Recursive Entry Structure — Song Corpus to Governance Prompt.md
+/home/martin/EMERAULD/Areas/PHAROS/Recursive Governance Protocol — Theseus, Auryn, Hopf.md
+/home/martin/EMERAULD/Areas/PHAROS/Reflexive Inhabitation Audit — Built App.md
+/home/martin/EMERAULD/Areas/PHAROS/Reflexive Inhabitation Audit — Prompt.md
+/home/martin/EMERAULD/Areas/PHAROS/Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis).md
+/home/martin/EMERAULD/Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model.md
+/home/martin/EMERAULD/Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split.md
+/home/martin/EMERAULD/Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline.md
+/home/martin/EMERAULD/Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion.md
+/home/martin/EMERAULD/Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture.md
+/home/martin/EMERAULD/Areas/PHAROS/Second Self System — Public Voice Examples.md
+/home/martin/EMERAULD/Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates.md
+/home/martin/EMERAULD/Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills).md
+/home/martin/EMERAULD/Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate.md
+/home/martin/EMERAULD/Areas/PHAROS/Skill Domain — AI and LLM Tools.md
+/home/martin/EMERAULD/Areas/PHAROS/Skill Domain — Operator Wellbeing.md
+/home/martin/EMERAULD/Areas/PHAROS/Skill Ecosystem — Professional Capability Registry.md
+/home/martin/EMERAULD/Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06).md
+/home/martin/EMERAULD/Areas/PHAROS/Skill-Pairing — Five-Case Test Suite.md
+/home/martin/EMERAULD/Areas/PHAROS/Smallest Building Block — Relation as Rule.md
+/home/martin/EMERAULD/Areas/PHAROS/Stacklight-owner-explainer.md
+/home/martin/EMERAULD/Areas/PHAROS/Strategic Storytelling in the AI Economy.md
+/home/martin/EMERAULD/Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures.md
+/home/martin/EMERAULD/Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors.md
+/home/martin/EMERAULD/Areas/PHAROS/TPS-TVQ PHAROS.md
+/home/martin/EMERAULD/Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study.md
+/home/martin/EMERAULD/Areas/PHAROS/Trace Investigator.md
+/home/martin/EMERAULD/Areas/PHAROS/Triangulation Exercise — Hidden Invariant Behind Institutional Procedure.md
+/home/martin/EMERAULD/Areas/PHAROS/Trismégiste Eval v2 — Argus Closure and Redesign (2026-05-05).md
+/home/martin/EMERAULD/Areas/PHAROS/Trismégiste Master Synthesis — 2026-05-13 Source Set.md
+/home/martin/EMERAULD/Areas/PHAROS/Trismégiste — Operator State.md
+/home/martin/EMERAULD/Areas/PHAROS/Trismégiste — Personal AI Assistant.md
+/home/martin/EMERAULD/Areas/PHAROS/Trismégiste.md
+/home/martin/EMERAULD/Areas/PHAROS/Trust Advantage Analysis — Sales and AI Governance.md
+/home/martin/EMERAULD/Areas/PHAROS/VoiceBridge Foundation.md
+/home/martin/EMERAULD/Areas/PHAROS/ai-agent-board — Third-Party Tool Evaluation.md
+/home/martin/EMERAULD/Areas/PHAROS/argus-drift-audit-scope-multi-agent-orchestration.md
+/home/martin/EMERAULD/Areas/PHAROS/claude-mem — Persistent Memory Compression for Claude Code.md
+/home/martin/EMERAULD/Areas/PHAROS/claude-peers-mcp — Claude Peer Network.md
+/home/martin/EMERAULD/Areas/PHAROS/clearday — Mobile App and App Store Review State.md
+/home/martin/EMERAULD/Areas/PHAROS/company.md
+/home/martin/EMERAULD/Areas/PHAROS/corpus-5point — FastAPI-Next.js Research Platform.md
+/home/martin/EMERAULD/Areas/PHAROS/fantasycast-gay — Expo App.md
+/home/martin/EMERAULD/Areas/PHAROS/hephaistos-scope-security-audit-phases-2-6.md
+/home/martin/EMERAULD/Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27).md
+/home/martin/EMERAULD/Areas/PHAROS/if.switchboard — InfraFabric Product Center.md
+/home/martin/EMERAULD/Areas/PHAROS/micro1 — Data Licensing Opportunity (PHAROS).md
+/home/martin/EMERAULD/Areas/PHAROS/multi-agent-orchestration Skill — Governance Case File.md
+/home/martin/EMERAULD/Areas/PHAROS/nexusos — Base44 App.md
+/home/martin/EMERAULD/Areas/PHAROS/security-audit-plan.md
+/home/martin/EMERAULD/Areas/PHAROS/voice11 — ElevenLabs TTS Pipeline.md
+/home/martin/EMERAULD/Areas/Personal/Book of Beliefs and Theories — Martin's Magical System (2000s).md
+/home/martin/EMERAULD/Areas/Personal/CDPDJ Complaint — Lepage v Calian and Novartis.md
+/home/martin/EMERAULD/Areas/Personal/Personal OS.md
+/home/martin/EMERAULD/Areas/Personal/Personal and Projects MOC.md
+/home/martin/EMERAULD/Areas/Personal/Rest and Consolidation Guide — Martin.md
+/home/martin/EMERAULD/Areas/Personal/Service Canada EI Delay Letter — Housing Risk Escalation (2026-05-10).md
+/home/martin/EMERAULD/Areas/Personal/TAL Housing Application — Imeson v Esplanades Cartier (2026-05-11).md
+/home/martin/EMERAULD/Areas/Personal/The Lost-Loop Pattern — Avoidance Through System-Building.md
+/home/martin/EMERAULD/Areas/Writing/A Lokian Family — Queer and Pagan Agency in Montreal (Pomegranate 2014).md
+/home/martin/EMERAULD/Areas/Writing/AI Recruiting Has an Accessibility Problem — Lepage (2026).md
+/home/martin/EMERAULD/Areas/Writing/AI Society Manuscript — From AI Anxiety to Recursive Governance.md
+/home/martin/EMERAULD/Areas/Writing/Academic Paper Pipeline.md
+/home/martin/EMERAULD/Areas/Writing/Agatha All Along Social Compass — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes.md
+/home/martin/EMERAULD/Areas/Writing/Agatha Governance Memo — Recursive Governance Applied to Manuscript.md
+/home/martin/EMERAULD/Areas/Writing/Alchemy of the Wound — Novel.md
+/home/martin/EMERAULD/Areas/Writing/Alchemy of the Wound — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption.md
+/home/martin/EMERAULD/Areas/Writing/Authority After Legitimacy — Disenchantment and Queer Political Theory.md
+/home/martin/EMERAULD/Areas/Writing/Authority Without Ethics — The Love Witch.md
+/home/martin/EMERAULD/Areas/Writing/Avatar Chapter — A Queer Reading of Embodied Power (English).md
+/home/martin/EMERAULD/Areas/Writing/Avatar — Lecture queer du pouvoir incarné.md
+/home/martin/EMERAULD/Areas/Writing/Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology.md
+/home/martin/EMERAULD/Areas/Writing/Breath of the Astral Year — Astrology Monograph.md
+/home/martin/EMERAULD/Areas/Writing/Breath of the Astral Year — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Brutal Isms — Art Grant Proposal.md
+/home/martin/EMERAULD/Areas/Writing/Brutal Isms — Grant Revision Package (2026-05-12).md
+/home/martin/EMERAULD/Areas/Writing/CODEX Writing Projects Manifest.md
+/home/martin/EMERAULD/Areas/Writing/CORPUS Novel — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/CORPUS ou le génie de l'insistance — Novel.md
+/home/martin/EMERAULD/Areas/Writing/Chat Node Instructions — 16-Node Scholarly Paper Pipeline.md
+/home/martin/EMERAULD/Areas/Writing/Circle Remains Open — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Complete Paper List — Martin Lepage Corpus.md
+/home/martin/EMERAULD/Areas/Writing/Crossing Under Watch — Troll's Toll and Digital Ritual Passage.md
+/home/martin/EMERAULD/Areas/Writing/Cultural and Lyric Corpus Memo — 2026-05-14.md
+/home/martin/EMERAULD/Areas/Writing/Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10).md
+/home/martin/EMERAULD/Areas/Writing/Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation.md
+/home/martin/EMERAULD/Areas/Writing/Embedding Before Rupture — Relational AI and Institutional Power.md
+/home/martin/EMERAULD/Areas/Writing/Ethics Poetics and Praxis — Braided Discipline.md
+/home/martin/EMERAULD/Areas/Writing/Ethnographic Data Loss — Ethics Decision and Publication Disclaimer.md
+/home/martin/EMERAULD/Areas/Writing/Every Hair a Battle Scar — Buffy's Hair as Narrative Engine.md
+/home/martin/EMERAULD/Areas/Writing/First Method Paper — Recursive AI Governance as Executable Method.md
+/home/martin/EMERAULD/Areas/Writing/First Method Paper — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Fluency, Interruption, and Institutional Accountability.md
+/home/martin/EMERAULD/Areas/Writing/For Her Alone to Wield — Buffy Power as Infrastructure.md
+/home/martin/EMERAULD/Areas/Writing/For Her Alone to Wield — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Glitching the Sacred.md
+/home/martin/EMERAULD/Areas/Writing/Governance by Denial — Legibility, Capacity, Classification (Draft).md
+/home/martin/EMERAULD/Areas/Writing/Governance by Denial — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Governance by Denial.md
+/home/martin/EMERAULD/Areas/Writing/HENRY — Research Paper Writing System.md
+/home/martin/EMERAULD/Areas/Writing/HEXA Press — Publishing and Practice Initiative.md
+/home/martin/EMERAULD/Areas/Writing/Healthcare Packet — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Inderscience IJAIGHR Submission Pipeline — Self-Polygraph Manuscript.md
+/home/martin/EMERAULD/Areas/Writing/Inductive Literary Discourse Analysis — Witchcraft in Song Lyrics.md
+/home/martin/EMERAULD/Areas/Writing/Inner Goddess Wicca Gender — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/La fréquence brisée du verbe — Roman.md
+/home/martin/EMERAULD/Areas/Writing/Le sang qui porte ton nom — Novel.md
+/home/martin/EMERAULD/Areas/Writing/Legitimacy Machines Altars of Control — Full Book Architecture.md
+/home/martin/EMERAULD/Areas/Writing/Legitimacy Machines MOC.md
+/home/martin/EMERAULD/Areas/Writing/Legitimacy Machines — Book Skeleton and Architecture.md
+/home/martin/EMERAULD/Areas/Writing/Les fées dansent sur le Mont-Royal — Lepage & Gauthier (Anthropologica).md
+/home/martin/EMERAULD/Areas/Writing/Livre des Ombres — Martin's Magical System (1996-2026).md
+/home/martin/EMERAULD/Areas/Writing/Loop Hinge Candidate — This Paper May Not Exist.md
+/home/martin/EMERAULD/Areas/Writing/Loop Papers and Recursive Governance.md
+/home/martin/EMERAULD/Areas/Writing/Magic After Legitimacy Charmed — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Magic After Legitimacy — Charmed and the Governance of Female Power.md
+/home/martin/EMERAULD/Areas/Writing/Manuscript Pipeline MOC.md
+/home/martin/EMERAULD/Areas/Writing/Martin Lepage Publications — Annotated Bibliography and Verification Leads.md
+/home/martin/EMERAULD/Areas/Writing/Martin Voice Spec — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Masculinités et ritualités — La magie chez les Radical Faeries.md
+/home/martin/EMERAULD/Areas/Writing/Mathématiques comme grammaire profonde des relations — Essai philosophique.md
+/home/martin/EMERAULD/Areas/Writing/Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010).md
+/home/martin/EMERAULD/Areas/Writing/Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone.md
+/home/martin/EMERAULD/Areas/Writing/Narrative and Method Integration — Creative Articulations of Governance.md
+/home/martin/EMERAULD/Areas/Writing/Neo-Shamanism and Gender — Montreal Pagan Community.md
+/home/martin/EMERAULD/Areas/Writing/PAPER BUILDER — Source Bundle and HENRY Origin.md
+/home/martin/EMERAULD/Areas/Writing/Pagan Magic — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Pagan and Queer Ritual Studies MOC.md
+/home/martin/EMERAULD/Areas/Writing/Paganisme(s) queer — Lepage UQAM (REL2614, genre et Wicca).md
+/home/martin/EMERAULD/Areas/Writing/Per-Paper Project Structure — Folder and File Architecture.md
+/home/martin/EMERAULD/Areas/Writing/Pourquoi Rever Encore — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard.md
+/home/martin/EMERAULD/Areas/Writing/Prologue I Saw Willow Rise — Legitimacy Machines Opening.md
+/home/martin/EMERAULD/Areas/Writing/Publisher Assessment — Literary Idioms and Phrase-Origin Book.md
+/home/martin/EMERAULD/Areas/Writing/Publishing Strategy — Springer Trilogy and Parallel Tracks.md
+/home/martin/EMERAULD/Areas/Writing/Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca.md
+/home/martin/EMERAULD/Areas/Writing/Queer Neo-Pagan Wicca Authenticity — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Queer Sociology of Magic and Ritual.md
+/home/martin/EMERAULD/Areas/Writing/Queering Neo-Pagan Magic — 2006 Paper.md
+/home/martin/EMERAULD/Areas/Writing/Queering Neo-Pagan Magic — 2025 Revised Version.md
+/home/martin/EMERAULD/Areas/Writing/Queering Neo-Pagan Magic — 2026 Paper.md
+/home/martin/EMERAULD/Areas/Writing/Queering Neo-Pagan Magic — FINAL FINAL PAPER.md
+/home/martin/EMERAULD/Areas/Writing/Queering Neo-Pagan Magic — Identity Power and the Uses of Magic.md
+/home/martin/EMERAULD/Areas/Writing/Queering Neo-Pagan Magic — MRW Submission (2026).md
+/home/martin/EMERAULD/Areas/Writing/Queerness and Transgender Identity — Lepage 2017 (Pagan Montreal, Wicca vs Reclaiming).md
+/home/martin/EMERAULD/Areas/Writing/Reboot Performance Gender Identity — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Reboot — Performance, Gender, and Computing of Identity.md
+/home/martin/EMERAULD/Areas/Writing/Recursive AI Governance Very Long Narrative — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Recursive Deterministic AI Governance — Method and Paper.md
+/home/martin/EMERAULD/Areas/Writing/Refusing Fixity — Aesthetic Governance and Fugitive Authorship.md
+/home/martin/EMERAULD/Areas/Writing/Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection.md
+/home/martin/EMERAULD/Areas/Writing/Research and Papers MOC.md
+/home/martin/EMERAULD/Areas/Writing/Rhétorique antique, mythos et IA — Gouvernance et sciences sociales.md
+/home/martin/EMERAULD/Areas/Writing/Ritual Machine Lab — Legitimacy Machines Introduction.md
+/home/martin/EMERAULD/Areas/Writing/Ritual, Magic, and Institutional Authority.md
+/home/martin/EMERAULD/Areas/Writing/SAKURA Project — Legitimacy, Mediation, and Ensoulment by Proxy.md
+/home/martin/EMERAULD/Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging.md
+/home/martin/EMERAULD/Areas/Writing/Sealed Card Protocol — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Self-Polygraph Manuscript — Inderscience Rewrite (2026-04-30).md
+/home/martin/EMERAULD/Areas/Writing/Self-Polygraph Protocol and Suprametacognition.md
+/home/martin/EMERAULD/Areas/Writing/September 2024 Retrospective — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Slayer Franchise Power — Methodology and Corpus Design.md
+/home/martin/EMERAULD/Areas/Writing/Slayer Recursion Protocol — README and Repositioning.md
+/home/martin/EMERAULD/Areas/Writing/Social Compass Paper — Ritual Authority and Régime de Preuve.md
+/home/martin/EMERAULD/Areas/Writing/Social Compass Reviewer Response — Wicca and Agatha All Along.md
+/home/martin/EMERAULD/Areas/Writing/Social Compass Reviewer Responses — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Social Stratification, Intersectionality, and the Why Be King Manuscript.md
+/home/martin/EMERAULD/Areas/Writing/Sociology of Modern Magic — Song Corpus and Queer Ritual Synthesis.md
+/home/martin/EMERAULD/Areas/Writing/Spider-Man Loop Hinge Support — Voice Infrastructure Evidence.md
+/home/martin/EMERAULD/Areas/Writing/Spider-Man and the Phonetic Glitch — Voice as Infrastructure.md
+/home/martin/EMERAULD/Areas/Writing/Spider-Man — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Still Running — Willow, Anya, and Queer Ritual Infrastructure.md
+/home/martin/EMERAULD/Areas/Writing/Stuttering through the Institution — Academic Containment and Queer Knowing.md
+/home/martin/EMERAULD/Areas/Writing/The Ballad of the Witches' Road — Analysis.md
+/home/martin/EMERAULD/Areas/Writing/The Broken Frequency of the Word — Novel.md
+/home/martin/EMERAULD/Areas/Writing/The Circle Remains Open — Toward a Queer Sociology of the Sacred.md
+/home/martin/EMERAULD/Areas/Writing/The Compulsion to Complete — AI as Gap-Closer.md
+/home/martin/EMERAULD/Areas/Writing/The Familiars of Hollywood — Queerness, Whiteness, and Representation.md
+/home/martin/EMERAULD/Areas/Writing/The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities.md
+/home/martin/EMERAULD/Areas/Writing/The Palace Under Root — Allegory and the Keyport Novel.md
+/home/martin/EMERAULD/Areas/Writing/The Returning Light — Monograph.md
+/home/martin/EMERAULD/Areas/Writing/The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge.md
+/home/martin/EMERAULD/Areas/Writing/The Scythe Already in Motion — Buffy, Queer Ritual, and the Politics of Glitch.md
+/home/martin/EMERAULD/Areas/Writing/The Weather Beneath the Walls — Novel.md
+/home/martin/EMERAULD/Areas/Writing/The Wheel and the Watcher.md
+/home/martin/EMERAULD/Areas/Writing/Transmutation and the Body — Queer Ethics in Fullmetal Alchemist.md
+/home/martin/EMERAULD/Areas/Writing/Trust Advantage — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Unnatural Selection Jurassic Park — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Unnatural Selection — Jurassic Park and the Posthuman Commons.md
+/home/martin/EMERAULD/Areas/Writing/Version Genealogy System.md
+/home/martin/EMERAULD/Areas/Writing/Virtually Magical Literally — Queer Agency and the Digital Witch.md
+/home/martin/EMERAULD/Areas/Writing/Voodoo Doll as Archival Problem — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Voodoo Doll — Archival Governance and Colonial Naming.md
+/home/martin/EMERAULD/Areas/Writing/WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter.md
+/home/martin/EMERAULD/Areas/Writing/Wheels of Will — Ritual Bottle Art and Research-Creation Practice.md
+/home/martin/EMERAULD/Areas/Writing/Who's the Boob Who's the Trap — AI Governance Through the Booby-Trap Device.md
+/home/martin/EMERAULD/Areas/Writing/Why Be King Im Already a Queen — Book Project.md
+/home/martin/EMERAULD/Areas/Writing/Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM).md
+/home/martin/EMERAULD/Areas/Writing/Wicca 2.0 — Version Genealogy.md
+/home/martin/EMERAULD/Areas/Writing/Writing and Novels MOC.md
+/home/martin/EMERAULD/Areas/governanceframework/README.md
+/home/martin/EMERAULD/archive/consolidation-records/HOME-ROOT-REORG-2026-07-01-MANIFEST.md
+/home/martin/EMERAULD/archive/retired-2026-07-08/README.md
+/home/martin/EMERAULD/archive/retired-2026-07-08/agent_bus/README.md
+/home/martin/EMERAULD/archive/session-state/session-state-003.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/2026 - Mauss - The Gift.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/D Drive Scan — 2026-05-12.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Documents Root Intake — Hermes Action Map 2026-04-28.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Documents Root Loose Files Intake — 2026-04-28.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Documents and Downloads Coverage Matrix — 2026-05-06.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Documents and Downloads Scan — 2026-05-06.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/For Her Alone to Wield — Cover Letter (2026-05-16).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/For Her Alone to Wield — HENRY Draft (2026-05-16).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Governance Controls — Baseline Assessment (2026-04-26).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Governance Controls — Phase 1 Completion Checklist.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Governance Controls — Phase 1 Progress Checkpoint (2026-04-26).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/HELIX Production Shipping Runbook — Web, iOS, Android (2026-04-19).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/L99 PHAROS Migration Artifacts 2026-04-19.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Library Master Reference Intake (2026-04-26).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Local Hardware and Discovery Snapshot — Laptop A.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Operator Continuity Memo — 2026-05-14.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/PHAROS LinkedIn April 2026 Publishing Routine.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/PHAROS Stuck Deal Diagnostic — Minimum Viable Offer (2026-05-26).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/PHAROS Workspace Inventory 2026-04-18.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Portfolio Restructuring Review — March 2026.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Prompt Logs — Retrieval Discipline and Compta Critique (2026-05-06).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/SYSTEM CHECK.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Second Self System Identity Kernel and Agent Routing Architecture.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Source Cluster Map — 2026-05-13 Raw Sources.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Client and Operator Continuity.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Governance and Platform Signals.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Vault Cluster Discovery and Linking Opportunities — 2026-05-01.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Vault Cluster Pass — Trismégiste x Hermes (2026-05-06).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Vault Deep Linking Pass — 2026-05-06.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Vault Delta Interconnectivity Atlas — 2026-05-06.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Vault Linking Gaps & Bridge Opportunities — 2026-05-01.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Vault Linking Scan — 2026-05-01, 15-XX (Loop Iteration 1).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Vault Linking Session 2 Summary — 2026-05-01.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Vault Linking Session Summary — 2026-05-01.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Vault Topic Coverage Matrix — 2026-05-06.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/WSL and System Storage Recovery — Quick Wins Checklist.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Workspace Cleanup Ledger — 2026-05-31.md
+/home/martin/EMERAULD/memory/agents/Antigravity.md
+/home/martin/EMERAULD/memory/agents/Decisions.md
+/home/martin/EMERAULD/memory/agents/Gemini.md
+/home/martin/EMERAULD/memory/agents/Grok.md
+/home/martin/EMERAULD/memory/agents/Kimi.md
+/home/martin/EMERAULD/memory/agents/Learning.md
+/home/martin/EMERAULD/memory/agents/Vibe.md
+/home/martin/EMERAULD/memory/clients/ExterminationDG.md
+/home/martin/EMERAULD/memory/clients/Lavoie Construct.md
+/home/martin/EMERAULD/memory/daily/2026-06-29.md
+/home/martin/EMERAULD/memory/daily/2026-07-01.md
+/home/martin/EMERAULD/memory/daily/2026-07-02.md
+/home/martin/EMERAULD/memory/daily/2026-07-03.md
+/home/martin/EMERAULD/memory/daily/2026-07-04.md
+/home/martin/EMERAULD/memory/daily/2026-07-05.md
+/home/martin/EMERAULD/memory/daily/2026-07-06.md
+/home/martin/EMERAULD/memory/daily/2026-07-07.md
+/home/martin/EMERAULD/memory/daily/2026-07-08.md
+/home/martin/EMERAULD/memory/daily/2026-07-09.md
+/home/martin/EMERAULD/memory/daily/2026-07-10.md
+/home/martin/EMERAULD/memory/local-session/project_hephaistos.md
+/home/martin/EMERAULD/memory/local-session/three_agent_system.md
+/home/martin/EMERAULD/raw sources/1) Amazon Recruiting Tool Bias (2018).md
+/home/martin/EMERAULD/raw sources/1) Website Style Card.md
+/home/martin/EMERAULD/raw sources/1. Age 4–5 the feral cat bite.md
+/home/martin/EMERAULD/raw sources/AI has no intrinsic ethics..md
+/home/martin/EMERAULD/raw sources/ANNOTATED LIB - OPERATIONAL VERSION.md
+/home/martin/EMERAULD/raw sources/Advanced Tool Development and Integration 1.5 From Working to Production-Ready.md
+/home/martin/EMERAULD/raw sources/Advanced Tool Development and Integration 1.6 Enterprise Patterns for Agent Functions.md
+/home/martin/EMERAULD/raw sources/Advanced Tool Development and Integration 1.7 Harden and Test the Logistics Toolkit.md
+/home/martin/EMERAULD/raw sources/Astrology as Social Grammar Youth Culture’s Re-Enc.md
+/home/martin/EMERAULD/raw sources/Book of beliefs and theories 2000s.md
+/home/martin/EMERAULD/raw sources/CONSENT.md
+/home/martin/EMERAULD/raw sources/CORPUS ou le génie de l’insistance (1).md
+/home/martin/EMERAULD/raw sources/Chapitre.md
+/home/martin/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/conflicts_existing_files.txt
+/home/martin/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/hash_mismatch.txt
+/home/martin/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/size_mismatch.txt
+/home/martin/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/skipped_files.txt
+/home/martin/EMERAULD/raw sources/DG_Website_Deployment_Governance_2026-05-01.md
+/home/martin/EMERAULD/raw sources/DR_SORT_OWNERSHIP_AND_EXTRACTION_DECISION.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/00_README.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/henry/README.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 4.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 6.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2025 - Martin Lepage - Martin Lepage, PhD.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2026 - Martin Lepage, PhD.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/AMERICAN HORROR STORY V.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/De la quête à la transfiguration spiritualité poétique et allégorie moderne dans les premiers romans.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/MARTIN LEPAGE (4).md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Martin LEPAGE – Curriculum vitae (2).md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Martin LEPAGE – Curriculum vitae.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Martin Lepage, PhD (2).md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Montréal, April 30th, 2025.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Publications.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/TITLE of Research Project.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The Machine’s Mirror Alien, AI, and Posthuman Recognition.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The Price of the Body Queer Alchemy, Power, and Embodiment in Fullmetal Alchemist.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The Sealed Card Protocol Legitimacy, Pathway Authorization, and the Governance of Mediation Under Ge.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The U.S. Department of Labor’s Artificial Intelligence Literacy Framework.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/The golden bough; a study in magic and religion.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/This Paper May Not Exist AI, Authorship, and the Future of Academic Legitimacy.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Timelines Forecast â•ﬂ AI 2027.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/Transforming Acquisitions and Collection Services.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/WHY BE KING! I’m already a Queen!.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/_dedup_quarantine/2018 - 18-BPRE-721150-I - report.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/_dedup_quarantine/2021 - tax_or_finance_1_1.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/_dedup_quarantine/Lepage, Martin.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/https___secure.ufile.ca_T1-2021_Tools_S...le=d09c9fab&app=1&plan=1&svc=View_eNOA.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/jpg-pdf - ilovepdf.com.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/“The Childish, the Transformative, and the Queer” Queer Interventions as Praxis in Children’s Cartoo.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/inventory/OCR_SUMMARY.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2003 - ocr_needed.pdf - 2003 - ocr_needed.pdf.pdf - 2003 - ocr_needed.pdf - 2003 - ocr_needed.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2004 - ocr_needed.pdf - 2004 - ocr_needed.pdf.pdf - 2004 - ocr_needed.pdf - 2004 - ocr_needed.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - Martin Lepage - ocr_needed.pdf - 2016 - Martin Lepage - ocr_needed.pdf.pdf - 2016 - Martin Lepage - ocr_needed.pd__6a845ba68d0d.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - PluralismandRadical - ocr_needed.pdf - 2016 - PluralismandRadical - ocr_needed.pdf.pdf - 2016 - PluralismandRadic__8cdc6a86f722.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed.pdf - 2016 - ocr_needed.pdf.pdf - 2016 - ocr_needed.pdf - 2016 - ocr_needed.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_1.pdf - 2016 - ocr_needed_1.pdf.pdf - 2016 - ocr_needed_1.pdf - 2016 - ocr_needed_1.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_10.pdf - 2016 - ocr_needed_10.pdf.pdf - 2016 - ocr_needed_10.pdf - 2016 - ocr_needed_10.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_11.pdf - 2016 - ocr_needed_11.pdf.pdf - 2016 - ocr_needed_11.pdf - 2016 - ocr_needed_11.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_12.pdf - 2016 - ocr_needed_12.pdf.pdf - 2016 - ocr_needed_12.pdf - 2016 - ocr_needed_12.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_13.pdf - 2016 - ocr_needed_13.pdf.pdf - 2016 - ocr_needed_13.pdf - 2016 - ocr_needed_13.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_14.pdf - 2016 - ocr_needed_14.pdf.pdf - 2016 - ocr_needed_14.pdf - 2016 - ocr_needed_14.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_15.pdf - 2016 - ocr_needed_15.pdf.pdf - 2016 - ocr_needed_15.pdf - 2016 - ocr_needed_15.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_2.pdf - 2016 - ocr_needed_2.pdf.pdf - 2016 - ocr_needed_2.pdf - 2016 - ocr_needed_2.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_3.pdf - 2016 - ocr_needed_3.pdf.pdf - 2016 - ocr_needed_3.pdf - 2016 - ocr_needed_3.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_4.pdf - 2016 - ocr_needed_4.pdf.pdf - 2016 - ocr_needed_4.pdf - 2016 - ocr_needed_4.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_5.pdf - 2016 - ocr_needed_5.pdf.pdf - 2016 - ocr_needed_5.pdf - 2016 - ocr_needed_5.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_6.pdf - 2016 - ocr_needed_6.pdf.pdf - 2016 - ocr_needed_6.pdf - 2016 - ocr_needed_6.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_7.pdf - 2016 - ocr_needed_7.pdf.pdf - 2016 - ocr_needed_7.pdf - 2016 - ocr_needed_7.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_8.pdf - 2016 - ocr_needed_8.pdf.pdf - 2016 - ocr_needed_8.pdf - 2016 - ocr_needed_8.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2016 - ocr_needed_9.pdf - 2016 - ocr_needed_9.pdf.pdf - 2016 - ocr_needed_9.pdf - 2016 - ocr_needed_9.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf - 2017 - 1 - ocr_needed.pdf - 2017 - 1 - ocr_needed.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - Martin Lepage - 05 25) - ocr_needed.pdf - 2017 - Martin Lepage - 05 25) - ocr_needed.pdf.pdf - 2017 - Martin Lepa__72e8fe2208eb.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - Martin Lepage - 10-19) - ocr_needed.pdf - 2017 - Martin Lepage - 10-19) - ocr_needed.pdf.pdf - 2017 - Martin Lepa__333fe0d0e750.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - Martin Lepage - ocr_needed.pdf - 2017 - Martin Lepage - ocr_needed.pdf.pdf - 2017 - Martin Lepage - ocr_needed.pd__29f3cc7c2db4.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed.pdf - 2017 - ocr_needed.pdf.pdf - 2017 - ocr_needed.pdf - 2017 - ocr_needed.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_1.pdf - 2017 - ocr_needed_1.pdf.pdf - 2017 - ocr_needed_1.pdf - 2017 - ocr_needed_1.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_10.pdf - 2017 - ocr_needed_10.pdf.pdf - 2017 - ocr_needed_10.pdf - 2017 - ocr_needed_10.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_11.pdf - 2017 - ocr_needed_11.pdf.pdf - 2017 - ocr_needed_11.pdf - 2017 - ocr_needed_11.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_12.pdf - 2017 - ocr_needed_12.pdf.pdf - 2017 - ocr_needed_12.pdf - 2017 - ocr_needed_12.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_13.pdf - 2017 - ocr_needed_13.pdf.pdf - 2017 - ocr_needed_13.pdf - 2017 - ocr_needed_13.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_14.pdf - 2017 - ocr_needed_14.pdf.pdf - 2017 - ocr_needed_14.pdf - 2017 - ocr_needed_14.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_15.pdf - 2017 - ocr_needed_15.pdf.pdf - 2017 - ocr_needed_15.pdf - 2017 - ocr_needed_15.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_16.pdf - 2017 - ocr_needed_16.pdf.pdf - 2017 - ocr_needed_16.pdf - 2017 - ocr_needed_16.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_1_1.pdf - 2017 - ocr_needed_1_1.pdf.pdf - 2017 - ocr_needed_1_1.pdf - 2017 - ocr_needed_1_1.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_2.pdf - 2017 - ocr_needed_2.pdf.pdf - 2017 - ocr_needed_2.pdf - 2017 - ocr_needed_2.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_3.pdf - 2017 - ocr_needed_3.pdf.pdf - 2017 - ocr_needed_3.pdf - 2017 - ocr_needed_3.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_4.pdf - 2017 - ocr_needed_4.pdf.pdf - 2017 - ocr_needed_4.pdf - 2017 - ocr_needed_4.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_5.pdf - 2017 - ocr_needed_5.pdf.pdf - 2017 - ocr_needed_5.pdf - 2017 - ocr_needed_5.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_6.pdf - 2017 - ocr_needed_6.pdf.pdf - 2017 - ocr_needed_6.pdf - 2017 - ocr_needed_6.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_7.pdf - 2017 - ocr_needed_7.pdf.pdf - 2017 - ocr_needed_7.pdf - 2017 - ocr_needed_7.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_8.pdf - 2017 - ocr_needed_8.pdf.pdf - 2017 - ocr_needed_8.pdf - 2017 - ocr_needed_8.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf - 2017 - ocr_needed_9.pdf - 2017 - ocr_needed_9.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - Martin Lepage - ocr_needed.pdf - 2018 - Martin Lepage - ocr_needed.pdf.pdf - 2018 - Martin Lepage - ocr_needed.pd__6288eb6b2b07.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - Martin Lepage - ocr_needed_1.pdf - 2018 - Martin Lepage - ocr_needed_1.pdf.pdf - 2018 - Martin Lepage - ocr_neede__36d826f9bea1.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - ilovepdf.com - ocr_needed.pdf - 2018 - ilovepdf.com - ocr_needed.pdf.pdf - 2018 - ilovepdf.com - ocr_needed.pdf -__7bc97ac956ce.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - ocr_needed [2].pdf - 2018 - ocr_needed [2].pdf.pdf - 2018 - ocr_needed [2].pdf - 2018 - ocr_needed [2].pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - ocr_needed.pdf - 2018 - ocr_needed.pdf.pdf - 2018 - ocr_needed.pdf - 2018 - ocr_needed.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - ocr_needed_1.pdf - 2018 - ocr_needed_1.pdf.pdf - 2018 - ocr_needed_1.pdf - 2018 - ocr_needed_1.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2018 - ocr_needed_2.pdf - 2018 - ocr_needed_2.pdf.pdf - 2018 - ocr_needed_2.pdf - 2018 - ocr_needed_2.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2019 - Martin Lepage - 08-2019-signed - ocr_needed.pdf - 2019 - Martin - 2019 - Martin Lepage - 08-2019-signed - ocr_nee__8637c455cf53.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2019 - Martin Lepage - ocr_needed.pdf - 2019 - Martin Lepage - ocr_needed.pdf.pdf - 2019 - Martin Lepage - ocr_needed.pd__0cbfdbdea867.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2019 - Martin Lepage - ocr_needed_1.pdf - 2019 - Martin Lepage - ocr_needed_1.pdf.pdf - 2019 - Martin Lepage - ocr_neede__6a14c5c044c2.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - Martin Lepage - ocr_needed.pdf - 2021 - Martin Lepage - ocr_needed.pdf.pdf - 2021 - Martin Lepage - ocr_needed.pd__ed56686a392d.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - Revenu Quebec - ocr_needed_1.pdf - 2021 - Revenu Quebec - ocr_needed_1.pdf.pdf - 2021 - Revenu Quebec - ocr_neede__d90d559c876d.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - ocr_needed [2].pdf - 2021 - ocr_needed [2].pdf.pdf - 2021 - ocr_needed [2].pdf - 2021 - ocr_needed [2].pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - ocr_needed.pdf - 2021 - ocr_needed.pdf.pdf - 2021 - ocr_needed.pdf - 2021 - ocr_needed.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - ocr_needed_1.pdf - 2021 - ocr_needed_1.pdf.pdf - 2021 - ocr_needed_1.pdf - 2021 - ocr_needed_1.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - ocr_needed_2.pdf - 2021 - ocr_needed_2.pdf.pdf - 2021 - ocr_needed_2.pdf - 2021 - ocr_needed_2.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - ocr_needed_3.pdf - 2021 - ocr_needed_3.pdf.pdf - 2021 - ocr_needed_3.pdf - 2021 - ocr_needed_3.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - ocr_needed_4.pdf - 2021 - ocr_needed_4.pdf.pdf - 2021 - ocr_needed_4.pdf - 2021 - ocr_needed_4.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf - 2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - ocr_needed_6.pdf - 2021 - ocr_needed_6.pdf.pdf - 2021 - ocr_needed_6.pdf - 2021 - ocr_needed_6.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - ocr_needed_7.pdf - 2021 - ocr_needed_7.pdf.pdf - 2021 - ocr_needed_7.pdf - 2021 - ocr_needed_7.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2023 - ocr_needed.pdf - 2023 - ocr_needed.pdf.pdf - 2023 - ocr_needed.pdf - 2023 - ocr_needed.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - ocr_needed.pdf - 2024 - ocr_needed.pdf.pdf - 2024 - ocr_needed.pdf - 2024 - ocr_needed.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - ocr_needed_1.pdf - 2024 - ocr_needed_1.pdf.pdf - 2024 - ocr_needed_1.pdf - 2024 - ocr_needed_1.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31.pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31.pdf.pdf - 2025 - 4f6a-b56e-28db84335__56591f9b08d8.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - RUE DE ROUEN.pdf - 2025 - RUE DE ROUEN.pdf.pdf - 2025 - RUE DE ROUEN.pdf - 2025 - RUE DE ROUEN.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Revenu Quebec - ocr_needed [4].pdf - 2025 - Revenu Quebec - ocr_needed [4].pdf.pdf - 2025 - Revenu Quebec - ocr_n__f111ebc41b8d.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Revenu Quebec - ocr_needed [6].pdf - 2025 - Revenu Quebec - ocr_needed [6].pdf.pdf - 2025 - Revenu Quebec - ocr_n__4d6c3a5c522b.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Revenu Quebec - ocr_needed [7].pdf - 2025 - Revenu Quebec - ocr_needed [7].pdf.pdf - 2025 - Revenu Quebec - ocr_n__ef7c3e83cabb.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Revenu Quebec - ocr_needed.pdf - 2025 - Revenu Quebec - ocr_needed.pdf.pdf - 2025 - Revenu Quebec - ocr_needed.pd__66ccfaa3809d.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/Sharp Scanned Image PDF — Unreadable OCR.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/SHA256SUMS.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/CLIENT ACCOUNTS TRACKER.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/MARTIN-SITE CHANGE TRACKER.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/METHOD TRACKER.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/Client Accounts Tracker — Snapshot 2026-04-28.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).csv.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/Martin Site Change Tracker — Snapshot 2026-04-28.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/Master Tracker — Snapshot 2026-04-28.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/Method Tracker — Snapshot 2026-04-28.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/FR-QC-.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Governance by Denial — Revised Working Draft.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Received1January2025,accepted19January2025,dateofpublication22January2025,dateof.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Spec-1-ai Governance Engine.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/The Market Impact Question.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Turing AI Ethics and Governance.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/ai_governance_public_statementlong.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/untitled_2.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/hardware-system-reference/& $envUSERPROFILEDesktopcompact_wsl.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/Ahmed, Sara. The Promise of Happine.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/Alchemy of the Wound.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/CORPUS ou le génie de l'insistance.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/Complete Paper List — Martin Lepage.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/Hair.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/The Returning Light — Martin Lepage 2025.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/The_Kybalion.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/pharos-ops-publishing/Gemini a dit.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/pharos-ops-publishing/PHAROS LinkedIn Monthly Routine — April 2026.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/pharos-ops-publishing/PHAROS LinkedIn Schedule — April 2026.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/pharos-ops-publishing/Skill Audit — April 2026.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/pharos-ops-publishing/linkedin-schedule.js.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/00_MASTER_EXPLAINER.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/01_THESEUS_TEMPLATE.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/03_THESEUS_QUESTIONS.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/04_AURYN_TEMPLATE.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/06_AURYN_QUESTIONS.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/07_HOPF_TEMPLATE.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/09_HOPF_QUESTIONS.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/Argus Audit Tracker — Snapshot 2026-04-28.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/DOCUMENT 02 PHASE 1 SHIP OF THESEUS.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/DOCUMENT 05 PHASE 2 AURYN.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/DOCUMENT 08 PHASE 3 HOPF.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/Provisional Arbitration Charter — v1.0.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/FR-QC-.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/ai_governance_public_statement.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/ai_governance_public_statementlong.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/if-gov-ai-2027-2028.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/hardware-system-reference/Laptop A.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/papers-and-manuscripts/Ahmed, Sara. The Promise of Happine.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/papers-and-manuscripts/CORPUS ou le génie de l’insistance (1).md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/papers-and-manuscripts/Complete Paper List — Martin Lepage.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/pharos-ops-publishing/Gemini a dit.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/pharos-ops-publishing/LINKEDIN-SCHEDULE-NOW.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/pharos-ops-publishing/PHAROS_LinkedIn_Monthly_Routine_2026-04.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/pharos-ops-publishing/SKILL_AUDIT_2026-04-06.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/protocols/00_MASTER_EXPLAINER.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/protocols/01_THESEUS_TEMPLATE.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/protocols/02_THESEUS_ARCHIVE.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/protocols/03_THESEUS_QUESTIONS.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/protocols/04_AURYN_TEMPLATE.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/protocols/05_AURYN_ARCHIVE.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/protocols/06_AURYN_QUESTIONS.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/protocols/07_HOPF_TEMPLATE.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/protocols/08_HOPF_ARCHIVE.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/protocols/09_HOPF_QUESTIONS.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/protocols/ARGUS AUDIT TRACKER.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/protocols/provisional-arbitration-charter.md
+/home/martin/EMERAULD/raw sources/Dr_Sort_masterlist_2026-03-08.md
+/home/martin/EMERAULD/raw sources/Dr_Sort_milestone1-design.md
+/home/martin/EMERAULD/raw sources/Dr_Sort_milestone2-design.md
+/home/martin/EMERAULD/raw sources/EMERGE.md
+/home/martin/EMERAULD/raw sources/EMERGENT HELIX Session — Vaisseau de Thésée.md
+/home/martin/EMERAULD/raw sources/Embedding Before Rupture Relational AI, Binding Go.md
+/home/martin/EMERAULD/raw sources/Executive Summary.md
+/home/martin/EMERAULD/raw sources/FIRST DRAFT.md
+/home/martin/EMERAULD/raw sources/GAIA Positioning Statement — Evidence-Aware Version.md
+/home/martin/EMERAULD/raw sources/GUIDE_rest-and-consolidation.md
+/home/martin/EMERAULD/raw sources/Governance by Denial — Revised Working Draft.md
+/home/martin/EMERAULD/raw sources/Grok's work on HELIX — v2.1 v2.3 v2.4 dev session.md
+/home/martin/EMERAULD/raw sources/HELIX test CC — Claude Code agents run.md
+/home/martin/EMERAULD/raw sources/HELIX test Epstein — Epstein files topic run.md
+/home/martin/EMERAULD/raw sources/HELIX-session-vaisseau-thesee-emerge.md
+/home/martin/EMERAULD/raw sources/Herbiers des présences.md
+/home/martin/EMERAULD/raw sources/IRCM — INDIVIDUAL DATA INTAKE.md
+/home/martin/EMERAULD/raw sources/Introduction.md
+/home/martin/EMERAULD/raw sources/J'aime Ovide.md
+/home/martin/EMERAULD/raw sources/Joy Buolamwini (MIT) a montré que les algorithmes de reconnaissance faciale de M.md
+/home/martin/EMERAULD/raw sources/LOTUS prémisse non-religieuse.md
+/home/martin/EMERAULD/raw sources/LOTUS_PREMIUM_SPEC.md
+/home/martin/EMERAULD/raw sources/Literature references in common English — raw reference list.md
+/home/martin/EMERAULD/raw sources/Livre des Ombres 1996-2026.md
+/home/martin/EMERAULD/raw sources/M15063.md
+/home/martin/EMERAULD/raw sources/Markov Chains.md
+/home/martin/EMERAULD/raw sources/Martin Voice Spec v1.4 (7030 + Disruption Medium).md
+/home/martin/EMERAULD/raw sources/Mental illness, addiction, and AI psychosis.md
+/home/martin/EMERAULD/raw sources/Misfit as Method Ten Diagnostic Scenes of Institut.md
+/home/martin/EMERAULD/raw sources/Mode d’emploi du manuscrit.md
+/home/martin/EMERAULD/raw sources/Myths have long intertwined with power, serving as narratives that structure soc.md
+/home/martin/EMERAULD/raw sources/PEER_REVIEW_Recursive_AI_Governance_AI-Society.md
+/home/martin/EMERAULD/raw sources/PHAROS AI governance service business — offer design session.md
+/home/martin/EMERAULD/raw sources/PHAROS_Commercial_Brief_v1.md
+/home/martin/EMERAULD/raw sources/PHAROS_LandingPage_Copy.md
+/home/martin/EMERAULD/raw sources/PHAROS_Outreach_Pack_v1.md
+/home/martin/EMERAULD/raw sources/Qualitative Research and Intersectional Frameworks.md
+/home/martin/EMERAULD/raw sources/Quick wins no data loss — WSL storage recovery session.md
+/home/martin/EMERAULD/raw sources/RIA PROMPT.md
+/home/martin/EMERAULD/raw sources/RIGHT-ARM-EXTENSION-DECISION.md
+/home/martin/EMERAULD/raw sources/Recovered analysis Ballad Witches Road.md
+/home/martin/EMERAULD/raw sources/Regime de pouvoir+Helix+Communitas.md
+/home/martin/EMERAULD/raw sources/Rhet-AI.md
+/home/martin/EMERAULD/raw sources/SHOW-ME-WHAT-TO-DO — PR4 deploy runbook 2026-04-19.md
+/home/martin/EMERAULD/raw sources/Service offer prompts — GPT revenue design templates.md
+/home/martin/EMERAULD/raw sources/The Rooted Archive - Plant, Spirit, and Knowledge in Nine Chambers (scaffold).md
+/home/martin/EMERAULD/raw sources/The Sealed Card Protocol Mediated Legitimacy, Char.md
+/home/martin/EMERAULD/raw sources/This file is not the tool itself. It is a whitepap.md
+/home/martin/EMERAULD/raw sources/Title The Sealed Card Protocol Mediated Legitimacy.md
+/home/martin/EMERAULD/raw sources/To Be Disabled In a Disabled World.md
+/home/martin/EMERAULD/raw sources/Voici une série de patterns, d'expressions et de vocabulaire couramment utilisés.md
+/home/martin/EMERAULD/raw sources/WAVE1_IMPLEMENTATION_PLAN.md
+/home/martin/EMERAULD/raw sources/_archive_superseded_2026-05-31/provisional-arbitration-charter-v1.1/Documents_root_loose_intake_converted_protocols_Provisional Arbitration Charter — v1.1.md
+/home/martin/EMERAULD/raw sources/_archive_superseded_2026-05-31/provisional-arbitration-charter-v1.1/Documents_root_loose_intake_protocols_provisional-arbitration-charter-v1.1.md
+/home/martin/EMERAULD/raw sources/ai-stutter-jobs.md
+/home/martin/EMERAULD/raw sources/alchemy-search.md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/WHITE PAPER IF.STORY.md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/`if.gov` Full Explainer v1.1 (Triage + Council + Extended, 4-Audience Deep Dive).md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if-radar_skydrone Full Explainer v1.1 (Data, Mechanics, Freshness, and Boundaries).md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.api Full Explainer (Four-Audience, Claim-Boundary Strict).md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.blackboard Full Explainer v1.2 (Four-Audience, Claim-Boundary Strict).md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.blackboard Full Explainer v1.3 (Multi-Audience, Split-Boundary Strict).md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.bus Full Explainer v1.5 (Switchboard-Integrated, Claim-Boundary Strict).md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.context Full Explainer v1.3 (Consolidated 1000+ Dense Lines).md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.infrafabric A Miniseries in Seven Parts.md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.knowledge Full Explainer v1.1 (Consolidated 1000+ Dense Lines).md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.story Full Explainer v1.1 (Four-Audience, Claim-Boundary Strict).md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.switchboard + if.blackboard Unified Full Explainer v1.2 (Evidence-Dense).md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.switchboard Full Explainer v1.4 — SIP Extension Edition.md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.trace Full Explainer (Bible v4.23, Six-Audience, Claim-Boundary Strict).md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.whitepapers.bible (v4.23).md
+/home/martin/EMERAULD/raw sources/infrafabric-archive/if.whitepapers.bible changelog pointer (v4.23).md
+/home/martin/EMERAULD/raw sources/la gouvernance de l’IA comme science du pouvoir, de la transparence et de la res.md
+/home/martin/EMERAULD/raw sources/memoir-part-one-draft.md
+/home/martin/EMERAULD/raw sources/memoir-plan-v1.md
+/home/martin/EMERAULD/raw sources/novembre 22, 2008 par malekexoterique.md
+/home/martin/EMERAULD/raw sources/paper-builder-origin-bundle/Martin's voice CODE.txt
+/home/martin/EMERAULD/raw sources/paper-builder-origin-bundle/PAPER BUILDER APP WF.txt
+/home/martin/EMERAULD/raw sources/paper-builder-origin-bundle/PAPER BUILDER APP.txt
+/home/martin/EMERAULD/raw sources/paper-builder-origin-bundle/PAPER BUILDER WF Sum.txt
+/home/martin/EMERAULD/raw sources/paper-builder-origin-bundle/PAPER BUILDER WK SocialStudies.txt
+/home/martin/EMERAULD/raw sources/pharos-strategic-analysis-2026-04-18.md
+/home/martin/EMERAULD/raw sources/provisional-arbitration-charter-v1.1.md
+/home/martin/EMERAULD/raw sources/relational_presence_ship_theseus_booby_trap.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/archive_README.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/example_wiki_note.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/hub_concept.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/hub_decision_log.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/hub_moc.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/hub_person.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/hub_project.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/product_CLAUDE.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/product_Home.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/product_README.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/raw_README.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/skill_template.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/skills_README.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/synthesis_prompt.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/wiki_README.md
+/home/martin/EMERAULD/raw sources/‘It's All a Giant Web' Syncretism, Agency and (Re)connection in a Contempo rar.md
+/home/martin/EMERAULD/wiki/AI Governance Failure Cases.md
+/home/martin/EMERAULD/wiki/AI Identity and Phenomenology.md
+/home/martin/EMERAULD/wiki/AI Infrastructure Stack.md
+/home/martin/EMERAULD/wiki/APEX Papers — Research Archive Map.md
+/home/martin/EMERAULD/wiki/ASSETS MOC.md
+/home/martin/EMERAULD/wiki/Agent Logs Hub.md
+/home/martin/EMERAULD/wiki/Architecture - EMERAULD Scripts - Intake Pipeline.md
+/home/martin/EMERAULD/wiki/Architecture - EMERAULD Scripts - Key Decisions.md
+/home/martin/EMERAULD/wiki/Architecture - EMERAULD Scripts - Knowledge Layers.md
+/home/martin/EMERAULD/wiki/Architecture - EMERAULD Scripts - Overview.md
+/home/martin/EMERAULD/wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS.md
+/home/martin/EMERAULD/wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06).md
+/home/martin/EMERAULD/wiki/Ask Vault — EMERAULD Vault Briefing Skill.md
+/home/martin/EMERAULD/wiki/Authority, Legitimacy, and Post-Sovereignty.md
+/home/martin/EMERAULD/wiki/Buffy Slayer Studies.md
+/home/martin/EMERAULD/wiki/Care, Ethics, and Governance.md
+/home/martin/EMERAULD/wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24).md
+/home/martin/EMERAULD/wiki/Charge & Circle — TTRPG Launch (2026).md
+/home/martin/EMERAULD/wiki/Codex Skills Inventory — Complete Registry (241 Skills).md
+/home/martin/EMERAULD/wiki/Codex–Claude Collaboration Protocol — EMERAULD Vault (2026-05-25).md
+/home/martin/EMERAULD/wiki/Consent and Boundary Frameworks.md
+/home/martin/EMERAULD/wiki/Daily Dashboard.md
+/home/martin/EMERAULD/wiki/Disability Epistemology and Institutional Critique.md
+/home/martin/EMERAULD/wiki/Dr. Sort Corpus Map — March 2026.md
+/home/martin/EMERAULD/wiki/EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25).md
+/home/martin/EMERAULD/wiki/EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25).md
+/home/martin/EMERAULD/wiki/EMERAULD Workspace Instructions - Perplexity Computer and Hermes Dashboard.md
+/home/martin/EMERAULD/wiki/EMERAULD.md
+/home/martin/EMERAULD/wiki/EMERAULD_OS_ARCHITECTURE.MD MOC.md
+/home/martin/EMERAULD/wiki/Fisher King Hub — Project Recovery Map.md
+/home/martin/EMERAULD/wiki/Fluency and Interruption Theory.md
+/home/martin/EMERAULD/wiki/GRAPHIFY-OUT MOC.md
+/home/martin/EMERAULD/wiki/Governance Controls and Mechanisms.md
+/home/martin/EMERAULD/wiki/Governance Stress-Test Protocols — Index.md
+/home/martin/EMERAULD/wiki/HEPHAISTOS MOC.md
+/home/martin/EMERAULD/wiki/Healing the Fisher King Project Note Templates.md
+/home/martin/EMERAULD/wiki/Healing the Fisher King — Percephal Diagnostic Protocol.md
+/home/martin/EMERAULD/wiki/Home.md
+/home/martin/EMERAULD/wiki/Knowledge Gaps.md
+/home/martin/EMERAULD/wiki/LOTUS Model and Agency.md
+/home/martin/EMERAULD/wiki/Legal and Institutional Cases.md
+/home/martin/EMERAULD/wiki/LightRAG — Graph-Based RAG System.md
+/home/martin/EMERAULD/wiki/MARTIN SURFACE.md
+/home/martin/EMERAULD/wiki/MASTER BIBLIOGRAPHY — Theoretical Genealogy of LOTUS.md
+/home/martin/EMERAULD/wiki/MASTER PACK — D Drive Archive Map.md
+/home/martin/EMERAULD/wiki/MASTERxMASTERxMASTER — Skill Corpus Map.md
+/home/martin/EMERAULD/wiki/MEMORY MOC.md
+/home/martin/EMERAULD/wiki/Martin Lepage Professional Identity.md
+/home/martin/EMERAULD/wiki/Martin Lepage — Adjacent Skill Ring.md
+/home/martin/EMERAULD/wiki/Martin Lepage — Authored Skills.md
+/home/martin/EMERAULD/wiki/Martin Lepage — Skills by Life Domain.md
+/home/martin/EMERAULD/wiki/Martin Voice Spec — Stage Map.md
+/home/martin/EMERAULD/wiki/Martin Walks the Witches' Road — Corpus as Charge-Persistence.md
+/home/martin/EMERAULD/wiki/Master Project Tracker — 2026.md
+/home/martin/EMERAULD/wiki/Master Reference Bridge Atlas — 2026-05-06.md
+/home/martin/EMERAULD/wiki/Media Studies and Pop Culture Analysis.md
+/home/martin/EMERAULD/wiki/Mental illness, addiction, and AI psychosis.md
+/home/martin/EMERAULD/wiki/Novel and Creative Corpus.md
+/home/martin/EMERAULD/wiki/OUTLIERS — Five Notes That Break the Architecture.md
+/home/martin/EMERAULD/wiki/Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21).md
+/home/martin/EMERAULD/wiki/Orphan Index — Vault-Level Graph Repair 2026-05-06.md
+/home/martin/EMERAULD/wiki/PEER-REVIEW MOC.md
+/home/martin/EMERAULD/wiki/PERPLEXITY-COMPUTER.md
+/home/martin/EMERAULD/wiki/PHAROS Skill Corpus Change Genealogy — 2026-05-06.md
+/home/martin/EMERAULD/wiki/PHAROS-EMERAULD Consolidated Timeline 2024-04-01 to 2026-04-19.md
+/home/martin/EMERAULD/wiki/PUBLICATIONS MOC.md
+/home/martin/EMERAULD/wiki/Philosopher.md
+/home/martin/EMERAULD/wiki/Poiesis Poietics Poetics Praxis — Making and Action Distinctions.md
+/home/martin/EMERAULD/wiki/Projects Hub.md
+/home/martin/EMERAULD/wiki/Queer Theory Foundations.md
+/home/martin/EMERAULD/wiki/RAW MOC.md
+/home/martin/EMERAULD/wiki/RESOURCES MOC.md
+/home/martin/EMERAULD/wiki/Recursive Governance Memo — EMERAULD Control Packet (2026-05-12).md
+/home/martin/EMERAULD/wiki/Research Hub.md
+/home/martin/EMERAULD/wiki/Root Loose Notes Cluster Map — 2026-05-06.md
+/home/martin/EMERAULD/wiki/SOURCE_OF_TRUTH.MD MOC.md
+/home/martin/EMERAULD/wiki/September 2024 Research Retrospective.md
+/home/martin/EMERAULD/wiki/Skill Corpus Dedup Audit — 2026-05-06.md
+/home/martin/EMERAULD/wiki/Skill Corpus Genealogy Delta — 2026-05-06.md
+/home/martin/EMERAULD/wiki/Skill Domain — Agent Architecture.md
+/home/martin/EMERAULD/wiki/Skill Domain — Deployment and Infrastructure.md
+/home/martin/EMERAULD/wiki/Skill Domain — Design and UX.md
+/home/martin/EMERAULD/wiki/Skill Domain — Development and Testing.md
+/home/martin/EMERAULD/wiki/Skill Domain — Governance and Method.md
+/home/martin/EMERAULD/wiki/Skill Domain — Research and Scholarly Work.md
+/home/martin/EMERAULD/wiki/Skill Domain — Security and Compliance.md
+/home/martin/EMERAULD/wiki/Skill Domain — Skill Architecture.md
+/home/martin/EMERAULD/wiki/Skill Domain — Vault and Knowledge.md
+/home/martin/EMERAULD/wiki/Skill Domain — Writing and Humanization.md
+/home/martin/EMERAULD/wiki/Specific Knowledges - Vault Query Output.txt
+/home/martin/EMERAULD/wiki/Supersession Registry.md
+/home/martin/EMERAULD/wiki/TEMPLATES MOC.md
+/home/martin/EMERAULD/wiki/VAULT ADDITIONS TRACKER.md
+/home/martin/EMERAULD/wiki/Vault Graph Hygiene — Content Title Normalization Skill.md
+/home/martin/EMERAULD/wiki/Vault Health — 2026-06-28.md
+/home/martin/EMERAULD/wiki/Vault Health — 2026-07-05.md
+/home/martin/EMERAULD/wiki/WIKI-ROUTING-REPORT.md
+/home/martin/EMERAULD/wiki/Weekly Review — 2026-06-26.md
+/home/martin/EMERAULD/wiki/Wiki MOC.md
+/home/martin/EMERAULD/wiki/Workflows Hub.md
+/home/martin/EMERAULD/wiki/adr/0001-skill-acquisition-strategy.md
+/home/martin/EMERAULD/wiki/archive/CO-EQUAL-AUTHORITY-DECISION.md
+/home/martin/EMERAULD/wiki/archive/Ethical Ground Values.md
+/home/martin/EMERAULD/wiki/archive/Governance Stress-Test Protocols Index.md
+/home/martin/EMERAULD/wiki/archive/Orphan Index — Artifacts And Archives — 2026-05-06.md
+/home/martin/EMERAULD/wiki/archive/Orphan Index — Operations And Misc — 2026-05-06.md
+/home/martin/EMERAULD/wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06.md
+/home/martin/EMERAULD/wiki/archive/Orphan Index — Raw Sources — 2026-05-06.md
+/home/martin/EMERAULD/wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06.md
+/home/martin/EMERAULD/wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md
+/home/martin/EMERAULD/wiki/archive/agent-evaluation.md
+/home/martin/EMERAULD/wiki/archive/ai-product.md
+/home/martin/EMERAULD/wiki/archive/brief-to-tasks.md
+/home/martin/EMERAULD/wiki/archive/diamond-eyes.md
+/home/martin/EMERAULD/wiki/archive/doc.md
+/home/martin/EMERAULD/wiki/archive/first-principles.md
+/home/martin/EMERAULD/wiki/archive/free-tool-strategy.md
+/home/martin/EMERAULD/wiki/archive/hermes-dependency-mapper.md
+/home/martin/EMERAULD/wiki/archive/hermes-escalation-router.md
+/home/martin/EMERAULD/wiki/archive/inner-mind-eye.md
+/home/martin/EMERAULD/wiki/archive/ma-degree-guide.md
+/home/martin/EMERAULD/wiki/archive/red-team.md
+/home/martin/EMERAULD/wiki/archive/repo-logo-generator.md
+/home/martin/EMERAULD/wiki/archive/triangulation.md
+/home/martin/EMERAULD/wiki/archive/ux-researcher-designer.md
+/home/martin/EMERAULD/wiki/archive/web-scraping.md
+/home/martin/EMERAULD/wiki/bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec.md
+/home/martin/EMERAULD/wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2.md
+/home/martin/EMERAULD/wiki/bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023.md
+/home/martin/EMERAULD/wiki/bridges/2025 - AI Fundamentals for Business Professionals Notebook 2.md
+/home/martin/EMERAULD/wiki/bridges/2025 - AI Fundamentals for Business Professionals Notebook.md
+/home/martin/EMERAULD/wiki/bridges/2027 - AI 2027 Summary Research 2.md
+/home/martin/EMERAULD/wiki/bridges/2027 - AI 2027 Summary Research 3.md
+/home/martin/EMERAULD/wiki/bridges/2027 - AI 2027 Summary Research 4.md
+/home/martin/EMERAULD/wiki/bridges/2027 - AI 2027 Summary Research.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - 2006 - report 2.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - 2006 - report 3.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - 2006 - report 4.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - 2006 - report 5.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - 2009 - legalorcontract 2.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - 2013 - 23 ISSN 1528-0268 print.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - 2013 - auditorassessment 2.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - 2013 - auditorassessment 3.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - 2015 - policyorguidance 3.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - 2015 - policyorguidance 4.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - 2020 - Martin Lepage - SimpleTax - taxorfinance 2.pdf - 2020 - Mar - 2020 - Martin Lepage - Simp.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - CORPUS ou le gnie de linsistance 1.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - Dr. Sort Filename Normalization 2026-05-06.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - FIRST DRAFT.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - Governance by Denial Revised Working Draft.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - Introduction.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - dataimagepngbase64... 2.md
+/home/martin/EMERAULD/wiki/bridges/Bridge - dataimagepngbase64.md
+/home/martin/EMERAULD/wiki/bridges/Bridge — Agents vs. Chatbots Fundamentals.md
+/home/martin/EMERAULD/wiki/bridges/Bridge — Malformed JSON Prefix.md
+/home/martin/EMERAULD/wiki/bridges/Bridge — Mandrake.md
+/home/martin/EMERAULD/wiki/bridges/Bridge — Responses API Fundamentals.md
+/home/martin/EMERAULD/wiki/genealogy/Martin Voice Spec — Stage Map.md
+/home/martin/EMERAULD/wiki/genealogy/Martin Voice Spec — Version Genealogy.md
+/home/martin/EMERAULD/wiki/genealogy/test.md
+/home/martin/EMERAULD/wiki/lightrag_config — EMERAULD Shared Config Module.md
+/home/martin/EMERAULD/wiki/memory.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Complete solutions, not compromises — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Email Député Guilbault AE — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Reddit Data API Wiki — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/Skills as self-operators — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/WIP recruso paper — Source Note.md
+/home/martin/EMERAULD/wiki/raw-sources/2026-05-13/gaga gisease lyrics — Source Note.md
+/home/martin/EMERAULD/wiki/session-state.md
+/home/martin/EMERAULD/wiki/skills/agent-creator.md
+/home/martin/EMERAULD/wiki/skills/agent-development.md
+/home/martin/EMERAULD/wiki/skills/agent-management.md
+/home/martin/EMERAULD/wiki/skills/agent-manager-skill.md
+/home/martin/EMERAULD/wiki/skills/agent-memory-mcp.md
+/home/martin/EMERAULD/wiki/skills/agent-memory-systems.md
+/home/martin/EMERAULD/wiki/skills/agent-tool-builder.md
+/home/martin/EMERAULD/wiki/skills/ai-agents-architect.md
+/home/martin/EMERAULD/wiki/skills/ai-governance-workflow.md
+/home/martin/EMERAULD/wiki/skills/api-documentation-generator.md
+/home/martin/EMERAULD/wiki/skills/app-builder.md
+/home/martin/EMERAULD/wiki/skills/architecture.md
+/home/martin/EMERAULD/wiki/skills/ask-vault.md
+/home/martin/EMERAULD/wiki/skills/aspnet-core.md
+/home/martin/EMERAULD/wiki/skills/audit.md
+/home/martin/EMERAULD/wiki/skills/autonomous-agents.md
+/home/martin/EMERAULD/wiki/skills/autoresearch.md
+/home/martin/EMERAULD/wiki/skills/backend-dev-guidelines.md
+/home/martin/EMERAULD/wiki/skills/boil-the-ocean.md
+/home/martin/EMERAULD/wiki/skills/brand-identity-system.md
+/home/martin/EMERAULD/wiki/skills/chatgpt-apps.md
+/home/martin/EMERAULD/wiki/skills/claude-api.md
+/home/martin/EMERAULD/wiki/skills/claudex.md
+/home/martin/EMERAULD/wiki/skills/clean-migrate.md
+/home/martin/EMERAULD/wiki/skills/cli-anything-libreoffice.md
+/home/martin/EMERAULD/wiki/skills/cli-anything-mermaid.md
+/home/martin/EMERAULD/wiki/skills/cli-anything-notebooklm.md
+/home/martin/EMERAULD/wiki/skills/cli-anything-obsidian.md
+/home/martin/EMERAULD/wiki/skills/cli-anything-ollama.md
+/home/martin/EMERAULD/wiki/skills/cli-anything.md
+/home/martin/EMERAULD/wiki/skills/cloudflare-deploy.md
+/home/martin/EMERAULD/wiki/skills/codex-hooks.md
+/home/martin/EMERAULD/wiki/skills/codex-review.md
+/home/martin/EMERAULD/wiki/skills/codex.md
+/home/martin/EMERAULD/wiki/skills/compose-and-ship.md
+/home/martin/EMERAULD/wiki/skills/consent-framework.md
+/home/martin/EMERAULD/wiki/skills/control-point-doctrine.md
+/home/martin/EMERAULD/wiki/skills/cost-reducer.md
+/home/martin/EMERAULD/wiki/skills/data-privacy-compliance.md
+/home/martin/EMERAULD/wiki/skills/database-schema-designer.md
+/home/martin/EMERAULD/wiki/skills/database.md
+/home/martin/EMERAULD/wiki/skills/deep-research-notebooklm.md
+/home/martin/EMERAULD/wiki/skills/delegate-task.md
+/home/martin/EMERAULD/wiki/skills/deploy.md
+/home/martin/EMERAULD/wiki/skills/design-brief.md
+/home/martin/EMERAULD/wiki/skills/design-flow.md
+/home/martin/EMERAULD/wiki/skills/design-review.md
+/home/martin/EMERAULD/wiki/skills/develop-web-game.md
+/home/martin/EMERAULD/wiki/skills/dispatching-parallel-agents.md
+/home/martin/EMERAULD/wiki/skills/emerging-techniques-long-context.md
+/home/martin/EMERAULD/wiki/skills/emerging-techniques-speculative-decoding.md
+/home/martin/EMERAULD/wiki/skills/ethical-hacking-methodology.md
+/home/martin/EMERAULD/wiki/skills/exploratory-data-analysis.md
+/home/martin/EMERAULD/wiki/skills/fastapi-endpoint.md
+/home/martin/EMERAULD/wiki/skills/fastmcp-server.md
+/home/martin/EMERAULD/wiki/skills/fetch.md
+/home/martin/EMERAULD/wiki/skills/figma-code-connect-components.md
+/home/martin/EMERAULD/wiki/skills/figma-create-design-system-rules.md
+/home/martin/EMERAULD/wiki/skills/figma-create-new-file.md
+/home/martin/EMERAULD/wiki/skills/figma-generate-design.md
+/home/martin/EMERAULD/wiki/skills/figma-generate-library.md
+/home/martin/EMERAULD/wiki/skills/figma-implement-design.md
+/home/martin/EMERAULD/wiki/skills/figma-use.md
+/home/martin/EMERAULD/wiki/skills/figma.md
+/home/martin/EMERAULD/wiki/skills/file-reading.md
+/home/martin/EMERAULD/wiki/skills/frontend-design.md
+/home/martin/EMERAULD/wiki/skills/frontend-skill.md
+/home/martin/EMERAULD/wiki/skills/fully-rounded-power-analyst.md
+/home/martin/EMERAULD/wiki/skills/gadget.md
+/home/martin/EMERAULD/wiki/skills/genealogy-loupe.md
+/home/martin/EMERAULD/wiki/skills/gh-address-comments.md
+/home/martin/EMERAULD/wiki/skills/gh-fix-ci.md
+/home/martin/EMERAULD/wiki/skills/github-actions-creator.md
+/home/martin/EMERAULD/wiki/skills/github-workflow-automation.md
+/home/martin/EMERAULD/wiki/skills/grill-me.md
+/home/martin/EMERAULD/wiki/skills/gsd-add-backlog.md
+/home/martin/EMERAULD/wiki/skills/gsd-add-phase.md
+/home/martin/EMERAULD/wiki/skills/gsd-add-tests.md
+/home/martin/EMERAULD/wiki/skills/gsd-add-todo.md
+/home/martin/EMERAULD/wiki/skills/gsd-ai-integration-phase.md
+/home/martin/EMERAULD/wiki/skills/gsd-analyze-dependencies.md
+/home/martin/EMERAULD/wiki/skills/gsd-audit-fix.md
+/home/martin/EMERAULD/wiki/skills/gsd-audit-milestone.md
+/home/martin/EMERAULD/wiki/skills/gsd-audit-uat.md
+/home/martin/EMERAULD/wiki/skills/gsd-autonomous.md
+/home/martin/EMERAULD/wiki/skills/gsd-check-todos.md
+/home/martin/EMERAULD/wiki/skills/gsd-cleanup.md
+/home/martin/EMERAULD/wiki/skills/gsd-code-review-fix.md
+/home/martin/EMERAULD/wiki/skills/gsd-code-review.md
+/home/martin/EMERAULD/wiki/skills/gsd-complete-milestone.md
+/home/martin/EMERAULD/wiki/skills/gsd-debug.md
+/home/martin/EMERAULD/wiki/skills/gsd-discuss-phase.md
+/home/martin/EMERAULD/wiki/skills/gsd-do.md
+/home/martin/EMERAULD/wiki/skills/gsd-docs-update.md
+/home/martin/EMERAULD/wiki/skills/gsd-eval-review.md
+/home/martin/EMERAULD/wiki/skills/gsd-execute-phase.md
+/home/martin/EMERAULD/wiki/skills/gsd-explore.md
+/home/martin/EMERAULD/wiki/skills/gsd-extract_learnings.md
+/home/martin/EMERAULD/wiki/skills/gsd-fast.md
+/home/martin/EMERAULD/wiki/skills/gsd-forensics.md
+/home/martin/EMERAULD/wiki/skills/gsd-from-gsd2.md
+/home/martin/EMERAULD/wiki/skills/gsd-graphify.md
+/home/martin/EMERAULD/wiki/skills/gsd-health.md
+/home/martin/EMERAULD/wiki/skills/gsd-help.md
+/home/martin/EMERAULD/wiki/skills/gsd-import.md
+/home/martin/EMERAULD/wiki/skills/gsd-inbox.md
+/home/martin/EMERAULD/wiki/skills/gsd-insert-phase.md
+/home/martin/EMERAULD/wiki/skills/gsd-intel.md
+/home/martin/EMERAULD/wiki/skills/gsd-join-discord.md
+/home/martin/EMERAULD/wiki/skills/gsd-list-phase-assumptions.md
+/home/martin/EMERAULD/wiki/skills/gsd-list-workspaces.md
+/home/martin/EMERAULD/wiki/skills/gsd-manager.md
+/home/martin/EMERAULD/wiki/skills/gsd-map-codebase.md
+/home/martin/EMERAULD/wiki/skills/gsd-milestone-summary.md
+/home/martin/EMERAULD/wiki/skills/gsd-new-milestone.md
+/home/martin/EMERAULD/wiki/skills/gsd-new-project.md
+/home/martin/EMERAULD/wiki/skills/gsd-new-workspace.md
+/home/martin/EMERAULD/wiki/skills/gsd-next.md
+/home/martin/EMERAULD/wiki/skills/gsd-note.md
+/home/martin/EMERAULD/wiki/skills/gsd-pause-work.md
+/home/martin/EMERAULD/wiki/skills/gsd-plan-milestone-gaps.md
+/home/martin/EMERAULD/wiki/skills/gsd-plan-phase.md
+/home/martin/EMERAULD/wiki/skills/gsd-plant-seed.md
+/home/martin/EMERAULD/wiki/skills/gsd-pr-branch.md
+/home/martin/EMERAULD/wiki/skills/gsd-profile-user.md
+/home/martin/EMERAULD/wiki/skills/gsd-progress.md
+/home/martin/EMERAULD/wiki/skills/gsd-quick.md
+/home/martin/EMERAULD/wiki/skills/gsd-reapply-patches.md
+/home/martin/EMERAULD/wiki/skills/gsd-remove-phase.md
+/home/martin/EMERAULD/wiki/skills/gsd-remove-workspace.md
+/home/martin/EMERAULD/wiki/skills/gsd-research-phase.md
+/home/martin/EMERAULD/wiki/skills/gsd-resume-work.md
+/home/martin/EMERAULD/wiki/skills/gsd-review-backlog.md
+/home/martin/EMERAULD/wiki/skills/gsd-review.md
+/home/martin/EMERAULD/wiki/skills/gsd-scan.md
+/home/martin/EMERAULD/wiki/skills/gsd-secure-phase.md
+/home/martin/EMERAULD/wiki/skills/gsd-session-report.md
+/home/martin/EMERAULD/wiki/skills/gsd-set-profile.md
+/home/martin/EMERAULD/wiki/skills/gsd-settings.md
+/home/martin/EMERAULD/wiki/skills/gsd-ship.md
+/home/martin/EMERAULD/wiki/skills/gsd-stats.md
+/home/martin/EMERAULD/wiki/skills/gsd-thread.md
+/home/martin/EMERAULD/wiki/skills/gsd-ui-phase.md
+/home/martin/EMERAULD/wiki/skills/gsd-ui-review.md
+/home/martin/EMERAULD/wiki/skills/gsd-undo.md
+/home/martin/EMERAULD/wiki/skills/gsd-update.md
+/home/martin/EMERAULD/wiki/skills/gsd-validate-phase.md
+/home/martin/EMERAULD/wiki/skills/gsd-verify-work.md
+/home/martin/EMERAULD/wiki/skills/gsd-workstreams.md
+/home/martin/EMERAULD/wiki/skills/helix-operator.md
+/home/martin/EMERAULD/wiki/skills/hermes-integration-monitor.md
+/home/martin/EMERAULD/wiki/skills/hitl-awareness.md
+/home/martin/EMERAULD/wiki/skills/humanize.md
+/home/martin/EMERAULD/wiki/skills/impeccable.md
+/home/martin/EMERAULD/wiki/skills/incident-response-runbooks.md
+/home/martin/EMERAULD/wiki/skills/information-architecture.md
+/home/martin/EMERAULD/wiki/skills/ingest.md
+/home/martin/EMERAULD/wiki/skills/intersectionality.md
+/home/martin/EMERAULD/wiki/skills/jupyter-notebook.md
+/home/martin/EMERAULD/wiki/skills/lead-research-assistant.md
+/home/martin/EMERAULD/wiki/skills/linear.md
+/home/martin/EMERAULD/wiki/skills/literary-references.md
+/home/martin/EMERAULD/wiki/skills/literature-review.md
+/home/martin/EMERAULD/wiki/skills/loki-mode.md
+/home/martin/EMERAULD/wiki/skills/ma-arts-letters.md
+/home/martin/EMERAULD/wiki/skills/markitdown.md
+/home/martin/EMERAULD/wiki/skills/mcp-builder.md
+/home/martin/EMERAULD/wiki/skills/mcp-integration.md
+/home/martin/EMERAULD/wiki/skills/memory-search.md
+/home/martin/EMERAULD/wiki/skills/naming-analyzer.md
+/home/martin/EMERAULD/wiki/skills/netlify-deploy.md
+/home/martin/EMERAULD/wiki/skills/notion-knowledge-capture.md
+/home/martin/EMERAULD/wiki/skills/notion-meeting-intelligence.md
+/home/martin/EMERAULD/wiki/skills/notion-research-documentation.md
+/home/martin/EMERAULD/wiki/skills/notion-spec-to-implementation.md
+/home/martin/EMERAULD/wiki/skills/novelist.md
+/home/martin/EMERAULD/wiki/skills/observability-governance.md
+/home/martin/EMERAULD/wiki/skills/observability-phoenix.md
+/home/martin/EMERAULD/wiki/skills/obsidian-rag.md
+/home/martin/EMERAULD/wiki/skills/openai-account-usage.md
+/home/martin/EMERAULD/wiki/skills/pdf.md
+/home/martin/EMERAULD/wiki/skills/peer-review-workflow.md
+/home/martin/EMERAULD/wiki/skills/peer-review.md
+/home/martin/EMERAULD/wiki/skills/peer-reviewed-paper-writer.md
+/home/martin/EMERAULD/wiki/skills/pharos-papers-db.md
+/home/martin/EMERAULD/wiki/skills/pharos-receipts-brief.md
+/home/martin/EMERAULD/wiki/skills/pharos-repurposer.md
+/home/martin/EMERAULD/wiki/skills/pharos-signal-report.md
+/home/martin/EMERAULD/wiki/skills/philosopher.md
+/home/martin/EMERAULD/wiki/skills/playwright-interactive.md
+/home/martin/EMERAULD/wiki/skills/playwright.md
+/home/martin/EMERAULD/wiki/skills/privilege-escalation-methods.md
+/home/martin/EMERAULD/wiki/skills/prompt-engineering.md
+/home/martin/EMERAULD/wiki/skills/publisher.md
+/home/martin/EMERAULD/wiki/skills/qualitative.md
+/home/martin/EMERAULD/wiki/skills/receiving-code-review.md
+/home/martin/EMERAULD/wiki/skills/recursive-ecosystem.md
+/home/martin/EMERAULD/wiki/skills/recursive-governance-method.md
+/home/martin/EMERAULD/wiki/skills/red-team-tactics.md
+/home/martin/EMERAULD/wiki/skills/reference-list-builder.md
+/home/martin/EMERAULD/wiki/skills/render-deploy.md
+/home/martin/EMERAULD/wiki/skills/research-engineer.md
+/home/martin/EMERAULD/wiki/skills/research-grants.md
+/home/martin/EMERAULD/wiki/skills/risk-management-specialist.md
+/home/martin/EMERAULD/wiki/skills/scholar-evaluation.md
+/home/martin/EMERAULD/wiki/skills/scientific-brainstorming.md
+/home/martin/EMERAULD/wiki/skills/scientific-critical-thinking.md
+/home/martin/EMERAULD/wiki/skills/scientific-visualization.md
+/home/martin/EMERAULD/wiki/skills/scientific-writing.md
+/home/martin/EMERAULD/wiki/skills/screenshot.md
+/home/martin/EMERAULD/wiki/skills/security-best-practices.md
+/home/martin/EMERAULD/wiki/skills/security-ownership-map.md
+/home/martin/EMERAULD/wiki/skills/security-threat-model.md
+/home/martin/EMERAULD/wiki/skills/self-healing.md
+/home/martin/EMERAULD/wiki/skills/senior-data-scientist.md
+/home/martin/EMERAULD/wiki/skills/sentry.md
+/home/martin/EMERAULD/wiki/skills/skill-architect.md
+/home/martin/EMERAULD/wiki/skills/skill-development.md
+/home/martin/EMERAULD/wiki/skills/skill-discovery.md
+/home/martin/EMERAULD/wiki/skills/skill-judge.md
+/home/martin/EMERAULD/wiki/skills/skill-pairing.md
+/home/martin/EMERAULD/wiki/skills/skills-dedup.md
+/home/martin/EMERAULD/wiki/skills/slides.md
+/home/martin/EMERAULD/wiki/skills/sora.md
+/home/martin/EMERAULD/wiki/skills/speech.md
+/home/martin/EMERAULD/wiki/skills/spreadsheet.md
+/home/martin/EMERAULD/wiki/skills/statistical-analysis.md
+/home/martin/EMERAULD/wiki/skills/systematic-debugging.md
+/home/martin/EMERAULD/wiki/skills/tabula-rasa.md
+/home/martin/EMERAULD/wiki/skills/tdd-feature-loop.md
+/home/martin/EMERAULD/wiki/skills/test-detect.md
+/home/martin/EMERAULD/wiki/skills/test-driven-development.md
+/home/martin/EMERAULD/wiki/skills/three-agent-audit.md
+/home/martin/EMERAULD/wiki/skills/trace-investigator.md
+/home/martin/EMERAULD/wiki/skills/trailofbits-security.md
+/home/martin/EMERAULD/wiki/skills/transcribe.md
+/home/martin/EMERAULD/wiki/skills/tts.md
+/home/martin/EMERAULD/wiki/skills/vault-graph-hygiene.md
+/home/martin/EMERAULD/wiki/skills/vercel-deploy.md
+/home/martin/EMERAULD/wiki/skills/verification-before-completion.md
+/home/martin/EMERAULD/wiki/skills/web-artifacts-builder.md
+/home/martin/EMERAULD/wiki/skills/web-layers-explainer.md
+/home/martin/EMERAULD/wiki/skills/web-tech-fundamentals.md
+/home/martin/EMERAULD/wiki/skills/webapp-testing.md
+/home/martin/EMERAULD/wiki/skills/winui-app.md
+/home/martin/EMERAULD/wiki/skills/workflow-automation.md
+/home/martin/EMERAULD/wiki/skills/writing-skills.md
+/home/martin/EMERAULD/wiki/skills/yeet.md
+/home/martin/EMERAULD/wiki/trismegiste-state.md
+/home/martin/EMERAULD/Areas/PHAROS/Architectural AI Governance — Willis and PBSAI.md
+/home/martin/EMERAULD/Areas/Writing/Neo-Shamanism Gender Narratives — Version Genealogy.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/GENERAL.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/Agentic_AI_Autonomous_Intelligence_for_Complex_GoalsA_Comprehensive_Survey.pdf
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/Spec-1-ai Governance Engine.pdf
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/Turing AI Ethics and Governance.pdf
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/papers-and-manuscripts/The_Kybalion.pdf
+/home/martin/EMERAULD/raw sources/paper-builder-origin-bundle/paper builder.txt

@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: systematic-debugging
 codex_path: /home/cerebrhoe/.codex/skills/systematic-debugging/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # systematic-debugging

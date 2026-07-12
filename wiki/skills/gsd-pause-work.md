@@ -20,7 +20,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 skill_id: gsd-pause-work
 codex_path: /home/cerebrhoe/.codex/skills/gsd-pause-work/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # gsd-pause-work

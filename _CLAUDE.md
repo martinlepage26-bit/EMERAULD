@@ -218,7 +218,7 @@ Before declaring a bug, drafting a fix, or writing architecture: read the actual
 *Update this section at the start of each major work sprint.*
 
 **Current top priorities (as of 2026-07-08):**
-1. Lavoie contract v5 signature — ~July 13 window; P0 items in `~/Lavoie/review-gate-signature-2026-07-06.md`; vault state at [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)]]
+1. Lavoie contract signature — text is now **v6.3** ([[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v6.x Résolutions Track (2026-07-10)]], supersedes the [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)|v5 track]] on Art. 5/7/10 + Annexe E). The ~July 13 window is blocked **upstream**, not by the contract text: the founder / Annexe E ownership decision ([[Areas/PHAROS/Founder Agreement — PHAROS x Danny Stocker Perimeter Reset (2026-07-10)]]) plus the lawyer batch
 2. HELIX outreach — EU AI Act window closes 2026-08-02 (~25 days); send one message to Humania or Koios; draft in [[Areas/PHAROS/HELIX — Value Proposition and Buyer Profile]]
 3. EMERAULD OS build Stage 2 — MCP surface wiring per [[governance/EMERAULD-OS-SPEC — MCP Surface]]; sequence in [[governance/EMERAULD-OS-BUILD-ORDER]]
 4. Gumroad listing publish — copy ready at `artifacts/marketplace/promo/gumroad-listing.md`; upload zip is `assets/obsidian-agent-vault-2026-06-29.zip`; manual browser action remaining

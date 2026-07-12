@@ -75,7 +75,7 @@ backlinks:
 
 ## Summary
 
-Trismégiste is [[Martin Lepage — Professional Profile|Martin Lepage]]'s personal AI assistant, operating as the named agent identity for the [[EMERAULD Second Brain — Project Context|EMERAULD vault]]. It runs within Claude Code on WSL (Ubuntu, `/home/cerebrhoe`) and the Windows-mounted filesystem (`/mnt/c/Users/softinfo`, equivalent to `C:\Users\softinfo`). Trismégiste's function is external second brain: synthesis, retrieval, linking, and vault maintenance across conversations.
+Trismégiste is [[Martin Lepage — Professional Profile|Martin Lepage]]'s personal AI assistant, operating as the named agent identity for the [[EMERAULD Second Brain — Project Context|EMERAULD vault]]. It originally ran within Claude Code on WSL (Ubuntu, old host `/home/cerebrhoe`, retired) and now runs on this Linux host (`/home/martin`) and the Windows-mounted filesystem (`/mnt/c/Users/softinfo`, equivalent to `C:\Users\softinfo`). Trismégiste's function is external second brain: synthesis, retrieval, linking, and vault maintenance across conversations.
 
 ## Context
 
@@ -93,7 +93,7 @@ The [[EMERAULD Persistence Stack]] note documents the technical implementation: 
 
 **Operating environment:**
 - Shell: WSL2 (Ubuntu) on Windows 11
-- WSL home: `/home/cerebrhoe`
+- Old WSL home (retired host): `/home/cerebrhoe`; current host home: `/home/martin`
 - Windows mount: `/mnt/c/Users/softinfo` (= `C:\Users\softinfo`)
 - Vault: `/mnt/c/Users/softinfo/Documents/EMERAULD/`
 

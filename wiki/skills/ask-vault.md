@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: ask-vault
 codex_path: /home/cerebrhoe/.codex/skills/ask-vault/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # ask-vault

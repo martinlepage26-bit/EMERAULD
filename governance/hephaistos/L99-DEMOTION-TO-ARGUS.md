@@ -58,16 +58,16 @@ None of that changes.
 ### Before this decision
 
 L99 was listed as item 1 in "Binding Principles" in:
-- `/home/cerebrhoe/AGENTS.md`
+- `/home/martin/AGENTS.md`
 - `/home/cerebrhoe/HEPHAISTOS.md`
 - `/home/cerebrhoe/QUEEN-KEYPORT.md`
 - `/home/cerebrhoe/HERMES.md`
 - `/home/cerebrhoe/ORCHESTRATION.md`
-- `/home/cerebrhoe/hephaistos/AGENTS.md`
-- `/home/cerebrhoe/hephaistos/HEPHAISTOS.md`
-- `/home/cerebrhoe/hephaistos/QUEEN-KEYPORT.md`
-- `/home/cerebrhoe/hephaistos/HERMES.md`
-- `/home/cerebrhoe/hephaistos/ORCHESTRATION.md`
+- `/home/martin/.agents/hephaistos/AGENTS.md`
+- `/home/martin/.agents/hephaistos/HEPHAISTOS.md`
+- `/home/martin/.agents/hephaistos/QUEEN-KEYPORT.md`
+- `/home/martin/.agents/hephaistos/HERMES.md`
+- `/home/martin/.agents/hephaistos/ORCHESTRATION.md`
 
 This repetition was not enforcement. It was decoration. A principle that appears in every file without specific trigger conditions has no purchase on any specific output.
 

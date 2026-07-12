@@ -42,7 +42,7 @@ This is a self-audit of the live entry surfaces:
 
 - Claude (global): `~/.claude/CLAUDE.md`
 - Claude (repo): `hephaistos/CLAUDE.md`
-- Codex (global): `/home/cerebrhoe/AGENTS.md`
+- Codex (global): `/home/martin/AGENTS.md`
 - Codex (repo): `hephaistos/AGENTS.md`
 
 It is not a claim that every historical report or template in the repo is fully free of
@@ -70,8 +70,8 @@ Derived from `CO-EQUAL-AUTHORITY-DECISION.md`:
 **Evidence**
 
 - It delegates to the root and repo-local control stack:
-  - `/home/cerebrhoe/AGENTS.md`
-  - `/home/cerebrhoe/hephaistos/AGENTS.md`
+  - `/home/martin/AGENTS.md`
+  - `/home/martin/.agents/hephaistos/AGENTS.md`
 - The global invariant no longer implies a default governance winner.
 - It preserves evidence and unresolved-conflict discipline:
   - "Direct evidence beats fluency."
@@ -111,7 +111,7 @@ was found in the repo-local Claude entrypoint.
 
 ## Codex Status — Global Surface
 
-**File:** `/home/cerebrhoe/AGENTS.md`  
+**File:** `/home/martin/AGENTS.md`  
 **Status:** PASS
 
 **Evidence**

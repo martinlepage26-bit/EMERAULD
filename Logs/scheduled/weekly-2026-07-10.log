@@ -1,0 +1,13 @@
+Done. The weekly review is generated and wired in.
+
+**What I did:**
+1. Read `_CLAUDE.md` and `CLAUDE.md` at the vault root and followed the note-format, linking, and tracker rules.
+2. Read all five daily notes (2026-07-06 → 2026-07-10) and `session-state.md`.
+3. Scanned `Areas/`, `Resources/`, `wiki/`, and `projects/` for notes updated this week to confirm the touched surface.
+4. Wrote **`wiki/Weekly Review — 2026-07-10.md`** with the required frontmatter, "For future Claude" preamble, and all six sections — Summary, Decisions, Projects, Learnings, Carry Forward, OS health (metrics copied **verbatim**), plus a Related section with wikilinks to all five daily notes and key project notes.
+5. Appended `[[Weekly Review — 2026-07-10]]` to the Related section of the 2026-07-10 daily note.
+6. Added one line to the VAULT ADDITIONS TRACKER.
+
+**The week in one line:** the 2026-07-08 full vault overhaul (PARA migration, frontmatter unification, root-cause fix of the `updated: 2026-06-26` saturation bug, EMERAULD-OS Stages 2–4 live, first governance-pipeline cycle) was the dominant event, bracketed by Contremaître/LegiPro tone work at the start and old-host/BOWIE cleanup near the end; both standing Lavoie contradictions were resolved by operator decision. Nothing was deleted.
+
+One thing worth flagging: the note satisfies the linking rule (≥2 inline wikilinks, tracker entry, linked from the daily note), but per `_CLAUDE.md` §3 rule 2, a MOC in `maps/` should also link to it. Prior weekly reviews appear not to be MOC-linked either, so I left that consistent with existing practice — say the word if you want me to add it to a reviews MOC.

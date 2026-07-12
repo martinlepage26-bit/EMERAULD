@@ -20,7 +20,7 @@ backlinks:
 - '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: consent-framework
 codex_path: /home/cerebrhoe/.codex/skills/consent-framework/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # consent-framework

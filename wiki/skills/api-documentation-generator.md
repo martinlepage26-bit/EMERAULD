@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 skill_id: api-documentation-generator
 codex_path: /home/cerebrhoe/.codex/skills/api-documentation-generator/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # api-documentation-generator

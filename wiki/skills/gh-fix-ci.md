@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: gh-fix-ci
 codex_path: /home/cerebrhoe/.codex/skills/gh-fix-ci/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # gh-fix-ci

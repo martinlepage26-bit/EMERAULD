@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: notion-spec-to-implementation
 codex_path: /home/cerebrhoe/.codex/skills/notion-spec-to-implementation/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # notion-spec-to-implementation

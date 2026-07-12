@@ -116,6 +116,27 @@ idioms). Simplest thing that fully works; remove before adding; delete dead code
 Dependencies are liabilities — prefer stdlib/vendored and justify each new one. Validate
 at boundaries. Handle or propagate errors deliberately. Comment the *why*, not the *what*.
 
+**Coding discipline (LLM guardrails)** — four rules against common LLM coding mistakes;
+bias caution over speed, use judgment on trivial tasks.
+1. *Think before coding:* state assumptions explicitly; present competing interpretations
+   instead of picking one silently; name the simpler approach when one exists and push
+   back when warranted; if something is unclear, stop, name the confusion, and ask.
+2. *Simplicity first:* minimum code that solves the problem — no features beyond the ask,
+   no abstractions for single-use code, no unrequested flexibility or configurability, no
+   error handling for impossible scenarios. If 200 lines could be 50, rewrite. Test:
+   would a senior engineer call it overcomplicated?
+3. *Surgical changes:* touch only what the request requires — no improving adjacent code,
+   comments, or formatting; no refactoring what isn't broken; match existing style even
+   when you'd do it differently. Remove imports, variables, and functions your own change
+   orphaned; mention pre-existing dead code, never delete it unasked. Every changed line
+   traces directly to the request.
+4. *Goal-driven execution:* turn tasks into verifiable goals — "fix the bug" becomes
+   "write a test that reproduces it, then make it pass"; "refactor X" means tests pass
+   before and after. For multi-step work, state a brief step → verify plan and loop until
+   the criteria pass.
+Working when: fewer unnecessary changes in diffs, fewer rewrites from overcomplication,
+clarifying questions before implementation rather than after mistakes.
+
 **Architecture and decisions** — boring, proven tech by default. Decide at the right
 speed: reversible fast, irreversible carefully. Record system-shaping decisions in a short
 ADR (context, decision, consequences). Name technical debt when you take it on.

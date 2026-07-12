@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/raw sources/memoir-part-one-draft.md
+/home/martin/EMERAULD/raw sources/memoir-plan-v1.md
+/home/martin/EMERAULD/raw sources/novembre 22, 2008 par malekexoterique.md
+/home/martin/EMERAULD/raw sources/paper-builder-origin-bundle/Martin's voice CODE.txt
+/home/martin/EMERAULD/raw sources/paper-builder-origin-bundle/PAPER BUILDER APP WF.txt
+/home/martin/EMERAULD/raw sources/paper-builder-origin-bundle/PAPER BUILDER APP.txt
+/home/martin/EMERAULD/raw sources/paper-builder-origin-bundle/PAPER BUILDER WF Sum.txt
+/home/martin/EMERAULD/raw sources/paper-builder-origin-bundle/PAPER BUILDER WK SocialStudies.txt
+/home/martin/EMERAULD/raw sources/pharos-strategic-analysis-2026-04-18.md
+/home/martin/EMERAULD/raw sources/provisional-arbitration-charter-v1.1.md
+/home/martin/EMERAULD/raw sources/relational_presence_ship_theseus_booby_trap.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/archive_README.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/example_wiki_note.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/hub_concept.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/hub_decision_log.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/hub_moc.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/hub_person.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/hub_project.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/product_CLAUDE.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/product_Home.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/product_README.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/raw_README.md

@@ -5,7 +5,7 @@ tags:
 - note
 status: active
 created: '2026-07-08'
-updated: '2026-07-08'
+updated: '2026-07-12'
 vault_area: TASKS.md
 canonical_path: TASKS.md
 backlink_count: 1
@@ -17,6 +17,9 @@ backlinks:
 
 ## Active
 
+- [ ] **Founder / Annexe E ownership decision** (2026-07-12) — upstream blocker on the Lavoie contract send AND on PHAROS legal form vs incorporation timing. Open forks in [[Areas/PHAROS/Founder Agreement — PHAROS x Danny Stocker Perimeter Reset (2026-07-10)]]. Martin decides.
+- [ ] **Lavoie contract v6.3 — lawyer batch** (2026-07-12) — 14 `[à compléter]` fields, 5 `[à valider juridique]`, insurance/E&O, intérêts de retard, dormancy limit, porte-fort affiliés, confidentiality super-cap, plus the v6.3 residuals (undefined « personnes désignées », R9 extension does not re-arm deemed acceptance, Art. 10 « délai raisonnable » → 30 days). Batch them; do not churn a v6.4. ([[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v6.x Résolutions Track (2026-07-10)]])
+- [ ] **Contremaître WP-01 green light** (2026-07-12) — Phase 1 work orders are executor-ready and waiting on Martin. Start WP-01 (idempotency / ExternalId). ([[Areas/Lavoie/Domain API Foundation — Phase 1 Work Orders and Ports (2026-07-10)]])
 - [ ] **Verify Lavoie Patricia message** — Confirm MESSAGE_SUIVI_PATRICIA.md v3 was sent. If not: send immediately, no changes. Do not follow up before 7 days after send. (`Lavoie/MESSAGE_SUIVI_PATRICIA.md`)
 - [x] **AurorA Module 03 — file intake build** — Entry point: `aurorai/src/modules/intake/validators.ts`. Spec: `docs/specs/com-aur/03-aurora-file-intake-module.md §intake-validation`. (`apps/web-apps/pharos-suite/`)
 - [ ] **Wrangler bindings confirmation** — Confirm R2 bucket name and D1 database_id from `docs/d1-r2-endpoint-mapping.md` before activating `aurorai/wrangler.toml` / `compassai/wrangler.toml`. (`apps/web-apps/pharos-suite/`)
@@ -32,6 +35,10 @@ backlinks:
   - A5: zones/services list signed by Guillaume
 - [ ] **Lavoie corpus** (Action 1 — Martin) — Assemble 20–30 field report examples in `Lavoie/corpus-rapports/`. Blocked on client timing but can start independently.
 - [ ] **Lavoie process documentation** (Action 2 — Martin) — Record step-by-step report production session (audio/video). Can start independently.
+
+- [ ] **Marketplace legal gate** (2026-07-12) — determine whether FINTRAC MSB registration and Revenu Québec ESM apply to the job-overflow marketplace before any build past the design. Load-bearing: it decides legality, not implementation. ([[Areas/Lavoie/Marketplace de débordement — Job Overflow and Payments Architecture (2026-07-10)]])
+- [ ] **Asset-register blanks** (2026-07-12) — account payers, Forgejo inventory on mtl-01, InfraFabric perimeter; correct the `⚑` legend to "draft-committed, unsigned". Registers at `~/docs/governance/founder-asset-registers-2026-07-09.md`.
+- [ ] **Register `legipro.ca`** (2026-07-12) — unregistered as of 2026-07-09, ~$15. Re-run whois before buying. ([[Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan]])
 
 ## Someday
 

@@ -22,13 +22,13 @@ backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: tabula-rasa
-codex_path: /home/cerebrhoe/.codex/skills/tabula-rasa/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+codex_path: /home/martin/.codex/skills/tabula-rasa/SKILL.md
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # tabula-rasa
 
-Codex skill source: `/home/cerebrhoe/.codex/skills/tabula-rasa/SKILL.md`.
+Codex skill source: `/home/martin/.codex/skills/tabula-rasa/SKILL.md`.
 
 ## Description
 

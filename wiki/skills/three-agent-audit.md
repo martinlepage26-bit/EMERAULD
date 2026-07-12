@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: three-agent-audit
 codex_path: /home/cerebrhoe/.codex/skills/three-agent-audit/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # three-agent-audit

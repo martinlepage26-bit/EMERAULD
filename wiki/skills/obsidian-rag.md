@@ -20,7 +20,7 @@ backlinks:
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: obsidian-rag
 codex_path: /home/cerebrhoe/.codex/skills/obsidian-rag/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # obsidian-rag

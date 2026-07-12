@@ -22,13 +22,13 @@ backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: boil-the-ocean
-codex_path: /home/cerebrhoe/.codex/skills/boil-the-ocean/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+codex_path: /home/martin/.codex/skills/boil-the-ocean/SKILL.md
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # boil-the-ocean
 
-Codex skill source: `/home/cerebrhoe/.codex/skills/boil-the-ocean/SKILL.md`.
+Codex skill source: `/home/martin/.codex/skills/boil-the-ocean/SKILL.md`.
 
 ## Description
 

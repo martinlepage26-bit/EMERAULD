@@ -95,7 +95,7 @@ Daily review now uses consolidated labels while preserving the detailed tracker 
 | Commercial | PHAROS AI Commercial Launch, PHAROS Procurement-Unblock Sprint, Trust Advantage Analysis, PHAROS Commercial Strategy |
 | Method/IP | PHAROS Method patent, PHAROS Invention Disclosure, Recursive Deterministic AI Governance, PHAROS Governance Controls |
 | Products | HELIX, GAIA, Obsidian Agent Vault / Obsidian Second Brain Product |
-| Clients | ExterminationDG, Santé-France, Lavoie Construct ([[Contremaître — Groupe Lavoie Field-Operations Platform|Contremaître]] + [[LegiPro Canada-QC — Compliance Evidence Service Plan|LegiPro]]), Progression |
+| Clients | ExterminationDG, Santé-France, Lavoie Construct ([[Contremaître — Groupe Lavoie Field-Operations Platform|Contremaître]] + [[LegiPro Canada-QC — Compliance Evidence Service Plan|LegiPro]] + [[Areas/Lavoie/Dossiers Client Plan-Set — Chaîne de gouvernance éditoriale 5156–5165 (2026-07-08)|dossiers client 5156–5165]]), Progression |
 | Agent System | Second Self System, HEPHAISTOS/Hermes/Queen Keyport routing, skill registry, memory infrastructure |
 | Publications | AI Anxiety / Recursive Governance, RDAIG Method, AI Ethics submission, Wheel and Watcher, Hegemonic Fluency |
 | Screen-Worlds Writing | Legitimacy Machines / Altars of Control, Buffy Book, Familiars of Hollywood, Glitching the Sacred, Refusing Fixity / HEXA, Unnatural Selection, Digital Agatha, Who's the Boob Who's the Trap |

@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: test-driven-development
 codex_path: /home/cerebrhoe/.codex/skills/test-driven-development/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # test-driven-development

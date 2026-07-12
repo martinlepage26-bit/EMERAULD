@@ -20,13 +20,13 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 skill_id: ma-arts-letters
-codex_path: /home/cerebrhoe/.codex/skills/ma-arts-letters/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+codex_path: /home/martin/.codex/skills/ma-arts-letters/SKILL.md
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # ma-arts-letters
 
-Codex skill source: `/home/cerebrhoe/.codex/skills/ma-arts-letters/SKILL.md`.
+Codex skill source: `/home/martin/.codex/skills/ma-arts-letters/SKILL.md`.
 
 ## Description
 

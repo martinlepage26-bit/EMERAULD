@@ -1,0 +1,441 @@
+{
+  "nodes": [
+    {
+      "id": "pharos_cli_anything_agent_harness_for_tool_integration_cli_anything",
+      "label": "CLI-Anything",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/CLI-Anything \u2014 Agent Harness for Tool Integration.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_client_accounts_groupe_lavoie",
+      "label": "Groupe Lavoie",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/CLIENT ACCOUNTS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_client_accounts_extermination_dg",
+      "label": "Extermination DG",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/CLIENT ACCOUNTS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_compassai_eu_ai_act_classifier_expansion_and_quebec_construction_module_2026_06_22_eu_ai_act_classifier",
+      "label": "EU AI Act Classifier Expansion",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/COMPASSai \u2014 EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_compassai_eu_ai_act_classifier_expansion_and_quebec_construction_module_2026_06_22_qc_construction_module",
+      "label": "Quebec Construction Module",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/COMPASSai \u2014 EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_compassai_governance_engine_compassai",
+      "label": "COMPASSai Governance Engine",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/COMPASSai \u2014 Governance Engine.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_control_1_tool_layer_audit_protocol_regulatory_grounding_control_1",
+      "label": "CONTROL 1 - Tool Layer Audit Protocol",
+      "file_type": "rationale",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/CONTROL 1 \u2014 Tool Layer Audit Protocol (Regulatory Grounding).md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_control_2_external_data_lifecycle_protocol_regulatory_grounding_control_2",
+      "label": "CONTROL 2 - External Data Lifecycle Protocol",
+      "file_type": "rationale",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/CONTROL 2 \u2014 External Data Lifecycle Protocol (Regulatory Grounding).md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_control_3_architecture_deprecation_protocol_regulatory_grounding_control_3",
+      "label": "CONTROL 3 - Architecture Deprecation Protocol",
+      "file_type": "rationale",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/CONTROL 3 \u2014 Architecture Deprecation Protocol (Regulatory Grounding).md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_chrome_extension_monetization_policy_and_product_options_monetization_strategy",
+      "label": "Chrome Extension Monetization Strategy",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Chrome Extension Monetization - Policy and Product Options.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_claude_code_skill_corpus_claude_code_skill_corpus",
+      "label": "Claude Code Skill Corpus",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Claude Code Skill Corpus.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_claude_code_skill_corpus_queen_keyport_skill",
+      "label": "Queen Keyport Skill",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Claude Code Skill Corpus.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_client_logo_strategy_monogram_pivot_and_smb_branding_lessons_monogram_pivot",
+      "label": "Monogram Pivot Strategy",
+      "file_type": "rationale",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Client Logo Strategy \u2014 Monogram Pivot and SMB Branding Lessons.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_cloudflare_pages_to_worker_migration_build_and_asset_behavior_pages_to_worker_migration",
+      "label": "Pages-to-Worker Migration",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Cloudflare Pages-to-Worker Migration \u2014 Build and Asset Behavior.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_co_equal_authority_conflict_clearday_asc_revenuecat_governed_task_2026_07_06_co_equal_authority_conflict",
+      "label": "Co-Equal Authority Conflict",
+      "file_type": "rationale",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Co-Equal Authority Conflict \u2014 clearday ASC-RevenueCat Governed Task (2026-07-06).md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_complyscan_bilingual_law_25_ai_act_compliance_saas_complyscan",
+      "label": "ComplyScan",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/ComplyScan \u2014 Bilingual Law 25 - AI Act Compliance SaaS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_conceptual_vocabulary_praxis_politics_strategy_form_systems_conceptual_vocabulary",
+      "label": "Conceptual Vocabulary Grid",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Conceptual Vocabulary \u2014 Praxis, Politics, Strategy, Form, Systems.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_consent_frameworks_historical_legal_social_and_ai_governance_consent_frameworks",
+      "label": "Consent Frameworks",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Consent Frameworks \u2014 Historical, Legal, Social, and AI Governance.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_consent_fraud_and_boundary_protocols_boundary_protocols",
+      "label": "Boundary Protocols",
+      "file_type": "rationale",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Consent, Fraud, and Boundary Protocols.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_consented_frame_ethics_and_wisdom_gate_consented_frame",
+      "label": "Consented Frame",
+      "file_type": "rationale",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Consented Frame \u2014 Ethics and Wisdom Gate.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_control_protocols_moc_control_protocols_moc",
+      "label": "Control Protocols MOC",
+      "file_type": "document",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Control Protocols MOC.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_custom_gpt_products_pharos_ai_gpt_roster_custom_gpt_products",
+      "label": "Custom GPT Products Roster",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Custom GPT Products \u2014 PHAROS AI GPT Roster.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_custom_gpt_products_pharos_ai_gpt_roster_governess_agatha",
+      "label": "Governess Agatha GPT",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Custom GPT Products \u2014 PHAROS AI GPT Roster.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_custom_gpt_products_pharos_ai_gpt_roster_lotus_agency_scoring_app",
+      "label": "LOTUS Agency Scoring App GPT",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Custom GPT Products \u2014 PHAROS AI GPT Roster.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_custom_gpt_products_pharos_ai_gpt_roster_henry",
+      "label": "Henry GPT",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Custom GPT Products \u2014 PHAROS AI GPT Roster.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_deeper_connections_the_triple_synthesis_and_the_governance_architecture_triple_synthesis",
+      "label": "Triple Synthesis",
+      "file_type": "rationale",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/DEEPER CONNECTIONS \u2014 The Triple Synthesis and the Governance Architecture.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_delta_closure_frame_conditions_actors_constraints_delta_closure_frame",
+      "label": "Delta Closure Frame",
+      "file_type": "rationale",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Delta Closure Frame \u2014 Conditions, Actors, Constraints.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_diamond_eyes_aesthetic_refinement_skill_diamond_eyes",
+      "label": "Diamond-Eyes",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Diamond-Eyes \u2014 Aesthetic Refinement Skill.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pharos_control_protocols_moc_control_protocols_moc",
+      "target": "pharos_control_1_tool_layer_audit_protocol_regulatory_grounding_control_1",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Control Protocols MOC.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pharos_control_protocols_moc_control_protocols_moc",
+      "target": "pharos_control_2_external_data_lifecycle_protocol_regulatory_grounding_control_2",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Control Protocols MOC.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pharos_control_protocols_moc_control_protocols_moc",
+      "target": "pharos_control_3_architecture_deprecation_protocol_regulatory_grounding_control_3",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Control Protocols MOC.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pharos_complyscan_bilingual_law_25_ai_act_compliance_saas_complyscan",
+      "target": "pharos_compassai_governance_engine_compassai",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/ComplyScan \u2014 Bilingual Law 25 - AI Act Compliance SaaS.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pharos_consented_frame_ethics_and_wisdom_gate_consented_frame",
+      "target": "pharos_diamond_eyes_aesthetic_refinement_skill_diamond_eyes",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Consented Frame \u2014 Ethics and Wisdom Gate.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pharos_deeper_connections_the_triple_synthesis_and_the_governance_architecture_triple_synthesis",
+      "target": "pharos_consent_frameworks_historical_legal_social_and_ai_governance_consent_frameworks",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/DEEPER CONNECTIONS \u2014 The Triple Synthesis and the Governance Architecture.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pharos_consent_fraud_and_boundary_protocols_boundary_protocols",
+      "target": "pharos_consent_frameworks_historical_legal_social_and_ai_governance_consent_frameworks",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Consent, Fraud, and Boundary Protocols.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pharos_claude_code_skill_corpus_claude_code_skill_corpus",
+      "target": "pharos_diamond_eyes_aesthetic_refinement_skill_diamond_eyes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Claude Code Skill Corpus.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pharos_custom_gpt_products_pharos_ai_gpt_roster_custom_gpt_products",
+      "target": "pharos_custom_gpt_products_pharos_ai_gpt_roster_governess_agatha",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Custom GPT Products \u2014 PHAROS AI GPT Roster.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pharos_custom_gpt_products_pharos_ai_gpt_roster_custom_gpt_products",
+      "target": "pharos_custom_gpt_products_pharos_ai_gpt_roster_lotus_agency_scoring_app",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Custom GPT Products \u2014 PHAROS AI GPT Roster.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pharos_custom_gpt_products_pharos_ai_gpt_roster_custom_gpt_products",
+      "target": "pharos_custom_gpt_products_pharos_ai_gpt_roster_henry",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Custom GPT Products \u2014 PHAROS AI GPT Roster.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "pharos_control_protocols_hyperedge",
+      "label": "PHAROS Control Protocols",
+      "nodes": [
+        "pharos_control_1_tool_layer_audit_protocol_regulatory_grounding_control_1",
+        "pharos_control_2_external_data_lifecycle_protocol_regulatory_grounding_control_2",
+        "pharos_control_3_architecture_deprecation_protocol_regulatory_grounding_control_3"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Control Protocols MOC.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

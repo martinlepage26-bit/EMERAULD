@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/archive/consolidation-records/HOME-ROOT-REORG-2026-07-01-MANIFEST.md
+/home/martin/EMERAULD/archive/retired-2026-07-08/README.md
+/home/martin/EMERAULD/archive/retired-2026-07-08/agent_bus/README.md
+/home/martin/EMERAULD/archive/session-state/session-state-003.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/2026 - Mauss - The Gift.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/AI Society Manuscript — Springer In Review Notification (2026-05-10).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Agatha Grant Post-Mortem — First Assessment.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Agent Ecosystem Audit — 2026-04-23.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/CLAUDEX — AI Dialogue Archive.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/CODEX HANDOFF — 2026-05-03 Trismégiste Keystone Cycle.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/CSV_DIAGNOSTIC_REPORT.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Codex RIA Run — The Web as X (First Operationalization 2026-04-25).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Codex Skill Corpus Sync — 2026-04-20.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/D Drive Scan — 2026-05-12.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/D Library — Genealogy Flags and Cleanup Leads (2026-04-26).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/D Library — Review Unreadable Cleanup (2026-05-04).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/DG Clean Migration Report — C to D Transfer Verification (2026-05-12).md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/DG Website Logo Rebrand & Governance Audit — 2026-05-01.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Desktop Obsidian and Personal Assistant Setup Logs — 2026-04-14.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Desktop Text Intake — 2026-05-06.md
+/home/martin/EMERAULD/archive/wiki-2026-07-08/Desktop and Downloads Scan — 2026-05-12.md

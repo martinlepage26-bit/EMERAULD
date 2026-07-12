@@ -20,7 +20,7 @@ tags:
 status: active
 domain: lavoie
 created: '2026-07-06'
-updated: '2026-07-06'
+updated: '2026-07-12'
 vault_area: Areas
 canonical_path: Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform.md
 backlink_count: 16
@@ -81,6 +81,10 @@ Product renamed **Contremaître** (Martin's choice) across all code and infra. F
 
 The canonical API base is the **public Worker URL** — never localhost, 127.0.0.1, mtl-03, or the private tunnel origin. Encoded in `docs/api/conventions.md` ("Base publique (canonique)") and `docs/guides/llm-guide.md`. Cloudflare WAF error 1010 blocks the default python/urllib User-Agent — clients must set a real UA (encoded in CLI/MCP + docs).
 
+### ProgressionLIVE parity roadmap (2026-07-08)
+
+A roadmap to replicate ProgressionLIVE functionality inside Contremaître lives at `lavoie-fieldops/docs/product/progressionlive-parity-roadmap.md` (+ handoff, committed `ff38a48`), generated from `~/Lavoie/progressionlive_functions_guidethrough.md`. It is also the source of client dossier 5157 (dossier de parité) — see [[Areas/Lavoie/Dossiers Client Plan-Set — Chaîne de gouvernance éditoriale 5156–5165 (2026-07-08)|dossier chain 5156–5165]].
+
 ### Module map
 
 16 delivery modules (Carte des modules) grouped by palier: Fondation / Opérations / Intelligence / Spécifiques. Highlights: BarrioPro (M5 materials/pricing/fence estimating — two Rs), M4 auto-punch, Division model + cross-division "Tableau de Bord Israël", CustomerDetail + QuoteDetail pages. M-ORCH/M-AUDIT noted in `backend/app/api/modules.py`.
@@ -103,6 +107,14 @@ The canonical API base is the **public Worker URL** — never localhost, 127.0.0
 
 Full rule at [[Quiet Compliance Workbench — Standing Tone Rule]]. Per Martin (via rook-509): all LegiPro/Contremaître UI/API/docs language must be **calm and operational, not panic/disclaimer theatre** — "a zen place to work, not a courtroom simulator". Calm states: Sources trouvées, Points à confirmer, Dossier prêt pour revue, Source officielle, Ajouter une note de revue, Exporter le dossier. Avoid repeated warning banners and scary terms (illegal / non-compliant / no legal advice / liability) on everyday surfaces; formal caveats stay short and neutral, mostly on exports/guides/admin. Source rigor, source cards, evidence traceability, rights boundaries, and the review workflow are unchanged — UX softening does not weaken correctness. Applied 2026-07-06: lavoie-fieldops commit `bd643fe` (pushed) + parent-repo plan §16 commit `7c30917` (local, no remote). Details in [[LegiPro Canada-QC — Compliance Evidence Service Plan]].
 
+### Phase 1 executor foundation (2026-07-10)
+
+Three documents now stand between the plan and a less capable executor agent, and they should be read as a set:
+
+- [[Areas/Lavoie/Contremaître Integrations — Verified API Capability Map (2026-07-10)|Verified API capability map]] — the six external systems, checked against vendor docs rather than assumed. **VoIP.ms has no inbound-call webhook** (SIP only), which moved the voice agent to Phase 2 and put CDR polling in Phase 1. Also: Nextcloud `oc:fileid` changes on trash-restore; OpenProject's webhook signature is undocumented; EspoCRM dedup is unreliable and the licence is AGPLv3; Acomba import is a paid client-side add-on; ProgressionLIVE has no invoice object.
+- [[Areas/Lavoie/Domain API Foundation — Phase 1 Work Orders and Ports (2026-07-10)|Domain API foundation and work orders]] — domain-named `/api/v1` surface (no vendor names in paths), six ports with a mock-plus-contract-test rule, WP-01 → WP-19 in a fixed execution order, and the customer **birth rule** (a customer is created at first commitment, not first contact). Execution awaits Martin's green light; WP-01 first.
+- [[Areas/Lavoie/Marketplace de débordement — Job Overflow and Payments Architecture (2026-07-10)|Marketplace de débordement]] — the multi-tenancy plus job-overflow licensing play, Stripe Connect Express with destination charges, commission returning to Israël Concept. Blocked on a real legal gate (FINTRAC MSB / Revenu Québec ESM), not on engineering.
+
 ### Pending / deferred (do not auto-start)
 
 - QC cutover to PostgreSQL — blocked on QC stack availability; gates LegiPro implementation
@@ -115,6 +127,9 @@ Living handoff: `docs/handoff/contremaitre-full-package-handoff-2026-07-05.md` i
 ## Related
 
 - [[Areas/Lavoie/AREA|Area — Lavoie]]
+- [[Areas/Lavoie/Contremaître Integrations — Verified API Capability Map (2026-07-10)]]
+- [[Areas/Lavoie/Domain API Foundation — Phase 1 Work Orders and Ports (2026-07-10)]]
+- [[Areas/Lavoie/Marketplace de débordement — Job Overflow and Payments Architecture (2026-07-10)]]
 - [[LegiPro Canada-QC — Compliance Evidence Service Plan]]
 - [[Master Project Tracker — 2026]]
 - [[CLIENT ACCOUNTS]]

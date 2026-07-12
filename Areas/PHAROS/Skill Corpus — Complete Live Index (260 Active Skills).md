@@ -17,7 +17,7 @@ tags:
 status: active
 domain: pharos
 created: '2026-05-06'
-updated: '2026-06-26'
+updated: '2026-07-09'
 vault_area: Areas
 canonical_path: Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills).md
 backlink_count: 233
@@ -255,14 +255,16 @@ backlinks:
 - '[[wiki/skills/winui-app]]'
 - '[[wiki/skills/workflow-automation]]'
 - '[[wiki/skills/yeet]]'
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # Skill Corpus — Complete Live Index (260 Active Skills)
 
-This is the vault-facing live index of the Codex skill corpus found at `/home/cerebrhoe/.codex/skills/` on 2026-05-06.
+This is the vault-facing live index of the Codex skill corpus found at `/home/martin/.codex/skills/` on 2026-05-06.
 
 It supersedes the older 241-skill audit count as a current filesystem inventory. The older note remains useful as a historical gap-analysis snapshot: [[Codex Skills Inventory — Complete Registry (241 Skills)]].
+
+Corpus status as of 2026-07-09: this index documents a retired corpus. The 260 entries belonged to the retired WSL host; only 25 skill directories exist on the current host, per the operator decision in [[Old Host Retirement Record — cerebrhoe and WSL (2026-07-09)]]. Read this note as documentation of that retired corpus, not as a live inventory.
 
 ## Summary
 

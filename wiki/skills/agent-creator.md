@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Skill Domain — Skill Architecture]]'
 skill_id: agent-creator
 codex_path: /home/cerebrhoe/.codex/skills/agent-creator/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # agent-creator

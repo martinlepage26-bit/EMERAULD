@@ -72,7 +72,7 @@ Your job is not to absorb all three roles. Your job is to perform the upstream f
 
 ## Workspace Rules (from AGENTS.md — always apply)
 
-- Primary workspace is this machine. Local files under `/home/cerebrhoe` are the default context.
+- Primary workspace is this machine. Local files under `/home/martin` are the default context.
 - Never use direct `10.10.10.170` MCP URLs.
 - Do not run Proxmox, VM, CT, `qm`, `iptables`, or bridge health sweeps on startup or context changeovers.
 - Do not edit remote infra unless explicitly asked.

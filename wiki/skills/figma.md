@@ -20,7 +20,7 @@ backlinks:
 - '[[wiki/Skill Domain — Design and UX]]'
 skill_id: figma
 codex_path: /home/cerebrhoe/.codex/skills/figma/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # figma

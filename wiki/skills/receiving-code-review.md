@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: receiving-code-review
 codex_path: /home/cerebrhoe/.codex/skills/receiving-code-review/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # receiving-code-review

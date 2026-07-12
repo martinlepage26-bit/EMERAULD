@@ -21,7 +21,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 skill_id: gsd-pr-branch
 codex_path: /home/cerebrhoe/.codex/skills/gsd-pr-branch/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # gsd-pr-branch

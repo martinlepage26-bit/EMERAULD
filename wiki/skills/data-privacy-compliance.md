@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Skill Domain — Security and Compliance]]'
 skill_id: data-privacy-compliance
 codex_path: /home/cerebrhoe/.codex/skills/data-privacy-compliance/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # data-privacy-compliance

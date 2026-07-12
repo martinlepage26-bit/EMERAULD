@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Skill Architecture]]'
 skill_id: skill-discovery
 codex_path: /home/cerebrhoe/.codex/skills/skill-discovery/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # skill-discovery

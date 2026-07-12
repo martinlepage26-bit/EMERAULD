@@ -1,0 +1,291 @@
+{
+  "chunk_id": "04",
+  "files_processed": 22,
+  "nodes": [
+    {
+      "id": "pharos_control_2___external_data_lifecycle_protocol__regulatory_grounding__external_data_lifecycle_protocol",
+      "name": "External Data Lifecycle Protocol",
+      "type": "PROTOCOL",
+      "properties": {
+        "regulatory_anchors": [
+          "GDPR",
+          "CCPA",
+          "HIPAA",
+          "FINRA"
+        ]
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding).md"
+    },
+    {
+      "id": "pharos_control_2___external_data_lifecycle_protocol__regulatory_grounding__external_data_registry",
+      "name": "External Data Registry",
+      "type": "SYSTEM",
+      "properties": {
+        "purpose": "Inventory external dependencies"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding).md"
+    },
+    {
+      "id": "pharos_control_3___architecture_deprecation_protocol__regulatory_grounding__architecture_deprecation_protocol",
+      "name": "Architecture Deprecation Protocol",
+      "type": "PROTOCOL",
+      "properties": {
+        "regulatory_anchors": [
+          "ISO 15489",
+          "ITIL"
+        ]
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md"
+    },
+    {
+      "id": "pharos_control_3___architecture_deprecation_protocol__regulatory_grounding__supersession_registry",
+      "name": "Supersession Registry",
+      "type": "SYSTEM",
+      "properties": {
+        "purpose": "Track architecture succession"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md"
+    },
+    {
+      "id": "pharos_claude_code_skill_corpus_claude_code_skill_corpus",
+      "name": "Claude Code Skill Corpus",
+      "type": "SYSTEM",
+      "properties": {
+        "purpose": "Repository of Claude capabilities"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Claude Code Skill Corpus.md"
+    },
+    {
+      "id": "pharos_conceptual_vocabulary___praxis__politics__strategy__form__systems_conceptual_vocabulary",
+      "name": "Conceptual Vocabulary",
+      "type": "DOCUMENT",
+      "properties": {
+        "purpose": "Defines key terms for PHAROS"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md"
+    },
+    {
+      "id": "pharos_control_protocols_moc_control_protocols_moc",
+      "name": "Control Protocols MOC",
+      "type": "DOCUMENT",
+      "properties": {
+        "purpose": "Map of Content for Controls"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Control Protocols MOC.md"
+    },
+    {
+      "id": "pharos_elemental_agents_framework_elemental_agents_framework",
+      "name": "Elemental Agents Framework",
+      "type": "FRAMEWORK",
+      "properties": {
+        "purpose": "Metaphorical AI agent roles"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Elemental Agents Framework.md"
+    },
+    {
+      "id": "pharos_elemental_agents_framework_wind",
+      "name": "WIND",
+      "type": "AGENT_ROLE",
+      "properties": {
+        "purpose": "Exploratory logic"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Elemental Agents Framework.md"
+    },
+    {
+      "id": "pharos_epistemic_ai_purple_teaming_epistemic_ai_purple_teaming",
+      "name": "Epistemic AI Purple Teaming",
+      "type": "METHODOLOGY",
+      "properties": {
+        "purpose": "Test boundaries of LLM belief"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Epistemic AI Purple Teaming.md"
+    },
+    {
+      "id": "pharos_epistemic_operator___operational_specification_epistemic_operator",
+      "name": "Epistemic Operator",
+      "type": "ROLE",
+      "properties": {
+        "purpose": "Accountable human layer"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Epistemic Operator — Operational Specification.md"
+    },
+    {
+      "id": "pharos_external_data_refresh_calendar___phase_1_build_external_data_refresh_calendar",
+      "name": "External Data Refresh Calendar",
+      "type": "DOCUMENT",
+      "properties": {
+        "purpose": "Schedule for checking policies"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/External Data Refresh Calendar — Phase 1 Build.md"
+    },
+    {
+      "id": "pharos_external_data_registry___phase_1_build_external_data_registry_phase_1",
+      "name": "External Data Registry Phase 1",
+      "type": "SYSTEM",
+      "properties": {
+        "purpose": "Initial build of registry"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/External Data Registry — Phase 1 Build.md"
+    },
+    {
+      "id": "pharos_first_method_paper___recursive_ai_governance_as_executable_method_recursive_ai_governance_as_executable_method",
+      "name": "Recursive AI Governance as Executable Method",
+      "type": "PAPER",
+      "properties": {
+        "purpose": "Primary method paper"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/First Method Paper — Recursive AI Governance as Executable Method.md"
+    },
+    {
+      "id": "pharos_founder_charter___lepage_and_stocker_founder_charter",
+      "name": "Founder Charter",
+      "type": "DOCUMENT",
+      "properties": {
+        "purpose": "Decision rights structure"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Founder Charter — Lepage and Stocker.md"
+    },
+    {
+      "id": "pharos_founder_charter___lepage_and_stocker_martin_lepage",
+      "name": "Martin Lepage",
+      "type": "PERSON",
+      "properties": {
+        "role": "Technical Operator"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Founder Charter — Lepage and Stocker.md"
+    },
+    {
+      "id": "pharos_founder_charter___lepage_and_stocker_martin_stocker",
+      "name": "Martin Stocker",
+      "type": "PERSON",
+      "properties": {
+        "role": "Commercial Operator"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Founder Charter — Lepage and Stocker.md"
+    },
+    {
+      "id": "pharos_gsd_tier_1___core_workflow_skills_hub_gsd_tier_1",
+      "name": "GSD Tier 1",
+      "type": "SYSTEM",
+      "properties": {
+        "purpose": "Core workflow skills"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/GSD Tier 1 — Core Workflow Skills Hub.md"
+    },
+    {
+      "id": "pharos_gsd_tier_2___knowledge_synthesis_skills_gsd_tier_2",
+      "name": "GSD Tier 2",
+      "type": "SYSTEM",
+      "properties": {
+        "purpose": "Knowledge synthesis skills"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/GSD Tier 2 — Knowledge Synthesis Skills.md"
+    },
+    {
+      "id": "pharos_gsd_tier_3___communication_and_artifact_skills_gsd_tier_3",
+      "name": "GSD Tier 3",
+      "type": "SYSTEM",
+      "properties": {
+        "purpose": "Communication skills"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/GSD Tier 3 — Communication and Artifact Skills.md"
+    },
+    {
+      "id": "pharos_gsd_tier_4___personal_capabilities_gsd_tier_4",
+      "name": "GSD Tier 4",
+      "type": "SYSTEM",
+      "properties": {
+        "purpose": "Personal capabilities"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/GSD Tier 4 — Personal Capabilities.md"
+    },
+    {
+      "id": "pharos_gsd___get_shit_done_claude_code_system_get_shit_done_system",
+      "name": "Get-Shit-Done System",
+      "type": "TOOL",
+      "properties": {
+        "purpose": "Context rot mitigation"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/GSD — Get-Shit-Done Claude Code System.md"
+    },
+    {
+      "id": "pharos_global_publication_search___pharos_method_and_variants_global_publication_search",
+      "name": "Global Publication Search",
+      "type": "REPORT",
+      "properties": {
+        "purpose": "Prior art research for PHAROS"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Global Publication Search — PHAROS Method and Variants.md"
+    },
+    {
+      "id": "pharos_governance_controls_integration_dashboard_governance_controls_integration_dashboard",
+      "name": "Governance Controls Integration Dashboard",
+      "type": "DASHBOARD",
+      "properties": {
+        "purpose": "Layer 0.5 gate monitor"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Governance Controls Integration Dashboard.md"
+    },
+    {
+      "id": "pharos_governance_controls___incident_response__control_failure_procedures__incident_response_procedures",
+      "name": "Incident Response Procedures",
+      "type": "PROTOCOL",
+      "properties": {
+        "purpose": "Handling control failures"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Governance Controls — Incident Response (Control Failure Procedures).md"
+    },
+    {
+      "id": "pharos_governance_controls___monitoring_plan___automation_roadmap_monitoring_plan_and_automation_roadmap",
+      "name": "Monitoring Plan and Automation Roadmap",
+      "type": "ROADMAP",
+      "properties": {
+        "purpose": "Transition to automated controls"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Governance Controls — Monitoring Plan & Automation Roadmap.md"
+    },
+    {
+      "id": "pharos_governance_typology___recursive_ai_governance_taxonomy_governance_typology",
+      "name": "Governance Typology",
+      "type": "TAXONOMY",
+      "properties": {
+        "purpose": "Classification of governance documents"
+      },
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/Governance Typology — Recursive AI Governance Taxonomy.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "pharos_control_2___external_data_lifecycle_protocol__regulatory_grounding__external_data_lifecycle_protocol",
+      "target": "pharos_control_2___external_data_lifecycle_protocol__regulatory_grounding__external_data_registry",
+      "type": "DEPENDS_ON",
+      "evidence": "Registry holds the data",
+      "confidence": 0.9,
+      "extraction_type": "EXTRACTED"
+    },
+    {
+      "source": "pharos_control_3___architecture_deprecation_protocol__regulatory_grounding__architecture_deprecation_protocol",
+      "target": "pharos_control_3___architecture_deprecation_protocol__regulatory_grounding__supersession_registry",
+      "type": "DEPENDS_ON",
+      "evidence": "Registry tracks transitions",
+      "confidence": 0.9,
+      "extraction_type": "EXTRACTED"
+    },
+    {
+      "source": "pharos_elemental_agents_framework_elemental_agents_framework",
+      "target": "pharos_elemental_agents_framework_wind",
+      "type": "CONTAINS",
+      "evidence": "Part of the framework",
+      "confidence": 0.9,
+      "extraction_type": "EXTRACTED"
+    },
+    {
+      "source": "pharos_founder_charter___lepage_and_stocker_founder_charter",
+      "target": "pharos_founder_charter___lepage_and_stocker_martin_lepage",
+      "type": "GOVERNS",
+      "evidence": "Defines roles",
+      "confidence": 0.9,
+      "extraction_type": "EXTRACTED"
+    }
+  ]
+}

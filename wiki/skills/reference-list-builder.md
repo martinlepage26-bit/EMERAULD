@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 skill_id: reference-list-builder
 codex_path: /home/cerebrhoe/.codex/skills/reference-list-builder/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # reference-list-builder

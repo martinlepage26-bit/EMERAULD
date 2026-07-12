@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: compose-and-ship
 codex_path: /home/cerebrhoe/.codex/skills/compose-and-ship/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # compose-and-ship

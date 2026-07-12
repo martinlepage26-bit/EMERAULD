@@ -19,13 +19,13 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: fetch
-codex_path: /home/cerebrhoe/.codex/skills/fetch/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+codex_path: /home/martin/.codex/skills/fetch/SKILL.md
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # fetch
 
-Codex skill source: `/home/cerebrhoe/.codex/skills/fetch/SKILL.md`.
+Codex skill source: `/home/martin/.codex/skills/fetch/SKILL.md`.
 
 ## Description
 

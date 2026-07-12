@@ -30,6 +30,9 @@ backlinks:
 
 The agent bus was a designed inter-agent SQLite message bus for the EMERAULD agent ecosystem. It was never activated: `messages.sqlite` carried a creation-date mtime of 2026-05-24 and was never touched again, and no process on this host ever referenced it. The 2026-07-08 overhaul's infrastructure survey classified it "designed-never-activated" and the retire verdict was taken in [[governance/EMERAULD-OS-BUILD-ORDER|the OS build order]] (gap 5).
 
+> [!warning] Contradiction detected (nightly pass 2026-07-08)
+> The "never activated, no process on this host ever referenced it" claim conflicts with [[memory/daily/2026-04-24]], which records "Re-established a real Claude↔Codex back-and-forth channel for EMERAULD via `.agent_bus/messages.sqlite` (repo-scoped; read-tracked)" and lists the bus files as "present and touched" (lines 34 and 89). The record shows the bus was exercised on 2026-04-24, a month before the 2026-05-24 mtime this note relies on. One possible interpretation: the sqlite file was recreated or replaced around 2026-05-24, erasing the earlier activity from the mtime evidence. The retirement verdict is unaffected (the bus was dead well before retirement), but "never activated" should read "not activated since at least 2026-05-24". Unresolved: whether the 2026-04-24 channel actually exchanged messages through this bus or only staged it.
+
 ## Context
 
 The capability the bus was designed for — inter-agent messaging — is served on this host by two live mechanisms: the tmux AI council (direct pane messaging via the tmux-ai-council skill) and the hosted InfraFabric coordination surface ([[Areas/PHAROS/if.blackboard — Coordination Evidence Spec Sheet (2026-06-27)|if.blackboard]], hosted API since the R0.5 rollout). A future event-driven vault bus, if ever needed, should be designed against the [[governance/EMERAULD-OS-BUILD-ORDER|build order]]'s gap-2 spec rather than reviving this artifact.

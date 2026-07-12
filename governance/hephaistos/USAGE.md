@@ -66,7 +66,7 @@ As of 2026-03-30:
 - `martin-lepage-site` is the live Martin repo and serves `https://martin.govern-ai.ca`
 - public Hephaistos narratives and the authored governance / skill tree artifacts are served from the Martin surface
 - PHAROS-only infrastructure, product docs, and mail operations stay in `pharos-suite`
-- the current PHAROS mail record is `/home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite/EMAIL-INFRA.md`
+- the current PHAROS mail record is `/home/martin/websites/pharos-suite/EMAIL-INFRA.md`
 - the default cross-session tracker is `/mnt/c/Users/softinfo/Documents/MASTER TRACKER (recreated from MASTER PACK 4).md` unless a task-specific tracker is explicitly named
 - deleted preview surfaces such as `pharos-suite-review.pages.dev` and `preview-api.pharos-ai.ca` are historical traces unless explicitly re-established
 
@@ -176,7 +176,7 @@ Run them from the `skills/[skill-name]/` directory or provide the full path.
   defaults.
 - Final publish/no-publish and ready/not-ready judgments remain single-owner
   (see `AGENTS.md` control model).
-- Secret files under `/home/cerebrhoe` are part of the governed local state.
+- Secret files under `/home/martin` are part of the governed local state.
   Tight permissions and token rotation after exposure are part of operational correctness.
 
 ---

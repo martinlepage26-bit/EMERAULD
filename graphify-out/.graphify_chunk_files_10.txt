@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/Areas/PHAROS/Responsible AI Evaluation — Patient Readmission Model.md
+/home/martin/EMERAULD/Areas/PHAROS/SPECIALIST-GUIDELINE-AUTHORITY — Binding vs Advisory Split.md
+/home/martin/EMERAULD/Areas/PHAROS/STANDARD-BUILD-ORDER — Binding Build Discipline.md
+/home/martin/EMERAULD/Areas/PHAROS/Sales Objection Handling — Diagnosing Fog Without Coercion.md
+/home/martin/EMERAULD/Areas/PHAROS/Second Self System — Identity Kernel and Agent Routing Architecture.md
+/home/martin/EMERAULD/Areas/PHAROS/Second Self System — Public Voice Examples.md
+/home/martin/EMERAULD/Areas/PHAROS/Service Offer Prompts — GPT-Assisted Revenue Design Templates.md
+/home/martin/EMERAULD/Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills).md
+/home/martin/EMERAULD/Areas/PHAROS/Skill Development Workflow — TDD, Dual-Layer, and Eval-Iterate.md
+/home/martin/EMERAULD/Areas/PHAROS/Skill Domain — AI and LLM Tools.md
+/home/martin/EMERAULD/Areas/PHAROS/Skill Domain — Operator Wellbeing.md
+/home/martin/EMERAULD/Areas/PHAROS/Skill Ecosystem — Professional Capability Registry.md
+/home/martin/EMERAULD/Areas/PHAROS/Skill Map — Canonical Routed Skills (2026-05-06).md
+/home/martin/EMERAULD/Areas/PHAROS/Skill-Pairing — Five-Case Test Suite.md
+/home/martin/EMERAULD/Areas/PHAROS/Smallest Building Block — Relation as Rule.md
+/home/martin/EMERAULD/Areas/PHAROS/Stacklight-owner-explainer.md
+/home/martin/EMERAULD/Areas/PHAROS/Strategic Storytelling in the AI Economy.md
+/home/martin/EMERAULD/Areas/PHAROS/Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures.md
+/home/martin/EMERAULD/Areas/PHAROS/Supply Chain Enforcement — Secondary Pressure on AI System Vendors.md
+/home/martin/EMERAULD/Areas/PHAROS/TPS-TVQ PHAROS.md
+/home/martin/EMERAULD/Areas/PHAROS/The Blind Leading the Automated — AI Governance Failure Case Study.md
+/home/martin/EMERAULD/Areas/PHAROS/Trace Investigator.md

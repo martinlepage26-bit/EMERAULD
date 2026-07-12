@@ -67,10 +67,10 @@ backlinks:
 # Claude Code Skill Corpus
 
 ## Summary
-A library of Claude Code skills stored in raw sources and `/home/cerebrhoe/.codex/skills/`. Skills are invokable instruction sets that extend agent behavior for specific domains. The corpus includes governance, aesthetic refinement, research, and agent-subagent coordination patterns. Core to the [[InfraFabric Architecture]] and the [[Recursive Deterministic AI Governance — Method and Paper|three-agent governance]] workflow. **Unified registry:** [[Skill Ecosystem — Professional Capability Registry]].
+A library of Claude Code skills stored in raw sources and `/home/martin/.codex/skills/`. Skills are invokable instruction sets that extend agent behavior for specific domains. The corpus includes governance, aesthetic refinement, research, and agent-subagent coordination patterns. Core to the [[InfraFabric Architecture]] and the [[Recursive Deterministic AI Governance — Method and Paper|three-agent governance]] workflow. **Unified registry:** [[Skill Ecosystem — Professional Capability Registry]].
 
 ## Context
-Skills are invoked via the Claude Code Skill tool. Primary skill directory: `/home/cerebrhoe/.codex/skills/`. Legacy scaffolding: `HEPHAISTOS_BUILD/EXTRACTED/SKILLS Claude/`. The raw sources directory contains 15 SKILL files representing two distinct categories: Claude Code agent skills (portable reasoning modes) and CLI-Anything harness skills (tool-specific operational skill files for the [[CLI-Anything — Agent Harness for Tool Integration]] project). See also [[Diamond-Eyes — Aesthetic Refinement Skill]] for a detailed example of a Claude Code agent skill.
+Skills are invoked via the Claude Code Skill tool. Primary skill directory: `/home/martin/.codex/skills/`. Legacy scaffolding: `HEPHAISTOS_BUILD/EXTRACTED/SKILLS Claude/`. The raw sources directory contains 15 SKILL files representing two distinct categories: Claude Code agent skills (portable reasoning modes) and CLI-Anything harness skills (tool-specific operational skill files for the [[CLI-Anything — Agent Harness for Tool Integration]] project). See also [[Diamond-Eyes — Aesthetic Refinement Skill]] for a detailed example of a Claude Code agent skill.
 
 ## Details
 
@@ -119,7 +119,7 @@ The wider GSD workflow family now has a dedicated vault-side entrypoint:
 ### Skill Loading Rules
 - No skill is self-authorizing; skills are advisory and invoked on demand
 - Skills are invoked via the Skill tool, not embedded in governance files
-- `diamond-eyes` as a local refinement skill lives at `/home/cerebrhoe/.codex/skills/diamond-eyes/` (the governance principle is now [[Consented Frame — Ethics and Wisdom Gate]], avoiding the old naming collision)
+- `diamond-eyes` as a local refinement skill lives at `/home/martin/.codex/skills/diamond-eyes/` (the governance principle is now [[Consented Frame — Ethics and Wisdom Gate]], avoiding the old naming collision)
 - For complex orchestration, `skill-architect` delegates to other skills via parallel Tasks
 
 ## Key Ideas

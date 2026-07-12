@@ -18,7 +18,7 @@ tags:
 - wikilink
 status: active
 created: '2026-06-29'
-updated: '2026-06-29'
+updated: '2026-07-11'
 vault_area: wiki
 canonical_path: wiki/Architecture - EMERAULD Scripts - Overview.md
 backlink_count: 10
@@ -134,3 +134,7 @@ graph TD
 - [[session-state]]
 
 <!-- @generated:end -->
+
+## Operational notes (maintained by hand, outside the generated block)
+
+- **The scheduled lane has an auth dependency that is not in any script's logic.** The four shell scripts in `scripts/scheduled/` each shell out to the `claude` binary and authenticate against the host's ambient Claude Code OAuth session. Cron cannot refresh that session, so when it lapses, the model half of every scheduled agent fails at once and writes only a line to `Logs/scheduled/FAILURES.md`, which no agent reads. First observed 2026-07-11, when the 08:00 morning agent exited 1 and left no daily note. Full record, mechanism and candidate controls: [[EMERAULD Scheduled Agents — Auth Dependency and Failure Modes]].

@@ -20,13 +20,13 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Skill Architecture]]'
 skill_id: skill-pairing
-codex_path: /home/cerebrhoe/.codex/skills/skill-pairing/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+codex_path: /home/martin/.codex/skills/skill-pairing/SKILL.md
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # skill-pairing
 
-Codex skill source: `/home/cerebrhoe/.codex/skills/skill-pairing/SKILL.md`.
+Codex skill source: `/home/martin/.codex/skills/skill-pairing/SKILL.md`.
 
 ## Description
 

@@ -19,13 +19,13 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Agent Architecture]]'
 skill_id: self-healing
-codex_path: /home/cerebrhoe/.codex/skills/self-healing/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+codex_path: /home/martin/.codex/skills/self-healing/SKILL.md
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # self-healing
 
-Codex skill source: `/home/cerebrhoe/.codex/skills/self-healing/SKILL.md`.
+Codex skill source: `/home/martin/.codex/skills/self-healing/SKILL.md`.
 
 ## Description
 

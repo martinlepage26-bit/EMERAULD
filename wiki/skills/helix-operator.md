@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Agent Architecture]]'
 skill_id: helix-operator
 codex_path: /home/cerebrhoe/.codex/skills/helix-operator/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # helix-operator

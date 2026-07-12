@@ -41,19 +41,19 @@ The seven canonical agents operate through these entrypoints. No alternatives; n
 
 | Agent | Entrypoint | Role | Position | Last Updated |
 |-------|-----------|------|----------|---|
-| **HEPHAISTOS** | `/home/cerebrhoe/hephaistos/HEPHAISTOS.md` | Scope, forging, artifact definition | Tier 0 (co-equal) | 2026-04-23 |
-| **Queen Keyport** | `/home/cerebrhoe/hephaistos/QUEEN-KEYPORT.md` | Governance, constraints, approval thresholds | Tier 1 (co-equal) | 2026-04-23 |
-| **Hermes** | `/home/cerebrhoe/hephaistos/HERMES.md` | Routing, integration, monitoring, escalation | Tier 2 (downstream) | 2026-04-23 |
-| **Argus** | `/home/cerebrhoe/hephaistos/argus/argus-contract.md` | Meta-governance audit, drift detection, authority-chain review | Independent | varies |
-| **HENRY** | `/home/cerebrhoe/hephaistos/HENRY.md` | Research writing, peer-review prep, long-form synthesis | Independent specialist | 2026-04-23 |
-| **Gadget** | `/home/cerebrhoe/hephaistos/GADGET.md` | Frontier scout, external integrations, MCPs, APIs, tool selection | Independent specialist | 2026-04-23 |
+| **HEPHAISTOS** | `/home/martin/.agents/hephaistos/HEPHAISTOS.md` | Scope, forging, artifact definition | Tier 0 (co-equal) | 2026-04-23 |
+| **Queen Keyport** | `/home/martin/.agents/hephaistos/QUEEN-KEYPORT.md` | Governance, constraints, approval thresholds | Tier 1 (co-equal) | 2026-04-23 |
+| **Hermes** | `/home/martin/.agents/hephaistos/HERMES.md` | Routing, integration, monitoring, escalation | Tier 2 (downstream) | 2026-04-23 |
+| **Argus** | `/home/martin/.agents/hephaistos/argus/argus-contract.md` | Meta-governance audit, drift detection, authority-chain review | Independent | varies |
+| **HENRY** | `/home/martin/.agents/hephaistos/HENRY.md` | Research writing, peer-review prep, long-form synthesis | Independent specialist | 2026-04-23 |
+| **Gadget** | `/home/martin/.agents/hephaistos/GADGET.md` | Frontier scout, external integrations, MCPs, APIs, tool selection | Independent specialist | 2026-04-23 |
 | **Trismégiste** | `/mnt/c/Users/softinfo/Documents/EMERAULD/CLAUDE.md` | Operator continuity, vault synthesis, personal knowledge graph | Independent parallel | 2026-04-23 |
 
 ---
 
 ## Root Dispatch Authority
 
-**File:** `/home/cerebrhoe/AGENTS.md`  
+**File:** `/home/martin/AGENTS.md`  
 **Role:** Universal trigger-phrase dispatcher, dispatch rule interpreter, canonical agent identity registry  
 **Last Updated:** 2026-04-23  
 **Status:** authoritative; no overrides exist
@@ -87,7 +87,7 @@ Non-negotiable governance rules that apply across all agents and all work.
 
 ## Skill Registry
 
-**File:** `/home/cerebrhoe/hephaistos/SKILL-MAP.md`  
+**File:** `/home/martin/.agents/hephaistos/SKILL-MAP.md`  
 **Last Updated:** 2026-05-02  
 **Status:** production-ready; canonical source for all skill routing decisions
 
@@ -112,7 +112,7 @@ Non-negotiable governance rules that apply across all agents and all work.
 
 ## Support Agent (BOWIE)
 
-**File:** `/home/cerebrhoe/hephaistos/BOWIE.md`  
+**File:** `/home/martin/.agents/hephaistos/BOWIE.md`  
 **Status:** active (not a canonical root-dispatch agent; consolidation operator)  
 **Role:** System entropy reduction, file/memory/tracker/index consolidation, redundancy elimination  
 **Default mode:** proposed (no irreversible changes without explicit approval)  

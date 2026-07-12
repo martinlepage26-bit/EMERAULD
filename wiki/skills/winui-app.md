@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: winui-app
 codex_path: /home/cerebrhoe/.codex/skills/winui-app/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # winui-app

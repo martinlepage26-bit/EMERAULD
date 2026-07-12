@@ -1,0 +1,11 @@
+Morning agent run for 2026-07-10 is complete. All four steps done, add-and-update only, nothing deleted or archived.
+
+**What was written:**
+- `memory/daily/2026-07-10.md` created using the established daily-log structure (Focus / Tasks / Notes / Stale Projects / Overdue / Related).
+- `artifacts/stale-projects-2026-07-10.md` created with the full 758-row stale list, following the pattern of the last two runs.
+- `session-state.md` — one morning-agent line appended.
+- `_vault/VAULT ADDITIONS TRACKER.md` — two entries added for the new notes, per the vault's Section 8 rule.
+
+**Scan findings:**
+- **Stale projects:** 758 of 814 project-scope notes (15 in projects/ top level, 391 in Areas/, 408 in wiki/) have `updated:` before 2026-07-03. Of these, 744 still carry the residual `updated: 2026-06-26` bulk-touch date, which is the expected slow decay documented in prior runs. The 14 individually-dated stale notes are exactly the same set as yesterday (spanning 2026-06-27 through 2026-07-01); no new notes crossed the 7-day window today. The candidate pool grew from 807 to 814.
+- **Overdue tasks:** the same 5 items as every previous run, nothing new. This is the 19th consecutive flag for the two External Data Registry items (Reddit API policy check overdue since 2026-04-20, refresh-calendar setup since 2026-05-03), plus the three standing Weekly Review items (escalation note, the 8 Fisher King state files stale since 2026-05-24, and the 23-UC results table for Grok from 2026-06-22).

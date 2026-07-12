@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: verification-before-completion
 codex_path: /home/cerebrhoe/.codex/skills/verification-before-completion/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # verification-before-completion

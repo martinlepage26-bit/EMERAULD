@@ -20,7 +20,7 @@ backlinks:
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: cli-anything-mermaid
 codex_path: /home/cerebrhoe/.codex/skills/cli-anything-mermaid/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # cli-anything-mermaid

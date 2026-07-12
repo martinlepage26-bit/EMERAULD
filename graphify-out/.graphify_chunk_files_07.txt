@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/Areas/PHAROS/Martin Lepage — Professional Profile.md
+/home/martin/EMERAULD/Areas/PHAROS/Montréal+ (montreal-plus) — Mobile App.md
+/home/martin/EMERAULD/Areas/PHAROS/Möbius Protocol — AI Self-Polygraph Template.md
+/home/martin/EMERAULD/Areas/PHAROS/Narrative Capture Failure Taxonomy — Substituting Theory for Contact.md
+/home/martin/EMERAULD/Areas/PHAROS/OPEN RISKS — Three Governance Blindspots Requiring Recursive Control.md
+/home/martin/EMERAULD/Areas/PHAROS/Obsidian Agent Vault Launch — Commercial Skill.md
+/home/martin/EMERAULD/Areas/PHAROS/Obsidian Agent Vault — Asset Canon.md
+/home/martin/EMERAULD/Areas/PHAROS/Obsidian Agent Vault — Launch Kit.md
+/home/martin/EMERAULD/Areas/PHAROS/Obsidian Agent Vault — Setup Guide.md
+/home/martin/EMERAULD/Areas/PHAROS/Obsidian Second Brain Product.md
+/home/martin/EMERAULD/Areas/PHAROS/Old Host Retirement Record — cerebrhoe and WSL (2026-07-09).md
+/home/martin/EMERAULD/Areas/PHAROS/OpenAI Governance Framework — Comparison with PHAROS.md
+/home/martin/EMERAULD/Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06).md
+/home/martin/EMERAULD/Areas/PHAROS/Operator-Check Skill — Burnout Cascade Interrupt.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01).md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS AI Ethics Submission — Springer Draft.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS AI Governance Service — Offer Architecture and Outreach Templates.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS AI Lineage — Source of Truth.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS AI and Ethics Submission — Architecture Paper.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Commercial Strategy.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Company Registration and Security Incidents.md
+/home/martin/EMERAULD/Areas/PHAROS/PHAROS Cross-AI Strategy Matrix.md

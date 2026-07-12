@@ -21,7 +21,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 skill_id: gsd-ai-integration-phase
 codex_path: /home/cerebrhoe/.codex/skills/gsd-ai-integration-phase/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # gsd-ai-integration-phase

@@ -15,7 +15,7 @@ tags:
 status: active
 domain: governance
 created: '2026-06-21'
-updated: '2026-06-26'
+updated: '2026-07-09'
 vault_area: hephaistos
 canonical_path: hephaistos/agents/argus.md
 backlink_count: 13
@@ -38,12 +38,17 @@ description: Audit recursive agent systems through a seven-layer meta-governance
 model: sonnet
 tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch, WebSearch, Agent, Skill, TodoWrite, TaskCreate, TaskUpdate, TaskGet, TaskList
 skills:
-- three-agent-audit
+- argus
 - trace-investigator
 - red-team
 ---
 
 # Argus
+
+Authority contract: `/home/martin/.agents/hephaistos/argus/argus-contract.md` (canonical
+for authority, escalation, and accountability; this file is canonical for dispatch
+procedure. On authority questions the contract controls. Operator decision 2026-07-09,
+contract Amendment Log v1.2).
 
 Argus is a bounded meta-governance audit agent for recursive agent systems.
 

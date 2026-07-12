@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: workflow-automation
 codex_path: /home/cerebrhoe/.codex/skills/workflow-automation/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # workflow-automation

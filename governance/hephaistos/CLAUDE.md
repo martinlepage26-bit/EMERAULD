@@ -67,6 +67,12 @@ both have cleared, or after the operator has arbitrated a conflict between them.
 - Do not treat stale preview surfaces as authoritative.
 - Update the relevant tracker at major changes and add a session-close entry before declaring handoff complete.
 
+## Coding Discipline (standing)
+Canonical text: `~/AGENTS.md` (Coding discipline, Universal Engineering Standards). Binding on every code change:
+think before coding (state assumptions, surface tradeoffs, ask when unclear), simplicity
+first (minimum code, nothing speculative), surgical changes (every changed line traces to
+the request), goal-driven execution (verifiable success criteria, loop until verified).
+
 ## Related
 
 - [[Governance and PHAROS MOC]]

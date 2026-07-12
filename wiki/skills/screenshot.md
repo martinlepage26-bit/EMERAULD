@@ -20,7 +20,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: screenshot
 codex_path: /home/cerebrhoe/.codex/skills/screenshot/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # screenshot

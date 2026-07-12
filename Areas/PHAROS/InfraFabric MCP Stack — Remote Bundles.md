@@ -59,7 +59,7 @@ backlinks:
 
 ## Summary
 
-The InfraFabric MCP stack is a set of four MCP servers registered in `~/.mcp.json` that connect Claude Code sessions on Martin's machine to [[InfraFabric Architecture|InfraFabric]] services running on `infrafabric.io`. The bundle files live at `/home/cerebrhoe/remote-bundles/martin_lepage_codex_remote_bundle_20260317T022437Z/`. Historically (through 2026-06-27), two servers (if_context, if_blackboard) tunneled through SSH to a Proxmox container while two (openspace, if_chat) ran locally; as of the [[InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)|R0.5 rollout]] (2026-06-29/06-30), if_context and if_blackboard both moved to hosted HTTPS APIs — see Details below.
+The InfraFabric MCP stack is a set of four MCP servers registered in `~/.mcp.json` that connect Claude Code sessions on Martin's machine to [[InfraFabric Architecture|InfraFabric]] services running on `infrafabric.io`. The bundle files live at `/home/martin/remote-bundles/martin_lepage_codex_remote_bundle_20260317T022437Z/`. Historically (through 2026-06-27), two servers (if_context, if_blackboard) tunneled through SSH to a Proxmox container while two (openspace, if_chat) ran locally; as of the [[InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30)|R0.5 rollout]] (2026-06-29/06-30), if_context and if_blackboard both moved to hosted HTTPS APIs — see Details below.
 
 ## Context
 
@@ -71,7 +71,7 @@ Cluster routing note: [[MCP and Runtime Integration MOC]].
 
 ### Bundle location
 
-`/home/cerebrhoe/remote-bundles/martin_lepage_codex_remote_bundle_20260317T022437Z/`
+`/home/martin/remote-bundles/martin_lepage_codex_remote_bundle_20260317T022437Z/`
 
 ### Four MCP servers
 
@@ -94,7 +94,7 @@ Cluster routing note: [[MCP and Runtime Integration MOC]].
 
 - Transport: Local Python venv (`/home/cerebrhoe/.venvs/openspace/bin/openspace-mcp`)
 - Purpose: Bridges Claude Code skill directories with OpenSpace workspace
-- Skill dirs: `/home/cerebrhoe/.codex/skills`
+- Skill dirs: `/home/martin/.codex/skills`
 - OpenSpace workspace: `/mnt/c/Users/softinfo/Documents/GitHub/OpenSpace-main`
 - Timeout: 600s
 
@@ -133,7 +133,7 @@ SSH tunnels and MCP connections can silently drop. Verify connectivity before as
 ## Sources
 
 - `/home/cerebrhoe/.mcp.json`
-- `/home/cerebrhoe/remote-bundles/` (directory scan)
+- `/home/martin/remote-bundles/` (directory scan)
 - `/home/martin/apps/stacklight/documentation/agents/5009-if-blackboard-postgres-authority-runbook-2026-06-29.md` (if_blackboard R0.5 migration evidence, 2026-07-01 correction)
 - `/home/martin/apps/stacklight/documentation/agents/5011-stacklight-blackboard-mtl03-fresh-session-handover-2026-06-30.md` (if_context R0.5 migration evidence + mtl-03 if-cli drift, 2026-07-01 correction)
 

@@ -21,7 +21,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: file-reading
 codex_path: /home/cerebrhoe/.codex/skills/file-reading/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # file-reading

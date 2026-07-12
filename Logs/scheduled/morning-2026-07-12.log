@@ -1,0 +1,12 @@
+All four steps are done. The morning agent ran clean today, which is the headline: it authenticated without trouble, so yesterday's OAuth failure was a lapse rather than a permanent break.
+
+**What I created and updated**
+
+- `memory/daily/2026-07-12.md` — today's daily note, following the structure of recent notes, with `## Focus`, `## Tasks`, `## Notes`, plus the two required scan sections.
+- `artifacts/stale-projects-2026-07-12.md` — the full stale row list, matching the artifact the morning agent has written on prior runs.
+- `session-state.md` — one appended line recording the run (now 116 lines, well under the 600 archive threshold).
+- `_vault/VAULT ADDITIONS TRACKER.md` — two entries, per Section 8 of `_CLAUDE.md`.
+
+**Stale projects: 763 of 817 project-scope notes**, but the number is mostly noise. 742 of them still carry `updated: 2026-06-26` from the retired bulk touch, so they represent one inherited value rather than 742 real edits. The 21 individually-dated notes are the real signal, and **seven of those are new this run**: a cohort dated `2026-07-03` crossed the seven-day window overnight. That is the first substantive movement in this scan since the 2026-07-08 overhaul, and it means the mechanism is finally working as designed rather than recounting a frozen set. The newly-stale notes are thematically coherent (RIA-CODEX, the Governance Stress-Test Protocols index, security-audit-plan, the HELIX Gemini session), which points to a single 2026-07-03 work session that has not been returned to.
+
+**Overdue: the same 5 items, none moved.** The External Data Registry pair has now been flagged on 20 morning runs, and the Reddit API check is 83 days past its "URGENT (Today)" marker. I flagged in the note that repeated flagging is evidently not producing action — that is a fact about the control rather than the tasks — but I left the decision to you, along with the still-uncontrolled scheduled-agent auth dependency carried over from yesterday. Nothing was deleted or archived.

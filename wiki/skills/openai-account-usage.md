@@ -22,7 +22,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: openai-account-usage
 codex_path: /home/cerebrhoe/.codex/skills/openai-account-usage/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # openai-account-usage

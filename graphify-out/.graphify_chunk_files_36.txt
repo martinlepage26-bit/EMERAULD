@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/skill_template.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/skills_README.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/synthesis_prompt.md
+/home/martin/EMERAULD/raw sources/vault-product-scaffold/wiki_README.md
+/home/martin/EMERAULD/raw sources/‘It's All a Giant Web' Syncretism, Agency and (Re)connection in a Contempo rar.md
+/home/martin/EMERAULD/wiki/AI Governance Failure Cases.md
+/home/martin/EMERAULD/wiki/AI Identity and Phenomenology.md
+/home/martin/EMERAULD/wiki/AI Infrastructure Stack.md
+/home/martin/EMERAULD/wiki/APEX Papers — Research Archive Map.md
+/home/martin/EMERAULD/wiki/ASSETS MOC.md
+/home/martin/EMERAULD/wiki/Agent Logs Hub.md
+/home/martin/EMERAULD/wiki/Architecture - EMERAULD Scripts - Intake Pipeline.md
+/home/martin/EMERAULD/wiki/Architecture - EMERAULD Scripts - Key Decisions.md
+/home/martin/EMERAULD/wiki/Architecture - EMERAULD Scripts - Knowledge Layers.md
+/home/martin/EMERAULD/wiki/Architecture - EMERAULD Scripts - Overview.md
+/home/martin/EMERAULD/wiki/Archive Rebuild Normalized Tracker — MASTER PACK and HEPHAISTOS.md
+/home/martin/EMERAULD/wiki/Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06).md
+/home/martin/EMERAULD/wiki/Ask Vault — EMERAULD Vault Briefing Skill.md
+/home/martin/EMERAULD/wiki/Authority, Legitimacy, and Post-Sovereignty.md
+/home/martin/EMERAULD/wiki/Buffy Slayer Studies.md
+/home/martin/EMERAULD/wiki/Care, Ethics, and Governance.md
+/home/martin/EMERAULD/wiki/Charge & Circle — Four-Pivot Decision Map (2026-05-24).md

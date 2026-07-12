@@ -93,7 +93,7 @@ is set; `philosopher` applies normative and conceptual pressure to governance de
 after scope is set. `first-principles` is a pre-scope interrogator; `philosopher` is a
 governance right-arm.
 
-**On disk:** `/home/cerebrhoe/.codex/skills/first-principles/SKILL.md`
+**On disk:** old-host `.codex` path for `first-principles` (not installed on this host; corpus retired)
 
 ---
 
@@ -418,7 +418,7 @@ pleasure at its own output may be a capture signal.
 HEPHAISTOS, Hermes, or Argus. If another agent attempts to invoke it, return:
 "Inner Mind Eye is Queen Keyport's instrument. Route through governance."
 
-**Canonical location:** `/home/cerebrhoe/.codex/skills/inner-mind-eye/`
+**Canonical location:** not installed on this host (verified 2026-07-09; old `.codex` corpus retired) — run as an inline check per the queen-keyport skill
 
 **Trigger conditions:**
 - Queen Keyport is about to promote a governance decision and Diamond-Eyes has passed
@@ -572,7 +572,7 @@ intellectual formation mapping, standalone MA degree structure questions. Now su
 into philosopher's MA sub-capacity.
 
 **Migration path:** Route to `philosopher` for all MA formation, genre, rhetoric, and
-interpretive posture tasks. Route to `ma-arts-letters` at `/home/cerebrhoe/.codex/skills/ma-arts-letters/`
+interpretive posture tasks. Route to `ma-arts-letters` at `/home/martin/.codex/skills/ma-arts-letters/`
 for standalone MA degree structure questions if that skill exists.
 
 ---
@@ -1419,7 +1419,7 @@ deviation from baseline, identify anomalies predicting failure, and trigger esca
 when governance constraints are at risk in live execution. Ensures routing chains 
 remain healthy and governance constraints are honored in live execution.
 
-**On disk:** `/home/cerebrhoe/hephaistos/skills/hermes-integration-monitor/SKILL.md` (authored 2026-04-23 per audit F-019; substantive, not a stub). Mirrored to `/home/cerebrhoe/.codex/skills/hermes-integration-monitor/` and registered in settings.json (2026-04-26).
+**On disk:** `/home/martin/.agents/hephaistos/skills/hermes-integration-monitor/SKILL.md` (authored 2026-04-23 per audit F-019; substantive, not a stub). Mirrored to old-host `.codex` mirror (not installed on this host) and registered in settings.json (2026-04-26).
 
 **Trigger conditions:**
 - Governance decision has been routed and is executing (Hermes packet status = approve 
@@ -1457,7 +1457,7 @@ execution, and routing chains. Enables Hermes to route with constraint awareness
 Queen Keyport to verify bounded claims against execution evidence, Argus to audit 
 authority chains, and Trismégiste to maintain operator continuity.
 
-**On disk:** `/home/cerebrhoe/.codex/skills/observability-governance/SKILL.md` (authored 2026-05-02, 
+**On disk:** old-host `.codex` path for `observability-governance` (not installed on this host; corpus retired) (authored 2026-05-02, 
 production-ready schema with Phase 1-5 roadmap).
 
 **Trigger conditions:**
@@ -1498,7 +1498,7 @@ engineering patterns. Enables rapid response when routed systems degrade or gove
 constraints are violated. Bridges detection (observability-governance, hermes-integration-monitor) 
 and resolution (Queen Keyport re-decision or Operator action).
 
-**On disk:** `/home/cerebrhoe/.codex/skills/incident-response-runbooks/SKILL.md` (authored 2026-05-02, 
+**On disk:** old-host `.codex` path for `incident-response-runbooks` (not installed on this host; corpus retired) (authored 2026-05-02, 
 includes decision trees, recovery procedures, post-mortem framework, and chaos testing).
 
 **Trigger conditions:**
@@ -1622,8 +1622,8 @@ Subsumed stubs (retained for routing):
 
 **Agent registration:** canonical entrypoint `hephaistos/argus/argus-contract.md` (no Claude-subagent config — PHAROS agents are not subagents; dispatch via universal trigger verbs or scope recognition per root `AGENTS.md`)
 **Core documents:** `hephaistos/argus/` (manifest, formation, persona, contract, deployment guide)
-**Skill:** `/home/cerebrhoe/.codex/skills/three-agent-audit/`
-**Adjacent workflow bundle:** `/home/cerebrhoe/hephaistos/argus/ai-governance-workflow/` -> live skill target `/home/cerebrhoe/.codex/skills/ai-governance-workflow/`
+**Skill:** `/home/martin/.claude/skills/argus/` (successor to retired `three-agent-audit`; maintenance master per `SKILL-MIRROR-POLICY.md`)
+**Adjacent workflow bundle:** `/home/martin/.agents/hephaistos/argus/ai-governance-workflow/` -> live skill target old-host live-skill target (retired; not installed on this host)
 
 **Invocation triggers:**
 - "Audit the three-agent stack"
@@ -1690,10 +1690,10 @@ Additional cleanup: `triangulate` removed from settings.json (deprecated alias).
 
 **Triggers:** "scrape", "grab this URL", "save this page to the vault", "pull content from", "add this to raw sources", "scrape the DOI", any URL capture for vault ingestion.
 
-**Path:** `/home/cerebrhoe/.claude/skills/web-scraping/`
-**Script:** `/home/cerebrhoe/.claude/skills/web-scraping/scripts/scraper.py`
-**Python:** `/home/cerebrhoe/.venvs/lightrag/bin/python3.12` (requests, bs4, lxml, html2text)
-**JS fallback:** `/home/cerebrhoe/.claude/skills/notebooklm/.venv/bin/python3` (patchright v1.55.2, Chromium installed)
+**Path:** old-host `.claude` path for `web-scraping` (not installed on this host)
+**Script:** old-host scraper script (not installed on this host)
+**Python:** old-host venv python (not present on this host) (requests, bs4, lxml, html2text)
+**JS fallback:** old-host notebooklm venv (not present on this host) (patchright v1.55.2, Chromium installed)
 **Content types:** academic (arxiv, Springer, Semantic Scholar), regulatory (EU AI Act, Law 25, GC.ca), news/blog, general web.
 
 If extending the corpus, add new skills to `skills/` and register them here.

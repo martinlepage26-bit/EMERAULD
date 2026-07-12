@@ -53,7 +53,7 @@ Transition from manual control checks to automated, continuous monitoring. This 
 | Plugins | Dataview determinism | Monthly | Any query variance > 1 result | Manual test (3 runs) |
 | Plugins | Obsidian Git sync status | Daily | Any commit pending > 1 day | Automation (trigger sync) |
 | Dependencies | Python environment health | Weekly | Any import fails | Automation (test sentence-transformers) |
-| Dependencies | Disk space in `/home/cerebrhoe` | Daily | < 5GB free | Automation (alert) |
+| Dependencies | Disk space in `/home/martin` | Daily | < 5GB free | Automation (alert) |
 
 **Implementation Level:** Real-time automation for continuous metrics; weekly manual for spot checks
 
@@ -290,7 +290,7 @@ Transition from manual control checks to automated, continuous monitoring. This 
 ║  │   Dataview tests not yet automated                      │ ║
 ║  │                                                          │ ║
 ║  │ ⚠️  Dependencies         [Last check: 2026-04-26 14:30]  │ ║
-║  │   Warning: /home/cerebrhoe/ disk 78% full (>80%)        │ ║
+║  │   Warning: /home/martin/ disk 78% full (>80%)        │ ║
 ║  │                                                          │ ║
 ║  │ Status: PASS (1 warning, monitor disk space)            │ ║
 ║  └─────────────────────────────────────────────────────────┘ ║

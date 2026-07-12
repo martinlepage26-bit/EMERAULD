@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Design and UX]]'
 skill_id: frontend-skill
 codex_path: /home/cerebrhoe/.codex/skills/frontend-skill/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # frontend-skill

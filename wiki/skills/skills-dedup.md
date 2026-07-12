@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Skill Architecture]]'
 skill_id: skills-dedup
 codex_path: /home/cerebrhoe/.codex/skills/skills-dedup/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # skills-dedup

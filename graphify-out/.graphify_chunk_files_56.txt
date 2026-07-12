@@ -1,0 +1,6 @@
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/GENERAL.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/Agentic_AI_Autonomous_Intelligence_for_Complex_GoalsA_Comprehensive_Survey.pdf
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/Spec-1-ai Governance Engine.pdf
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/Turing AI Ethics and Governance.pdf
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/papers-and-manuscripts/The_Kybalion.pdf
+/home/martin/EMERAULD/raw sources/paper-builder-origin-bundle/paper builder.txt

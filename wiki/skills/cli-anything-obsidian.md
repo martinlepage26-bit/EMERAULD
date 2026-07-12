@@ -20,7 +20,7 @@ backlinks:
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: cli-anything-obsidian
 codex_path: /home/cerebrhoe/.codex/skills/cli-anything-obsidian/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # cli-anything-obsidian

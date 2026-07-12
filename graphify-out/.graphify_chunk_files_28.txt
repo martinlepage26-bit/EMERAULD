@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf - 2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - ocr_needed_6.pdf - 2021 - ocr_needed_6.pdf.pdf - 2021 - ocr_needed_6.pdf - 2021 - ocr_needed_6.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2021 - ocr_needed_7.pdf - 2021 - ocr_needed_7.pdf.pdf - 2021 - ocr_needed_7.pdf - 2021 - ocr_needed_7.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2023 - ocr_needed.pdf - 2023 - ocr_needed.pdf.pdf - 2023 - ocr_needed.pdf - 2023 - ocr_needed.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - ocr_needed.pdf - 2024 - ocr_needed.pdf.pdf - 2024 - ocr_needed.pdf - 2024 - ocr_needed.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2024 - ocr_needed_1.pdf - 2024 - ocr_needed_1.pdf.pdf - 2024 - ocr_needed_1.pdf - 2024 - ocr_needed_1.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - 4f6a-b56e-28db843352f7_art_1-31.pdf - 2025 - 4f6a-b56e-28db843352f7_art_1-31.pdf.pdf - 2025 - 4f6a-b56e-28db84335__56591f9b08d8.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - RUE DE ROUEN.pdf - 2025 - RUE DE ROUEN.pdf.pdf - 2025 - RUE DE ROUEN.pdf - 2025 - RUE DE ROUEN.pdf.pdf.pdf.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Revenu Quebec - ocr_needed [4].pdf - 2025 - Revenu Quebec - ocr_needed [4].pdf.pdf - 2025 - Revenu Quebec - ocr_n__f111ebc41b8d.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Revenu Quebec - ocr_needed [6].pdf - 2025 - Revenu Quebec - ocr_needed [6].pdf.pdf - 2025 - Revenu Quebec - ocr_n__4d6c3a5c522b.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Revenu Quebec - ocr_needed [7].pdf - 2025 - Revenu Quebec - ocr_needed [7].pdf.pdf - 2025 - Revenu Quebec - ocr_n__ef7c3e83cabb.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/2025 - Revenu Quebec - ocr_needed.pdf - 2025 - Revenu Quebec - ocr_needed.pdf.pdf - 2025 - Revenu Quebec - ocr_needed.pd__66ccfaa3809d.ocr.txt
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/text/Review/Unreadable/Sharp Scanned Image PDF — Unreadable OCR.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/SHA256SUMS.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/CLIENT ACCOUNTS TRACKER.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/MARTIN-SITE CHANGE TRACKER.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/METHOD TRACKER.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/Client Accounts Tracker — Snapshot 2026-04-28.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).csv.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/Martin Site Change Tracker — Snapshot 2026-04-28.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/Master Tracker — Snapshot 2026-04-28.md

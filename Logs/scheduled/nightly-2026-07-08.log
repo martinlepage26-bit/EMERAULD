@@ -1,0 +1,27 @@
+  session-state: 100/600 lines — OK
+  Journal: 112/300 lines — OK
+  Events: 151/300 lines — OK
+  Decisions: 138/300 lines — OK
+  Learning: 95/300 lines — OK
+  Blockers: 80/300 lines — OK
+
+All registers under threshold.
+GATE PASS: argus-remediations-20260708.md | governance_state=done hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-004 | STAMPS: grandfathered (pre-mechanism, 2026-07-08)
+GATE PASS: gate-authenticity-20260708.md | governance_state=done hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-005 | STAMPS: valid (3/3, chain ok)
+GATE PASS: stamp-bypass-closure-20260708.md | governance_state=cleared hephaistos_scope=defined qk_verdict=cleared relay_id=None | STAMPS: valid (2/2, chain ok)
+GATE PASS: weekly-os-health-20260708.md | governance_state=routed hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-002 | STAMPS: grandfathered (pre-mechanism, 2026-07-08)
+audit-all: 0 violation(s)
+Nightly pass complete — all five phases done. `nightly pass 2026-07-08 — phases 1-4 complete, 3 reconciled, 5 synthesized, 1 orphan linked` is logged in session-state.md, and the vector store rebuilt cleanly (1,484 notes re-embedded, 1,485 entries — the whole post-overhaul corpus was pending since the migration touched nearly every file).
+
+**Phase 1 — Day closed.** Appended an end-of-day section to `memory/daily/2026-07-08.md` covering the full vault overhaul (phases 0–7, 493-row PARA migration, saturation bug killed), the operator-resolved Lavoie contradictions, OS Stages 2–4 going live, and the governance pipeline's first full cycle (Argus audit → governed tasks #2/#3 done → remediation verification → task #4 deferred).
+
+**Phase 2 — 3 contradictions reconciled** (callouts added, nothing deleted):
+1. **Agent Bus** (`Areas/PHAROS/Agent Bus — Design Record`) claims "never activated, no process ever referenced it," but the 2026-04-24 daily log records a re-established Claude↔Codex channel through that same `messages.sqlite`, a month before the mtime the claim rests on. High confidence; the retirement verdict itself is unaffected.
+2. **Lavoie pricing** — both Grok snapshot notes present the June "4.5k diagnostic / 6.5k straight-to-Forfait-A" consensus as settled and non-debatable, contradicting the operator-approved v5 pyramid (4 500 / 14 500 / 29 500 + 1 500 $/mois). Callouts in both point to the v5 notes as authoritative.
+3. **HEPHAISTOS Phase 7 report** states "Tier 0 Forging authority" as fact; the tier hierarchy was superseded by the Co-Equal Authority model on 2026-04-23. Marked as historical, not current.
+
+**Phase 3 — 5 notes synthesized** into `Resources/`, each referenced by 2+ of today's notes with no prior dedicated note: **Base44** (dual PHAROS/Lavoie lanes), **Blink (blink.new)** scaffold family, **RevenueCat** (including the open mock-Plus production risk), **App Store Connect / Apple App Review** submission playbook (the three rejection guidelines clearday already hit), and **Expo/EAS** (the build-time env-var trap behind the mock-Plus bug). All carry 2+ inline wikilinks, tracker entries, and a new "Platform and Tool References" section in the resources MOC.
+
+**Phase 4 — 1 orphan healed.** Every note created today already had incoming links except `Areas/governanceframework/README.md` (its 31 claimed backlinks are generic `[[README]]` resolutions, not deliberate links); it's now linked inline from the Stacklight owner explainer, which was sourced from that very README.
+
+Nothing was committed to git — the pass mandate was add/update only, and no commit was requested. One item worth your eye tomorrow: the Base44 note flags that no vault record covers the platform's pricing or data residency, which matters for the Lavoie client lane under the Data Boundary gate.

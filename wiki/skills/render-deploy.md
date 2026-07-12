@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Skill Domain — Deployment and Infrastructure]]'
 skill_id: render-deploy
 codex_path: /home/cerebrhoe/.codex/skills/render-deploy/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # render-deploy

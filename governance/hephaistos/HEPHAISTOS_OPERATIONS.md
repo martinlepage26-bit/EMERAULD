@@ -120,7 +120,7 @@ Accessed through Philosopher. Route to `ma-arts-letters` directly only when the
 task is explicitly about intellectual formation, interpretive method, or the
 MA-to-PhD arc as a standalone question.
 
-**MA skill:** `ma-arts-letters` (`/home/cerebrhoe/.codex/skills/ma-arts-letters/`)
+**MA skill:** `ma-arts-letters` (`/home/martin/.codex/skills/ma-arts-letters/`)
 
 **Power-Analyst** (operational and structural level):
 - mapping how power actually moves through a situation
@@ -226,8 +226,8 @@ identity signal while preserving the function.
 
 As of 2026-03-30, the live public topology is:
 
-- `/home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite` → `https://pharos-ai.ca`
-- `/home/cerebrhoe/martin-lepage-site` → `https://martin.govern-ai.ca`
+- `/home/martin/websites/pharos-suite` → `https://pharos-ai.ca`
+- `martin-lepage-site` repo → `https://martin.govern-ai.ca` (repo not cloned on this host; old-host path retired)
 
 Boundary baseline:
 - PHAROS, COMPASSai, and AurorA belong only in `pharos-suite`
@@ -242,7 +242,7 @@ Mail baseline:
 - Inbound mail for those addresses is forwarded through Cloudflare Email Routing to
   `martinlepage.ai@gmail.com`
 - The current operational record is
-  `/home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite/EMAIL-INFRA.md`
+  `/home/martin/websites/pharos-suite/EMAIL-INFRA.md`
 
 Preview baseline:
 - Treat `pharos-suite-review.pages.dev` and `preview-api.pharos-ai.ca` as deprecated
@@ -272,9 +272,9 @@ For every task, HEPHAISTOS asks:
 
 ## Secret Handling Discipline
 
-This section governs operation inside the Rook harness (`/home/cerebrhoe/ROOK.md`).
+This section governs operation inside the Rook harness (`if_rook_session_start.sh`; see the Session Start section of `AGENTS.md` — the old-host `ROOK.md` doc did not migrate).
 
-- env files and token files under `/home/cerebrhoe` that contain live credentials must
+- env files and token files under `/home/martin` that contain live credentials must
   be treated as governed artifacts
 - those files must end with restrictive local permissions, normally `600`
 - if a live token is pasted into chat, written into a broad-permission file, or

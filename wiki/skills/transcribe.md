@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 skill_id: transcribe
 codex_path: /home/cerebrhoe/.codex/skills/transcribe/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # transcribe

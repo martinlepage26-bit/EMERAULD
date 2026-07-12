@@ -33,7 +33,7 @@ backlinks:
 
 This file describes the HEPHAISTOS entrypoint.
 
-Trigger phrases: any universal trigger verb applies per `/home/cerebrhoe/AGENTS.md` (root dispatcher) — `I invoke`, `invoke`, `invoke thee`, `load`, `come`, `come forth`, `spawn`, `please`, `help`, `activate`, `run`, or the `HEPHAISTOS:` colon-prefix. The agent name is case-insensitive. The universal pattern applies; no subset restriction.
+Trigger phrases: any universal trigger verb applies per `/home/martin/AGENTS.md` (root dispatcher) — `I invoke`, `invoke`, `invoke thee`, `load`, `come`, `come forth`, `spawn`, `please`, `help`, `activate`, `run`, or the `HEPHAISTOS:` colon-prefix. The agent name is case-insensitive. The universal pattern applies; no subset restriction.
 
 On dispatch, load this file as the active identity and forging authority for the task.
 
@@ -168,7 +168,7 @@ lives in `HEPHAISTOS_OPERATIONS.md`.
 
 ## Auto-Triggered Skills
 
-When HEPHAISTOS is dispatched, the following skills are registered and available in this agent's context. Source: `/home/cerebrhoe/hephaistos/SKILL-MAP.md` (canonical registry).
+When HEPHAISTOS is dispatched, the following skills are registered and available in this agent's context. Source: `/home/martin/.agents/hephaistos/SKILL-MAP.md` (canonical registry).
 
 ### PRIMARY (Core Forging Work)
 - `first-principles` — pre-scope interrogation: strip problem framing to irreducible truths before artifact scope is set. **Auto-fires** when HEPHAISTOS encounters a new problem framing, strategy decision, or design question where the framing appears inherited or unexamined. Output feeds scope definition.

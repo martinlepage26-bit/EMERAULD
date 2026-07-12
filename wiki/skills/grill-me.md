@@ -21,13 +21,13 @@ backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 skill_id: grill-me
-codex_path: /home/cerebrhoe/.codex/skills/grill-me/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+codex_path: /home/martin/.codex/skills/grill-me/SKILL.md
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # grill-me
 
-Codex skill source: `/home/cerebrhoe/.codex/skills/grill-me/SKILL.md`.
+Codex skill source: `/home/martin/.codex/skills/grill-me/SKILL.md`.
 
 ## Description
 

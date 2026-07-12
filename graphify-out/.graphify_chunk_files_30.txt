@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/pharos-ops-publishing/linkedin-schedule.js.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/00_MASTER_EXPLAINER.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/01_THESEUS_TEMPLATE.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/03_THESEUS_QUESTIONS.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/04_AURYN_TEMPLATE.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/06_AURYN_QUESTIONS.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/07_HOPF_TEMPLATE.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/09_HOPF_QUESTIONS.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/Argus Audit Tracker — Snapshot 2026-04-28.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/DOCUMENT 02 PHASE 1 SHIP OF THESEUS.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/DOCUMENT 05 PHASE 2 AURYN.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/DOCUMENT 08 PHASE 3 HOPF.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/Provisional Arbitration Charter — v1.0.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/FR-QC-.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/ai_governance_public_statement.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/ai_governance_public_statementlong.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/governance-public-market/if-gov-ai-2027-2028.md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/hardware-system-reference/Laptop A.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/papers-and-manuscripts/Ahmed, Sara. The Promise of Happine.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/papers-and-manuscripts/CORPUS ou le génie de l’insistance (1).md
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/papers-and-manuscripts/Complete Paper List — Martin Lepage.txt
+/home/martin/EMERAULD/raw sources/Documents_root_loose_intake_2026-04-28/pharos-ops-publishing/Gemini a dit.txt

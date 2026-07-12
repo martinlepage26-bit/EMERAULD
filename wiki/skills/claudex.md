@@ -20,7 +20,7 @@ backlinks:
 - '[[wiki/Skill Domain — Skill Architecture]]'
 skill_id: claudex
 codex_path: /home/cerebrhoe/.codex/skills/claudex/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # claudex

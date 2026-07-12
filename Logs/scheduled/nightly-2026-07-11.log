@@ -1,0 +1,38 @@
+  session-state: 110/600 lines — OK
+  Journal: 112/300 lines — OK
+  Events: 151/300 lines — OK
+  Decisions: 138/300 lines — OK
+  Learning: 95/300 lines — OK
+  Blockers: 80/300 lines — OK
+
+All registers under threshold.
+GATE PASS: argus-remediations-20260708.md | governance_state=done hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-004 | STAMPS: grandfathered (pre-mechanism, 2026-07-08)
+GATE PASS: gate-authenticity-20260708.md | governance_state=done hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-005 | STAMPS: valid (3/3, chain ok)
+GATE PASS: stamp-bypass-closure-20260708.md | governance_state=cleared hephaistos_scope=defined qk_verdict=cleared relay_id=None | STAMPS: valid (2/2, chain ok)
+GATE PASS: weekly-os-health-20260708.md | governance_state=routed hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-002 | STAMPS: grandfathered (pre-mechanism, 2026-07-08)
+audit-all: 0 violation(s)
+Nightly pass complete. Both new notes are the top semantic hits for the question they answer.
+
+## What actually happened today
+
+**Today was a zero-activity day with one real event: the 08:00 morning agent died and nobody noticed for 14 hours.** No note in the vault carries `created:` or `updated: 2026-07-11`, and there were no commits. The only file touched before this pass was `Logs/scheduled/FAILURES.md`.
+
+`morning.sh` exited 1. The entire log is one line: `Failed to authenticate: OAuth session expired and could not be refreshed`. So there was no daily note, no stale-project scan, and no overdue sweep — meaning the 20th consecutive External Data Registry flag never fired. This is the first gap in the daily chain since the 2026-07-08 overhaul.
+
+The failure handler added in that overhaul worked exactly as designed and appended a line to `FAILURES.md`. **The problem is that nothing reads that file.** The nightly script's own comment claims its deterministic remediation "closes the detect-without-fix loop," but that closure covers registers and governance gates only — a failed cron run is detected, recorded, and then waited on indefinitely. I only found it because Phase 2 came back empty and I went looking for why.
+
+## The phases
+
+Phases 2 and 3 had an empty input set **by construction, not by oversight**: with zero notes updated today, there was nothing that could contradict an older note, and the two-note synthesis trigger was unmeetable. I logged those as honest zeros rather than manufacturing findings.
+
+I did create one note outside the formal Phase 3 trigger, and flagged it as such in the log line. The mandate is that the vault should be smarter tomorrow, and the day's one event exposed something genuinely undocumented: all four scheduled agents authenticate against a single ambient host OAuth session that cron cannot refresh. When it lapses, they all fail together. That is now recorded at `wiki/EMERAULD Scheduled Agents — Auth Dependency and Failure Modes`, with the evidence separated from the inference (what refreshed the token between 08:00 and 22:00 is unresolved — no commit or note records a repair, so I marked it speculation).
+
+Two things worth knowing about the fixes:
+- I placed the orphan-healing link in the scripts architecture note **outside** its `@generated` block, so the next regeneration won't clobber it.
+- The vault's own link checker (inherited from the 07-10 audit) has a `rstrip('.md')` bug that eats the trailing "d" in "Build" and reports false positives. It also surfaced a genuinely dangling `Architecture - EMERAULD Scripts - Maintenance` link that I'd copied from the old note's Related list; I replaced mine rather than propagating the debt.
+
+## What needs you
+
+**I did not touch `scripts/scheduled/`.** Changing the automation layer is a governed-task path needing a stop condition and rollback, and agents flag rather than decide. Four candidate controls are written up in the new note, cheapest first: have the agents actually read `FAILURES.md`; preflight the credential; notify out-of-band so you learn at 08:05 instead of at the next nightly; or give cron its own non-interactive API key. Only the last one removes the failure mode rather than surfacing it faster.
+
+The open risk: if a lapse ever spans **both** the morning and nightly windows, nothing surfaces it at all.

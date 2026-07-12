@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Skill Domain — Design and UX]]'
 skill_id: figma-code-connect-components
 codex_path: /home/cerebrhoe/.codex/skills/figma-code-connect-components/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # figma-code-connect-components

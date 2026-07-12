@@ -89,6 +89,9 @@ operational skills — `hermes-dependency-mapper` (pre-routing fragility check),
 `hermes-escalation-router` (routes issues to Queen Keyport, HEPHAISTOS, or external
 systems with full decision lineage).
 
+> [!warning] Contradiction detected (nightly pass 2026-07-08)
+> The "Tier 0 Forging authority" formalization reported here describes the architecture as of this report's date (2026-04-05) and was superseded on 2026-04-23, when the linear Tier 0/1/2 hierarchy was replaced by the Co-Equal Authority model (see [[Areas/PHAROS/Architecture Translation Guide — Eight Operators to Three-Agent Stack]] and [[Areas/PHAROS/HEPHAISTOS Agent Architecture]], "Co-equal, no tier hierarchy"). The report text stays as-is as a historical record; do not cite it as the current authority model.
+
 ### Deployment gates — all reported verified
 
 The report lists 8 mandatory gates, all marked VERIFIED: all 46 skills have SKILL.md

@@ -23,7 +23,7 @@ backlinks:
 - '[[wiki/Skill Domain — Skill Architecture]]'
 skill_id: dispatching-parallel-agents
 codex_path: /home/cerebrhoe/.codex/skills/dispatching-parallel-agents/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # dispatching-parallel-agents

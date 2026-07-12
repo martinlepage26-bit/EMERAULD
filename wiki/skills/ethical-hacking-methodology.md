@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Security and Compliance]]'
 skill_id: ethical-hacking-methodology
 codex_path: /home/cerebrhoe/.codex/skills/ethical-hacking-methodology/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # ethical-hacking-methodology

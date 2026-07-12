@@ -20,7 +20,7 @@ backlinks:
 - '[[wiki/Skill Domain — Security and Compliance]]'
 skill_id: trailofbits-security
 codex_path: /home/cerebrhoe/.codex/skills/trailofbits-security/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # trailofbits-security

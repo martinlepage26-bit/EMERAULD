@@ -81,7 +81,7 @@ Diamond-Eyes is a [[Claude Code Skill Corpus|Claude Code skill]] for aesthetic r
 
 ## Context
 Diamond-Eyes is also the operational refinement *skill* that implements the aesthetic dimension of PHAROS’s wisdom-and-care gating. In the governance architecture, the underlying gate/principle is now named [[Consented Frame — Ethics and Wisdom Gate]] (formerly “Diamond-Eyes gate”).
-In Codex, the refinement skill is invoked as `diamond-eyes` and lives at `/home/cerebrhoe/.codex/skills/diamond-eyes/`.
+In Codex, the refinement skill is invoked as `diamond-eyes` and lives at `/home/martin/.codex/skills/diamond-eyes/`.
 
 **Origin (lived layer).** The personal/lived account of *why* Diamond-Eyes was built — *"love computerized"*, *"to save the last bit of love I had for myself"* — is preserved in [[PHAROS — Origin and Doctrine]] §III. This page documents the mechanics; the Origin doc documents the human reason any of these mechanics exist. Together they form the dual-layer record (technical / lived) of the same instrument.
 

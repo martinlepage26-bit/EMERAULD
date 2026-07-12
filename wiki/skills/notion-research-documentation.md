@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Research and Scholarly Work]]'
 skill_id: notion-research-documentation
 codex_path: /home/cerebrhoe/.codex/skills/notion-research-documentation/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # notion-research-documentation

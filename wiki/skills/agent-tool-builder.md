@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Agent Architecture]]'
 skill_id: agent-tool-builder
 codex_path: /home/cerebrhoe/.codex/skills/agent-tool-builder/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # agent-tool-builder

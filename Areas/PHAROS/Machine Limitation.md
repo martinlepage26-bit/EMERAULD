@@ -48,7 +48,7 @@ backlinks:
 PHAROS binding principle #8 from the [[HEPHAISTOS Agent Architecture|HEPHAISTOS doctrine]]: **the machine operates through language; the gap between model and reality is structural and permanent.** This is not a temporary engineering problem to be solved by better training data — it is a constitutive feature of language-model AI that governance must respect rather than wish away. Controls foundation: [[Governance Controls and Mechanisms]]. Reference for [[Recursive Governance Theory]] and [[Evidence Discipline and Epistemics]].
 
 ## Context
-Named in `/home/cerebrhoe/AGENTS.md` (HEPHAISTOS Governance Harness Global Invariants). The principle is the upstream justification for many downstream design choices in the [[Recursive Deterministic AI Governance — Method and Paper|RDAIG method]] — bounded corpus, admissibility boundary, evidence discipline, traversal-through-instability — all are responses to the structural gap.
+Named in `/home/martin/AGENTS.md` (HEPHAISTOS Governance Harness Global Invariants). The principle is the upstream justification for many downstream design choices in the [[Recursive Deterministic AI Governance — Method and Paper|RDAIG method]] — bounded corpus, admissibility boundary, evidence discipline, traversal-through-instability — all are responses to the structural gap.
 
 [[Architectural AI Governance — Willis and PBSAI]] provides neuroscience-of-prediction grounding for what this principle assumes. The Willis/PBSAI argument: prediction-based systems operate by minimizing surprise on past patterns, which has no necessary connection to the current state of the world. Different mechanism, same conclusion.
 

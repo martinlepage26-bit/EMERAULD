@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: develop-web-game
 codex_path: /home/cerebrhoe/.codex/skills/develop-web-game/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # develop-web-game

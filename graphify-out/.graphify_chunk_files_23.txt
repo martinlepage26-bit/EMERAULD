@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/raw sources/1) Website Style Card.md
+/home/martin/EMERAULD/raw sources/1. Age 4–5 the feral cat bite.md
+/home/martin/EMERAULD/raw sources/AI has no intrinsic ethics..md
+/home/martin/EMERAULD/raw sources/ANNOTATED LIB - OPERATIONAL VERSION.md
+/home/martin/EMERAULD/raw sources/Advanced Tool Development and Integration 1.5 From Working to Production-Ready.md
+/home/martin/EMERAULD/raw sources/Advanced Tool Development and Integration 1.6 Enterprise Patterns for Agent Functions.md
+/home/martin/EMERAULD/raw sources/Advanced Tool Development and Integration 1.7 Harden and Test the Logistics Toolkit.md
+/home/martin/EMERAULD/raw sources/Astrology as Social Grammar Youth Culture’s Re-Enc.md
+/home/martin/EMERAULD/raw sources/Book of beliefs and theories 2000s.md
+/home/martin/EMERAULD/raw sources/CONSENT.md
+/home/martin/EMERAULD/raw sources/CORPUS ou le génie de l’insistance (1).md
+/home/martin/EMERAULD/raw sources/Chapitre.md
+/home/martin/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/conflicts_existing_files.txt
+/home/martin/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/hash_mismatch.txt
+/home/martin/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/size_mismatch.txt
+/home/martin/EMERAULD/raw sources/D-drive-scan-2026-05-12/dg-migration/skipped_files.txt
+/home/martin/EMERAULD/raw sources/DG_Website_Deployment_Governance_2026-05-01.md
+/home/martin/EMERAULD/raw sources/DR_SORT_OWNERSHIP_AND_EXTRACTION_DECISION.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/00_README.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/henry/README.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 4.md
+/home/martin/EMERAULD/raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - UQA M Universite du Quebec a Montreal Releve de notes 6.md

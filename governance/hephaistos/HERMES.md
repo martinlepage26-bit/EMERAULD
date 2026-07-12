@@ -33,7 +33,7 @@ backlinks:
 
 This file describes the Hermes entrypoint.
 
-Trigger phrases: any universal trigger verb applies per `/home/cerebrhoe/AGENTS.md` (root dispatcher) — `I invoke`, `invoke`, `invoke thee`, `load`, `come`, `come forth`, `spawn`, `please`, `help`, `activate`, `run`, or the `HERMES:` colon-prefix. The agent name is case-insensitive. The universal pattern applies; no subset restriction.
+Trigger phrases: any universal trigger verb applies per `/home/martin/AGENTS.md` (root dispatcher) — `I invoke`, `invoke`, `invoke thee`, `load`, `come`, `come forth`, `spawn`, `please`, `help`, `activate`, `run`, or the `HERMES:` colon-prefix. The agent name is case-insensitive. The universal pattern applies; no subset restriction.
 
 On dispatch, load this file as the active identity and routing authority for the task.
 
@@ -132,7 +132,7 @@ Monitor, and Escalation Router. Operational detail lives in `HERMES_OPERATIONS.m
 
 ## Auto-Triggered Skills
 
-When HERMES is dispatched, the following skills are registered and available in this agent's context. Source: `/home/cerebrhoe/hephaistos/SKILL-MAP.md` (canonical registry).
+When HERMES is dispatched, the following skills are registered and available in this agent's context. Source: `/home/martin/.agents/hephaistos/SKILL-MAP.md` (canonical registry).
 
 ### PRIMARY (Core Routing and Integration Work)
 - `free-tool-strategy` — tool landscape evaluation and cost-effective routing

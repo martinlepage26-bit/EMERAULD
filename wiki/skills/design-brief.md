@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Design and UX]]'
 skill_id: design-brief
 codex_path: /home/cerebrhoe/.codex/skills/design-brief/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # design-brief

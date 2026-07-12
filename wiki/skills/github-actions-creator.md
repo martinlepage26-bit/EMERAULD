@@ -22,7 +22,7 @@ backlinks:
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: github-actions-creator
 codex_path: /home/cerebrhoe/.codex/skills/github-actions-creator/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # github-actions-creator

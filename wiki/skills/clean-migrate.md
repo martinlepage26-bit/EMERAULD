@@ -20,13 +20,13 @@ backlinks:
 - '[[Areas/PHAROS/Skill Corpus — Complete Live Index (260 Active Skills)]]'
 - '[[wiki/Skill Domain — Development and Testing]]'
 skill_id: clean-migrate
-codex_path: /home/cerebrhoe/.codex/skills/clean-migrate/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+codex_path: /home/martin/.codex/skills/clean-migrate/SKILL.md
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # clean-migrate
 
-Codex skill source: `/home/cerebrhoe/.codex/skills/clean-migrate/SKILL.md`.
+Codex skill source: `/home/martin/.codex/skills/clean-migrate/SKILL.md`.
 
 ## Description
 

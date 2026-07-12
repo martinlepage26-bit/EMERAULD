@@ -196,7 +196,7 @@ Gadget produces:
 
 ## Invocation Pattern
 
-**Trigger:** any universal trigger verb per `/home/cerebrhoe/AGENTS.md` (root dispatcher) — `I invoke`, `invoke`, `invoke thee`, `load`, `come`, `come forth`, `spawn`, `please`, `help`, `activate`, `run`, or the `GADGET:` colon-prefix. The agent name is case-insensitive. The universal pattern applies; no subset restriction.
+**Trigger:** any universal trigger verb per `/home/martin/AGENTS.md` (root dispatcher) — `I invoke`, `invoke`, `invoke thee`, `load`, `come`, `come forth`, `spawn`, `please`, `help`, `activate`, `run`, or the `GADGET:` colon-prefix. The agent name is case-insensitive. The universal pattern applies; no subset restriction.
 
 Example invocations (not exhaustive):
 ```
@@ -326,4 +326,4 @@ Gadget escalates **directly to the Operator** in all cases. The core stack recei
 - `/home/cerebrhoe/hephaistos/HEPHAISTOS.md` — core scope definition
 - `/home/cerebrhoe/hephaistos/QUEEN-KEYPORT.md` — security and governance constraints
 - `/home/cerebrhoe/hephaistos/HERMES.md` — routing and coordination
-- `/home/cerebrhoe/AGENTS.md` — dispatch registry
+- `/home/martin/AGENTS.md` — dispatch registry

@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Security and Compliance]]'
 skill_id: red-team-tactics
 codex_path: /home/cerebrhoe/.codex/skills/red-team-tactics/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # red-team-tactics

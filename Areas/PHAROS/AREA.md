@@ -12,7 +12,7 @@ tags:
 status: active
 domain: pharos
 created: '2026-06-29'
-updated: '2026-06-29'
+updated: '2026-07-12'
 vault_area: Areas
 canonical_path: Areas/PHAROS/AREA.md
 backlink_count: 1
@@ -39,3 +39,6 @@ Notes in `projects/` with `tags: pharos` belong here when they have a deadline. 
 ## Key notes
 - [[projects/PHAROS — Fisher King Project State]]
 - [[Areas/PHAROS/Governance and PHAROS MOC]]
+
+## Open at the top (2026-07-12)
+The founder question with Danny Stocker is the live blocker: PHAROS legal form and incorporation timing gate the [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v6.x Résolutions Track (2026-07-10)|Lavoie contract v6.3 signature]], and equity/vesting/deadlock remain unanswered. State and forks: [[Areas/PHAROS/Founder Agreement — PHAROS x Danny Stocker Perimeter Reset (2026-07-10)]]. Read it alongside [[Areas/PHAROS/Founder Charter — Lepage and Stocker]], which it contradicts and does not replace.

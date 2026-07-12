@@ -1,0 +1,26 @@
+  session-state: 104/600 lines — OK
+  Journal: 112/300 lines — OK
+  Events: 151/300 lines — OK
+  Decisions: 138/300 lines — OK
+  Learning: 95/300 lines — OK
+  Blockers: 80/300 lines — OK
+
+All registers under threshold.
+GATE PASS: argus-remediations-20260708.md | governance_state=done hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-004 | STAMPS: grandfathered (pre-mechanism, 2026-07-08)
+GATE PASS: gate-authenticity-20260708.md | governance_state=done hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-005 | STAMPS: valid (3/3, chain ok)
+GATE PASS: stamp-bypass-closure-20260708.md | governance_state=cleared hephaistos_scope=defined qk_verdict=cleared relay_id=None | STAMPS: valid (2/2, chain ok)
+GATE PASS: weekly-os-health-20260708.md | governance_state=routed hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-002 | STAMPS: grandfathered (pre-mechanism, 2026-07-08)
+audit-all: 0 violation(s)
+Nightly consolidation pass for 2026-07-09 is complete. Summary of what changed:
+
+**Phase 1 — day closed.** Appended an "End of Day" section to `memory/daily/2026-07-09.md` covering today's three events: the BOWIE dead-path consolidation (214 files patched), the operator-delegated resolution of the 2026-07-08 audit residuals (canon repo cleaned, 11 governance mirrors patched to match), and the creation of the Old Host Retirement Record.
+
+**Phase 2 — 1 contradiction reconciled.** Only one in-scope note carried `updated: 2026-07-09`: `Areas/PHAROS/Old Host Retirement Record — cerebrhoe and WSL (2026-07-09).md`. It states only 25 skill directories exist on this host and the corpus is retired, while the older `Skill Corpus — Complete Live Index (260 Active Skills)` (and `Claude Code Skill Corpus`) still present the corpus as a live inventory. I added a `> [!warning] Contradiction detected` callout to the newer Retirement Record naming both older notes and the reconciliation (the record supersedes the live-index claims; older notes stay as historical documentation). This also brought the Retirement Record up to the vault's 2-wikilink minimum, which it had been missing.
+
+**Phase 3 — 0 synthesized.** Synthesis requires two or more in-scope notes updated today; there was only one, so no new note was warranted.
+
+**Phase 4 — 1 orphan healed.** The Retirement Record's only incoming link was from the additions tracker, so it was effectively orphaned from the content graph. I added a status paragraph with an inline wikilink to it in the 260-skill index note (its most related note) and bumped that note's `updated:` date.
+
+**Phase 5 — logged and rebuilt.** Appended the nightly-pass line to `session-state.md`, wrote three entries to the VAULT ADDITIONS TRACKER per Section 8, and ran the vector store rebuild: 253 changed notes re-embedded (this also picked up the BOWIE-patched files from earlier today), store now at 1,489 entries.
+
+One observation for tomorrow: the 260-skill index note now carries `updated: 2026-07-09`, so tomorrow's morning scan will correctly show it as freshly touched rather than part of the 739-note bulk-touch residue.

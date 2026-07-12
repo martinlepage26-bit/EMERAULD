@@ -1,0 +1,282 @@
+[
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 01",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_01.txt\nCHUNK_NUM = 1\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_01.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_01.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 02",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_02.txt\nCHUNK_NUM = 2\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_02.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_02.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 03",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_03.txt\nCHUNK_NUM = 3\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_03.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_03.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 04",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_04.txt\nCHUNK_NUM = 4\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_04.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_04.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 05",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_05.txt\nCHUNK_NUM = 5\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_05.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_05.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 06",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_06.txt\nCHUNK_NUM = 6\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_06.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_06.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 07",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_07.txt\nCHUNK_NUM = 7\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_07.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_07.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 08",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_08.txt\nCHUNK_NUM = 8\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_08.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_08.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 09",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_09.txt\nCHUNK_NUM = 9\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_09.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_09.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 10",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_10.txt\nCHUNK_NUM = 10\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_10.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_10.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 11",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_11.txt\nCHUNK_NUM = 11\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_11.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_11.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 12",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_12.txt\nCHUNK_NUM = 12\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_12.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_12.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 13",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_13.txt\nCHUNK_NUM = 13\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_13.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_13.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 14",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_14.txt\nCHUNK_NUM = 14\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_14.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_14.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 15",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_15.txt\nCHUNK_NUM = 15\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_15.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_15.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 16",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_16.txt\nCHUNK_NUM = 16\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_16.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_16.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 17",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_17.txt\nCHUNK_NUM = 17\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_17.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_17.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 18",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_18.txt\nCHUNK_NUM = 18\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_18.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_18.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 19",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_19.txt\nCHUNK_NUM = 19\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_19.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_19.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 20",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_20.txt\nCHUNK_NUM = 20\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_20.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_20.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 21",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_21.txt\nCHUNK_NUM = 21\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_21.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_21.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 22",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_22.txt\nCHUNK_NUM = 22\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_22.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_22.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 23",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_23.txt\nCHUNK_NUM = 23\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_23.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_23.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 24",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_24.txt\nCHUNK_NUM = 24\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_24.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_24.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 25",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_25.txt\nCHUNK_NUM = 25\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_25.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_25.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 26",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_26.txt\nCHUNK_NUM = 26\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_26.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_26.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 27",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_27.txt\nCHUNK_NUM = 27\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_27.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_27.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 28",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_28.txt\nCHUNK_NUM = 28\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_28.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_28.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 29",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_29.txt\nCHUNK_NUM = 29\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_29.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_29.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 30",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_30.txt\nCHUNK_NUM = 30\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_30.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_30.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 31",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_31.txt\nCHUNK_NUM = 31\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_31.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_31.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 32",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_32.txt\nCHUNK_NUM = 32\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_32.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_32.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 33",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_33.txt\nCHUNK_NUM = 33\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_33.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_33.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 34",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_34.txt\nCHUNK_NUM = 34\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_34.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_34.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 35",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_35.txt\nCHUNK_NUM = 35\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_35.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_35.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 36",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_36.txt\nCHUNK_NUM = 36\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_36.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_36.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 37",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_37.txt\nCHUNK_NUM = 37\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_37.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_37.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 38",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_38.txt\nCHUNK_NUM = 38\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_38.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_38.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 39",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_39.txt\nCHUNK_NUM = 39\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_39.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_39.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 40",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_40.txt\nCHUNK_NUM = 40\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_40.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_40.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 41",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_41.txt\nCHUNK_NUM = 41\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_41.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_41.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 42",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_42.txt\nCHUNK_NUM = 42\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_42.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_42.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 43",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_43.txt\nCHUNK_NUM = 43\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_43.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_43.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 44",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_44.txt\nCHUNK_NUM = 44\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_44.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_44.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 45",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_45.txt\nCHUNK_NUM = 45\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_45.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_45.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 46",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_46.txt\nCHUNK_NUM = 46\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_46.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_46.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 47",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_47.txt\nCHUNK_NUM = 47\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_47.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_47.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 48",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_48.txt\nCHUNK_NUM = 48\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_48.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_48.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 49",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_49.txt\nCHUNK_NUM = 49\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_49.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_49.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 50",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_50.txt\nCHUNK_NUM = 50\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_50.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_50.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 51",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_51.txt\nCHUNK_NUM = 51\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_51.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_51.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 52",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_52.txt\nCHUNK_NUM = 52\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_52.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_52.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 53",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_53.txt\nCHUNK_NUM = 53\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_53.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_53.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 54",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_54.txt\nCHUNK_NUM = 54\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_54.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_54.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 55",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_55.txt\nCHUNK_NUM = 55\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_55.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_55.json using the write_to_file tool."
+  },
+  {
+    "TypeName": "self",
+    "Role": "Graphify Extractor Chunk 56",
+    "Prompt": "Read the exact prompt template from /home/martin/EMERAULD/graphify-out/.graphify_extraction_template.txt.\nSubstitute the following values into that template:\nFILE_LIST = The files listed in /home/martin/EMERAULD/graphify-out/.graphify_chunk_files_56.txt\nCHUNK_NUM = 56\nTOTAL_CHUNKS = 56\nDEEP_MODE = false\nCHUNK_PATH = /home/martin/EMERAULD/graphify-out/.graphify_chunk_56.json\n\nFollow the template exactly and write your output to /home/martin/EMERAULD/graphify-out/.graphify_chunk_56.json using the write_to_file tool."
+  }
+]

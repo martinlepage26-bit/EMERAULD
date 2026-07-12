@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "id": "lavoie_area_groupe_lavoie",
+      "label": "Groupe Lavoie",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/Lavoie/AREA.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lavoie_area_israel_lavoie",
+      "label": "Israël Lavoie",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/Lavoie/AREA.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lavoie_contremaitre_groupe_lavoie_field_operations_platform_contremaitre",
+      "label": "Contremaître",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lavoie_quiet_compliance_workbench_standing_tone_rule_quiet_compliance",
+      "label": "Quiet Compliance Workbench",
+      "file_type": "rationale",
+      "source_file": "/home/martin/EMERAULD/Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lavoie_legipro_canada_qc_compliance_evidence_service_plan_legipro",
+      "label": "LegiPro Canada-QC",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_actor_framework_agent_vs_chatbot_decision_tool_actor",
+      "label": "ACTOR Framework",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/ACTOR Framework — Agent vs Chatbot Decision Tool.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_ai_governance_manifesto_upstream_institutional_practice_manifesto",
+      "label": "AI Governance Manifesto",
+      "file_type": "document",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/AI Governance Manifesto — Upstream Institutional Practice.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pharos_ai_iterative_loop_frame_capture_and_recursive_validation_failure_recursive_validation",
+      "label": "Recursive Validation Failure",
+      "file_type": "concept",
+      "source_file": "/home/martin/EMERAULD/Areas/PHAROS/AI Iterative Loop — Frame Capture and Recursive Validation Failure.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "lavoie_contremaitre_groupe_lavoie_field_operations_platform_contremaitre",
+      "target": "lavoie_area_groupe_lavoie",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lavoie_quiet_compliance_workbench_standing_tone_rule_quiet_compliance",
+      "target": "lavoie_contremaitre_groupe_lavoie_field_operations_platform_contremaitre",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lavoie_quiet_compliance_workbench_standing_tone_rule_quiet_compliance",
+      "target": "lavoie_legipro_canada_qc_compliance_evidence_service_plan_legipro",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lavoie_legipro_canada_qc_compliance_evidence_service_plan_legipro",
+      "target": "lavoie_contremaitre_groupe_lavoie_field_operations_platform_contremaitre",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/home/martin/EMERAULD/Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "lavoie_software_stack",
+      "label": "Lavoie Software Workstream",
+      "nodes": [
+        "lavoie_contremaitre_groupe_lavoie_field_operations_platform_contremaitre",
+        "lavoie_legipro_canada_qc_compliance_evidence_service_plan_legipro",
+        "lavoie_quiet_compliance_workbench_standing_tone_rule_quiet_compliance"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "/home/martin/EMERAULD/Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

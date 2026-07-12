@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: intersectionality
 codex_path: /home/cerebrhoe/.codex/skills/intersectionality/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # intersectionality

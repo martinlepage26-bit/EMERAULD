@@ -22,7 +22,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: chatgpt-apps
 codex_path: /home/cerebrhoe/.codex/skills/chatgpt-apps/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # chatgpt-apps

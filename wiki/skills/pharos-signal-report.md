@@ -21,7 +21,7 @@ backlinks:
 - '[[Areas/PHAROS/Skill Domain — AI and LLM Tools]]'
 skill_id: pharos-signal-report
 codex_path: /home/cerebrhoe/.codex/skills/pharos-signal-report/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # pharos-signal-report

@@ -85,8 +85,8 @@ Neither is co-equal to the other. Both feed into each agent's primary tier decis
 
 ## Canonical Locations
 
-- **Skills:** `/home/cerebrhoe/.codex/skills/` (sole canonical location)
-- **Root governance:** `/home/cerebrhoe/AGENTS.md`, `HEPHAISTOS.md`, `QUEEN-KEYPORT.md`, `HERMES.md`, `ORCHESTRATION.md`
+- **Skills:** `/home/martin/.codex/skills/` (sole canonical location)
+- **Root governance:** `/home/martin/AGENTS.md`, `HEPHAISTOS.md`, `QUEEN-KEYPORT.md`, `HERMES.md`, `ORCHESTRATION.md`
 - **Package governance:** `/home/cerebrhoe/hephaistos/` (mirrors root)
 - **Retired:** `.agents/Hephaistos/` (retired 2026-04-10; skills migrated to .codex/skills/)
 

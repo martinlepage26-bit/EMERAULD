@@ -137,6 +137,8 @@ These names are not product brands. Public pages, sales copy, client-facing docs
 
 ## Where To Find Things
 
+The vault mirror of the source README lives at [[Areas/governanceframework/README|Stacklight Governance Framework]] (synced from `/home/martin/governanceframework/README.md` during the 2026-07-08 overhaul).
+
 Main working folder:
 
 ```bash

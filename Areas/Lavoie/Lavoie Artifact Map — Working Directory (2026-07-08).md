@@ -43,7 +43,10 @@ The engagement's paper trail lives in `~/Lavoie/`, git-tracked at martinlepage26
 | Hosting infrastructure | `5019-Lavoie-Pharos-AI-hosting-infrastructure.md` | M1 hosting/redundancy/backup/security reference cited by contract Art. 4.1 |
 | Plan directeur | `plan-directeur-lavoie-2026.md` | Company structure + diagnosis source of truth |
 | Jade handoff | `jade-base44-handoff.md` | Base44 app specs (4 apps; numbering drifts — anchor to priority table, name the app) |
-| Client dossiers | `dossiers-client/` (plan-set revisions 5146–5156 + OSS variants, `DESIGN.md`, `PRODUCT.md`) | Plan-set revision family |
+| Client dossiers | `dossiers-client/` (plan-set revisions 5146–5165 + OSS variants, `DESIGN.md`, `PRODUCT.md`, `REGLE-ECRITURE-v2.md`, `stale-terms-v2-staged.txt`) | Plan-set revision family; chain record at [[Areas/Lavoie/Dossiers Client Plan-Set — Chaîne de gouvernance éditoriale 5156–5165 (2026-07-08)|dossier chain 5156–5165]] |
+| Parity roadmap | `lavoie-fieldops/docs/product/progressionlive-parity-roadmap.md` (commit ff38a48) | ProgressionLIVE → Contremaître replication roadmap; source of dossier 5157 |
+| Audit trail | `docs/audits/argus-chaine-5156-5159-2026-07-08.md`, `docs/audits/codex-revue-finale-v0-04-brief.md` | Argus audit + parked Codex final-review brief |
+| Case-study handoff | `docs/handoff/cas-etude-chaine-gouvernance-2026-07-08.md` | Deferred case-study writing (RDG applied to documents) |
 | Archived lineage | `_archive/cleanup-2026-07-08/` (incl. offre v4 md) | Superseded documents |
 
 Known disk stray (report-only): a 0-byte accidental copy exists at `~/home/martin/Lavoie/offre-de-service-revisee-v4.md` (rsync artifact, outside the vault; flagged for deletion in the overhaul handoff).
@@ -52,3 +55,4 @@ Known disk stray (report-only): a 0-byte accidental copy exists at `~/home/marti
 
 - [[Areas/Lavoie/AREA|Area — Lavoie]]
 - [[Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule]]
+- [[Areas/Lavoie/Dossiers Client Plan-Set — Chaîne de gouvernance éditoriale 5156–5165 (2026-07-08)]]

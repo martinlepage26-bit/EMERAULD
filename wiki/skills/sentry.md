@@ -20,7 +20,7 @@ backlinks:
 - '[[wiki/Skill Domain — Security and Compliance]]'
 skill_id: sentry
 codex_path: /home/cerebrhoe/.codex/skills/sentry/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # sentry

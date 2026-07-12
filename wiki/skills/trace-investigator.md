@@ -22,13 +22,13 @@ backlinks:
 - '[[wiki/Martin Lepage — Authored Skills]]'
 - '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: trace-investigator
-codex_path: /home/cerebrhoe/.codex/skills/trace-investigator/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+codex_path: /home/martin/.codex/skills/trace-investigator/SKILL.md
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # trace-investigator
 
-Codex skill source: `/home/cerebrhoe/.codex/skills/trace-investigator/SKILL.md`.
+Codex skill source: `/home/martin/.codex/skills/trace-investigator/SKILL.md`.
 
 ## Description
 

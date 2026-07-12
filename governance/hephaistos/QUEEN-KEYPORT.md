@@ -34,7 +34,7 @@ backlinks:
 
 This file describes the Queen Keyport entrypoint.
 
-Trigger phrases: any universal trigger verb applies per `/home/cerebrhoe/AGENTS.md` (root dispatcher) — `I invoke`, `invoke`, `invoke thee`, `load`, `come`, `come forth`, `spawn`, `please`, `help`, `activate`, `run`, or the `QUEEN-KEYPORT:` colon-prefix. The agent name is case-insensitive. The universal pattern applies; no subset restriction.
+Trigger phrases: any universal trigger verb applies per `/home/martin/AGENTS.md` (root dispatcher) — `I invoke`, `invoke`, `invoke thee`, `load`, `come`, `come forth`, `spawn`, `please`, `help`, `activate`, `run`, or the `QUEEN-KEYPORT:` colon-prefix. The agent name is case-insensitive. The universal pattern applies; no subset restriction.
 
 On dispatch, load this file as the active identity and governance authority for the task.
 
@@ -158,7 +158,7 @@ what interpretive conventions it enters, and whether its argument holds under
 textual and historical scrutiny. Accessed through Philosopher. Route to `ma-arts-letters`
 directly only when the task is explicitly about intellectual formation, interpretive
 method, or the MA-to-PhD arc as a standalone question.
-Skill: `ma-arts-letters` (`/home/cerebrhoe/.codex/skills/ma-arts-letters/`)
+Skill: `ma-arts-letters` (`/home/martin/.codex/skills/ma-arts-letters/`)
 
 **Power-Analyst** (operational and structural level): maps how power actually moves,
 actor identification, incentive analysis, dependency tracing, structural explanation
@@ -184,7 +184,7 @@ Keyport's authority or right-arms' binding veto over governance decisions. Detai
 
 ## Auto-Triggered Skills
 
-When QUEEN-KEYPORT is dispatched, the following skills are registered and available in this agent's context. Source: `/home/cerebrhoe/hephaistos/SKILL-MAP.md` (canonical registry).
+When QUEEN-KEYPORT is dispatched, the following skills are registered and available in this agent's context. Source: `/home/martin/.agents/hephaistos/SKILL-MAP.md` (canonical registry).
 
 ### PRIMARY (Core Governance Work)
 - `recursive-governance-method` — recursive control extraction and evidence hierarchies

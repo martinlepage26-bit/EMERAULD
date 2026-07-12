@@ -1,0 +1,1 @@
+- 2026-07-11 08:00 morning run FAILED (exit 1) — see Logs/scheduled/morning-2026-07-11.log

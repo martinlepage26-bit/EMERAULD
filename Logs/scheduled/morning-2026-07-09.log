@@ -1,0 +1,11 @@
+Morning agent run for 2026-07-09 is complete. All four steps done, add-and-update only:
+
+**1. Daily note created** — `memory/daily/2026-07-09.md` with Focus, Tasks, Notes, Stale Projects, Overdue, and Related sections, following the 2026-07-08 template.
+
+**2. Stale project scan** — 753 of 807 project-scope notes (projects/ top level with `type: project`, plus Areas/ and wiki/ notes tagged `project` or with status active/in-progress) have `updated:` before 2026-07-02. Of those, 739 still carry the residual `updated: 2026-06-26` bulk-touch date, so the signal remains saturated as expected. Fourteen notes have individual dates: the same 13 flagged yesterday, plus one new arrival into the 7-day window — the InfraFabric R0.5 Rollout note at 2026-07-01. The full 753-row list is at `artifacts/stale-projects-2026-07-09.md`; the daily note carries the summary.
+
+**3. Overdue sweep** — the same 5 items as previous runs, nothing new: the two External Data Registry tasks (Reddit API policy check overdue since 2026-04-20, refresh calendar since 2026-05-03 — now the 18th consecutive flag), and the three Weekly Review 2026-06-26 items (escalation of that pair, the 8 Fisher King state files stale since 2026-05-24, and the 23-UC results table for Grok). All tabled under ## Overdue in the daily note.
+
+**4. session-state.md** — one line appended recording today's morning-agent run, plus two entries in the VAULT ADDITIONS TRACKER per the vault's Section 8 rule (daily note + stale-scan artifact).
+
+One contextual note I recorded in the daily log: a BOWIE dead-path cleanup ran earlier today and patched 214 live files, but it left `updated:` frontmatter untouched (verified in its report), so it does not distort the stale scan.

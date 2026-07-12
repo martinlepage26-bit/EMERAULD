@@ -158,6 +158,22 @@ NOTE: pharos-suite lives under `websites/`, NOT `apps/web-apps/`. Any doc or age
 ## Operator Set v1 (apply in order on revisions)
 CLAIM-EARLY → SCOPE-CLAMP → CLAIM-LADDER → CONSEQUENCE-ANCHOR → VERB-UPGRADE → ANTI-CHAIN-CLAUSE → PRONOUN-AUDIT → NOUN-DISCIPLINE → CONTROLLED-HEAT → METAPHOR-GROUNDING → CITATION-HYGIENE → QUOTE-CONTAINMENT → DUPLICATE-SOURCE-MERGE
 
+## Ethical Governance Layer (standing)
+Canonical gates: `~/.agents/hephaistos/ETHICAL-REVIEW-GATES.md` (via the canon at
+`~/AGENTS.md`). Vault-specific bindings: EMERAULD is a personal knowledge vault; its
+contents are personal data under the Data Boundary gate. Vault content, personal
+reflections, and the personal Claude account never surface in professional, client-facing,
+or published outputs without Martin's explicit per-item decision. Automated vault
+pipelines (inbox watcher, governance pipeline, scheduled agents) run only with a stop
+condition, an audit trail, and a rollback path. Summaries of sensitive personal notes
+count as sensitive outputs.
+
+## Coding Discipline (standing)
+Canonical text: `~/AGENTS.md` (Coding discipline, Universal Engineering Standards). Binding on every code change:
+think before coding (state assumptions, surface tradeoffs, ask when unclear), simplicity
+first (minimum code, nothing speculative), surgical changes (every changed line traces to
+the request), goal-driven execution (verifiable success criteria, loop until verified).
+
 <!-- infrafabric-agent-runtime:managed:start -->
 ## InfraFabric Hosted Task Discipline
 

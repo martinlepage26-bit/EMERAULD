@@ -11,7 +11,7 @@ status: active
 domain: lavoie
 priority: high
 created: '2026-07-08'
-updated: '2026-07-08'
+updated: '2026-07-12'
 vault_area: Areas
 canonical_path: Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08).md
 backlink_count: 7
@@ -28,6 +28,9 @@ backlinks:
 # Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)
 
 > For future Claude: state of the Groupe Lavoie contract as of 2026-07-08. The contract is UNSIGNED — v5.0 is the "texte de signature" working document, and every amount remains conditional until signature. Canonical sources on disk win over this snapshot: `~/Lavoie/contrat-v5-source.md`, `Contrat-Pharos-AI-x-Groupe-Lavoie-SIGNATURE-v5.docx`, `review-gate-signature-2026-07-06.md`. Client communication rules live in the lavoie-gatekeeper skill — Martin → Patricia → {Israël, Guillaume}, 7-day follow-up rule.
+
+> [!info] Superseded in part (2026-07-10)
+> The contract text moved on to **v6.1 → v6.2 → v6.3** over 2026-07-09/07-10, with résolutions R4–R11 (deemed acceptance, licence-payment condition, avis de livraison, prolongation, suspend-not-revoke, template carve-out). For anything touching Articles 5, 7 and 10 or Annexe E, read [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v6.x Résolutions Track (2026-07-10)|the v6.x résolutions track]] instead. Pricing below is unchanged. The contract remains unsigned.
 
 ## Summary
 
@@ -53,6 +56,7 @@ Standing safeguards written into the contract: "Pharos AI rend le Client plus in
 
 ## Related
 
+- [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v6.x Résolutions Track (2026-07-10)]]
 - [[Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)]]
 - [[Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)]]
 - [[Areas/Lavoie/Quiet Compliance Workbench — Standing Tone Rule]]

@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/wiki/archive/Orphan Index — Operations And Misc — 2026-05-06.md
+/home/martin/EMERAULD/wiki/archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06.md
+/home/martin/EMERAULD/wiki/archive/Orphan Index — Raw Sources — 2026-05-06.md
+/home/martin/EMERAULD/wiki/archive/Orphan Index — Root Loose Notes — 2026-05-06.md
+/home/martin/EMERAULD/wiki/archive/Orphan Index — Runtime And Agents — 2026-05-06.md
+/home/martin/EMERAULD/wiki/archive/agent-evaluation.md
+/home/martin/EMERAULD/wiki/archive/ai-product.md
+/home/martin/EMERAULD/wiki/archive/brief-to-tasks.md
+/home/martin/EMERAULD/wiki/archive/diamond-eyes.md
+/home/martin/EMERAULD/wiki/archive/doc.md
+/home/martin/EMERAULD/wiki/archive/first-principles.md
+/home/martin/EMERAULD/wiki/archive/free-tool-strategy.md
+/home/martin/EMERAULD/wiki/archive/hermes-dependency-mapper.md
+/home/martin/EMERAULD/wiki/archive/hermes-escalation-router.md
+/home/martin/EMERAULD/wiki/archive/inner-mind-eye.md
+/home/martin/EMERAULD/wiki/archive/ma-degree-guide.md
+/home/martin/EMERAULD/wiki/archive/red-team.md
+/home/martin/EMERAULD/wiki/archive/repo-logo-generator.md
+/home/martin/EMERAULD/wiki/archive/triangulation.md
+/home/martin/EMERAULD/wiki/archive/ux-researcher-designer.md
+/home/martin/EMERAULD/wiki/archive/web-scraping.md
+/home/martin/EMERAULD/wiki/bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec.md

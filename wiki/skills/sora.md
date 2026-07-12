@@ -20,7 +20,7 @@ backlinks:
 - '[[wiki/Skill Domain — Writing and Humanization]]'
 skill_id: sora
 codex_path: /home/cerebrhoe/.codex/skills/sora/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # sora

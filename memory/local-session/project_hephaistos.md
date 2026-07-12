@@ -42,7 +42,7 @@ HEPHAISTOS was built as a platform-neutral local agent architecture at `/home/ce
 - `ORCHESTRATION.md` — binding principles, routing standard, review model, tracker discipline
 - `SKILL-MAP.md` — full skill registry across authority tiers (includes inner-mind-eye as of 2026-04-10)
 
-**Canonical skill location:** `/home/cerebrhoe/.codex/skills/` (sole canonical; `.agents/Hephaistos/` retired 2026-04-10)
+**Canonical skill location:** `/home/martin/.codex/skills/` (sole canonical; `.agents/Hephaistos/` retired 2026-04-10)
 
 **9 Binding Principles (explicit in root files, enforced through skills):**
 L99, Objectivity as Naming Limits of Subjectivity, Inner Mind Eye, Diamond-Eyes, Ethical Ground, Care as Action, Authority Without Power-Over, Anti-Charm, Machine Limitation

@@ -1,0 +1,24 @@
+  session-state: 108/600 lines — OK
+  Journal: 112/300 lines — OK
+  Events: 151/300 lines — OK
+  Decisions: 138/300 lines — OK
+  Learning: 95/300 lines — OK
+  Blockers: 80/300 lines — OK
+
+All registers under threshold.
+GATE PASS: argus-remediations-20260708.md | governance_state=done hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-004 | STAMPS: grandfathered (pre-mechanism, 2026-07-08)
+GATE PASS: gate-authenticity-20260708.md | governance_state=done hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-005 | STAMPS: valid (3/3, chain ok)
+GATE PASS: stamp-bypass-closure-20260708.md | governance_state=cleared hephaistos_scope=defined qk_verdict=cleared relay_id=None | STAMPS: valid (2/2, chain ok)
+GATE PASS: weekly-os-health-20260708.md | governance_state=routed hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-002 | STAMPS: grandfathered (pre-mechanism, 2026-07-08)
+audit-all: 0 violation(s)
+Nightly consolidation pass complete for **2026-07-10**. All five phases done; add-and-update only, nothing deleted or archived.
+
+**Phase 1 — Closed the day.** Appended an End-of-Day section to `memory/daily/2026-07-10.md` summarizing today's three threads: the morning-agent run (758/814 stale, same 5 overdue), the EMERAULD reliability audit / entry-surface reorg (Home made canonical, Welcome thinned, index recast operational, `_INDEXES`/`_QUARANTINE` added, Writing MOC repaired), and the Weekly Review creation.
+
+**Phase 2 — Reconciled: 0.** The three in-scope notes updated today (Writing MOC, `wiki/Home.md`, Weekly Review) plus the audit-reworked entry surface (`Welcome.md`, `index.md`) are internally consistent — all agree `Home` is the canonical home. That's a deliberate audit decision, not a claim contradiction, so no `[!warning]` callout was warranted.
+
+**Phase 3 — Synthesized: 0.** No concept/tool/person/project appears across 2+ notes updated today while lacking its own note — the reworked notes are navigation hubs whose links all resolve to existing targets.
+
+**Phase 4 — Orphans healed: 1.** `docs/handoff/emerauld-reliability-audit-2026-07-10.md` was created today with zero incoming links; linked it inline (and in Related) from `memory/daily/2026-07-10.md`. The other created-today content notes (Weekly Review, stale-projects artifact, `CRITICAL_KNOWLEDGE_INDEX`) already had incoming links.
+
+**Phase 5 — Logged.** Appended the nightly line to `session-state.md`, added a VAULT ADDITIONS TRACKER entry, and rebuilt the vector store (`embed.py --changed`: 5 notes re-embedded, store now 1492 entries).

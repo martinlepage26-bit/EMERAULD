@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/Areas/PHAROS/Harrowfield Clinic — AI Governance Failure Case Study.md
+/home/martin/EMERAULD/Areas/PHAROS/Healthcare Governance Packet — Recursive Governance for Providers.md
+/home/martin/EMERAULD/Areas/PHAROS/Henry GPT — Peer Reviewer ChatGPT Product Specification.md
+/home/martin/EMERAULD/Areas/PHAROS/Hermes Dashboard — Professional Governance Tool.md
+/home/martin/EMERAULD/Areas/PHAROS/Historical Academic Portfolio — Pre-PHAROS Scholarly Work.md
+/home/martin/EMERAULD/Areas/PHAROS/Host Environment — pharos-corpus-runner-01.md
+/home/martin/EMERAULD/Areas/PHAROS/IF.EMOTION — Empathetic AI Architecture.md
+/home/martin/EMERAULD/Areas/PHAROS/IP and Manuscript Brief — 2026-05-14.md
+/home/martin/EMERAULD/Areas/PHAROS/InfraFabric Architecture.md
+/home/martin/EMERAULD/Areas/PHAROS/InfraFabric Codex Alignment — System-Shaper Frame.md
+/home/martin/EMERAULD/Areas/PHAROS/InfraFabric MCP Stack — Remote Bundles.md
+/home/martin/EMERAULD/Areas/PHAROS/InfraFabric R0.5 Rollout — Hosted API Migration (2026-06-29 to 2026-06-30).md
+/home/martin/EMERAULD/Areas/PHAROS/Inner Mind Eye.md
+/home/martin/EMERAULD/Areas/PHAROS/Jade — Name Disambiguation.md
+/home/martin/EMERAULD/Areas/PHAROS/Kickstart App Prompt — Template and Synthesis Framework.md
+/home/martin/EMERAULD/Areas/PHAROS/LOTUS Agency Scoring App GPT — ChatGPT Product Specification.md
+/home/martin/EMERAULD/Areas/PHAROS/LOTUS Model — Agency and Social Positioning.md
+/home/martin/EMERAULD/Areas/PHAROS/LOTUS Premium Spec.md
+/home/martin/EMERAULD/Areas/PHAROS/Law 25 ADM — Practitioner Brief.md
+/home/martin/EMERAULD/Areas/PHAROS/MCP and Runtime Integration MOC.md
+/home/martin/EMERAULD/Areas/PHAROS/Machine Limitation.md
+/home/martin/EMERAULD/Areas/PHAROS/Martin Lepage — AI Governance Consulting Profile Assessment.md

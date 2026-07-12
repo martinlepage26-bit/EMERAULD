@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/Areas/PHAROS/CLI-Anything — Agent Harness for Tool Integration.md
+/home/martin/EMERAULD/Areas/PHAROS/CLIENT ACCOUNTS.md
+/home/martin/EMERAULD/Areas/PHAROS/COMPASSai — EU AI Act Classifier Expansion and Quebec Construction Module (2026-06-22).md
+/home/martin/EMERAULD/Areas/PHAROS/COMPASSai — Governance Engine.md
+/home/martin/EMERAULD/Areas/PHAROS/CONTROL 1 — Tool Layer Audit Protocol (Regulatory Grounding).md
+/home/martin/EMERAULD/Areas/PHAROS/CONTROL 2 — External Data Lifecycle Protocol (Regulatory Grounding).md
+/home/martin/EMERAULD/Areas/PHAROS/CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding).md
+/home/martin/EMERAULD/Areas/PHAROS/Chrome Extension Monetization - Policy and Product Options.md
+/home/martin/EMERAULD/Areas/PHAROS/Claude Code Skill Corpus.md
+/home/martin/EMERAULD/Areas/PHAROS/Client Logo Strategy — Monogram Pivot and SMB Branding Lessons.md
+/home/martin/EMERAULD/Areas/PHAROS/Cloudflare Pages-to-Worker Migration — Build and Asset Behavior.md
+/home/martin/EMERAULD/Areas/PHAROS/Co-Equal Authority Conflict — clearday ASC-RevenueCat Governed Task (2026-07-06).md
+/home/martin/EMERAULD/Areas/PHAROS/ComplyScan — Bilingual Law 25 - AI Act Compliance SaaS.md
+/home/martin/EMERAULD/Areas/PHAROS/Conceptual Vocabulary — Praxis, Politics, Strategy, Form, Systems.md
+/home/martin/EMERAULD/Areas/PHAROS/Consent Frameworks — Historical, Legal, Social, and AI Governance.md
+/home/martin/EMERAULD/Areas/PHAROS/Consent, Fraud, and Boundary Protocols.md
+/home/martin/EMERAULD/Areas/PHAROS/Consented Frame — Ethics and Wisdom Gate.md
+/home/martin/EMERAULD/Areas/PHAROS/Control Protocols MOC.md
+/home/martin/EMERAULD/Areas/PHAROS/Custom GPT Products — PHAROS AI GPT Roster.md
+/home/martin/EMERAULD/Areas/PHAROS/DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture.md
+/home/martin/EMERAULD/Areas/PHAROS/Delta Closure Frame — Conditions, Actors, Constraints.md
+/home/martin/EMERAULD/Areas/PHAROS/Diamond-Eyes — Aesthetic Refinement Skill.md

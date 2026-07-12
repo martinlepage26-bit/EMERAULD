@@ -22,7 +22,7 @@ backlinks:
 - '[[archive/wiki-2026-07-08/Codex Handoff — PHAROS AI Design Review (2026-05-01)]]'
 skill_id: impeccable
 codex_path: /home/cerebrhoe/.codex/skills/impeccable/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # impeccable

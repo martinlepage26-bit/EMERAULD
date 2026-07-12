@@ -20,7 +20,7 @@ backlinks:
 - '[[wiki/Skill Domain — Vault and Knowledge]]'
 skill_id: linear
 codex_path: /home/cerebrhoe/.codex/skills/linear/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # linear

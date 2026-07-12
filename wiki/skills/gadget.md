@@ -22,7 +22,7 @@ backlinks:
 - '[[governance/hephaistos/GADGET]]'
 skill_id: gadget
 codex_path: /home/cerebrhoe/.codex/skills/gadget/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # gadget

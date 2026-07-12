@@ -1,0 +1,22 @@
+/home/martin/EMERAULD/Areas/PHAROS/Governance and PHAROS MOC.md
+/home/martin/EMERAULD/Areas/PHAROS/Governance and Platform Signals Memo — 2026-05-14.md
+/home/martin/EMERAULD/Areas/PHAROS/Governed Revision Loop — Responsible Self-Improving Agents.md
+/home/martin/EMERAULD/Areas/PHAROS/Governed Self-Improvement — Method Slide Asset.md
+/home/martin/EMERAULD/Areas/PHAROS/Governess Agatha GPT — ChatGPT Product Specification.md
+/home/martin/EMERAULD/Areas/PHAROS/Grok Usage Account — Operator Snapshot (2026-07-06).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX 3.0 Desktop Build Snapshot — Recursive Governor and Law 25 Control Surface (2026-05-11).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Comparison Matrix — v2.6 vs External Evaluators (2026-05-06).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Development Session — Grok Collaboration and v2.1 to v2.4 Build.md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Full Protocol Session — Martin's Governance Synthesis, Gemini Target (2026-07-03).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Healthcare Prospect Deep Dive - Canada 2026-05-06.md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Hermes-Assisted Prospect Extension - Canada Regulated AI Routes 2026-05-06.md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Potential Clients - Source Sweep 2026-05-06.md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Regional Prospect Deep Sweep - Montreal Quebec Toronto Ottawa 2026-05-06.md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Test Run — Claude Code Agents as Subject (2026).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX Test Run — Epstein Files Topic (2026).md
+/home/martin/EMERAULD/Areas/PHAROS/HELIX — Value Proposition and Buyer Profile.md
+/home/martin/EMERAULD/Areas/PHAROS/HEPHAISTOS Agent Architecture.md
+/home/martin/EMERAULD/Areas/PHAROS/HEPHAISTOS Phase 7 — Final Buildout Report.md

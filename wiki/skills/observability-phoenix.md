@@ -21,7 +21,7 @@ backlinks:
 - '[[wiki/Skill Domain — Governance and Method]]'
 skill_id: observability-phoenix
 codex_path: /home/cerebrhoe/.codex/skills/observability-phoenix/SKILL.md
-source_of_truth: /home/cerebrhoe/.codex/skills
+source_of_truth: /home/martin/.codex/skills
 ---
 
 # observability-phoenix
