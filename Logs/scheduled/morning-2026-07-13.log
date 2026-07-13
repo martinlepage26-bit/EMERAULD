@@ -1,0 +1,13 @@
+Morning agent run is complete. All four steps done, nothing deleted or archived.
+
+**The one thing worth your attention: today is the ~July 13 Lavoie signature window, and it arrives blocked.** The contract text is at v6.3 and ready; what's gating signature is upstream — the founder / Annexe E ownership decision (equity, vesting, deadlock still unanswered after four asks) and the lawyer batch. Nothing in the vault records movement on either since 2026-07-10. This is the only item on the board where a date has actually come due, so I flagged it in the daily note's Focus, Tasks, and session-state rather than burying it in the scan results.
+
+What the scans found:
+
+**Stale projects** — 763 of 824 project-scope notes are stale (`updated:` before 2026-07-06). As on previous runs, 741 of those still carry the inherited `updated: 2026-06-26` from the retired bulk touch, so the real signal is the 22 individually-dated notes. Two crossed the seven-day window overnight (`Areas/PHAROS/CLIENT ACCOUNTS` and `wiki/Vault Health — 2026-07-05`), and one left the list — `Areas/PHAROS/AREA` was touched by yesterday's Lavoie propagation. Full row list is in `artifacts/stale-projects-2026-07-13.md`.
+
+**Overdue checkboxes** — the same five items, none moved, none new. The External Data Registry pair has now been flagged on 21 consecutive morning runs and the Reddit API item is 84 days past its "URGENT (Today)" marker. Worth saying plainly: twenty-one flags with zero movement says more about the control than about the tasks. That's your decision to make, and this pass only added and updated.
+
+The agent also authenticated cleanly for the second day running after the 2026-07-11 OAuth failure. Two clean runs is weak evidence the ambient session recovers, not that it's controlled — none of the four candidate fixes in the failure-modes note has been implemented.
+
+Files written: `memory/daily/2026-07-13.md`, `artifacts/stale-projects-2026-07-13.md`, plus appended lines to `session-state.md` and `_vault/VAULT ADDITIONS TRACKER.md` (Section 8 requires the tracker entry in the same response).
