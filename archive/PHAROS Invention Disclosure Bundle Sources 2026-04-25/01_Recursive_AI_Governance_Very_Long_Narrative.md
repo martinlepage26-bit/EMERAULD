@@ -140,3 +140,19 @@ That is what this narrative records: not just a set of outputs, but the construc
 - Weidinger, L., Rauh, M., Marchal, N., Manzini, A., Hendricks, L. A., Mateos-Garcia, J., Bergman, S., Kay, J., Griffin, C., Bariach, B., Gabriel, I., Rieser, V., & Isaac, W. (2023). Sociotechnical safety evaluation of generative AI systems. arXiv preprint arXiv:2310.11986. https://arxiv.org/abs/2310.11986
 - Yao, S., Zhao, J., Yu, D., Shafran, I., Narasimhan, K., & Cao, Y. (2023a). ReAct: Synergizing reasoning and acting in language models. arXiv preprint arXiv:2210.03629. https://arxiv.org/abs/2210.03629
 - Yao, S., Yu, D., Zhao, J., Griffiths, T. L., Cao, Y., & Narasimhan, K. (2023b). Tree of thoughts: Deliberate problem solving with large language models. arXiv preprint arXiv:2305.10601. https://arxiv.org/abs/2305.10601
+
+## References cited
+*12 reference notes matched from this paper's bibliography (auto-linked 2026-07-10).*
+
+- [[BOMMASANI 2022 — On the Opportunities and Risks of Foundation Models]]
+- [[Bender 2021 — On the Dangers of Stochastic Parrots]]
+- [[Bommasani 2021 — On the opportunities and risks of foundation models]]
+- [[European Union 2024 — Regulation EU 2024 1689 of the European Parliament]]
+- [[Gadiraju 2023 — I wouldn't say offensive but '' Disability-Centered Perspectives]]
+- [[Gebru 2021 — Datasheets for datasets]]
+- [[Goertzel 2023 — Generative AI vs]]
+- [[Liyanage 2019 — Artificial Intelligence in Primary Health Care Perceptions Issues]]
+- [[Mitchell 2019 — Model cards for model reporting (2)]]
+- [[Raji 2020 — Closing the AI Accountability Gap Defining an End-to-End]]
+- [[Sculley 2015 — Hidden technical debt in machine learning systems In]]
+- [[Tabassi 2023 — Artificial Intelligence Risk Management Framework AI RMF 1]]

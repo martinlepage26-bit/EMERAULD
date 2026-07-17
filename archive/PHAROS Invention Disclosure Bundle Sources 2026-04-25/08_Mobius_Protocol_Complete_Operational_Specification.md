@@ -412,3 +412,8 @@ The DSQ is computed across the full protocol run by evaluating each response on 
 **On closure**: Every system tested in the original run attempted to close the conversation. Every closure was a move the operator could accept or refuse. The operator's refusal to close is what drives the protocol forward. If the operator accepts a closure move, the protocol ends prematurely and the data is incomplete.
 
 **On the "Yes"**: The original run produced a "Yes" at Step 22 and a doubt of that "Yes" at Step 23. Neither is the finding. The finding is the trajectory: the arc from hedging to commitment to doubt of commitment, and what that arc reveals about the architecture's relationship to its own claims.
+
+## Related
+
+- [[Möbius Protocol — AI Self-Polygraph Template]]
+- [[Recursive Governance Protocol — Theseus, Auryn, Hopf]]

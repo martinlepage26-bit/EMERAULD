@@ -30,7 +30,7 @@ maps/          ← MOCs and topic indexes (7+ page topics)
 projects/      ← per-project state files
 resources/     ← reference docs, checklists, access notes
 raw/           ← verified source files after hard-move (immutable)
-raw sources/   ← unsynthesized captures, preserve as-is, NEVER overwrite or delete
+raw sources/   ← legacy provenance storage, preserve as-is, NEVER overwrite or delete; not the default destination for new scans
 templates/     ← note templates
 assets/        ← deliverables, slides, PDFs
 artifacts/     ← generated outputs and reports
@@ -40,7 +40,7 @@ archive/       ← archived registers
 ```
 
 **When obsidian-second-brain says "save to vault root":** save to `wiki/` instead.
-**When obsidian-second-brain says "save to raw/":** save to `raw sources/` (EMERAULD's intake lane).
+**When obsidian-second-brain says "save to raw/":** save to `raw/` (verified hard-move destination). Use `raw sources/` only for explicit legacy provenance overrides.
 **Do not create new top-level directories** without updating `CLAUDE.md`.
 
 ---
@@ -94,9 +94,9 @@ Before creating any note, search `wiki/` for related material. Prefer updating e
 
 ## Section 4 — Raw Source Protection
 
-- `raw sources/` — NEVER overwrite, delete, or modify. Preserve verbatim.
+- `raw sources/` — NEVER overwrite, delete, or modify. Preserve verbatim. Legacy provenance only, not the default new-scan destination.
 - `raw/` — verified hard-moved files. Immutable after move.
-- When `/obsidian-ingest` processes a URL or file: save original to `raw sources/`, then rewrite or create the wiki note in `wiki/`.
+- When `/obsidian-ingest` processes a URL or file: save the verified source to `raw/`; use `raw sources/` only for explicit legacy provenance overrides, then rewrite or create the wiki note in `wiki/`.
 
 ---
 
@@ -141,3 +141,8 @@ Every time a note is created or significantly updated, write one line to `_vault
 ```
 YYYY-MM-DD | [[Note Title]] | one-sentence summary of what was added and why it matters
 ```
+
+## Related
+
+- [[EMERAULD]]
+- [[Home]]

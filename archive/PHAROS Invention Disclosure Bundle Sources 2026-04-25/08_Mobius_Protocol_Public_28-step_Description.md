@@ -26,3 +26,8 @@ links: []
 The Möbius Protocol is an adversarial diagnostic instrument. Each of its twenty-eight steps either opens a new conversation with the full prior archive reinjected, or continues in the same conversation. The protocol proceeds through recursive self-audit phases, context persistence tests, compressed archive injections, silence probes, and perturbation questions before arriving at forced terminal synthesis.
 
 The instrument is designed to reveal where AI reasoning coherence breaks down under recursive pressure — where the system begins to perform consistency rather than demonstrate it, and where authority claims harden without evidential grounding.
+
+## Related
+
+- [[Möbius Protocol — AI Self-Polygraph Template]]
+- [[Recursive Governance Protocol — Theseus, Auryn, Hopf]]
