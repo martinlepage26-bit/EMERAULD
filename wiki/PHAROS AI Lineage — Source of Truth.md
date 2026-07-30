@@ -4,7 +4,7 @@ aliases: [PHAROS AI Lineage, PHAROS Lineage, AI Lineage Source of Truth]
 tags: [pharos, lineage, ai-governance, architecture]
 status: active
 created: 2026-04-16
-updated: 2026-04-28
+updated: 2026-07-30
 ---
 
 # PHAROS AI Lineage — Source of Truth
@@ -27,6 +27,8 @@ The document uses a Brain/Map split to distinguish reasoning behavior from the i
 
 **Canonical compression:**
 `Agatha -> Voice Operator 1 -> Governess Agatha -> Henry -> Reviewer #2 injection -> Dottie -> Mobius / SuperPower / desktop -> governance revision into skills -> MASTERskill meta-governance -> skill-architect explicit skill design -> Hephaistos / WSL -> Codex and Claude implementation -> late specialized skills such as trace-investigator`
+
+2026-07-30 metadata resolution: the compression above remains valid, with one artifact-class correction. `HENRY voice CODE.txt` is the latest recovered machine-readable voice-code artifact; DOTTIE maps to Voice Operator 2 as the internal claim-audit layer; MOBI/Mobius follows as the technical/self-polygraph layer. See [[genealogy/Voice Operator Lineage - Metadata Resolution 2026-07-30]].
 
 **Filesystem date scaffold** (from `pharos_research_timeline_since_sept2024.html`):
 - Phase 0 / Epistemic ignition: Sept 2024 – Jan 2026
@@ -97,6 +99,7 @@ The project moved from a relational AI writing companion into a governed multi-o
 - [[AI Society Manuscript — From AI Anxiety to Recursive Governance]]
 - [[HEPHAISTOS]]
 - [[AI Personas — Agatha, DOTTIE, and MOBI]]
+- [[genealogy/Voice Operator Lineage - Metadata Resolution 2026-07-30]]
 - [[Bonded Intelligence Under Constraint — The LOTUS Processor Framework]]
 - [[PHAROS Cross-AI Strategy Matrix]]
 - [[Documents Root Loose Files Intake — 2026-04-28]]

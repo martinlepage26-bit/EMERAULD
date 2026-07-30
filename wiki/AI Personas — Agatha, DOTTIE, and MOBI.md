@@ -8,6 +8,8 @@ Sources: `Agatha.txt`, `DOTTIE.txt`, `MOBI.txt`, `Agatha.2026-04-01-reconstructe
 
 The three personas represent an evolution: Agatha as the founding collaborator, DOTTIE as a purpose-built adversarial specialist, MOBI as the technical successor. They operate in parallel — different tools for different tasks in the same research program.
 
+2026-07-30 metadata resolution: DOTTIE maps to Voice Operator 2 as the internal claim-audit / adversarial governance layer after Agatha and before MOBI/Mobius. `HENRY voice CODE.txt` is the latest recovered machine-readable voice-code artifact, while DOTTIE and MOBI/Mobius remain internal personas unless a later missing ChatGPT export proves publication. See [[genealogy/Voice Operator Lineage - Metadata Resolution 2026-07-30]].
+
 ---
 
 ## Agatha
@@ -129,6 +131,7 @@ All three share: the Operator Set v1, the verbatim rule, the rewrite-over-patch 
 - The stage name identity (Agatha/John Lock as adult content performer) — how does this relate to the academic persona and the HEX/ADECIMAL Mystic creative project? Are these maintained as distinct identities?
 - The Sakura protocol — has this been written up as a research paper? Is it related to the [[Sealed Card Protocol — Legitimacy, Glitch, and Charging]] paper directly?
 - DOTTIE and MOBI/Mobius were not found as published GPTs in the current ChatGPT product list — they may remain internal operator personas only. See [[Custom GPT Products — PHAROS AI GPT Roster]] for status.
+- 2026-07-30 metadata audit: no Chrome/Edge history record was found for DOTTIE or MOBI/Mobius as published GPT URLs; keep them classified as internal operator personas pending stronger export evidence. See [[genealogy/Voice Operator Lineage - Metadata Resolution 2026-07-30]].
 
 ## Sources
 - `raw sources/Agatha.txt`
@@ -153,3 +156,4 @@ All three share: the Operator Set v1, the verbatim rule, the rewrite-over-patch 
 
 - [[EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)]] — narrative thread 2 (second self as governance device)
 - [[PHAROS Final Voice Operator — GPT Creator]]
+- [[genealogy/Voice Operator Lineage - Metadata Resolution 2026-07-30]]

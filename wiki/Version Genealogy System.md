@@ -4,7 +4,7 @@ aliases:
   - TOPIC — Version Genealogy System
 tags: [index, map, topic, genealogy, versions, manuscript-history]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-07-30
 ---
 
 # Version Genealogy System
@@ -39,7 +39,9 @@ Genealogies enforce the [[Emotional Alliance vs. Evidentiary Discipline in AI|ev
 
 ## Writing and Voice Genealogies
 
-- [[Martin Voice Spec — Version Genealogy]] — Version history of the Martin voice-spec corpus and operator lineage.
+- [[Martin Voice Spec Root Genealogy|Martin Voice Spec — Version Genealogy]] — Version history of the Martin voice-spec corpus and operator lineage.
+- [[Martin Voice Spec Root Stage Map|Martin Voice Spec — Stage Map]] — Operational counterpart to the voice-spec lineage: runtime checkpoints rather than document sequence.
+- [[genealogy/Voice Operator Lineage - Metadata Resolution 2026-07-30|Voice Operator Lineage - Metadata Resolution 2026-07-30]] — Metadata audit resolving `HENRY voice CODE.txt` as the latest recovered machine-readable voice-code artifact and DOTTIE as Voice Operator 2.
 
 ## Runtime and Skill-Corpus Genealogies
 

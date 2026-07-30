@@ -7,7 +7,7 @@ aliases:
 tags: [henry, paper-builder, voice-spec, genealogy, build-artifact, writing-system, version-genealogy]
 status: active
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-07-30
 ---
 
 # PAPER BUILDER — Source Bundle and HENRY Origin
@@ -46,6 +46,8 @@ The script is the explicit transform:
 
 This means every `HENRY/` file at `/home/cerebrhoe/HENRY/` is a renamed copy of a file from this bundle. The source bundle is Martin-named; the HENRY bundle is the deployed output.
 
+2026-07-30 metadata resolution: the recovered filesystem and archive hashes confirm `Martin's voice CODE.txt` as the Martin-named source and `HENRY voice CODE.txt` as the later machine-readable HENRY output. See [[genealogy/Voice Operator Lineage - Metadata Resolution 2026-07-30]].
+
 ## Architectural Evolution: Relational Coupling
 
 `PAPER BUILDER WK SocialStudies.txt` contains an important refinement: the "three-arm coupling" model (academic arm / artistic arm / ritual arm) was replaced with a **relational coupling** model using three registers:
@@ -68,6 +70,7 @@ The evolution distinguishes between *having anchors* in each arm and *making the
 
 - [[HENRY — Research Paper Writing System]] — the deployed output of this source bundle
 - [[Martin Voice Spec — Version Genealogy]] — the version lineage now updated to include ubuntu disk origin
+- [[genealogy/Voice Operator Lineage - Metadata Resolution 2026-07-30]] — 2026-07-30 metadata resolution for HENRY voice code and operator chronology
 - [[Martin Voice Spec — Stage Map]] — functional stage map for runtime use
 - [[Version Genealogy System]] — hub for all version genealogy work
 - [[Martin Lepage Professional Identity]] — authorial identity the voice spec produces

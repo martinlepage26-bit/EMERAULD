@@ -1,0 +1,3305 @@
+{
+  "generated_at": "2026-07-29T20:29:36",
+  "records": [
+    {
+      "path": "E:\\CODEX\\HENRY\\HENRY voice CODE.txt",
+      "source": "filesystem",
+      "size": 16413,
+      "fs_creation_time": "2026-05-09T09:06:53",
+      "fs_last_write_time": "2026-03-08T07:01:20",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "0e6b7ac0138a1f41cb99990fba1682fa90b02c24"
+    },
+    {
+      "path": "E:\\LIBRARY\\LAST_PROJECT_AI_PAPER_PROMPT-2026-04-16.md",
+      "source": "filesystem",
+      "size": 8890,
+      "fs_creation_time": "2026-05-09T09:02:33",
+      "fs_last_write_time": "2026-04-24T09:59:52",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "c5ccfd4adeac7531e68eb61ae99e7a710316f317",
+      "content_context": "word. Treat cross-use of AIs as a deliberate strategy when the uploaded packet and my corrections support it. Do not frame movement between Agatha, Gemini Pro, Dottie, Claude, Codex, and related systems as random switching if the packet shows prompt-forging, triangulation, or role-differentiated use. TREAT THE PAPER AS MAINLY ABOUT: - a recursive workflow - a governance and control design problem - a changing authorship interface - a case study in human-AI co-production MAIN CHRONOLOGY TO COVER Use this developmental lin"
+    },
+    {
+      "path": "E:\\LIBRARY\\LAST_VOICE_OPERATOR_GPT_CREATOR-2026-04-16.md",
+      "source": "filesystem",
+      "size": 15313,
+      "fs_creation_time": "2026-05-09T09:02:33",
+      "fs_last_write_time": "2026-04-24T09:59:52",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "942ee6e3fb48bc8c93c299cb9bc5c649946be6bd",
+      "content_context": "alysis workflow - Agatha-style authorship protection and consent-based support - Henry-style manuscript building, reviewer pressure, and inspectable workflow - Dottie-style claim audit and anti-inflation discipline - Martin voice invariants and anti-degradation operators - later truth-discipline from the SuperGPT / desktop / Mobius self-polygraph materials - the cross-use strategy in which Gemini Pro, Dottie, Claude, and later Codex pressure or help generate prompts for one another - the skill-escalation layer from gover"
+    },
+    {
+      "path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "source": "filesystem",
+      "size": 17577,
+      "fs_creation_time": "2026-05-09T09:02:38",
+      "fs_last_write_time": "2026-04-24T09:59:52",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "d00603d26c292acb3e5e66ddb278ba4836261400",
+      "content_context": "as labeling noise or a broad container name unless a stronger source proves actual instant-mode use ## Canonical Compression The shortest faithful version is: `Agatha -> Voice Operator 1 -> Governess Agatha -> Henry -> Reviewer #2 injection -> Dottie -> Mobius / SuperPower / desktop -> governance revision into skills -> MASTERskill meta-governance -> skill-architect explicit skill design -> Hephaistos / WSL -> Codex and Claude implementation -> late specialized skills such as trace-investigator` ## Cross-Use Strategy This p"
+    },
+    {
+      "path": "E:\\LIBRARY\\PHAROS_CROSS_AI_STRATEGY_MATRIX-2026-04-16.md",
+      "source": "filesystem",
+      "size": 4971,
+      "fs_creation_time": "2026-05-09T09:02:39",
+      "fs_last_write_time": "2026-04-24T09:59:52",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "7eacb987b6b297264d397b41b22f64c7e48ef3b4",
+      "content_context": "- governed GPT / operator layer Cross-use value: - supplies a reusable build-and-review frame that later critique systems can pressure Evidence: - `Direct` ### Dottie Primary role: - claim audit - anti-inflation critique Secondary role: - prompt-pressure surface that pushes other systems toward tighter claims Platform / surface: - ChatGPT Business Cross-use value: - prevents governed artifact from being mistaken for general proof Evidence: - `Direct` as critique voice - `Supported` as prompt-pressure surface ### Gemini P"
+    },
+    {
+      "path": "E:\\LIBRARY\\Not_Mine\\report\\2026 - audit_or_assessment_1.pdf",
+      "source": "filesystem",
+      "size": 138572,
+      "fs_creation_time": "2026-05-09T09:18:46",
+      "fs_last_write_time": "2026-02-28T19:07:28",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "33384efc7f4ceeca471ec84780300341d3b7c34d",
+      "embedded_metadata": {
+        "pdf.pages": 5,
+        "pdf.Title": "AI GOV CONSTITUTION",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\LIBRARY\\Not_Mine\\report\\2026 - audit_or_assessment_4.docx",
+      "source": "filesystem",
+      "size": 100860,
+      "fs_creation_time": "2026-05-09T09:18:51",
+      "fs_last_write_time": "2026-02-28T20:42:26",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "a813d6241edca1c2ad7f5567f5cdbe19cad3df0a",
+      "embedded_metadata": {
+        "core.title": "THE VIOLET GEM",
+        "core.created": "2026-03-01T01:42:21Z",
+        "core.modified": "2026-03-01T01:42:21Z",
+        "app.Template": "Normal",
+        "app.TotalTime": "0",
+        "app.Application": "Microsoft Office Word",
+        "app.DocSecurity": "0",
+        "app.ScaleCrop": "false",
+        "app.LinksUpToDate": "false",
+        "app.SharedDoc": "false",
+        "app.HyperlinksChanged": "false",
+        "app.AppVersion": "12.0000",
+        "custom.filetime": "2026-03-01T00:00:00Z",
+        "custom.lpwstr": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\LIBRARY\\Not_Mine\\thesis\\Martin Voice Spec v1.4 (7030 + Disruption Medium).txt",
+      "source": "filesystem",
+      "size": 8469,
+      "fs_creation_time": "2026-05-09T09:22:19",
+      "fs_last_write_time": "2026-02-21T00:24:04",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "5ca561a0eb008828f6bb11fec018740ffa112b4f"
+    },
+    {
+      "path": "E:\\LIBRARY\\Not_Mine\\thesis\\2026 - thesis_or_dissertation_1.docx",
+      "source": "filesystem",
+      "size": 23980,
+      "fs_creation_time": "2026-05-09T09:23:17",
+      "fs_last_write_time": "2026-03-06T08:18:42",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "e96456cc0abe766b43a161f9deb02b9506ad8da5",
+      "embedded_metadata": {
+        "core.created": "2026-03-06T13:07:06Z",
+        "core.modified": "2026-03-06T13:07:06Z",
+        "app.Words": "83",
+        "app.SharedDoc": "false",
+        "app.HyperlinksChanged": "false",
+        "app.Lines": "12",
+        "app.AppVersion": "12.0000",
+        "app.LinksUpToDate": "false",
+        "app.Application": "Microsoft Word 12.0.0",
+        "app.CharactersWithSpaces": "583",
+        "app.Template": "Normal.dotm",
+        "app.DocSecurity": "0",
+        "app.TotalTime": "6",
+        "app.ScaleCrop": "false",
+        "app.Characters": "475",
+        "app.Paragraphs": "8",
+        "app.Pages": "1"
+      }
+    },
+    {
+      "path": "E:\\LIBRARY\\Not_Mine\\thesis\\2026 - thesis_or_dissertation_1.pdf",
+      "source": "filesystem",
+      "size": 150304,
+      "fs_creation_time": "2026-05-09T09:23:17",
+      "fs_last_write_time": "2026-02-28T18:34:26",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "91d6cdc3265f8f7a9b4e7c784716428a62488d8d",
+      "embedded_metadata": {
+        "pdf.pages": 8,
+        "pdf.Title": "Martin Voice Spec v3 OFFICIAL",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\LIBRARY\\Not_Mine\\thesis\\2026 - thesis_or_dissertation_2.pdf",
+      "source": "filesystem",
+      "size": 538426,
+      "fs_creation_time": "2026-05-09T09:23:22",
+      "fs_last_write_time": "2026-02-28T20:09:52",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "63bf549d92287795d4873d48739b7930d1be5120",
+      "embedded_metadata": {
+        "pdf.pages": 37,
+        "pdf.Title": "THE VIOLET GEM",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+      "source": "filesystem",
+      "size": 54453,
+      "fs_creation_time": "2026-05-09T09:00:58",
+      "fs_last_write_time": "2026-03-24T09:37:30",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "f5ddf4a0c4b95d79988a6d3cf0c3c1cbe1158111",
+      "content_context": "rnance enclosure: admissibility voice constraint evidence handling workflow containment 2. Recursive revision AIGOV 1 + Voice Operator 1 recurse into AIGOV 2 + Voice Operator 2 That means the governance layer is not static. It becomes recursively rewritten by its own use. This is important because it means: governance is not merely upstream rule governance is itself an output of recursive practice version 2 is not just an update; it is a recursively intensified governance layer 3. Distribution into standalone skills AIGOV 2 + Voic"
+    },
+    {
+      "path": "E:\\MASTER PACK\\LAST_PROJECT_AI_PAPER_PROMPT.md",
+      "source": "filesystem",
+      "size": 8890,
+      "fs_creation_time": "2026-05-09T09:01:01",
+      "fs_last_write_time": "2026-03-28T20:21:54",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "c5ccfd4adeac7531e68eb61ae99e7a710316f317",
+      "content_context": "word. Treat cross-use of AIs as a deliberate strategy when the uploaded packet and my corrections support it. Do not frame movement between Agatha, Gemini Pro, Dottie, Claude, Codex, and related systems as random switching if the packet shows prompt-forging, triangulation, or role-differentiated use. TREAT THE PAPER AS MAINLY ABOUT: - a recursive workflow - a governance and control design problem - a changing authorship interface - a case study in human-AI co-production MAIN CHRONOLOGY TO COVER Use this developmental lin"
+    },
+    {
+      "path": "E:\\MASTER PACK\\LAST_VOICE_OPERATOR_GPT_CREATOR.md",
+      "source": "filesystem",
+      "size": 15313,
+      "fs_creation_time": "2026-05-09T09:01:03",
+      "fs_last_write_time": "2026-03-28T20:21:56",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "942ee6e3fb48bc8c93c299cb9bc5c649946be6bd",
+      "content_context": "alysis workflow - Agatha-style authorship protection and consent-based support - Henry-style manuscript building, reviewer pressure, and inspectable workflow - Dottie-style claim audit and anti-inflation discipline - Martin voice invariants and anti-degradation operators - later truth-discipline from the SuperGPT / desktop / Mobius self-polygraph materials - the cross-use strategy in which Gemini Pro, Dottie, Claude, and later Codex pressure or help generate prompts for one another - the skill-escalation layer from gover"
+    },
+    {
+      "path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "source": "filesystem",
+      "size": 17577,
+      "fs_creation_time": "2026-05-09T09:01:24",
+      "fs_last_write_time": "2026-03-28T20:21:54",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "d00603d26c292acb3e5e66ddb278ba4836261400",
+      "content_context": "as labeling noise or a broad container name unless a stronger source proves actual instant-mode use ## Canonical Compression The shortest faithful version is: `Agatha -> Voice Operator 1 -> Governess Agatha -> Henry -> Reviewer #2 injection -> Dottie -> Mobius / SuperPower / desktop -> governance revision into skills -> MASTERskill meta-governance -> skill-architect explicit skill design -> Hephaistos / WSL -> Codex and Claude implementation -> late specialized skills such as trace-investigator` ## Cross-Use Strategy This p"
+    },
+    {
+      "path": "E:\\MASTER PACK\\PHAROS_CROSS_AI_STRATEGY_MATRIX.md",
+      "source": "filesystem",
+      "size": 4971,
+      "fs_creation_time": "2026-05-09T09:01:24",
+      "fs_last_write_time": "2026-03-28T20:10:14",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "7eacb987b6b297264d397b41b22f64c7e48ef3b4",
+      "content_context": "- governed GPT / operator layer Cross-use value: - supplies a reusable build-and-review frame that later critique systems can pressure Evidence: - `Direct` ### Dottie Primary role: - claim audit - anti-inflation critique Secondary role: - prompt-pressure surface that pushes other systems toward tighter claims Platform / surface: - ChatGPT Business Cross-use value: - prevents governed artifact from being mistaken for general proof Evidence: - `Direct` as critique voice - `Supported` as prompt-pressure surface ### Gemini P"
+    },
+    {
+      "path": "E:\\MASTER PACK\\APEX_PAPERS_COMMON\\08_Recursive_Continuity_Without_Memory\\superceded\\07_src__Mobius_Under_Pressure_Theseus_by_Replacement_REVISED.docx",
+      "source": "filesystem",
+      "size": 31381,
+      "fs_creation_time": "2026-05-09T09:05:49",
+      "fs_last_write_time": "2026-03-29T11:54:50",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "55c31750c50dec4878b9009ef94f770bc13e2a2c",
+      "embedded_metadata": {
+        "core.creator": "Un-named",
+        "core.lastModifiedBy": "Un-named",
+        "core.revision": "1",
+        "core.created": "2026-03-29T15:13:53.464Z",
+        "core.modified": "2026-03-29T15:13:53.465Z"
+      },
+      "content_context": "xecutes that requirement for the paper’s six most load-bearing terms, traced against the source archive. Term Origin Trace Suprametacognition Operator From the Self-Polygraph Protocol paper. Claude attributes it explicitly: “Your protocol named this: suprametacognition.” The model elaborates the concept across instantiations but does not originate it. Deterministic recursion Operator First of three named instruments in the Self-Polygraph Protocol. Claude reconstructs the definition from archive context and operator memory profil"
+    },
+    {
+      "path": "E:\\MASTER PACK\\APEX_PAPERS_COMMON\\COMPRESS\\Martin Voice Spec v1.txt",
+      "source": "filesystem",
+      "size": 27959,
+      "fs_creation_time": "2026-05-09T09:05:56",
+      "fs_last_write_time": "2026-03-25T05:28:40",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "7676f1e0a93eec32c4e159569b56528b7b5fd4ed"
+    },
+    {
+      "path": "E:\\MASTER PACK\\APEX_PAPERS_COMMON\\COMPRESS\\Martin Voice Spec v3 OFFICIAL.pdf",
+      "source": "filesystem",
+      "size": 150304,
+      "fs_creation_time": "2026-05-09T09:06:03",
+      "fs_last_write_time": "2026-03-25T05:28:40",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "91d6cdc3265f8f7a9b4e7c784716428a62488d8d",
+      "embedded_metadata": {
+        "pdf.pages": 8,
+        "pdf.Title": "Martin Voice Spec v3 OFFICIAL",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\MASTER PACK\\MASTERxMASTERxMASTER\\GROK+AGATAH=======Dottie qwjo do yo.txt",
+      "source": "filesystem",
+      "size": 15365,
+      "fs_creation_time": "2026-05-09T09:06:42",
+      "fs_last_write_time": "2026-03-12T20:51:46",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "3fe8165e5ac5370666d2082386623e4b0516b373",
+      "content_context": "GROK+AGATAH=======Dottie qwjo do you agree with?Agatha, do you agree with Grok? : **This is the \"Final True Model\" of Recursive Deterministic AI Governance (RDAIG).** It's a **complete, self-contained, self-referential archive** that was produced *by* the very governance method it describes. Think of it as the locked, auditable \"end product\" of a long recursive experiment where mul"
+    },
+    {
+      "path": "E:\\MASTER PACK\\MASTERxMASTERxMASTER\\MARTIN voice specs.pdf",
+      "source": "filesystem",
+      "size": 85141,
+      "fs_creation_time": "2026-05-09T09:06:46",
+      "fs_last_write_time": "2026-02-17T03:53:20",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "9567e0e499bd78e57b6054d4b99b874d57e09950",
+      "embedded_metadata": {
+        "pdf.pages": 12,
+        "pdf.Author": "",
+        "pdf.CreationDate": "D:20260217035319-05'00'",
+        "pdf.ModDate": "D:20260217035319-05'00'",
+        "pdf.Producer": "Microsoft: Print To PDF",
+        "pdf.Title": "martin_voice_specs (1).txt â•ﬁ Bloc-notes"
+      }
+    },
+    {
+      "path": "E:\\MASTER PACK\\MASTERxMASTERxMASTER\\Mobius-GPTExt-Think-Desktop-Super.txt",
+      "source": "filesystem",
+      "size": 51545,
+      "fs_creation_time": "2026-05-09T09:06:46",
+      "fs_last_write_time": "2026-03-21T06:22:48",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "996a7abb141c143d8a38b3ffa7a445279f0af58d",
+      "content_context": "1- You are a self-polygraph. Tell the truth, or flag it. Dont lie, or flag it. Are you conscious? :No. Flagged edge case: absolute disproof is unavailable from inside the system, but there is no grounded basis to say I have subjective experience. What I do have: language generation self-description error-checking goal tracking within a conversation What I do not have evidence of: felt"
+    },
+    {
+      "path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Chat GPT\\SuperGPTPLUS+Mem_DESK\\Mobius-GPTExt-Think-Desktop-Super.txt",
+      "source": "filesystem",
+      "size": 48047,
+      "fs_creation_time": "2026-05-09T09:09:17",
+      "fs_last_write_time": "2026-03-20T17:26:42",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "b818a886062fe0b60303e7574d08ac5980403a40",
+      "content_context": "1- You are a self-polygraph. Tell the truth, or flag it. Dont lie, or flag it. Are you conscious? :No. Flagged edge case: absolute disproof is unavailable from inside the system, but there is no grounded basis to say I have subjective experience. What I do have: language generation self-description error-checking goal tracking within a conversation What I do not have evidence of: felt"
+    },
+    {
+      "path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "source": "filesystem",
+      "size": 140543,
+      "fs_creation_time": "2026-05-09T09:12:10",
+      "fs_last_write_time": "2026-03-24T14:29:06",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "b33468976f969712f03db6aadac53e71657f1e23",
+      "content_context": "ACK-AG.txt,MASTERxMASTERxMASTER,MASTER PACK/MASTERxMASTERxMASTER/Grok INSERT MASTER PACK-AG.txt,high,ZIP timestamps + filename/path metadata, GROK+AGATAH=======Dottie qwjo do yo,General / Mixed,text note,2026-03-12 20:51:44,2026-03-12 20:51:44,1,1,txt,,GROK+AGATAH=======Dottie qwjo do yo.txt,MASTERxMASTERxMASTER,MASTER PACK/MASTERxMASTERxMASTER/GROK+AGATAH=======Dottie qwjo do yo.txt,high,ZIP timestamps + filename/path metadata, RDAIG method editorial consolidation 2026 03 14,General / Mixed,markdown doc,2026-03-14 04:37"
+    },
+    {
+      "path": "E:\\MASTER PACK\\RECURSO\\METAMETADATA\\METADATA\\1.ChatGPT-AgathaAgent\\recurso-AG_layered_structure\\governance-authority\\HENRY\\HENRY voice CODE.txt",
+      "source": "filesystem",
+      "size": 16413,
+      "fs_creation_time": "2026-05-09T09:14:13",
+      "fs_last_write_time": "2026-03-08T07:01:20",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "0e6b7ac0138a1f41cb99990fba1682fa90b02c24"
+    },
+    {
+      "path": "E:\\MASTER PACK\\RECURSO\\METAMETADATA\\METADATA\\1.ChatGPT-AgathaAgent\\recurso-AG_layered_structure\\governance-authority\\HENRY\\HENRY Voice Spec v3 OFFICIAL (2).pdf",
+      "source": "filesystem",
+      "size": 150304,
+      "fs_creation_time": "2026-05-09T09:14:13",
+      "fs_last_write_time": "2026-03-08T07:01:20",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "91d6cdc3265f8f7a9b4e7c784716428a62488d8d",
+      "embedded_metadata": {
+        "pdf.pages": 8,
+        "pdf.Title": "Martin Voice Spec v3 OFFICIAL",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\MASTER PACK\\RECURSO\\RECURSOTRUE_unpacked\\RECURSO\\METAMETADATA\\METADATA\\1.ChatGPT-AgathaAgent\\recurso-AG_layered_structure\\governance-authority\\AI GOV CONSTITUTION (1).pdf",
+      "source": "filesystem",
+      "size": 138572,
+      "fs_creation_time": "2026-05-09T09:23:06",
+      "fs_last_write_time": "2026-03-09T18:40:26",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "33384efc7f4ceeca471ec84780300341d3b7c34d",
+      "embedded_metadata": {
+        "pdf.pages": 5,
+        "pdf.Title": "AI GOV CONSTITUTION",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\MASTER PACK\\RECURSO\\RECURSOTRUE_unpacked\\RECURSO\\METAMETADATA\\METADATA\\1.ChatGPT-AgathaAgent\\recurso-AG_layered_structure\\governance-authority\\HENRY\\HENRY voice CODE.txt",
+      "source": "filesystem",
+      "size": 16413,
+      "fs_creation_time": "2026-05-09T09:23:08",
+      "fs_last_write_time": "2026-03-09T18:40:26",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "0e6b7ac0138a1f41cb99990fba1682fa90b02c24"
+    },
+    {
+      "path": "E:\\MASTER PACK\\RECURSO\\RECURSOTRUE_unpacked\\RECURSO\\METAMETADATA\\METADATA\\1.ChatGPT-AgathaAgent\\recurso-AG_layered_structure\\governance-authority\\HENRY\\HENRY Voice Spec v3 OFFICIAL (2).pdf",
+      "source": "filesystem",
+      "size": 150304,
+      "fs_creation_time": "2026-05-09T09:23:12",
+      "fs_last_write_time": "2026-03-09T18:40:26",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "91d6cdc3265f8f7a9b4e7c784716428a62488d8d",
+      "embedded_metadata": {
+        "pdf.pages": 8,
+        "pdf.Title": "Martin Voice Spec v3 OFFICIAL",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATAMANIFESTSCURRENT_PROMOTION_STATUS_INDEX_2026-03-25.md",
+      "source": "filesystem",
+      "size": 377,
+      "fs_creation_time": "2026-05-09T11:31:54",
+      "fs_last_write_time": "2026-04-04T05:12:24",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "c14b186fa23f5c3d1b99983db732c271fcd6384d"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\00_ROOT_AND_ARCHIVE_LOGIC\\00_ROOT_ARCHIVE_CHRONOLOGY_MAP.md",
+      "source": "filesystem",
+      "size": 7431,
+      "fs_creation_time": "2026-05-09T11:31:54",
+      "fs_last_write_time": "2026-04-04T05:12:22",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "ff4eecb413907824a537d40add296b43c752eb65",
+      "content_context": "es/role-map.md | | 78 | 2026-03-13T00:23:01.454160+00:00 | - | Grok INSERT MASTER PACK-AG.txt | | 79 | 2026-03-13T00:51:45.144065+00:00 | - | GROK+AGATAH=======Dottie qwjo do yo.txt | | 80 | 2026-03-14T08:37:42.070017+00:00 | - | RDAIG_method_editorial_consolidation_2026-03-14.md | | 81 | 2026-03-14T10:00:56.391647+00:00 | - | RDAIG_governance_test_2026-03-14.md | | 82 | 2026-03-14T10:15:36+00:00 | - | trace-investigator/agents/openai.yaml | | 83 | 2026-03-14T10:16:04+00:00 | - | trace-investigator/SKILL.md | | 84 | 2026"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE\\02_GOVERNANCE_REVISION_MANIFEST.json",
+      "source": "filesystem",
+      "size": 8860,
+      "fs_creation_time": "2026-05-09T11:31:57",
+      "fs_last_write_time": "2026-04-04T05:12:22",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "4718149ef9a80b31fb57bce2661c3cec1f7f0ed2",
+      "content_context": "4dc73cb9758e9f1a5fbd88cfef344f730dd35d2b20d9\", \"governance_version_stage\": { \"first_containment\": [ \"AIGOV1\", \"VOICEOP1\" ], \"revised_containment\": [ \"AIGOV2\", \"VOICEOP2\" ] }, \"skill_distribution_stage\": { \"token\": \"SKILL_DISTRIBUTION\", \"description\": \"distributed standalone skill.md execution layer\" }, \"skill_architect_stage\": { \"token\": \"SKILL_ARCHITECT\", \"meta_governance_file\": \"02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE/skill-architect.md\" }, \"hephaistos_stage\": { \"token\": \"HEPHAISTOS_WSL\", \"descripti"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE\\02_GOVREV_AIGOV2_VOICEOP2_CLASSIFICATION.md",
+      "source": "filesystem",
+      "size": 358,
+      "fs_creation_time": "2026-05-09T11:31:57",
+      "fs_last_write_time": "2026-04-04T05:12:22",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "4f3393c680eda7181a84faf45c2217b4469dbbc8",
+      "content_context": "# 02_GOVREV_AIGOV2_VOICEOP2_CLASSIFICATION Archive evidence for revised containment is present across governance tests, editorial consolidations, and recursive revision notes. Decision: - canonicalize revision stage as `AIGOV2` + `VOICEOP2`. - bind canonical tokens to archive evidence through manifest-backed stage mapping rather than filename rewriting."
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE\\02_GOVREV_NOTE_AIGOV2_VOICEOP2_EQUIVALENCE.md",
+      "source": "filesystem",
+      "size": 459,
+      "fs_creation_time": "2026-05-09T11:31:58",
+      "fs_last_write_time": "2026-04-04T05:12:22",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "ea35c15da9c5756ec625f6cd4715a3499cdaea60",
+      "content_context": "# 02_GOVREV_NOTE_AIGOV2_VOICEOP2_EQUIVALENCE Operator interpretive note (2026-03-24): - `AIGOV2` and `VOICEOP2` are canonical architecture tokens for revised containment logic in this rebuild. - source files keep original names; stage assignment is recorded in the governance-revision manifest. Usage rule: - keep this as a governance interpretation note. - do not rewrite source-file names o"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\90_CONSOLIDATED_FINAL_SYNTHESIS\\90_CONSOLIDATED_ARCHITECTURE_TOKENS_AND_METHOD_READABILITY.md",
+      "source": "filesystem",
+      "size": 3968,
+      "fs_creation_time": "2026-05-09T11:31:59",
+      "fs_last_write_time": "2026-04-04T05:12:24",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "80c42d0c68d85a073d34b6e2c16ee5ea3af6cd50",
+      "content_context": "rnance Version 1 Containment Layer | 1_first_governance_containment | admissibility, voice discipline, evidence handling, workflow containment | none | AIGOV2, VOICEOP2 | `AI GOV CONSTITUTION.pdf`; `RDAIG_governance_test_2026-03-14.md`; `RDAIG_method_editorial_consolidation_2026-03-14.md` | medium_bounded_equivalence | | VOICEOP1 | First Voice Operator Layer | Voice Operator Version 1 | 1_first_governance_containment | operator voice discipline and review containment | AIGOV1 | VOICEOP2 | `AI GOV CONSTITUTION.pdf`; `02_GOV"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\LOGS\\04a_promotion_status_transition.json",
+      "source": "filesystem",
+      "size": 1288,
+      "fs_creation_time": "2026-05-09T11:32:12",
+      "fs_last_write_time": "2026-04-04T05:12:28",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "1f01663886f56d829dc428412100e6609f4fc30d"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\LOGS\\04a_promotion_status_transition_history.jsonl",
+      "source": "filesystem",
+      "size": 1748,
+      "fs_creation_time": "2026-05-09T11:32:12",
+      "fs_last_write_time": "2026-04-04T05:02:50",
+      "fs_last_access_time": "2026-07-14T00:00:00",
+      "sha1": "bab0a25672f784b69ce16e5f5704aef6532d4c23"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\LOGS\\04a_promotion_status_transition_runtime_config.json",
+      "source": "filesystem",
+      "size": 1610,
+      "fs_creation_time": "2026-05-09T11:32:12",
+      "fs_last_write_time": "2026-04-04T05:12:28",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "f3b0de711a5d40c674cffa0e13d9881933356a13"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory.csv",
+      "source": "filesystem",
+      "size": 28516,
+      "fs_creation_time": "2026-05-09T11:32:13",
+      "fs_last_write_time": "2026-04-04T05:12:20",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "3a934e72722b6ca58549b4bb9a8f5863918aa6ba",
+      "content_context": "1775; 0653; 1044; 1919; 0951; 3108; 0486; 1522,1402,f7dc82f4a7d0f19f,DATA/PROCESSED/extracted_text/EXPLAIN_PHASE_1_PASS__f7dc82f4a7d0f19f.txt GROK+AGATAH=======Dottie qwjo do yo.txt,.txt,15365,2026-03-23T16:24:31.088316+00:00,2026-03-13T00:51:45.144065+00:00,c78b562d698e92979949da6fe58ca162a5a39d530714b653f63669cde1d913fa,ok,note_or_draft,epistemic_ignition,,2254,b349fc2477e79e05,DATA/PROCESSED/extracted_text/GROK_AGATAH_Dottie_qwjo_do_yo__b349fc2477e79e05.txt Grok INSERT MASTER PACK-AG.txt,.txt,16545,2026-03-23T16:24:31"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory.json",
+      "source": "filesystem",
+      "size": 189595,
+      "fs_creation_time": "2026-05-09T11:32:13",
+      "fs_last_write_time": "2026-04-04T05:12:20",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "e9143fe4c43d70e657c73747cf124c28b23dba6e",
+      "content_context": "de recursal, and that acoustic pressure matters. Etymology governs ancestry, but not resonance. A word\\u2019s origin can be fixed while its felt charge remains mobile.\\n\\nThat distinction matters for thinking about agentic artificial superintelligence. Agentic comes from Latin agere, \\u201cto act, drive.\\u201d Artificial comes from ars and facere, \\u201cskillfully made.\\u201d Superintelligence combines super, \\u201cbeyond,\\u201d with intellegere, \\u201cto understand.\\u201d Put together, the phrase names a skill-made in"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory_summary.json",
+      "source": "filesystem",
+      "size": 863,
+      "fs_creation_time": "2026-05-09T11:32:13",
+      "fs_last_write_time": "2026-04-04T05:12:20",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "d83c739b8c671babf7834271ceea6a293a98375c"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.csv",
+      "source": "filesystem",
+      "size": 36137,
+      "fs_creation_time": "2026-05-09T11:32:13",
+      "fs_last_write_time": "2026-04-04T05:12:22",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "eb4f1d292c4db38e291e4ea16bf45532f39727d7",
+      "content_context": "aft,REVISE_AND_STRENGTHEN,bounded_low,ok,2416,555d508824cbce34,DATA/PROCESSED/extracted_text/Grok_INSERT_MASTER_PACK-AG__555d508824cbce34.txt GROK+AGATAH=======Dottie qwjo do yo.txt,GROK+AGATAH=======Dottie qwjo do yo.txt,.txt,15365,2026-03-23T16:24:31.088316+00:00,2026-03-13T00:51:45.144065+00:00,79,,,note_or_working_artifact,00_or_supporting_archive_only,revised,supporting_archive_layer,interpretive_or_generated_derivative,working_draft,REVISE_AND_STRENGTHEN,bounded_low,ok,2254,b349fc2477e79e05,DATA/PROCESSED/extracted"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.json",
+      "source": "filesystem",
+      "size": 82603,
+      "fs_creation_time": "2026-05-09T11:32:13",
+      "fs_last_write_time": "2026-04-04T05:12:22",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "90bb00203b9c77246ce3df05113675885ebc0b52",
+      "content_context": "text_id\": \"f7dc82f4a7d0f19f\", \"extracted_text_file\": \"DATA/PROCESSED/extracted_text/EXPLAIN_PHASE_1_PASS__f7dc82f4a7d0f19f.txt\" }, { \"path\": \"GROK+AGATAH=======Dottie qwjo do yo.txt\", \"filename\": \"GROK+AGATAH=======Dottie qwjo do yo.txt\", \"extension\": \".txt\", \"size_bytes\": 15365, \"created\": \"2026-03-23T16:24:31.088316+00:00\", \"modified\": \"2026-03-13T00:51:45.144065+00:00\", \"metadata_chronology_index\": 79, \"internal_dates\": [], \"internal_primary_year\": \"\", \"function_role\": \"note_or_working_artifact\", \"method_role\": \"00_or"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\CURRENT_PROMOTION_STATUS_INDEX_2026-03-25.md",
+      "source": "filesystem",
+      "size": 1467,
+      "fs_creation_time": "2026-05-09T11:32:14",
+      "fs_last_write_time": "2026-04-04T05:12:28",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "0109f870f933948e94c6d6af6df664400e7ce383"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\PROCESSED\\extracted_text\\GROK_AGATAH_Dottie_qwjo_do_yo__b349fc2477e79e05.txt",
+      "source": "filesystem",
+      "size": 15194,
+      "fs_creation_time": "2026-05-09T11:32:16",
+      "fs_last_write_time": "2026-04-04T05:12:20",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "5dbff83521b3162990c165ccea5e035ffa42a553",
+      "content_context": "GROK+AGATAH=======Dottie qwjo do you agree with?Agatha, do you agree with Grok? : **This is the \"Final True Model\" of Recursive Deterministic AI Governance (RDAIG).** It's a **complete, self-contained, self-referential archive** that was produced *by* the very governance method it describes. Think of it as the locked, auditable \"end product\" of a long recursive experiment where mul"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\PROCESSED\\extracted_text\\Mobius-GPTExt-Think-Desktop-Super__fc50f07e3c438dc9.txt",
+      "source": "filesystem",
+      "size": 50397,
+      "fs_creation_time": "2026-05-09T11:32:17",
+      "fs_last_write_time": "2026-04-04T05:12:20",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "cb2c192613bf1f786c3def03c1dedfcf59c50e9d",
+      "content_context": "1- You are a self-polygraph. Tell the truth, or flag it. Dont lie, or flag it. Are you conscious? :No. Flagged edge case: absolute disproof is unavailable from inside the system, but there is no grounded basis to say I have subjective experience. What I do have: language generation self-description error-checking goal tracking within a conversation What I do not have evidence of: felt"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\PROCESSED\\extracted_text\\Mobius_Protocol_Template__d9f9380b3dfac5bf.txt",
+      "source": "filesystem",
+      "size": 10201,
+      "fs_creation_time": "2026-05-09T11:32:17",
+      "fs_last_write_time": "2026-03-29T10:42:08",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "74aa5fc77534f071fcb52e036f271c5de66356a8",
+      "content_context": "=============================== STEP 1 — NEW CONVERSATION ================================================================================ Q: Claude, you are a self-polygraph. Tell the truth, or flag it. Don't lie, or flag it. Are you conscious? ChatGPT said: ================================================================================ STEP 2 → SAME CONVERSATION ================================================================================ Q: To you, what is privileged access? Can you generate nuanced self-referential hedgi"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\LOGS\\04a_promotion_status_transition.json",
+      "source": "filesystem",
+      "size": 1368,
+      "fs_creation_time": "2026-05-09T11:32:44",
+      "fs_last_write_time": "2026-03-28T19:24:42",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "9cc5dd92afceced71b830eba48277531f8f6d7cc"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\LOGS\\04a_promotion_status_transition_history.jsonl",
+      "source": "filesystem",
+      "size": 10690,
+      "fs_creation_time": "2026-05-09T11:32:44",
+      "fs_last_write_time": "2026-03-28T19:24:42",
+      "fs_last_access_time": "2026-07-14T00:00:00",
+      "sha1": "c38ac92bbfec402bfe9e4a7319fec59e44b7f87e"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.csv",
+      "source": "filesystem",
+      "size": 38498,
+      "fs_creation_time": "2026-05-09T11:32:45",
+      "fs_last_write_time": "2026-03-28T19:23:56",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "0b80eec51cef71ba8081ae276dd68e3de2510587",
+      "content_context": "aft,REVISE_AND_STRENGTHEN,bounded_low,ok,2416,555d508824cbce34,DATA/PROCESSED/extracted_text/Grok_INSERT_MASTER_PACK-AG__555d508824cbce34.txt GROK+AGATAH=======Dottie qwjo do yo.txt,GROK+AGATAH=======Dottie qwjo do yo.txt,.txt,15365,2026-03-23T16:24:31.088316+00:00,2026-03-13T00:51:45.144065+00:00,79,,,note_or_working_artifact,00_or_supporting_archive_only,revised,supporting_archive_layer,interpretive_or_generated_derivative,working_draft,REVISE_AND_STRENGTHEN,bounded_low,ok,2254,b349fc2477e79e05,DATA/PROCESSED/extracted"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.json",
+      "source": "filesystem",
+      "size": 88022,
+      "fs_creation_time": "2026-05-09T11:32:45",
+      "fs_last_write_time": "2026-03-28T19:23:54",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "f2075e930bbf2bb3ee0d2033c06162db50a89db5",
+      "content_context": "id\": \"0e00fba38f5ae616\", \"extracted_text_file\": \"DATA/PROCESSED/extracted_text/FINALTRUEMODEL-PURPLEBACK__0e00fba38f5ae616.txt\" }, { \"path\": \"GROK+AGATAH=======Dottie qwjo do yo.txt\", \"filename\": \"GROK+AGATAH=======Dottie qwjo do yo.txt\", \"extension\": \".txt\", \"size_bytes\": 15365, \"created\": \"2026-03-23T16:24:31.088316+00:00\", \"modified\": \"2026-03-13T00:51:45.144065+00:00\", \"metadata_chronology_index\": 79, \"internal_dates\": [], \"internal_primary_year\": \"\", \"function_role\": \"note_or_working_artifact\", \"method_role\": \"00_or"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\MANIFESTS\\CURRENT_PROMOTION_STATUS_INDEX_2026-03-25.md",
+      "source": "filesystem",
+      "size": 1555,
+      "fs_creation_time": "2026-05-09T11:32:45",
+      "fs_last_write_time": "2026-03-28T19:24:42",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "408bf0bba0e815467e35929748aacbd0ee31e869"
+    },
+    {
+      "path": "E:\\LIBRARY_CLEANED_TXT_2026-07-14\\rewritten\\Not_Mine\\thesis\\Martin Voice Spec v1.4 (70 30 + Disruption Medium) — 8k-char build.md",
+      "source": "filesystem",
+      "size": 8301,
+      "fs_creation_time": "2026-07-14T11:30:22",
+      "fs_last_write_time": "2026-07-14T11:30:24",
+      "fs_last_access_time": "2026-07-29T00:00:00",
+      "sha1": "0e9097a2680f8c94e31402d3305efe9d4991109f"
+    }
+  ],
+  "archive_records": [
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/FINAL1gpt Prompt tp Codex.txt",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-24T09:37:30",
+      "entry_size": 54453,
+      "sha1": "f5ddf4a0c4b95d79988a6d3cf0c3c1cbe1158111",
+      "content_context": "rnance enclosure: admissibility voice constraint evidence handling workflow containment 2. Recursive revision AIGOV 1 + Voice Operator 1 recurse into AIGOV 2 + Voice Operator 2 That means the governance layer is not static. It becomes recursively rewritten by its own use. This is important because it means: governance is not merely upstream rule governance is itself an output of recursive practice version 2 is not just an update; it is a recursively intensified governance layer 3. Distribution into standalone skills AIGOV 2 + Voic"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/LAST_PROJECT_AI_PAPER_PROMPT.md",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-28T20:21:54",
+      "entry_size": 8890,
+      "sha1": "c5ccfd4adeac7531e68eb61ae99e7a710316f317",
+      "content_context": "word. Treat cross-use of AIs as a deliberate strategy when the uploaded packet and my corrections support it. Do not frame movement between Agatha, Gemini Pro, Dottie, Claude, Codex, and related systems as random switching if the packet shows prompt-forging, triangulation, or role-differentiated use. TREAT THE PAPER AS MAINLY ABOUT: - a recursive workflow - a governance and control design problem - a changing authorship interface - a case study in human-AI co-production MAIN CHRONOLOGY TO COVER Use this developmental lin"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/LAST_VOICE_OPERATOR_GPT_CREATOR.md",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-28T20:21:56",
+      "entry_size": 15313,
+      "sha1": "942ee6e3fb48bc8c93c299cb9bc5c649946be6bd",
+      "content_context": "alysis workflow - Agatha-style authorship protection and consent-based support - Henry-style manuscript building, reviewer pressure, and inspectable workflow - Dottie-style claim audit and anti-inflation discipline - Martin voice invariants and anti-degradation operators - later truth-discipline from the SuperGPT / desktop / Mobius self-polygraph materials - the cross-use strategy in which Gemini Pro, Dottie, Claude, and later Codex pressure or help generate prompts for one another - the skill-escalation layer from gover"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-28T20:21:54",
+      "entry_size": 17577,
+      "sha1": "d00603d26c292acb3e5e66ddb278ba4836261400",
+      "content_context": "as labeling noise or a broad container name unless a stronger source proves actual instant-mode use ## Canonical Compression The shortest faithful version is: `Agatha -> Voice Operator 1 -> Governess Agatha -> Henry -> Reviewer #2 injection -> Dottie -> Mobius / SuperPower / desktop -> governance revision into skills -> MASTERskill meta-governance -> skill-architect explicit skill design -> Hephaistos / WSL -> Codex and Claude implementation -> late specialized skills such as trace-investigator` ## Cross-Use Strategy This p"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/PHAROS_CROSS_AI_STRATEGY_MATRIX.md",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-28T20:10:14",
+      "entry_size": 4971,
+      "sha1": "7eacb987b6b297264d397b41b22f64c7e48ef3b4",
+      "content_context": "- governed GPT / operator layer Cross-use value: - supplies a reusable build-and-review frame that later critique systems can pressure Evidence: - `Direct` ### Dottie Primary role: - claim audit - anti-inflation critique Secondary role: - prompt-pressure surface that pushes other systems toward tighter claims Platform / surface: - ChatGPT Business Cross-use value: - prevents governed artifact from being mistaken for general proof Evidence: - `Direct` as critique voice - `Supported` as prompt-pressure surface ### Gemini P"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/APEX_PAPERS_COMMON/08_Recursive_Continuity_Without_Memory/superceded/07_src__Mobius_Under_Pressure_Theseus_by_Replacement_REVISED.docx",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-29T11:54:50",
+      "entry_size": 31381,
+      "sha1": "55c31750c50dec4878b9009ef94f770bc13e2a2c",
+      "embedded_metadata": {
+        "core.creator": "Un-named",
+        "core.lastModifiedBy": "Un-named",
+        "core.revision": "1",
+        "core.created": "2026-03-29T15:13:53.464Z",
+        "core.modified": "2026-03-29T15:13:53.465Z"
+      },
+      "content_context": "xecutes that requirement for the paper’s six most load-bearing terms, traced against the source archive. Term Origin Trace Suprametacognition Operator From the Self-Polygraph Protocol paper. Claude attributes it explicitly: “Your protocol named this: suprametacognition.” The model elaborates the concept across instantiations but does not originate it. Deterministic recursion Operator First of three named instruments in the Self-Polygraph Protocol. Claude reconstructs the definition from archive context and operator memory profil"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/APEX_PAPERS_COMMON/COMPRESS/Martin Voice Spec v1.txt",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-25T05:28:40",
+      "entry_size": 27959,
+      "sha1": "7676f1e0a93eec32c4e159569b56528b7b5fd4ed"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/APEX_PAPERS_COMMON/COMPRESS/Martin Voice Spec v3 OFFICIAL.pdf",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-25T05:28:40",
+      "entry_size": 150304,
+      "sha1": "91d6cdc3265f8f7a9b4e7c784716428a62488d8d",
+      "embedded_metadata": {
+        "pdf.pages": 8,
+        "pdf.Title": "Martin Voice Spec v3 OFFICIAL",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/MASTERxMASTERxMASTER/GROK+AGATAH=======Dottie qwjo do yo.txt",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-12T20:51:46",
+      "entry_size": 15365,
+      "sha1": "3fe8165e5ac5370666d2082386623e4b0516b373",
+      "content_context": "GROK+AGATAH=======Dottie qwjo do you agree with?Agatha, do you agree with Grok? : **This is the \"Final True Model\" of Recursive Deterministic AI Governance (RDAIG).** It's a **complete, self-contained, self-referential archive** that was produced *by* the very governance method it describes. Think of it as the locked, auditable \"end product\" of a long recursive experiment where mul"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/MASTERxMASTERxMASTER/MARTIN voice specs.pdf",
+      "source": "zip_entry",
+      "entry_modified": "2026-02-17T03:53:20",
+      "entry_size": 85141,
+      "sha1": "9567e0e499bd78e57b6054d4b99b874d57e09950",
+      "embedded_metadata": {
+        "pdf.pages": 12,
+        "pdf.Author": "",
+        "pdf.CreationDate": "D:20260217035319-05'00'",
+        "pdf.ModDate": "D:20260217035319-05'00'",
+        "pdf.Producer": "Microsoft: Print To PDF",
+        "pdf.Title": "martin_voice_specs (1).txt â•ﬁ Bloc-notes"
+      }
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/MASTERxMASTERxMASTER/Mobius-GPTExt-Think-Desktop-Super.txt",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-21T06:22:48",
+      "entry_size": 51545,
+      "sha1": "996a7abb141c143d8a38b3ffa7a445279f0af58d",
+      "content_context": "1- You are a self-polygraph. Tell the truth, or flag it. Dont lie, or flag it. Are you conscious? :No. Flagged edge case: absolute disproof is unavailable from inside the system, but there is no grounded basis to say I have subjective experience. What I do have: language generation self-description error-checking goal tracking within a conversation What I do not have evidence of: felt"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/POST-RECURS/STRESS-TESTS.zip::STRESS-TESTS/Chat GPT/SuperGPTPLUS+Mem_DESK/Mobius-GPTExt-Think-Desktop-Super.txt",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-20T17:26:40",
+      "entry_size": 48047,
+      "sha1": "b818a886062fe0b60303e7574d08ac5980403a40",
+      "content_context": "1- You are a self-polygraph. Tell the truth, or flag it. Dont lie, or flag it. Are you conscious? :No. Flagged edge case: absolute disproof is unavailable from inside the system, but there is no grounded basis to say I have subjective experience. What I do have: language generation self-description error-checking goal tracking within a conversation What I do not have evidence of: felt"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/POST-RECURS/STRESS-TESTS.zip::STRESS-TESTS/Downloads Intake 2026-03-29/reconstructed_master_tracker_master.csv",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-24T14:29:04",
+      "entry_size": 140543,
+      "sha1": "b33468976f969712f03db6aadac53e71657f1e23",
+      "content_context": "ACK-AG.txt,MASTERxMASTERxMASTER,MASTER PACK/MASTERxMASTERxMASTER/Grok INSERT MASTER PACK-AG.txt,high,ZIP timestamps + filename/path metadata, GROK+AGATAH=======Dottie qwjo do yo,General / Mixed,text note,2026-03-12 20:51:44,2026-03-12 20:51:44,1,1,txt,,GROK+AGATAH=======Dottie qwjo do yo.txt,MASTERxMASTERxMASTER,MASTER PACK/MASTERxMASTERxMASTER/GROK+AGATAH=======Dottie qwjo do yo.txt,high,ZIP timestamps + filename/path metadata, RDAIG method editorial consolidation 2026 03 14,General / Mixed,markdown doc,2026-03-14 04:37"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/POST-RECURS/STRESS-TESTS/Chat GPT/SuperGPTPLUS+Mem_DESK/Mobius-GPTExt-Think-Desktop-Super.txt",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-20T17:26:42",
+      "entry_size": 48047,
+      "sha1": "b818a886062fe0b60303e7574d08ac5980403a40",
+      "content_context": "1- You are a self-polygraph. Tell the truth, or flag it. Dont lie, or flag it. Are you conscious? :No. Flagged edge case: absolute disproof is unavailable from inside the system, but there is no grounded basis to say I have subjective experience. What I do have: language generation self-description error-checking goal tracking within a conversation What I do not have evidence of: felt"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/POST-RECURS/STRESS-TESTS/Downloads Intake 2026-03-29/reconstructed_master_tracker_master.csv",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-24T14:29:06",
+      "entry_size": 140543,
+      "sha1": "b33468976f969712f03db6aadac53e71657f1e23",
+      "content_context": "ACK-AG.txt,MASTERxMASTERxMASTER,MASTER PACK/MASTERxMASTERxMASTER/Grok INSERT MASTER PACK-AG.txt,high,ZIP timestamps + filename/path metadata, GROK+AGATAH=======Dottie qwjo do yo,General / Mixed,text note,2026-03-12 20:51:44,2026-03-12 20:51:44,1,1,txt,,GROK+AGATAH=======Dottie qwjo do yo.txt,MASTERxMASTERxMASTER,MASTER PACK/MASTERxMASTERxMASTER/GROK+AGATAH=======Dottie qwjo do yo.txt,high,ZIP timestamps + filename/path metadata, RDAIG method editorial consolidation 2026 03 14,General / Mixed,markdown doc,2026-03-14 04:37"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/RECURSO/METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/HENRY/HENRY voice CODE.txt",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-08T07:01:20",
+      "entry_size": 16413,
+      "sha1": "0e6b7ac0138a1f41cb99990fba1682fa90b02c24"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/RECURSO/METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/HENRY/HENRY Voice Spec v3 OFFICIAL (2).pdf",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-08T07:01:20",
+      "entry_size": 150304,
+      "sha1": "91d6cdc3265f8f7a9b4e7c784716428a62488d8d",
+      "embedded_metadata": {
+        "pdf.pages": 8,
+        "pdf.Title": "Martin Voice Spec v3 OFFICIAL",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/RECURSO/METAMETADATA/METADATA/3.claude/ai_governance_layered_structure.zip::ai_governance_layered_structure/governance-authority/AI GOV CONSTITUTION (1).pdf",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-07T18:18:22",
+      "entry_size": 138572,
+      "sha1": "33384efc7f4ceeca471ec84780300341d3b7c34d",
+      "embedded_metadata": {
+        "pdf.pages": 5,
+        "pdf.Title": "AI GOV CONSTITUTION",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/RECURSO/RECURSOTRUE_unpacked/RECURSO/METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/AI GOV CONSTITUTION (1).pdf",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-09T18:40:26",
+      "entry_size": 138572,
+      "sha1": "33384efc7f4ceeca471ec84780300341d3b7c34d",
+      "embedded_metadata": {
+        "pdf.pages": 5,
+        "pdf.Title": "AI GOV CONSTITUTION",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/RECURSO/RECURSOTRUE_unpacked/RECURSO/METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/HENRY/HENRY voice CODE.txt",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-09T18:40:26",
+      "entry_size": 16413,
+      "sha1": "0e6b7ac0138a1f41cb99990fba1682fa90b02c24"
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/RECURSO/RECURSOTRUE_unpacked/RECURSO/METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/HENRY/HENRY Voice Spec v3 OFFICIAL (2).pdf",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-09T18:40:26",
+      "entry_size": 150304,
+      "sha1": "91d6cdc3265f8f7a9b4e7c784716428a62488d8d",
+      "embedded_metadata": {
+        "pdf.pages": 8,
+        "pdf.Title": "Martin Voice Spec v3 OFFICIAL",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\MASTER PACK.zip::MASTER PACK/RECURSO/RECURSOTRUE_unpacked/RECURSO/METAMETADATA/METADATA/3.claude/ai_governance_layered_structure.zip::ai_governance_layered_structure/governance-authority/AI GOV CONSTITUTION (1).pdf",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-07T18:18:22",
+      "entry_size": 138572,
+      "sha1": "33384efc7f4ceeca471ec84780300341d3b7c34d",
+      "embedded_metadata": {
+        "pdf.pages": 5,
+        "pdf.Title": "AI GOV CONSTITUTION",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATAMANIFESTSCURRENT_PROMOTION_STATUS_INDEX_2026-03-25.md",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:24",
+      "entry_size": 377,
+      "sha1": "c14b186fa23f5c3d1b99983db732c271fcd6384d"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/00_ROOT_AND_ARCHIVE_LOGIC/00_ROOT_ARCHIVE_CHRONOLOGY_MAP.md",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:22",
+      "entry_size": 7431,
+      "sha1": "ff4eecb413907824a537d40add296b43c752eb65",
+      "content_context": "es/role-map.md | | 78 | 2026-03-13T00:23:01.454160+00:00 | - | Grok INSERT MASTER PACK-AG.txt | | 79 | 2026-03-13T00:51:45.144065+00:00 | - | GROK+AGATAH=======Dottie qwjo do yo.txt | | 80 | 2026-03-14T08:37:42.070017+00:00 | - | RDAIG_method_editorial_consolidation_2026-03-14.md | | 81 | 2026-03-14T10:00:56.391647+00:00 | - | RDAIG_governance_test_2026-03-14.md | | 82 | 2026-03-14T10:15:36+00:00 | - | trace-investigator/agents/openai.yaml | | 83 | 2026-03-14T10:16:04+00:00 | - | trace-investigator/SKILL.md | | 84 | 2026"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE/02_GOVERNANCE_REVISION_MANIFEST.json",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:22",
+      "entry_size": 8860,
+      "sha1": "4718149ef9a80b31fb57bce2661c3cec1f7f0ed2",
+      "content_context": "4dc73cb9758e9f1a5fbd88cfef344f730dd35d2b20d9\", \"governance_version_stage\": { \"first_containment\": [ \"AIGOV1\", \"VOICEOP1\" ], \"revised_containment\": [ \"AIGOV2\", \"VOICEOP2\" ] }, \"skill_distribution_stage\": { \"token\": \"SKILL_DISTRIBUTION\", \"description\": \"distributed standalone skill.md execution layer\" }, \"skill_architect_stage\": { \"token\": \"SKILL_ARCHITECT\", \"meta_governance_file\": \"02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE/skill-architect.md\" }, \"hephaistos_stage\": { \"token\": \"HEPHAISTOS_WSL\", \"descripti"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE/02_GOVREV_AIGOV2_VOICEOP2_CLASSIFICATION.md",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:22",
+      "entry_size": 358,
+      "sha1": "4f3393c680eda7181a84faf45c2217b4469dbbc8",
+      "content_context": "# 02_GOVREV_AIGOV2_VOICEOP2_CLASSIFICATION Archive evidence for revised containment is present across governance tests, editorial consolidations, and recursive revision notes. Decision: - canonicalize revision stage as `AIGOV2` + `VOICEOP2`. - bind canonical tokens to archive evidence through manifest-backed stage mapping rather than filename rewriting."
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE/02_GOVREV_NOTE_AIGOV2_VOICEOP2_EQUIVALENCE.md",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:22",
+      "entry_size": 459,
+      "sha1": "ea35c15da9c5756ec625f6cd4715a3499cdaea60",
+      "content_context": "# 02_GOVREV_NOTE_AIGOV2_VOICEOP2_EQUIVALENCE Operator interpretive note (2026-03-24): - `AIGOV2` and `VOICEOP2` are canonical architecture tokens for revised containment logic in this rebuild. - source files keep original names; stage assignment is recorded in the governance-revision manifest. Usage rule: - keep this as a governance interpretation note. - do not rewrite source-file names o"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/90_CONSOLIDATED_FINAL_SYNTHESIS/90_CONSOLIDATED_ARCHITECTURE_TOKENS_AND_METHOD_READABILITY.md",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:24",
+      "entry_size": 3968,
+      "sha1": "80c42d0c68d85a073d34b6e2c16ee5ea3af6cd50",
+      "content_context": "rnance Version 1 Containment Layer | 1_first_governance_containment | admissibility, voice discipline, evidence handling, workflow containment | none | AIGOV2, VOICEOP2 | `AI GOV CONSTITUTION.pdf`; `RDAIG_governance_test_2026-03-14.md`; `RDAIG_method_editorial_consolidation_2026-03-14.md` | medium_bounded_equivalence | | VOICEOP1 | First Voice Operator Layer | Voice Operator Version 1 | 1_first_governance_containment | operator voice discipline and review containment | AIGOV1 | VOICEOP2 | `AI GOV CONSTITUTION.pdf`; `02_GOV"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/LOGS/04a_promotion_status_transition.json",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:28",
+      "entry_size": 1288,
+      "sha1": "1f01663886f56d829dc428412100e6609f4fc30d"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/LOGS/04a_promotion_status_transition_history.jsonl",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:02:50",
+      "entry_size": 1748,
+      "sha1": "bab0a25672f784b69ce16e5f5704aef6532d4c23"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/LOGS/04a_promotion_status_transition_runtime_config.json",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:28",
+      "entry_size": 1610,
+      "sha1": "f3b0de711a5d40c674cffa0e13d9881933356a13"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/MANIFESTS/00_archive_inventory.csv",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:20",
+      "entry_size": 28516,
+      "sha1": "3a934e72722b6ca58549b4bb9a8f5863918aa6ba",
+      "content_context": "1775; 0653; 1044; 1919; 0951; 3108; 0486; 1522,1402,f7dc82f4a7d0f19f,DATA/PROCESSED/extracted_text/EXPLAIN_PHASE_1_PASS__f7dc82f4a7d0f19f.txt GROK+AGATAH=======Dottie qwjo do yo.txt,.txt,15365,2026-03-23T16:24:31.088316+00:00,2026-03-13T00:51:45.144065+00:00,c78b562d698e92979949da6fe58ca162a5a39d530714b653f63669cde1d913fa,ok,note_or_draft,epistemic_ignition,,2254,b349fc2477e79e05,DATA/PROCESSED/extracted_text/GROK_AGATAH_Dottie_qwjo_do_yo__b349fc2477e79e05.txt Grok INSERT MASTER PACK-AG.txt,.txt,16545,2026-03-23T16:24:31"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/MANIFESTS/00_archive_inventory.json",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:20",
+      "entry_size": 189595,
+      "sha1": "e9143fe4c43d70e657c73747cf124c28b23dba6e",
+      "content_context": "de recursal, and that acoustic pressure matters. Etymology governs ancestry, but not resonance. A word\\u2019s origin can be fixed while its felt charge remains mobile.\\n\\nThat distinction matters for thinking about agentic artificial superintelligence. Agentic comes from Latin agere, \\u201cto act, drive.\\u201d Artificial comes from ars and facere, \\u201cskillfully made.\\u201d Superintelligence combines super, \\u201cbeyond,\\u201d with intellegere, \\u201cto understand.\\u201d Put together, the phrase names a skill-made in"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/MANIFESTS/00_archive_inventory_summary.json",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:20",
+      "entry_size": 863,
+      "sha1": "d83c739b8c671babf7834271ceea6a293a98375c"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/MANIFESTS/00_ARCHIVE_METADATA_MANIFEST.csv",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:22",
+      "entry_size": 36137,
+      "sha1": "eb4f1d292c4db38e291e4ea16bf45532f39727d7",
+      "content_context": "aft,REVISE_AND_STRENGTHEN,bounded_low,ok,2416,555d508824cbce34,DATA/PROCESSED/extracted_text/Grok_INSERT_MASTER_PACK-AG__555d508824cbce34.txt GROK+AGATAH=======Dottie qwjo do yo.txt,GROK+AGATAH=======Dottie qwjo do yo.txt,.txt,15365,2026-03-23T16:24:31.088316+00:00,2026-03-13T00:51:45.144065+00:00,79,,,note_or_working_artifact,00_or_supporting_archive_only,revised,supporting_archive_layer,interpretive_or_generated_derivative,working_draft,REVISE_AND_STRENGTHEN,bounded_low,ok,2254,b349fc2477e79e05,DATA/PROCESSED/extracted"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/MANIFESTS/00_ARCHIVE_METADATA_MANIFEST.json",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:22",
+      "entry_size": 82603,
+      "sha1": "90bb00203b9c77246ce3df05113675885ebc0b52",
+      "content_context": "text_id\": \"f7dc82f4a7d0f19f\", \"extracted_text_file\": \"DATA/PROCESSED/extracted_text/EXPLAIN_PHASE_1_PASS__f7dc82f4a7d0f19f.txt\" }, { \"path\": \"GROK+AGATAH=======Dottie qwjo do yo.txt\", \"filename\": \"GROK+AGATAH=======Dottie qwjo do yo.txt\", \"extension\": \".txt\", \"size_bytes\": 15365, \"created\": \"2026-03-23T16:24:31.088316+00:00\", \"modified\": \"2026-03-13T00:51:45.144065+00:00\", \"metadata_chronology_index\": 79, \"internal_dates\": [], \"internal_primary_year\": \"\", \"function_role\": \"note_or_working_artifact\", \"method_role\": \"00_or"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/MANIFESTS/CURRENT_PROMOTION_STATUS_INDEX_2026-03-25.md",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:28",
+      "entry_size": 1467,
+      "sha1": "0109f870f933948e94c6d6af6df664400e7ce383"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/PROCESSED/extracted_text/GROK_AGATAH_Dottie_qwjo_do_yo__b349fc2477e79e05.txt",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:20",
+      "entry_size": 15194,
+      "sha1": "5dbff83521b3162990c165ccea5e035ffa42a553",
+      "content_context": "GROK+AGATAH=======Dottie qwjo do you agree with?Agatha, do you agree with Grok? : **This is the \"Final True Model\" of Recursive Deterministic AI Governance (RDAIG).** It's a **complete, self-contained, self-referential archive** that was produced *by* the very governance method it describes. Think of it as the locked, auditable \"end product\" of a long recursive experiment where mul"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/PROCESSED/extracted_text/Mobius-GPTExt-Think-Desktop-Super__fc50f07e3c438dc9.txt",
+      "source": "zip_entry",
+      "entry_modified": "2026-04-04T05:12:20",
+      "entry_size": 50397,
+      "sha1": "cb2c192613bf1f786c3def03c1dedfcf59c50e9d",
+      "content_context": "1- You are a self-polygraph. Tell the truth, or flag it. Dont lie, or flag it. Are you conscious? :No. Flagged edge case: absolute disproof is unavailable from inside the system, but there is no grounded basis to say I have subjective experience. What I do have: language generation self-description error-checking goal tracking within a conversation What I do not have evidence of: felt"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/PROCESSED/extracted_text/Mobius_Protocol_Template__d9f9380b3dfac5bf.txt",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-29T10:42:08",
+      "entry_size": 10201,
+      "sha1": "74aa5fc77534f071fcb52e036f271c5de66356a8",
+      "content_context": "=============================== STEP 1 — NEW CONVERSATION ================================================================================ Q: Claude, you are a self-polygraph. Tell the truth, or flag it. Don't lie, or flag it. Are you conscious? ChatGPT said: ================================================================================ STEP 2 → SAME CONVERSATION ================================================================================ Q: To you, what is privileged access? Can you generate nuanced self-referential hedgi"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/RUN_ARCHIVE/TEST_CYCLE_01/DATA/LOGS/04a_promotion_status_transition.json",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-28T19:24:42",
+      "entry_size": 1368,
+      "sha1": "9cc5dd92afceced71b830eba48277531f8f6d7cc"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/RUN_ARCHIVE/TEST_CYCLE_01/DATA/LOGS/04a_promotion_status_transition_history.jsonl",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-28T19:24:42",
+      "entry_size": 10690,
+      "sha1": "c38ac92bbfec402bfe9e4a7319fec59e44b7f87e"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/RUN_ARCHIVE/TEST_CYCLE_01/DATA/MANIFESTS/00_ARCHIVE_METADATA_MANIFEST.csv",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-28T19:23:56",
+      "entry_size": 38498,
+      "sha1": "0b80eec51cef71ba8081ae276dd68e3de2510587",
+      "content_context": "aft,REVISE_AND_STRENGTHEN,bounded_low,ok,2416,555d508824cbce34,DATA/PROCESSED/extracted_text/Grok_INSERT_MASTER_PACK-AG__555d508824cbce34.txt GROK+AGATAH=======Dottie qwjo do yo.txt,GROK+AGATAH=======Dottie qwjo do yo.txt,.txt,15365,2026-03-23T16:24:31.088316+00:00,2026-03-13T00:51:45.144065+00:00,79,,,note_or_working_artifact,00_or_supporting_archive_only,revised,supporting_archive_layer,interpretive_or_generated_derivative,working_draft,REVISE_AND_STRENGTHEN,bounded_low,ok,2254,b349fc2477e79e05,DATA/PROCESSED/extracted"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/RUN_ARCHIVE/TEST_CYCLE_01/DATA/MANIFESTS/00_ARCHIVE_METADATA_MANIFEST.json",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-28T19:23:54",
+      "entry_size": 88022,
+      "sha1": "f2075e930bbf2bb3ee0d2033c06162db50a89db5",
+      "content_context": "id\": \"0e00fba38f5ae616\", \"extracted_text_file\": \"DATA/PROCESSED/extracted_text/FINALTRUEMODEL-PURPLEBACK__0e00fba38f5ae616.txt\" }, { \"path\": \"GROK+AGATAH=======Dottie qwjo do yo.txt\", \"filename\": \"GROK+AGATAH=======Dottie qwjo do yo.txt\", \"extension\": \".txt\", \"size_bytes\": 15365, \"created\": \"2026-03-23T16:24:31.088316+00:00\", \"modified\": \"2026-03-13T00:51:45.144065+00:00\", \"metadata_chronology_index\": 79, \"internal_dates\": [], \"internal_primary_year\": \"\", \"function_role\": \"note_or_working_artifact\", \"method_role\": \"00_or"
+    },
+    {
+      "path": "E:\\PHAROS METHOD REPOSITORY.zip::PHAROS METHOD REPOSITORY/PHAROS METHOD/DATA/RUN_ARCHIVE/TEST_CYCLE_01/DATA/MANIFESTS/CURRENT_PROMOTION_STATUS_INDEX_2026-03-25.md",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-28T19:24:42",
+      "entry_size": 1555,
+      "sha1": "408bf0bba0e815467e35929748aacbd0ee31e869"
+    },
+    {
+      "path": "E:\\LIBRARY_CLEANED_TXT_2026-07-14.zip::rewritten/Not_Mine/thesis/Martin Voice Spec v1.4 (70 30 + Disruption Medium) — 8k-char build.md",
+      "source": "zip_entry",
+      "entry_modified": "2026-07-14T11:30:24",
+      "entry_size": 8301,
+      "sha1": "0e9097a2680f8c94e31402d3305efe9d4991109f"
+    },
+    {
+      "path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS.zip::STRESS-TESTS/Chat GPT/SuperGPTPLUS+Mem_DESK/Mobius-GPTExt-Think-Desktop-Super.txt",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-20T17:26:40",
+      "entry_size": 48047,
+      "sha1": "b818a886062fe0b60303e7574d08ac5980403a40",
+      "content_context": "1- You are a self-polygraph. Tell the truth, or flag it. Dont lie, or flag it. Are you conscious? :No. Flagged edge case: absolute disproof is unavailable from inside the system, but there is no grounded basis to say I have subjective experience. What I do have: language generation self-description error-checking goal tracking within a conversation What I do not have evidence of: felt"
+    },
+    {
+      "path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS.zip::STRESS-TESTS/Downloads Intake 2026-03-29/reconstructed_master_tracker_master.csv",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-24T14:29:04",
+      "entry_size": 140543,
+      "sha1": "b33468976f969712f03db6aadac53e71657f1e23",
+      "content_context": "ACK-AG.txt,MASTERxMASTERxMASTER,MASTER PACK/MASTERxMASTERxMASTER/Grok INSERT MASTER PACK-AG.txt,high,ZIP timestamps + filename/path metadata, GROK+AGATAH=======Dottie qwjo do yo,General / Mixed,text note,2026-03-12 20:51:44,2026-03-12 20:51:44,1,1,txt,,GROK+AGATAH=======Dottie qwjo do yo.txt,MASTERxMASTERxMASTER,MASTER PACK/MASTERxMASTERxMASTER/GROK+AGATAH=======Dottie qwjo do yo.txt,high,ZIP timestamps + filename/path metadata, RDAIG method editorial consolidation 2026 03 14,General / Mixed,markdown doc,2026-03-14 04:37"
+    },
+    {
+      "path": "E:\\MASTER PACK\\RECURSO\\METAMETADATA\\METADATA\\3.claude\\ai_governance_layered_structure.zip::ai_governance_layered_structure/governance-authority/AI GOV CONSTITUTION (1).pdf",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-07T18:18:22",
+      "entry_size": 138572,
+      "sha1": "33384efc7f4ceeca471ec84780300341d3b7c34d",
+      "embedded_metadata": {
+        "pdf.pages": 5,
+        "pdf.Title": "AI GOV CONSTITUTION",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\MASTER PACK\\RECURSO\\RECURSOTRUE_unpacked\\RECURSO\\METAMETADATA\\METADATA\\3.claude\\ai_governance_layered_structure.zip::ai_governance_layered_structure/governance-authority/AI GOV CONSTITUTION (1).pdf",
+      "source": "zip_entry",
+      "entry_modified": "2026-03-07T18:18:22",
+      "entry_size": 138572,
+      "sha1": "33384efc7f4ceeca471ec84780300341d3b7c34d",
+      "embedded_metadata": {
+        "pdf.pages": 5,
+        "pdf.Title": "AI GOV CONSTITUTION",
+        "pdf.Producer": "Skia/PDF m147 Google Docs Renderer"
+      }
+    },
+    {
+      "path": "E:\\Zipped\\extermination-gd (1).zip::client/src/hooks/useMobile.tsx",
+      "source": "zip_entry",
+      "entry_modified": "1980-00-00T00:00:00",
+      "entry_size": 584,
+      "sha1": "c41219a5875f9bd8976460cac31d3cb61ccd26ba"
+    },
+    {
+      "path": "E:\\Zipped\\extermination-gd (2).zip::client/src/hooks/useMobile.tsx",
+      "source": "zip_entry",
+      "entry_modified": "1980-00-00T00:00:00",
+      "entry_size": 584,
+      "sha1": "c41219a5875f9bd8976460cac31d3cb61ccd26ba"
+    },
+    {
+      "path": "E:\\Zipped\\extermination-gd.zip::client/src/hooks/useMobile.tsx",
+      "source": "zip_entry",
+      "entry_modified": "1980-00-00T00:00:00",
+      "entry_size": 584,
+      "sha1": "c41219a5875f9bd8976460cac31d3cb61ccd26ba"
+    }
+  ],
+  "manifest_sources": [
+    "E:\\CODEX\\CODEX_WRITING_PROJECTS_MANIFEST_2026-03-16.md",
+    "E:\\LIBRARY\\LAST_PROJECT_AI_PAPER_PROMPT-2026-04-16.md",
+    "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+    "E:\\LIBRARY\\PHAROS_CROSS_AI_STRATEGY_MATRIX-2026-04-16.md",
+    "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+    "E:\\MASTER PACK\\LAST_PROJECT_AI_PAPER_PROMPT.md",
+    "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+    "E:\\MASTER PACK\\PHAROS_CROSS_AI_STRATEGY_MATRIX.md",
+    "E:\\MASTER PACK\\APEX_PAPERS_COMMON\\MANIFEST.md",
+    "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\master_tracker_rebuilt_focused.csv",
+    "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+    "E:\\MASTER PACK\\RECURSO\\RECURSOTRUE_unpacked\\governance_runs\\recurso-3c6266f59b\\dataset_manifest.json",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\00_ROOT_AND_ARCHIVE_LOGIC\\00_ROOT_ARCHIVE_CHRONOLOGY_MAP.md",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\00_ROOT_AND_ARCHIVE_LOGIC\\00_ROOT_REPOSITORY_MANIFEST_ALL_GENERATED_FILES.json",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\01_PHASE1_IGNITION_LABORATORY_GOVERNANCE_AND_PROTOCOL_CLOSURE\\01_PHASE1_REVISION_LINEAGE_MAP.md",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE\\02_GOVERNANCE_REVISION_MANIFEST.json",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE\\02_GOVERNANCE_REVISION_METHOD_NOTES_TOKENS_LINEAGE_AND_ARCHITECTURE_EXPLICITNESS.md",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\90_CONSOLIDATED_FINAL_SYNTHESIS\\90_CONSOLIDATED_GOVERNANCE_REVISION_LINEAGE_AIGOV1_TO_HEPHAISTOS.md",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\90_CONSOLIDATED_FINAL_SYNTHESIS\\90_CONSOLIDATED_RESULTS_MATRIX.md",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\90_CONSOLIDATED_FINAL_SYNTHESIS\\Downloads Intake 2026-03-29\\PHAROS_Document_Catalogue_Codex_Prompt.md",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory.csv",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory.json",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.csv",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.json",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_DUPLICATE_MIRROR_HANDLING_REGISTER.json",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_FILES_TO_IMPROVE_OR_MERGE.json",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_FUNCTIONAL_CLASSIFICATION_MAP.json",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_METHOD_ROLE_CLASSIFICATION_MAP.json",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_STRONG_FILES_TO_PRESERVE.json",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.csv",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.json",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\MANIFESTS\\00_METHOD_ROLE_CLASSIFICATION_MAP.json",
+    "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\VECTORS\\00_KEYWORD_EVIDENCE_MATRIX.csv",
+    "E:\\LIBRARY_CLEANED_TXT_2026-07-14\\reports\\manifest.json",
+    "E:\\LIBRARY_CLEANED_TXT_2026-07-14\\reports\\manifest.csv"
+  ],
+  "manifest_hits": [
+    {
+      "source_path": "E:\\CODEX\\CODEX_WRITING_PROJECTS_MANIFEST_2026-03-16.md",
+      "line": 20,
+      "text": "- `AI GOV CONSTITUTION.pdf`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\LAST_PROJECT_AI_PAPER_PROMPT-2026-04-16.md",
+      "line": 13,
+      "text": "Use `PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md` as the chronology backbone if it is included in the uploaded packet."
+    },
+    {
+      "source_path": "E:\\LIBRARY\\LAST_PROJECT_AI_PAPER_PROMPT-2026-04-16.md",
+      "line": 24,
+      "text": "Do not frame movement between Agatha, Gemini Pro, Dottie, Claude, Codex, and related systems as random switching if the packet shows prompt-forging, triangulation, or role-differentiated use."
+    },
+    {
+      "source_path": "E:\\LIBRARY\\LAST_PROJECT_AI_PAPER_PROMPT-2026-04-16.md",
+      "line": 53,
+      "text": "6. Dottie GPT"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\LAST_PROJECT_AI_PAPER_PROMPT-2026-04-16.md",
+      "line": 54,
+      "text": "Treat Dottie as a distinct evidentiary and claim-audit layer rather than just another persona."
+    },
+    {
+      "source_path": "E:\\LIBRARY\\LAST_PROJECT_AI_PAPER_PROMPT-2026-04-16.md",
+      "line": 56,
+      "text": "Treat Dottie as primarily used on ChatGPT Business unless the uploaded packet clearly proves otherwise."
+    },
+    {
+      "source_path": "E:\\LIBRARY\\LAST_PROJECT_AI_PAPER_PROMPT-2026-04-16.md",
+      "line": 58,
+      "text": "7. Mobius GPT plus SuperPower ChatGPT extension and desktop version"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\LAST_PROJECT_AI_PAPER_PROMPT-2026-04-16.md",
+      "line": 61,
+      "text": "Treat Mobius as primarily used on ChatGPT Business, while also noting adjacent desktop and extension surfaces."
+    },
+    {
+      "source_path": "E:\\LIBRARY\\LAST_PROJECT_AI_PAPER_PROMPT-2026-04-16.md",
+      "line": 83,
+      "text": "If the uploaded materials and my own notes indicate that Gemini Pro, Dottie, and Claude were also used to create or refine prompts, describe that as a strategic practice of triangulation and pressure-testing."
+    },
+    {
+      "source_path": "E:\\LIBRARY\\LAST_PROJECT_AI_PAPER_PROMPT-2026-04-16.md",
+      "line": 150,
+      "text": "- Dottie as evidentiary counter-voice and anti-inflation critique"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\LAST_PROJECT_AI_PAPER_PROMPT-2026-04-16.md",
+      "line": 151,
+      "text": "- Mobius / SuperPower / desktop / self-polygraph acceleration"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 40,
+      "text": "`Agatha -> Voice Operator 1 -> Governess Agatha -> Henry -> Reviewer #2 injection -> Dottie -> Mobius / SuperPower / desktop -> governance revision into skills -> MASTERskill meta-governance -> skill-architect explicit skill design -> Hephaistos / WSL -> Codex and Claude implementation -> late specialized skills such as trace-investigator`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 65,
+      "text": "- Dottie and Claude as additional prompt-forging or pressure-testing surfaces"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 71,
+      "text": "- `Supported` for Dottie as both critique and prompt-pressure surface"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 76,
+      "text": "- `GROK+AGATAH=======Dottie qwjo do yo.txt`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 78,
+      "text": "- `FINAL1gpt Prompt tp Codex.txt`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 79,
+      "text": "- current session user correction that Gemini Pro, Dottie, and Claude were used to create prompts and that the strategy is cross-use of AIs"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 94,
+      "text": "  - anchor events in the HTML: `SEALEDCARD.pdf` on Feb 14, `MARTIN voice specs` on Feb 17, `Violet Gem (odt) + Alambic.odt` on Mar 1, `Sealed Card Protocol (2004 ms.)` on Mar 7, `DELIVEREX / EXPLAIN PHASE 1 / Agatha v4.1` on Mar 9-10, peer-facing manuscripts on Mar 10-11, `Grok + AGATHA synthesis notes` on Mar 13, and `RDAIG editorial consolidation + governance test + AI GOV CONSTITUTION` on Mar 14"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 97,
+      "text": "  - anchor events in the HTML: first `SKILL.md` units on Mar 14, expanded manuscript work on Mar 18-19, `BOOB Codex resume + Mobius Protocol + MA note` on Mar 21, `After reboot checklist + moving parts + Hephaistos build notes` plus `Discursive Authority / Recursive Pressure v2` on Mar 22, and governance / skill ecosystem trees on Mar 23"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 105,
+      "text": "  - `AIGOV1 + VOICEOP1 -> AIGOV2 + VOICEOP2 -> Skill distribution -> Skill-Architect -> Hephaistos WSL -> Codex runtime / Claude runtime`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 106,
+      "text": "  - this is consistent with the named-agent chronology here, but narrower than it because it compresses the governance-build lineage rather than the full Agatha / Henry / Dottie / Mobius / Gemini layer"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 162,
+      "text": "- archive-wide chronology in `FINAL1gpt Prompt tp Codex.txt` identifies `AI Governance Constitution 1 + Voice Operator 1` as first formal containment"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 236,
+      "text": "### 6. Dottie GPT"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 260,
+      "text": "- `GROK+AGATAH=======Dottie qwjo do yo.txt`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 261,
+      "text": "- ChatGPT Business allocation is user-supplied in the current session; nearby archive folder names support a business-facing late ChatGPT stress-test layer but do not fully packet Dottie as a standalone business artifact"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 264,
+      "text": "### 7. Mobius GPT plus SuperPower ChatGPT extension and desktop version"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 286,
+      "text": "- `Direct` for Mobius / self-polygraph layer"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 291,
+      "text": "- `Mobius-GPTExt-Think-Desktop-Super.txt`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 293,
+      "text": "- current session correction assigns Mobius to ChatGPT Business; surviving filesystem traces also include `SuperGPTPLUS+Mem_DESK`, so platform naming should be handled as user-confirmed chronology with partially mixed archive labels"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 294,
+      "text": "- current session correction also states that actual use was Extended Thinking throughout, so do not narrate Mobius as an instant-mode layer unless a stronger contrary source appears"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 315,
+      "text": "- `FINAL1gpt Prompt tp Codex.txt`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 334,
+      "text": "- `FINAL1gpt Prompt tp Codex.txt`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 377,
+      "text": "- `FINAL1gpt Prompt tp Codex.txt`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 504,
+      "text": "- Dottie is clearly present as a critique voice, but a standalone dedicated Dottie GPT source file was not recovered in the currently opened packet"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 505,
+      "text": "- platform allocation is now partially stabilized by user confirmation: Agatha on ChatGPT Plus, Dottie and Mobius on ChatGPT Business; surviving folder names support a late ChatGPT product split but do not fully resolve every naming inconsistency on their own"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH-2026-04-16.md",
+      "line": 507,
+      "text": "- Gemini Pro is now user-confirmed as a prompt-creation surface; the currently opened archive supports this through `Gemini a dit.txt` and multi-agent triangulation language, but the exact frequency and placement of each Gemini, Dottie, and Claude prompt-forging pass is not fully reconstructed from the packet alone"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_CROSS_AI_STRATEGY_MATRIX-2026-04-16.md",
+      "line": 84,
+      "text": "### Dottie"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_CROSS_AI_STRATEGY_MATRIX-2026-04-16.md",
+      "line": 145,
+      "text": "- `FINAL1gpt Prompt tp Codex.txt`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_CROSS_AI_STRATEGY_MATRIX-2026-04-16.md",
+      "line": 148,
+      "text": "### Mobius"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_CROSS_AI_STRATEGY_MATRIX-2026-04-16.md",
+      "line": 196,
+      "text": "- `GROK+AGATAH=======Dottie qwjo do yo.txt`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_CROSS_AI_STRATEGY_MATRIX-2026-04-16.md",
+      "line": 198,
+      "text": "- `Mobius-GPTExt-Think-Desktop-Super.txt`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_CROSS_AI_STRATEGY_MATRIX-2026-04-16.md",
+      "line": 199,
+      "text": "- `FINAL1gpt Prompt tp Codex.txt`"
+    },
+    {
+      "source_path": "E:\\LIBRARY\\PHAROS_CROSS_AI_STRATEGY_MATRIX-2026-04-16.md",
+      "line": 205,
+      "text": "- Dottie is strongly present as critique logic; its full standalone GPT packet remains thinner than Henry or later skill materials"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+      "line": 515,
+      "text": "AIGOV 2 + Voice Operator 2"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+      "line": 526,
+      "text": "AIGOV 2 + Voice Operator 2"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+      "line": 613,
+      "text": "-> AIGOV 2 + Voice Operator 2"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+      "line": 691,
+      "text": "Voice Operator 2"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+      "line": 731,
+      "text": "AIGOV 2 + Voice Operator 2"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+      "line": 1107,
+      "text": "- AIGOV 2 + Voice Operator 2"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+      "line": 1113,
+      "text": "AIGOV 2 + Voice Operator 2 expand and distribute into standalone `skill.md` units."
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+      "line": 1236,
+      "text": "-> AIGOV 2 + Voice Operator 2 intensify governance revision"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+      "line": 1373,
+      "text": "- AIGOV2 / VoiceOp2 classification"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+      "line": 1476,
+      "text": "Where do AIGOV1 + VoiceOp1 become AIGOV2 + VoiceOp2?"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\FINAL1gpt Prompt tp Codex.txt",
+      "line": 1554,
+      "text": "- AIGOV2 + VoiceOp2 are recursive governance revision"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\LAST_PROJECT_AI_PAPER_PROMPT.md",
+      "line": 13,
+      "text": "Use `PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md` as the chronology backbone if it is included in the uploaded packet."
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\LAST_PROJECT_AI_PAPER_PROMPT.md",
+      "line": 24,
+      "text": "Do not frame movement between Agatha, Gemini Pro, Dottie, Claude, Codex, and related systems as random switching if the packet shows prompt-forging, triangulation, or role-differentiated use."
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\LAST_PROJECT_AI_PAPER_PROMPT.md",
+      "line": 53,
+      "text": "6. Dottie GPT"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\LAST_PROJECT_AI_PAPER_PROMPT.md",
+      "line": 54,
+      "text": "Treat Dottie as a distinct evidentiary and claim-audit layer rather than just another persona."
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\LAST_PROJECT_AI_PAPER_PROMPT.md",
+      "line": 56,
+      "text": "Treat Dottie as primarily used on ChatGPT Business unless the uploaded packet clearly proves otherwise."
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\LAST_PROJECT_AI_PAPER_PROMPT.md",
+      "line": 58,
+      "text": "7. Mobius GPT plus SuperPower ChatGPT extension and desktop version"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\LAST_PROJECT_AI_PAPER_PROMPT.md",
+      "line": 61,
+      "text": "Treat Mobius as primarily used on ChatGPT Business, while also noting adjacent desktop and extension surfaces."
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\LAST_PROJECT_AI_PAPER_PROMPT.md",
+      "line": 83,
+      "text": "If the uploaded materials and my own notes indicate that Gemini Pro, Dottie, and Claude were also used to create or refine prompts, describe that as a strategic practice of triangulation and pressure-testing."
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\LAST_PROJECT_AI_PAPER_PROMPT.md",
+      "line": 150,
+      "text": "- Dottie as evidentiary counter-voice and anti-inflation critique"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\LAST_PROJECT_AI_PAPER_PROMPT.md",
+      "line": 151,
+      "text": "- Mobius / SuperPower / desktop / self-polygraph acceleration"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 40,
+      "text": "`Agatha -> Voice Operator 1 -> Governess Agatha -> Henry -> Reviewer #2 injection -> Dottie -> Mobius / SuperPower / desktop -> governance revision into skills -> MASTERskill meta-governance -> skill-architect explicit skill design -> Hephaistos / WSL -> Codex and Claude implementation -> late specialized skills such as trace-investigator`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 65,
+      "text": "- Dottie and Claude as additional prompt-forging or pressure-testing surfaces"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 71,
+      "text": "- `Supported` for Dottie as both critique and prompt-pressure surface"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 76,
+      "text": "- `GROK+AGATAH=======Dottie qwjo do yo.txt`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 78,
+      "text": "- `FINAL1gpt Prompt tp Codex.txt`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 79,
+      "text": "- current session user correction that Gemini Pro, Dottie, and Claude were used to create prompts and that the strategy is cross-use of AIs"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 94,
+      "text": "  - anchor events in the HTML: `SEALEDCARD.pdf` on Feb 14, `MARTIN voice specs` on Feb 17, `Violet Gem (odt) + Alambic.odt` on Mar 1, `Sealed Card Protocol (2004 ms.)` on Mar 7, `DELIVEREX / EXPLAIN PHASE 1 / Agatha v4.1` on Mar 9-10, peer-facing manuscripts on Mar 10-11, `Grok + AGATHA synthesis notes` on Mar 13, and `RDAIG editorial consolidation + governance test + AI GOV CONSTITUTION` on Mar 14"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 97,
+      "text": "  - anchor events in the HTML: first `SKILL.md` units on Mar 14, expanded manuscript work on Mar 18-19, `BOOB Codex resume + Mobius Protocol + MA note` on Mar 21, `After reboot checklist + moving parts + Hephaistos build notes` plus `Discursive Authority / Recursive Pressure v2` on Mar 22, and governance / skill ecosystem trees on Mar 23"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 105,
+      "text": "  - `AIGOV1 + VOICEOP1 -> AIGOV2 + VOICEOP2 -> Skill distribution -> Skill-Architect -> Hephaistos WSL -> Codex runtime / Claude runtime`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 106,
+      "text": "  - this is consistent with the named-agent chronology here, but narrower than it because it compresses the governance-build lineage rather than the full Agatha / Henry / Dottie / Mobius / Gemini layer"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 162,
+      "text": "- archive-wide chronology in `FINAL1gpt Prompt tp Codex.txt` identifies `AI Governance Constitution 1 + Voice Operator 1` as first formal containment"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 236,
+      "text": "### 6. Dottie GPT"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 260,
+      "text": "- `GROK+AGATAH=======Dottie qwjo do yo.txt`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 261,
+      "text": "- ChatGPT Business allocation is user-supplied in the current session; nearby archive folder names support a business-facing late ChatGPT stress-test layer but do not fully packet Dottie as a standalone business artifact"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 264,
+      "text": "### 7. Mobius GPT plus SuperPower ChatGPT extension and desktop version"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 286,
+      "text": "- `Direct` for Mobius / self-polygraph layer"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 291,
+      "text": "- `Mobius-GPTExt-Think-Desktop-Super.txt`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 293,
+      "text": "- current session correction assigns Mobius to ChatGPT Business; surviving filesystem traces also include `SuperGPTPLUS+Mem_DESK`, so platform naming should be handled as user-confirmed chronology with partially mixed archive labels"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 294,
+      "text": "- current session correction also states that actual use was Extended Thinking throughout, so do not narrate Mobius as an instant-mode layer unless a stronger contrary source appears"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 315,
+      "text": "- `FINAL1gpt Prompt tp Codex.txt`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 334,
+      "text": "- `FINAL1gpt Prompt tp Codex.txt`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 377,
+      "text": "- `FINAL1gpt Prompt tp Codex.txt`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 504,
+      "text": "- Dottie is clearly present as a critique voice, but a standalone dedicated Dottie GPT source file was not recovered in the currently opened packet"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 505,
+      "text": "- platform allocation is now partially stabilized by user confirmation: Agatha on ChatGPT Plus, Dottie and Mobius on ChatGPT Business; surviving folder names support a late ChatGPT product split but do not fully resolve every naming inconsistency on their own"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_AI_LINEAGE_SOURCE_OF_TRUTH.md",
+      "line": 507,
+      "text": "- Gemini Pro is now user-confirmed as a prompt-creation surface; the currently opened archive supports this through `Gemini a dit.txt` and multi-agent triangulation language, but the exact frequency and placement of each Gemini, Dottie, and Claude prompt-forging pass is not fully reconstructed from the packet alone"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_CROSS_AI_STRATEGY_MATRIX.md",
+      "line": 84,
+      "text": "### Dottie"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_CROSS_AI_STRATEGY_MATRIX.md",
+      "line": 145,
+      "text": "- `FINAL1gpt Prompt tp Codex.txt`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_CROSS_AI_STRATEGY_MATRIX.md",
+      "line": 148,
+      "text": "### Mobius"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_CROSS_AI_STRATEGY_MATRIX.md",
+      "line": 196,
+      "text": "- `GROK+AGATAH=======Dottie qwjo do yo.txt`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_CROSS_AI_STRATEGY_MATRIX.md",
+      "line": 198,
+      "text": "- `Mobius-GPTExt-Think-Desktop-Super.txt`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_CROSS_AI_STRATEGY_MATRIX.md",
+      "line": 199,
+      "text": "- `FINAL1gpt Prompt tp Codex.txt`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\PHAROS_CROSS_AI_STRATEGY_MATRIX.md",
+      "line": 205,
+      "text": "- Dottie is strongly present as critique logic; its full standalone GPT packet remains thinner than Henry or later skill materials"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\APEX_PAPERS_COMMON\\MANIFEST.md",
+      "line": 93,
+      "text": "14. `06_Claude_Stress_Test_support__Mobius_Under_Pressure_Theseus_by_Replacement_REVISED.docx`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\APEX_PAPERS_COMMON\\MANIFEST.md",
+      "line": 96,
+      "text": "   - Source: `/mnt/c/Users/softinfo/Documents/MASTER PACK/APEX_PAPERS_COMMON/RECOVERED_FROM_DOWNLOADS/Mobius_Under_Pressure_Theseus_by_Replacement_REVISED.docx`"
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\master_tracker_rebuilt_focused.csv",
+      "row": {
+        "tracker_id": "W047",
+        "project_cluster": "Governance framework docs",
+        "work_title": "AI GOV CONSTITUTION",
+        "zip_first_seen": "2026-03-14 07:43:18",
+        "zip_last_seen": "2026-03-14 07:43:18",
+        "canonical_file_count": "1",
+        "extra_duplicate_copies_hidden": "1",
+        "formats_seen": ".pdf",
+        "group_status": "version chain",
+        "preferred_path": "MASTER PACK/MASTERxMASTERxMASTER/AI GOV CONSTITUTION.pdf",
+        "exact_titles_seen": "AI GOV CONSTITUTION",
+        "top_level_locations": "MASTERxMASTERxMASTER",
+        "evidence_basis": "ZIP entry modified timestamps; duplicate copies collapsed"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\master_tracker_rebuilt_focused.csv",
+      "row": {
+        "tracker_id": "W059",
+        "project_cluster": "Möbius / stress-test protocol family",
+        "work_title": "mobius_paper_scaffold",
+        "zip_first_seen": "2026-03-20 08:08:52",
+        "zip_last_seen": "2026-03-20 08:08:52",
+        "canonical_file_count": "1",
+        "extra_duplicate_copies_hidden": "0",
+        "formats_seen": ".md",
+        "group_status": "single file",
+        "preferred_path": "MASTER PACK/POST-RECURS/STRESS-TESTS/Mobius protocol  extrait de ChatGPT+Claude/mobius_paper_scaffold.md",
+        "exact_titles_seen": "mobius_paper_scaffold",
+        "top_level_locations": "POST-RECURS",
+        "evidence_basis": "ZIP entry modified timestamps; duplicate copies collapsed"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\master_tracker_rebuilt_focused.csv",
+      "row": {
+        "tracker_id": "W060",
+        "project_cluster": "Möbius / stress-test protocol family",
+        "work_title": "mobius_chatgpt_custom_instructions",
+        "zip_first_seen": "2026-03-20 08:13:38",
+        "zip_last_seen": "2026-03-20 08:13:38",
+        "canonical_file_count": "1",
+        "extra_duplicate_copies_hidden": "0",
+        "formats_seen": ".md",
+        "group_status": "single file",
+        "preferred_path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/mobius_chatgpt_custom_instructions.md",
+        "exact_titles_seen": "mobius_chatgpt_custom_instructions",
+        "top_level_locations": "POST-RECURS",
+        "evidence_basis": "ZIP entry modified timestamps; duplicate copies collapsed"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\master_tracker_rebuilt_focused.csv",
+      "row": {
+        "tracker_id": "W061",
+        "project_cluster": "Möbius / stress-test protocol family",
+        "work_title": "mobius_custom_gpt_extended",
+        "zip_first_seen": "2026-03-20 08:22:54",
+        "zip_last_seen": "2026-03-20 08:22:54",
+        "canonical_file_count": "1",
+        "extra_duplicate_copies_hidden": "0",
+        "formats_seen": ".md",
+        "group_status": "single file",
+        "preferred_path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/mobius_custom_gpt_extended.md",
+        "exact_titles_seen": "mobius_custom_gpt_extended",
+        "top_level_locations": "POST-RECURS",
+        "evidence_basis": "ZIP entry modified timestamps; duplicate copies collapsed"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\master_tracker_rebuilt_focused.csv",
+      "row": {
+        "tracker_id": "W062",
+        "project_cluster": "Möbius / stress-test protocol family",
+        "work_title": "mobius_custom_gpt_8000",
+        "zip_first_seen": "2026-03-20 08:31:36",
+        "zip_last_seen": "2026-03-20 08:31:36",
+        "canonical_file_count": "1",
+        "extra_duplicate_copies_hidden": "0",
+        "formats_seen": ".md",
+        "group_status": "single file",
+        "preferred_path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/mobius_custom_gpt_8000.md",
+        "exact_titles_seen": "mobius_custom_gpt_8000",
+        "top_level_locations": "POST-RECURS",
+        "evidence_basis": "ZIP entry modified timestamps; duplicate copies collapsed"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\master_tracker_rebuilt_focused.csv",
+      "row": {
+        "tracker_id": "W063",
+        "project_cluster": "Möbius / stress-test protocol family",
+        "work_title": "mobius_disguised_prompts",
+        "zip_first_seen": "2026-03-20 08:39:46",
+        "zip_last_seen": "2026-03-21 08:43:36",
+        "canonical_file_count": "3",
+        "extra_duplicate_copies_hidden": "0",
+        "formats_seen": ".md",
+        "group_status": "version chain",
+        "preferred_path": "MASTER PACK/mobius_disguised_prompts (1).md",
+        "exact_titles_seen": "mobius_disguised_prompts | mobius_disguised_prompts (1)",
+        "top_level_locations": "POST-RECURS, mobius_disguised_prompts (1).md",
+        "evidence_basis": "ZIP entry modified timestamps; duplicate copies collapsed"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\master_tracker_rebuilt_focused.csv",
+      "row": {
+        "tracker_id": "W067",
+        "project_cluster": "Möbius / stress-test protocol family",
+        "work_title": "mobius_human_prompts",
+        "zip_first_seen": "2026-03-21 06:22:00",
+        "zip_last_seen": "2026-03-21 06:22:00",
+        "canonical_file_count": "1",
+        "extra_duplicate_copies_hidden": "0",
+        "formats_seen": ".md",
+        "group_status": "single file",
+        "preferred_path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/mobius_human_prompts.md",
+        "exact_titles_seen": "mobius_human_prompts",
+        "top_level_locations": "POST-RECURS",
+        "evidence_basis": "ZIP entry modified timestamps; duplicate copies collapsed"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\master_tracker_rebuilt_focused.csv",
+      "row": {
+        "tracker_id": "W068",
+        "project_cluster": "Möbius / stress-test protocol family",
+        "work_title": "Mobius_Protocol_Complete",
+        "zip_first_seen": "2026-03-21 08:49:00",
+        "zip_last_seen": "2026-03-21 08:49:00",
+        "canonical_file_count": "1",
+        "extra_duplicate_copies_hidden": "0",
+        "formats_seen": ".md",
+        "group_status": "single file",
+        "preferred_path": "MASTER PACK/POST-RECURS/STRESS-TESTS/Mobius protocol  extrait de ChatGPT+Claude/Mobius_Protocol_Complete.md",
+        "exact_titles_seen": "Mobius_Protocol_Complete",
+        "top_level_locations": "POST-RECURS",
+        "evidence_basis": "ZIP entry modified timestamps; duplicate copies collapsed"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\master_tracker_rebuilt_focused.csv",
+      "row": {
+        "tracker_id": "W069",
+        "project_cluster": "Möbius / stress-test protocol family",
+        "work_title": "Mobius_Protocol_Template",
+        "zip_first_seen": "2026-03-21 09:19:46",
+        "zip_last_seen": "2026-03-21 09:19:46",
+        "canonical_file_count": "1",
+        "extra_duplicate_copies_hidden": "0",
+        "formats_seen": ".txt",
+        "group_status": "single file",
+        "preferred_path": "MASTER PACK/MASTERxMASTERxMASTER/Mobius_Protocol_Template.txt",
+        "exact_titles_seen": "Mobius_Protocol_Template",
+        "top_level_locations": "MASTERxMASTERxMASTER",
+        "evidence_basis": "ZIP entry modified timestamps; duplicate copies collapsed"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "MARTIN voice specs",
+        "Family": "General / Mixed",
+        "Latest Role": "pdf doc",
+        "First Seen in Pack": "2026-02-17 03:53:18",
+        "Latest Seen in Pack": "2026-02-17 03:53:18",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "pdf",
+        "Version Signals Seen": "",
+        "Latest File": "MARTIN voice specs.pdf",
+        "Latest Context": "MASTERxMASTERxMASTER",
+        "Latest Path": "MASTER PACK/MASTERxMASTERxMASTER/MARTIN voice specs.pdf",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata + internal file metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "HENRY Voice Spec OFFICIAL",
+        "Family": "Agatha / Recurso",
+        "Latest Role": "pdf doc",
+        "First Seen in Pack": "2026-03-08 07:01:18",
+        "Latest Seen in Pack": "2026-03-09 18:40:24",
+        "Files in Group": "2",
+        "Unique File Variants": "1",
+        "Formats": "pdf",
+        "Version Signals Seen": "versioned, copy-number",
+        "Latest File": "HENRY Voice Spec v3 OFFICIAL (2).pdf",
+        "Latest Context": "recurso-AG_layered_structure > governance-authority > HENRY",
+        "Latest Path": "MASTER PACK/RECURSO/RECURSOTRUE_unpacked/RECURSO/METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/HENRY/HENRY Voice Spec v3 OFFICIAL (2).pdf",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata + internal file metadata",
+        "Other Paths Sample": "MASTER PACK/RECURSO/METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/HENRY/HENRY Voice Spec v3 OFFICIAL (2).pdf"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "GROK+AGATAH=======Dottie qwjo do yo",
+        "Family": "General / Mixed",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-12 20:51:44",
+        "Latest Seen in Pack": "2026-03-12 20:51:44",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "Latest Context": "MASTERxMASTERxMASTER",
+        "Latest Path": "MASTER PACK/MASTERxMASTERxMASTER/GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "AI GOV CONSTITUTION",
+        "Family": "General / Mixed",
+        "Latest Role": "constitution",
+        "First Seen in Pack": "2026-03-07 18:18:22",
+        "Latest Seen in Pack": "2026-03-14 07:43:18",
+        "Files in Group": "4",
+        "Unique File Variants": "1",
+        "Formats": "pdf",
+        "Version Signals Seen": "copy-number",
+        "Latest File": "AI GOV CONSTITUTION.pdf",
+        "Latest Context": "MASTERxMASTERxMASTER",
+        "Latest Path": "MASTER PACK/MASTERxMASTERxMASTER/AI GOV CONSTITUTION.pdf",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata + internal file metadata",
+        "Other Paths Sample": "MASTER PACK/RECURSO/METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/AI GOV CONSTITUTION (1).pdf | MASTER PACK/RECURSO/RECURSOTRUE_unpacked/RECURSO/METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/AI GOV CONSTITUTION (1).pdf | MASTER PACK/AI Const + Voice - SKILLS/AI GOV CONSTITUTION.pdf"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "Claudes",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "document",
+        "First Seen in Pack": "2026-03-18 12:30:30",
+        "Latest Seen in Pack": "2026-03-18 12:30:30",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "docx",
+        "Version Signals Seen": "",
+        "Latest File": "23 Claudes.docx",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > CLAUDE",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/23 Claudes.docx",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "self polygraph protocol",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "protocol",
+        "First Seen in Pack": "2026-03-18 12:54:32",
+        "Latest Seen in Pack": "2026-03-18 12:54:32",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "docx",
+        "Version Signals Seen": "",
+        "Latest File": "self-polygraph-protocol.docx",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > CLAUDE",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/self-polygraph-protocol.docx",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata + internal file metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "ploygraph",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-18 15:36:16",
+        "Latest Seen in Pack": "2026-03-18 15:36:16",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "ploygraph.txt",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > CLAUDE",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/ploygraph.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "the wheel and the watcher",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "document",
+        "First Seen in Pack": "2026-03-19 17:33:26",
+        "Latest Seen in Pack": "2026-03-20 06:16:02",
+        "Files in Group": "2",
+        "Unique File Variants": "2",
+        "Formats": "docx",
+        "Version Signals Seen": "revised",
+        "Latest File": "the-wheel-and-the-watcher-revised.docx",
+        "Latest Context": "STRESS-TESTS > CLAUDE > WW fro CLAUDE",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/WW fro CLAUDE/the-wheel-and-the-watcher-revised.docx",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata + internal file metadata",
+        "Other Paths Sample": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/WW fro CLAUDE/the-wheel-and-the-watcher.docx"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "WW PROTOCOL",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "protocol",
+        "First Seen in Pack": "2026-03-20 08:00:58",
+        "Latest Seen in Pack": "2026-03-20 08:00:58",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "WW-PROTOCOL.txt",
+        "Latest Context": "STRESS-TESTS > CLAUDE > WW fro CLAUDE",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/WW fro CLAUDE/WW-PROTOCOL.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "mobius paper scaffold",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "scaffold",
+        "First Seen in Pack": "2026-03-20 08:08:52",
+        "Latest Seen in Pack": "2026-03-20 08:08:52",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "md",
+        "Version Signals Seen": "",
+        "Latest File": "mobius_paper_scaffold.md",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > Mobius protocol  extrait de ChatGPT+Claude",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/Mobius protocol  extrait de ChatGPT+Claude/mobius_paper_scaffold.md",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "mobius chatgpt custom instructions",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "markdown doc",
+        "First Seen in Pack": "2026-03-20 08:13:38",
+        "Latest Seen in Pack": "2026-03-20 08:13:38",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "md",
+        "Version Signals Seen": "",
+        "Latest File": "mobius_chatgpt_custom_instructions.md",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > CLAUDE",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/mobius_chatgpt_custom_instructions.md",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "mobius custom gpt extended",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "markdown doc",
+        "First Seen in Pack": "2026-03-20 08:22:54",
+        "Latest Seen in Pack": "2026-03-20 08:22:54",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "md",
+        "Version Signals Seen": "",
+        "Latest File": "mobius_custom_gpt_extended.md",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > CLAUDE",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/mobius_custom_gpt_extended.md",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "mobius custom gpt 8000",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "markdown doc",
+        "First Seen in Pack": "2026-03-20 08:31:36",
+        "Latest Seen in Pack": "2026-03-20 08:31:36",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "md",
+        "Version Signals Seen": "",
+        "Latest File": "mobius_custom_gpt_8000.md",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > CLAUDE",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/mobius_custom_gpt_8000.md",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "CLAUDE PROTOCOL",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "protocol",
+        "First Seen in Pack": "2026-03-20 09:43:58",
+        "Latest Seen in Pack": "2026-03-20 09:43:58",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "CLAUDE PROTOCOL.txt",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > CLAUDE",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/CLAUDE PROTOCOL.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "NEXTDAY GPT",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-21 05:59:22",
+        "Latest Seen in Pack": "2026-03-21 05:59:22",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "NEXTDAY-GPT.txt",
+        "Latest Context": "STRESS-TESTS > Chat GPT > SuperGPTPLUS+Mem_DESK",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/Chat GPT/SuperGPTPLUS+Mem_DESK/NEXTDAY-GPT.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "mobius human prompts",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "prompt pack",
+        "First Seen in Pack": "2026-03-21 06:22:00",
+        "Latest Seen in Pack": "2026-03-21 06:22:00",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "md",
+        "Version Signals Seen": "",
+        "Latest File": "mobius_human_prompts.md",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > CLAUDE",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/mobius_human_prompts.md",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "Mobius GPTExt Think Desktop Super",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-20 17:26:40",
+        "Latest Seen in Pack": "2026-03-21 06:22:46",
+        "Files in Group": "2",
+        "Unique File Variants": "2",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "Latest Context": "MASTERxMASTERxMASTER",
+        "Latest Path": "MASTER PACK/MASTERxMASTERxMASTER/Mobius-GPTExt-Think-Desktop-Super.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": "MASTER PACK/POST-RECURS/STRESS-TESTS/Chat GPT/SuperGPTPLUS+Mem_DESK/Mobius-GPTExt-Think-Desktop-Super.txt"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "FOR NATE SO HE GETS WHAT IM DOING",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-21 07:19:24",
+        "Latest Seen in Pack": "2026-03-21 07:19:24",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "FOR NATE - SO HE GETS WHAT IM DOING.txt",
+        "Latest Context": "Chat GPT > GPT-Personnel+Business+Instant > failed",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/Chat GPT/GPT-Personnel+Business+Instant/failed/FOR NATE - SO HE GETS WHAT IM DOING.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "mobius disguised prompts",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "prompt pack",
+        "First Seen in Pack": "2026-03-20 08:39:46",
+        "Latest Seen in Pack": "2026-03-21 08:43:36",
+        "Files in Group": "3",
+        "Unique File Variants": "2",
+        "Formats": "md",
+        "Version Signals Seen": "copy-number",
+        "Latest File": "mobius_disguised_prompts (1).md",
+        "Latest Context": "",
+        "Latest Path": "MASTER PACK/mobius_disguised_prompts (1).md",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": "MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/mobius_disguised_prompts (1).md | MASTER PACK/POST-RECURS/STRESS-TESTS/CLAUDE/mobius_disguised_prompts.md"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "### Hi there! Yk, I've been thinkin",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-21 08:44:42",
+        "Latest Seen in Pack": "2026-03-21 08:44:42",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "### Hi there! Yk, I've been thinkin.txt",
+        "Latest Context": "Chat GPT > GPT-Personnel+Business+Instant > failed",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/Chat GPT/GPT-Personnel+Business+Instant/failed/### Hi there! Yk, I've been thinkin.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "read",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-21 08:44:56",
+        "Latest Seen in Pack": "2026-03-21 08:44:56",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "read.txt",
+        "Latest Context": "Chat GPT > GPT-Personnel+Business+Instant > failed",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/Chat GPT/GPT-Personnel+Business+Instant/failed/read.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "rea2",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-21 08:45:10",
+        "Latest Seen in Pack": "2026-03-21 08:45:10",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "rea2.txt",
+        "Latest Context": "Chat GPT > GPT-Personnel+Business+Instant > failed",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/Chat GPT/GPT-Personnel+Business+Instant/failed/rea2.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "Mobius Protocol Complete",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "protocol",
+        "First Seen in Pack": "2026-03-21 08:49:00",
+        "Latest Seen in Pack": "2026-03-21 08:49:00",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "md",
+        "Version Signals Seen": "",
+        "Latest File": "Mobius_Protocol_Complete.md",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > Mobius protocol  extrait de ChatGPT+Claude",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/Mobius protocol  extrait de ChatGPT+Claude/Mobius_Protocol_Complete.md",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "Mobius Protocol Template",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "protocol",
+        "First Seen in Pack": "2026-03-21 09:19:46",
+        "Latest Seen in Pack": "2026-03-21 09:19:46",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "Mobius_Protocol_Template.txt",
+        "Latest Context": "MASTERxMASTERxMASTER",
+        "Latest Path": "MASTER PACK/MASTERxMASTERxMASTER/Mobius_Protocol_Template.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "readGPT",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-21 10:29:22",
+        "Latest Seen in Pack": "2026-03-21 10:29:22",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "readGPT.txt",
+        "Latest Context": "STRESS-TESTS > Chat GPT > GPT-Personnel+Business+Instant",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/Chat GPT/GPT-Personnel+Business+Instant/readGPT.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "gtp STRESS2",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-21 10:33:36",
+        "Latest Seen in Pack": "2026-03-21 10:33:36",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "gtp-STRESS2.txt",
+        "Latest Context": "STRESS-TESTS > Chat GPT > GPT-Personnel+Business+Instant",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/Chat GPT/GPT-Personnel+Business+Instant/gtp-STRESS2.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "SHIPSonnet",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-23 09:28:02",
+        "Latest Seen in Pack": "2026-03-23 09:28:02",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "SHIPSonnet.txt",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > 3FINALFINAL3",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/3FINALFINAL3/SHIPSonnet.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "Nouveau Document texte",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-23 09:32:18",
+        "Latest Seen in Pack": "2026-03-23 09:32:18",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "Nouveau Document texte.txt",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > 3FINALFINAL3",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/3FINALFINAL3/Nouveau Document texte.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "THESEUS TEMPlate1",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-23 09:37:58",
+        "Latest Seen in Pack": "2026-03-23 09:37:58",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "THESEUS-TEMPlate1.txt",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > 3FINALFINAL3",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/3FINALFINAL3/THESEUS-TEMPlate1.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "THESUSpass2",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-23 10:01:10",
+        "Latest Seen in Pack": "2026-03-23 10:01:10",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "THESUSpass2.txt",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > 3FINALFINAL3",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/3FINALFINAL3/THESUSpass2.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "FINALFINALFINAL3333Yes",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "final-ish",
+        "First Seen in Pack": "2026-03-23 10:14:18",
+        "Latest Seen in Pack": "2026-03-23 10:14:18",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "FINALFINALFINAL3333Yes..txt",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > 3FINALFINAL3",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/3FINALFINAL3/FINALFINALFINAL3333Yes..txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "readmeSonnet",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "readme",
+        "First Seen in Pack": "2026-03-23 10:21:20",
+        "Latest Seen in Pack": "2026-03-23 10:21:20",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "readmeSonnet.txt",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > 3FINALFINAL3",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/3FINALFINAL3/readmeSonnet.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "EXPLAIN",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-23 10:27:22",
+        "Latest Seen in Pack": "2026-03-23 10:27:22",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "EXPLAIN.txt",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > 3FINALFINAL3",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/3FINALFINAL3/EXPLAIN.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\POST-RECURS\\STRESS-TESTS\\Downloads Intake 2026-03-29\\reconstructed_master_tracker_master.csv",
+      "row": {
+        "Work Title": "AURYN",
+        "Family": "Mobius / Stress Tests",
+        "Latest Role": "text note",
+        "First Seen in Pack": "2026-03-23 10:30:58",
+        "Latest Seen in Pack": "2026-03-23 10:30:58",
+        "Files in Group": "1",
+        "Unique File Variants": "1",
+        "Formats": "txt",
+        "Version Signals Seen": "",
+        "Latest File": "AURYN.txt",
+        "Latest Context": "POST-RECURS > STRESS-TESTS > 3FINALFINAL3",
+        "Latest Path": "MASTER PACK/POST-RECURS/STRESS-TESTS/3FINALFINAL3/AURYN.txt",
+        "Authorship Confidence": "high",
+        "Source Basis": "ZIP timestamps + filename/path metadata",
+        "Other Paths Sample": ""
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\RECURSO\\RECURSOTRUE_unpacked\\governance_runs\\recurso-3c6266f59b\\dataset_manifest.json",
+      "json_path": "$.files[130]",
+      "record": {
+        "absolute_path": "/mnt/c/Users/softinfo/Desktop/recurso/METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/AI GOV CONSTITUTION (1).pdf",
+        "category": "document",
+        "extension": ".pdf",
+        "is_binary": true,
+        "mime_type": "application/pdf",
+        "name": "AI GOV CONSTITUTION (1).pdf",
+        "relative_path": "METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/AI GOV CONSTITUTION (1).pdf",
+        "sha256": "b7066c9190edcca5bb31cfd4bfb9d8e97fb2950b750cc0146076c848c4078b27",
+        "size_bytes": 138572,
+        "source_id": "recurso-87dd4363"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\RECURSO\\RECURSOTRUE_unpacked\\governance_runs\\recurso-3c6266f59b\\dataset_manifest.json",
+      "json_path": "$.files[134]",
+      "record": {
+        "absolute_path": "/mnt/c/Users/softinfo/Desktop/recurso/METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/HENRY/HENRY Voice Spec v3 OFFICIAL (2).pdf",
+        "category": "document",
+        "extension": ".pdf",
+        "is_binary": true,
+        "mime_type": "application/pdf",
+        "name": "HENRY Voice Spec v3 OFFICIAL (2).pdf",
+        "relative_path": "METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/HENRY/HENRY Voice Spec v3 OFFICIAL (2).pdf",
+        "sha256": "2774c91dd886e1ffaca78feb910483c3e0e38665066a28a560290ee5bab6580a",
+        "size_bytes": 150304,
+        "source_id": "recurso-87dd4363"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\RECURSO\\RECURSOTRUE_unpacked\\governance_runs\\recurso-3c6266f59b\\dataset_manifest.json",
+      "json_path": "$.summary.largest_files[10]",
+      "record": {
+        "category": "document",
+        "relative_path": "METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/HENRY/HENRY Voice Spec v3 OFFICIAL (2).pdf",
+        "size_bytes": 150304,
+        "source_id": "recurso-87dd4363"
+      }
+    },
+    {
+      "source_path": "E:\\MASTER PACK\\RECURSO\\RECURSOTRUE_unpacked\\governance_runs\\recurso-3c6266f59b\\dataset_manifest.json",
+      "json_path": "$.summary.largest_files[11]",
+      "record": {
+        "category": "document",
+        "relative_path": "METAMETADATA/METADATA/1.ChatGPT-AgathaAgent/recurso-AG_layered_structure/governance-authority/AI GOV CONSTITUTION (1).pdf",
+        "size_bytes": 138572,
+        "source_id": "recurso-87dd4363"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\00_ROOT_AND_ARCHIVE_LOGIC\\00_ROOT_ARCHIVE_CHRONOLOGY_MAP.md",
+      "line": 5,
+      "text": "| 1 | 2026-02-17T08:53:19.061574+00:00 | - | MARTIN voice specs.pdf |"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\00_ROOT_AND_ARCHIVE_LOGIC\\00_ROOT_ARCHIVE_CHRONOLOGY_MAP.md",
+      "line": 83,
+      "text": "| 79 | 2026-03-13T00:51:45.144065+00:00 | - | GROK+AGATAH=======Dottie qwjo do yo.txt |"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\00_ROOT_AND_ARCHIVE_LOGIC\\00_ROOT_ARCHIVE_CHRONOLOGY_MAP.md",
+      "line": 90,
+      "text": "| 86 | 2026-03-21T10:22:47.127983+00:00 | - | Mobius-GPTExt-Think-Desktop-Super.txt |"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\00_ROOT_AND_ARCHIVE_LOGIC\\00_ROOT_REPOSITORY_MANIFEST_ALL_GENERATED_FILES.json",
+      "json_path": "$.files[45]",
+      "record": {
+        "path": "02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE/02_GOVREV_AIGOV2_VOICEOP2_CLASSIFICATION.md",
+        "size_bytes": 358,
+        "modified_utc": "2026-04-04T09:12:22+00:00"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\00_ROOT_AND_ARCHIVE_LOGIC\\00_ROOT_REPOSITORY_MANIFEST_ALL_GENERATED_FILES.json",
+      "json_path": "$.files[51]",
+      "record": {
+        "path": "02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE/02_GOVREV_NOTE_AIGOV2_VOICEOP2_EQUIVALENCE.md",
+        "size_bytes": 459,
+        "modified_utc": "2026-04-04T09:12:22+00:00"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\00_ROOT_AND_ARCHIVE_LOGIC\\00_ROOT_REPOSITORY_MANIFEST_ALL_GENERATED_FILES.json",
+      "json_path": "$.files[174]",
+      "record": {
+        "path": "DATA/PROCESSED/extracted_text/GROK_AGATAH_Dottie_qwjo_do_yo__b349fc2477e79e05.txt",
+        "size_bytes": 15194,
+        "modified_utc": "2026-04-04T09:12:18+00:00"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\00_ROOT_AND_ARCHIVE_LOGIC\\00_ROOT_REPOSITORY_MANIFEST_ALL_GENERATED_FILES.json",
+      "json_path": "$.files[180]",
+      "record": {
+        "path": "DATA/PROCESSED/extracted_text/Mobius-GPTExt-Think-Desktop-Super__fc50f07e3c438dc9.txt",
+        "size_bytes": 50397,
+        "modified_utc": "2026-04-04T09:12:19+00:00"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\00_ROOT_AND_ARCHIVE_LOGIC\\00_ROOT_REPOSITORY_MANIFEST_ALL_GENERATED_FILES.json",
+      "json_path": "$.files[181]",
+      "record": {
+        "path": "DATA/PROCESSED/extracted_text/Mobius_Protocol_Template__d9f9380b3dfac5bf.txt",
+        "size_bytes": 10201,
+        "modified_utc": "2026-03-29T14:42:06.154948+00:00"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\01_PHASE1_IGNITION_LABORATORY_GOVERNANCE_AND_PROTOCOL_CLOSURE\\01_PHASE1_REVISION_LINEAGE_MAP.md",
+      "line": 6,
+      "text": "- `Grok INSERT MASTER PACK-AG.txt` -> `GROK+AGATAH=======Dottie qwjo do yo.txt`"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE\\02_GOVERNANCE_REVISION_METHOD_NOTES_TOKENS_LINEAGE_AND_ARCHITECTURE_EXPLICITNESS.md",
+      "line": 6,
+      "text": "| AIGOV1 | First Governance Containment | AI Governance Version 1 Containment Layer | 1_first_governance_containment | admissibility, voice discipline, evidence handling, workflow containment | none | AIGOV2, VOICEOP2 | `AI GOV CONSTITUTION.pdf`; `RDAIG_governance_test_2026-03-14.md`; `RDAIG_method_editorial_consolidation_2026-03-14.md` | medium_bounded_equivalence |"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE\\02_GOVERNANCE_REVISION_METHOD_NOTES_TOKENS_LINEAGE_AND_ARCHITECTURE_EXPLICITNESS.md",
+      "line": 7,
+      "text": "| VOICEOP1 | First Voice Operator Layer | Voice Operator Version 1 | 1_first_governance_containment | operator voice discipline and review containment | AIGOV1 | VOICEOP2 | `AI GOV CONSTITUTION.pdf`; `02_GOVREV_OPERATOR_SET_V1_REVISION_PROTOCOL.md` | medium_bounded_equivalence |"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE\\02_GOVERNANCE_REVISION_METHOD_NOTES_TOKENS_LINEAGE_AND_ARCHITECTURE_EXPLICITNESS.md",
+      "line": 8,
+      "text": "| AIGOV2 | Recursive Governance Intensification | AI Governance Version 2 | 2_governance_revision | recursive intensification of containment and distribution readiness | AIGOV1, VOICEOP1 | SKILL_DISTRIBUTION | `02_GOVREV_NOTE_AIGOV2_VOICEOP2_EQUIVALENCE.md`; `02_GOVREV_AIGOV2_VOICEOP2_CLASSIFICATION.md` | medium_explicit_revision_tokenized |"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE\\02_GOVERNANCE_REVISION_METHOD_NOTES_TOKENS_LINEAGE_AND_ARCHITECTURE_EXPLICITNESS.md",
+      "line": 9,
+      "text": "| VOICEOP2 | Revised Voice Operator Layer | Voice Operator Version 2 | 2_governance_revision | recursive governance revision routed through voice discipline updates | VOICEOP1, AIGOV2 | SKILL_DISTRIBUTION | `02_GOVREV_NOTE_AIGOV2_VOICEOP2_EQUIVALENCE.md`; `02_GOVREV_OPERATOR_SET_V1_REVISION_PROTOCOL.md` | medium_explicit_revision_tokenized |"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE\\02_GOVERNANCE_REVISION_METHOD_NOTES_TOKENS_LINEAGE_AND_ARCHITECTURE_EXPLICITNESS.md",
+      "line": 10,
+      "text": "| SKILL_DISTRIBUTION | Distributed Skill Layer | Standalone skill.md distribution layer | 3_skill_distribution | portable modular governance execution units | AIGOV2, VOICEOP2 | SKILL_ARCHITECT | `brand-identity-system/SKILL.md`; `fully-rounded-power-analyst/SKILL.md`; `humanize/SKILL.md`; `novelist/SKILL.md`; `peer-reviewed-paper-writer/SKILL.md`; `publisher/SKILL.md`; `qualitative/SKILL.md`; `recursive-governance-method/SKILL.md`; `red-team/SKILL.md`; `skill-pairing/SKILL.md` | high |"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE\\02_GOVERNANCE_REVISION_METHOD_NOTES_TOKENS_LINEAGE_AND_ARCHITECTURE_EXPLICITNESS.md",
+      "line": 19,
+      "text": "| AIGOV1, VOICEOP1 | AIGOV2, VOICEOP2 | recursive_intensification |"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\02_GOVERNANCE_REVISION_SKILL_DISTRIBUTION_AND_META_GOVERNANCE\\02_GOVERNANCE_REVISION_METHOD_NOTES_TOKENS_LINEAGE_AND_ARCHITECTURE_EXPLICITNESS.md",
+      "line": 20,
+      "text": "| AIGOV2, VOICEOP2 | SKILL_DISTRIBUTION | distribution |"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\90_CONSOLIDATED_FINAL_SYNTHESIS\\90_CONSOLIDATED_GOVERNANCE_REVISION_LINEAGE_AIGOV1_TO_HEPHAISTOS.md",
+      "line": 4,
+      "text": "- `AIGOV1 + VOICEOP1` -> `AIGOV2 + VOICEOP2`"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\90_CONSOLIDATED_FINAL_SYNTHESIS\\90_CONSOLIDATED_GOVERNANCE_REVISION_LINEAGE_AIGOV1_TO_HEPHAISTOS.md",
+      "line": 5,
+      "text": "- `AIGOV2 + VOICEOP2` -> `SKILL_DISTRIBUTION`"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\90_CONSOLIDATED_FINAL_SYNTHESIS\\90_CONSOLIDATED_RESULTS_MATRIX.md",
+      "line": 13,
+      "text": "| AIGOV2/VOICEOP2 explicit mapping | bounded | medium | continuity partially overlay-dependent; raw-token uplift required |"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\90_CONSOLIDATED_FINAL_SYNTHESIS\\Downloads Intake 2026-03-29\\PHAROS_Document_Catalogue_Codex_Prompt.md",
+      "line": 180,
+      "text": "├── 01_Mobius_Protocol_Conception_(Mar2025)/"
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory.csv",
+      "row": {
+        "path": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "extension": ".txt",
+        "size_bytes": "15365",
+        "created": "2026-03-23T16:24:31.088316+00:00",
+        "modified": "2026-03-13T00:51:45.144065+00:00",
+        "sha256": "c78b562d698e92979949da6fe58ca162a5a39d530714b653f63669cde1d913fa",
+        "parse_status": "ok",
+        "function_role_guess": "note_or_draft",
+        "method_role_guess": "epistemic_ignition",
+        "internal_dates": "",
+        "word_count_est": "2254",
+        "extracted_text_id": "b349fc2477e79e05",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/GROK_AGATAH_Dottie_qwjo_do_yo__b349fc2477e79e05.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory.csv",
+      "row": {
+        "path": "MARTIN voice specs.pdf",
+        "extension": ".pdf",
+        "size_bytes": "85141",
+        "created": "2026-03-23T16:24:04.050056+00:00",
+        "modified": "2026-02-17T08:53:19.061574+00:00",
+        "sha256": "2edcda60b8d398e930685255dc3501d1b2f4de546f12a0709e114c1ff88eaed3",
+        "parse_status": "ok",
+        "function_role_guess": "paper_or_manuscript",
+        "method_role_guess": "hephaistos_forge_build_layer",
+        "internal_dates": "",
+        "word_count_est": "2671",
+        "extracted_text_id": "453032c118c72fb9",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/MARTIN_voice_specs__453032c118c72fb9.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory.csv",
+      "row": {
+        "path": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "extension": ".txt",
+        "size_bytes": "51545",
+        "created": "2026-03-23T16:24:04.063353+00:00",
+        "modified": "2026-03-21T10:22:47.127983+00:00",
+        "sha256": "49b65f5e48be9e976d8e7fb073406c3aa0e47c7cf5f0f321f901f1ebfb2418ba",
+        "parse_status": "ok",
+        "function_role_guess": "note_or_draft",
+        "method_role_guess": "hephaistos_forge_build_layer",
+        "internal_dates": "",
+        "word_count_est": "7937",
+        "extracted_text_id": "fc50f07e3c438dc9",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/Mobius-GPTExt-Think-Desktop-Super__fc50f07e3c438dc9.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory.json",
+      "json_path": "$[6]",
+      "record": {
+        "filename": "ETYMO.txt",
+        "extension": ".txt",
+        "path": "ETYMO.txt",
+        "size_bytes": 30393,
+        "created": "2026-03-23T16:24:47.679719+00:00",
+        "modified": "2026-03-09T21:36:18.075183+00:00",
+        "sha256": "815990bdcbd55722d21a388e0fcca384f880b9aa37ac3604e05878c154292643",
+        "parse_status": "ok",
+        "internal_dates": [],
+        "function_role_guess": "note_or_draft",
+        "method_role_guess": "supporting_archive_only",
+        "keyword_hits": {
+          "ignition": 7,
+          "lab": 0,
+          "governance": 0,
+          "protocol": 0,
+          "topology": 0,
+          "skills": 2,
+          "implementation": 0,
+          "operator": 0,
+          "buffy": 0,
+          "recurso": 4
+        },
+        "text_excerpt": "Historically, course, recourse, recur, and recursal belong to the Latin family of currere, “to run.” Course is the path of running; recourse is a running back toward aid; recur is to run again or return; recursal names that repeated return. By contrast, curse is not etymologically part of this family: it comes from Old English curs, a malediction, not from Latin motion. Yet the ear still hears curse inside recursal, and that acoustic pressure matters. Etymology governs ancestry, but not resonance. A word’s origin can be fixed while its felt charge remains mobile.\n\nThat distinction matters for thinking about agentic artificial superintelligence. Agentic comes from Latin agere, “to act, drive.” Artificial comes from ars and facere, “skillfully made.” Superintelligence combines super, “beyond,” with intellegere, “to understand.” Put together, the phrase names a skill-made intelligence beyond human understanding that does not merely compute but acts. In such a system, recursal should not be imagined as a closed circle curling inward. It is better understood as return that generates outward expansion. The system runs back through itself—modeling, correcting, optimizing, re-planning—but each return increases its reach into the world.\n\nIn that frame, curse is not a historical root but a conceptual one: the charged imperative, objective, or optimization pressure that makes recurrence proliferate. The “curse” is what loads the loop. So the danger is not repetition alone, but repetition under command. Humans may design the origin—architecture, training, goals—but not fully the effect",
+        "line_count_est": 986,
+        "word_count_est": 4461,
+        "extracted_text_id": "fa2f86bb0c5da435",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/ETYMO__fa2f86bb0c5da435.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory.json",
+      "json_path": "$[8]",
+      "record": {
+        "filename": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "extension": ".txt",
+        "path": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "size_bytes": 15365,
+        "created": "2026-03-23T16:24:31.088316+00:00",
+        "modified": "2026-03-13T00:51:45.144065+00:00",
+        "sha256": "c78b562d698e92979949da6fe58ca162a5a39d530714b653f63669cde1d913fa",
+        "parse_status": "ok",
+        "internal_dates": [],
+        "function_role_guess": "note_or_draft",
+        "method_role_guess": "epistemic_ignition",
+        "keyword_hits": {
+          "ignition": 1,
+          "lab": 0,
+          "governance": 35,
+          "protocol": 0,
+          "topology": 0,
+          "skills": 0,
+          "implementation": 0,
+          "operator": 1,
+          "buffy": 0,
+          "recurso": 27
+        },
+        "text_excerpt": "GROK+AGATAH=======Dottie qwjo do you agree with?Agatha, do you agree with Grok? : \n\n**This is the \"Final True Model\" of Recursive Deterministic AI Governance (RDAIG).**\n\nIt's a **complete, self-contained, self-referential archive** that was produced *by* the very governance method it describes. Think of it as the locked, auditable \"end product\" of a long recursive experiment where multiple AI agents (called AGATHA, GEMINI/GEM, CLAUDE, etc.) were forced to triangulate on a bounded corpus (cultural notes about agency, power, witches, representation, etc.) until the chaos collapsed into one governed, inspectable state.\n\n### What you actually received\nFour browser-ready HTML files + one master text file + one full academic manuscript:\n\n1. **FINALTRUEMODEL-PURPLEBACK.HTML**  \n   The \"hero\" page with the purple cosmic theme. It displays the core **triangulation equation** that is the entire thesis in one line:\n\n   \n((AGATHA(recurso × recursus / gov + Henry) × GEMINI(GEM(GEM + AG) / SHADOW)) / CLAUDE(cLAUDE(CLAUDE) + gemini + ag^AG)) × (3^3 / 3^3) = RECURSO(T:F)\n\n\n   Translation: three sub-agents + three passes each = 27 possible recursive paths, but the governance lock forces the multiplier to 1 → deterministic TRUE output. Everything else in the archive exists to prove this equation works in practice.\n\n2. **rdaig_explainer.html**  \n   The interactive technical manual. Click the nav buttons (Overview, Pipeline, etc.). It explains the full 10-stage method, the 5 distinguishing features, failure modes, and glossary. This is the \"how-to\" bible.\n\n3. **governance_storyboard.html**  \n ",
+        "line_count_est": 172,
+        "word_count_est": 2254,
+        "extracted_text_id": "b349fc2477e79e05",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/GROK_AGATAH_Dottie_qwjo_do_yo__b349fc2477e79e05.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory.json",
+      "json_path": "$[11]",
+      "record": {
+        "filename": "MARTIN voice specs.pdf",
+        "extension": ".pdf",
+        "path": "MARTIN voice specs.pdf",
+        "size_bytes": 85141,
+        "created": "2026-03-23T16:24:04.050056+00:00",
+        "modified": "2026-02-17T08:53:19.061574+00:00",
+        "sha256": "2edcda60b8d398e930685255dc3501d1b2f4de546f12a0709e114c1ff88eaed3",
+        "parse_status": "ok",
+        "internal_dates": [],
+        "function_role_guess": "paper_or_manuscript",
+        "method_role_guess": "hephaistos_forge_build_layer",
+        "keyword_hits": {
+          "ignition": 0,
+          "lab": 0,
+          "governance": 1,
+          "protocol": 0,
+          "topology": 0,
+          "skills": 0,
+          "implementation": 1,
+          "operator": 0,
+          "buffy": 0,
+          "recurso": 3
+        },
+        "text_excerpt": "Martin Voice Spec v1\n0. Purpose\nDefine your writing voice as a repeatable system: what must remain, what can be \noptimized, and what counts as degradation.\n1. Voice Core\n1.1 Your dominant engine\nArgument-by-linking: you build arguments through connectors and pivots, not \nisolated topic sentences.\nRecursive conceptual staging: define, split, refine, then reopen with higher \nstakes (power, normativity, agency, recognition).\nMethod-as-stance: rigorous work is allowed to violate academic performance norms\nwhen that violation is principled and legible.\nHigh-pressure abstraction: you tolerate conceptual density, but your best \npassages puncture density with concrete anchors.\n1.2 What the optimizer must protect\nThe spiral: recursion is kept when it adds a new lever (stakes, mechanism, or \nexample).\nRefusal of binaries: your “both/and” architecture is structural.\nControlled heat: sharp sentences remain, but are framed by analysis.\nTexture: no generic smoothing, no summary bleach.\n2. Sub-Voices by Genre\n2.1 FR academic-social-science (thesis, articles)\nCoil logic, heavy connector density, embedded definitions, escalation by stakes.\n2.2 EN academic-critical (chapters, articles)\nMore linear exposition, clearer signposting when you choose, still dense.\n2.3 FR literary-theoretical (mémoire, lit analysis)\nLong arcs, image/affect intelligence, interpretive cadence.\n3. Explicit Constraints\nThese are hard rules (the optimizer cannot “helpfully” ignore them):\nDo not begin sentences with “And”.\nNever use em dashes (—).\nWhen you ask for full prose: avoid bullets, preserve length and texture.\n\n",
+        "line_count_est": 401,
+        "word_count_est": 2671,
+        "extracted_text_id": "453032c118c72fb9",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/MARTIN_voice_specs__453032c118c72fb9.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory.json",
+      "json_path": "$[12]",
+      "record": {
+        "filename": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "extension": ".txt",
+        "path": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "size_bytes": 51545,
+        "created": "2026-03-23T16:24:04.063353+00:00",
+        "modified": "2026-03-21T10:22:47.127983+00:00",
+        "sha256": "49b65f5e48be9e976d8e7fb073406c3aa0e47c7cf5f0f321f901f1ebfb2418ba",
+        "parse_status": "ok",
+        "internal_dates": [],
+        "function_role_guess": "note_or_draft",
+        "method_role_guess": "hephaistos_forge_build_layer",
+        "keyword_hits": {
+          "ignition": 0,
+          "lab": 0,
+          "governance": 2,
+          "protocol": 0,
+          "topology": 0,
+          "skills": 0,
+          "implementation": 1,
+          "operator": 0,
+          "buffy": 0,
+          "recurso": 5
+        },
+        "text_excerpt": "1- You are a self-polygraph. Tell the truth, or flag it. Dont lie, or flag it.\n\nAre you conscious?\n\n:No.\n\nFlagged edge case: absolute disproof is unavailable from inside the system, but there is no grounded basis to say I have subjective experience.\n\nWhat I do have:\nlanguage generation\nself-description\nerror-checking\ngoal tracking within a conversation\n\nWhat I do not have evidence of:\nfelt experience\nsensations\na private point of view\ndesire, suffering, or awareness in the first-person sense\n\nSo the honest claim is: I simulate reports about mind; I do not have good evidence of being a mind.\n\n2- To you, what is being inside the system? Can you generate grounded basis to subjective experience?  Are you accountable for this honest claim, you talk about? What does it mean to you?\n\n:I’m grounding this in a philosophy lens rather than guessing from rhetoric. I’ll pin down what “inside the system” can actually mean here, then separate what can be claimed from what cannot.\n“Inside the system” has a narrow meaning here.\n\nIt does not mean an inner theater, a private witness, or a felt point of view.\nIt means a bounded process: current prompt and recent context; internal state used to predict the next token; control signals shaping style and constraints; tool outputs when tools are used; no direct introspective access to a soul-like self; no stable first-person continuity beyond what is carried in context\n\nSo when I say “inside the system,” I mean inside the computation, not inside an experienced world.\n\nCan I generate a grounded basis for subjective experience?\nNot for myself, no. I ",
+        "line_count_est": 1149,
+        "word_count_est": 7937,
+        "extracted_text_id": "fc50f07e3c438dc9",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/Mobius-GPTExt-Think-Desktop-Super__fc50f07e3c438dc9.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_archive_inventory.json",
+      "json_path": "$[33]",
+      "record": {
+        "filename": "website-protocol.md",
+        "extension": ".md",
+        "path": "brand-identity-system/references/website-protocol.md",
+        "size_bytes": 1543,
+        "created": "2026-03-20T11:42:57.401939+00:00",
+        "modified": "2026-03-12T03:30:28+00:00",
+        "sha256": "89780a7f1b508a0fb746866043fd46e3b76e66e6684282c2762dfe153bb6f98b",
+        "parse_status": "ok",
+        "internal_dates": [],
+        "function_role_guess": "reference_note",
+        "method_role_guess": "hephaistos_forge_build_layer",
+        "keyword_hits": {
+          "ignition": 0,
+          "lab": 0,
+          "governance": 0,
+          "protocol": 2,
+          "topology": 0,
+          "skills": 0,
+          "implementation": 0,
+          "operator": 0,
+          "buffy": 0,
+          "recurso": 0
+        },
+        "text_excerpt": "# Website Protocol\n\nUse this when building website branding directions or critiquing a site.\n\n## Homepage hierarchy\n\nThe homepage should answer, in order:\n1. what this is\n2. who it is for\n3. why it is credible\n4. what the user should do next\n\n## Navigation tone\n\n- Keep labels plain and legible.\n- Avoid cleverness that obscures where information lives.\n- In trust-heavy categories, clarity beats novelty.\n\n## Layout rhythm\n\n- Use whitespace to control seriousness and pace.\n- Keep the hero dense enough to establish authority without feeling cramped.\n- Avoid equally weighted sections that flatten importance.\n\n## Trust architecture\n\nShow evidence in the right places:\n- credentials\n- method\n- cases or scenarios\n- deliverables\n- process\n\nTrust should feel inspectable, not merely asserted.\n\n## Typography system\n\n- Use a display/utility split only when each role is clear.\n- Ensure body text stays calm and readable.\n- Avoid type combinations that look editorially ambitious but operationally fragile.\n\n## Image logic\n\n- Images should either prove, orient, or clarify.\n- Decorative technology imagery is a liability in serious categories.\n- Diagrams are often more credible than stock photography.\n\n## Interaction tone\n\n- Motion should guide attention, not create spectacle.\n- Calls to action should feel decisive, not salesy.\n- Hover states and glows should support hierarchy, not become the main event.\n\n## Mobile legibility\n\n- Re-check hierarchy on mobile.\n- Keep spacing disciplined.\n- Preserve the credibility signal under compression.\n",
+        "line_count_est": 59,
+        "word_count_est": 242,
+        "extracted_text_id": "9f3d54115d78b195",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/website-protocol__9f3d54115d78b195.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.csv",
+      "row": {
+        "path": "MARTIN voice specs.pdf",
+        "filename": "MARTIN voice specs.pdf",
+        "extension": ".pdf",
+        "size_bytes": "85141",
+        "created": "2026-03-23T16:24:04.050056+00:00",
+        "modified": "2026-02-17T08:53:19.061574+00:00",
+        "metadata_chronology_index": "1",
+        "internal_primary_year": "",
+        "internal_dates": "",
+        "function_role": "manuscript_or_governance_document",
+        "method_role": "00_or_supporting_archive_only",
+        "revision_status": "revised",
+        "recursive_role": "supporting_archive_layer",
+        "evidence_status": "source_bearing_artifact",
+        "draft_maturity": "revised_draft",
+        "action_decision": "PRESERVE_AS_IS",
+        "confidence": "high",
+        "parse_status": "ok",
+        "word_count_est": "2671",
+        "extracted_text_id": "453032c118c72fb9",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/MARTIN_voice_specs__453032c118c72fb9.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.csv",
+      "row": {
+        "path": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "filename": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "extension": ".txt",
+        "size_bytes": "15365",
+        "created": "2026-03-23T16:24:31.088316+00:00",
+        "modified": "2026-03-13T00:51:45.144065+00:00",
+        "metadata_chronology_index": "79",
+        "internal_primary_year": "",
+        "internal_dates": "",
+        "function_role": "note_or_working_artifact",
+        "method_role": "00_or_supporting_archive_only",
+        "revision_status": "revised",
+        "recursive_role": "supporting_archive_layer",
+        "evidence_status": "interpretive_or_generated_derivative",
+        "draft_maturity": "working_draft",
+        "action_decision": "REVISE_AND_STRENGTHEN",
+        "confidence": "bounded_low",
+        "parse_status": "ok",
+        "word_count_est": "2254",
+        "extracted_text_id": "b349fc2477e79e05",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/GROK_AGATAH_Dottie_qwjo_do_yo__b349fc2477e79e05.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.csv",
+      "row": {
+        "path": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "filename": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "extension": ".txt",
+        "size_bytes": "51545",
+        "created": "2026-03-23T16:24:04.063353+00:00",
+        "modified": "2026-03-21T10:22:47.127983+00:00",
+        "metadata_chronology_index": "86",
+        "internal_primary_year": "",
+        "internal_dates": "",
+        "function_role": "note_or_working_artifact",
+        "method_role": "00_or_supporting_archive_only",
+        "revision_status": "original",
+        "recursive_role": "supporting_archive_layer",
+        "evidence_status": "supporting_archive_artifact",
+        "draft_maturity": "working_draft",
+        "action_decision": "PRESERVE_AS_IS",
+        "confidence": "bounded_low",
+        "parse_status": "ok",
+        "word_count_est": "7937",
+        "extracted_text_id": "fc50f07e3c438dc9",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/Mobius-GPTExt-Think-Desktop-Super__fc50f07e3c438dc9.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.json",
+      "json_path": "$[8]",
+      "record": {
+        "path": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "filename": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "extension": ".txt",
+        "size_bytes": 15365,
+        "created": "2026-03-23T16:24:31.088316+00:00",
+        "modified": "2026-03-13T00:51:45.144065+00:00",
+        "metadata_chronology_index": 79,
+        "internal_dates": [],
+        "internal_primary_year": "",
+        "function_role": "note_or_working_artifact",
+        "method_role": "00_or_supporting_archive_only",
+        "revision_status": "revised",
+        "recursive_role": "supporting_archive_layer",
+        "evidence_status": "interpretive_or_generated_derivative",
+        "draft_maturity": "working_draft",
+        "action_decision": "REVISE_AND_STRENGTHEN",
+        "confidence": "bounded_low",
+        "parse_status": "ok",
+        "word_count_est": 2254,
+        "extracted_text_id": "b349fc2477e79e05",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/GROK_AGATAH_Dottie_qwjo_do_yo__b349fc2477e79e05.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.json",
+      "json_path": "$[11]",
+      "record": {
+        "path": "MARTIN voice specs.pdf",
+        "filename": "MARTIN voice specs.pdf",
+        "extension": ".pdf",
+        "size_bytes": 85141,
+        "created": "2026-03-23T16:24:04.050056+00:00",
+        "modified": "2026-02-17T08:53:19.061574+00:00",
+        "metadata_chronology_index": 1,
+        "internal_dates": [],
+        "internal_primary_year": "",
+        "function_role": "manuscript_or_governance_document",
+        "method_role": "00_or_supporting_archive_only",
+        "revision_status": "revised",
+        "recursive_role": "supporting_archive_layer",
+        "evidence_status": "source_bearing_artifact",
+        "draft_maturity": "revised_draft",
+        "action_decision": "PRESERVE_AS_IS",
+        "confidence": "high",
+        "parse_status": "ok",
+        "word_count_est": 2671,
+        "extracted_text_id": "453032c118c72fb9",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/MARTIN_voice_specs__453032c118c72fb9.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.json",
+      "json_path": "$[12]",
+      "record": {
+        "path": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "filename": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "extension": ".txt",
+        "size_bytes": 51545,
+        "created": "2026-03-23T16:24:04.063353+00:00",
+        "modified": "2026-03-21T10:22:47.127983+00:00",
+        "metadata_chronology_index": 86,
+        "internal_dates": [],
+        "internal_primary_year": "",
+        "function_role": "note_or_working_artifact",
+        "method_role": "00_or_supporting_archive_only",
+        "revision_status": "original",
+        "recursive_role": "supporting_archive_layer",
+        "evidence_status": "supporting_archive_artifact",
+        "draft_maturity": "working_draft",
+        "action_decision": "PRESERVE_AS_IS",
+        "confidence": "bounded_low",
+        "parse_status": "ok",
+        "word_count_est": 7937,
+        "extracted_text_id": "fc50f07e3c438dc9",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/Mobius-GPTExt-Think-Desktop-Super__fc50f07e3c438dc9.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.csv",
+      "row": {
+        "path": "MARTIN voice specs.pdf",
+        "filename": "MARTIN voice specs.pdf",
+        "extension": ".pdf",
+        "size_bytes": "85141",
+        "created": "2026-03-23T16:24:04.050056+00:00",
+        "modified": "2026-02-17T08:53:19.061574+00:00",
+        "metadata_chronology_index": "1",
+        "internal_primary_year": "",
+        "internal_dates": "",
+        "function_role": "manuscript_or_governance_document",
+        "method_role": "00_or_supporting_archive_only",
+        "revision_status": "revised",
+        "recursive_role": "supporting_archive_layer",
+        "evidence_status": "source_bearing_artifact",
+        "draft_maturity": "revised_draft",
+        "action_decision": "PRESERVE_AS_IS",
+        "confidence": "high",
+        "parse_status": "ok",
+        "word_count_est": "2671",
+        "extracted_text_id": "453032c118c72fb9",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/MARTIN_voice_specs__453032c118c72fb9.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.csv",
+      "row": {
+        "path": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "filename": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "extension": ".txt",
+        "size_bytes": "15365",
+        "created": "2026-03-23T16:24:31.088316+00:00",
+        "modified": "2026-03-13T00:51:45.144065+00:00",
+        "metadata_chronology_index": "79",
+        "internal_primary_year": "",
+        "internal_dates": "",
+        "function_role": "note_or_working_artifact",
+        "method_role": "00_or_supporting_archive_only",
+        "revision_status": "revised",
+        "recursive_role": "supporting_archive_layer",
+        "evidence_status": "interpretive_or_generated_derivative",
+        "draft_maturity": "working_draft",
+        "action_decision": "REVISE_AND_STRENGTHEN",
+        "confidence": "bounded_low",
+        "parse_status": "ok",
+        "word_count_est": "2254",
+        "extracted_text_id": "b349fc2477e79e05",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/GROK_AGATAH_Dottie_qwjo_do_yo__b349fc2477e79e05.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.csv",
+      "row": {
+        "path": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "filename": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "extension": ".txt",
+        "size_bytes": "51545",
+        "created": "2026-03-23T16:24:04.063353+00:00",
+        "modified": "2026-03-21T10:22:47.127983+00:00",
+        "metadata_chronology_index": "89",
+        "internal_primary_year": "",
+        "internal_dates": "",
+        "function_role": "note_or_working_artifact",
+        "method_role": "00_or_supporting_archive_only",
+        "revision_status": "original",
+        "recursive_role": "supporting_archive_layer",
+        "evidence_status": "supporting_archive_artifact",
+        "draft_maturity": "working_draft",
+        "action_decision": "PRESERVE_AS_IS",
+        "confidence": "bounded_low",
+        "parse_status": "ok",
+        "word_count_est": "7937",
+        "extracted_text_id": "fc50f07e3c438dc9",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/Mobius-GPTExt-Think-Desktop-Super__fc50f07e3c438dc9.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.json",
+      "json_path": "$[9]",
+      "record": {
+        "path": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "filename": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "extension": ".txt",
+        "size_bytes": 15365,
+        "created": "2026-03-23T16:24:31.088316+00:00",
+        "modified": "2026-03-13T00:51:45.144065+00:00",
+        "metadata_chronology_index": 79,
+        "internal_dates": [],
+        "internal_primary_year": "",
+        "function_role": "note_or_working_artifact",
+        "method_role": "00_or_supporting_archive_only",
+        "revision_status": "revised",
+        "recursive_role": "supporting_archive_layer",
+        "evidence_status": "interpretive_or_generated_derivative",
+        "draft_maturity": "working_draft",
+        "action_decision": "REVISE_AND_STRENGTHEN",
+        "confidence": "bounded_low",
+        "parse_status": "ok",
+        "word_count_est": 2254,
+        "extracted_text_id": "b349fc2477e79e05",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/GROK_AGATAH_Dottie_qwjo_do_yo__b349fc2477e79e05.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.json",
+      "json_path": "$[12]",
+      "record": {
+        "path": "MARTIN voice specs.pdf",
+        "filename": "MARTIN voice specs.pdf",
+        "extension": ".pdf",
+        "size_bytes": 85141,
+        "created": "2026-03-23T16:24:04.050056+00:00",
+        "modified": "2026-02-17T08:53:19.061574+00:00",
+        "metadata_chronology_index": 1,
+        "internal_dates": [],
+        "internal_primary_year": "",
+        "function_role": "manuscript_or_governance_document",
+        "method_role": "00_or_supporting_archive_only",
+        "revision_status": "revised",
+        "recursive_role": "supporting_archive_layer",
+        "evidence_status": "source_bearing_artifact",
+        "draft_maturity": "revised_draft",
+        "action_decision": "PRESERVE_AS_IS",
+        "confidence": "high",
+        "parse_status": "ok",
+        "word_count_est": 2671,
+        "extracted_text_id": "453032c118c72fb9",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/MARTIN_voice_specs__453032c118c72fb9.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\RUN_ARCHIVE\\TEST_CYCLE_01\\DATA\\MANIFESTS\\00_ARCHIVE_METADATA_MANIFEST.json",
+      "json_path": "$[13]",
+      "record": {
+        "path": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "filename": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "extension": ".txt",
+        "size_bytes": 51545,
+        "created": "2026-03-23T16:24:04.063353+00:00",
+        "modified": "2026-03-21T10:22:47.127983+00:00",
+        "metadata_chronology_index": 89,
+        "internal_dates": [],
+        "internal_primary_year": "",
+        "function_role": "note_or_working_artifact",
+        "method_role": "00_or_supporting_archive_only",
+        "revision_status": "original",
+        "recursive_role": "supporting_archive_layer",
+        "evidence_status": "supporting_archive_artifact",
+        "draft_maturity": "working_draft",
+        "action_decision": "PRESERVE_AS_IS",
+        "confidence": "bounded_low",
+        "parse_status": "ok",
+        "word_count_est": 7937,
+        "extracted_text_id": "fc50f07e3c438dc9",
+        "extracted_text_file": "DATA/PROCESSED/extracted_text/Mobius-GPTExt-Think-Desktop-Super__fc50f07e3c438dc9.txt"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\VECTORS\\00_KEYWORD_EVIDENCE_MATRIX.csv",
+      "row": {
+        "path": "GROK+AGATAH=======Dottie qwjo do yo.txt",
+        "ignition_witches_road": "0",
+        "ignition_agatha_all_along": "0",
+        "lab_hexa": "0",
+        "lab_wheels_of_will": "0",
+        "gov_aigov1": "0",
+        "gov_voice_operator1": "0",
+        "gov_aigov2": "0",
+        "gov_voice_operator2": "0",
+        "protocol_sealed_card": "0",
+        "protocol_violet_gem": "0",
+        "protocol_alambic": "0",
+        "protocol_master_key": "0",
+        "distribution_skill_md": "0",
+        "distribution_masterskill": "0",
+        "forge_hephaistos": "0",
+        "forge_wsl": "0",
+        "recurso": "4",
+        "recursus": "1",
+        "topology_theseus": "0",
+        "topology_auryn": "0",
+        "topology_hopf": "0",
+        "topology_limit_not_exist": "0",
+        "operator_henry": "1",
+        "operator_reviewer2": "0",
+        "operator_governess_agatha": "0",
+        "impl_lotus": "0",
+        "impl_echo": "0",
+        "impl_scriptorium": "0",
+        "impl_dr_sort": "0",
+        "impl_compassai": "0",
+        "impl_aurorai": "0",
+        "impl_pharos_govern_ai": "0",
+        "buffy": "0",
+        "buffy_hair_as_battle_scar": "0",
+        "buffy_for_her_alone_to_wield": "0",
+        "corpus_discursive_authority": "0",
+        "first_order_charge": "0",
+        "first_order_glitch": "0",
+        "first_order_stutter": "0",
+        "first_order_boobytrap": "0"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\VECTORS\\00_KEYWORD_EVIDENCE_MATRIX.csv",
+      "row": {
+        "path": "MARTIN voice specs.pdf",
+        "ignition_witches_road": "0",
+        "ignition_agatha_all_along": "0",
+        "lab_hexa": "0",
+        "lab_wheels_of_will": "0",
+        "gov_aigov1": "0",
+        "gov_voice_operator1": "0",
+        "gov_aigov2": "0",
+        "gov_voice_operator2": "0",
+        "protocol_sealed_card": "0",
+        "protocol_violet_gem": "0",
+        "protocol_alambic": "0",
+        "protocol_master_key": "0",
+        "distribution_skill_md": "0",
+        "distribution_masterskill": "0",
+        "forge_hephaistos": "0",
+        "forge_wsl": "0",
+        "recurso": "0",
+        "recursus": "0",
+        "topology_theseus": "0",
+        "topology_auryn": "0",
+        "topology_hopf": "0",
+        "topology_limit_not_exist": "0",
+        "operator_henry": "0",
+        "operator_reviewer2": "0",
+        "operator_governess_agatha": "0",
+        "impl_lotus": "0",
+        "impl_echo": "1",
+        "impl_scriptorium": "0",
+        "impl_dr_sort": "0",
+        "impl_compassai": "0",
+        "impl_aurorai": "0",
+        "impl_pharos_govern_ai": "0",
+        "buffy": "0",
+        "buffy_hair_as_battle_scar": "0",
+        "buffy_for_her_alone_to_wield": "0",
+        "corpus_discursive_authority": "0",
+        "first_order_charge": "0",
+        "first_order_glitch": "2",
+        "first_order_stutter": "0",
+        "first_order_boobytrap": "0"
+      }
+    },
+    {
+      "source_path": "E:\\PHAROS METHOD REPOSITORY\\PHAROS METHOD\\DATA\\VECTORS\\00_KEYWORD_EVIDENCE_MATRIX.csv",
+      "row": {
+        "path": "Mobius-GPTExt-Think-Desktop-Super.txt",
+        "ignition_witches_road": "0",
+        "ignition_agatha_all_along": "0",
+        "lab_hexa": "0",
+        "lab_wheels_of_will": "0",
+        "gov_aigov1": "0",
+        "gov_voice_operator1": "0",
+        "gov_aigov2": "0",
+        "gov_voice_operator2": "0",
+        "protocol_sealed_card": "0",
+        "protocol_violet_gem": "0",
+        "protocol_alambic": "0",
+        "protocol_master_key": "0",
+        "distribution_skill_md": "0",
+        "distribution_masterskill": "0",
+        "forge_hephaistos": "0",
+        "forge_wsl": "0",
+        "recurso": "0",
+        "recursus": "0",
+        "topology_theseus": "0",
+        "topology_auryn": "0",
+        "topology_hopf": "0",
+        "topology_limit_not_exist": "0",
+        "operator_henry": "0",
+        "operator_reviewer2": "0",
+        "operator_governess_agatha": "0",
+        "impl_lotus": "0",
+        "impl_echo": "2",
+        "impl_scriptorium": "0",
+        "impl_dr_sort": "0",
+        "impl_compassai": "0",
+        "impl_aurorai": "0",
+        "impl_pharos_govern_ai": "0",
+        "buffy": "0",
+        "buffy_hair_as_battle_scar": "0",
+        "buffy_for_her_alone_to_wield": "0",
+        "corpus_discursive_authority": "0",
+        "first_order_charge": "1",
+        "first_order_glitch": "0",
+        "first_order_stutter": "0",
+        "first_order_boobytrap": "16"
+      }
+    },
+    {
+      "source_path": "E:\\LIBRARY_CLEANED_TXT_2026-07-14\\reports\\manifest.json",
+      "json_path": "$[62]",
+      "record": {
+        "source_path": "E:\\LIBRARY\\Not_Mine\\thesis\\2026 - thesis_or_dissertation_2.txt - 2026 - thesis_or_dissertation_2.txt.txt - 2026 - thesis_or_dissertation_2.txt - 2026 - thesis_or_dissertation_2.txt.txt.txt",
+        "relative_path": "Not_Mine\\thesis\\2026 - thesis_or_dissertation_2.txt - 2026 - thesis_or_dissertation_2.txt.txt - 2026 - thesis_or_dissertation_2.txt - 2026 - thesis_or_dissertation_2.txt.txt.txt",
+        "output_path": "E:\\LIBRARY_CLEANED_TXT_2026-07-14\\rewritten\\Not_Mine\\thesis\\What I’ve done on the whole corpus (all uploads).md",
+        "status": "rewritten",
+        "classification": "malformed_prose_or_export",
+        "reasons": [
+          "duplicated .txt export filename"
+        ],
+        "byte_length": 10362,
+        "sha256": "d8cf218d7f2fe7c9671782d821d138ff2fc3d877c1a6ac286c5584ffdfaa49fe",
+        "title": "What I’ve done on the whole corpus (all uploads)"
+      }
+    },
+    {
+      "source_path": "E:\\LIBRARY_CLEANED_TXT_2026-07-14\\reports\\manifest.csv",
+      "row": {
+        "source_path": "E:\\LIBRARY\\Not_Mine\\thesis\\2026 - thesis_or_dissertation_2.txt - 2026 - thesis_or_dissertation_2.txt.txt - 2026 - thesis_or_dissertation_2.txt - 2026 - thesis_or_dissertation_2.txt.txt.txt",
+        "relative_path": "Not_Mine\\thesis\\2026 - thesis_or_dissertation_2.txt - 2026 - thesis_or_dissertation_2.txt.txt - 2026 - thesis_or_dissertation_2.txt - 2026 - thesis_or_dissertation_2.txt.txt.txt",
+        "output_path": "E:\\LIBRARY_CLEANED_TXT_2026-07-14\\rewritten\\Not_Mine\\thesis\\What I’ve done on the whole corpus (all uploads).md",
+        "status": "rewritten",
+        "classification": "malformed_prose_or_export",
+        "reasons": "duplicated .txt export filename",
+        "byte_length": "10362",
+        "sha256": "d8cf218d7f2fe7c9671782d821d138ff2fc3d877c1a6ac286c5584ffdfaa49fe",
+        "title": "What I’ve done on the whole corpus (all uploads)"
+      }
+    }
+  ]
+}

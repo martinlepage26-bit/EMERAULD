@@ -7,7 +7,7 @@ aliases:
 tags: [gpt, products, pharos, openai, digital-products, chatgpt]
 status: active
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-07-30
 ---
 
 # Custom GPT Products — PHAROS AI GPT Roster
@@ -43,6 +43,8 @@ These GPTs are live products on ChatGPT's platform, distinct from the internal o
 | **DOTTIE (Dot Matrix aka CMD.com)** | Internal adversarial governance analyst persona; French-only client output; may not be published as a standalone GPT | [[AI Personas — Agatha, DOTTIE, and MOBI]] |
 | **MOBI (Mobius)** | Technical successor to Agatha; PHAROS product lexicon + InfraFabric context; may not be published as a standalone GPT | [[AI Personas — Agatha, DOTTIE, and MOBI]] |
 
+2026-07-30 metadata check: Chrome/Edge history confirmed Agatha/Governess Agatha and Henry GPT URLs, but found no DOTTIE or MOBI/Mobius published GPT URL. Keep DOTTIE and MOBI/Mobius in internal-persona status unless a missing ChatGPT export or product record is recovered. See [[genealogy/Voice Operator Lineage - Metadata Resolution 2026-07-30]].
+
 ### STUBS — Referenced but Not Yet Documented
 
 | GPT Name | Notes |
@@ -72,6 +74,7 @@ These GPTs are live products on ChatGPT's platform, distinct from the internal o
 - [[Manuscript Pipeline MOC]]
 - [[Governance and PHAROS MOC]]
 - [[AI Personas — Agatha, DOTTIE, and MOBI]]
+- [[genealogy/Voice Operator Lineage - Metadata Resolution 2026-07-30]]
 - [[PHAROS Final Voice Operator — GPT Creator]]
 - [[PHAROS Product Stack]]
 - [[ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]
