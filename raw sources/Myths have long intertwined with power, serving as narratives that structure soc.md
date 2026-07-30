@@ -1,14 +1,12 @@
 ---
-type: raw-source
-title: Myths have long intertwined with power, serving as narratives that structure soc
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/Myths have long intertwined with power, serving as narratives that structure soc.md
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ritual-religion, writing-corpus]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "Myths have long intertwined with power, serving as narratives that structure soc"
 ---
-
 Myths have long intertwined with power, serving as narratives that structure societies, legitimize authority, and reflect human aspirations across history. They encode hierarchies, justify dominance, and adapt to economic realities, evolving from ancient oral traditions to modern ideologies.
 
 Structural Aspects
@@ -111,3 +109,10 @@ These myths adapt to politics—e.g., Serbia's Kosovo for irredentism, U.S. exce
 - [[Dreamscapes of Modernity Sociotechnical Imaginaries and the Fabrication of Power]]
 - [[Governance and PHAROS MOC]]
 - [[PHAROS — Origin and Doctrine]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

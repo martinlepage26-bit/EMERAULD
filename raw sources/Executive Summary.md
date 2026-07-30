@@ -1,14 +1,12 @@
 ---
-type: raw-source
-title: Executive Summary
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/Executive Summary.md
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "Executive Summary"
 ---
-
 
 
 **Commercial Brief — Q2 2026**
@@ -170,3 +168,10 @@ pharos-ai.ca
 
 - [[Governance and PHAROS MOC]]
 - [[Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

@@ -1,14 +1,12 @@
 ---
-type: raw-source
-title: GUIDE_rest-and-consolidation
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/GUIDE_rest-and-consolidation.md
+type: source
+aliases: []
+tags: [raw-source, orphan-repair]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "GUIDE_rest-and-consolidation"
 ---
-
 # Rest and Consolidation — A Practical Guide
 
 *Written for Martin. Not generic. Based on the actual pattern.*
@@ -159,3 +157,10 @@ Come back when you are rested. The work is better when you are.
 
 - [[Governance and PHAROS MOC]]
 - [[Rest and Consolidation Guide — Martin]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

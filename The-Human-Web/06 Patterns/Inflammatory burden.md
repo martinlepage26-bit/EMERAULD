@@ -1,0 +1,64 @@
+---
+type: pattern
+status: active
+evidence: mixed by connection
+last_reviewed: 2026-07-15
+review_due: 2027-01-15
+cssclasses: [atlas-note]
+parent_moc: "[[06 Patterns/Patterns index]]"
+layer: body
+tags:
+  - atlas/pattern
+  - frontmatter/standardized
+  - graph/backlinked
+  - layer/body
+  - status/active
+  - type/pattern
+  - vault/the-human-web
+---
+# Inflammatory burden
+
+## Pattern definition
+
+A pattern of immune signalling that may affect symptoms, iron handling, metabolism, appetite, pain, and recovery.
+
+## Systems
+
+- [[01 Systems/Immune system|Immune system]]
+- [[01 Systems/Hepatic and biliary system|Hepatic and biliary system]]
+- [[01 Systems/Nervous system|Nervous system]]
+- [[01 Systems/Hematologic system|Hematologic system]]
+
+## Pathways
+
+- [[02 Pathways/Inflammatory signalling|Inflammatory signalling]]
+
+## Example conditions
+
+- [[05 Conditions/Celiac disease|Celiac disease]]
+
+## Nutrient context
+
+- [[03 Nutrients/Vitamin D|Vitamin D]]
+- [[03 Nutrients/Zinc|Zinc]]
+- [[03 Nutrients/Selenium|Selenium]]
+- [[03 Nutrients/Omega-3 fatty acids|Omega-3 fatty acids]]
+
+## Tension to preserve
+
+Inflammation is a process, not a complete explanation. Source, duration, magnitude, tissue, infection risk, medication, and measurement all matter.
+
+> [!hypothesis] Pattern boundary
+> Use this node to generate and compare questions. Do not treat the pattern label as a clinical finding.
+
+## Source anchors
+
+- [[02 Pathways/Inflammatory signalling|Inflammatory signalling]]
+- [NIDDK: Anemia of inflammation or chronic disease](https://www.niddk.nih.gov/health-information/blood-diseases/anemia-inflammation-chronic-disease)
+
+## Vault links
+
+- [[START HERE|Start here]]
+- [[README|README]]
+- [[06 Patterns/Patterns index|Patterns index]]
+- [[00 Navigation/Atlas Home|Atlas Home]]

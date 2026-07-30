@@ -323,7 +323,5 @@ Gadget escalates **directly to the Operator** in all cases. The core stack recei
 
 ## Related
 
-- `/home/cerebrhoe/hephaistos/HEPHAISTOS.md` — core scope definition
-- `/home/cerebrhoe/hephaistos/QUEEN-KEYPORT.md` — security and governance constraints
-- `/home/cerebrhoe/hephaistos/HERMES.md` — routing and coordination
-- `/home/martin/AGENTS.md` — dispatch registry
+- [[GADGET]]
+- [[Personal and Projects MOC]]

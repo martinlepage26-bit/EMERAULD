@@ -1,12 +1,11 @@
 ---
 type: raw-source
-title: CLIENT ACCOUNTS TRACKER
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/canonical-tracker-snapshots/CLIENT ACCOUNTS TRACKER.md
+aliases: []
+tags: [documents-root-intake, tracker-snapshot]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
 ---
 
 # CLIENT ACCOUNTS TRACKER
@@ -41,3 +40,7 @@ canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/canonical-tra
 
 - [[Research and Papers MOC]]
 - [[memory]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **canonical tracker snapshots**. Synthesized / anchored in [[Master Project Tracker — 2026]]. Indexed under [[Personal and Projects MOC]].

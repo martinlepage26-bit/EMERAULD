@@ -1,14 +1,12 @@
 ---
-type: raw-source
-title: HELIX test Epstein — Epstein files topic run
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/HELIX test Epstein — Epstein files topic run.md
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, queer-gender]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "HELIX test Epstein — Epstein files topic run"
 ---
-
 HELIX - Thoughts on Epsetein files?
 HIERARCHICAL EPISTEMIC LIMIT & INVARIANT EXAMINATION
 live
@@ -353,3 +351,10 @@ Page Entière
 - [[2013 - reviewing)]]
 - [[International Journal of Academic Research in Management]]
 - [[Received1January2025,accepted19January2025,dateofpublication22January2025,dateof]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

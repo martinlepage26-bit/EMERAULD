@@ -1,14 +1,12 @@
 ---
-type: raw-source
-title: CONSENT
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/CONSENT.md
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, consent]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "CONSENT"
 ---
-
 Consent is a multifaceted concept that has evolved over time and varies across different disciplines and cultures. Here’s an overview of its historical, social, legal, and cultural aspects:
 
 Historical Perspective
@@ -725,3 +723,10 @@ The rapid pace of technological advancements in AI presents substantial challeng
 - [[Self-driving cars in streets, automated x-ray diag]]
 - [[Research and Papers MOC]]
 - [[Consent Frameworks — Historical, Legal, Social, and AI Governance]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

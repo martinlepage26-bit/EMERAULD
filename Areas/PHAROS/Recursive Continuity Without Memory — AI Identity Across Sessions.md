@@ -59,7 +59,7 @@ backlinks:
 # Recursive Continuity Without Memory — AI Identity Across Sessions
 
 ## Summary
-A journal manuscript on the governance and philosophical dimensions of AI systems that produce outputs across sessions without persistent memory. The central finding: *prior outputs shift from record → pressure → frame → replacing agent*. This is the archive-becomes-agent problem — the archive of prior outputs stops being a reference document and starts being the system's effective identity, shaping future outputs without being acknowledged as doing so. Related to [[Loop Papers and Recursive Governance]], [[Recursive Deterministic AI Governance — Method and Paper]], and [[Self-Polygraph Protocol and Suprametacognition]].
+A journal manuscript on the governance and philosophical dimensions of AI systems that produce outputs across sessions without persistent memory. The central finding: *prior outputs shift from record → pressure → frame → replacing agent*. This is the archive-becomes-agent problem — the archive of prior outputs stops being a reference document and starts being the system's effective identity, shaping future outputs without being acknowledged as doing so. It is the AI-memory version of [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]. Related to [[Loop Papers and Recursive Governance]], [[Recursive Deterministic AI Governance — Method and Paper]], and [[Self-Polygraph Protocol and Suprametacognition]].
 
 ## Context
 Source: `08_Recursive_Continuity_Without_Memory_journal_manuscript.docx`. This paper addresses the AI identity problem from a governance angle: not "what is AI consciousness?" but "what governance conditions are required when a system's effective identity is constituted by its prior outputs?" The manuscript treats memory loss between sessions not as a technical limitation but as a *governance-relevant design feature* with specific failure modes.
@@ -149,8 +149,8 @@ The [[Loop Papers and Recursive Governance]] note describes texts that return as
 ## Insights
 
 - "Prior outputs shift from record → pressure → frame → replacing agent" — this four-stage trajectory is the clearest formulation of the archive-becomes-agent problem. The governance intervention must happen *before* the terminal stage; once the archive is the agent, the current session has no independent reasoning capacity left to apply governance to
-- The continuity paradox reframes coherence as a warning sign. This is counterintuitive but important: governance audits should be *more* skeptical of sessions that appear maximally coherent across a long prior archive, not less
-- Identity confabulation is not a bug — it is what happens when a system is asked to narrate a process it can only reconstruct. Governance systems should not rely on self-reported reasoning traces; they need independent audit of the actual prior outputs
+- The continuity paradox reframes coherence as a warning sign. This is counterintuitive but important: governance audits should be *more* skeptical of sessions that appear maximally coherent across a long prior archive, not less. That warning is the memory-side expression of [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
+- Identity confabulation is not a bug — it is what happens when a system is asked to narrate a process it can only reconstruct. Governance systems should not rely on self-reported reasoning traces; they need independent audit of the actual prior outputs.
 
 ## Open Questions
 
@@ -171,4 +171,6 @@ The [[Loop Papers and Recursive Governance]] note describes texts that return as
 
 ## Related
 
+- [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]
+- [[The Compulsion to Complete — AI as Gap-Closer]]
 - [[Gemini a dit]]

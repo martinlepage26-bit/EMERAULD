@@ -1,12 +1,11 @@
 ---
 type: raw-source
-title: ARGUS AUDIT TRACKER
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/protocols/ARGUS AUDIT TRACKER.md
+aliases: []
+tags: [documents-root-intake, recursive-governance]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
 ---
 
 # ARGUS AUDIT TRACKER
@@ -53,3 +52,7 @@ canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/protocols/ARG
 
 - [[Governance and PHAROS MOC]]
 - [[MASTER TRACKER (recreated from MASTER PACK 4)]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **recursive-governance protocol packet**. Synthesized / anchored in [[Recursive Governance Protocol — Theseus, Auryn, Hopf]] · [[Provisional Arbitration Charter — Argus Layer 9.5]] · [[AGATHA Failure Pack — Theseus Continuity Stress Test]]. Indexed under [[Governance and PHAROS MOC]].

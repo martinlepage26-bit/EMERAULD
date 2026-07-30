@@ -1,14 +1,12 @@
 ---
-type: raw-source
-title: Mode d’emploi du manuscrit
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/Mode d’emploi du manuscrit.md
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, queer-gender]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "Mode d’emploi du manuscrit"
 ---
-
 #Préface
 
 Vous êtes neuf, et c’est un bon nombre. Neuf, ce n’est pas une foule: c’est un cercle de travail. Neuf paires d’yeux pour apprendre à regarder sans dévorer, à nommer sans posséder, à transmettre sans simplifier. Je vous laisse non pas un recueil de certitudes, mais une méthode de fidélité. Dans une serre, les plantes nous corrigent vite: un nom change parce que la taxonomie progresse; une étiquette ancienne peut rester historiquement utile tout en devenant scientifiquement périmée; un spécimen magnifique peut être dangereux; un végétal banal en apparence peut soutenir des pollinisateurs, une mémoire familiale, une pharmacopée locale ou un deuil. Le Code international de nomenclature est régulièrement révisé, et nos collections botaniques doivent suivre ces changements; le romarin lui-même apparaît désormais couramment comme *Salvia rosmarinus*, là où beaucoup de livres l’appelaient encore *Rosmarinus officinalis*. Cela ne détruit pas la tradition: cela nous rappelle que la vérité de terrain demande de tenir ensemble histoire des noms et état actuel du savoir.
@@ -150,3 +148,10 @@ Et souvenez-vous, enfin, que toute correspondance véritable doit commencer par 
 
 - [[Research and Papers MOC]]
 - [[Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

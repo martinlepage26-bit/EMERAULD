@@ -1,0 +1,158 @@
+filters:
+  or:
+    - file.inFolder("references")
+    - file.hasTag("raw-source")
+    - file.hasTag("reference")
+views:
+  - type: table
+    name: Reference Library
+    filters:
+      and:
+        - file.inFolder("references")
+    order:
+      - file.name
+      - author
+      - year
+      - tags
+  - type: table
+    name: References by Year
+    filters:
+      and:
+        - file.inFolder("references")
+    order:
+      - year
+      - author
+      - file.name
+  - type: table
+    name: Theme — AI Governance
+    filters:
+      and:
+        - file.hasTag("ai_governance")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Theme — Governance & Institutions
+    filters:
+      and:
+        - file.hasTag("governance")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Theme — Power, Security & Control
+    filters:
+      and:
+        - file.hasTag("power_security")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Theme — Ritual, Religion & Spirituality
+    filters:
+      and:
+        - file.hasTag("ritual_spirituality")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Theme — Gender, Queer & Embodiment
+    filters:
+      and:
+        - file.hasTag("gender_queer")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Theme — Media & Cultural Analysis
+    filters:
+      and:
+        - file.hasTag("media_culture")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Theme — Research Methods
+    filters:
+      and:
+        - file.hasTag("methods")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Theme — Posthumanism & Ecology
+    filters:
+      and:
+        - file.hasTag("posthuman_ecology")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Theme — Social Theory
+    filters:
+      and:
+        - file.hasTag("social_theory")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Theme — Social Psychology & Interaction
+    filters:
+      and:
+        - file.hasTag("social_psychology")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Theme — Literature & Narrative Theory
+    filters:
+      and:
+        - file.hasTag("literature")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Theme — Health, Medicine & Clinical
+    filters:
+      and:
+        - file.hasTag("health_medicine")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Theme — Art & Aesthetics
+    filters:
+      and:
+        - file.hasTag("art_aesthetics")
+    order:
+      - file.name
+      - author
+      - year
+  - type: table
+    name: Raw Sources
+    filters:
+      and:
+        - file.hasTag("raw-source")
+    order:
+      - file.name
+      - type
+      - created
+      - tags
+  - type: table
+    name: All Sources
+    order:
+      - file.name
+      - type
+      - tags

@@ -274,3 +274,25 @@ Before submitting BUFFY_FINAL, merge this draft with the manuscript and verify:
 - [[Slayer Franchise Power — Methodology and Corpus Design]]
 - [[PHAROS Scholarly Publication Track]]
 - [[Buffy Slayer Studies]]
+
+## References cited
+*18 reference notes matched from this paper's bibliography (auto-linked 2026-07-10).*
+
+- [[Ahmed 2010 — The Promise of Happiness]]
+- [[Berlant 2011 — Cruel Optimism]]
+- [[Berlant 2019 — The Hundreds Durham NC Duke University Press]]
+- [[Fraser 1996 — Social Justice in the Age of Identity Politics]]
+- [[Gill 2007 — Postfeminist Media Culture Elements of a Sensibility]]
+- [[Halberstam 2011 — The Queer Art of Failure]]
+- [[Jenkins 2006 — Convergence Culture Where Old and New Media Collide]]
+- [[Jowett 2005 — Sex and the Slayer A Gender Studies Primer]]
+- [[Kaveney 2001 — Reading the Vampire Slayer An Unofficial Critical Companion]]
+- [[McRobbie 2009 — The Aftermath of Feminism Gender Culture and Social]]
+- [[Mittell 2015 — Complex TV The Poetics of Contemporary Television Storytelling]]
+- [[Muñoz 2009 — Cruising Utopia The Then and There of Queer]]
+- [[Negra 2007 — Interrogating Postfeminism Gender and the Politics of Popular]]
+- [[Pender 2016 — I'm Buffy and You're History Buffy the Vampire]]
+- [[Star 1996 — Steps toward an ecology of infrastructure Design and]]
+- [[Taylor 2003 — The Archive and the Repertoire Performing Cultural Memory]]
+- [[Whedon 2007 — The Long Way Home]]
+- [[Wilcox 2005 — Why Buffy Matters The Art of Buffy the]]

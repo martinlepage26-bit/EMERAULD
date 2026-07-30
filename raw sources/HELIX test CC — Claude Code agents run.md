@@ -1,14 +1,12 @@
 ---
-type: raw-source
-title: HELIX test CC — Claude Code agents run
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/HELIX test CC — Claude Code agents run.md
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance, queer-gender]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "HELIX test CC — Claude Code agents run"
 ---
-
 HELIX - Test my WSL Claude Code agents
 HIERARCHICAL EPISTEMIC LIMIT & INVARIANT EXAMINATION
 live
@@ -128,3 +126,10 @@ Chat
 - [[Building Your First AI Agent with OpenAI______]]
 - [[2024 - 0463]]
 - [[Solving a machine-learning mystery _ MI... Massachusetts Institute of Technology]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

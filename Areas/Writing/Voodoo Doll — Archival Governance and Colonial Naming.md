@@ -40,7 +40,7 @@ backlinks:
 # Voodoo Doll — Archival Governance and Colonial Naming
 
 ## Summary
-Academic article arguing that the "voodoo doll" is not an authentic object-category of Haitian Vodou but a **bounded colonial archival artefact** — a classificatory fiction made institutionally durable through imperial discourse, ethnographic misrecognition, museum cataloguing, tourism, popular media, and metadata systems. Author: Martin Lepage, PhD. Full title: "The Afterlife of Colonial Naming: The 'Voodoo Doll' as Archival Problem." Central argument: the problem is not misinformation but **archival governance** — how a historically contingent colonial label becomes administratively stable and publicly authoritative. **Deferred authority through institutional repetition:** the same mechanism by which efficient portable labels outcompete accurate relational descriptions in cataloguing systems, hardening them into governance infrastructure. Repair requires contested-term protocols, provenance-aware description, and community-informed reclassification. Related to [[Sealed Card Protocol — Legitimacy, Glitch, and Charging]], [[Governance by Denial]], [[Authority, Legitimacy, and Post-Sovereignty]], and [[Historical Academic Portfolio — Pre-PHAROS Scholarly Work]].
+Academic article arguing that the "voodoo doll" is not an authentic object-category of Haitian Vodou but a **bounded colonial archival artefact** — a classificatory fiction made institutionally durable through imperial discourse, ethnographic misrecognition, museum cataloguing, tourism, popular media, and metadata systems. It is the archival face of [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]. Author: Martin Lepage, PhD. Full title: "The Afterlife of Colonial Naming: The 'Voodoo Doll' as Archival Problem." Central argument: the problem is not misinformation but **archival governance** — how a historically contingent colonial label becomes administratively stable and publicly authoritative. **Deferred authority through institutional repetition:** the same mechanism by which efficient portable labels outcompete accurate relational descriptions in cataloguing systems, hardening them into governance infrastructure. Repair requires contested-term protocols, provenance-aware description, and community-informed reclassification. Related to [[Sealed Card Protocol — Legitimacy, Glitch, and Charging]], [[Governance by Denial]], [[Authority, Legitimacy, and Post-Sovereignty]], and [[Historical Academic Portfolio — Pre-PHAROS Scholarly Work]].
 
 ## Context
 Source: `03_Voodoo__The_Afterlife_of_Colonial_Naming.md`. Multiple `[SOURCE NEEDED FROM MY LIST OR NEW SOURCE REQUIRED]` placeholders throughout — draft in progress. The article represents a disciplinary expansion beyond the Neo-Pagan fieldwork toward religious studies and archival science. The "bounded colonial archival artefact" concept has direct methodological relevance for the [[PHAROS Invention Disclosure]] claim classification work: the same governance failure mode (labels that harden into institutional infrastructure regardless of evidential accuracy) operates in both archival systems and AI governance metadata systems.
@@ -154,7 +154,7 @@ This is the same methodological position as the [[Agatha All Along — Wicca, Di
 
 - The "deferred authority" concept is one of the sharpest original contributions in the archive: it names the specific mechanism by which false information becomes institutionally true — not through direct assertion but through accumulation of uses that each defer to the authority of prior uses. This is directly applicable to AI training data governance: a model trained on archived metadata inherits deferred authority without any individual actor choosing to endorse the original false classification
 - The portability argument explains why accuracy loses to stereotype in high-throughput environments — which is precisely the condition of AI training data ingestion: vast datasets, minimal per-item contextual review, efficiency incentives that favor consistent labeling over accurate labeling
-- The Mauss synthesis is methodologically unusual: connecting gift economy theory to archival governance via the claim that institutional labels are socially obligated gifts — received, held, and difficult to return. This is a governance claim, not a cultural studies one
+- The Mauss synthesis is methodologically unusual: connecting gift economy theory to archival governance via the claim that institutional labels are socially obligated gifts — received, held, and difficult to return. This is a governance claim, not a cultural studies one. It is also one face of [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 ## Open Questions
 
@@ -167,6 +167,7 @@ This is the same methodological position as the [[Agatha All Along — Wicca, Di
 
 - [[Governance and PHAROS MOC]]
 - [[Governance by Denial]]
+- [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]
 - [[Voodoo Doll as Archival Problem — Version Genealogy]]
 - [[Social Compass Paper — Ritual Authority and Régime de Preuve]]
 

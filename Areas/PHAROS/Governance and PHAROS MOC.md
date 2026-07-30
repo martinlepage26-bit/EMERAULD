@@ -457,6 +457,7 @@ Root PHAROS hub: [[PHAROS]].
 - [[Spec-1-ai Governance Engine]]
 - [[Received1January2025,accepted19January2025,dateofpublication22January2025,dateof]]
 - [[Governance by Denial — Revised Working Draft]]
+- [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]
 - [[Method Tracker — Snapshot 2026-04-28]]
 - [[METHOD TRACKER]]
 - [[téléchargement1]]
@@ -1080,7 +1081,7 @@ These TOPIC notes are sub-indexes bridging this MOC to individual notes within e
 - [[2021 - ocr_needed_6.pdf - 2021 - ocr_needed_6.pdf.pdf - 2021 - ocr_needed_6.pdf - 2021 - ocr_needed_]]
 - [[evolution]]
 - [[REVISION_SUMMARY]]
-- [[MANIFEST]]
+- [[raw/D-drive-scan-2026-05-12/MANIFEST]]
 - [[05_From_Recursive_Production_to_Governable_Method]]
 - [[Personal and Projects MOC]]
 - [[Research and Papers MOC]]
@@ -1097,7 +1098,7 @@ These TOPIC notes are sub-indexes bridging this MOC to individual notes within e
 - [[Vault Topic Coverage Matrix — 2026-05-06]] — Cross-vault topic-family coverage map spanning governance, infrastructure, ritual, writing, and personal-project clusters
 - [[Vault Delta Interconnectivity Atlas — 2026-05-06]] — Full delta pass showing how the governance corpus changes shape across registers
 - [[Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)]] — Cluster topology pass identifying the vault's five primary structural invariants (consent, fluency/interruption, authority, governance controls, narrative↔method) and the Trismégiste/Hermes coordination doctrine
-- `wiki/raw-sources/2026-05-13/` — source-note set for the 2026-05-13 ingest (one wiki note per text file).
+- `wiki/source-notes/` — promoted source-note set for the 2026-05-13 ingest (one wiki note per text file; formerly under `wiki/raw-sources/2026-05-13/`).
 - [[Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline]] — clustered lane for IP timing, method formalization, and reviewer-hardening.
 - [[Source Cluster Map — 2026-05-13 Raw Sources]] — cross-cluster navigation map for source-note drafting.
 

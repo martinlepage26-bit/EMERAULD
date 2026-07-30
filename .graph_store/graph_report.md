@@ -1,181 +1,40 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-07-08T06:13:11Z
-Corpus: vector_store paths.json wiki entries
+Built: 2026-07-14T18:07:51Z
+Corpus: wiki/**/*.md
 
 ## Summary
 
-- Nodes: 1462
-- Directed edges: 13217
-- Link mentions: 20921
-- Unresolved wikilinks: 3265
-- Connected components: 19
-- Largest component: 1435
-- Zero-backlink notes: 24
-- One-backlink notes: 300
-- Two-backlink notes: 322
+- Nodes: 912
+- Directed edges: 9126
+- Link mentions: 16260
+- Unresolved wikilinks: 2113
+- Connected components: 2
+- Largest component: 911
+- Zero-backlink notes: 1
+- One-backlink notes: 27
+- Two-backlink notes: 235
 
 ## Backlink Histogram
 
-- 0: 24
-- 1: 300
-- 101+: 29
-- 11-20: 192
-- 2: 322
-- 21-50: 153
-- 3-4: 168
-- 5-6: 69
-- 51-100: 43
-- 7-10: 162
+- 0: 1
+- 1: 27
+- 101+: 27
+- 11-20: 112
+- 2: 235
+- 21-50: 107
+- 3-4: 144
+- 5-6: 111
+- 51-100: 32
+- 7-10: 116
 
 ## Low-Backlink Notes
 
-### Zero backlink (24)
-- [[ASSETS MOC]]
-- [[Areas/PHAROS/AREA]]
-- [[Areas/Personal/AREA]]
-- [[Areas/Writing/AREA]]
-- [[EMERAULD_OS_ARCHITECTURE.MD MOC]]
-- [[GRAPHIFY-OUT MOC]]
-- [[HEPHAISTOS MOC]]
-- [[Home]]
-- [[Inbox/README]]
-- [[MEMORY MOC]]
-- [[PEER-REVIEW MOC]]
-- [[PUBLICATIONS MOC]]
-- [[RAW MOC]]
-- [[RESOURCES MOC]]
-- [[Resources/ROUTING]]
-- [[SOURCE_OF_TRUTH.MD MOC]]
-- [[TEMPLATES MOC]]
-- [[Wiki MOC]]
-- [[memory/daily/2026-04-29]]
-- [[memory/daily/2026-05-07]]
-- [[memory/daily/2026-05-13]]
-- [[projects/DOMAIN]]
-- [[projects/jade/.pytest_cache/README]]
-- [[session-state]]
+### Zero backlink (1)
+- [[AI-Governance-Weekly-Brief-2026-07-11]]
 
-### One backlink (300)
-- [[Areas/PHAROS/Agent Collab Session — Vault Assessment Council (Historical)]]
-- [[Areas/PHAROS/Agent Protocol — Working With Martin]]
-- [[Areas/PHAROS/Agent Scaffolds — ~agents vs .claude-agents Distinction]]
-- [[Areas/PHAROS/Jade — Name Disambiguation]]
-- [[Areas/PHAROS/Law 25 ADM — Practitioner Brief]]
-- [[Areas/PHAROS/micro1 — Data Licensing Opportunity (PHAROS)]]
-- [[EMERAULD]]
-- [[PEER-REVIEW/00_PROJECT_CONTROL/CLAIM_REGISTER]]
-- [[PEER-REVIEW/00_PROJECT_CONTROL/JOURNAL_GUIDELINES]]
-- [[PEER-REVIEW/00_PROJECT_CONTROL/MODEL_HANDOFF_LOG]]
-- [[PEER-REVIEW/00_PROJECT_CONTROL/PROJECT_BRIEF]]
-- [[PEER-REVIEW/00_PROJECT_CONTROL/SECTION_PLAN]]
-- [[PEER-REVIEW/00_PROJECT_CONTROL/STYLE_RULES]]
-- [[PEER-REVIEW/01_RAW_MATERIALS/MATERIALS_INVENTORY]]
-- [[PEER-REVIEW/01_RAW_MATERIALS/README]]
-- [[PEER-REVIEW/01_RAW_MATERIALS/UNCERTAINTY_REGISTER]]
-- [[PEER-REVIEW/02_SOURCE_FIELD/ADJACENT_LITERATURES]]
-- [[PEER-REVIEW/02_SOURCE_FIELD/CANONICAL_WORKS]]
-- [[PEER-REVIEW/02_SOURCE_FIELD/REFERENCE_TREE]]
-- [[PEER-REVIEW/02_SOURCE_FIELD/SOURCE_GAPS]]
-- [[PEER-REVIEW/02_SOURCE_FIELD/SOURCE_MATRIX]]
-- [[PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/ABSTRACT_REVISED_AFTER_BODY]]
-- [[PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/ABSTRACT_V1]]
-- [[PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/OUTLINE_REVIEW]]
-- [[PEER-REVIEW/03_OUTLINE_AND_ABSTRACT/OUTLINE_V1]]
-- [[PEER-REVIEW/04_RESEARCH_BUNDLE/CITATION_CANDIDATES]]
-- [[PEER-REVIEW/04_RESEARCH_BUNDLE/CLAIM_TO_SOURCE_MAP]]
-- [[PEER-REVIEW/04_RESEARCH_BUNDLE/DEEP_RESEARCH]]
-- [[PEER-REVIEW/04_RESEARCH_BUNDLE/METHOD_AND_CORPUS_NOTES]]
-- [[PEER-REVIEW/04_RESEARCH_BUNDLE/PAGE_NUMBER_TRACKER]]
-- [[PEER-REVIEW/05_SECTION_DRAFTS/01_BACKGROUND_CONTEXT]]
-- [[PEER-REVIEW/05_SECTION_DRAFTS/02_LITERATURE_REVIEW]]
-- [[PEER-REVIEW/05_SECTION_DRAFTS/03_CONCEPTUAL_FRAMEWORK]]
-- [[PEER-REVIEW/05_SECTION_DRAFTS/04_ANALYSIS_FINDINGS]]
-- [[PEER-REVIEW/05_SECTION_DRAFTS/05_DISCUSSION]]
-- [[PEER-REVIEW/05_SECTION_DRAFTS/06_CONCLUSION]]
-- [[PEER-REVIEW/05_SECTION_DRAFTS/08_ABSTRACT_FINAL]]
-- [[PEER-REVIEW/06_VALIDATION/CITATION_AUDIT]]
-- [[PEER-REVIEW/06_VALIDATION/CLAIM_AUDIT]]
-- [[PEER-REVIEW/06_VALIDATION/FINAL_RISK_REGISTER]]
-- [[PEER-REVIEW/06_VALIDATION/JOURNAL_CONFORMITY_AUDIT]]
-- [[PEER-REVIEW/06_VALIDATION/PEER_REVIEW_STRESS_TEST]]
-- [[PEER-REVIEW/06_VALIDATION/REFERENCE_LIST_AUDIT]]
-- [[PEER-REVIEW/07_FINAL_OUTPUTS/ABSTRACT_FINAL]]
-- [[PEER-REVIEW/07_FINAL_OUTPUTS/AUTHOR_BIO]]
-- [[PEER-REVIEW/07_FINAL_OUTPUTS/COVER_LETTER]]
-- [[PEER-REVIEW/07_FINAL_OUTPUTS/KEYWORDS]]
-- [[PEER-REVIEW/07_FINAL_OUTPUTS/SUBMISSION_CHECKLIST]]
-- [[PEER-REVIEW/NODE_INSTRUCTIONS]]
-- [[PEER-REVIEW/PROJECT_INSTRUCTION]]
-- [[PEER-REVIEW/README]]
-- [[Publications/BOOKS/essay_identity_enforceable]]
-- [[Publications/Papers and Chapters/Rivard2026/Pourquoi rêver encore-@nalyses-REWRITE]]
-- [[WIKI-ROUTING-REPORT]]
-- [[archive/CO-EQUAL-AUTHORITY-DECISION]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/01_Recursive_AI_Governance_Very_Long_Narrative]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/02_PHAROS_Master_SOP]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Complete_Operational_Specification]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Disguised_Prompt_Sequence]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Public_28-step_Description]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/08_Mobius_Protocol_Self_Polygraph_Template]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/COVER_LETTER_FOR_COUNSEL]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/ERRATA]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/FILING_FACTS_KNOWN_AND_OPEN]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/REVISION_SUMMARY]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/editorial_log]]
-- [[archive/consolidation-records/HOME-ROOT-REORG-2026-07-01-MANIFEST]]
-- [[archive/consolidation-records/merge-candidates-2026-05-14]]
-- [[archive/red-team]]
-- [[archive/session-state/session-state-002]]
-- [[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]
-- [[artifacts/2026-04-19-pharos-migration-pr4/docs/CODEX_PROMPT_SERVER_HARDENING]]
-- [[artifacts/2026-04-19-pharos-migration-pr4/docs/CSV_DIAGNOSTIC_REPORT]]
-- [[artifacts/2026-04-19-pharos-migration-pr4/docs/martin_decision_brief]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/README]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/archive/README]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/README]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/raw/_example_raw_note]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/scripts/README]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/services/README]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/README]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_concept]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_moc]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_person]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_project]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/README]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/wiki/_example_wiki_note]]
-- [[artifacts/marketplace/promo/README]]
-- [[governance/hephaistos/AGENTS]]
-- [[governance/hephaistos/CLAUDE]]
-- [[governance/hephaistos/GADGET]]
-- [[governance/hephaistos/HENRY]]
-- [[governance/hephaistos/HEPHAISTOS]]
-- [[governance/hephaistos/HERMES]]
-- [[governance/hephaistos/QUEEN-KEYPORT]]
-- [[graph/graph-schema]]
-- [[graph/indexes/edge-index]]
-- [[graph/indexes/node-index]]
-- [[graph/indexes/orphan-index]]
-- [[graph/indexes/project-index]]
-- ... 200 more
-
-### Two backlink (322)
-- [[Agent Logs Hub]]
-- [[Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08)]]
-- [[Areas/PHAROS/HELIX Gemini Run 2 — Untranscribed Session (2026-07-03)]]
-- [[Areas/PHAROS/Operator Memory — Grok Council Snapshot (2026-07-06)]]
-- [[Areas/PHAROS/Reflexive Inhabitation Audit — Built App]]
-- [[Areas/PHAROS/Trismégiste]]
-- [[Areas/PHAROS/clearday — Mobile App and App Store Review State]]
-- [[Areas/Personal/Personal OS]]
-- [[Daily Dashboard]]
-- [[Knowledge Gaps]]
-- [[Philosopher]]
-- [[Projects Hub]]
-- [[Workflows Hub]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/05_From_Recursive_Production_to_Governable_Method]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/06_Codex_Governance_Case_Study_Blind_Leading_Automated]]
-- [[archive/PHAROS Invention Disclosure Bundle Sources 2026-04-25/07_InfraFabric_Architecture]]
+### One backlink (27)
+- [[Master Annotated Reference List]]
 - [[archive/agent-evaluation]]
 - [[archive/ai-product]]
 - [[archive/brief-to-tasks]]
@@ -187,21 +46,47 @@ Corpus: vector_store paths.json wiki entries
 - [[archive/hermes-escalation-router]]
 - [[archive/inner-mind-eye]]
 - [[archive/ma-degree-guide]]
+- [[archive/red-team]]
 - [[archive/repo-logo-generator]]
 - [[archive/triangulation]]
 - [[archive/ux-researcher-designer]]
 - [[archive/web-scraping]]
-- [[artifacts/2026-04-19-pharos-migration-pr4/01-deploy-config/migration-govern-to-pharos]]
-- [[artifacts/2026-04-19-pharos-migration-pr4/02-pipeline-triage/martin_decision_brief]]
-- [[artifacts/2026-04-19-pharos-migration-pr4/03-pr4-hardening/CODEX_PROMPT_SERVER_HARDENING]]
-- [[artifacts/2026-04-19-pharos-migration-pr4/_manifest/RUN-ORDER]]
-- [[artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/ai-anxiety-recursive-governance-ai-society-aligned-2026-03-11]]
-- [[artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/archive_master_tracker]]
-- [[artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/govern_deterministic_runner_spec]]
-- [[artifacts/2026-04-19-pharos-migration-pr4/test_fixtures/archive_files/pharos_topology_layer_v3]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/skills/skill_template]]
-- [[artifacts/marketplace/obsidian-agent-vault-2026-04-19/obsidian-agent-vault/templates/hub_decision_log]]
-- [[artifacts/stale-projects-2026-07-05]]
+- [[intake/2026-07-14/EMERAULD Raw Lane Coverage Audit - 2026-07-14]]
+- [[intake/2026-07-14/Full Recursive Intake - agents-skills - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - apps-projects - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - business-strategy - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - client-pharos-lavoie - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - genealogy - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - misc-operator-notes - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - pharos-governance - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - research-papers - Source Register]]
+- [[maps/Novel Corpus Map]]
+
+### Two backlink (235)
+- [[2026 - Mauss - The Gift]]
+- [[ACTOR Framework — Agent vs Chatbot Decision Tool]]
+- [[Agent Distillation Pipeline]]
+- [[App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]
+- [[Chrome Extension Monetization - Policy and Product Options]]
+- [[Cultural and Lyric Corpus Memo — 2026-05-14]]
+- [[Governance and Platform Signals Memo — 2026-05-14]]
+- [[IP and Manuscript Brief — 2026-05-14]]
+- [[Kickstart App Prompt — Template and Synthesis Framework]]
+- [[Martin Voice Spec — Stage Map]]
+- [[Martin Voice Spec — Version Genealogy]]
+- [[Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]
+- [[Operator Continuity Memo — 2026-05-14]]
+- [[Philosopher]]
+- [[Projects Hub]]
+- [[Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]
+- [[Queering Neo-Pagan Magic — FINAL FINAL PAPER]]
+- [[Railway — COMPASSai Production Deployment Platform]]
+- [[Second Self System Identity Kernel and Agent Routing Architecture]]
+- [[Trismégiste]]
+- [[WSL and System Storage Recovery — Quick Wins Checklist]]
+- [[archive/CO-EQUAL-AUTHORITY-DECISION]]
+- [[archive/Ethical Ground Values]]
+- [[archive/Governance Stress-Test Protocols Index]]
 - [[bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec]]
 - [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023]]
 - [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2]]
@@ -230,109 +115,106 @@ Corpus: vector_store paths.json wiki entries
 - [[bridges/Bridge — Agents vs. Chatbots Fundamentals]]
 - [[bridges/Bridge — Malformed JSON Prefix]]
 - [[bridges/Bridge — Mandrake]]
-- [[genealogy/Martin Voice Spec — Stage Map]]
-- [[genealogy/Martin Voice Spec — Version Genealogy]]
-- [[governance/decision-index]]
-- [[governance/hephaistos/DIAMOND-EYES]]
-- [[governance/hephaistos/STATUS]]
-- [[governance/hephaistos/trismegiste-to-operator]]
-- [[graph/nodes/unmapped/broken_frequency_novel]]
-- [[graph/nodes/unmapped/build_wikilink_graph_py]]
-- [[graph/nodes/unmapped/cloudflare_stack]]
-- [[graph/nodes/unmapped/embed_py]]
-- [[graph/nodes/unmapped/graph_store_system]]
-- [[graph/nodes/unmapped/graphify_out_system]]
-- [[graph/nodes/unmapped/graphify_tool]]
-- [[graph/nodes/unmapped/hexa_project]]
-- [[graph/nodes/unmapped/ingest_py]]
-- [[graph/nodes/unmapped/jade]]
-- [[graph/nodes/unmapped/recurso_framework]]
-- [[graph/nodes/unmapped/verify_and_hardmove_py]]
-- [[graph/nodes/unmapped/wiki_corpus_dataset]]
-- [[hephaistos/personal-assistant-agents/content-inventory-cartographer/references/evolution]]
-- [[hephaistos/personal-assistant-agents/content-inventory-cartographer/references/subjectivity]]
-- [[hephaistos/personal-assistant-agents/demand-scout/SKILL]]
-- [[hephaistos/personal-assistant-agents/graph-retrieval-cartographer/SKILL]]
-- [[hephaistos/personal-assistant-agents/listing-creative-director/SKILL]]
-- [[hephaistos/personal-assistant-agents/marketplace-dispatcher/SKILL]]
-- [[hephaistos/personal-assistant-agents/offer-pricing-architect/SKILL]]
-- [[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_about-orah-ottawa-responsible-ai-hub]]
-- [[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aida-caseware]]
-- [[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_artificial-intelligence]]
-- [[memory/clients/helix-prospects/HELIX-hermes-assisted-prospect-extension-2026-05-06/2026-05-05_aurascribe-ai-medical-scribe-for-quebec]]
-- ... 222 more
+- [[skills/agent-manager-skill]]
+- [[skills/agent-tool-builder]]
+- [[skills/api-documentation-generator]]
+- [[skills/app-builder]]
+- [[skills/ask-vault]]
+- [[skills/aspnet-core]]
+- [[skills/audit]]
+- [[skills/autonomous-agents]]
+- [[skills/autoresearch]]
+- [[skills/backend-dev-guidelines]]
+- [[skills/chatgpt-apps]]
+- [[skills/claude-api]]
+- [[skills/clean-migrate]]
+- [[skills/cli-anything]]
+- [[skills/cli-anything-libreoffice]]
+- [[skills/cli-anything-mermaid]]
+- [[skills/cli-anything-notebooklm]]
+- [[skills/cli-anything-obsidian]]
+- [[skills/cli-anything-ollama]]
+- [[skills/cloudflare-deploy]]
+- [[skills/codex]]
+- [[skills/compose-and-ship]]
+- [[skills/consent-framework]]
+- [[skills/control-point-doctrine]]
+- [[skills/cost-reducer]]
+- [[skills/data-privacy-compliance]]
+- [[skills/database]]
+- [[skills/deploy]]
+- [[skills/design-brief]]
+- [[skills/design-flow]]
+- [[skills/design-review]]
+- [[skills/develop-web-game]]
+- [[skills/emerging-techniques-long-context]]
+- [[skills/emerging-techniques-speculative-decoding]]
+- [[skills/ethical-hacking-methodology]]
+- [[skills/fastapi-endpoint]]
+- [[skills/fastmcp-server]]
+- [[skills/fetch]]
+- [[skills/figma]]
+- [[skills/figma-code-connect-components]]
+- [[skills/figma-create-design-system-rules]]
+- [[skills/figma-create-new-file]]
+- [[skills/figma-generate-design]]
+- [[skills/figma-generate-library]]
+- [[skills/figma-implement-design]]
+- [[skills/figma-use]]
+- [[skills/file-reading]]
+- [[skills/frontend-design]]
+- ... 135 more
 
 ## Components
 
-- Component 1: 1435 notes; seed [[AI Governance Failure Cases]]
-- Component 2: 3 notes; seed [[PUBLICATIONS MOC]]
-- Component 3: 3 notes; seed [[graph/nodes/unmapped/embed_py]]
-- Component 4: 3 notes; seed [[graph/nodes/unmapped/ingest_py]]
-- Component 5: 2 notes; seed [[graph/nodes/unmapped/build_wikilink_graph_py]]
-- Component 6: 2 notes; seed [[graph/nodes/unmapped/graphify_out_system]]
-- Component 7: 2 notes; seed [[graph/nodes/unmapped/guillaume_lavoie]]
-- Component 8: 1 notes; seed [[ASSETS MOC]]
-- Component 9: 1 notes; seed [[Areas/Personal/AREA]]
-- Component 10: 1 notes; seed [[EMERAULD_OS_ARCHITECTURE.MD MOC]]
-- Component 11: 1 notes; seed [[GRAPHIFY-OUT MOC]]
-- Component 12: 1 notes; seed [[Inbox/README]]
-- Component 13: 1 notes; seed [[RAW MOC]]
-- Component 14: 1 notes; seed [[RESOURCES MOC]]
-- Component 15: 1 notes; seed [[Resources/ROUTING]]
-- Component 16: 1 notes; seed [[SOURCE_OF_TRUTH.MD MOC]]
-- Component 17: 1 notes; seed [[TEMPLATES MOC]]
-- Component 18: 1 notes; seed [[projects/DOMAIN]]
-- Component 19: 1 notes; seed [[projects/jade/.pytest_cache/README]]
+- Component 1: 911 notes; seed [[2026 - Mauss - The Gift]]
+- Component 2: 1 notes; seed [[AI-Governance-Weekly-Brief-2026-07-11]]
 
 ## Top Unresolved Targets
 
-- `raw/intake-report-20260513.json`: 20
-- `PHAROS AI governance service business`: 19
-- `HISTORY`: 15
-- `links`: 13
-- `Welcome`: 13
-- `CHANGELOG`: 9
-- `hephaistos.agent`: 9
+- `README`: 24
+- `HISTORY`: 14
+- `ecosystem`: 7
 - `EMERAULD — Vault and Knowledge Graph`: 7
-- `AI Agent Operations Manager — Credential Path and Portfolio`: 7
-- `Second Self System — Adversarial Review`: 7
-- `The Lost-Loop Pattern`: 7
-- `VAULT-LINKING-AUDIT-2026-05-01`: 6
-- `Groupe Lavoie`: 6
-- `argus.agent`: 5
-- `readme`: 5
-- `EXTERNAL DATA REGISTRY (Phase 1 Build)`: 5
-- `The Circle Remains Open Toward a Queer Sociology of the Sacred (2)`: 5
+- `memory/clients/Sante-France`: 7
+- `method`: 7
+- `CHANGELOG`: 6
+- `CLAUDE`: 6
+- `PHAROS AI governance service business`: 5
 - `Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2)`: 5
 - `Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy`: 5
-- `AI Agent Operations and Governance Manager`: 5
-- `queen-keyport.agent`: 5
-- `hermes.agent`: 5
+- `Second Self System — Adversarial Review`: 5
+- `Introduction`: 5
+- `readme`: 5
+- `memory/clients/ExterminationDG`: 5
+- `AGENTS`: 5
+- `EXTERNAL DATA REGISTRY (Phase 1 Build)`: 5
+- `VAULT-LINKING-AUDIT-2026-05-01`: 5
 - `Martin Lepage, PhD — External Review Profile (Offline-Ready)`: 5
-- `﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch`: 5
-- `“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal`: 5
-- `Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members`: 5
+- `Research Themes`: 5
 - `Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research`: 5
 - `wikilinks`: 5
 - `Readme`: 4
-- `ARCHITECTURE-STATUS-MARKING-CHECKLIST`: 4
-- `GAIA Positioning Statement — Evidence-Aware Version`: 4
 - `Governance by Denial — Revised Working Draft`: 4
-- `skill`: 4
 - `Complete Paper List — Martin Lepage`: 4
+- `raw/D-drive-scan-2026-05-12/MANIFEST`: 4
 - `Dr_Sort_masterlist_2026-03-08`: 4
-- `Welcome to this course on ethical and societal asp`: 4
-- `_vault/VAULT ADDITIONS TRACKER`: 4
-- `Dr. Sort Filename Normalization — 2026-05-06`: 4
-- `Session State — Project Name`: 4
-- `Project Hub`: 4
-- `path`: 4
-- `HELIX test Epstein`: 3
-- `HELIX test CC`: 3
+- `AI Agent Operations Manager — Credential Path and Portfolio`: 4
+- `argus.agent`: 3
 - `2015 - policy_or_guidance [3`: 3
 - `2015 - policy_or_guidance [4`: 3
 - `Literature Review From the Politics of Visibility to the Politics of Voice in AI Governance`: 3
 - `FIRST DRAFT`: 3
 - `2026-04-18_anthropic-openclaw-platform-dependence-and-narrative-capture`: 3
-- `BOWIE-DUE`: 3
-- `Recursive Governance Packet Header`: 3
+- `Martin Lepage`: 3
+- `SKILL`: 3
+- `﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch`: 3
+- `2006 - report [2`: 3
+- `2006 - report [3`: 3
+- `2006 - report [4`: 3
+- `2006 - report [5`: 3
+- `2009 - legal_or_contract [2`: 3
+- `2013 - audit_or_assessment [2`: 3
+- `2013 - audit_or_assessment [3`: 3
+- `CORPUS ou le génie de l’insistance (1)`: 3
+- `AI Agent Operations and Governance Manager`: 3

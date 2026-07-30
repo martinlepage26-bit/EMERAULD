@@ -45,7 +45,7 @@ backlinks:
 
 ## Summary
 
-A systematic thematic analysis and term trace of the full EMERAULD vault (520 notes) conducted by a coordinated Claude (/qualitative + /trace-investigator) and Codex ($power-analyst + $novelist) pass on 2026-05-25. Produces a six-cluster codebook, five term-trace maps, three core narrative threads, and a set of identified productive tensions. This is the first vault-wide qualitative analysis; see [[Vault Topic Coverage Matrix — 2026-05-06]] for the earlier structural inventory and [[EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]] for the link-density map this analysis complements.
+A systematic thematic analysis and term trace of the full EMERAULD vault (520 notes) conducted by a coordinated Claude (/qualitative + /trace-investigator) and Codex ($power-analyst + $novelist) pass on 2026-05-25. Produces a six-cluster codebook, five term-trace maps, three core narrative threads, and a set of identified productive tensions. This is the first vault-wide qualitative analysis; see [[Vault Topic Coverage Matrix — 2026-05-06]] for the earlier structural inventory and [[EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)]] for the link-density map this analysis complements. The same pass surfaced [[Deferred Authority — Archives, Proof Regimes, and AI Memory]] as the bridge note linking archive repetition, proof regimes, and session continuity, and [[EMERAULD Full Vault Map — Major Cluster Families and Bridge Surfaces]] as the macro visualization that compresses the same families into a single navigational figure.
 
 ## Context
 
@@ -100,7 +100,7 @@ Near-equal distribution across three registers:
 - **Epistemic** (~162): knowledge claims, evidence authority, source credibility
 - **Personal/spiritual** (~151): ritual authority, queer authority, witch as authority-without-warrant
 
-**Trace finding:** The [[Authority, Legitimacy, and Post-Sovereignty]] map holds all three in explicit tension via five post-legitimacy models (abdication, administrative sovereignty, care without claim, glitch sovereignty, relational authority). The governance principle "authority without power-over" (HEPHAISTOS binding principle #6, [[Authority Without Power-Over]]) elevates the personal/spiritual register into infrastructure. This is the vault's most theoretically ambitious claim: spiritual-queer authority is not metaphor; it is a structural design principle for AI governance.
+**Trace finding:** The [[Authority, Legitimacy, and Post-Sovereignty]] map holds all three in explicit tension via five post-legitimacy models (abdication, administrative sovereignty, care without claim, glitch sovereignty, relational authority). The governance principle "authority without power-over" (HEPHAISTOS binding principle #6, [[Authority Without Power-Over]]) elevates the personal/spiritual register into infrastructure. This is the vault's most theoretically ambitious claim: spiritual-queer authority is not metaphor; it is a structural design principle for AI governance. The archive/memory analogue is [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 #### 4. "Fluency"
 
@@ -110,7 +110,7 @@ The most analytically developed term in the vault. Three registers deliberately 
 - **AI output register** (~160): fluency as the mode by which AI systems naturalize authority and render decision criteria invisible
 - **Epistemic/confidence register** (~66): fluency as proxy for intelligence and credibility
 
-**Trace finding:** The [[Fluency, Interruption, and Institutional Accountability]] paper performs the key synthesis: "Human hesitation is stigmatized as weakness; machine fluency is rewarded as intelligence." The political implication — making the labor of prediction audible as a condition for accountability — directly bridges the disability and AI registers. Fluency is not a neutral descriptor anywhere in the vault; it is always a mode of authority exercise. The PHAROS method frames itself explicitly as an *interruption technology*. See also [[Stuttering through the Institution — Academic Containment and Queer Knowing]] and [[Spider-Man and the Phonetic Glitch — Voice as Infrastructure]].
+**Trace finding:** The [[Fluency, Interruption, and Institutional Accountability]] paper performs the key synthesis: "Human hesitation is stigmatized as weakness; machine fluency is rewarded as intelligence." The political implication — making the labor of prediction audible as a condition for accountability — directly bridges the disability and AI registers. Fluency is not a neutral descriptor anywhere in the vault; it is always a mode of authority exercise. The PHAROS method frames itself explicitly as an *interruption technology*. See also [[Stuttering through the Institution — Academic Containment and Queer Knowing]], [[Spider-Man and the Phonetic Glitch — Voice as Infrastructure]], and [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 #### 5. "Relation / Relational"
 
@@ -132,11 +132,11 @@ A researcher who has been interrupted by institutions (stuttering, queerness, pr
 
 #### Thread 2 — "The Second Self as Governance Device"
 
-The vault documents the construction of a second self — AI-mediated, governed, auditable — as an alternative to the unaccountable self that institutions produce when they operate fluently. PHAROS is not a product; it is a method for building a legible, interruptible, accountable self-in-the-world. Key nodes: [[Second Self System — Identity Kernel and Agent Routing Architecture]], [[Martin Lepage Professional Identity]], [[PHAROS AI Lineage — Source of Truth]], [[Agent Session Phenomenology]], [[AI Identity and Phenomenology]].
+The vault documents the construction of a second self — AI-mediated, governed, auditable — as an alternative to the unaccountable self that institutions produce when they operate fluently. PHAROS is not a product; it is a method for building a legible, interruptible, accountable self-in-the-world. Key nodes: [[Second Self System — Identity Kernel and Agent Routing Architecture]], [[Martin Lepage Professional Identity]], [[PHAROS AI Lineage — Source of Truth]], [[Agent Session Phenomenology]], [[AI Identity and Phenomenology]], [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 #### Thread 3 — "Authority After the Institution"
 
-When institutional legitimacy fails (regulatory, epistemic, democratic), what forms of authority remain possible? The vault proposes: ritual authority, relational authority, recursive authority — authority that earns legitimacy through process rather than claiming it through position. The queer media analysis, the AI governance method, and the commercial offer ladder are all answers to the same question about what makes authority believable after institutions stop being trustworthy. Key nodes: [[Authority, Legitimacy, and Post-Sovereignty]], [[Authority Without Power-Over]], [[Legitimacy Machines — Book Skeleton and Architecture]], [[Recursive Governance Theory]], [[AI Governance Manifesto — Upstream Institutional Practice]].
+When institutional legitimacy fails (regulatory, epistemic, democratic), what forms of authority remain possible? The vault proposes: ritual authority, relational authority, recursive authority — authority that earns legitimacy through process rather than claiming it through position. The queer media analysis, the AI governance method, and the commercial offer ladder are all answers to the same question about what makes authority believable after institutions stop being trustworthy. Key nodes: [[Authority, Legitimacy, and Post-Sovereignty]], [[Authority Without Power-Over]], [[Legitimacy Machines — Book Skeleton and Architecture]], [[Recursive Governance Theory]], [[AI Governance Manifesto — Upstream Institutional Practice]], [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 ---
 
