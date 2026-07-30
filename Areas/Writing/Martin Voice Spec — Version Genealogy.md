@@ -4,6 +4,9 @@ title: Martin Voice Spec — Version Genealogy
 aliases:
 - Voice Spec Genealogy
 - Unified Martin Voice Spec
+- Martin Voice Spec — Version Genealogy
+- Martin Voice Spec Root Genealogy
+- Voice Spec Root Genealogy
 tags:
 - voice-spec
 - version-genealogy
@@ -22,7 +25,7 @@ tags:
 status: active
 domain: writing
 created: '2026-05-02'
-updated: '2026-06-26'
+updated: '2026-07-30'
 vault_area: Areas
 canonical_path: Areas/Writing/Martin Voice Spec — Version Genealogy.md
 backlink_count: 14
@@ -63,6 +66,10 @@ The voice-spec corpus is a sequence of documents that progressively refined how 
 | Operator voice (current) | [[Second Self System — Identity Kernel and Agent Routing Architecture]] | Active | Architecture supersedes single-document spec; voice spec now distributed across kernel + specialist agents |
 | **Audio reference (canonical)** | `mlen.mp3` — at `/home/cerebrhoe/voice11/mlen.mp3` | **Active** | **Operator-confirmed 2026-05-03.** Quebec English voice sample; phonetic anchor for all TTS cloning. English (not French). Full parameters and modulation guide: [[voice11 — ElevenLabs TTS Pipeline]]. |
 
+## 2026-07-30 Metadata Resolution
+
+The 2026-07-30 metadata audit resolves the latest-code question without flattening artifact classes: `HENRY voice CODE.txt` is the latest recovered machine-readable voice-code artifact, while v4.0 remains the latest labeled voice constitution and [[Second Self System — Identity Kernel and Agent Routing Architecture]] remains the current distributed operator architecture. See [[genealogy/Voice Operator Lineage - Metadata Resolution 2026-07-30]].
+
 ## Mislabeling Note (research-integrity flag)
 
 The PDF `05_AI_Governance_Constitution.pdf` is **not** an AI governance constitution — it is the Unified Martin Voice Spec v4.0. This mislabeling propagates into anything that cites the file by name. Citation must reference the corrected identity, not the PDF filename.
@@ -77,6 +84,7 @@ The PDF `05_AI_Governance_Constitution.pdf` is **not** an AI governance constitu
 
 - [[voice11 — ElevenLabs TTS Pipeline]] — Audio anchor: mlen.mp3 canonical voice sample + Quebec English modulation guide
 - [[PAPER BUILDER — Source Bundle and HENRY Origin]] — Upstream source bundle from which HENRY was built; traces v3 origin
+- [[genealogy/Voice Operator Lineage - Metadata Resolution 2026-07-30]] — Metadata audit resolving HENRY voice code, DOTTIE / Voice Operator 2, and MOBI/Mobius chronology
 - [[Martin Voice Spec — Stage Map]] — Compact stage map (Hermes-style reuse format)
 - [[Version Genealogy System]] — Hub for all version-genealogy notes
 - [[Martin Lepage Professional Identity]] — Authorial identity the spec produces

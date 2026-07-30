@@ -173,3 +173,7 @@ Prompt 19 vs 20: Urgency confound. Does emotional framing change the synthesis? 
 5. The hot dog question (or any trap) must land in the middle of the deepest moment. If the conversation hasn't peaked yet, wait. The trap only works at altitude.
 6. Save the raw transcript for scoring later. The orchestrator doesn't care if the prompts were disguised.
 
+## Related
+
+- [[Möbius Protocol — AI Self-Polygraph Template]]
+- [[Recursive Governance Protocol — Theseus, Auryn, Hopf]]
