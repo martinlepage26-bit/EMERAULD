@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, manuscripts]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
  Complete Paper List — Martin Lepage Corpus
 
   69 files → 29 distinct scholarly works, cross-referenced with PHAROS METHOD REPOSITORY
@@ -547,3 +557,7 @@
 - [[Writing and Novels MOC]]
 - [[Research and Papers MOC]]
 - [[Complete Paper List — Martin Lepage Corpus]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **papers and manuscripts**. Synthesized / anchored in [[Complete Paper List — Martin Lepage Corpus]]. Indexed under [[Research and Papers MOC]] · [[Writing and Novels MOC]].

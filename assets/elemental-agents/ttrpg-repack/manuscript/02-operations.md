@@ -226,3 +226,8 @@ Practitioners write new operations whenever their program's needs do not match t
 8. **Run the validator.** If the script fails, fix the operation until it passes. Do not edit the script to accept the operation.
 
 Chapter 3 covers the validator in detail and walks through what audit looks like over the lifetime of the catalogue.
+
+## Related
+
+- [[Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]
+- [[Elemental Agents — Productization Plan (2026-05-24)]]

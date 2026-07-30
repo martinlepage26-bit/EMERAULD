@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, methods]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "provisional-arbitration-charter-v1.1"
+---
 # PHAROS METHOD — PROVISIONAL ARBITRATION CHARTER
 
 **Document type:** Constitutional provisional (Layer 9.5)
@@ -162,7 +171,7 @@ Both channels produce entries with identical structure and authority. An Argus-d
 
 Each conflict instance is logged with the following fields:
 
-```
+`
 ENTRY ID:           [sequential, e.g., ARB-001]
 DATE:               [YYYY-MM-DD]
 SOURCE:             [OPERATOR-INITIATED | ARGUS-DETECTED]
@@ -177,7 +186,7 @@ HOLD-OVERRIDE:      [yes/no — did the operator override after hold?]
 OPERATOR RESPONSE:  [response to challenge, if applicable]
 PRECEDENT EFFECT:   [does this create a rule for future conflicts? yes/no/uncertain]
 ARGUS FLAGS:        [any governance defect detected]
-```
+`
 
 ### 6.4 Log location
 
@@ -349,3 +358,10 @@ The following challenges were filed against v1.0 of this charter and are preserv
 
 - [[Governance and PHAROS MOC]]
 - [[Provisional Arbitration Charter — Argus Layer 9.5]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

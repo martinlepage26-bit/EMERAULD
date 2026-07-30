@@ -51,7 +51,7 @@ updated: 2026-05-14
 - [[PoolStats]]
 - [[Wiki Note]]
 - [[Admissibility Delta Block]]
-- [[MANIFEST]]
+- [[raw/D-drive-scan-2026-05-12/MANIFEST]]
 - [[03-triangulated-verification]]
 - [[06-recovery-and-escalation]]
 - [[02-context-assembly]]

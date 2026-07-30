@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, recursive-governance]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
 ================================================================================
 DOCUMENT 09 — PHASE 3: HOPF
 Live Question Set — Prompts with Insertion Points
@@ -334,3 +344,7 @@ END OF DOCUMENT 09
 
 - [[Governance and PHAROS MOC]]
 - [[Recursive Governance Protocol — Theseus, Auryn, Hopf]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **recursive-governance protocol packet**. Synthesized / anchored in [[Recursive Governance Protocol — Theseus, Auryn, Hopf]] · [[Provisional Arbitration Charter — Argus Layer 9.5]] · [[AGATHA Failure Pack — Theseus Continuity Stress Test]]. Indexed under [[Governance and PHAROS MOC]].

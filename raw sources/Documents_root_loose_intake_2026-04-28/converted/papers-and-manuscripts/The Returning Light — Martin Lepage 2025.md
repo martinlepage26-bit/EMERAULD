@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, manuscripts]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
 # 2025 - Martin Lepage - THE RETURNING LIGHT - book_or_monograph.docx_0.odt
 
 _Converted from ODT content.xml by local text extraction after MarkItDown did not support this file type._
@@ -1152,3 +1162,7 @@ hooks, bell. Teaching to Transgress: Education as the Practice of Freedom. Routl
 - [[THE BROKEN FREQUENCY OF THE WORD-BOOK]]
 - [[Writing and Novels MOC]]
 - [[Alchemy of the Wound]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **papers and manuscripts**. Synthesized / anchored in [[Complete Paper List — Martin Lepage Corpus]]. Indexed under [[Research and Papers MOC]] · [[Writing and Novels MOC]].

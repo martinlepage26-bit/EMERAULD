@@ -95,7 +95,7 @@ These are not content-bearing notes. Keep them visible as stubs for graph honest
 
 - [[Vault Deep Linking Pass — 2026-05-06]]
 - [[Desktop Text Intake — 2026-05-06]]
-- [[Orphan Index — Vault-Level Graph Repair 2026-05-06]]
+- Orphan Index — Vault-Level Graph Repair 2026-05-06
 - [[AI Infrastructure Stack]]
 - [[PHAROS Commercial Strategy]]
 - [[Writing and Novels MOC]]

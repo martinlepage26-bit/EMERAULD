@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, ai-governance]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
 Received1January2025,accepted19January2025,dateofpublication22January2025,dateofcurrentversion29January2025.
 DigitalObjectIdentifier10.1109/ACCESS.2025.3532853
 Agentic AI: Autonomous Intelligence for Complex
@@ -1669,3 +1679,7 @@ garneredhimindustryinfluence.
 - [[2025 - journal_article_1.pdf - 2025 - journal_article_1.pdf.pdf - 2025 - journal_article_1.pdf - 202]]
 - [[Governance and PHAROS MOC]]
 - [[HELIX test Epstein]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **AI governance public-market pack**. Synthesized / anchored in [[AI Governance Public Statement and Market Impact Pack]]. Indexed under [[Governance and PHAROS MOC]].

@@ -28,7 +28,7 @@ Scope was intentionally conservative: no files moved, renamed, deleted, or merge
 
 Closer title/path-aware scan after the first relinking pass found **zero true wiki orphans**. The operator-visible Obsidian graph, however, includes the whole vault, not only `wiki/`. A full-vault scan found **1,156 true vault-level orphans** across raw sources, artifacts, runtime/agent folders, governance mirrors, memory files, and loose root notes.
 
-To make the Obsidian graph honest without pretending raw captures are synthesized notes, this pass generated [[Orphan Index — Vault-Level Graph Repair 2026-05-06]] plus six category indexes under `wiki/orphan-index/`. These indexes create explicit inbound links to all vault-level orphans while preserving their status as raw/source/runtime/provenance artifacts.
+To make the Obsidian graph honest without pretending raw captures are synthesized notes, this pass generated Orphan Index — Vault-Level Graph Repair 2026-05-06 plus six category indexes under `wiki/orphan-index/`. These indexes create explicit inbound links to all vault-level orphans while preserving their status as raw/source/runtime/provenance artifacts.
 
 Follow-up verification found 107 raw-source filenames with graph-hostile characters such as leading `#`, `##`, and `]`. These do not register cleanly through normal path wikilinks because Obsidian/link parsers treat `#` as a heading separator and `]` as link syntax. Those files received stable `orphan-raw-2026-05-06-###` aliases in frontmatter, and the raw-source orphan index now links through those aliases. Source bodies were not moved, renamed, deleted, or synthesized.
 
@@ -38,7 +38,7 @@ Final full-vault verification after index + alias repair: **0 true Obsidian-visi
 
 Follow-up filename hygiene pass: [[Dr. Sort Filename Normalization — 2026-05-06]] records 524 Markdown notes renamed after the Dr. Sort pass duplicated source titles and extensions in filenames. Each renamed file keeps its original name and path in frontmatter provenance fields, and valid Obsidian wikilinks were updated after the rename.
 
-Because some cleaned filenames still contain graph-hostile characters such as `#` or `]`, the pass also created [[archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]] and alias-stamped the hostile residuals needed for Obsidian-visible inbound links.
+Because some cleaned filenames still contain graph-hostile characters such as `#` or `]`, the pass also created archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06 and alias-stamped the hostile residuals needed for Obsidian-visible inbound links.
 
 The curated `wiki/` concern set was 17 low-inbound notes, all at one or two inbound anchors. These were classified as follows:
 
@@ -52,11 +52,11 @@ The curated `wiki/` concern set was 17 low-inbound notes, all at one or two inbo
 
 ## Full-Vault Orphan Indexes
 
-- [[archive/Orphan Index — Raw Sources — 2026-05-06]] — 889 raw/clipping/inbox source notes.
-- [[archive/Orphan Index — Artifacts And Archives — 2026-05-06]] — 88 artifact/archive notes.
-- [[archive/Orphan Index — Runtime And Agents — 2026-05-06]] — 133 runtime, governance, agent, and planning notes.
-- [[archive/Orphan Index — Operations And Misc — 2026-05-06]] — 37 memory, hub, template, and map notes.
-- [[archive/Orphan Index — Root Loose Notes — 2026-05-06]] — 17 loose root notes.
+- archive/Orphan Index — Raw Sources — 2026-05-06 — 889 raw/clipping/inbox source notes.
+- archive/Orphan Index — Artifacts And Archives — 2026-05-06 — 88 artifact/archive notes.
+- archive/Orphan Index — Runtime And Agents — 2026-05-06 — 133 runtime, governance, agent, and planning notes.
+- archive/Orphan Index — Operations And Misc — 2026-05-06 — 37 memory, hub, template, and map notes.
+- archive/Orphan Index — Root Loose Notes — 2026-05-06 — 17 loose root notes.
 - [[Workspace Cleanup Ledger — 2026-05-31]] — workspace cleanup and entropy-reduction ledger for the 2026-05-31 pass.
 
 ## Root Loose Outlier Follow-Up

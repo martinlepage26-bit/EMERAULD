@@ -1,0 +1,230 @@
+/* EMERAULD References
+   Red, black, silver, and gold folder-scoped snippet for notes under references/
+*/
+
+body.theme-dark {
+  --emerald-ref-black: #050506;
+  --emerald-ref-black-2: #0b0a0d;
+  --emerald-ref-red: #a3162b;
+  --emerald-ref-red-soft: rgba(163, 22, 43, 0.18);
+  --emerald-ref-silver: #d7d9dd;
+  --emerald-ref-silver-dim: #a6acb4;
+  --emerald-ref-gold: #d4af37;
+  --emerald-ref-gold-soft: rgba(212, 175, 55, 0.18);
+  --emerald-ref-border: rgba(212, 175, 55, 0.20);
+  --emerald-ref-shadow: rgba(0, 0, 0, 0.45);
+}
+
+/* Folder-scoped surface */
+body.theme-dark :is(
+  .workspace-leaf-content[data-path^="references/"] .view-content,
+  .workspace-leaf-content[data-path*="/references/"] .view-content,
+  .markdown-source-view[data-path^="references/"],
+  .markdown-source-view[data-path*="/references/"],
+  .markdown-preview-view[data-path^="references/"],
+  .markdown-preview-view[data-path*="/references/"]
+) {
+  color: var(--emerald-ref-silver) !important;
+  background:
+    radial-gradient(circle at 14% 18%, rgba(212, 175, 55, 0.12), transparent 24%),
+    radial-gradient(circle at 84% 14%, rgba(163, 22, 43, 0.18), transparent 22%),
+    radial-gradient(circle at 72% 82%, rgba(212, 175, 55, 0.08), transparent 26%),
+    linear-gradient(135deg, #050506 0%, #0b0a0d 48%, #050506 100%) !important;
+}
+
+body.theme-dark :is(
+  .workspace-leaf-content[data-path^="references/"] .view-content,
+  .workspace-leaf-content[data-path*="/references/"] .view-content,
+  .markdown-source-view[data-path^="references/"] .cm-editor,
+  .markdown-source-view[data-path*="/references/"] .cm-editor,
+  .markdown-preview-view[data-path^="references/"],
+  .markdown-preview-view[data-path*="/references/"]
+) {
+  backdrop-filter: blur(16px);
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, 0.03),
+    0 14px 36px var(--emerald-ref-shadow);
+}
+
+/* Main text */
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"] p,
+  .markdown-preview-view[data-path*="/references/"] p,
+  .markdown-source-view[data-path^="references/"] .cm-line,
+  .markdown-source-view[data-path*="/references/"] .cm-line
+) {
+  color: var(--emerald-ref-silver) !important;
+  line-height: 1.7;
+}
+
+/* Headings with gold trim and red depth */
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"] h1,
+  .markdown-preview-view[data-path^="references/"] h2,
+  .markdown-preview-view[data-path^="references/"] h3,
+  .markdown-preview-view[data-path*="/references/"] h1,
+  .markdown-preview-view[data-path*="/references/"] h2,
+  .markdown-preview-view[data-path*="/references/"] h3
+) {
+  color: var(--emerald-ref-gold) !important;
+  text-shadow:
+    0 0 10px rgba(212, 175, 55, 0.22),
+    0 0 18px rgba(163, 22, 43, 0.20);
+  border-bottom: 1px solid var(--emerald-ref-border);
+  padding-bottom: 0.18em;
+}
+
+body.theme-dark :is(
+  .markdown-source-view[data-path^="references/"] .cm-header-1,
+  .markdown-source-view[data-path^="references/"] .cm-header-2,
+  .markdown-source-view[data-path^="references/"] .cm-header-3,
+  .markdown-source-view[data-path*="/references/"] .cm-header-1,
+  .markdown-source-view[data-path*="/references/"] .cm-header-2,
+  .markdown-source-view[data-path*="/references/"] .cm-header-3
+) {
+  color: var(--emerald-ref-gold) !important;
+  text-shadow:
+    0 0 8px rgba(212, 175, 55, 0.18),
+    0 0 16px rgba(163, 22, 43, 0.16);
+}
+
+/* Links and emphasis */
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"] a,
+  .markdown-preview-view[data-path*="/references/"] a,
+  .markdown-source-view[data-path^="references/"] .cm-link,
+  .markdown-source-view[data-path*="/references/"] .cm-link,
+  .markdown-source-view[data-path^="references/"] .cm-url,
+  .markdown-source-view[data-path*="/references/"] .cm-url
+) {
+  color: var(--emerald-ref-gold) !important;
+  text-decoration-color: rgba(212, 175, 55, 0.44);
+  text-underline-offset: 0.18em;
+}
+
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"] strong,
+  .markdown-preview-view[data-path*="/references/"] strong,
+  .markdown-source-view[data-path^="references/"] .cm-strong,
+  .markdown-source-view[data-path*="/references/"] .cm-strong
+) {
+  color: #f2f3f5 !important;
+}
+
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"] em,
+  .markdown-preview-view[data-path*="/references/"] em,
+  .markdown-source-view[data-path^="references/"] .cm-em,
+  .markdown-source-view[data-path*="/references/"] .cm-em
+) {
+  color: var(--emerald-ref-silver-dim) !important;
+}
+
+/* Code */
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"] pre,
+  .markdown-preview-view[data-path*="/references/"] pre,
+  .markdown-preview-view[data-path^="references/"] code,
+  .markdown-preview-view[data-path*="/references/"] code,
+  .markdown-source-view[data-path^="references/"] .cm-inline-code,
+  .markdown-source-view[data-path*="/references/"] .cm-inline-code
+) {
+  background: rgba(4, 4, 5, 0.92) !important;
+  color: #ecebea !important;
+  border: 1px solid rgba(212, 175, 55, 0.22);
+  box-shadow: 0 0 16px rgba(163, 22, 43, 0.08);
+}
+
+/* Callouts and quotes */
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"] blockquote,
+  .markdown-preview-view[data-path*="/references/"] blockquote
+) {
+  background: linear-gradient(90deg, rgba(163, 22, 43, 0.12), rgba(212, 175, 55, 0.06));
+  border-left: 3px solid var(--emerald-ref-gold);
+  color: var(--emerald-ref-silver);
+}
+
+/* Tables */
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"] table,
+  .markdown-preview-view[data-path*="/references/"] table
+) {
+  background: rgba(6, 6, 7, 0.78);
+  border: 1px solid var(--emerald-ref-border);
+}
+
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"] th,
+  .markdown-preview-view[data-path*="/references/"] th
+) {
+  background: rgba(163, 22, 43, 0.18);
+  color: #f5f5f7;
+}
+
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"] td,
+  .markdown-preview-view[data-path*="/references/"] td,
+  .markdown-preview-view[data-path^="references/"] th,
+  .markdown-preview-view[data-path*="/references/"] th
+) {
+  border-color: rgba(212, 175, 55, 0.16);
+}
+
+/* Selection */
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"],
+  .markdown-preview-view[data-path*="/references/"],
+  .markdown-source-view[data-path^="references/"],
+  .markdown-source-view[data-path*="/references/"]
+) ::selection {
+  background: rgba(163, 22, 43, 0.34);
+  color: #ffffff;
+}
+
+/* File explorer accents */
+body.theme-dark .nav-file-title[data-path^="references/"],
+body.theme-dark .nav-file-title[data-path*="/references/"],
+body.theme-dark .nav-folder-title[data-path="references"] {
+  color: var(--emerald-ref-silver);
+}
+
+body.theme-dark .nav-file-title[data-path^="references/"].is-active,
+body.theme-dark .nav-file-title[data-path*="/references/"].is-active,
+body.theme-dark .nav-folder-title[data-path="references"].is-active {
+  background:
+    linear-gradient(90deg, rgba(163, 22, 43, 0.24), rgba(212, 175, 55, 0.16), transparent) !important;
+  color: #ffffff !important;
+  box-shadow: inset 2px 0 0 var(--emerald-ref-gold);
+}
+
+/* Scrollbars */
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"],
+  .markdown-preview-view[data-path*="/references/"],
+  .markdown-source-view[data-path^="references/"],
+  .markdown-source-view[data-path*="/references/"]
+) ::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"],
+  .markdown-preview-view[data-path*="/references/"],
+  .markdown-source-view[data-path^="references/"],
+  .markdown-source-view[data-path*="/references/"]
+) ::-webkit-scrollbar-track {
+  background: rgba(4, 4, 5, 0.70);
+}
+
+body.theme-dark :is(
+  .markdown-preview-view[data-path^="references/"],
+  .markdown-preview-view[data-path*="/references/"],
+  .markdown-source-view[data-path^="references/"],
+  .markdown-source-view[data-path*="/references/"]
+) ::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #a3162b, #d4af37);
+  border-radius: 999px;
+  border: 2px solid rgba(4, 4, 5, 0.86);
+}

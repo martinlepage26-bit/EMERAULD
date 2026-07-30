@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "PHAROS_Outreach_Pack_v1"
+---
 # PHAROS AI — Outreach Pack
 ## First Three Conversations — Quebec Tier 1 Targets
 
@@ -150,3 +159,10 @@ Hold these until you have data from Tier 1. If two of three Tier 1 sends produce
 
 - [[Writing and Novels MOC]]
 - [[PHAROS Outreach Pack — Q2 2026 Tier 1 Quebec Targets]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

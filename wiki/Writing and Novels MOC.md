@@ -317,6 +317,7 @@ These TOPIC notes organize the writing corpus and related scholarship by themati
 
 **Creative and Literary**
 - [[Novel and Creative Corpus]] — Index of all novels, monographs, manuscripts, and creative projects in progress or completed.
+- [[maps/Novel Corpus Map]] — Structural index for the novel corpus, monographs, and the HEX/ADECIMAL Press imprint.
 - [[Version Genealogy System]] — Index of version genealogy records for manuscripts, tracking evolution and naming decisions.
 
 **Queer Theory, Magic, and Media**

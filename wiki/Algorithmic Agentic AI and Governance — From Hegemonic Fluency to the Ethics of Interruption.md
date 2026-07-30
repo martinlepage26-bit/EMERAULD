@@ -2,11 +2,11 @@
 
 ## Summary
 
-Research manuscript (2013/expanded) by [[Martin Lepage — Professional Profile|Martin Lepage]] analyzing algorithmic agentic AI as a **double-sided governance mechanism**: simultaneously intensifying surveillance and behavioral normalization while destabilizing inherited assumptions about authorship, legitimacy, and control. Approximately 9,000 words. Part of [[Research and Papers MOC]] and directly connected to [[Fluency, Interruption, and Institutional Accountability]]. Central to [[Consent and Boundary Frameworks]] (ethics of interruption as consent restoration) and [[Governance Controls and Mechanisms]] (interruption as control mechanism).
+Research manuscript (2013/expanded) by [[Martin Lepage — Professional Profile|Martin Lepage]] analyzing algorithmic agentic AI as a **double-sided governance mechanism**: simultaneously intensifying surveillance and behavioral normalization while destabilizing inherited assumptions about authorship, legitimacy, and control. Approximately 9,000 words. Part of [[Research and Papers MOC]] and directly connected to [[Fluency, Interruption, and Institutional Accountability]]. Central to [[Consent and Boundary Frameworks]] (ethics of interruption as consent restoration), [[Governance Controls and Mechanisms]] (interruption as control mechanism), and [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 ## Context
 
-This paper bridges [[Martin Lepage — Professional Profile|Martin Lepage]]'s queer theory work and the emerging AI governance framework. It draws on the [[Governance by Denial]] framework, the "Stuttering Machines" vocabulary (connected to [[Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]), and OECD data on algorithmic management. It anticipates the [[PHAROS Recalibration — Unified Governance Architecture|PHAROS]] method's concern with **upstream classification** — how AI systems reorganize who becomes audible, what counts as evidence, and how institutional sanction is delayed or displaced. **Algorithmic authority as fluency:** systems that present as smooth, neutral, and efficient hide the labor and authority structures they embody. The ethics of interruption proposes contestation as governance mechanism. The contemporary workplace is the paper's central laboratory. Indexed in [[Fluency and Interruption Theory]], [[Recursive Governance Theory]], and [[Authority, Legitimacy, and Post-Sovereignty]]; methodological substrate documented in [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]].
+This paper bridges [[Martin Lepage — Professional Profile|Martin Lepage]]'s queer theory work and the emerging AI governance framework. It draws on the [[Governance by Denial]] framework, the "Stuttering Machines" vocabulary (connected to [[Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]), and OECD data on algorithmic management. It anticipates the [[PHAROS Recalibration — Unified Governance Architecture|PHAROS]] method's concern with **upstream classification** — how AI systems reorganize who becomes audible, what counts as evidence, and how institutional sanction is delayed or displaced. **Algorithmic authority as fluency:** systems that present as smooth, neutral, and efficient hide the labor and authority structures they embody. The ethics of interruption proposes contestation as governance mechanism. The contemporary workplace is the paper's central laboratory. Indexed in [[Fluency and Interruption Theory]], [[Recursive Governance Theory]], [[Authority, Legitimacy, and Post-Sovereignty]], and [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]; methodological substrate documented in [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]].
 
 ## Details
 
@@ -54,6 +54,7 @@ This paper bridges [[Martin Lepage — Professional Profile|Martin Lepage]]'s qu
 - Related: [[Governance by Denial]]
 - Related: [[Research and Papers MOC]]
 - Related: [[PHAROS Recalibration — Unified Governance Architecture]]
+- Related: [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]
 
 ## Related
 

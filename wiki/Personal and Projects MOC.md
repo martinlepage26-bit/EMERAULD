@@ -210,7 +210,7 @@ Retrieval systems, memory tools, and agent-facing infrastructure that support th
 - [[Writing and Novels MOC]]
 - [[Vault Topic Coverage Matrix — 2026-05-06]] — Cross-vault topic-family coverage map for the active-project, infrastructure, and identity clusters
 - [[Vault Delta Interconnectivity Atlas — 2026-05-06]] — Cross-register map for how personal, operational, and infrastructure notes connect
-- `wiki/raw-sources/2026-05-13/` — source-note set for this ingest (one note per text file).
+- `wiki/source-notes/` — promoted source-note set for this ingest (one note per text file; formerly under `wiki/raw-sources/2026-05-13/`).
 - [[Source Cluster — 2026-05-13 Client and Operator Continuity]] — clustered lane for client bottlenecks and operator continuity signals.
 - [[Source Cluster Map — 2026-05-13 Raw Sources]] — source-to-cluster navigation layer for writing passes.
 

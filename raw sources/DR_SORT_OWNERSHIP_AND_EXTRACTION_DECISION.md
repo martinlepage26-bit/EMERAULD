@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance, docsort]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "DR_SORT_OWNERSHIP_AND_EXTRACTION_DECISION"
+---
 # Dr. Sort Ownership And Extraction Decision
 
 Date: 2026-03-14
@@ -241,3 +250,10 @@ Before any move or extraction:
 
 - [[Governance and PHAROS MOC]]
 - [[Dr. Sort and LOTUS Ownership Decision — March 2026]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

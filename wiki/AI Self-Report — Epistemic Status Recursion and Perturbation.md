@@ -14,7 +14,7 @@ updated: 2026-04-18
 
 ## Summary
 
-Methodological framework for treating AI self-report as context-conditioned linguistic performance rather than transparent evidence of internal state. Recursion can produce apparent continuity and reflective depth; perturbation tests whether that continuity is robust or merely scaffolded by prompt context. This note extends [[Self-Polygraph Protocol and Suprametacognition]], [[Recursive Continuity Without Memory — AI Identity Across Sessions]], and [[AI Ethics Literature — Contestable Governance Artifacts]].
+Methodological framework for treating AI self-report as context-conditioned linguistic performance rather than transparent evidence of internal state. Recursion can produce apparent continuity and reflective depth; perturbation tests whether that continuity is robust or merely scaffolded by prompt context. This note extends [[Self-Polygraph Protocol and Suprametacognition]], [[Recursive Continuity Without Memory — AI Identity Across Sessions]], [[Deferred Authority — Archives, Proof Regimes, and AI Memory]], and [[AI Ethics Literature — Contestable Governance Artifacts]].
 
 ## Core Premise
 
@@ -43,12 +43,13 @@ The methodological question shifts from ontology to reliability: not "is the mod
 
 ## Relation to Self-Polygraph
 
-The [[Self-Polygraph Protocol and Suprametacognition]] should not be read as a hidden-state detector. Its value is that it evaluates whether self-descriptions remain reliable when recursive context is changed, interrupted, or reintroduced. This also clarifies the role of [[Recursive Continuity Without Memory — AI Identity Across Sessions]]: continuity without persistent memory is a governance object, not an identity guarantee.
+The [[Self-Polygraph Protocol and Suprametacognition]] should not be read as a hidden-state detector. Its value is that it evaluates whether self-descriptions remain reliable when recursive context is changed, interrupted, or reintroduced. This also clarifies the role of [[Recursive Continuity Without Memory — AI Identity Across Sessions]] and [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]: continuity without persistent memory is a governance object, not an identity guarantee.
 
 ## Related
 
 - [[Self-Polygraph Protocol and Suprametacognition]]
 - [[Recursive Continuity Without Memory — AI Identity Across Sessions]]
+- [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]
 - [[AI Ethics Literature — Contestable Governance Artifacts]]
 - [[Narrative Capture Failure Taxonomy — Substituting Theory for Contact]]
 - [[Evidence Discipline and Epistemics]]

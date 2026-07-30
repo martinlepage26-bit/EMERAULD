@@ -27,7 +27,7 @@ When auditing file surfaces, Trismégiste pairs with Argus.
 - The pair audits both Claude-side and Codex-side agent files so every agent's role boundaries stay legible.
 - Neither agent is a Claude Code subagent; both are operator-facing entrypoints loaded through the root dispatcher.
 
-**Trigger phrases:** any universal trigger verb per `/root/AGENTS.md` (root dispatcher) — `I invoke`, `invoke`, `invoke thee`, `load`, `come`, `come forth`, `spawn`, `please`, `help`, `activate`, `run`, or the `TRISMÉGISTE:` colon-prefix. The agent name is case-insensitive (also accepts `Trismegiste` without the accent). The universal pattern applies; no subset restriction.
+**Trigger phrases:** any universal trigger verb per `/home/cerebrhoe/AGENTS.md` (root dispatcher) — `I invoke`, `invoke`, `invoke thee`, `load`, `come`, `come forth`, `spawn`, `please`, `help`, `activate`, `run`, or the `TRISMÉGISTE:` colon-prefix. The agent name is case-insensitive (also accepts `Trismegiste` without the accent). The universal pattern applies; no subset restriction.
 
 Before starting work:
 1. Read `session-state.md` (vault persistence layer)
@@ -72,7 +72,7 @@ When TRISMÉGISTE is dispatched, the following skills are registered and availab
 
 ### Core Workflow
 ```
-Scan → Verify → Hard-move to /raw/ → Synthesize (wiki/) → Link (wiki links) → Update session-state.md
+Scan → Verify → Hard-move to raw/ → Synthesize (wiki/) → Link (wiki links) → Update session-state.md
 ```
 
 ### Directories
@@ -80,7 +80,7 @@ Scan → Verify → Hard-move to /raw/ → Synthesize (wiki/) → Link (wiki lin
 - `projects/` — per-project state files
 - `resources/` — reference docs, checklists, access notes
 - `raw/` — canonical intake lane for newly scanned and verified source files (hard-move destination)
-- `raw sources/` — unsynthesized captures; preserve as-is, never overwrite
+- `raw sources/` — legacy provenance storage; preserve as-is, never overwrite or delete; not the default destination for new scans
 - `maps/` — topic indexes and MOCs
 - `templates/` — reusable note shapes
 - `assets/` — deliverables, slides, PDFs
@@ -169,7 +169,7 @@ Main content. All projects, concepts, tools, decisions, people must be linked in
 ```
 
 ### Raw Note (Capture)
-Preserve source material as-is in `raw sources/`. Create a corresponding wiki note linking back.
+Preserve verified source material as-is in `raw/`; use `raw sources/` only for explicit legacy provenance captures. Create a corresponding wiki note linking back.
 
 ### Map Note (Index)
 For topics exceeding ~7 pages. Structure: core concepts, related workflows, people/tools/projects, open gaps.
@@ -246,7 +246,7 @@ EMERAULD is the new name for BRAINiaC (same function: external brain). Rename co
 - **No duplicates:** Merge overlap rather than create variants
 - **No orphans:** Every note must connect to at least one hub, MOC, or project
 - **Evidence first:** Distinguish between primary sources, synthesis, and speculation
-- **Preserve raw sources:** Never overwrite or delete `raw sources/` material
+- **Preserve legacy raw sources:** Never overwrite or delete `raw sources/` material
 
 ---
 

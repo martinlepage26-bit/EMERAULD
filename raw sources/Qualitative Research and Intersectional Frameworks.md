@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ritual-religion, queer-gender, methods]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "Qualitative Research and Intersectional Frameworks"
+---
 # Qualitative Research and Intersectional Frameworks
 ## Expanded Continuation From `Master Reference List.txt`
 
@@ -132,3 +141,10 @@ That is the larger lesson of this expanded handbook: qualitative rigor comes fro
 - [[Research and Papers MOC]]
 - [[Writing and Novels MOC]]
 - [[Qualitative Handbook — Expanded Reference List]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

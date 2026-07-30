@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, ai-governance]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
 # untitled_2.odt - AI & SOCIETY title page template
 
 _Converted from ODT content.xml by local text extraction._
@@ -96,3 +106,7 @@ Generative AI was used for structural revision, comparative reframing, compressi
 
 - [[Research and Papers MOC]]
 - [[Recursive Deterministic AI Governance — Method and Paper]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **AI governance public-market pack**. Synthesized / anchored in [[AI Governance Public Statement and Market Impact Pack]]. Indexed under [[Governance and PHAROS MOC]].

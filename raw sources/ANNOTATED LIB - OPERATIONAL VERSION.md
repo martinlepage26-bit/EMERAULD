@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "ANNOTATED LIB - OPERATIONAL VERSION"
+---
 ANNOTATED LIB - OPERATIONAL VERSION
 
 Last updated: 2026-03-11
@@ -475,3 +484,10 @@ If writing a literature review, sort these entries into five buckets:
 
 - [[Governance and PHAROS MOC]]
 - [[NIST AI RMF 1.0 — NIST AI 100-1 (2023)]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

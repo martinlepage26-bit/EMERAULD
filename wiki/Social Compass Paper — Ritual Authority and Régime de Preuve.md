@@ -1,7 +1,7 @@
 # Social Compass Paper — Ritual Authority and Régime de Preuve
 
 ## Summary
-Academic paper submitted to *Social Compass* (bilingual EN/FR). Full title: "All Along the Witches' Road" — an analysis of ritual authority in contemporary witchcraft drawing on Québec ethnographic fieldwork (2013-2016) and the television series *Agatha All Along*. The concept of *régime de preuve* (regime of proof) is the central contribution: three types of proof operate in ritual authority contexts — oppositional, sensory, and narrative. The paper's Agatha ("character") connects to [[Emotional Alliance vs. Evidentiary Discipline in AI]] — Agatha is also the name of an AI persona analyzed in that note. Related to [[Phase 1 Governance Formation Sequence]].
+Academic paper submitted to *Social Compass* (bilingual EN/FR). Full title: "All Along the Witches' Road" — an analysis of ritual authority in contemporary witchcraft drawing on Québec ethnographic fieldwork (2013-2016) and the television series *Agatha All Along*. The concept of *régime de preuve* (regime of proof) is the central contribution: three types of proof operate in ritual authority contexts — oppositional, sensory, and narrative. The paper is the ritual-side sibling of [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]. The paper's Agatha ("character") connects to [[Emotional Alliance vs. Evidentiary Discipline in AI]] — Agatha is also the name of an AI persona analyzed in that note. Related to [[Phase 1 Governance Formation Sequence]].
 
 ## Context
 Source: `agatha_socialcompass_v5 (2).docx`. This paper is part of Martin Lepage's academic portfolio predating the PHAROS work. The Québec ethnographic fieldwork (2013-2016) is the empirical basis for the PhD (UQAM 2017). The *Agatha All Along* analysis is a more recent addition, connecting the historical witchcraft material to contemporary media representations of ritual authority. The paper is bilingual — sections exist in both English and French.
@@ -74,7 +74,7 @@ The paper exists in both English and French. The French version uses *régime de
 
 - *Régime de preuve* is a more precise concept than "epistemology" for social authority contexts: it includes the question of who has authority to apply the proof criteria, not just what the criteria are
 - Sensory proof's non-transferability is the most governance-relevant finding: it names a structural gap in formal accountability systems. If lived experience is the only valid evidence of a harm, and formal systems cannot process lived experience, the harm is formally invisible
-- The anti-institutional authenticity coding — where absence of credentials signals spiritual authority — is directly analogous to the fluency problem in AI contexts: systems that perform institutional accountability while being structurally outside accountability frameworks benefit from the same credibility attribution
+- The anti-institutional authenticity coding — where absence of credentials signals spiritual authority — is directly analogous to the fluency problem in AI contexts: systems that perform institutional accountability while being structurally outside accountability frameworks benefit from the same credibility attribution. That same loop is one route into [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 ## Open Questions
 
@@ -91,6 +91,9 @@ The paper exists in both English and French. The French version uses *régime de
 
 ## Related
 
+- [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]
+- [[Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]]
+- [[Authority After Legitimacy — Disenchantment and Queer Political Theory]]
 - [[Bridge - Social Compass Paper Ritual Authority and Rgime de Preuve]]
 - [[Pagan and Queer Ritual Studies MOC]]
 - [[HISTORY]]

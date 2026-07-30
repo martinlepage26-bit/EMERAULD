@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "FIRST DRAFT"
+---
 FIRST DRAFT
 
 Compress without opacity
@@ -478,3 +487,10 @@ Finally, trustworthiness is treated as consistent with the paper’s theory of e
 - [[2015 - policy_or_guidance [3]]]
 - [[Governance and PHAROS MOC]]
 - [[AI Governance Manifesto — Upstream Institutional Practice]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

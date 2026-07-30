@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, pharos-ops]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
 # PHAROS LinkedIn — Schedule These Now
 **Today**: April 6, 2026 | **Posts remaining**: 10 (Apr 1–5 are past)
 **Method**: LinkedIn native scheduler → Start a post → Paste → Schedule → Set date/time → Done
@@ -240,3 +250,7 @@ pharos-ai.ca
 
 - [[Governance and PHAROS MOC]]
 - [[ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **PHAROS ops and publishing**. Synthesized / anchored in [[PHAROS LinkedIn April 2026 Publishing Routine]]. Indexed under [[Governance and PHAROS MOC]].

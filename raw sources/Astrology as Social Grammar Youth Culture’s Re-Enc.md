@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "Astrology as Social Grammar Youth Culture’s Re-Enc"
+---
 ﻿Astrology as Social Grammar: Youth Culture’s Re-Enchantment of Timing and the Algorithmic Zodiac
 Introduction
 Astrology has returned to the public conversation not as a creed but as a code. Once dismissed as pseudoscience or the relic of an enchanted past, it now circulates across the digital commons as a grammar for self-description, intimacy, and timing. The zodiac threads through memes, apps, playlists, therapy talk, and dating bios, offering a portable lexicon for emotional weather. Among younger users, particularly those raised in the algorithmic era, it operates less as a system of belief than as a shared idiom of meaning-making. The sky, in this context, has ceased to function as causal mechanism; it has become a social map, a template for narrative coordination in an age of informational excess.
@@ -191,3 +200,10 @@ Weber, Max. 1919. “Science as a Vocation.” In From Max Weber: Essays in Soci
 - [[2021 - report [2]]]
 - [[Writing and Novels MOC]]
 - [[GAIA — Earth-Calendar App and Evidence-Aware Positioning]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

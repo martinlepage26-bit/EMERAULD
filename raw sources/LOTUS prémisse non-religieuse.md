@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "LOTUS prémisse non-religieuse"
+---
 # Appui empirique interdisciplinaire pour une prémisse religieuse non spécifiée
 
 ## Résumé exécutif
@@ -20,7 +29,7 @@ L’hypothèse de travail est volontairement prudente : **si la prémisse non 
 
 Voici les jalons majeurs qui structurent l’état de la recherche sur la période considérée.
 
-```mermaid
+`mermaid
 timeline
     title Jalons empiriques et conceptuels 2005–2025
     2005 : Ano & Vasconcelles : coping religieux et ajustement psychologique
@@ -33,7 +42,7 @@ timeline
     2023 : Guveli & Platt : ESS, migrants et natifs en Europe occidentale
     2024 : Aksoy & Wiertz ; Prati : panels britanniques et allemands
     2025 : Pew RLS ; Aglozo et al. : stabilisation américaine relative et fortes différences entre 22 pays
-```
+`
 
 Ce cadrage produit une conclusion analytique simple : **la religion reste empiriquement très visible, mais ses effets ne sont plus lisibles comme ceux d’un “bloc religieux” homogène**. Ils sont désormais distribués entre institutions, pratiques collectives, identités minoritaires, médias, dynamiques migratoires et ressources psychologiques individuelles. citeturn21view0turn27view0turn27view2turn36search1turn38view0
 
@@ -105,23 +114,23 @@ L’étude longitudinale britannique d’Aksoy et ses collègues, menée sur **5
 
 Les grandes enquêtes confirment d’abord que la religion reste **sociologiquement massive** mais extrêmement **inégale** selon les pays. Aux États‑Unis, le **Religious Landscape Study** de Pew montre que les chrétiens représentaient **78%** des adultes en **2007**, **71%** en **2014** et **62%** en **2023‑24**. Les **sans affiliation religieuse** atteignent **29%** en 2023‑24. En même temps, **83%** des adultes américains disent croire en Dieu ou en un esprit universel, **44%** prient au moins une fois par jour et **33%** assistent aux services religieux au moins mensuellement. Le paysage religieux décline donc du point de vue des appartenances, mais reste élevé du point de vue des croyances spirituelles. citeturn21view0turn30view3
 
-```mermaid
+`mermaid
 xychart-beta
     title "États-Unis : part des adultes s'identifiant comme chrétiens"
     x-axis [2007, 2014, 2023-24]
     y-axis "Pourcentage" 0 --> 100
     bar [78, 71, 62]
-```
+`
 
 Les données françaises disponibles via l’INED montrent une autre configuration : chez les **18–49 ans**, la part déclarant **n’avoir aucune religion** passe de **45%** en **2008‑2009** à **53%** en **2019‑2020**. En parallèle, **29%** de la population se dit catholique et **10%** musulmane dans les données résumées par l’INED. Le cas français illustre donc une sécularisation avancée couplée à une pluralisation du paysage religieux. citeturn23view0
 
-```mermaid
+`mermaid
 xychart-beta
     title "France : 18-49 ans déclarant n'avoir aucune religion"
     x-axis [2008-09, 2019-20]
     y-axis "Pourcentage" 0 --> 100
     bar [45, 53]
-```
+`
 
 L’écart par âge observé par Pew permet aussi de visualiser la dynamique générationnelle : parmi les **18–24 ans** américains, **46%** s’identifient comme chrétiens, contre **80%** parmi les **74 ans et plus**; **25%** des plus jeunes assistent aux offices au moins mensuellement contre **49%** des plus âgés; et **43%** des plus jeunes sont non affiliés contre **13%** des plus âgés. Ces différences sont cohérentes avec l’idée, confirmée par CARPE, que la recomposition religieuse passe largement par les cohortes. citeturn22view0turn27view2
 
@@ -143,3 +152,10 @@ La principale limite pratique de ce rapport est donc conceptuelle : **sans pr�
 
 - [[Research and Papers MOC]]
 - [[Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

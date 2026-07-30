@@ -35,11 +35,25 @@ These pages bridge distinct domains (theory ↔ narrative, governance ↔ practi
 - [[Desktop and Downloads Scan — 2026-05-12]] — Delta scan capturing HELIX3.0 build evolution, RAGE architecture draft, and legal continuity documents (TAL + Service Canada) with privacy-safe synthesis.
 - [[D Drive Scan — 2026-05-12]] — Selective D: ingest capturing DG migration verification artifacts, Elemental Agents framework docs, and an external manuscript draft snapshot with explicit uncertainty flags.
 - [[Root Loose Notes Cluster Map — 2026-05-06]] — Semantic cluster map for root-level graph outliers: HELIX prototype/transcripts, commercial offer scratchpads, phrase-origin material, infrastructure checklists, RIA provenance, and empty stubs.
-- [[Orphan Index — Vault-Level Graph Repair 2026-05-06]] — Obsidian-visible orphan index for the whole vault, including raw sources, artifacts, runtime/agent files, operations notes, and loose root notes.
 - [[Dr. Sort Filename Normalization — 2026-05-06]] — maintenance log for the duplicate-title filename cleanup after the Dr. Sort pass.
-- [[archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06]] — residual alias/path repair after duplicate-title renames exposed graph-hostile filenames.
 
 ---
+
+## Vault Operations and Maintenance
+
+These are the day-to-day control surfaces, log funnels, and repair helpers that keep the graph usable.
+
+- [[Daily Dashboard]] — day-of execution surface.
+- [[Agent Logs Hub]] — ingest, nightly review, and weekly log routing.
+- [[Workflows Hub]] — recurring jobs and template routing.
+- [[Projects Hub]] — project recovery and tracker surface.
+- [[Personal OS]] — personal operating system and daily priorities.
+- [[Knowledge Gaps]] — open questions, orphans, and research queue.
+- [[Workspace Cleanup Ledger — 2026-05-31]] — workspace cleanup and duplicate-consolidation record.
+- [[VoiceBridge Foundation]] — AAC bridge-fund project and disability-access pilot.
+- [[skills/ask-vault]] — vault retrieval and briefing skill.
+- [[skills/trace-investigator]] — authority and exception tracing skill.
+- [[skills/vault-graph-hygiene]] — graph normalization and backlink repair skill.
 
 ## Topic Notes (Semantic Organizing Hubs)
 
@@ -182,10 +196,10 @@ A flat index organized by domain, for direct access without traversing a MOC.
 [[CLI-Anything — Agent Harness for Tool Integration]] · [[ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]] · [[Kickstart App Prompt — Template and Synthesis Framework]] · [[Diamond-Eyes — Aesthetic Refinement Skill]] · [[Claude Code Skill Corpus]] · [[InfraFabric Architecture]] · [[Plugin Recommendations]]
 
 **Archives and File System**
-[[CODEX Writing Projects Manifest]] · [[Complete Paper List — Martin Lepage Corpus]] · [[Documents Root Loose Files Intake — 2026-04-28]] · [[Local Hardware and Discovery Snapshot — Laptop A]] · [[Vault Deep Linking Pass — 2026-05-06]] · [[Orphan Index — Vault-Level Graph Repair 2026-05-06]] · [[Vault Linking Gaps & Bridge Opportunities — 2026-05-01]] · [[Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]
+[[CODEX Writing Projects Manifest]] · [[Complete Paper List — Martin Lepage Corpus]] · [[Documents Root Loose Files Intake — 2026-04-28]] · [[Local Hardware and Discovery Snapshot — Laptop A]] · [[Vault Deep Linking Pass — 2026-05-06]] · [[Vault Linking Gaps & Bridge Opportunities — 2026-05-01]] · [[Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]
 
 **Version Genealogy**
-[[For Her Alone to Wield — Version Genealogy]] · [[Voodoo Doll as Archival Problem — Version Genealogy]] · [[Spider-Man — Version Genealogy]] · [[Reboot Performance Gender Identity — Version Genealogy]] · [[Agatha All Along Social Compass — Version Genealogy]] · [[Social Compass Reviewer Responses — Version Genealogy]] · [[Recursive AI Governance Very Long Narrative — Version Genealogy]] · [[Breath of the Astral Year — Version Genealogy]] · [[Alchemy of the Wound — Version Genealogy]] · [[Governance by Denial — Version Genealogy]] · [[Trust Advantage — Version Genealogy]] · [[Pagan Magic — Version Genealogy]] · [[Neo-Shamanism Gender Narratives — Version Genealogy]] · [[Unnatural Selection Jurassic Park — Version Genealogy]] · [[Pourquoi Rever Encore — Version Genealogy]] · [[First Method Paper — Version Genealogy]] · [[Queer Neo-Pagan Wicca Authenticity — Version Genealogy]] · [[Inner Goddess Wicca Gender — Version Genealogy]] · [[Magic After Legitimacy Charmed — Version Genealogy]] · [[CORPUS Novel — Version Genealogy]] · [[September 2024 Retrospective — Version Genealogy]] · [[Healthcare Packet — Version Genealogy]] · [[Sealed Card Protocol — Version Genealogy]] · [[Circle Remains Open — Version Genealogy]] · [[Wicca 2.0 — Version Genealogy]] · [[Martin Voice Spec — Version Genealogy]] · [[Martin Voice Spec — Stage Map]]
+[[For Her Alone to Wield — Version Genealogy]] · [[Voodoo Doll as Archival Problem — Version Genealogy]] · [[Spider-Man — Version Genealogy]] · [[Reboot Performance Gender Identity — Version Genealogy]] · [[Agatha All Along Social Compass — Version Genealogy]] · [[Social Compass Reviewer Responses — Version Genealogy]] · [[Recursive AI Governance Very Long Narrative — Version Genealogy]] · [[Breath of the Astral Year — Version Genealogy]] · [[Alchemy of the Wound — Version Genealogy]] · [[Governance by Denial — Version Genealogy]] · [[Trust Advantage — Version Genealogy]] · [[Pagan Magic — Version Genealogy]] · [[Neo-Shamanism Gender Narratives — Version Genealogy]] · [[Unnatural Selection Jurassic Park — Version Genealogy]] · [[Pourquoi Rever Encore — Version Genealogy]] · [[First Method Paper — Version Genealogy]] · [[Queer Neo-Pagan Wicca Authenticity — Version Genealogy]] · [[Inner Goddess Wicca Gender — Version Genealogy]] · [[Magic After Legitimacy Charmed — Version Genealogy]] · [[CORPUS Novel — Version Genealogy]] · [[September 2024 Retrospective — Version Genealogy]] · [[Healthcare Packet — Version Genealogy]] · [[Sealed Card Protocol — Version Genealogy]] · [[Circle Remains Open — Version Genealogy]] · [[Wicca 2.0 — Version Genealogy]] · [[Martin Voice Spec Root Genealogy|Martin Voice Spec — Version Genealogy]] · [[Martin Voice Spec Root Stage Map|Martin Voice Spec — Stage Map]]
 
 **Profile and Trackers**
 [[Martin Lepage — Professional Profile]] · [[Martin Lepage — AI Governance Consulting Profile Assessment]] · [[Master Project Tracker — 2026]]
@@ -201,3 +215,6 @@ A flat index organized by domain, for direct access without traversing a MOC.
 - [[Governance and PHAROS MOC]]
 - [[Writing and Novels MOC]]
 - [[Personal and Projects MOC]]
+
+## Research Themes
+- [[Research Themes]] — thematic hubs linking all papers and references by research topic.

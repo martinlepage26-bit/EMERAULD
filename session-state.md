@@ -375,3 +375,11 @@ nightly pass 2026-06-25 — phases 1-4 complete, 0 reconciled (no wiki notes car
 **Codex zero-orphan verification (2026-06-26):** Alias-aware recursive scan of `/home/martin/EMERAULD/wiki/**/*.md` verified **886 wiki notes, 0 zero-inbound orphans**. Regenerated `.graph_store`: **904 nodes, 8,980 directed edges, 16,082 link mentions, 1 connected component, 0 zero-backlink notes, 3,286 unresolved links**.
 
 **Morning agent (2026-06-26):** Health-check run — stale scan (7 wiki project notes, 8 Fisher King state files unchanged), overdue sweep (2 tasks in External Data Registry, 5th consecutive flag), daily note created at `memory/daily/2026-06-26.md`.
+
+## 2026-07-14 - Full recursive Documents/Downloads + EMERAULD raw-lane intake
+
+- Hard-moved 2621 verified non-duplicate external source artifacts into `raw/c-documents-downloads-full-recursive-2026-07-14/`.
+- Audited 1042 existing files in `raw/` and `raw sources/` in place.
+- Promoted 20 already-ingested source notes from `wiki/raw-sources/` to `wiki/source-notes/`.
+- Report: `raw/intake-report-c-documents-downloads-full-recursive-2026-07-14-apply.json`.
+- Cluster map: [[intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14]].

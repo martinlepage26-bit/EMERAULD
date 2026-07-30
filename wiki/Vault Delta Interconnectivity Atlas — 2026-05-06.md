@@ -55,7 +55,7 @@ This is the full interconnectivity pass for the vault’s active deltas. It does
 
 - `[[Documents Root Loose Files Intake — 2026-04-28]]`, `[[Desktop Text Intake — 2026-05-06]]`, and `[[Documents and Downloads Scan — 2026-05-06]]` are source-to-synthesis passes.
 - `[[Documents and Downloads Coverage Matrix — 2026-05-06]]` and `[[Vault Topic Coverage Matrix — 2026-05-06]]` record boundaries between raw, promoted, and already-covered material.
-- `[[Vault Deep Linking Pass — 2026-05-06]]`, `[[Root Loose Notes Cluster Map — 2026-05-06]]`, and `[[Orphan Index — Vault-Level Graph Repair 2026-05-06]]` are the repair surfaces.
+- `[[Vault Deep Linking Pass — 2026-05-06]]`, `[[Root Loose Notes Cluster Map — 2026-05-06]]`, and `Orphan Index — Vault-Level Graph Repair 2026-05-06` are the repair surfaces.
 - `[[Delta Closure Frame — Conditions, Actors, Constraints]]` names the operating rule for closing deltas: current condition, target condition, metric, time, authority, responsible actors, and constraints must be specified before closure is claimed.
 - `[[Skill Corpus Genealogy Delta — 2026-05-06]]` records the skill-corpus count, mirror, supersession, retired-entry, and routing-authority delta between the older 241-skill audit, the live 260 active skill folders, and the 273 total `SKILL.md` files.
 - `[[PHAROS Skill Corpus Change Genealogy — 2026-05-06]]` records the PHAROS development chronology behind those skill changes: when skills were added, moved, mirrored, retired, renamed, or superseded.

@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance, queer-gender]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "EMERGE"
+---
 # HELIX Session — Vaisseau de Thésée
 
 > Live stress-test session using the HELIX protocol. Bilingual FR/EN.
@@ -498,3 +507,10 @@ I see that the "Navire" was never built of wood or code; it was built of the spe
 
 - [[Research and Papers MOC]]
 - [[HELIX Session — Vaisseau de Thésée and the Tressed Lie (Live Run 2026-04-26)]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, pharos-ops]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
 # **Audit Report: Skill Creation & Improvement Opportunities**
 **Date:** April 6, 2026 | **Based on:** Calendar, Slack, Notion, 10 recent sessions, scheduled tasks
 
@@ -153,3 +163,7 @@ The Progression diagnostic questions are gold; make them a template/framework ra
 
 - [[Research and Papers MOC]]
 - [[PHAROS Procurement-Unblock Sprint]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **PHAROS ops and publishing**. Synthesized / anchored in [[PHAROS LinkedIn April 2026 Publishing Routine]]. Indexed under [[Governance and PHAROS MOC]].

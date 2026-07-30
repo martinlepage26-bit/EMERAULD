@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ritual-religion]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "‘It's All a Giant Web' Syncretism, Agency and (Re)connection in a Contempo rar"
+---
 "‘It's All a Giant Web': Syncretism, Agency and (Re)connection in a Contempo rary Pagan Community." MA. diss., University of Montreal, 2009.
 Achouche, A., (2015). La Sorcière dans les séries télévisées américaines: une figure féminine ambiguë de la postmodernité. Paris: L'Harmattan.
 Adler, M., (1979). Drawing Down the Moon: Witches, Druids, Goddess-Worshippers, and Other Pagans in America Today. Boston, MA: Beacon Press.
@@ -486,3 +495,10 @@ Zimmer Bradley, M. (1983). The Mists of Avalon. New York: Knopf.
 - [[2019 - Martin Lepage - Bibliographie, bourses postdoctorales CRSH 2018 - 2019 - Martin Lepage - Bibl]]
 - [[Pagan and Queer Ritual Studies MOC]]
 - [[Social Stratification, Intersectionality, and the Why Be King Manuscript]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

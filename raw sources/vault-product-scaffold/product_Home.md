@@ -32,3 +32,8 @@ Welcome to your vault. This is the entry point.
 3. Drop a real note into `raw/`, then ask your agent to synthesize it into `wiki/`.
 
 That's the loop. Everything else builds from here.
+
+## Related
+
+- [[EMERAULD]]
+- [[Home]]

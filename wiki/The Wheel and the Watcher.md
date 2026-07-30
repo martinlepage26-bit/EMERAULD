@@ -1,7 +1,7 @@
 # The Wheel and the Watcher
 
 ## Summary
-Academic article submitted to *AI & Society*. Uses Buddhist process ontology (samsara/anatta) as an analytical frame for the question of AI consciousness and self-evaluation. The "Are you conscious?" prompt is treated as a governance koan, not a metaphysical question. Three conceptual tools from the [[Self-Polygraph Protocol and Suprametacognition]] experiment — deterministic recursion, suprametacognition, and the booby trap — are introduced as technical vocabulary. Related to [[Recursive Deterministic AI Governance — Method and Paper]] and [[Self-Polygraph Protocol and Suprametacognition]].
+Academic article submitted to *AI & Society*. Uses Buddhist process ontology (samsara/anatta) as an analytical frame for the question of AI consciousness and self-evaluation. The "Are you conscious?" prompt is treated as a governance koan, not a metaphysical question. Three conceptual tools from the [[Self-Polygraph Protocol and Suprametacognition]] experiment — deterministic recursion, suprametacognition, and the booby trap — are introduced as technical vocabulary. Related to [[Recursive Deterministic AI Governance — Method and Paper]], [[Self-Polygraph Protocol and Suprametacognition]], and [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 ## Context
 Source: `06_The_Wheel_and_the_Watcher.docx`. This is the companion theoretical paper to the Self-Polygraph Protocol empirical work. Where the protocol produces experimental findings, this paper provides the philosophical framework for interpreting them. The Buddhist frame is not decorative — it is the analytical resource for thinking about process identity (anatta) and recursive return (samsara) in systems that produce outputs by processing prior outputs.
@@ -85,3 +85,4 @@ The Buddhist frame offers a different resolution: the watcher is *also* a proces
 - Related: [[Recursive Deterministic AI Governance — Method and Paper]]
 - Related: [[PHAROS Invention Disclosure]]
 - Related: [[Recursive Continuity Without Memory — AI Identity Across Sessions]]
+- Related: [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]

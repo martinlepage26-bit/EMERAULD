@@ -17,7 +17,7 @@ Bounded status of active operator threads as of 2026-05-14. Sources: [[Source Cl
 
 ### DG — ExterminationDG
 
-- **Source:** [[raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note.md]], [[memory/clients/ExterminationDG.md]]
+- **Source:** [[source-notes/operator-continuity/2026-04-25 — DG waiting on client picks — Source Note]], [[memory/clients/ExterminationDG.md]]
 - Site built and deployed at extermination-dg.com (Phase C complete 2026-04-29)
 - Contract sent 2026-05-05. Balance: $2,000 CAD due on signature.
 - Soft launch target: **May 20** — 6 days from today.
@@ -26,7 +26,7 @@ Bounded status of active operator threads as of 2026-05-14. Sources: [[Source Cl
 
 ### Santé-France
 
-- **Source:** [[raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note.md]], [[memory/clients/Sante-France.md]]
+- **Source:** [[source-notes/misc-source-notes/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note]], [[memory/clients/Sante-France.md]]
 - Phase 0 deferred — operator decision 2026-04-26.
 - Full Quebec-adapted core dossier delivered (2026-04-24, ~1600 lines).
 - No client action required in the interim.
@@ -34,14 +34,14 @@ Bounded status of active operator threads as of 2026-05-14. Sources: [[Source Cl
 
 ### Commercial Posture
 
-- **Source:** [[raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note.md]]
+- **Source:** [[source-notes/operator-continuity/2026-04-25 — Stop coding, clean, package, send — Source Note]]
 - Stated posture: stop building new, commercialize what exists.
 - **Verified drift signal:** multiple new system-building sessions since April 25. Posture is named but not enforced.
 - **Immediate action:** before starting any new build task this week, name what you are refusing to touch.
 
 ### The Lost-Loop Pattern
 
-- **Source:** [[raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note.md]], [[The Lost-Loop Pattern — Avoidance Through System-Building]]
+- **Source:** [[source-notes/operator-continuity/2026-04-25 — The lost-loop pattern — Source Note]], [[The Lost-Loop Pattern — Avoidance Through System-Building]]
 - Pattern: ask agent to build system → overwhelm → "I'm lost" → next agent, same thing in new packaging.
 - Today's instance: frustrated that Claude and Codex don't help finish things → this conversation.
 - **Root:** the system-shopping fires when something else is hard. The hard things right now are: DG follow-up, SF re-prioritization, outreach Day 0 send.

@@ -761,6 +761,11 @@
   },
   {
     "source": "AI Identity and Phenomenology",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 1
+  },
+  {
+    "source": "AI Identity and Phenomenology",
     "target": "Embedding Before Rupture — Relational AI and Institutional Power",
     "count": 1
   },
@@ -892,6 +897,11 @@
   {
     "source": "AI Infrastructure Stack",
     "target": "Agent Distillation Pipeline",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
+    "target": "Agent Logs Hub",
     "count": 1
   },
   {
@@ -1121,6 +1131,11 @@
   },
   {
     "source": "AI Infrastructure Stack",
+    "target": "Workflows Hub",
+    "count": 1
+  },
+  {
+    "source": "AI Infrastructure Stack",
     "target": "claude-mem — Persistent Memory Compression for Claude Code",
     "count": 1
   },
@@ -1343,6 +1358,11 @@
     "source": "AI Self-Report — Epistemic Status Recursion and Perturbation",
     "target": "AI Ethics Literature — Contestable Governance Artifacts",
     "count": 2
+  },
+  {
+    "source": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 3
   },
   {
     "source": "AI Self-Report — Epistemic Status Recursion and Perturbation",
@@ -1611,11 +1631,6 @@
   },
   {
     "source": "APEX Papers — Research Archive Map",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 1
-  },
-  {
-    "source": "APEX Papers — Research Archive Map",
     "target": "PHAROS",
     "count": 2
   },
@@ -1627,6 +1642,11 @@
   {
     "source": "APEX Papers — Research Archive Map",
     "target": "RECURSO — Recursive Governance Test Archive",
+    "count": 1
+  },
+  {
+    "source": "APEX Papers — Research Archive Map",
+    "target": "genealogy/Martin Voice Spec — Version Genealogy",
     "count": 1
   },
   {
@@ -1906,6 +1926,11 @@
   },
   {
     "source": "Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 2
+  },
+  {
+    "source": "Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
     "target": "Fluency and Interruption Theory",
     "count": 1
   },
@@ -2003,6 +2028,11 @@
     "source": "Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
     "target": "Crossing Under Watch — Troll's Toll and Digital Ritual Passage",
     "count": 2
+  },
+  {
+    "source": "Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 1
   },
   {
     "source": "Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
@@ -2361,6 +2391,11 @@
   },
   {
     "source": "Agent Session Phenomenology",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 1
+  },
+  {
+    "source": "Agent Session Phenomenology",
     "target": "HEPHAISTOS Co-Equal Authority Cleanup — Wave 1 and 2 (2026-04-18)",
     "count": 1
   },
@@ -2503,6 +2538,11 @@
     "source": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
     "target": "Consent and Boundary Frameworks",
     "count": 1
+  },
+  {
+    "source": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 3
   },
   {
     "source": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
@@ -2806,6 +2846,11 @@
   },
   {
     "source": "Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)",
+    "target": "Workspace Cleanup Ledger — 2026-05-31",
+    "count": 1
+  },
+  {
+    "source": "Argus Audit — Phase 3A-3B-3C-3D Relinking Campaign (2026-05-06)",
     "target": "session-state",
     "count": 1
   },
@@ -2928,6 +2973,11 @@
     "source": "Authority After Legitimacy — Disenchantment and Queer Political Theory",
     "target": "Authority, Legitimacy, and Post-Sovereignty",
     "count": 2
+  },
+  {
+    "source": "Authority After Legitimacy — Disenchantment and Queer Political Theory",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 1
   },
   {
     "source": "Authority After Legitimacy — Disenchantment and Queer Political Theory",
@@ -3213,6 +3263,11 @@
     "source": "Authority, Legitimacy, and Post-Sovereignty",
     "target": "DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture",
     "count": 1
+  },
+  {
+    "source": "Authority, Legitimacy, and Post-Sovereignty",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 3
   },
   {
     "source": "Authority, Legitimacy, and Post-Sovereignty",
@@ -6355,6 +6410,126 @@
     "count": 1
   },
   {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "AI Self-Report — Epistemic Status Recursion and Perturbation",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Addiction by Design — Schüll 2012 (Machine Gambling and the Zone)",
+    "count": 2
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Agent Session Phenomenology",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Algorithmic Agentic AI and Governance — From Hegemonic Fluency to the Ethics of Interruption",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Authority After Legitimacy — Disenchantment and Queer Political Theory",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Authority, Legitimacy, and Post-Sovereignty",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "EMERAULD Cluster Graph — Deferred Authority, Fluency, and Memory",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "EMERAULD Full Vault Map — Major Cluster Families and Bridge Surfaces",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Embedding Before Rupture — Relational AI and Institutional Power",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Fluency and Interruption Theory",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Fluency, Interruption, and Institutional Accountability",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Governance by Denial",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Recursive Continuity Without Memory — AI Identity Across Sessions",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Recursive Governance Theory",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Smallest Building Block — Relation as Rule",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Social Compass Paper — Ritual Authority and Régime de Preuve",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "The Compulsion to Complete — AI as Gap-Closer",
+    "count": 2
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "The Returning Light — Monograph",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "The Wheel and the Watcher",
+    "count": 1
+  },
+  {
+    "source": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "target": "Voodoo Doll — Archival Governance and Colonial Naming",
+    "count": 1
+  },
+  {
     "source": "Delta Closure Frame — Conditions, Actors, Constraints",
     "target": "Evidence Discipline and Epistemics",
     "count": 1
@@ -7141,102 +7316,102 @@
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
+    "target": "source-notes/cultural-lyric-corpus/Alchimie et Histoire des Sciences — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "target": "source-notes/cultural-lyric-corpus/MIA PAPERS planes lyrics — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
+    "target": "source-notes/cultural-lyric-corpus/The Ballad of the Witches' Road — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "target": "source-notes/cultural-lyric-corpus/gaga gisease lyrics — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
+    "target": "source-notes/governance-platform-signals/AI is speeding into healthcare. Who should regulate it — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
+    "target": "source-notes/misc-source-notes/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
+    "target": "source-notes/misc-source-notes/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
+    "target": "source-notes/misc-source-notes/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
+    "target": "source-notes/misc-source-notes/Complete solutions, not compromises — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "target": "source-notes/misc-source-notes/Email Député Guilbault AE — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
+    "target": "source-notes/misc-source-notes/Reddit Data API Wiki — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
+    "target": "source-notes/operator-continuity/2026-04-25 — DG waiting on client picks — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
+    "target": "source-notes/operator-continuity/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
+    "target": "source-notes/operator-continuity/2026-04-25 — Stop coding, clean, package, send — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
+    "target": "source-notes/operator-continuity/2026-04-25 — The lost-loop pattern — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/Skills as self-operators — Source Note",
     "count": 1
   },
   {
     "source": "Documents Root Loose Files Intake — 2026-04-28",
-    "target": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/WIP recruso paper — Source Note",
     "count": 1
   },
   {
@@ -7645,6 +7820,91 @@
     "count": 1
   },
   {
+    "source": "EMERAULD Cluster Graph — Deferred Authority, Fluency, and Memory",
+    "target": "AI Identity and Phenomenology",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Cluster Graph — Deferred Authority, Fluency, and Memory",
+    "target": "Authority, Legitimacy, and Post-Sovereignty",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Cluster Graph — Deferred Authority, Fluency, and Memory",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 2
+  },
+  {
+    "source": "EMERAULD Cluster Graph — Deferred Authority, Fluency, and Memory",
+    "target": "EMERAULD Full Vault Map — Major Cluster Families and Bridge Surfaces",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Cluster Graph — Deferred Authority, Fluency, and Memory",
+    "target": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Cluster Graph — Deferred Authority, Fluency, and Memory",
+    "target": "Fluency and Interruption Theory",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Cluster Graph — Deferred Authority, Fluency, and Memory",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Cluster Graph — Deferred Authority, Fluency, and Memory",
+    "target": "Recursive Governance Theory",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Cluster Graph — Deferred Authority, Fluency, and Memory",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Full Vault Map — Major Cluster Families and Bridge Surfaces",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 2
+  },
+  {
+    "source": "EMERAULD Full Vault Map — Major Cluster Families and Bridge Surfaces",
+    "target": "EMERAULD Cluster Graph — Deferred Authority, Fluency, and Memory",
+    "count": 2
+  },
+  {
+    "source": "EMERAULD Full Vault Map — Major Cluster Families and Bridge Surfaces",
+    "target": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Full Vault Map — Major Cluster Families and Bridge Surfaces",
+    "target": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Full Vault Map — Major Cluster Families and Bridge Surfaces",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Full Vault Map — Major Cluster Families and Bridge Surfaces",
+    "target": "Pagan and Queer Ritual Studies MOC",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Full Vault Map — Major Cluster Families and Bridge Surfaces",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Full Vault Map — Major Cluster Families and Bridge Surfaces",
+    "target": "Writing and Novels MOC",
+    "count": 1
+  },
+  {
     "source": "EMERAULD Graph Architecture — Link Density and Vector Layer (2026-05-25)",
     "target": "AI Infrastructure Stack",
     "count": 2
@@ -7801,7 +8061,17 @@
   },
   {
     "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 5
+  },
+  {
+    "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
     "target": "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)",
+    "count": 1
+  },
+  {
+    "source": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
+    "target": "EMERAULD Full Vault Map — Major Cluster Families and Bridge Surfaces",
     "count": 1
   },
   {
@@ -8246,6 +8516,11 @@
   },
   {
     "source": "Embedding Before Rupture — Relational AI and Institutional Power",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 1
+  },
+  {
+    "source": "Embedding Before Rupture — Relational AI and Institutional Power",
     "target": "EMERAULD Thematic Analysis — Claude-Codex Pass (2026-05-25)",
     "count": 1
   },
@@ -8592,6 +8867,11 @@
   {
     "source": "Ethnographic Data Loss — Ethics Decision and Publication Disclaimer",
     "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "Ethnographic Data Loss — Ethics Decision and Publication Disclaimer",
+    "target": "PHAROS Scholarly Publication Track",
     "count": 1
   },
   {
@@ -9141,6 +9421,11 @@
   },
   {
     "source": "Fisher King Hub — Project Recovery Map",
+    "target": "Daily Dashboard",
+    "count": 1
+  },
+  {
+    "source": "Fisher King Hub — Project Recovery Map",
     "target": "EMERAULD",
     "count": 1
   },
@@ -9316,6 +9601,11 @@
   },
   {
     "source": "Fluency and Interruption Theory",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 2
+  },
+  {
+    "source": "Fluency and Interruption Theory",
     "target": "Diamond-Eyes — Aesthetic Refinement Skill",
     "count": 1
   },
@@ -9437,6 +9727,11 @@
   {
     "source": "Fluency, Interruption, and Institutional Accountability",
     "target": "Consent and Boundary Frameworks",
+    "count": 1
+  },
+  {
+    "source": "Fluency, Interruption, and Institutional Accountability",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
     "count": 1
   },
   {
@@ -11351,6 +11646,11 @@
   },
   {
     "source": "Governance and PHAROS MOC",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 1
+  },
+  {
+    "source": "Governance and PHAROS MOC",
     "target": "Delta Closure Frame — Conditions, Actors, Constraints",
     "count": 2
   },
@@ -12366,6 +12666,11 @@
   },
   {
     "source": "Governance by Denial",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 1
+  },
+  {
+    "source": "Governance by Denial",
     "target": "Governance by Denial — Version Genealogy",
     "count": 1
   },
@@ -12622,6 +12927,11 @@
   {
     "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
     "target": "Agent Session Phenomenology",
+    "count": 1
+  },
+  {
+    "source": "HELIX Desktop Corpus — Protocol Evolution and Stress-Test Runs (2026-05-06)",
+    "target": "EU AI Act and Law 25 — Regulatory Pressure Window",
     "count": 1
   },
   {
@@ -14046,6 +14356,11 @@
   },
   {
     "source": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
+    "target": "Manuscript Pipeline MOC",
+    "count": 1
+  },
+  {
+    "source": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "target": "Martin Lepage Publications — Annotated Bibliography and Verification Leads",
     "count": 2
   },
@@ -14236,6 +14551,11 @@
   },
   {
     "source": "Home",
+    "target": "Agent Logs Hub",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "Agent Session Phenomenology",
     "count": 1
   },
@@ -14387,6 +14707,11 @@
   {
     "source": "Home",
     "target": "D Drive Scan — 2026-05-12",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Daily Dashboard",
     "count": 1
   },
   {
@@ -14586,6 +14911,11 @@
   },
   {
     "source": "Home",
+    "target": "Knowledge Gaps",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "LOTUS Model and Agency",
     "count": 1
   },
@@ -14736,11 +15066,6 @@
   },
   {
     "source": "Home",
-    "target": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "count": 2
-  },
-  {
-    "source": "Home",
     "target": "PHAROS",
     "count": 1
   },
@@ -14811,6 +15136,11 @@
   },
   {
     "source": "Home",
+    "target": "Personal OS",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "Personal and Projects MOC",
     "count": 3
   },
@@ -14832,6 +15162,11 @@
   {
     "source": "Home",
     "target": "Pourquoi rêver encore — Lecture allégorique et métaphysique d'Yvon Rivard",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Projects Hub",
     "count": 1
   },
   {
@@ -15186,6 +15521,11 @@
   },
   {
     "source": "Home",
+    "target": "VoiceBridge Foundation",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "Voodoo Doll as Archival Problem — Version Genealogy",
     "count": 1
   },
@@ -15211,17 +15551,42 @@
   },
   {
     "source": "Home",
+    "target": "Workflows Hub",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "Workspace Cleanup Ledger — 2026-05-31",
+    "count": 1
+  },
+  {
+    "source": "Home",
     "target": "Writing and Novels MOC",
     "count": 2
   },
   {
     "source": "Home",
-    "target": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
+    "target": "memory",
     "count": 1
   },
   {
     "source": "Home",
-    "target": "memory",
+    "target": "skills/ask-vault",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "skills/trace-investigator",
+    "count": 1
+  },
+  {
+    "source": "Home",
+    "target": "skills/vault-graph-hygiene",
+    "count": 1
+  },
+  {
+    "source": "Host Environment — pharos-corpus-runner-01",
+    "target": "Agent Distillation Pipeline",
     "count": 1
   },
   {
@@ -15316,17 +15681,17 @@
   },
   {
     "source": "IP and Manuscript Brief — 2026-05-14",
-    "target": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
     "count": 1
   },
   {
     "source": "IP and Manuscript Brief — 2026-05-14",
-    "target": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
     "count": 1
   },
   {
     "source": "IP and Manuscript Brief — 2026-05-14",
-    "target": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/WIP recruso paper — Source Note",
     "count": 1
   },
   {
@@ -17721,6 +18086,11 @@
   },
   {
     "source": "MASTER REFERENCE SAFE — Canonical Bibliography System",
+    "target": "PHAROS Scholarly Publication Track",
+    "count": 1
+  },
+  {
+    "source": "MASTER REFERENCE SAFE — Canonical Bibliography System",
     "target": "Personal and Projects MOC",
     "count": 1
   },
@@ -18891,11 +19261,6 @@
   },
   {
     "source": "Martin Lepage — Authored Skills",
-    "target": "Trace Investigator",
-    "count": 1
-  },
-  {
-    "source": "Martin Lepage — Authored Skills",
     "target": "Vault Graph Hygiene — Content Title Normalization Skill",
     "count": 1
   },
@@ -18992,6 +19357,11 @@
   {
     "source": "Martin Lepage — Authored Skills",
     "target": "skills/tabula-rasa",
+    "count": 1
+  },
+  {
+    "source": "Martin Lepage — Authored Skills",
+    "target": "skills/trace-investigator",
     "count": 1
   },
   {
@@ -19311,11 +19681,6 @@
   },
   {
     "source": "Martin Voice Spec — Stage Map",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 2
-  },
-  {
-    "source": "Martin Voice Spec — Stage Map",
     "target": "PHAROS Final Voice Operator — GPT Creator",
     "count": 1
   },
@@ -19327,6 +19692,11 @@
   {
     "source": "Martin Voice Spec — Stage Map",
     "target": "Version Genealogy System",
+    "count": 2
+  },
+  {
+    "source": "Martin Voice Spec — Stage Map",
+    "target": "genealogy/Martin Voice Spec — Version Genealogy",
     "count": 2
   },
   {
@@ -19357,11 +19727,6 @@
   {
     "source": "Martin Voice Spec — Version Genealogy",
     "target": "Martin Lepage Professional Identity",
-    "count": 2
-  },
-  {
-    "source": "Martin Voice Spec — Version Genealogy",
-    "target": "Martin Voice Spec — Stage Map",
     "count": 2
   },
   {
@@ -19397,7 +19762,7 @@
   {
     "source": "Martin Voice Spec — Version Genealogy",
     "target": "genealogy/Martin Voice Spec — Stage Map",
-    "count": 1
+    "count": 3
   },
   {
     "source": "Martin Voice Spec — Version Genealogy",
@@ -19532,6 +19897,36 @@
   {
     "source": "Masculinités et ritualités — La magie chez les Radical Faeries",
     "target": "Why be king Im already a queen — Lepage 2017 (PhD thesis, UQAM)",
+    "count": 1
+  },
+  {
+    "source": "Master Annotated Reference List",
+    "target": "Governance and PHAROS MOC",
+    "count": 2
+  },
+  {
+    "source": "Master Annotated Reference List",
+    "target": "MASTER REFERENCE SAFE — Canonical Bibliography System",
+    "count": 3
+  },
+  {
+    "source": "Master Annotated Reference List",
+    "target": "Master Bibliography — Références bibliographiques 2025",
+    "count": 2
+  },
+  {
+    "source": "Master Annotated Reference List",
+    "target": "Master Reference Bridge Atlas — 2026-05-06",
+    "count": 2
+  },
+  {
+    "source": "Master Annotated Reference List",
+    "target": "Research and Papers MOC",
+    "count": 2
+  },
+  {
+    "source": "Master Annotated Reference List",
+    "target": "Writing and Novels MOC",
     "count": 1
   },
   {
@@ -21861,22 +22256,22 @@
   },
   {
     "source": "Operator Continuity Memo — 2026-05-14",
-    "target": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
+    "target": "source-notes/misc-source-notes/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
     "count": 1
   },
   {
     "source": "Operator Continuity Memo — 2026-05-14",
-    "target": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
+    "target": "source-notes/operator-continuity/2026-04-25 — DG waiting on client picks — Source Note",
     "count": 1
   },
   {
     "source": "Operator Continuity Memo — 2026-05-14",
-    "target": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "target": "source-notes/operator-continuity/2026-04-25 — Stop coding, clean, package, send — Source Note",
     "count": 1
   },
   {
     "source": "Operator Continuity Memo — 2026-05-14",
-    "target": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
+    "target": "source-notes/operator-continuity/2026-04-25 — The lost-loop pattern — Source Note",
     "count": 1
   },
   {
@@ -21930,131 +22325,6 @@
     "count": 1
   },
   {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "PROTOCOLS — Debate and Red-Team Runbook",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/CO-EQUAL-AUTHORITY-DECISION",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/Ethical Ground Values",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/Governance Stress-Test Protocols Index",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/Orphan Index — Artifacts And Archives — 2026-05-06",
-    "count": 2
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/Orphan Index — Operations And Misc — 2026-05-06",
-    "count": 2
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
-    "count": 2
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/Orphan Index — Raw Sources — 2026-05-06",
-    "count": 2
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/Orphan Index — Root Loose Notes — 2026-05-06",
-    "count": 2
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "count": 2
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/agent-evaluation",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/ai-product",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/brief-to-tasks",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/diamond-eyes",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/doc",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/first-principles",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/free-tool-strategy",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/hermes-dependency-mapper",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/hermes-escalation-router",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/inner-mind-eye",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/ma-degree-guide",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/repo-logo-generator",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/triangulation",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/ux-researcher-designer",
-    "count": 1
-  },
-  {
-    "source": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "target": "archive/web-scraping",
-    "count": 1
-  },
-  {
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
     "target": "AI Personas — Agatha, DOTTIE, and MOBI",
     "count": 1
@@ -22076,22 +22346,22 @@
   },
   {
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
-    "target": "Martin Voice Spec — Stage Map",
-    "count": 1
-  },
-  {
-    "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 2
-  },
-  {
-    "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
     "target": "SYSTEM CHECK",
     "count": 1
   },
   {
     "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
     "target": "Version Genealogy System",
+    "count": 2
+  },
+  {
+    "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
+    "target": "genealogy/Martin Voice Spec — Stage Map",
+    "count": 1
+  },
+  {
+    "source": "PAPER BUILDER — Source Bundle and HENRY Origin",
+    "target": "genealogy/Martin Voice Spec — Version Genealogy",
     "count": 2
   },
   {
@@ -22331,6 +22601,11 @@
   },
   {
     "source": "PHAROS AI Lineage — Source of Truth",
+    "target": "CLAUDEX — AI Dialogue Archive",
+    "count": 1
+  },
+  {
+    "source": "PHAROS AI Lineage — Source of Truth",
     "target": "Documents Root Loose Files Intake — 2026-04-28",
     "count": 2
   },
@@ -22403,6 +22678,11 @@
     "source": "PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
     "target": "PHAROS Procurement-Unblock Sprint",
     "count": 2
+  },
+  {
+    "source": "PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
+    "target": "Personal OS",
+    "count": 1
   },
   {
     "source": "PHAROS AI SEO Audit — Pre-Launch Readiness (2026-05-01)",
@@ -22652,6 +22932,11 @@
   {
     "source": "PHAROS Commercial Strategy",
     "target": "OpenAI Governance Framework — Comparison with PHAROS",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Commercial Strategy",
+    "target": "PHAROS AI Governance Service — Offer Architecture and Outreach Templates",
     "count": 1
   },
   {
@@ -23831,6 +24116,11 @@
   },
   {
     "source": "PHAROS Scholarly Publication Track",
+    "target": "Knowledge Gaps",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
     "target": "Loop Papers and Recursive Governance",
     "count": 1
   },
@@ -23886,6 +24176,11 @@
   },
   {
     "source": "PHAROS Scholarly Publication Track",
+    "target": "PHAROS External Proof Packet — Procurement-Unblock 2026-04-28",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
     "target": "PHAROS Invention Disclosure",
     "count": 1
   },
@@ -23937,6 +24232,11 @@
   {
     "source": "PHAROS Scholarly Publication Track",
     "target": "Recursive Governance Theory",
+    "count": 1
+  },
+  {
+    "source": "PHAROS Scholarly Publication Track",
+    "target": "Refusing Fixity — Aesthetic Governance and Fugitive Authorship",
     "count": 1
   },
   {
@@ -24463,6 +24763,11 @@
     "source": "Pagan Magic — Version Genealogy",
     "target": "Historical Academic Portfolio — Pre-PHAROS Scholarly Work",
     "count": 2
+  },
+  {
+    "source": "Pagan Magic — Version Genealogy",
+    "target": "Queering Neo-Pagan Magic — MRW Submission (2026)",
+    "count": 1
   },
   {
     "source": "Pagan Magic — Version Genealogy",
@@ -25881,6 +26186,11 @@
   },
   {
     "source": "Personal and Projects MOC",
+    "target": "VoiceBridge Foundation",
+    "count": 1
+  },
+  {
+    "source": "Personal and Projects MOC",
     "target": "WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter",
     "count": 1
   },
@@ -27086,6 +27396,11 @@
   },
   {
     "source": "Queer Sociology of Magic and Ritual",
+    "target": "Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)",
+    "count": 1
+  },
+  {
+    "source": "Queer Sociology of Magic and Ritual",
     "target": "Queer Neo-Pagan Spiritualities and the Question of Authenticity in Wicca",
     "count": 1
   },
@@ -27666,6 +27981,11 @@
   },
   {
     "source": "Queering Neo-Pagan Magic — 2026 Paper",
+    "target": "Queering Neo-Pagan Magic — FINAL FINAL PAPER",
+    "count": 1
+  },
+  {
+    "source": "Queering Neo-Pagan Magic — 2026 Paper",
     "target": "Queering Neo-Pagan Magic — Identity Power and the Uses of Magic",
     "count": 3
   },
@@ -28046,6 +28366,11 @@
   },
   {
     "source": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 2
+  },
+  {
+    "source": "RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis",
     "target": "Fluency, Interruption, and Institutional Accountability",
     "count": 6
   },
@@ -28406,6 +28731,11 @@
   },
   {
     "source": "Recursive Continuity Without Memory — AI Identity Across Sessions",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 3
+  },
+  {
+    "source": "Recursive Continuity Without Memory — AI Identity Across Sessions",
     "target": "Loop Papers and Recursive Governance",
     "count": 3
   },
@@ -28438,6 +28768,11 @@
     "source": "Recursive Continuity Without Memory — AI Identity Across Sessions",
     "target": "Self-Polygraph Protocol and Suprametacognition",
     "count": 4
+  },
+  {
+    "source": "Recursive Continuity Without Memory — AI Identity Across Sessions",
+    "target": "The Compulsion to Complete — AI as Gap-Closer",
+    "count": 1
   },
   {
     "source": "Recursive Continuity Without Memory — AI Identity Across Sessions",
@@ -28693,6 +29028,11 @@
     "source": "Recursive Governance Theory",
     "target": "Care, Ethics, and Governance",
     "count": 1
+  },
+  {
+    "source": "Recursive Governance Theory",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 2
   },
   {
     "source": "Recursive Governance Theory",
@@ -29541,6 +29881,11 @@
   },
   {
     "source": "Research and Papers MOC",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
     "target": "Diagnostic Accuracy of Multimodal Neuroimaging + Eye-Tracking in Schizophrenia — Draft Snapshot (2026-05-10)",
     "count": 1
   },
@@ -29796,6 +30141,11 @@
   },
   {
     "source": "Research and Papers MOC",
+    "target": "MASTER REFERENCE SAFE — Canonical Bibliography System",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
     "target": "Magic After Legitimacy — Charmed and the Governance of Female Power",
     "count": 1
   },
@@ -29832,6 +30182,11 @@
   {
     "source": "Research and Papers MOC",
     "target": "Masculinités et ritualités — La magie chez les Radical Faeries",
+    "count": 1
+  },
+  {
+    "source": "Research and Papers MOC",
+    "target": "Master Annotated Reference List",
     "count": 1
   },
   {
@@ -30946,11 +31301,6 @@
   },
   {
     "source": "Root Loose Notes Cluster Map — 2026-05-06",
-    "target": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "Root Loose Notes Cluster Map — 2026-05-06",
     "target": "PHAROS AI Commercial Launch — 8-Stream Deploy (2026-05-01)",
     "count": 1
   },
@@ -31306,16 +31656,6 @@
   },
   {
     "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Martin Voice Spec — Stage Map",
-    "count": 2
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 2
-  },
-  {
-    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
     "target": "Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)",
     "count": 2
   },
@@ -31361,6 +31701,16 @@
   },
   {
     "source": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "genealogy/Martin Voice Spec — Stage Map",
+    "count": 2
+  },
+  {
+    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
+    "target": "genealogy/Martin Voice Spec — Version Genealogy",
+    "count": 2
+  },
+  {
+    "source": "Second Self System Identity Kernel and Agent Routing Architecture",
     "target": "memory",
     "count": 1
   },
@@ -31398,16 +31748,6 @@
     "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "target": "InfraFabric Codex Alignment — System-Shaper Frame",
     "count": 1
-  },
-  {
-    "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
-    "target": "Martin Voice Spec — Stage Map",
-    "count": 2
-  },
-  {
-    "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 2
   },
   {
     "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
@@ -31453,6 +31793,16 @@
     "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "target": "VAULT ADDITIONS TRACKER",
     "count": 1
+  },
+  {
+    "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
+    "target": "genealogy/Martin Voice Spec — Stage Map",
+    "count": 2
+  },
+  {
+    "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
+    "target": "genealogy/Martin Voice Spec — Version Genealogy",
+    "count": 2
   },
   {
     "source": "Second Self System — Identity Kernel and Agent Routing Architecture",
@@ -33891,11 +34241,6 @@
   },
   {
     "source": "Skill Domain — Governance and Method",
-    "target": "Trace Investigator",
-    "count": 2
-  },
-  {
-    "source": "Skill Domain — Governance and Method",
     "target": "maps/PHAROS Method Map",
     "count": 2
   },
@@ -33958,6 +34303,11 @@
     "source": "Skill Domain — Governance and Method",
     "target": "skills/three-agent-audit",
     "count": 1
+  },
+  {
+    "source": "Skill Domain — Governance and Method",
+    "target": "skills/trace-investigator",
+    "count": 2
   },
   {
     "source": "Skill Domain — Governance and Method",
@@ -34352,7 +34702,7 @@
   {
     "source": "Skill Domain — Vault and Knowledge",
     "target": "Vault Graph Hygiene — Content Title Normalization Skill",
-    "count": 2
+    "count": 1
   },
   {
     "source": "Skill Domain — Vault and Knowledge",
@@ -34418,6 +34768,11 @@
     "source": "Skill Domain — Vault and Knowledge",
     "target": "skills/tabula-rasa",
     "count": 2
+  },
+  {
+    "source": "Skill Domain — Vault and Knowledge",
+    "target": "skills/vault-graph-hygiene",
+    "count": 1
   },
   {
     "source": "Skill Domain — Writing and Humanization",
@@ -35266,6 +35621,21 @@
   },
   {
     "source": "Social Compass Paper — Ritual Authority and Régime de Preuve",
+    "target": "Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes",
+    "count": 1
+  },
+  {
+    "source": "Social Compass Paper — Ritual Authority and Régime de Preuve",
+    "target": "Authority After Legitimacy — Disenchantment and Queer Political Theory",
+    "count": 1
+  },
+  {
+    "source": "Social Compass Paper — Ritual Authority and Régime de Preuve",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 3
+  },
+  {
+    "source": "Social Compass Paper — Ritual Authority and Régime de Preuve",
     "target": "Emotional Alliance vs. Evidentiary Discipline in AI",
     "count": 3
   },
@@ -35656,12 +36026,12 @@
   },
   {
     "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "target": "session-state",
     "count": 1
   },
   {
     "source": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "target": "session-state",
+    "target": "source-notes/misc-source-notes/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
     "count": 1
   },
   {
@@ -35686,32 +36056,32 @@
   },
   {
     "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
+    "target": "source-notes/misc-source-notes/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "target": "source-notes/misc-source-notes/Email Député Guilbault AE — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
+    "target": "source-notes/operator-continuity/2026-04-25 — DG waiting on client picks — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "target": "source-notes/operator-continuity/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
+    "target": "source-notes/operator-continuity/2026-04-25 — Stop coding, clean, package, send — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "target": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
+    "target": "source-notes/operator-continuity/2026-04-25 — The lost-loop pattern — Source Note",
     "count": 1
   },
   {
@@ -35736,22 +36106,22 @@
   },
   {
     "source": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "target": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
+    "target": "source-notes/cultural-lyric-corpus/Alchimie et Histoire des Sciences — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "target": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
+    "target": "source-notes/cultural-lyric-corpus/MIA PAPERS planes lyrics — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "target": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
+    "target": "source-notes/cultural-lyric-corpus/The Ballad of the Witches' Road — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "target": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
+    "target": "source-notes/cultural-lyric-corpus/gaga gisease lyrics — Source Note",
     "count": 1
   },
   {
@@ -35771,27 +36141,27 @@
   },
   {
     "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
+    "target": "source-notes/governance-platform-signals/AI is speeding into healthcare. Who should regulate it — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
+    "target": "source-notes/misc-source-notes/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "target": "source-notes/misc-source-notes/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
     "count": 2
   },
   {
     "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
+    "target": "source-notes/misc-source-notes/Complete solutions, not compromises — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "target": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
+    "target": "source-notes/misc-source-notes/Reddit Data API Wiki — Source Note",
     "count": 1
   },
   {
@@ -35811,27 +36181,27 @@
   },
   {
     "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/Skills as self-operators — Source Note",
     "count": 1
   },
   {
     "source": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "target": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
+    "target": "source-notes/pharos-ip-manuscript/WIP recruso paper — Source Note",
     "count": 1
   },
   {
@@ -36596,6 +36966,11 @@
   },
   {
     "source": "The Compulsion to Complete — AI as Gap-Closer",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 3
+  },
+  {
+    "source": "The Compulsion to Complete — AI as Gap-Closer",
     "target": "Evidence Discipline and Epistemics",
     "count": 1
   },
@@ -36608,6 +36983,11 @@
     "source": "The Compulsion to Complete — AI as Gap-Closer",
     "target": "Loop Papers and Recursive Governance",
     "count": 3
+  },
+  {
+    "source": "The Compulsion to Complete — AI as Gap-Closer",
+    "target": "Recursive Continuity Without Memory — AI Identity Across Sessions",
+    "count": 1
   },
   {
     "source": "The Compulsion to Complete — AI as Gap-Closer",
@@ -37131,6 +37511,11 @@
   },
   {
     "source": "The Returning Light — Monograph",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 3
+  },
+  {
+    "source": "The Returning Light — Monograph",
     "target": "Governance by Denial",
     "count": 2
   },
@@ -37393,6 +37778,11 @@
     "source": "The Weather Beneath the Walls — Novel",
     "target": "The Returning Light — Monograph",
     "count": 1
+  },
+  {
+    "source": "The Wheel and the Watcher",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 2
   },
   {
     "source": "The Wheel and the Watcher",
@@ -37826,7 +38216,27 @@
   },
   {
     "source": "VAULT ADDITIONS TRACKER",
+    "target": "Home",
+    "count": 2
+  },
+  {
+    "source": "VAULT ADDITIONS TRACKER",
+    "target": "PERPLEXITY-COMPUTER",
+    "count": 1
+  },
+  {
+    "source": "VAULT ADDITIONS TRACKER",
     "target": "Vault Graph Hygiene — Content Title Normalization Skill",
+    "count": 1
+  },
+  {
+    "source": "VAULT ADDITIONS TRACKER",
+    "target": "Workspace Cleanup Ledger — 2026-05-31",
+    "count": 1
+  },
+  {
+    "source": "VAULT ADDITIONS TRACKER",
+    "target": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
     "count": 1
   },
   {
@@ -37961,11 +38371,6 @@
   },
   {
     "source": "Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)",
-    "target": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "Vault Cluster Pass — Trismégiste x Hermes (2026-05-06)",
     "target": "VAULT ADDITIONS TRACKER",
     "count": 1
   },
@@ -38081,11 +38486,6 @@
   },
   {
     "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
     "target": "PHAROS Commercial Brief — Pre-Launch Draft (Q2 2026)",
     "count": 1
   },
@@ -38183,36 +38583,6 @@
     "source": "Vault Deep Linking Pass — 2026-05-06",
     "target": "Writing and Novels MOC",
     "count": 2
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "archive/Orphan Index — Artifacts And Archives — 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "archive/Orphan Index — Operations And Misc — 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "archive/Orphan Index — Post Dr Sort Rename Residuals — 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "archive/Orphan Index — Raw Sources — 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "archive/Orphan Index — Root Loose Notes — 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "Vault Deep Linking Pass — 2026-05-06",
-    "target": "archive/Orphan Index — Runtime And Agents — 2026-05-06",
-    "count": 1
   },
   {
     "source": "Vault Deep Linking Pass — 2026-05-06",
@@ -38341,6 +38711,11 @@
   },
   {
     "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
+    "target": "Manuscript Pipeline MOC",
+    "count": 1
+  },
+  {
+    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
     "target": "Martin Lepage Professional Identity",
     "count": 1
   },
@@ -38372,11 +38747,6 @@
   {
     "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
     "target": "Narrative and Method Integration — Creative Articulations of Governance",
-    "count": 1
-  },
-  {
-    "source": "Vault Delta Interconnectivity Atlas — 2026-05-06",
-    "target": "Orphan Index — Vault-Level Graph Repair 2026-05-06",
     "count": 1
   },
   {
@@ -39286,6 +39656,11 @@
   },
   {
     "source": "Version Genealogy System",
+    "target": "Martin Voice Spec — Stage Map",
+    "count": 1
+  },
+  {
+    "source": "Version Genealogy System",
     "target": "Martin Voice Spec — Version Genealogy",
     "count": 1
   },
@@ -39488,6 +39863,11 @@
     "source": "Voodoo Doll — Archival Governance and Colonial Naming",
     "target": "Authority, Legitimacy, and Post-Sovereignty",
     "count": 1
+  },
+  {
+    "source": "Voodoo Doll — Archival Governance and Colonial Naming",
+    "target": "Deferred Authority — Archives, Proof Regimes, and AI Memory",
+    "count": 3
   },
   {
     "source": "Voodoo Doll — Archival Governance and Colonial Naming",
@@ -40036,6 +40416,11 @@
   },
   {
     "source": "Writing and Novels MOC",
+    "target": "Manuscript Pipeline MOC",
+    "count": 1
+  },
+  {
+    "source": "Writing and Novels MOC",
     "target": "Martin Lepage Publications — Annotated Bibliography and Verification Leads",
     "count": 1
   },
@@ -40345,6 +40730,11 @@
     "count": 1
   },
   {
+    "source": "Writing and Novels MOC",
+    "target": "maps/Novel Corpus Map",
+    "count": 1
+  },
+  {
     "source": "archive/CO-EQUAL-AUTHORITY-DECISION",
     "target": "Governance and PHAROS MOC",
     "count": 1
@@ -40382,31 +40772,6 @@
   {
     "source": "archive/Governance Stress-Test Protocols Index",
     "target": "Vault Deep Linking Pass — 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Operations And Misc — 2026-05-06",
-    "target": "maps/Novel Corpus Map",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Raw Sources — 2026-05-06",
-    "target": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Root Loose Notes — 2026-05-06",
-    "target": "PHAROS Migration Runbook — PR4 Deploy and Cloudflare Migration (2026-04-19)",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Root Loose Notes — 2026-05-06",
-    "target": "Root Loose Notes Cluster Map — 2026-05-06",
-    "count": 1
-  },
-  {
-    "source": "archive/Orphan Index — Root Loose Notes — 2026-05-06",
-    "target": "Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures",
     "count": 1
   },
   {
@@ -40866,11 +41231,6 @@
   },
   {
     "source": "genealogy/Martin Voice Spec — Stage Map",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 2
-  },
-  {
-    "source": "genealogy/Martin Voice Spec — Stage Map",
     "target": "PHAROS Final Voice Operator — GPT Creator",
     "count": 1
   },
@@ -40878,6 +41238,11 @@
     "source": "genealogy/Martin Voice Spec — Stage Map",
     "target": "Second Self System — Identity Kernel and Agent Routing Architecture",
     "count": 1
+  },
+  {
+    "source": "genealogy/Martin Voice Spec — Stage Map",
+    "target": "genealogy/Martin Voice Spec — Version Genealogy",
+    "count": 2
   },
   {
     "source": "genealogy/Martin Voice Spec — Stage Map",
@@ -40896,11 +41261,6 @@
   },
   {
     "source": "genealogy/Martin Voice Spec — Version Genealogy",
-    "target": "Martin Voice Spec — Stage Map",
-    "count": 1
-  },
-  {
-    "source": "genealogy/Martin Voice Spec — Version Genealogy",
     "target": "PHAROS Final Voice Operator — GPT Creator",
     "count": 1
   },
@@ -40912,6 +41272,296 @@
   {
     "source": "genealogy/Martin Voice Spec — Version Genealogy",
     "target": "Version Genealogy System",
+    "count": 1
+  },
+  {
+    "source": "genealogy/Martin Voice Spec — Version Genealogy",
+    "target": "genealogy/Martin Voice Spec — Stage Map",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/EMERAULD Raw Lane Coverage Audit - 2026-07-14",
+    "target": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - agents-skills - Source Register",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - agents-skills - Source Register",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - agents-skills - Source Register",
+    "target": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - apps-projects - Source Register",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - apps-projects - Source Register",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - apps-projects - Source Register",
+    "target": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - business-strategy - Source Register",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - business-strategy - Source Register",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - business-strategy - Source Register",
+    "target": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - client-pharos-lavoie - Source Register",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - client-pharos-lavoie - Source Register",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - client-pharos-lavoie - Source Register",
+    "target": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - genealogy - Source Register",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - genealogy - Source Register",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - genealogy - Source Register",
+    "target": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - misc-operator-notes - Source Register",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - misc-operator-notes - Source Register",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - misc-operator-notes - Source Register",
+    "target": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - pharos-governance - Source Register",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - pharos-governance - Source Register",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - pharos-governance - Source Register",
+    "target": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - research-papers - Source Register",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - research-papers - Source Register",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake - research-papers - Source Register",
+    "target": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "Governance and PHAROS MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "Research and Papers MOC",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "VAULT ADDITIONS TRACKER",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "intake/2026-07-14/EMERAULD Raw Lane Coverage Audit - 2026-07-14",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "intake/2026-07-14/Full Recursive Intake - agents-skills - Source Register",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "intake/2026-07-14/Full Recursive Intake - apps-projects - Source Register",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "intake/2026-07-14/Full Recursive Intake - business-strategy - Source Register",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "intake/2026-07-14/Full Recursive Intake - client-pharos-lavoie - Source Register",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "intake/2026-07-14/Full Recursive Intake - genealogy - Source Register",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "intake/2026-07-14/Full Recursive Intake - misc-operator-notes - Source Register",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "intake/2026-07-14/Full Recursive Intake - pharos-governance - Source Register",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "intake/2026-07-14/Full Recursive Intake - research-papers - Source Register",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/cultural-lyric-corpus/Alchimie et Histoire des Sciences — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/cultural-lyric-corpus/MIA PAPERS planes lyrics — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/cultural-lyric-corpus/The Ballad of the Witches' Road — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/cultural-lyric-corpus/gaga gisease lyrics — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/governance-platform-signals/AI is speeding into healthcare. Who should regulate it — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/misc-source-notes/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/misc-source-notes/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/misc-source-notes/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/misc-source-notes/Complete solutions, not compromises — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/misc-source-notes/Email Député Guilbault AE — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/misc-source-notes/Reddit Data API Wiki — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/operator-continuity/2026-04-25 — DG waiting on client picks — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/operator-continuity/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/operator-continuity/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/operator-continuity/2026-04-25 — The lost-loop pattern — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/pharos-ip-manuscript/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/pharos-ip-manuscript/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/pharos-ip-manuscript/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/pharos-ip-manuscript/Skills as self-operators — Source Note",
+    "count": 1
+  },
+  {
+    "source": "intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14",
+    "target": "source-notes/pharos-ip-manuscript/WIP recruso paper — Source Note",
     "count": 1
   },
   {
@@ -41910,306 +42560,6 @@
     "count": 2
   },
   {
-    "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Complete solutions, not compromises — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
-    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Email Député Guilbault AE — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
-    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Reddit Data API Wiki — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/Skills as self-operators — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
-    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/WIP recruso paper — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
-    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
-    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
-    "count": 1
-  },
-  {
-    "source": "raw-sources/2026-05-13/gaga gisease lyrics — Source Note",
-    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
-    "count": 1
-  },
-  {
     "source": "session-state",
     "target": "EMERAULD",
     "count": 1
@@ -44920,6 +45270,326 @@
     "count": 1
   },
   {
+    "source": "source-notes/cultural-lyric-corpus/Alchimie et Histoire des Sciences — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/cultural-lyric-corpus/Alchimie et Histoire des Sciences — Source Note",
+    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "count": 1
+  },
+  {
+    "source": "source-notes/cultural-lyric-corpus/Alchimie et Histoire des Sciences — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/cultural-lyric-corpus/MIA PAPERS planes lyrics — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/cultural-lyric-corpus/MIA PAPERS planes lyrics — Source Note",
+    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "count": 1
+  },
+  {
+    "source": "source-notes/cultural-lyric-corpus/MIA PAPERS planes lyrics — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/cultural-lyric-corpus/The Ballad of the Witches' Road — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/cultural-lyric-corpus/The Ballad of the Witches' Road — Source Note",
+    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "count": 1
+  },
+  {
+    "source": "source-notes/cultural-lyric-corpus/The Ballad of the Witches' Road — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/cultural-lyric-corpus/gaga gisease lyrics — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/cultural-lyric-corpus/gaga gisease lyrics — Source Note",
+    "target": "Source Cluster — 2026-05-13 Cultural and Lyric Corpus Inputs",
+    "count": 1
+  },
+  {
+    "source": "source-notes/cultural-lyric-corpus/gaga gisease lyrics — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/governance-platform-signals/AI is speeding into healthcare. Who should regulate it — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/governance-platform-signals/AI is speeding into healthcare. Who should regulate it — Source Note",
+    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "count": 1
+  },
+  {
+    "source": "source-notes/governance-platform-signals/AI is speeding into healthcare. Who should regulate it — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
+    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
+    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/Complete solutions, not compromises — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/Complete solutions, not compromises — Source Note",
+    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/Complete solutions, not compromises — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/Email Député Guilbault AE — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/Email Député Guilbault AE — Source Note",
+    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/Email Député Guilbault AE — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/Reddit Data API Wiki — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/Reddit Data API Wiki — Source Note",
+    "target": "Source Cluster — 2026-05-13 Governance and Platform Signals",
+    "count": 1
+  },
+  {
+    "source": "source-notes/misc-source-notes/Reddit Data API Wiki — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — DG waiting on client picks — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — DG waiting on client picks — Source Note",
+    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — DG waiting on client picks — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "target": "Codex RIA Run — The Web as X (First Operationalization 2026-04-25)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "target": "Reflexive Inhabitation Audit — Prompt",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "target": "Posture vs Execution Drift — The Practice of Refusal",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — Stop coding, clean, package, send — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — The lost-loop pattern — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — The lost-loop pattern — Source Note",
+    "target": "Source Cluster — 2026-05-13 Client and Operator Continuity",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — The lost-loop pattern — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/operator-continuity/2026-04-25 — The lost-loop pattern — Source Note",
+    "target": "The Lost-Loop Pattern — Avoidance Through System-Building",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
+    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
+    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
+    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/REVISIONS - BRAIN PAPER JOURNAL — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/Skills as self-operators — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/Skills as self-operators — Source Note",
+    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/Skills as self-operators — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/WIP recruso paper — Source Note",
+    "target": "Source Cluster Map — 2026-05-13 Raw Sources",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/WIP recruso paper — Source Note",
+    "target": "Source Cluster — 2026-05-13 PHAROS IP and Manuscript Pipeline",
+    "count": 1
+  },
+  {
+    "source": "source-notes/pharos-ip-manuscript/WIP recruso paper — Source Note",
+    "target": "Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)",
+    "count": 1
+  },
+  {
     "source": "trismegiste-state",
     "target": "EMERAULD",
     "count": 1
@@ -44946,17 +45616,17 @@
   },
   {
     "source": "voice11 — ElevenLabs TTS Pipeline",
-    "target": "Martin Voice Spec — Stage Map",
-    "count": 2
-  },
-  {
-    "source": "voice11 — ElevenLabs TTS Pipeline",
-    "target": "Martin Voice Spec — Version Genealogy",
-    "count": 2
-  },
-  {
-    "source": "voice11 — ElevenLabs TTS Pipeline",
     "target": "Obsidian Agent Vault — Launch Kit",
+    "count": 2
+  },
+  {
+    "source": "voice11 — ElevenLabs TTS Pipeline",
+    "target": "genealogy/Martin Voice Spec — Stage Map",
+    "count": 2
+  },
+  {
+    "source": "voice11 — ElevenLabs TTS Pipeline",
+    "target": "genealogy/Martin Voice Spec — Version Genealogy",
     "count": 2
   }
 ]

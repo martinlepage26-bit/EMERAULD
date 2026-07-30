@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, tracker-snapshot]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
 | case_slug | run_group | run_root | final_outcome | triage_status | risk_tier | total_files | total_sources | contracts_missing_count | coverage_status | executable_pass_count | missing_pass_count | dataset_fingerprint | zip_modified | manifest_path |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ag-runner-md-readme-master-pass-2426d4903d | SCRIPTS/Paper outcomes RESTART-2 | MASTER PACK/RECURSO/RECURSOTRUE_unpacked/SCRIPTS/Paper outcomes RESTART-2/governance_master_runs/ag-runner-md-readme-master-pass-2426d4903d |  |  |  |  |  |  |  |  |  |  | 2026-03-09 22:46:28 | MASTER PACK/RECURSO/RECURSOTRUE_unpacked/SCRIPTS/Paper outcomes RESTART-2/governance_master_runs/ag-runner-md-readme-master-pass-2426d4903d/dataset_manifest.json |
@@ -96,3 +106,7 @@
 
 - [[Research and Papers MOC]]
 - [[RECURSO — Recursive Governance Test Archive]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **canonical tracker snapshots**. Synthesized / anchored in [[Master Project Tracker — 2026]]. Indexed under [[Personal and Projects MOC]].

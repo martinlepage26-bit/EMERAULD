@@ -146,3 +146,8 @@ That the structural integrity of the catalogue can be re-verified at any time by
 That the residue — the Khaibit — is held in trust by the practitioner and the program together, not surrendered to the rules and not pretended away.
 
 This is the covenant. Chapter 2 walks through how operations are composed under it. Chapter 3 walks through how the catalogue is audited and extended over time.
+
+## Related
+
+- [[Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]
+- [[Elemental Agents — Productization Plan (2026-05-24)]]

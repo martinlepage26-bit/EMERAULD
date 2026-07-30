@@ -10,7 +10,7 @@ updated: 2026-05-13
 
 ## Method Frame
 
-- Source base: 20 per-file notes under `wiki/raw-sources/2026-05-13/`.
+- Source base: 20 per-file notes promoted under `wiki/source-notes/` (formerly `wiki/raw-sources/2026-05-13/`).
 - Writing discipline: HENRY claim-evidence gating, scope clamps, and explicit `verified` vs `inferred` labeling.
 - Cluster routing: [[Source Cluster Map — 2026-05-13 Raw Sources]].
 

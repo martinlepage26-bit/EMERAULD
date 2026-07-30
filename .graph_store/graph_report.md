@@ -1,76 +1,40 @@
 # EMERAULD Wikilink Graph Report
 
-Built: 2026-06-26T07:18:31Z
-Corpus: vector_store paths.json wiki entries
+Built: 2026-07-14T18:07:51Z
+Corpus: wiki/**/*.md
 
 ## Summary
 
-- Nodes: 904
-- Directed edges: 8992
-- Link mentions: 16096
-- Unresolved wikilinks: 3285
-- Connected components: 1
-- Largest component: 904
-- Zero-backlink notes: 0
-- One-backlink notes: 16
-- Two-backlink notes: 258
+- Nodes: 912
+- Directed edges: 9126
+- Link mentions: 16260
+- Unresolved wikilinks: 2113
+- Connected components: 2
+- Largest component: 911
+- Zero-backlink notes: 1
+- One-backlink notes: 27
+- Two-backlink notes: 235
 
 ## Backlink Histogram
 
-- 1: 16
-- 101+: 25
+- 0: 1
+- 1: 27
+- 101+: 27
 - 11-20: 112
-- 2: 258
+- 2: 235
 - 21-50: 107
-- 3-4: 127
-- 5-6: 112
+- 3-4: 144
+- 5-6: 111
 - 51-100: 32
-- 7-10: 115
+- 7-10: 116
 
 ## Low-Backlink Notes
 
-### Zero backlink (0)
+### Zero backlink (1)
+- [[AI-Governance-Weekly-Brief-2026-07-11]]
 
-_None._
-
-### One backlink (16)
-- [[Agent Distillation Pipeline]]
-- [[Agent Logs Hub]]
-- [[Daily Dashboard]]
-- [[Knowledge Gaps]]
-- [[Personal OS]]
-- [[Projects Hub]]
-- [[Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]
-- [[Queering Neo-Pagan Magic — FINAL FINAL PAPER]]
-- [[VoiceBridge Foundation]]
-- [[Workflows Hub]]
-- [[Workspace Cleanup Ledger — 2026-05-31]]
-- [[archive/red-team]]
-- [[maps/Novel Corpus Map]]
-- [[skills/ask-vault]]
-- [[skills/trace-investigator]]
-- [[skills/vault-graph-hygiene]]
-
-### Two backlink (258)
-- [[2026 - Mauss - The Gift]]
-- [[ACTOR Framework — Agent vs Chatbot Decision Tool]]
-- [[App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]
-- [[CLAUDEX — AI Dialogue Archive]]
-- [[Chrome Extension Monetization - Policy and Product Options]]
-- [[Cultural and Lyric Corpus Memo — 2026-05-14]]
-- [[Governance and Platform Signals Memo — 2026-05-14]]
-- [[IP and Manuscript Brief — 2026-05-14]]
-- [[Kickstart App Prompt — Template and Synthesis Framework]]
-- [[Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]
-- [[Operator Continuity Memo — 2026-05-14]]
-- [[PERPLEXITY-COMPUTER]]
-- [[PHAROS AI Governance Service — Offer Architecture and Outreach Templates]]
-- [[Philosopher]]
-- [[Queering Neo-Pagan Magic — MRW Submission (2026)]]
-- [[Railway — COMPASSai Production Deployment Platform]]
-- [[Second Self System Identity Kernel and Agent Routing Architecture]]
-- [[Trismégiste]]
-- [[WSL and System Storage Recovery — Quick Wins Checklist]]
+### One backlink (27)
+- [[Master Annotated Reference List]]
 - [[archive/agent-evaluation]]
 - [[archive/ai-product]]
 - [[archive/brief-to-tasks]]
@@ -82,10 +46,47 @@ _None._
 - [[archive/hermes-escalation-router]]
 - [[archive/inner-mind-eye]]
 - [[archive/ma-degree-guide]]
+- [[archive/red-team]]
 - [[archive/repo-logo-generator]]
 - [[archive/triangulation]]
 - [[archive/ux-researcher-designer]]
 - [[archive/web-scraping]]
+- [[intake/2026-07-14/EMERAULD Raw Lane Coverage Audit - 2026-07-14]]
+- [[intake/2026-07-14/Full Recursive Intake - agents-skills - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - apps-projects - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - business-strategy - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - client-pharos-lavoie - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - genealogy - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - misc-operator-notes - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - pharos-governance - Source Register]]
+- [[intake/2026-07-14/Full Recursive Intake - research-papers - Source Register]]
+- [[maps/Novel Corpus Map]]
+
+### Two backlink (235)
+- [[2026 - Mauss - The Gift]]
+- [[ACTOR Framework — Agent vs Chatbot Decision Tool]]
+- [[Agent Distillation Pipeline]]
+- [[App Ideas — Hybrid Gaming Entertainment Social Fitness Music (2026)]]
+- [[Chrome Extension Monetization - Policy and Product Options]]
+- [[Cultural and Lyric Corpus Memo — 2026-05-14]]
+- [[Governance and Platform Signals Memo — 2026-05-14]]
+- [[IP and Manuscript Brief — 2026-05-14]]
+- [[Kickstart App Prompt — Template and Synthesis Framework]]
+- [[Martin Voice Spec — Stage Map]]
+- [[Martin Voice Spec — Version Genealogy]]
+- [[Obsidian Second Brain Integration — EMERAULD Setup (2026-06-21)]]
+- [[Operator Continuity Memo — 2026-05-14]]
+- [[Philosopher]]
+- [[Projects Hub]]
+- [[Pup Play, BDSM, and Gay Masculinities — Annotated Bibliography (2026)]]
+- [[Queering Neo-Pagan Magic — FINAL FINAL PAPER]]
+- [[Railway — COMPASSai Production Deployment Platform]]
+- [[Second Self System Identity Kernel and Agent Routing Architecture]]
+- [[Trismégiste]]
+- [[WSL and System Storage Recovery — Quick Wins Checklist]]
+- [[archive/CO-EQUAL-AUTHORITY-DECISION]]
+- [[archive/Ethical Ground Values]]
+- [[archive/Governance Stress-Test Protocols Index]]
 - [[bridges/2021 - 02112021 1511 Consulter des donnees fiscales - Revenu Quebec]]
 - [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023]]
 - [[bridges/2024 - AU CONTRAT DE TRAVAIL DATE DU 13 FEVRIER 2023 2]]
@@ -114,24 +115,11 @@ _None._
 - [[bridges/Bridge — Agents vs. Chatbots Fundamentals]]
 - [[bridges/Bridge — Malformed JSON Prefix]]
 - [[bridges/Bridge — Mandrake]]
-- [[genealogy/Martin Voice Spec — Stage Map]]
-- [[genealogy/Martin Voice Spec — Version Genealogy]]
-- [[raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]
-- [[raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note]]
-- [[raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note]]
-- [[raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note]]
-- [[raw-sources/2026-05-13/Complete solutions, not compromises — Source Note]]
-- [[raw-sources/2026-05-13/Email Député Guilbault AE — Source Note]]
-- [[raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note]]
-- [[raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note]]
-- [[raw-sources/2026-05-13/Reddit Data API Wiki — Source Note]]
-- [[raw-sources/2026-05-13/Skills as self-operators — Source Note]]
-- [[raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note]]
-- [[raw-sources/2026-05-13/gaga gisease lyrics — Source Note]]
 - [[skills/agent-manager-skill]]
 - [[skills/agent-tool-builder]]
 - [[skills/api-documentation-generator]]
 - [[skills/app-builder]]
+- [[skills/ask-vault]]
 - [[skills/aspnet-core]]
 - [[skills/audit]]
 - [[skills/autonomous-agents]]
@@ -152,34 +140,58 @@ _None._
 - [[skills/consent-framework]]
 - [[skills/control-point-doctrine]]
 - [[skills/cost-reducer]]
-- ... 158 more
+- [[skills/data-privacy-compliance]]
+- [[skills/database]]
+- [[skills/deploy]]
+- [[skills/design-brief]]
+- [[skills/design-flow]]
+- [[skills/design-review]]
+- [[skills/develop-web-game]]
+- [[skills/emerging-techniques-long-context]]
+- [[skills/emerging-techniques-speculative-decoding]]
+- [[skills/ethical-hacking-methodology]]
+- [[skills/fastapi-endpoint]]
+- [[skills/fastmcp-server]]
+- [[skills/fetch]]
+- [[skills/figma]]
+- [[skills/figma-code-connect-components]]
+- [[skills/figma-create-design-system-rules]]
+- [[skills/figma-create-new-file]]
+- [[skills/figma-generate-design]]
+- [[skills/figma-generate-library]]
+- [[skills/figma-implement-design]]
+- [[skills/figma-use]]
+- [[skills/file-reading]]
+- [[skills/frontend-design]]
+- ... 135 more
 
 ## Components
 
-- Component 1: 904 notes; seed [[2026 - Mauss - The Gift]]
+- Component 1: 911 notes; seed [[2026 - Mauss - The Gift]]
+- Component 2: 1 notes; seed [[AI-Governance-Weekly-Brief-2026-07-11]]
 
 ## Top Unresolved Targets
 
 - `README`: 24
-- `raw/intake-report-20260513.json`: 20
 - `HISTORY`: 14
 - `ecosystem`: 7
 - `EMERAULD — Vault and Knowledge Graph`: 7
 - `memory/clients/Sante-France`: 7
 - `method`: 7
-- `CLAUDE`: 7
-- `PHAROS AI governance service business`: 6
-- `AGENTS`: 6
 - `CHANGELOG`: 6
-- `VAULT-LINKING-AUDIT-2026-05-01`: 6
+- `CLAUDE`: 6
+- `PHAROS AI governance service business`: 5
 - `Glitching the Sacred Queer Paganism, Digital Enchantment, and the Future of Ritual Worlds (2)`: 5
 - `Charging Objects Ritual, Artistic Practice, and the Crisis of Legitimacy`: 5
 - `Second Self System — Adversarial Review`: 5
 - `Introduction`: 5
 - `readme`: 5
 - `memory/clients/ExterminationDG`: 5
+- `AGENTS`: 5
 - `EXTERNAL DATA REGISTRY (Phase 1 Build)`: 5
+- `VAULT-LINKING-AUDIT-2026-05-01`: 5
 - `Martin Lepage, PhD — External Review Profile (Offline-Ready)`: 5
+- `Research Themes`: 5
 - `Queer Methods and Methodologies Intersecting Queer Theories and Social Science Research`: 5
 - `“Things I Do Are Manifestations of Love” Queer Religiosities and Secular Spirituality Among Montreal`: 4
 - `Queer Experiences of Religion How Marginalization within a Religion Affects Its Queer Members`: 4
@@ -187,16 +199,12 @@ _None._
 - `GAIA Positioning Statement — Evidence-Aware Version`: 4
 - `The Circle Remains Open Toward a Queer Sociology of the Sacred (2)`: 4
 - `Readme`: 4
-- `Complete Paper List — Martin Lepage`: 4
-- `MANIFEST`: 4
-- `Dr_Sort_masterlist_2026-03-08`: 4
-- `Welcome`: 4
 - `Governance by Denial — Revised Working Draft`: 4
-- `skill`: 4
+- `Complete Paper List — Martin Lepage`: 4
+- `raw/D-drive-scan-2026-05-12/MANIFEST`: 4
+- `Dr_Sort_masterlist_2026-03-08`: 4
 - `AI Agent Operations Manager — Credential Path and Portfolio`: 4
 - `argus.agent`: 3
-- `HELIX test Epstein`: 3
-- `HELIX test CC`: 3
 - `2015 - policy_or_guidance [3`: 3
 - `2015 - policy_or_guidance [4`: 3
 - `Literature Review From the Politics of Visibility to the Politics of Voice in AI Governance`: 3
@@ -205,8 +213,12 @@ _None._
 - `Martin Lepage`: 3
 - `SKILL`: 3
 - `﻿Authority Without Ethics Ritual Power and the Cultural Life of Witchcraft in The Love Witch`: 3
-- `memory/clients/Lavoie Construct`: 3
-- `memory/clients/Progression`: 3
-- `session-state-001`: 3
+- `2006 - report [2`: 3
+- `2006 - report [3`: 3
+- `2006 - report [4`: 3
+- `2006 - report [5`: 3
+- `2009 - legal_or_contract [2`: 3
+- `2013 - audit_or_assessment [2`: 3
+- `2013 - audit_or_assessment [3`: 3
 - `CORPUS ou le génie de l’insistance (1)`: 3
 - `AI Agent Operations and Governance Manager`: 3

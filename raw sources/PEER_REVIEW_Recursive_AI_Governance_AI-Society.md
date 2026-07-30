@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance, methods, writing-corpus]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "PEER_REVIEW_Recursive_AI_Governance_AI-Society"
+---
 # Peer Review
 
 **Manuscript:** *Recursive AI Governance as Executable Method: The Very Long Narrative*
@@ -188,3 +197,10 @@ The argument is defensible and the empirical site is distinctive. The paper is s
 - [[Governance and PHAROS MOC]]
 - [[Research and Papers MOC]]
 - [[Peer Review — Recursive AI Governance as Executable Method (AI & Society)]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

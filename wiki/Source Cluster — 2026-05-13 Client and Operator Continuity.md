@@ -13,12 +13,12 @@ cluster_id: client_ops
 - Immediate operator bottlenecks, client motion, and execution-drift signals.
 
 ## Source Notes
-- [[raw-sources/2026-05-13/2026-04-25 — DG waiting on client picks — Source Note.md]]
-- [[raw-sources/2026-05-13/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note.md]]
-- [[raw-sources/2026-05-13/2026-04-25 — Stop coding, clean, package, send — Source Note.md]]
-- [[raw-sources/2026-05-13/2026-04-25 — The lost-loop pattern — Source Note.md]]
-- [[raw-sources/2026-05-13/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note.md]]
-- [[raw-sources/2026-05-13/Email Député Guilbault AE — Source Note.md]]
+- [[source-notes/operator-continuity/2026-04-25 — DG waiting on client picks — Source Note]]
+- [[source-notes/misc-source-notes/2026-04-25 — Santé-France Phase 0 — I am the blocker — Source Note]]
+- [[source-notes/operator-continuity/2026-04-25 — Stop coding, clean, package, send — Source Note]]
+- [[source-notes/operator-continuity/2026-04-25 — The lost-loop pattern — Source Note]]
+- [[source-notes/operator-continuity/2026-04-25 — Reflexive Inhabitation Audit needs a live X — Source Note]]
+- [[source-notes/misc-source-notes/Email Député Guilbault AE — Source Note]]
 
 ## Henry Claim-Evidence Frame
 - Claim lane: convert the sources into bounded claims only where explicit evidence exists.

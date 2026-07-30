@@ -312,3 +312,8 @@ Turner, Victor. *The Ritual Process: Structure and Anti-Structure*. Chicago: Ald
 **Third, the missing textual evidence.** The essay marks multiple instances where direct quotations from Depestre are needed and unavailable. Any peer reviewer in Caribbean studies will notice the absence of specific textual citation from *Hadriana dans tous mes rêves*. This is honest but risky. The [TEXTUAL EVIDENCE NEEDED] markers must be resolved before submission: either with direct quotation from the novel or with a methodological note explaining why the essay proceeds at the level of narrative structure rather than close reading.
 
 **Minor risk:** The essay's tone — deliberately anti-academic, pressure-building, unsentimental — may be read by some reviewers as stylistic excess or as substituting rhetoric for argument. This risk is real but acceptable in journals that publish critical theory with a literary voice. The target journal should be selected accordingly: *Small Axe*, *PMLA*, *Quebec Studies*, *L'Esprit Créateur*, or *Journal of Postcolonial Writing* are more likely to receive the tone productively than journals with strong empiricist biases.
+
+## Related
+
+- [[Research and Papers MOC]]
+- [[Historical Academic Portfolio — Pre-PHAROS Scholarly Work]]

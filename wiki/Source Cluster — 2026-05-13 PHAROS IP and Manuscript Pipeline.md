@@ -13,11 +13,11 @@ cluster_id: ip_manuscript
 - PHAROS protect-and-publish lane: IP timing, method formalization, and reviewer-hardening.
 
 ## Source Notes
-- [[raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note.md]]
-- [[raw-sources/2026-05-13/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note.md]]
-- [[raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note.md]]
-- [[raw-sources/2026-05-13/Skills as self-operators — Source Note.md]]
-- [[raw-sources/2026-05-13/WIP recruso paper — Source Note.md]]
+- [[source-notes/pharos-ip-manuscript/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note]]
+- [[source-notes/pharos-ip-manuscript/Formal-PHAROS-method-formal-structure-invention_disclosure — Source Note]]
+- [[source-notes/pharos-ip-manuscript/REVISIONS - BRAIN PAPER JOURNAL — Source Note]]
+- [[source-notes/pharos-ip-manuscript/Skills as self-operators — Source Note]]
+- [[source-notes/pharos-ip-manuscript/WIP recruso paper — Source Note]]
 
 ## Henry Claim-Evidence Frame
 - Claim lane: convert the sources into bounded claims only where explicit evidence exists.

@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, pharos-ops]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
 (async () => {
 
 const posts = [
@@ -268,3 +278,7 @@ console.log('=== Done ===');
 
 - [[Governance and PHAROS MOC]]
 - [[PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **PHAROS ops and publishing**. Synthesized / anchored in [[PHAROS LinkedIn April 2026 Publishing Routine]]. Indexed under [[Governance and PHAROS MOC]].

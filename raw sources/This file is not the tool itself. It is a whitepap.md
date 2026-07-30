@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, infrafabric]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "This file is not the tool itself. It is a whitepap"
+---
 This file is **not the tool itself**. It is a **whitepaper that explains and tries to prove what the tool is doing**. In plain language, it argues that InfraFabric’s “philosophy” is not just branding or lofty language, but is supposed to show up as concrete engineering controls, especially in the `if.security.secrets.detect` component.
 
 The core thing it describes is a pipeline like this: philosophical principles feed into system rules, those rules feed into a runtime component called `if-cli secrets detect`, and that component then validates events, emits a signed security signal, and writes evidence to an append-only audit surface. In other words, the paper says the system turns abstract ideas into enforceable behavior plus receipts.
@@ -115,7 +124,7 @@ Community or general critical readers should start with the summary, introductio
 
 ## Minimal Conceptual Diagram
 
-```text
+`text
 Neo-pagan ritual world (Montreal; Wicca; Reclaiming)
           |
           v
@@ -129,7 +138,7 @@ Three broad outcomes of normativity
   A = reproduction / reinforcement of binary norm
   B = queer fluidity still marginal outside ritual context
   C = displacement of norm through more inclusive gender reconfiguration
-```
+`
 
 This diagram is not imported from nowhere. It is a compression of the thesis’s own chapter structure and final model distinctions, especially the Chapter 5 conclusion on models A, B, and C. The Bible requires at least one diagram where a conceptual system needs legibility.
 
@@ -160,3 +169,10 @@ That is the cleanest serious application. It respects the thesis, applies the Bi
 - [[Martin Lepage Work Profile and InfraFabric Mapping]]
 - [[Governance and PHAROS MOC]]
 - [[Governed Revision Loop — Responsible Self-Improving Agents]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

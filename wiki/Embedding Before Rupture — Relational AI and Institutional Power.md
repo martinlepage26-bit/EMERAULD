@@ -2,7 +2,7 @@
 
 ## Summary
 
-A scholarly paper arguing that AI governance discourse is dangerously oriented toward rupture narratives — recursive capability escalation, catastrophic misuse, geopolitical acceleration — while the more immediate transformation is relational embedding: conversational AI systems incrementally reorganizing disclosure, classification, and institutional routing before any frontier capability threshold is crossed. The paper proposes embedding-aware governance targeting monetization incentives, trace portability, and infrastructural lock-in. This connects directly to [[Governance by Denial]], [[PHAROS AI and Ethics Submission — Architecture Paper]], and the [[Governance and PHAROS MOC]].
+A scholarly paper arguing that AI governance discourse is dangerously oriented toward rupture narratives — recursive capability escalation, catastrophic misuse, geopolitical acceleration — while the more immediate transformation is relational embedding: conversational AI systems incrementally reorganizing disclosure, classification, and institutional routing before any frontier capability threshold is crossed. The paper proposes embedding-aware governance targeting monetization incentives, trace portability, and infrastructural lock-in. This is the platform-side version of [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]. It connects directly to [[Governance by Denial]], [[PHAROS AI and Ethics Submission — Architecture Paper]], and the [[Governance and PHAROS MOC]].
 
 ## Context
 

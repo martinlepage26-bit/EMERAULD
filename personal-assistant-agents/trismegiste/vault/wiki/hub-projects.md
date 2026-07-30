@@ -19,3 +19,8 @@ Overview of all active and recent projects. Agent reads this first when asked ab
 
 ---
 *Auto-generated hub. Edit freely. Keep backlinks current.*
+
+## Related
+
+- [[Personal and Projects MOC]]
+- [[Master Project Tracker — 2026]]

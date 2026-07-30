@@ -272,3 +272,8 @@ No planets. No mystical symbols beyond the zodiacal wheel. No excessive glow eff
 - Existing OG image: `site/public/social/og-breath-of-the-astral-year.svg` (1200×630 social card)
 - Cover art should feel like a scaled, vertical version of that social card
 - Sibling covers to reference for series consistency: *Alchemy of the Wound* (ISBN 9798251826722), *CORPUS ou le génie de l'insistance* (ISBN 9798275803334)
+
+## Related
+
+- [[Breath of the Astral Year — Astrology Monograph]]
+- [[Breath of the Astral Year — Version Genealogy]]

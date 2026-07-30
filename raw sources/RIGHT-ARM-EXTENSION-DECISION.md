@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "RIGHT-ARM-EXTENSION-DECISION"
+---
 # Right-Arm Extension Decision (Binding)
 
 **Decision date:** 2026-04-18
@@ -133,3 +142,10 @@ This decision is binding for all future governance work. Future Claude instances
 
 - [[Writing and Novels MOC]]
 - [[Right-Arm Extension Decision — Hephaistos and Hermes Advisory Consultation (2026-04-18)]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

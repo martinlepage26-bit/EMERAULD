@@ -1,0 +1,35 @@
+.atlas-note {
+  --atlas-blue: #4f7cac;
+  --atlas-green: #4f9d69;
+  --atlas-rose: #b85c7a;
+  --atlas-violet: #7868a6;
+  --atlas-amber: #b88123;
+}
+
+.atlas-note h1 {
+  border-bottom: 3px solid var(--atlas-blue);
+  padding-bottom: .25rem;
+}
+
+.atlas-note h2 {
+  color: var(--atlas-blue);
+}
+
+.callout[data-callout="evidence"] {
+  --callout-color: 79, 124, 172;
+  --callout-icon: lucide-book-open-check;
+}
+
+.callout[data-callout="hypothesis"] {
+  --callout-color: 184, 129, 35;
+  --callout-icon: lucide-flask-conical;
+}
+
+.callout[data-callout="safety"] {
+  --callout-color: 184, 92, 122;
+  --callout-icon: lucide-shield-alert;
+}
+
+.markdown-rendered table {
+  width: 100%;
+}

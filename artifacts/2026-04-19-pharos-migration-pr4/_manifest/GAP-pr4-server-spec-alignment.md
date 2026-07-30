@@ -250,4 +250,4 @@ only load-bearing question is whether any caller depends on `status:
 ## Related
 
 - [[Writing and Novels MOC]]
-- [[MANIFEST]]
+- [[artifacts/2026-04-19-pharos-migration-pr4/_manifest/MANIFEST]]

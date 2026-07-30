@@ -14,10 +14,10 @@ See also [[Legitimacy Machines MOC]].
 - Cultural corpus inputs for ritual-authority, proof-regime, and symbolic-method writing.
 
 ## Source Notes
-- [[raw-sources/2026-05-13/The Ballad of the Witches' Road — Source Note.md]]
-- [[raw-sources/2026-05-13/MIA PAPERS planes lyrics — Source Note.md]]
-- [[raw-sources/2026-05-13/gaga gisease lyrics — Source Note.md]]
-- [[raw-sources/2026-05-13/Alchimie et Histoire des Sciences — Source Note.md]]
+- [[source-notes/cultural-lyric-corpus/The Ballad of the Witches' Road — Source Note]]
+- [[source-notes/cultural-lyric-corpus/MIA PAPERS planes lyrics — Source Note]]
+- [[source-notes/cultural-lyric-corpus/gaga gisease lyrics — Source Note]]
+- [[source-notes/cultural-lyric-corpus/Alchimie et Histoire des Sciences — Source Note]]
 
 ## Henry Claim-Evidence Frame
 - Claim lane: convert the sources into bounded claims only where explicit evidence exists.

@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, ai-governance]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
 SPEC-1-AI Governance Engine
 
 Background
@@ -847,3 +857,7 @@ Please contact me at sammuti.com :)
 - [[Governance and PHAROS MOC]]
 - [[PHAROS AI governance service business]]
 - [[CONTROL ID MON-CORE-01]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **AI governance public-market pack**. Synthesized / anchored in [[AI Governance Public Statement and Market Impact Pack]]. Indexed under [[Governance and PHAROS MOC]].

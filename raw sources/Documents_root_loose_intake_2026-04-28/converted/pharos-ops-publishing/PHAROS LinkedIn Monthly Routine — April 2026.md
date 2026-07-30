@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, pharos-ops]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
 # PHAROS LinkedIn Monthly Routine — April 2026
 *Run date: April 6, 2026*
 *Martin Lepage, PhD — Founder, PHAROS | pharos-ai.ca*
@@ -470,3 +480,7 @@ The shift from 5 posts/week to 3 posts/week is correct. Fewer posts at higher si
 
 - [[Governance and PHAROS MOC]]
 - [[PHAROS LinkedIn April 2026 Publishing Routine]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **PHAROS ops and publishing**. Synthesized / anchored in [[PHAROS LinkedIn April 2026 Publishing Routine]]. Indexed under [[Governance and PHAROS MOC]].

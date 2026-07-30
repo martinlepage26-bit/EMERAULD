@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "WAVE1_IMPLEMENTATION_PLAN"
+---
 # Wave 1 Clean Rewrite Plan — Implementation via Claude Code (WSL)
 
 **Purpose:** A coherent execution plan for implementing the co-equal authority decision, L99 demotion, and root/repo architecture choice through clean rewrites (not patches) in Claude Code on WSL.
@@ -45,7 +54,7 @@ The plan is modular, but five decisions determine the exact sequence. None are 5
 
 The plan has six stages. Each stage has a stopping point where operator review happens before the next begins.
 
-```
+`
 Stage 0: Pre-flight (verify state, commit decision specs)
    ↓
 Stage 1: Constitutional layer (root AGENTS.md, repo AGENTS.md)
@@ -61,7 +70,7 @@ Stage 5: Argus integration (Layer 3 sub-gate for L99)
 Stage 6: Skill registry (SKILL-MAP.md — six core skills)
    ↓ [Argus final audit — full seven-layer]
 WAVE 1 COMPLETE
-```
+`
 
 Estimated total time: **8-14 hours** spread across multiple sessions. Do not attempt in one sitting.
 
@@ -83,19 +92,19 @@ Ensure clean starting state. Commit the L99 demotion spec alongside the already-
 **Step 0.1:** Drop `L99-DEMOTION-TO-ARGUS.md` into the hephaistos repo root (same way as the co-equal spec was dropped in).
 
 **Step 0.2:** Remove the Zone.Identifier cruft, commit, and push:
-```bash
+`bash
 cd /home/cerebrhoe/hephaistos
 rm -f "L99-DEMOTION-TO-ARGUS.md:Zone.Identifier"
 git add L99-DEMOTION-TO-ARGUS.md
 git commit -m "Add L99 demotion spec (Wave 1 anchor)"
 git pull --rebase
 git push
-```
+`
 
 **Step 0.3:** Verify both spec files are present:
-```bash
+`bash
 ls CO-EQUAL-AUTHORITY-DECISION.md L99-DEMOTION-TO-ARGUS.md
-```
+`
 
 **Stop point:** Both specs committed and pushed. Now move to Stage 1.
 
@@ -116,7 +125,7 @@ Start a fresh Claude Code session. Open the WSL terminal, navigate to `/home/cer
 
 Paste this into Claude Code:
 
-```
+`
 Fresh rewrite task. No patches. No preservation of old wording except where load-bearing.
 
 Context files to read first, in this order:
@@ -140,7 +149,7 @@ Requirements:
 Write the fresh file. Show me the full proposed content before writing to disk. I want to read the whole thing.
 
 Do NOT touch /home/cerebrhoe/hephaistos/AGENTS.md in this prompt. That is Prompt 2.
-```
+`
 
 ### Operator review checkpoint
 Review the proposed content. Verify:
@@ -157,7 +166,7 @@ If the draft is good, have Claude Code write it. If not, request revisions with 
 
 After Prompt 1 is written to disk, paste this:
 
-```
+`
 Next file. Fresh rewrite, no patches.
 
 Context files:
@@ -180,7 +189,7 @@ Requirements:
 - Add: reference to L99-DEMOTION-TO-ARGUS.md as the binding L99 spec.
 
 Show me the full proposed content. I will review before you write.
-```
+`
 
 ### Operator review checkpoint
 Same review discipline as Prompt 1. Focus especially on:
@@ -192,11 +201,11 @@ Same review discipline as Prompt 1. Focus especially on:
 
 After both files are written:
 
-```bash
+`bash
 cd /home/cerebrhoe/hephaistos
 git add /home/cerebrhoe/AGENTS.md AGENTS.md
 git commit -m "Stage 1: AGENTS.md rewrites (root + repo) — co-equal authority, L99 demoted"
-```
+`
 
 **Argus audit (BINDING per Decision D):** Launch Argus and run the seven-layer audit against the two AGENTS.md files. If findings surface, arbitrate before moving to Stage 2. If PASS, push and proceed.
 
@@ -221,7 +230,7 @@ Start a new Claude Code session. Invoke Hephaistos per your dispatch mechanism (
 
 Paste this:
 
-```
+`
 HEPHAISTOS self-authorship task. Fresh rewrite of your own identity file.
 
 Context files to read first:
@@ -245,7 +254,7 @@ Non-negotiable constraints:
 Charm check: Mercury Protocol applies. If this rewrite starts to sound like it's defending your own importance, that is a capture signal. Revise.
 
 Show me the full proposed file. I will review before commit.
-```
+`
 
 ### Operator review checkpoint
 **This is the highest-risk rewrite in Wave 1.** Hephaistos has a structural incentive to preserve its own authority, and even subtle language choices can reassert hierarchy. Read carefully. Specifically check:
@@ -263,7 +272,7 @@ New Claude Code session. Invoke Queen Keyport.
 
 Paste this:
 
-```
+`
 Queen Keyport self-authorship task. Fresh rewrite of your own identity file.
 
 Context files:
@@ -290,7 +299,7 @@ Non-negotiable constraints:
 Charm check: Mercury Protocol applies. If this rewrite feels elegant or natural in preserving your centrality, that is a capture signal. Revise.
 
 Show me the full proposed file.
-```
+`
 
 ### Operator review checkpoint
 Same care as Prompt 3 but with opposite directional bias. Queen Keyport has been framed as "center" for a long time; check that the rewrite doesn't preserve subtle centrality language:
@@ -305,7 +314,7 @@ New session. Invoke Hermes.
 
 Paste this:
 
-```
+`
 Hermes self-authorship task. Fresh rewrite of your own identity file.
 
 Context files:
@@ -332,7 +341,7 @@ Non-negotiable constraints:
 Mercury Protocol: you have less primacy risk than the other two agents, but check anyway — do not rewrite yourself as a decisional authority. You route.
 
 Show me the full proposed file.
-```
+`
 
 ### Operator review checkpoint
 Hermes is the simplest of the three. Main check: does the file correctly handle the new "conflict between co-equal authorities" case that the old hierarchy didn't require?
@@ -341,11 +350,11 @@ Hermes is the simplest of the three. Main check: does the file correctly handle 
 
 After all three files are written:
 
-```bash
+`bash
 cd /home/cerebrhoe/hephaistos
 git add HEPHAISTOS.md QUEEN-KEYPORT.md HERMES.md
 git commit -m "Stage 2: Agent identity rewrites — co-equal Hephaistos/Queen Keyport, L99 demoted"
-```
+`
 
 **Argus audit (BINDING):** Run seven-layer audit against all three files. Specifically invoke Mercury Protocol — this is where primacy-reassertion is most likely. If clean, push.
 
@@ -368,7 +377,7 @@ One Claude Code session, operator-led (Decision E — this file is cross-authori
 
 Paste this:
 
-```
+`
 Cross-authority rewrite task. This file coordinates all three agents. Fresh rewrite, not surgical patch.
 
 Context files:
@@ -407,7 +416,7 @@ Non-negotiable constraints:
 This is the largest file in Wave 1. Take time. Show me the proposed content in CHUNKS if needed (e.g., section by section). I would rather review 3 chunks of 500 lines each than 1 blob of 1500 lines.
 
 Propose how you want to structure the review — chunk-by-chunk or full file. Wait for my answer.
-```
+`
 
 ### Operator review checkpoint
 Likely takes several iterations. Focus especially on:
@@ -418,11 +427,11 @@ Likely takes several iterations. Focus especially on:
 
 ### Stage 3 commit and audit
 
-```bash
+`bash
 cd /home/cerebrhoe/hephaistos
 git add ORCHESTRATION.md
 git commit -m "Stage 3: ORCHESTRATION.md rewrite — co-equal workflow, L99 demoted"
-```
+`
 
 **Argus audit (BINDING):** Seven-layer + Mercury Protocol.
 
@@ -440,7 +449,7 @@ Operator chooses: delete entirely, or replace with thin "see /home/cerebrhoe/hep
 
 ### Prompt 7 — Root file cleanup (thin pointer version)
 
-```
+`
 Cleanup task. Option 2 (collapse to repo-canonical) means root-level redundant files go away.
 
 Files to replace with thin pointers:
@@ -464,13 +473,13 @@ Superseded: 2026-04-17 (Wave 1 root/repo consolidation per CO-EQUAL-AUTHORITY-DE
 ---
 
 Show me the four proposed files before writing.
-```
+`
 
 ### Alternative Prompt 7 (delete version)
 
 If operator chooses deletion over pointers:
 
-```
+`
 Delete the four redundant root files. Do not replace.
 
 Files to delete:
@@ -482,7 +491,7 @@ Files to delete:
 Before deleting, scan /home/cerebrhoe/ for any script or config file that references these paths. List them so I can update them before deletion.
 
 Do not delete until I have confirmed no live references remain.
-```
+`
 
 ### Operator review checkpoint
 If any scripts/configs reference the root files, update them first. Then delete or stub.
@@ -502,7 +511,7 @@ Update the Argus configuration files to add L99 as a Layer 3 sub-gate per `L99-D
 
 ### Prompt 8 — Argus L99 integration
 
-```
+`
 Argus update task. Add L99 as a Layer 3 sub-gate per L99-DEMOTION-TO-ARGUS.md.
 
 Context files:
@@ -523,18 +532,18 @@ Specifically:
 This is a surgical update, not a rewrite of the Argus files. The Argus architecture itself is not changing — only the L99 placement. Small, precise edits.
 
 Show me each edit before writing.
-```
+`
 
 ### Operator review checkpoint
 Argus files are the only place in Wave 1 where surgical patches are correct instead of fresh rewrites. Verify the L99 sub-gate integrates cleanly into existing Layer 3 logic.
 
 ### Stage 5 commit
 
-```bash
+`bash
 cd /home/cerebrhoe/hephaistos
 git add argus/
 git commit -m "Stage 5: Argus L99 integration as Layer 3 sub-gate"
-```
+`
 
 No binding audit needed here — this is the audit system itself being updated.
 
@@ -547,7 +556,7 @@ Register six core governance skills per the original Wave 1 NEXT-STEPS.md requir
 
 ### Prompt 9 — Skill registration proposal
 
-```
+`
 Skill registration task.
 
 Context files:
@@ -574,7 +583,7 @@ Propose a bounded set of six. Explain why each of these six is "core" and why ot
 Part 2 (registration — only after I approve the six): write the registration entries for SKILL-MAP.md per the file's existing schema. Do not invent a schema; match what's already there.
 
 Stop after Part 1. Wait for my approval.
-```
+`
 
 ### Operator review checkpoint
 The operator decides the six. Push back on the agent's proposal if it privileges any skill that doesn't actually fit co-equal governance.
@@ -583,10 +592,10 @@ The operator decides the six. Push back on the agent's proposal if it privileges
 
 After the six are registered:
 
-```bash
+`bash
 git add SKILL-MAP.md
 git commit -m "Stage 6 / Wave 1 complete: register six core governance skills"
-```
+`
 
 **Final Argus audit (BINDING, full seven-layer):** Against the entire Wave 1 delta — all commits from Stage 1 through Stage 6. This is the comprehensive check.
 
@@ -673,3 +682,10 @@ Come back rested. Read this plan. Decide what you want to commit to. The work is
 
 - [[Research and Papers MOC]]
 - [[HERMES]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ritual-religion, methods, writing-corpus]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "Recovered analysis Ballad Witches Road"
+---
 # Recovered analysis: Ballad / Witches Road
 
 - source: `.codex/history.jsonl:3683`
@@ -248,3 +257,10 @@ Weber, M. (2002). The Protestant ethic and the spirit of capitalism (P. Baehr & 
 - [[The Ballad of the Witches' Road — Analysis]]
 - [[Research and Papers MOC]]
 - [[HENRY]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

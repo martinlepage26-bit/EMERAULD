@@ -165,3 +165,25 @@ RIVARD, Yvon, 1980. *L'Ombre et le Double*, Montréal, Éditions Quinze.
 RIVARD, Yvon, 2000. *Personne n'est une île*, Montréal, Boréal.
 
 TURNER, Victor, 1969. *The Ritual Process: Structure and Anti-Structure*, Chicago, Aldine Publishing.
+
+## References cited
+*18 reference notes matched from this paper's bibliography (auto-linked 2026-07-10).*
+
+- [[Bachelard 1942 — L eau et les rêves essai sur l]]
+- [[Bachelard 1957 — La poétique de l espace]]
+- [[Beauchemin 2005 — La Société des identités le mythe de l]]
+- [[Bertaux 2010 — Le récit de vie l enquête et ses]]
+- [[Blake 2004 — The Marriage of Heaven and Hell]]
+- [[Corbin 1972 — L imagination créatrice dans le soufisme d Ibn]]
+- [[Dante Alighieri 2006 — La Divine Comédie]]
+- [[Eliade 1957 — Le mythe de l éternel retour archétypes et]]
+- [[Frye 1957 — Anatomy of Criticism Four Essays]]
+- [[Guénon 1945 — Le règne de la quantité et les signes]]
+- [[Hadot 2002 — Exercices spirituels et philosophie antique]]
+- [[Haraway 1991 — Simians Cyborgs and Women The Reinvention of Nature]]
+- [[Lacan 1966 — Écrits]]
+- [[Novalis 1993 — Les Disciples à Saïs et autres fragments]]
+- [[Rivard 1976 — Mort et Naissance de Christophe Ulric]]
+- [[Rivard 1980 — L Ombre et le Double]]
+- [[Rivard 2000 — Personne n est une île]]
+- [[Turner 1969 — The Ritual Process Structure and Anti-Structure]]

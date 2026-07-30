@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "AI has no intrinsic ethics."
+---
 AI is not the moral agent. People are.
 
 The people building it. Deploying it. Procuring it. Regulating it. Using it.
@@ -28,3 +37,10 @@ It is a sign that people are ready to talk seriously about enforceable accountab
 
 - [[Research and Papers MOC]]
 - [[AI Has No Intrinsic Ethics — Accountability and the Human Chain]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

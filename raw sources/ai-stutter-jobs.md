@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance, queer-gender]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "ai-stutter-jobs"
+---
 # IA générative, emploi et accessibilité au travail pour les personnes qui bégaient
 
 ## Résumé exécutif
@@ -84,7 +93,7 @@ Sources principales du tableau : CSA, NSA, CHRC, CMU, étude CHI 2023 sur la par
 
 Le nœud de gouvernance peut être représenté simplement ainsi. La relation la plus importante est triangulaire : **personnes qui bégaient ↔ employeurs/RH ↔ fournisseurs d’IA**, avec médiation par règles publiques, recherche et organisations de soutien.
 
-```mermaid
+`mermaid
 flowchart LR
     PWS[Personnes qui bégaient]
     HR[RH et acquisition de talents]
@@ -103,7 +112,7 @@ flowchart LR
     RES -->|résultats, recommandations| REG
     VEND -->|options multimodales, logs, accessibilité| HR
     HR -->|données d'impact et incidents| REG
-```
+`
 
 Pour les employeurs, la priorité de court terme est d’**enlever les points d’échec évitables**. Cela veut dire : annoncer explicitement les accommodations possibles au stade de l’offre d’emploi; informer les candidats lorsqu’une technologie d’IA est utilisée; prévoir une voie alternative non vocale; ne pas utiliser de score de fluidité, d’expressivité vocale ou de rythme d’élocution sauf nécessité professionnelle strictement démontrée; et instaurer un recours humain sur toute décision défavorable prise avec appui algorithmique. Ces mesures sont cohérentes avec la CCDP, Normes d’accessibilité Canada, le Department of Labor et les indications officielles sur l’IA et le handicap. citeturn35view5turn35view6turn35view7turn35view3turn35view4turn42view4
 
@@ -128,7 +137,7 @@ Le tableau reprend les obligations et bonnes pratiques issues des cadres canadie
 
 Voici une traduction en calendrier d’implémentation indicatif à partir du printemps 2026.
 
-```mermaid
+`mermaid
 gantt
     title Horizon indicatif de mise en œuvre
     dateFormat  YYYY-MM
@@ -144,7 +153,7 @@ gantt
     Scripts d'accommodement et portfolio :active, 2026-05, 3m
     Pratique d'entretiens et retour d'expérience :active, 2026-05, 6m
     Veille continue sur outils et incidents : 2026-08, 18m
-```
+`
 
 ## Lacunes de preuve et agenda de recherche
 
@@ -162,3 +171,10 @@ En l’état, la conclusion la plus solide est donc prudente mais ferme : **la G
 
 - [[Research and Papers MOC]]
 - [[Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

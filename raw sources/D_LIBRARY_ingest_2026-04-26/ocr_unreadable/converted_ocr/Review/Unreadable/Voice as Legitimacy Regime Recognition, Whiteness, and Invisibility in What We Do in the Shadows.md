@@ -208,3 +208,18 @@ This article treats vampirism as both the show's literal narrative content and a
 
 - [[Governance and PHAROS MOC]]
 - [[The Familiars of Hollywood — Queerness, Whiteness, and Representation]]
+
+## References cited
+*11 reference notes matched from this paper's bibliography (auto-linked 2026-07-10).*
+
+- [[Ahmed 2012 — On Being Included Racism and Diversity in Institutional]]
+- [[Bhabha 1994 — The Location of Culture London Routledge]]
+- [[Butler 2002 — Kinship trouble Differences 15 3 1-24]]
+- [[Chow 1998 — Ethics After Idealism Theory Culture Ethnicity Reading Bloomington]]
+- [[Creed 1993 — The Monstrous-Feminine Film Feminism Psychoanalysis London Routledge]]
+- [[Dyer 1997 — White Essays on Race and Culture London Routledge]]
+- [[Harding 1991 — Whose Science Whose Knowledge Thinking from Women s]]
+- [[Hudson 2017 — Undead and unbound The gothic vampire in transnational]]
+- [[Murray 2020 — Disability and the Posthuman Bodies Technology and Cultural]]
+- [[Muñoz 2009 — Cruising Utopia The Then and There of Queer]]
+- [[Shohat 1994 — Unthinking Eurocentrism Multiculturalism and the Media London Routledge]]

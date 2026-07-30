@@ -1,0 +1,468 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "text": "# Living map of the body\nStart anywhere. Follow more than one path.\nAn edge is a question, not a diagnosis.",
+      "x": -1200,
+      "y": -700,
+      "width": 540,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "start",
+      "type": "file",
+      "file": "START HERE.md",
+      "x": -1200,
+      "y": -420,
+      "width": 320,
+      "height": 180,
+      "color": "5"
+    },
+    {
+      "id": "fatigue",
+      "type": "file",
+      "file": "04 Symptoms/Fatigue.md",
+      "x": -1200,
+      "y": 0,
+      "width": 250,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "digestion",
+      "type": "file",
+      "file": "01 Systems/Digestive system.md",
+      "x": -740,
+      "y": -520,
+      "width": 260,
+      "height": 150,
+      "color": "4"
+    },
+    {
+      "id": "absorption",
+      "type": "file",
+      "file": "02 Pathways/Nutrient digestion and absorption.md",
+      "x": -360,
+      "y": -520,
+      "width": 280,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "nutrient_pattern",
+      "type": "file",
+      "file": "06 Patterns/Nutrient depletion or excess.md",
+      "x": 40,
+      "y": -520,
+      "width": 280,
+      "height": 160,
+      "color": "6"
+    },
+    {
+      "id": "energy_pattern",
+      "type": "file",
+      "file": "06 Patterns/Impaired cellular energy production.md",
+      "x": 450,
+      "y": -520,
+      "width": 300,
+      "height": 170,
+      "color": "6"
+    },
+    {
+      "id": "glycolysis",
+      "type": "file",
+      "file": "02 Pathways/Glycolysis.md",
+      "x": 870,
+      "y": -650,
+      "width": 240,
+      "height": 140,
+      "color": "3"
+    },
+    {
+      "id": "tca",
+      "type": "file",
+      "file": "02 Pathways/Citric acid cycle.md",
+      "x": 870,
+      "y": -430,
+      "width": 240,
+      "height": 140,
+      "color": "3"
+    },
+    {
+      "id": "oxphos",
+      "type": "file",
+      "file": "02 Pathways/Oxidative phosphorylation.md",
+      "x": 870,
+      "y": -210,
+      "width": 260,
+      "height": 150,
+      "color": "3"
+    },
+    {
+      "id": "iron",
+      "type": "file",
+      "file": "03 Nutrients/Iron.md",
+      "x": -700,
+      "y": -100,
+      "width": 220,
+      "height": 130,
+      "color": "2"
+    },
+    {
+      "id": "b12",
+      "type": "file",
+      "file": "03 Nutrients/Vitamin B12.md",
+      "x": -700,
+      "y": 90,
+      "width": 220,
+      "height": 130,
+      "color": "2"
+    },
+    {
+      "id": "magnesium",
+      "type": "file",
+      "file": "03 Nutrients/Magnesium.md",
+      "x": -700,
+      "y": 280,
+      "width": 220,
+      "height": 130,
+      "color": "2"
+    },
+    {
+      "id": "oxygen",
+      "type": "file",
+      "file": "06 Patterns/Reduced oxygen delivery.md",
+      "x": -300,
+      "y": -50,
+      "width": 270,
+      "height": 150,
+      "color": "6"
+    },
+    {
+      "id": "ida",
+      "type": "file",
+      "file": "05 Conditions/Iron deficiency anemia.md",
+      "x": 80,
+      "y": -80,
+      "width": 280,
+      "height": 150,
+      "color": "5"
+    },
+    {
+      "id": "glucose",
+      "type": "file",
+      "file": "02 Pathways/Insulin and glucose regulation.md",
+      "x": -300,
+      "y": 240,
+      "width": 290,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "dysglycemia",
+      "type": "file",
+      "file": "06 Patterns/Dysglycemia.md",
+      "x": 100,
+      "y": 240,
+      "width": 240,
+      "height": 140,
+      "color": "6"
+    },
+    {
+      "id": "t2d",
+      "type": "file",
+      "file": "05 Conditions/Type 2 diabetes.md",
+      "x": 450,
+      "y": 240,
+      "width": 240,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "thyroid",
+      "type": "file",
+      "file": "02 Pathways/Thyroid hormone synthesis and signalling.md",
+      "x": -300,
+      "y": 520,
+      "width": 310,
+      "height": 170,
+      "color": "3"
+    },
+    {
+      "id": "iodine",
+      "type": "file",
+      "file": "03 Nutrients/Iodine.md",
+      "x": 100,
+      "y": 470,
+      "width": 220,
+      "height": 130,
+      "color": "2"
+    },
+    {
+      "id": "selenium",
+      "type": "file",
+      "file": "03 Nutrients/Selenium.md",
+      "x": 100,
+      "y": 650,
+      "width": 220,
+      "height": 130,
+      "color": "2"
+    },
+    {
+      "id": "hypothyroid",
+      "type": "file",
+      "file": "05 Conditions/Hypothyroidism.md",
+      "x": 450,
+      "y": 540,
+      "width": 250,
+      "height": 150,
+      "color": "5"
+    },
+    {
+      "id": "inflammation",
+      "type": "file",
+      "file": "06 Patterns/Inflammatory burden.md",
+      "x": 450,
+      "y": -10,
+      "width": 270,
+      "height": 150,
+      "color": "6"
+    },
+    {
+      "id": "kidney",
+      "type": "file",
+      "file": "01 Systems/Renal system.md",
+      "x": 850,
+      "y": 150,
+      "width": 240,
+      "height": 140,
+      "color": "4"
+    },
+    {
+      "id": "herbs",
+      "type": "file",
+      "file": "07 Herbs/Herbs index.md",
+      "x": 850,
+      "y": 500,
+      "width": 250,
+      "height": 150,
+      "color": "4"
+    },
+    {
+      "id": "safety",
+      "type": "file",
+      "file": "00 Navigation/Clinical safety and red flags.md",
+      "x": -1200,
+      "y": 300,
+      "width": 320,
+      "height": 180,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e01",
+      "fromNode": "digestion",
+      "fromSide": "right",
+      "toNode": "absorption",
+      "toSide": "left",
+      "label": "processes food"
+    },
+    {
+      "id": "e02",
+      "fromNode": "absorption",
+      "fromSide": "right",
+      "toNode": "nutrient_pattern",
+      "toSide": "left",
+      "label": "shapes status"
+    },
+    {
+      "id": "e03",
+      "fromNode": "nutrient_pattern",
+      "fromSide": "right",
+      "toNode": "energy_pattern",
+      "toSide": "left",
+      "label": "supplies substrates and cofactors"
+    },
+    {
+      "id": "e04",
+      "fromNode": "energy_pattern",
+      "fromSide": "right",
+      "toNode": "glycolysis",
+      "toSide": "left",
+      "label": "includes"
+    },
+    {
+      "id": "e05",
+      "fromNode": "energy_pattern",
+      "fromSide": "right",
+      "toNode": "tca",
+      "toSide": "left",
+      "label": "includes"
+    },
+    {
+      "id": "e06",
+      "fromNode": "energy_pattern",
+      "fromSide": "right",
+      "toNode": "oxphos",
+      "toSide": "left",
+      "label": "includes"
+    },
+    {
+      "id": "e07",
+      "fromNode": "fatigue",
+      "fromSide": "right",
+      "toNode": "oxygen",
+      "toSide": "left",
+      "label": "one possible pattern"
+    },
+    {
+      "id": "e08",
+      "fromNode": "fatigue",
+      "fromSide": "right",
+      "toNode": "glucose",
+      "toSide": "left",
+      "label": "one possible pattern"
+    },
+    {
+      "id": "e09",
+      "fromNode": "fatigue",
+      "fromSide": "right",
+      "toNode": "thyroid",
+      "toSide": "left",
+      "label": "one possible pattern"
+    },
+    {
+      "id": "e10",
+      "fromNode": "fatigue",
+      "fromSide": "right",
+      "toNode": "energy_pattern",
+      "toSide": "left",
+      "label": "one possible pattern"
+    },
+    {
+      "id": "e11",
+      "fromNode": "iron",
+      "fromSide": "right",
+      "toNode": "oxygen",
+      "toSide": "left",
+      "label": "supports hemoglobin"
+    },
+    {
+      "id": "e12",
+      "fromNode": "b12",
+      "fromSide": "right",
+      "toNode": "oxygen",
+      "toSide": "left",
+      "label": "supports blood formation"
+    },
+    {
+      "id": "e13",
+      "fromNode": "oxygen",
+      "fromSide": "right",
+      "toNode": "ida",
+      "toSide": "left",
+      "label": "example condition"
+    },
+    {
+      "id": "e14",
+      "fromNode": "glucose",
+      "fromSide": "right",
+      "toNode": "dysglycemia",
+      "toSide": "left",
+      "label": "altered regulation"
+    },
+    {
+      "id": "e15",
+      "fromNode": "dysglycemia",
+      "fromSide": "right",
+      "toNode": "t2d",
+      "toSide": "left",
+      "label": "example condition"
+    },
+    {
+      "id": "e16",
+      "fromNode": "thyroid",
+      "fromSide": "right",
+      "toNode": "iodine",
+      "toSide": "left",
+      "label": "requires",
+      "color": "2"
+    },
+    {
+      "id": "e17",
+      "fromNode": "thyroid",
+      "fromSide": "right",
+      "toNode": "selenium",
+      "toSide": "left",
+      "label": "metabolism link",
+      "color": "2"
+    },
+    {
+      "id": "e18",
+      "fromNode": "thyroid",
+      "fromSide": "right",
+      "toNode": "hypothyroid",
+      "toSide": "left",
+      "label": "condition node"
+    },
+    {
+      "id": "e19",
+      "fromNode": "magnesium",
+      "fromSide": "right",
+      "toNode": "energy_pattern",
+      "toSide": "left",
+      "label": "cofactor context"
+    },
+    {
+      "id": "e20",
+      "fromNode": "inflammation",
+      "fromSide": "right",
+      "toNode": "oxygen",
+      "toSide": "left",
+      "label": "can alter iron handling"
+    },
+    {
+      "id": "e21",
+      "fromNode": "kidney",
+      "fromSide": "right",
+      "toNode": "oxygen",
+      "toSide": "left",
+      "label": "erythropoietin and anemia link"
+    },
+    {
+      "id": "e22",
+      "fromNode": "herbs",
+      "fromSide": "right",
+      "toNode": "safety",
+      "toSide": "left",
+      "label": "interaction-first"
+    },
+    {
+      "id": "e23",
+      "fromNode": "start",
+      "fromSide": "right",
+      "toNode": "fatigue",
+      "toSide": "left",
+      "label": "start from a symptom"
+    },
+    {
+      "id": "e24",
+      "fromNode": "start",
+      "fromSide": "right",
+      "toNode": "digestion",
+      "toSide": "left",
+      "label": "start from a system"
+    },
+    {
+      "id": "e25",
+      "fromNode": "start",
+      "fromSide": "right",
+      "toNode": "safety",
+      "toSide": "left",
+      "label": "check urgency first"
+    }
+  ]
+}

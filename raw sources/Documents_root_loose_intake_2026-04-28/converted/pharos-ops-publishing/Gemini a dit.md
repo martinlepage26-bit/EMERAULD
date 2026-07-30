@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, pharos-ops]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
 Gemini a dit
 I see the full process documented in your R3GEM-pt1 file. It looks like our previous final export compressed your manuscript a bit too aggressively, effectively skipping over several critical chunks of your IV. Analysis and V. Discussion blocks (specifically Algorithmic Recruitment, Platform Surveillance, and the Mechanism Synthesis).
 
@@ -17,3 +27,7 @@ To prevent "Governance Drift," we should tackle these one at a time so the prose
 
 - [[Research and Papers MOC]]
 - [[Recursive Continuity Without Memory — AI Identity Across Sessions]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **PHAROS ops and publishing**. Synthesized / anchored in [[PHAROS LinkedIn April 2026 Publishing Routine]]. Indexed under [[Governance and PHAROS MOC]].

@@ -17,7 +17,7 @@ Bounded status of the PHAROS patent and manuscript pipeline as of 2026-05-14. So
 
 ### Patent Provisional — Philip Swain
 
-- **Source:** [[raw-sources/2026-05-13/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note.md]]
+- **Source:** [[source-notes/pharos-ip-manuscript/2026-05-06 — Patent agent email — provisional application contract + notes — Source Note]]
 - Email received 2026-05-06 from Philip Swain, PhD (Patent Agent).
 - Agent confirmed method is patentable — "not an abstract idea under 35 USC 101." Key novel features confirmed: deterministic rollup, four-level evidence hierarchy, inadmissibility class, testable specificity floors, externalized evidence surface, anti-contamination constraint, adversarial stress-test suite.
 - Proposed: draft and file a **provisional patent application** based on the Invention Disclosure Form.
@@ -63,7 +63,7 @@ Martin Lepage
 
 ### Manuscript Pipeline
 
-- **Source:** [[raw-sources/2026-05-13/REVISIONS - BRAIN PAPER JOURNAL — Source Note.md]], [[raw-sources/2026-05-13/WIP recruso paper — Source Note.md]]
+- **Source:** [[source-notes/pharos-ip-manuscript/REVISIONS - BRAIN PAPER JOURNAL — Source Note]], [[source-notes/pharos-ip-manuscript/WIP recruso paper — Source Note]]
 - REVISIONS - BRAIN PAPER JOURNAL: ~8,900 bytes. Provenance tracked; synthesis pending. Connects to the active manuscript revision loop.
 - WIP recruso paper (RECURSO-DRAFT1): ~49,555 bytes — the largest source file in this cluster. Draft 1 intro + lit review revised.
 - **Status:** both files verified and archived in `raw/`. Neither has been synthesized into a wiki note or submitted.

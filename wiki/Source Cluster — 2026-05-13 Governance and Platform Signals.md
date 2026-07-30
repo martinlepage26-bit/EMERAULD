@@ -13,12 +13,12 @@ cluster_id: gov_platform
 - External governance constraints and deploy-surface signals with commercial implications.
 
 ## Source Notes
-- [[raw-sources/2026-05-13/AI is speeding into healthcare. Who should regulate it? — Source Note.md]]
+- [[AI is speeding into healthcare. Who should regulate it? — Source Note]]
 - [[Cloudflare Workers Build Source Note 2026-05-13]]
-- [[raw-sources/2026-05-13/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note]]
-- [[raw-sources/2026-05-13/Reddit Data API Wiki — Source Note.md]]
-- [[raw-sources/2026-05-13/Complete solutions, not compromises — Source Note.md]]
-- [[raw-sources/2026-05-13/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note.md]]
+- [[source-notes/misc-source-notes/Build - Compute - Workers and Pages - Martinlepage26 Account Source Note]]
+- [[source-notes/misc-source-notes/Reddit Data API Wiki — Source Note]]
+- [[source-notes/misc-source-notes/Complete solutions, not compromises — Source Note]]
+- [[source-notes/misc-source-notes/24 Profitable Digital Products to Sell in 2026 (Start Selling Today) — Source Note]]
 
 ## Henry Claim-Evidence Frame
 - Claim lane: convert the sources into bounded claims only where explicit evidence exists.

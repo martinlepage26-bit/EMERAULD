@@ -26,4 +26,4 @@ This index connects all decision records from the WSL session memory. Decisions 
 
 ## Related
 
-See [[Governance Index]] for authority and decision-making structure.
+- [[Governance and PHAROS MOC]]

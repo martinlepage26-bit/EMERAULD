@@ -120,3 +120,8 @@ All three must hit before Phase 1 begins. If any one fails, kill the bet and piv
 ## Top-comment-ready combinations sample
 
 To be drafted in Phase 0 Week 1 alongside the post. Pattern: 12 entries pulled from the existing dual-combinations.md and triple-combinations.md sources, with engineering vocabulary stripped and replaced by in-fiction working names. This is a Phase 0 prep deliverable; do not draft it until the operator is in active Phase 0 work.
+
+## Related
+
+- [[Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]
+- [[Elemental Agents — Productization Plan (2026-05-24)]]

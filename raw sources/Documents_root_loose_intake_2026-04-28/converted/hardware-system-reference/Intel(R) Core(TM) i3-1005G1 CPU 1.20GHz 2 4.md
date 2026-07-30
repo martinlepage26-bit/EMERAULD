@@ -42,3 +42,7 @@ Intel(R) UHD Graphics 1073741824
 FriendlyName                       Size MediaType
 ------------                       ---- ---------
 SKHynix_HFM256GDHTNI-87A0B 256060514304 SSD
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **hardware and system reference**. Synthesized / anchored in [[Local Hardware and Discovery Snapshot — Laptop A]]. Indexed under [[Personal and Projects MOC]].

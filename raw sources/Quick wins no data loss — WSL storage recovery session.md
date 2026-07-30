@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "Quick wins no data loss — WSL storage recovery session"
+---
 
   1. Compact the WSL vhdx — this is the biggest lever (~30-40GB potentially recoverable). Run in PowerShell as admin:
   wsl --shutdown
@@ -52,3 +61,10 @@
   6. nvm uninstall old Node versions (5G total)
 
   That's realistically 40-50GB recoverable without touching anything critical.
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

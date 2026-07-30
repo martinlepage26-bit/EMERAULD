@@ -1,7 +1,7 @@
 # RECURSO Full Integration — Fluency, Interruption, and Theoretical Synthesis
 
 ## Summary
-Enriched version of the fluency/interruption governance paper integrating 19 theoretical voices into the RECURSO governance framework. Author: Martin Lepage, PhD. Full document: `04_RECURSO_DRAFT1_FULL_INTEGRATION.docx`. This is a heavily annotated draft that maps the fluency/interruption arguments from [[Fluency, Interruption, and Institutional Accountability]] against a comprehensive theoretical genealogy, develops the **upstream classification** concept as the paper's most original contribution, and establishes three design principles and four analysis domains. Related to [[RECURSO — Final Audit and Ethical Review]], [[RECURSO — Recursive Governance Test Archive]], [[Fluency, Interruption, and Institutional Accountability]], and [[Recursive Deterministic AI Governance — Method and Paper]].
+Enriched version of the fluency/interruption governance paper integrating 19 theoretical voices into the RECURSO governance framework. Author: Martin Lepage, PhD. Full document: `04_RECURSO_DRAFT1_FULL_INTEGRATION.docx`. This is a heavily annotated draft that maps the fluency/interruption arguments from [[Fluency, Interruption, and Institutional Accountability]] against a comprehensive theoretical genealogy, develops the **upstream classification** concept as the paper's most original contribution, and establishes three design principles and four analysis domains. Related to [[RECURSO — Final Audit and Ethical Review]], [[RECURSO — Recursive Governance Test Archive]], [[Fluency, Interruption, and Institutional Accountability]], [[Recursive Deterministic AI Governance — Method and Paper]], and [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 ## Context
 Source: `04_RECURSO_DRAFT1_FULL_INTEGRATION.docx`. This is a draft integration document, likely produced after the main fluency/interruption paper to deepen its theoretical grounding. The "RECURSO" designation connects it to the [[RECURSO — Final Audit and Ethical Review]] governance case (case fingerprint 3c6266f59b5a17f084fc1d241e8ec29d5bd67c7aa71ab63733f29eea1503d343). The theoretical enrichment serves both the academic paper and the governance methodology — each theorist's contribution is mapped to a specific claim in the PHAROS governance architecture.
@@ -118,3 +118,4 @@ The PHAROS governance methodology addresses all four: upstream classification (c
 - Related: [[AI Society Manuscript — From AI Anxiety to Recursive Governance]]
 - Related: [[Agatha Governance Memo — Recursive Governance Applied to Manuscript]]
 - Related: [[Beyond Fluency — Stuttering, Autoethnography, and Unstable Epistemology]]
+- Related: [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]

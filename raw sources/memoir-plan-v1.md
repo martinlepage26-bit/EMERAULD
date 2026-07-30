@@ -1,3 +1,12 @@
+---
+type: source
+aliases: []
+tags: [raw-source, orphan-repair]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "memoir-plan-v1"
+---
 # MEMOIR PLAN v1
 ## *All the People I Was* (working title: *Vectorized*)
 ### A 100,000-word memoir by Martin Lepage
@@ -170,3 +179,10 @@ Relational constellations, not chronology. People are never the subject. They ar
 - [[Writing and Novels MOC]]
 - [[Livre des Ombres — Martin's Magical System (1996-2026)]]
 - [[Book of Beliefs and Theories — Martin's Magical System (2000s)]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

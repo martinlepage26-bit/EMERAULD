@@ -1,3 +1,13 @@
+---
+type: raw-source
+aliases: []
+tags: [documents-root-intake, ai-governance]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
+---
+
 **ARTIFACT CLASSIFICATION:** Document Cleansing / Governance Extraction
 **STATUS:** Processed
 **OBJECTIVE:** Remove UI/conversational artifacts, enforce structural clarity, and map provided source tags to mandatory citation format.
@@ -141,3 +151,7 @@ If you want the shortest high-value PHAROS entry point, start with these:
 
 - [[Research and Papers MOC]]
 - [[Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **AI governance public-market pack**. Synthesized / anchored in [[AI Governance Public Statement and Market Impact Pack]]. Indexed under [[Governance and PHAROS MOC]].
