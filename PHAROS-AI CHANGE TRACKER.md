@@ -52,3 +52,33 @@ backlinks:
 - Verified via local dev server + Playwright screenshots: desktop, mobile, French locale, filled/focus states, error state, disabled/enabled button.
 - Added `frontend/PRODUCT.md` (impeccable skill project context: brand register, personality, anti-references).
 - `frontend/style-lock.json` password was unrecoverable; hashes were regenerated directly (not via the password-gated `style:lock:update` path) with explicit owner sign-off to unblock this deploy.
+
+## 2026-07-15 — French hero brought to parity with the English redesign
+
+- Updated `frontend/src/pages/Home.js` (`HOME_COPY.fr.hero` + `HeroSection`) so the French homepage hero matches the English promise treatment.
+- New headline: "Voir la revue venir de loin" (mirrors EN "See the review come from afar"), with the calligraphic flourish span on "venir de loin".
+- Added the FR `wordmark` line and the `pharosHeroWordmark` gold image (`contextImage`/`contextImageAlt`) so the FR block carries the same lockup as EN.
+- Rewrote the FR hero body to the "missing answer" framing, and strengthened the third proof point label to "Une chaîne de preuve reconstructible" with a reconstructible-evidence value line.
+- Change originated from an Antigravity pair-programming session; verified locally (localhost render) before shipping.
+- Build passed style-lock (7 CSS files) and the hero aesthetic contract; no CSS or lock changes were required.
+- Deployed as uncommitted working-tree state via direct upload (`wrangler pages deploy build --commit-dirty=true`) from the migrated mtl-03 working copy. Not yet committed or pushed to GitHub `main` (SSH push was unavailable this session); the source change still needs a follow-up commit + push to reconcile the Git-connected Pages project.
+
+## 2026-07-30 — Search indexing and canonical-host corrections
+
+- Added self-canonical static HTML, route-specific French titles and
+  descriptions, reciprocal `hreflang`, localized Open Graph metadata, and
+  language-aware structured data for the bilingual public routes.
+- Removed the soft-404 SPA catch-all. Unknown URLs now return a real HTTP 404
+  with noindex, while `/$` permanently redirects to the canonical root.
+- Kept the public transparency JSON and Martin-site RSS feed available while
+  marking both machine resources non-indexable.
+- Normalized the governed-decisions article to its extensionless canonical URL
+  across the page, sitemap, and internal link.
+- Added and deployed the `pharos-www-redirect` Cloudflare Worker custom domain
+  so `www.pharos-ai.ca` permanently redirects to the apex while preserving
+  paths and query strings.
+- Pinned the Pages deployment to the verified `pharos-suite` owner account
+  after Wrangler correctly refused an ambiguous non-interactive account choice.
+- Verified 102 frontend tests, 9 edge-runtime tests, 50 generated bilingual
+  pages, all 42 sitemap routes, a successful production build, and local
+  Cloudflare Pages response semantics before deployment.

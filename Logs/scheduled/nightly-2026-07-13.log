@@ -1,0 +1,46 @@
+  session-state: 118/600 lines — OK
+  Journal: 112/300 lines — OK
+  Events: 151/300 lines — OK
+  Decisions: 138/300 lines — OK
+  Learning: 95/300 lines — OK
+  Blockers: 80/300 lines — OK
+
+All registers under threshold.
+GATE PASS: argus-remediations-20260708.md | governance_state=done hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-004 | STAMPS: grandfathered (pre-mechanism, 2026-07-08)
+GATE PASS: gate-authenticity-20260708.md | governance_state=done hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-005 | STAMPS: valid (3/3, chain ok)
+GATE PASS: stamp-bypass-closure-20260708.md | governance_state=cleared hephaistos_scope=defined qk_verdict=cleared relay_id=None | STAMPS: valid (2/2, chain ok)
+GATE PASS: weekly-os-health-20260708.md | governance_state=routed hephaistos_scope=defined qk_verdict=cleared relay_id=RELAY-20260708-002 | STAMPS: grandfathered (pre-mechanism, 2026-07-08)
+audit-all: 0 violation(s)
+Done. Nightly pass complete, all five phases.
+
+## What today actually was
+
+The morning agent was the **only** thing that wrote to the vault. Zero notes in `Areas/`, `Resources/`, `wiki/`, or `projects/` carry `updated: 2026-07-13`. That is the second zero-input day in three (after the 2026-07-11 OAuth failure), and it means Phases 2 and 3 had empty input sets **by construction**, not because I found nothing.
+
+## Phase results
+
+**Phase 1 — Closed the day.** Added an End of Day section to `memory/daily/2026-07-13.md`.
+
+**Phase 2 — 0 reconciled.** Empty input set. The one check available did pass: yesterday's 21 individually-dated stale notes, plus 2 crossings, minus `Areas/PHAROS/AREA` leaving the list, equals today's 22, and 763 total reconciles against 741 residual. The scan is internally consistent. No contradiction to flag.
+
+**Phase 3 — 1 synthesized, and I want to be straight with you about this one.** The formal 2-note trigger **could not be met** with zero updated notes. I created the note anyway, under the same judgment the 2026-07-11 pass used and logged. Not to hit a quota, but because today's record is the fifth instance of one real pattern:
+
+> [`wiki/EMERAULD Automation — Detection Without Consumption`](wiki/EMERAULD%20Automation%20—%20Detection%20Without%20Consumption.md) — every scheduled agent in this vault **detects**, and none **consumes**.
+
+Four symptoms, all verified on disk before I wrote a word:
+- The same `External Data Registry` pair flagged **21 consecutive mornings**, zero movement. The Reddit item is 84 days past an "URGENT (Today)" marker.
+- `FAILURES.md` holds one line, from 2026-07-11. Still unread, still uncleared, two days later.
+- The 2026-07-12 audit found **316 actionable broken links**. Read-only by design. No repair pass exists or is scheduled.
+- The 741-note bulk cohort inflates a daily headline that today's own note tells the reader to ignore.
+
+The counter-example is the deterministic remediation in `nightly.sh`, which is exactly why registers and governance gates are the only two surfaces in the vault that never drift. That is the shape of the fix, and it was never generalized.
+
+**Phase 4 — 1 orphan linked.** The morning agent's two notes were already linked and needed no healing. The new note was the orphan; it is now linked inline from `Architecture - EMERAULD Scripts - Overview`, in the hand-maintained section outside the `@generated` block so regeneration will not clobber it.
+
+**Phase 5 — Logged and rebuilt.** `session-state.md` and the additions tracker appended. Vector store rebuilt (4 notes, store at 1497 entries) and the new note verified retrievable as the top hit for "why do the overdue flags never get acted on."
+
+## Two things for you, not for me
+
+**Four controls are flagged in the new note and none executed.** `scripts/scheduled/` is a governed-task path and this pass adds and updates only. They compound with the four still-unimplemented controls from the 2026-07-11 auth note. Control 2 (make the agents read what the agents write) is the generalization of that note's control 1.
+
+**The ~July 13 Lavoie signature window elapsed today.** Contract is at v6.3; both upstream gates (founder / Annexe E ownership decision, lawyer batch) have not moved since 2026-07-10. It is now a missed date rather than an approaching one. The vault recorded it. Nothing acted on it, which is, fittingly, the exact pattern the new note is about.
