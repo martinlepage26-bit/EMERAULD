@@ -1,0 +1,6 @@
+[submodule "PEER-REVIEW"]
+	path = PEER-REVIEW
+	url = https://github.com/martinlepage26-bit/PEER-REVIEW.git
+[submodule "projects/patent-workbench"]
+	path = projects/patent-workbench
+	url = https://github.com/martinlepage26-bit/patent-workbench.git
