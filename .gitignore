@@ -49,6 +49,10 @@ Thumbs.db
 
 # Source-capture uploads — bulky, regenerable
 files (*).zip
+raw/c-documents-downloads-full-recursive-*/
+
+# Generated graph exports
+graphify-out/
 
 # Binary office docs — prefer .md for vault
 *.docx

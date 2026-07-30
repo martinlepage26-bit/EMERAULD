@@ -1,12 +1,11 @@
 ---
 type: raw-source
-title: The Returning Light — Martin Lepage 2025
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/The Returning Light — Martin Lepage 2025.md
+aliases: []
+tags: [documents-root-intake, manuscripts]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
 ---
 
 # 2025 - Martin Lepage - THE RETURNING LIGHT - book_or_monograph.docx_0.odt
@@ -1163,3 +1162,7 @@ hooks, bell. Teaching to Transgress: Education as the Practice of Freedom. Routl
 - [[THE BROKEN FREQUENCY OF THE WORD-BOOK]]
 - [[Writing and Novels MOC]]
 - [[Alchemy of the Wound]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **papers and manuscripts**. Synthesized / anchored in [[Complete Paper List — Martin Lepage Corpus]]. Indexed under [[Research and Papers MOC]] · [[Writing and Novels MOC]].

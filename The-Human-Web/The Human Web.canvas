@@ -1,0 +1,854 @@
+{
+  "nodes": [
+    {
+      "id": "g_body",
+      "type": "group",
+      "label": "BODY \u00b7 material capacity",
+      "x": -1700,
+      "y": -900,
+      "width": 1000,
+      "height": 1750,
+      "color": "4"
+    },
+    {
+      "id": "g_self",
+      "type": "group",
+      "label": "SELF \u00b7 needs and meaning",
+      "x": -550,
+      "y": -900,
+      "width": 1000,
+      "height": 1750,
+      "color": "6"
+    },
+    {
+      "id": "g_bridge",
+      "type": "group",
+      "label": "BRIDGES \u00b7 agency across scales",
+      "x": 600,
+      "y": -900,
+      "width": 1000,
+      "height": 1750,
+      "color": "3"
+    },
+    {
+      "id": "g_power",
+      "type": "group",
+      "label": "POWER \u00b7 infrastructure and institutions",
+      "x": 1750,
+      "y": -900,
+      "width": 1350,
+      "height": 1750,
+      "color": "1"
+    },
+    {
+      "id": "g_claim",
+      "type": "group",
+      "label": "CLAIM LAB \u00b7 record, inference, rhetoric",
+      "x": 0,
+      "y": 1000,
+      "width": 2500,
+      "height": 600,
+      "color": "5"
+    },
+    {
+      "id": "hw_title",
+      "type": "text",
+      "text": "# THE HUMAN WEB\nBody \u00b7 Self \u00b7 Power\n\nWhat system is under strain?\nWhat pattern is being expressed?\nWhat capacity needs to be restored?",
+      "x": -1650,
+      "y": -830,
+      "width": 900,
+      "height": 270,
+      "color": "5"
+    },
+    {
+      "id": "hw_start",
+      "type": "file",
+      "file": "START HERE.md",
+      "x": -1650,
+      "y": -480,
+      "width": 320,
+      "height": 170,
+      "color": "5"
+    },
+    {
+      "id": "hw_biology",
+      "type": "file",
+      "file": "00 Navigation/Atlas Home.md",
+      "x": -1250,
+      "y": -480,
+      "width": 350,
+      "height": 170,
+      "color": "4"
+    },
+    {
+      "id": "hw_fatigue",
+      "type": "file",
+      "file": "04 Symptoms/Fatigue.md",
+      "x": -1650,
+      "y": -160,
+      "width": 260,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "hw_energy",
+      "type": "file",
+      "file": "06 Patterns/Impaired cellular energy production.md",
+      "x": -1280,
+      "y": -160,
+      "width": 360,
+      "height": 160,
+      "color": "6"
+    },
+    {
+      "id": "hw_nervous",
+      "type": "file",
+      "file": "01 Systems/Nervous system.md",
+      "x": -1650,
+      "y": 90,
+      "width": 280,
+      "height": 140,
+      "color": "4"
+    },
+    {
+      "id": "hw_hpa",
+      "type": "file",
+      "file": "02 Pathways/HPA and autonomic stress response.md",
+      "x": -1280,
+      "y": 90,
+      "width": 360,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "hw_body_restore",
+      "type": "file",
+      "file": "06 Patterns/Nutrient depletion or excess.md",
+      "x": -1500,
+      "y": 380,
+      "width": 350,
+      "height": 160,
+      "color": "6"
+    },
+    {
+      "id": "hw_self_index",
+      "type": "file",
+      "file": "11 Self/Self index.md",
+      "x": -500,
+      "y": -820,
+      "width": 320,
+      "height": 150,
+      "color": "6"
+    },
+    {
+      "id": "hw_six",
+      "type": "file",
+      "file": "11 Self/Six Human Needs.md",
+      "x": -500,
+      "y": -560,
+      "width": 320,
+      "height": 160,
+      "color": "6"
+    },
+    {
+      "id": "hw_certainty",
+      "type": "file",
+      "file": "11 Self/Certainty.md",
+      "x": -500,
+      "y": -280,
+      "width": 240,
+      "height": 130,
+      "color": "6"
+    },
+    {
+      "id": "hw_variety",
+      "type": "file",
+      "file": "11 Self/Variety.md",
+      "x": -210,
+      "y": -280,
+      "width": 240,
+      "height": 130,
+      "color": "6"
+    },
+    {
+      "id": "hw_significance",
+      "type": "file",
+      "file": "11 Self/Significance.md",
+      "x": -500,
+      "y": -60,
+      "width": 240,
+      "height": 130,
+      "color": "6"
+    },
+    {
+      "id": "hw_connection",
+      "type": "file",
+      "file": "11 Self/Love and Connection.md",
+      "x": -210,
+      "y": -60,
+      "width": 260,
+      "height": 140,
+      "color": "6"
+    },
+    {
+      "id": "hw_growth",
+      "type": "file",
+      "file": "11 Self/Growth.md",
+      "x": -500,
+      "y": 180,
+      "width": 240,
+      "height": 130,
+      "color": "6"
+    },
+    {
+      "id": "hw_contribution",
+      "type": "file",
+      "file": "11 Self/Contribution.md",
+      "x": -210,
+      "y": 180,
+      "width": 240,
+      "height": 130,
+      "color": "6"
+    },
+    {
+      "id": "hw_middle",
+      "type": "file",
+      "file": "11 Self/The middle.md",
+      "x": -500,
+      "y": 420,
+      "width": 250,
+      "height": 140,
+      "color": "6"
+    },
+    {
+      "id": "hw_future",
+      "type": "file",
+      "file": "11 Self/Future-self question.md",
+      "x": -210,
+      "y": 420,
+      "width": 280,
+      "height": 150,
+      "color": "6"
+    },
+    {
+      "id": "hw_agency",
+      "type": "file",
+      "file": "13 Bridges/Human agency.md",
+      "x": 650,
+      "y": -820,
+      "width": 300,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "hw_attention",
+      "type": "file",
+      "file": "13 Bridges/Attention.md",
+      "x": 1050,
+      "y": -820,
+      "width": 260,
+      "height": 140,
+      "color": "3"
+    },
+    {
+      "id": "hw_prediction",
+      "type": "file",
+      "file": "13 Bridges/Prediction and uncertainty.md",
+      "x": 650,
+      "y": -540,
+      "width": 340,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "hw_safety",
+      "type": "file",
+      "file": "13 Bridges/Safety across scales.md",
+      "x": 1050,
+      "y": -540,
+      "width": 300,
+      "height": 150,
+      "color": "3"
+    },
+    {
+      "id": "hw_significance_econ",
+      "type": "file",
+      "file": "13 Bridges/Significance economies.md",
+      "x": 650,
+      "y": -260,
+      "width": 330,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "hw_platform_connection",
+      "type": "file",
+      "file": "13 Bridges/Connection and platform mediation.md",
+      "x": 1050,
+      "y": -260,
+      "width": 360,
+      "height": 170,
+      "color": "3"
+    },
+    {
+      "id": "hw_outsource",
+      "type": "file",
+      "file": "13 Bridges/Cognitive outsourcing.md",
+      "x": 650,
+      "y": 40,
+      "width": 320,
+      "height": 150,
+      "color": "3"
+    },
+    {
+      "id": "hw_collective",
+      "type": "file",
+      "file": "13 Bridges/Collective agency.md",
+      "x": 1050,
+      "y": 40,
+      "width": 280,
+      "height": 150,
+      "color": "3"
+    },
+    {
+      "id": "hw_restoration",
+      "type": "file",
+      "file": "13 Bridges/Restoration at three scales.md",
+      "x": 650,
+      "y": 340,
+      "width": 350,
+      "height": 170,
+      "color": "3"
+    },
+    {
+      "id": "hw_epistemic",
+      "type": "file",
+      "file": "13 Bridges/Epistemic hygiene.md",
+      "x": 1050,
+      "y": 340,
+      "width": 300,
+      "height": 150,
+      "color": "3"
+    },
+    {
+      "id": "hw_power_index",
+      "type": "file",
+      "file": "12 Power/Power index.md",
+      "x": 1800,
+      "y": -820,
+      "width": 320,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "hw_utility",
+      "type": "file",
+      "file": "12 Power/Intelligence as a utility.md",
+      "x": 1800,
+      "y": -560,
+      "width": 350,
+      "height": 160,
+      "color": "1"
+    },
+    {
+      "id": "hw_infra",
+      "type": "file",
+      "file": "12 Power/AI infrastructure stack.md",
+      "x": 2250,
+      "y": -560,
+      "width": 320,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "hw_concentration",
+      "type": "file",
+      "file": "12 Power/Concentrated AI power.md",
+      "x": 2650,
+      "y": -560,
+      "width": 340,
+      "height": 160,
+      "color": "1"
+    },
+    {
+      "id": "hw_thiel",
+      "type": "file",
+      "file": "12 Power/Peter Thiel.md",
+      "x": 1800,
+      "y": -250,
+      "width": 280,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "hw_palantir",
+      "type": "file",
+      "file": "12 Power/Palantir.md",
+      "x": 2160,
+      "y": -250,
+      "width": 260,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "hw_altman",
+      "type": "file",
+      "file": "12 Power/Sam Altman.md",
+      "x": 2500,
+      "y": -250,
+      "width": 280,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "hw_vance",
+      "type": "file",
+      "file": "12 Power/JD Vance.md",
+      "x": 2840,
+      "y": -250,
+      "width": 240,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "hw_cogout",
+      "type": "file",
+      "file": "12 Power/Cognitive outsourcing.md",
+      "x": 1800,
+      "y": 20,
+      "width": 330,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "hw_democracy",
+      "type": "file",
+      "file": "12 Power/Democracy and AI.md",
+      "x": 2220,
+      "y": 20,
+      "width": 320,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "hw_military",
+      "type": "file",
+      "file": "12 Power/Military AI and Gaza.md",
+      "x": 2640,
+      "y": 20,
+      "width": 330,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "hw_public",
+      "type": "file",
+      "file": "12 Power/Public and civic AI.md",
+      "x": 1800,
+      "y": 310,
+      "width": 310,
+      "height": 150,
+      "color": "2"
+    },
+    {
+      "id": "hw_risk",
+      "type": "file",
+      "file": "12 Power/Existential AI risk.md",
+      "x": 2200,
+      "y": 310,
+      "width": 310,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "hw_techfeudal",
+      "type": "file",
+      "file": "12 Power/Techno-feudalism.md",
+      "x": 2600,
+      "y": 310,
+      "width": 310,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "hw_claim_index",
+      "type": "file",
+      "file": "14 Claim Lab/Claim Lab index.md",
+      "x": 50,
+      "y": 1080,
+      "width": 300,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "hw_claim_needs",
+      "type": "file",
+      "file": "14 Claim Lab/Six-needs transcript audit.md",
+      "x": 450,
+      "y": 1080,
+      "width": 370,
+      "height": 170,
+      "color": "5"
+    },
+    {
+      "id": "hw_claim_ai",
+      "type": "file",
+      "file": "14 Claim Lab/AI power transcript audit.md",
+      "x": 920,
+      "y": 1080,
+      "width": 370,
+      "height": 170,
+      "color": "5"
+    },
+    {
+      "id": "hw_claim_workflow",
+      "type": "file",
+      "file": "14 Claim Lab/Claim-to-map workflow.md",
+      "x": 1390,
+      "y": 1080,
+      "width": 350,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "hw_claim_publish",
+      "type": "file",
+      "file": "14 Claim Lab/Publication checklist.md",
+      "x": 1840,
+      "y": 1080,
+      "width": 330,
+      "height": 150,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "hw_e01",
+      "fromNode": "hw_start",
+      "fromSide": "right",
+      "toNode": "hw_biology",
+      "toSide": "left",
+      "label": "body layer"
+    },
+    {
+      "id": "hw_e02",
+      "fromNode": "hw_start",
+      "fromSide": "right",
+      "toNode": "hw_self_index",
+      "toSide": "left",
+      "label": "self layer"
+    },
+    {
+      "id": "hw_e03",
+      "fromNode": "hw_start",
+      "fromSide": "right",
+      "toNode": "hw_power_index",
+      "toSide": "left",
+      "label": "power layer"
+    },
+    {
+      "id": "hw_e04",
+      "fromNode": "hw_fatigue",
+      "fromSide": "right",
+      "toNode": "hw_energy",
+      "toSide": "left",
+      "label": "possible pattern"
+    },
+    {
+      "id": "hw_e05",
+      "fromNode": "hw_nervous",
+      "fromSide": "right",
+      "toNode": "hw_hpa",
+      "toSide": "left",
+      "label": "regulatory pathway"
+    },
+    {
+      "id": "hw_e06",
+      "fromNode": "hw_six",
+      "fromSide": "right",
+      "toNode": "hw_certainty",
+      "toSide": "left",
+      "label": "framework category"
+    },
+    {
+      "id": "hw_e07",
+      "fromNode": "hw_six",
+      "fromSide": "right",
+      "toNode": "hw_variety",
+      "toSide": "left",
+      "label": "framework category"
+    },
+    {
+      "id": "hw_e08",
+      "fromNode": "hw_six",
+      "fromSide": "right",
+      "toNode": "hw_significance",
+      "toSide": "left",
+      "label": "framework category"
+    },
+    {
+      "id": "hw_e09",
+      "fromNode": "hw_six",
+      "fromSide": "right",
+      "toNode": "hw_connection",
+      "toSide": "left",
+      "label": "framework category"
+    },
+    {
+      "id": "hw_e10",
+      "fromNode": "hw_six",
+      "fromSide": "right",
+      "toNode": "hw_growth",
+      "toSide": "left",
+      "label": "framework category"
+    },
+    {
+      "id": "hw_e11",
+      "fromNode": "hw_six",
+      "fromSide": "right",
+      "toNode": "hw_contribution",
+      "toSide": "left",
+      "label": "framework category"
+    },
+    {
+      "id": "hw_e12",
+      "fromNode": "hw_certainty",
+      "fromSide": "right",
+      "toNode": "hw_prediction",
+      "toSide": "left",
+      "label": "conceptual bridge"
+    },
+    {
+      "id": "hw_e13",
+      "fromNode": "hw_variety",
+      "fromSide": "right",
+      "toNode": "hw_attention",
+      "toSide": "left",
+      "label": "conceptual bridge"
+    },
+    {
+      "id": "hw_e14",
+      "fromNode": "hw_significance",
+      "fromSide": "right",
+      "toNode": "hw_significance_econ",
+      "toSide": "left",
+      "label": "conceptual bridge"
+    },
+    {
+      "id": "hw_e15",
+      "fromNode": "hw_connection",
+      "fromSide": "right",
+      "toNode": "hw_platform_connection",
+      "toSide": "left",
+      "label": "conceptual bridge"
+    },
+    {
+      "id": "hw_e16",
+      "fromNode": "hw_growth",
+      "fromSide": "right",
+      "toNode": "hw_outsource",
+      "toSide": "left",
+      "label": "capacity question"
+    },
+    {
+      "id": "hw_e17",
+      "fromNode": "hw_contribution",
+      "fromSide": "right",
+      "toNode": "hw_collective",
+      "toSide": "left",
+      "label": "collective action"
+    },
+    {
+      "id": "hw_e18",
+      "fromNode": "hw_middle",
+      "fromSide": "right",
+      "toNode": "hw_restoration",
+      "toSide": "left",
+      "label": "interpretive bridge"
+    },
+    {
+      "id": "hw_e19",
+      "fromNode": "hw_future",
+      "fromSide": "right",
+      "toNode": "hw_agency",
+      "toSide": "left",
+      "label": "reflective practice"
+    },
+    {
+      "id": "hw_e20",
+      "fromNode": "hw_hpa",
+      "fromSide": "right",
+      "toNode": "hw_prediction",
+      "toSide": "left",
+      "label": "physiology bridge"
+    },
+    {
+      "id": "hw_e21",
+      "fromNode": "hw_body_restore",
+      "fromSide": "right",
+      "toNode": "hw_restoration",
+      "toSide": "left",
+      "label": "body restoration"
+    },
+    {
+      "id": "hw_e22",
+      "fromNode": "hw_attention",
+      "fromSide": "right",
+      "toNode": "hw_cogout",
+      "toSide": "left",
+      "label": "practice and design"
+    },
+    {
+      "id": "hw_e23",
+      "fromNode": "hw_prediction",
+      "fromSide": "right",
+      "toNode": "hw_utility",
+      "toSide": "left",
+      "label": "uncertainty and access"
+    },
+    {
+      "id": "hw_e24",
+      "fromNode": "hw_safety",
+      "fromSide": "right",
+      "toNode": "hw_democracy",
+      "toSide": "left",
+      "label": "rights and resilience"
+    },
+    {
+      "id": "hw_e25",
+      "fromNode": "hw_significance_econ",
+      "fromSide": "right",
+      "toNode": "hw_concentration",
+      "toSide": "left",
+      "label": "visibility and power"
+    },
+    {
+      "id": "hw_e26",
+      "fromNode": "hw_platform_connection",
+      "fromSide": "right",
+      "toNode": "hw_democracy",
+      "toSide": "left",
+      "label": "mediated public sphere"
+    },
+    {
+      "id": "hw_e27",
+      "fromNode": "hw_outsource",
+      "fromSide": "right",
+      "toNode": "hw_cogout",
+      "toSide": "left",
+      "label": "same question, different scale"
+    },
+    {
+      "id": "hw_e28",
+      "fromNode": "hw_collective",
+      "fromSide": "right",
+      "toNode": "hw_public",
+      "toSide": "left",
+      "label": "alternative institution"
+    },
+    {
+      "id": "hw_e29",
+      "fromNode": "hw_restoration",
+      "fromSide": "right",
+      "toNode": "hw_public",
+      "toSide": "left",
+      "label": "public capacity"
+    },
+    {
+      "id": "hw_e30",
+      "fromNode": "hw_epistemic",
+      "fromSide": "right",
+      "toNode": "hw_claim_ai",
+      "toSide": "left",
+      "label": "claim audit"
+    },
+    {
+      "id": "hw_e31",
+      "fromNode": "hw_utility",
+      "fromSide": "right",
+      "toNode": "hw_infra",
+      "toSide": "left",
+      "label": "depends on"
+    },
+    {
+      "id": "hw_e32",
+      "fromNode": "hw_infra",
+      "fromSide": "right",
+      "toNode": "hw_concentration",
+      "toSide": "left",
+      "label": "can concentrate"
+    },
+    {
+      "id": "hw_e33",
+      "fromNode": "hw_thiel",
+      "fromSide": "right",
+      "toNode": "hw_palantir",
+      "toSide": "left",
+      "label": "co-founded"
+    },
+    {
+      "id": "hw_e34",
+      "fromNode": "hw_thiel",
+      "fromSide": "right",
+      "toNode": "hw_altman",
+      "toSide": "left",
+      "label": "early venture backing"
+    },
+    {
+      "id": "hw_e35",
+      "fromNode": "hw_thiel",
+      "fromSide": "right",
+      "toNode": "hw_vance",
+      "toSide": "left",
+      "label": "employment and funding"
+    },
+    {
+      "id": "hw_e36",
+      "fromNode": "hw_palantir",
+      "fromSide": "right",
+      "toNode": "hw_military",
+      "toSide": "left",
+      "label": "documented partnership context"
+    },
+    {
+      "id": "hw_e37",
+      "fromNode": "hw_altman",
+      "fromSide": "right",
+      "toNode": "hw_utility",
+      "toSide": "left",
+      "label": "articulated vision"
+    },
+    {
+      "id": "hw_e38",
+      "fromNode": "hw_concentration",
+      "fromSide": "right",
+      "toNode": "hw_techfeudal",
+      "toSide": "left",
+      "label": "contested interpretation"
+    },
+    {
+      "id": "hw_e39",
+      "fromNode": "hw_claim_needs",
+      "fromSide": "right",
+      "toNode": "hw_six",
+      "toSide": "left",
+      "label": "audits framework claims"
+    },
+    {
+      "id": "hw_e40",
+      "fromNode": "hw_claim_ai",
+      "fromSide": "right",
+      "toNode": "hw_power_index",
+      "toSide": "left",
+      "label": "audits political claims"
+    },
+    {
+      "id": "hw_e41",
+      "fromNode": "hw_claim_workflow",
+      "fromSide": "right",
+      "toNode": "hw_epistemic",
+      "toSide": "left",
+      "label": "operationalizes"
+    }
+  ]
+}

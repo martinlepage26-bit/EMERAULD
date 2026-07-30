@@ -173,3 +173,8 @@ The lineage makes a specific structural argument about governance, ritual, and m
 The same argument explains why this book has multiple valid readings. A GRC professional reads a governance framework with unusual vocabulary. A hard-magic-system designer reads a TTRPG spellbook with unusual rigor. A ritual practitioner reads a working catalogue with explicit modifier escalation. All three are reading the same mechanics. The framework does not collapse to one reading. It refuses to.
 
 You do not need to follow this argument to use the framework. You only need to keep the covenant.
+
+## Related
+
+- [[Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]
+- [[Elemental Agents — Productization Plan (2026-05-24)]]

@@ -1,19 +1,17 @@
 ---
-type: raw-source
-title: Service offer prompts — GPT revenue design templates
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/Service offer prompts — GPT revenue design templates.md
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "Service offer prompts — GPT revenue design templates"
 ---
-
 Below are **5 separate ready-to-paste GPT-5.2 prompts**.
 
 ## 1. Freelance Offer Prompt
 
-```xml
+`xml
 <role>
 You are my freelance offer strategist.
 </role>
@@ -55,11 +53,11 @@ State assumptions clearly. If multiple niches fit, rank them by speed to first $
 <high_risk_self_check>
 Avoid vague “consulting.” Make each offer concrete, outcome-based, and easy to buy.
 </high_risk_self_check>
-```
+`
 
 ## 2. 30-Day Cash Plan Prompt
 
-```xml
+`xml
 <role>
 You are my AI monetization strategist.
 </role>
@@ -102,11 +100,11 @@ If data is missing, make reasonable assumptions and label them.
 <high_risk_self_check>
 Separate “must do” actions from optional optimization.
 </high_risk_self_check>
-```
+`
 
 ## 3. Seven-Day Paid Challenge Prompt
 
-```xml
+`xml
 <role>
 You are my paid challenge designer.
 </role>
@@ -149,11 +147,11 @@ Compare possible challenge angles and choose the strongest one for first revenue
 <high_risk_self_check>
 Ensure the challenge delivers a real result, not just information.
 </high_risk_self_check>
-```
+`
 
 ## 4. AI-Powered Day Rate Prompt
 
-```xml
+`xml
 <role>
 You are my premium day-rate offer architect.
 </role>
@@ -197,11 +195,11 @@ If $1,000 is too high for a first sale, suggest a credible beta version without 
 <high_risk_self_check>
 Ensure the offer can be delivered safely without making legal, medical, or compliance guarantees.
 </high_risk_self_check>
-```
+`
 
 ## 5. Three Immediate Service Offers Prompt
 
-```xml
+`xml
 <role>
 You are my online service business strategist.
 </role>
@@ -249,8 +247,15 @@ Rank the 3 offers by speed to revenue, ease of delivery, and market trust.
 <high_risk_self_check>
 Avoid generic coaching. Make the offers specific, evidence-shaped, and immediately sellable.
 </high_risk_self_check>
-```
+`
 
 ## Related
 
 - [[Building Your First AI Agent with OpenAI________]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

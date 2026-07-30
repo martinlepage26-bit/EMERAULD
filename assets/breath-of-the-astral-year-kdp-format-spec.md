@@ -306,3 +306,8 @@ Apply the same copyright page structure to this title. The ISBN prefix `979-8` i
 6. **Set up running headers** — different header for odd/even pages; suppress on chapter openers
 7. **Generate Table of Contents** from heading styles
 8. **Export to PDF** with embedded fonts for KDP upload
+
+## Related
+
+- [[Breath of the Astral Year — Astrology Monograph]]
+- [[Breath of the Astral Year — Version Genealogy]]

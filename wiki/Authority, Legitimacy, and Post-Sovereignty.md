@@ -72,7 +72,7 @@ backlinks:
 
 Authority operates through legitimacy — the mechanisms by which power becomes believable, contestable, or invisible. When those mechanisms break, what forms of authority remain possible? This TOPIC organizes papers exploring authority after institutional legitimacy collapses, the construction and contestation of legitimacy, and governance in post-sovereign conditions.
 
-This is the authority/legitimacy branch of the PHAROS governance-values graph. It sits beside [[Care, Ethics, and Governance]] and [[Consent and Boundary Frameworks]] as the legitimacy leg of the subgraph, and it links back to [[Governance and PHAROS MOC]].
+This is the authority/legitimacy branch of the PHAROS governance-values graph. It sits beside [[Care, Ethics, and Governance]] and [[Consent and Boundary Frameworks]] as the legitimacy leg of the subgraph, and it links back to [[Governance and PHAROS MOC]] and [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 **Core question:** How is authority assembled, made legible, and contested — or denied contestation?
 
@@ -141,7 +141,7 @@ How authority becomes legible or illegible; how visibility and representation sh
 - [[Sealed Card Protocol — Legitimacy, Glitch, and Charging]] — Academic manuscript analyzing AI authenticity controversies through five concepts: glitch, seam, charging, legibility, and legitimacy. Authority requires legibility.
 - [[On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]] — Algorithmic clustering as subject-making. How governance creates subjects that lack ordinary recognition pathways, shifting evidence discipline from output fairness to subject-making conditions.
 - [[Spider-Man and the Phonetic Glitch — Voice as Infrastructure]] — Phonetic legitimacy as governance mechanism. Voice as infrastructure of authority.
-- [[Voodoo Doll — Archival Governance and Colonial Naming]] — **Deferred authority** through institutional repetition: colonial labels harden into archival legitimacy. Naming-as-infrastructure; how efficient portable labels outcompete accurate but relational descriptions in cataloguing systems. Practitioner counter-description reopens jurisdiction over meaning.
+- [[Voodoo Doll — Archival Governance and Colonial Naming]] — **Deferred authority** through institutional repetition: colonial labels harden into archival legitimacy. Naming-as-infrastructure; how efficient portable labels outcompete accurate but relational descriptions in cataloguing systems. Practitioner counter-description reopens jurisdiction over meaning. This is the archival face of [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 ---
 
@@ -189,5 +189,6 @@ Foundational and adjacent reference works grounding authority/legitimacy analysi
 - [[Evidence Discipline and Epistemics]] — How authority is validated through evidence
 - [[Recursive Governance Theory]] — Governance systems addressing authority breakdown
 - [[Governance and PHAROS MOC]] — Governance architecture responding to legitimacy crisis
+- [[Deferred Authority — Archives, Proof Regimes, and AI Memory]] — archive/proof/memory version of authority: repeated labels and proof regimes harden legitimacy while hiding their construction
 - [[Governance by Denial — Legibility, Capacity, Classification (Draft)]]
 - [[1999 - Resenas]]

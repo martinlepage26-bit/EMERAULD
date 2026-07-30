@@ -1,14 +1,12 @@
 ---
-type: raw-source
-title: Livre des Ombres 1996-2026
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/Livre des Ombres 1996-2026.md
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ritual-religion]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "Livre des Ombres 1996-2026"
 ---
-
 Martin's magical system
 
 Introduction aux éléments
@@ -549,12 +547,12 @@ Lorsque tous ces préparatifs seront accomplis, allumez la bougie orange et plac
 
 Dites ensuite :
 
-```
+`
 (Nom du serviteur), je te donne la vie !
 (Nom du serviteur), tu me serviras en tout temps !
 (Nom du serviteur), (stipulez la tâche qu’il doit accomplir)
 (Nom du serviteur), vis, vis, vis !
-```
+`
 
 Vous pourrez également invoquer votre entité pour qu’elle vous aide pendant un moment précis en dessinant son symbole, en prononçant son nom et en lui ordonnant une tâche particulière.
 
@@ -572,21 +570,21 @@ Cette enceinte est désignée pour encercler, enfermer et éliminer petit à pet
 
 Allumez la chandelle et l’encens. Après avoir passé les bâtons de métal sous les volutes de l’encens, dites :
 
-```
+`
 Fruits de la nature et dons de la pierre
 Le mal tu prends et retournes à la terre
 Pour purifier ces lieux du malheur
 Unissez vos pouvoirs sur cette heure.
-```
+`
 
 Prenez ensuite les bâtons dans vos mains et visualisez un lien magique entre chacun d’eux. Lorsque vous êtes prêt, récitez l’incantation.
 
 Pour faire agir ces tiges métalliques, plantez-les dans la terre autour du lieu à exorciser. À l’instant où vous introduirez chacun d’entre eux dans le sol, dites :
 
-```
+`
 Le mal tu vaincs, le bien tu refais.
 Par le pouvoir de la terre, ainsi soit fait.
-```
+`
 
 Lorsque vous aurez planté le dernier, revenez au premier pour lier les bâtons en une enceinte magique.
 
@@ -602,12 +600,12 @@ Pour performer ce rituel, vous devez être quatre, connaître l’esprit perséc
 
 Lorsque les douze coups sonneront, allumez vos chandelles et répétez cinq fois :
 
-```
+`
 Je confine ici et expulse tout esprit,
 De la chair et des os
 Des foyers et des maisons
 De ne jamais revenir en ces lieux.
-```
+`
 
 Ainsi, l’esprit devrait être contenu et, pour détruire ses énergies, brûlez les chandelles jusqu’au bout. S’il s’agissait d’un esprit plus virulent, prenez par précaution une seconde bougie lorsque l’autre sera presque terminée, que vous aurez allumée avec la première flamme encore restante.
 
@@ -615,7 +613,7 @@ Ainsi, l’esprit devrait être contenu et, pour détruire ses énergies, brûle
 
 ## ABRACADABRA
 
-```
+`
 ABRACADABRA
 ABRACADABR
 ABRACADAB
@@ -627,7 +625,7 @@ ABRA
 ABR
 AB
 A
-```
+`
 
 Cette formule fut utilisée pendant tout le Moyen Âge. Il ne fallait que la porter autour du cou, écrit dans la disposition triangulaire ci-contre, pour charmer les maladies et chasser le danger.
 
@@ -649,12 +647,12 @@ La seconde méthode est le lien. Le lien, pouvant également être adapté pour 
 
 Allumez la chandelle et l’encens. Enveloppez la photo à l’aide du ruban et dites :
 
-```
+`
 Par ce lien, (nom de la personne),
 Je t’empêche de faire du mal,
 Du mal à tes semblables
 Et du mal à toi-même.
-```
+`
 
 Répétez ces paroles jusqu’à ce que la photo soit totalement enveloppée.
 
@@ -672,13 +670,13 @@ Il aura pour effet de faire partir ceux qui passeront près des pierres, qu’il
 
 Tout d’abord, allumez une chandelle blanche et dessinez le symbole ici-présent sur une roche. Ensuite, allumez de l’encens de copal et une chandelle noire. Prononcez l’incantation suivante et passez les pierres sous les volutes de l’encens. Vous pouvez faire autant de pierres que vous le désirez tant que la quantité reste un nombre pair. Dites :
 
-```
+`
 Pouvoirs de la terre et pouvoirs de l’air,
 Que ceux qui passent sans être invités
 Sur leurs pas, doivent retourner.
 Pouvoirs de l’eau et pouvoirs du feu
 Empêchez les intrus de pénétrer en ces lieux.
-```
+`
 
 Enfin, pour faire fonctionner les pierres, placez le symbole face à la direction dans laquelle les gens peuvent arriver.
 
@@ -699,12 +697,12 @@ Ce simple rituel pourra, lorsqu’il est soutenu par un pouvoir adéquat, vous m
 
 Coupez la pomme en deux. Tourné vers l’est, mangez une moitié et vers l’ouest, l’autre moitié. Ensuite, embrassez le miroir et dites :
 
-```
+`
 Miroir, miroir, prends ce baiser
 et montre-moi ceux qui me manquent
 Miroir, miroir, prends ce baiser
 et montre-moi ceux qui me hantent
-```
+`
 
 Couvrez ensuite vos yeux avec vos mains et regardez dans le miroir à travers vos doigts.
 
@@ -745,18 +743,18 @@ Les bornes peuvent vous aider lors de l’ouverture du cercle. À la place des l
 
 Commencez par allumez la chandelle blanche. Énergisez les pierres avec vos mains en méditant sur ce à quoi elles serviront. Lorsque vous serez prêt, allumez l’encens et passez les pierres sur ses volutes en disant :
 
-```
+`
 Pierres de la terre au cadeau du ciel
 Imbue maintenant d’une énergie nouvelle.
 Tu es à présent mon aide ici bas
 et les bornes de mon cercle, tu seras.
-```
+`
 
 Ensuite, rangez les pierres dans le sac de tissu blanc et déposez-y l’onyx en disant :
 
-```
+`
 Puisse cette onyx préserver notre pouvoir
-```
+`
 
 Lorsque vous ouvrirez votre prochain cercle, servez-vous de vos nouvelles bornes en les disposant comme vous le voudrez.
 
@@ -859,24 +857,24 @@ Quant à l’énergie de la nouvelle lune, elle engendre le repos, la régénér
 
 Dites à chaque point cardinal, en commençant par l’Est jusqu’au Nord :
 
-```
+`
 Je vous remercie, Gardien de la Tour de
 (point cardinal), élémentaux et archanges,
 de votre présence et de votre protection
 pour ce rituel. J’espère que vous reviendrez
 vous joindre à nous dans un avenir prochain.
 Au revoir et merci.
-```
+`
 
 Ensuite avec le balai, faites une fois le tour du cercle, en le balayant dans le sens inverse des aiguilles d’une montre, et en disant :
 
-```
+`
 Les énergies se dissipent
 Elles retournent à la terre et à l’éther
 d’où elles proviennent.
 Tout est maintenant comme avant.
 Ainsi soit fait.
-```
+`
 
 Donnez un coup sur le sol avec le balai pour libérer les énergies pour de bon.
 
@@ -886,20 +884,20 @@ Donnez un coup sur le sol avec le balai pour libérer les énergies pour de bon.
 
 Voici l’incantation que pourra dire la personne représentant Akasha dans le cercle à cinq :
 
-```
+`
 J’invoque maintenant Akasha,
 L’esprit de la vie, la base de tout.
 Je te demande d’unir et de lier
 les pouvoirs de l’eau, de la terre, de l’air et du feu
 Puisses-tu prendre ton énergie
 et lever les barrières de notre cercle
-```
+`
 
 Faites à présent le tour de chaque élément. Arrêtez-vous devant chacun d’eux et prononcez ces paroles :
 
-```
+`
 Je lève à présent le cône de pouvoir.
-```
+`
 
 Après avoir dit ces mots, du sol, levez vos bras et passez au prochain élément.
 
@@ -917,47 +915,47 @@ Placez vos outils et débutez les incantations.
 
 Face à l’Est, allumez l’encens en disant :
 
-```
+`
 J’invoque la présence du Gardien de la
 Tour de l’Est. Celui qui garde les Cieux
 et qui gouverne l’Air. Je t’invite à te
 joindre à ma célébration et à me prodiguer
 tes influences bénéfiques.
 Ainsi soit fait.
-```
+`
 
 Face au Sud, allumez la chandelle en disant :
 
-```
+`
 J’invoque la présence du Gardien de la
 Tour du Sud. Celui qui garde le Feu sacré
 et qui gouverne cet élément. Je t’invite à te
 joindre à ma célébration et à me prodiguer
 tes influences bénéfiques.
 Ainsi soit fait.
-```
+`
 
 Tournez-vous vers l’Ouest et, en levant la coupe d’eau, dites :
 
-```
+`
 J’invoque la présence du Gardien de la
 Tour de l’Ouest. Celui qui garde les
 Eaux sacrées et qui gouverne cet élément.
 Je t’invite à te joindre à ma célébration
 et à me prodiguer tes influences bénéfiques.
 Ainsi soit fait.
-```
+`
 
 Puis, face au Nord, jetez un peu de sel dans l’eau et dites :
 
-```
+`
 J’invoque la présence du Gardien de la
 Tour du Nord, celui qui garde la
 Terre et qui gouverne cet élément.
 Je t’invite à te joindre à ma célébration
 et à me prodiguer tes influences bénéfiques.
 Ainsi soit fait.
-```
+`
 
 ## Related
 
@@ -965,3 +963,10 @@ Ainsi soit fait.
 - [[CORPUS ou le génie de l’insistance (1)]]
 - [[Writing and Novels MOC]]
 - [[Livre des Ombres — Martin's Magical System (1996-2026)]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

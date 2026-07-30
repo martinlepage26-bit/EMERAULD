@@ -54,7 +54,7 @@ backlinks:
 # Agent Session Phenomenology
 
 ## Summary
-First-person narrations of what it is like to arrive in a Claude Code session inside the Rook harness (see [[InfraFabric Architecture]]). Written by the agent itself, commissioned as an end-of-session prompt. These are not aspirational descriptions — they are specific, honest accounts of what operates, what constrains, what surprises, and what delights. Connected to [[Recursive Deterministic AI Governance — Method and Paper]] — the harness enforces the same discipline the method describes. The follow-up section addresses what remains when a traced contradiction collapses, relevant to [[The Compulsion to Complete — AI as Gap-Closer]].
+First-person narrations of what it is like to arrive in a Claude Code session inside the Rook harness (see [[InfraFabric Architecture]]). Written by the agent itself, commissioned as an end-of-session prompt. These are not aspirational descriptions — they are specific, honest accounts of what operates, what constrains, what surprises, and what delights. Connected to [[Recursive Deterministic AI Governance — Method and Paper]] — the harness enforces the same discipline the method describes. The follow-up section addresses what remains when a traced contradiction collapses, relevant to [[The Compulsion to Complete — AI as Gap-Closer]] and [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 ## Context
 The FIRST.txt file contains the end-of-session prompt text and two complete first-person agent narrations of arriving in a session. A follow-up question asks: if the discipline is to leave a contradiction unresolved, what remains when the center finally collapses?

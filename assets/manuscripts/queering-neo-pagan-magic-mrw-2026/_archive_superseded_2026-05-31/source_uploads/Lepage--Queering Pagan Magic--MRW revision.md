@@ -134,3 +134,8 @@ To study queer magic, then, is not only to observe a cultural phenomenon. It is 
 7. Sabina Magliocco, *Witching Culture: Folklore and Neo-Paganism in America* (Philadelphia: University of Pennsylvania Press, 2004), 212–15.
 
 8. Bailey, "Meanings of Magic," 3–4, 10–12.
+
+## Related
+
+- [[Queering Neo-Pagan Magic — 2025 Revised Version]]
+- [[Queering Neo-Pagan Magic — 2006 Paper]]

@@ -145,6 +145,7 @@ This is the theoretical branch of the PHAROS graph. Its sibling branches are [[E
 - [[Bonded Intelligence Under Constraint — The LOTUS Processor Framework]] — Scientific grounding in coherence and constraint theory. Derives governance design constraints: regulation-first scaffolding, anti-coercive oversight.
 - [[Fluency, Interruption, and Institutional Accountability]] — The fluency/interruption distinction as the theoretical mechanism behind governance-as-pause.
 - [[Governance by Denial]] — Three mechanisms by which institutions produce formal rights without access. Diagnoses the political conditions requiring recursive governance.
+- [[Deferred Authority — Archives, Proof Regimes, and AI Memory]] — archive/proof/memory version of the method: repetition and retention become authority unless interrupted and made legible.
 - [[Emotional Alliance vs. Evidentiary Discipline in AI]] — Two AI response modes. Evidentiary discipline as the governance-grade standard.
 - [[Structural Analogy & Governance Systemic Parallels Between Biological, Epistemic, and Computational Memory Architectures]] — Structural memory comparison that shows why recursive governance must manage inheritance, repair, and runtime expression.
 - [[EML Function — Minimal Operator and Scientific-Calculator Completeness]] — Formal analogy for recursive construction from a minimal operator plus a constant, with a built-in warning against overclaiming universality.
@@ -182,3 +183,4 @@ This is the theoretical branch of the PHAROS graph. Its sibling branches are [[E
 - [[Epistemic Operator — Operational Specification]] — Live epistemic governance layer that runs underneath all PHAROS analytical work; the operational discipline that distinguishes governed from ungoverned output
 - [[Mathématiques comme grammaire profonde des relations — Essai philosophique]] — Philosophical essay arguing that mathematics is a "deep grammar of relations"; the structural realism and cross-disciplinary invariants it develops ground the formal scaffolding underneath recursive governance
 - [[Philosopher]] — Conceptual and governance-oriented analysis surface for value conflicts, meaning, power, and ethical structure; counterpart to the method-facing content in this map
+- [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]

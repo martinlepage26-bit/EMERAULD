@@ -449,3 +449,38 @@ The following papers constitute the Pharos corpus on which the theoretical frame
 - [[Regulating human control over autonomous systems]]
 - [[Turing AI Ethics and Governance]]
 - [[Misfit as Method Ten Diagnostic Scenes of Institut]]
+
+## References cited
+*28 reference notes matched from this paper's bibliography (auto-linked 2026-07-10).*
+
+- [[2016 — Big Data s Disparate Impact]]
+- [[Argyris 1978 — Organizational Learning A Theory of Action Perspective Reading]]
+- [[Austin 1962 — How to do things with words]]
+- [[BOMMASANI 2022 — On the Opportunities and Risks of Foundation Models]]
+- [[Bender 2021 — On the Dangers of Stochastic Parrots]]
+- [[Bommasani 2021 — On the opportunities and risks of foundation models]]
+- [[Bourdieu 1991 — Language and Symbolic Power]]
+- [[Buolamwini 2018 — Gender Shades Intersectional Accuracy Disparities in Commercial Gender]]
+- [[Cooper 2022 — Accountability in an algorithmic society Relationality responsibility and]]
+- [[Crawford 2021 — Atlas of AI Power Politics and the Planetary]]
+- [[Crenshaw 1991 — Mapping the margins Intersectionality identity politics and violence]]
+- [[DiMaggio 1983 — The Iron Cage Revisited Institutional Isomorphism and Collective]]
+- [[Dominelli 2002 — Anti-Oppressive Social Work Theory and Practice Basingstoke Palgrave]]
+- [[Doshi-Velez 2017 — Towards a rigorous science of interpretable machine learning]]
+- [[Dryzek 2000 — Deliberative Democracy and Beyond Liberals Critics Contestations Oxford]]
+- [[Eubanks 2018 — Automating Inequality How High-Tech Tools Profile Police and]]
+- [[Floridi 2018 — An ethical framework for a good AI society]]
+- [[Gadiraju 2023 — I wouldn't say offensive but '' Disability-Centered Perspectives]]
+- [[Habermas 1996 — Between Facts and Norms Contributions to a Discourse]]
+- [[Jobin 2019 — The global landscape of AI ethics guidelines]]
+- [[Pasquale 2015 — The Black Box Society The Secret Algorithms That]]
+- [[Power 1997 — The Audit Society Rituals of Verification]]
+- [[Raji 2020 — Closing the AI Accountability Gap Defining an End-to-End]]
+- [[Ramsden 2002 — Cultural Safety and Nursing Education in Aotearoa and]]
+- [[Schön 1983 — The Reflective Practitioner How Professionals Think in Action]]
+- [[Scott 2001 — Institutions and Organizations Ideas and Interests 2nd ed]]
+- [[Sculley 2015 — Hidden technical debt in machine learning systems In]]
+- [[Selbst 2019 — Fairness and Abstraction in Sociotechnical Systems (2)]]
+
+## Themes
+- [[Governance and Institutions]]

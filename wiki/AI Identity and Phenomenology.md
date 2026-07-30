@@ -51,6 +51,7 @@ How AI agents experience, persist, and understand themselves across sessions and
 
 - [[Recursive Continuity Without Memory — AI Identity Across Sessions]] — How AI identity can persist across sessions without persistent memory. Structural recursion as the continuity mechanism.
 - [[Agent Session Phenomenology]] — First-person narrations of arriving in a Claude Code session inside the Rook harness. What operates, what constrains, what surprises. The phenomenology of constraint.
+- [[Deferred Authority — Archives, Proof Regimes, and AI Memory]] — Cross-surface bridge between archive persistence, proof regimes, and session continuity.
 - [[Self-Polygraph Protocol and Suprametacognition]] — AI self-evaluation as governance instrument. Suprametacognition: meta-awareness of the limits of self-evaluation. The booby trap as a structural test of self-honesty.
 - [[Second Self System — Identity Kernel and Agent Routing Architecture]] — Operator-facing answer to persona sprawl: a governed proxy system that recreates judgment through specialist organs, not personality through competing selves.
 

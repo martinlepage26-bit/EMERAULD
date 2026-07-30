@@ -176,6 +176,10 @@ The live tracker files remain canonical in `C:\Users\softinfo\Documents`; these 
 
 Existing mirrors: [[CLIENT ACCOUNTS]], [[PHAROS SURFACE]], [[MARTIN SURFACE]], [[Hermes Dashboard — Professional Governance Tool]], [[Master Project Tracker — 2026]].
 
+## Classification pass — 2026-07-10
+
+The 51 captured Markdown files (originals + `converted/` sidecars) were **classified in place**: each now carries frontmatter (`type: raw-source`, `documents-root-intake` + a per-cluster tag, provenance, `classified: 2026-07-10`) and a `## Source classification` section backlinking its cluster synthesis note, MOC, and this intake index. All 51 are now **connected in the graph independent of the Orphan Index** (verified: loose intake 51/51 connected, 0 index-held). Bodies were preserved untouched (raw-source rule). Files were **not physically relocated** — moving raw/OCR captures into the curated `wiki/` corpus would degrade it and break the intake manifest/checksums; classification here is by tag + backlink, which is what removes them from "loose" in graph terms.
+
 ## Important Boundary
 
 This was not a cleanup or deletion pass. Nothing was moved out of Documents, and excluded files were not deleted. The intake separates vault-worthy corpus material from private records, local utility byproducts, and untriaged visual assets.

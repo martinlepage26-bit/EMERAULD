@@ -50,7 +50,7 @@ backlinks:
 # The Returning Light — Monograph
 
 ## Summary
-Philosophical-poetic monograph (2025) by Martin Lepage. Published by HEX/ADECIMAL Press. Engages queer theory, ritual studies, and posthumanism as interlocking frameworks. Thematically organized around return, light, and the figure of what comes back. **The "returning light" is structurally the Osirian rebirth structure** named in the [[Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)|2010 MA thesis]] (p. 81: *"À l'image du mythe osirien, la triade spirituelle relate ce passage migratoire"*); the Phoenix-as-rebirth motif (MA p. 67) is the closest analog in the operator's creative output to the substrate. A *texte-rite* exemplar in the Rivardian lineage (see [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]]). Part of the creative-corpus ring with [[Alchemy of the Wound — Novel]], [[The Broken Frequency of the Word — Novel]], [[Le sang qui porte ton nom — Novel]], [[CORPUS ou le génie de l'insistance — Novel]], [[The Weather Beneath the Walls — Novel]], and [[The Palace Under Root — Allegory and the Keyport Novel]]. The "returning" figure connects to the loop structure analyzed in [[Loop Papers and Recursive Governance]].
+Philosophical-poetic monograph (2025) by Martin Lepage. Published by HEX/ADECIMAL Press. Engages queer theory, ritual studies, and posthumanism as interlocking frameworks. Thematically organized around return, light, and the figure of what comes back. **The "returning light" is structurally the Osirian rebirth structure** named in the [[Mort et Naissance et L'Ombre et le Double — MA Thesis on Yvon Rivard (Université Laval, 2010)|2010 MA thesis]] (p. 81: *"À l'image du mythe osirien, la triade spirituelle relate ce passage migratoire"*); the Phoenix-as-rebirth motif (MA p. 67) is the closest analog in the operator's creative output to the substrate. A *texte-rite* exemplar in the Rivardian lineage (see [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]]). Part of the creative-corpus ring with [[Alchemy of the Wound — Novel]], [[The Broken Frequency of the Word — Novel]], [[Le sang qui porte ton nom — Novel]], [[CORPUS ou le génie de l'insistance — Novel]], [[The Weather Beneath the Walls — Novel]], and [[The Palace Under Root — Allegory and the Keyport Novel]]. The "returning" figure connects to the loop structure analyzed in [[Loop Papers and Recursive Governance]] and the archive/memory problem in [[Deferred Authority — Archives, Proof Regimes, and AI Memory]].
 
 ## Context
 Source: `2025 - Martin Lepage - THE RETURNING LIGHT - book_or_monograph.docx`. This is a hybrid form: philosophical argument combined with poetic language. Not a novel (no sustained narrative) and not an academic paper (no conventional citation structure). The monograph form allows sustained engagement with ideas across the boundary between argument and image.
@@ -82,7 +82,7 @@ Light that has already passed — from a star that may no longer exist, from a m
 
 This is the archive problem: prior outputs are real (they exist, they have effects) but their source — the reasoning process that produced them — may no longer be accessible. Working with the returning light means working with real effects whose causes you cannot verify by checking the source.
 
-**Governance application**: the archive-becomes-agent problem in [[Recursive Continuity Without Memory — AI Identity Across Sessions]] is the same as the returning light problem applied to AI sessions. Prior outputs are the returning light. Their source (the reasoning session that produced them) is gone. The governance question is the same: what admissibility rules apply to real light from a possibly-extinct source?
+**Governance application**: the archive-becomes-agent problem in [[Recursive Continuity Without Memory — AI Identity Across Sessions]] is the same as the returning light problem applied to AI sessions. Prior outputs are the returning light. Their source (the reasoning session that produced them) is gone. The governance question is the same as [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]: what admissibility rules apply to real light from a possibly-extinct source?
 
 ---
 
@@ -138,6 +138,7 @@ Each work addresses a version of the same problem: what do you do with what rema
 - Related: [[Social Compass Paper — Ritual Authority and Régime de Preuve]]
 - Related: [[Governance by Denial]]
 - Related: [[Martin Lepage — Professional Profile]]
+- Related: [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]
 
 ## Related
 

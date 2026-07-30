@@ -35,3 +35,7 @@ ssh -tt mtl-01-docs 'cd /root/docs && tmux attach -t codexresume'
 ```
 
 Detach from tmux without killing the session with `Ctrl-b d`.
+
+## Related
+
+- [[AI Infrastructure Stack]]

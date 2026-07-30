@@ -88,4 +88,4 @@ Exclusions: `node_modules`, `.venv`, build artifacts, caches, git internals, run
 - [[Governance and PHAROS MOC]]
 - [[Research and Papers MOC]]
 - [[Personal and Projects MOC]]
-- [[MANIFEST]]
+- [[raw/D-drive-scan-2026-05-12/MANIFEST]]

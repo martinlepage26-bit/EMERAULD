@@ -519,3 +519,8 @@ The Khaibit clause names the residue none of the above can administer — the sh
 A program that adopts the framework agrees to keep the covenant, honor the modifier rule, run the script on cadence, and tend the residue. The framework does not deliver governance. It refuses certain failures of governance. The work of governance remains the program's.
 
 That work is now yours.
+
+## Related
+
+- [[Elemental Agents Framework — Multi-Agent Role and Validation Architecture (2026-05-12)]]
+- [[Elemental Agents — Productization Plan (2026-05-24)]]

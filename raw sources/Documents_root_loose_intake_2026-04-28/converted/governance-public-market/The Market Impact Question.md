@@ -1,12 +1,11 @@
 ---
 type: raw-source
-title: The Market Impact Question
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/The Market Impact Question.md
+aliases: []
+tags: [documents-root-intake, ai-governance]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
 ---
 
 # The Market Impact Question
@@ -806,3 +805,7 @@ The risk is that "if they survive" is a real conditional.
 - [[Governance and PHAROS MOC]]
 - [[CONTROL 3 — Architecture Deprecation Protocol (Regulatory Grounding)]]
 - [[if-gov-ai-2027-2028]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **AI governance public-market pack**. Synthesized / anchored in [[AI Governance Public Statement and Market Impact Pack]]. Indexed under [[Governance and PHAROS MOC]].

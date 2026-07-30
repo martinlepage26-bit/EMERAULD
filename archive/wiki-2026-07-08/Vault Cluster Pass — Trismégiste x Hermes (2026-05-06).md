@@ -117,6 +117,6 @@ If the route is efficient but breaks the meaning, Hermes escalates. If the meani
 
 - [[Vault Cluster Discovery and Linking Opportunities — 2026-05-01]]
 - [[Vault Deep Linking Pass — 2026-05-06]]
-- [[Orphan Index — Vault-Level Graph Repair 2026-05-06]]
+- Orphan Index — Vault-Level Graph Repair 2026-05-06
 - [[Consent and Boundary Frameworks]]
 - [[DEEPER CONNECTIONS — The Triple Synthesis and the Governance Architecture]]

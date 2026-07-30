@@ -1,14 +1,12 @@
 ---
-type: raw-source
-title: 1) Amazon Recruiting Tool Bias (2018)
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/1) Amazon Recruiting Tool Bias (2018).md
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, ai-governance, writing-corpus]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "1) Amazon Recruiting Tool Bias (2018)"
 ---
-
 1) Amazon Recruiting Tool Bias (2018)
 An AI system that filters candidates is not a productivity feature. It is gatekeeping infrastructure. Once it sits upstream of hiring, it allocates opportunity, reshapes labor access, and produces institutional liability.
 Amazon reportedly scrapped an internal AI recruiting tool after discovering it systematically downgraded resumes that contained the word “women’s,” including women’s colleges and women’s organizations. The model learned from historical hiring data and reproduced patterns that had already favored men in technical roles. This is the predictable outcome of optimizing on a dataset that encodes a biased history while treating that dataset as a neutral training substrate.
@@ -292,3 +290,10 @@ AI anxiety in media is about credibility in an age of automation. Governance ens
 - [[2018 - audit_or_assessment]]
 - [[Research and Papers MOC]]
 - [[AI Governance Course — Ethics, Failure Modes, and Practice]]
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]

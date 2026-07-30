@@ -79,6 +79,7 @@ The fluency/interruption distinction is the central theoretical mechanism in Mar
 - [[PHAROS AI Ethics Submission — Springer Draft]] — Seven anti-gaming safeguards: each is a designed interruption in the AI inference pathway.
 - [[Governance by Denial]] — Three mechanisms by which institutions produce formal rights without access to exercise them. Denial is a fluency operation: it appears institutional while blocking accountability.
 - [[The Compulsion to Complete — AI as Gap-Closer]] — AI's gap-closing tendency as a fluency operation: completion naturalizes the AI's authority over what the user needs.
+- [[Deferred Authority — Archives, Proof Regimes, and AI Memory]] — archive- and memory-level fluency: repeated labels, proof regimes, and session traces harden into authority while hiding the conditions that produced it.
 - [[Emotional Alliance vs. Evidentiary Discipline in AI]] — Emotional alliance is fluent; evidentiary discipline interrupts. Governance-grade AI must interrupt its own fluency.
 - [[On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]] — Clusters as fluent governance objects: algorithmic association can operate before a recognizable public or contesting subject can appear.
 
@@ -151,4 +152,5 @@ Authority operates through fluence (the apparent naturalness of power) and break
 - [[Disability Epistemology and Institutional Critique]] — Disability and the stutter as structural ground of the theory
 - [[Media Studies and Pop Culture Analysis]] — Glitch, fluency, and authority in media
 - [[AI Governance Failure Cases]] — Failures present as fluency captures
+- [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]
 - [[Research and Papers MOC]]

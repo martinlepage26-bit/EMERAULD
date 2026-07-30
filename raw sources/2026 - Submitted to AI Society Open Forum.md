@@ -329,3 +329,9 @@ Appendix A: Pharos Corpus — Twenty-Four Papers
 The following papers constitute the Pharos corpus on which the theoretical framework presented in this article is based. They are listed by their phase assignment in Section 4. The papers are available from the author on request; some are under review or forthcoming.
 
 Note: Paper titles are working titles. Abbreviated forms reflect corpus filing conventions. Full titles and access information available from the author.
+
+## Related
+
+- [[AI Society Manuscript — From AI Anxiety to Recursive Governance]]
+- [[Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]
+- [[Research and Papers MOC]]

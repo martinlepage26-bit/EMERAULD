@@ -2,19 +2,11 @@
 type: wiki
 title: Martin Voice Spec — Stage Map
 aliases:
-- Voice Spec Stage Map
-tags:
-- voice-spec
-- stage-map
-- identity
-- hermes
-- operator-continuity
-- wiki
-- stage
-- spec
-- genealogy
-- voice
-- charm
+  - Martin Voice Spec — Stage Map
+  - Voice Spec Stage Map
+  - Martin Voice Spec Root Stage Map
+  - Voice Spec Root Stage Map
+tags: [voice-spec, stage-map, identity, hermes, operator-continuity]
 status: active
 created: '2026-05-02'
 updated: '2026-06-26'

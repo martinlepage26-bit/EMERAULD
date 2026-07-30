@@ -285,6 +285,7 @@ Legacy hub surface: [[Research Hub]].
 - [[Herbiers des présences]]
 - [[HELIX-session-vaisseau-thesee-emerge]]
 - [[Governance by Denial — Revised Working Draft]]
+- [[Deferred Authority — Archives, Proof Regimes, and AI Memory]]
 - [[Govern Suite Operations Runbook]]
 - [[Govern Suite Cheat Sheet]]
 - [[Free-First Architecture]]
@@ -597,7 +598,7 @@ Legacy hub surface: [[Research Hub]].
 - [[1) Amazon Recruiting Tool Bias (2018)]]
 - [[RAGE-dep-report]]
 - [[MIGRATION_REPORT]]
-- [[MANIFEST]]
+- [[raw/D-drive-scan-2026-05-12/MANIFEST]]
 - [[MIA PAPERS PLANES lyrics]]
 - [[24 Profitable Digital Products to Sell in 2026 (Start Selling Today)]]
 - [[CLAUDE]]
@@ -687,6 +688,8 @@ Legacy hub surface: [[Research Hub]].
 - [[Legitimacy Machines MOC]]
 
 External publication cross-check: [[Martin Lepage Publications — Annotated Bibliography and Verification Leads]] documents the public-facing UQAM-affiliated publication corpus, homonym exclusions, paywalled items, and acquisition gaps. Use it alongside [[Complete Paper List — Martin Lepage Corpus]], which tracks internal draft and submission status, and [[Master Reference Bridge Atlas — 2026-05-06]], which links the SAFE’s annotated references back into the brain.
+
+Reference corpus: [[Master Annotated Reference List]] is the hub for the 1,124 annotated reference notes in `references/`, each linked to a theme in [[Research Themes]] and generated from the [[MASTER REFERENCE SAFE — Canonical Bibliography System]].
 
 This is the scholarly branch of the Martin graph. The public/professional Martin surface is separated in [[Martin Lepage — Professional Profile]] and the creative/compositional surface in [[Writing and Novels MOC]].
 
@@ -1064,7 +1067,7 @@ Sub-indexes bridging this MOC to individual notes within each research subdomain
 - [[Martin Lepage Professional Identity]] — top-level identity hub for the Martin graph split.
 - [[Personal and Projects MOC]] — public/professional branch adjacent to this research surface.
 - [[Writing and Novels MOC]] — creative/compositional branch adjacent to this research surface.
-- `wiki/raw-sources/2026-05-13/` — one source note per ingested text file (20 notes; no aggregate intake note).
+- `wiki/source-notes/` — one promoted source note per ingested text file (20 notes; no aggregate intake note; formerly under `wiki/raw-sources/2026-05-13/`).
 - [[Source Cluster Map — 2026-05-13 Raw Sources]] — clustered writing map across the 20 source notes.
 - [[Source Cluster — 2026-05-13 Trismégiste Writing Packet (Henry-assisted)]] — claim-evidence drafting workflow for Trismégiste.
 

@@ -1,12 +1,11 @@
 ---
 type: raw-source
-title: Turing AI Ethics and Governance
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Turing AI Ethics and Governance.md
+aliases: []
+tags: [documents-root-intake, ai-governance]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
 ---
 
 AI Ethics and Governance in Practice Programme
@@ -6059,3 +6058,7 @@ AI Ethics and Governance in PracticeAn IntroductionVersion 1.2
 - [[Governance and PHAROS MOC]]
 - [[Research and Papers MOC]]
 - [[Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **AI governance public-market pack**. Synthesized / anchored in [[AI Governance Public Statement and Market Impact Pack]]. Indexed under [[Governance and PHAROS MOC]].

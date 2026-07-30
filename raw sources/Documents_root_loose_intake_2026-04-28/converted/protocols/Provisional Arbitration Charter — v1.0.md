@@ -1,12 +1,11 @@
 ---
 type: raw-source
-title: Provisional Arbitration Charter — v1.0
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/protocols/Provisional Arbitration Charter — v1.0.md
+aliases: []
+tags: [documents-root-intake, recursive-governance]
+status: raw
+source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
+created: 2026-04-28
+classified: 2026-07-10
 ---
 
 # PHAROS METHOD — PROVISIONAL ARBITRATION CHARTER
@@ -226,3 +225,7 @@ This document is installed as a Layer 9.5 artifact — positioned between Argus 
 
 - [[Governance and PHAROS MOC]]
 - [[Provisional Arbitration Charter — Argus Layer 9.5]]
+
+## Source classification
+
+Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **recursive-governance protocol packet**. Synthesized / anchored in [[Recursive Governance Protocol — Theseus, Auryn, Hopf]] · [[Provisional Arbitration Charter — Argus Layer 9.5]] · [[AGATHA Failure Pack — Theseus Continuity Stress Test]]. Indexed under [[Governance and PHAROS MOC]].

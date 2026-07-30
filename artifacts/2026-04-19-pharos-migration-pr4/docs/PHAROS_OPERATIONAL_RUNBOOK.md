@@ -268,4 +268,4 @@ Only three items require Martin's input. Everything else is executable.
 ## Related
 
 - [[Governance and PHAROS MOC]]
-- [[MANIFEST]]
+- [[raw/D-drive-scan-2026-05-12/MANIFEST]]

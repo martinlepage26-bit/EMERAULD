@@ -1,14 +1,12 @@
 ---
-type: raw-source
-title: memoir-part-one-draft
-tags:
-- raw-source
-status: preserved
-created: '2026-06-21'
-vault_area: raw sources
-canonical_path: raw sources/memoir-part-one-draft.md
+type: source
+aliases: []
+tags: [raw-source, orphan-repair, writing-corpus]
+status: raw
+created: 2026-07-10
+updated: 2026-07-10
+source: "memoir-part-one-draft"
 ---
-
 # PART ONE: EARTH AND ABANDONMENT
 ## Draft — *All the People I Was* (working title: *Vectorized*)
 ### Martin Lepage
@@ -473,3 +471,10 @@ Opening chapter: *Hocus Pocus Made Me a Witch* (ages 9–11, the public and priv
 - Events doc entries 11, 24–29 (Nathalie, belvédère ritual, coven formation, François)
 - IRCM Section 8 (symbolic layer — practice as hypothesis-generating system)
 - Livre des Ombres (elemental system, the four elements as identity map)
+
+
+---
+## Backlinks
+Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
+
+- Indexed in: [[Home]]
