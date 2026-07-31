@@ -1,0 +1,48 @@
+{
+  "manifest_version": 3,
+  "name": "ECHO Reader",
+  "version": "1.0.0",
+  "description": "Offline webpage reader. Extracts the main article and reads it aloud with sentence highlighting.",
+  "permissions": ["activeTab", "storage", "scripting", "contextMenus"],
+  "background": { "service_worker": "background/service-worker.js" },
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "ECHO Reader"
+  },
+  "commands": {
+    "toggle-read": {
+      "suggested_key": { "default": "Alt+R" },
+      "description": "Start reading / pause / resume"
+    },
+    "next-sentence": {
+      "suggested_key": { "default": "Alt+Period" },
+      "description": "Skip to next sentence"
+    },
+    "prev-sentence": {
+      "suggested_key": { "default": "Alt+Comma" },
+      "description": "Back to previous sentence"
+    },
+    "stop-read": {
+      "suggested_key": { "default": "Alt+X" },
+      "description": "Stop reading"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "run_at": "document_idle",
+      "js": [
+        "utils/dom.js",
+        "reader/Readability.js",
+        "storage/preferences.js",
+        "speech/speech-engine.js",
+        "speech/queue.js",
+        "content/extractor.js",
+        "content/highlighter.js",
+        "content/overlay.js",
+        "content/player.js",
+        "utils/keyboard.js"
+      ]
+    }
+  ]
+}
