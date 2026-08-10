@@ -191,4 +191,5 @@ Foundational and adjacent reference works grounding authority/legitimacy analysi
 - [[Governance and PHAROS MOC]] — Governance architecture responding to legitimacy crisis
 - [[Deferred Authority — Archives, Proof Regimes, and AI Memory]] — archive/proof/memory version of authority: repeated labels and proof regimes harden legitimacy while hiding their construction
 - [[Governance by Denial — Legibility, Capacity, Classification (Draft)]]
+- [[The Keyport Domain of Crystal — Novel]] — the themes of this note run as fiction: a kingdom whose governance function is real, distributed, and never crowned; legitimacy instruments (the Witness) that corrupt when embodied; and a parallel-record structure where ungoverned authority makes the world unrecordable
 - [[1999 - Resenas]]
