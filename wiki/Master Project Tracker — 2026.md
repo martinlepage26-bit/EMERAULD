@@ -12,7 +12,7 @@ tags:
 - machines
 status: active
 created: '2026-06-21'
-updated: '2026-07-06'
+updated: '2026-07-31'
 vault_area: wiki
 canonical_path: wiki/Master Project Tracker — 2026.md
 backlink_count: 48
@@ -79,6 +79,8 @@ Source: `MASTER_PROJECT_TRACKER_2026-03-17.md`. This tracker was produced as par
 
 ## Recent Change Notes
 
+- 2026-07-31 — Groupe Lavoie / Contremaître host correction: operator confirmed Lavoie is now on `ssh mtl-00`. Updated client lane, Lavoie area/product notes, and memory mirror. Scope is host access only; A1–A5 and legal/signature gates remain separate.
+
 - 2026-07-03 — Agent System / skill registry: copied 22 runnable Martin-authored/signature Claude skills from `/home/martin/.claude/skills/` into `/home/martin/.codex/skills/` so Codex can load them on restart. Source anchors: `/home/martin/.agents/skills/martin_skills.md` plus [[Martin Lepage — Authored Skills]]. Known drift remains: `martin_skills.md` says 22 but lists 21 headings; [[Martin Lepage — Authored Skills]] says 26 but currently enumerates 27 entries, several of which are vault-only docs rather than runnable `SKILL.md` directories.
 
 > [!warning] Contradiction detected
@@ -95,7 +97,7 @@ Daily review now uses consolidated labels while preserving the detailed tracker 
 | Commercial | PHAROS AI Commercial Launch, PHAROS Procurement-Unblock Sprint, Trust Advantage Analysis, PHAROS Commercial Strategy |
 | Method/IP | PHAROS Method patent, PHAROS Invention Disclosure, Recursive Deterministic AI Governance, PHAROS Governance Controls |
 | Products | HELIX, GAIA, Obsidian Agent Vault / Obsidian Second Brain Product |
-| Clients | ExterminationDG, Santé-France, Lavoie Construct ([[Contremaître — Groupe Lavoie Field-Operations Platform|Contremaître]] + [[LegiPro Canada-QC — Compliance Evidence Service Plan|LegiPro]] + [[Areas/Lavoie/Dossiers Client Plan-Set — Chaîne de gouvernance éditoriale 5156–5165 (2026-07-08)|dossiers client 5156–5165]]), Progression |
+| Clients | ExterminationDG, Santé-France, Groupe Lavoie ([[Contremaître — Groupe Lavoie Field-Operations Platform|Contremaître]] on `ssh mtl-00` + [[LegiPro Canada-QC — Compliance Evidence Service Plan|LegiPro]] + [[Areas/Lavoie/Dossiers Client Plan-Set — Chaîne de gouvernance éditoriale 5156–5165 (2026-07-08)|dossiers client 5156–5165]]), Lavoie Construct (separate April 2026 SOP client), Progression |
 | Agent System | Second Self System, HEPHAISTOS/Hermes/Queen Keyport routing, skill registry, memory infrastructure |
 | Publications | AI Anxiety / Recursive Governance, RDAIG Method, AI Ethics submission, Wheel and Watcher, Hegemonic Fluency |
 | Screen-Worlds Writing | Legitimacy Machines / Altars of Control, Buffy Book, Familiars of Hollywood, Glitching the Sacred, Refusing Fixity / HEXA, Unnatural Selection, Digital Agatha, Who's the Boob Who's the Trap |

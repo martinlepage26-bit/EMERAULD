@@ -20,7 +20,7 @@ tags:
 status: active
 domain: lavoie
 created: '2026-07-06'
-updated: '2026-07-12'
+updated: '2026-07-31'
 vault_area: Areas
 canonical_path: Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform.md
 backlink_count: 16
@@ -45,11 +45,11 @@ backlinks:
 
 # Contremaître — Groupe Lavoie Field-Operations Platform
 
-> For future Claude: Contremaître (formerly PHAROS FieldOps) is the field-operations software Martin is building for [[Areas/Lavoie/AREA|Groupe Lavoie]]. Repo lives at `/home/martin/Lavoie/lavoie-fieldops/` (moved from `~/pharos-fieldops`). Load this note for any Contremaître/Lavoie-software question: architecture, deployment, module map, CLI/MCP package, or the LegiPro compliance extension. State current as of 2026-07-06.
+> For future Claude: Contremaître (formerly PHAROS FieldOps) is the field-operations software Martin is building for [[Areas/Lavoie/AREA|Groupe Lavoie]]. Repo lives at `/home/martin/Lavoie/lavoie-fieldops/` (moved from `~/pharos-fieldops`). Current host access is `ssh mtl-00` as of 2026-07-31, superseding older mtl-03 backend references. Load this note for any Contremaître/Lavoie-software question: architecture, deployment, module map, CLI/MCP package, or the LegiPro compliance extension.
 
 ## Summary
 
-Contremaître is a FastAPI + React PWA field-operations platform delivered under the [[Areas/Lavoie/AREA|Groupe Lavoie]] PHAROS contract. It covers a 16-module delivery map (Carte des modules), ships with a REST-backed Typer CLI and a FastMCP server facade, and is deployed behind a Cloudflare Worker with mtl-03 as interim backend host. A separate compliance/evidence service, [[LegiPro Canada-QC — Compliance Evidence Service Plan|LegiPro Canada/QC]], is planned (docs-only) as a future integrated phase.
+Contremaître is a FastAPI + React PWA field-operations platform delivered under the [[Areas/Lavoie/AREA|Groupe Lavoie]] PHAROS contract. It covers a 16-module delivery map (Carte des modules), ships with a REST-backed Typer CLI and a FastMCP server facade, and is deployed behind a Cloudflare Worker with backend host access through `ssh mtl-00`. A separate compliance/evidence service, [[LegiPro Canada-QC — Compliance Evidence Service Plan|LegiPro Canada/QC]], is planned (docs-only) as a future integrated phase.
 
 ## Context
 
@@ -68,7 +68,7 @@ Product renamed **Contremaître** (Martin's choice) across all code and infra. F
 
 - Backend: FastAPI + SQLAlchemy 2.0 + Pydantic v2; SQLite interim → PostgreSQL target (QC cutover pending)
 - Frontend: React + Vite PWA
-- Edge: Cloudflare Worker serving SPA + `/api/*` proxy; named cloudflared tunnel to mtl-03 (interim backend host)
+- Edge: Cloudflare Worker serving SPA + `/api/*` proxy; backend host access now through `ssh mtl-00` (operator update 2026-07-31; supersedes mtl-03 interim backend references)
 - GitHub: `martinlepage26-bit/Lavoie`
 - Alembic migrations with custom `GUID`/`UTCDateTime` TypeDecorators, `render_as_batch` for SQLite; baseline `9cd2e6958d8b`, api_tokens `07f8f434bba7`. Migration path proven on LIVE prod (backup → stop → upgrade → start, data intact).
 - API tokens: `ctm_` prefix, sha256-hashed, org-scoped, revocable, accepted alongside JWT via `Authorization: Bearer`
@@ -79,7 +79,7 @@ Product renamed **Contremaître** (Martin's choice) across all code and infra. F
 
 ### Canonical URL rule (standing, for Danny/Codex and all agents)
 
-The canonical API base is the **public Worker URL** — never localhost, 127.0.0.1, mtl-03, or the private tunnel origin. Encoded in `docs/api/conventions.md` ("Base publique (canonique)") and `docs/guides/llm-guide.md`. Cloudflare WAF error 1010 blocks the default python/urllib User-Agent — clients must set a real UA (encoded in CLI/MCP + docs).
+The canonical API base is the **public Worker URL** — never localhost, 127.0.0.1, `mtl-03`, `mtl-00`, or the private tunnel origin. Encoded in `docs/api/conventions.md` ("Base publique (canonique)") and `docs/guides/llm-guide.md`. Cloudflare WAF error 1010 blocks the default python/urllib User-Agent — clients must set a real UA (encoded in CLI/MCP + docs).
 
 ### ProgressionLIVE parity roadmap (2026-07-08)
 

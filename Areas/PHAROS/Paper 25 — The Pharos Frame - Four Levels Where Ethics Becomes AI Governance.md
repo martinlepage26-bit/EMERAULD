@@ -59,9 +59,9 @@ backlinks:
 
 ## Abstract
 
-Governance discourse about artificial intelligence has expanded faster than the mechanisms it describes. Ethics frameworks proliferate; technical standards accumulate; policy consultations multiply — yet the mechanisms through which governance actually constrains what systems do, how operators are held accountable, and how outcomes can be publicly contested remain underdeveloped. This paper proposes **The Pharos Frame** as an integrative theoretical framework developed through twenty-four papers spanning fluency and interruption, recursive audit, institutional continuity, and cultural legitimacy. Drawing on a bounded corpus of practitioner-generated governance artifacts produced under conditions of recursive AI production, the paper applies the methods of reflective practice research to theorize from the archive the practice generated.
+Governance discourse about artificial intelligence has expanded faster than the mechanisms it describes. Ethics frameworks proliferate; technical standards accumulate; policy consultations multiply — yet the mechanisms through which governance actually constrains what systems do, how operators are held accountable, and how outcomes can be publicly contested remain underdeveloped. This paper proposes **The Pharos Frame** as an integrative theoretical framework developed through a corpus of twenty-two works, spanning fluency and interruption, recursive audit, institutional continuity, and cultural legitimacy. Drawing on a bounded corpus of practitioner-generated governance artifacts produced under conditions of recursive AI production, the paper applies the methods of reflective practice research to theorize from the archive the practice generated.
 
-The thesis: AI governance is not an ethics subfield and not a compliance process; it becomes real only when four conditions converge simultaneously — technical design that supports interrogation, operator-led recursive audit that sustains contested re-entry, institutional form that enables repetition, and public legitimacy that makes outcomes contestable. The twenty-four Pharos papers, read as one arc, instantiate Levels 1 and 2 of this convergence under one operator and one institutional context, and specify — by the frame's own falsifiability conditions — what demonstration of Levels 3 and 4 would require. This paper, the twenty-fifth, names the frame, maps it against the corpus, and states the conditions under which it would fail. It makes no claim of universal applicability; it offers a falsifiable convergence model and invites the field to apply its own contestation.
+The thesis: AI governance is not an ethics subfield and not a compliance process; it becomes real only when four conditions converge simultaneously — technical design that supports interrogation, operator-led recursive audit that sustains contested re-entry, institutional form that enables repetition, and public legitimacy that makes outcomes contestable. The Pharos papers, read as one arc, instantiate Levels 1 and 2 of this convergence under one operator and one institutional context, and specify — by the frame's own falsifiability conditions — what demonstration of Levels 3 and 4 would require. The arc is reported here as it stands, and is set out as a table in Section 3 rather than as a single figure, because the sequence contains works of different kinds and one number forces them into one category. Position 10, the multi-model adversarial evaluation, is filed under a Phase 3 folder convention rather than its subject; position 24, the confirmatory synthesis, is supplied by the self-validation study formerly numbered in the governance series. A frame whose defining property is falsifiability is obliged to report its own gaps rather than round them away. This paper, the twenty-fifth, names the frame, maps it against the corpus, and states the conditions under which it would fail. It makes no claim of universal applicability; it offers a falsifiable convergence model and invites the field to apply its own contestation.
 
 **Keywords:** AI governance, recursive audit, operator accountability, institutional form, public legitimacy, AI accountability
 
@@ -71,9 +71,9 @@ The thesis: AI governance is not an ethics subfield and not a compliance process
 
 The governance of artificial intelligence systems is a problem that has been solved, repeatedly, on paper. Every major jurisdiction now has a framework: the European Union's AI Act, the United States' Executive Orders on AI Safety, Canada's Artificial Intelligence and Data Act (prorogued January 2025), the OECD AI Principles, ISO/IEC 42001. These documents name what governance should accomplish. They specify categories of risk, requirements for transparency, and procedures for conformity assessment. What they do not specify — and what no framework has yet resolved — is how governance holds under the specific conditions in which AI systems operate: recursive production, asymmetric expertise, rapid capability change, and operators who are simultaneously accountable and incentivized to avoid accountability. Foundation models compound these conditions: their homogenization dynamic means that governance failures at the foundation layer propagate into every downstream application that inherits from them (Bommasani et al., 2021).
 
-This paper does not survey these frameworks. It proposes a theoretical framework for AI governance from the inside — developed through twenty-four papers that build the thing they describe. The Pharos corpus is an archive of governance practice conducted under the conditions it theorizes: recursive AI production, with a single operator, documented through the artifacts the practice generates. The resulting theory — The Pharos Frame — names four levels that must converge simultaneously for governance to hold. It is not a checklist. It is a convergence condition, and its falsifiability is one of its defining properties.
+This paper does not survey these frameworks. It proposes a theoretical framework for AI governance from the inside — developed through a corpus of twenty-two works that build the thing they describe. The Pharos corpus is an archive of governance practice conducted under the conditions it theorizes: recursive AI production, with a single operator, documented through the artifacts the practice generates. The resulting theory — The Pharos Frame — names four levels that must converge simultaneously for governance to hold. It is not a checklist. It is a convergence condition, and its falsifiability is one of its defining properties.
 
-The paper is organized as follows. Section 2 names the three reductions that governance discourse has not escaped. Section 3 describes the methodological posture of the corpus. Section 4 describes what the twenty-four papers did, in the shape of seven moves of one argument. Section 5 names the mechanisms. Section 6 specifies the ethical ground. Section 7 addresses sequence and dependency. Section 8 presents The Pharos Frame. Section 9 offers a practical test set. Section 10 states the limits. The conclusion and coda close the argument and refuse to claim completion.
+The paper is organized as follows. Section 2 names the three reductions that governance discourse has not escaped. Section 3 describes the methodological posture of the corpus. Section 4 describes what the papers did, in the shape of seven moves of one argument. Section 5 names the mechanisms. Section 6 specifies the ethical ground. Section 7 addresses sequence and dependency. Section 8 presents The Pharos Frame. Section 9 offers a practical test set. Section 10 states the limits. The conclusion and coda close the argument and refuse to claim completion.
 
 ---
 
@@ -93,13 +93,28 @@ Compliance-based approaches specify what organizations must do and verify. They 
 
 The most persistent reduction conflates governance with the authority of an oversight body: a regulator, an ethics board, a certification authority. Authority structures are necessary carriers of governance. They cannot substitute for the mechanisms through which authority is exercised in practice — what is interrogated, what is contested, what can be denied, what can be repeated. The authority claim without those mechanisms is assertion, not governance (Crawford, 2021; Pasquale, 2015).
 
-The Pharos question — asked across twenty-four papers over a period of sustained recursive production — is what governance must meet to actually hold: not on paper, not in principle, and not under ideal conditions, but in practice, in recursive AI systems, under pressure, with a single operator who is simultaneously accountable and incentivized to deflect.
+The Pharos question — asked across the corpus over a period of sustained recursive production — is what governance must meet to actually hold: not on paper, not in principle, and not under ideal conditions, but in practice, in recursive AI systems, under pressure, with a single operator who is simultaneously accountable and incentivized to deflect.
 
 ---
 
 ## 3. Démarche: Methodological Posture
 
-The Pharos corpus is a bounded archive. Its boundaries matter. It was produced by one operator (the author) across a period of sustained AI-assisted production, using multiple models across two LLM platforms (OpenAI Codex and Anthropic Claude), coordinated through a shared build-governance layer (HEPHAISTOS) that runs under WSL2 and is runtime-agnostic. The archive contains drafts, revisions, governance protocol documents, protocol revisions, test artifacts, audit outputs, and failure records. Its size at the time of this writing: more than two hundred documents across seven functional categories. The twenty-four papers that constitute the corpus for this paper are those directly constitutive of the governance method (a numbered list with phase assignments and primary corpus functions is provided in Appendix A) — the papers that build, apply, stress-test, or contest the mechanisms described here, in the sequence they were produced. Governance protocol documents, architecture specifications, earlier draft versions, and the book-length synthesis project that draws from the corpus are counted separately; they are products of the method rather than constitutive elements of it.
+The Pharos corpus is a bounded archive. Its boundaries matter. It was produced by one operator (the author) across a period of sustained AI-assisted production, using multiple models across two LLM platforms (OpenAI Codex and Anthropic Claude), coordinated through a shared build-governance layer (HEPHAISTOS) that runs under WSL2 and is runtime-agnostic. The archive contains drafts, revisions, governance protocol documents, protocol revisions, test artifacts, audit outputs, and failure records. Its size at the time of this writing: more than two hundred documents across seven functional categories. The works that constitute the corpus for this paper are those directly constitutive of the governance method (a numbered list with phase assignments and primary corpus functions is provided in Appendix A) — the papers that build, apply, stress-test, or contest the mechanisms described here, in the sequence they were produced. Governance protocol documents, architecture specifications, earlier draft versions, and the book-length synthesis project that draws from the corpus are counted separately; they are products of the method rather than constitutive elements of it.
+
+
+**A note on how the corpus is counted.** Earlier drafts of this paper gave the corpus as a number, and that number moved: twenty-two, then twenty-three, then twenty-four, as the archive was audited. The instability was not in the archive but in the counting. The sequence contains works of different kinds, and a single figure forces them into one category. The corpus is therefore reported here as a table:
+
+| Kind | Count |
+|---|---|
+| Articles occupying sequence positions | 20 |
+| Book-length syntheses in the sequence | 1 |
+| Primary data artifacts cited by sequence papers, not themselves positions | 1 |
+| Positions specified by the sequence but unfilled | 1 |
+| **Works constituting the corpus for this paper** | **22, of which 21 are argued texts** |
+
+Two clarifications follow from the table. The Möbius archive is a transcript analysed by a paper in the sequence; it is evidence, not an argument, and counting it as a position would inflate the corpus with its own data. The position originally assigned to an account of the research programme is occupied by a companion to an invention disclosure rather than by a paper, and is reported here as unfilled rather than quietly dropped.
+
+A frame whose defining property is falsifiability is obliged to report its evidence base in a form that can be checked. A table can be checked. A number that has moved three times cannot.
 
 This methodological posture — constructing the object of inquiry through sustained practice and theorizing from the archive that practice generates — belongs to the tradition of reflective practice research (Schön, 1983) and action science (Argyris & Schön, 1978). The practitioner's archive is the primary site of inquiry, not a supplement to it. The claims derived from this corpus are bounded to one operator, one institutional context, and one technological period; their generalizability is a claim the field must test, not one this paper can establish. The corpus is offered not as proof of the frame, but as the practitioner ground from which the frame is theorized — a distinction the Pharos method applies to all its claims (see §10, Limits).
 
@@ -115,7 +130,7 @@ Three methodological commitments follow from this setup.
 
 ## 4. What We Did: Seven Phases of One Argument
 
-The twenty-four papers are not a sequence of discoveries. They are, read collectively, seven moves of a single argument about what governance requires.
+The Pharos papers are not a sequence of discoveries. They are, read collectively, seven moves of a single argument about what governance requires.
 
 **Phase 0 — Ritual Substrate.** The archive contains two pre-AI papers: *Sealed Card Protocol* (2004) and *Charging Objects* (2017). These are not AI governance papers; they are papers about the conditions under which governance can exist at all. Both describe binding acts — acts that commit an agent to a course and make defection costly in a way the agent cannot simply undo (Austin, 1962). The contribution: governance requires a binding act and a chargeable site. Without them, commitment is discourse, not mechanism.
 
@@ -287,7 +302,7 @@ These tests are logically falsifiable — each specifies a necessary condition u
 
 *The frame does not solve alignment.* The alignment problem in AI systems is a technical and philosophical problem that the Pharos Frame does not resolve. The frame governs the conditions under which governance operates; it does not govern the system's capability to produce aligned outputs.
 
-*The frame is limited by the corpus's bounds.* The twenty-four Pharos papers are produced by one operator, in one institutional context, across a specific period. The claims made from this corpus are bounded by that origin. They are not claims about AI governance in general; they are claims derived from one archive, tested against its own conditions, offered to a field that will apply its own contestation.
+*The frame is limited by the corpus's bounds.* The Pharos papers are produced by one operator, in one institutional context, across a specific period. The claims made from this corpus are bounded by that origin. They are not claims about AI governance in general; they are claims derived from one archive, tested against its own conditions, offered to a field that will apply its own contestation.
 
 *The operator's position is a variable.* The governance mechanism is operator-led, which means the operator's structural position — their expertise, their institutional location, their intersectional identity — is not external to the governance claims. It is a governance variable. The Pharos Frame acknowledges this without resolving it. A governance mechanism operated by a single researcher in one jurisdiction, primarily in two languages, cannot claim neutrality about whose governance conditions it reflects (Sambasivan et al., 2021; Bender et al., 2021).
 
@@ -303,9 +318,9 @@ These tests are logically falsifiable — each specifies a necessary condition u
 
 AI governance becomes real not when ethics is added to AI systems but when four conditions converge: technical design that supports interrogation, operator-led recursive audit that sustains contested re-entry, institutional form that enables repetition, and public legitimacy that makes outcomes contestable.
 
-The twenty-four Pharos papers instantiate Levels 1 and 2 of this convergence under one operator and one institutional context, and specify — by the frame's own falsifiability conditions — what demonstration of Levels 3 and 4 would require. They do not argue for governance; they practice it, record the practice, and derive the frame from the record. The Pharos Frame is the name for the conditions their practice reveals.
+The Pharos papers instantiate Levels 1 and 2 of this convergence under one operator and one institutional context, and specify — by the frame's own falsifiability conditions — what demonstration of Levels 3 and 4 would require. They do not argue for governance; they practice it, record the practice, and derive the frame from the record. The Pharos Frame is the name for the conditions their practice reveals.
 
-This paper, the twenty-fifth, has named the frame and tested it against the question it was designed to answer. It has not established that the frame is universally applicable, or that it is complete, or that its methods are sufficient for all governance contexts. Those claims would fail the bounded non-finality test that all twenty-four papers before this one have applied to themselves.
+This paper, the twenty-fifth, has named the frame and tested it against the question it was designed to answer. It has not established that the frame is universally applicable, or that it is complete, or that its methods are sufficient for all governance contexts. Those claims would fail the bounded non-finality test that the papers before this one have applied to themselves.
 
 What the frame has established: governance is a composite practice, not an ethics subfield. Ethics is socially implemented through mechanisms, not declared through principles. The conditions for that social implementation are specifiable, testable, and falsifiable.
 
@@ -325,7 +340,7 @@ The frame specifies the conditions; it does not build the institutions. That wor
 
 **Competing interests:** The author declares no competing interests.
 
-**Data availability:** The Pharos corpus — the archive of twenty-four papers that constitutes the practitioner archive for this theoretical proposal — is available from the author on request.
+**Data availability:** The Pharos corpus — the practitioner archive for this theoretical proposal, comprising twenty articles occupying sequence positions, one book-length synthesis, one primary data artifact, and one unfilled position — is available from the author on request.
 
 **Author contributions:** Martin Lepage: sole author; conceptualization, methodology, writing — original draft, writing — review and editing.
 
@@ -397,9 +412,11 @@ Yao, S., Zhao, J., Yu, D., et al. (2023). ReAct: Synergizing reasoning and actin
 
 ---
 
-## Appendix A: Pharos Corpus — Twenty-Four Papers
+## Appendix A: Pharos Corpus — Composition
 
 The following papers constitute the Pharos corpus on which the theoretical framework presented in this article is based. They are listed by their phase assignment in Section 4. The papers are available from the author on request; some are under review or forthcoming.
+
+Two entries carry filing notes. Paper 10 exists as `05_PHAROS_method_paper_complete.md`, whose filename reflects a `05_*` folder convention rather than its subject; it is the multi-model adversarial evaluation and sits in the Phase 3 folder for that reason alone. Paper 24 is supplied by *Governance That Certifies Itself: Self-Validation and the if.gov Problem*, previously numbered in the governance series and canonicalised into this sequence as the confirmatory synthesis.
 
 | # | Phase | Title (abbreviated) | Primary function in corpus |
 |---|---|---|---|
@@ -426,7 +443,7 @@ The following papers constitute the Pharos corpus on which the theoretical frame
 | 21 | P | Magic After Legitimacy | Post-legitimacy governance conditions |
 | 22 | P | Still Running | Queer ritual infrastructure as governance model |
 | 23 | Bridge | This Paper May Not Exist | Bounded non-finality — epistemological stance |
-| 24 | Cross-cutting | [Confirmatory synthesis paper] | Convergence test across all phases |
+| 24 | Cross-cutting | Governance That Certifies Itself: Self-Validation and the if.gov Problem | Convergence test across all phases |
 
 *Note: Paper titles are working titles. Abbreviated forms reflect corpus filing conventions. Full titles and access information available from the author.*
 

@@ -4,7 +4,7 @@ title: session-state
 tags: []
 status: active
 created: '2026-06-21'
-updated: 2026-07-08T01:18-0400
+updated: 2026-07-31T00:00-0400
 vault_area: session-state.md
 canonical_path: session-state.md
 backlink_count: 53
@@ -127,3 +127,9 @@ nightly pass 2026-07-13 — phases 1-4 complete, 0 reconciled, 1 synthesized, 1 
 - Promoted 20 already-ingested source notes from `wiki/raw-sources/` to `wiki/source-notes/`.
 - Report: `raw/intake-report-c-documents-downloads-full-recursive-2026-07-14-apply.json`.
 - Cluster map: [[intake/2026-07-14/Full Recursive Intake Cluster Map - 2026-07-14]].
+
+## 2026-07-31 - Groupe Lavoie host correction
+
+- Operator update: Lavoie / Contremaître is now on `ssh mtl-00`.
+- Applied to canonical client tracker, vault client mirror, master tracker mirror, [[Areas/Lavoie/AREA]], [[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform]], the Lavoie artifact map, and `memory.md`.
+- Scope of correction: host access only. The A1–A5, founder / Annexe E, and lawyer-batch gates remain separate unless a later operator note closes them.

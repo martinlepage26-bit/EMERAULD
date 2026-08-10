@@ -11,7 +11,7 @@ tags:
 status: active
 domain: lavoie
 created: '2026-06-29'
-updated: '2026-07-12'
+updated: '2026-07-31'
 vault_area: Areas
 canonical_path: Areas/Lavoie/AREA.md
 backlink_count: 10
@@ -30,7 +30,7 @@ backlinks:
 
 # Area — Lavoie
 
-Active PHAROS client, two workstreams (operator decision 2026-07-08): the signature + SEO/marketing track is gated on A1–A5 (relayed via Patricia, ~July 13 signature window per [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)|contract v5]]); the software delivery track ([[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform|Contremaître]], [[Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan|LegiPro]]) proceeds independently and is in production.
+Active PHAROS client, two workstreams (operator decision 2026-07-08): the signature + SEO/marketing track is gated on A1–A5 (relayed via Patricia, ~July 13 signature window per [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)|contract v5]]); the software delivery track ([[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform|Contremaître]], [[Areas/Lavoie/LegiPro Canada-QC — Compliance Evidence Service Plan|LegiPro]]) proceeds independently and is in production. Operator update 2026-07-31: Lavoie is now on `ssh mtl-00`; older `mtl-03` backend references are stale for host access.
 
 ## Scope
 Groupe Lavoie: SOS Plomberie, Excavations Lavoie, GVI (property mgmt), Clôtures Israel Concept.
@@ -50,7 +50,7 @@ Groupe Lavoie: SOS Plomberie, Excavations Lavoie, GVI (property mgmt), Clôtures
 | A5 | Zones/services list (Guillaume signs) | pending |
 
 ## Active files
-- `~/Lavoie/` — client project root on disk
+- `ssh mtl-00` / `~/Lavoie/` — current client project host and root on disk
 - `~/Lavoie/lavoie-fieldops/` — **Contremaître** field-operations platform (formerly `~/pharos-fieldops`)
 - `~/Lavoie/plan-directeur-lavoie-2026.md` — master plan (parent repo, local commits only)
 - `Lavoie/jade-base44-handoff.md` — 3-app spec for Jade (Base44 dev)
@@ -64,8 +64,8 @@ The text advanced v5 → **v6.3** through three review-and-fix cycles: [[Areas/L
 ## Phase 1 build foundation (as of 2026-07-10)
 Executor-ready and awaiting Martin's green light (WP-01 first): [[Areas/Lavoie/Domain API Foundation — Phase 1 Work Orders and Ports (2026-07-10)|domain API foundation + WP-01→WP-19]], grounded in the [[Areas/Lavoie/Contremaître Integrations — Verified API Capability Map (2026-07-10)|verified integration capability map]] (VoIP.ms has no inbound-call webhook — voice is Phase 2 SIP). The licensing/network play is [[Areas/Lavoie/Marketplace de débordement — Job Overflow and Payments Architecture (2026-07-10)|marketplace de débordement]], blocked on a FINTRAC/Revenu Québec legal gate, not on engineering.
 
-## Software workstream (as of 2026-07-06)
-[[Contremaître — Groupe Lavoie Field-Operations Platform]] is deployed (Cloudflare Worker + mtl-03 interim backend, GitHub `martinlepage26-bit/Lavoie`): 16-module map, CLI + MCP + hardened API package, 49 tests. [[LegiPro Canada-QC — Compliance Evidence Service Plan]] is the planned compliance-evidence extension (docs-only, gated behind QC cutover). Standing direction from Martin (2026-07-06): all LegiPro/Contremaître language stays calm and operational — "quiet compliance workbench, not a courtroom simulator". Real client login/org email: `info@israelconcept.ca` (not israel@groupelavoie.ca).
+## Software workstream (as of 2026-07-31)
+[[Contremaître — Groupe Lavoie Field-Operations Platform]] is deployed (Cloudflare Worker + `ssh mtl-00` backend host, superseding the older mtl-03 interim backend, GitHub `martinlepage26-bit/Lavoie`): 16-module map, CLI + MCP + hardened API package, 49 tests. [[LegiPro Canada-QC — Compliance Evidence Service Plan]] is the planned compliance-evidence extension (docs-only, gated behind QC cutover). Standing direction from Martin (2026-07-06): all LegiPro/Contremaître language stays calm and operational — "quiet compliance workbench, not a courtroom simulator". Real client login/org email: `info@israelconcept.ca` (not israel@groupelavoie.ca). Host move does not by itself close the A1–A5, founder / Annexe E, or lawyer-batch gates.
 
 ## Notes for this area
 Drop Lavoie meeting notes, gate updates, and comms here.

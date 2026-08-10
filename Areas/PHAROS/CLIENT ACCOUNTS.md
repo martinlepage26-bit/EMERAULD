@@ -15,7 +15,7 @@ tags:
 status: active
 domain: pharos
 created: '2026-06-21'
-updated: '2026-07-05'
+updated: '2026-07-31'
 vault_area: Areas
 canonical_path: Areas/PHAROS/CLIENT ACCOUNTS.md
 backlink_count: 22
@@ -54,12 +54,12 @@ Accounts, prospects, and relationships tracking.
 
 Canonical lane tracker: `C:\Users\softinfo\Documents\CLIENT ACCOUNTS TRACKER.md` (WSL: `/mnt/c/Users/softinfo/Documents/CLIENT ACCOUNTS TRACKER.md`).
 
-Snapshot synced: 2026-05-05 (Lavoie row reconciled 2026-07-05 against `~/TASKS.md` + `~/BOARD.md`; the WSL canonical tracker path below is a stale mirror from the old host and is not the live source)
+Snapshot synced: 2026-07-31 (Groupe Lavoie host corrected to `ssh mtl-00`; Lavoie Construct remains a separate April 2026 SOP client)
 
 | Date | Account | Status | Next Action |
 |---|---|---|---|
 | 2026-05-05 | ExterminationDG | Contract sent; Phase C complete; Facture 002 issued | Await signed contract / client response, then client review + 2 000,00 $ balance |
-| 2026-05-10 | Groupe Lavoie | **Active** — PHAROS AI engagement, two workstreams: (1) contract-v5 signature track + SEO/marketing gated on A1–A5 relayed via Patricia; (2) software delivery (Contremaître/LegiPro) already in production | Signature window ~July 13; collect A1–A5; advance gate-free Base44 apps. See `~/.claude/skills/lavoie-gatekeeper` |
+| 2026-07-31 | Groupe Lavoie | **Active** — PHAROS AI engagement, two workstreams: (1) contract/signature + SEO/marketing gated on A1–A5 relayed via Patricia; (2) software delivery (Contremaître/LegiPro) in production, now on `ssh mtl-00` | Use `ssh mtl-00` for host access; keep clients/agents on the public Worker URL; continue A1–A5 and legal/signature gates separately. See `~/.claude/skills/lavoie-gatekeeper` |
 | 2026-04 | Lavoie Construct | Separate entity — April 2026 excavation SOP client per `_CLAUDE.md` §12; no active PHAROS engagement recorded | Keep distinct from Groupe Lavoie in all records |
 | 2026-03-30 | Sante-France | In Progress | Documentation |
 
@@ -72,7 +72,7 @@ Snapshot synced: 2026-05-05 (Lavoie row reconciled 2026-07-05 against `~/TASKS.m
 
 - Canonical lane record lives in the Documents tracker above; vault-side detail notes live in `memory/clients/`.
 - [[memory/clients/ExterminationDG]] — contract sent 2026-05-05; phase C complete; invoice 002 issued for final website/Facebook balance.
-- **Groupe Lavoie** — active PHAROS AI engagement (two workstreams, see resolution callout above); area file [[Areas/Lavoie/AREA|Area — Lavoie]]; operating rules in `~/.claude/skills/lavoie-gatekeeper` and `~/TASKS.md`.
+- **Groupe Lavoie** — active PHAROS AI engagement (two workstreams, see resolution callout above); Contremaître host access now `ssh mtl-00`; area file [[Areas/Lavoie/AREA|Area — Lavoie]]; operating rules in `~/.claude/skills/lavoie-gatekeeper` and `~/TASKS.md`.
 - [[memory/clients/Lavoie Construct]] — separate entity (April 2026 excavation SOP client); not part of the Groupe Lavoie engagement.
 - [[memory/clients/Sante-France]] — in-progress client account.
 - [[memory/clients/Progression]] — active client/prospect record (diagnostic target).
