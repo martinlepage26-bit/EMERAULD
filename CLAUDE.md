@@ -190,7 +190,7 @@ Personal Claude account: martinlepage.ai@gmail.com (never surfaced professionall
 | **RECURSO / RECURSOTRUE** | 14-layer governance framework. |
 | **VIGIL/GSK** | Clinical trial proposal (governance/research). |
 | **Self-Polygraph Protocol** | AI evaluation experiment → academic paper. |
-| **martin.govern-ai.ca** | Personal/educational site only. Never client-facing. Hosted via `martin-lepage-site` repo. |
+| **martin.govern-ai.ca** | Personal/educational site only. Never client-facing. Same Cloudflare Pages deployment (`martin-lepage-site` project) as `martin-lepage-phd.pharos-ai.ca` — sourced from the git repo `martinlepage26-bit.github.io` (GitHub Pages itself unused, 404s), not a separate `martin-lepage-site` repo. Caution: `govern-ai.ca` is a shared DNS zone also hosting unrelated products (patent-workbench, clearday, axis, fantasycast) — don't assume the whole zone is Martin's personal site. Corrected 2026-08-05, joint Hephaistos/Argus/Hermes audit. |
 | **pharos-ai.ca** | Canonical public business URL. Hosted via `pharos-suite` → Cloudflare Pages. |
 | **PHAROS-NEWLOOK** | Current live skin for pharos-ai.ca. Absorbed into `websites/pharos-suite/PHAROS-NEWLOOK/` as reference; being consolidated into `frontend/`. |
 | **Lavoie / Groupe Lavoie** | Active client (on ice pending gates A1–A5). SOS Plomberie / Excavations Lavoie / GVI / Clôtures Israel Concept. Work at `~/Lavoie/`. |

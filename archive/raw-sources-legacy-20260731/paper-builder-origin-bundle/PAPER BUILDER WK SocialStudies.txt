@@ -1,0 +1,419 @@
+Inspectable workflow for a social studies / humanities paper
+
+This is the same workflow, but written as a human-executable method. It is built to be audit-able, looped, and consequence-aware. Tokens remain as placeholders for your own files.
+
+Project header (fill once)
+
+Project: {PROJECT_ID}
+
+Working title: {TITLE_WORKING}
+
+Target genre: {TARGET_GENRE}
+
+Citation style: {CITATION_STYLE_PROFILE}
+
+Voice spec: {VOICE_SPEC_ID}
+
+Locked vocabulary set: {TERM_LOCK_SET}
+
+Style constraints: {STYLE_CONSTRAINTS}
+
+Hourglass scaffold: {HOURGLASS_ENABLED}
+
+Date range: {DATE_START} to {DATE_END}
+
+PHASE 0: LOCK
+0.1 Establish the scaffold
+
+Create an outline {OUTLINE_V0} using an hourglass logic:
+
+broad context → narrowing → thesis/problem → sections → broad implications
+
+0.2 Freeze vocabulary (term-lock)
+
+Create a glossary {GLOSSARY_V0} for the locked terms:
+
+{TERM_1} = {definition}
+
+{TERM_2} = {definition}
+
+{TERM_3} = {definition}
+
+{TERM_4} = {definition}
+
+Create a rule: no drift without a decision entry.
+
+0.3 Create the risk register
+
+Create {RISK_REGISTER_V0} listing known failure modes:
+
+term_drift
+
+unstable_citation
+
+over_polish
+
+voice_laundering
+
+purity_policing
+
+relational_gap
+
+missing_register_anchor
+
+abstraction_spike
+
+claim_arrives_late
+
+formatting_defect
+
+For each, record: trigger conditions, severity, mitigation controls, verification methods.
+
+Gate: GATE_VOCABULARY_FREEZE
+
+Evidence: {OUTLINE_V0}, {GLOSSARY_V0}, {RISK_REGISTER_V0}, {DECISION_TERM_DRIFT_RULE}
+
+PHASE 1: SPINE DRAFT (draft sections in enforced order)
+
+Draft in the following order to avoid false coherence:
+
+{SECTION_BACKGROUND_CONTEXT}
+
+{SECTION_LITERATURE_REVIEW}
+
+{SECTION_CONCEPTUAL_FRAMEWORK}
+
+{SECTION_METHODS_MATERIALS}
+
+{SECTION_ANALYSIS_RESULTS}
+
+{SECTION_DISCUSSION}
+
+{SECTION_CONCLUSION}
+
+{SECTION_FRONT_MATTER} drafted last
+
+For each section, create:
+
+{SECTION_FUNCTION} (one paragraph: what this section does in the argument)
+
+{SECTION_V1} (initial draft artifact)
+
+Section gate sequence (repeat per section)
+
+GATE_SECTION_FUNCTION_DECLARED
+
+GATE_SECTION_V1_SAVED
+
+GATE_SECTION_MIN_COHERENCE_PASS
+
+GATE_SECTION_V1_GO_NO_GO
+
+Store a short note: what was difficult, what is missing, what must be repaired later.
+
+PHASE 2: RELATIONAL COUPLING (register anchoring + relations)
+
+Replace “three lanes” thinking with registers and relations.
+
+2.1 Build the coupling matrix
+
+Create {COUPLING_MATRIX} with rows as mechanisms:
+
+glitch_as_seam_event
+
+charging_as_credibility_allocation
+
+pathway_authorization
+
+proof_regime_collision
+
+platform_condition_optimization_double_bind
+
+disability_legitimacy_policing
+
+Columns:
+
+Artifact anchor present (YES/PARTIAL/NO)
+
+Procedure anchor present (YES/PARTIAL/NO)
+
+Proof regime anchor present (YES/PARTIAL/NO)
+
+Relationship explicit (YES/PARTIAL/NO)
+
+Location notes
+
+2.2 Build an anchor inventory
+
+Create {ANCHOR_INVENTORY}. Each anchor must specify:
+
+register: artifact | procedure | proof_regime
+
+mechanism
+
+anchor type: scene/object/line, definition, gate/decision, verification result, institutional action, consequence
+
+anchor function: cue, pivot, translation, collision, stabilization, repair
+
+location: section + paragraph reference
+
+excerpt: short quote or summary
+
+artifact ref: file name / version
+
+2.3 Enforce relationship explicitness
+
+For each mechanism, write or revise at least one “relational passage” that explicitly links:
+
+the cue in the artifact register,
+
+the pivot to pathway evidence in the procedure register,
+
+the constraint/consequence in the proof regime register.
+
+This is where “direction of analysis” is decided. You do not add “more examples” randomly. You add the missing relation.
+
+Gate: GATE_RELATIONAL_ANCHORING_COMPLETE
+
+Evidence: {COUPLING_MATRIX}, {ANCHOR_INVENTORY}, {REPAIR_NOTES}
+
+PHASE 3: TRANSFORMATION PASSES (documented)
+
+Every transformation must be logged.
+
+3.1 Create a prompt/instruction log
+
+Create {PROMPT_LOG} entries for each transformation:
+
+input artifact(s)
+
+output artifact
+
+constraints applied
+
+operators used
+
+short instruction text
+
+notes
+
+3.2 Create a decision register
+
+Create {DECISION_REGISTER} entries using fixed syntax:
+Changed X because risk Y; verified by Z.
+
+3.3 Apply transformation passes
+
+Typical pass sequence:
+
+Stay-close pass {PASS_STAY_CLOSE}
+
+Signposting pass {PASS_SIGNPOSTING}
+
+Reference check pass {PASS_REFERENCE_CHECK}
+
+Format pass {PASS_FORMAT}
+
+Optional: coherence fix, relational coupling injection, expansion/compression.
+
+Gate: GATE_NO_UNLOGGED_TRANSFORMATIONS
+
+Evidence: {PROMPT_LOG}, {DECISION_REGISTER}, {SECTION_VERSION_STACK}
+
+PHASE 4: VERIFY + CONSEQUENCE CHECK
+
+Verification must target real pathway risks.
+
+4.1 Term-lock sweep
+
+Run {TERM_LOCK_SWEEP}:
+
+check for synonym drift
+
+enforce locked terms
+
+log deliberate drift if it exists and justify it
+
+Output: {TERM_LOCK_SWEEP_REPORT}
+
+4.2 Citation-to-claim mapping
+
+Create {CITATION_TO_CLAIM_MAP}:
+
+Claim ID {CLAIM_ID}
+
+Claim text {CLAIM_TEXT}
+
+Support type {SUPPORT_TYPE} (citation, dataset, fieldnote, close reading)
+
+Source {SOURCE_ID}
+
+Where it appears {SECTION_PARAGRAPH_REF}
+
+Stability flag {STABILITY_FLAG}
+
+Output: {CITATION_TO_CLAIM_MAP}
+
+4.3 Risk scan
+
+Run {RISK_SCAN_REPORT} focusing on:
+
+over-polish and generic smoothing
+
+unstable citations
+
+voice laundering
+
+purity policing drift
+
+relational gaps (anchors exist but relation not explicit)
+
+Update the risk register: {RISK_REGISTER_UPDATED}
+
+Gate: GATE_VERIFICATION_MINIMUMS_MET
+
+Evidence: {TERM_LOCK_SWEEP_REPORT}, {CITATION_TO_CLAIM_MAP}, {RISK_SCAN_REPORT}
+
+Gate: GATE_CLAIMS_CHECKABLE_PATHWAY_RECONSTRUCTIBLE
+
+Evidence: {VERIFICATION_LEDGER}, {RISK_REGISTER_UPDATED}, {APPENDIX_A_PACKET_DRAFT}
+
+PHASE 5: CADENCE (READ LOUD) AS CONTROL
+
+Cadence is a governance control against misreading and suspicion.
+
+5.1 Run Read Loud pass
+
+Use audio playback to detect:
+
+breathless clause stacks
+
+syntactic ambiguity
+
+late-arriving claims
+
+abstraction without traction
+
+template-like polish
+
+5.2 Apply micro-edits only
+
+Allowed edits:
+
+split clause stacks
+
+add one anchor sentence
+
+move knife sentence earlier
+
+rewrite generic line
+
+tighten transitions
+
+enforce punctuation and style constraints
+
+Output:
+
+{CADENCE_NOTE}
+
+{CADENCE_EDIT_LIST}
+
+Gate: GATE_CADENCE_VALIDATED
+
+Evidence: {CADENCE_NOTE}, {CADENCE_EDIT_LIST}
+
+PHASE 6: MERGE + RELEASE
+6.1 Merge manuscript v3
+
+Output: {MERGED_MANUSCRIPT_V3}
+
+6.2 Produce Appendix A (inspectable packet)
+
+Appendix A includes:
+
+{SECTION_VERSION_STACK_TABLE}
+
+{PROMPT_LOG_EXPORT}
+
+{DECISION_REGISTER_EXPORT}
+
+{COUPLING_MATRIX_EXPORT}
+
+{CADENCE_NOTE_EXPORT}
+
+{VERIFICATION_LEDGER_EXPORT}
+
+Output: {APPENDIX_A_PACKET}
+
+6.3 Produce Appendix B (one-page workflow diagram)
+
+Output: {APPENDIX_B_DIAGRAM}
+
+Gate: GATE_RELEASE_PACKAGE_COMPLETE
+
+Evidence: {MERGED_MANUSCRIPT_V3}, {APPENDIX_A_PACKET}, {APPENDIX_B_DIAGRAM}
+
+LOOPS (run as needed, logged)
+
+Each loop produces: a decision entry, a prompt log entry (or manual edit log), and updated verification evidence.
+
+L1 Term Drift
+Trigger: {TERM_VARIANT_DETECTED}
+Action: revise → re-sweep {TERM_LOCK_SWEEP}
+
+L2 Missing Register Anchor
+Trigger: {MISSING_REGISTER_ANCHOR}
+Action: add anchor → update coupling matrix → re-gate relational anchoring
+
+L3 Relationship Missing
+Trigger: anchors exist but {RELATIONSHIP_EXPLICIT}=PARTIAL/NO
+Action: write relational passage linking cue → pivot → constraint → re-check
+
+L4 Suspicion Trigger
+Trigger: {SEAM_TRIGGER_RISK}
+Action: add pathway evidence or consequence logic → re-run risk scan
+
+L5 Citation Instability
+Trigger: {UNSTABLE_CITATION_FOUND}
+Action: replace/lock cite → update claim map → re-verify
+
+Minimal templates (copy/paste)
+Prompt log entry template
+
+PROMPT_LOG_ID: {PROMPT_LOG_ID}
+
+DATE: {DATE}
+
+SECTION: {SECTION_NAME}
+
+PASS_TYPE: {PASS_TYPE}
+
+INPUT: {INPUT_ARTIFACT_IDS}
+
+OUTPUT: {OUTPUT_ARTIFACT_ID}
+
+CONSTRAINTS: term_lock={TERM_LOCK_ENFORCED}; voice_spec={VOICE_SPEC_ID}; style={STYLE_CONSTRAINTS_ID}; no_cuts={NO_CUTS}
+
+OPERATORS: {OPERATORS_USED}
+
+INSTRUCTION: {INSTRUCTION_TEXT}
+
+NOTES: {NOTES}
+
+Decision register entry template
+
+Changed {CHANGED_X} because risk {BECAUSE_RISK_Y}; verified by {VERIFIED_BY_Z}.
+
+Coupling matrix row template
+
+MECHANISM: {MECHANISM_ID}
+
+ARTIFACT_ANCHOR: {YES_PARTIAL_NO}
+
+PROCEDURE_ANCHOR: {YES_PARTIAL_NO}
+
+PROOF_REGIME_ANCHOR: {YES_PARTIAL_NO}
+
+RELATIONSHIP_EXPLICIT: {YES_PARTIAL_NO}
+
+LOCATION: {LOCATION_NOTES}

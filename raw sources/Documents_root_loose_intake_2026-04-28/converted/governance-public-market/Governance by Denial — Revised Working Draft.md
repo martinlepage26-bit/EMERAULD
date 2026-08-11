@@ -1,11 +1,12 @@
 ---
 type: raw-source
-aliases: []
-tags: [documents-root-intake, ai-governance]
-status: raw
-source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
-created: 2026-04-28
-classified: 2026-07-10
+title: Governance by Denial — Revised Working Draft
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/Governance by Denial — Revised Working Draft.md
 ---
 
 # Governance by Denial - revised working draft.docx_0.odt
@@ -134,7 +135,3 @@ Barnett, M. and Duvall, R. (2005) ‘Power in international politics’, Interna
 - [[Governance by Denial — Revised Working Draft]]
 - [[Governance and PHAROS MOC]]
 - [[Governance by Denial]]
-
-## Source classification
-
-Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **AI governance public-market pack**. Synthesized / anchored in [[AI Governance Public Statement and Market Impact Pack]]. Indexed under [[Governance and PHAROS MOC]].

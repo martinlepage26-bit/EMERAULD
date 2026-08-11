@@ -13,7 +13,7 @@ tags:
 status: active
 domain: pharos
 created: '2026-06-26'
-updated: '2026-06-26'
+updated: '2026-08-05'
 vault_area: Areas
 canonical_path: Areas/PHAROS/company.md
 backlink_count: 5
@@ -76,8 +76,9 @@ backlinks:
 | Surface | URL | Repo |
 |---------|-----|------|
 | PHAROS public | pharos-ai.ca | `apps/web-apps/pharos-suite/` |
-| Martin personal | martin.govern-ai.ca | `martin-lepage-site` |
-| GitHub Pages | martinlepage26-bit.github.io | separate repo |
+| Martin personal | martin.govern-ai.ca (same deploy as martin-lepage-phd.pharos-ai.ca) | `martinlepage26-bit.github.io`, deployed as the `martin-lepage-site` Cloudflare Pages project — GitHub Pages itself is unused on that repo (404) |
+
+Corrected 2026-08-05 ([[CLAUDE]], joint Hephaistos/Argus/Hermes audit, verified live via `wrangler pages project list`): `martin-lepage-site` is a Cloudflare Pages *project name*, not a separate repo, and `martinlepage26-bit.github.io` is not a "separate repo" from Martin's personal site — it is the one repo behind it. `govern-ai.ca` is also a shared DNS zone hosting unrelated products (patent-workbench, clearday, axis, fantasycast subdomains); don't assume the whole zone is Martin's personal site.
 - AurorA, COMPASSai, HELIX → PHAROS surface only
 - LOTUS, SCRIPTO, GAIA, ECHO, DR. SORT → Martin surface only
 - PHAROS, COMPASSai, and AurorA stay off the Martin surface

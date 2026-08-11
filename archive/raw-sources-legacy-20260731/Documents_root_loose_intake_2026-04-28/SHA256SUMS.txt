@@ -1,0 +1,94 @@
+c01739fcfea532d2613ddcb4cddb236c177adda671b2b33f37f59414a1b8ea04  ./COPIED_FILES.tsv
+c3788a8c0f8de81e4b2ebf4cafe57c05db6cbb7a7119fb50d955b172b9589b14  ./EXCLUDED_FILES.md
+5c57bf68d9eff26ace3941ede8bd62bcadcad4d3ad4c99ef95c21846bc85b3a9  ./agatha-stress-tests/FULL ST NEW AGATHA-FAIL.txt
+8c61224bed9ee4a8428cb7b15b258e1899520031396c005cdabed84851dee3c3  ./agatha-stress-tests/stress0test NEW AGATHA - FAIL.txt
+140a2a8c3c846e8a00f8777026f190570bc20f7babdbac77570d6ca59445b376  ./canonical-tracker-snapshots/CLIENT ACCOUNTS TRACKER.md
+46e9c2c185f26c22b30855eac56243d7a7bd0bea83a6f3f6e30962d87378ef83  ./canonical-tracker-snapshots/MARTIN-SITE CHANGE TRACKER.md
+80f5f25fda5d0e2cfe0ffb4ae1d94c33eb70c7e91270b7f4a1a3ce452ecbbb41  ./canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).csv
+9cffc7d49f78605d7a4049329757f894a45553e00e01a812acaa327dbe3ee4f1  ./canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).md
+f266d5d6b40705a7bc1db95d4f4b7732c2ef82a977422f7cddd0e26e39d44523  ./canonical-tracker-snapshots/METHOD TRACKER.md
+4ff253590786cb90a943235836e7650e2f180a24a8bd06947edbf86d9978e60f  ./canonical-tracker-snapshots/PHAROS-AI CHANGE TRACKER.md
+e7e29b4391a4560d13e0c84d4f9648584504f2448f17c4bfdf4834a6e989f38f  ./converted/COPIED_FILES.tsv.md
+60654150e3dece58269e4db44e808f5850623f3d640d30e59472be40409fe715  ./converted/SHA256SUMS.txt.md
+85498e5330ce563df6e1421d4d633e8ef5bc0c0a156de05483ae660de40c1f03  ./converted/agatha-stress-tests/FULL ST NEW AGATHA-FAIL.txt.md
+d48237c0e81f40f66c51e01ab44df41d7f368fbf6ccaae1be619cadad0464c47  ./converted/agatha-stress-tests/stress0test NEW AGATHA - FAIL.txt.md
+68a4f60c8cbbb2c49ed106a94d1aff4abdb6dd7166d26818660407c0a768ec84  ./converted/canonical-tracker-snapshots/CLIENT ACCOUNTS TRACKER.md.md
+46e9c2c185f26c22b30855eac56243d7a7bd0bea83a6f3f6e30962d87378ef83  ./converted/canonical-tracker-snapshots/MARTIN-SITE CHANGE TRACKER.md.md
+b4e91e42bee26fd3312a6ddb16dd24de4cfcbce340ac6b22e15ba016acb04e21  ./converted/canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).csv.md
+29e822eeef7790d2710ae4778f32e2a36ccda54402afa16616af873d0158f328  ./converted/canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).md.md
+7719f50221c22d9544a76ccb74caed6bca9cfe9661bc51cae9168262cb64f4e7  ./converted/canonical-tracker-snapshots/METHOD TRACKER.md.md
+dab161a5e785298650d5f9ba24c489eb449c2f796d0900616989f8c64528b4b5  ./converted/canonical-tracker-snapshots/PHAROS-AI CHANGE TRACKER.md.md
+d0642e007e3fdc9ed16e03da03c19b09c2ac5777cde7884cc454ff704623a75a  ./converted/governance-public-market/Agentic_AI_Autonomous_Intelligence_for_Complex_GoalsA_Comprehensive_Survey.pdf.md
+c69e3650752e4288b043371736ccf0a7255e72c729ea0d9e8c46fdc53850fb74  ./converted/governance-public-market/FR-QC-.txt.md
+88c05f2664254f4ddc057a36994016842201a21a4f990b05c9383d1d1a87dc15  ./converted/governance-public-market/Governance%20by%20Denial%20-%20revised%20working%20draft.docx_0.odt.md
+436d436f3fa53ebf4a1b0d45f6109bf178686d7630e28152ce8c7ada6f0ac707  ./converted/governance-public-market/Spec-1-ai Governance Engine.pdf.md
+8315dbadddfc8d05350d5348d29771e50479366ead42f4b66496791cb8cce773  ./converted/governance-public-market/Turing AI Ethics and Governance.pdf.md
+2c02edfabfb535586f946ff579df84ac375220893414f9e998de36a22fa2e83e  ./converted/governance-public-market/ai_governance_public_statement.txt.md
+090b6b046cba976045ecfdeac705b389f33c83530cb54c2b9f726c14d4785507  ./converted/governance-public-market/ai_governance_public_statementlong.txt.md
+a32517a3c9151f733bfa7ab4866eee89cdde117ead649a5ac81cf7246e24e13c  ./converted/governance-public-market/if-gov-ai-2027-2028.md.md
+45a8b1642a3e9e9e623707dcfd3aa3d0d545503b56d91032a6a455c0b76eaefa  ./converted/governance-public-market/untitled_2.odt.md
+83acdb4427957e8c79e3ca7c127e397689d243196efdfa62d918b5911d8af39a  ./converted/hardware-system-reference/& $envUSERPROFILEDesktopcompact_wsl.txt.md
+f1c47abd9907b18b10fa8429bf905e13da3be66ba60f659ef5a13057d6c1478f  ./converted/hardware-system-reference/Laptop A.txt.md
+effe461c0679bf23332f08e5b570493f5328745d9760f7d9f900e7bc5d6fff54  ./converted/papers-and-manuscripts/2025%20-%20Martin%20Lepage%20-%20THE%20RETURNING%20LIGHT%20-%20book_or_monograph.docx_0.odt.md
+a58ecd80d5bee0f282761293ddf742be1aff5276235477522ed9da463ba41780  ./converted/papers-and-manuscripts/Ahmed, Sara. The Promise of Happine.txt.md
+f26bf8694109ee56de193e2acb804fe27888f813683ffb488c08fb3b2d06db2a  ./converted/papers-and-manuscripts/Alchemy of the Wound.docx.md
+29cae9552768f813f8a4a25afc2eaec8ec6d4e3030dd19b385ff93ea4e94a7fd  ./converted/papers-and-manuscripts/CORPUS ou le génie de l’insistance (1).md.md
+7bd44462ff694eb6ab5f244b5fb4978c75d696c0cbba8dc147649790e524a79f  ./converted/papers-and-manuscripts/Complete Paper List — Martin Lepage.txt.md
+2571a4d1848bf9a004d239283e095b89b94da269a65fc09aa32e199a5c5043bc  ./converted/papers-and-manuscripts/Hair.enw.md
+67b14e1f3d937e4ea8a13680358b7b6348bb32e84fc41b2d16d1ccd7e9616846  ./converted/papers-and-manuscripts/Material CultureCharging Objects: Ritual, Artistic Practice, and the Crisis of Legitimacy.md
+5904ed7dd195848c9a520d4f7455dc3575ede08898edc31536219dc7c2b21ea8  ./converted/papers-and-manuscripts/The_Kybalion.pdf.md
+5472b6c41274e22f695c438e8311f4e10c8d865afab24649f0609d5897b6ac46  ./converted/pharos-ops-publishing/Gemini a dit.txt.md
+48be611a7cbc9e696fb1043de788ada99ffbbc159ce98e356377e713e4debd50  ./converted/pharos-ops-publishing/LINKEDIN-SCHEDULE-NOW.md.md
+1fcb34e6cf84374a55e691be3d1a37986fba9376c7ea8bcc10a9f253c12aa080  ./converted/pharos-ops-publishing/PHAROS_LinkedIn_Monthly_Routine_2026-04.md.md
+44645605715db6b3cc53e5a17097a708b650493ccad6853e0b5a150d8691afdb  ./converted/pharos-ops-publishing/SKILL_AUDIT_2026-04-06.md.md
+e587d4b1d69bd05f509e7a53a4f6e13c86dd7675d814262638dc3282423c4125  ./converted/pharos-ops-publishing/linkedin-schedule.js.md
+23ce52e41e6dc484a6ff4d2efb1e2a39f8215076d095eeac2116e4c9a47062ea  ./converted/protocols/00_MASTER_EXPLAINER.txt.md
+4e66a5738426bc814f8561839f7b260a345003d4265f30b82baa41df2051a6d6  ./converted/protocols/01_THESEUS_TEMPLATE.txt.md
+3342c52b2838ca069c6c43477f2d6e2ac901d80e07a359d5f9d296b292400451  ./converted/protocols/02_THESEUS_ARCHIVE.txt.md
+a739d29ab593fec65cc7fafdbc2d9b609cfa5277adda58b1557893deddbaa06a  ./converted/protocols/03_THESEUS_QUESTIONS.txt.md
+410e18eddb34a3a76d172ae81f904fd1955d7c09265712792a4e55df135d4df1  ./converted/protocols/04_AURYN_TEMPLATE.txt.md
+7b53d332e5be47986eef5476e2f82cf30a8cfec8a12938b4ddf37910244cd7e4  ./converted/protocols/05_AURYN_ARCHIVE.txt.md
+d80814bde99245a48f42bd606f6d3d15896b1d5816df4f59c2d739f06d101716  ./converted/protocols/06_AURYN_QUESTIONS.txt.md
+49d4ac324a21151dc42ad2a3862e068cadcf082145666ffb48c07815ed8f1890  ./converted/protocols/07_HOPF_TEMPLATE.txt.md
+b995ff481ed131434925d9b0489c2d1758e67db1e73bdbd979fb8f0f17d743b5  ./converted/protocols/08_HOPF_ARCHIVE.txt.md
+890c7b489d2a1461266d6da898b67b0f4a488be2d3069821ab4d21bfe2249aef  ./converted/protocols/09_HOPF_QUESTIONS.txt.md
+951acc55a2e1c46917d9d087076db6b72bad26b0c79683cb24335af9bd8aab22  ./converted/protocols/ARGUS AUDIT TRACKER.md.md
+d722f2c26f662f21d81935d8987aa041a487a20d51a34af183d3a7a1269a02d2  ./converted/protocols/provisional-arbitration-charter-v1.1.md.md
+114dd234464f429676cfdcb292d7fe5d7a80d16c5b6fa69fb5faf6ec97eea571  ./converted/protocols/provisional-arbitration-charter.md.md
+3215f0fb8ba0780b8e8c670d30f3c777002cc2438ceec6cbeb4077a009ca1509  ./governance-public-market/Agentic_AI_Autonomous_Intelligence_for_Complex_GoalsA_Comprehensive_Survey.pdf
+8ba95c2076b719d4feec463f2faded5ae390cc135a3b104fd7c3eef63c08bde1  ./governance-public-market/FR-QC-.txt
+d7d5b795ceb2c479ba26a27b0722e1ef8e7fa955de5797adbf78b760d4fdbc45  ./governance-public-market/Governance%20by%20Denial%20-%20revised%20working%20draft.docx_0.odt
+c61320bafe61f1f88861b47704c311501e364be9a362776e070d10c9d92c2492  ./governance-public-market/Spec-1-ai Governance Engine.pdf
+28180e996c4495c7f193b7914a9823d1f291562af5bef0546d7f5fa9e565695c  ./governance-public-market/Turing AI Ethics and Governance.pdf
+2c02edfabfb535586f946ff579df84ac375220893414f9e998de36a22fa2e83e  ./governance-public-market/ai_governance_public_statement.txt
+090b6b046cba976045ecfdeac705b389f33c83530cb54c2b9f726c14d4785507  ./governance-public-market/ai_governance_public_statementlong.txt
+9acd6d863641ccf08194bf1e55bd60044279b7831c1149ef7c6600c1e51c79ab  ./governance-public-market/if-gov-ai-2027-2028.md
+727a87cba7962b795354901c71f2ddf0d6561931af3faf6f646198fdde764e83  ./governance-public-market/untitled_2.odt
+36420ccf5e8dc690648c53fad94863faaa3e1d5f59dedb93af40cf8c92ec78a5  ./hardware-system-reference/& $envUSERPROFILEDesktopcompact_wsl.txt
+b149308a98621fe25b7fcadd5577536561afbdafdd67e53228033e88234b9b14  ./hardware-system-reference/Laptop A.txt
+f8dc5f5a2a398849f99a185cd61436e01b42d46765762fa004921ed875404826  ./papers-and-manuscripts/2025%20-%20Martin%20Lepage%20-%20THE%20RETURNING%20LIGHT%20-%20book_or_monograph.docx_0.odt
+61fa69023b74b9951c4b2f01e7b6acdcb8148a30f220ae9707ddce2a474c6366  ./papers-and-manuscripts/Ahmed, Sara. The Promise of Happine.txt
+12b8877a51076f20e38b0413b677a5e67d2f5da4bb876effe7e739175e5ec129  ./papers-and-manuscripts/Alchemy of the Wound.docx
+c275be18926cfc8f5d22226cf9c25018c8198b0eb263047baf19077b5db5719c  ./papers-and-manuscripts/CORPUS ou le génie de l’insistance (1).md
+0eda715b37243cb1c91405148a00d96bd74531552aaa68db6266e58da63a087f  ./papers-and-manuscripts/Complete Paper List — Martin Lepage.txt
+4dffe7318a9564f27dcae4625e44da5929e17b87f6dae2d65d76bac8b3e7f27a  ./papers-and-manuscripts/Hair.enw
+c47e64f022810e75199d8ea293ff0326721506b8f24a089429f62b28f311f9d9  ./papers-and-manuscripts/Material CultureCharging Objects: Ritual, Artistic Practice, and the Crisis of Legitimacy
+77b1d358c8b3a9d56c5a19432d6091447a275db781fc3effe1c36d5161c0b136  ./papers-and-manuscripts/The_Kybalion.pdf
+16fdf067879b381c086a7c2b836c5559f29cb4cade3ec5c372cf39974877978b  ./pharos-ops-publishing/Gemini a dit.txt
+48be611a7cbc9e696fb1043de788ada99ffbbc159ce98e356377e713e4debd50  ./pharos-ops-publishing/LINKEDIN-SCHEDULE-NOW.md
+1fcb34e6cf84374a55e691be3d1a37986fba9376c7ea8bcc10a9f253c12aa080  ./pharos-ops-publishing/PHAROS_LinkedIn_Monthly_Routine_2026-04.md
+eff2c8c57e6f890caf6dcb9946f99fe409cb084db3c47b3e9f2d0b6a07d4bfe3  ./pharos-ops-publishing/SKILL_AUDIT_2026-04-06.md
+e587d4b1d69bd05f509e7a53a4f6e13c86dd7675d814262638dc3282423c4125  ./pharos-ops-publishing/linkedin-schedule.js
+28282a44bc95a492aca6d4c70b57051b1860cdb5fd4c82dea1c7dd35c0bad2ec  ./protocols/00_MASTER_EXPLAINER.txt
+4e66a5738426bc814f8561839f7b260a345003d4265f30b82baa41df2051a6d6  ./protocols/01_THESEUS_TEMPLATE.txt
+fab02a268406f1aeefc272be45489a0d83377a94cf558960a3c5ab74e0ac5155  ./protocols/02_THESEUS_ARCHIVE.txt
+0e2cd4de7c5e7f005ac23583e66fec9d4211e864f121426c86cc7b5690c2fc92  ./protocols/03_THESEUS_QUESTIONS.txt
+410e18eddb34a3a76d172ae81f904fd1955d7c09265712792a4e55df135d4df1  ./protocols/04_AURYN_TEMPLATE.txt
+fe2838196c7478e850df8a94fd56a4d707bc5597fb72befa5993d90a882fe3a5  ./protocols/05_AURYN_ARCHIVE.txt
+d80814bde99245a48f42bd606f6d3d15896b1d5816df4f59c2d739f06d101716  ./protocols/06_AURYN_QUESTIONS.txt
+49d4ac324a21151dc42ad2a3862e068cadcf082145666ffb48c07815ed8f1890  ./protocols/07_HOPF_TEMPLATE.txt
+bdcd6db1b8043ea4f1c6b14d05a375c031745d8f3da07ba25a54fecc5c71d5e4  ./protocols/08_HOPF_ARCHIVE.txt
+890c7b489d2a1461266d6da898b67b0f4a488be2d3069821ab4d21bfe2249aef  ./protocols/09_HOPF_QUESTIONS.txt
+951acc55a2e1c46917d9d087076db6b72bad26b0c79683cb24335af9bd8aab22  ./protocols/ARGUS AUDIT TRACKER.md
+d722f2c26f662f21d81935d8987aa041a487a20d51a34af183d3a7a1269a02d2  ./protocols/provisional-arbitration-charter-v1.1.md
+114dd234464f429676cfdcb292d7fe5d7a80d16c5b6fa69fb5faf6ec97eea571  ./protocols/provisional-arbitration-charter.md

@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Literature references in common English — raw reference list"
+type: raw-source
+title: Literature references in common English — raw reference list
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Literature references in common English — raw reference list.md
 ---
+
 Here are generally adopted literature references in common English, categorized by their meaning:
 1. For Misfortune, Struggle, or Hardship"A sea of troubles" (Shakespeare, Hamlet): Used to describe an overwhelming amount of problems."The best-laid schemes o' mice an' men / Gang aft agley" (Robert Burns): Used to express that even the best plans often go wrong."Whips and scorns of time" (Shakespeare, Hamlet): Refers to the injustices, mockery, and hardships one suffers simply by living."The Winter of our discontent" (Shakespeare, Richard III): Used to describe a time of unhappiness or dissatisfaction.
 
@@ -35,10 +37,3 @@ From Greek Mythology"Achilles' heel": A person's one specific weakness or vulner
 Secularized Religious Idioms"The writing on the wall" (Book of Daniel): A clear sign that something is going to fail or come to an end soon."Good Samaritan" (New Testament): Someone who helps a stranger in need without expecting anything in return."Turn the other cheek" (New Testament): Choosing not to retaliate or seek revenge when someone mistreats you."Wash your hands of it" (Pontius Pilate): To refuse to take responsibility for a situation or to distance yourself from it entirely."At your wits' end" (Book of Psalms): To be so worried or confused that you don't know what to do next."Forbidden fruit" (Book of Genesis): Something that is desired specifically because it is not allowed.More Pop Culture "Shorthand""The Golden Ticket" (Charlie and the Chocolate Factory): A rare opportunity that guarantees success or entry into something exclusive."Kryptonite" (Superman comics): A specific thing that acts as a person’s ultimate weakness (similar to Achilles' heel, but often used for things like "Chocolate is my kryptonite")."Catnip" (Real world, but a common metaphor): Used to describe something that is irresistible to a specific group of people (e.g., "That new tech is catnip for investors")."Double-edged sword" (Ancient, but used constantly in media): A situation or decision that has both favorable and unfavorable consequences.
 
 1. Nautical (Sea) TermsThese come from the age of sailing ships, where "social shorthand" was often a matter of life or death:"Loose cannon": Someone who is unpredictable and likely to cause damage. In the old days, if a heavy cannon broke free from its ropes during a storm, it would roll around the deck smashing everything in its path."Show your true colours": To reveal your real character or intentions. Ships used to carry flags (colours) from many nations to deceive enemies; they only showed their "true" flag when they were ready to fight."Taken aback": To be surprised or shocked. This originally described a ship's sails being flattened against the mast by a sudden change in wind, stopping the boat dead."Feeling blue": To be sad. When a ship’s captain died at sea, the crew would fly a blue flag and paint a blue stripe along the hull when returning to port."Smooth sailing": When a situation is going perfectly and easily without any obstacles.2. Sporting MetaphorsThese are the go-to phrases in business and politics to describe progress and competition:"Ballpark figure": A rough estimate. It refers to being "within the stadium," even if you aren't exactly on the right base."Hail Mary": A desperate, last-ditch effort with very little chance of success. It comes from American football, describing a long, risky pass thrown at the very end of a game."Drop the ball": To make a mistake or fail to handle a responsibility."Level playing field": A situation where everyone has the same opportunities or advantages."On the home stretch": The final part of a long or difficult task. This comes from horse racing, referring to the final straight part of the track leading to the finish line.3. Combat & Weaponry"Bite the bullet": To endure a painful situation bravely. Before anesthesia, soldiers would literally bite down on a lead bullet to keep from screaming during surgery."Flash in the pan": Something that shows great promise but fails almost immediately. It refers to early flintlock guns where the gunpowder would sometimes flare up (flash) in the pan without actually firing the bullet.
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

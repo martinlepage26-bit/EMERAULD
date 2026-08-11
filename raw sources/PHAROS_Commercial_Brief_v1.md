@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, ai-governance]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "PHAROS_Commercial_Brief_v1"
+type: raw-source
+title: PHAROS_Commercial_Brief_v1
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/PHAROS_Commercial_Brief_v1.md
 ---
+
 # PHAROS AI
 
 ## AI Governance That Survives the Inspector Leaving
@@ -170,10 +172,3 @@ pharos-ai.ca
 
 - [[Governance and PHAROS MOC]]
 - [[Regulatory Arbitrage — EU AI Act + Law 25 + 93-Day Window (Synthesis)]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

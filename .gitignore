@@ -80,3 +80,4 @@ pytest-cache-files-*/
 cloudflare/**/node_modules/
 cloudflare/**/.wrangler/
 cloudflare/**/dist/
+.gstack/

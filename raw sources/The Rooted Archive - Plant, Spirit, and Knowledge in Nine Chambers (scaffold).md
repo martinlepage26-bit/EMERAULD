@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "The Rooted Archive - Plant, Spirit, and Knowledge in Nine Chambers (scaffold)"
+type: raw-source
+title: The Rooted Archive - Plant, Spirit, and Knowledge in Nine Chambers (scaffold)
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/The Rooted Archive - Plant, Spirit, and Knowledge in Nine Chambers (scaffold).md
 ---
+
 A Curriculum for Advanced Students in Ethnobotany, Folklore, and Living Practice
 
   ---
@@ -1349,10 +1351,3 @@ A Curriculum for Advanced Students in Ethnobotany, Folklore, and Living Practice
 - [[Stuttering through the Institution On Queer Knowing, Academic Containment, and Refusal]]
 - [[Writing and Novels MOC]]
 - [[The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

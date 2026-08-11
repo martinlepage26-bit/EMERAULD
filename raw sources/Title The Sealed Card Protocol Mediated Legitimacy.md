@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, ai-governance]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Title The Sealed Card Protocol Mediated Legitimacy"
+type: raw-source
+title: Title The Sealed Card Protocol Mediated Legitimacy
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Title The Sealed Card Protocol Mediated Legitimacy.md
 ---
+
 ﻿Title: The Sealed Card Protocol: Mediated Legitimacy, Charging, and Governance at the Seam
 Introduction
 The glitch is the tell. A reader senses the machine in a sentence or a viewer senses optimization in an image and the encounter changes texture. The artifact may still be compelling, but the evaluation migrates. Attention moves away from what the work is doing toward how it was made, who can be held responsible for it, and whether the pathway is authorized. This paper begins from that small perceptual stop and treats it as data. It reads the glitch as a threshold event where recognition can either convert into durable legitimacy or be rerouted into suspicion about mediation.
@@ -123,10 +125,3 @@ The glitch is not a rhetorical strategy. It is the operational point where the m
 - [[2013 - audit_or_assessment_1]]
 - [[Governance and PHAROS MOC]]
 - [[Sealed Card Protocol — Legitimacy, Glitch, and Charging]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

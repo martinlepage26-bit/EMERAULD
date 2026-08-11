@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, docsort]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Dr_Sort_milestone1-design"
+type: raw-source
+title: Dr_Sort_milestone1-design
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Dr_Sort_milestone1-design.md
 ---
+
 # Dr.Sort Milestone 1 Design and Implementation
 
 ## 1. Product Architecture
@@ -32,7 +34,7 @@ Enums:
 - `JobStatus`: `discovery_complete`, `planned`, `executed`, `failed`.
 
 ## 3. Codebase Folder Structure
-`
+```
 dr-sort/
   apps/desktop/
     electron/main.ts
@@ -50,7 +52,7 @@ dr-sort/
     dr_sort/fixtures/sample_corpus/
     scripts/seed_sample_corpus.py
   docs/milestone1-design.md
-`
+```
 
 ## 4. Database Schema
 Implemented in `backend/dr_sort/db/schema.sql`.
@@ -193,10 +195,3 @@ Milestone 1 interactions:
 
 - [[Governance and PHAROS MOC]]
 - [[LOTUS Premium Spec]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

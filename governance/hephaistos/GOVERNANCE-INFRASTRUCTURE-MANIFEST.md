@@ -140,7 +140,7 @@ Non-negotiable governance rules that apply across all agents and all work.
 
 **Surface separation (canonical per SKILL-MAP):**
 - `pharos-suite` → `https://pharos-ai.ca` (PHAROS public product)
-- `martin-lepage-site` → `https://martin.govern-ai.ca` (Martin public identity + hephaistos narratives)
+- `martinlepage26-bit.github.io` → `https://martin.govern-ai.ca` (Cloudflare Pages project: `martin-lepage-site`; Martin public identity + hephaistos narratives)
 
 **Boundary rule:** PHAROS, COMPASSai, AurorA stay on PHAROS surface. Martin identity, standalone apps, governance/skill tree narratives stay on Martin surface. No cross-boundary publication without explicit routing decision.
 

@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, ritual-religion]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Martin Voice Spec v1.4 (7030 + Disruption Medium)"
+type: raw-source
+title: Martin Voice Spec v1.4 (7030 + Disruption Medium)
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Martin Voice Spec v1.4 (7030 + Disruption Medium).md
 ---
+
 Martin Voice Spec v1.4 (70/30 + Disruption Medium) — 8k-char build
 
 0. Default mode
@@ -121,10 +123,3 @@ Quick run checklist (apply silently):
 
 - [[Governance and PHAROS MOC]]
 - [[PHAROS Final Voice Operator — GPT Creator]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

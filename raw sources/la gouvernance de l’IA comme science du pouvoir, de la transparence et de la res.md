@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, queer-gender]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "la gouvernance de l’IA comme science du pouvoir, de la transparence et de la res"
+type: raw-source
+title: la gouvernance de l’IA comme science du pouvoir, de la transparence et de la res
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/la gouvernance de l’IA comme science du pouvoir, de la transparence et de la res.md
 ---
+
 la gouvernance de l’IA comme science du pouvoir, de la transparence et de la responsabilité.
 
 une écriture qui montre que tu comprends les enjeux de pouvoir derrière la technique
@@ -69,10 +71,3 @@ C’est une promesse forte, rare, et immédiatement utile.
 
 - [[Research and Papers MOC]]
 - [[Se positionner comme chercheuses au prisme des luttes intersectionnelles — Le Gallo & Millette 2019 (Genre, sexualité & société)]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

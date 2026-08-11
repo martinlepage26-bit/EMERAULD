@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "alchemy-search"
+type: raw-source
+title: alchemy-search
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/alchemy-search.md
 ---
+
 # Plan de recherche provisoire sur l’alchimie
 
 ## Résumé exécutif
@@ -45,7 +47,7 @@ Enfin, le dossier **Zosime / Jung** sera systématiquement dissocié en deux ens
 
 ## Séquence d’exécution et points ouverts
 
-`mermaid
+```mermaid
 flowchart TD
     A[Sujet provisoire : alchimie historique et symbolique] --> B[Constitution du corpus primaire]
     A --> C[Constitution du corpus secondaire]
@@ -72,7 +74,7 @@ flowchart TD
     D4 --> E
     D5 --> E
     E --> F[Rapport analytique en français]
-`
+```
 
 La suite logique de l’enquête serait donc : **verrouiller Q1 à Q4**, constituer le corpus primaire, établir un tableau des finalités de l’alchimie, puis seulement ouvrir le dossier de la symbolique et des lectures modernes. Les principaux points encore ouverts sont les suivants : faut-il s’arrêter à l’Antiquité tardive et au Moyen Âge, inclure la Renaissance, ou aller jusqu’à Jung; faut-il traiter la symbolique des éléments comme objet principal, ou comme simple sous-partie; faut-il centrer le futur rapport sur une **histoire des textes**, sur une **histoire des concepts**, ou sur une **critique d’interprétation**. En l’absence d’arbitrage, la voie la plus rigoureuse reste : **histoire des textes d’abord, symbolique ensuite, relectures modernes en dernier**.
 
@@ -80,10 +82,3 @@ La suite logique de l’enquête serait donc : **verrouiller Q1 à Q4**, constit
 
 - [[Research and Papers MOC]]
 - [[The Rooted Archive — Nine Chambers of Plant, Spirit, and Knowledge]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

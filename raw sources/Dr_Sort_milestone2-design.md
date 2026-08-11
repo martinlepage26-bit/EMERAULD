@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, queer-gender, docsort]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Dr_Sort_milestone2-design"
+type: raw-source
+title: Dr_Sort_milestone2-design
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Dr_Sort_milestone2-design.md
 ---
+
 # Dr.Sort Milestone 2 Architecture Delta
 
 ## Scope
@@ -229,10 +231,3 @@ Milestone 1 tests were preserved and snapshot updated for duplicate-review behav
 
 - [[Research and Papers MOC]]
 - [[Dr. Sort Codebase Version Genealogy — Three Iterations of Failed Automation]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

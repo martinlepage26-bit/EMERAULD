@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, ai-governance, queer-gender]
-status: raw
-created: 2026-05-01
-updated: 2026-07-10
-source: "DG_Website_Deployment_Governance_2026-05-01"
+type: raw-source
+title: DG_Website_Deployment_Governance_2026-05-01
+tags:
+- raw-source
+status: preserved
+created: '2026-05-01'
+vault_area: raw sources
+canonical_path: raw sources/DG_Website_Deployment_Governance_2026-05-01.md
 ---
+
 # DG Website Deployment & Governance Audit — 2026-05-01
 
 **Session:** Claude Code (Haiku 4.5)  
@@ -185,10 +187,3 @@ This session connects to:
 **Session timestamp:** 2026-05-01 16:58 EDT  
 **Status:** In progress (rebuild supervision active)  
 **Next action:** Await build completion; verify CDN asset delivery; close rebuild gate.
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

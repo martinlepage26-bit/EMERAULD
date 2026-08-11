@@ -424,7 +424,7 @@ default — do not assume a desktop or file explorer exists; report the path ins
 ## Current Public Topology
 
 - `pharos-suite` is the canonical PHAROS repo and serves `https://pharos-ai.ca`.
-- `martin-lepage-site` is the canonical Martin repo and serves `https://martin.govern-ai.ca`.
+- `martinlepage26-bit.github.io` is the canonical Martin repo (deployed as Cloudflare Pages project `martin-lepage-site`) and serves `https://martin.govern-ai.ca` (alias: `https://martin-lepage-phd.pharos-ai.ca`, same deployment).
 - PHAROS, COMPASSai, and AurorA stay on the PHAROS surface only.
 - Martin public identity plus `/lotus`, `/scripto`, `/gaia`, `/echo`, and `/dr-sort`
   stay on the Martin surface only.

@@ -1,11 +1,12 @@
 ---
 type: raw-source
-aliases: []
-tags: [documents-root-intake, manuscripts]
-status: raw
-source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
-created: 2026-04-28
-classified: 2026-07-10
+title: CORPUS ou le génie de l'insistance
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/papers-and-manuscripts/CORPUS ou le génie de l'insistance.md
 ---
 
 
@@ -3795,7 +3796,3 @@ Comme un début.
 - [[2025 - PROLOGUE]]
 - [[Writing and Novels MOC]]
 - [[CORPUS ou le génie de l'insistance — Novel]]
-
-## Source classification
-
-Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **papers and manuscripts**. Synthesized / anchored in [[Complete Paper List — Martin Lepage Corpus]]. Indexed under [[Research and Papers MOC]] · [[Writing and Novels MOC]].

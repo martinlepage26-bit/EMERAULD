@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, methods]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Misfit as Method Ten Diagnostic Scenes of Institut"
+type: raw-source
+title: Misfit as Method Ten Diagnostic Scenes of Institut
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Misfit as Method Ten Diagnostic Scenes of Institut.md
 ---
+
 Misfit as Method: Ten Diagnostic Scenes of Institutional Failure
 Abstract
 This article challenges traditional understandings of failure in organizational life by reframing it as a cumulative diagnostic process rather than an outcome of deficient performance. Using a scene-based autoethnography of a 90-day probationary period in a large corporate setting marked by post-restructuring strain, the study analyzes ten field-note scenes as qualitative data that reveal how misfit is produced, stabilized, and finalized through everyday interactions. The paper offers a methodological argument: short, temporally sequenced scenes can function as diagnostic units, revealing organizational power in action, especially where evaluation is indirect, deniable, and dispersed. The analysis shows how assessment operates through ambient mechanisms that evade formal documentation: role opacity, procedural training without rationale, demands for autonomy under managerial absence, and relational withdrawal in place of feedback. These mechanisms constitute what the paper terms legibility governance, where institutions under conditions of saturation and reputational risk prioritize subjects who are quickly readable, affectively contained, and capable of absorbing ambiguity without naming it. When workers seek conceptual clarity, disclose difference pedagogically, or test managerial efficiency discourse literally, these actions redistribute interpretive authority and are often read as disruptions rather than contributions. Theoretically, the article builds on queer phenomenology and critical organizational scholarship to treat institutions as orienting environments that shape whose bodies, affects, and communicative styles are deemed competent. Substantively, the findings contribute to qualitative debates on power by specifying how “fit” is constructed through micro-sanctions, deferred clarity, and procedural mediation, allowing organizations to convert structural incoherence into individualized outcomes. The article demonstrates how scene-based qualitative analysis can expose the micromechanics of evaluative silence, offering a rigorous framework for studying diagnostic sorting in contemporary organizational governance.
@@ -116,10 +118,3 @@ The methodological contribution of this paper lies in treating autoethnographic 
 - [[Misfit as Method Ten Diagnostic Scenes of Institutional Failure]]
 - [[Governance and PHAROS MOC]]
 - [[Paper 25 — The Pharos Frame - Four Levels Where Ethics Becomes AI Governance]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

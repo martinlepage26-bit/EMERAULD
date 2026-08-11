@@ -1,11 +1,12 @@
 ---
 type: raw-source
-aliases: []
-tags: [documents-root-intake, tracker-snapshot]
-status: raw
-source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
-created: 2026-04-28
-classified: 2026-07-10
+title: MASTER TRACKER (recreated from MASTER PACK 4).csv
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/MASTER TRACKER (recreated from MASTER PACK 4).csv.md
 ---
 
 | case_slug | run_group | run_root | final_outcome | triage_status | risk_tier | total_files | total_sources | contracts_missing_count | coverage_status | executable_pass_count | missing_pass_count | dataset_fingerprint | zip_modified | manifest_path |
@@ -106,7 +107,3 @@ classified: 2026-07-10
 
 - [[Research and Papers MOC]]
 - [[RECURSO — Recursive Governance Test Archive]]
-
-## Source classification
-
-Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **canonical tracker snapshots**. Synthesized / anchored in [[Master Project Tracker — 2026]]. Indexed under [[Personal and Projects MOC]].

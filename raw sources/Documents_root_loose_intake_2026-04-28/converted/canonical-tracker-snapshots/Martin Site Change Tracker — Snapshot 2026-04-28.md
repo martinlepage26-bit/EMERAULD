@@ -1,11 +1,12 @@
 ---
 type: raw-source
-aliases: []
-tags: [documents-root-intake, tracker-snapshot]
-status: raw
-source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
-created: 2026-04-28
-classified: 2026-07-10
+title: Martin Site Change Tracker — Snapshot 2026-04-28
+tags:
+- raw-source
+status: preserved
+created: '2026-04-28'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/canonical-tracker-snapshots/Martin Site Change Tracker — Snapshot 2026-04-28.md
 ---
 
 # MARTIN-SITE CHANGE TRACKER
@@ -472,7 +473,3 @@ classified: 2026-07-10
 
 - [[Research and Papers MOC]]
 - [[Master Tracker — Snapshot 2026-04-28]]
-
-## Source classification
-
-Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **canonical tracker snapshots**. Synthesized / anchored in [[Master Project Tracker — 2026]]. Indexed under [[Personal and Projects MOC]].

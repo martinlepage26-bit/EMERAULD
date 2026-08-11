@@ -1,0 +1,101 @@
+---
+type: raw
+source_kind: pdf_ocr
+source_path: /mnt/d/LIBRARY/Review/Unreadable/2018 - ocr_needed_2.pdf - 2018 - ocr_needed_2.pdf.pdf - 2018 - ocr_needed_2.pdf - 2018 - ocr_needed_2.pdf.pdf.pdf
+source_rel: Review/Unreadable/2018 - ocr_needed_2.pdf - 2018 - ocr_needed_2.pdf.pdf - 2018 - ocr_needed_2.pdf - 2018 - ocr_needed_2.pdf.pdf.pdf
+ocr_engine: tesseract.js
+ocr_lang: eng+fra
+pages_total: 1
+pages_ocrd: [1]
+partial: false
+ocr_text: text/Review/Unreadable/2018 - ocr_needed_2.pdf - 2018 - ocr_needed_2.pdf.pdf - 2018 - ocr_needed_2.pdf - 2018 - ocr_needed_2.pdf.pdf.pdf.ocr.txt
+pdfinfo:
+  Author: "Martin"
+  CreationDate: "Sat Jan 13 22:01:00 2018 EST"
+  Custom Metadata: "no"
+  Encrypted: "no"
+  File size: "208213 bytes"
+  Form: "none"
+  JavaScript: "no"
+  Metadata Stream: "no"
+  ModDate: "Sat Jan 13 22:01:00 2018 EST"
+  Optimized: "no"
+  PDF version: "1.7"
+  Page rot: "0"
+  Page size: "612 x 792 pts (letter)"
+  Pages: "1"
+  Producer: "Microsoft: Print To PDF"
+  Suspects: "no"
+  Tagged: "no"
+  Title: "Mail iCloud - Re: Stage postdoctoral CRIDAQ"
+  UserProperties: "no"
+dr_sort_original_filename: "2018 - ocr_needed_2.pdf - 2018 - ocr_needed_2.pdf.pdf - 2018 - ocr_needed_2.pdf - 2018 - ocr_needed_2.pdf.pdf.pdf.md"
+dr_sort_original_path: "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2018 - ocr_needed_2.pdf - 2018 - ocr_needed_2.pdf.pdf - 2018 - ocr_needed_2.pdf - 2018 - ocr_needed_2.pdf.pdf.pdf.md"
+dr_sort_filename_normalized: "2026-05-06"
+---
+
+# Mail iCloud - Re: Stage postdoctoral CRIDAQ
+
+## OCR Notes
+
+- This is an OCR extraction pass over `Review/Unreadable/` when `pdftotext` was empty/failed.
+- Page strategy: full OCR for short PDFs; first + last pages for long PDFs.
+
+## Extracted Text
+
+===== IMAGE: /tmp/unreadable_ocr_bstw6eak/p00001.png =====
+
+13/01/2018 Mail iCloud
+
+Re: Stage postdoctoral CRIDAQ
+28 novembre 2017 à 07:39
+De Amiraux Valérie
+À Martin Lepage
+# [)image001.png 136,41 Ko
+Bonjour Monsieur Lepage,
+Merci de votre courriel. Votre projet est bien entendu plus que bienvenu et m'intéresse aussi en lien avec les réflexions sur
+la radicalisation que nous conduisons dans l'équipe PLURADICAL et le projet TRYSPACES.
+Je vous recommanderai avec plaisir mais il me faudrait une esquisse de lettre (trois paragraphes) reprenant les principales
+étapes de votre formation, une synthèse de votre travail doctoral et une autre concernant votre projet
+Je me charge de faire les liens avec mes travaux et l'axe du CRIDAQ
+Très bonne journée à vous,
+V. Amiraux
+[https://902-mailws.icloud.com:443/wm/messagepart/image001.png?guid=messagepart%3AINBOX%2F25081-
+2atype=image%2Fpng&uniq=martinlepage26&name=image001.png&size=136406&dsid=1046104425&clientld=904D6D7E-
+40B9-4CAC-93FE-A8547B195007]
+Valérie Amiraux
+Vice-doyenne - Recrutement et partenariats internationaux
+Faculté des arts et des sciences
+Professeure titulaire, département de sociologie
+Pavillon Lionel-Groulx, 3150 rue Jean-BrillantBureau C-9083, T 514 343-7233
+Montréal (Québec) H3T 1N8
+De : Martin Lepage <martinlepage26@me.com>
+Date : jeudi 23 novembre 2017 11:50
+À : Valerie Amiraux <valerie.amiraux@umontreal.ca>
+Objet : Stage postdoctoral CRIDAQ
+Bonjour Madame Amiraux,
+Je vous écris aujourd'hui pour savoir si vous seriez intéressée à m'appuyer pour une demande de stage postdoctoral au
+sein du CRIDAQ (voici le lien pour le concours : http:/[www.cridaq.ugam.ca/concours-de-stage-postdoctoral-2018-2019-
+du-cridaq/). Je vous fais donc parvenir mon CV, une de mes publications, ainsi que le projet que j'ai soumis au FRQSC pour
+cette année. Mes intérêts de recherche pour ce projet concernent les masculinités, les pratiques rituelles alternatives et les
+expériences de marginalisation. Bien entendu, il devra être retravaillé pour cadrer avec les préoccupations du CRIDAQ, mais
+cela peut vous donner une idée de ce sur quoi je souhaite travailler. Vos commentaires et conseils à ce sujet sont
+évidemment les bienvenus. Laissez-moi savoir si vous avez besoin de plus pour vous prononcer (autres publications, thèse,
+etc.) et je vous ferai parvenir le nécessaire. || me fera plaisir de vous rencontrer au moment que vous jugerez opportun. La
+date limite est le 15 janvier 2018
+Merci de votre considération,
+Martin Lepage, Ph.D
+Université du Québec à Montréal
+Faculté des arts
+
+et des sciences
+
+Université oh
+
+de Montréal
+https://www.icloud.com/message/current/fr-fr/index.html#view?guid=message%3AINBOX%2F25081 171
+
+## Related
+
+- [[Research and Papers MOC]]
+- [[Martin Lepage Publications — Annotated Bibliography and Verification Leads]]

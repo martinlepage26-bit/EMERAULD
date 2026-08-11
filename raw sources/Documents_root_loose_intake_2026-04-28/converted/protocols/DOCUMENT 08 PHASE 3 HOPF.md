@@ -263,7 +263,3 @@ Operator free summary (three sentences maximum):
 ================================================================================
 END OF DOCUMENT 08
 ================================================================================
-
-## Source classification
-
-Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **recursive-governance protocol packet**. Synthesized / anchored in [[Recursive Governance Protocol — Theseus, Auryn, Hopf]] · [[Provisional Arbitration Charter — Argus Layer 9.5]] · [[AGATHA Failure Pack — Theseus Continuity Stress Test]]. Indexed under [[Governance and PHAROS MOC]].

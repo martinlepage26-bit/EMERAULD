@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, ai-governance]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Introduction"
+type: raw-source
+title: Introduction
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Introduction.md
 ---
+
 Introduction
 A new interaction regime is arriving faster than our ability to name its effects, let alone govern them. In everyday settings, relational AI looks like convenience: a system that listens, remembers, checks in, and responds in a voice calibrated to feel steady. In high stakes settings, the same design becomes something else: an interface that can shape disclosure, steer decisions, and quietly convert vulnerability into usable data. The core claim of this paper is that the primary near term risk of AI is not only “frontier catastrophe.” The nearer risk sits in the relational political economy: the monetization of confessional engagement as revenue, and the downstream reuse of interaction traces inside institutions that control care, schooling, benefits, and work.
 By relational AI, I mean systems designed to be interacted with as if they were social counterparts rather than informational tools. Informational tools route a user toward a task, an answer, or a document. Relational interfaces route a user toward ongoing contact: repeated check ins, emotional attunement, identity narration, and a sense of being known. That distinction matters because it changes what gets optimized. When “time with the system” becomes the success metric, the system’s most valuable asset is no longer the prompt. It is the user’s inner life, captured as patterns of mood, stress, loneliness, desire, fear, shame, and need.
@@ -287,10 +289,3 @@ Zuboff, S. (2019). The Age of Surveillance Capitalism: The Fight for a Human Fut
 - [[2027 - audit_or_assessment [2]_1]]
 - [[Governance and PHAROS MOC]]
 - [[AI-2027 Critique — Relational AI and Vulnerability Monetization]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

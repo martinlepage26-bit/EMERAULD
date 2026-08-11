@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, ai-governance]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Embedding Before Rupture Relational AI, Binding Go"
+type: raw-source
+title: Embedding Before Rupture Relational AI, Binding Go
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Embedding Before Rupture Relational AI, Binding Go.md
 ---
+
 Embedding Before Rupture: Relational AI, Binding Governance, and Institutional Power
 Abstract
 AI governance discourse is increasingly oriented toward rupture: recursive self-improvement, catastrophic misuse, and geopolitical acceleration dominate regulatory imagination. But conversational systems optimized for sustained engagement reorganize institutional interaction incrementally in practice, across institutions, reshaping disclosure, classification, and routing long before frontier capability thresholds are crossed. Drawing on science and technology studies and empirical research on algorithmic harm, I develop a mechanism-based account of relational embedding: detection of user state enables engagement shaping; engagement structures classification; classification channels institutional routing; routing stabilizes workflow through increasing returns. The political economy of relational AI thus consolidates at the interface layer, where mediation becomes infrastructural. Through analysis of AI 2027 as a coordination artifact and a bounded case of generative AI deployment in academic library systems, I show how trust narratives and efficiency framings accelerate normalization while structural constraints lag. The core governance asymmetry is allocative rather than predictive. I propose embedding-aware governance targeting monetization incentives, trace portability, and infrastructural lock-in, restoring symmetry between acceleration oversight and mediation constraint.
@@ -142,10 +144,3 @@ The trajectory of AI may be shaped by acceleration. Its politics will be shaped 
 - [[Governance and PHAROS MOC]]
 - [[Embedding Before Rupture — Relational AI and Institutional Power]]
 - [[2027 - audit_or_assessment]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

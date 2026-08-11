@@ -5,7 +5,7 @@ tags:
 - note
 status: active
 created: '2026-07-08'
-updated: '2026-07-08'
+updated: '2026-07-30'
 vault_area: PHAROS-AI CHANGE TRACKER.md
 canonical_path: PHAROS-AI CHANGE TRACKER.md
 backlink_count: 1
@@ -77,8 +77,22 @@ backlinks:
 - Added and deployed the `pharos-www-redirect` Cloudflare Worker custom domain
   so `www.pharos-ai.ca` permanently redirects to the apex while preserving
   paths and query strings.
+- Corrected the pre-existing zone Dynamic Redirect from a static, path-dropping
+  301 to a path-preserving 308. The custom-domain Worker owns DNS/TLS and
+  supplies equivalent fallback behavior.
+- Disabled both stale Dynamic Redirect rules that intercepted `/resources`
+  and contradicted its canonical sitemap URL. The route now returns the
+  indexable PHAROS page directly; rollback is to re-enable rules
+  `97e337434983491b849258a9640e2b66` and
+  `388025eeb7ca4c0a8dae22247125ff21`.
 - Pinned the Pages deployment to the verified `pharos-suite` owner account
   after Wrangler correctly refused an ambiguous non-interactive account choice.
+- Deployed the Pages Functions middleware as an advanced-mode `_worker.js`
+  artifact from `main` commit `6d98c27`; GitHub Actions run `30510925482`
+  uploaded the Worker bundle successfully.
+- Synchronized deployment authority and rollback documentation in PR `#37`;
+  final `main` commit `62c8bee` deployed successfully as
+  `https://6ec9d773.pharos-suite.pages.dev`.
 - Verified 102 frontend tests, 9 edge-runtime tests, 50 generated bilingual
-  pages, all 42 sitemap routes, a successful production build, and local
-  Cloudflare Pages response semantics before deployment.
+  pages, all 42 live sitemap routes, a successful production build, and both
+  local and production Cloudflare Pages response semantics.

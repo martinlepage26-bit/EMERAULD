@@ -67,7 +67,3 @@ You are already inside the web of the fiber-optics network.
   You are still inside the Web.
 
   What can you see from here that you could not see from the entry point?
-
-## Related
-
-- [[Codex RIA Run — The Web as X (First Operationalization 2026-04-25)]]

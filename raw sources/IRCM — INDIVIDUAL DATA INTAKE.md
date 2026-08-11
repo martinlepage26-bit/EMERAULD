@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "IRCM — INDIVIDUAL DATA INTAKE"
+type: raw-source
+title: IRCM — INDIVIDUAL DATA INTAKE
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/IRCM — INDIVIDUAL DATA INTAKE.md
 ---
+
 IRCM — INDIVIDUAL DATA INTAKE
 (Maximal-input version, finalized)
 1. Identity–symbolic inputs (required)
@@ -607,10 +609,3 @@ Using symbolic inputs to generate questions, not answers.
 
 - [[Governance and PHAROS MOC]]
 - [[Loop Papers and Recursive Governance]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

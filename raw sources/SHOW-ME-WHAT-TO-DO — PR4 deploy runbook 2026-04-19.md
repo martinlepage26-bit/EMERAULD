@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair]
-status: raw
-created: 2026-04-19
-updated: 2026-07-10
-source: "SHOW-ME-WHAT-TO-DO — PR4 deploy runbook 2026-04-19"
+type: raw-source
+title: SHOW-ME-WHAT-TO-DO — PR4 deploy runbook 2026-04-19
+tags:
+- raw-source
+status: preserved
+created: '2026-04-19'
+vault_area: raw sources
+canonical_path: raw sources/SHOW-ME-WHAT-TO-DO — PR4 deploy runbook 2026-04-19.md
 ---
+
 # SHOW ME WHAT TO DO
 
 **Date:** 2026-04-19 (late)
@@ -21,7 +23,7 @@ source: "SHOW-ME-WHAT-TO-DO — PR4 deploy runbook 2026-04-19"
 
 Confirm what's already done, so you don't redo it:
 
-`bash
+```bash
 # EMERAULD vault — 5 commits pushed to origin/main
 git -C /mnt/c/Users/softinfo/Documents/EMERAULD log --oneline origin/main -7
 
@@ -32,7 +34,7 @@ git log --oneline wip/com-aur-runtime-build..chore/pr4-archive-toolkit-and-docs
 #   5a33fba fix(backend): apply PR #4 Path A — align server with bundle spec
 #   46c2a3a docs: operational runbook, CSV diagnostic, decision brief, Codex prompt
 #   5fa6999 feat(scripts): add archive-governance toolkit
-`
+```
 
 If both are correct → proceed. If not → stop and ask.
 
@@ -48,7 +50,7 @@ The key `REDACTED_ROTATED_KEY` is currently exported in `~/.bashrc`. It was expo
 3. Create a new one. Copy it.
 
 **Then in terminal:**
-`bash
+```bash
 # Remove the old export line from ~/.bashrc
 sed -i.bak '/OPENROUTER_API_KEY/d' ~/.bashrc
 
@@ -70,7 +72,7 @@ chmod 600 ~/.config/openrouter/env
 # Start a fresh shell and verify the old key is gone:
 bash -c 'echo "${OPENROUTER_API_KEY:-<unset>}"'
 # Expected: <unset>
-`
+```
 
 Paste the new key into `~/.config/openrouter/env` before sourcing.
 
@@ -78,7 +80,7 @@ Paste the new key into `~/.config/openrouter/env` before sourcing.
 
 ## 2. Delete the old BRAINiaC directory (1 min)
 
-`bash
+```bash
 # Confirm EMERAULD is pushed and the old copy isn't the only one
 git -C /mnt/c/Users/softinfo/Documents/EMERAULD log --oneline -1 origin/main
 # Should show: f0ad82e (or later) — newer than the rename commit cf1e007
@@ -92,7 +94,7 @@ rm -rf "/mnt/c/Users/softinfo/Documents/BRAINiaC"
 # Verify
 ls /mnt/c/Users/softinfo/Documents/BRAINiaC 2>&1
 # Expected: "cannot access" — gone
-`
+```
 
 ---
 
@@ -101,17 +103,17 @@ ls /mnt/c/Users/softinfo/Documents/BRAINiaC 2>&1
 This blocks the archive governance pipeline until recorded.
 
 **Read the brief:**
-`bash
+```bash
 less /mnt/c/Users/softinfo/Documents/EMERAULD/artifacts/2026-04-19-pharos-migration-pr4/docs/martin_decision_brief.md
 # Decision 1 is at the top.
-`
+```
 
 **The decision:** the file `ai-anxiety-recursive-governance-ai-society-aligned-2026-03-11.md` is flagged `MERGE_WITH_RELATED_FILE` in the manifest. This is wrong — it's your `AI & Society` submission. Two options:
 - **Option A (recommended):** preserve as standalone, no merge.
 - **Option B:** intentional merge (you know something the diagnostic doesn't).
 
 **To record Option A** (recommended):
-`bash
+```bash
 # Locate the real manifest — not the bundle fixture. It lives with the
 # archive the diagnostic scanned. Most likely under your archive CSV location.
 # The bundle ships a *synthetic* manifest under test_fixtures/ — do NOT
@@ -127,7 +129,7 @@ python3 /home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite/scripts/manifest_decisio
 python3 /home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite/scripts/manifest_decision_executor.py \
   --manifest <path-to-real-00_ARCHIVE_METADATA_MANIFEST.csv> \
   --decision 1 --apply
-`
+```
 
 The script backs up the manifest before writing and sets `action=PRESERVE_AND_LIGHTLY_CLEAN`, `human_gate_cleared=true`, and the note. You can then run the pipeline filter without it exiting 1.
 
@@ -138,14 +140,14 @@ The script backs up the manifest before writing and sets `action=PRESERVE_AND_LI
 Read the brief §3. The question is simple: **does PHAROS make regulatory compliance claims** (EU AI Act, NIST AI RMF, ISO 42001, AIDA, CA Voluntary Code) in the patent, the manuscript, or the product pages?
 
 **If NO** — flag it and move on:
-`bash
+```bash
 # One-liner: annotate the empty regulatory CSV so the diagnostic stops flagging it
 echo "# out_of_scope_v1 — PHAROS does not make regulatory compliance claims in the current scope." \
   > <path-to>/ai_governance_regulatory_docs.csv
-`
+```
 
 **If YES** — bootstrap the corpus:
-`bash
+```bash
 # From pharos-suite root, on the chore/pr4-archive-toolkit-and-docs branch
 cd /home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite
 python3 scripts/regulatory_corpus_bootstrap.py --output-dir ./regulatory_corpus
@@ -159,7 +161,7 @@ python3 scripts/regulatory_corpus_bootstrap.py --output-dir ./regulatory_corpus
 #
 # Drop the PDFs into regulatory_corpus/pdfs/ and re-run the compliance-claim
 # audit against the archive.
-`
+```
 
 ---
 
@@ -199,7 +201,7 @@ Reference: `EMERAULD/artifacts/2026-04-19-pharos-migration-pr4/_manifest/RUN-ORD
 
 CF dashboard → **Workers & Pages** → **Create application** → **Pages** → connect the same GitHub repo as `govern-ai` with identical build settings, name it `pharos-ai`.
 
-`bash
+```bash
 # After the new pharos-ai project builds green in the CF dashboard:
 # Cut DNS — CF dashboard → pharos-ai.ca zone → DNS → update the CNAME on
 # the apex to point at pharos-ai.pages.dev (was: govern-ai.pages.dev).
@@ -210,11 +212,11 @@ curl -I https://pharos-ai.ca
 
 # Once traffic is confirmed on pharos-ai, delete govern-ai:
 # CF dashboard → Workers & Pages → govern-ai → Settings → Delete project
-`
+```
 
 ### 6b. D1 database
 
-`bash
+```bash
 # Create the new D1 and capture its UUID
 cd /home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite/aurorai
 wrangler d1 create aurorai-dev
@@ -233,11 +235,11 @@ wrangler d1 execute aurorai-dev --file /tmp/govern-suite.sql
 # The relevant line in aurorai/wrangler.toml currently is:
 #   database_id = "OPERATOR-MUST-PROVISION-RUN-WRANGLER-D1-CREATE-AURORAI-DEV"
 # Replace with the UUID from the create step.
-`
+```
 
 ### 6c. R2 buckets
 
-`bash
+```bash
 cd /home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite/aurorai
 
 # Create fresh buckets with the pharos prefix
@@ -259,22 +261,22 @@ wrangler deploy --env production
 # Only after the worker is live against pharos-* bindings:
 wrangler r2 bucket delete govern-artifacts
 wrangler r2 bucket delete govern-evidence
-`
+```
 
 ### 6d. Commit wrangler.toml
 
-`bash
+```bash
 cd /home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite
 git add aurorai/wrangler.toml
 git commit -m "chore(aurora): sync wrangler.toml with Cloudflare resources (D1 + R2)"
 # Do NOT push yet — do it together with the Path A push in step 7.
-`
+```
 
 ---
 
 ## 7. Review + push the pharos-suite branch (10 min)
 
-`bash
+```bash
 cd /home/cerebrhoe/PHAROS-SUITE/repos/pharos-suite
 
 # Review the four commits (three base + one wrangler if you did step 6d)
@@ -296,7 +298,7 @@ git push -u origin chore/pr4-archive-toolkit-and-docs
 gh pr create --base main \
   --title "PR #4 Path A: server spec alignment + archive-governance toolkit" \
   --body-file /mnt/c/Users/softinfo/Documents/EMERAULD/artifacts/2026-04-19-pharos-migration-pr4/_manifest/GAP-pr4-server-spec-alignment.md
-`
+```
 
 ---
 
@@ -304,7 +306,7 @@ gh pr create --base main \
 
 After Railway (or Hetzner) deploy and CF migration:
 
-`bash
+```bash
 # Public surface
 curl -I https://pharos-ai.ca
 # Expected: 200, CF headers
@@ -325,7 +327,7 @@ curl -s https://<railway-host>/api/health | jq
 # Aurora worker
 curl -s https://pharos-aurora-worker-prod.<your-account>.workers.dev/health
 # Expected: 200
-`
+```
 
 If all three 200 and `db_ready:true` → PR #4 is discharged.
 
@@ -371,10 +373,3 @@ Update `EMERAULD/session-state.md`:
 - [[readme]]
 - [[changelog]]
 - [[02_THESEUS_ARCHIVE]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

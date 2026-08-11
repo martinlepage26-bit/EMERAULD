@@ -1,11 +1,12 @@
 ---
 type: raw-source
-aliases: []
-tags: [documents-root-intake, pharos-ops]
-status: raw
-source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
-created: 2026-04-28
-classified: 2026-07-10
+title: SKILL_AUDIT_2026-04-06
+tags:
+- raw-source
+status: preserved
+created: '2026-04-06'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/pharos-ops-publishing/SKILL_AUDIT_2026-04-06.md
 ---
 
 # **Audit Report: Skill Creation & Improvement Opportunities**
@@ -163,7 +164,3 @@ The Progression diagnostic questions are gold; make them a template/framework ra
 
 - [[Research and Papers MOC]]
 - [[PHAROS Procurement-Unblock Sprint]]
-
-## Source classification
-
-Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **PHAROS ops and publishing**. Synthesized / anchored in [[PHAROS LinkedIn April 2026 Publishing Routine]]. Indexed under [[Governance and PHAROS MOC]].

@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, ai-governance]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "1) Website Style Card"
+type: raw-source
+title: 1) Website Style Card
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/1) Website Style Card.md
 ---
+
 1) Website Style Card
 
 House style for public posts
@@ -111,10 +113,3 @@ Write solutions that are only training, values, or awareness
 
 - [[Governance and PHAROS MOC]]
 - [[PHAROS Final Voice Operator — GPT Creator]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

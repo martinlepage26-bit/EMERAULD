@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, methods, docsort]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "LOTUS_PREMIUM_SPEC"
+type: raw-source
+title: LOTUS_PREMIUM_SPEC
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/LOTUS_PREMIUM_SPEC.md
 ---
+
 # LOTUS Premium Spec
 
 `LOTUS | Dr. Sort-Academic Helper` is evolving from a safe document sorter into a high-end, local-first, content-aware archive application.
@@ -102,10 +104,3 @@ Still premium-roadmap rather than fully shipped:
 
 - [[Governance and PHAROS MOC]]
 - [[LOTUS Premium Spec]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

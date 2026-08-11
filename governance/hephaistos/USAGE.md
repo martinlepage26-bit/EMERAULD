@@ -63,7 +63,7 @@ The core files:
 As of 2026-03-30:
 
 - `pharos-suite` is the live PHAROS repo and serves `https://pharos-ai.ca`
-- `martin-lepage-site` is the live Martin repo and serves `https://martin.govern-ai.ca`
+- `martinlepage26-bit.github.io` is the live Martin repo (deployed as Cloudflare Pages project `martin-lepage-site`) and serves `https://martin.govern-ai.ca` (alias: `https://martin-lepage-phd.pharos-ai.ca`, same deployment)
 - public Hephaistos narratives and the authored governance / skill tree artifacts are served from the Martin surface
 - PHAROS-only infrastructure, product docs, and mail operations stay in `pharos-suite`
 - the current PHAROS mail record is `/home/martin/websites/pharos-suite/EMAIL-INFRA.md`

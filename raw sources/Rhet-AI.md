@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Rhet-AI"
+type: raw-source
+title: Rhet-AI
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Rhet-AI.md
 ---
+
 # Rhétorique antique, mythos et IA : applications en sciences sociales et en gouvernance de l’IA
 
 La **rhétorique classique** définit trois modes de persuasion fondamentaux : l’**ethos** (crédibilité de l’orateur), le **pathos** (émotion du public) et le **logos** (raisonnement logique)【49†L17-L25】【49†L43-L47】. Ces registres s’enrichissent, dans la tradition sophistique, du **mythos** (récit culturel ou symbolique partagé) et du **nomos** (normes et valeurs sociales implicites)【54†L55-L63】【54†L89-L94】. On ajoute généralement les notions de **kairos** (le « bon moment » ou contexte opportun du discours) et de **telos** (le but, l’objectif ultime visé) pour affiner la stratégie persuasive【56†L166-L174】【58†L169-L174】. Autrement dit, toute communication persuasive mêle arguments rationnels (logos), émotions (pathos) et dimension morale/crédible (ethos), le tout souvent encadré par des récits culturels (mythos) qui véhiculent des valeurs (nomos)【50†L366-L374】【49†L26-L34】.
@@ -39,10 +41,3 @@ Ces approches combinant raison, émotion, crédibilité et récits partagés off
 
 - [[Research and Papers MOC]]
 - [[Rhétorique antique, mythos et IA — Gouvernance et sciences sociales]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

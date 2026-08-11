@@ -45,7 +45,3 @@ source: raw/YYYY-MM-DD-original-title.md
 
 ## Output
 Confirm: "Synthesized → wiki/[title].md. Linked from [[hub-X]]."
-
-## Related
-
-- [[Skill Ecosystem — Professional Capability Registry]]

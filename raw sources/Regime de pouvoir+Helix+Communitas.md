@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Regime de pouvoir+Helix+Communitas"
+type: raw-source
+title: Regime de pouvoir+Helix+Communitas
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Regime de pouvoir+Helix+Communitas.md
 ---
+
 # Régime de Pouvoir + HELIX + Communitas
 ## Reflexive Inhabitation Audit — Prompt
 
@@ -90,10 +92,3 @@ The prompt is not a questionnaire you fill out and move past. When the three sta
 
 - [[Writing and Novels MOC]]
 - [[Reflexive Inhabitation Audit — Prompt]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

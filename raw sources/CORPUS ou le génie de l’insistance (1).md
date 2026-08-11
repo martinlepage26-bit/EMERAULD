@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, queer-gender, writing-corpus]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "CORPUS ou le génie de l’insistance (1)"
+type: raw-source
+title: CORPUS ou le génie de l’insistance (1)
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/CORPUS ou le génie de l’insistance (1).md
 ---
+
 
 
 **CORPUS**
@@ -3795,10 +3797,3 @@ Comme un début.
 - [[2025 - PROLOGUE]]
 - [[Writing and Novels MOC]]
 - [[CORPUS ou le génie de l'insistance — Novel]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

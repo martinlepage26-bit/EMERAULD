@@ -19,7 +19,7 @@ tags:
 status: active
 domain: pharos
 created: '2026-04-18'
-updated: '2026-06-26'
+updated: '2026-08-05'
 vault_area: Areas
 canonical_path: Areas/PHAROS/PHAROS-AI Webservice — pharos-ai.ca.md
 backlink_count: 27
@@ -63,7 +63,7 @@ backlinks:
 
 The site runs on the `pharos-suite` repository at `/home/cerebrhoe/PHAROS-SUITE/`. Deployment target: Cloudflare Pages (frontend) + Cloudflare Workers (API). Stack: React 18 + FastAPI + MongoDB.
 
-`govern-ai.ca` is a legacy redirect only — `pharos-ai.ca` is the sole canonical domain. The `martin-lepage-site` repo and `martin.govern-ai.ca` are the Martin identity surface; do not cross-publish between surfaces.
+`govern-ai.ca` (bare/apex) is a legacy redirect only from the pre-rebrand "Govern AI" era — `pharos-ai.ca` is the sole canonical PHAROS domain. `martin.govern-ai.ca` (a subdomain on that same zone) is the live Martin identity surface. Corrected 2026-08-05 (joint Hephaistos/Argus/Hermes audit, see [[CLAUDE]]): it is not hosted via a separate `martin-lepage-site` repo — `martin-lepage-site` is the Cloudflare Pages *project name*, sourced from the git repo `martinlepage26-bit.github.io` (GitHub Pages itself unused, 404s), and the same deploy also answers at `martin-lepage-phd.pharos-ai.ca`. Do not cross-publish between the PHAROS and Martin surfaces regardless. Caution: the `govern-ai.ca` zone also hosts unrelated products (patent-workbench, clearday, axis, fantasycast subdomains) — don't assume the whole zone belongs to either surface.
 
 The webservice is the primary access point for [[COMPASSai — Governance Engine]] once that product is live. Related governance tools include the [[Hermes Dashboard — Professional Governance Tool]] which provides activity lanes for the operator.
 
@@ -78,7 +78,7 @@ The webservice is the primary access point for [[COMPASSai — Governance Engine
 
 **Domain rules:**
 - `pharos-ai.ca` — canonical production
-- `govern-ai.ca` — legacy redirect only
+- `govern-ai.ca` (bare/apex) — legacy redirect only; the `martin.govern-ai.ca` subdomain on the same zone is Martin's live personal site, not covered by this redirect rule (see Context above)
 - `pharos-suite-review.pages.dev` — deleted preview surface, not current authority
 
 **Governance note:** The webservice is the public artifact of [[PHAROS Company Registration and Security Incidents|PHAROS Inc.]]. Its deployment is tracked in `PHAROS-SUITE/memory/cloudflare-readiness-2026-03-06.md`.

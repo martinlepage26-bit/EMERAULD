@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, queer-gender, writing-corpus]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Markov Chains"
+type: raw-source
+title: Markov Chains
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Markov Chains.md
 ---
+
 The Markov chain explanation is broadly good. The martingale section needs tightening.
 
 The main corrections:
@@ -37,10 +39,3 @@ That preserves your teaching style while making the math accurate.
 
 - [[Research and Papers MOC]]
 - [[Reflexive Inhabitation Audit — Prompt]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

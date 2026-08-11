@@ -1,0 +1,511 @@
+WRITE NOTES → I’LL TURN THEM INTO A PEER-REVIEWED RESEARCH PAPER
+
+## Operational Workflow v3 (Expanded Runbook)
+
+This system is designed for one outcome: **a paper that survives peer review** because every claim is (a) traceable, (b) appropriately bounded, and (c) stated in a way that matches your design.
+
+You will:
+
+1. build an evidence system that prevents citation drift,
+2. draft in an order that prevents overpromising, and
+3. run mechanical “Reviewer-#2 gates” that catch rejection triggers early.
+
+---
+
+## What you send me (inputs) → what you get back (outputs)
+
+### Inputs you can send (any messiness is fine)
+
+* bullets/notes/voice memo transcript
+* rough outline
+* screenshots of tables/figures
+* messy paragraphs
+* links and PDFs (or just citations)
+* dataset summary or “what I did” notes
+* requirements from your class/journal (word limits, headings, style)
+
+### Outputs I’ll produce
+
+* a **paper skeleton** with correct section logic
+* a **draft** in journal style (IMRaD or narrative)
+* an **abstract** that mirrors the final paper (no overpromise)
+* a **title set** (12 options + “Reviewer-2 safe” picks)
+* a **Claim→Evidence matrix** (the “audit sheet” reviewers wish you had)
+
+---
+
+# PART A — Preflight (set constraints once)
+
+## 0) Preflight (5–10 minutes)
+
+This stops 80% of revision pain.
+
+### 0.1 Lock format and venue expectations
+
+Pick the closest match:
+
+* **Empirical IMRaD** (Intro–Methods–Results–Discussion)
+* **Humanities/social theory** (Intro–Literature/Argument–Analysis–Conclusion)
+* **Mixed methods / policy** (Problem–Framework–Methods–Findings–Implications)
+
+If you don’t know the venue: default to a **standard journal** style (single-paragraph abstract, unnumbered headings, conservative claims).
+
+### 0.2 Lock the claim type you’re allowed to make
+
+This prevents the #1 Reviewer-2 attack: **overclaiming**.
+
+* **Descriptive:** “We document/characterize…”
+* **Associational:** “X is associated with Y…”
+* **Causal:** “X increases/decreases Y…” (only if design supports it)
+* **Normative/policy:** “We argue X should…” (requires explicit value/criteria framework)
+
+**Rule:** your title + abstract + intro must use verbs that match this.
+
+### 0.3 Lock word limits and structure requirements
+
+* total length (e.g., 5,000–8,000 words)
+* abstract (200/250/300 words)
+* structured abstract allowed? (Background/Methods/Results etc.)
+* figure/table limits
+* citation style (APA/Chicago/Vancouver/etc.)
+
+**Definition of done:** you can write one sentence:
+
+> “This paper makes **[descriptive/associational/causal/normative]** claims in **[format]** within **[word limits]**.”
+
+---
+
+# PART B — Evidence System (the paper’s backbone)
+
+If you build this right, writing becomes assembly—not invention.
+
+## 1) Build a single source of truth (reference library)
+
+### 1.1 Gather what you might cite
+
+Include everything that could anchor a claim:
+
+* PDFs, books, reports
+* standards and policies
+* datasets and documentation
+* course slides (if allowed)
+* transcripts/interviews/field notes
+* webpages (download/screenshot if possible)
+
+**Rule:** if a source matters, you must be able to retrieve it again.
+
+### 1.2 Put everything in one reference manager
+
+Use one tool consistently:
+
+* Zotero / EndNote / Mendeley
+  If not: one master spreadsheet (less ideal but workable)
+
+### 1.3 Tag aggressively (so you can retrieve sources fast)
+
+Minimum metadata per source:
+
+* full bib info (author/year/title)
+* DOI/URL
+* 4–6 tags
+* “why this matters” note (1–2 lines)
+
+#### Recommended tag buckets (simple, reusable)
+
+Use **both** a function tag and a topic tag.
+
+**Function tags**
+
+* THEORY
+* METHOD
+* EVIDENCE
+* MECHANISM
+* LIMITATION
+* IMPLICATION
+
+**Topic tags** (examples—yours will differ)
+
+* governance
+* bias
+* transparency
+* labor
+* ethics
+* measurement
+
+**Definition of done:** you can find any source in under 30 seconds.
+
+---
+
+## 2) Build the Quote/Claim Bank (prevents citation drift)
+
+This is your “memory system.” Without it you will:
+
+* lose page numbers,
+* paraphrase sloppily,
+* misattribute claims, and
+* get destroyed in revisions.
+
+### 2.1 What every Quote/Claim Bank entry must include
+
+For every quote or key paraphrase:
+
+* exact quote OR clean paraphrase
+* page number / section location
+* what claim it supports (one sentence)
+* where it goes in the paper (section/subsection)
+* your commentary (1–2 lines: how you’ll use it)
+
+### 2.2 Quote/Claim Bank template (copy/paste)
+
+Use a table like this:
+
+**ID | Source | Tag | Use | Location | Quote/Paraphrase | Claim Supported | Where It Goes | Notes**
+
+Example entry:
+
+* ID: Q17
+* Source: Smith 2021
+* Tag: THEORY + governance
+* Use: Definition
+* Location: p. 14
+* Paraphrase: Defines “accountability” as…
+* Claim: Supports definition of accountability for framework section
+* Where: Concepts §2.1
+* Notes: Use to contrast with “responsibility” later
+
+**Definition of done:** any time a reviewer asks “source?” you can answer instantly.
+
+---
+
+## 3) Draft with inline markers (write fast now, cite later)
+
+### 3.1 Marker system (drop into text while drafting)
+
+Use this exact format:
+
+`[SRC:AuthorYear | TAG:Theme | USE:Definition/Finding/Method/Critique | LOC:p## | NOTE:what it supports]`
+
+Example:
+
+> “Authority ambiguity is a recurring failure mode in agentic systems [SRC:Jones2023 | TAG:governance | USE:Concept | LOC:p90 | NOTE:defines authority ambiguity].”
+
+### 3.2 Why markers matter
+
+* you don’t interrupt flow to format citations
+* you keep evidence attached to claims
+* you avoid “citation drift” (the abstract/source mismatch)
+
+### 3.3 Citation pass (after the section is drafted)
+
+When the section is complete:
+
+* replace markers with proper citations
+* verify quotes + page numbers
+* remove unused markers
+
+---
+
+## 4) Minimal evidence rules (the pain-prevention rules)
+
+1. **Every contested claim gets evidence—or is revised/deleted.**
+2. **Every quote includes page numbers and context (a sentence before and after).**
+3. **Don’t cite what you haven’t actually read beyond the abstract** (unless explicitly noted in your private notes—never in the final paper).
+
+---
+
+# PART C — Drafting Order (low rework, high coherence)
+
+## 5) Write in this order (do not skip)
+
+You asked for this order—here it is as the canonical workflow:
+
+1. **Literature review**
+2. **Concepts and frameworks (theoretical + conceptual)**
+3. **Methods**
+4. **Analysis / Results**
+5. **Conclusion**
+6. **Introduction**
+7. **Abstract**
+8. **Title**
+
+### Why this order is optimal
+
+* Literature/framework/methods define what you can legitimately claim.
+* Results anchor what you actually found.
+* Conclusion synthesizes without introducing novelty.
+* Intro/abstract/title become accurate *mirrors* rather than wishful marketing.
+
+---
+
+# PART D — “Done Specs” (what finished looks like)
+
+These are the standards that stop Reviewer-2 attacks like “unclear,” “undertheorized,” or “unsupported.”
+
+---
+
+## 6) Literature Review (synthesis engine)
+
+### Purpose
+
+Show the reader:
+
+* what the field thinks it knows,
+* what that knowledge depends on,
+* where it breaks,
+* and why your paper is needed.
+
+### Paragraph operating model (repeatable)
+
+Each paragraph must do:
+**Claim (sentence 1–2) → evidence base → tension/gap/boundary → relevance to your study**
+
+### Strong vs weak paragraph openings
+
+* Weak: “Smith (2020) argues… Jones (2021) finds…”
+* Strong: “Current research treats X as stable, but this stability depends on Y, which fails under Z…”
+
+### End-of-section gap statement (required)
+
+Use this template:
+
+> “The literature generally claims **X**, but this claim depends on **Y**. Evidence suggests **Y** fails under **Z**, leaving uncertainty about **W**. This study addresses this gap by **doing W**.”
+
+### Reviewer-2 tripwires to preempt
+
+* “This is just a list of citations.” → fix by claim-first synthesis.
+* “Novelty unclear.” → end with a crisp gap and your exact move.
+
+**Definition of done:** you can point to one paragraph that clearly says “here is the gap” and one sentence that says “here is what we do.”
+
+---
+
+## 7) Concepts + Frameworks (theory + conceptual)
+
+### Purpose
+
+Define your constructs, relationships, and inference bounds so reviewers can’t say:
+
+* “undertheorized”
+* “unclear constructs”
+* “mismatched framework”
+
+### Must include (non-negotiable)
+
+1. **Definitions** (what counts as the thing)
+2. **Operationalization commitments** (how it will show up in data/analysis)
+3. **Framework function** (what it governs: hypotheses, coding scheme, interpretation)
+4. **Scope clamp** (what you are NOT claiming, and why)
+
+### Scope clamp template (use verbatim if helpful)
+
+> “This framework is used to interpret **X** within **Y context**. It does not support claims about **Z** beyond **[boundary]**, and we therefore restrict our conclusions to **[bounded claim]**.”
+
+**Definition of done:** a reviewer can’t plausibly ask “what do you mean by X?” without looking careless.
+
+---
+
+## 8) Methods (audit-ready)
+
+### Purpose
+
+Make the work reproducible and validity legible.
+
+### Required elements (ordered)
+
+1. **Design + setting + timeframe** (first 5–10 lines)
+2. **Data/sample origin** (where it came from)
+3. **Inclusion/exclusion** (what got in, what got cut, why)
+4. **Measures/variables** (defined, not just named)
+5. **Procedure** (what happened in what order)
+6. **Analysis plan** (prep → tests/models → robustness checks)
+7. **Ethics/data handling** (as applicable)
+
+### “Analysis plan” mini-template
+
+* Data preparation: cleaning, coding, preprocessing
+* Primary analysis: model/test and rationale
+* Robustness: alternative specs, sensitivity checks
+* Thresholds: significance/CI rules, qualitative reliability criteria, etc.
+
+**Definition of done:** someone could replicate the logic of the analysis even if they can’t access your raw data.
+
+---
+
+## 9) Analysis / Results (traceability)
+
+### Rule 1: mirror the Methods order
+
+If Methods has 3 analyses, Results has the same 3 in the same order.
+
+### Rule 2: separate “what happened” from “what it means”
+
+* **Results:** report findings, patterns, metrics, representative quotes
+* **Interpretation:** mechanism/explanation and implication
+
+### Claim ladder (use in each subsection)
+
+**Claim → Evidence → Mechanism (if justified) → Implication (bounded)**
+
+**Definition of done:** every major claim points to a table/figure/quote/pattern.
+
+---
+
+## 10) Conclusion (synthesis, no novelty)
+
+### Purpose
+
+Answer the research question and say what it changes—without introducing new evidence.
+
+### Best-practice structure (4–8 sentences)
+
+1. Answer in one sentence
+2. Contribution in one sentence
+3. Implication (practical/theoretical)
+4. Boundary/limitation (only critical ones)
+5. Specific next step (not “more research is needed”)
+
+**Definition of done:** no new citations, no new results, no surprise claims.
+
+---
+
+## 11) Introduction (promise-control)
+
+### Purpose
+
+Convince the reader it matters and preview exactly what you do—without overpromising.
+
+### Required by paragraph 3–5
+
+* stakes/problem
+* gap
+* objective
+* contribution
+* short roadmap (optional)
+
+### Contribution sentence template
+
+> “We contribute by **doing X** using **Y method/data** in **Z setting**, which allows us to **claim only A** (not B).”
+
+**Definition of done:** intro claims match methods/results with zero drift.
+
+---
+
+# PART E — Abstract (write last; mirror only)
+
+## 12) Abstract requirements (universal)
+
+Abstract must follow:
+**Background → Objective → Methods → Results → Conclusion**
+
+### Abstract rules
+
+* no new information
+* no citations (unless explicitly permitted)
+* active voice preferred
+* define acronyms or remove them
+* keywords appear early
+* results stated clearly (numbers if applicable)
+* conclusions bounded to design
+
+### Abstract micro-template (single paragraph)
+
+> **Background:** [problem + gap]
+> **Objective:** [aim]
+> **Methods:** [design + data/sample + analysis]
+> **Results:** [main finding + quantitative/precise statement + uncertainty if relevant]
+> **Conclusion:** [what it implies + boundary]
+
+---
+
+# PART F — Title (write last; promise discipline)
+
+## 13) Title rules (Reviewer-2 safe)
+
+A title must:
+
+1. state topic
+2. signal method/design
+3. preview finding only if defensible
+4. front-load keywords
+
+### Title seed sentence
+
+**In [context/population], we use [method/data] to show [main finding] about [phenomenon].**
+
+### Title types (choose safest)
+
+1. **Topic + Method** (safest): “X in Y: Evidence from Z”
+2. **Topic + Finding** (riskier): avoid causal verbs unless causal design
+3. **Question**: “Does X affect Y? Evidence from Z”
+4. **Two-part** (best compromise): “Big idea: Specific scope/method”
+
+### Fast title workflow (12 → 3 → 1)
+
+* draft 12
+* kill overclaiming and missing keywords
+* keep best 3
+* choose based on venue tone
+
+---
+
+# PART G — Reviewer-#2 Gates (the mechanical defenses)
+
+## 14) The Claim→Evidence Audit (non-negotiable)
+
+For each paragraph, mark:
+
+* claim
+* evidence location (table/figure/quote/source)
+* inference type (descriptive/associational/causal/normative)
+
+If it fails:
+
+* cite
+* revise
+* or delete
+
+## 15) Scope clamp pass
+
+Replace vague universals with boundaries:
+
+* who (population/actors)
+* where (context)
+* when (time window)
+* conditions (assumptions, interface constraints)
+
+## 16) Consistency pass
+
+* same construct names everywhere
+* same units and definitions everywhere
+* same directionality and terms in figures/tables vs text
+
+## 17) Submission hygiene pass
+
+* anonymize if required
+* acronym check
+* figure/table referencing check
+* formatting compliance check (word limit, headings, style)
+
+---
+
+# Quick “User Instructions” (what you do, in one page)
+
+### You do this:
+
+1. dump notes and sources (messy is fine)
+2. tag sources + capture key quotes/page numbers
+3. draft with inline markers
+4. write sections in the low-rework order
+5. run the Reviewer-2 gates
+6. write abstract + title last
+
+### Then I do this:
+
+* convert your notes into a coherent manuscript with correct section logic
+* tighten claims to match evidence
+* fix structure, flow, and peer-review defensibility
+* generate abstract and title options that won’t get you desk-rejected
+
+---
+
+If you want the fastest path right now: paste **either** (a) your notes + sources, **or** (b) just your current Literature Review draft, and I’ll restructure it into the section model above (claim-first synthesis + clear gap + mapped citations).

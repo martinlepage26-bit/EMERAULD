@@ -1,0 +1,110 @@
+---
+type: raw
+source_kind: pdf_ocr
+source_path: /mnt/d/LIBRARY/Review/Unreadable/2017 - Martin Lepage - ocr_needed.pdf - 2017 - Martin Lepage - ocr_needed.pdf.pdf - 2017 - Martin Lepage - ocr_needed.pdf - 2017 - Martin Lepage - ocr_needed.pdf.pdf.pdf
+source_rel: Review/Unreadable/2017 - Martin Lepage - ocr_needed.pdf - 2017 - Martin Lepage - ocr_needed.pdf.pdf - 2017 - Martin Lepage - ocr_needed.pdf - 2017 - Martin Lepage - ocr_needed.pdf.pdf.pdf
+ocr_engine: tesseract.js
+ocr_lang: eng+fra
+pages_total: 2
+pages_ocrd: [1, 2]
+partial: false
+ocr_text: text/Review/Unreadable/2017 - Martin Lepage - ocr_needed.pdf - 2017 - Martin Lepage - ocr_needed.pdf.pdf - 2017 - Martin Lepage - ocr_needed.pd__29f3cc7c2db4.ocr.txt
+pdfinfo:
+  Author: "Martin"
+  CreationDate: "Thu Oct  5 22:47:17 2017 EDT"
+  Custom Metadata: "no"
+  Encrypted: "no"
+  File size: "811682 bytes"
+  Form: "none"
+  JavaScript: "no"
+  Metadata Stream: "no"
+  ModDate: "Thu Oct  5 22:47:17 2017 EDT"
+  Optimized: "no"
+  PDF version: "1.7"
+  Page rot: "0"
+  Page size: "612 x 792 pts (letter)"
+  Pages: "2"
+  Producer: "Microsoft: Print To PDF"
+  Suspects: "no"
+  Tagged: "no"
+  Title: "Mail iCloud - Fw: Reference for Dr. MARTIN LEPAGE"
+  UserProperties: "no"
+dr_sort_original_filename: "2017 - Martin Lepage - ocr_needed.pdf - 2017 - Martin Lepage - ocr_needed.pdf.pdf - 2017 - Martin Lepage - ocr_needed.pd__29f3cc7c2db4.md"
+dr_sort_original_path: "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2017 - Martin Lepage - ocr_needed.pdf - 2017 - Martin Lepage - ocr_needed.pdf.pdf - 2017 - Martin Lepage - ocr_needed.pd__29f3cc7c2db4.md"
+dr_sort_filename_normalized: "2026-05-06"
+---
+
+# Mail iCloud - Fw: Reference for Dr. MARTIN LEPAGE
+
+## OCR Notes
+
+- This is an OCR extraction pass over `Review/Unreadable/` when `pdftotext` was empty/failed.
+- Page strategy: full OCR for short PDFs; first + last pages for long PDFs.
+
+## Extracted Text
+
+===== IMAGE: /tmp/unreadable_ocr_ar908nyy/p00001.png =====
+
+05/10/2017 Mail iCloud
+Fw: Reference for Dr. MARTIN LEPAGE
+5 octobre 2017 à 14:50
+De Donald Boisvert
+À Martin Lepage
+Martin,
+À titre d'information.
+Bonne chance!
+Salutations cordiales,
+Donald
+From: Donald Boisvert
+Sent: October 5, 2017 2:47 PM
+To: Sociology and Anthropology Chair
+Subject: Reference for Dr. MARTIN LEPAGE
+Dr. Danielle Gauvreau
+Chair
+Department of Sociology and Anthropology
+Concordia University
+Dear Dr. Gauvreau:
+| am very pleased to have been asked to provide this letter of reference for Dr. Martin LEPAGE, who has applied
+for the Assistant Professor tenure-track position in Gender and Society in your department. | have known Dr.
+Lepage for a number of years, more specifically when | was a professor in, and chair of, the Department of
+Religions and Cultures at Concordia. | have since retired from Concordia.
+As you may know, we have a long-standing joint PhD program in Religion with UQAM and Université Laval. | was a
+member of the examining committee for Dr. Lepage's doctoral defense, and | have also evaluated his graduate
+work on a number of occasions. | must say that Dr. Lepage's dissertation was one of the most accomplished and
+well-written ethnographic studies that | have had the pleasure of reading over a number of years.
+1 do believe that Dr. Lepage is especially well-suited to this position. Though his degree is in the interdisciplinary
+field of Religious Studies, his work, in fact, bridges a number of academic disciplines, such as sociology,
+anthropology, sexuality, gender and women's studies, ritual studies, pagan studies and sexology. Dr. Lepage's
+multidisciplinary interests in qualitative methods and methodologies, in queer theory and intersectionality, as well
+as in narratives and social norms, are strong and persuasive evidence of a well-rounded and passionate scholar. |
+also believe that he has the ideal profile to contribute significantly to the field of masculinity studies--already a
+pole of cutting-edge research in your department--and to Concordia's new undergraduate program in
+interdisciplinary studies in sexuality. Both his teaching and research statements bear eloquent witness to Dr.
+Lepage's engaged scholarship and to his broad and inclusive style of learning and teaching. In addition, his listing
+of publications, both actual and in-progress, are persuasive evidence of someone who is deeply committed to the
+value and importance of research
+Over the years, colleagues at UQAM have spoken very highly to me about Dr. Lepage's selfless commitment to
+departmental life and activities, as well as his leadership role in mentoring and supporting his fellow students. |
+https:/wwwicloud.com/message/current/fr-frfindex.htmi#/view?guid=message% 3AINBOX%2F24460 12
+
+===== IMAGE: /tmp/unreadable_ocr_ar908nyy/p00002.png =====
+
+05/10/2017 Mail iCloud
+
+have no doubt that such generosity will carry over as one of your departmental colleagues.
+
+| therefore recommend Dr. Martin Lepage for your consideration in the strongest possible terms. Please do not
+
+advise to advise me should you require further information
+
+Yours sincerely,
+
+Donald L. Boisvert, PhD
+
+Affiliate Associate Professor, Department of Religions and Cultures
+hitps:/iwww.icloud.com/message/currentf-friindex.htmi#view?guid=message%3AINBOX%2F 24460 202
+
+## Related
+
+- [[Research and Papers MOC]]
+- [[The Inner Goddess — Gender Normativity and Gay Identity in Wiccan Ritualities]]

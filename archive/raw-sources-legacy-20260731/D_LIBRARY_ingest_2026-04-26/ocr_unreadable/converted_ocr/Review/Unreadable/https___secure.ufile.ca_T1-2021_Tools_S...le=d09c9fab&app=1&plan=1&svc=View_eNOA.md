@@ -1,0 +1,219 @@
+---
+type: raw
+source_kind: pdf_ocr
+source_path: /mnt/d/LIBRARY/Review/Unreadable/2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf - 2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf.pdf
+source_rel: Review/Unreadable/2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf - 2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf.pdf
+ocr_engine: tesseract.js
+ocr_lang: eng+fra
+pages_total: 5
+pages_ocrd: [1, 2, 3, 4, 5]
+partial: false
+ocr_text: text/Review/Unreadable/2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf - 2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf.pdf.ocr.txt
+pdfinfo:
+  Author: "Martin"
+  CreationDate: "Wed Mar  9 16:23:05 2022 EST"
+  Custom Metadata: "no"
+  Encrypted: "no"
+  File size: "976742 bytes"
+  Form: "none"
+  JavaScript: "no"
+  Metadata Stream: "no"
+  ModDate: "Wed Mar  9 16:23:05 2022 EST"
+  Optimized: "no"
+  PDF version: "1.7"
+  Page rot: "0"
+  Page size: "612 x 792 pts (letter)"
+  Pages: "5"
+  Producer: "Microsoft: Print To PDF"
+  Suspects: "no"
+  Tagged: "no"
+  Title: "https___secure.ufile.ca_T1-2021_Tools_S...le=d09c9fab&app=1&plan=1&svc=View_eNOA"
+  UserProperties: "no"
+dr_sort_original_filename: "2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf - 2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf.pdf.md"
+dr_sort_original_path: "raw sources/D_LIBRARY_ingest_2026-04-26/ocr_unreadable/converted_ocr/Review/Unreadable/2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf - 2021 - ocr_needed_5.pdf - 2021 - ocr_needed_5.pdf.pdf.pdf.md"
+dr_sort_filename_normalized: "2026-05-06"
+---
+
+# https___secure.ufile.ca_T1-2021_Tools_S...le=d09c9fab&app=1&plan=1&svc=View_eNOA
+
+## OCR Notes
+
+- This is an OCR extraction pass over `Review/Unreadable/` when `pdftotext` was empty/failed.
+- Page strategy: full OCR for short PDFs; first + last pages for long PDFs.
+
+## Extracted Text
+
+===== IMAGE: /tmp/unreadable_ocr_ty_53rzx/p00001.png =====
+
+09/03/2022 16:21 https://secure.ufile.ca/T1-2021/Tools/ServiceDisplay?file=d09c9fab&app=1&plan=1&svc=View_eNOA
+Agence du revenu du Canada
+Avis de cotisation
+Détails concernant l'avis
+Adresse :
+Martin Lepage
+2456 rue de Rouen
+Montreal, QC
+H2K 1M2
+Numéro d'assurance sociale : XXX-XX0-633
+Année d'imposition : 2021
+Date de l'avis : 17 mars 2022
+Centre fiscal : SUDBURY ON P3A 5C1
+Code d'accès : FL3QV52K
+Nous avons traité votre déclaration de revenus et de prestations de 2021et calculé votre solde.
+Le montant que vous devez payer est de 1 601,31 $, moins tout montant que vous avez payé et que
+nous n'avons pas encore traité.
+Pour éviter de payer plus d'intérêts, veuillez payer ce montant d'ici le 30 avril 2022.
+Merci.
+Bob Hamilton
+Commissaire du revenu
+En résumé
+Vous avez un montant à payer. Si vous l'avez déjà payé au complet, ne tenez pas compte de cet
+avis,
+https://secure.ufile.ca/T1-2024/Tools/ServiceDisplay?file=d09c9fab&app=1&plan=1&svc=View_eNOA 115
+
+===== IMAGE: /tmp/unreadable_ocr_ty_53rzx/p00002.png =====
+
+09/03/2022 16:21 https://secure.ufile.ca/T1-2021/Tools/ServiceDisplay?file=d09c9fab&app=1&plan=1&svc=View_eNOA
+Montant dû : 1 601,31 $
+A payer d'ici le : 30 avril 2022
+Cotisation d'impôt
+Nous avons calculé vos impôts à l'aide des montants ci-dessous. Le sommaire ci-dessous est basé
+sur les renseignements que nous avons ou que vous nous avez donnés.
+Nous pourrions réexaminer votre déclaration pour vérifier le revenu que vous avez déclaré ou les
+déductions ou crédits que vous avez demandés. Pour en savoir plus, allez à canada.ca/impots-
+examen. Conservez tous vos feuillets, reçus et autres pièces justificatives pour pouvoir nous les
+fournir sur demande.
+Sommaire
+Ligne Description Montant final $ CT/DT
+15000 Revenu total 37757
+Déductions du revenu total 1383
+23600 Revenu net 36 374
+26000 Revenu imposable 36 374
+35000 Total des crédits d'impôt non remboursables 2426
+42000 Impôt fédéral net 3.029,99
+43500 Total à payer 3.029,99
+43700 Impôt total retenu 2 143,89
+44000  Abattement du Québec remboursable 499,95
+48200 Total des crédits 2 643,84
+Total à payer moins Total des crédits 386,15 DT
+Solde de cette cotisation 386,15 DT
+Solde précédent 1215,16 DT
+Solde dû 1 601,31 DT
+Explication des changements et autres renseignements importants
+https://secure.ufile.ca/T1-2024/Tools/ServiceDisplay?file=d09c9fab&app=1&plan=1&svc=View_eNOA 25
+
+===== IMAGE: /tmp/unreadable_ocr_ty_53rzx/p00003.png =====
+
+09/03/2022 16:21 https://secure.ufile.ca/T1-2021/Tools/ServiceDisplay?file=d09c9fab&app=1&plan=1&svc=View_eNOA
+
+Nous avons traité votre déclaration et vous avez un solde dû. Si vous avez déjà payé ce solde et
+que le paiement n'apparaît pas sur cet avis, veuillez noter qu'il peut prendre jusqu'à 10 jours
+ouvrables pour que votre paiement soit reflété dans notre système. Vous pouvez voir en ligne le
+solde de votre compte et votre état de compte au moyen de Mon dossier.
+
+Vous pouvez aussi vous prévaloir du Service automatisé de solde de compte d'impôts des
+particuliers en appelant au 1-866-474-8272. Ce service est disponible sept jours par semaine et
+vous permet d'obtenir rapidement le solde de votre compte et de l'information au sujet de votre
+dernier paiement. On vous demandera de fournir votre numéro d'assurance sociale, votre date de
+naissance et le montant déclaré à la ligne 15000 de votre déclaration de revenus.
+
+Nous calculerons automatiquement votre crédit pour la taxe sur les produits et services/taxe de
+vente harmonisée en fonction de votre revenu net familial, de votre état civil et de vos enfants
+admissibles. Si vous avez droit à un crédit pour la période de juillet 2022 à juin 2023, nous vous en
+informerons en juillet.
+
+Votre limite du crédit canadien pour la formation pour l'an prochain est de 750,00 $. Ce crédit va
+expirer à la fin de l'année quand vous aurez 65 ans ou l'année du décès.
+
+Si vous avez des questions concernant votre cotisation d'impôt, téléphonez aux services de
+demandes de renseignements des particuliers au 1-800-959-7383.
+
+État du maximum déductible au titre des REER
+
+Les références aux cotisations versées à un REER comprennent également les cotisations versées
+à votre régime de pension agréé collectif (RPAC), ainsi que celles versées à votre régime de
+pension déterminé (RPD) et à celui de votre conjoint ou conjoint de fait. Pour en savoir plus, allez à
+canada.ca/reer ou consultez le guide T4040, REER et autres régimes enregistrés pour la retraite.
+
+Montant
+Description $
+Maximum déductible au titre des REER pour 2021 36 493
+Moins : cotisations de l'employeur au RPAC pour 2021 0
+Moins : cotisations admissibles au REER déduites pour 2021 0
+Plus : 18 % du revenu gagné en 2021, jusqu'à un maximum de 29 210 $ 3182
+Moins : facteur d'équivalence pour 2021 1424
+Moins : facteur d'équivalence pour services passés net pour 2022 0
+Plus : facteur d'équivalence rectifié pour 2022 0
+Maximum déductible au titre des REER pour 2022 38 251
+https://secure.ufile.ca/T1-2024/Tools/ServiceDisplay?file=d09c9fab&app=1&plan=1&svc=View_eNOA 3/5
+
+===== IMAGE: /tmp/unreadable_ocr_ty_53rzx/p00004.png =====
+
+09/03/2022 16:21 https://secure.ufile.ca/T1-2021/Tools/ServiceDisplay?file=d09c9fab&app=1&plan=1&svc=View_eNOA
+Montant
+Description $
+Moins : cotisations inutilisées versées à un REER, déclarées lors d'une année passée 0
+et pouvant étre déduites en 2022
+Voici vos droits de cotisation pour 2022 38251
+Remarque : Si le montant de vos droits de cotisation est négatif (entre parenthèses), cela signifie
+que vous n'avez pas de droits de cotisation pour 2022 et que vous avez peut-être trop cotisé à votre
+REER. Si c'est le cas, vous pourriez devoir payer un impôt de 1 % par mois sur les cotisations
+excédentaires.
+Autres renseignements
+Pour en savoir plus sur votre déclaration de revenus et de prestations, allez à canada.ca/impots,
+consultez Mon dossier à canada.ca/mon-dossier-arc ou composez le 1-800-959-7383.
+Pour trouver votre centre fiscal, allez à canada.ca/arc-bureaux.
+Vous déménagez?
+Donnez-nous votre nouvelle adresse dès que possible! Pour savoir comment faire, allez à
+canada.ca/arc-changer-adresse.
+Vous avez des renseignements nouveaux ou additionnels et vous
+voulez faire modifier votre déclaration?
+- Vous pouvez aller à canada.ca/modifier-declaration-revenus pour un service rapide.
+- Vous pouvez écrire au centre fiscal dont l'adresse figure sur cet avis. Indiquez votre numéro
+d'assurance sociale et joignez tous les documents à l'appui des changements demandés.
+Vous voulez enregistrer un avis de différend officiel?
+Allez à canada.ca/arc-plaintes-differends. Vous avez 90 jours à compter de la date de cet avis
+pour enregistrer votre différend.
+Définitions
+Les lettres DT (débit) signifient que vous avez un montant dû, et CT (crédit) que nous vous devons
+un montant.
+https://secure.ufile.ca/T1-2024/Tools/ServiceDisplay?file=d09c9fab&app=1&plan=1&svc=View_eNOA 45
+
+===== IMAGE: /tmp/unreadable_ocr_ty_53rzx/p00005.png =====
+
+09/03/2022 16:21 https://secure.ufile.ca/T1-2021/Tools/ServiceDisplay?file=d09c9fab&app=1&plan=1&svc=View_eNOA
+Aide aux personnes ayant une déficience auditive, visuelle ou de la
+parole
+Vous pouvez obtenir cet avis en braille, en gros caractères ou en format audio. Pour en savoir plus
+sur les médias substituts, allez à canada.ca/arc-medias-substituts.
+
+Si vous utilisez un téléimprimeur, vous pouvez obtenir des renseignements fiscaux en composant le
+1-800-665-0354.
+
+Comment pouvez-vous payer?
+
+- en ligne ou par téléphone en utilisant les services d'une institution financière canadienne;
+
+- en ligne à canada.ca/mon-paiement-arc;
+
+- en ligne en établissant un accord de débit préautorisé à canada.ca/mon-dossier-arc;
+
+- en personne avec votre pièce de versement à votre institution financière canadienne ou,
+moyennant des frais, à Postes Canada
+
+Pour en savoir plus sur les façons de payer, allez à canada.ca/paiements.
+
+Besoin de plus de temps pour payer?
+
+Si vous ne pouvez pas payer tout le montant dû et que vous voulez des renseignements, allez à
+canada.ca/arc-recouvrements.
+
+Pour discuter d'une entente de paiement avec l'ARC, composez le 1-888-863-8661 du lundi au
+vendredi (sauf les jours fériés) de 7 h à 23 h, heure de l'Est.
+
+https://secure.ufile.ca/T1-2024/Tools/ServiceDisplay?file=d09c9fab&app=1&plan=1&svc=View_eNOA 55
+
+## Related
+
+- [[Research and Papers MOC]]
+- [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]]

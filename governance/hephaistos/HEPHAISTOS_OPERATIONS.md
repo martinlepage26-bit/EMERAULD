@@ -227,12 +227,12 @@ identity signal while preserving the function.
 As of 2026-03-30, the live public topology is:
 
 - `/home/martin/websites/pharos-suite` → `https://pharos-ai.ca`
-- `martin-lepage-site` repo → `https://martin.govern-ai.ca` (repo not cloned on this host; old-host path retired)
+- `martinlepage26-bit.github.io` repo → `https://martin.govern-ai.ca` (deployed as Cloudflare Pages project `martin-lepage-site`; alias `https://martin-lepage-phd.pharos-ai.ca`; cloned locally at `/home/martin/work/martinlepage26-bit.github.io`)
 
 Boundary baseline:
 - PHAROS, COMPASSai, and AurorA belong only in `pharos-suite`
 - Martin public identity plus `/lotus`, `/scripto`, `/gaia`, `/echo`, and `/dr-sort`
-  belong only in `martin-lepage-site`
+  belong only in `martinlepage26-bit.github.io`
 - Authored Hephaistos narratives and the governance / skill tree artifacts are
   published from the Martin surface, not from PHAROS
 

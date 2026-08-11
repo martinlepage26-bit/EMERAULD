@@ -1,11 +1,12 @@
 ---
 type: raw-source
-aliases: []
-tags: [documents-root-intake, ai-governance]
-status: raw
-source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
-created: 2026-04-28
-classified: 2026-07-10
+title: ai_governance_public_statementlong
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/converted/governance-public-market/ai_governance_public_statementlong.md
 ---
 
 Today, we are proud to make a clear public commitment about the future of artificial intelligence. Our company exists to help organizations govern AI with discipline, transparency, and accountability from day one. We work with leaders to create practical standards for model oversight, human review, risk monitoring, compliance, and decision traceability, so innovation can move forward with confidence instead of uncertainty.
@@ -22,7 +23,3 @@ As AI grows more powerful, our promise is to help clients lead with foresight, m
 
 - [[Governance and PHAROS MOC]]
 - [[PHAROS External Proof Packet — Procurement-Unblock 2026-04-28]]
-
-## Source classification
-
-Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **AI governance public-market pack**. Synthesized / anchored in [[AI Governance Public Statement and Market Impact Pack]]. Indexed under [[Governance and PHAROS MOC]].

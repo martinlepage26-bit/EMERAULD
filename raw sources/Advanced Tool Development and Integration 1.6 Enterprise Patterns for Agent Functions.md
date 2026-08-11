@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Advanced Tool Development and Integration 1.6 Enterprise Patterns for Agent Functions"
+type: raw-source
+title: Advanced Tool Development and Integration 1.6 Enterprise Patterns for Agent Functions
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Advanced Tool Development and Integration 1.6 Enterprise Patterns for Agent Functions.md
 ---
+
 # Introduction 
 In the first half of this client’s project, you successfully refactored "naive" code into reliable, agent-callable functions. You achieved this by manually implementing a try/except block and standardized return format for each function. This worked, but as you saw, it was highly repetitive.
 
@@ -99,10 +101,3 @@ The Production Decorator (@production_agent_function): A pattern to centralize i
 The pytest Strategy: A testing framework (using fixtures and parametrization) to validate not just your "happy path" logic but also your "sad path" error responses.
 
 You will need to combine both of these ideas to harden and validate your agent functions.
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

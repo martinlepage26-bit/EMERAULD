@@ -38,7 +38,7 @@ skill routing decisions. Update it when skills are added, modified, or deprecate
 The skill registry operates inside a live two-surface topology:
 
 - `pharos-suite` -> `https://pharos-ai.ca`
-- `martin-lepage-site` -> `https://martin.govern-ai.ca`
+- `martinlepage26-bit.github.io` -> `https://martin.govern-ai.ca` (Cloudflare Pages project: `martin-lepage-site`)
 
 Boundary reminder:
 

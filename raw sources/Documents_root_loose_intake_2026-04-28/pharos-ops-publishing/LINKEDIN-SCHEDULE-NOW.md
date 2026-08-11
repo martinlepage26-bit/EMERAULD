@@ -1,11 +1,12 @@
 ---
 type: raw-source
-aliases: []
-tags: [documents-root-intake, pharos-ops]
-status: raw
-source: Documents root loose files (C:/Users/softinfo/Documents), intake 2026-04-28
-created: 2026-04-28
-classified: 2026-07-10
+title: LINKEDIN-SCHEDULE-NOW
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Documents_root_loose_intake_2026-04-28/pharos-ops-publishing/LINKEDIN-SCHEDULE-NOW.md
 ---
 
 # PHAROS LinkedIn — Schedule These Now
@@ -250,7 +251,3 @@ pharos-ai.ca
 
 - [[Governance and PHAROS MOC]]
 - [[ChatGPT Apps SDK — Planning, Metadata, Deployment, and Operations]]
-
-## Source classification
-
-Raw capture from the [[Documents Root Loose Files Intake — 2026-04-28]] pass — **PHAROS ops and publishing**. Synthesized / anchored in [[PHAROS LinkedIn April 2026 Publishing Routine]]. Indexed under [[Governance and PHAROS MOC]].

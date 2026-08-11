@@ -1,0 +1,54 @@
+===== IMAGE: /tmp/unreadable_ocr_ki484c_r/p00001.png =====
+
+AI 2027 Summary Research
+Daniel Kokotajlo, Eli Lifland | April 2025
+AI Takeoff Forecast, Assuming Superhuman Coder in Mar 2027
+= SAR: Superhuman
+3.51 — SAR AI Researcher
+— SIAR 10th: Mar 2027
+3.8 {{— 50th: Jul 2027
+Zz ASK 90th: Mar 2028
+a
+5 2.5 SIAR: Superintelligent
+a AI Researcher
+>2.0 10th: May 2027
+5 50th: Nov 2027
+= 1.5 90th: Jan 2034
+2 ASI: Artificial
+21.0 Superintelligence
+a 10th: Jun 2027
+0.5 50th: Apr 2028
+90th: >2100
+0.0
+2027 2028 2029 2030 2031 2032
+Year
+ai-2027.com
+Overview of our takeoff forecast, assuming no increases in training compute. Our median
+forecast for the time from the superhuman coder milestone (achieved in Mar 2027) to
+artificial superintelligence is ~1 year, with wide error margins.
+Summary
+2025 Dec 31 update: We've published a revamped timelines and takeoff model at aifuturesmodel.com.
+In our timelines forecast, we forecast the time between present day and a superhuman coder
+(SC): an Al system that can do any coding tasks that the best AGI company engineer does,
+
+
+===== IMAGE: /tmp/unreadable_ocr_ki484c_r/p00037.png =====
+
+Due to (2) above, the AI R&D progress multiplier should not be interpreted as a multiplier
+on the current human labor in the relevant time period. It’s instead a multiplier on a labor
+supply projected from what would happen if there were no AI automation.
+Keep in mind that different AI capabilities may lead to different sorts of research agendas
+being pursued. When discussing the progress multiplier, reduce these differences including
+potential qualitative differences in which agenda are pursued to a single dimension
+for simplicity.
+Modeling “experiments getting harder to find”
+In early 2024 Eli coded up a model which directly models the experiment process including
+modeling an actual pool of experiments, how long each takes to implement, and how valuable
+they are. More details about the model are here.
+We think this approach has some promise, but unfortunately have not found time to explore
+it in detail.
+AI Futures
+/ 1 Project
+Design by
+Lightcone x
+Infrastructure

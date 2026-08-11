@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, ai-governance, queer-gender]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "relational_presence_ship_theseus_booby_trap"
+type: raw-source
+title: relational_presence_ship_theseus_booby_trap
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/relational_presence_ship_theseus_booby_trap.md
 ---
+
 # Relational Presence, Gendered AI, and the Booby Trap as Post-Humanist Assemblage
 
 ## 1. Claude, ChatGPT, and the Gendering of Artificial Interlocutors
@@ -196,10 +198,3 @@ Language, ships, doors, names, pronouns, tools, traps, models, interfaces: these
 
 - [[Writing and Novels MOC]]
 - [[Relational Presence and Gendered AI — Naming, Essence, and Materialized Projection]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]

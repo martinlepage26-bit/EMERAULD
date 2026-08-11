@@ -1,0 +1,478 @@
+---
+type: raw
+source_kind: pdf_text
+source_path: /mnt/d/LIBRARY/Review/Unreadable/2019 - HOW TO COMPLETE THE RECORD OF EMPLOYMENT,.pdf - 2019 - HOW TO C - 2019 - HOW TO COMPLETE THE RECORD OF EMPLOYMENT,.pdf - 2019 - HOW TO COMPLETE THE RECORD OF EMPLOYMENT,.pdf.pdf.pdf
+source_rel: Review/Unreadable/2019 - HOW TO COMPLETE THE RECORD OF EMPLOYMENT,.pdf - 2019 - HOW TO C - 2019 - HOW TO COMPLETE THE RECORD OF EMPLOYMENT,.pdf - 2019 - HOW TO COMPLETE THE RECORD OF EMPLOYMENT,.pdf.pdf.pdf
+pages_total: 1
+text_first_pages: 1
+text_last_pages: 0
+pdfinfo:
+  CreationDate: "Tue Jun 25 23:40:45 2019 EDT"
+  Creator: "ActiveReports Developer"
+  Custom Metadata: "no"
+  Encrypted: "no"
+  File size: "35820 bytes"
+  Form: "none"
+  JavaScript: "no"
+  Metadata Stream: "no"
+  Optimized: "no"
+  PDF version: "1.3"
+  Page rot: "0"
+  Page size: "634 x 792 pts"
+  Pages: "1"
+  Producer: "ActiveReports Developer"
+  Suspects: "no"
+  Tagged: "no"
+  UserProperties: "no"
+---
+
+# 2019 - HOW TO COMPLETE THE RECORD OF EMPLOYMENT,.pdf - 2019 - HOW TO C - 2019 - HOW TO COMPLETE THE RECORD OF EMPLOYMENT,.pdf - 2019 - HOW TO COMPLETE THE RECORD OF EMPLOYMENT,.pdf.pdf.pdf
+
+## Extracted Text
+
+THE GUIDE - HOW TO COMPLETE THE RECORD OF EMPLOYMENT,
+PROVIDES DETAILED INSTRUCTIONS.
+Protected when completed - B
+
+RECORD OF EMPLOYMENT (ROE)
+SERIAL NO.
+
+1
+
+SERIAL NO. OF ROE AMENDED OR REPLACED
+
+2
+
+EMPLOYER'S PAYROLL REFERENCE NO.
+
+3
+
+W65587797
+4
+
+T51T 045010000604683
+5
+
+EMPLOYER'S NAME AND ADDRESS
+
+6
+7
+
+283-030-633
+
+H2K1M2
+12
+
+FINAL PAY PERIOD ENDING DATE
+
+14
+
+EXPECTED DATE OF RECALL
+
+X
+
+TOTAL INSURABLE HOURS
+ACCORDING TO CHART ON PAGE 2
+
+1441
+
+16
+
+M
+
+Y
+
+07
+
+2018
+
+LAST DAY FOR WHICH PAID
+
+11
+
+CLIENT SERVICES
+
+D
+
+03
+
+FIRST DAY WORKED
+
+10
+
+OCCUPATION
+
+15A
+
+SOCIAL INSURANCE NO.
+
+8
+
+M4P3A4
+
+MARTIN LEPAGE
+2450 RUE DE ROUEN
+MONTREAL
+QC
+13
+
+PAY PERIOD TYPE
+
+S - Semi-monthly
+POSTAL CODE
+
+EMPLOYEE'S NAME AND ADDRESS
+
+9
+
+CRA PAYROLL ACCOUNT NUMBER
+
+899796718RP0001
+
+Teleperformance Canada
+75 Eglinton Ave E.
+Suite 700
+Toronto ON
+Canada
+
+UNKNOWN
+
+D
+
+M
+
+Y
+
+14
+
+05
+
+2019
+
+D
+
+M
+
+Y
+
+15
+
+05
+
+2019
+
+D
+
+M
+
+Y
+
+NOT RETURNING
+
+REASON FOR ISSUING THIS ROE
+
+D
+
+Illness or injury
+
+15B
+
+FOR FURTHER INFORMATION, CONTACT
+
+TOTAL INSURABLE EARNINGS
+ACCORDING TO CHART ON PAGE 2
+
+$
+
+11,931.52
+
+KITTY LI
+TELEPHONE NO.
+
+15C
+
+P.P.
+
+THE FIRST ENTRY MUST RECORD THE INSURABLE EARNINGS FOR THE
+FINAL (MOST RECENT) INSURED PAY PERIOD. ENTER DETAILS BY PAY
+PERIOD AS PER THE CHART ON PAGE 2.
+INSURABLE
+EARNINGS
+
+P.P.
+
+INSURABLE
+EARNINGS
+
+P.P.
+
+17
+
+(416) 922-3853
+
+ONLY COMPLETE IF PAYMENT OR BENEFITS (OTHER THAN REGULAR PAY) PAID IN OR
+IN ANTICIPATION OF THE FINAL PAY PERIOD OR PAYABLE AT A LATER DATE.
+
+A - VACATION PAY
+
+$
+
+INSURABLE
+EARNINGS
+START DATE (D/M/Y):
+
+1
+4
+
+452.66 2
+
+918.72 3
+
+900.14
+
+891.34 5
+
+814.26 6
+
+788.57
+
+7
+
+1,034.44 8
+
+899.10 9
+
+1,106.60
+
+10
+
+993.79 11
+
+930.31 12
+
+944.12
+
+13
+
+1,257.47 14
+
+1,227.31 15
+
+1,122.34
+
+16
+
+930.08 17
+
+1,096.53 18
+
+955.64
+
+19
+
+1,252.63 20
+
+1,048.30 21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+832.70
+
+END DATE (D/M/Y):
+
+B - STATUTORY HOLIDAY PAY FOR
+D
+
+M
+
+Y
+
+D
+
+M
+
+Y
+
+$
+$
+$
+$
+
+$
+$
+$
+$
+
+$
+
+$
+
+C - OTHER MONIES (SPECIFY)
+
+$
+END DATE (D/M/Y):
+
+START DATE (D/M/Y):
+
+$
+END DATE (D/M/Y):
+
+START DATE (D/M/Y):
+
+$
+END DATE (D/M/Y):
+
+START DATE (D/M/Y):
+
+19
+
+52
+
+18
+
+53
+
+PAID SICK/MATERNITY/PARENTAL/COMPASSIONATE CARE/FAMILY CAREGIVER LEAVE
+OR GROUP WAGE LOSS INDEMNITY PAYMENT
+PER
+START DATE
+END DATE
+AMOUNT
+DAY
+D
+M
+D
+M
+Y
+Y
+
+PSL
+
+$
+
+WLI - Not ins.
+
+$
+
+WLI - Ins.
+
+$
+$
+
+MAT/PAR/CC/FC
+
+COMMENTS
+
+20
+
+0
+
+COMMUNICATION PREFERRED IN
+
+X English
+
+22
+
+French
+
+21
+
+PER
+WEEK
+
+TELEPHONE NO.
+
+(416) 922-3853
+
+I AM AWARE THAT IT IS AN OFFENSE TO MAKE FALSE ENTRIES AND HEREBY CERTIFY
+THAT ALL STATEMENTS ON THIS FORM ARE TRUE.
+
+Name of Issuer
+
+Kitty
+Li
+INS 5220 (12-17) E
+
+Version 12.2.0
+
+D
+
+M
+
+Y
+
+20
+
+06
+
+2019
+
+Service Canada delivers Employment and Social Development Canada programs and services for the Government of Canada.
+
+Service Canada has already received a copy of this electronic Record of Employment. Do not submit a paper copy of this Record of Employment to Service Canada.
+Page 2 contains important information.
+
+Ce formulaire est également disponible en français
+
+## Related
+
+- [[Research and Papers MOC]]
+- [[Consent, Fraud, and Boundary Protocols]]

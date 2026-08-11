@@ -1272,10 +1272,3 @@ tags: [manuscript, theory, source, ai-governance, self-report, evidence-discipli
 "362","KEEP","HIGH-governance-group","255B75516E46CA12","69,02","D:\MASTER REFERENCE SAFE\archive\2026-03\MASTER REFERENCE LIST pre-clean 20260331-001329.txt","2026-03-31 00:13:30","D:\MASTER REFERENCE SAFE\archive\2026-03\MASTER REFERENCE LIST pre-clean 20260331-001329.txt","3"
 "363","CANDIDATE-DELETE","HIGH-governance-group","6752240A91B695F8","81,87","D:\MASTER REFERENCE SAFE\archive\2026-03\MASTER REFERENCE LIST pre-clean 20260331-005609.txt","2026-03-31 00:56:10","D:\MASTER REFERENCE SAFE\archive\2026-03\pre-inbox-process-20260331-130850\MASTER REFERENCE LIST.txt","2"
 "363","KEEP","HIGH-governance-group","6752240A91B695F8","81,87","D:\MASTER REFERENCE SAFE\archive\2026-03\pre-inbox-process-20260331-130850\MASTER REFERENCE LIST.txt","2026-03-31 13:08:56","D:\MASTER REFERENCE SAFE\archive\2026-03\pre-inbox-process-20260331-130850\MASTER REFERENCE LIST.txt","2"
-
-## Related
-
-OCR continuation fragment (part 3) of the Mauss *Gift* capture.
-
-- [[2026 - Mauss - The Gift]]
-- [[Social Theory]]

@@ -28,8 +28,3 @@ Every note here should be:
 **Rules for the human:**
 - Don't dump raw captures here. Process them first (or ask the agent to).
 - Review periodically: move stale notes to archive/.
-
-## Related
-
-- [[EMERAULD]]
-- [[Home]]

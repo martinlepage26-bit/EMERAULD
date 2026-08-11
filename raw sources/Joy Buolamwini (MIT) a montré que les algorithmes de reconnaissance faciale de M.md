@@ -1,12 +1,14 @@
 ---
-type: source
-aliases: []
-tags: [raw-source, orphan-repair, ai-governance, queer-gender]
-status: raw
-created: 2026-07-10
-updated: 2026-07-10
-source: "Joy Buolamwini (MIT) a montré que les algorithmes de reconnaissance faciale de M"
+type: raw-source
+title: Joy Buolamwini (MIT) a montré que les algorithmes de reconnaissance faciale de M
+tags:
+- raw-source
+status: preserved
+created: '2026-06-21'
+vault_area: raw sources
+canonical_path: raw sources/Joy Buolamwini (MIT) a montré que les algorithmes de reconnaissance faciale de M.md
 ---
+
 Joy Buolamwini (MIT) a montré que les algorithmes de reconnaissance faciale de Microsoft, IBM et Face++ avaient des taux d’erreur bien plus élevés pour les visages féminins et à la peau foncée (Gender Shades, 2018).
 Loi sur l’IA de l’UE : Obligation d’évaluer les risques de discrimination avant le déploiement de systèmes à haut risque.
 Michel Foucault
@@ -90,10 +92,3 @@ Wachter, S., Mittelstadt, B., & Russell, C. (2018). Counterfactual Explanations 
 
 - [[Research and Papers MOC]]
 - [[On Phantom Publics, Clusters, and Collectives — Petersmann and Van Den Meerssche 2024]]
-
-
----
-## Backlinks
-Provenance artifact de-orphaned via graph repair (frontmatter + backlinks added 2026-07-10). Original content preserved above, unaltered.
-
-- Indexed in: [[Home]]
