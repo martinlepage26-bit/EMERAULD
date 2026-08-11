@@ -4,7 +4,7 @@ title: session-state
 tags: []
 status: active
 created: '2026-06-21'
-updated: 2026-07-08T01:18-0400
+updated: 2026-07-31T00:00-0400
 vault_area: session-state.md
 canonical_path: session-state.md
 backlink_count: 53
@@ -160,3 +160,8 @@ nightly pass 2026-07-13 — phases 1-4 complete, 0 reconciled, 1 synthesized, 1 
 **Process note:** `/home/martin/trismegiste-state.md` (operator continuity file, required read per standing protocol step 2) does not exist on disk — checked, not found anywhere under `/home/martin/`. Not this session's job to reconstruct; flagging so it isn't silently skipped again next session. `session-state.md` was at 139 lines pre-edit, well under the 600-line archive threshold — no archival needed this pass.
 
 **Open for next session:** decide whether to also correct the `governance/hephaistos/*` instances (Hephaistos/Argus lane, not this agent's); decide whether `/home/martin/trismegiste-state.md` should be created or the CLAUDE.md pointer retired if it's intentionally gone.
+## 2026-07-31 - Groupe Lavoie host correction
+
+- Operator update: Lavoie / Contremaître is now on `ssh mtl-00`.
+- Applied to canonical client tracker, vault client mirror, master tracker mirror, [[Areas/Lavoie/AREA]], [[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform]], the Lavoie artifact map, and `memory.md`.
+- Scope of correction: host access only. The A1–A5, founder / Annexe E, and lawyer-batch gates remain separate unless a later operator note closes them.

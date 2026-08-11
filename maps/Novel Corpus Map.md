@@ -38,9 +38,9 @@ Structural index for Martin Lepage's creative writing — novels, monographs, an
 | [[La fréquence brisée du verbe — Roman]] | FR | — | French counterpart/original |
 | [[The Weather Beneath the Walls — Novel]] | EN | status unconfirmed | Suppressed voices, civic infrastructure |
 
-## In Development
+## Completed — In Submission
 
-- [[The Palace Under Root — Allegory and the Keyport Novel]] — Fantasy court novel + HEPHAISTOS allegory
+- [[The Keyport Domain of Crystal — Novel]] — Finished 2026-07-31. 76,699 words; governed fiction with a parallel-worlds fork (The Second Record); governance as the coupling physics. Submission package complete; repo local-only by decision. Absorbs the former "Palace Under Root / Keyport Novel" development entry — the Palace Under Root allegory and craft brief are preserved in the repo's `source/`.
 
 ## Monographs
 
@@ -78,5 +78,5 @@ These move across the novels and scholarly work:
 ## Open Gaps
 
 - No wiki note for HEX/ADECIMAL Press as an entity (referenced across all novels)
-- [[The Palace Under Root — Allegory and the Keyport Novel]] needs a version genealogy
+- ~~The Keyport novel needs a version genealogy~~ — resolved 2026-07-31: `BUILD-NOTES.md` in the Keyport repo is the version genealogy (every pass recorded, including reversed decisions); see [[The Keyport Domain of Crystal — Novel]]
 - No ISBN confirmed for The Weather Beneath the Walls

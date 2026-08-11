@@ -15,7 +15,7 @@ tags:
 - daily
 status: active
 created: '2026-04-19'
-updated: '2026-06-26'
+updated: '2026-07-31'
 vault_area: memory.md
 canonical_path: memory.md
 backlink_count: 40
@@ -101,6 +101,7 @@ This is the consolidated label layer for daily review. It does not delete, renam
 ### Clients
 
 - [[memory/clients/ExterminationDG]] — **contract sent** (2026-05-05); Phase C complete; site built on extermination-dg.com (2026-04-29). Next: await signed contract / client response -> client review -> soft launch May 20.
+- **Groupe Lavoie / Contremaître** — active PHAROS engagement with two separate workstreams. Software delivery is in production and now on `ssh mtl-00` as of 2026-07-31; contract/A1–A5/legal gates remain separate.
 - [[memory/clients/Sante-France]] — **Phase 0 pending approval** (Quebec-adapted core dossier delivered, 2026-04-24, ~1600 lines, systematic regulatory mapping). Phase 0 = 30 days, closes RQ-02/03/06/14, begins Law 25 documentation. Awaiting user approval.
 - [[memory/clients/Lavoie Construct]] — **dispatch priority** (reprioritized 2026-05-10). Automated dispatch service requested. 2 SOPs incomplete.
 - [[memory/clients/Progression]] — documented client/prospect; diagnostic target; payment status not yet documented.
@@ -132,6 +133,7 @@ This is the consolidated label layer for daily review. It does not delete, renam
 ## Detailed Client Rows
 
 - [[memory/clients/ExterminationDG]] — **contract sent** (2026-05-05); Phase C complete; site built on extermination-dg.com (2026-04-29). Next: await signed contract / client response → client review → soft launch May 20.
+- **Groupe Lavoie / Contremaître** — active PHAROS engagement; Contremaître host access now `ssh mtl-00`; use the public Worker URL as canonical API base. Keep distinct from [[memory/clients/Lavoie Construct]].
 - [[memory/clients/Lavoie Construct]] — **dispatch priority** (reprioritized 2026-05-10). Automated dispatch service requested. 2 SOPs incomplete.
 - [[memory/clients/Sante-France]] — **Phase 0 pending approval** (Quebec-adapted core dossier delivered, 2026-04-24, ~1600 lines, systematic regulatory mapping). Phase 0 = 30 days, closes RQ-02/03/06/14, begins Law 25 documentation. Awaiting user approval.
 - [[memory/clients/Progression]] — documented client/prospect; diagnostic target; payment status not yet documented.
@@ -199,7 +201,8 @@ This is the consolidated label layer for daily review. It does not delete, renam
 - **Santé-France:** awaiting user approval for Quebec Phase 0 (30-day implementation)
 
 **Client-side (active):**
-- **Lavoie:** dispatch-priority routing active; automated dispatch service requested
+- **Groupe Lavoie / Contremaître:** production software workstream now on `ssh mtl-00`; A1–A5 and legal/signature gates remain separate.
+- **Lavoie Construct:** dispatch-priority routing active; automated dispatch service requested
 
 **Internal (PHAROS/infrastructure):**
 - Secret rotation and deploy hardening work remain open in the PHAROS stack (Fort Knox #14–16, #9–11).

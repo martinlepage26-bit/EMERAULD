@@ -9,7 +9,7 @@ tags:
 status: active
 domain: lavoie
 created: '2026-07-08'
-updated: '2026-07-08'
+updated: '2026-07-31'
 vault_area: Areas
 canonical_path: Areas/Lavoie/Lavoie Artifact Map — Working Directory (2026-07-08).md
 backlink_count: 3
@@ -21,11 +21,11 @@ backlinks:
 
 # Lavoie Artifact Map — Working Directory (2026-07-08)
 
-> For future Claude: index of the `~/Lavoie/` working directory as of 2026-07-08, so vault sessions can find client artifacts without re-scanning disk. Canonical sources always win over this snapshot. Communication rule: Martin → Patricia → {Israël, Guillaume}; Patricia never initiates; 7-day follow-up rule after any send. Full operating constraints live in the lavoie-gatekeeper skill.
+> For future Claude: index of the `~/Lavoie/` working directory, originally captured 2026-07-08 and host-corrected 2026-07-31. Lavoie host access is now `ssh mtl-00`; canonical sources always win over this snapshot. Communication rule: Martin → Patricia → {Israël, Guillaume}; Patricia never initiates; 7-day follow-up rule after any send. Full operating constraints live in the lavoie-gatekeeper skill.
 
 ## Summary
 
-The engagement's paper trail lives in `~/Lavoie/`, git-tracked at martinlepage26-bit/Lavoie. Current instruments: the [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)|v5 contract track]] and the [[Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)|v5 offer]]. Delivery platform documentation: [[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform|Contremaître]].
+The engagement's paper trail lives in `~/Lavoie/` on `ssh mtl-00`, git-tracked at martinlepage26-bit/Lavoie. Current instruments: the [[Areas/Lavoie/Contrat PHAROS x Groupe Lavoie — v5 Signature Track (2026-07-08)|v5 contract track]] and the [[Areas/Lavoie/Offre de service — v5 Pyramid (2026-07-05)|v5 offer]]. Delivery platform documentation: [[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform|Contremaître]].
 
 ## Details
 
@@ -40,7 +40,7 @@ The engagement's paper trail lives in `~/Lavoie/`, git-tracked at martinlepage26
 | Diagnostic dossier | `dossier_israel_lavoie_diagnostic_fr.md` (+ `artifacts/questions_israel_lavoie_reponses_fr.xlsx`) | 25-question questionnaire for Israël, parallel to A1–A5 |
 | Patricia relay template | `MESSAGE_SUIVI_PATRICIA.md` | Client-facing gate wording; source of the 7-day rule |
 | CTO roadmap | `quebec-plumbing-cto-roadmap-2026-06-13.md` | Quebec plumbing CTO-level roadmap (2026-06-13; duplicate copy exists in `~/.UPLOADS/`) |
-| Hosting infrastructure | `5019-Lavoie-Pharos-AI-hosting-infrastructure.md` | M1 hosting/redundancy/backup/security reference cited by contract Art. 4.1 |
+| Hosting infrastructure | `5019-Lavoie-Pharos-AI-hosting-infrastructure.md`; current host access `ssh mtl-00` | M1 hosting/redundancy/backup/security reference cited by contract Art. 4.1; supersedes older mtl-03 backend-host references |
 | Plan directeur | `plan-directeur-lavoie-2026.md` | Company structure + diagnosis source of truth |
 | Jade handoff | `jade-base44-handoff.md` | Base44 app specs (4 apps; numbering drifts — anchor to priority table, name the app) |
 | Client dossiers | `dossiers-client/` (plan-set revisions 5146–5165 + OSS variants, `DESIGN.md`, `PRODUCT.md`, `REGLE-ECRITURE-v2.md`, `stale-terms-v2-staged.txt`) | Plan-set revision family; chain record at [[Areas/Lavoie/Dossiers Client Plan-Set — Chaîne de gouvernance éditoriale 5156–5165 (2026-07-08)|dossier chain 5156–5165]] |
