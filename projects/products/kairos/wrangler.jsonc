@@ -1,0 +1,57 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "kairos",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-04-27",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": {
+    "enabled": true
+  },
+  "vars": {
+    "ENVIRONMENT": "development",
+    // Drafting model. Opus 5 is the default; the operator may set a different
+    // supported id per deployment. Cost implications are in docs/UNIT-ECONOMICS.md.
+    "DRAFT_MODEL": "claude-opus-5",
+    "STRATEGY_MODEL": "claude-opus-5",
+    // Every outbound platform call is simulated unless this is "false". Keeps the
+    // whole engine runnable end to end without live creator credentials.
+    "DRY_RUN": "true",
+    // Queue drain sizing per cron tick.
+    "JOB_BATCH_SIZE": "25",
+    "PUBLIC_BASE_URL": "https://kairos.example.com"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "kairos",
+      "database_id": "REPLACE_WITH_D1_ID",
+      "migrations_dir": "migrations"
+    }
+  ],
+  "r2_buckets": [
+    {
+      "binding": "MEDIA",
+      "bucket_name": "kairos-media"
+    }
+  ],
+  "kv_namespaces": [
+    {
+      "binding": "CACHE",
+      "id": "REPLACE_WITH_KV_ID"
+    }
+  ],
+  "triggers": {
+    "crons": [
+      // Drain the durable job queue.
+      "* * * * *",
+      // Enqueue due publishes and sync inbound messages.
+      "*/15 * * * *",
+      // Collect performance metrics on published posts.
+      "17 * * * *",
+      // Daily 05:10 UTC: top up the planning horizon, rebalance pillar weights.
+      "10 5 * * *",
+      // Daily 06:20 UTC: subscription reconciliation and dunning.
+      "20 6 * * *"
+    ]
+  }
+}

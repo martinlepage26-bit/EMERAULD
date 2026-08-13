@@ -1,0 +1,29 @@
+{
+  "name": "kairos",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Subscription platform that automates content planning, publishing, and audience growth for creators.",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev --port 8789",
+    "deploy": "wrangler deploy",
+    "check": "tsc -p tsconfig.json --noEmit && tsc -p tsconfig.test.json --noEmit",
+    "test": "NODE_OPTIONS=--experimental-sqlite vitest run",
+    "test:watch": "NODE_OPTIONS=--experimental-sqlite vitest",
+    "db:local": "wrangler d1 migrations apply kairos --local",
+    "db:remote": "wrangler d1 migrations apply kairos --remote",
+    "seed": "wrangler d1 execute kairos --local --file=./migrations/seed.sql"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.0",
+    "hono": "^4.13.1",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260420.1",
+    "@types/node": "^26.2.0",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.4",
+    "wrangler": "4.85.0"
+  }
+}
