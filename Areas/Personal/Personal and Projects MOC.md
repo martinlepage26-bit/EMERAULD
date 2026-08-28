@@ -14,7 +14,7 @@ status: active
 domain: personal
 priority: high
 created: '2026-06-21'
-updated: '2026-07-06'
+updated: '2026-08-28'
 vault_area: Areas
 canonical_path: Areas/Personal/Personal and Projects MOC.md
 backlink_count: 71
@@ -178,6 +178,7 @@ This is the public/professional branch of the Martin graph. The scholarly public
 
 - **[[Martin Walks the Witches' Road — Corpus as Charge-Persistence]]** — Canonical doctrine: Martin's entire corpus is one charge (agency-under-constraint) expressed through recomposing surfaces. Cartographer and traveler are the same person. The charge precedes the archive; the archive documents recompositions, not their origin.
 - [[Martin Lepage — Professional Profile]] — Full professional profile extracted from the 2026 CV: PhD (UQAM), AI governance consultant, President and CGTO of PHAROS/InfraFabric, co-inventor of the PHAROS method.
+- [[Authority Story — Story Starter Vault Completed (2026-08-28)]] — The speaking/positioning surface: all 25 Story Starter Vault prompts answered from vault evidence, plus the finished signature story in three lengths, a disclosure ladder for stage vs private material, and a verification ledger of six open questions. Drafted, not ratified. Holds the operator's own constraint from [[WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]: the stutter is a vantage point, not the motive.
 - [[AI Agent Operations Manager — Credential Path and Portfolio]] — Career-track synthesis for the AI Agent Ops Manager role: ranked certification path (OpenAI Agents, Anthropic Academy, IBM RAG/Agentic), five portfolio artifacts (scorecard, operating model, change log, eval pack, ROI model), and a 60-day governance-review-agent build plan that doubles as a single case-study artifact.
 - [[Founder Charter — Lepage and Stocker]] — Founding agreement between Martin Lepage and Danny Stocker; equity split, decision-rights matrix, 10 reserved matters, and the self-governance claim.
 - [[PHAROS Company Registration and Security Incidents]] — Québec incorporation records (NEQ 2282012550, April 2026) and documented security incident involving an exposed API key.

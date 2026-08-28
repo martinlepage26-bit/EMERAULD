@@ -165,3 +165,23 @@ nightly pass 2026-07-13 — phases 1-4 complete, 0 reconciled, 1 synthesized, 1 
 - Operator update: Lavoie / Contremaître is now on `ssh mtl-00`.
 - Applied to canonical client tracker, vault client mirror, master tracker mirror, [[Areas/Lavoie/AREA]], [[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform]], the Lavoie artifact map, and `memory.md`.
 - Scope of correction: host access only. The A1–A5, founder / Annexe E, and lawyer-batch gates remain separate unless a later operator note closes them.
+
+## 2026-08-28 — Story Starter Vault answered and resolved
+
+**Task:** Operator uploaded *The Story Starter Vault* (Jen Gottlieb, 11pp lead-magnet PDF): read it, answer every question, resolve it as intended. The document is a 25-prompt authority-story workbook (Conflict / Resolution / Who You Became) with a 20-minute sprint, a through-line pass, and a $27 upsell. Resolving it as intended means producing the finished signature story, not just the answers.
+
+**Delivered:** [[Areas/Personal/Authority Story — Story Starter Vault Completed (2026-08-28)]]. All 25 prompts plus the sprint answered from vault evidence only, through-line pass run, signature story in three lengths, disclosure ladder, verification ledger. 22 answers sourced with inline citations, 3 synthesis, 0 fabricated. Linked from [[Personal and Projects MOC]]; both VAULT ADDITIONS TRACKER surfaces updated. All 38 wiki links verified resolving.
+
+**Decision made:** the first draft was rewritten wholesale after the evidence sweep surfaced [[WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]. The draft had used the default wound-to-mission arc; the operator has explicitly refused that framing in writing ("I don't think I'm doing all this because my stutter made the world hurt and reject me"), and [[Agent Protocol — Working With Martin]] names sentimentalizing personal material as an anti-pattern. The note now treats the stutter as a vantage point on the fluency-as-evidence rule rather than as motive, and names the refused cliché up front as a standing constraint on any future revision. The conflict act was also corrected: the real beat is the seven years of academic containment, with the 2025–26 clinical-trial termination as its compressed corporate recurrence.
+
+**Governance note:** the disclosure ladder is a Data Boundary judgment, not editorial preference. Live CDPDJ respondent names, the psychosis line, the BPD and memoir material, and the EI/housing exposure are all marked vault-only. Naming Calian or Novartis from a stage while the complaint is unresolved is flagged as exposure with nothing to gain.
+
+**Open for operator (six, in the note's verification ledger):**
+1. Consulting-start date discrepancy: external-review profile says 2019-01, professional profile clusters practice launch at January 2026. Both cannot lead a bio.
+2. A datable, quotable conversation with Danny Stocker — the resolution act is the least concrete of the three.
+3. Whether any paying client has confirmed the method works. Strategic analysis still records no named first buyer, so the third act currently holds at an honest altitude rather than reaching.
+4. "Phenix" — load-bearing in the operator's own origin doctrine, explained nowhere in the vault, deliberately left out of every draft. Operator's call whether it enters at all.
+5. Stage-version framing: phone anecdote first (drafted) vs governance failure first with the stutter revealed at the turn.
+6. No first-person account of leaving academia exists in the vault. Between 2017 and 2019 the story has a silence an audience will feel.
+
+**Status:** drafted, not ratified. Nothing goes on a stage before operator sign-off. Per [[The Lost-Loop Pattern — Avoidance Through System-Building]], the next action on this is a room, not a revision.
