@@ -12,7 +12,7 @@ tags:
 - authority-story
 - pharos
 - fluency
-status: draft-ratified-pending-final-read
+status: ratified
 created: '2026-08-28'
 updated: '2026-08-28'
 vault_area: Areas/Personal
@@ -366,7 +366,7 @@ Open questions. Each is a point where the vault is silent and the story would be
 - **Q1. Resolved 2026-08-28.** The 2019 and 2026 dates both stand, at different altitudes. See Decisions Ratified above.
 - **Q2 (prompt 12). Resolved 2026-08-28.** A specific moment with Stocker exists and is private. Named as existing, not described. Closed.
 - **Q3 (prompt 17). Resolved 2026-08-28.** The assessment came from **Philip Swain, PhD, Patent Agent**, on the disclosure. That is a qualified professional opinion on the invention's soundness and operability, not an examiner's ruling and not a granted claim. The wording is tightened accordingly: "we took the method to a patent agent" and "someone with technical training and a professional duty of candour." Do not say patented, do not say the patent office found anything, and do not upgrade agent to examiner. Say it that way and the claim is narrower than the evidence, which is the point.
-- **Q7. Resolved 2026-08-28.** The article is his and it is **published in *Social Compass* as "All Along the Witches' Road"**. The 2024 proposal listed him under "en attente de 3 réponses"; that invitation converted, and the working title moved from "De la Wicca à Agatha All Along" to the published title. Prompt 12 now states the publication. Citation captured 2026-08-28: *Social Compass* 73(1), DOI 10.1177/00377686261459971, ORCID 0009-0006-4320-6254. Page range and year still missing; external verification was attempted and blocked by this environment's egress policy.
+- **Q7. Resolved 2026-08-28.** The article is his and it is **published in *Social Compass* as "All Along the Witches' Road"**. The 2024 proposal listed him under "en attente de 3 réponses"; that invitation converted, and the working title moved from "De la Wicca à Agatha All Along" to the published title. Prompt 12 now states the publication. Citation captured 2026-08-28: *Social Compass* 73(1), DOI 10.1177/00377686261459971, ORCID 0009-0006-4320-6254. Page range and year deliberately not pursued (operator, 2026-08-28); journal, volume, issue and DOI are enough to locate the article. Closed, not outstanding.
 - **Q3b (prompt 24).** Separately, has a *paying client* said something that confirmed the method works? Still open. The strategic analysis records no named first buyer, so the third act holds at its current altitude rather than reaching.
 - **Q4. Reframed 2026-08-28, not closed.** The origin is *Agatha All Along*, autumn 2024. Phenix's death was "the tip of the iceberg," which repositions it from cause to surface. Two things follow. The public story now has an origin that does not require anyone's death, which is a better story and a true one. The iceberg underneath remains undescribed in the vault, and section V of the doctrine still reads as though the death were the cause. That gap is yours to leave open; it is not blocking anything, and I am not asking again.
 - **Q5 (framing). Resolved 2026-08-28.** Phone anecdote first, as drafted.
