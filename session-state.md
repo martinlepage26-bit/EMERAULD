@@ -252,3 +252,15 @@ Operator supplied the full record. Now carried in [[Social Compass Paper — Rit
 **Title genealogy now complete across three surfaces:** invited as « Queer Digital Witchcraft » (2024 proposal), drafted as « De la Wicca à Agatha All Along » (v4.2), published as « All along the Witches' Road ». One contribution, three titles. Anyone searching the vault for the draft title will now land on the published record.
 
 **Still missing:** page range and publication year. Volume 73 issue 1 implies 2026 by the journal's run, but that is an inference and is recorded as one, not as fact. External verification was attempted and failed — this environment blocks egress to doi.org and api.crossref.org — so the gap stays flagged rather than quietly filled.
+
+### 2026-08-28 — closeout
+
+Operator answered the three remaining next-steps: use the bio (yes), say the stage version aloud (acknowledged), stop chasing the citation page/year (let it go).
+
+- **Canonical short bio established** on [[Martin Lepage — Professional Profile]], with the date rule attached (2026 for the firm in short bios, 2019 for the practice in the long story, never collapsed into one number). Single source: edit there and propagate, so site, LinkedIn, speaker credit and podcast intros stop drifting apart.
+- **Citation completion closed by decision, not by completion.** Page range and year are not being pursued. Journal, volume, issue and DOI locate the article; the 2026 year inference stays an inference and is not written into the citation. Flagged in both notes as closed so a future pass does not reopen it as an outstanding gap.
+- **Authority story status moved to `ratified`.** Every question put to the operator was answered; the 20-second cut is approved and in use. The 90-second version is approved in structure but has not been spoken aloud, which the note names as its own last step.
+
+PR #4 merged at 0af8b71; check-in loop deleted and PR subscription dropped. Nothing from this session is still running.
+
+**Only genuinely open item left in this thread:** whether a paying client has confirmed the method works (prompt 24 holds its altitude until one does). Q4, the iceberg beneath Phenix, remains open by operator choice and is not to be re-raised.

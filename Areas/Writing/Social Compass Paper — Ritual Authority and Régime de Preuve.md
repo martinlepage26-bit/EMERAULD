@@ -88,7 +88,7 @@ Academic paper **published in *Social Compass*** (bilingual EN/FR). Full title: 
 
 > Lepage, Martin. « All along the Witches' Road : Autorité rituelle et régimes de preuve dans la sorcellerie contemporaine », *Social Compass*, vol. 73, n° 1. DOI : [10.1177/00377686261459971](https://doi.org/10.1177/00377686261459971). ORCID : [0009-0006-4320-6254](https://orcid.org/0009-0006-4320-6254). Contact listed on the article: ml@pharos-ai.ca.
 
-**Still missing:** page range and publication year. Volume 73 issue 1 implies 2026 by the journal's run, but that is an inference and is not recorded as fact. External lookup was attempted 2026-08-28 and failed: this environment blocks egress to doi.org and api.crossref.org. Capture the year and pages from the article itself to complete the citation.
+**Closed by operator decision, 2026-08-28.** Page range and publication year are not being chased. The citation stands as recorded: journal, volume, issue and DOI, which is enough to locate and verify the article. Volume 73 issue 1 implies 2026 by the journal's run; that remains an inference and is not written into the citation as fact. Do not reopen this as an outstanding gap in a future pass.
 
 Published title differs from the drafting title: the v4.2 draft ran as « De la Wicca à Agatha All Along : recompositions culturelles, numériques et enjeux épistémologiques » and the invitation was issued on « Queer Digital Witchcraft ». Same contribution, three titles; see [[Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]] for the genealogy.
 

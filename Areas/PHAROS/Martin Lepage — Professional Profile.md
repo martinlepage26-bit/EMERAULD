@@ -146,6 +146,14 @@ AI Systems & Risk Mapping Consultant, PhD (UQAM 2017). President & Chief Governa
 
 This note is the public/professional surface in the Martin tier split. For the scholarly publication surface, see [[Martin Lepage Publications — Annotated Bibliography and Verification Leads]]; for the creative/compositional surface, see [[Writing and Novels MOC]].
 
+## Canonical Short Bio
+
+Operator-approved 2026-08-28. Use this verbatim for site, LinkedIn, speaker credit, and podcast intros. It is the 20-second cut of the signature story in [[Authority Story — Story Starter Vault Completed (2026-08-28)]]; the 90-second stage version and the one-line form live there. Do not rewrite it ad hoc per surface — edit it here and propagate, so every public surface says the same thing.
+
+> I stutter, so I have spent my life on the wrong side of the rule that mistakes fluency for competence. My doctorate is on how communities decide who counts as credible. I now build AI governance for organizations with the same problem inverted: systems that sound entirely credible with nothing underneath. My work turns trust into an artifact you can hand an auditor instead of a tone you perform.
+
+Date rule that governs any bio built from this: **2026 for the firm** (PHAROS Inc., incorporated April 2026) in short bios and speaker credits; **2019 for the practice** (independent AI governance work) in the long story, with the intellectual line running back to the 2010 MA. Never collapse the two into one number.
+
 ## Graph Position
 
 - [[Martin Lepage Professional Identity]] — top-level identity hub for the Martin graph split.
