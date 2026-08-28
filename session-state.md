@@ -197,3 +197,16 @@ Three of the six ledger questions answered in session; note updated and status m
 **New open item (Q3, claim-strength check):** confirm **who** returned the patent assessment and at what stage. Counsel reviewing the disclosure, an examiner in an office action, and a granted claim are three different authorities with three different safe wordings. Draft currently says "put the method through patent submission" and makes no claim to holding a patent. Tighten once the source is pinned. This is the operator's own rule applied to his own story: trust rises when the seller refuses to occupy authority it does not hold.
 
 **Still open:** Q2 (a datable Stocker conversation), Q3b (a paying client's own sentence), Q4 (Phenix), Q6 (the 2017 to 2019 silence).
+
+### 2026-08-28 — second ratification pass; origin corrected
+
+Four more ledger questions answered. Note now at 401 lines, 40 links resolving.
+
+- **Origin corrected (Q4).** Operator: "technically, the beginning of the endeavour was when I watched Agatha All Along. Phoenix dying was just the tip of the iceberg." The endeavour begins autumn 2024, watching the show, not with the death named in section V of the doctrine. Prompt 12 reordered to put *Agatha All Along* first; timeline gains a 2024 row. This is materially stronger than the previous account, because the vault already carries the scholarly apparatus: the show is the object of the v4.2/v5 *Social Compass* article and the special issue Martin co-directs, so "a Marvel series started this" is a documented claim rather than a whimsical one. **[[PHAROS — Origin and Doctrine]] deliberately not edited** — preserved primary source, author's words unedited per its own header. The clarification lives as a documented gloss in the authority-story note and here. Flag for a future pass: section V still reads as though the death were the cause, and now has a known correction sitting outside it.
+- **The academic exit never happened (Q6).** No resignation, no closing door; the path thinned out until it was not there. Written into prompt 02 and the stage version. Sharper than any exit scene: expulsion is contestable, thinning is not.
+- **Stocker moment (Q2).** A specific moment exists and is private. Named as existing, never described. Closed.
+- **Patent assessment source (Q3).** Operator to check the file. Cautious wording held: "put the method through patent submission," no patent claimed, no authority named. Do not tighten until the source and stage are confirmed.
+
+Also added an optional stage insert (the origin beat) rather than silently restructuring the 90-second version the operator had already ratified. Disclosure ladder updated: *Agatha All Along* and the thinning-out are stage-safe; the Stocker moment and Phenix are vault-only.
+
+**Still open:** Q3 (patent claim-strength, pending operator file check) and Q3b (a paying client's own sentence). Q4's iceberg remains undescribed by operator choice; not blocking, not being re-asked.

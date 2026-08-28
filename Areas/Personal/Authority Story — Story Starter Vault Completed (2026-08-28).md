@@ -101,7 +101,9 @@ Treating fluency as evidence. Nobody decides to believe that the smooth answer i
 
 **02. What were you supposed to want that you didn't actually want?**
 
-The professorship. Seven years of assistantships and teaching at UQAM point at one destination, and I was supposed to want a permanent seat inside the institution that would then confer legitimacy on me. What I wanted, without having the words for it for a long time, was authority over the terms of proof rather than a good position inside somebody else's terms. My own governance work later names the difference precisely: authority without power-over. **[S]** [[Stuttering through the Institution — Academic Containment and Queer Knowing]], [[PHAROS — Origin and Doctrine]] section V
+The professorship. Seven years of assistantships and teaching at UQAM point at one destination, and I was supposed to want a permanent seat inside the institution that would then confer legitimacy on me. What I wanted, without having the words for it for a long time, was authority over the terms of proof rather than a good position inside somebody else's terms. My own governance work later names the difference precisely: authority without power-over.
+
+There was no moment of leaving. Nobody closed a door and I never resigned from anything. The path simply narrowed until it was not there, which is what containment produces when it works: not expulsion, which would be contestable, but a gradual thinning that leaves nothing to appeal. **[S]** [[Stuttering through the Institution — Academic Containment and Queer Knowing]], [[PHAROS — Origin and Doctrine]] section V (the thinning-out account per operator, 2026-08-28)
 
 **03. Describe a moment when you questioned something everyone else accepted.**
 
@@ -145,7 +147,11 @@ Two questions, and they turned out to be one. From the institutional work: what 
 
 **12. What conversation, book, person, or experience opened a new possibility for you?**
 
-Three, in layers. Halberstam's *The Queer Art of Failure*, which made failure a method rather than a verdict and let me read three dead versions of Dr. Sort as a phase transition. The partnership with Danny Stocker, which by my own account crystallised things I had been circling alone. Then *Agatha All Along*, where a piece of television handed me the structural description of my own career: a charge that survives by changing surface while remaining reclassifiable. **[S]** [[Halberstam — The Queer Art of Failure (2011)]], [[Founder Charter — Lepage and Stocker]], [[Martin Walks the Witches' Road — Corpus as Charge-Persistence]]
+Technically, a television show. I watched *Agatha All Along* in the autumn of 2024, and that is where this endeavour actually begins.
+
+I want to be exact about why, because "a Marvel series changed my life" is not the claim. I had spent fifteen years studying how a practice becomes credible: initiatory lineage, secret oaths, protected knowledge, and the certification that follows. Then a piece of popular television staged the whole mechanism in front of me. A road that certifies practitioners by demanding proof, walked by a witch who discovers the certification is self-generated. That is *régime de preuve* dramatised, and it named the structure of my own career while I was watching it. I ended up writing the article, and co-directing the *Social Compass* special issue built around it.
+
+The other two layers arrived after. Halberstam's *The Queer Art of Failure*, which made failure a method rather than a verdict and let me read three dead versions of Dr. Sort as a phase transition. The partnership with Danny Stocker, which crystallised things I had been circling alone; there is a specific moment there, and it stays private. **[S]** [[Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]], [[Martin Walks the Witches' Road — Corpus as Charge-Persistence]], [[Halberstam — The Queer Art of Failure (2011)]], [[Founder Charter — Lepage and Stocker]] (origin ordering per operator, 2026-08-28)
 
 **13. Tell me about the moment you chose your intuition over expectations.**
 
@@ -231,7 +237,9 @@ I am not against authority. I am against authority that treats examination as di
 | 1996 | Book of Shadows begun; practice predates the scholarship by a decade |
 | 2010 | MA thesis names the structure he will spend fifteen years recomposing |
 | 2010 to 2017 | Seven years of academic containment; allowed to remain, never invited to belong |
+| 2017 to 2019 | No exit, no resignation; the academic path thins out until it is not there |
 | 2017 | Fieldwork shows legitimacy being manufactured rather than granted |
+| Autumn 2024 | Watches *Agatha All Along*; the endeavour begins here, and produces both an article and the governance turn |
 | 2024 to 2026 | Dr. Sort fails three times; automation refused as the wrong surface |
 | Nov 2025 to Jan 2026 | Voice lost, work correct, contract ended as "not a good fit" |
 | Jan 2026 | Certifications completed in the same month the job ends |
@@ -265,6 +273,8 @@ Three lengths, run through the [[Martin Voice Spec — Stage Map|voice spec]]'s 
 >
 > I'm a scholar by training. My doctorate is on how a community decides who counts as credible: who gets certified, who gets asked for more proof than everyone else, and what has to be performed before anyone is believed. I spent seven years inside a university studying that, and being an example of it.
 >
+> I never left, by the way. Nobody closed a door. The path just narrowed until it wasn't there, which is what that kind of containment produces when it works. Expulsion you can appeal. Thinning you cannot.
+>
 > Then I spent three months on a clinical trial contract. I disclosed my disability in November. In the same weeks an infection took what was left of my voice. My work was correct throughout. In January they let me go and told me I wasn't a good fit.
 >
 > I want to be precise about what was wrong with that, because it wasn't only unfair. A judgment had been made, and there was no way to reconstruct how it was reached. No threshold. No record. No route. The conclusion existed; the reasoning did not.
@@ -274,6 +284,18 @@ Three lengths, run through the [[Martin Voice Spec — Stage Map|voice spec]]'s 
 > So here is what I actually believe. I'm not against authority. I'm against authority that treats examination as disobedience. Fluency is not evidence. Your system sounding confident tells you nothing, exactly as my not sounding confident told them nothing.
 >
 > Trust isn't a tone you produce in a buyer. It's an artifact you hand them, and it has to still work on the day it's used against you.
+
+### Optional insert: the origin beat
+
+Not in the ratified 90-second version above, because you approved that structure before naming *Agatha All Along* as the beginning. It fills a real hole: the stage version currently jumps from the termination to "here's what I do now" with no account of where the method came from. Drop it in after the contract paragraph and before "That is the same thing I find in almost every AI deployment."
+
+> People ask what made me build a governance method. It was a Marvel series.
+>
+> I'm not being cute. In the autumn of 2024 I watched a show about a road that certifies witches by demanding proof, walked by someone who works out that the certification is generating itself. I had spent fifteen years studying exactly that mechanism in real communities. A piece of streaming television staged it cleanly enough that I could finally see it was the same mechanism running inside institutions, inside procurement, inside every AI assurance claim I'd read.
+>
+> I wrote the academic article. Then I built the instrument.
+
+Two things make this safe rather than flippant on a corporate stage. It is true, and it is on the record: the article exists, and you co-direct the *Social Compass* special issue built around it. It also inoculates the room against the objection they were already forming, which is that a humanities doctorate is decorative here. Watch the register; the joke lands once, and the next sentence has to be rigorous.
 
 ### 20-second version, for a bio, intro, or podcast open
 
@@ -298,9 +320,9 @@ The workbook asks for total honesty on the page. A stage is not the page. This s
 
 | Tier | Content | Where it goes |
 |---|---|---|
-| **Stage-safe** | The stutter and the phone anecdote. Academic containment. The infection and voice loss. Losing the contract. The certifications. Registering the company. Fluency as the through-line. | Keynotes, podcasts, bio, content, sales conversations. |
+| **Stage-safe** | The stutter and the phone anecdote. Academic containment and the thinning-out. *Agatha All Along* as the origin, and the article and special issue that came from it. The infection and voice loss. Losing the contract. The certifications. Registering the company. Fluency as the through-line. | Keynotes, podcasts, bio, content, sales conversations. |
 | **On request** | That a formal human rights complaint was filed, in general terms. Dr. Sort's three failures. The self-authored failure case study. | Longer interviews, written profiles, rooms you chose. |
-| **Private for now** | Respondent names while the complaint is live. The psychosis line. The mental-health and addiction material in section III. The death named in section V. The BPD diagnosis and the memoir's childhood material. Income interruption, EI delay, housing exposure. The Lost-Loop pattern. Revenue state. | Vault only. |
+| **Private for now** | The Stocker moment (named as existing, never described). Phenix and the iceberg beneath it. Respondent names while the complaint is live. The psychosis line. The mental-health and addiction material in section III. The death named in section V. The BPD diagnosis and the memoir's childhood material. Income interruption, EI delay, housing exposure. The Lost-Loop pattern. Revenue state. | Vault only. |
 
 Three cautions, stated plainly.
 
@@ -329,6 +351,12 @@ Never state them as one number. The firm is four months old and the method is fi
 
 **External validation exists, and it is not commercial.** The patent submission returned an assessment that the method was legitimate, worked, and was sound. This now carries prompt 17. It does not carry prompt 24: validation of the method is not evidence of client transformation, so the third act keeps its current altitude until a buyer speaks.
 
+**Origin corrected.** The endeavour begins in autumn 2024, watching *Agatha All Along*, not with the death named in section V of the doctrine. Operator, 2026-08-28: "technically, the beginning of the endeavour was when I watched Agatha All Along. Phoenix dying was just the tip of the iceberg." Prompt 12 is reordered accordingly and the timeline gains the 2024 row. This does not edit [[PHAROS — Origin and Doctrine]], which is a preserved primary source and stays unedited; the clarification lives here and in session-state as a documented gloss on section V.
+
+**The academic exit never happened.** No resignation, no closing door. The path thinned out until it was not there. Written into prompt 02 and the stage version, because it is a sharper account of containment than any exit scene would be: expulsion is contestable, thinning is not.
+
+**Stocker moment: exists, stays private.** A specific moment is recorded as real and is not described. Prompt 12 says exactly that and no more.
+
 ## Verification Ledger
 
 Answers by provenance: **22 sourced**, **1 operator testimony (prompt 17, added 2026-08-28)**, **3 synthesis of sourced material**, **0 fabricated**.
@@ -336,12 +364,12 @@ Answers by provenance: **22 sourced**, **1 operator testimony (prompt 17, added 
 Open questions. Each is a point where the vault is silent and the story would be stronger with a fact.
 
 - **Q1. Resolved 2026-08-28.** The 2019 and 2026 dates both stand, at different altitudes. See Decisions Ratified above.
-- **Q2 (prompt 12).** Is there one conversation with Danny Stocker that can be dated and quoted? "Crystallised a few things" is your phrase, but it is summary rather than scene, and the resolution act is currently the least concrete of the three.
-- **Q3 (prompt 17). Partly answered 2026-08-28, one check still owed.** The patent submission returned an assessment that the method was legitimate, that it worked, and that it was sound. Prompt 17 is rewritten around it. Before it is said from a stage, one thing has to be pinned down: **who** returned that assessment, and at what stage. Patent counsel reviewing the disclosure, an examiner in an office action, and a granted claim are three different authorities, and the sentence that is safe to say differs for each. Counsel is a professional opinion on patentability, which is real and worth citing as such. An examiner's assessment is stronger. A filing is not a grant, and the current draft therefore says "put the method through patent submission" rather than anything about a patent being held. Confirm the source and the stage, and the wording gets tightened to exactly what the record supports. This is your own rule applied to your own story: trust rises when the seller refuses to occupy authority it does not hold.
+- **Q2 (prompt 12). Resolved 2026-08-28.** A specific moment with Stocker exists and is private. Named as existing, not described. Closed.
+- **Q3 (prompt 17). Open, pending operator file check (2026-08-28).** The patent submission returned an assessment that the method was legitimate, that it worked, and that it was sound. Prompt 17 is rewritten around it. Before it is said from a stage, one thing has to be pinned down: **who** returned that assessment, and at what stage. Patent counsel reviewing the disclosure, an examiner in an office action, and a granted claim are three different authorities, and the sentence that is safe to say differs for each. Counsel is a professional opinion on patentability, which is real and worth citing as such. An examiner's assessment is stronger. A filing is not a grant, and the current draft therefore says "put the method through patent submission" rather than anything about a patent being held. Confirm the source and the stage, and the wording gets tightened to exactly what the record supports. This is your own rule applied to your own story: trust rises when the seller refuses to occupy authority it does not hold.
 - **Q3b (prompt 24).** Separately, has a *paying client* said something that confirmed the method works? Still open. The strategic analysis records no named first buyer, so the third act holds at its current altitude rather than reaching.
-- **Q4.** "That is why I started this whole endeavor when Phenix died, what he did." This is load-bearing in your own account of why PHAROS exists, and it is the one thread deliberately left out of every draft above. The vault explains it nowhere. It is yours to decide whether it enters the story at all, and nothing here assumes an answer.
+- **Q4. Reframed 2026-08-28, not closed.** The origin is *Agatha All Along*, autumn 2024. Phenix's death was "the tip of the iceberg," which repositions it from cause to surface. Two things follow. The public story now has an origin that does not require anyone's death, which is a better story and a true one. The iceberg underneath remains undescribed in the vault, and section V of the doctrine still reads as though the death were the cause. That gap is yours to leave open; it is not blocking anything, and I am not asking again.
 - **Q5 (framing). Resolved 2026-08-28.** Phone anecdote first, as drafted.
-- **Q6.** Is there a first-person account anywhere of leaving academia? The containment essay describes the conditions, the employment record shows the dates, but no dated "I left" narrative exists in the vault. Between 2017 and 2019 the story currently has a silence an audience will feel.
+- **Q6. Resolved 2026-08-28.** There is no exit narrative because there was no exit. The path thinned out. Written as such; the silence is now accounted for rather than skipped.
 
 ## Open Questions
 
