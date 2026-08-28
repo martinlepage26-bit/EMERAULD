@@ -185,7 +185,7 @@ The document's appended publication record confirms authorship and provides the 
 
 **2 forthcoming articles** in *Magic, Ritual, and Witchcraft*
 
-**Special Issue Co-Direction (forthcoming)**: *Social Compass* (SAGE), co-directed with Olivier Servais and Lionel Obadia. Title: "De la Wicca à Agatha All Along: recompositions culturelles, numériques et enjeux épistémologiques"
+**Special Issue contribution (forthcoming)**: *Social Compass* (SAGE), issue "« Sorcellerie 2.0 : un domaine émergent »", directed by Lionel Obadia and Olivier Servais. Martin's article: "De la Wicca à Agatha All Along: recompositions culturelles, numériques et enjeux épistémologiques". **Corrected 2026-08-28** — this entry previously claimed co-direction of the issue and gave the article title as the issue title. Both were wrong; the primary source (`raw sources/D_LIBRARY_ingest_2026-04-26/.../2023 - Sorcellerie social compass.md`) names Obadia and Servais as the only directors.
 
 **PhD dissertation (UQAM, 2017, Mention d'excellence)**: "Why be king? I'm already a queen!": performances rituelles et négociations queer dans la communauté néo-païenne de Montréal — six years of participant observation 2010-2016
 

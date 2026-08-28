@@ -74,7 +74,7 @@ The screen objects analysis:
 The ethnographic and theoretical core:
 - Active fieldwork in Montreal Pagan community (ongoing from 2010-2016 dissertation work)
 - [[Social Compass Paper — Ritual Authority and Régime de Preuve]] as the flagship publication
-- Special Issue co-direction (Social Compass, with Olivier Servais and Lionel Obadia)
+- Special Issue contribution (Social Compass, "Sorcellerie 2.0 : un domaine émergent", directed by Lionel Obadia and Olivier Servais). **Corrected 2026-08-28:** this line previously read "co-direction ... with Olivier Servais and Lionel Obadia". Martin is a contributor, not a director; the primary source names only Obadia and Servais.
 
 ### Lane 5 — Clinical AI and Health Governance
 Newly active lane as of 2024:

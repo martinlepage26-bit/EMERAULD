@@ -210,3 +210,21 @@ Four more ledger questions answered. Note now at 401 lines, 40 links resolving.
 Also added an optional stage insert (the origin beat) rather than silently restructuring the 90-second version the operator had already ratified. Disclosure ladder updated: *Agatha All Along* and the thinning-out are stage-safe; the Stocker moment and Phenix are vault-only.
 
 **Still open:** Q3 (patent claim-strength, pending operator file check) and Q3b (a paying client's own sentence). Q4's iceberg remains undescribed by operator choice; not blocking, not being re-asked.
+
+### 2026-08-28 — correction: Social Compass special issue co-direction (operator-flagged)
+
+**The error.** Operator: "I didn't codirect the issue." Correct. The vault claimed he co-directed the *Social Compass* special issue with Olivier Servais and Lionel Obadia. The primary source contradicts it flatly: `raw sources/D_LIBRARY_ingest_2026-04-26/.../2023 - Sorcellerie social compass.md` reads "« Sorcellerie 2.0 : un domaine émergent » – proposition pour Social Compass / **Numéro dirigé par Lionel Obadia (Lyon 2 – France) et Olivier Servais (UCLouvain)**". Two directors. Martin is a contributor to the issue, not a director of it. I repeated the false claim in the authority-story note and in chat before he caught it.
+
+**Why it matters beyond the fact.** The false credit had become load-bearing for a *second* claim. `Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes` attributed authorship of the v4.2 article to Martin "from archive context **and Special Issue co-direction credit**". An unverified inference was promoted to evidence and then used to support another inference. That is precisely the failure the operator's own governance essays name: no generated artifact may support a factual claim unless it traces back to a source artifact, and synthesis does not outrank what it compresses. The vault did to itself what PHAROS exists to catch.
+
+**Corrected in four notes:**
+- `Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes` — three errors: the co-direction credit; the authorship attribution, now re-based on archive context alone and marked; and the claim that the article title matches the issue title (it does not — the issue is "Sorcellerie 2.0 : un domaine émergent").
+- `Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging` — publication list entry claimed co-direction and gave the article title as the issue title.
+- `wiki/September 2024 Research Retrospective` — Lane 4 line claimed co-direction.
+- `Areas/Personal/Authority Story — Story Starter Vault Completed (2026-08-28)` — prompt 12 and the optional stage insert; both now claim only that he wrote an academic article, which the archive supports.
+
+Left alone: `Areas/Writing/Agatha Governance Memo` references to "co-directors (Servais, Obadia)" and "co-director read" are accurate as written — they describe the issue's actual directors reviewing his submission, and make no claim about Martin's role.
+
+**New open item (Q7):** with one leg of the attribution removed, confirm that the Agatha article is Martin's and give its status (drafted / submitted / accepted). Nothing in the authority story now depends on the answer.
+
+**Standing lesson for the vault:** derived notes that carry an inference should mark it as one. Three notes inherited this claim without any of them naming a source, and the OCR primary source that refutes it was sitting in `raw sources/` the whole time.
