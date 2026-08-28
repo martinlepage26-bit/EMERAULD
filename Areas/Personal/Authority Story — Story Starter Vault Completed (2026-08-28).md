@@ -12,7 +12,7 @@ tags:
 - authority-story
 - pharos
 - fluency
-status: draft-awaiting-operator-ratification
+status: draft-partially-ratified
 created: '2026-08-28'
 updated: '2026-08-28'
 vault_area: Areas/Personal
@@ -165,7 +165,13 @@ That objectivity is available to human beings, and its personal twin, that being
 
 **17. Who or what showed you that your new path was valid?**
 
-Two witnesses, one ahead and one behind. Ahead: buyer research showing that what purchasers actually want is career-defensible confidence, meaning an artifact that lets them defend the decision after the system fails. That is my product, described by people who have never read my work. Behind: my own 2010 master's thesis, which named the same structure fourteen years before I had any of this vocabulary. Neither witness is my own hope, and they point at the same thing. **[S]** [[Trust Advantage Analysis — Sales and AI Governance]], [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]]
+Three witnesses, and not one of them is my own hope.
+
+Behind me: my own 2010 master's thesis, which named the same structure fourteen years before I had any of this vocabulary.
+
+Ahead of me: buyer research showing that what purchasers actually want is career-defensible confidence, meaning an artifact that lets them defend the decision after the system fails. That is my product, described by people who have never read my work.
+
+Then the one that settled it. We put the method through patent submission, and the assessment that came back was that it was legitimate, that it worked, and that it was sound. Professionals with no stake in my self-belief, reading the method cold as a claimed invention, found a real and operable one. I had spent a year unable to tell whether I was building a governance method or experiencing something else entirely. That is the answer to the sentence I wrote at 07:00 on 25 April. **[S]** [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]], [[Trust Advantage Analysis — Sales and AI Governance]], [[PHAROS Invention Disclosure]] (operator testimony 2026-08-28; see Q3 in the ledger for the claim-strength check still owed)
 
 ---
 
@@ -306,17 +312,35 @@ Three cautions, stated plainly.
 
 ---
 
+## Decisions Ratified (operator, 2026-08-28)
+
+Three of the six ledger questions were answered by the operator. Recorded here so a later revision does not reopen them.
+
+**Stage framing.** The phone anecdote opens the 90-second version, as drafted. The alternative opening (governance failure first, stutter revealed at the turn) is not being pursued.
+
+**Practice start date: both, at different altitudes.** The 2019 and 2026 dates are not in conflict once each is assigned its own scope, so the rule is:
+
+| Surface | Date | Formulation |
+|---|---|---|
+| Short bio, intro, speaker credit | 2026 | The firm. "Founder of PHAROS," incorporated April 2026. |
+| Long story, interviews, method provenance | 2019 | The practice. Independent AI governance work since January 2019, and the intellectual line runs to 2010. |
+
+Never state them as one number. The firm is four months old and the method is fifteen years old; saying so in that order is accurate and stronger than either alone. The 2019-to-2026 stretch is also what makes the January 2026 credentials read as a turn rather than a career change, since the work predates both the termination and the incorporation.
+
+**External validation exists, and it is not commercial.** The patent submission returned an assessment that the method was legitimate, worked, and was sound. This now carries prompt 17. It does not carry prompt 24: validation of the method is not evidence of client transformation, so the third act keeps its current altitude until a buyer speaks.
+
 ## Verification Ledger
 
-Answers by provenance: **22 sourced**, **0 inferred without flag**, **3 synthesis of sourced material**, **0 fabricated**.
+Answers by provenance: **22 sourced**, **1 operator testimony (prompt 17, added 2026-08-28)**, **3 synthesis of sourced material**, **0 fabricated**.
 
 Open questions. Each is a point where the vault is silent and the story would be stronger with a fact.
 
-- **Q1.** The employment record carries a discrepancy worth settling before it appears in a bio. The external review profile dates independent AI governance consulting from January 2019, while the professional profile clusters the certifications and practice launch in January 2026, with PHAROS Inc. registered April 2026. Both cannot lead a bio. Which is the date you will stand behind?
+- **Q1. Resolved 2026-08-28.** The 2019 and 2026 dates both stand, at different altitudes. See Decisions Ratified above.
 - **Q2 (prompt 12).** Is there one conversation with Danny Stocker that can be dated and quoted? "Crystallised a few things" is your phrase, but it is summary rather than scene, and the resolution act is currently the least concrete of the three.
-- **Q3 (prompt 17).** Has a paying client said something that confirmed the method works? A buyer's sentence would replace the market-research citation and be far stronger. Note that the strategic analysis records no named first buyer as of the last review, so if the answer is no, the third act stays honest at its current altitude rather than reaching.
+- **Q3 (prompt 17). Partly answered 2026-08-28, one check still owed.** The patent submission returned an assessment that the method was legitimate, that it worked, and that it was sound. Prompt 17 is rewritten around it. Before it is said from a stage, one thing has to be pinned down: **who** returned that assessment, and at what stage. Patent counsel reviewing the disclosure, an examiner in an office action, and a granted claim are three different authorities, and the sentence that is safe to say differs for each. Counsel is a professional opinion on patentability, which is real and worth citing as such. An examiner's assessment is stronger. A filing is not a grant, and the current draft therefore says "put the method through patent submission" rather than anything about a patent being held. Confirm the source and the stage, and the wording gets tightened to exactly what the record supports. This is your own rule applied to your own story: trust rises when the seller refuses to occupy authority it does not hold.
+- **Q3b (prompt 24).** Separately, has a *paying client* said something that confirmed the method works? Still open. The strategic analysis records no named first buyer, so the third act holds at its current altitude rather than reaching.
 - **Q4.** "That is why I started this whole endeavor when Phenix died, what he did." This is load-bearing in your own account of why PHAROS exists, and it is the one thread deliberately left out of every draft above. The vault explains it nowhere. It is yours to decide whether it enters the story at all, and nothing here assumes an answer.
-- **Q5 (framing).** The 90-second version opens with the phone anecdote, which earns the fluency argument fastest and keeps the register dry. The alternative opens with the AI governance failure and reveals the stutter at the turn, which is more surprising and less immediately sympathetic. The first is drafted here. Your call.
+- **Q5 (framing). Resolved 2026-08-28.** Phone anecdote first, as drafted.
 - **Q6.** Is there a first-person account anywhere of leaving academia? The containment essay describes the conditions, the employment record shows the dates, but no dated "I left" narrative exists in the vault. Between 2017 and 2019 the story currently has a silence an audience will feel.
 
 ## Open Questions

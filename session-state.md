@@ -185,3 +185,15 @@ nightly pass 2026-07-13 — phases 1-4 complete, 0 reconciled, 1 synthesized, 1 
 6. No first-person account of leaving academia exists in the vault. Between 2017 and 2019 the story has a silence an audience will feel.
 
 **Status:** drafted, not ratified. Nothing goes on a stage before operator sign-off. Per [[The Lost-Loop Pattern — Avoidance Through System-Building]], the next action on this is a room, not a revision.
+
+### 2026-08-28 — operator ratification pass on the authority story
+
+Three of the six ledger questions answered in session; note updated and status moved from `draft-awaiting-operator-ratification` to `draft-partially-ratified`.
+
+- **Stage framing:** phone anecdote opens the 90-second version, as drafted. Alternative opening dropped.
+- **Practice start date:** both 2019 and 2026 stand, at different altitudes. Short bio and speaker credit use 2026 (the firm, incorporated April 2026); long story, interviews, and method provenance use 2019 (independent practice), with the intellectual line running back to 2010. Never stated as one number.
+- **External validation:** the patent submission returned an assessment that the method was legitimate, that it worked, and that it was sound. Now carries prompt 17, replacing the market-research citation as the forward-facing witness. Explicitly does **not** carry prompt 24 — validation of the method is not evidence of client transformation, so the third act holds its altitude until a buyer speaks.
+
+**New open item (Q3, claim-strength check):** confirm **who** returned the patent assessment and at what stage. Counsel reviewing the disclosure, an examiner in an office action, and a granted claim are three different authorities with three different safe wordings. Draft currently says "put the method through patent submission" and makes no claim to holding a patent. Tighten once the source is pinned. This is the operator's own rule applied to his own story: trust rises when the seller refuses to occupy authority it does not hold.
+
+**Still open:** Q2 (a datable Stocker conversation), Q3b (a paying client's own sentence), Q4 (Phenix), Q6 (the 2017 to 2019 silence).
