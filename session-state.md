@@ -165,3 +165,90 @@ nightly pass 2026-07-13 — phases 1-4 complete, 0 reconciled, 1 synthesized, 1 
 - Operator update: Lavoie / Contremaître is now on `ssh mtl-00`.
 - Applied to canonical client tracker, vault client mirror, master tracker mirror, [[Areas/Lavoie/AREA]], [[Areas/Lavoie/Contremaître — Groupe Lavoie Field-Operations Platform]], the Lavoie artifact map, and `memory.md`.
 - Scope of correction: host access only. The A1–A5, founder / Annexe E, and lawyer-batch gates remain separate unless a later operator note closes them.
+
+## 2026-08-28 — Story Starter Vault answered and resolved
+
+**Task:** Operator uploaded *The Story Starter Vault* (Jen Gottlieb, 11pp lead-magnet PDF): read it, answer every question, resolve it as intended. The document is a 25-prompt authority-story workbook (Conflict / Resolution / Who You Became) with a 20-minute sprint, a through-line pass, and a $27 upsell. Resolving it as intended means producing the finished signature story, not just the answers.
+
+**Delivered:** [[Areas/Personal/Authority Story — Story Starter Vault Completed (2026-08-28)]]. All 25 prompts plus the sprint answered from vault evidence only, through-line pass run, signature story in three lengths, disclosure ladder, verification ledger. 22 answers sourced with inline citations, 3 synthesis, 0 fabricated. Linked from [[Personal and Projects MOC]]; both VAULT ADDITIONS TRACKER surfaces updated. All 38 wiki links verified resolving.
+
+**Decision made:** the first draft was rewritten wholesale after the evidence sweep surfaced [[WHEN THE CAT STOPS — Personal Notes on Recursion and Stutter]]. The draft had used the default wound-to-mission arc; the operator has explicitly refused that framing in writing ("I don't think I'm doing all this because my stutter made the world hurt and reject me"), and [[Agent Protocol — Working With Martin]] names sentimentalizing personal material as an anti-pattern. The note now treats the stutter as a vantage point on the fluency-as-evidence rule rather than as motive, and names the refused cliché up front as a standing constraint on any future revision. The conflict act was also corrected: the real beat is the seven years of academic containment, with the 2025–26 clinical-trial termination as its compressed corporate recurrence.
+
+**Governance note:** the disclosure ladder is a Data Boundary judgment, not editorial preference. Live CDPDJ respondent names, the psychosis line, the BPD and memoir material, and the EI/housing exposure are all marked vault-only. Naming Calian or Novartis from a stage while the complaint is unresolved is flagged as exposure with nothing to gain.
+
+**Open for operator (six, in the note's verification ledger):**
+1. Consulting-start date discrepancy: external-review profile says 2019-01, professional profile clusters practice launch at January 2026. Both cannot lead a bio.
+2. A datable, quotable conversation with Danny Stocker — the resolution act is the least concrete of the three.
+3. Whether any paying client has confirmed the method works. Strategic analysis still records no named first buyer, so the third act currently holds at an honest altitude rather than reaching.
+4. "Phenix" — load-bearing in the operator's own origin doctrine, explained nowhere in the vault, deliberately left out of every draft. Operator's call whether it enters at all.
+5. Stage-version framing: phone anecdote first (drafted) vs governance failure first with the stutter revealed at the turn.
+6. No first-person account of leaving academia exists in the vault. Between 2017 and 2019 the story has a silence an audience will feel.
+
+**Status:** drafted, not ratified. Nothing goes on a stage before operator sign-off. Per [[The Lost-Loop Pattern — Avoidance Through System-Building]], the next action on this is a room, not a revision.
+
+### 2026-08-28 — operator ratification pass on the authority story
+
+Three of the six ledger questions answered in session; note updated and status moved from `draft-awaiting-operator-ratification` to `draft-partially-ratified`.
+
+- **Stage framing:** phone anecdote opens the 90-second version, as drafted. Alternative opening dropped.
+- **Practice start date:** both 2019 and 2026 stand, at different altitudes. Short bio and speaker credit use 2026 (the firm, incorporated April 2026); long story, interviews, and method provenance use 2019 (independent practice), with the intellectual line running back to 2010. Never stated as one number.
+- **External validation:** the patent submission returned an assessment that the method was legitimate, that it worked, and that it was sound. Now carries prompt 17, replacing the market-research citation as the forward-facing witness. Explicitly does **not** carry prompt 24 — validation of the method is not evidence of client transformation, so the third act holds its altitude until a buyer speaks.
+
+**New open item (Q3, claim-strength check):** confirm **who** returned the patent assessment and at what stage. Counsel reviewing the disclosure, an examiner in an office action, and a granted claim are three different authorities with three different safe wordings. Draft currently says "put the method through patent submission" and makes no claim to holding a patent. Tighten once the source is pinned. This is the operator's own rule applied to his own story: trust rises when the seller refuses to occupy authority it does not hold.
+
+**Still open:** Q2 (a datable Stocker conversation), Q3b (a paying client's own sentence), Q4 (Phenix), Q6 (the 2017 to 2019 silence).
+
+### 2026-08-28 — second ratification pass; origin corrected
+
+Four more ledger questions answered. Note now at 401 lines, 40 links resolving.
+
+- **Origin corrected (Q4).** Operator: "technically, the beginning of the endeavour was when I watched Agatha All Along. Phoenix dying was just the tip of the iceberg." The endeavour begins autumn 2024, watching the show, not with the death named in section V of the doctrine. Prompt 12 reordered to put *Agatha All Along* first; timeline gains a 2024 row. This is materially stronger than the previous account, because the vault already carries the scholarly apparatus: the show is the object of the v4.2/v5 *Social Compass* article and the special issue Martin co-directs, so "a Marvel series started this" is a documented claim rather than a whimsical one. **[[PHAROS — Origin and Doctrine]] deliberately not edited** — preserved primary source, author's words unedited per its own header. The clarification lives as a documented gloss in the authority-story note and here. Flag for a future pass: section V still reads as though the death were the cause, and now has a known correction sitting outside it.
+- **The academic exit never happened (Q6).** No resignation, no closing door; the path thinned out until it was not there. Written into prompt 02 and the stage version. Sharper than any exit scene: expulsion is contestable, thinning is not.
+- **Stocker moment (Q2).** A specific moment exists and is private. Named as existing, never described. Closed.
+- **Patent assessment source (Q3).** Operator to check the file. Cautious wording held: "put the method through patent submission," no patent claimed, no authority named. Do not tighten until the source and stage are confirmed.
+
+Also added an optional stage insert (the origin beat) rather than silently restructuring the 90-second version the operator had already ratified. Disclosure ladder updated: *Agatha All Along* and the thinning-out are stage-safe; the Stocker moment and Phenix are vault-only.
+
+**Still open:** Q3 (patent claim-strength, pending operator file check) and Q3b (a paying client's own sentence). Q4's iceberg remains undescribed by operator choice; not blocking, not being re-asked.
+
+### 2026-08-28 — correction: Social Compass special issue co-direction (operator-flagged)
+
+**The error.** Operator: "I didn't codirect the issue." Correct. The vault claimed he co-directed the *Social Compass* special issue with Olivier Servais and Lionel Obadia. The primary source contradicts it flatly: `raw sources/D_LIBRARY_ingest_2026-04-26/.../2023 - Sorcellerie social compass.md` reads "« Sorcellerie 2.0 : un domaine émergent » – proposition pour Social Compass / **Numéro dirigé par Lionel Obadia (Lyon 2 – France) et Olivier Servais (UCLouvain)**". Two directors. Martin is a contributor to the issue, not a director of it. I repeated the false claim in the authority-story note and in chat before he caught it.
+
+**Why it matters beyond the fact.** The false credit had become load-bearing for a *second* claim. `Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes` attributed authorship of the v4.2 article to Martin "from archive context **and Special Issue co-direction credit**". An unverified inference was promoted to evidence and then used to support another inference. That is precisely the failure the operator's own governance essays name: no generated artifact may support a factual claim unless it traces back to a source artifact, and synthesis does not outrank what it compresses. The vault did to itself what PHAROS exists to catch.
+
+**Corrected in four notes:**
+- `Areas/Writing/Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes` — three errors: the co-direction credit; the authorship attribution, now re-based on archive context alone and marked; and the claim that the article title matches the issue title (it does not — the issue is "Sorcellerie 2.0 : un domaine émergent").
+- `Areas/Writing/Sealed Card Protocol — Legitimacy, Glitch, and Charging` — publication list entry claimed co-direction and gave the article title as the issue title.
+- `wiki/September 2024 Research Retrospective` — Lane 4 line claimed co-direction.
+- `Areas/Personal/Authority Story — Story Starter Vault Completed (2026-08-28)` — prompt 12 and the optional stage insert; both now claim only that he wrote an academic article, which the archive supports.
+
+Left alone: `Areas/Writing/Agatha Governance Memo` references to "co-directors (Servais, Obadia)" and "co-director read" are accurate as written — they describe the issue's actual directors reviewing his submission, and make no claim about Martin's role.
+
+**New open item (Q7):** with one leg of the attribution removed, confirm that the Agatha article is Martin's and give its status (drafted / submitted / accepted). Nothing in the authority story now depends on the answer.
+
+**Standing lesson for the vault:** derived notes that carry an inference should mark it as one. Three notes inherited this claim without any of them naming a source, and the OCR primary source that refutes it was sitting in `raw sources/` the whole time.
+
+### 2026-08-28 — final two ledger questions closed
+
+**Q3 (patent assessment source).** Philip Swain, PhD, Patent Agent, assessing the disclosure. That is a qualified professional opinion on the invention's soundness and operability. It is **not** an examiner's ruling and **not** a granted patent, so prompt 17 now reads "we took the method to a patent agent" and "someone with technical training and a professional duty of candour." Standing wording rule: never say patented, never attribute the finding to the patent office, never upgrade agent to examiner. The claim stays narrower than the evidence.
+
+**Q7 (Agatha article).** The article is Martin's and is **published in *Social Compass* as "All Along the Witches' Road"**. Full sequence now documented: invited on "Queer Digital Witchcraft" and listed under "en attente de 3 réponses" in the Servais-authored 2024 proposal, drafted as "De la Wicca à Agatha All Along" (v4.2), published as "All Along the Witches' Road" (v5). Contributor throughout, never a director.
+
+**Status upgrade propagated:** [[Social Compass Paper — Ritual Authority and Régime de Preuve]] said "submitted" and now says published; [[Sealed Card Protocol — Legitimacy, Glitch, and Charging]] said "forthcoming" and now says published with the published title corrected; [[Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]] records the outcome and the title genealogy. The authority-story note states the publication in prompt 12 and in the optional stage insert.
+
+**Remaining gap, minor and not blocking:** no volume, issue, pages or year anywhere in the vault, so no formal citation can be built for the published paper. Worth capturing next time Martin has the reference to hand.
+
+All seven ledger questions are now closed or deliberately left open by operator choice (Q4, the iceberg beneath Phenix). Note status moved to `draft-ratified-pending-final-read`.
+
+### 2026-08-28 — Social Compass citation captured
+
+Operator supplied the full record. Now carried in [[Social Compass Paper — Ritual Authority and Régime de Preuve]] (new Citation section), [[Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]], [[Martin Lepage — Professional Profile]] (promoted to a published peer-reviewed entry), and the authority-story note.
+
+> Lepage, Martin. « All along the Witches' Road : Autorité rituelle et régimes de preuve dans la sorcellerie contemporaine », *Social Compass*, vol. 73, n° 1. DOI 10.1177/00377686261459971. ORCID 0009-0006-4320-6254.
+
+**ORCID recorded for the first time** (0009-0006-4320-6254) on the professional profile. Also noted there: the article lists `ml@pharos-ai.ca` as contact, so the scholarly and business surfaces are publicly joined on a peer-reviewed record. That is a positioning fact, not just a metadata one.
+
+**Title genealogy now complete across three surfaces:** invited as « Queer Digital Witchcraft » (2024 proposal), drafted as « De la Wicca à Agatha All Along » (v4.2), published as « All along the Witches' Road ». One contribution, three titles. Anyone searching the vault for the draft title will now land on the published record.
+
+**Still missing:** page range and publication year. Volume 73 issue 1 implies 2026 by the journal's run, but that is an inference and is recorded as one, not as fact. External verification was attempted and failed — this environment blocks egress to doi.org and api.crossref.org — so the gap stays flagged rather than quietly filled.
