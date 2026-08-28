@@ -88,6 +88,23 @@ Source: `Agathav4.2.docx`. This is the v4.2 draft in a versioning sequence that 
 
 Three claims in the earlier version of this note were wrong and are corrected here: (a) the co-direction credit, which was invented downstream of the source; (b) the authorship attribution, which was partly derived *from* that invented credit and is now re-based on archive context alone; and (c) the statement that "the article title matches the Special Issue title" — the issue is titled "Sorcellerie 2.0 : un domaine émergent", while "De la Wicca à Agatha All Along: recompositions culturelles, numériques et enjeux épistémologiques" is the article title. Whether the piece is lead article or framing piece remains unconfirmed.
 
+**What the issue actually is, and Martin's place in it (read from the primary source, 2026-08-28).** The proposal document is authored by Olivier Servais (PDF metadata: Author "Olivier Servais", created 17 October 2024, despite the vault's "2023" filename label) and is a *proposition pour Social Compass*, so at that stage the issue itself was not yet accepted.
+
+The two directors, Obadia and Servais, do three things in it: they frame the problem (witchcraft reinventing itself as fast as the technologies reshaping it, with whole areas of research uncovered or needing revision), they set the governing questions (continuities and ruptures; hypermodern individualism versus networked solidarity; politicisation and feminisation as a condition of extension; the relation to instrumental economic logics), and they assemble the contributor list. They also write the opening article themselves: a broad bibliographic survey from Witches studies to digital Witches.
+
+Confirmed contributions at proposal stage:
+
+| Contributor | Subject |
+|---|---|
+| Servais and Obadia | Introductory article; Witches studies to digital Witches, pagan re-emergence and the digital |
+| Obadia | Witchy apps; the "spiritual apps" market as both alignment with and resistance to consumer capitalism |
+| Marta Jabłońska | Witches on social media; how national and religious context modulates "witchtok" |
+| Rémi Maillo and Olivier Servais | The Witcher; online and offline transmedia community |
+
+**Martin appears in a fourth category, not among the confirmed contributors.** The document reads: *"En attente de 3 réponses qui seront détaillées si le dossier général reçoit un avis global positif. Martin Lepage (UQAM) sur Queer Digital Witchcraft; Emma Quilty (Monash U) sur une digital ethnography de #Witchlife; Et Chris Miller (U. Waterloo) sur Tik Tok et les Digital Witchcraft."* At the time this proposal was written he was one of three awaited responses, contingent on the dossier receiving a positive overall verdict. Invited, not yet confirmed, and not a director.
+
+Two things follow that bear on the authorship question. First, the invited topic is "Queer Digital Witchcraft", not the Agatha article title; the Agatha piece may be that contribution evolved after the series aired in autumn 2024, but the vault does not record the step, so this is unconfirmed. Second, whatever the vault says about a "Special Issue credit" should be read against a document in which Martin's participation was still pending.
+
 ---
 
 ## Central Argument
