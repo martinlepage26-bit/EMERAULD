@@ -154,6 +154,20 @@ Operator-approved 2026-08-28. Use this verbatim for site, LinkedIn, speaker cred
 
 Date rule that governs any bio built from this: **2026 for the firm** (PHAROS Inc., incorporated April 2026) in short bios and speaker credits; **2019 for the practice** (independent AI governance work) in the long story, with the intellectual line running back to the 2010 MA. Never collapse the two into one number.
 
+## Published Scholarly Bio (FR)
+
+The author biography printed with the *Social Compass* article. Self-authored, public, peer-reviewed-adjacent, and therefore the most authoritative scholarly bio the vault holds. Use it for French academic surfaces; the Canonical Short Bio above is the governance-practice surface. Full text and analysis in [[Social Compass Paper — Ritual Authority and Régime de Preuve]].
+
+> Martin Lepage est chercheur indépendant en sociologie qualitative, en études religieuses et en études queer. Il est titulaire d'un doctorat en sciences sociales de l'Université du Québec à Montréal (2017) ainsi que d'une maîtrise en études littéraires de l'Université Laval (2010). […] Il est actuellement président et chef de la gouvernance chez PHAROS-ai.ca.
+>
+> Adresse : PHAROS (Recherche et pratique en gouvernance de l'IA), Montréal (Québec), Canada.
+
+**Published institutional address:** PHAROS, not a university. The article's affiliation is the consultancy, which puts the scholarly and business surfaces together on the public record. « Président et chef de la gouvernance » is the published French rendering of the CGTO title, so it is no longer a self-defined title with no external instance.
+
+**Open discrepancy:** the published bio says « doctorat en **sciences sociales** » (UQAM 2017); [[Martin Lepage Professional Identity]] records « sciences des religions ». The published self-description should govern public surfaces until the operator reconciles the two. Flagged, not silently changed.
+
+**Book chapters named in the bio**, which the vault did not previously hold in one place: *La fabrication des rites* and *Rites et ritualisations* (Presses de l'Université Laval), *Secular societies, spiritual selves ?* (Routledge), *Anime, philosophy and religion* (Vernon Press). Journals named: *Anthropologica*, *Pomegranate*, *Studies in Religion / Sciences Religieuses*, *Religiologiques*, *Slayage*.
+
 ## Graph Position
 
 - [[Martin Lepage Professional Identity]] — top-level identity hub for the Martin graph split.

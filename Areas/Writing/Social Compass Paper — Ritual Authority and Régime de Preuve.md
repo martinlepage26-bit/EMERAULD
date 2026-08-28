@@ -88,9 +88,79 @@ Academic paper **published in *Social Compass*** (bilingual EN/FR). Full title: 
 
 > Lepage, Martin. « All along the Witches' Road : Autorité rituelle et régimes de preuve dans la sorcellerie contemporaine », *Social Compass*, vol. 73, n° 1. DOI : [10.1177/00377686261459971](https://doi.org/10.1177/00377686261459971). ORCID : [0009-0006-4320-6254](https://orcid.org/0009-0006-4320-6254). Contact listed on the article: ml@pharos-ai.ca.
 
-**Closed by operator decision, 2026-08-28.** Page range and publication year are not being chased. The citation stands as recorded: journal, volume, issue and DOI, which is enough to locate and verify the article. Volume 73 issue 1 implies 2026 by the journal's run; that remains an inference and is not written into the citation as fact. Do not reopen this as an outstanding gap in a future pass.
+**Closed by operator decision, 2026-08-28.** Page range and publication year are not being chased. The SAGE record captured the same day confirms volume 73, issue 1 and shows no page range, which is consistent with a current-issue article whose pagination is not yet assigned. There may be nothing to chase. The citation stands as recorded: journal, volume, issue and DOI, which is enough to locate and verify the article. Volume 73 issue 1 implies 2026 by the journal's run; that remains an inference and is not written into the citation as fact. Do not reopen this as an outstanding gap in a future pass.
 
 Published title differs from the drafting title: the v4.2 draft ran as « De la Wicca à Agatha All Along : recompositions culturelles, numériques et enjeux épistémologiques » and the invitation was issued on « Queer Digital Witchcraft ». Same contribution, three titles; see [[Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]] for the genealogy.
+
+## Published Abstract (verbatim)
+
+Captured from the SAGE record 2026-08-28.
+
+> This article examines the recomposition of ritual authority in contemporary witchcraft when it must become visible, circulate, and gain recognition in digital environments. Drawing on ethnographic fieldwork conducted in Québec (2013–2016) and an analytical reading of the series *Agatha All Along*, it proposes the concept of 'regime of proof' to capture how authenticity is now produced at the intersection of practice scenes (ritual circles, covens, workshops) and mediation infrastructures (platforms, algorithms, shareable formats). The series functions as a narrative interface: it condenses operations of certification, debt, and cost that ethnography detects in practitioners' accounts. Three distinct regimes of proof, oppositional, sensory, narrative, emerge from interviews and reveal how platforms redistribute the conditions under which a magical practice becomes credible, shareable, or monetizable.
+
+The vault's earlier reconstruction of the argument holds up against the published abstract: the three regimes (oppositional, sensory, narrative), the 2013–2016 Québec fieldwork, and the *Agatha All Along* reading are all confirmed. What the abstract adds and the reconstruction lacked is the **platform layer**: the claim is not only that proof regimes exist, but that mediation infrastructures redistribute the conditions under which a practice becomes credible, shareable, **or monetizable**. That third term is the bridge to the governance work, and it is stronger evidence for [[Deferred Authority — Archives, Proof Regimes, and AI Memory]] than anything previously recorded here.
+
+## Published Author Biography (verbatim, FR)
+
+The published biography is the operator's own scholarly self-description, and it is now the most authoritative bio in the vault because it is peer-reviewed-adjacent and public.
+
+> Martin Lepage est chercheur indépendant en sociologie qualitative, en études religieuses et en études queer. Il est titulaire d'un doctorat en sciences sociales de l'Université du Québec à Montréal (2017) ainsi que d'une maîtrise en études littéraires de l'Université Laval (2010). Ses recherches portent notamment sur les communautés néo-païennes de Montréal, les négociations queer en contexte rituel, les pratiques magiques contemporaines et la religion numérique. Ses travaux ont été publiés dans *Anthropologica*, *Pomegranate : The International Journal of Pagan Studies*, *Studies in Religion / Sciences Religieuses*, *Religiologiques* et *Slayage : The Journal of the Whedon Studies Association*. Il a également contribué à plusieurs ouvrages collectifs, dont *La fabrication des rites* et *Rites et ritualisations* (Presses de l'Université Laval), *Secular societies, spiritual selves ?* (Routledge) ainsi que *Anime, philosophy and religion* (Vernon Press). Il est actuellement président et chef de la gouvernance chez PHAROS-ai.ca.
+>
+> Adresse : PHAROS (Recherche et pratique en gouvernance de l'IA), Montréal (Québec), Canada.
+> Email : ml@pharos-ai.ca
+
+Three things this settles or raises:
+
+1. **The affiliation is PHAROS, published.** The article's institutional address is the consultancy, not a university. The scholarly and business surfaces are joined on the public record, and « président et chef de la gouvernance » is the published French rendering of the CGTO title.
+2. **Doctorate field, discrepancy to resolve.** The published bio says « doctorat en **sciences sociales** » (UQAM 2017). [[Martin Lepage Professional Identity]] records « Ph.D. sciences des religions ». The published self-description should win on any public surface until the operator says otherwise, but the two are not reconciled in the vault.
+3. **A book-chapter list the vault did not hold in one place:** *La fabrication des rites* and *Rites et ritualisations* (PUL), *Secular societies, spiritual selves ?* (Routledge), *Anime, philosophy and religion* (Vernon Press). Journals named: *Anthropologica*, *Pomegranate*, *Studies in Religion / Sciences Religieuses*, *Religiologiques*, *Slayage*.
+
+## References Cited (42, verbatim from the published record)
+
+Asprem E, Granholm K (eds) (2013) *Contemporary esotericism*. Sheffield: Equinox.
+Behar R (1996) *The vulnerable observer: Anthropology that breaks your heart*. Boston, MA: Beacon Press.
+Berger HA, Ezzy D (2004) The internet as virtual spiritual community: Teen witches in the United States and Australia. In: Dawson LL, Cowan DE (eds) *Religion online*. New York: Routledge, pp. 175–187.
+Bever E, Styer R (2017) *The Routledge history of witchcraft*. London: Routledge.
+Bloch M (1998) *How we think they think*. Boulder, CO: Westview Press.
+Bucher T (2018) *If… then: Algorithmic power and politics*. New York: Oxford University Press.
+Campbell H (ed) (2013) *Digital religion*. New York: Routledge.
+Clifford J, Marcus GE (eds) (1986) *Writing culture*. Berkeley: University of California Press.
+Clifton C (2006) *Her hidden children*. Lanham, MD: AltaMira Press.
+Couldry N, Hepp A (2017) *The mediated construction of reality*. Cambridge: Polity.
+Cowan DE (2005) *Cyberhenge: Modern pagans on the internet*. New York: Routledge.
+Davidsen MA (2012) Fiction-based religion. *Culture and Religion* 13(4): 378–394.
+Davies O (2011) *Magic: A very short introduction*. Oxford: Oxford University Press.
+Davies O (2013) *Witchcraft, magic and culture, 1736–1951*. Manchester: Manchester University Press.
+Dawson LL, Cowan DE (eds) (2004) *Religion online*. New York: Routledge.
+Doyle White E (2016) *Wicca: History, belief, and community in modern pagan witchcraft*. Brighton: Sussex Academic Press.
+Evans-Pritchard EE (1937) *Witchcraft, oracles and magic among the Azande*. Oxford: Clarendon Press.
+Ezzy D (2014) *Sex, death and witchcraft*. London: Bloomsbury.
+Favret-Saada J (1977) *Les mots, la mort, les sorts*. Paris: Gallimard.
+Gaskill M (2010) *Witchcraft: A very short introduction*. Oxford: Oxford University Press.
+Gillespie T (2014) The relevance of algorithms. In: *Media technologies*. Cambridge, MA: MIT Press, pp. 167–194.
+Greenwood S (2000) *Magic, witchcraft and the otherworld*. Oxford: Berg.
+Griffin W (2004) Weaving our way. In: *Religion online*. New York: Routledge, pp. 189–203.
+Haraway D (1988) Situated knowledges. *Feminist Studies* 14(3): 575–599.
+Harvey G (1997) *Listening people, speaking earth*. London: Hurst & Company.
+Helmond A (2015) The platformization of the web. *Social Media + Society* 1(2): 1–11.
+Hjarvard S (2011) The mediatization of religion. *Culture and Religion* 12(2): 119–135.
+Hutton R (1996) *The pagan religions of the ancient British Isles*. Oxford: Blackwell.
+Hutton R (1999) *The triumph of the moon*. Oxford: Oxford University Press.
+Keck F (2002) Les usages anthropologiques de la magie. *L'Homme* 164(4): 141–162.
+Lévi-Strauss C (1958) *Anthropologie structurale*. Paris: Plon.
+Malinowski B (1935) *Coral gardens and their magic*, vol. 2. London: Allen & Unwin.
+Mauss M (1968) *Sociologie et anthropologie*. Paris: PUF.
+Nieborg DB, Poell T (2018) The platformization of cultural production. *New Media & Society* 20(11): 4275–4292.
+Oboler R (2010) Feminine power and Wicca. *Journal of Religion and Gender* 5(2): 45–62.
+Owen A (2004) *The place of enchantment*. Chicago: University of Chicago Press.
+Partridge C (2004) *The re-enchantment of the West*, vol. 1. London: T&T Clark.
+Pike SM (2001) *Earthly bodies, magical selves*. Berkeley, CA: University of California Press.
+Storey J (2018) *Cultural theory and popular culture*, 8th edn. Abingdon: Routledge.
+Tsuria R (2020) Cyberwitch. *Social Compass* 67(3): 475–489.
+van Dijck J, Poell T, de Waal M (2018) *The platform society*. New York: Oxford University Press.
+White H (2002) Paganism and the ecological crisis. *Journal for the Study of Religion, Nature and Culture* 6(1): 85–101.
+
+**Not yet cross-linked.** The vault's convention is bidirectional (`## References cited` here, `## Cited in` on each reference note in `references/`). Matching these 42 against the ~1,100-note reference library is a separate pass and was not run; say the word if it should be.
 
 ## Context
 Source: `agatha_socialcompass_v5 (2).docx`. This paper is part of Martin Lepage's academic portfolio predating the PHAROS work. The Québec ethnographic fieldwork (2013-2016) is the empirical basis for the PhD (UQAM 2017). The *Agatha All Along* analysis is a more recent addition, connecting the historical witchcraft material to contemporary media representations of ritual authority. The paper is bilingual — sections exist in both English and French.

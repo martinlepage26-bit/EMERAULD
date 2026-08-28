@@ -264,3 +264,18 @@ Operator answered the three remaining next-steps: use the bio (yes), say the sta
 PR #4 merged at 0af8b71; check-in loop deleted and PR subscription dropped. Nothing from this session is still running.
 
 **Only genuinely open item left in this thread:** whether a paying client has confirmed the method works (prompt 24 holds its altitude until one does). Q4, the iceberg beneath Phenix, remains open by operator choice and is not to be re-raised.
+
+### 2026-08-28 — SAGE record captured (abstract, references, published bio)
+
+Operator supplied the full published record. Three things landed, all more valuable than the citation itself.
+
+- **Published abstract recorded verbatim.** It confirms the vault's earlier reconstruction (three regimes: oppositional, sensory, narrative; 2013–2016 Québec fieldwork; the *Agatha All Along* reading) and adds what the reconstruction missed: the **platform layer**. The claim is that mediation infrastructures redistribute the conditions under which a practice becomes credible, shareable, **or monetizable**. That third term is the live bridge to the governance work and is stronger evidence for the deferred-authority cluster than anything previously held.
+- **42 references recorded** on the paper note. Not cross-linked against the ~1,100-note `references/` library; that bidirectional pass is available and was not run.
+- **Published author biography recorded (FR)**, now the most authoritative scholarly bio in the vault. Added to [[Martin Lepage — Professional Profile]] beside the Canonical Short Bio, which is the governance-practice surface.
+
+Three findings from the bio:
+1. **The published affiliation is PHAROS**, not a university: « PHAROS (Recherche et pratique en gouvernance de l'IA), Montréal ». The scholarly and business surfaces are joined on the public record. « Président et chef de la gouvernance » is the published FR rendering of CGTO, so the title now has an external instance rather than being self-defined only.
+2. **Discrepancy flagged, not silently fixed:** the published bio says « doctorat en sciences sociales » (UQAM 2017); the identity hub says « sciences des religions ». Published self-description governs public surfaces until the operator reconciles.
+3. **Book-chapter list captured** in one place for the first time: *La fabrication des rites*, *Rites et ritualisations* (PUL), *Secular societies, spiritual selves ?* (Routledge), *Anime, philosophy and religion* (Vernon Press).
+
+**Page range:** the SAGE record shows volume and issue but no pagination, consistent with a current-issue article not yet paginated. The operator's "let it go" holds, and there may be nothing to chase.
