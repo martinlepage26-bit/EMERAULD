@@ -164,7 +164,9 @@ The author biography printed with the *Social Compass* article. Self-authored, p
 
 **Published institutional address:** PHAROS, not a university. The article's affiliation is the consultancy, which puts the scholarly and business surfaces together on the public record. « Président et chef de la gouvernance » is the published French rendering of the CGTO title, so it is no longer a self-defined title with no external instance.
 
-**Open discrepancy:** the published bio says « doctorat en **sciences sociales** » (UQAM 2017); [[Martin Lepage Professional Identity]] records « sciences des religions ». The published self-description should govern public surfaces until the operator reconciles the two. Flagged, not silently changed.
+**Not a discrepancy (resolved by operator, 2026-08-28).** The published bio says « doctorat en sciences sociales » where the vault records « sciences des religions ». These are the same degree in two registers: *sciences des religions* is the program, *sciences sociales* is the disciplinary family it sits in. The bio uses the umbrella because *Social Compass* has an international readership for whom the program name would not place the work. Both are correct on their own surface; neither needs changing, and this should not be re-raised as a conflict.
+
+See [[Martin Lepage Professional Identity]] for the program-name record.
 
 **Book chapters named in the bio**, which the vault did not previously hold in one place: *La fabrication des rites* and *Rites et ritualisations* (Presses de l'Université Laval), *Secular societies, spiritual selves ?* (Routledge), *Anime, philosophy and religion* (Vernon Press). Journals named: *Anthropologica*, *Pomegranate*, *Studies in Religion / Sciences Religieuses*, *Religiologiques*, *Slayage*.
 

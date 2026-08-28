@@ -279,3 +279,11 @@ Three findings from the bio:
 3. **Book-chapter list captured** in one place for the first time: *La fabrication des rites*, *Rites et ritualisations* (PUL), *Secular societies, spiritual selves ?* (Routledge), *Anime, philosophy and religion* (Vernon Press).
 
 **Page range:** the SAGE record shows volume and issue but no pagination, consistent with a current-issue article not yet paginated. The operator's "let it go" holds, and there may be nothing to chase.
+
+### 2026-08-28 — the "doctorate field discrepancy" was not one
+
+Operator: « sciences des religions » and « sciences sociales » are the same degree in two registers. *Sciences des religions* is the program; *sciences sociales* is the disciplinary family it belongs to. The published bio uses the umbrella because *Social Compass* has an international readership for whom the program name would not place the work.
+
+Both the profile note and the paper note had this recorded as an open discrepancy needing reconciliation. Corrected in both: it is explicitly marked as not a conflict, so no future pass re-raises it.
+
+**Worth noting as a process failure, not just a fact fix.** This session's whole discipline was refusing to let inference pass as evidence. Here the failure ran the other way: two accurate statements in different registers were flagged as a contradiction because neither carried the context that would have made them obviously compatible. Over-flagging has a cost too — it puts a false open item in front of the operator and invites a needless "correction" to a record that was right. The rule that would have caught it: before flagging two sources as conflicting, ask whether they are answering the same question at the same altitude.
