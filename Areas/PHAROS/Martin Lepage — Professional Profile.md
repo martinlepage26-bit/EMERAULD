@@ -169,6 +169,8 @@ Source: `LEPAGE.AI.CV.2026.docx`. This note is the professional profile extracte
 
 **Language**: Bilingual EN/FR (academic, professional, and creative work in both)
 
+**ORCID**: [0009-0006-4320-6254](https://orcid.org/0009-0006-4320-6254)
+
 **Core competency as stated**: designing governance systems that produce deterministic, auditable accountability decisions from AI system outputs; the PHAROS method is the primary deliverable
 
 ---
@@ -202,7 +204,7 @@ The CV documents academic positions and publications across the 2010s–2020s. T
 ## Key Publications (From CV)
 
 **Academic**
-- Social Compass paper (witchcraft / régime de preuve) — [[Social Compass Paper — Ritual Authority and Régime de Preuve]]
+- **Published, peer-reviewed:** Lepage, Martin. « All along the Witches' Road : Autorité rituelle et régimes de preuve dans la sorcellerie contemporaine », *Social Compass*, vol. 73, n° 1. DOI : [10.1177/00377686261459971](https://doi.org/10.1177/00377686261459971). ORCID : [0009-0006-4320-6254](https://orcid.org/0009-0006-4320-6254). Contact listed on the article: ml@pharos-ai.ca. See [[Social Compass Paper — Ritual Authority and Régime de Preuve]]. Note the article lists the PHAROS address, so the scholarly and professional surfaces are publicly joined on this record.
 - RDAIG method paper — [[Recursive Deterministic AI Governance — Method and Paper]]
 - Self-Polygraph Protocol / The Wheel and the Watcher papers — [[Self-Polygraph Protocol and Suprametacognition]], [[The Wheel and the Watcher]]
 - Fluency/Interruption paper — [[Fluency, Interruption, and Institutional Accountability]]

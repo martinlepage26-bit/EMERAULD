@@ -240,3 +240,15 @@ Left alone: `Areas/Writing/Agatha Governance Memo` references to "co-directors (
 **Remaining gap, minor and not blocking:** no volume, issue, pages or year anywhere in the vault, so no formal citation can be built for the published paper. Worth capturing next time Martin has the reference to hand.
 
 All seven ledger questions are now closed or deliberately left open by operator choice (Q4, the iceberg beneath Phenix). Note status moved to `draft-ratified-pending-final-read`.
+
+### 2026-08-28 — Social Compass citation captured
+
+Operator supplied the full record. Now carried in [[Social Compass Paper — Ritual Authority and Régime de Preuve]] (new Citation section), [[Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]], [[Martin Lepage — Professional Profile]] (promoted to a published peer-reviewed entry), and the authority-story note.
+
+> Lepage, Martin. « All along the Witches' Road : Autorité rituelle et régimes de preuve dans la sorcellerie contemporaine », *Social Compass*, vol. 73, n° 1. DOI 10.1177/00377686261459971. ORCID 0009-0006-4320-6254.
+
+**ORCID recorded for the first time** (0009-0006-4320-6254) on the professional profile. Also noted there: the article lists `ml@pharos-ai.ca` as contact, so the scholarly and business surfaces are publicly joined on a peer-reviewed record. That is a positioning fact, not just a metadata one.
+
+**Title genealogy now complete across three surfaces:** invited as « Queer Digital Witchcraft » (2024 proposal), drafted as « De la Wicca à Agatha All Along » (v4.2), published as « All along the Witches' Road ». One contribution, three titles. Anyone searching the vault for the draft title will now land on the published record.
+
+**Still missing:** page range and publication year. Volume 73 issue 1 implies 2026 by the journal's run, but that is an inference and is recorded as one, not as fact. External verification was attempted and failed — this environment blocks egress to doi.org and api.crossref.org — so the gap stays flagged rather than quietly filled.
