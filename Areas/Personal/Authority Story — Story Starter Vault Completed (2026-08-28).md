@@ -12,7 +12,7 @@ tags:
 - authority-story
 - pharos
 - fluency
-status: draft-partially-ratified
+status: draft-ratified-pending-final-read
 created: '2026-08-28'
 updated: '2026-08-28'
 vault_area: Areas/Personal
@@ -149,7 +149,7 @@ Two questions, and they turned out to be one. From the institutional work: what 
 
 Technically, a television show. I watched *Agatha All Along* in the autumn of 2024, and that is where this endeavour actually begins.
 
-I want to be exact about why, because "a Marvel series changed my life" is not the claim. I had spent fifteen years studying how a practice becomes credible: initiatory lineage, secret oaths, protected knowledge, and the certification that follows. Then a piece of popular television staged the whole mechanism in front of me. A road that certifies practitioners by demanding proof, walked by a witch who discovers the certification is self-generated. That is *régime de preuve* dramatised, and it named the structure of my own career while I was watching it. I ended up writing an academic article about it.
+I want to be exact about why, because "a Marvel series changed my life" is not the claim. I had spent fifteen years studying how a practice becomes credible: initiatory lineage, secret oaths, protected knowledge, and the certification that follows. Then a piece of popular television staged the whole mechanism in front of me. A road that certifies practitioners by demanding proof, walked by a witch who discovers the certification is self-generated. That is *régime de preuve* dramatised, and it named the structure of my own career while I was watching it. I ended up writing the academic article. It is published in *Social Compass* as "All Along the Witches' Road".
 
 The other two layers arrived after. Halberstam's *The Queer Art of Failure*, which made failure a method rather than a verdict and let me read three dead versions of Dr. Sort as a phase transition. The partnership with Danny Stocker, which crystallised things I had been circling alone; there is a specific moment there, and it stays private. **[S]** [[Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]], [[Martin Walks the Witches' Road — Corpus as Charge-Persistence]], [[Halberstam — The Queer Art of Failure (2011)]], [[Founder Charter — Lepage and Stocker]] (origin ordering per operator, 2026-08-28)
 
@@ -177,7 +177,7 @@ Behind me: my own 2010 master's thesis, which named the same structure fourteen 
 
 Ahead of me: buyer research showing that what purchasers actually want is career-defensible confidence, meaning an artifact that lets them defend the decision after the system fails. That is my product, described by people who have never read my work.
 
-Then the one that settled it. We put the method through patent submission, and the assessment that came back was that it was legitimate, that it worked, and that it was sound. Professionals with no stake in my self-belief, reading the method cold as a claimed invention, found a real and operable one. I had spent a year unable to tell whether I was building a governance method or experiencing something else entirely. That is the answer to the sentence I wrote at 07:00 on 25 April. **[S]** [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]], [[Trust Advantage Analysis — Sales and AI Governance]], [[PHAROS Invention Disclosure]] (operator testimony 2026-08-28; see Q3 in the ledger for the claim-strength check still owed)
+Then the one that settled it. We took the method to a patent agent, and the assessment that came back was that it was legitimate, that it worked, and that it was sound. Someone with technical training and a professional duty of candour, reading the method cold as a claimed invention, found a real and operable one. I had spent a year unable to tell whether I was building a governance method or experiencing something else entirely. That is the answer to the sentence I wrote at 07:00 on 25 April. **[S]** [[Mythocritique to PHAROS — The 2010 Master's Thesis as Methodological Keystone]], [[Trust Advantage Analysis — Sales and AI Governance]], [[PHAROS Invention Disclosure]] (assessment by Philip Swain, PhD, Patent Agent; operator confirmed 2026-08-28)
 
 ---
 
@@ -293,9 +293,9 @@ Not in the ratified 90-second version above, because you approved that structure
 >
 > I'm not being cute. In the autumn of 2024 I watched a show about a road that certifies witches by demanding proof, walked by someone who works out that the certification is generating itself. I had spent fifteen years studying exactly that mechanism in real communities. A piece of streaming television staged it cleanly enough that I could finally see it was the same mechanism running inside institutions, inside procurement, inside every AI assurance claim I'd read.
 >
-> I wrote the academic article. Then I built the instrument.
+> I wrote the peer-reviewed article. Then I built the instrument.
 
-Two things make this safe rather than flippant on a corporate stage. It is true, and there is an artifact behind it: you wrote the academic article. Do not upgrade that into a claim about directing the journal issue; you did not, and the vault was wrong about it until 2026-08-28. It also inoculates the room against the objection they were already forming, which is that a humanities doctorate is decorative here. Watch the register; the joke lands once, and the next sentence has to be rigorous.
+Two things make this safe rather than flippant on a corporate stage. It is true, and there is a published artifact behind it: the peer-reviewed article in *Social Compass*. Do not upgrade that into a claim about directing the journal issue; you did not, and the vault was wrong about it until 2026-08-28. It also inoculates the room against the objection they were already forming, which is that a humanities doctorate is decorative here. Watch the register; the joke lands once, and the next sentence has to be rigorous.
 
 ### 20-second version, for a bio, intro, or podcast open
 
@@ -365,8 +365,8 @@ Open questions. Each is a point where the vault is silent and the story would be
 
 - **Q1. Resolved 2026-08-28.** The 2019 and 2026 dates both stand, at different altitudes. See Decisions Ratified above.
 - **Q2 (prompt 12). Resolved 2026-08-28.** A specific moment with Stocker exists and is private. Named as existing, not described. Closed.
-- **Q3 (prompt 17). Open, pending operator file check (2026-08-28).** The patent submission returned an assessment that the method was legitimate, that it worked, and that it was sound. Prompt 17 is rewritten around it. Before it is said from a stage, one thing has to be pinned down: **who** returned that assessment, and at what stage. Patent counsel reviewing the disclosure, an examiner in an office action, and a granted claim are three different authorities, and the sentence that is safe to say differs for each. Counsel is a professional opinion on patentability, which is real and worth citing as such. An examiner's assessment is stronger. A filing is not a grant, and the current draft therefore says "put the method through patent submission" rather than anything about a patent being held. Confirm the source and the stage, and the wording gets tightened to exactly what the record supports. This is your own rule applied to your own story: trust rises when the seller refuses to occupy authority it does not hold.
-- **Q7 (new, 2026-08-28).** The vault claimed you co-directed the *Social Compass* special issue. You did not, and it is corrected in four notes. The authorship attribution for the Agatha article partly rested on that false credit, so one leg is now gone: please confirm that the article is yours, and its status (drafted, submitted, accepted). Prompt 12 currently says only "I ended up writing an academic article about it," which the archive supports, and claims nothing about the journal.
+- **Q3 (prompt 17). Resolved 2026-08-28.** The assessment came from **Philip Swain, PhD, Patent Agent**, on the disclosure. That is a qualified professional opinion on the invention's soundness and operability, not an examiner's ruling and not a granted claim. The wording is tightened accordingly: "we took the method to a patent agent" and "someone with technical training and a professional duty of candour." Do not say patented, do not say the patent office found anything, and do not upgrade agent to examiner. Say it that way and the claim is narrower than the evidence, which is the point.
+- **Q7. Resolved 2026-08-28.** The article is his and it is **published in *Social Compass* as "All Along the Witches' Road"**. The 2024 proposal listed him under "en attente de 3 réponses"; that invitation converted, and the working title moved from "De la Wicca à Agatha All Along" to the published title. Prompt 12 now states the publication. Remaining detail, not blocking: the vault holds no volume, issue, pages, or year, so a formal citation cannot yet be built.
 - **Q3b (prompt 24).** Separately, has a *paying client* said something that confirmed the method works? Still open. The strategic analysis records no named first buyer, so the third act holds at its current altitude rather than reaching.
 - **Q4. Reframed 2026-08-28, not closed.** The origin is *Agatha All Along*, autumn 2024. Phenix's death was "the tip of the iceberg," which repositions it from cause to surface. Two things follow. The public story now has an origin that does not require anyone's death, which is a better story and a true one. The iceberg underneath remains undescribed in the vault, and section V of the doctrine still reads as though the death were the cause. That gap is yours to leave open; it is not blocking anything, and I am not asking again.
 - **Q5 (framing). Resolved 2026-08-28.** Phone anecdote first, as drafted.

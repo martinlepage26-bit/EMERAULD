@@ -103,7 +103,9 @@ Confirmed contributions at proposal stage:
 
 **Martin appears in a fourth category, not among the confirmed contributors.** The document reads: *"En attente de 3 réponses qui seront détaillées si le dossier général reçoit un avis global positif. Martin Lepage (UQAM) sur Queer Digital Witchcraft; Emma Quilty (Monash U) sur une digital ethnography de #Witchlife; Et Chris Miller (U. Waterloo) sur Tik Tok et les Digital Witchcraft."* At the time this proposal was written he was one of three awaited responses, contingent on the dossier receiving a positive overall verdict. Invited, not yet confirmed, and not a director.
 
-Two things follow that bear on the authorship question. First, the invited topic is "Queer Digital Witchcraft", not the Agatha article title; the Agatha piece may be that contribution evolved after the series aired in autumn 2024, but the vault does not record the step, so this is unconfirmed. Second, whatever the vault says about a "Special Issue credit" should be read against a document in which Martin's participation was still pending.
+**Outcome, confirmed by operator 2026-08-28.** The invitation converted. The article is Martin's and it is **published in *Social Compass* as "All Along the Witches' Road"** (see [[Social Compass Paper — Ritual Authority and Régime de Preuve]], the v5 submission note, now marked published). So the sequence is: invited on "Queer Digital Witchcraft" and listed as one of three awaited responses in the 2024 proposal, drafted as "De la Wicca à Agatha All Along" (this v4.2), published under the title "All Along the Witches' Road". Contributor to the issue throughout; never a director of it. Volume, issue, pages and year are not recorded anywhere in the vault, so a formal citation still cannot be built.
+
+Two things follow that bore on the authorship question before it was settled. First, the invited topic is "Queer Digital Witchcraft", not the Agatha article title; the Agatha piece may be that contribution evolved after the series aired in autumn 2024, but the vault does not record the step, so this is unconfirmed. Second, whatever the vault says about a "Special Issue credit" should be read against a document in which Martin's participation was still pending.
 
 ---
 
@@ -222,7 +224,7 @@ The versioning sequence shows an active drafting process from v3 through v5. The
 
 - What changes were made between v4.2 and v5 (submitted)? What did peer reviewers flag?
 - Is the 2010-titled file ("Queer and Virtually Magical") a much earlier draft or a parallel project?
-- What is the status of the Special Issue contribution (not co-direction, corrected 2026-08-28) — was it submitted, accepted, and when will it publish?
+- Published (confirmed 2026-08-28). Remaining: capture volume, issue, pages and year so the corpus can carry a formal citation.
 - How does the Agatha_GovernanceMemo (found in the same directory) relate to the article?
 
 ## Sources

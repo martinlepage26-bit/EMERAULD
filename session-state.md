@@ -228,3 +228,15 @@ Left alone: `Areas/Writing/Agatha Governance Memo` references to "co-directors (
 **New open item (Q7):** with one leg of the attribution removed, confirm that the Agatha article is Martin's and give its status (drafted / submitted / accepted). Nothing in the authority story now depends on the answer.
 
 **Standing lesson for the vault:** derived notes that carry an inference should mark it as one. Three notes inherited this claim without any of them naming a source, and the OCR primary source that refutes it was sitting in `raw sources/` the whole time.
+
+### 2026-08-28 — final two ledger questions closed
+
+**Q3 (patent assessment source).** Philip Swain, PhD, Patent Agent, assessing the disclosure. That is a qualified professional opinion on the invention's soundness and operability. It is **not** an examiner's ruling and **not** a granted patent, so prompt 17 now reads "we took the method to a patent agent" and "someone with technical training and a professional duty of candour." Standing wording rule: never say patented, never attribute the finding to the patent office, never upgrade agent to examiner. The claim stays narrower than the evidence.
+
+**Q7 (Agatha article).** The article is Martin's and is **published in *Social Compass* as "All Along the Witches' Road"**. Full sequence now documented: invited on "Queer Digital Witchcraft" and listed under "en attente de 3 réponses" in the Servais-authored 2024 proposal, drafted as "De la Wicca à Agatha All Along" (v4.2), published as "All Along the Witches' Road" (v5). Contributor throughout, never a director.
+
+**Status upgrade propagated:** [[Social Compass Paper — Ritual Authority and Régime de Preuve]] said "submitted" and now says published; [[Sealed Card Protocol — Legitimacy, Glitch, and Charging]] said "forthcoming" and now says published with the published title corrected; [[Agatha All Along — Wicca, Digital Mediatization, and Proof Regimes]] records the outcome and the title genealogy. The authority-story note states the publication in prompt 12 and in the optional stage insert.
+
+**Remaining gap, minor and not blocking:** no volume, issue, pages or year anywhere in the vault, so no formal citation can be built for the published paper. Worth capturing next time Martin has the reference to hand.
+
+All seven ledger questions are now closed or deliberately left open by operator choice (Q4, the iceberg beneath Phenix). Note status moved to `draft-ratified-pending-final-read`.
