@@ -112,7 +112,7 @@ The published biography is the operator's own scholarly self-description, and it
 Three things this settles or raises:
 
 1. **The affiliation is PHAROS, published.** The article's institutional address is the consultancy, not a university. The scholarly and business surfaces are joined on the public record, and « président et chef de la gouvernance » is the published French rendering of the CGTO title.
-2. **Doctorate field, discrepancy to resolve.** The published bio says « doctorat en **sciences sociales** » (UQAM 2017). [[Martin Lepage Professional Identity]] records « Ph.D. sciences des religions ». The published self-description should win on any public surface until the operator says otherwise, but the two are not reconciled in the vault.
+2. **Doctorate field, no conflict.** The published bio says « doctorat en sciences sociales » where the vault records « sciences des religions ». These are the same degree in two registers: *sciences des religions* is the program, *sciences sociales* is the disciplinary family it sits in. The bio uses the umbrella because *Social Compass* has an international readership for whom the program name would not place the work. Both are correct on their own surface; neither needs changing, and this should not be re-raised as a conflict.
 3. **A book-chapter list the vault did not hold in one place:** *La fabrication des rites* and *Rites et ritualisations* (PUL), *Secular societies, spiritual selves ?* (Routledge), *Anime, philosophy and religion* (Vernon Press). Journals named: *Anthropologica*, *Pomegranate*, *Studies in Religion / Sciences Religieuses*, *Religiologiques*, *Slayage*.
 
 ## References Cited (42, verbatim from the published record)
