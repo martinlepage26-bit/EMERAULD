@@ -59,9 +59,15 @@ export async function createCheckoutSession(
     'line_items[0][price]': price.id,
     'line_items[0][quantity]': '1',
     success_url: `${env.PUBLIC_BASE_URL}/billing/done?session_id={CHECKOUT_SESSION_ID}`,
-    cancel_url: `${env.PUBLIC_BASE_URL}/pricing`,
+    cancel_url: `${env.PUBLIC_BASE_URL}/pricing?canceled=1`,
     client_reference_id: account.id,
-    customer_email: account.email,
+    // Reusing the stored customer keeps a plan change on one Stripe customer.
+    // An email-only checkout for an existing subscriber mints a second
+    // customer and a second concurrent subscription, and the completed
+    // webhook would then orphan the first one while it keeps billing.
+    ...(account.stripe_customer_id
+      ? { customer: account.stripe_customer_id }
+      : { customer_email: account.email }),
     'subscription_data[metadata][account_id]': account.id,
     'metadata[account_id]': account.id,
   });
@@ -80,16 +86,16 @@ export async function verifyStripeSignature(
   payload: string,
   signatureHeader: string,
 ): Promise<boolean> {
-  const parts = new Map(
-    signatureHeader.split(',').map((kv) => {
-      const idx = kv.indexOf('=');
-      return [kv.slice(0, idx).trim(), kv.slice(idx + 1).trim()] as const;
-    }),
-  );
+  const parts = signatureHeader.split(',').map((kv) => {
+    const idx = kv.indexOf('=');
+    return [kv.slice(0, idx).trim(), kv.slice(idx + 1).trim()] as const;
+  });
 
-  const timestamp = parts.get('t');
-  const signature = parts.get('v1');
-  if (!timestamp || !signature) return false;
+  const timestamp = parts.find(([k]) => k === 't')?.[1];
+  // Stripe sends one v1 per active secret for the whole overlap window of a
+  // webhook-secret rotation; a delivery is genuine when any of them matches.
+  const signatures = parts.filter(([k]) => k === 'v1').map(([, v]) => v);
+  if (!timestamp || signatures.length === 0) return false;
 
   // Reject replays of an old, legitimately-signed payload.
   const ageSeconds = Math.abs(Date.now() / 1000 - Number(timestamp));
@@ -109,7 +115,7 @@ export async function verifyStripeSignature(
   );
   const expected = [...new Uint8Array(mac)].map((b) => b.toString(16).padStart(2, '0')).join('');
 
-  return timingSafeEqual(expected, signature);
+  return signatures.some((sig) => timingSafeEqual(expected, sig));
 }
 
 function timingSafeEqual(a: string, b: string): boolean {
@@ -126,20 +132,44 @@ interface StripeEvent {
 }
 
 export async function handleStripeEvent(env: Env, event: StripeEvent): Promise<void> {
+  // Stripe retries deliveries and does not guarantee order; a replayed event
+  // must not overwrite state a later event already superseded.
+  const seen = await db(env).run(
+    `INSERT OR IGNORE INTO stripe_events (id, type, received_at) VALUES (?, ?, ?)`,
+    event.id,
+    event.type,
+    nowIso(),
+  );
+  if (seen.meta.changes === 0) return;
+
   const object = event.data.object;
 
   switch (event.type) {
-    case 'checkout.session.completed': {
+    case 'checkout.session.completed':
+    case 'checkout.session.async_payment_succeeded': {
       const accountId = String(object.client_reference_id ?? '');
-      const customer = String(object.customer ?? '');
-      const subscription = String(object.subscription ?? '');
       if (!accountId) return;
 
+      // Async payment methods redirect while payment_status is still pending;
+      // those sessions activate on the async_payment_succeeded event instead.
+      const paymentStatus = String(object.payment_status ?? '');
+      if (paymentStatus !== 'paid' && paymentStatus !== 'no_payment_required') return;
+
+      const customer = String(object.customer ?? '');
+      const subscription = String(object.subscription ?? '');
+
+      // An absent field must never blank a stored id: later billing webhooks
+      // find the account through stripe_subscription_id.
       await db(env).run(
         `UPDATE accounts
-            SET stripe_customer_id = ?, stripe_subscription_id = ?, status = 'active', updated_at = ?
+            SET stripe_customer_id = CASE WHEN ? = '' THEN stripe_customer_id ELSE ? END,
+                stripe_subscription_id = CASE WHEN ? = '' THEN stripe_subscription_id ELSE ? END,
+                status = 'active',
+                updated_at = ?
           WHERE id = ?`,
         customer,
+        customer,
+        subscription,
         subscription,
         nowIso(),
         accountId,
@@ -163,7 +193,7 @@ export async function handleStripeEvent(env: Env, event: StripeEvent): Promise<v
             : 'paused';
 
       await db(env).run(
-        `UPDATE accounts SET plan = ?, status = ?, updated_at = ? WHERE id = ?`,
+        `UPDATE accounts SET plan = COALESCE(?, plan), status = ?, updated_at = ? WHERE id = ?`,
         plan,
         status,
         nowIso(),
@@ -175,7 +205,7 @@ export async function handleStripeEvent(env: Env, event: StripeEvent): Promise<v
         action: 'subscription.updated',
         entityType: 'account',
         entityId: accountId,
-        detail: { plan, status, stripeStatus },
+        detail: { plan: plan ?? 'kept:unknown_price', status, stripeStatus },
       });
       break;
     }
@@ -256,10 +286,17 @@ async function accountIdForSubscription(
   return row?.id ?? null;
 }
 
-function planFromSubscription(object: Record<string, unknown>): PlanId {
+/**
+ * Maps the subscription's price back to a plan, or null when the lookup key
+ * is unrecognized. Null means keep the stored plan: lookup keys are set by
+ * hand in the Stripe dashboard, and an unknown one (an annual price, a cloned
+ * price, an add-on) must not silently rewrite a paying account to the lowest
+ * allowances.
+ */
+function planFromSubscription(object: Record<string, unknown>): PlanId | null {
   const items = (object.items ?? {}) as { data?: Array<{ price?: { lookup_key?: string } }> };
   const lookup = items.data?.[0]?.price?.lookup_key ?? '';
-  return PRICE_LOOKUP_TO_PLAN[lookup] ?? 'trial';
+  return PRICE_LOOKUP_TO_PLAN[lookup] ?? null;
 }
 
 /**

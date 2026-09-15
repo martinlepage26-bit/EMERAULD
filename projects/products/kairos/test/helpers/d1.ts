@@ -1,5 +1,5 @@
 import { DatabaseSync } from 'node:sqlite';
-import { readFileSync } from 'node:fs';
+import { readFileSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import type { Env } from '../../src/env';
@@ -86,7 +86,10 @@ export interface TestHarness {
 export function createHarness(overrides: Partial<Env> = {}): TestHarness {
   const sqlite = new DatabaseSync(':memory:');
   sqlite.exec('PRAGMA foreign_keys = ON;');
-  sqlite.exec(readFileSync(join(here, '..', '..', 'migrations', '0001_init.sql'), 'utf8'));
+  const migrationsDir = join(here, '..', '..', 'migrations');
+  for (const file of readdirSync(migrationsDir).filter((f) => f.endsWith('.sql')).sort()) {
+    sqlite.exec(readFileSync(join(migrationsDir, file), 'utf8'));
+  }
 
   const kv = new KvShim();
 

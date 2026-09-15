@@ -70,6 +70,16 @@ describe('stripe signature verification', () => {
     expect(await verifyStripeSignature(env, payload, header)).toBe(false);
   });
 
+  it('accepts when any v1 matches, as during a webhook-secret rotation', async () => {
+    const now = Math.floor(Date.now() / 1000);
+    const good = (await sign(payload, now, 'whsec_test_secret')).split('v1=')[1];
+    const stale = (await sign(payload, now, 'whsec_retired_secret')).split('v1=')[1];
+    // The matching v1 first: an implementation that keeps only the last v1
+    // would reject this rotation-window header.
+    const header = `t=${now},v1=${good},v1=${stale}`;
+    expect(await verifyStripeSignature(env, payload, header)).toBe(true);
+  });
+
   it('rejects a replay of an old but validly signed payload', async () => {
     const old = Math.floor(Date.now() / 1000) - 600;
     const header = await sign(payload, old, 'whsec_test_secret');
