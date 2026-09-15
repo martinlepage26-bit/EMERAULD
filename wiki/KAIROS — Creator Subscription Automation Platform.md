@@ -58,11 +58,13 @@ Plan allowances were set from the margin model, not from intuition. The first pa
 
 ## Status
 
-Deployed and running at `kairos.martinlepage26.workers.dev` as of 2026-09-15. Schema applied to D1, all three bindings live (D1, KV, R2), five cron triggers registered, and the three secrets set. `/health` returns `dryRun: true` with an empty queue.
+Deployed and running at `kairos.martinlepage26.workers.dev` as of 2026-09-15, on the `production` wrangler environment with `DRY_RUN` set to `"false"`: platform calls are live, not simulated. Schema applied to D1 (two migrations), all three bindings live (D1, KV, R2), five cron triggers registered. `/health` returns `environment: production` and `dryRun: false` with an empty queue. No creator account or channel exists, so nothing posts yet; the first connected account holding an approved post will publish for real.
 
-Code verified: 42 tests pass against real SQLite through a D1-shaped shim, executing the actual migration rather than mocks.
+Secrets: `ANTHROPIC_API_KEY`, `TOKEN_ENCRYPTION_KEY`, and `AUTH_SIGNING_KEY` are set (the last is declared in `src/env.ts` but read nowhere). `STRIPE_SECRET_KEY` and `STRIPE_WEBHOOK_SECRET` are not set, so billing stays disarmed: checkout creation fails and webhook signatures cannot verify until both exist, and the Stripe dashboard still needs the four `kairos_*_monthly` price lookup keys and the webhook endpoint registration.
 
-Nothing posts anywhere yet. `DRY_RUN` remains `true`, so every platform call is simulated, and no creator account or channel exists. Going live means flipping `DRY_RUN` to `false` and `ENVIRONMENT` to `production` in `wrangler.jsonc`, then redeploying. Two platform constraints found during setup and worth knowing before selling either channel: X impression and click metrics need a paid API tier, and LinkedIn comment reading requires Community Management API partner approval that new apps are not granted, so the LinkedIn inbound reply half stays dark while publishing works.
+Code verified: 54 tests pass against real SQLite through a D1-shaped shim, executing the actual migrations rather than mocks.
+
+Production configuration lives in the `env.production` block of `wrangler.jsonc`. The top-level block is the simulated development default; a bare `wrangler deploy` resolves there and creates a harmless `kairos-dev` Worker. `npm run deploy` (`wrangler deploy --env production`) is the live switch: it ships whatever `env.production` holds, with no separate arming step, so editing top-level vars changes nothing in production. Two platform constraints found during setup and worth knowing before selling either channel: X impression and click metrics need a paid API tier, and LinkedIn comment reading requires Community Management API partner approval that new apps are not granted, so the LinkedIn inbound reply half stays dark while publishing works.
 
 ## Related
 

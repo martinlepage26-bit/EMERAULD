@@ -1,6 +1,10 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "kairos",
+  // The top-level name is deliberately NOT "kairos": a bare `wrangler deploy`
+  // resolves here and must not be able to overwrite the live Worker with dev
+  // vars. It creates a harmless "kairos-dev" Worker instead. Production is the
+  // env.production block below, deployed via `npm run deploy`.
+  "name": "kairos-dev",
   "main": "src/index.ts",
   "compatibility_date": "2026-04-27",
   "compatibility_flags": ["nodejs_compat"],
@@ -9,10 +13,10 @@
   },
   // Top level is the safe development default: every outbound platform call is
   // simulated and PUBLIC_BASE_URL points at wrangler dev. Live values exist
-  // only under env.production and deploy via `npm run deploy`
-  // (`wrangler deploy --env production`). A bare `wrangler deploy` would ship
-  // these dev vars to the same "kairos" Worker — always deploy through the
-  // npm script.
+  // only under env.production. Note the resource bindings below still name the
+  // production D1/KV/R2 ids, so `wrangler dev --remote` and env-less
+  // `wrangler d1 execute --remote` touch live data; local dev simulates them.
+  // test/config.test.ts enforces the dev/production invariants.
   "vars": {
     "ENVIRONMENT": "development",
     // Drafting model. Opus 5 is the default; the operator may set a different
@@ -70,10 +74,10 @@
   },
   "env": {
     "production": {
-      // Same name as the top level on purpose: production deploys target the
-      // existing "kairos" Worker, keeping its workers.dev URL and the secrets
-      // already uploaded to it (a nameless env would deploy a separate
-      // "kairos-production" Worker with neither).
+      // Explicit name: production deploys target the existing "kairos" Worker,
+      // keeping its workers.dev URL and the secrets already uploaded to it
+      // (a nameless env would deploy a separate "kairos-production" Worker
+      // with neither).
       "name": "kairos",
       // vars and bindings are non-inheritable, so everything the Worker reads
       // must be restated here in full.

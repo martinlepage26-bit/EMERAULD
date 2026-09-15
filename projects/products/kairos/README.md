@@ -25,7 +25,7 @@ Cloudflare Workers, D1, R2, KV. Hono for routing, Zod for validation, the Anthro
 ```bash
 npm install
 npm run check     # typecheck source and tests
-npm test          # 42 tests against real SQLite via a D1 shim
+npm test          # 54 tests against real SQLite via a D1 shim
 npm run db:local  # apply migrations
 npm run dev       # http://localhost:8789
 ```

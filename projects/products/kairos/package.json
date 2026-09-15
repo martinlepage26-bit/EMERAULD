@@ -11,8 +11,7 @@
     "test": "NODE_OPTIONS=--experimental-sqlite vitest run",
     "test:watch": "NODE_OPTIONS=--experimental-sqlite vitest",
     "db:local": "wrangler d1 migrations apply kairos --local",
-    "db:remote": "wrangler d1 migrations apply kairos --remote",
-    "seed": "wrangler d1 execute kairos --local --file=./migrations/seed.sql"
+    "db:remote": "wrangler d1 migrations apply kairos --remote --env production"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.71.0",

@@ -103,7 +103,7 @@ The suite caught one real design property while being written: the test for dail
 ```bash
 npm install
 npm run check          # typecheck source and tests
-npm test               # 42 tests against real SQLite
+npm test               # 54 tests against real SQLite
 npm run db:local       # apply migrations to local D1
 npm run dev            # wrangler dev on port 8789
 ```
