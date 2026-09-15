@@ -58,7 +58,11 @@ Plan allowances were set from the margin model, not from intuition. The first pa
 
 ## Status
 
-Code complete and verified: 30 tests pass against real SQLite through a D1-shaped shim, executing the actual migration rather than mocks. `DRY_RUN` defaults on, so the full pipeline runs end to end before any creator connects an account. Not yet deployed, and no live platform credentials are configured.
+Deployed and running at `kairos.martinlepage26.workers.dev` as of 2026-09-15. Schema applied to D1, all three bindings live (D1, KV, R2), five cron triggers registered, and the three secrets set. `/health` returns `dryRun: true` with an empty queue.
+
+Code verified: 42 tests pass against real SQLite through a D1-shaped shim, executing the actual migration rather than mocks.
+
+Nothing posts anywhere yet. `DRY_RUN` remains `true`, so every platform call is simulated, and no creator account or channel exists. Going live means flipping `DRY_RUN` to `false` and `ENVIRONMENT` to `production` in `wrangler.jsonc`, then redeploying. Two platform constraints found during setup and worth knowing before selling either channel: X impression and click metrics need a paid API tier, and LinkedIn comment reading requires Community Management API partner approval that new apps are not granted, so the LinkedIn inbound reply half stays dark while publishing works.
 
 ## Related
 
