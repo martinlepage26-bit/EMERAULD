@@ -70,7 +70,10 @@ CREATE TABLE channels (
   platform          TEXT NOT NULL,   -- x|linkedin|instagram|threads
   handle            TEXT NOT NULL,
   external_id       TEXT,
-  access_token      TEXT,            -- encrypted at rest by the platform adapter layer
+  -- AES-GCM ciphertext, `v1:<iv>:<data>`. Encrypted in src/lib/crypto.ts before
+  -- insert and decrypted only via channelToken() in src/lib/channels.ts. The key
+  -- lives in the TOKEN_ENCRYPTION_KEY secret, never in this database.
+  access_token      TEXT,
   refresh_token     TEXT,
   token_expires_at  TEXT,
   status            TEXT NOT NULL DEFAULT 'connected',  -- connected|expired|revoked|error

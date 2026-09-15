@@ -55,9 +55,31 @@ export class D1Shim {
   }
 }
 
+/** Minimal in-memory KV, enough for the fixed-window rate limiter. */
+export class KvShim {
+  private store = new Map<string, string>();
+
+  async get(key: string): Promise<string | null> {
+    return this.store.get(key) ?? null;
+  }
+
+  async put(key: string, value: string): Promise<void> {
+    this.store.set(key, value);
+  }
+
+  async delete(key: string): Promise<void> {
+    this.store.delete(key);
+  }
+
+  clear(): void {
+    this.store.clear();
+  }
+}
+
 export interface TestHarness {
   env: Env;
   sqlite: DatabaseSync;
+  kv: KvShim;
   close(): void;
 }
 
@@ -66,10 +88,12 @@ export function createHarness(overrides: Partial<Env> = {}): TestHarness {
   sqlite.exec('PRAGMA foreign_keys = ON;');
   sqlite.exec(readFileSync(join(here, '..', '..', 'migrations', '0001_init.sql'), 'utf8'));
 
+  const kv = new KvShim();
+
   const env = {
     DB: new D1Shim(sqlite) as unknown as D1Database,
     MEDIA: {} as R2Bucket,
-    CACHE: {} as KVNamespace,
+    CACHE: kv as unknown as KVNamespace,
     ENVIRONMENT: 'test',
     DRAFT_MODEL: 'claude-opus-5',
     STRATEGY_MODEL: 'claude-opus-5',
@@ -80,10 +104,11 @@ export function createHarness(overrides: Partial<Env> = {}): TestHarness {
     STRIPE_SECRET_KEY: 'sk_test',
     STRIPE_WEBHOOK_SECRET: 'whsec_test',
     AUTH_SIGNING_KEY: 'test-signing-key',
+    TOKEN_ENCRYPTION_KEY: 'test-token-encryption-key-at-least-32-chars',
     ...overrides,
   } as Env;
 
-  return { env, sqlite, close: () => sqlite.close() };
+  return { env, sqlite, kv, close: () => sqlite.close() };
 }
 
 /** Inserts a minimally complete account so gate tests have something to gate. */

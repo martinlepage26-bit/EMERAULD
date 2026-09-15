@@ -9,6 +9,7 @@ import { accounts } from './routes/accounts';
 import { workspace } from './routes/workspace';
 import { inbox } from './routes/inbox';
 import { billing } from './routes/billing';
+import { media } from './routes/media';
 
 import { handlePlanGenerate } from './engines/strategy';
 import { handleContentDraft } from './engines/content';
@@ -58,6 +59,7 @@ app.route('/', accounts);
 app.route('/', workspace);
 app.route('/', inbox);
 app.route('/', billing);
+app.route('/', media);
 
 app.notFound((c) => c.json({ error: { code: 'not_found', message: 'No such endpoint' } }, 404));
 

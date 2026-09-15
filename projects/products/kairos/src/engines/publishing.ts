@@ -3,6 +3,7 @@ import { audit, db, meter } from '../lib/db';
 import { nowIso } from '../lib/ids';
 import { canPublish } from '../lib/governance';
 import { adapterFor } from '../adapters/registry';
+import { channelToken } from '../lib/channels';
 import type { AccountRecord, ChannelRecord, PostRecord } from '../lib/types';
 import { enqueue, type Job } from '../queue/jobs';
 import { RetryableError } from '../lib/errors';
@@ -105,7 +106,7 @@ export async function handlePublishDispatch(
     published = await adapter.publish({
       body: post.body,
       mediaUrls,
-      accessToken: channel.access_token ?? '',
+      accessToken: await channelToken(env, channel),
       externalAccountId: channel.external_id,
     });
   } catch (err) {

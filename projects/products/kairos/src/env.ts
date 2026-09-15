@@ -14,6 +14,8 @@ export interface Env {
   STRIPE_SECRET_KEY: string;
   STRIPE_WEBHOOK_SECRET: string;
   AUTH_SIGNING_KEY: string;
+  /** Encrypts channel access tokens at rest. At least 32 random characters. */
+  TOKEN_ENCRYPTION_KEY: string;
 }
 
 export interface RequestContext {

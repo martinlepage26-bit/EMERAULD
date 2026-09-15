@@ -2,6 +2,7 @@ import type { Env } from '../env';
 import { audit, db } from '../lib/db';
 import { newId, nowIso } from '../lib/ids';
 import { adapterFor } from '../adapters/registry';
+import { channelToken } from '../lib/channels';
 import type { ChannelRecord, PillarRecord, PostRecord } from '../lib/types';
 import type { Job } from '../queue/jobs';
 import type { MetricsSnapshot } from '../adapters/types';
@@ -60,7 +61,7 @@ export async function handleMetricsCollect(
   if (!channel || channel.status !== 'connected') return;
 
   const snapshot = await adapterFor(env, channel.platform).fetchMetrics(
-    channel.access_token ?? '',
+    await channelToken(env, channel),
     post.external_post_id,
   );
 
