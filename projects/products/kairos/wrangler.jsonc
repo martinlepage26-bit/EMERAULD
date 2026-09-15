@@ -22,9 +22,11 @@
   },
   "d1_databases": [
     {
+      // Binding stays "DB": the code reads env.DB. Wrangler's create output
+      // suggests naming the binding after the database, which would break it.
       "binding": "DB",
       "database_name": "kairos",
-      "database_id": "REPLACE_WITH_D1_ID",
+      "database_id": "c3d0eda8-7f7d-4db9-b47f-68a7f52d8bc8",
       "migrations_dir": "migrations"
     }
   ],
