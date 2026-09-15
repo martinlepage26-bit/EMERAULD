@@ -4,8 +4,10 @@ import type { AppBindings } from '../env';
 import { audit, db } from '../lib/db';
 import { newId, newReferralCode, nowIso } from '../lib/ids';
 import { issueApiKey, requireAuth } from '../lib/auth';
-import { badRequest, conflict, notFound } from '../lib/errors';
+import { badRequest, conflict, notFound, tooManyRequests } from '../lib/errors';
+import { rateLimit, clientKey } from '../lib/rate-limit';
 import { controlsFor } from '../lib/governance';
+import { encryptSecret } from '../lib/crypto';
 import { isSupportedPlatform, hasLiveAdapter } from '../adapters/registry';
 import { PLANS, type AccountRecord } from '../lib/types';
 import { enqueue } from '../queue/jobs';
@@ -25,6 +27,15 @@ const signupSchema = z.object({
  * unattended publishing after they have seen what the system drafts.
  */
 accounts.post('/v1/accounts', async (c) => {
+  // Unauthenticated and write-heavy: it inserts rows and mints an API key, so
+  // it is throttled by source IP before any work happens.
+  const limit = await rateLimit(c.env, `signup:${clientKey(c.req.raw)}`, 5, 3600);
+  if (!limit.allowed) {
+    throw tooManyRequests(
+      `Too many signups from this address. Try again in ${limit.resetSeconds} seconds.`,
+    );
+  }
+
   const parsed = signupSchema.safeParse(await c.req.json().catch(() => ({})));
   if (!parsed.success) throw badRequest('Invalid signup payload', parsed.error.issues);
   const input = parsed.data;
@@ -249,6 +260,9 @@ accounts.post('/v1/channels', async (c) => {
 
   const id = newId('chan');
   const now = nowIso();
+  // Encrypted before it touches the database: a plaintext token in a D1 row is
+  // a standing authorization to post as this creator.
+  const storedToken = input.accessToken ? await encryptSecret(c.env, input.accessToken) : null;
   await db(c.env).run(
     `INSERT INTO channels
        (id, account_id, platform, handle, external_id, access_token, status,
@@ -259,7 +273,7 @@ accounts.post('/v1/channels', async (c) => {
     input.platform,
     input.handle,
     input.externalId ?? null,
-    input.accessToken ?? null,
+    storedToken,
     input.postsPerWeek,
     now,
     now,

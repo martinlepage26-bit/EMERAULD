@@ -3,6 +3,7 @@ import { audit, db, meter } from '../lib/db';
 import { newId, nowIso } from '../lib/ids';
 import { canAutoReply } from '../lib/governance';
 import { adapterFor } from '../adapters/registry';
+import { channelToken } from '../lib/channels';
 import type { ChannelRecord, ConversationRecord } from '../lib/types';
 import { REPLY_SCHEMA, TRIAGE_SCHEMA, replyPrompt, strategySystem, triagePrompt } from '../ai/prompts';
 import { generateJson, loadCreator, recordUsage, OPERATOR_SYSTEM_REF } from './shared';
@@ -65,7 +66,7 @@ export async function handleInboxSync(
 
   const since = new Date(Date.now() - 3600_000).toISOString();
   const inbound = await adapterFor(env, channel.platform).fetchInbound(
-    channel.access_token ?? '',
+    await channelToken(env, channel),
     since,
   );
 
@@ -328,7 +329,7 @@ export async function handleReplySend(
   const sent = await adapterFor(env, channel.platform).sendReply({
     threadId: convo.platform_thread_id,
     body: draft.body,
-    accessToken: channel.access_token ?? '',
+    accessToken: await channelToken(env, channel),
   });
 
   const now = nowIso();

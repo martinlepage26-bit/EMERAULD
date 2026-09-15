@@ -4,3 +4,8 @@ STRIPE_SECRET_KEY=sk_test_...
 STRIPE_WEBHOOK_SECRET=whsec_...
 # Signs admin/session tokens issued by the API.
 AUTH_SIGNING_KEY=generate-a-32-byte-random-string
+# Encrypts creator platform access tokens at rest (AES-GCM). At least 32 chars.
+# Rotating this makes every stored channel token undecryptable, so creators
+# would have to reconnect their accounts. Generate with:
+#   openssl rand -base64 32
+TOKEN_ENCRYPTION_KEY=generate-a-32-byte-random-string

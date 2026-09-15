@@ -66,6 +66,22 @@ The rollback path is that nothing is destructive. A blocked publish holds the po
 
 Two policies are enforced in code rather than in prompts, because a prompt is a request and a gate is a guarantee. The banned-phrase list is checked after generation, and `governance.ts` refuses to auto-send replies on lead, collaboration, and hostile threads no matter what the per-intent rules table says. The rules table can tighten policy and never loosen it past that floor.
 
+## Secrets at rest
+
+A creator's channel access token is the highest-value data in the system: one of them is a standing authorization to post as that person. Tokens are encrypted with AES-GCM before they reach D1, under a key held in the `TOKEN_ENCRYPTION_KEY` secret and never written to the database, so a leaked backup or a console session yields ciphertext.
+
+There is exactly one decrypt path, `channelToken()` in `src/lib/channels.ts`, and every engine goes through it. A direct read of `channel.access_token` would hand ciphertext to a platform API and surface as a confusing 401 rather than an obvious bug, so the helper is the only sanctioned access.
+
+Two decisions worth naming. A decrypt failure throws instead of returning an empty token, because a wrong key is an operator problem that should be loud. And a value without the `v1:` prefix is passed through unchanged, so a database written before encryption existed keeps working; `needsReencryption()` flags those rows rather than letting them sit undetected.
+
+This section exists because the original schema comment claimed tokens were "encrypted at rest by the platform adapter layer" while nothing in the codebase encrypted anything. That is precisely the failure this document warns about elsewhere: a control that exists only as a comment is not a control.
+
+## Media and capability URLs
+
+`GET /media/:key` serves post attachments from R2, unauthenticated, because the platforms fetch these URLs from their own infrastructure and carry none of our credentials. Access control is the unguessability of the key, the same capability-URL model a CDN uses.
+
+That model has two consequences that have to be stated rather than assumed: anyone holding the URL can fetch the object for as long as it exists, and keys must never be derived from user-supplied text or they stop being unguessable.
+
 ## Failure handling
 
 The distinction that matters is retryable against permanent. A rate limit, a connection failure, or a 5xx becomes a `RetryableError` and gets exponential backoff with jitter. A malformed request or a missing record fails immediately and lands in the dead-letter state, because retrying a 400 five times is five identical failures and a delay before anyone notices.
@@ -78,7 +94,7 @@ D1 has no row-level security. Account isolation is a property of the `Db.scoped(
 
 ## Testing approach
 
-Tests run against real SQLite through a D1-shaped shim, executing the actual migration and the actual statements. Queue claiming, backoff, idempotency, and the governance gates all depend on real SQL behaviour such as conditional update row counts and unique-index conflicts. Mocking those would prove only that the mocks agree with themselves.
+42 tests run against real SQLite through a D1-shaped shim, executing the actual migration and the actual statements. Queue claiming, backoff, idempotency, and the governance gates all depend on real SQL behaviour such as conditional update row counts and unique-index conflicts. Mocking those would prove only that the mocks agree with themselves.
 
 The suite caught one real design property while being written: the test for daily publish caps initially inserted two slots at the same timestamp on one channel and failed on the uniqueness index, which was the index correctly refusing to double-book a channel.
 
@@ -87,7 +103,7 @@ The suite caught one real design property while being written: the test for dail
 ```bash
 npm install
 npm run check          # typecheck source and tests
-npm test               # 30 tests against real SQLite
+npm test               # 42 tests against real SQLite
 npm run db:local       # apply migrations to local D1
 npm run dev            # wrangler dev on port 8789
 ```

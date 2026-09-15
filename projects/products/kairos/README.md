@@ -25,12 +25,14 @@ Cloudflare Workers, D1, R2, KV. Hono for routing, Zod for validation, the Anthro
 ```bash
 npm install
 npm run check     # typecheck source and tests
-npm test          # 30 tests against real SQLite via a D1 shim
+npm test          # 42 tests against real SQLite via a D1 shim
 npm run db:local  # apply migrations
 npm run dev       # http://localhost:8789
 ```
 
 `DRY_RUN` defaults to `true`, so the whole pipeline runs end to end with simulated platform calls. Nothing is posted anywhere until you set it to `false` and connect real credentials.
+
+Copy `.dev.vars.example` to `.dev.vars` first. `TOKEN_ENCRYPTION_KEY` is required before any channel can be connected: creator access tokens are encrypted with it before they reach the database, and rotating it makes existing tokens undecryptable.
 
 ```bash
 # Create an account and keep the returned API key
@@ -65,6 +67,7 @@ curl localhost:8789/v1/calendar -H "authorization: Bearer kai_sk_..."
 | `GET` | `/v1/plans` | Pricing |
 | `POST` | `/v1/billing/checkout` | Stripe checkout session |
 | `POST` | `/webhooks/stripe` | Signed webhook receiver |
+| `GET` | `/media/:key` | Serves post media to fetching platforms (capability URL) |
 | `GET` | `/health` | Queue depth and dead-letter count |
 
 ## Pricing
