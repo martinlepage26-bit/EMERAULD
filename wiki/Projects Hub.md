@@ -43,6 +43,7 @@ backlinks:
 - [[Scripto — Fisher King Project State]]
 - [[COMPASSai — Fisher King Project State]]
 - [[AurorA — Fisher King Project State]]
+- [[KAIROS — Creator Subscription Automation Platform]]
 
 ## Secondary recovery notes
 
@@ -51,6 +52,7 @@ backlinks:
 
 ## Recently updated
 
+- 2026-08-13 — Added [[KAIROS — Creator Subscription Automation Platform]], a creator content-automation SaaS built at `projects/products/kairos/` on the PHAROS Workers stack.
 - 2026-05-31 — Restored [[Fisher King Hub — Project Recovery Map]] and [[Healing the Fisher King — Percephal Diagnostic Protocol]] from the uploaded EMERAULD archive so the Percephal recovery map is reachable from the project hub.
 - 2026-05-07 — Corrected Fisher King pass around the major project set: [[PHAROS — Fisher King Project State]], [[HELIX — Fisher King Project State]], [[Second Brain — Fisher King Project State]], [[Second Self — Fisher King Project State]], and [[Papers — Fisher King Project State]].
 - 2026-05-07 — Added second-ring major systems to the Fisher King map: [[LOTUS — Fisher King Project State]], [[GAIA — Fisher King Project State]], [[Dr. Sort — Fisher King Project State]], [[Echo — Fisher King Project State]], and [[Scripto — Fisher King Project State]].

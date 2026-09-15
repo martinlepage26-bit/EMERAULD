@@ -1,0 +1,11 @@
+{
+  // Tests run on Node (node:sqlite backs the D1 shim), so they need Node types
+  // alongside the Worker types the source is written against.
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "types": ["@cloudflare/workers-types", "node"],
+    "module": "ESNext",
+    "moduleResolution": "bundler"
+  },
+  "include": ["src/**/*.ts", "test/**/*.ts"]
+}
