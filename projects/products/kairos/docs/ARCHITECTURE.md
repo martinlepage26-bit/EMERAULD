@@ -108,4 +108,4 @@ npm run db:local       # apply migrations to local D1
 npm run dev            # wrangler dev on port 8789
 ```
 
-`DRY_RUN` defaults to `true`, so every outbound platform call is simulated. The full pipeline runs end to end before any creator has connected an account. Simulated metrics are drawn from a seeded distribution rather than returned as zeros, because a growth engine fed constant zeros never demonstrates that it reweights.
+`DRY_RUN` defaults to `true`, so every outbound platform call is simulated. The full pipeline runs end to end before any creator has connected an account. Simulated metrics are drawn from a seeded distribution rather than returned as zeros, because a growth engine fed constant zeros never demonstrates that it reweights. Production runs with `DRY_RUN` `"false"` through the `env.production` block in `wrangler.jsonc`, deployed only via `wrangler deploy --env production` (`npm run deploy`).

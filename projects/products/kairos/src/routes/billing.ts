@@ -9,6 +9,56 @@ import { createCheckoutSession, handleStripeEvent, verifyStripeSignature } from 
 
 export const billing = new Hono<AppBindings>();
 
+/** Minimal page shell for the browser-facing Stripe return routes. */
+function page(title: string, body: string): string {
+  return `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>${title} — Kairos</title>
+<style>body{font-family:system-ui,sans-serif;max-width:36rem;margin:4rem auto;padding:0 1rem;color:#1a1a1a}h1{font-size:1.4rem}table{border-collapse:collapse}td,th{padding:.3rem .8rem;text-align:left;border-bottom:1px solid #ddd}</style>
+</head>
+<body><h1>${title}</h1>${body}</body>
+</html>`;
+}
+
+/**
+ * Stripe checkout return pages. Checkout redirects the customer's browser
+ * here, so both must exist and be unauthenticated. Entitlement is granted by
+ * the webhook, never by reaching this page — so the session_id query param is
+ * deliberately ignored and never reflected into the response.
+ */
+billing.get('/billing/done', (c) =>
+  c.html(
+    page(
+      'Payment received',
+      `<p>Your subscription payment went through. Your account is upgraded
+       automatically within a few moments — you can close this page and return
+       to the app.</p>`,
+    ),
+  ),
+);
+
+billing.get('/pricing', (c) => {
+  const rows = Object.values(PLANS)
+    .filter((p) => p.id !== 'trial')
+    .map(
+      (p) =>
+        `<tr><td>${p.name}</td><td>$${p.monthlyPriceUsd}/mo</td>` +
+        `<td>${p.channels} channels, ${p.postsPerMonth} posts, ${p.repliesPerMonth} replies</td></tr>`,
+    )
+    .join('');
+  return c.html(
+    page(
+      'Plans',
+      `<p>Checkout was canceled — nothing was charged. Start a new checkout
+       from the app whenever you are ready.</p>
+       <table><tr><th>Plan</th><th>Price</th><th>Includes</th></tr>${rows}</table>`,
+    ),
+  );
+});
+
 billing.get('/v1/plans', (c) =>
   c.json({
     plans: Object.values(PLANS)

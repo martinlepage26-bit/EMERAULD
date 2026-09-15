@@ -7,6 +7,12 @@
   "observability": {
     "enabled": true
   },
+  // Top level is the safe development default: every outbound platform call is
+  // simulated and PUBLIC_BASE_URL points at wrangler dev. Live values exist
+  // only under env.production and deploy via `npm run deploy`
+  // (`wrangler deploy --env production`). A bare `wrangler deploy` would ship
+  // these dev vars to the same "kairos" Worker — always deploy through the
+  // npm script.
   "vars": {
     "ENVIRONMENT": "development",
     // Drafting model. Opus 5 is the default; the operator may set a different
@@ -18,7 +24,7 @@
     "DRY_RUN": "true",
     // Queue drain sizing per cron tick.
     "JOB_BATCH_SIZE": "25",
-    "PUBLIC_BASE_URL": "https://kairos.example.com"
+    "PUBLIC_BASE_URL": "http://localhost:8789"
   },
   "d1_databases": [
     {
@@ -46,6 +52,8 @@
       "id": "938c54e8c6f84f039db3559f1a81f29d"
     }
   ],
+  // Triggers and observability are inheritable keys: env.production gets these
+  // same crons without redeclaring them.
   "triggers": {
     "crons": [
       // Drain the durable job queue.
@@ -59,5 +67,47 @@
       // Daily 06:20 UTC: subscription reconciliation and dunning.
       "20 6 * * *"
     ]
+  },
+  "env": {
+    "production": {
+      // Same name as the top level on purpose: production deploys target the
+      // existing "kairos" Worker, keeping its workers.dev URL and the secrets
+      // already uploaded to it (a nameless env would deploy a separate
+      // "kairos-production" Worker with neither).
+      "name": "kairos",
+      // vars and bindings are non-inheritable, so everything the Worker reads
+      // must be restated here in full.
+      "vars": {
+        "ENVIRONMENT": "production",
+        "DRAFT_MODEL": "claude-opus-5",
+        "STRATEGY_MODEL": "claude-opus-5",
+        // Live outbound platform calls.
+        "DRY_RUN": "false",
+        "JOB_BATCH_SIZE": "25",
+        // Stripe checkout return pages and published media URLs are built on
+        // this origin, so it must be a domain this Worker actually serves.
+        "PUBLIC_BASE_URL": "https://kairos.martinlepage26.workers.dev"
+      },
+      "d1_databases": [
+        {
+          "binding": "DB",
+          "database_name": "kairos",
+          "database_id": "c3d0eda8-7f7d-4db9-b47f-68a7f52d8bc8",
+          "migrations_dir": "migrations"
+        }
+      ],
+      "r2_buckets": [
+        {
+          "binding": "MEDIA",
+          "bucket_name": "kairos-media"
+        }
+      ],
+      "kv_namespaces": [
+        {
+          "binding": "CACHE",
+          "id": "938c54e8c6f84f039db3559f1a81f29d"
+        }
+      ]
+    }
   }
 }

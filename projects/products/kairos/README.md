@@ -30,7 +30,7 @@ npm run db:local  # apply migrations
 npm run dev       # http://localhost:8789
 ```
 
-`DRY_RUN` defaults to `true`, so the whole pipeline runs end to end with simulated platform calls. Nothing is posted anywhere until you set it to `false` and connect real credentials.
+`DRY_RUN` defaults to `true`, so the whole pipeline runs end to end with simulated platform calls. Nothing is posted anywhere from local dev. Live posting exists only in the `production` wrangler environment (`env.production` in `wrangler.jsonc` sets `DRY_RUN` to `"false"`), which deploys via `npm run deploy` (`wrangler deploy --env production`).
 
 Copy `.dev.vars.example` to `.dev.vars` first. `TOKEN_ENCRYPTION_KEY` is required before any channel can be connected: creator access tokens are encrypted with it before they reach the database, and rotating it makes existing tokens undecryptable.
 
