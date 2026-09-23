@@ -1,11 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import { useCallback, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { LayoutDashboard, Calendar, Inbox, FileText, BarChart, LogOut } from "lucide-react";
-
-const STORAGE_KEY = "kairos_api_key";
-const API_BASE = "https://kairos.govern-ai.ca";
+import { clearKey, storeKey, storedKey, verifyKey } from "@/lib/api";
 
 /**
  * The key lives only in this browser's localStorage. It is never read from a
@@ -20,37 +18,30 @@ type Gate =
 export default function DashboardLayout({ children }: { children: React.ReactNode }) {
   const [gate, setGate] = useState<Gate>({ state: "checking" });
 
-  const verify = useCallback(async (key: string): Promise<boolean> => {
-    try {
-      const res = await fetch(`${API_BASE}/v1/me`, {
-        headers: { Authorization: `Bearer ${key}` },
-      });
-      return res.ok;
-    } catch {
-      return false;
-    }
-  }, []);
-
   useEffect(() => {
-    const stored = localStorage.getItem(STORAGE_KEY);
-    if (!stored) {
-      setGate({ state: "locked" });
-      return;
-    }
-    // A stored key can be revoked server-side, so it is checked on every mount
-    // rather than trusted because it is present.
-    verify(stored).then((ok) => {
+    // localStorage is unreachable during prerender, so the gate resolves on the
+    // client. A stored key can also be revoked server-side, so it is checked on
+    // every mount rather than trusted because it is present. Both branches
+    // settle in a callback, never synchronously in the effect body.
+    const stored = storedKey();
+    const check = stored ? verifyKey(stored) : Promise.resolve(false);
+
+    check.then((ok) => {
       if (ok) {
         setGate({ state: "open" });
-      } else {
-        localStorage.removeItem(STORAGE_KEY);
+        return;
+      }
+      if (stored) {
+        clearKey();
         setGate({ state: "locked", error: "That key is no longer valid. Enter a current one." });
+      } else {
+        setGate({ state: "locked" });
       }
     });
-  }, [verify]);
+  }, []);
 
   const disconnect = () => {
-    localStorage.removeItem(STORAGE_KEY);
+    clearKey();
     setGate({ state: "locked" });
   };
 
@@ -63,7 +54,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
   }
 
   if (gate.state === "locked") {
-    return <KeyGate error={gate.error} verify={verify} onUnlocked={() => setGate({ state: "open" })} />;
+    return <KeyGate error={gate.error} onUnlocked={() => setGate({ state: "open" })} />;
   }
 
   return (
@@ -103,15 +94,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
   );
 }
 
-function KeyGate({
-  error,
-  verify,
-  onUnlocked,
-}: {
-  error?: string;
-  verify: (key: string) => Promise<boolean>;
-  onUnlocked: () => void;
-}) {
+function KeyGate({ error, onUnlocked }: { error?: string; onUnlocked: () => void }) {
   const [value, setValue] = useState("");
   const [checking, setChecking] = useState(false);
   const [message, setMessage] = useState(error);
@@ -123,14 +106,14 @@ function KeyGate({
 
     setChecking(true);
     setMessage(undefined);
-    const ok = await verify(key);
+    const ok = await verifyKey(key);
     setChecking(false);
 
     if (!ok) {
       setMessage("That key was rejected. Check it and try again.");
       return;
     }
-    localStorage.setItem(STORAGE_KEY, key);
+    storeKey(key);
     onUnlocked();
   };
 

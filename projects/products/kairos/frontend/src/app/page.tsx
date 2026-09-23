@@ -1,9 +1,13 @@
 "use client";
 
 import Link from "next/link";
+import { useState } from "react";
 import { CheckCircle2, ArrowRight, BarChart3, Clock, MessageSquare, PenTool } from "lucide-react";
+import { SignupDialog } from "@/components/SignupDialog";
 
 export default function Home() {
+  const [signupPlan, setSignupPlan] = useState<{ id: string; name: string } | null>(null);
+
   return (
     <div className="flex flex-col min-h-screen">
       {/* Header */}
@@ -34,9 +38,12 @@ export default function Home() {
             A subscription platform that plans, publishes, and grows your audience without you scheduling posts or answering messages by hand.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <Link href="#pricing" className="bg-black text-white px-8 py-4 rounded-full font-medium hover:bg-gray-800 transition-colors flex items-center gap-2">
+            <button
+              onClick={() => setSignupPlan({ id: "solo", name: "Solo" })}
+              className="bg-black text-white px-8 py-4 rounded-full font-medium hover:bg-gray-800 transition-colors flex items-center gap-2"
+            >
               Start Free Trial <ArrowRight className="w-4 h-4" />
-            </Link>
+            </button>
           </div>
         </section>
 
@@ -88,13 +95,21 @@ export default function Home() {
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-            <PricingCard title="Solo" price="$49" channels={2} posts={60} replies={200} />
-            <PricingCard title="Pro" price="$149" channels={5} posts={200} replies={800} popular />
-            <PricingCard title="Studio" price="$399" channels={15} posts={700} replies={2000} />
-            <PricingCard title="Agency" price="$999" channels={50} posts={2000} replies={5000} />
+            <PricingCard title="Solo" price="$49" channels={2} posts={60} replies={200} onSelect={setSignupPlan} />
+            <PricingCard title="Pro" price="$149" channels={5} posts={200} replies={800} popular onSelect={setSignupPlan} />
+            <PricingCard title="Studio" price="$399" channels={15} posts={700} replies={2000} onSelect={setSignupPlan} />
+            <PricingCard title="Agency" price="$999" channels={50} posts={2000} replies={5000} onSelect={setSignupPlan} />
           </div>
         </section>
       </main>
+
+      {signupPlan && (
+        <SignupDialog
+          planId={signupPlan.id}
+          planName={signupPlan.name}
+          onClose={() => setSignupPlan(null)}
+        />
+      )}
 
       <footer className="border-t py-12 text-center text-gray-500 text-sm">
         <p>© {new Date().getFullYear()} Kairos. Built for the opportune moment.</p>
@@ -115,25 +130,23 @@ function FeatureCard({ icon, title, description }: { icon: React.ReactNode, titl
   );
 }
 
-function PricingCard({ title, price, channels, posts, replies, popular }: { title: string, price: string, channels: number, posts: number, replies: number, popular?: boolean }) {
-  const handleCheckout = async () => {
-    try {
-      const res = await fetch("https://kairos.govern-ai.ca/v1/billing/checkout", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ plan: title.toLowerCase() })
-      });
-      if (res.ok) {
-        const { url } = await res.json();
-        if (url) window.location.href = url;
-      } else {
-        alert("Checkout failed. Is the backend Stripe integration fully configured?");
-      }
-    } catch (e) {
-      console.error(e);
-    }
-  };
-
+function PricingCard({
+  title,
+  price,
+  channels,
+  posts,
+  replies,
+  popular,
+  onSelect,
+}: {
+  title: string;
+  price: string;
+  channels: number;
+  posts: number;
+  replies: number;
+  popular?: boolean;
+  onSelect: (plan: { id: string; name: string }) => void;
+}) {
   return (
     <div className={`p-8 rounded-3xl border flex flex-col ${popular ? 'border-black ring-1 ring-black shadow-lg relative' : 'border-gray-200 bg-white'}`}>
       {popular && (
@@ -157,8 +170,8 @@ function PricingCard({ title, price, channels, posts, replies, popular }: { titl
           <CheckCircle2 className="w-5 h-5 text-green-500 shrink-0" /> {replies} Auto-replies/mo
         </li>
       </ul>
-      <button 
-        onClick={handleCheckout}
+      <button
+        onClick={() => onSelect({ id: title.toLowerCase(), name: title })}
         className={`w-full py-3 rounded-xl font-medium transition-colors ${popular ? 'bg-black text-white hover:bg-gray-800' : 'bg-gray-100 text-gray-900 hover:bg-gray-200'}`}>
         Select {title}
       </button>

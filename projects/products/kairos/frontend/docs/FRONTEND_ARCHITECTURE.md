@@ -8,11 +8,16 @@ The application is built using the **Next.js App Router** (version 16.3.5) with 
 
 ```text
 src/
+├── lib/
+│   └── api.ts             # API origin, key storage, authed fetch, error type
+├── components/
+│   ├── SignupDialog.tsx   # Account creation, key reveal, checkout handoff
+│   └── LoadState.tsx      # Shared error, empty, and loading states
 └── app/
     ├── layout.tsx         # Root HTML/Body structure and font definitions
     ├── page.tsx           # Public-facing landing page
-    └── dashboard/         # Protected/Admin dashboard area
-        ├── layout.tsx     # Dashboard shell (Sidebar & Main content)
+    └── dashboard/         # Key-gated dashboard area
+        ├── layout.tsx     # Key gate + shell (Sidebar & Main content)
         ├── page.tsx       # Dashboard overview page
         ├── calendar/      # Calendar view
         ├── inbox/         # Inbox view
@@ -26,7 +31,7 @@ The application's layouts are split between the root and the dashboard:
 
 - **Root Layout (`src/app/layout.tsx`)**: Establishes the `<html>` and `<body>` tags, sets up the antialiasing, and injects the "Geist" custom fonts (`Geist_Sans` and `Geist_Mono`). It applies standard full-height Tailwind utility classes.
 - **Dashboard Layout (`src/app/dashboard/layout.tsx`)**: This acts as the shell for the application's core functionality. It consists of:
-  - **Sidebar (`<aside>`)**: A 64-width left navigation pane containing links to Overview, Calendar, Posts & Drafts, Inbox, and Insights. It uses the `NavItem` component and Lucide React icons. It clearly displays an "Admin Bypass Enabled" indicator at the bottom.
+  - **Sidebar (`<aside>`)**: A 64-width left navigation pane containing links to Overview, Calendar, Posts & Drafts, Inbox, and Insights. It uses the `NavItem` component and Lucide React icons, and offers a "Disconnect this browser" action at the bottom that clears the stored key.
   - **Main Content (`<main>`)**: A flex-1 container that wraps the specific dashboard sub-route pages in a centered, max-width layout.
 
 ## 3. Core Components
@@ -35,18 +40,50 @@ The UI relies heavily on lightweight functional components defined locally withi
 
 - **`NavItem`**: Located in `dashboard/layout.tsx`, this component renders sidebar links with consistent padding, hover states, and icons.
 - **`StatCard`**: Located in `dashboard/page.tsx`, this component renders a simple white card displaying a title and a prominent value (used for metrics like "Connected Channels", "Plan", and "Account Status").
+- **`LoadError` / `EmptyState` / `Loading`** (`components/LoadState.tsx`): Every page previously swallowed fetch failures into `console.error` and rendered its empty state, so a broken API was indistinguishable from an account with no data. These separate the two.
+- **`SignupDialog`** (`components/SignupDialog.tsx`): Drives account creation from the landing page. See §6.
 - **Icons**: The application uses `lucide-react` for consistent SVG iconography (e.g., `LayoutDashboard`, `Calendar`, `Play`, `Pause`).
 
 ## 4. Backend Integration
 
-The frontend communicates with the Kairos backend (hosted at `https://kairos.govern-ai.ca`) primarily via client-side fetch requests.
+All API access goes through `src/lib/api.ts`. The origin was previously pasted
+into six components, and when the Worker moved off its workers.dev hostname
+every one of them had to be found by hand.
 
-### Data Fetching Mechanism
-In `src/app/dashboard/page.tsx`, data fetching is handled within a standard `useEffect` hook:
-1. It retrieves the `kairos_api_key` from the browser's `localStorage`.
-2. A `fetch` request is sent to `https://kairos.govern-ai.ca/v1/me`.
-3. The request includes the authorization header: `Authorization: Bearer <key>`.
-4. The retrieved JSON payload controls the UI state, displaying the user's plan, channel count, account status, and whether the automated system "Autopilot" is active or paused.
+- `API_BASE` — `NEXT_PUBLIC_API_BASE` if set, else `https://kairos.govern-ai.ca`.
+  Point it at a local Worker for development; see `.env.example`.
+- `authedFetch(path)` — attaches `Authorization: Bearer <stored key>`.
+- `apiFetch(path)` — unauthenticated, used by signup which mints the key.
+- `ApiError` — carries the Worker's `{ error: { code, message } }` envelope, so
+  pages can distinguish a revoked key (401) from a genuine empty result.
+
+### Response shapes
+
+The dashboard reads these exact keys. They are worth stating because an earlier
+version read `post.content`, `data.messages`, `hours_saved`, `account.plan_id`
+and `controls.autopilot`, none of which the API returns, so every page rendered
+placeholder or empty content regardless of the account's real state.
+
+| Endpoint | Returns |
+|---|---|
+| `GET /v1/me` | `{ account: { plan, status, trial_ends_at, … }, plan: PlanDefinition, controls: { autopilot_publishing, autopilot_replies, paused_until, daily_*_cap }, channels: [] }` |
+| `GET /v1/calendar` | `{ slots: [{ id, scheduled_for, status, platform, handle, pillar, hook, … }] }` |
+| `GET /v1/posts?status=` | `{ posts: [{ id, hook, body, status, variant, platform, … }] }` |
+| `GET /v1/inbox` | `{ conversations: [{ id, author_handle, intent, priority, status, latest_message, pending_draft_id, … }] }` |
+| `GET /v1/insights` | `{ window, totals, pillars: [{ name, weight, posts, avg_score }], usage: { postsPublished, repliesSent, planLimits }, hoursSaved: { hours, basis } }` |
+
+Autopilot is two independent flags (`autopilot_publishing`, `autopilot_replies`),
+not one boolean, and slot/post statuses come from `migrations/0001_init.sql`:
+slots are `planned|drafting|ready|approved|publishing|published|failed|skipped`
+and posts are `draft|approved|publishing|published|failed|rejected`.
+
+### CORS
+
+The dashboard runs on its own origin, so every call is cross-origin. The Worker
+answers preflights from origins listed in its `DASHBOARD_ORIGINS` var, ahead of
+auth — an `OPTIONS` carries no `Authorization` header by definition, so routing
+it through auth would 401 the preflight and the browser would never send the
+real request. An unlisted origin gets no CORS headers at all.
 
 ## 5. Authentication
 
@@ -76,3 +113,36 @@ An earlier version read `NEXT_PUBLIC_ADMIN_API_KEY` at build time and seeded
 into the client bundle, so that build would have shipped a working
 account key to every visitor. Do not reintroduce a key through the environment.
 The key belongs in the browser that typed it, and nowhere in the build output.
+
+## 6. Signup and checkout
+
+`POST /v1/billing/checkout` requires a bearer key, and a visitor has none until
+an account exists, so signup is the first half of checkout rather than a
+separate flow. `SignupDialog` runs it in order:
+
+1. `POST /v1/accounts` with email, display name, and the browser's resolved
+   timezone. A 14-day trial starts immediately with autopilot off.
+2. The response carries the API key **once** — the Worker stores only a SHA-256
+   digest and cannot return it again. The dialog shows it with a copy button and
+   says so plainly before offering to continue.
+3. `POST /v1/billing/checkout` with `{ priceLookupKey: "kairos_<plan>_monthly" }`
+   and the new key, then redirects to the returned Stripe URL.
+
+An earlier version posted `{ plan: "pro" }` with no `Authorization` header, so
+every pricing button failed twice over: 401 from the auth middleware, and 400
+from the payload schema had it ever got past. Failures now render inline; the
+page raises no `alert()`.
+
+## 7. Testing
+
+`npm test` runs Jest with jsdom. Coverage is on the logic that can silently
+ship a credential or silently show the wrong thing:
+
+- `src/lib/__tests__/api.test.ts` — key storage, the error envelope, bearer
+  attachment, the no-key short circuit, `verifyKey` returning false rather than
+  throwing when the request cannot be made at all (the CORS and offline case),
+  and the checkout payload shape.
+- `src/app/dashboard/__tests__/layout.test.tsx` — the gate: children never
+  render before a key verifies, a key is never read from the build environment,
+  a revoked key is cleared and explained, a rejected key is not written to
+  storage, and disconnect closes the dashboard.

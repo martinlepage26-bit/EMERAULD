@@ -1,21 +1,42 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { format, addDays } from "date-fns";
+import { format, addDays, isSameDay, parseISO } from "date-fns";
+import { authedFetch } from "@/lib/api";
+import { LoadError, Loading } from "@/components/LoadState";
+
+interface Slot {
+  id: string;
+  scheduled_for: string;
+  status: string;
+  platform: string;
+  handle: string;
+  pillar: string;
+  post_id: string | null;
+  hook: string | null;
+  post_status: string | null;
+}
+
+// Mirrors the slot statuses in migrations/0001_init.sql.
+const STATUS_STYLES: Record<string, string> = {
+  planned: "bg-gray-50 text-gray-600 border-gray-200",
+  drafting: "bg-gray-50 text-gray-600 border-gray-200",
+  ready: "bg-blue-50 text-blue-700 border-blue-200",
+  approved: "bg-emerald-50 text-emerald-700 border-emerald-200",
+  publishing: "bg-emerald-50 text-emerald-700 border-emerald-200",
+  published: "bg-green-50 text-green-700 border-green-200",
+  failed: "bg-red-50 text-red-700 border-red-200",
+  skipped: "bg-gray-50 text-gray-400 border-gray-200 line-through",
+};
 
 export default function CalendarPage() {
-  const [data, setData] = useState<any>(null);
-  
+  const [slots, setSlots] = useState<Slot[] | null>(null);
+  const [error, setError] = useState<Error | null>(null);
+
   useEffect(() => {
-    const key = localStorage.getItem("kairos_api_key");
-    if (key) {
-      fetch("https://kairos.govern-ai.ca/v1/calendar", {
-        headers: { Authorization: `Bearer ${key}` }
-      })
-      .then(r => r.json())
-      .then(setData)
-      .catch(console.error);
-    }
+    authedFetch<{ slots: Slot[] }>("/v1/calendar")
+      .then((r) => setSlots(r.slots ?? []))
+      .catch(setError);
   }, []);
 
   const today = new Date();
@@ -24,17 +45,50 @@ export default function CalendarPage() {
   return (
     <div>
       <h1 className="text-3xl font-bold mb-8">Content Calendar (14 Days)</h1>
-      <p className="text-gray-500 mb-8">The system automatically plans your content across pillars based on measured performance.</p>
+      <p className="text-gray-500 mb-8">
+        The system plans across your pillars by measured performance rather than guesswork.
+      </p>
 
-      <div className="grid grid-cols-7 gap-4">
-        {days.map((day, i) => (
-          <div key={i} className="bg-white border rounded-xl p-4 min-h-[120px]">
-            <div className="text-sm font-medium text-gray-400 mb-2">{format(day, "MMM d")}</div>
-            {/* We would render slots here based on data */}
-            {i % 3 === 0 && <div className="mt-2 text-xs bg-blue-50 text-blue-700 border border-blue-200 px-2 py-1 rounded">Planned Post</div>}
+      {error ? (
+        <LoadError error={error} />
+      ) : slots === null ? (
+        <Loading />
+      ) : (
+        <>
+          <div className="grid grid-cols-7 gap-4">
+            {days.map((day) => {
+              // Slot times are ISO strings from the API; compare by local day.
+              const forDay = slots.filter((s) => isSameDay(parseISO(s.scheduled_for), day));
+              return (
+                <div key={day.toISOString()} className="bg-white border rounded-xl p-4 min-h-[120px]">
+                  <div className="text-sm font-medium text-gray-400 mb-2">{format(day, "MMM d")}</div>
+                  <div className="space-y-1">
+                    {forDay.map((slot) => (
+                      <div
+                        key={slot.id}
+                        title={slot.hook ?? `${slot.pillar} · ${slot.handle}`}
+                        className={`text-xs border px-2 py-1 rounded truncate ${
+                          STATUS_STYLES[slot.status] ?? STATUS_STYLES.planned
+                        }`}
+                      >
+                        <span className="font-medium">{format(parseISO(slot.scheduled_for), "HH:mm")}</span>{" "}
+                        {slot.hook ?? slot.pillar}
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              );
+            })}
           </div>
-        ))}
-      </div>
+
+          {slots.length === 0 && (
+            <p className="text-sm text-gray-500 mt-6">
+              Nothing planned yet. The planner runs daily at 05:10 UTC, and connecting your first
+              channel triggers it immediately.
+            </p>
+          )}
+        </>
+      )}
     </div>
   );
 }

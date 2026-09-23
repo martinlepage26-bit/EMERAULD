@@ -20,6 +20,8 @@ Autopilot is off by default. Every loop checks a per-account stop condition, dai
 
 Cloudflare Workers, D1, R2, KV. Hono for routing, Zod for validation, the Anthropic TypeScript SDK for generation, Stripe for subscriptions. One Worker, five cron triggers, no server.
 
+The operator dashboard is a separate Next.js app in `frontend/`, not yet deployed. It authenticates with the same `kai_sk_` API key the Worker issues at signup, held in the browser that typed it. Because it runs on its own origin, the Worker must list that origin in `DASHBOARD_ORIGINS` or the browser blocks every request.
+
 ## Quick start
 
 ```bash
