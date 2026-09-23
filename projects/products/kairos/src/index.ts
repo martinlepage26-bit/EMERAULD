@@ -41,7 +41,11 @@ app.use('*', (c, next) =>
     origin: (origin) => (dashboardOrigins(c.env).includes(origin) ? origin : null),
     allowMethods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
     allowHeaders: ['authorization', 'content-type'],
-    maxAge: 86400,
+    // An hour, not a day. Preflight responses are cached per origin (note the
+    // Vary), so a change to DASHBOARD_ORIGINS is invisible to anything holding
+    // a cached preflight. A long max-age turns an allowlist edit into a
+    // day-long mystery; this bounds that to an hour.
+    maxAge: 3600,
   })(c, next),
 );
 

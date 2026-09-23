@@ -5,6 +5,10 @@
   // vars. It creates a harmless "kairos-dev" Worker instead. Production is the
   // env.production block below, deployed via `npm run deploy`.
   "name": "kairos-dev",
+  // These credentials can see two accounts, so a bare deploy cannot pick one
+  // non-interactively. This is the account the kairos Worker and the
+  // kairos-dashboard Pages project both live in.
+  "account_id": "1713c51cc6fbcf8d7143526b93495b76",
   "main": "src/index.ts",
   "compatibility_date": "2026-04-27",
   "compatibility_flags": ["nodejs_compat"],
@@ -32,7 +36,8 @@
     // Browser origins allowed to call this API cross-origin. The dashboard is a
     // separate Next.js app on its own origin, so without a match here the
     // browser blocks every one of its requests. Empty means no cross-origin
-    // browser access at all.
+    // browser access at all. Dev lists the Next dev server, which talks to this
+    // block via NEXT_PUBLIC_API_BASE (see frontend/.env.example).
     "DASHBOARD_ORIGINS": "http://localhost:3000"
   },
   "d1_databases": [
@@ -96,11 +101,12 @@
         // Stripe checkout return pages and published media URLs are built on
         // this origin, so it must be a domain this Worker actually serves.
         "PUBLIC_BASE_URL": "https://kairos.govern-ai.ca",
-        // The dashboard is not deployed yet and runs from `next dev`, which is
-        // why localhost is listed against the live API. Requests still need a
-        // valid bearer key, so this widens no privilege on its own. Add the
-        // dashboard's real origin here when it ships, and drop localhost then.
-        "DASHBOARD_ORIGINS": "http://localhost:3000"
+        // The deployed dashboard's canonical origin, and only that. Matching is
+        // exact, so per-deployment Pages preview URLs (<hash>.kairos-dashboard
+        // -dy4.pages.dev) are not admitted; add one here to test a preview
+        // against live data. localhost is deliberately absent: local work runs
+        // against a local Worker via NEXT_PUBLIC_API_BASE.
+        "DASHBOARD_ORIGINS": "https://kairos-dashboard-dy4.pages.dev"
       },
       "routes": [
         {

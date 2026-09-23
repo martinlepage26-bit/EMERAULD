@@ -53,6 +53,22 @@ describe('wrangler config safety', () => {
     expect(prod.vars.PUBLIC_BASE_URL).not.toMatch(/example\.com|localhost/);
   });
 
+  it('production CORS names the deployed dashboard, not a dev server', () => {
+    // The dashboard is a separate origin, so an empty or localhost-only list
+    // here means the browser blocks every request the live dashboard makes.
+    const raw = prod.vars.DASHBOARD_ORIGINS;
+    expect(raw).toBeDefined();
+
+    const origins = (raw as string).split(',').map((o) => o.trim()).filter(Boolean);
+    expect(origins.length).toBeGreaterThan(0);
+    for (const origin of origins) {
+      expect(origin).toMatch(/^https:\/\//);
+      expect(origin).not.toMatch(/localhost|127\.0\.0\.1/);
+      // A trailing slash never matches a browser Origin header.
+      expect(origin).not.toMatch(/\/$/);
+    }
+  });
+
   it('vars exist in both blocks with the same keys', () => {
     expect(Object.keys(prod.vars).sort()).toEqual(Object.keys(cfg.vars).sort());
   });

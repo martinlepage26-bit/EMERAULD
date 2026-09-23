@@ -146,3 +146,34 @@ ship a credential or silently show the wrong thing:
   render before a key verifies, a key is never read from the build environment,
   a revoked key is cleared and explained, a rejected key is not written to
   storage, and disconnect closes the dashboard.
+
+## 8. Deployment
+
+The dashboard is a **static export** (`output: "export"` in `next.config.ts`).
+Every route is a client component fetching the Worker API at runtime, so there
+is nothing for a Next server to do and `next build` emits plain assets to
+`out/`. `trailingSlash: true` makes Pages serve `/dashboard/` from
+`dashboard/index.html`; without it nested routes resolve inconsistently.
+
+```bash
+npm run deploy   # next build && wrangler pages deploy out --project-name=kairos-dashboard --branch=main
+```
+
+- Cloudflare Pages project: `kairos-dashboard`
+- Production origin: **https://kairos-dashboard-dy4.pages.dev**
+- Account: `1713c51cc6fbcf8d7143526b93495b76`, the same one the Worker is in.
+  Pin it (`account_id` in `wrangler.jsonc`, or `CLOUDFLARE_ACCOUNT_ID`) because
+  these credentials can see two accounts and cannot choose non-interactively.
+
+### After changing the origin
+
+The Worker's `DASHBOARD_ORIGINS` must name this origin exactly, and a redeploy
+of the Worker is required for the change to take effect. Two gotchas:
+
+- Matching is exact. Per-deployment preview URLs
+  (`<hash>.kairos-dashboard-dy4.pages.dev`) are **not** admitted. Add one to
+  `DASHBOARD_ORIGINS` to test a preview against live data.
+- Preflight responses are cached per origin (`Vary: Origin`), so a stale cached
+  preflight can make a correct allowlist look broken. `max-age` is 1 hour, not
+  the usual day, to bound that. When verifying with curl, add a cache-busting
+  query param or you may be reading a cached answer.

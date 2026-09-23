@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "jest"
+    "test": "jest",
+    "deploy": "next build && wrangler pages deploy out --project-name=kairos-dashboard --branch=main"
   },
   "dependencies": {
     "date-fns": "^4.4.0",
@@ -32,6 +33,7 @@
     "jest-environment-jsdom": "^30.5.2",
     "tailwindcss": "^4",
     "ts-node": "^10.9.2",
-    "typescript": "^5"
+    "typescript": "^5",
+    "wrangler": "^4.85.0"
   }
 }
