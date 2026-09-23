@@ -68,7 +68,11 @@ describe('secret encryption', () => {
     const stored = await encryptSecret(h.env, 'token');
 
     const parts = stored.split(':');
-    const flipped = `${parts[0]}:${parts[1]}:${'A'}${(parts[2] as string).slice(1)}`;
+    const body = parts[2] as string;
+    // Substituting a fixed character tampers with nothing on the runs where the
+    // ciphertext already starts with it, so pick one the first byte is not.
+    const replacement = body.startsWith('A') ? 'B' : 'A';
+    const flipped = `${parts[0]}:${parts[1]}:${replacement}${body.slice(1)}`;
     await expect(decryptSecret(h.env, flipped)).rejects.toThrow();
   });
 

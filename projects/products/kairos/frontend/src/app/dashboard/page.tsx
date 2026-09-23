@@ -6,12 +6,11 @@ import { Play, Pause } from "lucide-react";
 export default function DashboardOverview() {
   const [data, setData] = useState<any>(null);
   const [loading, setLoading] = useState(true);
-  const [apiKey, setApiKey] = useState("");
 
+  // The layout gates on a verified key before this mounts, so the key is present.
   useEffect(() => {
     const key = localStorage.getItem("kairos_api_key");
     if (key) {
-      setApiKey(key);
       fetchData(key);
     } else {
       setLoading(false);
@@ -33,34 +32,6 @@ export default function DashboardOverview() {
     setLoading(false);
   };
 
-  if (!apiKey) {
-    return (
-      <div className="flex flex-col items-center justify-center h-[60vh]">
-        <h1 className="text-2xl font-bold mb-4">Admin Authentication</h1>
-        <p className="text-gray-500 mb-6">Enter your root API key to bypass the paywall and view your digital affairs.</p>
-        <div className="flex gap-2">
-          <input 
-            type="password" 
-            placeholder="kai_sk_..." 
-            className="border rounded-lg px-4 py-2 w-64"
-            id="apikey-input"
-          />
-          <button 
-            className="bg-black text-white px-4 py-2 rounded-lg font-medium"
-            onClick={() => {
-              const val = (document.getElementById("apikey-input") as HTMLInputElement).value;
-              localStorage.setItem("kairos_api_key", val);
-              setApiKey(val);
-              fetchData(val);
-            }}
-          >
-            Connect
-          </button>
-        </div>
-      </div>
-    );
-  }
-
   if (loading) return <div>Loading your digital affairs...</div>;
 
   return (
@@ -80,13 +51,13 @@ export default function DashboardOverview() {
 
       <div className="grid grid-cols-3 gap-6 mb-8">
         <StatCard title="Connected Channels" value={data?.channels?.length || 0} />
-        <StatCard title="Plan" value={data?.account?.plan_id || "Admin / Bypass"} />
+        <StatCard title="Plan" value={data?.account?.plan_id || "—"} />
         <StatCard title="Account Status" value={data?.account?.status || "Active"} />
       </div>
 
       <div className="bg-white p-6 rounded-2xl border shadow-sm mb-8">
         <h2 className="text-xl font-bold mb-4">System State</h2>
-        <p className="text-gray-600 mb-4">You have full administrative access to Kairos. The system is currently running five concurrent background loops on your behalf.</p>
+        <p className="text-gray-600 mb-4">Kairos runs five background loops on your behalf. Each one checks your stop condition, daily caps, and pause window before it acts.</p>
         <ul className="space-y-3 text-sm">
           <li className="flex justify-between p-3 bg-gray-50 rounded-lg">
             <span className="font-medium">Content Planning</span>

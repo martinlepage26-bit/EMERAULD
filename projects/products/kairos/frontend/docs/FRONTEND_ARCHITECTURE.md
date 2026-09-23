@@ -48,22 +48,31 @@ In `src/app/dashboard/page.tsx`, data fetching is handled within a standard `use
 3. The request includes the authorization header: `Authorization: Bearer <key>`.
 4. The retrieved JSON payload controls the UI state, displaying the user's plan, channel count, account status, and whether the automated system "Autopilot" is active or paused.
 
-## 5. Authentication & Admin Auto-Login Mechanism
+## 5. Authentication
 
-To facilitate easy access for administrators or specific users without going through a standard authentication flow, the application implements an automatic login/bypass mechanism.
+The dashboard authenticates with the same API key the backend issues at account
+creation (`kai_sk_…`). There is no session layer on the backend yet; every
+request carries the key as `Authorization: Bearer <key>`.
 
-### How it Works:
-1. **Environment Variable Injection**: The system reads `NEXT_PUBLIC_ADMIN_API_KEY` from the environment.
-2. **Auto-Population**: In `src/app/dashboard/layout.tsx`, a `useEffect` hook runs on mount. It checks if `kairos_api_key` already exists in `localStorage`. If it does not, it takes the value from `NEXT_PUBLIC_ADMIN_API_KEY` and automatically populates `localStorage`.
-3. **Manual Fallback**: If no key is present in `localStorage` and the environment variable is not set (or fails to load), `src/app/dashboard/page.tsx` renders an "Admin Authentication" fallback screen. The user can manually input their root API key, which is then written to `localStorage` and immediately used to query the backend.
+### How it works
+1. **Layout gate.** `src/app/dashboard/layout.tsx` is the single gate for all
+   five dashboard routes. Before rendering children it reads `kairos_api_key`
+   from `localStorage` and verifies it against `GET /v1/me`.
+2. **Verify on every mount.** A stored key can be revoked server-side, so
+   presence is not trusted. If verification fails the key is removed from
+   `localStorage` and the connect screen is shown with an explanation.
+3. **Connect screen.** With no valid key, the layout renders a form that accepts
+   a key, verifies it against the API before storing it, and reports a rejected
+   key rather than saving it and failing silently on the next page.
+4. **Disconnect.** The sidebar clears the stored key for that browser.
 
-```typescript
-// Auto-login logic (dashboard/layout.tsx)
-useEffect(() => {
-  if (!localStorage.getItem("kairos_api_key")) {
-    const adminKey = process.env.NEXT_PUBLIC_ADMIN_API_KEY;
-    if (adminKey) localStorage.setItem("kairos_api_key", adminKey);
-  }
-}, []);
-```
-This seamless design ensures that the dashboard owner can bypass traditional paywalls or login screens by simply supplying the correct environment variable during build/deployment.
+Because the gate lives in the layout, the four pages it wraps
+(calendar, posts, inbox, insights) only mount once a verified key is present and
+can read `localStorage` directly.
+
+### Why there is no environment-variable login
+An earlier version read `NEXT_PUBLIC_ADMIN_API_KEY` at build time and seeded
+`localStorage` from it. Next.js inlines every `NEXT_PUBLIC_`-prefixed variable
+into the client bundle, so that build would have shipped a working
+account key to every visitor. Do not reintroduce a key through the environment.
+The key belongs in the browser that typed it, and nowhere in the build output.

@@ -9,6 +9,8 @@ export interface Env {
   DRY_RUN: string;
   JOB_BATCH_SIZE: string;
   PUBLIC_BASE_URL: string;
+  /** Comma-separated browser origins allowed to call the API cross-origin. */
+  DASHBOARD_ORIGINS: string;
 
   ANTHROPIC_API_KEY: string;
   STRIPE_SECRET_KEY: string;
@@ -30,6 +32,18 @@ export type AppBindings = {
 
 export function isDryRun(env: Env): boolean {
   return env.DRY_RUN !== 'false';
+}
+
+/**
+ * Browser origins the dashboard may call from. Requests carry a bearer token
+ * rather than cookies, so no credentialed-origin reflection is involved: an
+ * origin that is not on this list simply gets no CORS headers back.
+ */
+export function dashboardOrigins(env: Env): string[] {
+  return (env.DASHBOARD_ORIGINS ?? '')
+    .split(',')
+    .map((o) => o.trim())
+    .filter(Boolean);
 }
 
 export function jobBatchSize(env: Env): number {

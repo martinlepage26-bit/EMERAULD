@@ -28,7 +28,12 @@
     "DRY_RUN": "true",
     // Queue drain sizing per cron tick.
     "JOB_BATCH_SIZE": "25",
-    "PUBLIC_BASE_URL": "http://localhost:8789"
+    "PUBLIC_BASE_URL": "http://localhost:8789",
+    // Browser origins allowed to call this API cross-origin. The dashboard is a
+    // separate Next.js app on its own origin, so without a match here the
+    // browser blocks every one of its requests. Empty means no cross-origin
+    // browser access at all.
+    "DASHBOARD_ORIGINS": "http://localhost:3000"
   },
   "d1_databases": [
     {
@@ -90,7 +95,12 @@
         "JOB_BATCH_SIZE": "25",
         // Stripe checkout return pages and published media URLs are built on
         // this origin, so it must be a domain this Worker actually serves.
-        "PUBLIC_BASE_URL": "https://kairos.govern-ai.ca"
+        "PUBLIC_BASE_URL": "https://kairos.govern-ai.ca",
+        // The dashboard is not deployed yet and runs from `next dev`, which is
+        // why localhost is listed against the live API. Requests still need a
+        // valid bearer key, so this widens no privilege on its own. Add the
+        // dashboard's real origin here when it ships, and drop localhost then.
+        "DASHBOARD_ORIGINS": "http://localhost:3000"
       },
       "routes": [
         {

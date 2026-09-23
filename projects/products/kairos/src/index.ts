@@ -1,6 +1,7 @@
 import { Hono } from 'hono';
+import { cors } from 'hono/cors';
 import type { AppBindings, Env } from './env';
-import { jobBatchSize } from './env';
+import { dashboardOrigins, jobBatchSize } from './env';
 import { AppError } from './lib/errors';
 import { db } from './lib/db';
 import { drain, enqueue, type JobHandler, type JobKind } from './queue/jobs';
@@ -31,6 +32,18 @@ const HANDLERS: Record<JobKind, JobHandler> = {
 };
 
 const app = new Hono<AppBindings>();
+
+// CORS runs ahead of every route so a preflight is answered before it can reach
+// auth, which would otherwise reject the credential-less OPTIONS with a 401 and
+// make the browser block the real request. Only listed origins get headers back.
+app.use('*', (c, next) =>
+  cors({
+    origin: (origin) => (dashboardOrigins(c.env).includes(origin) ? origin : null),
+    allowMethods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
+    allowHeaders: ['authorization', 'content-type'],
+    maxAge: 86400,
+  })(c, next),
+);
 
 app.onError((err, c) => {
   if (err instanceof AppError) {
