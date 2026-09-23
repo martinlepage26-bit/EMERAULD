@@ -90,8 +90,14 @@
         "JOB_BATCH_SIZE": "25",
         // Stripe checkout return pages and published media URLs are built on
         // this origin, so it must be a domain this Worker actually serves.
-        "PUBLIC_BASE_URL": "https://kairos.martinlepage26.workers.dev"
+        "PUBLIC_BASE_URL": "https://kairos.govern-ai.ca"
       },
+      "routes": [
+        {
+          "pattern": "kairos.govern-ai.ca",
+          "custom_domain": true
+        }
+      ],
       "d1_databases": [
         {
           "binding": "DB",

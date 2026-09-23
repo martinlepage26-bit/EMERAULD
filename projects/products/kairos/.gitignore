@@ -4,3 +4,9 @@ node_modules/
 dist/
 *.log
 .DS_Store
+
+# Teamwork-run scratch: orchestration state, run outputs, and the prompt file
+# from an unrelated project that landed here. Not Kairos product code.
+.agents/
+runs/
+ORIGINAL_REQUEST.md
