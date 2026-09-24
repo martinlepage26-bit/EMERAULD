@@ -121,6 +121,31 @@ accounts.post('/v1/accounts', async (c) => {
   );
 });
 
+/**
+ * Dev-only sign-in for the configured demo account, so the dashboard can be
+ * exercised without anyone typing a key. Mints a fresh key named "dev-demo"
+ * each time. 404 unless DEV_DEMO_ACCOUNT_EMAIL is set.
+ */
+accounts.post('/v1/dev/demo-session', async (c) => {
+  const email = c.env.DEV_DEMO_ACCOUNT_EMAIL;
+  if (!email) throw notFound('Endpoint');
+  const account = await db(c.env).first<{ id: string }>(
+    `SELECT id FROM accounts WHERE lower(email) = lower(?)`,
+    email,
+  );
+  if (!account) throw notFound('Demo account');
+  const key = await issueApiKey(c.env, account.id, 'dev-demo');
+  await audit(c.env, {
+    accountId: account.id,
+    actor: 'public',
+    action: 'dev.demo_session',
+    entityType: 'account',
+    entityId: account.id,
+    detail: {},
+  });
+  return c.json({ apiKey: key.plaintext });
+});
+
 accounts.use('/v1/me', requireAuth);
 accounts.use('/v1/strategy', requireAuth);
 accounts.use('/v1/pillars', requireAuth);

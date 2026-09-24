@@ -35,7 +35,7 @@ export default function InsightsPage() {
   if (error) {
     return (
       <div>
-        <h1 className="text-3xl font-bold mb-8">Performance &amp; Insights</h1>
+        <h1 className="text-3xl font-bold mb-8">Results</h1>
         <LoadError error={error} />
       </div>
     );
@@ -44,7 +44,7 @@ export default function InsightsPage() {
   if (!data) {
     return (
       <div>
-        <h1 className="text-3xl font-bold mb-8">Performance &amp; Insights</h1>
+        <h1 className="text-3xl font-bold mb-8">Results</h1>
         <Loading />
       </div>
     );
@@ -55,9 +55,9 @@ export default function InsightsPage() {
 
   return (
     <div>
-      <h1 className="text-3xl font-bold mb-2">Performance &amp; Insights</h1>
+      <h1 className="text-3xl font-bold mb-2">Results</h1>
       <p className="text-gray-500 mb-8">
-        Measured over the last {data.window}. Kairos shifts effort toward topics that perform
+        Your last 30 days. Kairos shifts effort toward topics that perform
         automatically.
       </p>
 
@@ -103,14 +103,11 @@ export default function InsightsPage() {
         <div className="bg-white p-6 border rounded-2xl shadow-sm flex flex-col justify-center items-center text-center">
           <div className="text-5xl font-bold mb-2">{data.hoursSaved.hours}</div>
           <p className="text-gray-500 font-medium mb-4">Hours saved this month</p>
-          <dl className="text-xs text-gray-400 space-y-0.5">
-            {Object.entries(data.hoursSaved.basis).map(([label, minutes]) => (
-              <div key={label} className="flex gap-2 justify-center">
-                <dt className="capitalize">{label.replace(/([A-Z])/g, " $1").toLowerCase()}:</dt>
-                <dd>{minutes}</dd>
-              </div>
-            ))}
-          </dl>
+          <p className="text-xs text-gray-400 max-w-[18rem]">
+            {data.hoursSaved.basis.posts ?? 0} posts at {data.hoursSaved.basis.minutesPerPost ?? 0} min each,
+            plus {data.hoursSaved.basis.replies ?? 0} replies at {data.hoursSaved.basis.minutesPerReply ?? 0} min
+            each. A deliberately conservative estimate.
+          </p>
         </div>
       </div>
 

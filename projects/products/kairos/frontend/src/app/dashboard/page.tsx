@@ -26,11 +26,11 @@ interface Me {
 }
 
 const LOOPS = [
-  ["Planning", "Checking daily at 05:10 UTC"],
-  ["Drafting", "Processing job queue continuously"],
-  ["Publishing", "Sweeping every 15 minutes"],
-  ["Inbox", "Sweeping every 15 minutes"],
-  ["Learning what works", "Metrics collection at xx:17"],
+  ["Planning", "Every morning, 14 days ahead"],
+  ["Drafting", "As soon as a slot is planned"],
+  ["Publishing", "At each post's scheduled time"],
+  ["Inbox", "Checked every 15 minutes"],
+  ["Learning what works", "Hourly, from your published posts"],
 ];
 
 export default function DashboardOverview() {
@@ -103,9 +103,9 @@ export default function DashboardOverview() {
       <div className="bg-white p-6 rounded-2xl border shadow-sm mb-8">
         <h2 className="text-xl font-bold mb-4">What Kairos is doing</h2>
         <p className="text-gray-600 mb-4">
-          Kairos runs five background loops on your behalf. Each one checks your stop condition,
-          daily caps ({data.controls.daily_publish_cap} posts, {data.controls.daily_reply_cap}{" "}
-          replies), and pause window before it acts.
+          Kairos works on these five things for you. Before anything goes out it checks your pause
+          setting, your daily limits ({data.controls.daily_publish_cap} posts, {data.controls.daily_reply_cap}{" "}
+          replies), and that you approved it.
         </p>
         <ul className="space-y-3 text-sm">
           {LOOPS.map(([name, cadence]) => (

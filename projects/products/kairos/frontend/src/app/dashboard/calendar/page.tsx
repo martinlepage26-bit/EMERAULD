@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { format, addDays, isSameDay, parseISO } from "date-fns";
 import { authedFetch } from "@/lib/api";
 import { LoadError, Loading } from "@/components/LoadState";
@@ -64,16 +65,17 @@ export default function CalendarPage() {
                   <div className="text-sm font-medium text-gray-400 mb-2">{format(day, "MMM d")}</div>
                   <div className="space-y-1">
                     {forDay.map((slot) => (
-                      <div
+                      <Link
                         key={slot.id}
+                        href={`/dashboard/posts#slot-${slot.id}`}
                         title={slot.hook ?? `${slot.pillar} · ${slot.handle}`}
-                        className={`text-xs border px-2 py-1 rounded truncate ${
+                        className={`block text-xs border px-2 py-1 rounded line-clamp-2 hover:brightness-95 ${
                           STATUS_STYLES[slot.status] ?? STATUS_STYLES.planned
                         }`}
                       >
                         <span className="font-medium">{format(parseISO(slot.scheduled_for), "HH:mm")}</span>{" "}
                         {slot.hook ?? slot.pillar}
-                      </div>
+                      </Link>
                     ))}
                   </div>
                 </div>

@@ -52,10 +52,10 @@ export default function InboxPage() {
 
   return (
     <div>
-      <h1 className="text-3xl font-bold mb-8">Inbox Triage</h1>
+      <h1 className="text-3xl font-bold mb-8">Inbox</h1>
       <p className="text-gray-500 mb-8">
-        Inbound messages are triaged by intent, with replies auto-drafted by the system. Nothing
-        sends until it passes the confidence and policy gate.
+        Replies to your posts and messages, sorted by what the person wants, with a reply drafted for
+        you. Routine answers can go out on their own if you allow it; leads and complaints always wait for you.
       </p>
 
       {error ? (
@@ -64,7 +64,7 @@ export default function InboxPage() {
         <Loading />
       ) : conversations.length === 0 ? (
         <EmptyState icon={<MessageSquare className="w-8 h-8" />}>
-          Nothing waiting. Inbound messages sync every fifteen minutes.
+          You&apos;re all caught up. New messages are checked every 15 minutes.
         </EmptyState>
       ) : (
         <div className="bg-white border rounded-2xl shadow-sm divide-y">

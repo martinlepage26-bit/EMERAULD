@@ -85,7 +85,10 @@ billing.get('/pricing', (c) => {
 
 /** Public, unauthenticated: what the marketing page needs to render honestly. */
 billing.get('/v1/config', (c) =>
-  c.json({ signupEnabled: c.env.SIGNUP_ENABLED === 'true' }),
+  c.json({
+    signupEnabled: c.env.SIGNUP_ENABLED === 'true',
+    devDemoLogin: Boolean(c.env.DEV_DEMO_ACCOUNT_EMAIL),
+  }),
 );
 
 billing.get('/v1/plans', (c) =>

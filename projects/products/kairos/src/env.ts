@@ -24,6 +24,12 @@ export interface Env {
    * operator's login, so the safe default is closed.
    */
   SIGNUP_ENABLED?: string;
+  /**
+   * Dev only: email of an existing account that "Use demo account" signs into
+   * without a typed key. Unset (the default, and always on shared or public
+   * hosts) disables the endpoint entirely.
+   */
+  DEV_DEMO_ACCOUNT_EMAIL?: string;
 
   ANTHROPIC_API_KEY: string;
   STRIPE_SECRET_KEY: string;

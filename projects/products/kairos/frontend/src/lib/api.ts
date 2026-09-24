@@ -137,10 +137,17 @@ export const CONTACT_EMAIL = process.env.NEXT_PUBLIC_CONTACT_EMAIL ?? "ml@pharos
 
 /** Public deployment settings. Assumes signup is open if the call fails, so a
  * visitor is never blocked by a network hiccup; the API still enforces it. */
-export async function getPublicConfig(): Promise<{ signupEnabled: boolean }> {
+export async function getPublicConfig(): Promise<{ signupEnabled: boolean; devDemoLogin: boolean }> {
   try {
-    return await apiFetch<{ signupEnabled: boolean }>("/v1/config");
+    const c = await apiFetch<{ signupEnabled: boolean; devDemoLogin?: boolean }>("/v1/config");
+    return { signupEnabled: c.signupEnabled, devDemoLogin: Boolean(c.devDemoLogin) };
   } catch {
-    return { signupEnabled: true };
+    return { signupEnabled: true, devDemoLogin: false };
   }
+}
+
+/** Dev only: signs this browser into the configured demo account. */
+export async function devDemoSession(): Promise<string> {
+  const { apiKey } = await apiFetch<{ apiKey: string }>("/v1/dev/demo-session", { method: "POST", body: "{}" });
+  return apiKey;
 }

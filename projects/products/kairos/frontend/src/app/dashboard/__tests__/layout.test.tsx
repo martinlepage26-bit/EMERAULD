@@ -32,7 +32,11 @@ describe('dashboard key gate', () => {
     render(<DashboardLayout>{child}</DashboardLayout>)
 
     await screen.findByRole('heading', { name: 'Sign in' })
-    expect(mockFetch).not.toHaveBeenCalled()
+    // The only call allowed is the public, unauthenticated settings fetch.
+    for (const [url, init] of mockFetch.mock.calls) {
+      expect(String(url)).toContain('/v1/config')
+      expect(init?.headers?.authorization).toBeUndefined()
+    }
     expect(localStorage.getItem('kairos_api_key')).toBeNull()
 
     delete process.env.NEXT_PUBLIC_ADMIN_API_KEY

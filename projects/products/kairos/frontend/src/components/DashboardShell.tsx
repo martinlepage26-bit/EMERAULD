@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { LayoutDashboard, Calendar, Inbox, FileText, BarChart, LogOut } from "lucide-react";
-import { clearKey, storeKey, storedKey, verifyKey } from "@/lib/api";
+import { clearKey, devDemoSession, getPublicConfig, storeKey, storedKey, verifyKey } from "@/lib/api";
 
 /**
  * The key lives only in this browser's localStorage. It is never read from a
@@ -93,9 +93,9 @@ export function DashboardShell({ children }: { children: React.ReactNode }) {
           <nav className="space-y-2 text-sm font-medium">
             <NavItem href="/dashboard" icon={<LayoutDashboard className="w-4 h-4" />} label="Overview" />
             <NavItem href="/dashboard/calendar" icon={<Calendar className="w-4 h-4" />} label="Calendar" />
-            <NavItem href="/dashboard/posts" icon={<FileText className="w-4 h-4" />} label="Posts & Drafts" />
+            <NavItem href="/dashboard/posts" icon={<FileText className="w-4 h-4" />} label="Posts" />
             <NavItem href="/dashboard/inbox" icon={<Inbox className="w-4 h-4" />} label="Inbox" />
-            <NavItem href="/dashboard/insights" icon={<BarChart className="w-4 h-4" />} label="Insights" />
+            <NavItem href="/dashboard/insights" icon={<BarChart className="w-4 h-4" />} label="Results" />
           </nav>
         </div>
         <div className="mt-auto p-6 border-t">
@@ -120,6 +120,23 @@ function KeyGate({ error, onUnlocked }: { error?: string; onUnlocked: () => void
   const [value, setValue] = useState("");
   const [checking, setChecking] = useState(false);
   const [message, setMessage] = useState(error);
+  const [devDemo, setDevDemo] = useState(false);
+
+  useEffect(() => {
+    getPublicConfig().then((c) => setDevDemo(c.devDemoLogin));
+  }, []);
+
+  const useDemo = async () => {
+    setChecking(true);
+    setMessage(undefined);
+    try {
+      storeKey(await devDemoSession());
+      onUnlocked();
+    } catch {
+      setMessage("The demo account isn't available on this server.");
+    }
+    setChecking(false);
+  };
 
   const submit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -174,6 +191,17 @@ function KeyGate({ error, onUnlocked }: { error?: string; onUnlocked: () => void
         >
           {checking ? "Checking…" : "Sign in"}
         </button>
+
+        {devDemo && (
+          <button
+            type="button"
+            onClick={useDemo}
+            disabled={checking}
+            className="w-full mt-3 border border-dashed border-amber-400 text-amber-700 bg-amber-50 px-4 py-2 rounded-lg text-sm font-medium disabled:opacity-40"
+          >
+            Use demo account (dev only)
+          </button>
+        )}
       </form>
     </div>
   );
@@ -193,7 +221,7 @@ function NavItem({ href, icon, label }: { href: string; icon: React.ReactNode; l
 const NAV = [
   { href: "/dashboard", label: "Overview" },
   { href: "/dashboard/calendar", label: "Calendar" },
-  { href: "/dashboard/posts", label: "Posts & Drafts" },
+  { href: "/dashboard/posts", label: "Posts" },
   { href: "/dashboard/inbox", label: "Inbox" },
-  { href: "/dashboard/insights", label: "Insights" },
+  { href: "/dashboard/insights", label: "Results" },
 ];

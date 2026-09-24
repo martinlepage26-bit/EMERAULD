@@ -134,6 +134,7 @@ const env = {
   AI_MODE: process.env.AI_MODE ?? 'agent',
   AGENT_TOKEN: process.env.AGENT_TOKEN,
   SIGNUP_ENABLED: process.env.SIGNUP_ENABLED,
+  DEV_DEMO_ACCOUNT_EMAIL: process.env.DEV_DEMO_ACCOUNT_EMAIL,
   ANTHROPIC_API_KEY: process.env.ANTHROPIC_API_KEY ?? '',
   STRIPE_SECRET_KEY: process.env.STRIPE_SECRET_KEY ?? '',
   STRIPE_WEBHOOK_SECRET: process.env.STRIPE_WEBHOOK_SECRET ?? '',

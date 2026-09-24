@@ -202,7 +202,34 @@ describe('public config', () => {
       const h = setup({ SIGNUP_ENABLED: value } as Partial<Env>);
       const res = await worker.fetch(new Request('https://api.test.invalid/v1/config'), h.env);
       expect(res.status).toBe(200);
-      expect(await res.json()).toEqual({ signupEnabled: expected });
+      expect(await res.json()).toMatchObject({ signupEnabled: expected });
     },
   );
+});
+
+describe('dev demo session', () => {
+  async function post(overrides: Partial<Env>) {
+    const { default: worker } = await import('../src/index');
+    const h = setup(overrides);
+    return { h, worker };
+  }
+
+  it('is a 404 when DEV_DEMO_ACCOUNT_EMAIL is unset', async () => {
+    const { h, worker } = await post({});
+    const res = await worker.fetch(new Request('https://api.test.invalid/v1/dev/demo-session', { method: 'POST' }), h.env);
+    expect(res.status).toBe(404);
+  });
+
+  it('issues a working key for the configured demo account only', async () => {
+    const { h, worker } = await post({ DEV_DEMO_ACCOUNT_EMAIL: 'acct_test@test.invalid' } as Partial<Env>);
+    const { seedAccount } = await import('./helpers/d1');
+    seedAccount(h);
+    const res = await worker.fetch(new Request('https://api.test.invalid/v1/dev/demo-session', { method: 'POST' }), h.env);
+    expect(res.status).toBe(200);
+    const { apiKey } = (await res.json()) as { apiKey: string };
+    const me = await worker.fetch(new Request('https://api.test.invalid/v1/me', { headers: { authorization: `Bearer ${apiKey}` } }), h.env);
+    expect(me.status).toBe(200);
+    const cfg = await worker.fetch(new Request('https://api.test.invalid/v1/config'), h.env);
+    expect(await cfg.json()).toMatchObject({ devDemoLogin: true });
+  });
 });

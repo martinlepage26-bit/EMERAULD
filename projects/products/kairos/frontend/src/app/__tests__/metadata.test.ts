@@ -34,9 +34,9 @@ describe('page titles', () => {
 
   it.each([
     ['calendar', calendar, 'Calendar'],
-    ['posts', posts, 'Posts & Drafts'],
+    ['posts', posts, 'Posts'],
     ['inbox', inbox, 'Inbox'],
-    ['insights', insights, 'Insights'],
+    ['insights', insights, 'Results'],
   ])('%s names itself', (_route, meta, expected) => {
     expect(meta.title).toBe(expected)
   })
