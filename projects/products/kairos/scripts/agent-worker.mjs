@@ -23,10 +23,13 @@ const auth = { authorization: `Bearer ${TOKEN}`, 'content-type': 'application/js
 
 function runClaude(system, prompt) {
   return new Promise((resolve, reject) => {
-    const args = ['-p', '--output-format', 'json', '--tools', '', '--safe-mode',
+    // Prompt goes first as an argument, not on stdin: the CT920 `claude` wrapper
+    // does not forward stdin, and `--tools` is variadic so anything after it
+    // would be read as a tool name.
+    const args = ['-p', prompt, '--output-format', 'json', '--tools', '', '--safe-mode',
       '--strict-mcp-config', '--no-session-persistence', '--system-prompt', system];
     if (process.env.AGENT_MODEL) args.push('--model', process.env.AGENT_MODEL);
-    const child = spawn(CLAUDE, args, { stdio: ['pipe', 'pipe', 'pipe'] });
+    const child = spawn(CLAUDE, args, { stdio: ['ignore', 'pipe', 'pipe'] });
     let out = ''; let err = '';
     const timer = setTimeout(() => { child.kill('SIGTERM'); reject(new Error('claude timed out')); }, TIMEOUT);
     child.stdout.on('data', (d) => { out += d; });
@@ -37,7 +40,6 @@ function runClaude(system, prompt) {
       if (code !== 0) return reject(new Error(`claude exited ${code}: ${(err || out).slice(0, 500)}`));
       try { resolve(JSON.parse(out)); } catch { reject(new Error(`unparseable claude output: ${out.slice(0, 300)}`)); }
     });
-    child.stdin.end(prompt);
   });
 }
 
