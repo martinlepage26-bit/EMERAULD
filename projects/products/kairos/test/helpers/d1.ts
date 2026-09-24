@@ -104,6 +104,7 @@ export function createHarness(overrides: Partial<Env> = {}): TestHarness {
     JOB_BATCH_SIZE: '25',
     PUBLIC_BASE_URL: 'https://test.invalid',
     DASHBOARD_ORIGINS: 'https://dash.test.invalid',
+    SIGNUP_ENABLED: 'true',
     ANTHROPIC_API_KEY: 'test-key',
     STRIPE_SECRET_KEY: 'sk_test',
     STRIPE_WEBHOOK_SECRET: 'whsec_test',

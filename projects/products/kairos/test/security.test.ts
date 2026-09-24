@@ -160,9 +160,9 @@ describe('rate limiting', () => {
 });
 
 describe('signup switch', () => {
-  it('closes public signup when SIGNUP_ENABLED is "false"', async () => {
+  async function signup(overrides: Partial<Env>) {
     const { default: worker } = await import('../src/index');
-    const h = setup({ SIGNUP_ENABLED: 'false' } as Partial<Env>);
+    const h = setup(overrides);
     const res = await worker.fetch(
       new Request('https://api.test.invalid/v1/accounts', {
         method: 'POST',
@@ -171,7 +171,25 @@ describe('signup switch', () => {
       }),
       h.env,
     );
-    expect(res.status).toBe(403);
-    expect(h.sqlite.prepare('SELECT COUNT(*) AS n FROM accounts').get()).toMatchObject({ n: 0 });
+    const n = (h.sqlite.prepare('SELECT COUNT(*) AS n FROM accounts').get() as { n: number }).n;
+    return { status: res.status, accounts: n };
+  }
+
+  it.each([
+    ['unset', undefined],
+    ['"false"', 'false'],
+    ['a typo', 'ture'],
+    ['"TRUE" (wrong case)', 'TRUE'],
+    ['"1"', '1'],
+  ])('denies unauthenticated signup when SIGNUP_ENABLED is %s', async (_label, value) => {
+    const r = await signup({ SIGNUP_ENABLED: value } as Partial<Env>);
+    expect(r.status).toBe(403);
+    expect(r.accounts).toBe(0);
+  });
+
+  it('allows signup only when SIGNUP_ENABLED is exactly "true"', async () => {
+    const r = await signup({ SIGNUP_ENABLED: 'true' } as Partial<Env>);
+    expect(r.status).toBe(201);
+    expect(r.accounts).toBe(1);
   });
 });

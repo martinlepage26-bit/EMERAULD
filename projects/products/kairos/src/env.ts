@@ -19,9 +19,9 @@ export interface Env {
   /** Bearer token for the /v1/agent/work endpoints. Unset disables them. */
   AGENT_TOKEN?: string;
   /**
-   * "false" closes public signup. On an agent-mode deployment every account
-   * triggers model work on the operator's login, so a publicly reachable dev
-   * instance must not let strangers create accounts.
+   * Only "true" opens public signup; anything else, including unset, closes
+   * it. On an agent-mode deployment every account triggers model work on the
+   * operator's login, so the safe default is closed.
    */
   SIGNUP_ENABLED?: string;
 

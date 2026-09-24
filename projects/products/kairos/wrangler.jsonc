@@ -38,7 +38,9 @@
     // browser blocks every one of its requests. Empty means no cross-origin
     // browser access at all. Dev lists the Next dev server, which talks to this
     // block via NEXT_PUBLIC_API_BASE (see frontend/.env.example).
-    "DASHBOARD_ORIGINS": "http://localhost:3000"
+    "DASHBOARD_ORIGINS": "http://localhost:3000",
+    // Signup is closed unless this is exactly "true".
+    "SIGNUP_ENABLED": "true"
   },
   "d1_databases": [
     {
@@ -106,7 +108,10 @@
         // -dy4.pages.dev) are not admitted; add one here to test a preview
         // against live data. localhost is deliberately absent: local work runs
         // against a local Worker via NEXT_PUBLIC_API_BASE.
-        "DASHBOARD_ORIGINS": "https://kairos-dashboard-dy4.pages.dev"
+        "DASHBOARD_ORIGINS": "https://kairos-dashboard-dy4.pages.dev",
+        // The Cloudflare deployment uses the real API, not agent mode, so
+        // public signup stays open there. Closed unless exactly "true".
+        "SIGNUP_ENABLED": "true"
       },
       "routes": [
         {

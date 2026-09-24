@@ -27,7 +27,9 @@ const signupSchema = z.object({
  * unattended publishing after they have seen what the system drafts.
  */
 accounts.post('/v1/accounts', async (c) => {
-  if (c.env.SIGNUP_ENABLED === 'false') {
+  // Fail closed: only an explicit "true" opens signup, so an unset or
+  // mistyped value can never expose account creation.
+  if (c.env.SIGNUP_ENABLED !== 'true') {
     throw forbidden('Signup is closed on this deployment');
   }
   // Unauthenticated and write-heavy: it inserts rows and mints an API key, so
