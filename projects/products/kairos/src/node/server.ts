@@ -133,6 +133,7 @@ const env = {
   DASHBOARD_ORIGINS: process.env.DASHBOARD_ORIGINS ?? '',
   AI_MODE: process.env.AI_MODE ?? 'agent',
   AGENT_TOKEN: process.env.AGENT_TOKEN,
+  SIGNUP_ENABLED: process.env.SIGNUP_ENABLED,
   ANTHROPIC_API_KEY: process.env.ANTHROPIC_API_KEY ?? '',
   STRIPE_SECRET_KEY: process.env.STRIPE_SECRET_KEY ?? '',
   STRIPE_WEBHOOK_SECRET: process.env.STRIPE_WEBHOOK_SECRET ?? '',
