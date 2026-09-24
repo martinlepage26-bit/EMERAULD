@@ -27,10 +27,32 @@ The operator dashboard is a separate Next.js app in `frontend/`, exported as sta
 ```bash
 npm install
 npm run check     # typecheck source and tests
-npm test          # 54 tests against real SQLite via a D1 shim
+npm test          # 61 tests against real SQLite via a D1 shim, fully offline
 npm run db:local  # apply migrations
 npm run dev       # http://localhost:8789
 ```
+
+`npm test` is hermetic: it replaces every network call, which is right for unit
+tests and is also why it cannot notice the API and its clients drifting apart.
+That gap is covered by one separate gate:
+
+```bash
+KAIROS_API_KEY=kai_sk_... npm run test:contract
+```
+
+`test/contract/live.mjs` runs against the **deployed** Worker from the deployed
+dashboard's origin, and is the only check here that executes against the real
+dependency. It asserts that the dashboard origin is in the live CORS allowlist,
+that an unlisted origin is refused, and that every field the dashboard reads is
+still present — including that five field names which were once wrong have not
+come back. Deliberately not a `/health` probe: `/health` is unauthenticated and
+returns `ok:true` regardless of CORS, bindings, or response shape, so it would
+pass while the dashboard was entirely unable to read the API. Checks that cannot
+fail for the failure they name are worse than no check.
+
+Run it before merging anything that touches a route response or `DASHBOARD_ORIGINS`.
+It refuses to run without a key rather than skipping, and reports checks it could
+not perform as `UNVERIFIED` rather than counting them as passes.
 
 `DRY_RUN` defaults to `true`, so the whole pipeline runs end to end with simulated platform calls. Nothing is posted anywhere from local dev. Live posting exists only in the `production` wrangler environment (`env.production` in `wrangler.jsonc` sets `DRY_RUN` to `"false"`), which deploys via `npm run deploy` (`wrangler deploy --env production`).
 
