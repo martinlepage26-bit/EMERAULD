@@ -1,7 +1,9 @@
 import Anthropic from '@anthropic-ai/sdk';
 import type { Env } from '../env';
-import { RetryableError } from '../lib/errors';
-import { meter } from '../lib/db';
+import { isAgentMode } from '../env';
+import { AwaitingAgentError, RetryableError } from '../lib/errors';
+import { db, meter } from '../lib/db';
+import { newId, nowIso, sha256Hex } from '../lib/ids';
 
 export type Effort = 'low' | 'medium' | 'high' | 'xhigh' | 'max';
 
@@ -56,6 +58,7 @@ function client(env: Env): Anthropic {
  *    rejected on current models. Depth is controlled with `output_config.effort`.
  */
 export async function generate(env: Env, req: GenerateRequest): Promise<GenerateResult> {
+  if (isAgentMode(env)) return generateViaAgent(env, req);
   const model = req.model ?? env.DRAFT_MODEL ?? 'claude-opus-5';
   const maxTokens = req.maxTokens ?? 16_000;
 
@@ -175,4 +178,51 @@ function classifyApiError(err: unknown): Error {
     return new RetryableError(`Anthropic server error (${err.status})`, 30);
   }
   return err instanceof Error ? err : new Error(String(err));
+}
+
+/**
+ * Agent mode. The request is stored and answered out of band by a worker that
+ * reads /v1/agent/work. The first call parks the job; the retry finds the
+ * answer under the same request hash and returns it as if the API had replied,
+ * so every check downstream of generate() still runs on it.
+ */
+async function generateViaAgent(env: Env, req: GenerateRequest): Promise<GenerateResult> {
+  const model = req.model ?? env.DRAFT_MODEL ?? 'claude-opus-5';
+  const request = {
+    system: [req.stableSystem, req.creatorSystem, req.volatileSystem].filter(Boolean),
+    user: req.userPrompt,
+    schema: req.schema ?? null,
+  };
+  const key = await sha256Hex(JSON.stringify({ model, ...request }));
+
+  const row = await db(env).first<{ id: string; status: string; result: string | null }>(
+    `SELECT id, status, result FROM agent_work WHERE request_key = ?`,
+    key,
+  );
+
+  if (row?.status === 'done') {
+    const text = (row.result ?? '').trim();
+    return {
+      text,
+      refused: text === '',
+      refusalCategory: text === '' ? 'agent_declined' : null,
+      truncated: false,
+      model: `agent:${model}`,
+      usage: { inputTokens: 0, outputTokens: 0, cacheReadTokens: 0, cacheWriteTokens: 0 },
+    };
+  }
+
+  if (row) throw new AwaitingAgentError(row.id);
+
+  const id = newId('work');
+  await db(env).run(
+    `INSERT OR IGNORE INTO agent_work (id, request_key, model, request, status, created_at)
+     VALUES (?, ?, ?, ?, 'pending', ?)`,
+    id,
+    key,
+    model,
+    JSON.stringify(request),
+    nowIso(),
+  );
+  throw new AwaitingAgentError(id);
 }

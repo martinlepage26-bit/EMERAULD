@@ -1,7 +1,7 @@
 import type { Env } from '../env';
 import { db, audit } from '../lib/db';
 import { newId, nowIso } from '../lib/ids';
-import { RetryableError } from '../lib/errors';
+import { AwaitingAgentError, RetryableError } from '../lib/errors';
 
 export type JobKind =
   | 'plan.generate'      // build calendar slots for the next horizon
@@ -120,6 +120,20 @@ async function succeed(env: Env, job: Job): Promise<void> {
 }
 
 async function fail(env: Env, job: Job, err: unknown): Promise<void> {
+  if (err instanceof AwaitingAgentError) {
+    // Parked, not failed: hand the attempt back and look again shortly.
+    await db(env).run(
+      `UPDATE jobs
+          SET status = 'pending', locked_until = NULL, attempts = MAX(attempts - 1, 0),
+              run_after = ?, last_error = ?, updated_at = ?
+        WHERE id = ?`,
+      new Date(Date.now() + 15_000).toISOString(),
+      err.message,
+      nowIso(),
+      job.id,
+    );
+    return;
+  }
   const message = err instanceof Error ? err.message : String(err);
   const retryable = err instanceof RetryableError;
   const exhausted = job.attempts >= job.max_attempts;
@@ -180,6 +194,10 @@ export async function drain(
       await handler(env, job, payload);
       await succeed(env, job);
     } catch (err) {
+      if (err instanceof AwaitingAgentError) {
+        await fail(env, job, err);
+        continue;
+      }
       console.error(`job ${job.kind} (${job.id}) failed`, err);
       await fail(env, job, err);
       failed++;

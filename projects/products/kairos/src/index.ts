@@ -11,6 +11,7 @@ import { workspace } from './routes/workspace';
 import { inbox } from './routes/inbox';
 import { billing } from './routes/billing';
 import { media } from './routes/media';
+import { agent } from './routes/agent';
 
 import { handlePlanGenerate } from './engines/strategy';
 import { handleContentDraft } from './engines/content';
@@ -77,6 +78,7 @@ app.route('/', workspace);
 app.route('/', inbox);
 app.route('/', billing);
 app.route('/', media);
+app.route('/', agent);
 
 app.notFound((c) => c.json({ error: { code: 'not_found', message: 'No such endpoint' } }, 404));
 
@@ -128,6 +130,8 @@ async function enqueueStaleMetrics(env: Env): Promise<number> {
   }
   return n;
 }
+
+export { app };
 
 export default {
   fetch: app.fetch,

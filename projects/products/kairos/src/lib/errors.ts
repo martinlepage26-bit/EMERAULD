@@ -30,3 +30,14 @@ export class RetryableError extends Error {
     this.name = 'RetryableError';
   }
 }
+
+/**
+ * Agent mode: the model call has been handed to an out-of-band worker and the
+ * job should come back shortly. Not a failure, so it must not spend a retry.
+ */
+export class AwaitingAgentError extends Error {
+  constructor(readonly workId: string) {
+    super(`Waiting for agent to answer ${workId}`);
+    this.name = 'AwaitingAgentError';
+  }
+}
