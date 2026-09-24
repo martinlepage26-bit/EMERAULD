@@ -29,8 +29,9 @@ src/
 
 The application's layouts are split between the root and the dashboard:
 
-- **Root Layout (`src/app/layout.tsx`)**: Establishes the `<html>` and `<body>` tags, sets up the antialiasing, and injects the "Geist" custom fonts (`Geist_Sans` and `Geist_Mono`). It applies standard full-height Tailwind utility classes.
-- **Dashboard Layout (`src/app/dashboard/layout.tsx`)**: This acts as the shell for the application's core functionality. It consists of:
+- **Root Layout (`src/app/layout.tsx`)**: Establishes the `<html>` and `<body>` tags, sets up the antialiasing, and injects the "Geist" custom fonts (`Geist_Sans` and `Geist_Mono`). It applies standard full-height Tailwind utility classes, and owns the title template (`%s · Kairos`).
+- **Dashboard Layout (`src/app/dashboard/layout.tsx`)**: A Server Component that exports metadata and renders `DashboardShell`. It holds no logic of its own; the split exists because `metadata` can only be exported from a Server Component while the gate needs `localStorage`.
+- **Dashboard Shell (`src/components/DashboardShell.tsx`)**: The client component that acts as the shell for the application's core functionality. It consists of:
   - **Sidebar (`<aside>`)**: A 64-width left navigation pane containing links to Overview, Calendar, Posts & Drafts, Inbox, and Insights. It uses the `NavItem` component and Lucide React icons, and offers a "Disconnect this browser" action at the bottom that clears the stored key.
   - **Main Content (`<main>`)**: A flex-1 container that wraps the specific dashboard sub-route pages in a centered, max-width layout.
 
@@ -147,7 +148,22 @@ ship a credential or silently show the wrong thing:
   a revoked key is cleared and explained, a rejected key is not written to
   storage, and disconnect closes the dashboard.
 
-## 8. Deployment
+## 8. Page titles
+
+`metadata` can only be exported from a Server Component, and every page here is
+`"use client"`. So each route segment carries a thin server `layout.tsx` whose
+only job is its title, and the dashboard's layout delegates rendering to
+`DashboardShell`.
+
+One non-obvious rule: `title.template` applies **only to the segment directly
+below** the one that defines it. The root's `%s · Kairos` therefore reaches
+`/dashboard` but not `/dashboard/calendar`, so `dashboard/layout.tsx` declares
+the template again. Without that repetition the nested tabs read a bare
+"Calendar". `src/app/__tests__/metadata.test.ts` asserts both the per-route
+titles and that repetition, because the app shipped once with the
+create-next-app defaults still in place and every tab read "Create Next App".
+
+## 9. Deployment
 
 The dashboard is a **static export** (`output: "export"` in `next.config.ts`).
 Every route is a client component fetching the Worker API at runtime, so there

@@ -1,6 +1,6 @@
 import { render, screen, waitFor } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
-import DashboardLayout from '../layout'
+import { DashboardShell as DashboardLayout } from '@/components/DashboardShell'
 
 const mockFetch = jest.fn()
 global.fetch = mockFetch as unknown as typeof fetch
