@@ -32,9 +32,26 @@ export async function handleContentDraft(
 
   const slot = await db(env).first<SlotRecord>(`SELECT * FROM slots WHERE id = ?`, slotId);
   if (!slot) throw new Error(`Slot ${slotId} not found`);
-  if (slot.status !== 'planned') return; // already drafted, or cancelled
+  // 'drafting' is resumable: a job parked on agent mode (or one that died
+  // mid-call) comes back to a slot it already claimed. Anything else is done
+  // or cancelled.
+  if (slot.status !== 'planned' && slot.status !== 'drafting') return;
 
   const { account, strategy, pillars } = await loadCreator(env, slot.account_id);
+
+  if (slot.status === 'drafting') {
+    const written = await db(env).first<{ n: number }>(
+      `SELECT COUNT(*) AS n FROM posts WHERE slot_id = ?`,
+      slotId,
+    );
+    if ((written?.n ?? 0) > 0) {
+      // A previous attempt stored its drafts but died before closing the slot.
+      // Finish the slot rather than drafting a second set.
+      const controls = await controlsFor(env, account.id);
+      await markSlot(env, slotId, controls.autopilot_publishing === 1 ? 'approved' : 'ready');
+      return;
+    }
+  }
 
   const gate = await canGenerate(env, account);
   if (!gate.allowed) {

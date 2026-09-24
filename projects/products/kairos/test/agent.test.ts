@@ -85,3 +85,42 @@ describe('agent mode', () => {
     expect((await call(h, 'POST', `/v1/agent/work/${id}`, { text: 'b' })).status).toBe(404);
   });
 });
+
+describe('agent mode with the real drafting handler', () => {
+  it('writes drafts when a parked content.draft job resumes', async () => {
+    const { handleContentDraft } = await import('../src/engines/content');
+    const { seedAccount } = await import('./helpers/d1');
+    const h = setup();
+    const accountId = seedAccount(h, { autopilotPublishing: false });
+    const now = new Date().toISOString();
+    const later = new Date(Date.now() + 3 * 86_400_000).toISOString();
+    h.sqlite.prepare(`INSERT OR IGNORE INTO strategies (id, account_id, positioning, audience, tone, created_at, updated_at)
+      VALUES ('str_t', ?, 'Positioning text here', 'Audience text here', 'plain', ?, ?)`).run(accountId, now, now);
+    h.sqlite.prepare(`INSERT INTO pillars (id, account_id, name, created_at, updated_at) VALUES ('pil_t', ?, 'Topic', ?, ?)`).run(accountId, now, now);
+    h.sqlite.prepare(`INSERT INTO channels (id, account_id, platform, handle, connected_at, updated_at) VALUES ('chan_t', ?, 'threads', '@t', ?, ?)`).run(accountId, now, now);
+    h.sqlite.prepare(`INSERT INTO slots (id, account_id, channel_id, pillar_id, scheduled_for, status, created_at, updated_at)
+      VALUES ('slot_t', ?, 'chan_t', 'pil_t', ?, 'planned', ?, ?)`).run(accountId, later, now, now);
+    const slot = { id: 'slot_t' };
+
+    const job = { id: 'job_x', account_id: accountId, kind: 'content.draft', attempts: 1, max_attempts: 5 } as any;
+    const payload = { slotId: slot!.id, angle: 'an angle' };
+
+    await expect(handleContentDraft(h.env, job, payload)).rejects.toBeInstanceOf(AwaitingAgentError);
+    expect(h.sqlite.prepare(`SELECT status FROM slots WHERE id = ?`).get(slot!.id)).toMatchObject({ status: 'drafting' });
+
+    const work = (await call(h, 'GET', '/v1/agent/work')).body.work;
+    await call(h, 'POST', `/v1/agent/work/${work[0].id}`, {
+      text: JSON.stringify({ variants: [{ hook: 'A clear hook', body: 'A plain body with no banned words.' }] }),
+    });
+
+    await handleContentDraft(h.env, job, payload);
+    const posts = h.sqlite.prepare(`SELECT COUNT(*) AS n FROM posts WHERE slot_id = ?`).get(slot!.id) as { n: number };
+    expect(posts.n).toBe(1);
+    expect(h.sqlite.prepare(`SELECT status FROM slots WHERE id = ?`).get(slot!.id)).toMatchObject({ status: 'ready' });
+
+    // Running it again must not draft a second set.
+    h.sqlite.prepare(`UPDATE slots SET status = 'drafting' WHERE id = ?`).run(slot!.id);
+    await handleContentDraft(h.env, job, payload);
+    expect((h.sqlite.prepare(`SELECT COUNT(*) AS n FROM posts WHERE slot_id = ?`).get(slot!.id) as { n: number }).n).toBe(1);
+  });
+});
