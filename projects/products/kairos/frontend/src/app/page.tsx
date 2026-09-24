@@ -1,12 +1,18 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { CheckCircle2, ArrowRight, BarChart3, Clock, MessageSquare, PenTool } from "lucide-react";
 import { SignupDialog } from "@/components/SignupDialog";
+import { getPublicConfig } from "@/lib/api";
 
 export default function Home() {
   const [signupPlan, setSignupPlan] = useState<{ id: string; name: string } | null>(null);
+  const [signupEnabled, setSignupEnabled] = useState(true);
+
+  useEffect(() => {
+    getPublicConfig().then((c) => setSignupEnabled(c.signupEnabled));
+  }, []);
 
   return (
     <div className="flex flex-col min-h-screen">
@@ -42,7 +48,7 @@ export default function Home() {
               onClick={() => setSignupPlan({ id: "solo", name: "Solo" })}
               className="bg-black text-white px-8 py-4 rounded-full font-medium hover:bg-gray-800 transition-colors flex items-center gap-2"
             >
-              Start Free Trial <ArrowRight className="w-4 h-4" />
+              {signupEnabled ? "Start Free Trial" : "Request Access"} <ArrowRight className="w-4 h-4" />
             </button>
           </div>
         </section>
@@ -51,9 +57,9 @@ export default function Home() {
         <section id="features" className="bg-gray-50 py-24 px-6">
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-16">
-              <h2 className="text-3xl font-bold mb-4">Five Loops of Autopilot</h2>
+              <h2 className="text-3xl font-bold mb-4">What Kairos does for you</h2>
               <p className="text-gray-600 max-w-2xl mx-auto">
-                Set your positioning, voice, and pillars once. Kairos takes over from there, running five autonomous loops to grow your audience.
+                Describe your business, your voice, and the topics you want to be known for. Kairos handles the rest, and nothing goes out until you approve it.
               </p>
             </div>
 
@@ -61,27 +67,27 @@ export default function Home() {
               <FeatureCard 
                 icon={<Clock />}
                 title="1. Plans"
-                description="Builds a rolling 14-day calendar, allocating across your pillars by measured performance rather than guesswork."
+                description="Keeps a 14-day posting calendar full, giving more room to the topics that actually get results."
               />
               <FeatureCard 
                 icon={<PenTool />}
                 title="2. Drafts"
-                description="Generates multiple variants per slot in your exact voice, strictly enforcing your banned-phrase list."
+                description="Writes three versions of every post in your voice, and never uses words you have ruled out."
               />
               <FeatureCard 
                 icon={<CheckCircle2 />}
                 title="3. Publishes"
-                description="Dispatches on schedule across platforms. Idempotent design makes double-posting structurally impossible."
+                description="Posts at the right time on each platform, exactly once, even when a network hiccups."
               />
               <FeatureCard 
                 icon={<MessageSquare />}
                 title="4. Answers"
-                description="Triages inbound messages by intent, drafts replies, and sends only those that pass explicit confidence gates."
+                description="Sorts incoming messages, drafts replies, and sends only the routine ones. Leads and complaints always come to you."
               />
               <FeatureCard 
                 icon={<BarChart3 />}
                 title="5. Compounds"
-                description="Measures what worked, rewrites pillar weights from results, and recycles proven posts to new audiences."
+                description="Learns what your audience responds to, shifts effort toward it, and brings your best posts back for new followers."
               />
             </div>
           </div>
@@ -107,6 +113,7 @@ export default function Home() {
         <SignupDialog
           planId={signupPlan.id}
           planName={signupPlan.name}
+          signupEnabled={signupEnabled}
           onClose={() => setSignupPlan(null)}
         />
       )}

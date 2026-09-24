@@ -26,11 +26,11 @@ interface Me {
 }
 
 const LOOPS = [
-  ["Content Planning", "Checking daily at 05:10 UTC"],
-  ["Auto-Drafting", "Processing job queue continuously"],
-  ["Publish Dispatch", "Sweeping every 15 minutes"],
-  ["Inbox Triage", "Sweeping every 15 minutes"],
-  ["Growth Compounding", "Metrics collection at xx:17"],
+  ["Planning", "Checking daily at 05:10 UTC"],
+  ["Drafting", "Processing job queue continuously"],
+  ["Publishing", "Sweeping every 15 minutes"],
+  ["Inbox", "Sweeping every 15 minutes"],
+  ["Learning what works", "Metrics collection at xx:17"],
 ];
 
 export default function DashboardOverview() {
@@ -71,8 +71,8 @@ export default function DashboardOverview() {
 
   return (
     <div>
-      <div className="flex justify-between items-center mb-8">
-        <h1 className="text-3xl font-bold">Overview</h1>
+      <div className="flex flex-wrap gap-3 justify-between items-center mb-8">
+        <h1 className="text-2xl sm:text-3xl font-bold">Overview</h1>
         {anyOn && !paused ? (
           <span className="flex items-center gap-2 text-green-600 bg-green-50 px-3 py-1 rounded-full text-sm font-medium border border-green-200">
             <Play className="w-4 h-4" />
@@ -85,7 +85,7 @@ export default function DashboardOverview() {
         )}
       </div>
 
-      <div className="grid grid-cols-3 gap-6 mb-8">
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6 mb-8">
         <StatCard
           title="Connected Channels"
           value={`${data.channels.length} / ${data.plan.channels}`}
@@ -101,7 +101,7 @@ export default function DashboardOverview() {
       )}
 
       <div className="bg-white p-6 rounded-2xl border shadow-sm mb-8">
-        <h2 className="text-xl font-bold mb-4">System State</h2>
+        <h2 className="text-xl font-bold mb-4">What Kairos is doing</h2>
         <p className="text-gray-600 mb-4">
           Kairos runs five background loops on your behalf. Each one checks your stop condition,
           daily caps ({data.controls.daily_publish_cap} posts, {data.controls.daily_reply_cap}{" "}

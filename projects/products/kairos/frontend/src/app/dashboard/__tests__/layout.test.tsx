@@ -20,7 +20,7 @@ describe('dashboard key gate', () => {
   it('does not render children until a key is verified', async () => {
     render(<DashboardLayout>{child}</DashboardLayout>)
 
-    await screen.findByText('Connect this browser')
+    await screen.findByRole('heading', { name: 'Sign in' })
     expect(screen.queryByText('dashboard content')).not.toBeInTheDocument()
   })
 
@@ -31,7 +31,7 @@ describe('dashboard key gate', () => {
 
     render(<DashboardLayout>{child}</DashboardLayout>)
 
-    await screen.findByText('Connect this browser')
+    await screen.findByRole('heading', { name: 'Sign in' })
     expect(mockFetch).not.toHaveBeenCalled()
     expect(localStorage.getItem('kairos_api_key')).toBeNull()
 
@@ -53,7 +53,7 @@ describe('dashboard key gate', () => {
 
     render(<DashboardLayout>{child}</DashboardLayout>)
 
-    expect(await screen.findByText(/no longer valid/i)).toBeInTheDocument()
+    expect(await screen.findByText(/signed out/i)).toBeInTheDocument()
     expect(localStorage.getItem('kairos_api_key')).toBeNull()
   })
 
@@ -62,12 +62,12 @@ describe('dashboard key gate', () => {
     mockFetch.mockResolvedValue(jsonResponse({ error: { code: 'unauthorized' } }, 401))
 
     render(<DashboardLayout>{child}</DashboardLayout>)
-    await screen.findByText('Connect this browser')
+    await screen.findByRole('heading', { name: 'Sign in' })
 
-    await user.type(screen.getByPlaceholderText('kai_sk_…'), 'kai_sk_wrong')
-    await user.click(screen.getByRole('button', { name: /connect/i }))
+    await user.type(screen.getByPlaceholderText('Access key'), 'kai_sk_wrong')
+    await user.click(screen.getByRole('button', { name: /^sign in$/i }))
 
-    expect(await screen.findByText(/was rejected/i)).toBeInTheDocument()
+    expect(await screen.findByText(/wasn't recognised/i)).toBeInTheDocument()
     // The point: a bad key is not written to storage on the way to failing.
     expect(localStorage.getItem('kairos_api_key')).toBeNull()
   })
@@ -77,10 +77,10 @@ describe('dashboard key gate', () => {
     mockFetch.mockResolvedValue(jsonResponse({ account: {} }))
 
     render(<DashboardLayout>{child}</DashboardLayout>)
-    await screen.findByText('Connect this browser')
+    await screen.findByRole('heading', { name: 'Sign in' })
 
-    await user.type(screen.getByPlaceholderText('kai_sk_…'), 'kai_sk_right')
-    await user.click(screen.getByRole('button', { name: /connect/i }))
+    await user.type(screen.getByPlaceholderText('Access key'), 'kai_sk_right')
+    await user.click(screen.getByRole('button', { name: /^sign in$/i }))
 
     expect(await screen.findByText('dashboard content')).toBeInTheDocument()
     expect(localStorage.getItem('kairos_api_key')).toBe('kai_sk_right')
@@ -94,7 +94,7 @@ describe('dashboard key gate', () => {
     render(<DashboardLayout>{child}</DashboardLayout>)
     await screen.findByText('dashboard content')
 
-    await user.click(screen.getByRole('button', { name: /disconnect/i }))
+    await user.click(screen.getAllByRole('button', { name: /sign out/i })[0])
 
     await waitFor(() => expect(localStorage.getItem('kairos_api_key')).toBeNull())
     expect(screen.queryByText('dashboard content')).not.toBeInTheDocument()

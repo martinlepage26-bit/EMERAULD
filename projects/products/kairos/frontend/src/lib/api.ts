@@ -131,3 +131,16 @@ export function startCheckout(planId: string, key: string): Promise<{ url?: stri
     key,
   );
 }
+
+/** Where invitation requests go while signup is closed. */
+export const CONTACT_EMAIL = process.env.NEXT_PUBLIC_CONTACT_EMAIL ?? "ml@pharos-ai.ca";
+
+/** Public deployment settings. Assumes signup is open if the call fails, so a
+ * visitor is never blocked by a network hiccup; the API still enforces it. */
+export async function getPublicConfig(): Promise<{ signupEnabled: boolean }> {
+  try {
+    return await apiFetch<{ signupEnabled: boolean }>("/v1/config");
+  } catch {
+    return { signupEnabled: true };
+  }
+}

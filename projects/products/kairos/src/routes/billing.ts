@@ -83,6 +83,11 @@ billing.get('/pricing', (c) => {
   );
 });
 
+/** Public, unauthenticated: what the marketing page needs to render honestly. */
+billing.get('/v1/config', (c) =>
+  c.json({ signupEnabled: c.env.SIGNUP_ENABLED === 'true' }),
+);
+
 billing.get('/v1/plans', (c) =>
   c.json({
     plans: Object.values(PLANS)

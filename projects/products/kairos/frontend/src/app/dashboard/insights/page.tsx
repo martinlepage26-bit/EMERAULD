@@ -57,7 +57,7 @@ export default function InsightsPage() {
     <div>
       <h1 className="text-3xl font-bold mb-2">Performance &amp; Insights</h1>
       <p className="text-gray-500 mb-8">
-        Measured over the last {data.window}. The system rewrites pillar weights from these results
+        Measured over the last {data.window}. Kairos shifts effort toward topics that perform
         automatically.
       </p>
 
@@ -71,11 +71,11 @@ export default function InsightsPage() {
       <div className="grid md:grid-cols-2 gap-6 mb-8">
         <div className="bg-white p-6 border rounded-2xl shadow-sm">
           <h3 className="text-lg font-bold mb-4 flex items-center gap-2">
-            <BarChart3 className="w-5 h-5 text-gray-400" /> Pillar Weights
+            <BarChart3 className="w-5 h-5 text-gray-400" /> Topics
           </h3>
 
           {data.pillars.length === 0 ? (
-            <p className="text-sm text-gray-500">No pillars defined yet.</p>
+            <p className="text-sm text-gray-500">No topics set up yet.</p>
           ) : (
             <div className="space-y-4">
               {data.pillars.map((pillar) => {

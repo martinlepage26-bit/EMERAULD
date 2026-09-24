@@ -193,3 +193,16 @@ describe('signup switch', () => {
     expect(r.accounts).toBe(1);
   });
 });
+
+describe('public config', () => {
+  it.each([['true', true], ['false', false], [undefined, false]])(
+    'reports signupEnabled from SIGNUP_ENABLED=%s without authentication',
+    async (value, expected) => {
+      const { default: worker } = await import('../src/index');
+      const h = setup({ SIGNUP_ENABLED: value } as Partial<Env>);
+      const res = await worker.fetch(new Request('https://api.test.invalid/v1/config'), h.env);
+      expect(res.status).toBe(200);
+      expect(await res.json()).toEqual({ signupEnabled: expected });
+    },
+  );
+});

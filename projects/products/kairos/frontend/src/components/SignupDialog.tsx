@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { Copy, Check, X } from "lucide-react";
-import { ApiError, signup, startCheckout, storeKey, storedKey } from "@/lib/api";
+import { ApiError, CONTACT_EMAIL, signup, startCheckout, storeKey, storedKey } from "@/lib/api";
 
 /**
  * Signup is the first half of checkout, not a separate flow: `/v1/billing/checkout`
@@ -19,10 +19,12 @@ type Stage =
 export function SignupDialog({
   planId,
   planName,
+  signupEnabled = true,
   onClose,
 }: {
   planId: string;
   planName: string;
+  signupEnabled?: boolean;
   onClose: () => void;
 }) {
   const [stage, setStage] = useState<Stage>({ name: "form" });
@@ -40,10 +42,12 @@ export function SignupDialog({
     } catch (err) {
       const message =
         err instanceof ApiError && err.code === "conflict"
-          ? "An account already exists for that email. Use your existing key on the dashboard."
-          : err instanceof ApiError
-            ? err.message
-            : "Could not reach the API. Check your connection and try again.";
+          ? "An account already exists for that email. Sign in from the dashboard instead."
+          : err instanceof ApiError && err.status === 403
+            ? "New accounts are by invitation right now. Email us and we'll set you up."
+            : err instanceof ApiError
+              ? err.message
+              : "We couldn't reach Kairos. Check your connection and try again.";
       setStage({ name: "error", message });
     }
   };
@@ -97,7 +101,22 @@ export function SignupDialog({
           <X className="w-5 h-5" />
         </button>
 
-        {stage.name === "key" ? (
+        {!signupEnabled ? (
+          <>
+            <h2 className="text-xl font-semibold mb-2">Kairos is invite-only right now</h2>
+            <p className="text-sm text-gray-600 mb-6">
+              We&apos;re onboarding a small group of businesses by hand so every account gets set up
+              properly. Tell us a little about yours and we&apos;ll get you started on the {planName} plan.
+            </p>
+            <a
+              href={`mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(`Kairos access: ${planName} plan`)}`}
+              className="block w-full text-center bg-black text-white py-3 rounded-xl font-medium hover:bg-gray-800"
+            >
+              Request access
+            </a>
+            <p className="text-xs text-gray-500 mt-3 text-center">{CONTACT_EMAIL}</p>
+          </>
+        ) : stage.name === "key" ? (
           <>
             <h2 className="text-xl font-semibold mb-2">Save your API key</h2>
             <p className="text-sm text-gray-500 mb-4">
@@ -135,8 +154,7 @@ export function SignupDialog({
           <>
             <h2 className="text-xl font-semibold mb-2">Start your {planName} trial</h2>
             <p className="text-sm text-gray-500 mb-6">
-              Fourteen days, autopilot off by default. We create your account first, because
-              checkout needs the key it issues.
+              Fourteen days free. Nothing is published until you approve it.
             </p>
 
             <form onSubmit={submit} className="space-y-3">

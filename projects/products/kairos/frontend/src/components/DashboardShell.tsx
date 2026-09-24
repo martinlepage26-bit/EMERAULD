@@ -33,7 +33,7 @@ export function DashboardShell({ children }: { children: React.ReactNode }) {
       }
       if (stored) {
         clearKey();
-        setGate({ state: "locked", error: "That key is no longer valid. Enter a current one." });
+        setGate({ state: "locked", error: "You've been signed out. Enter your access key to continue." });
       } else {
         setGate({ state: "locked" });
       }
@@ -48,7 +48,7 @@ export function DashboardShell({ children }: { children: React.ReactNode }) {
   if (gate.state === "checking") {
     return (
       <div className="flex h-screen items-center justify-center bg-gray-50 text-sm text-gray-500">
-        Checking your key…
+        Signing you in…
       </div>
     );
   }
@@ -58,9 +58,31 @@ export function DashboardShell({ children }: { children: React.ReactNode }) {
   }
 
   return (
-    <div className="flex h-screen bg-gray-50">
+    <div className="flex flex-col md:flex-row h-screen bg-gray-50">
+      {/* Phone: a top bar with scrollable navigation instead of the sidebar. */}
+      <header className="md:hidden bg-white border-b">
+        <div className="flex items-center justify-between px-4 py-3">
+          <div className="flex items-center gap-2">
+            <div className="w-7 h-7 bg-black rounded-lg flex items-center justify-center">
+              <span className="text-white font-bold text-lg leading-none">K</span>
+            </div>
+            <span className="text-lg font-semibold tracking-tight">Kairos</span>
+          </div>
+          <button onClick={disconnect} className="text-xs text-gray-500 hover:text-gray-900">
+            Sign out
+          </button>
+        </div>
+        <nav className="flex gap-1 overflow-x-auto px-2 pb-2 text-sm font-medium">
+          {NAV.map((n) => (
+            <Link key={n.href} href={n.href} className="shrink-0 px-3 py-1.5 rounded-lg text-gray-700 hover:bg-gray-100">
+              {n.label}
+            </Link>
+          ))}
+        </nav>
+      </header>
+
       {/* Sidebar */}
-      <aside className="w-64 bg-white border-r flex flex-col">
+      <aside className="hidden md:flex w-64 bg-white border-r flex-col">
         <div className="p-6">
           <div className="flex items-center gap-2 mb-8">
             <div className="w-8 h-8 bg-black rounded-lg flex items-center justify-center">
@@ -81,14 +103,14 @@ export function DashboardShell({ children }: { children: React.ReactNode }) {
             onClick={disconnect}
             className="flex items-center gap-2 text-xs text-gray-500 hover:text-gray-900 transition-colors"
           >
-            <LogOut className="w-3.5 h-3.5" /> Disconnect this browser
+            <LogOut className="w-3.5 h-3.5" /> Sign out
           </button>
         </div>
       </aside>
 
       {/* Main Content */}
       <main className="flex-1 overflow-auto">
-        <div className="p-8 max-w-6xl mx-auto">{children}</div>
+        <div className="p-4 sm:p-8 max-w-6xl mx-auto">{children}</div>
       </main>
     </div>
   );
@@ -110,7 +132,7 @@ function KeyGate({ error, onUnlocked }: { error?: string; onUnlocked: () => void
     setChecking(false);
 
     if (!ok) {
-      setMessage("That key was rejected. Check it and try again.");
+      setMessage("That access key wasn't recognised. Check it and try again.");
       return;
     }
     storeKey(key);
@@ -127,17 +149,17 @@ function KeyGate({ error, onUnlocked }: { error?: string; onUnlocked: () => void
           <span className="text-xl font-semibold tracking-tight">Kairos</span>
         </div>
 
-        <h1 className="text-lg font-semibold mb-1">Connect this browser</h1>
+        <h1 className="text-lg font-semibold mb-1">Sign in</h1>
         <p className="text-sm text-gray-500 mb-6">
-          Paste the API key you were given when the account was created. It is stored in this
-          browser only.
+          Enter the access key from your welcome email. You&apos;ll stay signed in on this browser
+          until you sign out.
         </p>
 
         <input
           type="password"
           value={value}
           onChange={(e) => setValue(e.target.value)}
-          placeholder="kai_sk_…"
+          placeholder="Access key"
           autoComplete="off"
           autoFocus
           className="w-full border rounded-lg px-4 py-2 mb-3"
@@ -150,7 +172,7 @@ function KeyGate({ error, onUnlocked }: { error?: string; onUnlocked: () => void
           disabled={checking || !value.trim()}
           className="w-full bg-black text-white px-4 py-2 rounded-lg font-medium disabled:opacity-40"
         >
-          {checking ? "Checking…" : "Connect"}
+          {checking ? "Checking…" : "Sign in"}
         </button>
       </form>
     </div>
@@ -167,3 +189,11 @@ function NavItem({ href, icon, label }: { href: string; icon: React.ReactNode; l
     </Link>
   );
 }
+
+const NAV = [
+  { href: "/dashboard", label: "Overview" },
+  { href: "/dashboard/calendar", label: "Calendar" },
+  { href: "/dashboard/posts", label: "Posts & Drafts" },
+  { href: "/dashboard/inbox", label: "Inbox" },
+  { href: "/dashboard/insights", label: "Insights" },
+];

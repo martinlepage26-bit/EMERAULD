@@ -200,7 +200,21 @@ if (dashboardDir && existsSync(dashboardDir)) {
     return serveStatic({ root: dashboardDir })(c, next);
   });
 }
-app.all('*', (c) => worker.fetch(c.req.raw, env, ctx));
+app.all('*', async (c) => {
+  const res = await worker.fetch(c.req.raw, env, ctx);
+  // A browser that mistypes a page address should get the dashboard's 404
+  // page, not the API's JSON error. API paths keep their JSON.
+  const p = new URL(c.req.url).pathname;
+  const wantsPage = c.req.method === 'GET' && !p.startsWith('/v1/') && !p.startsWith('/media/')
+    && p !== '/health' && (c.req.header('accept') ?? '').includes('text/html');
+  if (res.status === 404 && wantsPage && dashboardDir && existsSync(join(dashboardDir, '404.html'))) {
+    return new Response(readFileSync(join(dashboardDir, '404.html')), {
+      status: 404,
+      headers: { 'content-type': 'text/html; charset=utf-8' },
+    });
+  }
+  return res;
+});
 
 const port = Number(process.env.PORT ?? 3480);
 const host = process.env.HOST ?? '127.0.0.1';

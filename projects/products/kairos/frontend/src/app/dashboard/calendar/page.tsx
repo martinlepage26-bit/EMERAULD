@@ -44,9 +44,9 @@ export default function CalendarPage() {
 
   return (
     <div>
-      <h1 className="text-3xl font-bold mb-8">Content Calendar (14 Days)</h1>
+      <h1 className="text-2xl sm:text-3xl font-bold mb-2">Content calendar</h1>
       <p className="text-gray-500 mb-8">
-        The system plans across your pillars by measured performance rather than guesswork.
+        The next 14 days, planned across your topics. Topics that perform get more room.
       </p>
 
       {error ? (
@@ -55,7 +55,7 @@ export default function CalendarPage() {
         <Loading />
       ) : (
         <>
-          <div className="grid grid-cols-7 gap-4">
+          <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-3">
             {days.map((day) => {
               // Slot times are ISO strings from the API; compare by local day.
               const forDay = slots.filter((s) => isSameDay(parseISO(s.scheduled_for), day));
