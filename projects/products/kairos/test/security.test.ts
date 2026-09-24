@@ -158,3 +158,20 @@ describe('rate limiting', () => {
     expect((await rateLimit(h.env, 'ip:9.9.9.9', 1, 3600)).allowed).toBe(true);
   });
 });
+
+describe('signup switch', () => {
+  it('closes public signup when SIGNUP_ENABLED is "false"', async () => {
+    const { default: worker } = await import('../src/index');
+    const h = setup({ SIGNUP_ENABLED: 'false' } as Partial<Env>);
+    const res = await worker.fetch(
+      new Request('https://api.test.invalid/v1/accounts', {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ email: 'x@test.invalid', displayName: 'X' }),
+      }),
+      h.env,
+    );
+    expect(res.status).toBe(403);
+    expect(h.sqlite.prepare('SELECT COUNT(*) AS n FROM accounts').get()).toMatchObject({ n: 0 });
+  });
+});

@@ -18,6 +18,12 @@ export interface Env {
   AI_MODE?: string;
   /** Bearer token for the /v1/agent/work endpoints. Unset disables them. */
   AGENT_TOKEN?: string;
+  /**
+   * "false" closes public signup. On an agent-mode deployment every account
+   * triggers model work on the operator's login, so a publicly reachable dev
+   * instance must not let strangers create accounts.
+   */
+  SIGNUP_ENABLED?: string;
 
   ANTHROPIC_API_KEY: string;
   STRIPE_SECRET_KEY: string;

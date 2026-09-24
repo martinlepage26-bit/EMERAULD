@@ -4,7 +4,7 @@ import type { AppBindings } from '../env';
 import { audit, db } from '../lib/db';
 import { newId, newReferralCode, nowIso } from '../lib/ids';
 import { issueApiKey, requireAuth } from '../lib/auth';
-import { badRequest, conflict, notFound, tooManyRequests } from '../lib/errors';
+import { badRequest, conflict, forbidden, notFound, tooManyRequests } from '../lib/errors';
 import { rateLimit, clientKey } from '../lib/rate-limit';
 import { controlsFor } from '../lib/governance';
 import { encryptSecret } from '../lib/crypto';
@@ -27,6 +27,9 @@ const signupSchema = z.object({
  * unattended publishing after they have seen what the system drafts.
  */
 accounts.post('/v1/accounts', async (c) => {
+  if (c.env.SIGNUP_ENABLED === 'false') {
+    throw forbidden('Signup is closed on this deployment');
+  }
   // Unauthenticated and write-heavy: it inserts rows and mints an API key, so
   // it is throttled by source IP before any work happens.
   const limit = await rateLimit(c.env, `signup:${clientKey(c.req.raw)}`, 5, 3600);
