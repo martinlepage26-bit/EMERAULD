@@ -1,0 +1,745 @@
+<!--
+VERIFY (claims not independently verified, review before external use):
+- General statement that reminders "follow generally accepted commercial communication practices" is a plain-language gesture at rules on commercial electronic messages and collection practices in Quebec/Canada (e.g. consent-based messaging, no threats or harassment). No specific statute, article number, or regulator is cited on this page, and none should be added without legal review.
+- No statistics, guarantees, or named customers appear on this page. If any are added later, verify them before publishing.
+-->
+<!doctype html>
+<html lang="fr" data-lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<script type="application/json" id="artifact-state">{"project":"kairos","doc":"kairos-corp-recouvrement","as_of":"2026-09-25T00:00:00Z"}</script>
+<title>Kairos Recouvrement</title>
+<style>
+  :root {
+    --bg: #f5f6f4;
+    --surface: #ffffff;
+    --surface-alt: #eef1ee;
+    --text: #15181b;
+    --text-muted: #53606b;
+    --border: #dbe0e0;
+    --accent: #0e6f63;
+    --accent-strong: #0b564d;
+    --accent-soft: #e3f1ee;
+    --accent-contrast: #ffffff;
+    --success: #1f7a4d;
+    --success-soft: #e5f4ea;
+    --danger: #b3392b;
+    --danger-soft: #fbe9e6;
+    --shadow: 0 1px 2px rgb(20 30 28 / 0.06), 0 8px 24px rgb(20 30 28 / 0.06);
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1413;
+      --surface: #161d1b;
+      --surface-alt: #1b2422;
+      --text: #edf2f0;
+      --text-muted: #a6b3ad;
+      --border: #283330;
+      --accent: #45c2b1;
+      --accent-strong: #6bd6c7;
+      --accent-soft: #12302b;
+      --accent-contrast: #0a1917;
+      --success: #57c98a;
+      --success-soft: #123322;
+      --danger: #e28175;
+      --danger-soft: #3a1d19;
+      --shadow: 0 1px 2px rgb(0 0 0 / 0.35), 0 12px 30px rgb(0 0 0 / 0.35);
+      color-scheme: dark;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  html[data-lang="fr"] .en { display: none; }
+  html[data-lang="en"] .fr { display: none; }
+
+  a { color: var(--accent); }
+  h1, h2, h3 { line-height: 1.15; margin: 0 0 0.6em; text-wrap: balance; font-weight: 700; }
+  p { margin: 0 0 1em; max-width: 62ch; }
+  ul { margin: 0; padding: 0; }
+  .container { max-width: 1080px; margin: 0 auto; padding: 0 1.25rem; }
+
+  /* Focus visibility */
+  a:focus-visible, button:focus-visible, summary:focus-visible {
+    outline: 3px solid var(--accent);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  /* Nav */
+  header.site-nav {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: color-mix(in srgb, var(--bg) 88%, transparent);
+    backdrop-filter: saturate(140%) blur(8px);
+    -webkit-backdrop-filter: saturate(140%) blur(8px);
+    border-bottom: 1px solid var(--border);
+  }
+  .nav-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    min-height: 64px;
+    padding: 0.6rem 0;
+  }
+  .wordmark { display: flex; align-items: center; gap: 0.55rem; font-weight: 700; font-size: 1.02rem; color: var(--text); text-decoration: none; }
+  .wordmark .mark { width: 30px; height: 30px; flex: none; }
+  .lang-btn {
+    font: inherit;
+    font-size: 0.86rem;
+    font-weight: 600;
+    background: var(--surface);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.5rem 0.95rem;
+    cursor: pointer;
+    min-height: 40px;
+  }
+  .lang-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* Sections rhythm */
+  .section { padding: 3rem 0; border-top: 1px solid var(--border); }
+  .section:first-of-type { border-top: none; }
+  .section h2 { font-size: clamp(1.4rem, 3.2vw, 1.9rem); }
+  .section > .container > .section-lede { color: var(--text-muted); max-width: 62ch; }
+
+  /* Pilot pill */
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--accent-strong);
+    background: var(--accent-soft);
+    border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+    border-radius: 999px;
+    padding: 0.4rem 0.85rem;
+  }
+  .pill .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); flex: none; }
+
+  /* Hero */
+  .hero { padding: 2.75rem 0 3.25rem; }
+  .hero-grid { display: grid; grid-template-columns: 1fr; gap: 2rem; align-items: center; }
+  .hero h1 { font-size: clamp(1.85rem, 5.2vw, 2.85rem); margin: 0.9rem 0 0.85rem; letter-spacing: -0.01em; }
+  .hero .subhead { font-size: 1.08rem; color: var(--text-muted); max-width: 52ch; }
+  .hero-actions { margin-top: 1.4rem; display: flex; flex-wrap: wrap; gap: 0.9rem; align-items: center; }
+  .hero-visual { display: flex; justify-content: center; }
+  .hero-visual svg { width: 100%; max-width: 340px; height: auto; }
+
+  /* CTA button */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font: inherit;
+    font-weight: 700;
+    font-size: 0.98rem;
+    text-decoration: none;
+    white-space: nowrap;
+    padding: 0.85rem 1.4rem;
+    border-radius: 10px;
+    min-height: 48px;
+    background: var(--accent);
+    color: var(--accent-contrast);
+    border: 1px solid transparent;
+    transition: transform 0.15s ease, background 0.15s ease;
+  }
+  .btn:hover { background: var(--accent-strong); }
+  .btn:active { transform: translateY(1px); }
+  .btn:visited { color: var(--accent-contrast); }
+
+  /* Problem list */
+  .problem-list { list-style: none; display: grid; gap: 1rem; margin-top: 1.75rem; }
+  .problem-list li {
+    border-left: 3px solid var(--accent);
+    background: var(--surface);
+    border-top: 1px solid var(--border);
+    border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    border-radius: 0 10px 10px 0;
+    padding: 1rem 1.15rem;
+    color: var(--text);
+  }
+  .problem-list p { margin: 0; max-width: 60ch; }
+
+  /* Steps */
+  .steps { list-style: none; display: grid; gap: 1.5rem; margin-top: 1.75rem; counter-reset: step; }
+  .steps li { display: grid; grid-template-columns: 2.5rem 1fr; gap: 1rem; }
+  .step-num {
+    width: 2.5rem; height: 2.5rem; border-radius: 50%;
+    background: var(--accent-soft); color: var(--accent-strong);
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 1.05rem; flex: none;
+  }
+  .steps p { margin: 0.15rem 0 0; max-width: 62ch; }
+  .steps h3 { margin: 0; font-size: 1.05rem; }
+
+  /* Animation section */
+  .anim-section .container > p.section-lede { margin-bottom: 1.5rem; }
+  .anim-stage {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 1rem 0.75rem 0.5rem;
+    box-shadow: var(--shadow);
+    overflow-x: auto;
+  }
+  .anim-stage svg { display: block; width: 100%; min-width: 560px; height: auto; }
+  .anim-legend {
+    display: flex; flex-wrap: wrap; gap: 1.1rem;
+    margin-top: 0.9rem; font-size: 0.86rem; color: var(--text-muted);
+  }
+  .anim-legend span { display: inline-flex; align-items: center; gap: 0.4rem; }
+  .anim-legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; flex: none; }
+  .anim-legend .sw-success { background: var(--success); }
+  .anim-legend .sw-danger { background: var(--danger); }
+
+  svg text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif; }
+  .an-label { font-size: 11.5px; fill: var(--text-muted); }
+  .an-title { font-size: 12.5px; font-weight: 700; fill: var(--text); }
+  .an-small { font-size: 10.5px; fill: var(--text-muted); }
+
+  /* Motion states: default = final resting frame (no motion needed) */
+  .anim-timeline .an { opacity: 1; }
+  .anim-timeline .an-card1 { transform: translate(var(--tx1-final), var(--ty1)); }
+  .anim-timeline .an-card2 { transform: translate(var(--tx2-final), var(--ty2)); }
+  .anim-timeline .an-dot { transform: translate(var(--dx), var(--dy)); }
+  .anim-timeline .an-fade { transform: none; }
+
+  /* When JS confirms motion is allowed: start hidden / offset, then reveal once in view */
+  .anim-timeline.js-ready .an { opacity: 0; }
+  .anim-timeline.js-ready .an-card1 { transform: translate(var(--tx1-start), var(--ty1)); }
+  .anim-timeline.js-ready .an-card2 { transform: translate(var(--tx2-start), var(--ty2)); }
+  .anim-timeline.js-ready .an-dot { transform: translate(var(--dx), calc(var(--dy) + 6px)); }
+  .anim-timeline.js-ready .an-fade { transform: translateY(6px); }
+
+  .anim-timeline.js-ready.play .an-card1 {
+    animation: cardMove1 1.5s cubic-bezier(.3,0,.2,1) forwards;
+    animation-delay: var(--d, 0s);
+  }
+  .anim-timeline.js-ready.play .an-card2 {
+    animation: cardMove2 1s cubic-bezier(.3,0,.2,1) forwards;
+    animation-delay: var(--d, 0s);
+  }
+  .anim-timeline.js-ready.play .an-dot,
+  .anim-timeline.js-ready.play .an-fade {
+    animation: fadeUp .55s ease forwards;
+    animation-delay: var(--d, 0s);
+  }
+  @keyframes cardMove1 {
+    from { transform: translate(var(--tx1-start), var(--ty1)); opacity: 0; }
+    to   { transform: translate(var(--tx1-final), var(--ty1)); opacity: 1; }
+  }
+  @keyframes cardMove2 {
+    from { transform: translate(var(--tx2-start), var(--ty2)); opacity: 0; }
+    to   { transform: translate(var(--tx2-final), var(--ty2)); opacity: 1; }
+  }
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .an-stop-line { stroke-dasharray: 4 5; opacity: 0.55; }
+
+  /* Control checklist */
+  .check-grid { list-style: none; display: grid; gap: 1rem; margin-top: 1.75rem; grid-template-columns: 1fr; }
+  .check-grid li { display: flex; gap: 0.75rem; align-items: flex-start; }
+  .check-grid .icon { width: 22px; height: 22px; flex: none; color: var(--accent); margin-top: 0.15rem; }
+  .check-grid p { margin: 0; max-width: 56ch; }
+
+  /* Pilot plan */
+  .plan { margin-top: 1.75rem; display: grid; gap: 0; border-top: 1px solid var(--border); }
+  .plan-row { display: grid; grid-template-columns: 5.5rem 1fr; gap: 1rem; padding: 0.9rem 0; border-bottom: 1px solid var(--border); }
+  .plan-row .wk { font-weight: 700; color: var(--accent-strong); font-size: 0.92rem; }
+  .plan-row p { margin: 0; max-width: 58ch; }
+  .plan-measure {
+    margin-top: 1.5rem;
+    background: var(--surface-alt);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem 1.15rem;
+  }
+  .plan-measure p { margin: 0; max-width: 64ch; }
+
+  /* FAQ */
+  .faq { margin-top: 1.75rem; display: grid; gap: 0.75rem; }
+  .faq details {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 0.2rem 1.1rem;
+  }
+  .faq summary {
+    cursor: pointer;
+    font-weight: 700;
+    padding: 0.9rem 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: center;
+  }
+  .faq summary::-webkit-details-marker { display: none; }
+  .faq summary .chev { flex: none; width: 9px; height: 9px; border-right: 2px solid var(--text-muted); border-bottom: 2px solid var(--text-muted); transform: rotate(45deg); transition: transform 0.2s ease; }
+  .faq details[open] summary .chev { transform: rotate(-135deg); }
+  .faq .faq-a { padding-bottom: 1rem; color: var(--text-muted); max-width: 62ch; }
+  .faq .faq-a p { margin: 0; }
+
+  /* Final CTA band */
+  .cta-band {
+    background: var(--surface-alt);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    padding: 3.5rem 0;
+    text-align: center;
+  }
+  .cta-band h2 { font-size: clamp(1.5rem, 3.6vw, 2.1rem); }
+  .cta-band p { margin: 0 auto 1.2rem; color: var(--text-muted); }
+  .cta-band .pill { margin-top: 1.4rem; }
+
+  footer.site-footer { padding: 2rem 0 3rem; color: var(--text-muted); font-size: 0.86rem; }
+  footer.site-footer .container { display: flex; flex-wrap: wrap; gap: 0.6rem 1.4rem; justify-content: space-between; align-items: center; }
+
+  /* Breakpoints */
+  @media (min-width: 760px) {
+    .hero-grid { grid-template-columns: 1.1fr 0.9fr; gap: 3rem; }
+    .check-grid { grid-template-columns: 1fr 1fr; }
+    .plan-row { grid-template-columns: 7rem 1fr; }
+  }
+  @media (min-width: 1000px) {
+    .section { padding: 4.5rem 0; }
+    .hero { padding: 3.5rem 0 4rem; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .btn, .lang-btn { transition: none; }
+  }
+</style>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="M20 6.5 9.5 17 4 11.5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-person" viewBox="0 0 24 24"><circle cx="12" cy="7.5" r="3.4" fill="currentColor"/><path d="M4.5 20c1-4 4-6 7.5-6s6.5 2 7.5 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></symbol>
+  </defs>
+</svg>
+
+<header class="site-nav">
+  <div class="container nav-row">
+    <a class="wordmark" href="#top">
+      <svg class="mark" viewBox="0 0 32 32" aria-hidden="true">
+        <rect x="1" y="1" width="30" height="30" rx="8" fill="var(--accent-soft)" stroke="var(--accent)" stroke-width="1.4"/>
+        <path d="M10 21V11l6 5 6-5v10" fill="none" stroke="var(--accent-strong)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <span class="fr">Kairos Recouvrement</span>
+      <span class="en">Kairos Collections</span>
+    </a>
+    <button type="button" id="lang-toggle" class="lang-btn" aria-label="Switch to English">English</button>
+  </div>
+</header>
+
+<main id="top">
+
+  <section class="hero">
+    <div class="container hero-grid">
+      <div>
+        <span class="pill"><span class="dot"></span>
+          <span class="fr">Programme pilote. Places limitées.</span>
+          <span class="en">Pilot program. Limited spots.</span>
+        </span>
+        <h1 class="fr">Vos factures de 60 et 90 jours ne se relancent pas toutes seules.</h1>
+        <h1 class="en">Your 60 and 90-day invoices will not chase themselves.</h1>
+        <p class="subhead fr">Kairos planifie et rédige vos rappels de paiement, un humain approuve, l'envoi se fait au bon moment, jusqu'au paiement.</p>
+        <p class="subhead en">Kairos plans and drafts your payment reminders, a person approves them, they go out at the right time, until payment arrives.</p>
+        <div class="hero-actions">
+          <a class="btn fr" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Recouvrement%20-%20appel%20de%2020%20minutes">Réserver un appel de 20 minutes</a>
+          <a class="btn en" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Collections%20-%2020-minute%20call">Book a 20-minute call</a>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <svg viewBox="0 0 240 220" aria-hidden="true">
+          <rect x="42" y="20" width="140" height="110" rx="6" fill="var(--surface-alt)" stroke="var(--border)"/>
+          <rect x="30" y="34" width="150" height="120" rx="10" fill="var(--surface)" stroke="var(--border)" stroke-width="1.4"/>
+          <rect x="46" y="52" width="90" height="8" rx="4" fill="var(--border)"/>
+          <rect x="46" y="70" width="118" height="6" rx="3" fill="var(--border)"/>
+          <rect x="46" y="84" width="98" height="6" rx="3" fill="var(--border)"/>
+          <rect x="46" y="98" width="70" height="6" rx="3" fill="var(--border)"/>
+          <line x1="46" y1="118" x2="164" y2="118" stroke="var(--border)"/>
+          <text x="46" y="140" class="an-title">
+            <tspan class="fr">1 245 $</tspan>
+            <tspan class="en">$1,245</tspan>
+          </text>
+          <circle cx="160" cy="52" r="22" fill="var(--success-soft)" stroke="var(--success)" stroke-width="1.6"/>
+          <use href="#i-check" x="149" y="41" width="22" height="22" style="color:var(--success)"/>
+        </svg>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="probleme">
+    <div class="container">
+      <h2 class="fr">Ce que vit votre équipe des comptes clients</h2>
+      <h2 class="en">What your accounts receivable team lives with</h2>
+      <ul class="problem-list">
+        <li class="fr"><p>Les factures dépassent 60 jours, puis 90, parce que personne n'a le temps de relancer chaque client au bon moment.</p></li>
+        <li class="en"><p>Invoices pass 60 days, then 90, because nobody has time to follow up with every client at the right moment.</p></li>
+        <li class="fr"><p>Les rappels sont inconsistants, parfois oubliés, souvent seulement en français ou seulement en anglais, alors que vos clients sont bilingues.</p></li>
+        <li class="en"><p>Reminders are inconsistent, sometimes forgotten, often only in French or only in English, even though your clients are bilingual.</p></li>
+        <li class="fr"><p>Le commis aux comptes recevables refait les mêmes courriels polis chaque semaine, les différends restent enterrés dans la boîte de réception, et la trésorerie en souffre.</p></li>
+        <li class="en"><p>The accounts receivable clerk rewrites the same polite emails every week, disputes stay buried in the inbox, and cash flow suffers.</p></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section" id="comment">
+    <div class="container">
+      <h2 class="fr">Comment ça fonctionne, en trois étapes</h2>
+      <h2 class="en">How it works, in three steps</h2>
+      <ol class="steps">
+        <li>
+          <span class="step-num">1</span>
+          <div>
+            <h3 class="fr">Kairos planifie</h3>
+            <h3 class="en">Kairos plans</h3>
+            <p class="fr">Kairos importe votre liste de comptes clients ouverts, à partir d'un export simple ou connecté à votre système comptable pendant le pilote, et propose un échéancier de rappels pour chaque facture.</p>
+            <p class="en">Kairos imports your list of open receivables, from a simple export or connected to your accounting system during the pilot, and proposes a reminder schedule for each invoice.</p>
+          </div>
+        </li>
+        <li>
+          <span class="step-num">2</span>
+          <div>
+            <h3 class="fr">Vous approuvez, l'envoi se fait au bon moment</h3>
+            <h3 class="en">You approve, it goes out at the right time</h3>
+            <p class="fr">Vous approuvez le ton et les limites. Les rappels partent au bon moment, deviennent plus fermes graduellement selon vos limites, et s'arrêtent dès qu'un paiement ou une réponse arrive.</p>
+            <p class="en">You approve the tone and the limits. Reminders go out at the right time, get firmer step by step within your limits, and stop as soon as a payment or a reply arrives.</p>
+          </div>
+        </li>
+        <li>
+          <span class="step-num">3</span>
+          <div>
+            <h3 class="fr">Les réponses sont triées</h3>
+            <h3 class="en">Replies get sorted</h3>
+            <p class="fr">Payée, promesse de paiement, litige, mauvais contact. Les réponses courantes peuvent partir automatiquement seulement si vous l'autorisez par catégorie. Les cas importants (litiges, ententes de paiement, mentions légales, clients mécontents, comptes clés) vont toujours à une personne.</p>
+            <p class="en">Paid, promise to pay, dispute, wrong contact. Routine replies can go out automatically only if you allow it per category. Important cases (disputes, payment arrangements, legal mentions, upset clients, key accounts) always go to a person.</p>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="section anim-section" id="boucle">
+    <div class="container">
+      <h2 class="fr">La boucle, en clair</h2>
+      <h2 class="en">The loop, in plain terms</h2>
+      <p class="section-lede fr">Une facture entre dans l'échéancier, les rappels arrivent au bon rythme, la réponse du client décide de la suite.</p>
+      <p class="section-lede en">An invoice enters the schedule, reminders arrive at the right pace, the client's reply decides what happens next.</p>
+
+      <div class="anim-stage">
+        <svg class="anim-timeline" id="kairos-anim" viewBox="0 0 760 250" role="img" aria-hidden="true">
+          <text x="16" y="26" class="an-label fr">Facture A</text>
+          <text x="16" y="26" class="an-label en">Invoice A</text>
+          <text x="16" y="150" class="an-label fr">Facture B</text>
+          <text x="16" y="150" class="an-label en">Invoice B</text>
+
+          <line x1="40" y1="70" x2="720" y2="70" stroke="var(--border)" stroke-width="2"/>
+          <line x1="40" y1="190" x2="450" y2="190" stroke="var(--border)" stroke-width="2"/>
+          <line class="an-stop-line" x1="450" y1="190" x2="720" y2="190" stroke="var(--border)" stroke-width="2"/>
+
+          <g class="an an-dot" style="--dx:110px;--dy:70px;--d:0.05s" transform="translate(110,70)">
+            <circle r="5" fill="var(--accent)"/>
+            <text y="-14" text-anchor="middle" class="an-small fr">Envoi</text>
+            <text y="-14" text-anchor="middle" class="an-small en">Sent</text>
+          </g>
+          <g class="an an-dot" style="--dx:280px;--dy:70px;--d:0.35s" transform="translate(280,70)">
+            <circle r="5" fill="var(--accent)"/>
+            <text y="-14" text-anchor="middle" class="an-small fr">Échéance</text>
+            <text y="-14" text-anchor="middle" class="an-small en">Due</text>
+          </g>
+          <g class="an an-dot" style="--dx:450px;--dy:70px;--d:0.65s" transform="translate(450,70)">
+            <circle r="5" fill="var(--accent)"/>
+            <text y="-14" text-anchor="middle" class="an-small fr">Rappel, plus ferme</text>
+            <text y="-14" text-anchor="middle" class="an-small en">Reminder, firmer</text>
+          </g>
+          <g class="an an-dot" style="--dx:620px;--dy:70px;--d:0.95s" transform="translate(620,70)">
+            <circle r="5" fill="var(--accent)"/>
+            <text y="-14" text-anchor="middle" class="an-small fr">Réponse</text>
+            <text y="-14" text-anchor="middle" class="an-small en">Reply</text>
+          </g>
+
+          <g class="an an-dot" style="--dx:110px;--dy:190px;--d:0.05s" transform="translate(110,190)">
+            <circle r="5" fill="var(--accent)"/>
+            <text y="18" text-anchor="middle" class="an-small fr">Envoi</text>
+            <text y="18" text-anchor="middle" class="an-small en">Sent</text>
+          </g>
+          <g class="an an-dot" style="--dx:280px;--dy:190px;--d:0.35s" transform="translate(280,190)">
+            <circle r="5" fill="var(--accent)"/>
+            <text y="18" text-anchor="middle" class="an-small fr">Échéance</text>
+            <text y="18" text-anchor="middle" class="an-small en">Due</text>
+          </g>
+          <g class="an an-dot" style="--dx:450px;--dy:190px;--d:0.55s" transform="translate(450,190)">
+            <circle r="5" fill="var(--accent)"/>
+            <text y="18" text-anchor="middle" class="an-small fr">Rappel, plus ferme</text>
+            <text y="18" text-anchor="middle" class="an-small en">Reminder, firmer</text>
+          </g>
+
+          <g class="an an-card1" style="--tx1-start:70px;--tx1-final:620px;--ty1:70px;--d:0.1s" transform="translate(620,70)">
+            <rect x="-40" y="-22" width="80" height="44" rx="9" fill="var(--success-soft)" stroke="var(--success)" stroke-width="1.6"/>
+            <use href="#i-check" x="-13" y="-24" width="20" height="20" style="color:var(--success)"/>
+            <text y="16" text-anchor="middle" class="an-small fr">Payée</text>
+            <text y="16" text-anchor="middle" class="an-small en">Paid</text>
+          </g>
+          <g class="an an-fade" style="--d:1.5s" transform="translate(620,28)">
+            <rect x="-84" y="-15" width="168" height="26" rx="13" fill="var(--surface-alt)" stroke="var(--border)"/>
+            <text y="4" text-anchor="middle" class="an-small fr">Reçu, paiement en cours</text>
+            <text y="4" text-anchor="middle" class="an-small en">Received, payment in progress</text>
+          </g>
+
+          <g class="an an-card2" style="--tx2-start:70px;--tx2-final:450px;--ty2:190px;--d:0.1s" transform="translate(450,190)">
+            <rect x="-40" y="-22" width="80" height="44" rx="9" fill="var(--danger-soft)" stroke="var(--danger)" stroke-width="1.6"/>
+            <use href="#i-person" x="14" y="-40" width="20" height="20" style="color:var(--danger)"/>
+          </g>
+          <g class="an an-fade" style="--d:1.05s" transform="translate(560,150)">
+            <rect x="-95" y="-15" width="190" height="26" rx="13" fill="var(--danger-soft)" stroke="var(--danger)"/>
+            <text y="4" text-anchor="middle" class="an-small fr">Litige : pour vous</text>
+            <text y="4" text-anchor="middle" class="an-small en">Dispute: for you</text>
+          </g>
+        </svg>
+      </div>
+
+      <div class="anim-legend">
+        <span><i class="sw-success"></i>
+          <span class="fr">Vert : facture payée</span>
+          <span class="en">Green: invoice paid</span>
+        </span>
+        <span><i class="sw-danger"></i>
+          <span class="fr">Rouge : litige, remis à une personne</span>
+          <span class="en">Red: dispute, handed to a person</span>
+        </span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="controle">
+    <div class="container">
+      <h2 class="fr">Vous gardez le contrôle</h2>
+      <h2 class="en">You stay in control</h2>
+      <ul class="check-grid">
+        <li>
+          <svg class="icon" aria-hidden="true"><use href="#i-check"/></svg>
+          <p class="fr">Approbation humaine avant l'envoi de chaque rappel.</p>
+          <p class="en">Human approval before every reminder goes out.</p>
+        </li>
+        <li>
+          <svg class="icon" aria-hidden="true"><use href="#i-check"/></svg>
+          <p class="fr">Limites de ton que vous définissez à l'avance.</p>
+          <p class="en">Tone limits that you set in advance.</p>
+        </li>
+        <li>
+          <svg class="icon" aria-hidden="true"><use href="#i-check"/></svg>
+          <p class="fr">Comptes clés exclus des relances automatiques, sur demande.</p>
+          <p class="en">Key accounts excluded from automatic reminders, on request.</p>
+        </li>
+        <li>
+          <svg class="icon" aria-hidden="true"><use href="#i-check"/></svg>
+          <p class="fr">Arrêt automatique dès qu'un paiement ou une réponse arrive.</p>
+          <p class="en">Automatic stop as soon as a payment or a reply arrives.</p>
+        </li>
+        <li>
+          <svg class="icon" aria-hidden="true"><use href="#i-check"/></svg>
+          <p class="fr">Journal complet de chaque message envoyé et de chaque décision.</p>
+          <p class="en">A full log of every message sent and every decision made.</p>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section" id="pilote">
+    <div class="container">
+      <h2 class="fr">Le pilote, sur six semaines</h2>
+      <h2 class="en">The pilot, over six weeks</h2>
+      <div class="plan">
+        <div class="plan-row">
+          <span class="wk fr">Semaine 1</span>
+          <span class="wk en">Week 1</span>
+          <div>
+            <p class="fr">Connexion à votre liste de comptes clients, réglage du ton et des limites avec votre équipe.</p>
+            <p class="en">Connect to your receivables list, set the tone and the limits with your team.</p>
+          </div>
+        </div>
+        <div class="plan-row">
+          <span class="wk fr">Semaines 2 à 3</span>
+          <span class="wk en">Weeks 2 to 3</span>
+          <div>
+            <p class="fr">Premiers rappels envoyés, ajustements selon vos retours.</p>
+            <p class="en">First reminders go out, adjustments based on your feedback.</p>
+          </div>
+        </div>
+        <div class="plan-row">
+          <span class="wk fr">Semaines 4 à 5</span>
+          <span class="wk en">Weeks 4 to 5</span>
+          <div>
+            <p class="fr">Suivi des réponses, résolution des litiges signalés par votre équipe.</p>
+            <p class="en">Follow up on replies, resolve disputes flagged by your team.</p>
+          </div>
+        </div>
+        <div class="plan-row">
+          <span class="wk fr">Semaine 6</span>
+          <span class="wk en">Week 6</span>
+          <div>
+            <p class="fr">Bilan avec votre équipe et décision sur la suite.</p>
+            <p class="en">Review with your team and a decision on next steps.</p>
+          </div>
+        </div>
+      </div>
+      <div class="plan-measure">
+        <p class="fr">Ce qu'on mesure ensemble: l'âge des comptes clients, le temps consacré aux relances, le taux de réponse.</p>
+        <p class="en">What we measure together: the age of receivables, time spent on follow ups, the reply rate.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="faq">
+    <div class="container">
+      <h2 class="fr">Questions fréquentes</h2>
+      <h2 class="en">Frequently asked questions</h2>
+      <div class="faq">
+        <details class="fr">
+          <summary>Est-ce une agence de recouvrement ?<span class="chev" aria-hidden="true"></span></summary>
+          <div class="faq-a"><p>Non. Kairos ne menace jamais et n'agit pas comme une agence de recouvrement. Il envoie des rappels polis, de plus en plus fermes dans les limites que vous fixez, et remet les cas délicats à une personne de votre équipe. Les rappels suivent les pratiques généralement admises pour les communications commerciales.</p></div>
+        </details>
+        <details class="en">
+          <summary>Is this a collection agency?<span class="chev" aria-hidden="true"></span></summary>
+          <div class="faq-a"><p>No. Kairos never threatens and does not act as a collection agency. It sends polite reminders, gradually firmer within limits you set, and hands delicate cases to a person on your team. Reminders follow generally accepted commercial communication practices.</p></div>
+        </details>
+
+        <details class="fr">
+          <summary>Comment Kairos s'intègre-t-il à notre système comptable ?<span class="chev" aria-hidden="true"></span></summary>
+          <div class="faq-a"><p>Kairos se connecte à la liste de comptes clients de votre système comptable pendant le pilote. On peut aussi démarrer simplement, à partir d'un export.</p></div>
+        </details>
+        <details class="en">
+          <summary>How does Kairos connect to our accounting system?<span class="chev" aria-hidden="true"></span></summary>
+          <div class="faq-a"><p>Kairos connects to your accounting system's receivables list during the pilot. It can also start simply, from an export.</p></div>
+        </details>
+
+        <details class="fr">
+          <summary>Est-ce vraiment bilingue ?<span class="chev" aria-hidden="true"></span></summary>
+          <div class="faq-a"><p>Oui. Les rappels sont rédigés en français ou en anglais selon le client, automatiquement.</p></div>
+        </details>
+        <details class="en">
+          <summary>Is it really bilingual?<span class="chev" aria-hidden="true"></span></summary>
+          <div class="faq-a"><p>Yes. Reminders are drafted in French or English depending on the client, automatically.</p></div>
+        </details>
+
+        <details class="fr">
+          <summary>Qui garde le contrôle des messages envoyés ?<span class="chev" aria-hidden="true"></span></summary>
+          <div class="faq-a"><p>Vous. Chaque rappel est approuvé par une personne, les limites de ton sont les vôtres, et tout s'arrête dès qu'un paiement ou une réponse arrive.</p></div>
+        </details>
+        <details class="en">
+          <summary>Who stays in control of the messages sent?<span class="chev" aria-hidden="true"></span></summary>
+          <div class="faq-a"><p>You do. Every reminder is approved by a person, tone limits are yours, and everything stops as soon as a payment or a reply arrives.</p></div>
+        </details>
+
+        <details class="fr">
+          <summary>Que se passe-t-il après les six semaines du pilote ?<span class="chev" aria-hidden="true"></span></summary>
+          <div class="faq-a"><p>On fait un bilan avec votre équipe et on décide ensemble de la suite, sans engagement au-delà du pilote.</p></div>
+        </details>
+        <details class="en">
+          <summary>What happens after the six-week pilot?<span class="chev" aria-hidden="true"></span></summary>
+          <div class="faq-a"><p>We review with your team and decide together what comes next, with no commitment beyond the pilot.</p></div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-band" id="final-cta">
+    <div class="container">
+      <h2 class="fr">Prêt à essayer le pilote ?</h2>
+      <h2 class="en">Ready to try the pilot?</h2>
+      <p class="fr">Réservez un appel de 20 minutes pour voir si Kairos Recouvrement convient à votre équipe.</p>
+      <p class="en">Book a 20-minute call to see if Kairos Collections fits your team.</p>
+      <a class="btn fr" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Recouvrement%20-%20appel%20de%2020%20minutes">Réserver un appel de 20 minutes</a>
+      <a class="btn en" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Collections%20-%2020-minute%20call">Book a 20-minute call</a>
+      <div>
+        <span class="pill">
+          <span class="dot"></span>
+          <span class="fr">Programme pilote. Places limitées.</span>
+          <span class="en">Pilot program. Limited spots.</span>
+        </span>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <span class="fr">Kairos Recouvrement</span>
+    <span class="en">Kairos Collections</span>
+    <a href="mailto:ml@pharos-ai.ca">ml@pharos-ai.ca</a>
+  </div>
+</footer>
+
+<script>
+(function () {
+  var root = document.documentElement;
+  var btn = document.getElementById('lang-toggle');
+
+  function setLang(lang) {
+    root.setAttribute('lang', lang);
+    root.setAttribute('data-lang', lang);
+    if (btn) {
+      btn.textContent = lang === 'fr' ? 'English' : 'Français';
+      btn.setAttribute('aria-label', lang === 'fr' ? 'Switch to English' : 'Passer au français');
+    }
+    document.title = lang === 'fr' ? 'Kairos Recouvrement' : 'Kairos Collections';
+  }
+
+  if (btn) {
+    btn.addEventListener('click', function () {
+      var current = root.getAttribute('data-lang') || 'fr';
+      setLang(current === 'fr' ? 'en' : 'fr');
+    });
+  }
+  setLang('fr');
+
+  var reduceMotion = false;
+  try {
+    reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  } catch (e) {
+    reduceMotion = false;
+  }
+
+  var stage = document.getElementById('kairos-anim');
+  if (stage && !reduceMotion && 'IntersectionObserver' in window) {
+    stage.classList.add('js-ready');
+    var played = false;
+    var observer = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting && !played) {
+          played = true;
+          stage.classList.add('play');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.35 });
+    observer.observe(stage);
+  }
+})();
+</script>
+
+</body>
+</html>

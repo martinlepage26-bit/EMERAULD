@@ -1,0 +1,445 @@
+<!--
+VERIFY:
+- Confirm the exact Canadian Anti-Spam Law (CASL / LCAP) consent basis that applies when a sales rep's follow-up on a client-requested quote is drafted and sent through a tool like Kairos (implied consent duration, required record-keeping, unsubscribe mechanics) before this page is used publicly.
+- Confirm whether describing "a client who asked for a quote" as sufficient implied consent under LCAP still holds once the relationship crosses any existing-business-relationship time limits, and adjust the FAQ wording if not.
+-->
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="color-scheme" content="light dark">
+<script type="application/json" id="artifact-state">{"project":"kairos","doc":"kairos-corp-soumissions","as_of":"2026-09-25T00:00:00Z"}</script>
+<title>Kairos Soumissions - programme pilote</title>
+<style>
+  :root {
+    --bg: #F6F4F0;
+    --surface: #FFFFFF;
+    --surface-2: #FBF9F6;
+    --ink: #1C1B18;
+    --ink-mid: #524F49;
+    --ink-soft: #7C786F;
+    --rule: #E1DDD3;
+    --accent: #D9531E;
+    --accent-ink: #FFFFFF;
+    --accent-soft: #FBE6DA;
+    --muted: #9C978C;
+    --focus: #1C1B18;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17161A;
+      --surface: #201F24;
+      --surface-2: #1B1A1E;
+      --ink: #EFEDE8;
+      --ink-mid: #B7B2A9;
+      --ink-soft: #8B867C;
+      --rule: #34323470;
+      --rule: #34323A;
+      --accent: #FF7A42;
+      --accent-ink: #1A1108;
+      --accent-soft: #3A2415;
+      --muted: #6E6A63;
+      --focus: #F3EFE9;
+      color-scheme: dark;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, system-ui, Helvetica, Arial, sans-serif;
+  }
+  .page { max-width: 720px; margin: 0 auto; padding: 0 18px 4rem; }
+  a { color: inherit; }
+  h1, h2, h3 { font-weight: 700; text-wrap: balance; margin: 0; line-height: 1.15; }
+  p { margin: 0; }
+  ul, ol { margin: 0; padding: 0; list-style: none; }
+  :focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; border-radius: 3px; }
+
+  .topbar {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 1.1rem 0; border-bottom: 1px solid var(--rule);
+  }
+  .brand { display: flex; align-items: center; gap: 0.55rem; font-weight: 700; font-size: 0.98rem; letter-spacing: 0.01em; }
+  .brand .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--accent); display: inline-block; }
+  .lang-btn {
+    font: 600 0.82rem -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, system-ui, sans-serif;
+    background: transparent; color: var(--ink-mid); border: 1px solid var(--rule);
+    border-radius: 100px; padding: 0.4rem 0.85rem; cursor: pointer;
+  }
+  .lang-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  section { padding: 2.6rem 0; border-bottom: 1px solid var(--rule); }
+  section:last-of-type { border-bottom: 0; }
+
+  .hero { padding-top: 2.8rem; }
+  .pilot-tag {
+    display: inline-block; font: 700 0.72rem/1 ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent);
+    background: var(--accent-soft); border-radius: 100px; padding: 0.45rem 0.8rem; margin-bottom: 1.1rem;
+  }
+  h1 { font-size: clamp(1.7rem, 6.2vw, 2.5rem); margin-bottom: 1rem; }
+  .lede { color: var(--ink-mid); font-size: 1.05rem; max-width: 56ch; }
+  .cta {
+    display: inline-block; margin-top: 1.6rem; background: var(--accent); color: var(--accent-ink);
+    font-weight: 700; font-size: 0.98rem; text-decoration: none; padding: 0.85rem 1.4rem;
+    border-radius: 8px; box-shadow: 0 1px 0 rgba(0,0,0,0.08);
+  }
+  .cta:hover { filter: brightness(1.05); }
+
+  h2 { font-size: clamp(1.25rem, 4.5vw, 1.55rem); margin-bottom: 1.2rem; }
+
+  .bullets li {
+    position: relative; padding-left: 1.3rem; color: var(--ink-mid); font-size: 1rem;
+    margin-bottom: 0.9rem; max-width: 58ch;
+  }
+  .bullets li::before { content: "-"; position: absolute; left: 0; color: var(--accent); font-weight: 700; }
+  .bullets li:last-child { margin-bottom: 0; }
+
+  .steps { counter-reset: step; display: flex; flex-direction: column; gap: 1.4rem; }
+  .steps li { display: flex; gap: 0.9rem; }
+  .step-num {
+    flex: none; width: 2rem; height: 2rem; border-radius: 50%; background: var(--accent); color: var(--accent-ink);
+    display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 0.95rem;
+  }
+  .step-body h3 { font-size: 1.02rem; margin-bottom: 0.3rem; }
+  .step-body p { color: var(--ink-mid); font-size: 0.96rem; max-width: 54ch; }
+
+  .loop-section p.intro { color: var(--ink-mid); font-size: 0.98rem; max-width: 56ch; margin-bottom: 1.4rem; }
+  .loop {
+    background: var(--surface); border: 1px solid var(--rule); border-radius: 12px; padding: 0.9rem;
+  }
+  .loop svg { display: block; width: 100%; height: auto; max-width: 420px; margin: 0 auto; }
+  .loop .t { font: 700 13px -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif; fill: var(--ink); }
+  .loop .s { font: 500 11.5px -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif; fill: var(--ink-mid); }
+  .loop .m { font: 600 9.5px ui-monospace, "SF Mono", Menlo, Consolas, monospace; letter-spacing: 0.01em; fill: var(--ink-soft); }
+  .loop .card-a-frame, .loop .card-b-frame { fill: var(--surface-2); stroke: var(--rule); stroke-width: 1.5; transition: stroke 0.2s; }
+  .loop .timeline { stroke: var(--rule); stroke-width: 1.5; }
+  .loop .dot { fill: var(--rule); }
+  .loop .reply-badge path { fill: var(--accent-soft); stroke: var(--accent); stroke-width: 1.2; }
+  .loop .reply-badge .badge-text { fill: var(--accent); }
+  .loop .reply-badge { opacity: 0; transform: translate(-8px, 0); }
+  .loop .before { opacity: 1; }
+  .loop .after { opacity: 0; }
+  .loop .after-a { fill: var(--accent); }
+  .loop .after-b { fill: var(--ink-soft); }
+  .loop .card-b-group { opacity: 1; }
+
+  .loop.play .dot-a1, .loop.play .dot-b1 { animation: dotlit 0.3s ease forwards; animation-delay: 0.4s; }
+  .loop.play .dot-a2, .loop.play .dot-b2 { animation: dotlit 0.3s ease forwards; animation-delay: 1.2s; }
+  .loop.play .dot-a3, .loop.play .dot-b3 { animation: dotlit 0.3s ease forwards; animation-delay: 2.0s; }
+  .loop.play .reply-a { animation: badgein 0.4s ease forwards; animation-delay: 2.6s; }
+  .loop.play .card-a-frame { animation: frameaccent 0.5s ease forwards; animation-delay: 3.1s; }
+  .loop.play .before-a { animation: fadeout 0.5s ease forwards; animation-delay: 3.1s; }
+  .loop.play .after-a { animation: fadein 0.5s ease forwards; animation-delay: 3.1s; }
+  .loop.play .before-b { animation: fadeout 0.5s ease forwards; animation-delay: 3.6s; }
+  .loop.play .after-b { animation: fadein 0.5s ease forwards; animation-delay: 3.6s; }
+  .loop.play .card-b-group { animation: dimcard 0.6s ease forwards; animation-delay: 3.6s; }
+
+  @keyframes dotlit { to { fill: var(--accent); } }
+  @keyframes badgein { to { opacity: 1; transform: translate(0, 0); } }
+  @keyframes frameaccent { to { stroke: var(--accent); stroke-width: 2; } }
+  @keyframes fadeout { to { opacity: 0; } }
+  @keyframes fadein { to { opacity: 1; } }
+  @keyframes dimcard { to { opacity: 0.55; } }
+
+  @media (prefers-reduced-motion: reduce) {
+    .loop * { animation: none !important; }
+    .loop .dot { fill: var(--accent) !important; }
+    .loop .reply-badge { opacity: 1 !important; transform: none !important; }
+    .loop .before { opacity: 0 !important; }
+    .loop .after { opacity: 1 !important; }
+    .loop .card-a-frame { stroke: var(--accent) !important; stroke-width: 2 !important; }
+    .loop .card-b-group { opacity: 0.55 !important; }
+  }
+
+  .control-list li {
+    position: relative; padding-left: 1.7rem; color: var(--ink-mid); font-size: 0.98rem;
+    margin-bottom: 0.95rem; max-width: 58ch;
+  }
+  .control-list li:last-child { margin-bottom: 0; }
+  .control-list li::before {
+    content: "\2713"; position: absolute; left: 0; top: 0; color: var(--accent); font-weight: 700;
+  }
+
+  .pilot-grid { display: flex; flex-direction: column; gap: 1rem; margin-bottom: 1.6rem; }
+  .phase {
+    background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 1.1rem 1.2rem;
+  }
+  .phase .weeks {
+    display: inline-block; font: 700 0.68rem/1 ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    letter-spacing: 0.05em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.5rem;
+  }
+  .phase h3 { font-size: 1rem; margin-bottom: 0.4rem; }
+  .phase p { color: var(--ink-mid); font-size: 0.93rem; }
+  .measure { background: var(--surface-2); border: 1px solid var(--rule); border-radius: 10px; padding: 1.1rem 1.2rem; }
+  .measure h3 { font-size: 1rem; margin-bottom: 0.7rem; }
+  .measure li {
+    position: relative; padding-left: 1.1rem; color: var(--ink-mid); font-size: 0.93rem; margin-bottom: 0.55rem;
+  }
+  .measure li:last-child { margin-bottom: 0; }
+  .measure li::before { content: "-"; position: absolute; left: 0; color: var(--accent); }
+
+  details {
+    border-bottom: 1px solid var(--rule); padding: 0.95rem 0;
+  }
+  details:first-child { padding-top: 0; }
+  details:last-child { border-bottom: 0; padding-bottom: 0; }
+  summary {
+    cursor: pointer; font-weight: 600; font-size: 0.98rem; list-style: none;
+    display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+  }
+  summary::-webkit-details-marker { display: none; }
+  summary::after { content: "+"; color: var(--accent); font-weight: 700; font-size: 1.1rem; flex: none; }
+  details[open] summary::after { content: "\2212"; }
+  details p { color: var(--ink-mid); font-size: 0.95rem; margin-top: 0.7rem; max-width: 58ch; }
+
+  .final-cta { text-align: left; }
+  .final-cta h2 { margin-bottom: 0.9rem; }
+
+  footer { padding: 2rem 0 0; color: var(--ink-soft); font-size: 0.82rem; }
+
+  @media (min-width: 640px) {
+    .page { padding: 0 24px 5rem; }
+    h1 { font-size: clamp(2.1rem, 4.6vw, 2.9rem); }
+    .steps li { align-items: flex-start; }
+    .pilot-grid { flex-direction: row; }
+    .phase { flex: 1; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="dot" aria-hidden="true"></span>
+      <span class="i18n" data-fr="Kairos Soumissions" data-en="Kairos Quotes">Kairos Soumissions</span>
+    </div>
+    <button id="lang-toggle" type="button" class="lang-btn i18n" data-fr="English" data-en="Français" aria-label="Changer de langue / Switch language">English</button>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="pilot-tag i18n" data-fr="Programme pilote. Places limitées." data-en="Pilot program. Limited spots.">Programme pilote. Places limitées.</p>
+      <h1 class="i18n" data-fr="Vos représentants envoient des soumissions. Personne ne relance." data-en="Your reps send quotes. Nobody follows up.">Vos représentants envoient des soumissions. Personne ne relance.</h1>
+      <p class="lede i18n" data-fr="Kairos Soumissions planifie une relance pour chaque soumission envoyée, dans la langue du client et le ton de votre équipe. Le représentant approuve en un clic, ou l'envoi se fait automatiquement s'il l'autorise pour cette catégorie. Ça s'arrête dès que le client répond." data-en="Kairos Quotes plans a follow-up for every quote you send, in the client's language and your team's tone. The rep approves it in one click, or it sends automatically if allowed for that category. It stops the moment the client replies.">Kairos Soumissions planifie une relance pour chaque soumission envoyée, dans la langue du client et le ton de votre équipe. Le représentant approuve en un clic, ou l'envoi se fait automatiquement s'il l'autorise pour cette catégorie. Ça s'arrête dès que le client répond.</p>
+      <a class="cta i18n" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Soumissions%20-%20Appel%2020%20min" data-fr="Réserver un appel de 20 minutes" data-en="Book a 20-minute call" data-fr-href="mailto:ml@pharos-ai.ca?subject=Kairos%20Soumissions%20-%20Appel%2020%20min" data-en-href="mailto:ml@pharos-ai.ca?subject=Kairos%20Quotes%20-%2020-min%20call">Réserver un appel de 20 minutes</a>
+    </section>
+
+    <section class="problem" aria-labelledby="problem-h">
+      <h2 id="problem-h" class="i18n" data-fr="Ce qui se passe aujourd'hui" data-en="What's happening today">Ce qui se passe aujourd'hui</h2>
+      <ul class="bullets">
+        <li class="i18n" data-fr="Vos représentants envoient des dizaines de soumissions chaque semaine, et la plupart ne reçoivent jamais de relance." data-en="Your reps send dozens of quotes a week, and most never get a follow-up.">Vos représentants envoient des dizaines de soumissions chaque semaine, et la plupart ne reçoivent jamais de relance.</li>
+        <li class="i18n" data-fr="Le suivi dépend de la mémoire de chacun. Le CRM traîne derrière, et un client bilingue reçoit parfois la mauvaise langue." data-en="Follow-up depends on memory. The CRM lags behind, and a bilingual client sometimes gets the wrong language.">Le suivi dépend de la mémoire de chacun. Le CRM traîne derrière, et un client bilingue reçoit parfois la mauvaise langue.</li>
+        <li class="i18n" data-fr="La direction ne voit pas quelles soumissions stagnent, jusqu'à ce que le client ait déjà choisi un concurrent." data-en="Managers cannot see which quotes are stalling until the client has already picked a competitor.">La direction ne voit pas quelles soumissions stagnent, jusqu'à ce que le client ait déjà choisi un concurrent.</li>
+      </ul>
+    </section>
+
+    <section class="how" aria-labelledby="how-h">
+      <h2 id="how-h" class="i18n" data-fr="Comment ça fonctionne" data-en="How it works">Comment ça fonctionne</h2>
+      <ol class="steps">
+        <li>
+          <span class="step-num" aria-hidden="true">1</span>
+          <div class="step-body">
+            <h3 class="i18n" data-fr="Chaque soumission reçoit un plan de relance" data-en="Every quote gets a follow-up plan">Chaque soumission reçoit un plan de relance</h3>
+            <p class="i18n" data-fr="Après 2 jours, après 1 semaine, avant l'expiration. Rédigé dans la langue du client et le ton du représentant." data-en="After 2 days, after 1 week, before expiry. Drafted in the client's language and the rep's tone.">Après 2 jours, après 1 semaine, avant l'expiration. Rédigé dans la langue du client et le ton du représentant.</p>
+          </div>
+        </li>
+        <li>
+          <span class="step-num" aria-hidden="true">2</span>
+          <div class="step-body">
+            <h3 class="i18n" data-fr="Le représentant approuve" data-en="The rep approves">Le représentant approuve</h3>
+            <p class="i18n" data-fr="En un clic, ou l'envoi se fait automatiquement si le représentant l'autorise pour cette catégorie de relance." data-en="One click, or it sends automatically if the rep allows it for that follow-up category.">En un clic, ou l'envoi se fait automatiquement si le représentant l'autorise pour cette catégorie de relance.</p>
+          </div>
+        </li>
+        <li>
+          <span class="step-num" aria-hidden="true">3</span>
+          <div class="step-body">
+            <h3 class="i18n" data-fr="Les réponses sont triées et acheminées" data-en="Replies are sorted and routed">Les réponses sont triées et acheminées</h3>
+            <p class="i18n" data-fr="Prêt à acheter, question, objection de prix, pas maintenant, perdu. Tout signal d'achat ou toute négociation de prix va directement au représentant." data-en="Ready to buy, question, price objection, not now, lost. Any buying signal or price negotiation goes straight to the rep.">Prêt à acheter, question, objection de prix, pas maintenant, perdu. Tout signal d'achat ou toute négociation de prix va directement au représentant.</p>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <section class="loop-section" aria-labelledby="loop-h">
+      <h2 id="loop-h" class="i18n" data-fr="La boucle, en clair" data-en="The loop, plainly">La boucle, en clair</h2>
+      <p class="intro i18n" data-fr="Ce qui se passe entre l'envoi d'une soumission et la relance suivante." data-en="What happens between sending a quote and the next follow-up.">Ce qui se passe entre l'envoi d'une soumission et la relance suivante.</p>
+      <div class="loop" id="loop">
+        <svg id="loop-svg" viewBox="0 0 360 400" role="img" aria-label="Schéma : une soumission envoyée reçoit deux relances programmées. Quand le client répond, la carte devient Prêt à acheter, pour vous, en couleur d'accent. Une seconde soumission sans réponse s'estompe et affiche Pas maintenant, relance en mars." xmlns="http://www.w3.org/2000/svg">
+          <g>
+            <rect class="card-a-frame" x="10" y="10" width="340" height="160" rx="12"/>
+            <text class="t" x="28" y="38"><tspan class="i18n" data-fr="Soumission no 1042" data-en="Quote no. 1042">Soumission no 1042</tspan></text>
+            <text class="s" x="28" y="56"><tspan class="i18n" data-fr="Toiture - Client A" data-en="Roofing - Client A">Toiture - Client A</tspan></text>
+
+            <line class="timeline" x1="28" y1="86" x2="322" y2="86"/>
+            <circle class="dot dot-a1" cx="28" cy="86" r="5"/>
+            <text class="m" x="28" y="104" text-anchor="start"><tspan class="i18n" data-fr="Envoi" data-en="Sent">Envoi</tspan></text>
+            <circle class="dot dot-a2" cx="150" cy="86" r="5"/>
+            <text class="m" x="150" y="104" text-anchor="middle"><tspan class="i18n" data-fr="Relance J+2" data-en="Follow-up d+2">Relance J+2</tspan></text>
+            <circle class="dot dot-a3" cx="280" cy="86" r="5"/>
+            <text class="m" x="280" y="104" text-anchor="middle"><tspan class="i18n" data-fr="Relance J+7" data-en="Follow-up d+7">Relance J+7</tspan></text>
+
+            <g class="reply-badge reply-a">
+              <path d="M254 56 h56 v20 l-28 13 -28 -13 z"/>
+              <text class="m badge-text" x="282" y="70" text-anchor="middle"><tspan class="i18n" data-fr="Réponse" data-en="Reply">Réponse</tspan></text>
+            </g>
+
+            <text class="s before before-a" x="28" y="142"><tspan class="i18n" data-fr="En attente de réponse..." data-en="Waiting for a reply...">En attente de réponse...</tspan></text>
+            <text class="t after after-a" x="28" y="142"><tspan class="i18n" data-fr="Prêt à acheter : pour vous" data-en="Ready to buy: yours">Prêt à acheter : pour vous</tspan></text>
+          </g>
+
+          <g class="card-b-group" transform="translate(0 190)">
+            <rect class="card-b-frame" x="10" y="10" width="340" height="160" rx="12"/>
+            <text class="t" x="28" y="38"><tspan class="i18n" data-fr="Soumission no 1077" data-en="Quote no. 1077">Soumission no 1077</tspan></text>
+            <text class="s" x="28" y="56"><tspan class="i18n" data-fr="Entretien - Client B" data-en="Maintenance - Client B">Entretien - Client B</tspan></text>
+
+            <line class="timeline" x1="28" y1="86" x2="322" y2="86"/>
+            <circle class="dot dot-b1" cx="28" cy="86" r="5"/>
+            <text class="m" x="28" y="104"><tspan class="i18n" data-fr="Envoi" data-en="Sent">Envoi</tspan></text>
+            <circle class="dot dot-b2" cx="150" cy="86" r="5"/>
+            <text class="m" x="150" y="104" text-anchor="middle"><tspan class="i18n" data-fr="Relance J+2" data-en="Follow-up d+2">Relance J+2</tspan></text>
+            <circle class="dot dot-b3" cx="280" cy="86" r="5"/>
+            <text class="m" x="280" y="104" text-anchor="middle"><tspan class="i18n" data-fr="Avant expiration" data-en="Before expiry">Avant expiration</tspan></text>
+
+            <text class="s before before-b" x="28" y="142"><tspan class="i18n" data-fr="En attente de réponse..." data-en="Waiting for a reply...">En attente de réponse...</tspan></text>
+            <text class="s after after-b" x="28" y="142"><tspan class="i18n" data-fr="Pas maintenant, relance en mars" data-en="Not now, follow up in March">Pas maintenant, relance en mars</tspan></text>
+          </g>
+        </svg>
+      </div>
+    </section>
+
+    <section class="control" aria-labelledby="control-h">
+      <h2 id="control-h" class="i18n" data-fr="Vous gardez le contrôle" data-en="You stay in control">Vous gardez le contrôle</h2>
+      <ul class="control-list">
+        <li class="i18n" data-fr="Le représentant approuve chaque relance avant l'envoi, ou autorise l'envoi automatique par catégorie." data-en="The rep approves every follow-up before it sends, or allows automatic sending by category.">Le représentant approuve chaque relance avant l'envoi, ou autorise l'envoi automatique par catégorie.</li>
+        <li class="i18n" data-fr="Les comptes clés restent toujours en approbation manuelle, sans exception." data-en="Key accounts always stay on manual approval, no exceptions.">Les comptes clés restent toujours en approbation manuelle, sans exception.</li>
+        <li class="i18n" data-fr="Dès que le client répond, la relance planifiée s'arrête." data-en="The moment the client replies, the planned follow-up stops.">Dès que le client répond, la relance planifiée s'arrête.</li>
+        <li class="i18n" data-fr="Le ton et le style des messages sont définis par la direction des ventes, pas par un représentant isolé." data-en="Message tone and style are set by sales leadership, not by an individual rep.">Le ton et le style des messages sont définis par la direction des ventes, pas par un représentant isolé.</li>
+        <li class="i18n" data-fr="Chaque envoi, chaque réponse et chaque décision sont consignés dans un journal vérifiable." data-en="Every send, every reply and every decision is logged in an auditable record.">Chaque envoi, chaque réponse et chaque décision sont consignés dans un journal vérifiable.</li>
+      </ul>
+    </section>
+
+    <section class="pilot" aria-labelledby="pilot-h">
+      <h2 id="pilot-h" class="i18n" data-fr="Le pilote : 6 semaines, une équipe" data-en="The pilot: 6 weeks, one team">Le pilote : 6 semaines, une équipe</h2>
+      <div class="pilot-grid">
+        <div class="phase">
+          <span class="weeks i18n" data-fr="Semaines 1 et 2" data-en="Weeks 1 and 2">Semaines 1 et 2</span>
+          <h3 class="i18n" data-fr="Configuration" data-en="Setup">Configuration</h3>
+          <p class="i18n" data-fr="Kairos se connecte à votre CRM ou votre outil de soumission pendant le pilote, ou démarre à partir d'un simple export. La direction fixe le ton et les catégories admises à l'envoi automatique." data-en="Kairos connects to your CRM or quoting tool during the pilot, or starts from a simple export. Leadership sets the tone and which categories are allowed to send automatically.">Kairos se connecte à votre CRM ou votre outil de soumission pendant le pilote, ou démarre à partir d'un simple export. La direction fixe le ton et les catégories admises à l'envoi automatique.</p>
+        </div>
+        <div class="phase">
+          <span class="weeks i18n" data-fr="Semaines 3 et 4" data-en="Weeks 3 and 4">Semaines 3 et 4</span>
+          <h3 class="i18n" data-fr="Une équipe pilote" data-en="One pilot team">Une équipe pilote</h3>
+          <p class="i18n" data-fr="Une équipe de vente utilise Kairos sur ses soumissions réelles. Chaque relance passe par l'approbation du représentant, ou part automatiquement pour les catégories autorisées." data-en="One sales team uses Kairos on its real quotes. Every follow-up goes through rep approval, or sends automatically for the allowed categories.">Une équipe de vente utilise Kairos sur ses soumissions réelles. Chaque relance passe par l'approbation du représentant, ou part automatiquement pour les catégories autorisées.</p>
+        </div>
+        <div class="phase">
+          <span class="weeks i18n" data-fr="Semaines 5 et 6" data-en="Weeks 5 and 6">Semaines 5 et 6</span>
+          <h3 class="i18n" data-fr="Ajustement" data-en="Adjustment">Ajustement</h3>
+          <p class="i18n" data-fr="Les modèles de relance sont ajustés selon ce qui obtient des réponses. La direction revoit les catégories admises à l'envoi automatique avant d'envisager un déploiement plus large." data-en="Follow-up templates are adjusted based on what gets replies. Leadership reviews which categories are allowed to auto-send before considering a wider rollout.">Les modèles de relance sont ajustés selon ce qui obtient des réponses. La direction revoit les catégories admises à l'envoi automatique avant d'envisager un déploiement plus large.</p>
+        </div>
+      </div>
+      <div class="measure">
+        <h3 class="i18n" data-fr="Ce qu'on mesure" data-en="What we measure">Ce qu'on mesure</h3>
+        <ul>
+          <li class="i18n" data-fr="Le nombre de soumissions qui reçoivent au moins une relance" data-en="The number of quotes that get at least one follow-up">Le nombre de soumissions qui reçoivent au moins une relance</li>
+          <li class="i18n" data-fr="Le délai entre l'envoi de la soumission et la première relance" data-en="The time between sending the quote and the first follow-up">Le délai entre l'envoi de la soumission et la première relance</li>
+          <li class="i18n" data-fr="Le taux de réponse aux relances" data-en="The reply rate on follow-ups">Le taux de réponse aux relances</li>
+          <li class="i18n" data-fr="Le temps que prennent les représentants pour traiter une réponse triée" data-en="How long reps take to handle a sorted reply">Le temps que prennent les représentants pour traiter une réponse triée</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="faq" aria-labelledby="faq-h">
+      <h2 id="faq-h" class="i18n" data-fr="Questions fréquentes" data-en="Frequently asked questions">Questions fréquentes</h2>
+      <div class="faq-list">
+        <details>
+          <summary class="i18n" data-fr="Est-ce que ça remplace mes représentants ?" data-en="Does this replace my reps?">Est-ce que ça remplace mes représentants ?</summary>
+          <p class="i18n" data-fr="Non. Kairos prépare la relance, le représentant décide, ou l'autorise à l'avance pour certaines catégories. La vente reste humaine." data-en="No. Kairos prepares the follow-up, the rep decides, or allows it in advance for certain categories. The sale stays human.">Non. Kairos prépare la relance, le représentant décide, ou l'autorise à l'avance pour certaines catégories. La vente reste humaine.</p>
+        </details>
+        <details>
+          <summary class="i18n" data-fr="Est-ce conforme aux lois anti-pourriel ?" data-en="Is this compliant with anti-spam law?">Est-ce conforme aux lois anti-pourriel ?</summary>
+          <p class="i18n" data-fr="Les relances ne partent qu'à des clients qui ont eux-mêmes demandé une soumission, dans le cadre d'une relation d'affaires en cours. C'est la base du consentement implicite prévu par la Loi canadienne anti-pourriel (LCAP). Chaque envoi est consigné dans le journal." data-en="Follow-ups only go to clients who themselves asked for a quote, within an ongoing business relationship. That is the basis for implied consent under Canada's anti-spam law (CASL). Every send is logged.">Les relances ne partent qu'à des clients qui ont eux-mêmes demandé une soumission, dans le cadre d'une relation d'affaires en cours. C'est la base du consentement implicite prévu par la Loi canadienne anti-pourriel (LCAP). Chaque envoi est consigné dans le journal.</p>
+        </details>
+        <details>
+          <summary class="i18n" data-fr="Comment Kairos se connecte-t-il à mon CRM ?" data-en="How does Kairos connect to my CRM?">Comment Kairos se connecte-t-il à mon CRM ?</summary>
+          <p class="i18n" data-fr="Il se connecte à votre CRM ou outil de soumission pendant le pilote, ou démarre à partir d'un simple export si vous préférez commencer plus simplement." data-en="It connects to your CRM or quoting tool during the pilot, or starts from a simple export if you prefer to start simpler.">Il se connecte à votre CRM ou outil de soumission pendant le pilote, ou démarre à partir d'un simple export si vous préférez commencer plus simplement.</p>
+        </details>
+        <details>
+          <summary class="i18n" data-fr="Le client répond en anglais, le représentant écrit en français. Qu'est-ce qui se passe ?" data-en="The client replies in English, the rep writes in French. What happens?">Le client répond en anglais, le représentant écrit en français. Qu'est-ce qui se passe ?</summary>
+          <p class="i18n" data-fr="La relance est rédigée dans la langue du client, détectée à partir de l'échange, et le ton reste celui de votre équipe." data-en="The follow-up is drafted in the client's language, detected from the exchange, and the tone stays your team's own.">La relance est rédigée dans la langue du client, détectée à partir de l'échange, et le ton reste celui de votre équipe.</p>
+        </details>
+        <details>
+          <summary class="i18n" data-fr="Combien ça coûte ?" data-en="How much does it cost?">Combien ça coûte ?</summary>
+          <p class="i18n" data-fr="Le pilote se discute par appel, selon la taille de votre équipe de vente et vos outils actuels." data-en="Pilot pricing is discussed on a call, based on your sales team size and current tools.">Le pilote se discute par appel, selon la taille de votre équipe de vente et vos outils actuels.</p>
+        </details>
+      </div>
+    </section>
+
+    <section class="final-cta">
+      <h2 class="i18n" data-fr="Prêt à arrêter de perdre des soumissions en silence ?" data-en="Ready to stop losing quotes in silence?">Prêt à arrêter de perdre des soumissions en silence ?</h2>
+      <p class="pilot-tag i18n" data-fr="Programme pilote. Places limitées." data-en="Pilot program. Limited spots.">Programme pilote. Places limitées.</p>
+      <div>
+        <a class="cta i18n" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Soumissions%20-%20Appel%2020%20min" data-fr="Réserver un appel de 20 minutes" data-en="Book a 20-minute call" data-fr-href="mailto:ml@pharos-ai.ca?subject=Kairos%20Soumissions%20-%20Appel%2020%20min" data-en-href="mailto:ml@pharos-ai.ca?subject=Kairos%20Quotes%20-%2020-min%20call">Réserver un appel de 20 minutes</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p class="i18n" data-fr="Kairos Soumissions, un projet PHAROS." data-en="Kairos Quotes, a PHAROS project.">Kairos Soumissions, un projet PHAROS.</p>
+  </footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+  var current = "fr";
+
+  function applyLang(lang) {
+    document.documentElement.lang = lang;
+    var nodes = document.querySelectorAll("[data-fr]");
+    for (var i = 0; i < nodes.length; i++) {
+      var el = nodes[i];
+      var val = lang === "fr" ? el.getAttribute("data-fr") : el.getAttribute("data-en");
+      if (val !== null) { el.textContent = val; }
+      var hrefFr = el.getAttribute("data-fr-href");
+      var hrefEn = el.getAttribute("data-en-href");
+      if (hrefFr && hrefEn) {
+        el.setAttribute("href", lang === "fr" ? hrefFr : hrefEn);
+      }
+    }
+    current = lang;
+  }
+
+  var toggleBtn = document.getElementById("lang-toggle");
+  if (toggleBtn) {
+    toggleBtn.addEventListener("click", function () {
+      applyLang(current === "fr" ? "en" : "fr");
+    });
+  }
+
+  var loopEl = document.getElementById("loop");
+  if (loopEl && "IntersectionObserver" in window) {
+    var observer = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          loopEl.classList.add("play");
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.4 });
+    observer.observe(loopEl);
+  } else if (loopEl) {
+    loopEl.classList.add("play");
+  }
+})();
+</script>
+</body>
+</html>

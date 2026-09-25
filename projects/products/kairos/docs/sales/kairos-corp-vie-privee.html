@@ -1,0 +1,802 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Kairos Vie privée - Demandes de renseignements personnels, sous contrôle</title>
+<script type="application/json" id="artifact-state">{"project":"kairos","doc":"kairos-corp-vie-privee","as_of":"2026-09-25T00:00:00Z"}</script>
+<style>
+  :root {
+    --bg: #f4f7f8;
+    --bg-card: #ffffff;
+    --bg-muted: #eaf1f1;
+    --accent: #0f5c63;
+    --accent-strong: #0b464c;
+    --ink: #1b262c;
+    --ink-soft: #4b5a60;
+    --border: #d7e1e2;
+    --badge-bg: #fff6e4;
+    --badge-border: #e3c98a;
+    --badge-ink: #6b5116;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0b1416;
+      --bg-card: #121f22;
+      --bg-muted: #15282b;
+      --accent: #4bb8bd;
+      --accent-strong: #7fd2d6;
+      --ink: #e8f0f1;
+      --ink-soft: #a9bcc0;
+      --border: #24393c;
+      --badge-bg: #241d10;
+      --badge-border: #6b5116;
+      --badge-ink: #e3c98a;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.55;
+    font-size: 16px;
+  }
+  main, header, footer { display: block; }
+  .visually-hidden {
+    position: absolute;
+    width: 1px; height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: var(--bg-card);
+    border-bottom: 1px solid var(--border);
+  }
+  .header-inner {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  .brand {
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: var(--accent-strong);
+    letter-spacing: 0.01em;
+  }
+  .lang-toggle {
+    font: inherit;
+    font-weight: 600;
+    font-size: 0.9rem;
+    background: var(--bg-muted);
+    color: var(--accent-strong);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  .lang-toggle:hover { background: var(--border); }
+  .lang-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  main { max-width: 860px; margin: 0 auto; padding: 0 20px 40px; }
+
+  section { padding: 44px 0; border-bottom: 1px solid var(--border); }
+  section:last-of-type { border-bottom: none; }
+
+  .hero { padding-top: 40px; padding-bottom: 36px; }
+  .eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin: 0 0 14px;
+  }
+  h1 {
+    font-size: 1.9rem;
+    line-height: 1.25;
+    margin: 0 0 16px;
+    color: var(--ink);
+  }
+  .subhead {
+    font-size: 1.05rem;
+    color: var(--ink-soft);
+    max-width: 62ch;
+    margin: 0 0 22px;
+  }
+  .pilot-badge {
+    display: inline-block;
+    background: var(--badge-bg);
+    border: 1px solid var(--badge-border);
+    color: var(--badge-ink);
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 6px 14px;
+    border-radius: 999px;
+    margin: 0 0 22px;
+  }
+  .cta-row { margin-top: 6px; }
+  .cta-button {
+    display: inline-block;
+    background: var(--accent);
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 14px 26px;
+    border-radius: 8px;
+    border: 1px solid var(--accent-strong);
+  }
+  .cta-button:hover { background: var(--accent-strong); }
+  .cta-button:focus-visible { outline: 2px solid var(--accent-strong); outline-offset: 3px; }
+
+  h2 {
+    font-size: 1.4rem;
+    margin: 0 0 20px;
+    color: var(--ink);
+  }
+  h3 {
+    font-size: 1.05rem;
+    margin: 0 0 8px;
+    color: var(--ink);
+  }
+
+  .quote-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
+  .quote-list li {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--accent);
+    border-radius: 6px;
+    padding: 16px 18px;
+    font-size: 1rem;
+    color: var(--ink);
+  }
+
+  .steps { list-style: none; margin: 0; padding: 0; counter-reset: step; display: grid; gap: 20px; }
+  .steps li {
+    position: relative;
+    padding-left: 46px;
+  }
+  .steps li::before {
+    counter-increment: step;
+    content: counter(step);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: #fff;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.95rem;
+  }
+  .steps p { margin: 0; color: var(--ink-soft); }
+
+  .loop-intro { color: var(--ink-soft); margin: 0 0 18px; max-width: 62ch; }
+  .loop-figure { margin: 0; }
+  .loop-anim {
+    width: 100%;
+    height: auto;
+    display: block;
+    color: var(--accent);
+  }
+  .stage-bg { fill: var(--bg-card); stroke: var(--border); stroke-width: 1.5; }
+  .loop-anim text { fill: var(--ink); font-size: 15px; font-family: inherit; }
+  .loop-anim .arrow { stroke: var(--ink-soft); stroke-width: 2.5; }
+  figcaption {
+    margin-top: 16px;
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+    max-width: 62ch;
+  }
+
+  .step { opacity: 1; }
+  .loop-anim.pre-play .step { opacity: 0; transform: translateY(8px); }
+  .loop-anim.play .step { animation: kairosFadeIn 0.6s ease forwards; }
+  @keyframes kairosFadeIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .loop-anim.pre-play .step { opacity: 1; transform: none; }
+    .loop-anim.play .step { animation: none; opacity: 1; transform: none; }
+  }
+
+  .control-grid {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 16px;
+    grid-template-columns: 1fr;
+  }
+  .control-grid li {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 18px;
+  }
+  .control-grid p { margin: 0; color: var(--ink-soft); }
+
+  .pilot-plan { margin: 0 0 26px; display: grid; gap: 12px; }
+  .pilot-plan dt {
+    font-weight: 700;
+    color: var(--accent-strong);
+  }
+  .pilot-plan dd {
+    margin: 4px 0 0;
+    color: var(--ink-soft);
+  }
+  .metrics-list { margin: 8px 0 0; padding-left: 20px; color: var(--ink-soft); }
+  .metrics-list li { margin-bottom: 6px; }
+
+  .faq-item {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 4px 18px;
+    margin-bottom: 12px;
+  }
+  .faq-item summary {
+    cursor: pointer;
+    padding: 14px 0;
+    list-style: none;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-item summary h3 { display: inline; font-size: 1rem; }
+  .faq-item summary::before {
+    content: "+";
+    display: inline-block;
+    width: 18px;
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .faq-item[open] summary::before { content: "-"; }
+  .faq-item p { margin: 0 0 16px; color: var(--ink-soft); }
+
+  .final-cta { text-align: left; }
+  .final-cta p { color: var(--ink-soft); max-width: 60ch; }
+
+  .site-footer {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 24px 20px 40px;
+    color: var(--ink-soft);
+    font-size: 0.85rem;
+  }
+
+  @media (min-width: 640px) {
+    h1 { font-size: 2.3rem; }
+    .control-grid { grid-template-columns: 1fr 1fr; }
+    .pilot-plan { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <span class="brand">Kairos</span>
+    <button type="button" id="lang-toggle" class="lang-toggle" aria-pressed="false">English</button>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ===================== FRENCH ===================== -->
+  <div id="content-fr" lang="fr">
+
+    <section class="hero">
+      <p class="eyebrow">Pour les responsables de la protection des renseignements personnels</p>
+      <h1>Les demandes d'accès et de suppression arrivent de partout. Kairos les retrouve toutes, à temps.</h1>
+      <p class="subhead">Kairos repère les demandes liées à vos renseignements personnels dès qu'elles arrivent, les classe, démarre l'échéancier et prépare la réponse à partir de vos modèles, en français ou en anglais. Rien ne part sans l'approbation d'une personne de votre équipe.</p>
+      <p class="pilot-badge">Programme pilote. Places limitées.</p>
+      <div class="cta-row">
+        <a class="cta-button" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Vie%20priv%C3%A9e%20-%20Appel%20de%2020%20minutes">Réserver un appel de 20 minutes</a>
+      </div>
+    </section>
+
+    <section>
+      <h2>Le problème, dans leurs mots</h2>
+      <ul class="quote-list">
+        <li>Une demande arrive par courriel, une autre par le formulaire du site, une troisième en message privé. On ne sait jamais où regarder en premier.</li>
+        <li>Le compte à rebours commence dès la réception, mais personne ne note toujours l'heure exacte ni qui doit répondre.</li>
+        <li>Deux personnes de mon équipe ne répondent pas de la même façon à la même question, et je n'ai pas de trace propre de qui a fait quoi.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Comment ça fonctionne</h2>
+      <ol class="steps">
+        <li>
+          <h3>Repérage</h3>
+          <p>Kairos se connecte à vos boîtes courriel et à vos formulaires web pendant le projet pilote, et repère les messages qui touchent l'accès, la rectification, la suppression des renseignements personnels ou une plainte.</p>
+        </li>
+        <li>
+          <h3>Classement et échéancier</h3>
+          <p>Chaque demande est classée par type, associée à la bonne personne, et un échéancier démarre automatiquement.</p>
+        </li>
+        <li>
+          <h3>Brouillon et approbation</h3>
+          <p>Kairos prépare l'accusé de réception et la réponse à partir de vos modèles approuvés, en français ou en anglais. Rien ne part sans qu'une personne de votre équipe approuve.</p>
+        </li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Le trajet d'une demande, en un coup d'œil</h2>
+      <p class="loop-intro">Voici, en résumé, ce qui se passe entre la réception d'une demande et son inscription au registre.</p>
+      <figure class="loop-figure">
+        <svg id="loop-fr" class="loop-anim" viewBox="0 0 700 170" role="img" aria-hidden="true" focusable="false">
+          <defs>
+            <marker id="arrowhead-fr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+              <path d="M0,0 L10,5 L0,10 z" fill="currentColor"></path>
+            </marker>
+          </defs>
+
+          <g class="step" style="animation-delay:0s">
+            <circle class="stage-bg" cx="60" cy="80" r="32"></circle>
+            <g transform="translate(60,80)">
+              <rect x="-20" y="-13" width="40" height="26" rx="3" fill="none" stroke="currentColor" stroke-width="3"></rect>
+              <path d="M -20 -13 L 0 4 L 20 -13" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round"></path>
+            </g>
+            <text x="60" y="130" text-anchor="middle">Plusieurs canaux</text>
+          </g>
+
+          <line class="step arrow" style="animation-delay:.12s" x1="94" y1="80" x2="178" y2="80" marker-end="url(#arrowhead-fr)"></line>
+
+          <g class="step" style="animation-delay:.24s">
+            <circle class="stage-bg" cx="215" cy="80" r="32"></circle>
+            <g transform="translate(206,74) rotate(-20)">
+              <rect x="-9" y="-7" width="18" height="14" rx="3" fill="none" stroke="currentColor" stroke-width="2.5"></rect>
+              <circle cx="4" cy="-1" r="1.5" fill="currentColor"></circle>
+            </g>
+            <g transform="translate(227,86)">
+              <circle r="12" fill="none" stroke="currentColor" stroke-width="2.5"></circle>
+              <line x1="0" y1="0" x2="0" y2="-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"></line>
+              <line x1="0" y1="0" x2="4" y2="2" stroke="currentColor" stroke-width="2" stroke-linecap="round"></line>
+            </g>
+            <text x="215" y="130" text-anchor="middle">Classement</text>
+          </g>
+
+          <line class="step arrow" style="animation-delay:.36s" x1="249" y1="80" x2="331" y2="80" marker-end="url(#arrowhead-fr)"></line>
+
+          <g class="step" style="animation-delay:.48s">
+            <circle class="stage-bg" cx="360" cy="80" r="32"></circle>
+            <g transform="translate(360,80)">
+              <rect x="-15" y="-19" width="30" height="38" rx="3" fill="none" stroke="currentColor" stroke-width="2.5" stroke-dasharray="4 3"></rect>
+              <line x1="-8" y1="-8" x2="8" y2="-8" stroke="currentColor" stroke-width="2"></line>
+              <line x1="-8" y1="0" x2="8" y2="0" stroke="currentColor" stroke-width="2"></line>
+              <line x1="-8" y1="8" x2="4" y2="8" stroke="currentColor" stroke-width="2"></line>
+            </g>
+            <text x="360" y="130" text-anchor="middle">À approuver</text>
+          </g>
+
+          <line class="step arrow" style="animation-delay:.60s" x1="394" y1="80" x2="476" y2="80" marker-end="url(#arrowhead-fr)"></line>
+
+          <g class="step" style="animation-delay:.72s">
+            <circle class="stage-bg" cx="505" cy="80" r="32"></circle>
+            <g transform="translate(505,80)">
+              <circle r="19" fill="none" stroke="currentColor" stroke-width="2.5"></circle>
+              <path d="M -8 0 L -2 7 L 9 -8" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <text x="505" y="130" text-anchor="middle">Approuvé</text>
+          </g>
+
+          <line class="step arrow" style="animation-delay:.84s" x1="539" y1="80" x2="608" y2="80" marker-end="url(#arrowhead-fr)"></line>
+
+          <g class="step" style="animation-delay:.96s">
+            <circle class="stage-bg" cx="640" cy="80" r="32"></circle>
+            <g transform="translate(640,80)">
+              <rect x="-17" y="-19" width="34" height="38" rx="3" fill="none" stroke="currentColor" stroke-width="2.5"></rect>
+              <line x1="-9" y1="-9" x2="9" y2="-9" stroke="currentColor" stroke-width="2"></line>
+              <line x1="-9" y1="-1" x2="9" y2="-1" stroke="currentColor" stroke-width="2"></line>
+              <line x1="-9" y1="7" x2="9" y2="7" stroke="currentColor" stroke-width="2"></line>
+              <line x1="-9" y1="15" x2="3" y2="15" stroke="currentColor" stroke-width="2"></line>
+            </g>
+            <text x="640" y="130" text-anchor="middle">Registre</text>
+          </g>
+        </svg>
+        <figcaption>Une demande arrive par courriel, formulaire ou message. Elle reçoit une étiquette et un échéancier démarre. Un brouillon attend l'approbation d'une personne. Une fois approuvé, l'envoi est consigné au registre.</figcaption>
+      </figure>
+    </section>
+
+    <section>
+      <h2>Vous gardez le contrôle</h2>
+      <ul class="control-grid">
+        <li>
+          <h3>Approbation, toujours humaine</h3>
+          <p>Chaque réponse attend l'approbation d'une personne de votre équipe avant l'envoi. Toujours.</p>
+        </li>
+        <li>
+          <h3>Des modèles que vous approuvez</h3>
+          <p>Kairos ne rédige qu'à partir de modèles que vous avez approuvés au préalable, dans la langue de la demande.</p>
+        </li>
+        <li>
+          <h3>Une trace complète</h3>
+          <p>Chaque étape est consignée: réception, classement, rédaction, approbation, envoi.</p>
+        </li>
+        <li>
+          <h3>Un registre exportable</h3>
+          <p>Le registre des demandes s'exporte en tout temps, prêt pour un contrôle interne ou une demande du régulateur.</p>
+        </li>
+        <li>
+          <h3>Hébergement des données</h3>
+          <p>Pendant le projet pilote, l'hébergement des données est convenu avec vous et confirmé par écrit.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Le pilote de 6 semaines</h2>
+      <dl class="pilot-plan">
+        <div>
+          <dt>Semaine 1</dt>
+          <dd>Mise en place: connexion des boîtes courriel et des formulaires, import de vos modèles, définition des catégories.</dd>
+        </div>
+        <div>
+          <dt>Semaine 2</dt>
+          <dd>Mode observation: Kairos classe et prépare des brouillons, votre équipe révise tout, rien n'est envoyé automatiquement.</dd>
+        </div>
+        <div>
+          <dt>Semaines 3 et 4</dt>
+          <dd>Fonctionnement supervisé: votre équipe approuve chaque réponse, on mesure les délais et la justesse des réponses.</dd>
+        </div>
+        <div>
+          <dt>Semaine 5</dt>
+          <dd>Ajustement: les modèles et les catégories sont affinés selon les demandes réelles reçues.</dd>
+        </div>
+        <div>
+          <dt>Semaine 6</dt>
+          <dd>Bilan: présentation du registre et des délais mesurés, décision sur la suite.</dd>
+        </div>
+      </dl>
+      <h3>Ce qu'on mesure</h3>
+      <ul class="metrics-list">
+        <li>Délai jusqu'à l'accusé de réception</li>
+        <li>Délai jusqu'à la réponse finale</li>
+        <li>Nombre de demandes par catégorie</li>
+        <li>Proportion des demandes acheminées à une personne</li>
+        <li>Nombre de modifications apportées aux brouillons avant l'envoi</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Questions fréquentes</h2>
+
+      <details class="faq-item">
+        <summary><h3>Est-ce que Kairos remplace mon équipe de protection des renseignements personnels?</h3></summary>
+        <p>Non. Kairos repère et prépare, votre équipe décide et approuve. L'outil appuie le travail de votre équipe, il ne le remplace pas.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary><h3>Est-ce que Kairos donne des conseils juridiques?</h3></summary>
+        <p>Non. Kairos aide à repérer, classer et rédiger des réponses à partir de vos modèles. Ce n'est pas un avis juridique, et les décisions demeurent celles de votre équipe et de vos conseillers juridiques.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary><h3>Qu'arrive-t-il si une demande est urgente ou complexe?</h3></summary>
+        <p>Les demandes qui sortent des catégories courantes, ou qui soulèvent un doute, sont toujours acheminées à une personne. Rien n'est envoyé automatiquement dans ces cas.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary><h3>Peut-on répondre en français et en anglais?</h3></summary>
+        <p>Oui. Les accusés de réception et les réponses peuvent être rédigés dans la langue de la demande, à partir de vos modèles approuvés dans les deux langues.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary><h3>Où sont hébergées nos données pendant le pilote?</h3></summary>
+        <p>L'hébergement est convenu avec vous avant le début du projet pilote et confirmé par écrit, selon vos exigences internes.</p>
+      </details>
+    </section>
+
+    <section class="final-cta">
+      <h2>Prêts à commencer?</h2>
+      <p>Un appel de 20 minutes suffit pour voir si le pilote convient à votre équipe et pour fixer une date de départ.</p>
+      <p class="pilot-badge">Programme pilote. Places limitées.</p>
+      <div class="cta-row">
+        <a class="cta-button" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Vie%20priv%C3%A9e%20-%20Appel%20de%2020%20minutes">Réserver un appel de 20 minutes</a>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- ===================== ENGLISH ===================== -->
+  <div id="content-en" lang="en" hidden>
+
+    <section class="hero">
+      <p class="eyebrow">For privacy officers and compliance leads</p>
+      <h1>Access, correction and deletion requests arrive from everywhere. Kairos finds every one, on time.</h1>
+      <p class="subhead">Kairos spots privacy requests the moment they arrive, classifies them, starts the deadline clock and drafts the response from your templates, in French or English. Nothing goes out until someone on your team approves it.</p>
+      <p class="pilot-badge">Pilot program. Limited spots.</p>
+      <div class="cta-row">
+        <a class="cta-button" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Privacy%20Requests%20-%2020-minute%20call">Book a 20-minute call</a>
+      </div>
+    </section>
+
+    <section>
+      <h2>The problem, in their words</h2>
+      <ul class="quote-list">
+        <li>A request comes in by email, another through the website form, a third as a private message. We never know where to look first.</li>
+        <li>The clock starts the moment it arrives, but no one always logs the exact time or who is responsible for answering.</li>
+        <li>Two people on my team answer the same question differently, and I do not have a clean record of who did what.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>How it works</h2>
+      <ol class="steps">
+        <li>
+          <h3>Spot it</h3>
+          <p>Kairos connects to your inboxes and web forms during the pilot, and flags messages about access, correction, deletion of personal information or a complaint.</p>
+        </li>
+        <li>
+          <h3>Classify and start the clock</h3>
+          <p>Each request is sorted by type, assigned to the right person, and a deadline clock starts automatically.</p>
+        </li>
+        <li>
+          <h3>Draft and approve</h3>
+          <p>Kairos prepares the acknowledgement and the response from your approved templates, in French or English. Nothing goes out until someone on your team approves it.</p>
+        </li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>A request's journey, at a glance</h2>
+      <p class="loop-intro">Here is what happens, in short, between a request arriving and its entry in the register.</p>
+      <figure class="loop-figure">
+        <svg id="loop-en" class="loop-anim" viewBox="0 0 700 170" role="img" aria-hidden="true" focusable="false">
+          <defs>
+            <marker id="arrowhead-en" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+              <path d="M0,0 L10,5 L0,10 z" fill="currentColor"></path>
+            </marker>
+          </defs>
+
+          <g class="step" style="animation-delay:0s">
+            <circle class="stage-bg" cx="60" cy="80" r="32"></circle>
+            <g transform="translate(60,80)">
+              <rect x="-20" y="-13" width="40" height="26" rx="3" fill="none" stroke="currentColor" stroke-width="3"></rect>
+              <path d="M -20 -13 L 0 4 L 20 -13" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round"></path>
+            </g>
+            <text x="60" y="130" text-anchor="middle">Multiple channels</text>
+          </g>
+
+          <line class="step arrow" style="animation-delay:.12s" x1="94" y1="80" x2="178" y2="80" marker-end="url(#arrowhead-en)"></line>
+
+          <g class="step" style="animation-delay:.24s">
+            <circle class="stage-bg" cx="215" cy="80" r="32"></circle>
+            <g transform="translate(206,74) rotate(-20)">
+              <rect x="-9" y="-7" width="18" height="14" rx="3" fill="none" stroke="currentColor" stroke-width="2.5"></rect>
+              <circle cx="4" cy="-1" r="1.5" fill="currentColor"></circle>
+            </g>
+            <g transform="translate(227,86)">
+              <circle r="12" fill="none" stroke="currentColor" stroke-width="2.5"></circle>
+              <line x1="0" y1="0" x2="0" y2="-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"></line>
+              <line x1="0" y1="0" x2="4" y2="2" stroke="currentColor" stroke-width="2" stroke-linecap="round"></line>
+            </g>
+            <text x="215" y="130" text-anchor="middle">Classified</text>
+          </g>
+
+          <line class="step arrow" style="animation-delay:.36s" x1="249" y1="80" x2="331" y2="80" marker-end="url(#arrowhead-en)"></line>
+
+          <g class="step" style="animation-delay:.48s">
+            <circle class="stage-bg" cx="360" cy="80" r="32"></circle>
+            <g transform="translate(360,80)">
+              <rect x="-15" y="-19" width="30" height="38" rx="3" fill="none" stroke="currentColor" stroke-width="2.5" stroke-dasharray="4 3"></rect>
+              <line x1="-8" y1="-8" x2="8" y2="-8" stroke="currentColor" stroke-width="2"></line>
+              <line x1="-8" y1="0" x2="8" y2="0" stroke="currentColor" stroke-width="2"></line>
+              <line x1="-8" y1="8" x2="4" y2="8" stroke="currentColor" stroke-width="2"></line>
+            </g>
+            <text x="360" y="130" text-anchor="middle">To approve</text>
+          </g>
+
+          <line class="step arrow" style="animation-delay:.60s" x1="394" y1="80" x2="476" y2="80" marker-end="url(#arrowhead-en)"></line>
+
+          <g class="step" style="animation-delay:.72s">
+            <circle class="stage-bg" cx="505" cy="80" r="32"></circle>
+            <g transform="translate(505,80)">
+              <circle r="19" fill="none" stroke="currentColor" stroke-width="2.5"></circle>
+              <path d="M -8 0 L -2 7 L 9 -8" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <text x="505" y="130" text-anchor="middle">Approved</text>
+          </g>
+
+          <line class="step arrow" style="animation-delay:.84s" x1="539" y1="80" x2="608" y2="80" marker-end="url(#arrowhead-en)"></line>
+
+          <g class="step" style="animation-delay:.96s">
+            <circle class="stage-bg" cx="640" cy="80" r="32"></circle>
+            <g transform="translate(640,80)">
+              <rect x="-17" y="-19" width="34" height="38" rx="3" fill="none" stroke="currentColor" stroke-width="2.5"></rect>
+              <line x1="-9" y1="-9" x2="9" y2="-9" stroke="currentColor" stroke-width="2"></line>
+              <line x1="-9" y1="-1" x2="9" y2="-1" stroke="currentColor" stroke-width="2"></line>
+              <line x1="-9" y1="7" x2="9" y2="7" stroke="currentColor" stroke-width="2"></line>
+              <line x1="-9" y1="15" x2="3" y2="15" stroke="currentColor" stroke-width="2"></line>
+            </g>
+            <text x="640" y="130" text-anchor="middle">Register</text>
+          </g>
+        </svg>
+        <figcaption>A request arrives by email, form or message. It gets a label and a deadline clock starts. A drafted answer waits for a person's approval. Once approved, the send is logged in the register.</figcaption>
+      </figure>
+    </section>
+
+    <section>
+      <h2>You stay in control</h2>
+      <ul class="control-grid">
+        <li>
+          <h3>Approval, always human</h3>
+          <p>Every response waits for approval from someone on your team before it is sent. Always.</p>
+        </li>
+        <li>
+          <h3>Templates you approve</h3>
+          <p>Kairos only drafts from templates you have approved beforehand, in the language of the request.</p>
+        </li>
+        <li>
+          <h3>A complete trail</h3>
+          <p>Every step is logged: receipt, classification, drafting, approval, sending.</p>
+        </li>
+        <li>
+          <h3>An exportable register</h3>
+          <p>The request register can be exported at any time, ready for an internal review or a regulator's request.</p>
+        </li>
+        <li>
+          <h3>Data hosting</h3>
+          <p>During the pilot, data hosting is agreed with you and confirmed in writing.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>The 6-week pilot</h2>
+      <dl class="pilot-plan">
+        <div>
+          <dt>Week 1</dt>
+          <dd>Setup: connecting inboxes and forms, importing your templates, defining categories.</dd>
+        </div>
+        <div>
+          <dt>Week 2</dt>
+          <dd>Shadow mode: Kairos classifies and drafts, your team reviews everything, nothing is sent automatically.</dd>
+        </div>
+        <div>
+          <dt>Weeks 3 and 4</dt>
+          <dd>Supervised operation: your team approves each response, response times and accuracy are measured.</dd>
+        </div>
+        <div>
+          <dt>Week 5</dt>
+          <dd>Refinement: templates and categories are adjusted based on real requests received.</dd>
+        </div>
+        <div>
+          <dt>Week 6</dt>
+          <dd>Review: presentation of the register and measured response times, decision on next steps.</dd>
+        </div>
+      </dl>
+      <h3>What we measure</h3>
+      <ul class="metrics-list">
+        <li>Time to acknowledgement</li>
+        <li>Time to final response</li>
+        <li>Number of requests by category</li>
+        <li>Share of requests routed to a person</li>
+        <li>Number of edits made to drafts before sending</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Frequently asked questions</h2>
+
+      <details class="faq-item">
+        <summary><h3>Does Kairos replace my privacy team?</h3></summary>
+        <p>No. Kairos spots and prepares, your team decides and approves. The tool supports your team's work, it does not replace it.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary><h3>Does Kairos give legal advice?</h3></summary>
+        <p>No. Kairos helps spot, classify and draft responses from your templates. It is not legal advice, and decisions remain with your team and your legal counsel.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary><h3>What happens with an urgent or complex request?</h3></summary>
+        <p>Requests that fall outside the standard categories, or anything uncertain, are always routed to a person. Nothing is sent automatically in those cases.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary><h3>Can we answer in French and in English?</h3></summary>
+        <p>Yes. Acknowledgements and responses can be drafted in the language of the request, from your approved templates in both languages.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary><h3>Where is our data hosted during the pilot?</h3></summary>
+        <p>Hosting is agreed with you before the pilot starts and confirmed in writing, according to your internal requirements.</p>
+      </details>
+    </section>
+
+    <section class="final-cta">
+      <h2>Ready to start?</h2>
+      <p>A 20-minute call is enough to see if the pilot fits your team and to set a start date.</p>
+      <p class="pilot-badge">Pilot program. Limited spots.</p>
+      <div class="cta-row">
+        <a class="cta-button" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Privacy%20Requests%20-%2020-minute%20call">Book a 20-minute call</a>
+      </div>
+    </section>
+
+  </div>
+
+</main>
+
+<footer class="site-footer">
+  <p>PHAROS &middot; ml@pharos-ai.ca</p>
+</footer>
+
+<script>
+(function () {
+  "use strict";
+
+  var toggleBtn = document.getElementById("lang-toggle");
+  var frBlock = document.getElementById("content-fr");
+  var enBlock = document.getElementById("content-en");
+  var htmlEl = document.documentElement;
+
+  if (toggleBtn && frBlock && enBlock) {
+    toggleBtn.addEventListener("click", function () {
+      var showingFr = !frBlock.hidden;
+      if (showingFr) {
+        frBlock.hidden = true;
+        enBlock.hidden = false;
+        htmlEl.setAttribute("lang", "en");
+        toggleBtn.textContent = "Français";
+        toggleBtn.setAttribute("aria-pressed", "true");
+      } else {
+        enBlock.hidden = true;
+        frBlock.hidden = false;
+        htmlEl.setAttribute("lang", "fr");
+        toggleBtn.textContent = "English";
+        toggleBtn.setAttribute("aria-pressed", "false");
+      }
+    });
+  }
+
+  function initLoopAnim(id) {
+    var el = document.getElementById(id);
+    if (!el) { return; }
+
+    var reduceMotion = window.matchMedia &&
+      window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (reduceMotion) { return; }
+
+    if (!("IntersectionObserver" in window)) { return; }
+
+    el.classList.add("pre-play");
+
+    var observer = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          el.classList.remove("pre-play");
+          el.classList.add("play");
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.35 });
+
+    observer.observe(el);
+  }
+
+  initLoopAnim("loop-fr");
+  initLoopAnim("loop-en");
+})();
+</script>
+
+</body>
+</html>

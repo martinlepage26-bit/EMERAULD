@@ -1,0 +1,523 @@
+<!--
+VERIFY (unverified regulatory or factual claims, confirm before external use):
+- Loi 25 (Act respecting the protection of personal information in the private sector, as amended) may impose
+  specific obligations around automated processing of personal information and disclosure to individuals. This
+  page does not cite article numbers, thresholds, or penalty amounts, and none of those specifics have been
+  verified here.
+- The Charte de la langue française (as amended by Bill 96) may impose language-of-service obligations toward
+  Quebec consumers. This page does not cite specific articles, deadlines, or penalty amounts, and none of those
+  specifics have been verified here.
+- No claim of legal or regulatory compliance is made anywhere on this page. Any regulatory reference is general
+  framing only. The buyer's own legal counsel should confirm applicability to their organization.
+- The "data hosted in Canada" line is presented as a pilot-period commitment PHAROS is offering to make, not as
+  an existing fact about infrastructure already in place. Confirm hosting arrangements before this pilot starts.
+-->
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title data-fr="Kairos Service Client | Triage et réponses bilingues" data-en="Kairos Service Client | Bilingual triage and replies">Kairos Service Client | Triage et réponses bilingues</title>
+<script type="application/json" id="artifact-state">{"project":"kairos","doc":"kairos-corp-service-client","as_of":"2026-09-25T00:00:00Z"}</script>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f6f9fa;
+    --bg-alt: #ffffff;
+    --text: #16232f;
+    --text-muted: #4a5a68;
+    --accent: #0f6e73;
+    --accent-dark: #0b5459;
+    --pilot-bg: rgba(15, 110, 115, 0.12);
+    --border: #d7e0e6;
+    --ok: #1f9d55;
+    --danger: #b3261e;
+    --radius: 10px;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1720;
+      --bg-alt: #16212b;
+      --text: #eef3f6;
+      --text-muted: #aab8c2;
+      --accent: #2fb6bd;
+      --accent-dark: #7fd8dc;
+      --pilot-bg: rgba(47, 182, 189, 0.16);
+      --border: #26374a;
+      --ok: #4fd889;
+      --danger: #ff8f86;
+    }
+  }
+
+  *, *::before, *::after { box-sizing: border-box; }
+
+  html { -webkit-text-size-adjust: 100%; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+  }
+
+  a { color: var(--accent-dark); }
+
+  .skip-link {
+    position: absolute;
+    left: -999px;
+    top: auto;
+    background: var(--accent);
+    color: #ffffff;
+    padding: 0.75rem 1.1rem;
+    border-radius: 6px;
+    z-index: 200;
+    text-decoration: none;
+  }
+  .skip-link:focus {
+    left: 1rem;
+    top: 1rem;
+  }
+
+  a:focus-visible, button:focus-visible, summary:focus-visible {
+    outline: 3px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  .site-header {
+    border-bottom: 1px solid var(--border);
+    background: var(--bg-alt);
+  }
+  .header-inner {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 1rem 1.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .logo { font-weight: 700; font-size: 1.2rem; letter-spacing: 0.01em; }
+
+  #lang-toggle {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 0.45rem 1rem;
+    border-radius: 999px;
+    font-size: 0.9rem;
+    cursor: pointer;
+  }
+  #lang-toggle:hover { border-color: var(--accent); color: var(--accent-dark); }
+
+  section {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 3rem 1.25rem;
+  }
+
+  h1, h2, h3 { line-height: 1.25; }
+  h1 { font-size: clamp(1.6rem, 4vw + 1rem, 2.6rem); margin: 0 0 1rem; }
+  h2 { font-size: clamp(1.35rem, 2.5vw + 1rem, 1.9rem); margin: 0; }
+  h3 { font-size: 1.05rem; margin: 0 0 0.5rem; }
+
+  .hero { padding-top: 3.5rem; }
+  .hero-inner { max-width: 640px; }
+
+  .pilot-badge {
+    display: inline-block;
+    background: var(--pilot-bg);
+    color: var(--accent-dark);
+    border: 1px solid var(--accent);
+    padding: 0.35rem 0.9rem;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin: 0 0 1rem;
+  }
+
+  .subhead { color: var(--text-muted); font-size: 1.05rem; margin: 0; }
+
+  .cta-button {
+    display: inline-block;
+    background: var(--accent);
+    color: #ffffff;
+    font-weight: 600;
+    padding: 0.9rem 1.7rem;
+    border-radius: 999px;
+    text-decoration: none;
+    margin-top: 1.75rem;
+  }
+  .cta-button:hover, .cta-button:focus-visible { background: var(--accent-dark); color: #0b1116; }
+
+  .problem-list {
+    list-style: none;
+    padding: 0;
+    margin: 2rem 0 0;
+    display: grid;
+    gap: 1rem;
+  }
+  .problem-list li {
+    background: var(--bg-alt);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--accent);
+    padding: 1rem 1.25rem;
+    border-radius: 6px;
+  }
+
+  .steps {
+    list-style: none;
+    padding: 0;
+    margin: 2rem 0 0;
+    display: grid;
+    gap: 1.25rem;
+    grid-template-columns: 1fr;
+  }
+  @media (min-width: 700px) {
+    .steps { grid-template-columns: repeat(3, 1fr); }
+  }
+  .steps li {
+    background: var(--bg-alt);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.25rem;
+  }
+  .steps p { color: var(--text-muted); margin: 0; }
+
+  .loop-visual {
+    margin-top: 2rem;
+    background: var(--bg-alt);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1rem;
+  }
+  .loop-visual svg { width: 100%; height: auto; display: block; }
+  .loop-caption { margin-top: 1.25rem; font-weight: 600; }
+  .loop-note { color: var(--text-muted); font-size: 0.85rem; margin-top: 0.35rem; }
+
+  .msg { fill: var(--accent); opacity: 1; }
+  .msg-1 { transform: translate(470px, -55px); }
+  .msg-2 { transform: translate(470px, 70px); }
+  .msg-3 { transform: translate(470px, -33px); }
+  .outcome { opacity: 1; }
+  .inbox-rect { fill: var(--bg-alt); stroke: var(--border); stroke-width: 1.5; }
+  .inbox-rect-back { opacity: 0.6; }
+  .funnel-shape { fill: none; stroke: var(--border); stroke-width: 1.5; }
+  .lane { fill: none; stroke: var(--border); stroke-width: 1.5; stroke-dasharray: 4 4; }
+  .outcome-badge-ok { fill: var(--ok); }
+  .check-mark { fill: none; stroke: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+  .outcome-label { fill: var(--text-muted); font-size: 11px; }
+  .outcome-badge-alert { fill: var(--danger); }
+  .outcome-tag-text { fill: #ffffff; font-size: 12px; font-weight: 600; }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .msg { opacity: 0; transform: translate(0, 0); }
+    .outcome { opacity: 0; }
+
+    .loop-visual.play .msg-1 { animation: travel-routine 2.4s ease-out 0s forwards; }
+    .loop-visual.play .msg-3 { animation: travel-routine-2 2.4s ease-out 0.45s forwards; }
+    .loop-visual.play .msg-2 { animation: travel-complaint 2.4s ease-out 0.25s forwards; }
+    .loop-visual.play .outcome-routine { animation: fade-in 0.6s ease-out 2s forwards; }
+    .loop-visual.play .outcome-complaint { animation: fade-in 0.6s ease-out 1.8s forwards; }
+  }
+
+  @keyframes travel-routine {
+    0% { transform: translate(0, 0); opacity: 0; }
+    12% { opacity: 1; }
+    55% { transform: translate(200px, 0); }
+    100% { transform: translate(470px, -55px); }
+  }
+  @keyframes travel-routine-2 {
+    0% { transform: translate(0, 0); opacity: 0; }
+    12% { opacity: 1; }
+    55% { transform: translate(200px, 0); }
+    100% { transform: translate(470px, -33px); }
+  }
+  @keyframes travel-complaint {
+    0% { transform: translate(0, 0); opacity: 0; }
+    12% { opacity: 1; }
+    55% { transform: translate(200px, 0); }
+    100% { transform: translate(470px, 70px); }
+  }
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  .control-grid, .timeline-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  @media (min-width: 640px) {
+    .control-grid { grid-template-columns: repeat(2, 1fr); }
+    .timeline-grid { grid-template-columns: repeat(3, 1fr); }
+  }
+  @media (min-width: 900px) {
+    .control-grid { grid-template-columns: repeat(3, 1fr); }
+  }
+  .control-item, .timeline-item {
+    background: var(--bg-alt);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.25rem;
+  }
+  .control-item p, .timeline-item p { color: var(--text-muted); margin: 0 0 0.6rem; }
+  .timeline-measure { font-size: 0.9rem; margin: 0; }
+  .timeline-measure strong { color: var(--text); }
+
+  .faq-item {
+    border-bottom: 1px solid var(--border);
+    padding: 1rem 0;
+  }
+  .faq-item summary {
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1.05rem;
+    list-style: none;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-item summary::before { content: "+"; margin-right: 0.5rem; color: var(--accent); font-weight: 700; }
+  .faq-item[open] summary::before { content: "-"; }
+  .faq-item p { color: var(--text-muted); margin: 0.75rem 0 0; }
+
+  .final-cta { text-align: center; }
+  .final-cta p { color: var(--text-muted); max-width: 520px; margin: 0.75rem auto 0; }
+  .pilot-badge-secondary { display: block; width: fit-content; margin: 1.5rem auto 0; }
+
+  .site-footer {
+    border-top: 1px solid var(--border);
+    padding: 2rem 1.25rem;
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main" data-fr="Passer au contenu principal" data-en="Skip to main content">Passer au contenu principal</a>
+
+<header class="site-header">
+  <div class="header-inner">
+    <span class="logo">Kairos</span>
+    <button type="button" id="lang-toggle" aria-label="Passer à l'anglais">English</button>
+  </div>
+</header>
+
+<main id="main">
+
+  <section class="hero" aria-labelledby="hero-heading">
+    <div class="hero-inner">
+      <p class="pilot-badge" data-fr="Programme pilote. Places limitées." data-en="Pilot program. Limited spots.">Programme pilote. Places limitées.</p>
+      <h1 id="hero-heading" data-fr="Vos clients attendent une réponse. Vos agents répondent encore aux mêmes questions." data-en="Your customers are waiting for a reply. Your agents are still answering the same questions.">Vos clients attendent une réponse. Vos agents répondent encore aux mêmes questions.</h1>
+      <p class="subhead" data-fr="Kairos trie les courriels, les formulaires web et les messages Facebook et Instagram, rédige une réponse dans la bonne langue, et achemine les plaintes directement à une personne." data-en="Kairos sorts your email, web forms, and Facebook and Instagram messages, drafts a reply in the right language, and sends complaints straight to a person.">Kairos trie les courriels, les formulaires web et les messages Facebook et Instagram, rédige une réponse dans la bonne langue, et achemine les plaintes directement à une personne.</p>
+      <a class="cta-button" id="cta-hero" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Service%20Client%20-%20Demande%20d%27appel%2020%20min" data-fr-href="mailto:ml@pharos-ai.ca?subject=Kairos%20Service%20Client%20-%20Demande%20d%27appel%2020%20min" data-en-href="mailto:ml@pharos-ai.ca?subject=Kairos%20Service%20Client%20-%2020-minute%20call%20request" data-fr="Réserver un appel de 20 minutes" data-en="Book a 20-minute call">Réserver un appel de 20 minutes</a>
+    </div>
+  </section>
+
+  <section class="problem" aria-labelledby="problem-heading">
+    <h2 id="problem-heading" data-fr="Ce que vous vivez chaque jour" data-en="What you deal with every day">Ce que vous vivez chaque jour</h2>
+    <ul class="problem-list">
+      <li data-fr="Les courriels, formulaires web, messages Facebook et Instagram et avis arrivent dans des boîtes séparées, sans ordre de priorité." data-en="Email, web forms, Facebook and Instagram messages, and reviews land in separate inboxes with no order of priority.">Les courriels, formulaires web, messages Facebook et Instagram et avis arrivent dans des boîtes séparées, sans ordre de priorité.</li>
+      <li data-fr="Vos agents répondent aux mêmes questions (statut de commande, heures d'ouverture, procédure de retour) au lieu de traiter les dossiers urgents." data-en="Your agents answer the same questions (order status, hours, return process) instead of handling urgent files.">Vos agents répondent aux mêmes questions (statut de commande, heures d'ouverture, procédure de retour) au lieu de traiter les dossiers urgents.</li>
+      <li data-fr="Une plainte ou une menace de résiliation peut se perdre dans le volume, et personne ne s'en aperçoit avant qu'il soit trop tard." data-en="A complaint or a cancellation threat can get lost in the volume, and no one notices until it is too late.">Une plainte ou une menace de résiliation peut se perdre dans le volume, et personne ne s'en aperçoit avant qu'il soit trop tard.</li>
+    </ul>
+  </section>
+
+  <section class="how" aria-labelledby="how-heading">
+    <h2 id="how-heading" data-fr="Comment ça fonctionne" data-en="How it works">Comment ça fonctionne</h2>
+    <ol class="steps">
+      <li>
+        <h3 data-fr="1. Triage" data-en="1. Sorting">1. Triage</h3>
+        <p data-fr="Kairos lit chaque message entrant et le classe selon ce que la personne demande et son degré d'urgence." data-en="Kairos reads each incoming message and sorts it by what the person is asking for and how urgent it is.">Kairos lit chaque message entrant et le classe selon ce que la personne demande et son degré d'urgence.</p>
+      </li>
+      <li>
+        <h3 data-fr="2. Rédaction" data-en="2. Drafting">2. Rédaction</h3>
+        <p data-fr="Pour les catégories routinières, une réponse est rédigée dans la langue du client, dans le ton de votre entreprise." data-en="For routine categories, a reply is drafted in the customer's language, in your company's tone.">Pour les catégories routinières, une réponse est rédigée dans la langue du client, dans le ton de votre entreprise.</p>
+      </li>
+      <li>
+        <h3 data-fr="3. Approbation ou escalade" data-en="3. Approval or escalation">3. Approbation ou escalade</h3>
+        <p data-fr="Votre équipe approuve et envoie. Pour les catégories que vous autorisez, l'envoi se fait automatiquement selon vos règles. Les plaintes et les dossiers sensibles vont toujours à une personne." data-en="Your team approves and sends. For categories you allow, sending happens automatically under your rules. Complaints and sensitive files always go to a person.">Votre équipe approuve et envoie. Pour les catégories que vous autorisez, l'envoi se fait automatiquement selon vos règles. Les plaintes et les dossiers sensibles vont toujours à une personne.</p>
+      </li>
+    </ol>
+  </section>
+
+  <section class="loop-demo" aria-labelledby="loop-heading">
+    <h2 id="loop-heading" data-fr="Le tri, en un coup d'œil" data-en="Sorting, at a glance">Le tri, en un coup d'œil</h2>
+    <div class="loop-visual" aria-hidden="true">
+      <svg viewBox="0 0 600 220" role="presentation" focusable="false">
+        <rect class="inbox-rect inbox-rect-back" x="14" y="80" width="46" height="34" rx="4" />
+        <rect class="inbox-rect" x="20" y="90" width="46" height="34" rx="4" />
+        <path class="funnel-shape" d="M100 60 L260 105 L100 160 Z" />
+        <path class="lane lane-routine" d="M270 105 C 360 60, 440 40, 520 40" />
+        <path class="lane lane-complaint" d="M270 105 C 360 150, 440 175, 520 180" />
+        <circle class="msg msg-1" cx="70" cy="95" r="9" />
+        <circle class="msg msg-2" cx="70" cy="112" r="9" />
+        <circle class="msg msg-3" cx="70" cy="129" r="9" />
+        <g class="outcome outcome-routine">
+          <circle class="outcome-badge outcome-badge-ok" cx="540" cy="40" r="14" />
+          <path class="check-mark" d="M533 40 l5 5 l10 -11" />
+          <text class="outcome-label" x="540" y="66" text-anchor="middle" data-fr="Réponse prête" data-en="Reply ready">Réponse prête</text>
+        </g>
+        <g class="outcome outcome-complaint">
+          <rect class="outcome-badge outcome-badge-alert" x="505" y="165" width="70" height="26" rx="13" />
+          <text class="outcome-tag-text" x="540" y="182" text-anchor="middle" data-fr="Pour vous" data-en="For you">Pour vous</text>
+        </g>
+      </svg>
+    </div>
+    <p class="loop-caption" data-fr="Les messages arrivent, sont triés selon leur urgence, et une plainte reçoit toujours une étiquette « Pour vous » qui l'achemine à une personne." data-en="Messages arrive, get sorted by urgency, and a complaint always gets a &quot;For you&quot; tag that routes it to a person.">Les messages arrivent, sont triés selon leur urgence, et une plainte reçoit toujours une étiquette « Pour vous » qui l'achemine à une personne.</p>
+    <p class="loop-note" data-fr="Cette animation joue une fois lorsque vous atteignez cette section." data-en="This animation plays once when you reach this section.">Cette animation joue une fois lorsque vous atteignez cette section.</p>
+  </section>
+
+  <section class="control" aria-labelledby="control-heading">
+    <h2 id="control-heading" data-fr="Vous gardez le contrôle" data-en="You stay in control">Vous gardez le contrôle</h2>
+    <div class="control-grid">
+      <div class="control-item">
+        <h3 data-fr="Approbation" data-en="Approval">Approbation</h3>
+        <p data-fr="Rien n'est envoyé sans une décision humaine, sauf pour les catégories que vous autorisez explicitement." data-en="Nothing is sent without a human decision, except for the categories you explicitly allow.">Rien n'est envoyé sans une décision humaine, sauf pour les catégories que vous autorisez explicitement.</p>
+      </div>
+      <div class="control-item">
+        <h3 data-fr="Règles par catégorie" data-en="Rules per category">Règles par catégorie</h3>
+        <p data-fr="Votre responsable d'équipe décide quelles catégories peuvent être envoyées automatiquement, et peut changer cette décision en tout temps." data-en="Your team lead decides which categories can be sent automatically, and can change that decision at any time.">Votre responsable d'équipe décide quelles catégories peuvent être envoyées automatiquement, et peut changer cette décision en tout temps.</p>
+      </div>
+      <div class="control-item">
+        <h3 data-fr="Escalade" data-en="Escalation">Escalade</h3>
+        <p data-fr="Les plaintes, les demandes de résiliation et tout dossier sensible ou ambigu sont toujours acheminés à une personne." data-en="Complaints, cancellation requests, and any sensitive or unclear file always reach a person.">Les plaintes, les demandes de résiliation et tout dossier sensible ou ambigu sont toujours acheminés à une personne.</p>
+      </div>
+      <div class="control-item">
+        <h3 data-fr="Journal d'audit" data-en="Audit log">Journal d'audit</h3>
+        <p data-fr="Chaque décision de tri et chaque réponse envoyée est consignée, pour que vous puissiez la revoir en tout temps." data-en="Every sorting decision and every reply sent is logged, so you can review it at any time.">Chaque décision de tri et chaque réponse envoyée est consignée, pour que vous puissiez la revoir en tout temps.</p>
+      </div>
+      <div class="control-item">
+        <h3 data-fr="Engagement pour le pilote" data-en="Pilot commitment">Engagement pour le pilote</h3>
+        <p data-fr="Pendant le projet pilote, nous nous engageons à héberger vos données au Canada." data-en="During the pilot, we commit to hosting your data in Canada.">Pendant le projet pilote, nous nous engageons à héberger vos données au Canada.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="timeline" aria-labelledby="timeline-heading">
+    <h2 id="timeline-heading" data-fr="Le projet pilote de 6 semaines" data-en="The 6-week pilot">Le projet pilote de 6 semaines</h2>
+    <div class="timeline-grid">
+      <div class="timeline-item">
+        <h3 data-fr="Semaines 1 et 2" data-en="Weeks 1 and 2">Semaines 1 et 2</h3>
+        <p data-fr="Connexion à votre boîte de service et à un canal social. Les catégories sont définies avec votre équipe, et les premières réponses sont révisées une à une pour calibrer le ton." data-en="Connection to your service inbox and one social channel. Categories are defined with your team, and the first drafts are reviewed one by one to calibrate tone.">Connexion à votre boîte de service et à un canal social. Les catégories sont définies avec votre équipe, et les premières réponses sont révisées une à une pour calibrer le ton.</p>
+        <p class="timeline-measure"><strong data-fr="Ce qu'on mesure : " data-en="What we measure: ">Ce qu'on mesure : </strong><span data-fr="temps de première réponse actuel, volume par catégorie." data-en="current first-response time, volume by category.">temps de première réponse actuel, volume par catégorie.</span></p>
+      </div>
+      <div class="timeline-item">
+        <h3 data-fr="Semaines 3 et 4" data-en="Weeks 3 and 4">Semaines 3 et 4</h3>
+        <p data-fr="L'envoi automatique est activé pour les catégories que vous approuvez (par exemple les heures d'ouverture ou le statut de commande). Les réponses sont ajustées selon vos commentaires." data-en="Automatic sending is turned on for the categories you approve (for example hours or order status). Drafts are adjusted based on your feedback.">L'envoi automatique est activé pour les catégories que vous approuvez (par exemple les heures d'ouverture ou le statut de commande). Les réponses sont ajustées selon vos commentaires.</p>
+        <p class="timeline-measure"><strong data-fr="Ce qu'on mesure : " data-en="What we measure: ">Ce qu'on mesure : </strong><span data-fr="taux d'adoption des réponses proposées, part des messages envoyés automatiquement, temps sauvé par agent." data-en="adoption rate of drafted replies, share of messages sent automatically, time saved per agent.">taux d'adoption des réponses proposées, part des messages envoyés automatiquement, temps sauvé par agent.</span></p>
+      </div>
+      <div class="timeline-item">
+        <h3 data-fr="Semaines 5 et 6" data-en="Weeks 5 and 6">Semaines 5 et 6</h3>
+        <p data-fr="Le tri couvre l'ensemble de vos canaux du pilote, les règles d'escalade sont finalisées, et votre équipe révise le journal d'audit avec nous." data-en="Sorting covers all of your pilot channels, escalation rules are finalized, and your team reviews the audit log with us.">Le tri couvre l'ensemble de vos canaux du pilote, les règles d'escalade sont finalisées, et votre équipe révise le journal d'audit avec nous.</p>
+        <p class="timeline-measure"><strong data-fr="Ce qu'on mesure : " data-en="What we measure: ">Ce qu'on mesure : </strong><span data-fr="temps de première réponse, précision de l'escalade, taux de messages sans réponse." data-en="first-response time, escalation accuracy, rate of messages left unanswered.">temps de première réponse, précision de l'escalade, taux de messages sans réponse.</span></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="faq" aria-labelledby="faq-heading">
+    <h2 id="faq-heading" data-fr="Questions fréquentes" data-en="Frequently asked questions">Questions fréquentes</h2>
+
+    <details class="faq-item">
+      <summary data-fr="Est-ce que Kairos répond de façon autonome ?" data-en="Does Kairos reply on its own?">Est-ce que Kairos répond de façon autonome ?</summary>
+      <p data-fr="Seulement pour les catégories que vous approuvez explicitement. Pour tout le reste, une réponse est rédigée et attend l'approbation d'une personne de votre équipe." data-en="Only for the categories you explicitly approve. For everything else, a reply is drafted and waits for approval from someone on your team.">Seulement pour les catégories que vous approuvez explicitement. Pour tout le reste, une réponse est rédigée et attend l'approbation d'une personne de votre équipe.</p>
+    </details>
+
+    <details class="faq-item">
+      <summary data-fr="Qu'en est-il de la qualité en français et en anglais ?" data-en="What about French and English quality?">Qu'en est-il de la qualité en français et en anglais ?</summary>
+      <p data-fr="Les réponses sont rédigées dans la langue du message reçu, dans le ton de votre entreprise. Votre équipe révise les réponses avant qu'une catégorie soit approuvée pour l'envoi automatique." data-en="Replies are drafted in the language of the incoming message, in your company's tone. Your team reviews replies before a category is approved for automatic sending.">Les réponses sont rédigées dans la langue du message reçu, dans le ton de votre entreprise. Votre équipe révise les réponses avant qu'une catégorie soit approuvée pour l'envoi automatique.</p>
+    </details>
+
+    <details class="faq-item">
+      <summary data-fr="Que se passe-t-il avec une plainte ou une menace de résiliation ?" data-en="What happens with a complaint or a cancellation threat?">Que se passe-t-il avec une plainte ou une menace de résiliation ?</summary>
+      <p data-fr="Ces messages sont toujours acheminés à une personne. Ils ne sont jamais envoyés automatiquement, quelle que soit la configuration choisie." data-en="These messages are always routed to a person. They are never sent automatically, regardless of the configuration chosen.">Ces messages sont toujours acheminés à une personne. Ils ne sont jamais envoyés automatiquement, quelle que soit la configuration choisie.</p>
+    </details>
+
+    <details class="faq-item">
+      <summary data-fr="Quels canaux sont couverts pendant le projet pilote ?" data-en="Which channels are covered during the pilot?">Quels canaux sont couverts pendant le projet pilote ?</summary>
+      <p data-fr="Kairos se connecte à votre boîte de service client et à vos comptes sociaux pendant le projet pilote. Les canaux exacts sont convenus ensemble selon vos priorités." data-en="Kairos connects to your support inbox and your social accounts during the pilot. The exact channels are agreed together based on your priorities.">Kairos se connecte à votre boîte de service client et à vos comptes sociaux pendant le projet pilote. Les canaux exacts sont convenus ensemble selon vos priorités.</p>
+    </details>
+
+    <details class="faq-item">
+      <summary data-fr="Est-ce conforme à nos obligations linguistiques et de protection des renseignements personnels ?" data-en="Does this meet our language and privacy obligations?">Est-ce conforme à nos obligations linguistiques et de protection des renseignements personnels ?</summary>
+      <p data-fr="Kairos est configuré pour appuyer une réponse en français en priorité et pour garder une trace de chaque décision, deux enjeux liés à vos obligations québécoises. La conformité complète dépend de votre configuration et doit être confirmée par votre conseiller juridique." data-en="Kairos is configured to support a French-first reply and to keep a record of every decision, both relevant to your Quebec obligations. Full compliance depends on your configuration and should be confirmed by your legal counsel.">Kairos est configuré pour appuyer une réponse en français en priorité et pour garder une trace de chaque décision, deux enjeux liés à vos obligations québécoises. La conformité complète dépend de votre configuration et doit être confirmée par votre conseiller juridique.</p>
+    </details>
+  </section>
+
+  <section class="final-cta" aria-labelledby="final-cta-heading">
+    <h2 id="final-cta-heading" data-fr="Voyons si Kairos convient à votre équipe" data-en="Let's see if Kairos fits your team">Voyons si Kairos convient à votre équipe</h2>
+    <p data-fr="Un appel de 20 minutes suffit pour savoir si le projet pilote a du sens pour vous." data-en="A 20-minute call is enough to know if the pilot makes sense for you.">Un appel de 20 minutes suffit pour savoir si le projet pilote a du sens pour vous.</p>
+    <a class="cta-button" id="cta-final" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Service%20Client%20-%20Demande%20d%27appel%2020%20min" data-fr-href="mailto:ml@pharos-ai.ca?subject=Kairos%20Service%20Client%20-%20Demande%20d%27appel%2020%20min" data-en-href="mailto:ml@pharos-ai.ca?subject=Kairos%20Service%20Client%20-%2020-minute%20call%20request" data-fr="Réserver un appel de 20 minutes" data-en="Book a 20-minute call">Réserver un appel de 20 minutes</a>
+    <p class="pilot-badge pilot-badge-secondary" data-fr="Programme pilote. Places limitées." data-en="Pilot program. Limited spots.">Programme pilote. Places limitées.</p>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p data-fr="Kairos, un produit PHAROS." data-en="Kairos, a PHAROS product.">Kairos, un produit PHAROS.</p>
+</footer>
+
+<script>
+(function () {
+  var lang = 'fr';
+  var toggle = document.getElementById('lang-toggle');
+
+  function apply() {
+    document.documentElement.setAttribute('lang', lang);
+
+    var textNodes = document.querySelectorAll('[data-fr]');
+    for (var i = 0; i < textNodes.length; i++) {
+      var el = textNodes[i];
+      var value = lang === 'fr' ? el.getAttribute('data-fr') : el.getAttribute('data-en');
+      if (value !== null) {
+        el.textContent = value;
+      }
+    }
+
+    var hrefNodes = document.querySelectorAll('[data-fr-href]');
+    for (var j = 0; j < hrefNodes.length; j++) {
+      var link = hrefNodes[j];
+      var href = lang === 'fr' ? link.getAttribute('data-fr-href') : link.getAttribute('data-en-href');
+      if (href !== null) {
+        link.setAttribute('href', href);
+      }
+    }
+
+    if (toggle) {
+      toggle.textContent = lang === 'fr' ? 'English' : 'Français';
+      toggle.setAttribute('aria-label', lang === 'fr' ? "Passer à l'anglais" : 'Switch to French');
+    }
+  }
+
+  if (toggle) {
+    toggle.addEventListener('click', function () {
+      lang = lang === 'fr' ? 'en' : 'fr';
+      apply();
+    });
+  }
+
+  apply();
+})();
+</script>
+<script>
+(function () {
+  var visual = document.querySelector('.loop-visual');
+  if (!visual || typeof IntersectionObserver === 'undefined') {
+    return;
+  }
+  var observer = new IntersectionObserver(function (entries) {
+    entries.forEach(function (entry) {
+      if (entry.isIntersecting) {
+        visual.classList.add('play');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.4 });
+  observer.observe(visual);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,470 @@
+<!-- VERIFY
+- Charter of the French language (Law 96) obligations for commercial publicity across many locations (Google Business Profile posts, social posts, replies to reviews): this page makes a general, deliberately non-specific statement only. Not verified against the current regulatory text for this exact use case (organic social posts vs paid ads vs signage vs customer replies). Confirm the precise scope with counsel before repeating this claim to a specific client.
+-->
+<!doctype html>
+<html lang="fr" data-lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Kairos Réseau | Kairos</title>
+<script type="application/json" id="artifact-state">{"project":"kairos","doc":"kairos-corp-reseau","as_of":"2026-09-25T00:00:00Z"}</script>
+<style>
+:root{
+  --ink:#14161a; --paper:#ffffff; --mid:#5c5f66; --rule:#e2e2e2; --soft:#f5f5f3;
+  --accent:#c81e1e; --accent-soft:#f6dede; --btn-bg:#c81e1e; --btn-fg:#ffffff;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --ink:#eef0f2; --paper:#111318; --mid:#a8adb6; --rule:#2a2d33; --soft:#1b1d22;
+    --accent:#ff7a68; --accent-soft:#3a201d; --btn-bg:#ff7a68; --btn-fg:#1a1010;
+  }
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:var(--paper); color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  font-size:16px; line-height:1.55; -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px;}
+a{color:inherit;}
+h1,h2,h3{line-height:1.15;margin:0 0 .6em;}
+p{margin:0 0 1em;}
+ul,ol{margin:0;}
+
+/* language toggle: default html has data-lang="fr", hiding .en; toggling flips it */
+html:not([data-lang="en"]) .en{display:none !important;}
+html[data-lang="en"] .fr{display:none !important;}
+
+.topbar{position:sticky;top:0;z-index:10;background:var(--paper);border-bottom:1px solid var(--rule);}
+.topbar-inner{display:flex;align-items:center;justify-content:space-between;padding:14px 20px;}
+.wordmark{font-weight:800;letter-spacing:.02em;font-size:14px;text-transform:uppercase;}
+.wordmark .accent{color:var(--accent);}
+.lang-toggle{border:1px solid var(--rule);background:transparent;color:var(--ink);font:700 13px/1 -apple-system,sans-serif;letter-spacing:.04em;padding:9px 13px;border-radius:999px;cursor:pointer;display:inline-flex;gap:6px;align-items:center;}
+.lang-toggle .lt-sep{opacity:.4;}
+.lang-toggle .lt-fr,.lang-toggle .lt-en{opacity:.5;}
+html[data-lang="fr"] .lang-toggle .lt-fr{opacity:1;font-weight:800;}
+html[data-lang="en"] .lang-toggle .lt-en{opacity:1;font-weight:800;}
+
+.hero{padding:48px 0 40px;border-bottom:1px solid var(--rule);}
+.pilot-tag{display:inline-block;font:700 12px/1 -apple-system,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);border:1.5px solid var(--accent);border-radius:999px;padding:7px 14px;margin:0 0 18px;}
+.hero h1{font-size:clamp(1.6rem,6.4vw,2.9rem);font-weight:800;letter-spacing:-.01em;max-width:19ch;}
+.hero .lede{max-width:58ch;color:var(--mid);font-size:1.08rem;}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px;margin-top:6px;}
+.btn{display:inline-block;background:var(--btn-bg);color:var(--btn-fg);font-weight:700;font-size:1rem;padding:14px 22px;border-radius:10px;text-decoration:none;}
+.btn:hover{filter:brightness(1.06);}
+
+.section{padding:44px 0;border-bottom:1px solid var(--rule);}
+.section.alt{background:var(--soft);}
+.section h2{font-size:clamp(1.35rem,4vw,2rem);font-weight:800;}
+
+.problem-list{list-style:none;margin:0;padding:0;display:grid;gap:14px;}
+.problem-list li{border-left:4px solid var(--accent);background:var(--soft);padding:16px 18px;border-radius:0 8px 8px 0;}
+.quote{font-style:italic;font-size:1.03rem;margin:0;}
+
+.steps{list-style:none;margin:0;padding:0;display:grid;gap:20px;}
+.steps li{display:grid;grid-template-columns:auto 1fr;gap:14px;align-items:start;}
+.step-num{width:36px;height:36px;border-radius:50%;background:var(--accent);color:#fff;font-weight:800;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+.steps p{margin:0;}
+
+.loop-lede{color:var(--mid);max-width:60ch;}
+.loop{margin:20px 0 0;}
+.loop-svg{width:100%;height:auto;display:block;}
+figcaption{color:var(--mid);font-size:.94rem;max-width:64ch;margin-top:14px;}
+
+.office-card{fill:var(--paper);stroke:var(--ink);stroke-width:2;}
+.tmpl-chip{fill:var(--accent);}
+.office-line{fill:var(--rule);}
+.office-label{font:700 15px -apple-system,sans-serif;fill:var(--ink);}
+.map-bg{fill:var(--soft);}
+.beam{fill:none;stroke:var(--mid);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:100;stroke-dashoffset:100;}
+.pin{fill:var(--mid);}
+.pin-dot{fill:var(--paper);}
+.ring{fill:none;stroke:var(--accent);stroke-width:3;opacity:0;transform-box:fill-box;transform-origin:center;}
+.check-badge{opacity:0;transform-box:fill-box;transform-origin:center;transform:scale(0);}
+.check-circle{fill:var(--accent);}
+.check-mark{fill:none;stroke:#fff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+.tag{opacity:0;transform-box:fill-box;transform-origin:center;transform:translateY(8px);}
+.tag-bg{fill:var(--ink);}
+.tag-text{fill:var(--paper);font:700 13px -apple-system,sans-serif;}
+
+@keyframes drawBeam{to{stroke-dashoffset:0;}}
+@keyframes pinLit{to{fill:var(--accent);}}
+@keyframes popCheck{to{opacity:1;transform:scale(1);}}
+@keyframes ping{0%{opacity:.55;transform:scale(.5);}100%{opacity:0;transform:scale(2.4);}}
+@keyframes tagIn{to{opacity:1;transform:translateY(0);}}
+@keyframes sendPulse{0%{transform:scale(1);}50%{transform:scale(1.18);}100%{transform:scale(1);}}
+
+.loop.play .beam1{animation:drawBeam .5s ease forwards;animation-delay:0s;}
+.loop.play .beam2{animation:drawBeam .5s ease forwards;animation-delay:.15s;}
+.loop.play .beam3{animation:drawBeam .5s ease forwards;animation-delay:.3s;}
+.loop.play .beam4{animation:drawBeam .5s ease forwards;animation-delay:.45s;}
+.loop.play .tmpl-chip{animation:sendPulse .4s ease;animation-delay:0s;}
+.loop.play .pin1{animation:pinLit .35s ease forwards;animation-delay:1s;}
+.loop.play .pin2{animation:pinLit .35s ease forwards;animation-delay:1.15s;}
+.loop.play .pin3{animation:pinLit .35s ease forwards;animation-delay:1.3s;}
+.loop.play .pin4{animation:pinLit .35s ease forwards;animation-delay:1.45s;}
+.loop.play .check-badge{animation:popCheck .35s cubic-bezier(.34,1.56,.64,1) forwards;animation-delay:1.7s;}
+.loop.play .ring1{animation:ping .8s ease-out forwards;animation-delay:2s;}
+.loop.play .ring2{animation:ping .8s ease-out forwards;animation-delay:2.15s;}
+.loop.play .ring3{animation:ping .8s ease-out forwards;animation-delay:2.3s;}
+.loop.play .ring4{animation:ping .8s ease-out forwards;animation-delay:2.45s;}
+.loop.play .tag{animation:tagIn .4s ease forwards;animation-delay:2.7s;}
+
+@media (prefers-reduced-motion: reduce){
+  *{animation-duration:.001ms !important;animation-delay:0s !important;transition-duration:.001ms !important;}
+}
+
+.control-grid{display:grid;gap:16px;grid-template-columns:1fr;}
+@media (min-width:640px){.control-grid{grid-template-columns:repeat(2,1fr);}}
+@media (min-width:960px){.control-grid{grid-template-columns:repeat(3,1fr);}}
+.control-card{border:1px solid var(--rule);border-radius:10px;padding:18px;background:var(--paper);}
+.control-num{font-weight:800;color:var(--accent);font-size:.85rem;letter-spacing:.06em;}
+.control-card h3{font-size:1.05rem;margin:.3em 0 .4em;}
+.control-card p{margin:0;color:var(--mid);font-size:.95rem;}
+
+.pilot-lede{color:var(--mid);max-width:60ch;}
+.timeline{list-style:none;margin:24px 0 0;padding:0;display:grid;gap:14px;}
+.timeline li{border-left:3px solid var(--accent);padding:4px 0 4px 16px;}
+.timeline .wk{font:800 12px -apple-system,sans-serif;text-transform:uppercase;letter-spacing:.06em;color:var(--accent);display:block;margin-bottom:2px;}
+.measure{margin-top:26px;padding:18px;background:var(--soft);border-radius:10px;}
+.measure h3{margin:0 0 .6em;font-size:1.05rem;}
+.measure ul{padding-left:1.2em;color:var(--mid);}
+.measure li{margin-bottom:.3em;}
+
+.faq{display:grid;gap:10px;margin-top:18px;}
+.faq details{border:1px solid var(--rule);border-radius:10px;padding:4px 16px;background:var(--paper);}
+.faq summary{cursor:pointer;font-weight:700;padding:14px 0;list-style:none;}
+.faq summary::-webkit-details-marker{display:none;}
+.faq summary::after{content:"+";float:right;color:var(--accent);font-weight:800;}
+.faq details[open] summary::after{content:"\2212";}
+.faq p{color:var(--mid);padding-bottom:14px;margin:0;}
+
+.verify{font-size:.75em;border:1px dashed var(--mid);border-radius:4px;padding:0 5px;color:var(--mid);margin-left:4px;white-space:nowrap;}
+
+.foot{padding:26px 0;}
+.foot .wordmark{opacity:.6;font-size:12px;}
+
+*:focus-visible{outline:3px solid var(--accent);outline-offset:2px;}
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <span class="wordmark">KAIROS <span class="accent">RÉSEAU</span></span>
+    <button id="langToggle" class="lang-toggle" type="button" aria-label="Changer de langue / Switch language">
+      <span class="lt-fr">FR</span><span class="lt-sep">/</span><span class="lt-en">EN</span>
+    </button>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <p class="pilot-tag"><span class="fr" lang="fr">Programme pilote. Places limitées.</span><span class="en" lang="en">Pilot program. Limited spots.</span></p>
+    <h1>
+      <span class="fr" lang="fr">Vos succursales devraient publier chaque semaine. La plupart ne publient jamais.</span>
+      <span class="en" lang="en">Every location should be posting weekly. Most never post at all.</span>
+    </h1>
+    <p class="lede">
+      <span class="fr" lang="fr">Kairos rédige des publications locales pour chaque succursale, dans la voix de votre marque, prêtes à approuver en un clic. Les avis et les messages ne restent plus sans réponse.</span>
+      <span class="en" lang="en">Kairos drafts local posts for every location, in your brand's voice, ready to approve in one click. Reviews and messages stop going unanswered.</span>
+    </p>
+    <div class="cta-row">
+      <a class="btn fr" lang="fr" href="mailto:ml@pharos-ai.ca?subject=Kairos%20R%C3%A9seau%20%3A%20appel%20pilote%20de%2020%20minutes">Réserver un appel de 20 minutes</a>
+      <a class="btn en" lang="en" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Network%20-%2020-minute%20pilot%20call">Book a 20-minute call</a>
+    </div>
+  </div>
+</section>
+
+<section id="probleme" class="section">
+  <div class="wrap">
+    <h2><span class="fr" lang="fr">Le problème, dans leurs mots</span><span class="en" lang="en">The problem, in their words</span></h2>
+    <ul class="problem-list">
+      <li>
+        <p class="quote fr" lang="fr">« On a 45 succursales. Le siège social approuve les publications, mais ça prend deux semaines. Les gérants ont abandonné. »</p>
+        <p class="quote en" lang="en">"We have 45 locations. Head office approves posts, but it takes two weeks. Managers gave up."</p>
+      </li>
+      <li>
+        <p class="quote fr" lang="fr">« Chaque succursale a ses propres heures, ses propres promotions. On ne peut pas laisser chacun publier ce qu'il veut, c'est notre marque. »</p>
+        <p class="quote en" lang="en">"Every location has its own hours, its own promotions. We can't let everyone post whatever they want, it's our brand."</p>
+      </li>
+      <li>
+        <p class="quote fr" lang="fr">« Les avis Google s'accumulent sans réponse. On ne sait même pas combien de succursales ont des messages en attente. »</p>
+        <p class="quote en" lang="en">"Google reviews pile up unanswered. We don't even know how many locations have pending messages."</p>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<section id="comment" class="section alt">
+  <div class="wrap">
+    <h2><span class="fr" lang="fr">Comment ça marche</span><span class="en" lang="en">How it works</span></h2>
+    <ol class="steps">
+      <li>
+        <span class="step-num">1</span>
+        <div>
+          <p class="fr" lang="fr"><strong>Le siège social configure une fois</strong> : voix de marque, mots interdits, règles d'approbation.</p>
+          <p class="en" lang="en"><strong>Head office sets up once</strong>: brand voice, banned words, approval rules.</p>
+        </div>
+      </li>
+      <li>
+        <span class="step-num">2</span>
+        <div>
+          <p class="fr" lang="fr"><strong>Kairos rédige des publications locales</strong>, en français d'abord : heures, événements et promotions propres à chaque succursale.</p>
+          <p class="en" lang="en"><strong>Kairos drafts local posts</strong>, French first: each location's own hours, events and promotions.</p>
+        </div>
+      </li>
+      <li>
+        <span class="step-num">3</span>
+        <div>
+          <p class="fr" lang="fr"><strong>L'approbation se fait au central, en local, ou les deux</strong>, puis Kairos publie sur les pages Google et réseaux sociaux de vos succursales pendant le projet pilote, et répond aux avis et messages selon vos règles.</p>
+          <p class="en" lang="en"><strong>Approval happens centrally, locally, or both</strong>, then Kairos publishes to your locations' Google and social pages during the pilot, and handles reviews and messages according to your rules.</p>
+        </div>
+      </li>
+    </ol>
+  </div>
+</section>
+
+<section id="boucle" class="section">
+  <div class="wrap">
+    <h2><span class="fr" lang="fr">Un modèle, chaque succursale</span><span class="en" lang="en">One template, every location</span></h2>
+    <p class="loop-lede">
+      <span class="fr" lang="fr">Le siège social envoie, chaque succursale reçoit sa version, le gérant approuve, ça publie.</span>
+      <span class="en" lang="en">Head office sends, each location gets its own version, a manager approves, it goes live.</span>
+    </p>
+    <figure class="loop" id="loopFigure">
+      <svg class="loop-svg" id="loopSvg" viewBox="0 0 760 300" aria-hidden="true" focusable="false">
+        <rect class="map-bg" x="360" y="14" width="380" height="272" rx="18"></rect>
+
+        <path class="beam beam1" pathLength="100" d="M170,195 Q300,150 420,95"></path>
+        <path class="beam beam2" pathLength="100" d="M170,195 Q390,110 560,85"></path>
+        <path class="beam beam3" pathLength="100" d="M170,195 Q330,225 500,238"></path>
+        <path class="beam beam4" pathLength="100" d="M170,195 Q450,230 650,198"></path>
+
+        <g class="office">
+          <rect class="office-card" x="20" y="150" width="150" height="92" rx="12"></rect>
+          <rect class="tmpl-chip" x="40" y="172" width="60" height="10" rx="3"></rect>
+          <rect class="office-line" x="40" y="188" width="90" height="8" rx="3"></rect>
+          <rect class="office-line" x="40" y="202" width="70" height="8" rx="3"></rect>
+          <text class="office-label fr" lang="fr" x="95" y="228" text-anchor="middle">Siège social</text>
+          <text class="office-label en" lang="en" x="95" y="228" text-anchor="middle">Head office</text>
+        </g>
+
+        <g class="check-badge" transform="translate(172,146)">
+          <circle class="check-circle" r="16"></circle>
+          <path class="check-mark" d="M-7,0 L-2,6 L8,-7"></path>
+        </g>
+
+        <g transform="translate(420,96)">
+          <path class="pin pin1" d="M0 -26 C8 -26 14 -19 14 -12 C14 -3 0 8 0 8 C0 8 -14 -3 -14 -12 C-14 -19 -8 -26 0 -26 Z"></path>
+          <circle class="pin-dot" cx="0" cy="-13" r="5"></circle>
+          <circle class="ring ring1" cx="0" cy="-13" r="10"></circle>
+        </g>
+        <g transform="translate(560,86)">
+          <path class="pin pin2" d="M0 -26 C8 -26 14 -19 14 -12 C14 -3 0 8 0 8 C0 8 -14 -3 -14 -12 C-14 -19 -8 -26 0 -26 Z"></path>
+          <circle class="pin-dot" cx="0" cy="-13" r="5"></circle>
+          <circle class="ring ring2" cx="0" cy="-13" r="10"></circle>
+        </g>
+        <g transform="translate(500,238)">
+          <path class="pin pin3" d="M0 -26 C8 -26 14 -19 14 -12 C14 -3 0 8 0 8 C0 8 -14 -3 -14 -12 C-14 -19 -8 -26 0 -26 Z"></path>
+          <circle class="pin-dot" cx="0" cy="-13" r="5"></circle>
+          <circle class="ring ring3" cx="0" cy="-13" r="10"></circle>
+        </g>
+        <g transform="translate(650,198)">
+          <path class="pin pin4" d="M0 -26 C8 -26 14 -19 14 -12 C14 -3 0 8 0 8 C0 8 -14 -3 -14 -12 C-14 -19 -8 -26 0 -26 Z"></path>
+          <circle class="pin-dot" cx="0" cy="-13" r="5"></circle>
+          <circle class="ring ring4" cx="0" cy="-13" r="10"></circle>
+        </g>
+
+        <g class="tag" transform="translate(500,270)">
+          <rect class="tag-bg" x="-62" y="-14" width="124" height="27" rx="13"></rect>
+          <text class="tag-text fr" lang="fr" x="0" y="4" text-anchor="middle">Pour le gérant</text>
+          <text class="tag-text en" lang="en" x="0" y="4" text-anchor="middle">For the manager</text>
+        </g>
+      </svg>
+      <figcaption>
+        <span class="fr" lang="fr">Le siège social envoie un modèle de marque. Chaque succursale reçoit sa version locale. Le gérant approuve. Les publications s'activent partout sur la carte. Un avis client est marqué « Pour le gérant ».</span>
+        <span class="en" lang="en">Head office sends one brand template. Each location gets its own local version. A manager approves. Posts go live across the map. One customer review gets tagged "For the manager."</span>
+      </figcaption>
+    </figure>
+  </div>
+</section>
+
+<section id="controle" class="section alt">
+  <div class="wrap">
+    <h2><span class="fr" lang="fr">Vous gardez le contrôle</span><span class="en" lang="en">You stay in control</span></h2>
+    <div class="control-grid">
+      <div class="control-card">
+        <span class="control-num">01</span>
+        <h3><span class="fr" lang="fr">Voix de marque</span><span class="en" lang="en">Brand voice</span></h3>
+        <p class="fr" lang="fr">Une seule voix de marque, définie une fois par le siège social, appliquée à toutes les succursales.</p>
+        <p class="en" lang="en">One brand voice, set once by head office, applied to every location.</p>
+      </div>
+      <div class="control-card">
+        <span class="control-num">02</span>
+        <h3><span class="fr" lang="fr">Mots interdits</span><span class="en" lang="en">Banned words</span></h3>
+        <p class="fr" lang="fr">Une liste de mots et de sujets interdits bloque toute publication qui ne respecte pas vos règles.</p>
+        <p class="en" lang="en">A list of banned words and topics blocks any post that does not follow your rules.</p>
+      </div>
+      <div class="control-card">
+        <span class="control-num">03</span>
+        <h3><span class="fr" lang="fr">Chaîne d'approbation</span><span class="en" lang="en">Approval chain</span></h3>
+        <p class="fr" lang="fr">Centrale, locale, ou les deux, selon le type de publication et la succursale.</p>
+        <p class="en" lang="en">Central, local, or both, depending on the post type and the location.</p>
+      </div>
+      <div class="control-card">
+        <span class="control-num">04</span>
+        <h3><span class="fr" lang="fr">Pause par succursale</span><span class="en" lang="en">Pause per location</span></h3>
+        <p class="fr" lang="fr">N'importe quelle succursale peut être mise en pause individuellement, sans affecter les autres.</p>
+        <p class="en" lang="en">Any single location can be paused on its own, without affecting the others.</p>
+      </div>
+      <div class="control-card">
+        <span class="control-num">05</span>
+        <h3><span class="fr" lang="fr">Registre d'audit</span><span class="en" lang="en">Audit log</span></h3>
+        <p class="fr" lang="fr">Chaque publication, chaque approbation et chaque réponse est enregistrée et consultable.</p>
+        <p class="en" lang="en">Every post, every approval and every reply is logged and reviewable.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="pilote" class="section">
+  <div class="wrap">
+    <h2><span class="fr" lang="fr">Le projet pilote, en six semaines</span><span class="en" lang="en">The pilot, in six weeks</span></h2>
+    <p class="pilot-lede">
+      <span class="fr" lang="fr">Un projet pilote de six semaines, avec cinq à dix succursales de votre réseau.</span>
+      <span class="en" lang="en">A six-week pilot, with five to ten locations from your network.</span>
+    </p>
+    <ol class="timeline">
+      <li>
+        <span class="wk fr" lang="fr">Semaine 1</span><span class="wk en" lang="en">Week 1</span>
+        <p class="fr" lang="fr">Configuration de la voix de marque, des mots interdits et des règles d'approbation. Sélection des succursales pilotes.</p>
+        <p class="en" lang="en">Set up brand voice, banned words and approval rules. Select the pilot locations.</p>
+      </li>
+      <li>
+        <span class="wk fr" lang="fr">Semaine 2</span><span class="wk en" lang="en">Week 2</span>
+        <p class="fr" lang="fr">Kairos commence à rédiger des publications locales. Premières approbations.</p>
+        <p class="en" lang="en">Kairos starts drafting local posts. First approvals.</p>
+      </li>
+      <li>
+        <span class="wk fr" lang="fr">Semaines 3 à 4</span><span class="wk en" lang="en">Weeks 3 to 4</span>
+        <p class="fr" lang="fr">Publication active selon le calendrier de chaque succursale. Tri des avis et des messages en cours.</p>
+        <p class="en" lang="en">Active posting on each location's own schedule. Reviews and messages being sorted.</p>
+      </li>
+      <li>
+        <span class="wk fr" lang="fr">Semaine 5</span><span class="wk en" lang="en">Week 5</span>
+        <p class="fr" lang="fr">Ajustement des sujets qui fonctionnent le mieux, succursale par succursale.</p>
+        <p class="en" lang="en">Adjusting which topics work best, location by location.</p>
+      </li>
+      <li>
+        <span class="wk fr" lang="fr">Semaine 6</span><span class="wk en" lang="en">Week 6</span>
+        <p class="fr" lang="fr">Bilan avec le siège social : ce qui a été publié, ce qui a été mesuré, décision sur l'élargissement.</p>
+        <p class="en" lang="en">Review with head office: what was posted, what was measured, decision on expanding.</p>
+      </li>
+    </ol>
+    <div class="measure">
+      <h3><span class="fr" lang="fr">Ce qui est mesuré</span><span class="en" lang="en">What we measure</span></h3>
+      <ul class="fr" lang="fr">
+        <li>Proportion des succursales pilotes qui publient chaque semaine</li>
+        <li>Délai de réponse aux avis et aux messages</li>
+        <li>Délai d'approbation, du brouillon à la publication</li>
+        <li>Nombre de brouillons approuvés contre rejetés</li>
+      </ul>
+      <ul class="en" lang="en">
+        <li>Share of pilot locations posting every week</li>
+        <li>Response time to reviews and messages</li>
+        <li>Approval turnaround, from draft to published post</li>
+        <li>Number of drafts approved versus rejected</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="faq" class="section alt">
+  <div class="wrap">
+    <h2><span class="fr" lang="fr">Questions fréquentes</span><span class="en" lang="en">Frequently asked questions</span></h2>
+    <div class="faq">
+      <details>
+        <summary><span class="fr" lang="fr">Est-ce que ça respecte le français en premier et les obligations légales?</span><span class="en" lang="en">Does this respect French-first rules and legal obligations?</span></summary>
+        <p class="fr" lang="fr">Kairos rédige en français d'abord pour le Québec. Votre organisation reste responsable de ses propres obligations de publicité commerciale en vertu de la Charte de la langue française.<span class="verify">à vérifier</span></p>
+        <p class="en" lang="en">Kairos drafts in French first for Quebec. Your organization remains responsible for its own commercial publicity obligations under the Charter of the French language.<span class="verify">verify</span></p>
+      </details>
+      <details>
+        <summary><span class="fr" lang="fr">Comment Kairos publie-t-il sur les pages de chaque succursale?</span><span class="en" lang="en">How does Kairos publish to each location's pages?</span></summary>
+        <p class="fr" lang="fr">Kairos publie sur les pages Google et réseaux sociaux de vos succursales pendant le projet pilote.</p>
+        <p class="en" lang="en">Kairos publishes to your locations' Google and social pages during the pilot.</p>
+      </details>
+      <details>
+        <summary><span class="fr" lang="fr">Qui approuve les publications, le siège social ou les gérants locaux?</span><span class="en" lang="en">Who approves posts, head office or local managers?</span></summary>
+        <p class="fr" lang="fr">Vous choisissez. L'approbation peut être centrale, locale, ou les deux, selon le type de publication.</p>
+        <p class="en" lang="en">You choose. Approval can be central, local, or both, depending on the type of post.</p>
+      </details>
+      <details>
+        <summary><span class="fr" lang="fr">Est-ce que les réponses aux avis et aux messages sont automatiques?</span><span class="en" lang="en">Are replies to reviews and messages automatic?</span></summary>
+        <p class="fr" lang="fr">Les réponses de routine peuvent partir automatiquement, seulement pour les catégories que vous autorisez. Tout le reste va toujours à une personne.</p>
+        <p class="en" lang="en">Routine replies can go out automatically, only for the categories you allow. Everything else always goes to a person.</p>
+      </details>
+      <details>
+        <summary><span class="fr" lang="fr">Combien de succursales dans le projet pilote, et après?</span><span class="en" lang="en">How many locations are in the pilot, and after?</span></summary>
+        <p class="fr" lang="fr">Le pilote couvre cinq à dix succursales sur six semaines. L'élargissement au reste du réseau se décide avec le siège social à la fin du pilote.</p>
+        <p class="en" lang="en">The pilot covers five to ten locations over six weeks. Expanding to the rest of the network is decided with head office at the end of the pilot.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+<section id="cta-final" class="section">
+  <div class="wrap">
+    <h2><span class="fr" lang="fr">Prêt à essayer avec cinq à dix succursales?</span><span class="en" lang="en">Ready to try it with five to ten locations?</span></h2>
+    <p class="pilot-tag"><span class="fr" lang="fr">Programme pilote. Places limitées.</span><span class="en" lang="en">Pilot program. Limited spots.</span></p>
+    <div class="cta-row">
+      <a class="btn fr" lang="fr" href="mailto:ml@pharos-ai.ca?subject=Kairos%20R%C3%A9seau%20%3A%20appel%20pilote%20de%2020%20minutes">Réserver un appel de 20 minutes</a>
+      <a class="btn en" lang="en" href="mailto:ml@pharos-ai.ca?subject=Kairos%20Network%20-%2020-minute%20pilot%20call">Book a 20-minute call</a>
+    </div>
+  </div>
+</section>
+
+<footer class="foot">
+  <div class="wrap">
+    <span class="wordmark">KAIROS RÉSEAU</span>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var root = document.documentElement;
+  var toggle = document.getElementById('langToggle');
+  if (toggle) {
+    toggle.addEventListener('click', function(){
+      var isEn = root.getAttribute('data-lang') === 'en';
+      if (isEn) {
+        root.setAttribute('data-lang', 'fr');
+        root.setAttribute('lang', 'fr');
+      } else {
+        root.setAttribute('data-lang', 'en');
+        root.setAttribute('lang', 'en');
+      }
+    });
+  }
+  var loopEl = document.getElementById('loopFigure');
+  if (loopEl) {
+    if ('IntersectionObserver' in window) {
+      var obs = new IntersectionObserver(function(entries){
+        entries.forEach(function(entry){
+          if (entry.isIntersecting) {
+            loopEl.classList.add('play');
+            obs.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.35 });
+      obs.observe(loopEl);
+    } else {
+      loopEl.classList.add('play');
+    }
+  }
+})();
+</script>
+</body>
+</html>
