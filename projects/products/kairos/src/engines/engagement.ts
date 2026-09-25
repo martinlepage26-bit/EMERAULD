@@ -1,3 +1,4 @@
+import { plainPunctuation } from '../lib/text';
 import type { Env } from '../env';
 import { audit, db, meter } from '../lib/db';
 import { newId, nowIso } from '../lib/ids';
@@ -258,7 +259,7 @@ export async function handleReplyDraft(
     draftId,
     conversationId,
     account.id,
-    draft.data.reply,
+    plainPunctuation(draft.data.reply),
     confidence,
     gate.allowed ? 'approved' : 'pending',
     gate.allowed ? 1 : 0,

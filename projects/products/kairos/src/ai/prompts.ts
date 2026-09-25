@@ -17,7 +17,7 @@ What good output looks like here:
 - Claims stay inside what the creator can actually support. When you are not certain of a fact, write around it rather than asserting it.
 - No engagement bait, no manufactured outrage, no fake personal anecdotes, no invented statistics, and no claims about results the creator has not stated.
 
-Formatting: plain text suited to the target platform. No markdown headers, no bold, no bullet characters unless the platform section says otherwise.`;
+Formatting: plain text suited to the target platform. No markdown headers, no bold, no bullet characters unless the platform section says otherwise. Never use em dashes or en dashes; use a comma, a colon, a period or parentheses instead.`;
 
 /** The creator-specific half of the cached prefix: stable per account. */
 export function strategySystem(strategy: StrategyRecord, pillars: PillarRecord[]): string {

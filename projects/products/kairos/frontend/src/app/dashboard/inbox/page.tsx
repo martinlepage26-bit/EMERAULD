@@ -16,6 +16,7 @@ interface Conversation {
   platform: string;
   latest_message: string | null;
   pending_draft_id: string | null;
+  pending_draft_body: string | null;
 }
 
 const PRIORITY_LABEL: Record<number, { label: string; className: string }> = {
@@ -97,6 +98,13 @@ export default function InboxPage() {
                 )}
 
                 {conv.pending_draft_id ? (
+                  <>
+                  {conv.pending_draft_body && (
+                    <div className="mb-4 border-l-2 border-gray-300 pl-4">
+                      <div className="text-xs font-medium text-gray-400 mb-1">Suggested reply</div>
+                      <p className="text-gray-900 whitespace-pre-wrap">{conv.pending_draft_body}</p>
+                    </div>
+                  )}
                   <div className="flex gap-3">
                     <button
                       disabled={acting === conv.pending_draft_id}
@@ -113,6 +121,7 @@ export default function InboxPage() {
                       Discard draft
                     </button>
                   </div>
+                  </>
                 ) : (
                   <p className="text-xs text-gray-400 capitalize">{conv.status}</p>
                 )}

@@ -2,6 +2,7 @@ import type { Env } from '../env';
 import { audit, db, meter } from '../lib/db';
 import { newId, nowIso } from '../lib/ids';
 import { canGenerate, controlsFor } from '../lib/governance';
+import { plainPunctuation } from '../lib/text';
 import type { ChannelRecord, PillarRecord, SlotRecord } from '../lib/types';
 import { DRAFT_SCHEMA, draftPrompt, strategySystem } from '../ai/prompts';
 import { generateJson, loadCreator, recordUsage, OPERATOR_SYSTEM_REF } from './shared';
@@ -148,8 +149,8 @@ export async function handleContentDraft(
       channel.id,
       pillar.id,
       index,
-      variant.hook.slice(0, 300),
-      variant.body,
+      plainPunctuation(variant.hook).slice(0, 300),
+      plainPunctuation(variant.body),
       autoApprove ? 'approved' : 'draft',
       autoApprove ? now : null,
       autoApprove ? 'autopilot' : null,

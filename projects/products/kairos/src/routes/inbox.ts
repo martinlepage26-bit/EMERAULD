@@ -30,7 +30,9 @@ inbox.get('/v1/inbox', async (c) => {
             (SELECT body FROM messages m WHERE m.conversation_id = cv.id AND m.direction = 'inbound'
               ORDER BY m.created_at DESC LIMIT 1) AS latest_message,
             (SELECT id FROM reply_drafts d WHERE d.conversation_id = cv.id AND d.status = 'pending'
-              ORDER BY d.created_at DESC LIMIT 1) AS pending_draft_id
+              ORDER BY d.created_at DESC LIMIT 1) AS pending_draft_id,
+            (SELECT body FROM reply_drafts d WHERE d.conversation_id = cv.id AND d.status = 'pending'
+              ORDER BY d.created_at DESC LIMIT 1) AS pending_draft_body
        FROM conversations cv
        JOIN channels ch ON ch.id = cv.channel_id
       WHERE cv.account_id = ?
